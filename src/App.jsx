@@ -3,6 +3,8 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
+import racineData from './data/racine';
+import rimbaudData from './data/rimbaud';
 import verlaineData from './data/verlaine';
 import lecontelisleData from './data/lecontelisle';
 import rodenbachData from './data/rodenbach';
@@ -143,6 +145,8 @@ export default function App() {
       ...lecontelisleData,
       ...rodenbachData,
       ...vanlerbergheData,
+      ...racineData,
+      ...rimbaudData,
       ...poeData,
       ...wildeData,
       ...swinburneData,
@@ -171,14 +175,16 @@ export default function App() {
 
   const categories = {
     all:                        { name: 'すべて' },
-    baudelaire:                 { name: 'ボードレール' },
-    baudelaire_critique:        { name: 'ボードレール批評' },
+    racine:                     { name: 'ラシーヌ' },
     mallarme:                   { name: 'マラルメ' },
     mallarme_critique:          { name: 'マラルメ批評' },
+    baudelaire:                 { name: 'ボードレール' },
+    baudelaire_critique:        { name: 'ボードレール批評' },
     valery:                     { name: 'ヴァレリー' },
     valery_critique:            { name: 'ヴァレリー批評' },
     verlaine:                   { name: 'ヴェルレーヌ' },
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
+    rimbaud:                    { name: 'ランボー' },
     gautier:                    { name: 'ゴーティエ' },
     valmore:                    { name: 'ヴァルモール' },
     leconte_de_lisle:           { name: 'ルコント・ド・リール' },
@@ -666,14 +672,16 @@ export default function App() {
 
     // カテゴリーラベルの短縮表示用マップ
   const catShort = {
-    baudelaire:              'ボードレール',
-    baudelaire_critique:     'ボードレール批評',
+    racine:                  'ラシーヌ',
     mallarme:                'マラルメ',
     mallarme_critique:       'マラルメ批評',
+    baudelaire:              'ボードレール',
+    baudelaire_critique:     'ボードレール批評',
     valery:                  'ヴァレリー',
     valery_critique:         'ヴァレリー批評',
     verlaine:                'ヴェルレーヌ',
     verlaine_critique:       'ヴェルレーヌ批評',
+    rimbaud:                 'ランボー',
     gautier:                 'ゴーティエ',
     valmore:                 'ヴァルモール',
     leconte_de_lisle:        'ルコント・ド・リール',
@@ -690,6 +698,7 @@ export default function App() {
   };
 
   const authorColor = (cat) => {
+    if (cat?.startsWith('racine'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('baudelaire'))   return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
@@ -697,6 +706,7 @@ export default function App() {
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-stone-900/40 text-stone-300': 'bg-stone-100 text-stone-800';
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-1000/40 text-red-400' : 'bg-red-200 text-red-900';
