@@ -1,0 +1,97 @@
+{
+  "id": "rimbaud_saison_matin",
+  "title": "Une saison en enfer — Matin",
+  "author": "Arthur Rimbaud",
+  "source": "Une saison en enfer, Alliance Typographique (M.-J. Poot et Compagnie), Bruxelles, 1873. テキスト底本：François Bon による1873年初版原典数値化版",
+  "year": "1873",
+  "firstPublication": "Une saison en enfer, Bruxelles, 1873年10月",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「地獄のある季節」第9章（「Adieu」の前章）。「L'Éclair」の「いや！いや！死に対して反乱を起こす！」という叫びの直後に置かれる。タイトル「Matin（朝）」は詩集全体の「地獄（夜）」との対照を示す——しかし「朝」は到達でなく問いとして提示される。「N'eus-je pas une fois une jeunesse aimable（一度だけ、ある愛すべき若さがあったのではなかったか）」という過去への問いかけから始まり、「今日、私は地獄の物語を終えたと信じる」という現在の宣言を経て、「いつ私たちは……新しい労働の誕生を祝いに行くのか」という未来への問いで閉じる。時制の三段的移動（過去→現在→未来）が「朝」という転換点の構造を形成する。散文2節のみの最短章。",
+  "keywords": [
+    "朝",
+    "若さへの問い",
+    "地獄の終わり",
+    "銀の星",
+    "三博士",
+    "新しい労働",
+    "奴隷",
+    "時制の転換",
+    "最短章",
+    "「Adieu」への準備"
+  ],
+  "relatedTexts": [
+    "rimbaud_saison_l_eclair",
+    "rimbaud_saison_prologue",
+    "rimbaud_le_bateau_ivre",
+    "hoelderlin_brot_und_wein",
+    "baudelaire_elevation",
+    "mallarme_lazur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "N'eus-je pas une fois une jeunesse aimable, héroïque, fabuleuse, à écrire sur des feuilles d'or, — trop de chance ! Par quel crime, par quelle erreur, ai-je mérité ma faiblesse actuelle ? Vous qui prétendez que des bêtes poussent des sanglots de chagrin, que des malades désespèrent, que des morts rêvent mal, tâchez de raconter ma chute et mon sommeil. Moi, je ne puis pas plus m'expliquer que le mendiant avec ses continuels Pater et Ave Maria. Je ne sais plus parler !",
+      "provisionalTranslation": "一度だけ、ある愛すべき、英雄的な、寓話的な若さがあったのではなかったか、金の葉に書くべき——あまりにも幸運だった！どんな罪によって、どんな過ちによって、私は現在の弱さに値したのか？動物が悲嘆の嗚咽を漏らし、病人が絶望し、死者が悪夢を見ると主張するあなた方よ、私の転落と眠りを語ってみよ。私は、絶え間ない主の祈りとアヴェ・マリアを唱える乞食以上に自分を説明できない。もう話すことができない！"
+    },
+    {
+      "id": 2,
+      "originalText": "Pourtant, aujourd'hui, je crois avoir fini la relation de mon enfer. C'était bien l'enfer ; l'ancien, celui dont le fils de l'homme ouvrit les portes.\nDu même désert, à la même nuit, toujours mes yeux las se réveillent à l'étoile d'argent, toujours, sans que s'émeuvent les Rois de la vie, les trois mages, le cœur, l'âme, l'esprit. Quand irons-nous, par-delà les grèves et les monts, saluer la naissance du travail nouveau, la sagesse nouvelle, la fuite des tyrans et des démons, la fin de la superstition, adorer — les premiers ! — Noël sur la terre !\nLe chant des cieux, la marche des peuples ! Esclaves, ne maudissons pas la vie.",
+      "provisionalTranslation": "しかし今日、私は自分の地獄の物語を終えたと信じる。それは確かに地獄だった。古い地獄、人の子がその扉を開いたあの地獄だ。\n同じ砂漠から、同じ夜に、いつも私の疲れた目は銀の星へと目覚める、いつも、生の王たち——三博士、心、魂、精神——が動かないまま。いつ私たちは、砂浜と山を越えて、新しい労働の誕生を、新しい知恵を、暴君と悪魔の逃走を、迷信の終わりを祝いに行くのか、——一番乗りで！——地上のノエルを崇めに行くのか！\n天の歌、民族の行進！奴隷よ、人生を呪うな。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "「地獄のある季節」全9章中、最短の章（「L'Éclair」とならぶ）——散文2節のみ。この短さが詩学的に機能する：「L'Impossible」「L'Éclair」という長い哲学的闘争の後に、「Matin」はわずか2節で「転換」を遂行する。第1節は問い（N'eus-je pas…？ Par quel crime…？）の連続、第2節は宣言（je crois avoir fini）と新たな問い（Quand irons-nous…？）の組み合わせという構造。「Matin」の最後の一文「Esclaves, ne maudissons pas la vie（奴隷よ、人生を呪うな）」は旧約詩篇・新約書簡体の短い命令形の文体に近く、「Adieu」章の「Il faut être absolument moderne（絶対的に現代的でなければならない）」という命令形への助走として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "N'eus-je pas une fois une jeunesse aimable, héroïque, fabuleuse, à écrire sur des feuilles d'or, — trop de chance !",
+      "body": "「一度だけ、ある愛すべき、英雄的な、寓話的な若さがあったのではなかったか、金の葉に書くべき」——「N'eus-je pas（…なかったか）」という反語的過去形の問いが章全体の語調を設定する。「une fois（一度だけ）」という副詞が過去の例外性・不可回収性を強調する。「愛すべき・英雄的・寓話的（aimable, héroïque, fabuleuse）」という三つの形容詞の連鎖——「Bateau ivre」の「Je sais / J'ai vu」という知覚の目録と同様、過去の豊かさの残像が列挙される。「金の葉に書くべき（à écrire sur des feuilles d'or）」——詩的理想の最高形式への参照であると同時に、その理想が「手が届かなかった（trop de chance！）」という皮肉を含む。プロローグの「美（la Beauté）を膝に座らせ苦いと感じた」という冒頭と対称的——プロローグが「理想の否定から始まる」のに対し、「Matin」は「理想の喪失への問い（なぜ失ったか）から始まる」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Moi, je ne puis pas plus m'expliquer que le mendiant avec ses continuels Pater et Ave Maria. Je ne sais plus parler !",
+      "body": "「私は、絶え間ない主の祈りとアヴェ・マリアを唱える乞食以上に自分を説明できない」——「Je ne sais plus parler（もう話すことができない）！」という最後の一文が第1節の頂点。「語れない」という宣言が逆説的に雄弁——「もう話せない」と言うことは明らかに話すことである。プロローグの「呪われた者のノートの醜いページをあなたに捧げる」という詩集の自己規定への回帰：詩集全体が「説明できない者の不完全な記録」として最初から定義されていた。「乞食の祈り（Pater et Ave Maria）」との比較——自分の語りを機械的に繰り返されるカトリックの祈祷と同一視することで、詩的言語（個人的・独創的）と宗教的言語（定型的・集合的）の境界を消去する。「Bateau ivre」の「J'ai vu / Je sais」という知覚の豊かさからの完全な反転——視る詩人から語れない者への転落。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "C'était bien l'enfer ; l'ancien, celui dont le fils de l'homme ouvrit les portes.",
+      "body": "「それは確かに地獄だった。古い地獄、人の子がその扉を開いたあの地獄だ」——「l'ancien（古い）」という形容詞が決定的。「人の子（le fils de l'homme）」はキリストの自称——キリスト教伝統では死後に地獄に降りて（Descente aux Enfers）魂たちを解放したとされる。「古い地獄の扉を開いたキリスト」という典拠は詩集タイトルの最終的な定義を提供する：これはキリスト以前の「古い地獄」の再体験であり、現代の詩人はキリストなしに自力で地獄から出ようとしている——しかし「Matin」の時点では語り手はまだ出口を見つけていない（次章「Adieu」で初めて方向性が示される）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "sans que s'émeuvent les Rois de la vie, les trois mages, le cœur, l'âme, l'esprit.",
+      "body": "「生の王たち——三博士、心、魂、精神（les trois mages, le cœur, l'âme, l'esprit）」——ダッシュによる注釈的等置が「三博士（les trois mages）」を「心・魂・精神」という三項として再定義する。東方の三博士（マタイ2章）は幼子キリストを見つけるために星に導かれた——「Matin」の語り手もまた「銀の星（l'étoile d'argent）へと目覚める」が、三博士は「動かない（sans que s'émeuvent）」。つまり「心・魂・精神」の三つが動かないままである限り、星への到達は起きない。「Adieu」の「posséder la vérité dans une âme et un corps（魂と身体の中で真実を持つ）」という結びへの準備として、「âme（魂）」がここで未動の状態に置かれる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quand irons-nous, par-delà les grèves et les monts, saluer la naissance du travail nouveau, la sagesse nouvelle, la fuite des tyrans et des démons, la fin de la superstition, adorer — les premiers ! — Noël sur la terre !",
+      "body": "「いつ私たちは……新しい労働の誕生を……地上のノエルを崇めに行くのか」——詩集全体で最も「未来志向」の一文。「L'Éclair」の「労働（le travail humain）」が「時おり深淵を照らす爆発」として非連続的に提示されたのに対し、「Matin」では「新しい労働（le travail nouveau）」が未来の祝祭として——しかし「Quand（いつ）」という問いのままで——提示される。「Noël sur la terre（地上のノエル）」——キリストの誕生（ノエル）が「天上の救済」でなく「地上の再生」として未来に構想される。「les premiers（一番乗りで）！」という挿入句が若さの情熱（プロローグの「祝宴」）の残像。ヘルダーリン「パンと葡萄酒」第9連の「しかしともかく、友よ、遅れすぎないうちに来たれ」という呼びかけとの詩学的共鳴——両者とも「神々の不在の時代」に未来の到来を問いの形で宣言する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Esclaves, ne maudissons pas la vie.",
+      "body": "章の最終文——「奴隷よ、人生を呪うな（Esclaves, ne maudissons pas la vie）」。「ne maudissons」は一人称複数命令形——語り手が自分自身を「奴隷」と呼んで「私たちは呪うな」と命じる読みが文脈上自然。「maudissons（呪う）」という動詞はボードレール「呪われた詩人（poètes maudits）」系列の核心語——「呪われた者」が「呪うな」と自分に命じる逆説が章の締めを形成する。「Adieu」の「Il faut être absolument moderne（絶対的に現代的でなければならない）」と同型の命令形——どちらも語り手が自分自身に向ける声として機能する。プロローグの「Ô sorcières, ô misère, ô haine（魔女よ、惨めさよ、憎しみよ）」という外部への呼びかけから、「Esclaves, ne maudissons pas（奴隷よ、呪うな）」という内部への命令への転換が詩集全体の弧線を完成させる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメ「青空（L'Azur）」との詩学的対話：マラルメの詩では詩人が「青空（L'Azur！L'Azur！）」の視線から逃れられない——「青空が蒼い勝利を取る！」という結びで空が詩人を支配する。ランボーの「Matin」では「銀の星（l'étoile d'argent）」が「疲れた目（mes yeux las）」を目覚めさせるが、「三博士（心・魂・精神）は動かない」——星が道を示すが、到達できない。どちらも「理想・絶対への到達不可能性」を主題とするが、マラルメが「支配される詩人」として、ランボーが「到達できない問い（Quand irons-nous…？）」として定式化する。ヘルダーリン「パンと葡萄酒（Brot und Wein）」との接続：どちらも「神々（あるいはキリスト）が去った後の夜から朝への移行」を主題とし、未来の「祭り（Noël / Fest）」を問いの形で宣言する——ランボーがヘルダーリンを読んでいない可能性が高いにもかかわらず、詩的命題の同型性が際立つ。",
+      "targetId": "mallarme_lazur",
+      "targetParagraphId": null
+    }
+  ]
+}
