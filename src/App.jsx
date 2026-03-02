@@ -8,6 +8,7 @@ import lecontelisleData from './data/lecontelisle';
 import rodenbachData from './data/rodenbach';
 import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
+import poeData from './data/poe';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
 import yeatsData from './data/yeats';
@@ -182,6 +183,7 @@ export default function App() {
     leconte_de_lisle:           { name: 'ルコント・ド・リール' },
     rodenbach:                  { name: 'ローデンバック' },
     vanlerberghe:               { name: 'ヴァン・レルベルグ' },
+    poe:                        { name: 'ポー' },
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     yeats:                      { name: 'イェイツ' },
@@ -676,6 +678,7 @@ export default function App() {
     leconte_de_lisle:        'ルコント・ド・リール',
     rodenbach:               'ローデンバック',
     vanlerberghe:            'ヴァン・レルベルグ',
+    poe:                     'ポー',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     yeats:                   'イェイツ',
@@ -695,6 +698,7 @@ export default function App() {
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
+    if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-1000/40 text-red-400' : 'bg-red-200 text-red-900';
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('yeats'))        return darkMode ? 'bg-slate-900/40 text-slate-300' : 'bg-slate-100 text-slate-800';
