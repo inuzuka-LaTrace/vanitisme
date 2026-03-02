@@ -1,0 +1,112 @@
+{
+  "id": "rimbaud_saison_prologue",
+  "title": "Une saison en enfer — Jadis, si je me souviens bien…",
+  "author": "Arthur Rimbaud",
+  "source": "Une saison en enfer, Alliance Typographique (M.-J. Poot et Compagnie), Bruxelles, 1873, pp. 1–4. テキスト底本：François Bon による1873年初版原典数値化版（graphie・句読点・アクサンは原版に従う）",
+  "year": "1873",
+  "firstPublication": "Une saison en enfer, Bruxelles, 1873年10月（ランボー19歳、自費出版）",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ランボーが1873年4月〜8月に書き、同年10月にブリュッセルで自費出版した唯一の著作（存命中に出版した完成作品として）。9章からなる散文詩集のプロローグ──タイトルなし、冒頭語「Jadis, si je me souviens bien…」で始まる。楽園（祝宴・美・心）の喪失から地獄的な行為の連鎖、「最後のクアック（le dernier couac）」という死の縁、「古い祝宴の鍵＝慈愛（la charité）」という転回、そして「 mon cher Satan（愛するサタン）」への呼びかけによる呪いの宣言へ──全篇がこの5ページに圧縮されている。1873年7月10日のブリュッセルでのヴェルレーヌとの拳銃事件（ランボーの手首を負傷）の直後に完成。ランボーは刊行後まもなく詩を断念し、1891年マルセイユで片足切断手術の後に死去するまで二度と文学作品を書かなかった。",
+  "keywords": [
+    "プロローグ",
+    "美の否定",
+    "地獄的行為",
+    "慈愛という鍵",
+    "cher Satan",
+    "couac",
+    "散文詩",
+    "自費出版",
+    "ヴェルレーヌ",
+    "詩の放棄"
+  ],
+  "relatedTexts": [
+    "verlaine_poetes_maudits_mallarme",
+    "baudelaire_spleen",
+    "baudelaire_une_charogne",
+    "mallarme_angoisse",
+    "mallarme_crise_de_vers",
+    "lecontelisle_les_raisons_du_saint_pere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Jadis, si je me souviens bien, ma vie était un festin où s'ouvraient tous les coeurs, où tous les vins coulaient.\nUn soir, j'ai assis la Beauté sur mes genoux. - Et je l'ai trouvée amère. - Et je l'ai injuriée.\nJe me suis armé contre la justice.\nJe me suis enfui.",
+      "provisionalTranslation": "かつて、よく覚えていれば、私の人生はすべての心が開き、すべてのワインが流れる祝宴だった。\nある夜、私は美を膝の上に座らせた。──そして美は苦かった。──そして私は美を罵倒した。\n私は正義に向かって武装した。\n私は逃げた。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ô sorcières, ô misère, ô haine, c'est à vous que mon trésor a été confié!\nJe parvins à faire s'évanouir dans mon esprit toute l'espérance humaine. Sur toute joie pour l'étrangler j'ai fait le bond sourd de la bête féroce.\nJ'ai appelé les bourreaux pour, en périssant, mordre la crosse de leurs fusils. J'ai appelé les fléaux, pour m'étouffer avec le sable, avec le sang. Le malheur a été mon dieu. Je me suis allongé dans la boue. Je me suis séché à l'air du crime. Et j'ai joué de bons tours à la folie.\nEt le printemps m'a apporté l'affreux rire de l'idiot.",
+      "provisionalTranslation": "おお魔女たちよ、おお惨めさよ、おお憎しみよ、私の宝を委ねられたのはお前たちだ！\n私はあらゆる人間的希望を精神の中で消散させることに成功した。すべての喜びの上に、それを窒息させるために、私は猛獣の鈍い跳躍を演じた。\n私は死にながら彼らの銃床を噛むために死刑執行人を呼んだ。私は砂と血で窒息するために疫病を呼んだ。不幸が私の神だった。私は泥の中に横たわった。私は犯罪の空気に乾いた。そして私は狂気にうまい悪ふざけをした。\nそして春が私にもたらしたのは白痴の恐ろしい笑いだった。"
+    },
+    {
+      "id": 3,
+      "originalText": "Or, tout dernièrement, m'étant trouvé sur le point de faire le dernier couac! j'ai songé à rechercher le clef du festin ancien, où je reprendrais peut-être appétit.",
+      "provisionalTranslation": "ところが最近、私は最後のクアックをやらかす寸前のところにいることに気づき、かつての祝宴の鍵を探そうと考えた──そこで再び食欲を取り戻せるかもしれない。"
+    },
+    {
+      "id": 4,
+      "originalText": "La charité est cette clef. - Cette inspiration prouve que j'ai rêvé!",
+      "provisionalTranslation": "慈愛がその鍵だ。──このひらめきは私が夢を見ていたことを証明する！"
+    },
+    {
+      "id": 5,
+      "originalText": "\"Tu resteras hyène, etc....\", se récrie le démon qui me couronna de si aimables pavots. \"Gagne la mort avec tous tes appétits, et ton égoïsme et tous les péchés capitaux.\"\nAh! j'en ai trop pris: - Mais, cher Satan, je vous en conjure, une prunelle moins irritée! et en attendant les quelques petites lâchetés en retard, vous qui aimez dans l'écrivain l'absence des facultés descriptives ou instructives, je vous détache des quelques hideux feuillets de mon carnet de damné.",
+      "provisionalTranslation": "「お前はハイエナのままだ、等々……」とあの悪魔が叫んだ──あの私をかくも優しい罌粟で冠した悪魔が。「すべての食欲と、自己愛と、すべての大罪とともに死を稼げ。」\nああ！私は取りすぎた。──しかし、愛するサタン、お願いします、少しは苛立ちのない瞳を！そして遅れている二、三の小さな臆病ごとを待つ間、作家の中に描写的または教訓的な能力の欠如を愛するあなたに、私は呪われた者のノートから数枚の醜いページを捧げましょう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "散文詩の形式──詩集全体が散文（prose）で書かれているが、リズム・音響・反復構造において詩的な言語を用いる。プロローグは5つの意味的「節（verset）」として構成され、各節が独立した命題を運ぶ──聖書の節（verset biblique）の構造を模倣しながら世俗化する。「Jadis（かつて）→ Un soir（ある夜）→ Or, tout dernièrement（ところが最近）→ La charité（慈愛）→ Ah! j'en ai trop pris（ああ！取りすぎた）」という時制の移動が過去→現在→転回という運動を実現する。アレクサンドランの隠れた痕跡：「Un soir, j'ai assis la Beauté sur mes genoux（12音節）」──散文の中に旧来の詩形が「幽霊」として現れ、すぐに「Et je l'ai trouvée amère」という短句で破壊される。マラルメ「詩語の危機（Crise de vers）」が「散文と詩の境界の解体」を論じたのと同年代（1890年代）ではなく、ランボーはより早い1873年にこの解体を実践した。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Un soir, j'ai assis la Beauté sur mes genoux. - Et je l'ai trouvée amère. - Et je l'ai injuriée.",
+      "body": "「ある夜、私は美を膝の上に座らせた。──そして美は苦かった。──そして私は美を罵倒した」──作品全体の最も有名な一文。「美（la Beauté）」を大文字のアレゴリーとして扱うことで、詩的伝統全体（ゴーティエの「芸術のための芸術」・パルナス派の美的理想・ボードレールの「美」崇拝）への宣戦布告を一行に圧縮する。ダッシュ（—）による三段の句読点的分断が重要：「座らせた（行為）」→「苦かった（発見）」→「罵倒した（反応）」という時間的因果の連鎖を、ダッシュが短絡させる──三段が一瞬に圧縮される。ボードレール「美（La Beauté）」（「Je suis belle, ô mortels! comme un rêve de pierre」）との直接的な対話：ボードレールの「美」が「理解されない崇高な他者」として描かれるのに対し、ランボーはその美を「膝に座らせる」という親密な行為によって引き下ろし、「苦さ」を発見し、「罵倒する」という暴力的な否定に至る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ô sorcières, ô misère, ô haine, c'est à vous que mon trésor a été confié!",
+      "body": "「おお魔女たちよ、おお惨めさよ、おお憎しみよ、私の宝を委ねられたのはお前たちだ！」──感嘆文の三重構造（ô + ô + ô）がキリスト教典礼の三重感嘆（「Ô sacré Cœur / Ô Croix / Ô Marie」）の形式を逆転させる：神聖なものへの呼びかけが悪魔的なものへの呼びかけに変換される。「宝（trésor）」──魂・才能・詩的能力のアレゴリー。「魔女・惨めさ・憎しみ」に宝を「委ねた（confié）」という表現は、ランボーが故意に宝を破壊しようとしたことを示すのか、無意識にそれらに宝が奪われたことを嘆くのかが意図的に曖昧化されている──プロローグ全体の認識論的緊張の核心。「Les Raisons du Saint-Père」（ルコント・ド・リール）の「Mon cher Satan」への呼びかけとの比較：ルコント・ド・リールが教皇の論拠を外部から批判するのに対し、ランボーは自ら「サタン」に語りかける一人称の行為者として存在する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sur toute joie pour l'étrangler j'ai fait le bond sourd de la bête féroce.\nJ'ai appelé les bourreaux pour, en périssant, mordre la crosse de leurs fusils. J'ai appelé les fléaux, pour m'étouffer avec le sable, avec le sang.",
+      "body": "「Je me suis…（私は……した）」「J'ai appelé…（私は……を呼んだ）」という一人称複合過去の反復的連鎖──詩学的注意点として、これらの行為が「実際に行われた行為」の報告なのか、「意志の表明・比喩的行為」なのかは故意に曖昧化されている。「死刑執行人（les bourreaux）を呼ぶ」という行為はヴェルレーヌとの関係（拳銃事件・ヴェルレーヌの逮捕）を参照していると解釈されることがある──ランボーが「死刑執行人の銃床を噛もうとして死刑執行人を呼んだ」という命題は、自己破壊への欲望と他者による暴力への暴露という二重の意味を持つ。「猛獣の鈍い跳躍（le bond sourd de la bête féroce）」という比喩──「sourd（鈍い・聴覚的な鈍さを持つ）」という形容詞が視覚的な跳躍に付されることで、知覚の混合（共感覚的表現）が生まれる。ボードレール「交感（Correspondances）」の感覚の交差と詩学的に連続しながら、目的（自己破壊）において逆転する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "le dernier couac!",
+      "body": "「最後のクアック（le dernier couac）」──「couac」はフランス語の口語・俗語で「音楽の外れた音・失敗した音（楽器や声が出す不快な音）」また「最後の息（dernier soupir の俗語的変形）」。「dernier couac（最後のクアック）＝死」という用法で、「le dernier soupir（最後の息）」の高尚な言い方を口語的・猥雑な表現で置き換える──詩的・宗教的死の言語を日常語によって脱神聖化する。この語彙的選択が散文詩の文体的核心：崇高と卑俗の混合（mélange du sublime et du trivial）。§1の「美（la Beauté）」の大文字のアレゴリーと対照的に、死が最も非詩的な単語で表現される──「美の宮殿」から「最後のクアック」へという語彙の転落がランボーの詩学的プロジェクト全体を要約する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La charité est cette clef. - Cette inspiration prouve que j'ai rêvé!",
+      "body": "「慈愛がその鍵だ。──このひらめきは私が夢を見ていたことを証明する！」──プロローグの最も逆説的な一文。「慈愛（la charité）」はキリスト教最高の徳（コリント書第一13章「今は信仰・希望・愛、この三つが残る。その中で最大のものは愛（charité）だ」）──「古い祝宴の鍵（la clef du festin ancien）」を「慈愛」と発見した次の瞬間に、その発見を「それは夢の証拠（Cette inspiration prouve que j'ai rêvé）！」と即座に否定する。この二段階の自己否定が詩集全体の構造を決定する：転回（回心）の可能性を提示し、その可能性を即座に皮肉によって破壊する──これが「地獄のある季節」として続く詩集の運動原理。詩集の最後「Adieu」章で「朝（le matin）」と「真の王国（le vrai royaume）」への到達が語られるが、それもまた同様の構造的自己否定の危険を帯びたまま閉じる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Mais, cher Satan, je vous en conjure, une prunelle moins irritée!",
+      "body": "「愛するサタン（cher Satan）」──詩集全体の宛先の宣言。「cher（愛する）」という友人・恋人への親密な呼びかけがサタンに向けられることで、詩集が「神への手紙」でなく「サタンへの告白書」として定義される。「vous」という敬語（二人称複数）の使用──ランボーはサタンを「tu」でなく「vous」で呼ぶ：親密さ（cher）と敬意（vous）の緊張が、ランボーとサタンの関係の複雑さを示す。「作家の中に描写的または教訓的な能力の欠如を愛するあなた（vous qui aimez dans l'écrivain l'absence des facultés descriptives ou instructives）」──サタンが「役に立たない文学」を愛するという定義は、詩学的宣言として読める：ランボーは「有用な文学（描写的・教訓的）」を書かないことを誓い、「不道徳で無用な文学」をサタンに捧げる。「呪われた者のノート（mon carnet de damné）の醜いページ（hideux feuillets）」──詩集の自己規定として最も強烈：自らを「呪われた者（damné）」と定義し、作品を「醜いページ（hideux feuillets）」と呼ぶことで、詩的価値の尺度を美から醜へ、聖から呪いへと転倒させる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴェルレーヌ「呪われた詩人たち（Les Poètes maudits）」（1884）との関係：ヴェルレーヌはランボーを「呪われた詩人」として論じ、「Une saison en enfer」を「魂の危機の記録」として読む。しかし「saison en enfer」プロローグは「呪われた詩人」という外部からの定義を先取りして内部から再定義する──「cher Satan」への呼びかけによって、「呪い」を他者から与えられるものでなく自らが宣言するものとして提示する。マラルメ「詩語の危機（Crise de vers）」との時代的差異：マラルメが1895年に「詩と散文の境界の解体」を理論として提示する20年以上前に、ランボーは1873年に実践としてその解体を実行する。マラルメの理論がランボーの実践の事後的記述として読めるという逆説。ボードレール「悪の華（Les Fleurs du Mal）」献辞「偽善の読者よ、──私に似た者よ、──私の兄弟よ！（Hypocrite lecteur,—mon semblable,—mon frère!）」との比較：ボードレールが読者を「同志・兄弟」として呼びかけるのに対し、ランボーは「愛するサタン」に語りかける──宛先の転換（人間の読者→サタン）がランボーの詩的立場の急進性を示す。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}
