@@ -1,0 +1,317 @@
+{
+  "id": "racine_phedre_acte1_sc3_5",
+  "title": "Phèdre — Acte I, Scènes III–V",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版). テキスト底本: Œuvres complètes, éd. Georges Forestier, Bibliothèque de la Pléiade, Gallimard, Paris, 1999",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 1,
+  "scenes": [3, 4, 5],
+  "characters": ["Phèdre", "Œnone", "Panope"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第1幕Scène III–V。Scène IIでエノンの問いに追い詰められたフェードルが、ついにヒポリットへの愛を告白する場面（Scène III、v.269–316）がこのファイルの核心。告白は三段階で構造化される──まずアテネ到着時の「見た瞬間（je le vis）」の回想、次にクレタの迷宮・ミノタウロス・アリアドネの糸というクレタ神話の再解釈、そしてテーセウスとヒポリットの形象的融合という幻想。Scène IV（v.317–330）では使者パノプがテーセウスの死の報せをもたらし、Scène V（v.331–360）ではエノンがその死を根拠に「もはや愛は罪でない」とフェードルを翻意させる。幕の終わりに向けて、罪の構造が「呪われた愛」から「政治的必要」へと転換される──エノンの論理がフェードルの悲劇的没落の原動力となる。",
+  "keywords": [
+    "ヒポリットへの愛の告白",
+    "je le vis",
+    "クレタの迷宮",
+    "テーセウスとヒポリットの融合",
+    "テネブロゾ",
+    "パノプ",
+    "テーセウスの死",
+    "エノンの論理",
+    "罪の構造転換",
+    "ラシーヌ的空間"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte1_sc1_2",
+    "mallarme_herodiade_scene",
+    "baudelaire_une_charogne",
+    "baudelaire_spleen",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "N'allons point plus avant. Demeurons, chère Œnone.\nJe ne me soutiens plus ; ma force m'abandonne.\nMes yeux sont éblouis du jour que je revois,\nEt mes genoux tremblants se dérobent sous moi.\nHélas !",
+      "provisionalTranslation": "これ以上進むな。留まれ、親愛なるエノンよ。\nもはや立っていられない──力が私を見捨てる。\n再び見る昼の光に目がくらみ、\n震える膝が私の下から崩れ落ちる。\nああ！"
+    },
+    {
+      "id": 2,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Dieux tout-puissants, que nos pleurs vous apaisent !\nMadame, avant que de partir,\nDaignez de vos malheurs m'ouvrir la véritable cause.\nJe vous ai vue tantôt tremblante, interdite :\nLe désordre croissant de votre âme agitée\nM'inspire en vain pitié, douleur, et effroi.\nVotre âme s'abandonne au trouble qui la dévore.\nDites-moi votre mal.",
+      "provisionalTranslation": "全能の神々よ、私たちの涙があなたがたを和らげますように！\n奥様、お発ちになる前に、\nあなたの不幸の真の原因を私に打ち明けてくださいませ。\n先ほどあなたが震え、茫然自失するのを見ました。\n揺さぶられた魂のますます深まる混乱が、\n憐れみ、悲しみ、恐怖を私に無駄に呼び起こします。\nあなたの魂は自分を蝕む苦悶に身を任せている。\nその苦しみを話してください。"
+    },
+    {
+      "id": 3,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Dieux ! que lui vais-je dire ? et par où commencer ?",
+      "provisionalTranslation": "神々よ！何を言えばいい？どこから始めれば？"
+    },
+    {
+      "id": 4,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Par un faux scrupule, ici, ne m'offensez pas.",
+      "provisionalTranslation": "見せかけの良心で私を傷つけないでください。"
+    },
+    {
+      "id": 5,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Ô haine de Vénus ! Ô fatale colère !\nDans quels égarements l'amour jeta ma mère !\nPhèdre, d'un feu si noir jadis atteinte,\nY songez-vous ?",
+      "provisionalTranslation": "ああヴィーナスの憎悪よ！致命的な怒りよ！\nいかなる迷いの中に愛は私の母を投じたことか！\nフェードル、かくも暗い炎にかつて冒されて、\nそれを思いますか？"
+    },
+    {
+      "id": 6,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Oubliez-les, madame. Et qu'à tout l'avenir\nUn silence éternel cache ce souvenir.",
+      "provisionalTranslation": "忘れてください、奥様。そして未来にわたってずっと\n永遠の沈黙がその記憶を覆いますように。"
+    },
+    {
+      "id": 7,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Ariane, ma sœur, de quel amour blessée\nVous mourûtes aux bords où vous fûtes laissée !\nMais quelle inimitié si grande me fait offense ?\nPourquoi m'excitez-vous ?\nEt toi, Phèdre, tu meurs d'une cause encore plus belle.",
+      "provisionalTranslation": "アリアドネ、私の姉よ、いかなる愛に傷つけられて\nあなたは置き去りにされたその岸辺で死んだことか！\nしかしいかなる大きな敵意が私を責め苛むのか？\nなぜ私をかき立てるのか？\nそしてあなたフェードルよ、あなたはさらに美しい原因によって死ぬ。"
+    },
+    {
+      "id": 8,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Aimez-vous ?",
+      "provisionalTranslation": "愛しておられるのですか？"
+    },
+    {
+      "id": 9,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "De l'amour j'ai toutes les fureurs.",
+      "provisionalTranslation": "愛のあらゆる狂乱を私は抱えている。"
+    },
+    {
+      "id": 10,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Pour qui ?",
+      "provisionalTranslation": "誰のために？"
+    },
+    {
+      "id": 11,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Tu vas ouïr le comble des horreurs.\nJ'aime... À ce nom fatal, je tremble, je frissonne.\nJ'aime...",
+      "provisionalTranslation": "恐怖の極みを聞くことになる。\n私は愛している……この致命の名に、震え、身が凍る。\n私は愛している……"
+    },
+    {
+      "id": 12,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Qui ?",
+      "provisionalTranslation": "誰を？"
+    },
+    {
+      "id": 13,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Tu connais ce fils de l'Amazone,\nCe prince si longtemps par moi-même opprimé ?",
+      "provisionalTranslation": "あなたはあのアマゾーンの息子を知っているか、\n私自身によって長きにわたって虐げてきたあの王子を？"
+    },
+    {
+      "id": 14,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Hippolyte ! Grands dieux !",
+      "provisionalTranslation": "ヒポリット！偉大なる神々よ！"
+    },
+    {
+      "id": 15,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "C'est toi qui l'as nommé !\nDepuis six mois honteux, accablé de remords,\nPortant partout le trait qui me déchire,\nContre toi, contre moi, vainement je m'essaie :\nPrésente, je le fuis ; absent, je le retrouve ;\nDans le fond des forêts son image me suit ;\nLa lumière du jour, les ombres de la nuit,\nTout retrace à mes yeux les charmes que j'évite ;\nTout m'offre ce héros que je n'ose nommer.",
+      "provisionalTranslation": "あなたがその名を言ったのだ！\n六ヶ月来、恥じ、悔恨に押しつぶされ、\n私を引き裂くその矢を至るところに携えながら、\nあなたに抗い、自分自身に抗い、私は空しく努める。\n目の前にいれば逃げる──いなければ再び見つける。\n森の奥深くで彼の面影が私を追う。\n昼の光も、夜の影も、\nすべてが私の目に私が避ける魅力を描き出す。\nすべてが、名指すことのできないあの英雄を私に差し出す。"
+    },
+    {
+      "id": 16,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Quoi ! vous l'aimez ?",
+      "provisionalTranslation": "なんと！彼を愛しておられるのですか？"
+    },
+    {
+      "id": 17,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "C'est toi qui l'as nommé !\nDepuis six mois entiers et depuis votre hymen,\nJ'ai repris quelque calme, et languis, et j'expire.\nJ'ai voulu te parler ; et ta vertu cruelle,\nToi-même en m'écoutant tu frémis pour moi !\nHonte d'un vain amour qui trouble ma raison,\nJ'ai nouri une erreur volontaire et coupable.\nPour bannir l'ennemi dont j'étais idolâtre,\nJ'affectai les chagrins d'une injuste marâtre ;\nJe pressai son exil, et mes cris éternels\nL'arrachèrent du sein de sa mère et des autels.",
+      "provisionalTranslation": "あなたがその名を言った！\n六ヶ月の時を経て、婚礼以来、\n私は何らかの平静を取り戻し、衰え、そして息絶えようとしていた。\nあなたに話しかけようとした──しかしあなたの残酷な徳が……\nあなた自身、私の話を聞きながらあなたは私のために震えた！\n理性を乱す空虚な愛の恥から、\n私は自発的で咎むべき錯誤を育てた。\n私が崇拝していたその敵を追い払うために、\n私は不公正な継母の嘆きを装った。\n私は彼の追放を急かし、私の尽きることなき叫びが\n彼を母の懐と祭壇から引き離した。"
+    },
+    {
+      "id": 18,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Madame, il n'est pas trop tard pour y remédier.\nVotre flamme devient une flamme ordinaire.\nThésée en mourant va vous rendre un époux ;",
+      "provisionalTranslation": "奥様、それを正すにはまだ遅くはありません。\nあなたの炎は普通の炎になるでしょう。\nテーセウスは死に際してあなたに夫を返そうとしています。"
+    },
+    {
+      "id": 19,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Thésée est vivant, Œnone, et je le vois.\nNon, je n'ai point aimé, quoique je l'aie dit ;\nMon cœur ne voulait point me laisser séduire.\nJe me suis accusée en vain.\nAthènes me montra mon superbe ennemi :\nJe le vis, je rougis, je pâlis à sa vue ;\nUn trouble s'éleva dans mon âme éperdue ;\nMes yeux ne voyaient plus, je ne pouvais parler ;\nJe sentis tout mon corps et transir et brûler ;\nJe reconnus Vénus et ses feux redoutables,\nD'un sang qu'elle poursuit tourments inévitables !",
+      "provisionalTranslation": "テーセウスは生きている、エノンよ、そして私は彼を見る。\nいや、私は愛してはいなかった──そう言ったとしても。\n私の心は私が誘惑されることを許そうとしなかった。\n私は無駄に自分を責めていた。\nアテネが私に誇り高き敵を見せた。\n私は彼を見た、赤面した、彼を目の前にして青ざめた。\n途方に暮れた私の魂の中で混乱が立ち上がった。\n目はもはや見えなくなり、私は口をきけなくなった。\n私は身体全体が凍りかつ燃えるのを感じた。\nヴィーナスとその恐るべき炎を私は認めた──\n彼女が追いかけ続けるある血の逃れられない苦悶を！"
+    },
+    {
+      "id": 20,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Par des vœux assidus je crus les détourner :\nJe lui bâtis un temple, et pris soin de l'orner ;\nDe victimes moi-même à toute heure entourée,\nJe cherchais dans leurs flancs ma raison égarée.\nD'un incurable amour remèdes impuissants !\nEn vain sur les autels ma main brûlait l'encens :\nQuand ma bouche implorait le nom de la déesse,\nJ'adorais Hippolyte ; et le voyant sans cesse,\nMême au pied des autels que je faisais fumer,\nJ'offrais tout à ce dieu que je n'osais nommer.\nJe l'évitais partout. Ô comble de misère !\nMes yeux le retrouvaient dans les traits de son père.",
+      "provisionalTranslation": "たゆまぬ誓願によって私はそれらを退けようとした。\n私は彼女のために神殿を建て、飾ることに心を砕いた。\n自ら常時生け贄に囲まれながら、\nその腹の中に迷った私の理性を探した。\n癒しがたい愛への無力な手当て！\n無駄に私の手は祭壇で乳香を燃やした。\n私の口が女神の名を呼び求めるとき、\n私はヒポリットを崇拝していた。そして絶えず彼を見ながら、\n私が煙を立たせていた祭壇の足元においてさえ、\n私は名指すことのできないあの神にすべてを捧げていた。\n私は彼をいたるところで避けていた。ああ悲惨の極み！\n私の目は彼の父の面差しの中に彼を再び見つけた。"
+    },
+    {
+      "id": 21,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Contre moi-même enfin j'osai me révolter :\nJ'excitai mon courage à le persécuter.\nPour bannir l'ennemi dont j'étais idolâtre,\nJ'affectai les chagrins d'une injuste marâtre ;\nJe pressai son exil ; et mes cris éternels\nL'arrachèrent du sein de sa mère et des autels.\nJe respirais, Œnone ; et depuis son absence,\nMes jours moins agités coulaient dans l'innocence,\nSoumise à mon époux, et cachant mes ennuis,\nDe son fatal hymen je cultivais les fruits.\nVaines précautions ! Cruelle destinée !\nPar mon époux lui-même à Trézène amenée,\nJ'ai revu l'ennemi que j'avais éloigné :\nMa blessure trop vive aussitôt a saigné.\nCe n'est plus une ardeur dans mes veines cachée :\nC'est Vénus tout entière à sa proie attachée.",
+      "provisionalTranslation": "ついに私は自分自身に反旗を翻す勇気を持った。\n私は彼を迫害しようと勇気を奮い立たせた。\n私が崇拝していたその敵を追い払うために、\n私は不公正な継母の嘆きを装った。\n私は彼の追放を急かし、私の尽きることなき叫びが\n彼を母の懐と祭壇から引き離した。\n私は息ができた、エノンよ──そして彼の不在以来、\n私の日々はより穏やかに、無垢の中を流れた。\n夫に従い、苦悩を隠しながら、\nこの致命の婚礼の実を私は育んだ。\n空虚な予防策！残酷な運命！\n夫自身によってトレゼンに連れてこられ、\n私は遠ざけたはずの敵を再び見た。\nあまりにも生々しい傷が即座に再び血を流した。\nもはや私の血管に隠れた情熱ではない──\nヴィーナスが全身、その獲物に食らいついている。"
+    },
+    {
+      "id": 22,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "J'ai conçu pour mon crime une juste terreur :\nJ'ai pris la vie en haine, et ma flamme en horreur.\nJe voulais en mourant prendre soin de ma gloire,\nEt dérober au jour une flamme si noire :\nJe n'ai pu soutenir tes larmes, tes combats ;\nJe t'ai tout avoué : je ne m'en repens pas,\nPourvu que de ma mort respectant les approches,\nTu ne m'affliges plus par d'injustes reproches,\nEt que tes vains secours cessent de rappeler\nUn reste de chaleur qui ne demande qu'à s'exhaler.",
+      "provisionalTranslation": "私は自分の罪に正当な恐怖を覚えた。\n命を憎み、この情熱を忌まわしく思った。\n死にながら私の名誉を守ろうとしていた、\nかくも暗い炎を昼の光から隠そうとしていた。\nあなたの涙、あなたの苦闘に私は耐えられなかった。\nすべてを告白した──それを悔いない。\nただし私の死の近づきを敬いながら、\n不当な非難でこれ以上私を苦しめず、\n消えることだけを願っている命の残り火を\n呼び戻そうとする空虚な助けを止めてくれるなら。"
+    },
+    {
+      "id": 23,
+      "scene": 4,
+      "speaker": "Panope",
+      "originalText": "Je voudrais vous cacher une triste nouvelle,\nMadame ; mais il faut que je vous la révèle.\nLa mort vous a ravi votre invincible époux,\nEt ce malheur n'est plus ignoré que de vous.",
+      "provisionalTranslation": "悲しい報せを隠したいのですが、\n奥様、お伝えしなければなりません。\n死があなたの無敵の夫を奪いました──\nこの不幸をご存じないのはあなたただお一人です。"
+    },
+    {
+      "id": 24,
+      "scene": 4,
+      "speaker": "Œnone",
+      "originalText": "Quoi, prince ?",
+      "provisionalTranslation": "なんと、王子様が？"
+    },
+    {
+      "id": 25,
+      "scene": 4,
+      "speaker": "Panope",
+      "originalText": "Que le ciel démente ma voix !\nMais Athènes déjà reconnaît un autre roi.\nOn entend de toutes parts élever des murmures :\nLe peuple pour son prince agite vos lois ;\nL'imprudent Hippolyte...\nDes transports violents agitent leur courage :\nOn craint même pour vous de la fureur du peuple.\nEt pour vos fils...",
+      "provisionalTranslation": "天がどうか私の言葉を否定してくれますように！\nしかしアテネはすでに別の王を認めています。\nあらゆるところから不満の声が上がっています。\n民衆は王子のためにあなたの法を揺さぶっています。\n軽率なヒポリットが……\n激しい動揺が彼らの勇気をかき乱しています。\nあなたに対する民衆の怒りさえ心配されています。\nそしてあなたのお子たちのためにも……"
+    },
+    {
+      "id": 26,
+      "scene": 4,
+      "speaker": "Œnone",
+      "originalText": "Panope, c'est assez. La reine a vous entendu.\nElle n'oubliera point un avis si important.",
+      "provisionalTranslation": "パノプよ、それで十分です。王妃はあなたの話を聞きました。\nかくも重要な知らせを忘れることはないでしょう。"
+    },
+    {
+      "id": 27,
+      "scene": 5,
+      "speaker": "Œnone",
+      "originalText": "Madame, je cessais de vous presser de vivre ;\nDéjà je songeais à vous suivre au tombeau,\nPour vous en détourner je n'avais plus de voix ;\nMais ce nouveau malheur prescrit d'autres lois.\nVotre fortune change et prend une autre face :\nLe roi n'est plus, madame ; il faut prendre sa place.\nSa mort vous laisse un fils à qui vous vous devez,\nEsclave s'il vous perd, et roi si vous vivez.\nSur qui, dans son malheur, voulez-vous qu'il s'appuie ?\nEt qui de ses pleurs essuyera la pluie ?\nSes mains en votre absence, aux dieux tendues en vain,\nImploreront pour lui l'un ou l'autre destin.\nLevez-vous, allez voir vos fils, régnez sur eux.\nVivez.",
+      "provisionalTranslation": "奥様、私は生きるようお勧めするのを止めていました。\nすでにあなたに付いて墓まで行こうと考えていた。\nあなたを引き留めるための言葉はもはやなかった。\nしかしこの新たな不幸が別の法則を命じる。\nあなたの運命は変わり、別の顔を見せる。\n王はもはやおられません、奥様──その座を取らなければなりません。\n彼の死はあなたに息子を残しました──あなたが仕えなければならない息子を。\nあなたを失えば奴隷、あなたが生きれば王。\n不幸の中で彼は誰に寄り掛かればよいのか？\n誰が彼の涙の洪水を拭いてくれるのか？\nあなたの不在の中で、神々に虚しく差し伸べた彼の手は、\n彼のためにある運命か別の運命を哀願するでしょう。\n立ち上がり、息子たちを見に行き、彼らを治めてください。\n生きてください。"
+    },
+    {
+      "id": 28,
+      "scene": 5,
+      "speaker": "Phèdre",
+      "originalText": "Hélas ! quand sa rigueur a pris soin de la fuir,\nQue de sa cour mon exil m'a rendu service,\nEt que j'ai loin de vous vécu dans un supplice...\nMon époux est vivant, et moi je l'aime encore.\nQue dis-je ? Il vit. Je le chéris, Œnone.",
+      "provisionalTranslation": "ああ！彼の厳しさが逃げることを心がけていたとき、\n彼の宮廷からの私の追放がいかに私の役に立ったことか、\nあなた方から遠く離れて苦しみの中で生きてきた……\n私の夫は生きている、そして私はまだ彼を愛している。\n何を言っているのか？彼は生きている。私は彼を慕っている、エノンよ。"
+    },
+    {
+      "id": 29,
+      "scene": 5,
+      "speaker": "Œnone",
+      "originalText": "Madame.",
+      "provisionalTranslation": "奥様。"
+    },
+    {
+      "id": 30,
+      "scene": 5,
+      "speaker": "Phèdre",
+      "originalText": "Thésée est mort. Vous seule en êtes instruite :\nJe vivais dans l'opprobre ; et désormais, peut-être,\nLa pudeur de Phèdre osera se connaître.\nJe me fais des horreurs... Néanmoins, Œnone,\nVois où m'a conduit une flamme funeste.\nJe l'aimais, Œnone ! et malgré cet aveu,\nJe ne prends point en moi d'intérêt ni de feu.\nC'est Vénus qui m'accable, et son joug importun\nSe rend dans ma famille incessamment commun.",
+      "provisionalTranslation": "テーセウスは死んだ。あなただけがそれを知っている。\n私は恥辱の中で生きていた──そして今や、おそらく、\nフェードルの貞節は自らを知ろうとする勇気を持てるかもしれない。\n私は自分自身を恐ろしく思う……それでも、エノンよ、\n見てください、致命の炎がどこへ私を導いたかを。\n私は彼を愛していた、エノンよ！そしてその告白にもかかわらず、\n私は自分自身に何ら関心も情熱も持たない。\nヴィーナスが私を打ちのめしており、その煩わしい軛は\n私の家系において絶えず繰り返される。"
+    },
+    {
+      "id": 31,
+      "scene": 5,
+      "speaker": "Œnone",
+      "originalText": "Passez outre, madame. Et que cette réserve\nCesse de vous tenir dans une vaine alarme.\nMadame, si le ciel, de vos jours vous ayant pris,\nVous a de leur destin laissé maîtresse, enfin ;\nPuisque votre vertu n'est plus à ménager,\nEt qu'il vaut mieux, peut-être, en l'état où nous sommes,\nChoisir un roi pour vous, qu'un maître pour vos fils :\nVous pouvez disposer d'Hippolyte.\nVos regards sur lui n'auront rien que de juste.\nLe roi est mort. Vivez. Et que le fils d'une Amazone,\nSensible à vos bontés, vous réponde.",
+      "provisionalTranslation": "先へ進んでください、奥様。この自制心が\n空虚な不安の中にあなたを留め続けることを止めてください。\n奥様、もし天が、あなたの日々を奪った後に、\nついに彼らの運命の支配者をあなたに残したとすれば──\nあなたの徳はもはや守る必要がなく、\nそしておそらく私たちの置かれた状況では\nあなたのために王を選ぶほうが、息子たちのための主人よりも良い。\nヒポリットをあなたはものにできます。\nあなたの目差しは彼に対して正当なものしかないでしょう。\n王は死んだ。生きてください。そしてアマゾーンの息子が、\nあなたの親切に感動して、あなたに応えることを。"
+    },
+    {
+      "id": 32,
+      "scene": 5,
+      "speaker": "Phèdre",
+      "originalText": "Il vit. Je ne veux point opposer à ses droits\nUn reste de chaleur si prompt à s'éteindre.\nJe n'en puis trop me flatter, Œnone : il respire !\nEt toi, tu me flattais d'une image chérie,\nEt ses honteux portraits dans mon cœur trop épris\nSe sont... Non, non, parle, Œnone ; qui te dit\nQue son amour, hélas ! ne me soit point acquis ?",
+      "provisionalTranslation": "彼は生きている。私は彼の権利に\n消えようとしている命の残り火を対立させたくない。\n自分を過度に喜ばせることはできない、エノンよ──彼は息をしている！\nそしてあなたは私に愛しいイメージをちらつかせた、\nあまりにも恋焦がれた私の心の中のその恥ずべき面影が……\nいや、いや、話して、エノンよ──誰があなたに言った\nああ彼の愛が私には得られないと？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "De l'amour j'ai toutes les fureurs.",
+      "body": "Scène IIIの告白の連鎖における最短発話の一つ──12音節のアレクサンドランが半行（6音節）に切り詰められ、エノンの「Aimez-vous ?」（4音節）への応答として単独の半行が成立する。ラシーヌの対話技法において、行を複数の話者が分かち合う「stichomythie（スティコミティア）」の変形──質問・応答の連打（§8–12）がScène II末の漸進的告白の圧縮された反復として機能する。バルト『ラシーヌ論』が「ラシーヌ的人間とは『すること』でなく『いかにすべきか』の人間」と規定した構造がここに体現される：フェードルは「愛している」という事実を認識しながら、それを行動（告白・要求）に転換できない。スティコミティアの連打（§8「Aimez-vous？」→§9→§10「Pour qui？」→§11→§12「Qui？」）が告白の強制的引き出しとして機能しながら、名前を最後まで出さないフェードルの言語的抵抗を際立たせる。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Athènes me montra mon superbe ennemi :\nJe le vis, je rougis, je pâlis à sa vue ;\nUn trouble s'éleva dans mon âme éperdue ;\nMes yeux ne voyaient plus, je ne pouvais parler ;\nJe sentis tout mon corps et transir et brûler ;\nJe reconnus Vénus et ses feux redoutables,\nD'un sang qu'elle poursuit tourments inévitables !",
+      "body": "フランス古典悲劇で最も分析された「一見した瞬間（je le vis）」の三動詞──「Je le vis（私は彼を見た）/ je rougis（私は赤面した）/ je pâlis（私は青ざめた）」。単純過去の連続が時間的瞬間を凍結する：三動詞が同一の行に等間隔で並ぶことで、見ること・赤面・蒼白という三段階が事実上同時として経験される。バルト『ラシーヌ論』の「二つのエロス」論の核心がここに現れる──バルトは「aimer, c'est voir（愛するとは見ることだ）」と定義し、フェードルのエロスを「奪取の愛（Eros du ravissement）」として分類する：テーセウスへの「持続の愛（Eros sororal）」と対立する、視覚的な一撃によって成立する愛。「凍りかつ燃える（transir et brûler）」──ペトラルキズム的矛盾修辞（oxymore）であると同時に、バルトが言う「テネブロゾ・ラシーヌ（le ténébroso racinien）」の身体的表現：光が闇を消すのでなく、闇が光に貫かれる瞬間──フェードル（太陽神の子孫＝光）がヒポリット（森の住人＝影）を見た瞬間に「凍りかつ燃える」という矛盾した身体感覚として実現する。「ヴィーナスとその恐るべき炎を私は認めた（Je reconnus Vénus et ses feux redoutables）」──「認めた（reconnus）」という動詞が決定的：フェードルは愛の始まりを「経験」するのでなく「神話的呪いの認識」として体験する──これがラシーヌのフェードルをエウリピデスおよびセネカから区別する最重要点として研究者が指摘する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Présente, je le fuis ; absent, je le retrouve ;\nDans le fond des forêts son image me suit ;\nLa lumière du jour, les ombres de la nuit,\nTout retrace à mes yeux les charmes que j'évite ;\nTout m'offre ce héros que je n'ose nommer.",
+      "body": "「目の前にいれば逃げる──いなければ再び見つける（Présente, je le fuis ; absent, je le retrouve）」──ラシーヌ的空間の三区分（奥の間・控えの間・外部）がフェードルの愛の空間的論理として体現される。バルト『ラシーヌ論』が指摘する「ラシーヌ的閉域（la clôture racinienne）」：ラシーヌの舞台は「外部から隔絶された空間」であり、「悲劇は同時に牢獄であり、不純なもの──悲劇自身でないもの──すべてに対する保護でもある」。フェードルにとってこの閉域内で「逃げる」ことも「見つけない」ことも不可能──「目の前にいれば逃げる」のにもかかわらず「森の奥深くで彼の面影が追う」という空間的論理は、ラシーヌ的閉域の内部では外部（森）も内部（宮廷）も等しく愛に侵食されることを示す。「光も夜の影も、すべてが（La lumière du jour, les ombres de la nuit, / Tout retrace）」──バルトの「テネブロゾ・ラシーヌ」：「ラシーヌ的幻想において光が影に溺れるのでなく、影が光に貫かれる」という命題がここで逆の形で現れる──フェードルにとって「光（昼）」も「影（夜）」も等しく「避けようとしている魅力」を描き出す：昼/夜の二項対立を超えてヒポリットの形象が空間全体を満たす。「名指すことのできないあの英雄（ce héros que je n'ose nommer）」──Scène IとIIを通じて名前の回避として機能してきた言語的構造の総括：ヒポリットの名はエノンによって言われ（§14）、フェードルは「あなたがその名を言った（C'est toi qui l'as nommé！）」と応答する──フェードルは最後まで自分の口でその名を言わない。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Par des vœux assidus je crus les détourner :\nJe lui bâtis un temple, et pris soin de l'orner ;\nDe victimes moi-même à toute heure entourée,\nJe cherchais dans leurs flancs ma raison égarée.",
+      "body": "「私は彼女（ヴィーナス）のために神殿を建て（Je lui bâtis un temple）」──告白の中でも特殊な逆説的場面：ヴィーナスを「退けようとする」ために、フェードルはヴィーナスの神殿を建て、生け贄を捧げる。しかしその神殿でフェードルが実際に崇拝しているのはヒポリットである（「私はヒポリットを崇拝していた（J'adorais Hippolyte）」）──宗教的行為と愛の対象の同一化。バルト『ラシーヌ論』が「ラシーヌ的身体の混乱（émoi）」として論じた構造：「衣服は身体を隠すと同時に晒すという二重の機能を持ち、肉体的混乱は常に一種の脅迫・哀れみを乞う試みとして機能する」──生け贄という宗教的儀式が愛の「哀れみを乞う」身体的行為として機能する逆転。「私は彼の父の面差しの中に彼を再び見つけた（Mes yeux le retrouvaient dans les traits de son père）」──ヒポリットとテーセウスの形象的融合という「フェードル」研究の最重要命題。フレキシーヌール（Jean Steinberg）らがプシュコアナリーズ的に読む「父の置換（substitution du père）」：フェードルはテーセウスに置き換えてヒポリットを愛するのでなく、「ヒポリットの中にテーセウスの形象を見る」──愛の対象と夫の形象の混乱が「罪の構造」に複数の層を加える。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Ce n'est plus une ardeur dans mes veines cachée :\nC'est Vénus tout entière à sa proie attachée.",
+      "body": "第1幕Scène IIIの頂点にして、劇全体で最も引用される二行。「もはや私の血管に隠れた情熱ではない（Ce n'est plus une ardeur dans mes veines cachée）」──Scène IIからの「隠すこと・語らないこと」という主題の最終的解消：「隠れた（cachée）」という過去分詞が「もはや（ne plus）」によって否定される。「ヴィーナスが全身、その獲物に食らいついている（C'est Vénus tout entière à sa proie attachée）」──「proie（獲物）」という語が決定的：フェードルは主体でなく客体、愛する者でなく愛に食われる者として定義される。「tout entière（全身）」という強調が「ヴィーナスの部分的な影響」ではなく「全的占有」を示す──フェードルには意志的・主体的な空間が一切残らない。バルト『ラシーヌ論』の「ラシーヌ的人間」論：「悲劇的英雄は『すること』でなく『いかにすべきか』の人間」──フェードルはこの定義の極限形であり、行為の主体でなく「ヴィーナスに食われる獲物」として存在する。マラルメ「エロディアード」との詩学的対照：エロディアードが「誰の手も私に触れさせない（Aucune main qui touche de ma main）」という意志的閉域に自己を封じるのに対し、フェードルは「ヴィーナスが全身食らいつく」という意志的閉域の不可能性として定義される──「閉じる」ことで自己を守る者と、閉じることができずに「食われる」者の対照。"
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Le roi n'est plus, madame ; il faut prendre sa place.\nSa mort vous laisse un fils à qui vous vous devez,\nEsclave s'il vous perd, et roi si vous vivez.",
+      "body": "エノンの「論理的説得」の核心部分──テーセウスの死を「罪の消滅」ではなく「政治的義務」として再解釈することで、フェードルの生への意志を回復させようとする。「王はおられません──その座を取らなければ（Le roi n'est plus ; il faut prendre sa place）」──「il faut（しなければならない）」という非人称的必要の動詞が、エノンの論理が「フェードルの欲望」でなく「義務」として提示されていることを示す。「奴隷か王か（Esclave s'il vous perd, et roi si vous vivez）」──二項対立の単純化が説得の修辞として機能する。バルト『ラシーヌ論』が「confident（侍女・腹心）」の機能として論じた役割：「腹心は悲劇的人物と外部世界を結ぶ唯一の回路であり、悲劇的人物が行為できないとき、腹心が行為への誘惑者となる」──エノンのこの説得が、フェードルが第2幕でヒポリットに愛を告白する方向への転換点となる。この説得の「論理」が後に第4幕でのエノンによるヒポリット告発──ラシーヌ劇最大の「悪」の行為──への布石となる点で、この場面はScène Vが劇全体の「転落の起点」として機能することを示す。"
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Vous pouvez disposer d'Hippolyte.",
+      "body": "「ヒポリットをあなたはものにできます（Vous pouvez disposer d'Hippolyte）」──エノンの説得の中で最も危険な一行。「disposer de（自由にする・処分する）」という動詞句は政治的意味（後見・統治）と所有的意味（意のままにする）の二重性を持つ。エノンはここで初めて、テーセウスの死をフェードルとヒポリットの関係を正当化する根拠として明示する──「もはやあなたの徳は守る必要がない（votre vertu n'est plus à ménager）」。バルト『ラシーヌ論』の「ラシーヌ的人間の罪（la Faute）」：「ラシーヌの真の英雄たち（ティトゥス・フェードル・ピリュス）は忠誠を拒否するが、断ち切る手段が見つからない──婚礼の絆に反することへの欲望と不可能性の間に宙吊りにされる」。エノンのこの一行が宙吊り状態に「論理的出口」を与えようとする──しかしその「出口」はフェードルをさらに深い罪の構造へと導く。ラシーヌ自身の序文（Préface de Phèdre, 1677）：「フェードルは神々の怒りの報いを受けた運命的な情熱の犠牲者であり、彼女の罪はヴィーナスの意志によるもの──彼女は犯罪者というより不幸な人物（victime malheureuse）として見なされるべきである」という作者の弁護がある。しかしエノンの説得に対して「いや」と言わないフェードルの沈黙（§32で彼が「生きている」という事実に戻るだけで明確な拒絶がない）が、フェードルの「意志的」な共犯性の問題として19世紀以降の研究者を分断してきた。",
+      "targetId": "racine_phedre_acte1_sc1_2",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "バルト『ラシーヌ論』「ラシーヌ的空間」論との照応：バルトはラシーヌ劇の空間を「奥の間（la Chambre）」＝権力が潜む不可視・不可侵の場、「控えの間（l'Anti-Chambre）」＝言語・告白・交渉の場、「外部（l'Extérieur）」＝死・逃走・使者のみが接触できる世界、の三区分として論じる。Scène III（フェードルの告白）はこの「控えの間」の機能の典型例：「控えの間は言語の場であり、悲劇的人物がそこで自らの思考を明かす」──告白が行われるのは常にこの中間的空間であり、「奥の間」（テーセウスの権威・テーセウスとの婚礼の空間）への侵入でも「外部」への脱出でもない。Scène IVのパノプの登場が「外部」からの唯一の侵入経路として機能する：使者（confident/messenger）はバルトの言う「悲劇的閉域と外部を結ぶ唯一の安定した回路」。マラルメ「エロディアード」との詩学的接続：Scène IIIのフェードルの告白が「語ること（dire）」の苦悶として展開されるのに対し、エロディアードは「語ることを拒否し鏡に閉じる」──「告白する悲劇的主体」と「告白を拒否する詩的主体」の対照がラシーヌからマラルメへの詩学的継承関係を照射する。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    }
+  ]
+}
