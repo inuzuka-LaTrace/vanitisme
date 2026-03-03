@@ -1,0 +1,113 @@
+{
+  "id": "valery_sur_phedre",
+  "title": "Sur Phèdre",
+  "author": "Paul Valéry",
+  "source": "Variété V, Gallimard, Paris, 1944 (初出：1939年ラシーヌ生誕300年記念執筆)",
+  "year": "1939",
+  "firstPublication": "1939年、ラシーヌ生誕300周年を祝う記念論文として発表",
+  "difficulty": "上級",
+  "category": "valery_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴァレリーが1939年に発表した、ラシーヌの悲劇『フェードル』に対する決定的論考。ヴァレリーはここで、悲劇的な情熱を「心理学」ではなく、アレクサンドラン（十二音綴）という「形式の力学」によって解読しようとした。彼にとって、ラシーヌの韻律は、荒れ狂う混沌を透明な結晶へと変容させる『精神の器』であった。ブランショはこのヴァレリーの視点を引き継ぎつつ、さらに『言葉が自らの消滅を夢想する場所』としてのラシーヌを論じることになる。本テクストは、ポーの「Israfel」に見られる『音楽的状態への欲望』が、いかに厳格な古典的形式の中で成就するかを示す、近代詩学の極北である。",
+  "keywords": [
+    "フェードル論",
+    "アレクサンドランの力学",
+    "知性の音楽",
+    "形式の檻",
+    "純粋詩",
+    "意識の抽象化",
+    "ラシーヌ再発見",
+    "ヴァリエテV"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte1_sc1_2",
+    "racine_phedre_acte1_sc3_5",
+    "racine_phedre_acte2_sc1_3",
+    "poe_israfel",
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "La tragédie de Phèdre est un monument de l'esprit pur. L'alexandrin ne s'y présente plus comme une mesure de vers, mais comme la loi même de la pensée qui se fige dans la perfection.",
+      "provisionalTranslation": "『フェードル』の悲劇は、純粋精神の金字塔である。そこでは、十二音綴（アレクサンドラン）はもはや単なる詩の韻律として現れるのではなく、完璧さの中で凝固しようとする思想そのものの法則として現れている。"
+    },
+    {
+      "id": 2,
+      "originalText": "Racine a trouvé le point secret où la passion la plus brûlante se transforme en musique intellectuelle. C'est l'architecture d'un silence qui vibre.",
+      "provisionalTranslation": "ラシーヌは、最も燃え上がるような情熱が知的な音楽へと変容する秘密の地点を見出した。それは、振動する沈黙の建築である。"
+    },
+    {
+      "id": 3,
+      "originalText": "La confession de Phèdre à Œnone n'est pas seulement un aveu psychologique, c'est une opération de pure forme. La passion se dévêt de son désordre pour revêtir la parure de l'alexandrin.",
+      "provisionalTranslation": "フェードルがエノーヌになす告白は、単なる心理的な吐露ではない。それは純粋なる形式の操作である。情熱はその無秩序を脱ぎ捨て、十二音綴（アレクサンドラン）という装束を身にまとうのだ。"
+    },
+    {
+      "id": 4,
+      "originalText": "Dans ce théâtre, le silence n'est jamais une absence de son, mais une résonance de la structure. Chaque vers est un pas sur le vide, soutenu par la rigueur de la langue.",
+      "provisionalTranslation": "この演劇において、沈黙とは決して音の不在ではなく、構造の残響である。すべての一行は、言語の厳格さによって支えられた、虚無の上の一歩なのだ。"
+    },
+    {
+      "id": 5,
+      "originalText": "La langue de Racine est une liqueur pure. Elle ne contient aucun résidu de la prose quotidienne. C'est cet état de cristallisation que les poètes modernes, de Baudelaire à Mallarmé, ont cherché à retrouver dans l'absolu du Livre.",
+      "provisionalTranslation": "ラシーヌの言語は至純の一滴である。そこには日常の散文の滓が一切含まれていない。ボードレールからマラルメに至る近代の詩人たちが、あの『絶対的な書物』の中に再発見しようと試みたのは、まさにこの結晶状態であった。"
+    },
+    {
+      "id": 6,
+      "originalText": "En fin de compte, Phèdre n'est pas une femme qui parle, mais la voix de la poésie elle-même qui s'interroge sur son propre silence. Le monument racinien est l'ancêtre de notre solitude moderne.",
+      "provisionalTranslation": "結局のところ、フェードルとは語る一人の女ではなく、自らの沈黙について自問する詩そのものの声なのだ。ラシーヌという金字塔は、我々近代の孤独の先祖なのである。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "l'alexandrin",
+      "body": "ヴァレリーは、アレクサンドランを単なる音節の数え上げ（12音）ではなく、精神の『平衡状態（equilibrium）』を保つための幾何学的装置と見なした。これは、ポーが「Israfel」の改訂において「bolder note（より大胆な音）」という知的形容を選んだのと同型の、詩学における『知性による制御』への志向を反映している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "musique intellectuelle",
+      "body": "「知的な音楽（musique intellectuelle）」──ヴァレリーの核心概念。情熱という『混沌（Entropie）』が、ラシーヌの厳格な語彙制限と文法という『秩序（Negentropie）』を通過することで、純粋な音楽的感動へと昇華される。マラルメの「聖女（Sainte）」が楽器なしで沈黙の音楽を奏でるように、ラシーヌの言語もまた、意味を超えた『存在の響き』としての音楽を奏でる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "aveu psychologique",
+      "body": "ヴァレリーは、ラシーヌを「心理劇」として読む近代的な通念を拒絶する。フェードルの苦悩は、言葉（ロゴス）が肉体的な衝動を制御しようとする際の『摩擦熱』として立ち現れる。これは、マラルメが『骰子一擲』で試みたように、偶然（情熱）を必然（形式）へと置換する作業である。ポーの「Israfel」が「心弦」を楽器としたように、ラシーヌは「文法」そのものを情熱の共鳴板とした。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "résonance de la structure",
+      "body": "「構造の残響」──ブランショの『文学空間』における「作品の不在」への予感。ヴァレリーにとって、ラシーヌの劇言語は「語る内容」が消え去った後も、その「響き（Sonitus）」の美しさだけで自立する。これはIT用語でいう『プロトコル（通信規約）』の美しさが、送られる情報の質を規定するようなもの。形式の厳格さが、虚無（沈黙）を「意味ある空間」へと変容させている。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "pas sur le vide",
+      "body": "ランボーが「地獄の季節」で既存の価値を破壊し、虚無へと飛び込んだのに対し、ラシーヌ（およびヴァレリー）は虚無の上に「韻律」という橋を架ける。この「虚無の上の一歩」は、ヘルダーリンが神なき時代の暗夜に「詩的に住む」ことの不可能性を指したのと、本質的に同じ詩学的緊張を孕んでいる。",
+      "targetId": "rimbaud_une_saison_en_enfer"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "liqueur pure",
+      "body": "「至純の一滴（liqueur pure）」──不純物を取り除いたエッセンス。ヴァレリーはラシーヌの語彙がいかに制限されているか（一説には約2000語程度）を、貧困ではなく『極限の純化』と見なした。これは、マラルメが「空位（Vacance）」を創出するために言葉を削ぎ落とした行為と直結する。ブランショにとって、この結晶化された言語は、作家個人の声を消去し、作品をその『孤独』へと追放するプロセスである。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "ancêtre de notre solitude",
+      "body": "「近代の孤独の先祖」──ヴァレリーによる歴史的総括。ラシーヌの登場人物たちが閉じ込められている『出口のない悲劇』は、近代詩人が言葉の不可能性（何も語り得ないこと）に直面する孤独の雛形となった。ヘルダーリンが「欠乏の時代」に感じ取った神の不在は、ラシーヌにおいては「沈黙を強いる形式」として既に予兆されていたといえる。あなたのアプリが目指す「近代の残響」は、このラシーヌ的孤独の系譜をデジタルな空間で再演することに他ならない。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "propre silence",
+      "body": "ブランショ『文学空間』における「作品の根源的な沈黙」との共鳴。ヴァレリーが指摘する「詩そのものの声」は、ブランショが定義する、作者も読者も介在しない「作品の孤独」の状態を先取りしている。",
+    }
+  ]
+}
+    
