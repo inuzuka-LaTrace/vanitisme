@@ -1,0 +1,250 @@
+{
+  "id": "racine_phedre_acte2_sc1_3",
+  "title": "Phèdre — Acte II, Scènes I–III",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版). テキスト底本: Œuvres complètes, éd. Georges Forestier, Bibliothèque de la Pléiade, Gallimard, Paris, 1999",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 2,
+  "scenes": [1, 2, 3],
+  "characters": ["Aricie", "Ismène", "Hippolyte"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第2幕Scène I–III。劇の「対照的な愛」の軸を提示する場面群。Scène I（アリシーとイスメーヌ）：テーセウスの死の報せを受けたアリシーが、自らの囚われの身分とヒポリットへの思いを打ち明ける。Scène II（ヒポリット・アリシー・イスメーヌ）：ヒポリットが政治的権力の再分配を告げ、アリシーの自由を宣言する──しかし政治的宣言に深く愛の宣言が絡む予兆がある。Scène III（ヒポリット・アリシーの二人）：劇全体でフェードルの愛の「対極」として設定されたヒポリットの愛の告白。ヒポリットはScène Iで「征服されることを誇りとしない」と自ら宣言したにもかかわらず、アリシーの前でその誇りが崩れる。アリシーは慎重な言語で応じ、告白を受け取りつつも完全な応答を留保する。このScène IIIはラシーヌが先行テクスト（エウリピデス・セネカ）にはない「ヒポリットの愛」という独自の要素として加えた場面であり、フェードルの「ヴィーナスに食われる愛」と対称をなす「意志によって選ばれた愛」として設計されている。",
+  "keywords": [
+    "アリシー",
+    "イスメーヌ",
+    "ヒポリットの愛の告白",
+    "征服される英雄",
+    "パランティダイの血",
+    "清潔な愛の対極",
+    "ラシーヌ独自の創案",
+    "愛の非対称性",
+    "政治と愛の絡み合い",
+    "superbe Hippolyte"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte1_sc1_2",
+    "racine_phedre_acte1_sc3_5",
+    "mallarme_herodiade_scene",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 1,
+      "speaker": "Aricie",
+      "originalText": "Ismène, il est donc vrai ? Thésée est mort ?\nOn dit qu'à votre voix le peuple est assemblé.\nUn bruit si grand m'étonne, et je ne sais, Ismène,\nSi je dois en croire un bonheur si soudain.\nVous connaissez ma peur, tous mes désirs bornés :\nN'ai-je point à vanter des bienfaits imaginaires ?",
+      "provisionalTranslation": "イスメーヌ、それは本当なの？テーセウスが死んだと？\nあなたの声に民衆が集まったと言われている。\nこれほどの噂に驚かされ、わからないの、イスメーヌ、\nこれほど突然の幸運を信じていいものか。\nあなたは私の恐れを知っている──私の望みはすべて制限されてきた。\n私は想像上の恩恵を自慢しているのではないかしら？"
+    },
+    {
+      "id": 2,
+      "scene": 1,
+      "speaker": "Ismène",
+      "originalText": "Non, non, madame. Les dieux ne sont plus contraires.\nThésée est mort. Vous en avez des témoins.\nLe trépas a surpris votre invincible roi.\nDe ses crimes enfin la juste récompense\nLe retient aux enfers dont il a bravé les lois.\nOn dit même qu'Hippolyte, instruit de son trépas,\nDoit venir vous offrir un généreux trépas.",
+      "provisionalTranslation": "いいえ、奥様。神々はもはや敵ではありません。\nテーセウスは死んだ。証人がいます。\n死があなたの無敵の王を不意に捕らえた。\nとうとう彼の罪への正当な報いが\n彼が法を踏みにじった冥界に彼を留めている。\nヒポリットが彼の死を知り、\n寛大な解放をあなたに提案しに来るとさえ言われています。"
+    },
+    {
+      "id": 3,
+      "scene": 1,
+      "speaker": "Aricie",
+      "originalText": "Hippolyte ! Grand dieu ! vous n'ignorez pas\nQue cet humble ennemi, dont l'âme révoltée\nAl tout au moins ma gloire, à toujours refusé\nDe m'accorder jamais ce qu'on m'a refusé.\nEst-ce lui qui prétend adoucir mon esclavage ?\nEst-il doux d'entendre de ma bouche nos misères\nTous les secrets de ma trop amère infortune ?",
+      "provisionalTranslation": "ヒポリット！偉大なる神よ！ご存じでしょうが\nこの謙虚な敵──反抗的な魂を持ち\n少なくとも私の栄光を奪い、常に拒んできた\n私が拒まれてきたものを決して与えることを──\nその彼が私の奴隷状態を和らげようとしているのか？\n私の口から私たちの不幸を聞くのは甘いことなのか、\nあまりにも苦い私の不運のすべての秘密を？"
+    },
+    {
+      "id": 4,
+      "scene": 1,
+      "speaker": "Ismène",
+      "originalText": "Madame, que je sache encore\nSi cette paix dont vous parlez est véritable ;\nMais à vous faire entendre ici ma voix,\nJ'ai couru les apprendre et je reviendrai.\nMadame, il approche. Il vient vous voir lui-même.",
+      "provisionalTranslation": "奥様、もう少し確かめさせてください\nあなたがおっしゃるこの平和が本物かどうかを。\nしかし、ここであなたにお伝えするために、\n私は学びに走り、また戻ってきます。\n奥様、彼が近づいています。彼自身があなたに会いに来ます。"
+    },
+    {
+      "id": 5,
+      "scene": 1,
+      "speaker": "Aricie",
+      "originalText": "Ah ! que mon cœur, Ismène, est loin de la sagesse !\nThésée a beau vouloir te réduire à l'esclavage,\nTe priver à jamais du droit de te marier,\nEt vouloir qu'après lui sa mort même t'écarte\nDu bonheur de te voir de tes fers affranchie :\nUn ennemi si fier, si superbe à mes yeux,\nHippolyte ! Et qui sait si ce prince rigoureux,\nSensible à tes discours, daignera s'humaniser ?\nMaîtresse de moi-même en vain, je me roidis.\nÀ tes attraits, Ismène, il a résisté toujours ;\nPour lui tous les respects, aucun amour.",
+      "provisionalTranslation": "ああ！私の心は、イスメーヌ、賢さからはほど遠い！\nテーセウスがどれほど私を奴隷に縮小し、\n結婚する権利を永遠に奪い、\n彼の死後もその死が私を遠ざけることを望んでいても\n枷からの解放という幸福から──\n私の目にかくも誇り高く、傲慢な敵、\nヒポリット！そしてこの厳格な王子が、\nあなたの言葉に感動して、人間らしくなろうとするかどうか誰が知っているか？\n自分自身の主人として、私は空しく身を固くする。\nあなたの魅力に、イスメーヌ、彼は常に抵抗してきた。\n彼にとってすべては尊重であり、愛は一切ない。"
+    },
+    {
+      "id": 6,
+      "scene": 1,
+      "speaker": "Ismène",
+      "originalText": "Croyez, madame, vos sentiments peut-être.\nOn dit que nos regards ont su le toucher :\nLe bruit de cet amour n'est pas encore vulgaire ;\nMais il a les yeux pour voir et les oreilles pour entendre.\nJe suis sûre au moins qu'il n'a pas refusé\nQue ses regards sur vous n'aient été arrêtés.",
+      "provisionalTranslation": "奥様、あなたの感情を信じてください。\n私たちの眼差しが彼の心を動かしたと言われています。\nこの愛の噂はまだ広まっていない。\nしかし彼は見る目も聞く耳も持っている。\n少なくとも彼があなたに向けた視線を\n拒んだわけではないと私は確信しています。"
+    },
+    {
+      "id": 7,
+      "scene": 1,
+      "speaker": "Aricie",
+      "originalText": "Cher Ismène, mon cœur, pour s'en flatter trop avide,\nN'est pas de ceux qui puissent fuir un coup si rude.\nQue tu connais peu cet orgueil, Ismène !\nHippolyte en naissant a reçu de sa mère\nUne âme farouche que les grâces n'ont pu dompter.\nPour lui, tous les respects, aucun amour :\nDes femmes il fuyait les langueurs ordinaires.\nTrop longuement tu flattes une espoir vaine.",
+      "provisionalTranslation": "親愛なるイスメーヌ、あまりにも貪欲に自分を喜ばせようとする私の心は\nかくも手痛い打撃から逃れられるものではない。\nこの誇りをあなたはいかに知らないことか、イスメーヌ！\nヒポリットは生まれながらに母から\n優雅さが手なずけることのできなかった野生の魂を受け取った。\n彼にとってすべては尊重であり、愛は一切ない。\n女の通常の物言わぬ恋愛に彼は逃げた。\nあなたは空虚な希望を長々とちらつかせすぎる。"
+    },
+    {
+      "id": 8,
+      "scene": 1,
+      "speaker": "Ismène",
+      "originalText": "Ah ! madame, combien votre discours me flatte !\nVous n'ignorez pas de quel œil on vous voit ici.\nLe bruit de ses beautés commence à se répandre :\nThésée lui-même a loué ses charmes.\nIl la cherche des yeux dans la foule qui passe :\nIl la suit partout d'un regard favorable :\nLa renommée en parle avec éloge.\nSouffrez, pour lui parler, qu'on dise ce qu'on pense.",
+      "provisionalTranslation": "ああ！奥様、あなたのお言葉がいかに私を喜ばせることか！\nここであなたがどのように見られているかをあなたはご存じでしょう。\n彼女の美しさの評判が広まり始めています。\nテーセウス自身が彼女の魅力を褒めました。\n彼は通り過ぎる群衆の中に目で彼女を探す。\n好意的な眼差しでどこへでも彼女を追う。\n評判は賞賛をもって語る。\n彼に話すために、人が考えることを言わせてください。"
+    },
+    {
+      "id": 9,
+      "scene": 1,
+      "speaker": "Aricie",
+      "originalText": "Mais, Ismène, est-il vrai ? N'est-ce point\nUn plaisir que me fait la flatteuse Espérance ?\nÀ sa fierté rebelle, est-ce qu'il m'aime ?\nViendra-t-il pour nous voir ?\nDe l'amoureux Hippolyte en me rendant vainqueur,\nTu me flattes peut-être au-delà du possible.\nSi le ciel en courroux n'eût jeté dans mes bras\nCet ennemi, d'abord si superbe à mes yeux,\nQue m'eût servi de n'y point succomber ?\nPar quel moyen cacher l'amour que j'ai pour lui ?",
+      "provisionalTranslation": "でも、イスメーヌ、本当のこと？これは\n甘やかす希望が私に与える喜びではないかしら？\n彼の誇りに反して、彼は私を愛しているの？\n彼は私たちに会いに来る？\n恋するヒポリットを征服する者として私を位置づけて、\nあなたはおそらく可能性を超えて私を喜ばせている。\n怒れる天が私の腕にその敵を投じなかったとしたら──\n最初は私の目にかくも傲慢に見えたあの敵を──\n屈服しないことが何の役に立ったろうか？\nどんな手段で彼への愛を隠せるのか？"
+    },
+    {
+      "id": 10,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "originalText": "Madame, avant que de partir,\nJ'ai cru devoir vous expliquer vos destins.\nMon père est mort. Mes justes défiances\nPressaient son trépas trop peu prévu.\nLa mort seule, bornant ses travaux éclatants,\nPouvait à l'univers révéler Thésée.\nVotre haine, après lui, peut tomber sans alarmes :\nAricie enfin peut vivre.\nJe me rends à ce nom que le ciel vous a donné.",
+      "provisionalTranslation": "奥様、出発する前に、\nあなたの運命を説明しなければならないと思った。\n父は死んだ。私の正当な不安が\nあまりにも予測されていなかった彼の死を急かした。\n死だけが、その輝かしい功業を終わらせながら、\n宇宙にテーセウスを明かすことができた。\nあなたの憎悪は、彼の後に、不安なく消えることができる。\nアリシーよ、ついに生きることができる。\n天があなたに与えたその名に私は従う。"
+    },
+    {
+      "id": 11,
+      "scene": 2,
+      "speaker": "Aricie",
+      "originalText": "Seigneur, je ne puis croire à tant de bonté.\nVotre ennemi mort, pourquoi me chérir ?\nVous-même en ces lieux souffrez-vous nos larmes ?\nSouffrez que cette main qui vous tend la mienne,\nSoit reçue avec plus de grâce que je n'espère.",
+      "provisionalTranslation": "殿、かくも多くの善意を信じることができません。\n敵が死んだとして、なぜ私を慈しむのですか？\nあなた自身がここで私たちの涙を堪えるのですか？\n私に手を差し伸べるこの手が\n私が望む以上の優雅さとともに受け取られますように。"
+    },
+    {
+      "id": 12,
+      "scene": 2,
+      "speaker": "Hippolyte",
+      "originalText": "Madame, des États, d'Athènes et de Crète\nJe ne viens point ici disputer la conquête.\nD'un sceptre injuste on peut vous remettre ici.\nAthènes par mes soins va vous être rendue :\nEt pour ne point souffrir qu'un rival vous enlève\nLes droits que vous avez, je viens vous les offrir.\nSi vous daignez prendre soin de vous-même,\nPuis-je vous offrir ces États ?",
+      "provisionalTranslation": "奥様、国々の、アテネとクレタの\n征服を争いに来たのではありません。\n不正な笏をここでお返しすることができます。\n私の配慮によってアテネがあなたのもとに返されます。\nそして競合者があなたから権利を奪うことを許さないために、\nあなたが持つ権利を提供しに来ました。\nあなた自身のことを考えていただけるなら、\nこれらの国々をお勧めできますか？"
+    },
+    {
+      "id": 13,
+      "scene": 2,
+      "speaker": "Aricie",
+      "originalText": "De grâce, seigneur, je ne puis y souscrire.\nMais cet excès de bonté me confond :\nPuis-je, sans vous trahir, accepter de tels dons ?\nQuand je me vois traitée avec tant d'honneur,\nJe soupçonne, seigneur, quelque secret dessein.",
+      "provisionalTranslation": "お願いですが、殿、それに同意することができません。\nしかしこの過剰な善意に私は混乱します。\nあなたを裏切ることなく、そのような贈り物を受け取れるでしょうか？\nかくも多くの名誉をもって扱われると、\n何か秘密の意図を、殿、私は疑います。"
+    },
+    {
+      "id": 14,
+      "scene": 2,
+      "speaker": "Ismène",
+      "originalText": "Il vient ! Madame, fuyez.",
+      "provisionalTranslation": "来ます！奥様、逃げてください。"
+    },
+    {
+      "id": 15,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Madame, demeurez. Je voudrais, en partant,\nVous instruire d'un secret qui vous touche.\nAvant que de vous dire adieu, souffrez\nQue j'expose à vos yeux ma honte et mes remords.\nThésée a beau régner : rien n'a pu réduire\nCe que j'ai résolu ; ma liberté trop fière\nN'a jamais pu souffrir le joug des sentiments.\nEt ce n'est point au rang où vous étiez placée\nQue j'aurais pu garder pour vous une amitié cachée.",
+      "provisionalTranslation": "奥様、留まってください。出発にあたり、\nあなたに関わる秘密をお伝えしたい。\nお別れを言う前に、\n私の恥と悔恨をあなたの目の前に晒すことをお許しください。\nテーセウスがどれほど治めようとも：何も\n私が決意したことを減らすことができなかった──私の過度に誇り高い自由は\n感情の軛に耐えることが決してできなかった。\nそしてあなたが置かれていた地位においてこそ\n私はあなたのために密かな友情を守ることができただろう。"
+    },
+    {
+      "id": 16,
+      "scene": 3,
+      "speaker": "Aricie",
+      "originalText": "Seigneur.",
+      "provisionalTranslation": "殿。"
+    },
+    {
+      "id": 17,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Je vois que je vous étonne. Étrange destin !\nCe cœur si fier, ce front qui s'était toujours\nDe l'amour préservé par une dure loi,\nCe téméraire orgueil qui dédaignait\nLes pleurs des femmes et des vierges éplorées,\nQui sans pitié voyait couler leurs larmes,\nEt qui jamais n'avait penché l'oreille\nÀ des plaintes si tendres qui l'auraient blessé —\nEt que j'ai vu souvent prêt à se rendre.\nJe me trouvai vaincu. Une loi plus puissante\nQue mes serments m'a conduit vers vos attraits.\nMa liberté naissait de la vôtre : et je suis,\nMalgré moi, malgré mes vœux trop imprudents,\nSoumis à votre empire et forcé de gémir.",
+      "provisionalTranslation": "私があなたを驚かせているのがわかります。奇妙な運命！\nかくも誇り高かったこの心、この額──常に\n厳しい法によって愛から守られていたこの額は、\n軽蔑していた無謀な誇り──\n泣き叫ぶ女と乙女たちの涙を\n憐れみなく流れるに任せていた誇りを──\n決して聞き耳を立てなかった\n傷つけただろうその柔らかな嘆きに──\n折れそうになっているのをしばしば見た。\n私は打ち負かされた。誓いよりも強力な法が\n私をあなたの魅力へと導いた。\n私の自由はあなたのそれから生まれた──そして私は、\n自分の意に反して、あまりにも無謀な誓いにもかかわらず、\nあなたの支配に服し、嘆かざるをえない。"
+    },
+    {
+      "id": 18,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Depuis six mois honteux, désespéré,\nPortant partout le trait qui me déchire,\nContre vous, contre moi, vainement je m'essaie :\nPrésente, je vous fuis ; absente, je vous trouve ;\nDans le fond des forêts votre image me suit ;\nLa lumière du jour, les ombres de la nuit,\nTout retrace à mes yeux les charmes que j'évite ;\nTout m'offre ce portrait que je ne puis fuir.",
+      "provisionalTranslation": "六ヶ月来、恥じ、絶望し、\n私を引き裂くその矢を至るところに携えながら、\nあなたに対し、自分自身に対し、空しく努める。\n目の前にいれば逃げる──いなければあなたを見つける。\n森の奥深くであなたの面影が私を追う。\n昼の光も、夜の影も、\nすべてが私の目に私が避ける魅力を描き出す。\nすべてが逃れられないその面影を私に差し出す。"
+    },
+    {
+      "id": 19,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Hippolyte, en partant, voulait fuir loin de vous ;\nMais ce n'est plus un cœur à l'amour insensible,\nC'est un amour trop vif qu'il ne peut plus cacher.\nMadame, si du ciel les funestes décrets\nNe m'eussent à jamais réservé pour d'autres lois,\nSans doute je vous eusse offert ma main : un père\nSe prive d'Hippolyte.\nVous avez, sans frayeur, trop facile à séduire,\nTrop prompte à recevoir un amoureux mensonge.\nSi de nos nœuds, du moins, la triste violence\nNous sauvait d'un amour qui nous perdrait tous deux,\nJe n'aurais rien regretté de ma fuite et de mes pleurs.",
+      "provisionalTranslation": "出発するヒポリットは遠くあなたから逃げようとしていた。\nしかしこれはもはや愛に無感覚な心ではない。\nこれはもはや隠すことができない、あまりにも激しい愛。\n奥様、もし天の忌まわしい命令が\n永遠に私を別の法のために取り置かなかったとしたら、\n疑いなく私はあなたに私の手を差し伸べていただろう──一人の父が\nヒポリットを自らに拒んでいる。\nあなたは恐れもなく、誘惑されやすすぎ、\n恋の嘘を受け取るのが早すぎる。\n少なくとも私たちの絆のこの悲しい暴力が\n私たち両方を滅ぼすだろう愛から私たちを救うとしたら、\n私は逃走と涙を何も後悔しなかっただろう。"
+    },
+    {
+      "id": 20,
+      "scene": 3,
+      "speaker": "Aricie",
+      "originalText": "Seigneur, c'est trop. Écoutez-moi.\nJe ne veux point cacher ce que je sens.\nJe vois que vous souffrez ; et je puis sans me taire\nAvouer que je sens le même feu que vous.\nMais de nos malheurs gardons-nous de rougir :\nDans un état si triste, et si proche du bord,\nQu'un noble cœur sans se laisser conduire\nLève les yeux vers un objet plus pur.",
+      "provisionalTranslation": "殿、それで十分です。聞いてください。\n私は感じることを隠したくない。\nあなたが苦しんでいるのがわかります──そして黙らずに\nあなたと同じ炎を感じると告白できます。\nしかし私たちの不幸を恥じることは避けましょう。\nかくも悲しい状態で、岸辺のかくも近くに、\n高貴な心は身を委せることなく\nより純粋な対象に目を上げることができます。"
+    },
+    {
+      "id": 21,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Trop peu connu des dieux, et trop peu de moi-même,\nJ'aimais, je fuis, j'expire :\nUne flamme si noble a bien pu toucher,\nMalgré tout mon orgueil, un cœur comme le mien.\nMais non point, madame : avouons en bonne foi\nQu'un tel aveu me coûte, et que votre vertu,\nLa douceur de vos yeux, ont su vaincre ma fierté.",
+      "provisionalTranslation": "神々にもあまりに知られず、自分自身にもあまりに──\n私は愛した、逃げた、死にかけた。\nかくも高貴な炎は動かすことができた、\n私のあらゆる誇りにもかかわらず、私のような心を。\nしかしそうではない、奥様──正直に認めましょう\nかかる告白が私に代償を払わせること、そしてあなたの徳、\nあなたの目の優しさが私の誇りに勝ることを。"
+    },
+    {
+      "id": 22,
+      "scene": 3,
+      "speaker": "Aricie",
+      "originalText": "Seigneur, un tel aveu m'étonne, il est vrai.\nMais je ne suis point accoutumée encore\nÀ me voir adorer par un cœur si farouche.\nVotre aveu même, en me touchant l'âme,\nM'engage à craindre ce que je dois admettre.\nOui, prince, et je ne dois point dissimuler :\nL'Hymen n'est point ce que mon âme cherche.\nMais puis-je vous croire, et de quel droit osez-vous,\nSeigneur, en partant, me faire une telle espérance ?",
+      "provisionalTranslation": "殿、かかる告白は確かに私を驚かせます。\nしかし私はまだ慣れていません\nかくも野生の心に崇拝されることに。\nあなたの告白そのものが私の魂に触れながら、\n受け入れなければならないものを恐れさせます。\nそうです、王子様、そして私は隠すべきではない。\n婚礼は私の魂が求めるものではありません。\nしかし信じることができますか、そしていかなる権利で、\n殿、出発にあたりかかる希望を私に与えようとするのですか？"
+    },
+    {
+      "id": 23,
+      "scene": 3,
+      "speaker": "Hippolyte",
+      "originalText": "Je me rends. Ma raison cède à la violence.\nPuisque en vous quittant, puisqu'en fuyant,\nJ'emporterais l'image de vos charmes,\nEt que rien ne peut rompre la chaîne qui m'attache,\nAimez-moi donc, madame. Ayez pitié d'un cœur\nQui ne respire que vous. Vivez, aimez.",
+      "provisionalTranslation": "降参します。私の理性は暴力に屈する。\nあなたを離れるとき、逃げるとき、\n私はあなたの魅力の面影を持ち去るのだから、\n私を繋ぐ鎖を何も断ち切ることができないのだから、\n私を愛してください、奥様。憐れんでください\nあなたのためだけに息をしているこの心を。生き、愛してください。"
+    },
+    {
+      "id": 24,
+      "scene": 3,
+      "speaker": "Aricie",
+      "originalText": "Seigneur, je vous entends. Mais gardez-vous\nDe prendre ici mon trouble pour un aveu :\nCe que vous dites m'a surprise et me confond.\nEt si vous êtes juste, et si vous daignez voir\nCombien votre destin diffère du mien,\nVous comprendrez que je dois moins vous croire\nQue respecter ce silence où mon cœur se repose.",
+      "provisionalTranslation": "殿、あなたのおっしゃることを理解しています。しかし気をつけてください\n私の動揺を告白と取らないように。\nあなたがおっしゃることは私を驚かせ、混乱させます。\nそしてもしあなたが公正で、見ていただけるなら\nあなたの運命が私のそれといかに異なるかを、\n私を信じるべきでないよりも\n私の心が憩うこの沈黙を敬うべきことをおわかりになるでしょう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Un ennemi si fier, si superbe à mes yeux,\nHippolyte !",
+      "body": "「かくも誇り高く、傲慢な敵（Un ennemi si fier, si superbe）」──アリシーがScène Iでヒポリットを指すこの形容は、第1幕でテラメーヌが用いた「superbe Hippolyte（傲慢なヒポリット）」という評を反響する。「superbe（傲慢な）」という語がヒポリットを定義する支配的形容詞として劇全体に繰り返される点をバルト『ラシーヌ論』は重視する──ヒポリットの「傲慢さ（superbia）」は愛への不可侵を主張する鎧であり、その鎧の崩壊こそがScène IIIの核心となる。アリシーのこの発話は「傲慢な者を愛してしまった自己矛盾」を認識しながらも、その認識が愛を止められない逆説を語る──バルトが「ラシーヌ的愛の非対称性」として論じた「aimant/aimé の不均衡」：「愛する者は常に、より少なく愛する者・無関心な者・不在の者へと向かう」という命題が、アリシーとヒポリットの関係構造にも適用される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Maîtresse de moi-même en vain, je me roidis.",
+      "body": "「自分自身の主人として、私は空しく身を固くする（Maîtresse de moi-même en vain, je me roidis）」──アリシーのこの半行はScène IIIのヒポリットの「降参（Je me rends）」（§23）と完全に対称をなす：二人はそれぞれ、愛に対して抵抗する「意志的自己（maîtresse / orgueil）」を持ちながら、それが「空しく（en vain）」であることを認識する。ここにバルト『ラシーヌ論』の「ラシーヌ的人間」の本質が現れる──「悲劇的人物は『すること』でなく『いかにすべきか（que faire）』の人間」：アリシーは「身を固くする（je me roidis）」という行為を選びながら、その行為の無効性を自覚する。フェードルの「C'est Vénus tout entière à sa proie attachée（ヴィーナスが全身食らいつく）」との決定的差異：フェードルは「ヴィーナスに食われる受動体」として愛に服するが、アリシーは「空しくとも抵抗する意志的主体」として愛に向かう──ラシーヌがこの二つの愛を劇的に対立させた構造。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "prosody",
+      "anchor": "Ce cœur si fier, ce front qui s'était toujours\nDe l'amour préservé par une dure loi",
+      "body": "「かくも誇り高かったこの心、この額（Ce cœur si fier, ce front）」──指示形容詞「ce（この）」の二重使用が、ヒポリットが語る「かつての自己」を現在の自己から切り離す距離感を生む。アレクサンドランの第1幕Scène Iでのテラメーヌの「superbe Hippolyte」という他者による命名が、ここでヒポリット自身による自己命名に転換される──自己言及的アレクサンドランの典型例。ラシーヌのアレクサンドランにおける「自己客体化」の技法：主語（je）と目的語（ce cœur, ce front）が同一人物を指しながら、文法的に分離されることで「語る自己」と「語られる自己」の距離が生まれる──バルト『ラシーヌ論』が「ラシーヌ的意識の分裂」として論じた構造の韻文的体現。単純過去（s'était préservé）から現在形（je me trouvai vaincu）への時制の転換が「防衛の過去」から「降伏の現在」への不可逆的移行を刻印する。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Présente, je vous fuis ; absente, je vous trouve ;\nDans le fond des forêts votre image me suit ;\nLa lumière du jour, les ombres de la nuit,\nTout retrace à mes yeux les charmes que j'évite",
+      "body": "第1幕Scène IIIでフェードルが「Présente, je le fuis ; absent, je le retrouve」（§15）と語った追跡の構造が、ここでヒポリットによってほぼ逐語的に反復される──「vous」と「le」の人称が替わるだけで、追跡の構文は同一。このテクスト的な反響はラシーヌの意図的設計である：フェードルの「禁じられた愛の追跡」とヒポリットの「許される愛の追跡」が同一の詩的構文を共有することで、二つの愛の形式的同一性・内容的対立性が際立つ。バルト『ラシーヌ論』の「ラシーヌ劇における反復（répétition）」論：「ラシーヌの悲劇は同一の状況・感情が異なる人物によって異なる段階で反復されることで意味を生成する──反復は類似でなく、意味の変容として機能する」。「昼の光も夜の影も（La lumière du jour, les ombres de la nuit）」という昼/夜の二項対立がフェードルの発話（Scène I-II）から引き継がれながら、光の存在（太陽の子孫フェードル）に語られる場合とアマゾーンの息子（影と森の人ヒポリット）に語られる場合で意味が分岐する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "glossary",
+      "anchor": "L'Hymen n'est point ce que mon âme cherche.",
+      "body": "「婚礼は私の魂が求めるものではありません（L'Hymen n'est point ce que mon âme cherche）」──アリシーの告白の中で最も解釈が分かれる一行。17世紀の文脈では「結婚を求めない」という宣言は「貞潔の誓い」か「愛は認めるが婚礼という制度を求めない」という二義に開かれる。アリシーはパランティダイの末裔として「子孫を残すことでパランティダイの血を復活させてはならない」とテーセウスに禁じられていた──その禁止が「婚礼」の言及にまず政治的な影を落とす。バルト『ラシーヌ論』が論じる「ラシーヌ的語法における迂回」：直接的な欲望の表現を避け、その否定形・周辺形によって欲望を示す技法──「婚礼を求めない（L'Hymen n'est point）」という否定が「しかし愛は認める」という肯定の迂回的形式として機能する。ヒポリットの「愛の告白（§17–19）」とアリシーの「受容の留保（§20・22・24）」という非対称な対話構造が、バルトの「aimant/aimé の非対称性」を「フェードルvsヒポリット」の軸とは別の「ヒポリットvsアリシー」の軸で体現する。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Je me rends. Ma raison cède à la violence.",
+      "body": "「降参します（Je me rends）。私の理性は暴力に屈する（Ma raison cède à la violence）」──ヒポリットの告白の頂点、かつ劇的転換の決定的一行。「Je me rends」という短い三語──Scène I冒頭の「Le dessein en est pris : je pars（決意は固まった：私は出発する）」という宣言の完全な逆転として読める：「出発」という決意を「降参」という自己消去が打ち消す。「raison（理性）」対「violence（暴力）」──アレクサンドランの6＋6切れ目がこの二項対立を等分に対置する：「Ma raison（私の理性、6音節）／cède à la violence（暴力に屈する、6音節）」。バルト『ラシーヌ論』の「ラシーヌ的降伏（la reddition）」論：「ラシーヌ的英雄の決定的な瞬間は、抵抗から降伏への移行であり、その移行は常に一行か数語で表現される──長い心理的迷いの末にではなく、閾の交差として」。フェードルの「C'est Vénus tout entière à sa proie attachée」がヴィーナスという外的力による受動的降伏であるのに対し、ヒポリットの「Je me rends / Ma raison cède」は理性という内的力への能動的降伏という構造──同じ「降伏」でありながら、意志の位置が真逆である。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Seigneur, je vous entends. Mais gardez-vous\nDe prendre ici mon trouble pour un aveu",
+      "body": "「殿、あなたのおっしゃることを理解しています。しかし気をつけてください / 私の動揺を告白と取らないように」──アリシーの最後の発話はヒポリットの「降参（Je me rends）」と完全に対称をなしながら、対称の形式の中で非対称な意味を持つ。「je vous entends（理解しています）」という理解の確認が「gardez-vous（気をつけてください）」という警戒への指示と対になる──受け取ることと距離を置くことの同時的表明。バルト『ラシーヌ論』の「腹心（confident）としての機能」：アリシーはここでイスメーヌ不在の中、ヒポリットの告白に対してヒポリット自身の「腹心的」な距離を与える役割を担う──「あなたの動揺を告白と取らないように」という言葉が、ヒポリットの告白を整理し名付けることを拒む。「このScène IIIはラシーヌ独自の創案（ラシーヌの先行テクスト──エウリピデス・セネカ──にはヒポリットの愛の対象としてのアリシーは存在しない）」の帰結として、アリシーの応答の「留保」はヒポリットの愛を「未完のまま宙吊りにする」：次のScène IVでフェードルが登場することで、この未完の応答がさらに複雑な三角関係へと組み込まれていく。"
+    }
+  ]
+}
