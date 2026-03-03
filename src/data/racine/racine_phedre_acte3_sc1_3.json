@@ -1,0 +1,301 @@
+{
+  "id": "racine_phedre_acte3_sc1_3",
+  "title": "Phèdre — Acte III, Scènes I–III",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版タイトル); 改題: Phèdre, 1687年以降. テキスト底本: édition 1697, publié par Gwénola, Ernest et Paul Fièvre (theatre-classique.fr, septembre 2015)",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 3,
+  "scenes": [1, 2, 3],
+  "characters": ["Phèdre", "Œnone", "Thésée"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第3幕ScèneI〜III（v.737〜908）。第2幕の告白場面（v.581-736）直後から始まる。ScèneIはフェードルとエノンの二人で展開する：フェードルは告白の恥辱・ヒポリットの拒絶・剣の幻想のなかで苦悩し、エノンに「戦略的接近」を委任する（アテネ統治への野心でヒポリットを懐柔せよ）。ScèneII（Phèdre seule, v.793-812 + 帰還のŒnoneとの対話, v.813-824）：ヴィーナスへの孤独な呪詛と祈願、続いてエノンが「テーセウスが生きている」と告げる衝撃の転換。ScèneIIIはフェードルの精神的崩壊と、エノンが「先にヒポリットを告発する」という逆転策を提案し、フェードルが受動的にそれを受け入れる──告発という「犯罪」への滑落の場面。第3幕前半全体が「愛の失敗」から「告発という罪」への転落の弁証法として構成される。",
+  "keywords": [
+    "テーセウス帰還の報",
+    "エノンの告発策",
+    "ヴィーナスへの祈願",
+    "剣の幻想",
+    "先手を打つ告発",
+    "フェードルの崩壊",
+    "共犯の構造",
+    "沈黙から告発へ",
+    "愛から犯罪へ",
+    "Immoler tout et même la vertu"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte2_sc4_6",
+    "racine_phedre_acte1_sc3_5",
+    "racine_phedre_acte1_sc1_2",
+    "mallarme_herodiade_scene",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Ah ! que l'on porte ailleurs les honneurs qu'on m'envoie.\nImportune, peux-tu souhaiter qu'on me voie ?\nDe quoi viens-tu flatter mon esprit désolé ?\nCache-moi bien plutôt, je n'ai que trop parlé.\nMes fureurs au dehors ont osé se répandre.\nJ'ai dit ce que jamais on ne devait entendre.\nCiel ! comme il m'écoutait ! Par combien de détours\nL'insensible a longtemps éludé mes discours !\nComme il ne respirait qu'une retraite prompte !\nEt combien sa rougeur a redoublé ma honte !",
+      "provisionalTranslation": "ああ！私に送られてくる栄誉はよそへ持って行ってくれ。\n邪魔者よ、あなたは私が見られることを望めるのか？\nどんな甘言で打ちひしがれた私の心を慰めに来るのか？\nむしろよく隠してくれ、私はあまりにも語りすぎた。\n私の激情は外へ溢れ出てしまった。\n決して聞かれてはならないことを言ってしまった。\n神よ！彼はどのように私の言葉を聞いていたことか！いくつもの迂回によって\nあの冷淡な男はどれほど長く私の言葉を躱し続けたことか！\n彼がいかに素早い退去だけを望んでいたかを！\nそして彼の赤らみがいかに私の恥を二倍にしたことか！"
+    },
+    {
+      "id": 2,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Pourquoi détournais-tu mon funeste dessein ?\nHélas ! quand son épée allait chercher mon sein,\nA-t-il pâli pour moi ? Me l'a-t-il arrachée ?\nIl suffit que ma main l'ait une fois touchée,\nJe l'ai rendue horrible à ses yeux inhumains,\nEt ce fer malheureux profanerait ses mains.",
+      "provisionalTranslation": "なぜあなたは私の不吉な企てを妨げたのですか？\nああ！彼の剣が私の胸を求めようとしていたとき、\n彼は私のために青ざめたか？剣を奪い取ったか？\n私の手が一度それに触れたことで十分、\n私はそれをあの非情な目に恐ろしいものにしてしまった、\nそしてあの不幸な鉄は彼の手を汚すことになろう。"
+    },
+    {
+      "id": 3,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Ainsi dans vos malheurs ne songeant qu'à vous plaindre,\nVous nourrissez un feu, qu'il vous faudrait éteindre.\nNe vaudrait-il pas mieux, digne sang de Minos,\nDans de plus nobles soins chercher votre repos,\nContre un ingrat qui plaît recourir à la fuite,\nRégner, et de l'État embrasser la conduite ?",
+      "provisionalTranslation": "そのように自分の不幸に嘆くことしか考えず、\nあなたは消さなければならない火を育んでいます。\nミノスの血を引く方よ、もっとましではないでしょうか、\nより気高い務めのなかに安らぎを求めることが、\n気に入ってしまった恩知らずに対しては逃走に頼り、\n統治し、国家の指揮を担うことが。"
+    },
+    {
+      "id": 4,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Moi régner ! Moi ranger un État sous ma loi !\nQuand ma faible raison ne règne plus sur moi,\nLorsque j'ai de mes sens abandonné l'empire,\nQuand sous un joug honteux à peine je respire,\nQuand je me meurs.",
+      "provisionalTranslation": "私が統治！私が国家を法のもとに治める！\n私の弱い理性が私を治めていないのに、\n私が自分の感覚の支配を放棄しているのに、\n恥ずかしい軛のもとで私はやっと息をしているのに、\n私は死にかけているのに。"
+    },
+    {
+      "id": 5,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Fuyez.",
+      "provisionalTranslation": "逃げてください。"
+    },
+    {
+      "id": 6,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Je ne le puis quitter.",
+      "provisionalTranslation": "彼を離れることができません。"
+    },
+    {
+      "id": 7,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Vous l'osâtes bannir, vous n'osez l'éviter.",
+      "provisionalTranslation": "あなたは追放しようとしたのに、避けることができないのですか。"
+    },
+    {
+      "id": 8,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Il n'est plus temps. Il sait mes ardeurs insensées.\nDe l'austère pudeur les bornes sont passées.\nJ'ai déclaré ma honte aux yeux de mon vainqueur,\nEt l'espoir malgré moi s'est glissé dans mon cœur.\nToi-même rappelant ma force défaillante,\nEt mon âme déjà sur mes lèvres errante,\nPar tes conseils flatteurs tu m'as su ranimer.\nTu m'as fait entrevoir que je pouvais l'aimer.",
+      "provisionalTranslation": "もう遅すぎる。彼は私の狂った情熱を知っている。\n厳格な慎みの境界は越えてしまった。\n私の征服者の目に私の恥を告白してしまった、\nそして希望が私の意志に反して私の心に滑り込んでしまった。\nあなた自身が衰えゆく私の力を呼び戻し、\n私の魂がすでに唇の上をさまよっていたとき、\nあなたのおだてる言葉で私を生き返らせた。\nあなたは私が彼を愛することができると思わせた。"
+    },
+    {
+      "id": 9,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Hélas ! de vos malheurs innocente ou coupable,\nDe quoi pour vous sauver n'étais-je point capable ?\nMais si jamais l'offense irrita vos esprits,\nPouvez-vous d'un superbe oublier les mépris ?\nAvec quels yeux cruels sa rigueur obstinée\nVous laissait à ses pieds peu s'en faut prosternée !\nQue son farouche orgueil le rendait odieux !\nQue Phèdre en ce moment n'avait-elle mes yeux !",
+      "provisionalTranslation": "ああ！あなたの不幸において無実であれ有罪であれ、\nあなたを救うために私は何でもできたでしょうか？\nしかし、もし侮辱がかつてあなたの心を苛立たせたなら、\n傲慢な男の軽蔑を忘れることができますか？\nその頑固な冷淡さがいかに残酷な目で\nあなたをほとんど彼の足元に平伏させたことか！\n彼の荒々しい誇りがいかに彼を忌まわしくしていたことか！\nあの瞬間フェードルが私の目を持っていれば！"
+    },
+    {
+      "id": 10,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Œnone, il peut quitter cet orgueil qui te blesse.\nNourri dans les forêts, il en a la rudesse.\nHippolyte endurci par de sauvages lois\nEntend parler d'amour pour la première fois.\nPeut-être sa surprise a causé son silence,\nEt nos plaintes peut-être ont trop de violence.",
+      "provisionalTranslation": "エノン、彼はあなたを傷つけるその誇りを捨てることができる。\n森で育ったから、その荒々しさがある。\n野蛮な掟で鍛えられたヒポリットは\n愛の話を初めて聞いたのだ。\nおそらく彼の驚きが沈黙を引き起こしたのかもしれない、\nそして私たちの嘆きはおそらく激しすぎたのかもしれない。"
+    },
+    {
+      "id": 11,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Songez qu'une barbare en son sein l'a formé.",
+      "provisionalTranslation": "野蛮な女が彼をその胸で育てたことをお考えください。"
+    },
+    {
+      "id": 12,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Quoique Scythe et barbare, elle a pourtant aimé.",
+      "provisionalTranslation": "スキタイの野蛮人であっても、それでも彼女は愛した。"
+    },
+    {
+      "id": 13,
+      "scene": 1,
+      "speaker": "Œnone",
+      "originalText": "Il a pour tout le sexe une haine fatale.",
+      "provisionalTranslation": "彼は女性全体に対して致命的な憎しみを持っています。"
+    },
+    {
+      "id": 14,
+      "scene": 1,
+      "speaker": "Phèdre",
+      "originalText": "Je ne me verrai point préférer de rivale.\nEnfin tous tes conseils ne sont plus de saison.\nSers ma fureur, Œnone, et non point ma raison.\nIl oppose à l'amour un cœur inaccessible.\nCherchons pour l'attaquer quelque endroit plus sensible.\nLes charmes d'un empire ont paru le toucher.\nAthènes l'attirait, il n'a pu s'en cacher.\nDéjà de ses vaisseaux la pointe était tournée,\nEt la voile flottait aux vents abandonnée.\nVa trouver de ma part ce jeune ambitieux,\nŒnone. Fais briller la couronne à ses yeux.\nQu'il mette sur son front le sacré diadème.\nJe ne veux que l'honneur de l'attacher moi-même.\nCédons-lui ce pouvoir que je ne puis garder.\nIl instruira mon fils dans l'art de commander.\nPeut-être il voudra bien lui tenir lieu de père.\nJe mets sous son pouvoir et le fils et la mère.\nPour le fléchir enfin tente tous les moyens.\nTes discours trouveront plus d'accès que les miens.\nPresse, pleure, gémis, plains-lui Phèdre mourante.\nNe rougis point de prendre une voix suppliante.\nJe t'avouerai de tout, je n'espère qu'en toi.\nVa, j'attends ton retour pour disposer de moi.",
+      "provisionalTranslation": "ライバルが私より優先されるのを見ることはないだろう。\nもうあなたのすべての助言は時宜を得ていない。\n私の激情に仕えてくれ、エノン、理性にではなく。\n彼は愛に対して近づけない心で向き合っている。\n攻めるためにもっと弱い場所を探しましょう。\n帝国の魅力が彼を動かすように見えた。\nアテネが彼を引き付けていた、彼はそれを隠せなかった。\nすでに彼の船の舳先は向きを変えていた、\n帆は風に委ねられてはためいていた。\nこの野心的な若者に私の代わりに会いに行って、\nエノン。彼の目に王冠を輝かせよ。\n彼に聖なる王冠をその額に戴かせよ。\n私はそれを自ら彼に結ぶ光栄だけを望む。\n私が保持できないこの権力を彼に譲ろう。\n彼は私の息子に統治の術を教えるだろう。\nおそらく彼は息子の父の代わりになってくれるだろう。\n息子も母も彼の権力のもとに委ねよう。\n彼を和らげるためにあらゆる手段を試みてくれ。\nあなたの言葉は私のものより受け入れられやすいだろう。\n嘆き、泣き、うめき、死にかけるフェードルの様子を伝えてくれ。\n懇願する声をとることを恥じないで。\nすべてをあなたに打ち明けます、あなただけに頼るのです。\n行って、あなたの帰りを待って私自身のことを決める。"
+    },
+    {
+      "id": 15,
+      "scene": 2,
+      "speaker": "Phèdre",
+      "originalText": "Ô toi ! qui vois la honte où je suis descendue,\nImplacable Vénus, suis-je assez confondue ?\nTu ne saurais plus loin pousser ta cruauté.\nTon triomphe est parfait, tous tes traits ont porté.\nCruelle, si tu veux une gloire nouvelle,\nAttaque un ennemi qui te soit plus rebelle.\nHippolyte te fuit, et bravant ton courroux,\nJamais à tes autels n'a fléchi les genoux.\nTon nom semble offenser ses superbes oreilles.\nDéesse, venge-toi, nos causes sont pareilles.",
+      "provisionalTranslation": "ああ、あなたよ！私が落ちていった恥辱を見ているあなたよ、\n容赦ないヴィーナスよ、私はこれほど打ちのめされても足りないか？\nあなたの残酷さをこれ以上遠くまで押し進めることはできない。\nあなたの勝利は完成した、あなたのすべての矢が当たった。\n残酷な女よ、もし新たな栄光を望むなら、\nあなたにもっと反抗的な敵を攻めよ。\nヒポリットはあなたから逃げ、あなたの怒りに挑みながら、\nかつてあなたの祭壇に膝を折ったことがない。\nあなたの名前は彼の誇り高い耳を傷つけるように見える。\n女神よ、復讐せよ、私たちの訴えは同じだ。"
+    },
+    {
+      "id": 16,
+      "scene": 2,
+      "speaker": "Phèdre",
+      "originalText": "Qu'il aime ! Mais déjà tu reviens sur tes pas,\nŒnone ? On me déteste, on ne t'écoute pas.",
+      "provisionalTranslation": "彼が愛するように！しかし、もうあなたは引き返してくるのか、\nエノン？私は嫌われている、あなたの話を聞こうとしない。"
+    },
+    {
+      "id": 17,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Il faut d'un vain amour étouffer la pensée,\nMadame. Rappelez votre vertu passée.\nLe roi, qu'on a cru mort, va paraître à vos yeux.\nThésée est arrivé. Thésée est en ces lieux.\nLe peuple, pour le voir, court et se précipite.\nJe sortais par votre ordre, et cherchais Hippolyte,\nLorsque jusques au ciel mille cris élancés...",
+      "provisionalTranslation": "空虚な愛の考えを窒息させなければなりません、\n奥様。かつての徳を取り戻してください。\n死んだと思われていた王が、あなたの目の前に現れます。\nテーセウスが来た。テーセウスがここにいます。\n民が彼を見ようと走り急いでいます。\nあなたの命令で出て、ヒポリットを探していると、\n天まで届く千の叫び声が……"
+    },
+    {
+      "id": 18,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Mon époux est vivant, Œnone, c'est assez.\nJ'ai fait l'indigne aveu d'un amour qui l'outrage.\nIl vit. Je ne veux pas en savoir davantage.",
+      "provisionalTranslation": "私の夫は生きている、エノン、それで十分だ。\n彼を侮辱する愛の恥ずべき告白をしてしまった。\n彼は生きている。それ以上知りたくない。"
+    },
+    {
+      "id": 19,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Quoi ?",
+      "provisionalTranslation": "何ですって？"
+    },
+    {
+      "id": 20,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Je te l'ai prédit, mais tu n'as pas voulu.\nSur mes justes remords tes pleurs ont prévalu.\nJe mourais ce matin digne d'être pleurée.\nJ'ai suivi tes conseils, je meurs déshonorée.",
+      "provisionalTranslation": "前に言ったのに、あなたは聞かなかった。\nあなたの涙が私の正当な悔恨に勝ってしまった。\n今朝私は嘆かれるにふさわしく死んでいた。\nあなたの言葉に従った、今は不名誉のうちに死ぬ。"
+    },
+    {
+      "id": 21,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Vous mourez ?",
+      "provisionalTranslation": "死ぬのですか？"
+    },
+    {
+      "id": 22,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Juste ciel ! Qu'ai-je fait aujourd'hui ?\nMon époux va paraître, et son fils avec lui.\nJe verrai le témoin de ma flamme adultère\nObserver de quel front j'ose aborder son père,\nLe cœur gros de soupirs, qu'il n'a point écoutés,\nL'œil humide de pleurs, par l'ingrat rebutés.\nPenses-tu que sensible à l'honneur de Thésée,\nIl lui cache l'ardeur dont je suis embrasée ?\nLaissera-t-il trahir et son père et son roi ?\nPourra-t-il contenir l'horreur qu'il a pour moi ?\nIl se tairait en vain. Je sais mes perfidies,\nŒnone, et ne suis point de ces femmes hardies,\nQui goûtant dans le crime une tranquille paix\nOnt su se faire un front qui ne rougit jamais.\nJe connais mes fureurs, je les rappelle toutes.\nIl me semble déjà que ces murs, que ces voûtes\nVont prendre la parole, et prêts à m'accuser\nAttendent mon époux, pour le désabuser.\nMourons. De tant d'horreurs, qu'un trépas me délivre.\nEst-ce un malheur si grand, que de cesser de vivre ?\nLa mort aux malheureux ne cause point d'effroi.\nJe ne crains que le nom que je laisse après moi.\nPour mes tristes enfants quel affreux héritage !\nLe sang de Jupiter doit enfler leur courage.\nMais quelque juste orgueil qu'inspire un sang si beau,\nLe crime d'une mère est un pesant fardeau.\nJe tremble qu'un discours, hélas ! trop véritable,\nUn jour ne leur reproche une mère coupable.\nJe tremble qu'opprimés de ce poids odieux,\nL'un ni l'autre jamais n'ose lever les yeux.",
+      "provisionalTranslation": "正しい天よ！今日私は何をしてしまったのか！\n夫が来て、息子も一緒に来る。\n私の姦通の炎の証人が、\n私がどんな顔で彼の父に近づくかを観察するのを見るだろう、\n聞いてもらえなかった溜息で重くなった心で、\n恩知らずに退けられた涙で湿った目で。\nテーセウスの名誉を大切にするなら、\n私が燃やされている情熱を彼に隠すだろうか？\n父と王の両方を裏切ることを許すだろうか？\n私への恐怖を抑えることができるだろうか？\n彼が黙っていても無駄だ。私は自分の裏切りを知っている、\nエノン、そして私は犯罪のなかで静かな平和を味わい\nついに赤らまない顔を作ることのできたあの大胆な女たちのひとりではない。\n私は自分の激情を知っている、それらをすべて思い起こす。\nもうすでにこれらの壁、これらの天井が\n口を利こうとし、私を告発する準備をして\n夫を待っているように感じる。\n死のう。これほど多くの恐怖から、ひとつの死が私を解放してくれますように。\n生きることをやめることは、それほど大きな不幸か？\n死は不幸な者に恐怖を引き起こさない。\n私が恐れるのは死後に残す名前だけだ。\n悲しい子供たちのためになんと恐ろしい遺産か！\nユピテルの血は彼らの勇気を高めるはずだ。\nしかし、そんな気高い血が与えるどんな正当な誇りも、\n母の罪は重い荷物だ。\nある言葉が、ああ、あまりにも本当のことを、\n有罪の母を彼らにある日責めるのではないかと震える。\nあのおぞましい重荷に押しつぶされて、\nどちらも目を上げる気力を持てないのではないかと震える。"
+    },
+    {
+      "id": 23,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Il n'en faut point douter, je les plains l'un et l'autre.\nJamais crainte ne fut plus juste que la vôtre.\nMais à de tels affronts, pourquoi les exposer ?\nPourquoi contre vous-même allez-vous déposer ?\nC'en est fait. On dira que Phèdre trop coupable,\nDe son époux trahi fuit l'aspect redoutable.\nHippolyte est heureux qu'aux dépens de vos jours,\nVous-même en expirant appuyiez ses discours.\nÀ votre accusateur, que pourrai-je répondre ?\nJe serai devant lui trop facile à confondre.\nDe son triomphe affreux je le verrai jouir,\nEt conter votre honte à qui voudra l'ouïr.\nAh ! que plutôt du ciel la flamme me dévore !\nMais ne me trompez point, vous est-il cher encore ?\nDe quel œil voyez-vous ce prince audacieux ?",
+      "provisionalTranslation": "疑いようがない、私は二人ともあわれに思います。\nあなたの恐れほど正当な恐れはかつてなかった。\nしかし、そのような恥辱に子供たちをさらすために、なぜ？\nなぜ自分に不利な証言をするのか？\nもう終わりだ。フェードルは罪が重すぎて、\n裏切られた夫の恐ろしい顔を逃れたと言われるだろう。\nヒポリットはあなたの命と引き換えに\nあなた自身が息絶えながら彼の言葉を支持することで幸せになる。\n彼の告発に、私は何と答えられるか？\n私は彼の前ですぐに論破されてしまうだろう。\n彼の恐ろしい勝利を楽しむのを見るだろう、\nあなたの恥を聞きたい者に語るのを。\nああ！それよりも天の火が私を焼き尽くしてくれ！\nしかし私を欺かないで、彼はまだあなたに大切なのですか？\nあなたはその大胆な王子をどんな目で見ていますか？"
+    },
+    {
+      "id": 24,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Je le vois comme un monstre effroyable à mes yeux.",
+      "provisionalTranslation": "彼を私の目に恐ろしい怪物として見ています。"
+    },
+    {
+      "id": 25,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Pourquoi donc lui céder une victoire entière ?\nVous le craignez... Osez l'accuser la première\nDu crime dont il peut vous charger aujourd'hui.\nQui vous démentira ? Tout parle contre lui.\nSon épée en vos mains heureusement laissée,\nVotre trouble présent, votre douleur passée,\nSon père par vos cris dès longtemps prévenu,\nEt déjà son exil par vous-même obtenu.",
+      "provisionalTranslation": "ならばなぜ彼に完全な勝利を譲るのですか？\nあなたは彼を恐れている……今日あなたに告発できる罪で\n彼を先に告発することを思い切ってください。\n誰があなたに反論するか？すべてが彼に不利に語っている。\n幸いなことにあなたの手にある彼の剣、\n現在のあなたの動揺、過去のあなたの苦しみ、\nあなたの叫びによってずっと以前から警戒されている父、\nそしてすでにあなた自身が得た彼の追放。"
+    },
+    {
+      "id": 26,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Moi, que j'ose opprimer et noircir l'innocence !",
+      "provisionalTranslation": "私が、無実を圧迫し汚すことを敢えてするのか！"
+    },
+    {
+      "id": 27,
+      "scene": 3,
+      "speaker": "Œnone",
+      "originalText": "Mon zèle n'a besoin que de votre silence.\nTremblante comme vous, j'en sens quelques remords.\nVous me verriez plus prompte affronter mille morts.\nMais puisque je vous perds sans ce triste remède,\nVotre vie est pour moi d'un prix à qui tout cède.\nJe parlerai. Thésée aigri par mes avis,\nBornera sa vengeance à l'exil de son fils.\nUn père en punissant, Madame, est toujours père.\nUn supplice léger suffit à sa colère.\nMais le sang innocent dût-il être versé,\nQue ne demande point votre honneur menacé ?\nC'est un trésor trop cher pour oser le commettre.\nQuelque loi qu'il vous dicte, il faut vous y soumettre,\nMadame, et pour sauver notre honneur combattu,\nIl faut immoler tout, et même la vertu.",
+      "provisionalTranslation": "私の熱意に必要なのはあなたの沈黙だけです。\nあなたと同じように震えながら、私はいくつかの自責を感じます。\n千の死と対峙するほうがずっと素早かったでしょう。\nしかしこの悲しい手段なしにあなたを失うのですから、\nあなたの命は私にとってすべてに勝る価値があります。\n私が話しましょう。テーセウスは私の知らせで怒りをあおられ、\n息子の追放に復讐を留めるでしょう。\n父は罰しながらも、奥様、常に父です。\n軽い罰で彼の怒りは十分です。\nしかし無実の血が流されるとしても、\n脅かされたあなたの名誉は何を求めないのか？\nそれは危険にさらすには大切すぎる宝です。\nそれがどんな法則を命じようと、服従しなければなりません、\n奥様、そして戦われた名誉を救うためには、\nすべてを犠牲にしなければなりません、徳でさえも。"
+    },
+    {
+      "id": 28,
+      "scene": 3,
+      "speaker": "Phèdre",
+      "originalText": "Ah ! je vois Hippolyte.\nDans ses yeux insolents je vois ma perte écrite.\nFais ce que tu voudras, je m'abandonne à toi.\nDans le trouble où je suis, je ne peux rien pour moi.",
+      "provisionalTranslation": "ああ！ヒポリットが見える。\n彼の傲慢な目に私の破滅が書かれているのが見える。\nあなたの思うままにして、あなたに身を委ねます。\n私がいるこの混乱の中では、自分のために何もできない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ah ! que l'on porte ailleurs les honneurs qu'on m'envoie.\nImportune, peux-tu souhaiter qu'on me voie ?",
+      "body": "第3幕ScèneIの冒頭2行の劇的配置：「Ah !」で始まる感嘆詞の爆発はScèneV末尾「Donne（渡せ）」の1語命令形の後続として機能し、第2幕全体の緊張が瞬時に新たな局面に転換したことを示す。「porte ailleurs（よそへ持って行け）」という命令形が、第1幕のフェードルが「voiles（ヴェール）」「ornements（飾り）」を拒絶した第1幕§17の感覚的拒否と構造的に対応する──第1幕：外的世界（衣装）の拒絶、第3幕：社会的世界（名誉・栄誉）の拒絶。「Importune（邪魔者よ）」という呼びかけがエノンに向けられる──腹心への名指しの変容：第1幕ではエノンへの呼びかけは「chère Œnone（親愛なるエノン）」だった。",
+      "targetId": "racine_phedre_acte1_sc3_5",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Hélas ! quand son épée allait chercher mon sein,\nA-t-il pâli pour moi ? Me l'a-t-il arrachée ?\nIl suffit que ma main l'ait une fois touchée,\nJe l'ai rendue horrible à ses yeux inhumains,",
+      "body": "剣の幻想の事後的再構成。第2幕Scène Vの末尾「Donne（渡せ）」以降の舞台的事実の曖昧さ：台本はフェードルが実際に剣を手にしたかどうかを明示しない。「Il suffit que ma main l'ait une fois touchée（私の手が一度それに触れたことで十分）」という条件節が事実の確定を避けながら「触れた」という感覚的記憶を固定する。バルト『ラシーヌ論』の「汚染（souillure）」論：ラシーヌ的世界において接触は感染であり、フェードルの手が剣を汚したと同様に、フェードルの愛の言葉はヒポリットを「汚染」する──「ce fer malheureux profanerait ses mains（あの不幸な鉄は彼の手を冒涜する）」という思考が示すように、「汚れたもの」は連鎖的に汚染を広げる。この論理がエノンの告発策（「剣があなたの手に残っている」という物証の活用）を第3幕Scène IIIで可能にする伏線として機能する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Toi-même rappelant ma force défaillante,\nEt mon âme déjà sur mes lèvres errante,\nPar tes conseils flatteurs tu m'as su ranimer.\nTu m'as fait entrevoir que je pouvais l'aimer.",
+      "body": "フェードルのエノンへの責任転嫁の構造──第1幕Scène IIIの事後的解釈として。「tu m'as su ranimer（あなたが私を生き返らせた）」「Tu m'as fait entrevoir（あなたが思わせた）」という二重の「させた」構文が、フェードルの主体性を徐々にエノンに転移させる言語操作として機能する。バルト『ラシーヌ論』の「腹心の機能（la fonction du confident）」：エノンは「語らせる者」として第1幕で機能したが、第3幕では「行動させる者」に転化する──告白を引き出したことと、政治的策略を実行することが連続する共犯の連鎖として再解釈される。第5幕でフェードルが「エノンへの非難」に転化するこの責任転嫁の論理の最初の表れ。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Sers ma fureur, Œnone, et non point ma raison.\nIl oppose à l'amour un cœur inaccessible.\nCherchons pour l'attaquer quelque endroit plus sensible.",
+      "body": "「Sers ma fureur, Œnone, et non point ma raison（私の激情に仕えてくれ、エノン、理性にではなく）」──ラシーヌの序文が「フェードルの情熱は理性に反するものであり自ら忌避する」と述べた主題の言語化。フェードルが意識的に「理性を捨て情熱に従う」よう他者に命じる場面は劇中でここだけ──この一行が第3幕の「委任による罪」の構造的根拠となる。「Cherchons pour l'attaquer quelque endroit plus sensible（攻めるためにもっと弱い場所を探しましょう）」──愛の対象を「攻撃（attaquer）」する戦略的言語：愛が戦争の語彙で語られる転倒がここで極限に達する。バルト「ラシーヌ的愛の攻撃性」：ラシーヌにおいて愛することは征服・占有・破壊と不可分であり、愛の失敗は戦略的計算を生む──「l'attaquer（彼を攻める）」はヒポリットを愛の対象でなく戦略的な標的として定義し直す瞬間。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Va trouver de ma part ce jeune ambitieux,\nŒnone. Fais briller la couronne à ses yeux.\nQu'il mette sur son front le sacré diadème.\nJe ne veux que l'honneur de l'attacher moi-même.",
+      "body": "「Fais briller la couronne à ses yeux（彼の目に王冠を輝かせよ）」──ヴィジュアルな説得の命令：「briller（輝く）」という動詞が王冠をヒポリットの「目（yeux）」に向けて演出するよう命じる。「Je ne veux que l'honneur de l'attacher moi-même（私はそれを自ら彼に結ぶ光栄だけを望む）」──「l'attacher（結ぶ）」という動詞の多義性：王冠を結ぶという行為が「彼を自分に結びつける」という欲望の身体的表現でもある。4行のアレクサンドランが命令（fais）→願望（qu'il）→限定（je ne veux que）という意志の段階的構造をなし、フェードルの欲望の論理が政治的提案に偽装される言語操作の精密さをヴァレリー「Sur Phèdre femme」の「形式が情熱を結晶化する」論から検証できる。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Ô toi ! qui vois la honte où je suis descendue,\nImplacable Vénus, suis-je assez confondue ?",
+      "body": "Scène II「Phèdre seule（フェードル独り）」──劇全体でフェードルが単独で台詞を持つ唯一の場面（Scène II前半のみ、v.793-812）。「Implacable Vénus（容赦ないヴィーナス）」という呼びかけ：第1幕で「Ô haine de Vénus（ヴィーナスの憎しみよ）」と呼んだのと対応するが、「haine（憎しみ）」から「Implacable（容赦ない）」への変化が告白後の新局面を示す。バルト「テネブロゾ・ラシーヌ（le ténébroso racinien）」の「神への告発」：フェードルがヴィーナスを「残酷（cruelle）」と呼ぶのは第1幕§8「C'est Vénus tout entière à sa proie attachée」の「神が情熱を送り込んだ」という認識の延長──フェードルは自分の罪の主体でありながら、その罪の究極的な責任者として神を呼び出す。この二重性（罪の主体でありながら罪の被害者）がラシーヌのフェードルをエウリピデスのフェードラから区別する核心的特質。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "intertextual",
+      "anchor": "Hippolyte te fuit, et bravant ton courroux,\nJamais à tes autels n'a fléchi les genoux.\nTon nom semble offenser ses superbes oreilles.\nDéesse, venge-toi, nos causes sont pareilles.",
+      "body": "「Déesse, venge-toi, nos causes sont pareilles（女神よ、復讐せよ、私たちの訴えは同じだ）」──フェードルとヴィーナスの「共同訴訟」という論理的倒錯：ヒポリットがヴィーナスを崇拝しないことを理由に、フェードルは自分への「復讐」と女神への「復讐」を同一視する。この一行がエウリピデス『ヒッポリュトス』との最大の相違点の一つ：エウリピデスでは神の復讐（アフロディーテ）が劇の枠組みとして外側から設定されるが、ラシーヌではフェードル自身がその論理を自分の中で引き受け、内面化する。マラルメ「エロディアード」との対比：マラルメのエロディアードもまた「冷たい水（l'eau froide）」「純潔（pudeur）」への固執によってヴィーナス的な愛を拒否する──ヒポリットとエロディアードはともに「愛を拒む者」として、それぞれの作品でヴィーナス的世界への反抗者として機能する。",
+      "targetId": "mallarme_herodiade_scene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 22,
+      "type": "prosody",
+      "anchor": "Mourons. De tant d'horreurs, qu'un trépas me délivre.\nEst-ce un malheur si grand, que de cesser de vivre ?\nLa mort aux malheureux ne cause point d'effroi.\nJe ne crains que le nom que je laisse après moi.",
+      "body": "「Mourons（死のう）」──一語命令形の孤立した発話（第1人称複数の「勧奨話法（l'hortative）」として、自分自身への命令）。第2幕Scène Vの「Frappe（打て）」「Donne（渡せ）」と同型の単語孤立の構造だが、今度は対象がヒポリットではなく自分自身。「Je ne crains que le nom que je laisse après moi（私が恐れるのは死後に残す名前だけだ）」──「名前（nom）」と「名誉（honneur）」の論理的連動：フェードルが「死ぬこと」より「名前が汚れること」を恐れる倒錯した優先順位が明示される。この「名前への恐怖」が直後のエノンの告発策（「先に告発して名前を守れ」）への心理的基盤として機能する──「Mourons」という死の選択が「nom（名前）」への執着によって制動され、告発という「生き延びの論理」が入り込む隙間が生まれる。"
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Je parlerai. Thésée aigri par mes avis,\nBornera sa vengeance à l'exil de son fils.\nUn père en punissant, Madame, est toujours père.\nUn supplice léger suffit à sa colère.\nMais le sang innocent dût-il être versé,\nQue ne demande point votre honneur menacé ?\nC'est un trésor trop cher pour oser le commettre.\nQuelque loi qu'il vous dicte, il faut vous y soumettre,\nMadame, et pour sauver notre honneur combattu,\nIl faut immoler tout, et même la vertu.",
+      "body": "「Il faut immoler tout, et même la vertu（すべてを犠牲にしなければならない、徳でさえも）」──劇全体で最も論理的に危険な一行。エノンの弁論術の頂点：「血は流れないだろう（Un supplice léger suffit）」→「もし流れても（Mais le sang innocent dût-il être versé）」→「それでも名誉が求めるなら」という条件節の連続が、無実の者の死という可能性を段階的に「名誉のための必要悪」へと包摂していく。「immoler（犠牲にする）」という動詞は宗教的な「供犠」の語彙であり、「徳（vertu）」が神への捧げ物として語られる──バルト『ラシーヌ論』の「エノンの機能転化」：腹心は主人の意志の延長として行動するはずだが、ここでエノンは自分の論理でフェードルの意志を超えて行動しようとする。フェードルの次の発話「Moi, que j'ose opprimer et noircir l'innocence !（§26）」は一行の拒絶だが、§28でフェードルは「Fais ce que tu voudras, je m'abandonne à toi（あなたの思うままにして）」と白紙委任する──この白紙委任が第5幕でフェードルがエノンを「私の犯罪（mon crime）」と呼ぶ告白の伏線となる。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "Fais ce que tu voudras, je m'abandonne à toi.\nDans le trouble où je suis, je ne peux rien pour moi.",
+      "body": "「je m'abandonne à toi（あなたに身を委ねます）」──第3幕Scènes I-III全体の論理的帰結。第1幕で「Tu le veux. Lève-toi（あなたが望む。起きなさい）」という最小限の同意で告白を「させられた」フェードルが、ここでは積極的に「委任」の言語を使う：「fais ce que tu voudras（あなたの思うままにして）」。バルト『ラシーヌ論』の「passéité（受動性）」論：ラシーヌ的悲劇の主体は本質的に受動的であり、自分の欲望の主体でありながら行動の主体にはなれない──フェードルはScène Vで愛を告白し（能動）、Scène VIで告発を委任し（再び受動）、第5幕で真実を告白して死ぬ（能動の回帰）という弁証法的構造をたどる。「Dans le trouble où je suis, je ne peux rien pour moi（私がいるこの混乱の中では、自分のために何もできない）」という最後の一行が、第3幕前半全体の心理的結論として機能する：「自分のために何もできない」という主体の解消が「エノンへの委任」を正当化する。"
+    }
+  ]
+}
