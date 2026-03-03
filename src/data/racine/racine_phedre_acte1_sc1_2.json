@@ -10,8 +10,16 @@
   "genre": "tragédie",
   "work": "Phèdre",
   "act": 1,
-  "scenes": [1, 2],
-  "characters": ["Hippolyte", "Théramène", "Phèdre", "Œnone"],
+  "scenes": [
+    1,
+    2
+  ],
+  "characters": [
+    "Hippolyte",
+    "Théramène",
+    "Phèdre",
+    "Œnone"
+  ],
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
   "context": "ラシーヌ最後の世俗悲劇（1677年）。全5幕・1654行。ギリシャ神話のパイドラー──アテネ王テーセウスの妻でありながら、前妻アマゾーンとの息子ヒッポリュトスへの禁断の愛に苦しむ──を題材とする。エウリピデス「ヒッポリュトス」（紀元前428年）、セネカ「パイドラー」を先行テクストとして持つが、ラシーヌはアリシーへのヒポリットの愛（原典にない）を導入し、フェードルの罪の構造を根本的に変容させた。第1幕Scène IとIIは劇全体の二つの主要な「出発の動機」を対称的に提示する──Scène I：ヒポリットが父テーセウスを探して出発しようとする（表の動機）と、アリシーへの愛から逃れようとする（隠れた動機）。Scène II：フェードルが死を望みながら出てくる──エノンとの対話でその原因がゆっくりと引き出される。両場面が「語ること・語らないこと」の緊張によって構成される点でラシーヌ語法の核心を体現する。",
@@ -48,34 +56,34 @@
       "id": 2,
       "scene": 1,
       "speaker": "Théramène",
-      "originalText": "Et dans quels lieux, seigneur, l'allez-vous donc chercher ?\nDéjà pour satisfaire à votre juste crainte,\nJ'ai couru les deux mers que sépare Corinthe ;\nJ'ai demandé Thésée aux peuples de ces bords\nOù l'on voit l'Achéron se perdre chez les morts ;\nJ'ai visité l'Élide, et laissant le Ténare,\nPassé jusqu'à la mer qui vit tomber Icare.\nSur quel espoir nouveau, dans quels heureux climats\nCreyez-vous découvrir la trace de ses pas ?\nQui sait même, qui sait si le roi votre père\nVeut que de ses travaux on sache le mystère ?\nEt si, lorsque avec nous il tremble pour sa vie,\nNous ne craignons point trop que lui-même on n'oublie,\nCes lieux qu'il habite voulons-nous violer\nDans le secret peut-être où lui-même il veut être,\nEt ce repos qu'il cherche, et qu'on ne doit troubler ?",
-      "provisionalTranslation": "ではどこへ、殿、探しに行くのですか？\nすでに殿の正当な懸念に応えるべく、\n私はコリントが分かつ両海を渡りました。\n冥府の川アケロンが死者たちの国へ消える岸辺の民にテーセウスを尋ねました。\nエリスを訪れ、テナロスを後にして、\nイカロスが落ちた海まで渡りました。\nいかなる新たな希望で、いかなる幸いな土地に\n殿はその足跡を見つけようとお思いなのですか？\nそもそも誰が知りましょう、王であるお父上が\nその功業の謎を世に知らせることを望んでおられるのかどうかを。\nそして、彼が私たちとともに命を案じているとき、\n彼自身が忘れられることを私たちは恐れすぎているのではないか──\n彼が住まう場所に、おそらく彼自身が望む秘密の中に踏み込んでいいものか、\nその安息を──乱すべきでないその安息を。"
+      "originalText": "Et dans quels lieux, seigneur, l'allez-vous donc chercher ?\nDéjà pour satisfaire à votre juste crainte,\nJ'ai couru les deux mers que sépare Corinthe ;\nJ'ai demandé Thésée aux peuples de ces bords\nOù l'on voit l'Achéron se perdre chez les morts ;\nJ'ai visité l'Élide, et laissant le Ténare,\nPassé jusqu'à la mer, qui vit tomber Icare.\nSur quel espoir nouveau, dans quels heureux climats\nCroyez-vous découvrir la trace de ses pas ?\nQui sait même, qui sait si le roi votre père\nVeut que de son absence on sache le mystère ?\nEt si lorsque avec vous nous tremblons pour ses jours,\nTranquille, et nous cachant de nouvelles amours,\nCe héros n'attend point qu'une amante abusée...",
+      "provisionalTranslation": "ではどこへ、殿、探しに行くのですか？\nすでに殿の正当な懸念に応えるべく、\n私はコリントが分かつ両海を渡りました。\n冥府の川アケロンが死者たちの国へ消える岸辺の民にテーセウスを尋ねました。\nエリスを訪れ、テナロスを後にして、\nイカロスが落ちた海まで渡りました。\nいかなる新たな希望で、いかなる幸いな土地に\n殿はその足跡を見つけようとお思いなのですか？\nそもそも誰が知りましょう、王であるお父上が\nその不在の謎を世に知らせることを望んでおられるのかどうかを。\nそして、私たちとともにその身を案じているとき、\n静かに新たな恋を隠しながら——\nこの英雄は、騙された恋人が……と待ってはいない。"
     },
     {
       "id": 3,
       "scene": 1,
       "speaker": "Hippolyte",
-      "originalText": "Ce héros n'attend point qu'une amante abusée\nLâchement dans les fers d'une femme épousée.\nThésée a disparu. Quel dieu l'a dérobé ?\nSon âme généreuse en est-elle troublée ?\nCe héros n'attend point qu'une amante abusée\nLui reproche une foi si longtemps violée.\nDepuis quand doutez-vous du généreux Thésée ?\nDepuis quand vous a-t-il donné sujet de plainte ?\nPour quelque honte encor, pour quelque indigne crainte\nAllez-vous donc priver Trézène de son maître ?\nEt pour lui garder toute sa dignité,\nFaut-il l'abandonner à sa captivité ?\nCet esclave est-il né pour le mener en fête ?\nEt son fils généreux laisse-t-il cette dette ?\nNon, non, je dois chercher mon courageux père.\nPar votre foi, ma cause est-elle si légère ?\nEst-ce vous qui portez la honte de ma mère ?\nÀ son malheur d'hier est-il juste en ce jour,\nQue Minos soit vengé, et que tous les aveux... ?\nSon fils courageux ne ferait-il pas mieux,\nQue ce feu qu'il éteint, que mon seul mouvement...?",
-      "provisionalTranslation": "この英雄は、騙された恋人が\n卑怯にも娶った女の枷の中に鎖でつながれているのを待ちはしない。\nテーセウスは姿を消した。いかなる神が彼を奪ったのか？\nその高貴な魂は乱されているのか？\nこの英雄は、騙された恋人が\n長きにわたって踏みにじられた誓いを責め立てるのを待ちはしない。\nいつから寛大なテーセウスを疑うのですか？\nいつから彼はあなたに不満の種を与えましたか？\nなんらかの恥から、なんらかの卑しい恐れから\nあなたはトレゼンをその主人から奪おうとするのですか？\nそして彼の威厳をすべて守るために、\n彼を囚われの身に置き去りにしなければならないのか？\nあの従者は彼を祝典に連れていくために生まれたのか？\nそして彼の高貴な息子はこの負債を放置するのか？\nいや、いや、私は勇敢な父を探さなければならない。\n誓いにかけて、私の大義はそれほど軽いのですか？\n母の恥辱をあなたが背負っているのですか？\n昨日の不幸に対して今日、\nミノスが復讐され、すべての告白が...？\nその勇敢な息子は、\nこの消えゆく炎よりも、私自身の衝動よりも、\nよりよいことをしないのか...？"
+      "originalText": "Cher Théramène, arrête, et respecte Thésée.\nDe ses jeunes erreurs désormais revenu,\nPar un indigne obstacle il n'est point retenu ;\nEt fixant de ses vœux l'inconstance fatale,\nPhèdre depuis longtemps ne craint plus de rivale.\nEnfin en le cherchant je suivrai mon devoir,\nEt je fuirai ces lieux que je n'ose plus voir.",
+      "provisionalTranslation": "親愛なるテラメーヌよ、止まれ、テーセウスを敬え。\n若き日の過ちからはもはや立ち返った彼を、\n卑しい障害は引き留めていない。\n心変わりの致命的な移ろいに歯止めをかけ、\nフェードルはもはや長いこと恋仇を恐れていない。\n彼を探すことで私は義務を果たすだろう、\nそしてもはや見ることのできないこの地から逃れよう。"
     },
     {
       "id": 4,
       "scene": 1,
       "speaker": "Théramène",
-      "originalText": "Cher Théramène, arrête, et respecte Thésée.\nDe ses jeunes erreurs désormais revenu,\nPar un indigne obstacle il n'est point retenu ;\nEt fixant de ses vœux l'inconstance fatale,\nPhèdre depuis longtemps ne craint plus de rivale.\nEnfin, en le cherchant, je suivrai mon devoir,\nEt je fuirai ces lieux que je n'ose plus voir.",
-      "provisionalTranslation": "親愛なるテラメーヌよ、止まれ、テーセウスを敬え。\n若き日の過ちからはもはや立ち返った彼を、\n卑しい障害は引き留めていない。\n心変わりの致命的な移ろいに歯止めをかけ、\nフェードルはもはや長いこと恋仇を恐れていない。\n結局、彼を探すことで私は義務を果たすだろう、\nそしてもはや見ることのできないこの地から逃れよう。"
+      "originalText": "Eh ! depuis quand, seigneur, craignez-vous la présence\nDe ces paisibles lieux si chers à votre enfance,\nEt dont je vous ai vu préférer le séjour\nAu tumulte pompeux d'Athènes et de la cour ?\nQuel péril, ou plutôt quel chagrin vous en chasse ?",
+      "provisionalTranslation": "ええ！いつから殿は、\n幼少のころから親しんだこの穏やかな地の存在を恐れるのですか、\nアテネの壮麗な喧騒や宮廷よりも\nここに留まることを好んでおられたあの地を。\nいかなる危険が、あるいはむしろいかなる悲しみがあなたをここから追い立てるのですか？"
     },
-    {
+     {
       "id": 5,
       "scene": 1,
-      "speaker": "Théramène",
-      "originalText": "Eh ! depuis quand, seigneur, craignez-vous la présence\nDe ces paisibles lieux si chers à votre enfance,\nEt dont je vous ai vu préférer le séjour\nAu tumulte pompeux d'Athènes et de la cour ?\nQuel péril, ou plutôt quel chagrin vous en chasse ?\nCet heureux temps n'est plus. Tout a changé de face,\nDepuis que sur ces bords les dieux ont envoyé\nLa fille de Minos et de Pasiphaé.",
-      "provisionalTranslation": "ええ！いつから殿は、\n幼少のころから親しんだこの穏やかな地の存在を恐れるのですか、\nアテネの壮麗な喧騒や宮廷よりも\nここに留まることを好んでおられたあの地を。\nいかなる危険が、あるいはむしろいかなる悲しみがあなたをここから追い立てるのですか？\nあの幸せな時は過ぎ去った。すべての様相が変わった、\nこの岸辺に神々が遣わして以来──\nミノスとパシファエの娘を。"
+      "speaker": "Hippolyte",
+      "originalText": "Cet heureux temps n'est plus. Tout a changé de face,\nDepuis que sur ces bords les dieux ont envoyé\nLa fille de Minos et de Pasiphaé.",
+      "provisionalTranslation": "あの幸せな時は過ぎ去った。すべての様相が変わった、\nこの岸辺に神々が遣わして以来──\nミノスとパシファエの娘を。"
     },
     {
       "id": 6,
       "scene": 1,
-      "speaker": "Hippolyte",
+      "speaker": "Théramène",
       "originalText": "J'entends. De vos douleurs la cause m'est connue.\nPhèdre ici vous chagrine, et blesse votre vue.\nDangereuse marâtre, à peine elle vous vit,\nQue votre exil d'abord signala son crédit.\nMais sa haine, sur vous autrefois attachée,\nOu s'est évanouie, ou s'est bien relâchée.\nEt d'ailleurs quels périls vous peut faire courir\nUne femme mourante, et qui cherche à mourir ?\nPhèdre, atteinte d'un mal qu'elle s'obstine à taire,\nLasse enfin d'elle-même et du jour qui l'éclaire,\nPeut-elle contre vous former quelques desseins ?",
       "provisionalTranslation": "わかります。あなたの悩みの原因は私には明らかです。\nフェードルがここであなたを苦しめ、あなたの目を傷つけている。\n危険な継母、彼女はあなたを見るや否や、\nあなたの追放によってまずその権力を示した。\nしかし、かつてあなたに向けられた彼女の憎悪は、\n消え去ったか、すっかり緩んだ。\nそして、それ以上にいかなる危険があなたに迫ろうか、\n死にかけており、死を求める女から。\nフェードルは、言い張って黙し続ける病に冒され、\nついに自分自身と、自分を照らす昼の光に疲れ果て、\n果たしてあなたに対して何らかの企みを抱けるだろうか？"
     },
