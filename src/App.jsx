@@ -1,4 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
+import {
+  Bookmark, BookmarkCheck,
+  CalendarDays, Settings, Moon, Sun,
+  Volume2, Square as IconSquare,
+  Search, Link, FileText, List,
+  ChevronRight, ChevronDown,
+  X, Check, Tag,
+} from 'lucide-react';
 import racineData from './data/racine';
 import mallarmeData from './data/mallarme';
 import baudelaireData from './data/baudelaire';
@@ -603,7 +611,7 @@ export default function App() {
                     : darkMode ? 'bg-black/20 text-violet-300 hover:bg-black/30' : 'bg-white/70 text-violet-800 hover:bg-violet-100'
                 }`}
               >
-                {isIntertextualOpen ? '▲ 折りたたむ' : '▼ 対照テキストを展開'}
+{isIntertextualOpen ? <><ChevronDown size={11} className='inline mr-0.5' />折りたたむ</> : <><ChevronRight size={11} className='inline mr-0.5' />対照テキストを展開</>}
               </button>
               <button
                 onClick={(e) => { e.stopPropagation(); handleTextChange(ann.targetId); }}
@@ -670,17 +678,22 @@ export default function App() {
     if (allBookmarks.length === 0) return (
       <div className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-1">
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>🔖 ブックマーク</h2>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}><Bookmark size={13} strokeWidth={1.6} />ブックマーク</h2>
           <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70`}>閉じる</button>
         </div>
-        <p className={`text-sm font-sans ${textSecondary} py-3`}>ブックマークはありません。段落ヘッダーの 🔖 ボタンで追加できます。</p>
+        <p className={`text-sm font-sans ${textSecondary} py-3 flex items-center gap-1.5 flex-wrap`}>
+          ブックマークはありません。段落ヘッダーの
+          <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded border text-xs font-mono"
+            style={{verticalAlign:'middle'}}><Bookmark size={11} strokeWidth={1.6} /></span>
+          ボタンで追加できます。
+        </p>
       </div>
     );
     return (
       <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-3">
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>
-            🔖 ブックマーク <span className="font-normal opacity-70">({allBookmarks.length}件)</span>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}>
+            <Bookmark size={13} strokeWidth={1.6} />ブックマーク <span className="font-normal opacity-70">({allBookmarks.length}件)</span>
           </h2>
           <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70 font-sans`}>閉じる</button>
         </div>
@@ -705,12 +718,12 @@ export default function App() {
                   onClick={(e) => { e.stopPropagation(); copyParaLink(e, textId, paraId); }}
                   title="リンクをコピー"
                   className={`shrink-0 text-xs px-1.5 py-0.5 rounded font-sans transition-colors ${darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'}`}
-                >🔗</button>
+><Link size={12} strokeWidth={1.6} /></button>
                 <button
                   onClick={(e) => toggleBookmark(e, textId, paraId)}
                   title="ブックマーク解除"
                   className={`shrink-0 text-xs font-sans transition-colors ${darkMode ? 'text-amber-400 hover:text-zinc-400' : 'text-amber-600 hover:text-stone-400'}`}
-                >🔖</button>
+><BookmarkCheck size={13} strokeWidth={2} /></button>
               </div>
             );
           })}
@@ -752,8 +765,8 @@ export default function App() {
     return (
       <div className={`rounded-xl border p-4 mb-4 overflow-hidden ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-4">
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>
-            📅 時系列マップ
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}>
+            <CalendarDays size={13} strokeWidth={1.6} />時系列マップ
           </h2>
           <button onClick={() => setShowTimeline(false)} className={`text-xs font-sans ${textSecondary} hover:opacity-70`}>閉じる</button>
         </div>
@@ -911,7 +924,7 @@ export default function App() {
                     {isCol && orig && (
                       <span className={`text-xs truncate ${textClass}`}>{orig.split('\n')[0]}</span>
                     )}
-                    <span className={`ml-auto text-xs ${textSecondary}`}>{isCol ? '▶' : '▼'}</span>
+                    <span className={`ml-auto ${textSecondary}`}>{isCol ? <ChevronRight size={12} strokeWidth={1.8} /> : <ChevronDown size={12} strokeWidth={1.8} />}</span>
                   </button>
                   {/* 段落コンテンツ */}
                   {!isCol && (
@@ -1046,8 +1059,8 @@ export default function App() {
           <h3 className={`text-sm font-semibold tracking-wide font-sans ${textClass}`}>表示設定</h3>
           <button
             onClick={() => setShowSettings(false)}
-            className={`w-7 h-7 flex items-center justify-center rounded-full text-sm transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
-          >✕</button>
+            className={`w-7 h-7 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
+          ><X size={13} strokeWidth={2} /></button>
         </div>
 
         <div className="p-5 space-y-6 flex-1">
@@ -1154,41 +1167,41 @@ export default function App() {
           <button
             onClick={() => { setShowBookmarks(v => !v); setShowTimeline(false); }}
             title="ブックマーク一覧"
-            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
               showBookmarks
                 ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
                 : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
             }`}
           >
-            🔖
+            <Bookmark size={15} strokeWidth={1.6} />
           </button>
           <button
             onClick={() => { setShowTimeline(v => !v); setShowBookmarks(false); }}
             title="時系列マップ"
-            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
               showTimeline
                 ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
                 : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
             }`}
           >
-            📅
+            <CalendarDays size={15} strokeWidth={1.6} />
           </button>
           <button
             onClick={() => setDarkMode(!darkMode)}
-            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
+            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
             title="ダーク/ライト切替"
           >
-            {darkMode ? '☀️' : '🌙'}
+            {darkMode ? <Sun size={15} strokeWidth={1.6} /> : <Moon size={15} strokeWidth={1.6} />}
           </button>
           <button
             onClick={() => setShowSettings(v => !v)}
-            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
               showSettings
                 ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
                 : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
             title="表示設定"
           >
-            ⚙️
+            <Settings size={15} strokeWidth={1.6} />
           </button>
         </div>
       </header>
@@ -1200,8 +1213,8 @@ export default function App() {
           <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-amber-950/30 border-amber-900/50' : 'bg-amber-50 border-amber-200'}`}>
             <button
               onClick={() => setShowWelcome(false)}
-              className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70 text-xl leading-none`}
-            >×</button>
+              className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
+            ><X size={14} strokeWidth={2} /></button>
             <p className={`text-sm font-sans ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
               📚 19〜20世紀の近代西洋テクスト対訳集。フランス語・英語・ドイツ語の詩・批評原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
@@ -1241,7 +1254,7 @@ export default function App() {
         {/* ─── 検索バー ─────────────────────────────── */}
         <div className="mb-4">
           <div className="relative">
-            <span className="absolute left-3 top-1/2 -translate-y-1/2 text-base pointer-events-none">🔍</span>
+            <span className={`absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none ${textSecondary}`}><Search size={14} strokeWidth={1.6} /></span>
             <input
               type="text"
               value={searchQuery}
@@ -1252,8 +1265,8 @@ export default function App() {
             {searchQuery && (
               <button
                 onClick={() => { setSearchQuery(''); setActiveKeyword(null); }}
-                className={`absolute right-3 top-1/2 -translate-y-1/2 text-base ${textSecondary} hover:opacity-70`}
-              >×</button>
+                className={`absolute right-3 top-1/2 -translate-y-1/2 ${textSecondary} hover:opacity-70`}
+              ><X size={13} strokeWidth={2} /></button>
             )}
           </div>
           {activeKeyword && (
@@ -1261,9 +1274,9 @@ export default function App() {
               <span className={`text-xs font-sans ${textSecondary}`}>キーワードフィルター中：</span>
               <button
                 onClick={() => { setActiveKeyword(null); setSearchQuery(''); }}
-                className={`text-xs font-sans px-2 py-0.5 rounded border ${darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'}`}
+                className={`text-xs font-sans px-2 py-0.5 rounded border flex items-center gap-1 ${darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'}`}
               >
-                ✕ {activeKeyword}
+                <X size={11} strokeWidth={2} />{activeKeyword}
               </button>
             </div>
           )}
@@ -1388,7 +1401,7 @@ export default function App() {
                         : darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700 hover:border-zinc-500 hover:text-zinc-200' : 'bg-stone-100 text-stone-600 border-stone-200 hover:border-stone-400 hover:bg-stone-50'
                     }`}
                   >
-                    {isActive ? '✕ ' : ''}{k}
+{isActive && <X size={10} strokeWidth={2.5} className='inline mr-0.5' />}{k}
                   </button>
                 );
               })}
@@ -1469,7 +1482,7 @@ export default function App() {
               } ${textClass}`}
             >
               <span className="flex items-center gap-2">
-                <span>📋</span>
+                <List size={14} strokeWidth={1.6} className="shrink-0" />
                 <span>注釈インデックス</span>
                 <span className={`text-xs px-2 py-0.5 rounded-full ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
                   {currentText.annotations.length}件
@@ -1483,7 +1496,7 @@ export default function App() {
                   ))}
                 </span>
               </span>
-              <span className={`text-xs ${textSecondary}`}>{showAnnotationIndex ? '▲' : '▼'}</span>
+              <span className={`${textSecondary}`}>{showAnnotationIndex ? <ChevronDown size={13} strokeWidth={1.8} /> : <ChevronRight size={13} strokeWidth={1.8} />}</span>
             </button>
 
             {showAnnotationIndex && (
@@ -1559,13 +1572,13 @@ export default function App() {
               onClick={expandAll}
               className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-sans ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
-              ▼ すべて展開
+              すべて展開
             </button>
             <button
               onClick={collapseAll}
               className={`px-3 py-1.5 text-xs rounded-lg transition-colors font-sans ${darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
             >
-              ▶ すべて折りたたむ
+              すべて折りたたむ
             </button>
             <button
               onClick={() => speakAll(currentText)}
@@ -1576,7 +1589,7 @@ export default function App() {
                   : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-sans' : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-sans'
               }`}
             >
-              {speakingId === 'all' ? '⏹ 停止' : '🔊 全文'}
+              {speakingId === 'all' ? <><IconSquare size={10} strokeWidth={2} fill='currentColor' className='inline mr-1' />停止</> : <><Volume2 size={13} strokeWidth={1.6} className='inline mr-1' />全文</>}
             </button>
           </div>
           <button
@@ -1591,6 +1604,7 @@ export default function App() {
         {!crossMode && <div className={`space-y-2 pb-10 ${fontSizeMap[fontSize]}`}>
           {currentText.paragraphs.map((para, paraIdx) => {
             const isCollapsed = collapsedParagraphs[para.id];
+            const isBookmarkedPara = isBookmarked(selectedText, para.id);
             const hasUserTrans = !!userTranslations[para.id];
             const translation = getTranslation(para);
             const paraAnnotations = getParaAnnotations(para.id);
@@ -1641,14 +1655,22 @@ export default function App() {
                 className={`rounded-xl overflow-hidden transition-all relative ${
                   !isCollapsed ? (darkMode ? 'shadow-md shadow-black/30' : 'shadow-sm') : ''
                 } ${
-                  darkMode ? 'border border-zinc-800 bg-zinc-900' : 'border border-stone-200 bg-white'
+                  isBookmarkedPara
+                    ? darkMode ? 'border border-amber-700/60 bg-zinc-900' : 'border border-amber-300 bg-white'
+                    : darkMode ? 'border border-zinc-800 bg-zinc-900' : 'border border-stone-200 bg-white'
                 }`}
               >
+                {/* ブックマーク左ボーダーアクセント */}
+                {isBookmarkedPara && (
+                  <div className={`absolute left-0 top-0 bottom-0 w-0.5 rounded-l-xl ${darkMode ? 'bg-amber-500' : 'bg-amber-400'}`} />
+                )}
                 {/* 段落ヘッダー（折りたたみボタン） */}
                 <button
                   onClick={() => toggleParagraph(para.id)}
                   className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
-                    darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
+                    isBookmarkedPara
+                      ? darkMode ? 'hover:bg-amber-950/30 bg-amber-950/10' : 'hover:bg-amber-50/80 bg-amber-50/40'
+                      : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
                   }`}
                 >
                   <div className="flex items-center gap-3 min-w-0">
@@ -1687,35 +1709,37 @@ export default function App() {
                     <button
                       onClick={(e) => toggleBookmark(e, selectedText, para.id)}
                       title={isBookmarked(selectedText, para.id) ? 'ブックマーク解除' : 'ブックマークに追加'}
-                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-all ${
+                      className={`w-5 h-5 flex items-center justify-center rounded transition-all ${
                         isBookmarked(selectedText, para.id)
-                          ? darkMode ? 'text-amber-400' : 'text-amber-600'
-                          : darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-200 hover:text-stone-400'
+                          ? darkMode ? 'text-amber-400' : 'text-amber-500'
+                          : darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'
                       }`}
                     >
-                      🔖
+                      {isBookmarked(selectedText, para.id)
+                        ? <BookmarkCheck size={13} strokeWidth={2} />
+                        : <Bookmark size={13} strokeWidth={1.5} />}
                     </button>
                     {/* リンクコピーボタン */}
                     <button
                       onClick={(e) => copyParaLink(e, selectedText, para.id)}
                       title="この段落のリンクをコピー"
-                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-colors ${darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-200 hover:text-stone-400'}`}
+                      className={`w-5 h-5 flex items-center justify-center rounded transition-colors ${darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'}`}
                     >
-                      🔗
+                      <Link size={12} strokeWidth={1.6} />
                     </button>
                     {/* 段落読み上げボタン */}
                     <button
                       onClick={(e) => { e.stopPropagation(); speakParagraph(para, currentText); }}
                       title={speakingId === para.id ? '停止' : 'この段落を読み上げる'}
-                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-colors ${
+                      className={`w-5 h-5 flex items-center justify-center rounded transition-colors ${
                         speakingId === para.id
                           ? (darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white')
                           : darkMode ? 'text-zinc-600 hover:text-zinc-400' : 'text-stone-300 hover:text-stone-500'
                       }`}
                     >
-                      {speakingId === para.id ? '⏹' : '🔊'}
+                      {speakingId === para.id ? <IconSquare size={10} strokeWidth={2} fill="currentColor" /> : <Volume2 size={13} strokeWidth={1.6} />}
                     </button>
-                    <span className={`text-xs ${textSecondary}`}>{isCollapsed ? '▶' : '▼'}</span>
+                    <span className={`${textSecondary}`}>{isCollapsed ? <ChevronRight size={13} strokeWidth={1.8} /> : <ChevronDown size={13} strokeWidth={1.8} />}</span>
                   </div>
                 </button>
 
@@ -1763,7 +1787,7 @@ export default function App() {
                           }`}
                         >
                           <span className="flex items-center gap-2">
-                            <span>📝</span>
+                            <FileText size={13} strokeWidth={1.6} className="shrink-0" />
                             <span>注釈 {paraAnnotations.length}件</span>
                             {/* typeバッジ一覧（折りたたみ時） */}
                             {!isAnnotationOpen && (
@@ -1776,7 +1800,7 @@ export default function App() {
                               </span>
                             )}
                           </span>
-                          <span>{isAnnotationOpen ? '▲' : '▼'}</span>
+                          <span>{isAnnotationOpen ? <ChevronDown size={12} strokeWidth={1.8} /> : <ChevronRight size={12} strokeWidth={1.8} />}</span>
                         </button>
                         {isAnnotationOpen && (
                           <div className="px-3 pb-3 space-y-2">
