@@ -1,0 +1,114 @@
+{
+  "id": "poe_a_dream_within_a_dream",
+  "title": "A Dream Within a Dream",
+  "author": "Edgar Allan Poe",
+  "source": "Flag of Our Union, 31 March 1849 (初出誌); The Works of the Late Edgar Allan Poe, Vol. II, 1850",
+  "year": "1849",
+  "firstPublication": "Flag of Our Union, 31 March 1849",
+  "difficulty": "中級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ポーの晩年の詩。現実と夢の境界が溶解するという主題はポー文学の核心的モチーフであり、本作では砂を指から救おうとする無力な身振りによってそれが象徴的に表現される。1827年の初期詩「Imitation」の改作であり、ポーが死の年（1849年）に発表した。二連構成の後半でサーフの砂を掬う劇的なイメージは、「The Raven」「Ulalume」と並んでポーの孤絶した存在感覚を凝縮する。",
+  "keywords": ["夢", "現実", "喪失", "時間", "砂", "波", "希望", "虚無", "象徴主義", "ゴシック"],
+  "relatedTexts": [
+    "poe_the_raven",
+    "yeats_aedh_wishes_for_the_cloths_of_heaven",
+    "mallarme_musique_lettres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Take this kiss upon the brow!\nAnd, in parting from you now,\nThus much let me avow—\nYou are not wrong, who deem\nThat my days have been a dream;",
+      "provisionalTranslation": "この口づけをこめかみに受けよ！\nそして今あなたと別れるにあたり、\nこれだけは打ち明けておこう──\nあなたは間違っていない、私の日々が\n夢であったと思うあなたは。"
+    },
+    {
+      "id": 2,
+      "originalText": "Yet if hope has flown away\nIn a night, or in a day,\nIn a vision, or in none,\nIs it therefore the less gone?",
+      "provisionalTranslation": "しかし希望が飛び去ってしまったなら\n夜のうちに、あるいは昼のうちに、\n幻の中で、あるいは何もない中で──\nそれゆえ去り方が少ないとでも言えようか？"
+    },
+    {
+      "id": 3,
+      "originalText": "All that we see or seem\nIs but a dream within a dream.",
+      "provisionalTranslation": "われわれが見るもの、あるいはあるように見えるもの、\nそのすべては夢の中の夢にすぎない。"
+    },
+    {
+      "id": 4,
+      "originalText": "I stand amid the roar\nOf a surf-tormented shore,\nAnd I hold within my hand\nGrains of the golden sand—",
+      "provisionalTranslation": "私は轟音の中に立っている\n波浪に苦しめられた岸辺の轟音の中に。\nそして私は手の中に握っている\n黄金の砂の粒を──"
+    },
+    {
+      "id": 5,
+      "originalText": "How few! yet how they creep\nThrough my fingers to the deep,\nWhile I weep—while I weep!\nO God! can I not grasp\nThem with a tighter clasp?",
+      "provisionalTranslation": "何と少ないことか！しかし砂粒はいかに忍び去ることか\n私の指の間から深みへと、\n私が泣く間も──私が泣く間も！\nああ神よ！私には握れないのか\nもっと強く握ることが？"
+    },
+    {
+      "id": 6,
+      "originalText": "O God! can I not save\nOne from the pitiless wave?\nIs all that we see or seem\nBut a dream within a dream?",
+      "provisionalTranslation": "ああ神よ！私には救えないのか\n情け容赦ない波から一粒でも？\nわれわれが見るもの、あるいはあるように見えるもの、\nそのすべては夢の中の夢にすぎないのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Take this kiss upon the brow",
+      "body": "詩は別離の場面から開幕する。「brow（こめかみ・額）」への口づけは唇ではなく額への接触であり、恋人への情熱的な別れではなく、哀惜と諦念をはらんだ訣別の仕草として読める。誰に向けての別れかは明示されないが、詩の自伝的文脈ではサラ・エルミラ・ロイスターとの関係が想起される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "my days have been a dream",
+      "body": "1827年のポーの初期詩「Imitation」の改作。原型では「all we see or seem / Is but a dream within a dream」という問いかけの形式はなく、本作への改訂でリフレイン的な問い返しが導入された。生の全体を夢として捉える主題はシェイクスピア『テンペスト』（「We are such stuff / As dreams are made on」）とも共鳴する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Yet if hope has flown away",
+      "body": "第1連はAAABB / CC の押韻構造（brow / now / avow / dream / deem → away / day / none / gone）。「gone」のみ不完全韻（none / gone）となっており、希望の喪失が韻の乱れとして音響的に刻印される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "All that we see or seem\nIs but a dream within a dream.",
+      "body": "第1連の結尾に置かれたリフレイン。デカルト的懐疑「われわれが現実と思うものは夢かもしれない」という問いを、陳述ではなく嘆息として提示する。「see or seem」の頭韻と「dream within a dream」の入れ子構造が認識論的な眩暈を音形として体現している。第2連末でも繰り返されるが、そこでは陳述が疑問文へと変容する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "surf-tormented shore",
+      "body": "第2連は場面が一転し、語り手は波打ち際に立つ。「tormented（苦しめられた）」という語は波に対して感情を帰属させる擬人化であり、岸そのものが苦痛の主体として浮かび上がる。ポーの詩における海岸はしばしば生と死の境界域として機能する（「Annabel Lee」参照）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "golden sand",
+      "body": "「黄金の砂」は単なる砂浜の描写を超え、時間・価値・過去の経験・失われた命（亡き人々）の象徴として読める。金色という属性は砂が本来的に貴重であったことを示し、その喪失の重みを増幅する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "While I weep—while I weep!",
+      "body": "ダッシュと感嘆符を伴った反復「while I weep—while I weep!」は、詩の中で最も激情的な瞬間。反復によって時間が引き伸ばされ、泣くという行為そのものが無限に続く現在時制へと変換される。ポーが好んだエドガー・アラン・ポーの詩的技法「incantation（呪文的反復）」の典型例。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "pitiless wave",
+      "body": "第1連では希望の喪失が抽象的に語られたが、第2連では「波」という具体的な力が砂粒（＝希望・時間・愛する人の記憶）を奪い去る。「pitiless（情け容赦ない）」は波の非人格的な力の残酷さを強調し、宇宙が人間の願望に対して根本的に無関心であるというポー的宇宙観を体現する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Is all that we see or seem\nBut a dream within a dream?",
+      "body": "第1連の陳述「Is but a dream within a dream」が疑問文へと変容する。この転換は単なる修辞的変化にとどまらず、確信の崩壊を示す。問うことしかできない絶望──それ自体が夢の内側に閉じ込められた意識の姿である。詩全体が提示で終わらず問いで終わることで、読者もその不確かさの内側に置かれる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "a dream within a dream",
+      "body": "「夢の中の夢」というモチーフはカルデロン・デ・ラ・バルカ『人生は夢』（La vida es sueño, 1635）の中心命題と響き合う。またボードレール「Correspondances」における象徴としての夢的知覚、マラルメの「Igitur」における意識の自己言及的な入れ子構造とも比較できる。",
+      "targetId": "mallarme_musique_lettres"
+    }
+  ]
+}
