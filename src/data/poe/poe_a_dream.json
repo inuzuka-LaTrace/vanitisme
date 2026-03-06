@@ -1,0 +1,92 @@
+{
+  "id": "poe_a_dream",
+  "title": "A Dream",
+  "author": "Edgar Allan Poe",
+  "source": "Al Aaraaf, Tamerlane, and Minor Poems, Hatch & Dunning, Baltimore, 1829",
+  "year": "1829",
+  "firstPublication": "Al Aaraaf, Tamerlane, and Minor Poems, 1829",
+  "difficulty": "初級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★",
+  "context": "ポー20歳の詩集に収録された初期作。「A Dream Within a Dream」（1849）の遠い前身とも位置づけられる短詩で、夢の中でのみ訪れる希望の光と、覚醒の残酷さというポー詩学の基本的な対立を簡潔に定式化している。「夢の中の夢」という入れ子的な夢意識はまだ明示されないが、「現実は夢よりも暗い」という逆説的認識が全編を貫く。",
+  "keywords": ["夢", "希望", "覚醒", "闇", "光", "孤独", "記憶", "初期詩"],
+  "relatedTexts": [
+    "poe_a_dream_within_a_dream",
+    "poe_to_helen",
+    "yeats_stolen_child"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "In visions of the dark night\nI have dreamed of joy departed—\nBut a waking dream of life and light\nHath left me broken-hearted.",
+      "provisionalTranslation": "暗夜の幻の中で\n私は去りゆく喜びを夢見てきた──\nしかし生と光についての目覚めた夢が\n私を打ち砕かれた心のまま残した。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ah! what is not a dream by day\nTo him whose eyes are cast\nOn things around him with a ray\nTurned back upon the past?",
+      "provisionalTranslation": "ああ！昼間において夢でないものなど何があろう\nその目が\n周りのものを見るとき\n過去へと折り返された光線で見る者にとって？"
+    },
+    {
+      "id": 3,
+      "originalText": "That holy dream—that holy dream,\nWhile all the world were chiding,\nHath cheered me as a lovely beam\nA lonely spirit guiding.",
+      "provisionalTranslation": "あの聖なる夢──あの聖なる夢は、\n世界中が叱責する中にあって、\n孤独な魂を導く\n愛らしい光の束のように私を元気づけてきた。"
+    },
+    {
+      "id": 4,
+      "originalText": "What though that light, thro' storm and night,\nSo trembled from afar—\nWhat could there be more purely bright\nIn Truth's day-star?",
+      "provisionalTranslation": "たとえその光が、嵐と夜の中を\nはるか彼方から震えながら届いていたとしても──\n真理の暁の星に\nそれよりも純粋に輝くものが何かあろうか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "a waking dream of life and light",
+      "body": "「目覚めた夢（waking dream）」という逆説がこの詩の中心的矛盾を提示する。通常「夢」は眠りの中にあり、「目覚め」はその終わりであるはずだが、ポーはここで昼の現実こそが「目覚めた夢」──すなわちより過酷な幻──であると定義する。「dark night（暗夜）の夢」の方が実はまだ慰めになるという逆転した価値づけは、「A Dream Within a Dream」（1849）での「われわれが見るもの、あるいはあるように見えるもの、そのすべては夢の中の夢にすぎない」という命題の萌芽。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4連構成、各連4行のABAB交互韻。iambic tetrameter（弱強四歩格）とiambic trimeter（三歩格）の交替パターン（8音節・6音節の交替）はバラッド・スタンザの変形であり、ポーの初期詩に頻出する。「night / light」「departed / broken-hearted」の脚韻が第1連で苦悩のイメージを音響的に束ねる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "with a ray\nTurned back upon the past",
+      "body": "「過去へと折り返された光線」という視覚的比喩が特異。目から出る視線を光線（ray）として実体化し、それが現在の対象を見るときにも過去へと向けられているという認識──現在を見ながら実は過去しか見えていないという記憶の囚われ。「turned back」は光学的な反射を示唆し、現在が過去の鏡にすぎないという主題を物理的イメージで定着させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "what is not a dream by day",
+      "body": "詩の論理的転換点。第1連では「夜の夢の中で喜びを夢見た」が、第2連では「昼間こそが夢ではないか」という問いへと反転する。これによって夢と現実の位置が交換される──夢が現実より真であり、覚醒こそが幻であるというロマン主義的な認識論が打ち出される。ノヴァーリスやコールリッジの夢詩学との親近性を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "That holy dream—that holy dream",
+      "body": "反復「That holy dream—that holy dream」はポーが後年「The Raven」「Ulalume」で完成させる呪文的反復（incantation）の初期形態。em-dashによる一時停止が反復語句の間に呼吸を作り、夢の神聖さを詠嘆的に強調する。「holy（聖なる）」という宗教的形容詞の使用は、夢を単なる心理現象ではなく超越的な導きとして位置づける。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "While all the world were chiding",
+      "body": "「世界中が叱責する中で」──孤立した夢想家というポーの自己像が早期に定式化される箇所。世間（world）と個人の対立は伝記的文脈（義父ジョン・アランとの確執、ウェストポイント退学）と重なりつつも、より普遍的なロマン主義的「理解されない詩人」像へと抽象化されている。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Truth's day-star",
+      "body": "「真理の暁の星（day-star）」。day-starは明けの明星（金星）を指す詩的表現で、夜明けを告げる最も明るい星。ミルトン「リシダス」（Lycidas, 1637）の「So sinks the day-star in the ocean bed」という有名な行への暗示を含む可能性がある。「真理の暁の星」という表現は、理性や明証的な現実認識を象徴するが、詩の論理では夢の光の方がそれより「純粋に輝く」と問いかける──夢は真理の光にも勝ると。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "What could there be more purely bright\nIn Truth's day-star?",
+      "body": "「真理の明星よりも純粋に輝くものが夢にあるのではないか」という問いは、「A Dream Within a Dream」（1849）の「われわれが見るもの、あるいはあるように見えるもの、そのすべては夢の中の夢にすぎない」という二十年後の答えへと遡及的に接続される。初期の問いかけが後期の絶望的な断言へと変容するプロセスが、この二作の並読によって浮かび上がる。",
+      "targetId": "poe_a_dream_within_a_dream"
+    }
+  ]
+}
