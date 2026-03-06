@@ -1,0 +1,82 @@
+{
+  "id": "mallarme_mysticis_umbraculis",
+  "title": "…Mysticis umbraculis",
+  "author": "Stéphane Mallarmé",
+  "source": "Œuvres complètes, Gallimard (Bibliothèque de la Pléiade), Paris, 1951, p. 144 ; poème de jeunesse inédit du vivant de l'auteur",
+  "year": "1862",
+  "firstPublication": "Œuvres complètes, Gallimard, 1951 (titre original avec points de suspension initiaux : …Mysticis umbraculis)",
+  "difficulty": "中級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★",
+  "context": "マラルメ20歳の習作詩。副題「Prose des fous（狂人の散文）」を持ち、ボードレール『悪の華』第2版（1861年）発見直後の転換期に書かれた若年期詩篇群の一つ。生前未発表のまま残され、1951年のガリマール版全集に初めて収録された。タイトルの「…Mysticis umbraculis」（「神秘の影の中で……」）はラテン語句で、詩本文の官能的な情景との緊張が特徴的。眠る女の身体と光の差し込む森の鳥の巣という二つのイメージを連結する6行詩で、初期マラルメのボードレール的官能と自然象徴主義の融合を示す。",
+  "keywords": ["官能", "眠り", "身体", "光", "森", "鳥", "雪", "若年期", "ボードレール的", "象徴"],
+  "relatedTexts": [
+    "mallarme_sonnet_cygne",
+    "mallarme_coup_de_des",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "(Prose des fous)\n\nElle dormait : son doigt tremblait, sans améthyste\nEt nu, sous sa chemise : après un soupir triste,\nIl s'arrêta, levant au nombril la batiste.",
+      "provisionalTranslation": "（狂人の散文）\n\n彼女は眠っていた──その指は震えていた、アメジストもなく\n素のまま、シュミーズの下で。悲しいため息の後、\n指は止まった、バティストをへそのあたりまで持ち上げながら。"
+    },
+    {
+      "id": 2,
+      "french": "Et son ventre sembla de la neige où serait,\nCependant qu'un rayon redore la forêt,\nTombé le nid moussu d'un gai chardonneret.",
+      "provisionalTranslation": "そして彼女の腹は雪のように見えた──その雪の上に\n一条の光が森を再び金色に染める間、\nにぎやかなゴシキヒワの苔むした巣が落ちているような。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "sans améthyste",
+      "body": "「アメジストもなく」。アメジスト（améthyste）は紫色の宝石で、古来「酔いを防ぐ石」として知られ、貞節・純潔の象徴でもある。「アメジストもなく」とは、その守護も装飾もない、剥き出しの状態を示す。宝石の不在によって裸の指の無防備さが際立つ──マラルメ後期詩でも宝石は理想・純粋性の象徴として機能するが、ここではその欠如が官能的な生の状態として提示される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "la batiste",
+      "body": "「バティスト（batiste）」は薄く透ける上質な平織り麻・綿の布地。シュミーズ（下着）の素材として用いられる。「nombril（へそ）まで持ち上げる」という動作の記述が、薄い布地の透過性と身体の可視化を暗示する。布地の名を正確に指定することで、情景に触覚的・視覚的なリアリティを付与する──ボードレール『悪の華』の官能描写が直接的な影響源として見える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "6行詩、2連構成（tercet × 2）、男性韻のAAA / BBB 連続同韻（améthyste / triste / batiste、serait / forêt / chardonneret）。同一韻の3連続（三韻連）はフランス詩では珍しく、バンヴィルが推奨した技法でもある。初期マラルメがボードレール的官能を古典的韻律の枠組みに収めようとする試みが見られる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "après un soupir triste",
+      "body": "「悲しいため息の後」──この「悲しさ」の挿入が詩の官能的な場面に意味的な屈折を与える。純粋に官能的な覚醒とも、罪悪感・後悔の予兆とも読める。副題「Prose des fous（狂人の散文）」との照応で、この「悲しいため息」は常軌を逸した夢想の中の感情──正気の世界では抑圧された何かの痕跡──として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "son ventre sembla de la neige",
+      "body": "眠る女の腹を「雪（neige）」に喩える白の比喩。白は後期マラルメ詩学における中心的な色彩──「白鳥のソネ」の氷の白、「骰子一擲」の白い版面──であるが、ここでは純粋・冷たさ・無垢という古典的連想の範囲内にある。しかしその「雪」の上に「鳥の巣が落ちている」という第3行の比喩と連結することで、この白は保護されたぬくもりの場所へと変換される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "un rayon redore la forêt",
+      "body": "「一条の光が森を再び金色に染める（redore）」。「redore」の接頭辞「re-」は再び金色にするという反復・再生を示し、室内の眠る身体と窓の外の森・光という二つの空間が同時進行で描かれることを示す。部屋の内と外の並置は印象主義的な光の処理に近く、ゴーティエ的な「芸術のための芸術」の感覚的精密さとボードレール的官能の交差を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "chardonneret",
+      "body": "「ゴシキヒワ（chardonneret / Carduelis carduelis）」は黄・赤・黒・白の鮮やかな羽色を持つヨーロッパの小鳥で、歌声が美しく、しばしば幸福・喜び・春の象徴として詩に登場する。「gai（にぎやかな、陽気な）」という形容詞と「moussu（苔むした）」という形容詞の対照──活発な生命と静かな自然の安らかさ──が最終行に凝縮される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "son ventre sembla de la neige où serait,\nCependant qu'un rayon redore la forêt,\nTombé le nid moussu d'un gai chardonneret.",
+      "body": "眠る女の白い腹 → 光差し込む森 → 苔むした巣という三段の連想連鎖は、ボードレール「美への讃歌（Hymne à la Beauté）」や「髪の毛（La Chevelure）」における身体から宇宙への連想拡大と同一の構造を持つ。初期マラルメがボードレール的な「correspondances（照応）」──官能的身体と自然現象の相互浸透──を自ら試みていることが明確に読み取れる。",
+      "targetId": "baudelaire_heroisme"
+    }
+  ]
+}
