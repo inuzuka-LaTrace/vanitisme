@@ -2,15 +2,21 @@
   "id": "valmore_avis",
   "title": "Avis",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites (1860)",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
-  "firstPublication": "Poésies inédites, 1860",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
   "difficulty": "初級",
   "category": "valmore",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
   "context": "詩集『Poésies inédites』（1860）の序詩。苦しむ女性読者たちへの呼びかけとして書かれ、施しと愛と歌を勧める。「与えることができる限り、死ぬことはない」という詩句をボードレールが引用し、ヴァルモール夫人論の核心語として位置づけた。",
-  "keywords": ["don", "charité", "souffrance", "larmes", "sœurs"],
+  "keywords": [
+    "don",
+    "charité",
+    "souffrance",
+    "larmes",
+    "sœurs"
+  ],
   "relatedTexts": [
     "valmore_tristesse",
     "baudelaire_valmore_critique",
@@ -19,103 +25,28 @@
   "paragraphs": [
     {
       "id": 1,
-      "french": "Vous surtout que je plains si vous n'êtes chéries,",
-      "provisionalTranslation": "とりわけ愛されていないあなた方を私は哀れむ、"
+      "french": "Vous surtout que je plains si vous n'êtes chéries,\nVous surtout qui souffrez, je vous prends pour mes sœurs :\nC'est à vous qu'elles vont, mes lentes rêveries,\nEt de mes pleurs chantés les amères douceurs.",
+      "provisionalTranslation": "とりわけ愛されていないあなた方を私は哀れむ、\nとりわけ苦しむあなた方を、私は姉妹と思う。\nあなた方のもとへ届く、私の緩やかな夢想が、\nそして歌われた私の涙の、苦い甘さが。"
     },
     {
       "id": 2,
-      "french": "Vous surtout qui souffrez, je vous prends pour mes sœurs :",
-      "provisionalTranslation": "とりわけ苦しむあなた方を、私は姉妹と思う。"
+      "french": "Prisonnière en ce livre une âme est contenue.\nOuvrez, lisez : comptez les jours que j'ai soufferts.\nPleureuses de ce monde où je passe inconnue,\nRêvez sur cette cendre et trempez-y vos fers.",
+      "provisionalTranslation": "この書の中に一つの魂が閉じ込められている。\n開いて、読んで。私が苦しんだ日々を数えてほしい。\n私が名もなく通り過ぎるこの世界の泣き女たちよ、\nこの灰の上で夢想し、そこにあなた方の鎖を浸してほしい。"
     },
     {
       "id": 3,
-      "french": "C'est à vous qu'elles vont, mes lentes rêveries,",
-      "provisionalTranslation": "あなた方のもとへ届く、私の緩やかな夢想が、"
+      "french": "Chantez ! Un chant de femme attendrit la souffrance.\nAimez ! Plus que l'amour la haine fait souffrir.\nDonnez ! La charité relève l'espérance :\nTant que l'on peut donner on ne veut pas mourir !",
+      "provisionalTranslation": "歌え！ 女の歌は苦しみを和らげる。\n愛せ！ 愛よりも憎しみの方が苦しませる。\n与えよ！ 慈しみは希望を立ち上がらせる。\n与えることができる限り、死のうとは思わない！"
     },
     {
       "id": 4,
-      "french": "Et de mes pleurs chantés les amères douceurs.",
-      "provisionalTranslation": "そして歌われた私の涙の、苦い甘さが。"
+      "french": "Si vous n'avez le temps d'écrire aussi vos larmes,\nLaissez-les de vos yeux descendre sur ces vers.\nAbsoudre, c'est prier ; prier, ce sont nos armes.\nAbsolvez de mon sort les feuillets entr'ouverts !",
+      "provisionalTranslation": "もし自分の涙を書き記す時間がないなら、\n目からこれらの詩句の上に流れ落ちるがままにして。\n赦すことは祈ること。祈ることはわれわれの武器。\n半ば開いたこの頁たちを、私の運命から赦してほしい！"
     },
     {
       "id": 5,
-      "french": "Prisonnière en ce livre une âme est contenue.",
-      "provisionalTranslation": "この書の中に一つの魂が閉じ込められている。"
-    },
-    {
-      "id": 6,
-      "french": "Ouvrez, lisez : comptez les jours que j'ai soufferts.",
-      "provisionalTranslation": "開いて、読んで。私が苦しんだ日々を数えてほしい。"
-    },
-    {
-      "id": 7,
-      "french": "Pleureuses de ce monde où je passe inconnue,",
-      "provisionalTranslation": "私が名もなく通り過ぎるこの世界の泣き女たちよ、"
-    },
-    {
-      "id": 8,
-      "french": "Rêvez sur cette cendre et trempez-y vos fers.",
-      "provisionalTranslation": "この灰の上で夢想し、そこにあなた方の鎖を浸してほしい。"
-    },
-    {
-      "id": 9,
-      "french": "Chantez ! Un chant de femme attendrit la souffrance.",
-      "provisionalTranslation": "歌え！ 女の歌は苦しみを和らげる。"
-    },
-    {
-      "id": 10,
-      "french": "Aimez ! Plus que l'amour la haine fait souffrir.",
-      "provisionalTranslation": "愛せ！ 愛よりも憎しみの方が苦しませる。"
-    },
-    {
-      "id": 11,
-      "french": "Donnez ! La charité relève l'espérance :",
-      "provisionalTranslation": "与えよ！ 慈しみは希望を立ち上がらせる。"
-    },
-    {
-      "id": 12,
-      "french": "Tant que l'on peut donner on ne veut pas mourir !",
-      "provisionalTranslation": "与えることができる限り、死のうとは思わない！"
-    },
-    {
-      "id": 13,
-      "french": "Si vous n'avez le temps d'écrire aussi vos larmes,",
-      "provisionalTranslation": "もし自分の涙を書き記す時間がないなら、"
-    },
-    {
-      "id": 14,
-      "french": "Laissez-les de vos yeux descendre sur ces vers.",
-      "provisionalTranslation": "目からこれらの詩句の上に流れ落ちるがままにして。"
-    },
-    {
-      "id": 15,
-      "french": "Absoudre, c'est prier ; prier, ce sont nos armes.",
-      "provisionalTranslation": "赦すことは祈ること。祈ることはわれわれの武器。"
-    },
-    {
-      "id": 16,
-      "french": "Absolvez de mon sort les feuillets entr'ouverts !",
-      "provisionalTranslation": "半ば開いたこの頁たちを、私の運命から赦してほしい！"
-    },
-    {
-      "id": 17,
-      "french": "Pour livrer sa pensée au vent de la parole,",
-      "provisionalTranslation": "自らの思いを言葉の風に委ねるためには、"
-    },
-    {
-      "id": 18,
-      "french": "S'il faut avoir perdu quelque peu sa raison,",
-      "provisionalTranslation": "少し理性を失わなければならないとしても、"
-    },
-    {
-      "id": 19,
-      "french": "Qui donne son secret est plus tendre que folle :",
-      "provisionalTranslation": "秘密を打ち明ける者は狂っているより優しい。"
-    },
-    {
-      "id": 20,
-      "french": "Méprise-t-on l'oiseau qui répand sa chanson ?",
-      "provisionalTranslation": "自らの歌を注ぎ出す鳥を誰が軽んじるだろうか？"
+      "french": "Pour livrer sa pensée au vent de la parole,\nS'il faut avoir perdu quelque peu sa raison,\nQui donne son secret est plus tendre que folle :\nMéprise-t-on l'oiseau qui répand sa chanson ?",
+      "provisionalTranslation": "自らの思いを言葉の風に委ねるためには、\n少し理性を失わなければならないとしても、\n秘密を打ち明ける者は狂っているより優しい。\n自らの歌を注ぎ出す鳥を誰が軽んじるだろうか？"
     }
   ],
   "annotations": [
@@ -129,46 +60,46 @@
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Vous surtout",
-      "body": "「とりわけあなた方を」。Vous surtout の反復（§1・§2）が詩の開幕を強調する。対象は「愛されていない者」と「苦しむ者」——ヴァルモールの読者共同体は普遍的な苦しみの共有によって定義される。この呼びかけ構造は詩集全体の序詩として機能する。"
+      "body": "「とりわけあなた方を」。Vous surtout の反復（§1・§2）が詩の開幕を強調する。対象は「愛されていない者」と「苦しむ者」──ヴァルモールの読者共同体は普遍的な苦しみの共有によって定義される。この呼びかけ構造は詩集全体の序詩として機能する。"
     },
     {
-      "paragraphId": 4,
+      "paragraphId": 1,
       "type": "glossary",
       "anchor": "pleurs chantés les amères douceurs",
-      "body": "「歌われた涙の苦い甘さ」。amères douceurs（苦い甘さ）はオクシモロン——涙と歌の不可分性、苦しみと美の共存を一語に凝縮する。ヴァルモールの詩学の核心であり、ボードレールが「泣きながら歌う」詩人としてヴァルモールを論じた根拠の一つ。"
+      "body": "「歌われた涙の苦い甘さ」。amères douceurs（苦い甘さ）はオクシモロン──涙と歌の不可分性、苦しみと美の共存を一語に凝縮する。ヴァルモールの詩学の核心であり、ボードレールが「泣きながら歌う」詩人としてヴァルモールを論じた根拠の一つ。"
     },
     {
-      "paragraphId": 5,
+      "paragraphId": 2,
       "type": "commentary",
       "anchor": "Prisonnière en ce livre une âme est contenue",
       "body": "「この書の中に一つの魂が閉じ込められている」。書物＝魂の監獄というメタファーが、詩集を単なる文学作品でなく詩人の実存そのものとして提示する。prisonnière（囚われた女）という女性形が書き手の性を明示し、§7の「名もなく通り過ぎる私」と連動する。"
     },
     {
-      "paragraphId": 7,
+      "paragraphId": 2,
       "type": "glossary",
       "anchor": "Pleureuses",
       "body": "「泣き女たち」。pleureuses は古代ローマ・中東の葬儀で雇われた職業的泣き女を指す語。読者たちを「泣き女」と呼ぶことで、詩集を一種の哀悼の儀式として定義する。ヴァルモールの詩的共同体が苦しみと哀悼によって結ばれることを示す。"
     },
     {
-      "paragraphId": 8,
+      "paragraphId": 2,
       "type": "glossary",
       "anchor": "cette cendre",
       "body": "「この灰」。cendre（灰）は消えた火・過去の生・死後の残滓を指すとともに、灰の水（lessive）で汚れを落とす洗浄のイメージも持つ。vos fers（あなた方の鎖）を灰に浸すことで、苦しみそのものが解放の手段となるという逆説。"
     },
     {
-      "paragraphId": 9,
+      "paragraphId": 3,
       "type": "commentary",
       "anchor": "Chantez ! … Aimez ! … Donnez !",
-      "body": "§9・10・11の三つの命令形（Chantez / Aimez / Donnez）が詩の中心的勧告をなす三連鎖を形成する。歌・愛・与えること——この三項は詩人としての生の倫理であり、次の §12 の「与えることができる限り、死ぬことはない」という集約へ向けて準備される。"
+      "body": "§9・10・11の三つの命令形（Chantez / Aimez / Donnez）が詩の中心的勧告をなす三連鎖を形成する。歌・愛・与えること──この三項は詩人としての生の倫理であり、次の §12 の「与えることができる限り、死ぬことはない」という集約へ向けて準備される。"
     },
     {
-      "paragraphId": 12,
+      "paragraphId": 3,
       "type": "commentary",
       "anchor": "Tant que l'on peut donner on ne veut pas mourir",
-      "body": "「与えることができる限り、死のうとは思わない」。詩全体の集約点であり、ボードレールが「ヴァルモール夫人論」でそのまま引用した行。donner（与える）という行為が生の意志そのものと同一視される——与えることの停止が死と等しいという逆説的な生の定義。"
+      "body": "「与えることができる限り、死のうとは思わない」。詩全体の集約点であり、ボードレールが「ヴァルモール夫人論」でそのまま引用した行。donner（与える）という行為が生の意志そのものと同一視される──与えることの停止が死と等しいという逆説的な生の定義。"
     },
     {
-      "paragraphId": 12,
+      "paragraphId": 3,
       "type": "intertextual",
       "anchor": "Tant que l'on peut donner on ne veut pas mourir",
       "body": "ボードレールは「ヴァルモール夫人論」においてこの行を引用し、ヴァルモールの詩学の核心として「与える詩人」という像を定義した。自己犠牲的な贈与の倫理は、ボードレール自身の詩論における「詩人の使命」概念とも共鳴する。",
@@ -176,31 +107,31 @@
       "targetParagraphId": null
     },
     {
-      "paragraphId": 15,
+      "paragraphId": 4,
       "type": "glossary",
       "anchor": "Absoudre, c'est prier ; prier, ce sont nos armes",
       "body": "「赦すことは祈ること。祈ることはわれわれの武器」。A＝B、B＝C という連鎖的定義（パラロジスム）の構造。armes（武器）という戦闘的語彙が「赦し・祈り」という宗教的行為に与えられることで、苦しむ女性たちの受動的行為が積極的抵抗として再定義される。"
     },
     {
-      "paragraphId": 17,
+      "paragraphId": 5,
       "type": "commentary",
       "anchor": "vent de la parole",
-      "body": "「言葉の風」。詩的言語を vent（風）——不可視で方向なく吹き、制御できない力——として喩える。§18の「少し理性を失わなければならない」と連動し、詩的インスピレーションの非合理的・非制御的性格を肯定する。"
+      "body": "「言葉の風」。詩的言語を vent（風）──不可視で方向なく吹き、制御できない力──として喩える。§18の「少し理性を失わなければならない」と連動し、詩的インスピレーションの非合理的・非制御的性格を肯定する。"
     },
     {
-      "paragraphId": 19,
+      "paragraphId": 5,
       "type": "commentary",
       "anchor": "Qui donne son secret est plus tendre que folle",
       "body": "「秘密を打ち明ける者は狂っているより優しい」。tendre（優しい・柔らかな）と folle（狂った女）の対比。詩を書くことへの社会的批判（女が「狂っている」）を逆転させ、「優しさ」という倫理的価値として詩作を正当化する。女性詩人への蔑視に対する静かな反駁。"
     },
     {
-      "paragraphId": 20,
+      "paragraphId": 5,
       "type": "glossary",
       "anchor": "l'oiseau qui répand sa chanson",
-      "body": "「自らの歌を注ぎ出す鳥」。鳥と詩人の同一視はロマン主義詩に広く見られる（ラマルティーヌ、ミュッセ）が、répand（注ぎ出す・広める）という動詞が歌の惜しみない贈与——§12の donner と同じ倫理——を示す。詩全体の締めくくりとして、詩人像を鳥の自然な歌声に重ねて詩作の正当性を穏やかに主張する。"
+      "body": "「自らの歌を注ぎ出す鳥」。鳥と詩人の同一視はロマン主義詩に広く見られる（ラマルティーヌ、ミュッセ）が、répand（注ぎ出す・広める）という動詞が歌の惜しみない贈与──§12の donner と同じ倫理──を示す。詩全体の締めくくりとして、詩人像を鳥の自然な歌声に重ねて詩作の正当性を穏やかに主張する。"
     },
     {
-      "paragraphId": 20,
+      "paragraphId": 5,
       "type": "intertextual",
       "anchor": null,
       "body": "「自らの歌を注ぎ出す鳥」という詩人像は、ヴェルレーヌが「呪われた詩人たち」のヴァルモール論で描いた「天与の声（voix naturelle）」としての詩人像と重なる。自己犠牲的な贈与としての詩作という主題が、ヴェルレーヌによる再評価の核心でもある。",
