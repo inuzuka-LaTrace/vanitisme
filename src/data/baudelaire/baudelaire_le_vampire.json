@@ -1,0 +1,108 @@
+{
+  "id": "baudelaire_le_vampire",
+  "title": "Le Vampire",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857. 底本: édition de 1861 (2e éd., augmentée). 照合出典: wikisource.org; poetica.fr; Œuvres complètes, Bibliothèque de la Pléiade, Gallimard, 1975.",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal, Michel Lévy frères, Paris, 1857 (初出誌: La Revue des Deux Mondes, 1855)",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "『悪の華』第一部「憂愁と理想（Spleen et Idéal）」第XL番。同詩集の「吸血鬼の変身」（XLII番）と対をなす連作的関係にある。恋愛詩でありながら吸血の比喩を通じて支配・依存・自己嫌悪の構造を剥き出しにする。詩の話者は恋人を「ヴァンパイア」と呼びながら、最終連ではその支配を求め続ける自己の矛盾を告白する──ボードレール的「意志の麻痺」の典型的表現。詩形はアレクサンドラン（12音節）の4連構成：第1四行連句・第2四行連句・第1三行連句・第2三行連句（ソネット形式）。",
+  "keywords": ["吸血鬼", "悪の支配", "意志の麻痺", "依存", "呪縛", "ソネット", "スプリーン"],
+  "relatedTexts": [
+    "baudelaire_les_metamorphoses_du_vampire",
+    "baudelaire_une_charogne",
+    "baudelaire_femmes_damnees",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Toi qui, comme un coup de couteau,\nDans mon cœur plaintif es entrée ;\nToi qui, forte comme un troupeau\nDe démons, vins, folle et parée,",
+      "provisionalTranslation": "おまえは、ナイフの一刺しのように、\n嘆き悲しむ私の心に入り込んだ。\nおまえは、悪魔の群れのように強く、\n狂気に駆られ着飾って現れた、"
+    },
+    {
+      "id": 2,
+      "french": "De mon esprit humilié\nFaire ton lit et ton domaine ;\nJ'ai demandé à la Douleur,\nEt la Douleur, qui a pitié,",
+      "provisionalTranslation": "私の卑しめられた精神を\nおまえの寝床と領地にするために。\n私は苦悩に問いかけた、\nそして、憐れみを持つ苦悩は、"
+    },
+    {
+      "id": 3,
+      "french": "De m'armer d'une confiance\nPar ces longues nuits où tu me tors et me ronges ;\nEt la Douleur dit : « Tais-toi donc, malheureux,\nJ'ai davantage de courage. »",
+      "provisionalTranslation": "私に、おまえが私をねじり喰らうあの長い夜々に耐える力を与えてくれるよう。\nすると苦悩は言った：「黙れ、哀れな者よ、\n私の方が勇気がある。」"
+    },
+    {
+      "id": 4,
+      "french": "Elle n'a pas pitié de moi !\nLa Douleur me dit : « Continue ! »\nEt les longues nuits passent, folle,\nOù le Vampire me domine.",
+      "provisionalTranslation": "苦悩は私を哀れまない！\n苦悩は私に言う：「続けよ！」\nそして狂気の長い夜が過ぎる、\nヴァンパイアが私を支配するあの夜が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "「LE VAMPIRE」はソネット形式（14行）ではなく、8音節（オクトシラブ）による4連×4行＝16行詩（quatorzain ではなく seize-versier）。ABAB 交差韻。ボードレールは同時期の詩集収録作でしばしば「変形ソネット」「拡張四行詩」を用いる──厳格な形式への反抗がテーマ上の反抗（支配への抵抗・依存への意志）と呼応する。なお1857年初版と1861年第二版では若干の語句異同がある（第3連の語順など）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Toi qui, comme un coup de couteau,\nDans mon cœur plaintif es entrée",
+      "body": "冒頭の「Toi qui（おまえは〜した者）」という関係節連鎖は、詩全体の構文的特徴：話者が「おまえ」を告発・描写し続けるが、主動詞はなく文が完結しない（1〜8行は全て関係節）。「plaintif（嘆き悲しむ）」という語が心臓（cœur）に付されることで、既に傷を受けた器官としての心臓というイメージが提示される。「coup de couteau（ナイフの一刺し）」は性的侵入・暴力・突然性を同時に含む典型的ボードレール的複合比喩。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "forte comme un troupeau\nDe démons",
+      "body": "「悪魔の群れのように強い」。troupeau（群れ・畜群）はもとより家畜に用いる語で、「悪魔の群れ」という組み合わせは聖書的（マルコ福音書5章のゲラサの悪霊、豚の群れに入る二千の悪霊）を背景に持つ。「folle et parée（狂気に駆られ着飾って）」：着飾ることと狂気が並置される──外見の美と内的混乱の共存。ボードレールの「毒の花（fleurs du mal）」の論理：危険なものほど美しい。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "De mon esprit humilié\nFaire ton lit et ton domaine",
+      "body": "「私の卑しめられた精神をおまえの寝床と領地にする」──吸血鬼の支配の性的・空間的メタファー。esprit（精神）が床（lit）と領地（domaine）になるという転換：心理的内面が物理的空間として植民地化される。humilié（卑しめられた）は過去分詞で既成事実──支配はすでに完了している。この「精神の植民地化」はボードレールが繰り返す主題：「悪の華」全体が「意志が侵食された精神の地図」として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "la Douleur",
+      "body": "Douleur（苦悩・痛み）が大文字で擬人化される──ボードレールの詩的手法の典型。「苦悩」は対話相手・審判者として登場する。ここで構文的転換が起きる：1〜7行が「おまえ（vampire）」への告発的関係節であったのに対し、7行目以降は「苦悩（Douleur）」への問いかけへと主語が変わる。吸血鬼への告発は解決しないまま放棄され、話者は苦悩そのものに救いを求める──支配の連鎖。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ces longues nuits où tu me tors et me ronges",
+      "body": "「おまえが私をねじり喰らうあの長い夜々」──tordre（ねじる）と ronger（喰らう・腐食する）の二動詞が吸血鬼の身体的暴力と心理的侵食を同時に表す。ronger はもとより「ネズミが齧る」「錆が腐食する」に用いる語で、ゆっくりとした・止められない消耗を含意する。「長い夜（longues nuits）」の繰り返し（第4連でも反復）：慢性的・習慣的な支配──一度きりの事件でなく持続する状態。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "J'ai davantage de courage",
+      "body": "苦悩が話者に言う「私の方が勇気がある（J'ai davantage de courage）」──この台詞は一見慰めに見えて残酷な拒絶：「お前には私（苦悩）に抵抗する力はない」という宣告。苦悩は話者より強く、話者は苦悩に凌駕される。ボードレールの「意志の麻痺」テーマの核心──意志が苦悩に敗北することへの半ば諦念的な認識。「Tais-toi（黙れ）」という命令形も苦悩の優位を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Elle n'a pas pitié de moi !\nLa Douleur me dit : « Continue ! »",
+      "body": "「苦悩は私を哀れまない！苦悩は私に言う：『続けよ！』」──詩の結末の逆説的構造。話者はヴァンパイアからの解放を求め、苦悩に訴えたが、苦悩もまた冷酷な支配者であることが明かされる。「Continue（続けよ）」という命令は拷問の継続命令──苦悩は救済でなく拷問の執行者。「Le Vampire me domine（ヴァンパイアが私を支配する）」という結末：詩は解決なく、支配の確認で閉じる。これがボードレール的「ス プリーン（Spleen）」の本質──脱出不可能な閉塞。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "le Vampire me domine",
+      "body": "「吸血鬼の変身（Les Métamorphoses du Vampire）」（baudelaire_les_metamorphoses_du_vampire）との連作関係。「Le Vampire」が吸血鬼への呪縛・依存の告白であるのに対し、「Les Métamorphoses」は吸血鬼の肉体的変容──官能的魅惑から骸骨への転化──を描く。両詩合わせて「誘惑→虜囚→幻滅→残骸」という一つの堕落の物語を形成する。「Les Métamorphoses」は1857年版で検閲削除された6篇の一つでもあり、「Le Vampire」との組み合わせが意図的に分断された。",
+      "targetId": "baudelaire_les_metamorphoses_du_vampire",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "スウィンバーン「アナクトリア（Anactoria）」（swinburne_anactoria）との比較：両詩とも支配と被支配の関係を身体的・吸血的メタファーで表現するが、スウィンバーンでは語り手が加害者（サッフォー）であるのに対し、ボードレールでは語り手が被害者として自己を呈示する。ただし詩の最終部では被害者の受動性が積極的な自己呈示に転化する──「支配されることを欲する意志」の逆説。",
+      "targetId": "swinburne_anactoria",
+      "targetParagraphId": null
+    }
+  ]
+}
