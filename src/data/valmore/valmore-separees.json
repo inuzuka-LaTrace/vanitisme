@@ -2,89 +2,97 @@
   "id": "valmore_separees",
   "title": "Les Séparées",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
   "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "友人パウリーヌ・デュシャンブジュへ捧げられた詩。愛する者との別離を、物理的な空間の断絶として捉える。「あなたのいない部屋で眠ることなどできない」という率直な訴えが、時代を超えた感情的真実として響く。",
-  "keywords": ["séparation", "amitié", "absence", "chambre", "nuit"],
-  "relatedTexts": ["valmore_adieu", "valmore_chambre", "valmore_qu_en_avez"],
+  "context": "1860年の遺稿集『未刊詩篇』に収録。友人パウリーヌ・デュシャンブジュへの献詩とされる。全15行──4行アレクサンドランのブロック×3に、「N'écris pas !（手紙を書かないで！）」という一行リフレインが各ブロックの末尾に置かれる変則的な形式。リフレインの逆説：「書かないで」と繰り返すこと自体が「書かれた詩」として相手に届く──沈黙の要求が語りかけの形をとる。冒頭の「N'écris pas」が各連で異なる理由を展開しながら（消滅・慣れ・眠れない）、最後の「N'écris pas !」は三度の繰り返しによって、理由を超えた純粋な懇願へと昇華される。",
+  "keywords": ["手紙", "不在", "リフレイン", "眠り", "別離", "逆説的要求"],
+  "relatedTexts": [
+    "valmore_adieu",
+    "valmore_chambre",
+    "valmore_insomnie",
+    "valmore_qu_en_avez",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "N'écris pas. Je suis triste, et je voudrais m'éteindre.",
-      "officialTranslation": "手紙を書かないで。私は悲しく、消えてしまいたい。"
+      "french": "N'écris pas. Je suis triste, et je voudrais m'éteindre.\nLes beaux étés sans toi, c'est la nuit sans flambeau.\nJ'ai refermé mes bras qui ne peuvent t'atteindre,\nEt frapper à mon cœur, c'est frapper au tombeau.\nN'écris pas !",
+      "provisionalTranslation": "手紙を書かないで。私は悲しく、消えてしまいたい。\nあなたのいない美しい夏は、松明のない夜だ。\nあなたに届かない腕を、私は再び閉じた、\n私の心を叩くことは、墓を叩くことだ。\n手紙を書かないで！"
     },
     {
       "id": 2,
-      "french": "Les beaux étés sans toi, c'est la nuit sans flambeau.",
-      "officialTranslation": "あなたのいない美しい夏は、松明のない夜だ。"
+      "french": "N'écris pas. On s'accoutume à l'absence ;\nEt l'absence efface l'amour qu'on ne voit plus.\nCar la douleur qui mord, l'espoir qui nous devance,\nFont un bruit de soulier qu'on entend dans l'espace.\nN'écris pas !",
+      "provisionalTranslation": "手紙を書かないで。人は不在に慣れていく；\nそして不在は、もう見えない愛を消し去る。\nなぜなら噛みつく苦しみも、私たちを追い越す希望も、\n空間の中に聞こえる靴の音を立てるから。\n手紙を書かないで！"
     },
     {
       "id": 3,
-      "french": "J'ai refermé mes bras qui ne peuvent t'atteindre,",
-      "officialTranslation": "あなたに届かない腕を、私は再び閉じた、"
+      "french": "N'écris pas. Je te lis trop, je t'aime trop encore.\nTu m'apportes de loin une chaleur qui brûle.\nJe ne veux plus aimer ; et la nuit, quand j'implore\nLe sommeil, si ta lettre arrive, il recule.\nN'écris pas !",
+      "provisionalTranslation": "手紙を書かないで。私はあなたをあまりに読みすぎる、あまりに愛しすぎている。\nあなたは遠くから、燃えるような熱を運んでくる。\nもう愛したくない；そして夜、私が懇願するとき\n眠りを、あなたの手紙が届けば、眠りは引き下がる。\n手紙を書かないで！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4行アレクサンドラン（12音節）＋一行リフレイン「N'écris pas !」×3連、全15行。韻配置：\n• §1：éteindre / atteindre（A）／ flambeau / tombeau（B）──ABAB 交差韻\n• §2：absence / devance（C）／ plus / espace（D）──ABAB 変形（plus と espace は半韻）\n• §3：encore / implore（E）／ brûle / recule（F）──ABAB\nリフレイン「N'écris pas !」は各連の5行目として機能し、4行の展開を感嘆符で断絶的に締める。リフレインの逆説：詩全体が「書かないで」という要求そのものが「書かれた言葉」として相手に届く──「書かないで」という沈黙の要求が、詩という形式の中で語りかけ続けるという自己矛盾。「Qu'en avez-vous fait ?」の「Qu'en avez-vous fait / Qu'en avez-vous fait」と同様の反復詩学だが、こちらは三度の反復で「告発」でなく「懇願」として機能する。"
     },
     {
-      "id": 4,
-      "french": "Et frapper à mon cœur, c'est frapper au tombeau.",
-      "officialTranslation": "私の心を叩くことは、墓を叩くことだ。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "N'écris pas. Je suis triste, et je voudrais m'éteindre.",
+      "body": "冒頭の命令形「N'écris pas（書かないで）」──否定命令形（ne + 動詞の命令形）が詩の最初の語として置かれる。「禁止」で始まる詩：詩人は読者（相手）の行為を制御しようとする。「je voudrais m'éteindre（消えてしまいたい）」──m'éteindre は「自分を消す・消灯する」、比喩的に「存在を消したい・死にたい」。voudrais という条件法：即座の意志でなく「そうしたいという仮定の願望」──「L'Adieu」の「Non, l'amour qui s'en va…」の否定と同様に、詩は「欲望の否定」から始まる。「Les beaux étés sans toi, c'est la nuit sans flambeau（あなたのいない美しい夏は、松明のない夜だ）」──夏と夜・美と暗闇という対立を「〜は〜だ（c'est）」という等置文で結ぶ。"
     },
     {
-      "id": 5,
-      "french": "N'écris pas !",
-      "officialTranslation": "手紙を書かないで！"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'ai refermé mes bras qui ne peuvent t'atteindre,\nEt frapper à mon cœur, c'est frapper au tombeau.",
+      "body": "「あなたに届かない腕を再び閉じた（J'ai refermé mes bras qui ne peuvent t'atteindre）」──「Rêve intermittent」の「Ta fille vers ton ombre étend ses bras lassés（娘が疲れた腕を伸ばしている）」との対照：伸ばす腕（Rêve）と閉じる腕（Séparées）──到達不可能に対する二つの身体的応答。refermer（再び閉じる）の re-：once 開いていた腕を「再び」閉じる──かつて抱擁があったことの含意。「frapper à mon cœur, c'est frapper au tombeau（私の心を叩くことは、墓を叩くことだ）」：cœur（心）と tombeau（墓）を等置する──§1の最終定義として心が「墓」として提示される。「L'Adieu」の「glas étouffé（くぐもった弔鐘）」と同様の死の語彙が、今度は心そのものに適用される。"
     },
     {
-      "id": 6,
-      "french": "N'écris pas. On s'accoutume à l'absence ;",
-      "officialTranslation": "手紙を書かないで。人は不在に慣れていく；"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "N'écris pas. On s'accoutume à l'absence ;\nEt l'absence efface l'amour qu'on ne voit plus.",
+      "body": "§2は「不在に慣れる」という心理的過程の論述──§1の感情的訴えから一転して、論理的・客観的な口調になる。「On（人は）」という不定代名詞：詩人自身でなく「人一般」として提示する距離化。「l'absence efface l'amour（不在は愛を消し去る）」──absence の二度の反復（行1・行2）：不在が行を跨いで反復されることで「不在の持続」が文の水準で体現される。「qu'on ne voit plus（もう見えない）」：愛が視覚的存在として定義され、「見えない」ことで消滅する──「Les Séparées」という詩のタイトルが示す「視線の断絶」としての別離。"
     },
     {
-      "id": 7,
-      "french": "Et l'absence efface l'amour qu'on ne voit plus.",
-      "officialTranslation": "そして不在は、もう見えない愛を消し去る。"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Car la douleur qui mord, l'espoir qui nous devance,\nFont un bruit de soulier qu'on entend dans l'espace.",
+      "body": "詩全体で最も奇異なイメージ：「噛みつく苦しみも、追い越す希望も、空間の中に聞こえる靴の音を立てる（Font un bruit de soulier qu'on entend dans l'espace）」──douleur（苦しみ）と espoir（希望）という抽象語が、「靴の音（bruit de soulier）」という極めて具体的・日常的な聴覚イメージに還元される。「L'Art」でゴーティエが「Muse, un cothurne étroit（ミューズよ、狭いコトゥルヌスを履け）」と書いた靴の比喩と対照的──ゴーティエの靴が芸術的厳格さの比喩であるのに対し、ヴァルモールの靴音は感情の「足音・接近」という存在感の比喩。dans l'espace（空間の中に）：手紙が届かなくても苦しみと希望の「足音」が空間を伝わってくる──これが「書かないで」の理由。"
     },
     {
-      "id": 8,
-      "french": "Car la douleur qui mord, l'espoir qui nous devance,",
-      "officialTranslation": "なぜなら噛みつく苦しみも、私たちを追い越す希望も、"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "N'écris pas. Je te lis trop, je t'aime trop encore.\nTu m'apportes de loin une chaleur qui brûle.",
+      "body": "§3は三つの「書かないで」の理由の中で最も直接的──「あまりに読みすぎる、あまりに愛しすぎる」。「Je te lis trop（あなたをあまりに読みすぎる）」──lire（読む）という動詞が「愛する」の代替として使われる：手紙を読むことが愛することと同義。te lis / t'aime という二動詞の並列：読書と愛が同一の行為として提示される。「trop（あまりに）」の二度反復：「Les Roses de Saadi」の「tant（あまりに）」・「L'Adieu」の「jamais（決して）」と同様の強調副詞による過剰の表現──愛の過剰がヴァルモール詩の一貫したモチーフ。「une chaleur qui brûle（燃えるような熱）」：手紙が物理的な熱を運ぶ──紙が発熱する共感覚的イメージ。"
     },
     {
-      "id": 9,
-      "french": "Font un bruit de soulier qu'on entend dans l'espace.",
-      "officialTranslation": "空間の中に聞こえる靴の音を立てるから。"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je ne veux plus aimer ; et la nuit, quand j'implore\nLe sommeil, si ta lettre arrive, il recule.",
+      "body": "「Je ne veux plus aimer（もう愛したくない）」──§1の「je voudrais m'éteindre（消えたい）」・§2の「On s'accoutume（慣れる）」に続く第三の「断念」の言葉。「et la nuit, quand j'implore / Le sommeil（夜、眠りを懇願するとき）」──「L'Insomnie」との直接的連絡：「L'Insomnie」で「Le sommeil a fui mes yeux（眠りは目から逃げた）」と描かれた不眠状態が、ここでは「手紙が届くと眠りが引き下がる（il recule）」という具体的原因とともに提示される。implorer（懇願する）という強い動詞：眠りを「祈り求める」──「Les Fleurs」の「Elles priaient（花たちは祈った）」と同じ動詞系列。「si ta lettre arrive, il recule（あなたの手紙が届けば、眠りは引き下がる）」：手紙の到着と眠りの後退という因果関係──これが最終的・最も切実な「N'écris pas」の理由。"
     },
     {
-      "id": 10,
-      "french": "N'écris pas !",
-      "officialTranslation": "手紙を書かないで！"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "J'ai refermé mes bras qui ne peuvent t'atteindre",
+      "body": "「L'Adieu」（valmore_adieu）の「Quand les bras ont lâché, les âmes ont tenu（腕が離れても、魂はつながっていた）」との対照：「L'Adieu」では「腕が放す→魂が繋がる」という二段階で別離が「魂の繋がり」として昇華されるのに対し、「Les Séparées」では「腕が届かない→再び閉じる」という閉塞的な運動しかない。「Rêve intermittent」の「Ta fille vers ton ombre étend ses bras lassés（娘が疲れた腕を伸ばしている）」と合わせたヴァルモールの「腕の詩学」三態：開いてつながる（L'Adieu）→伸ばして届かない（Rêve）→閉じて諦める（Séparées）。",
+      "targetId": "valmore_adieu",
+      "targetParagraphId": null
     },
     {
-      "id": 11,
-      "french": "N'écris pas. Je te lis trop, je t'aime trop encore.",
-      "officialTranslation": "手紙を書かないで。私はあなたをあまりに読みすぎる、あまりに愛しすぎている。"
-    },
-    {
-      "id": 12,
-      "french": "Tu m'apportes de loin une chaleur qui brûle.",
-      "officialTranslation": "あなたは遠くから、燃えるような熱を運んでくる。"
-    },
-    {
-      "id": 13,
-      "french": "Je ne veux plus aimer ; et la nuit, quand j'implore",
-      "officialTranslation": "もう愛したくない；そして夜、私が懇願するとき"
-    },
-    {
-      "id": 14,
-      "french": "Le sommeil, si ta lettre arrive, il recule.",
-      "officialTranslation": "眠りを、あなたの手紙が届けば、眠りは引き下がる。"
-    },
-    {
-      "id": 15,
-      "french": "N'écris pas !",
-      "officialTranslation": "手紙を書かないで！"
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "la nuit, quand j'implore\nLe sommeil, si ta lettre arrive, il recule.",
+      "body": "「L'Insomnie」（valmore_insomnie）および「Ma chambre」（valmore_chambre）との夜の詩学的連絡：「L'Insomnie」の不眠が「眠りが逃げる」という自律的現象として描かれるのに対し、「Les Séparées」の不眠は「手紙が届くと眠りが引き下がる」という具体的・関係的原因を持つ。「Ma chambre」の「深い平和の中での夢想」という肯定的な夜と対照して、「Les Séparées」の夜は手紙によって撹乱される──同じ「部屋」「夜」「孤独」がまったく異なる感情的質をとる。ヴァルモールの夜の詩学：孤独な平和（Ma chambre）→苦しみの不眠（L'Insomnie）→愛による撹乱（Les Séparées）。",
+      "targetId": "valmore_insomnie",
+      "targetParagraphId": null
     }
   ]
 }
