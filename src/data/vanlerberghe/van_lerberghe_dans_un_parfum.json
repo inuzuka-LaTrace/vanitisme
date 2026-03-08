@@ -1,0 +1,76 @@
+{
+  "id": "van_lerberghe_dans_un_parfum",
+  "title": "Dans un parfum de roses blanches",
+  "author": "Charles Van Lerberghe",
+  "source": "La Chanson d'Ève, Société du Mercure de France, Paris, 1904 (2e éd.) (p. 66). 照合出典: wikisource.org (Dans un parfum de roses blanches).",
+  "year": "1904",
+  "firstPublication": "La Chanson d'Ève, Société du Mercure de France, Paris, 1904 (p. 66).",
+  "difficulty": "初級〜中級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "シャルル・ヴァン・レルベルグ（Charles Van Lerberghe, 1861–1919）はベルギー象徴主義の詩人・劇作家。マラルメ・ヴェルレーヌと交流し、メーテルリンクとは親友。長詩『イヴの歌（La Chanson d'Ève）』（1904）は楽園のイヴを主人公とした全5部の象徴主義的叙事詩。本詩はその中の1篇。黄昏の庭で白い薔薇の香りの中に座りながら夢想するイヴの場面。声・つぶやき・吐息という音響の消滅を三段階で描き、末行の打点列（. . . . . . . . .）で沈黙そのものを視覚化して閉じる。自由詩形式（vers libres）を用い、行長の不揃いと弱い韻の連鎖（blanches/branches、murmure の自己反響）によって象徴主義的な感覚の溶解を音韻・リズムで体現する。",
+  "keywords": ["イヴ", "楽園", "黄昏", "沈黙", "感覚の消滅", "打点列", "自由詩", "ベルギー象徴主義"],
+  "relatedTexts": [
+    "van_lerberghe_ange_etoile_matin",
+    "mallarme_toute_lame",
+    "mallarme_mimique",
+    "valmore_reve_intermittent"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Dans un parfum de roses blanches\nElle est assise et songe ;\nEt l'ombre est belle comme s'il s'y mirait un ange.",
+      "provisionalTranslation": "白い薔薇の香りの中で\n彼女は座って夢想している；\nそして影は美しい、まるでそこに天使が映っているかのように。"
+    },
+    {
+      "id": 2,
+      "french": "Le soir descend, le bosquet dort ;\nEntre ses feuilles et ses branches,\nSur le paradis bleu s'ouvre un paradis d'or.",
+      "provisionalTranslation": "夕べが降りてくる、木立は眠る；\nその葉と枝の間に、\n青い楽園の上に黄金の楽園が開く。"
+    },
+    {
+      "id": 3,
+      "french": "Sur le rivage expire un dernier flot lointain.\nUne voix qui chantait, tout à l'heure, murmure.\nUn murmure s'exhale en haleine, et s'éteint.",
+      "provisionalTranslation": "岸辺で遠い最後の波が息絶える。\nさきほど歌っていた声がつぶやく。\nつぶやきは吐息になって漏れ出て、消える。"
+    },
+    {
+      "id": 4,
+      "french": "Dans le silence il tombe des pétales…\n. . . . . . . . . . . . . . .",
+      "provisionalTranslation": "沈黙の中に花びらが散る……\n…………………………………"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全10行（打点列を含む）の自由詩（vers libres）。行長は8〜15音節と不揃い──v.1「Dans un parfum de roses blanches」（8音節）に対してv.3「Et l'ombre est belle comme s'il s'y mirait un ange」（15音節）が突出し、最長行が第1連の末尾に置かれる。韻の構造：固定的な韻律スキームを持たず、blanches（v.1）/ branches（v.5）が連を跨いで位置対応する同音韻（rime croisée的）、lointain（v.7）/ éteint（v.9）が弱い尾母音連絡を持つ。最も重要な音韻装置は「murmure（v.8末）→ Un murmure（v.9冒頭）」の自己反響──同一語が動詞（murmure）から名詞（Un murmure）へと転換しながら連を跨いで反響する。詩全体は声の消滅の四段階（歌→つぶやき→吐息→沈黙＋打点列）で構成される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et l'ombre est belle comme s'il s'y mirait un ange.",
+      "body": "第1連の最長行──詩のトーンを決める一文。「影（l'ombre）」が「天使（ange）」の映り込む鏡として描かれる。「s'il s'y mirait（もしそこに映っているとしたら）」：条件法的読み──天使の存在は確定でなく可能性・仮定として提示されるのみ。不在の痕跡としての影、という象徴主義的知覚論。「Elle（彼女）」は大文字で始まる──詩集全体でイヴは常に「Elle」と大文字の代名詞で指示される慣例。本詩はその冒頭で「白い薔薇の香り」という嗅覚から入り、「天使が映る影」という視覚の幻へと移行する。「ange（天使）」への言及が次詩「L'Ange de l'étoile du matin」での天使の降臨を予告する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sur le paradis bleu s'ouvre un paradis d'or.",
+      "body": "「青い楽園の上に黄金の楽園が開く（Sur le paradis bleu s'ouvre un paradis d'or）」──paradis という語が同一行に二度現れる（rime intérieure 的な内部反響）。bleu（青）：空・昼の楽園。d'or（黄金）：夕焼け・黄昏──時間の推移（昼→夕）が空間の重層（楽園の上に別の楽園）として表現される逆説的な拡張。「Le soir descend（夕べが降りてくる）」/ 「le bosquet dort（木立は眠る）」：descendre（下降）と dormir（眠り）という動詞の並列──夕暮れの到来が重力的・睡眠的な運動として擬人化される。詩集の「楽園」という空間設定がこの一行で二重化・黄昏化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Une voix qui chantait, tout à l'heure, murmure.\nUn murmure s'exhale en haleine, et s'éteint.",
+      "body": "詩の音響的核心：声の消滅の過程が二行にわたって展開する。「Une voix qui chantait, tout à l'heure（さきほど歌っていた声）」：半過去 chantait──すでに過去の行為としての「歌」の記憶のみが残る。「tout à l'heure（さきほど）」という時間副詞：ごく短い過去への言及──歌はつい先ほどまであったことを示す。「murmure」という動詞（v.8末）が次行冒頭で「Un murmure」という名詞（v.9冒頭）として自己反響──動詞が名詞化する瞬間に声は「行為」から「物（murmure）」へと凝固し、そのまま消える連鎖。「s'exhale en haleine（吐息になって漏れ出る）」：exhaler（漏れ出す・発散する）→ haleine（吐息）──身体的な呼吸の比喩で声の消滅を表現する。マラルメ「Toute l'Âme résumée」の煙が立ち上り消えていくイメージとの連絡。",
+      "targetId": "mallarme_toute_lame",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dans le silence il tombe des pétales…\n. . . . . . . . . . . . . . .",
+      "body": "詩の結語──一行と打点列による二重の閉幕。「沈黙の中に花びらが散る（Dans le silence il tombe des pétales）」：il tombe は非人称構文──「散る」主語は「花びら（pétales）」だが、非人称 il が「誰でもないもの」の行為として花びらの落下を提示する。「…（省略符）」：言語の途絶を示す記号──しかしその後にさらに打点列（. . . . . . . . .）が続く。打点列は「沈黙そのもの」の視覚化──語られない時間・音のない時間をページ上に印刷する。ヴァン・レルベルグはこの手法を詩集内で反復して使用する。タイトル詩（§1「Dans un parfum de roses blanches」）から始まり花びらの落下（§4）で閉じる──白薔薇の香りが花びらの沈黙へと転化する。次の詩「L'Ange de l'étoile du matin」へのページ上の橋渡しとして、沈黙の後に天使が降りてくる。"
+    }
+  ]
+}
