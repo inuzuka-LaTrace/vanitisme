@@ -1,0 +1,169 @@
+{
+  "id": "verlaine_marceline_desbordes_valmore",
+  "title": "Marceline Desbordes Valmore",
+  "author": "Paul Verlaine",
+  "source": "Œuvres posthumes, Messein, Paris, 1911, Premier volume (p. 139–141). 照合出典: wikisource.org (Marceline Desbordes Valmore, Verlaine版).",
+  "year": "1896",
+  "firstPublication": "Œuvres posthumes, Messein, Paris, 1911, Premier volume (p. 139–141). 執筆年代は1890年代推定（ヴェルレーヌ死後の遺稿集収録）.",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ポール・ヴェルレーヌ（1844–1896）によるマルスリーヌ・デボルド＝ヴァルモール（1786–1859）への追悼・讃歌詩。ヴェルレーヌの死後に刊行された遺稿集『死後作品集（Œuvres posthumes）』（Messein, 1911）に収録。全12連・各4行（クワトラン）、計48行。韻律は交互韻（ABAB）と抱韻（ABBA）を連ごとに使い分けた自由なアレクサンドラン（12音節詩行）。詩は三部から構成される：第一部（連1〜6）：ヴァルモールの詩の本質──「音楽」「大河」「祈り」「芸術」の比喩系列。第二部（連7〜9）：ヴァルモールの出身地ドゥエー（Douai）への讃歌。第三部（連10〜12）：ドゥエーへの像建立の要請と、大マルスリーヌへの直接的呼びかけ。ヴェルレーヌはヴァルモールを「女性詩人の中の傑出した先達」として、彼自身の詩学──旋律性・眼涙・自発性──と結びつけて評価した。",
+  "keywords": ["ヴァルモール", "追悼詩", "ドゥエー", "音楽性", "大河", "芸術と生", "女性詩人", "アレクサンドラン"],
+  "relatedTexts": [
+    "mallarme_verlaine",
+    "valmore_les_roses_de_saadi",
+    "valmore_adieu",
+    "valmore_reve_intermittent",
+    "valmore_tristesse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Telle autre gloire est, j'ose dire, plus fameuse\nDont l'éclat éblouit mieux encor qu'il ne luit :\nLa sienne fait plus de musique que de bruit,\nBien que de pleurs brûlante écumeuse et fumeuse.",
+      "provisionalTranslation": "別の栄光がある、あえて言えば、より名高い\nその輝きは照らすよりもさらに眩惑する──\n彼女のそれは騒音よりも多くの音楽をなす、\n涙に燃えて泡立ち煙立つとはいえ。"
+    },
+    {
+      "id": 2,
+      "french": "Mais la bonté du cœur, mais l'âme haute et pure\nTempèrent ce torrent de douleur et d'amour\nEt, se mêlant à la douceur de la nature,\nÀ sa souffrance aussi, de nuit comme de jour",
+      "provisionalTranslation": "しかし心の善良さ、しかし高く純粋な魂が\nこの苦痛と愛の奔流を和らげ\nそして、自然の柔らかさと混じり合いながら、\nその苦しみにも、夜も昼も"
+    },
+    {
+      "id": 3,
+      "french": "Promènent sous le ciel tout pluie et tout soleil\nÀ chaque instant, avec à peine des nuances,\nUn large fleuve harmonieux de confiances\nVives et de désespoirs lents, et, non pareil,",
+      "provisionalTranslation": "雨だらけで日差しだらけの空の下を歩ませる\nひとときひとときを、わずかな陰影とともに、\n生き生きとした信頼の調和ある広大な河を\nそして緩やかな絶望を、比類なく、"
+    },
+    {
+      "id": 4,
+      "french": "Il chante, l'ample fleuve au capricieux cours,\nL'hymne infini de toute la tendresse humaine\nOù la fille et l'amante et la mère ont leurs tours,\nOù le poète aussi, dans l'horreur qui nous mène.",
+      "provisionalTranslation": "それは歌う、気まぐれな流れの広大な河が、\n人間のあらゆる優しさの無限の讃歌を\nそこで娘と恋人と母がそれぞれに歌い、\nそこで詩人もまた、私たちを導く恐怖の中で。"
+    },
+    {
+      "id": 5,
+      "french": "Vient mêler son sanglot qui finit en prière\nUniverselle, et la beauté même d'un art\nIssu du sang lui-même et de la vie entière,\nRires, larmes, désirs et tout, comme au hasard.",
+      "provisionalTranslation": "やって来て、その嗚咽を混ぜる、普遍的な\n祈りへと終わる嗚咽を、そして芸術そのものの美を\n血そのものから生まれ、生の全体から、\n笑い、涙、欲望とすべて、まるで偶然のように。"
+    },
+    {
+      "id": 6,
+      "french": "Car elle fut artiste, et, sous la fougue ardente\nDont va battre son vers vibrant comme son cœur,\nOn perçoit et l'on doit admirer l'imprudente\nMain au prudent doigté tout vigueur et langueur.",
+      "provisionalTranslation": "なぜなら彼女は芸術家だったから。そして心のように\n振動する詩行を打ち叩く熱烈な勢いの下に、\n人は知覚し、讃えなければならない──無謀な\n手の慎重な指遣いを、すべて力と倦怠と。"
+    },
+    {
+      "id": 7,
+      "french": "— Les villes, ainsi que les peuples, ont la gloire\nQu'elles valent, et toi, Douai, tu méritas\nCelle-ci, pays calme où vécut de l'histoire\nTumultueuse en masse et formidable au tas,",
+      "provisionalTranslation": "──都市もまた、民族と同様に、その値打ちの\n栄光を持つ、そしてドゥエーよ、おまえはこれを得た、\n大量の騒然とした、一塊の恐るべき\n歴史の生きた静かな国、この栄光を。"
+    },
+    {
+      "id": 8,
+      "french": "Cité d'églises et de beffrois, et campagnes\nPleines de « jeunes Albertines », mais, encor,\n« Où s'assirent longtemps les ferventes Espagnes ».\nTel l'œuvre et tel le cœur, fleurs et pleurs, flûte et cor,",
+      "provisionalTranslation": "教会と鐘楼塔の都市、そして「若いアルベルティーヌたち」で\n満ちた田園、しかしまた、「熱烈なスペインたちが\n長く腰を下ろした場所」。\n作品のごとく心もまた、花と涙、笛と角笛、"
+    },
+    {
+      "id": 9,
+      "french": "En harmonie avec la femme et le génie.\nIl est juste, il est temps — pour l'honneur de ses vers ?\nNon, ils sont ton honneur même et ta fleur bénie,\nSa patrie, ô Douai, « doux lieu de l'univers » —",
+      "provisionalTranslation": "女性と天才と調和して。\n正当であり、時が来た──彼女の詩の名誉のために？\nいや、詩はおまえ自身の名誉と祝福された花、\nその祖国よ、ドゥエーよ、「宇宙の甘い場所」──"
+    },
+    {
+      "id": 10,
+      "french": "Il n'est que temps, il n'est que grand temps et que juste,\nVille, son cher souci dans ce cruel Paris,\nDe dresser quelque part sa ressemblance auguste\nEn quelqu'un de tes « coins » qu'elle a le plus chéris,",
+      "provisionalTranslation": "もう時間はない、もう大いなる時間しかなく、正当である、\nこの残酷なパリにおいて都市の親しき関心として、\nどこかに彼女の崇高な肖像を建てることが\n彼女が最も慈しんだおまえの「隅」のどこかに、"
+    },
+    {
+      "id": 11,
+      "french": "Afin que les cloches encor de Notre-Dame\nBercent du moins son ombre à l'ombre des rameaux\nQui furent familiers au repos de cet âme\nInfatigable et qui lui murmuraient les mots",
+      "provisionalTranslation": "ノートルダムの鐘がいまも\nせめてその影を枝々の影に揺らすように\n疲れを知らないこの魂の安らぎに馴染んだ\n枝々が、その言葉を囁いていた"
+    },
+    {
+      "id": 12,
+      "french": "De ces poèmes dont nous célébrons la fête\nIntellectuelle et cordiale, — et, ô Toi,\nÔ grande Marceline, ô sublime poète,\nEt femme exquise, accueille cet acte de foi !",
+      "provisionalTranslation": "これらの詩の言葉を、私たちが知的で\n心温かな祭典として祝う──そして、ああ、あなたよ、\nああ、偉大なマルスリーヌよ、崇高な詩人よ、\n繊細な女性よ、この信仰の行いを受け取れ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "韻律と形式：全12連・各4行（クワトラン）のアレクサンドラン（12音節詩行）。韻律構造は連ごとに変化する──連1・2・3・6：抱韻（ABBA）、連4〜5・7〜12：交互韻（ABAB）または包含韻（ABBA）と自由な組み合わせ。詩行は古典的なアレクサンドランの6+6分割（médiante）を基本としながら、内部で頻繁に句読点による「エジャンブマン（enjambement）」を起こす──連2末行の切れ目なし、連3冒頭「Promènent」への跨りなど。主な比喩系列：第一部（連1〜6）で「音楽（musique）」→「奔流（torrent）」→「大河（large fleuve）」→「讃歌（hymne）」→「嗚咽→祈り（sanglot→prière）」→「無謀な手（imprudente Main）」と展開し、ヴァルモールの詩の本質を水と音の比喩で描く。第二部（連7〜9）でドゥエーへ転換し、第三部（連10〜12）で銅像建立要請から直接呼格「Ô grande Marceline」で閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Telle autre gloire est, j'ose dire, plus fameuse\nDont l'éclat éblouit mieux encor qu'il ne luit :\nLa sienne fait plus de musique que de bruit,",
+      "body": "開幕の三重の比較：「別の栄光がある……より名高い（plus fameuse）」──誰との比較かは明示されない。詩の開幕が「telle autre（別のもの）」という比較の枠で始まるため、読者は「ヴァルモール以外の、より名高い詩人・作家の名声」と比べながらヴァルモールの特質を読むよう誘導される。「照らすよりもさらに眩惑する（éblouit mieux encor qu'il ne luit）」：éblouir（眩惑する・幻惑する）と luire（輝く・照らす）の対比──華やかに照らす名声と、内から眩惑させるヴァルモールの詩的光の差異。「音楽をなす（fait plus de musique que de bruit）」：ヴェルレーヌ詩学の核心語彙──「詩法（Art poétique）」冒頭「何よりもまず音楽を（De la musique avant toute chose）」の再現。ヴェルレーヌが最もヴァルモールに親しみを感じた点が「旋律性（musicalité）」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mais la bonté du cœur, mais l'âme haute et pure\nTempèrent ce torrent de douleur et d'amour",
+      "body": "「しかし（Mais）」の転換：連1が「音楽 vs 騒音」という美学的対比だったのに対し、連2は倫理的・感情的次元へ移行する。「心の善良さ（la bonté du cœur）」「高く純粋な魂（l'âme haute et pure）」──これらは当時の「道徳的」な女性詩人評価の言語を踏まえながら、「torrent（奔流）」という激烈なイメージで修正される。「苦痛と愛の奔流（torrent de douleur et d'amour）」：douleur と amour の並置──ヴァルモールの詩の二本柱。連2末行「À sa souffrance aussi, de nuit comme de jour」は連3冒頭「Promènent」に跨る（エジャンブマン）──統語の切れ目と詩行の切れ目が意図的にずれる、ヴェルレーヌ的技法。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Un large fleuve harmonieux de confiances\nVives et de désespoirs lents, et, non pareil,",
+      "body": "「大河（large fleuve）」の比喩が連3〜4にわたって展開する：「調和ある広大な河（large fleuve harmonieux）」──河が詩の比喩として選ばれることで、ヴァルモールの詩の「持続的な流れ」と「幅の広さ（あらゆる感情を含む）」が表現される。「生き生きとした信頼（confiances Vives）」と「緩やかな絶望（désespoirs lents）」：速さの対比──信頼は「生き生きと（vives）」、絶望は「緩やかに（lents）」。これはヴァルモールの詩集（「Les Roses de Saadi」「Adieu」等）で実際に見られるリズムの特徴──叫びから囁きへの急転──に対応する。「非類（non pareil）」：pareil（同様の）の否定──比類なきという断言で連4冒頭の大河の歌へ接続。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'hymne infini de toute la tendresse humaine\nOù la fille et l'amante et la mère ont leurs tours,\nOù le poète aussi, dans l'horreur qui nous mène.",
+      "body": "「人間のあらゆる優しさの無限の讃歌（L'hymne infini de toute la tendresse humaine）」：hymne（讃歌）──連1の「音楽（musique）」から連3〜4の「河（fleuve）」を経て、ここで「讃歌（hymne）」という宗教的語彙に到達する。「娘と恋人と母（la fille et l'amante et la mère）」：ヴァルモールが歌った女性の三つの役割──処女的な少女（fille）、恋する女（amante）、母（mère）──の列挙。ヴァルモール自身の伝記的事実（恋愛・結婚・育児・喪失）との重なり。「詩人もまた、私たちを導く恐怖の中で（le poète aussi, dans l'horreur qui nous mène）」：ヴェルレーヌが詩人として「娘・恋人・母」と並列に自分自身を入れる──ヴァルモールとの詩人的共感の宣言。「horreur qui nous mène（私たちを導く恐怖）」は「ランボーとの関係・失墜・刑務所」等のヴェルレーヌ自身の「恐怖」の暗示としても読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "son sanglot qui finit en prière\nUniverselle",
+      "body": "「嗚咽から普遍的な祈りへ（son sanglot qui finit en prière Universelle）」──ヴァルモールの詩の感情的運動を一句で要約する。sanglot（嗚咽）：ヴァルモール詩学の特徴的な語彙──彼女の詩集全体に「泣く（pleurer）」「嗚咽（sanglot）」「涙（larmes）」が溢れる。「普遍的な祈りへと終わる（finit en prière Universelle）」：個人的な感情の極限（嗚咽）が普遍的な宗教的行為（祈り）へと昇華する運動──ヴァルモールのカトリック信仰と詩的哀愁の接点。「Universelle」の大文字化：普遍性の強調──ヴァルモールの詩が個人的な嗚咽を超えて人類普遍の祈りとなるという評価。「血そのものから生まれ（Issu du sang lui-même）」：sang（血）──詩の起源を身体的・生理的なものとして定義する。ヴェルレーヌが評価するのは「技巧から生まれた」詩でなく「生そのものから」流れ出た詩。マラルメ「Verlaine（mallarme_verlaine）」§8「詩がほとんど十分だった」との対照的な読み。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "l'imprudente\nMain au prudent doigté tout vigueur et langueur",
+      "body": "連6はヴァルモールの詩的技法への唯一の直接的言及。「無謀な手の慎重な指遣い（l'imprudente Main au prudent doigté）」：imprudente（無謀な）と prudent（慎重な）の逆説的結合──感情的には無謀に突進しながら、技術的には慎重に制御された詩作の二重性。Main（手）大文字：詩を書く手が固有名詞的な重さで提示される。「すべて力と倦怠と（tout vigueur et langueur）」：vigueur（力・活力）と langueur（倦怠・物憂さ）の並置──ヴェルレーヌが「詩法（Art poétique）」で「無音と半音調が必要（Il faut aussi que tu n'ailles point / Choisir tes mots sans quelque méprise）」と述べた詩学の実践者としてのヴァルモール像。第一部（連1〜6）の結びとして「芸術家（artiste）」という語が明示される──ヴァルモールを「自然に流れ出た詩人」でなく「意識的な芸術家」として定義する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "— Les villes, ainsi que les peuples, ont la gloire\nQu'elles valent, et toi, Douai, tu méritas",
+      "body": "連7冒頭の「──（ダッシュ）」：詩の転換──ヴァルモールの詩論（連1〜6）から出身地ドゥエー（Douai）への地理的転換を告げる記号。「都市もまた、民族と同様に、その値打ちの栄光を持つ（Les villes, ainsi que les peuples, ont la gloire Qu'elles valent）」：アポリズム的な格言形式──都市の栄光はその文化的価値に比例するという命題。「ドゥエーよ（Douai）」の呼格：ヴァルモールに続いて都市が呼格で呼びかけられる──連9「sa patrie, ô Douai」、連10「Ville」と反復されるドゥエーへの呼格。ドゥエー（Douai）：現在はフランス北部ノール県の都市。ヴァルモール（Marceline Desbordes）の出身地（1786年生）。「静かな国（pays calme）」：ドゥエーの性格とヴァルモールの詩の「和らげ（tempèrent）」という語彙が対応。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "« jeunes Albertines »\n« Où s'assirent longtemps les ferventes Espagnes »",
+      "body": "二つの引用句──いずれもヴァルモールの詩句からの引用。「若いアルベルティーヌたち（jeunes Albertines）」：アルベルティーヌはヴァルモールの詩に登場する女性名──田園の若い娘たちの典型的な名前として使われる。「熱烈なスペインたちが長く腰を下ろした場所（Où s'assirent longtemps les ferventes Espagnes）」：ドゥエーがスペイン領ネーデルラントの時代（17世紀）に長くスペイン支配下にあったことへの歴史的言及──ヴァルモールの詩「Douai」あるいは地域的な詩的伝統からの引用句。「作品のごとく心もまた、花と涙、笛と角笛（Tel l'œuvre et tel le cœur, fleurs et pleurs, flûte et cor）」：tel A, tel B（Aのごとく、B もまた）という古典的格言形式──詩人の作品と心が同一のものとして提示される。「花と涙（fleurs et pleurs）」「笛と角笛（flûte et cor）」：音の対称（fr の頭韻）と意味の対称（優しさと力）。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "« doux lieu de l'univers »",
+      "body": "「宇宙の甘い場所（doux lieu de l'univers）」──ヴァルモールの詩句からの引用（引用符付き）。doux（甘い・柔らかい・優しい）：ヴァルモール詩学の最も特徴的な形容詞のひとつ──彼女の詩集全体に「douceur（柔らかさ）」「doux（甘い）」が反復される。「宇宙（univers）」：故郷ドゥエーを「宇宙」と呼ぶ誇張法──狭い故郷を宇宙の中心として愛する郷土愛の詩的表現。連9全体の構造：「詩の名誉のために（pour l'honneur de ses vers）？」という疑問→「いや（Non）」という転換→「詩はおまえ自身の名誉（ils sont ton honneur même）」という反論──ヴァルモールの詩がドゥエーの装飾でなく、ドゥエーがヴァルモールの詩の「祖国（patrie）」として従属するという逆転。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Il n'est que temps, il n'est que grand temps et que juste",
+      "body": "連10〜11：ドゥエーへの銅像建立要請──詩の外部的・社会的な要求として、ヴァルモールの記念像をドゥエーに建てることをヴェルレーヌが公に求める詩的嘆願。「もう時間はない、もう大いなる時間しかない（Il n'est que temps, il n'est que grand temps）」：n'est que temps（時間しかない・時機だ）の三重反復──緊急性の強調。「この残酷なパリ（ce cruel Paris）」：cruel Paris──パリがヴァルモールにとって「残酷な」場所だった（ヴァルモールは晩年パリで貧困の中に生きた）という伝記的事実への言及。同時にヴェルレーヌ自身がパリで苦難した体験の投影。「崇高な肖像（sa ressemblance auguste）」：ressemblance（似姿・肖像）と auguste（崇高な）──マラルメ「Hamlet（mallarme_hamlet）」最終段落の「不死の似姿（ressemblance immortelle）」と同一の語彙。",
+      "targetId": "mallarme_hamlet",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Afin que les cloches encor de Notre-Dame\nBercent du moins son ombre à l'ombre des rameaux",
+      "body": "連11：視覚と聴覚が交差する最も叙情的な連。「ノートルダムの鐘（les cloches encor de Notre-Dame）」：ドゥエーのノートルダム教会の鐘──歴史的鐘楼都市ドゥエーの固有の音景。「せめてその影を揺らす（Bercent du moins son ombre）」：bercer（揺り動かす・子守唄を歌う）──鐘の音がヴァルモールの「影（ombre）」を揺り籠で揺らすように動かすという比喩。ombre（影）：生身の身体でなく「影」──ヴァルモールは既に死んでいる（1859年没）が、その「影」が記念像の形でドゥエーに留まることを詩人が願う。「枝々の影（à l'ombre des rameaux）」：二重の影（ombre de…/ombre des）──記念像の影と木々の影が重なる視覚的イメージ。「疲れを知らないこの魂（cet âme Infatigable）」：cet âme は文法的には ce この（男性形）→ cette この（女性形）が規範だが、詩の韻律のため男性形が選択された可能性──あるいは19世紀の用法の揺れ。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ô grande Marceline, ô sublime poète,\nEt femme exquise, accueille cet acte de foi !",
+      "body": "詩の結び：固有名詞「Marceline」への直接呼格──詩全体を通じて「elle（彼女）」「la sienne（彼女のもの）」「notre ami（私たちの友）」と三人称で語られてきたヴァルモールが、最終連の最終2行で初めて「あなた（Toi / Marceline）」として直接呼びかけられる。マラルメ「Verlaine（mallarme_verlaine）」最終文「Verlaine, dignement, votre dépouille」の固有名呼格と同型の閉じ方──追悼詩・讃歌の慣習的クライマックスとしての呼格。「ô sublime poète, Et femme exquise（崇高な詩人、そして繊細な女性）」：詩人としての崇高さと女性としての繊細さを並置──当時の「女性詩人」という概念の二分法を踏まえながら、両者を「et（そして）」で並立させることで両立を肯定する。「信仰の行い（cet acte de foi）」：弔辞・讃歌詩という行為全体を「信仰の行い」として定義──宗教的次元での詩的捧げ物。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": 10
+    }
+  ]
+}
