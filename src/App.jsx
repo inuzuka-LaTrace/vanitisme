@@ -2123,30 +2123,31 @@ export default function App() {
 
         {/* ─── 現在のテキスト情報 ───────────────────── */}
         <div ref={textInfoRef} className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
-          <div className="flex items-start justify-between gap-4">
-            <div>
-              <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-2 font-medium ${authorColor(currentText.category)}`}>
+          <div>
+            {/* カテゴリバッジ＋統計を同行に */}
+            <div className="flex items-center gap-2 mb-2 flex-wrap">
+              <span className={`inline-block text-xs px-2 py-0.5 rounded-full font-medium ${authorColor(currentText.category)}`}>
                 {catShort[currentText.category] || currentText.category}
               </span>
-              <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
-              <p className={`text-sm font-sans ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
-            </div>
-            <div className={`flex gap-3 shrink-0`}>
-              <div className={`text-center text-xs ${textSecondary}`}>
-                <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{currentText.paragraphs.length}</div>
-                <div className="opacity-60 mt-0.5">段落</div>
-              </div>
-              <div className={`text-center text-xs ${textSecondary}`}>
-                <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{textWordCount(currentText).toLocaleString()}</div>
-                <div className="opacity-60 mt-0.5">語</div>
-              </div>
+              <span className={`text-xs font-sans ${textSecondary} opacity-50`}>·</span>
+              <span className={`text-xs font-sans ${textSecondary} opacity-70`}>
+                {currentText.paragraphs.length}段落
+              </span>
+              <span className={`text-xs font-sans ${textSecondary} opacity-50`}>·</span>
+              <span className={`text-xs font-sans ${textSecondary} opacity-70`}>
+                {textWordCount(currentText).toLocaleString()}語
+              </span>
               {currentText.annotations?.length > 0 && (
-                <div className={`text-center text-xs ${textSecondary}`}>
-                  <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{currentText.annotations.length}</div>
-                  <div className="opacity-60 mt-0.5">注釈</div>
-                </div>
+                <>
+                  <span className={`text-xs font-sans ${textSecondary} opacity-50`}>·</span>
+                  <span className={`text-xs font-sans ${textSecondary} opacity-70`}>
+                    注釈{currentText.annotations.length}
+                  </span>
+                </>
               )}
             </div>
+            <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
+            <p className={`text-sm font-sans ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
           </div>
           {currentText.context && (
             <div className={`mt-3 p-3 rounded-lg text-sm whitespace-pre-line ${darkMode ? 'bg-zinc-800/60 text-zinc-300 border border-zinc-700' : 'bg-stone-100 text-stone-700 border border-stone-200'}`}>
