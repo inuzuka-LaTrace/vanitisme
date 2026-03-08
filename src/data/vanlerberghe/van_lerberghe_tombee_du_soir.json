@@ -1,0 +1,71 @@
+{
+  "id": "van_lerberghe_tombee_du_soir",
+  "title": "Tombée du soir",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 131–132). 照合出典: 原典写真（p. 131–132）.",
+  "year": "1898",
+  "firstPublication": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 131–132).",
+  "difficulty": "初級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "シャルル・ヴァン・レルベルグ（Charles Van Lerberghe, 1861–1919）の詩集『Entrevisions（垣間見）』（1898）所収。全3連・計17行の自由詩。夕暮れを「空（Le ciel）」「眠り（Le sommeil）」「時（L'heure）」という三つの擬人化によって段階的に描く。第1連：空が暗闇の絹のヴェールを広げる。第2連：眠りが夢の蔓で今日と翌日を結ぶ。第3連：時が立ち止まってサンダルを結び直しながら、肩越しに夕べの川への落下を見守る。三つの擬人化はいずれも女性的・身体的な動作（手を伸ばす・蔓で結ぶ・サンダルを結ぶ）で描かれ、黄昏の静謐な移行を象徴主義的な触覚・視覚の語彙で体現する。",
+  "keywords": ["soir", "silence", "sommeil", "rêves", "heure", "擬人化", "黄昏", "ベルギー象徴主義"],
+  "relatedTexts": [
+    "van_lerberghe_dans_un_parfum",
+    "van_lerberghe_ange_etoile_matin",
+    "valmore_reve_intermittent",
+    "mallarme_toute_lame"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le ciel dans l'ombre\nDe l'orient à l'occident,\nA travers le silence,\nDe ses douces mains étend\nUn voile de soie sombre\nEt de pâles étoiles.",
+      "provisionalTranslation": "空が闇の中で\n東から西へと、\n沈黙を通り抜けながら、\nその柔らかな手で広げる\n暗い絹のヴェールと\n淡い星々を。"
+    },
+    {
+      "id": 2,
+      "french": "Le sommeil entre les rives\nDu crépuscule et du matin,\nAvec des lianes de rêves,\nLie le jour au lendemain.",
+      "provisionalTranslation": "眠りは両岸のあいだで——\n黄昏と朝との岸のあいだで——\n夢の蔓をもって\n今日を翌日へと結び合わせる。"
+    },
+    {
+      "id": 3,
+      "french": "L'heure qui passe\nS'arrête, et lace\nSa sandale sur le seuil\nDe la terrasse,\nCependant que, dessus son épaule,\nElle regarde le soir tomber\nSur la rivière aux légers saules.",
+      "provisionalTranslation": "過ぎゆく時は\n立ち止まり、結び直す\nテラスの閾の上で\n自らのサンダルを、\nそのあいだも、肩越しに\n夕べが落ちてゆくのを眺めながら\n軽やかな柳の揺れる川の上へと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全3連・計17行の自由詩（vers libres）。各連で異なる韻律スキームを持つ。第1連（6行）：ombre/sombre（v.1/v.5）の抱韻、orient/étend（v.2/v.4）の内側抱韻——6行を ABCBAC 的に包み込む構造。étoiles（v.6）は韻を持たない開放行として連を閉じる。第2連（4行）：rives/rêves（v.1/v.3）/ matin/lendemain（v.2/v.4）の交差韻（ABAB）——4行の中で最も規則的な韻律。「夢の蔓で結ぶ（lianes de rêves…Lie）」という意味と韻の二重の「結び」。第3連（7行）：passe/lace/terrasse（v.1/v.2/v.4）の連続短行韻、épaule/saules（v.5/v.7）による長行の包み——7行を AABACBC 的に構成する。v.3「seuil」とv.6「tomber」は韻を持たない開放行。詩全体の三主語：Le ciel（空）→ Le sommeil（眠り）→ L'heure（時）が3連を通じて連続する擬人化の三部構成をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le ciel dans l'ombre\nDe ses douces mains étend\nUn voile de soie sombre",
+      "body": "第1連の統語は6行にわたるひとつの文——「空が（Le ciel）…その柔らかな手で（De ses douces mains）広げる（étend）暗い絹のヴェールと淡い星々を」。主語（v.1）から述語（v.4「étend」）まで3行の插入句（v.2「東から西へ」・v.3「沈黙を通り抜けながら」）が展開する遅延構造。「柔らかな手（douces mains）」：空の擬人化——黄昏の暗闇が「手」によってヴェールを広げる動作として身体化される。「暗い絹のヴェール（voile de soie sombre）」と「淡い星々（pâles étoiles）」：対比——sombre（暗い）と pâles（淡い）が同一の空間に並置される。voile（ヴェール）：布・帆・覆いの多義語——マラルメ「Mimique（mallarme_mimique）」における「永続的な示唆（suggestion perpétuelle）」としての「ヴェール」の詩的語彙との連絡。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le sommeil entre les rives\nDu crépuscule et du matin,\nAvec des lianes de rêves,\nLie le jour au lendemain.",
+      "body": "第2連は詩全体で唯一の交差韻（ABAB）を持つ連——rives/rêves（v.1/v.3）、matin/lendemain（v.2/v.4）。「眠り（Le sommeil）」の擬人化：「両岸のあいだで（entre les rives）」という空間的比喩——睡眠が「黄昏（crépuscule）」と「朝（matin）」という二つの岸の間に広がる川として提示される。「夢の蔓（lianes de rêves）」：lianes（蔓植物・ツル）——熱帯的なイメージ。夢が「蔓」として今日と翌日を物理的に「結ぶ（Lie）」。「Lie」はリアン（liane）と音韻的に呼応する——「蔓（liane）」という語が「結ぶ（lier）」という動詞と音韻的に一致することで、意味と音が二重に「結ばれる」。「今日を翌日へ（le jour au lendemain）」：時間的連続の保証としての眠り——睡眠が「切断」でなく「接続」として機能するという比喩。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'heure qui passe\nS'arrête, et lace\nSa sandale sur le seuil\nDe la terrasse,",
+      "body": "第3連の擬人化は最も具体的・身体的：「時（L'heure）」がサンダルを結び直すために立ち止まる。「passe / S'arrête（過ぎゆく…立ち止まる）」：移動と停止の逆説——「過ぎゆく時（L'heure qui passe）」がまさに「立ち止まる（S'arrête）」という矛盾的な動作をする。「lace（結ぶ）」：第2連の「Lie（結ぶ）」との語彙的連絡——眠りが「結ぶ」、時も「結ぶ」——詩全体に「結び」の動詞が貫通する。passe/lace/terrasse（v.1/v.2/v.4）：3行の短い行が連続し、同一音（-asse）で韻を踏む——短行の速いリズムが「時の立ち止まり」と逆説的に対応する。「閾（seuil）」：seuil は「敷居・境界」——テラスと外の境界として、また夕暮れという時間的境界の空間化として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Cependant que, dessus son épaule,\nElle regarde le soir tomber\nSur la rivière aux légers saules.",
+      "body": "第3連の後半（v.5〜7）：「時」が肩越しに夕べの落下を見守る。「dessus son épaule（肩越しに）」：後方を見る身体的ジェスチャー——サンダルを結びながら振り返るという二重の動作。「le soir tomber（夕べが落ちてゆく）」：tomber（落ちる）——本詩のタイトル「Tombée du soir（夕べの落下）」の動詞が詩末近くで初めて現れる。タイトルに宿っていた動詞が詩の末尾で解放される構造。「軽やかな柳の揺れる川（la rivière aux légers saules）」：légers（軽やかな）という形容詞——saules（柳）は重い垂れ下がりのイメージを持つが légers でそれを「軽やかに」転換する。épaule/saules（v.5/v.7）の包み韻（rime embrassée）：詩末の2長行が音韻的に包まれながら閉じる——「肩（épaule）」と「柳（saules）」が詩の最後のイメージをなす。「Elle regarde」：三擬人化（Le ciel / Le sommeil / L'heure）の締めとして「Elle（彼女）」という代名詞——タイトル詩「Dans un parfum de roses blanches」のイヴ（Elle）との連絡。"
+    }
+  ]
+}
