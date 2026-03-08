@@ -1,0 +1,78 @@
+{
+  "id": "banville_herodiade",
+  "title": "Hérodiade",
+  "author": "Théodore de Banville",
+  "source": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 241–242). 照合出典: wikisource.org (Les Princesses (recueil)/Hérodiade).",
+  "year": "1890",
+  "firstPublication": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 241–242).",
+  "difficulty": "中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の詩集『王女たち（Les Princesses）』（1890）第12篇（p. 241–242）。全14行のソネット（4-4-3-3行）。エピグラフはハインリヒ・ハイネ『アッタ・トロル（Atta Troll）』からのフランス語散文引用──「なぜなら彼女はまことに王女だった：ユダヤの女王、ヘロデの妻、洗礼者ヨハネの首を要求したあの女」。ヘロディアード（Hérodiade）：洗礼者ヨハネ処刑を求めた新約聖書の女性（マルコ6章）。詩の構造は精緻な逆転：Q1〜Q2では美しさの礼賛（ヨルダン川のように透明な目・ブドウより甘い肌・赤い唇・白い歯）、T1では宮廷を歩む華やかな姿（黒いページ・宝石・緋の光）──そして最終行「彼女は金の皿の上に洗礼者ヨハネの血まみれの首を運ぶ」という衝撃的な落差で閉じる。この「美」と「首」の対照がマラルメ「エロディアード」との深い連絡を生み、詩集タイトル「améthyste（アメジスト）」が T2韻として現れる自己指示的な構造も注目すべき点。",
+  "keywords": ["Hérodiade", "Jean-Baptiste", "rubis", "améthyste", "ヘロディア", "宝石", "新約聖書", "ソネット", "マラルメ"],
+  "relatedTexts": [
+    "banville_les_princesses",
+    "banville_pasiphae",
+    "banville_antiope",
+    "mallarme_hamlet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ses yeux sont transparents comme l'eau du Jourdain.\nElle a de lourds colliers et des pendants d'oreilles ;\nElle est plus douce à voir que le raisin des treilles,\nEt la rose des bois a peur de son dédain.",
+      "provisionalTranslation": "その目はヨルダン川の水のように澄んでいる。\n彼女は重いネックレスと耳飾りをつけている；\n彼女はブドウ棚のブドウより見るに甘やかで、\n森の薔薇でさえ彼女の冷笑を恐れる。"
+    },
+    {
+      "id": 2,
+      "french": "Elle rit et folâtre avec un air badin,\nLaissant de sa jeunesse éclater les merveilles.\nSa lèvre est écarlate, et ses dents sont pareilles\nPour la blancheur aux lys orgueilleux du jardin.",
+      "provisionalTranslation": "彼女は笑いながら気ままに戯れる、\n若さの驚異を輝かせながら。\nその唇は緋色で、その歯は並ぶ\n庭の誇り高い百合と白さにおいて。"
+    },
+    {
+      "id": 3,
+      "french": "Voyez-la, voyez-la venir, la jeune reine !\nUn petit page noir tient sa robe qui traîne\nEn flots voluptueux le long du corridor.",
+      "provisionalTranslation": "ごらん、ごらん、来るのを、若い女王が！\n小さな黒いページが彼女の引き裾を持っている\n回廊に沿って官能的な波を描きながら。"
+    },
+    {
+      "id": 4,
+      "french": "Sur ses doigts le rubis, le saphir, l'améthyste\nFont resplendir leurs feux charmants : dans un plat d'or\nElle porte le chef sanglant de Jean-Baptiste.",
+      "provisionalTranslation": "その指の上でルビー、サファイア、アメジストが\n魅惑的な光を輝かせる：金の皿の上に\n彼女は洗礼者ヨハネの血まみれの首を運ぶ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット（4-4-3-3行）。韻律：Q1 Jourdain/dédain（A）・oreilles/treilles（B）→ ABBA。Q2 badin/jardin（A）・merveilles/pareilles（B）→ ABBA。T1 reine/traîne（C）・corridor（D）→ CCD。T2 améthyste（E）・d'or（D）・Jean-Baptiste（E）→ EDE。アレクサンドラン（12音節）基調。最大の注目点：T2 韻──améthyste/Jean-Baptiste（E韻）。詩集タイトル「Améthystes（紫水晶）」の語がヘロディアードの指の宝石として現れ、「Jean-Baptiste（洗礼者ヨハネ）」と音韻的に対置される──宝石と首、詩集名と聖人名の衝撃的な等韻。詩の構造：Q1〜Q2（8行・美の礼賛）→ T1（3行・宮廷の行列）→ T2（3行・宝石→金の皿→血まみれの首）という段階的落差。最終行「Elle porte le chef sanglant de Jean-Baptiste」が詩全体を逆転させる──Q1〜T1の「美しい王女」が実は「首を運ぶ者」だったという事後的発見の構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Ses yeux sont transparents comme l'eau du Jourdain",
+      "body": "エピグラフ：ハインリヒ・ハイネ（Heinrich Heine, 1797–1856）『アッタ・トロル（Atta Troll）』（1843）からのフランス語引用──「なぜなら彼女はまことに王女だった：ユダヤの女王、ヘロデの妻、洗礼者ヨハネの首を要求したあの女」。ハイネの長詩『アッタ・トロル』：ロマン派と政治的アレゴリーの混淆した散文詩──ここではヘロディアードが「まことに王女（vraiment princesse）」として提示される。バンヴィルは詩集タイトル「Les Princesses」の主題語「princesse」を「まことに王女だった」というハイネの定義で受け取る。ヘロディアード（Hérodiade）：新約聖書マルコ6章──ヘロデ王の宴でサロメが踊り、その報酬として「洗礼者ヨハネの首」を求めたとされる。詩中の主語は「彼女（elle）」──ヘロディアードとサロメの混同（詩的伝統では両者がしばしば合体する）。「ヨルダン川の水のように澄んだ目（comme l'eau du Jourdain）」：Jourdain（ヨルダン川）──洗礼者ヨハネが洗礼を行った川を、ヨハネの死を命じた女の目に比する──聖と罪の逆説的等置が詩冒頭から始まる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sa lèvre est écarlate, et ses dents sont pareilles\nPour la blancheur aux lys orgueilleux du jardin.",
+      "body": "Q2：美の礼賛の頂点──唇と歯の対照による赤と白の色彩構成。「緋色の唇（Sa lèvre est écarlate）」：écarlate（緋色・猩々緋）──「Les Princesses」§2の「Du sang et de la pourpre（血と緋）」・「Antiope」§4の「pourpre du sang（血の緋）」と連絡する詩集横断的な赤の語彙。ただしここでは「血」でなく「唇の色」として提示され、詩末で「血まみれの首」に転換される準備をなす。「誇り高い百合（lys orgueilleux）」：orgueilleux（誇り高い）──「Caprice」§1の「Tu détournes les yeux（目をそらす）」という女性の高慢さと連絡する形容詞。白い百合（lys）：マリア崇敬の植物──「Rosier Mystique」§1の「Vierge…Mère（乙女・母）」という宗教的白さとの対照（こちらのヘロディアードは「乙女」でなく「殺戮の命令者」）。「lys orgueilleux du jardin」：「Andromède」§1の「sable ardent（熱い砂）」・「Antiope」§1の「rivage fleuri（花咲く岸辺）」と連絡する植物/自然語彙──ただしこちらは「庭（jardin）」という人工的空間。",
+      "targetId": "banville_les_princesses",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Voyez-la, voyez-la venir, la jeune reine !\nUn petit page noir tient sa robe qui traîne\nEn flots voluptueux le long du corridor.",
+      "body": "T1：詩の場面転換──礼賛（Q1〜Q2）から行列の描写へ。「ごらん、ごらん来るのを（Voyez-la, voyez-la venir）」：命令形の反復──読者（vous）を詩の内部観客として参入させる。「Andromède」§3の「elle agonise, hélas !（ああ彼女は今わの際）」の感嘆符的呼びかけと同型の読者への直接語りかけ。「小さな黒いページ（petit page noir）」：noir（黒い）──「Antiope」§2の「noire crête（黒い山頂）」・「Apothéose」§4の「Du noir calice（黒い聖杯）」と連絡する黒の語彙。「引き裾（robe qui traîne）」：traîne（引きずる）──宮廷的な引き裾の描写は詩末のグロテスクな場面との対比的前置き。「官能的な波（flots voluptueux）」：voluptueux（官能的）──「Apothéose」§2の「extase（忘我）」と同系の官能的語彙。flots（波）：「Les Baisers」§1の「le gouffre des mers（海の深淵）」・「Apothéose」§9の「Castalie」的水のイメージ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sur ses doigts le rubis, le saphir, l'améthyste\nFont resplendir leurs feux charmants : dans un plat d'or\nElle porte le chef sanglant de Jean-Baptiste.",
+      "body": "詩の結語──最大の逆転。「ルビー、サファイア、アメジスト（le rubis, le saphir, l'améthyste）」：三宝石の列挙──「Nuit d'étoiles」§5の「Ô saphir ! azur sans voiles !」・「Les Princesses」§3の「clairs rubis」・詩集タイトル「Améthystes」への自己指示。améthyste が詩集名として詩の内部に現れる──バンヴィル詩集の二つの宝石名（Améthystes/Les Princesses）がこの一行に収束する。「魅惑的な光を輝かせる（Font resplendir leurs feux charmants）」：resplendir（輝く）──「Andromède」§4の「formidable essor（雄大な飛翔）」の azur の輝きと同系の動詞。「金の皿（plat d'or）」：or（金）──詩集横断的な黄金語彙（「Les Baisers」§2の「cheveux d'or」・「Andromède」§4の「glaive d'or」）の最終反復──ただしここでは「首を載せる皿」の金。「洗礼者ヨハネの血まみれの首（le chef sanglant de Jean-Baptiste）」：chef（頭・首の古語）sanglant（血まみれの）──詩末の最終語が「Jean-Baptiste」。améthyste/Jean-Baptiste の E韻──詩集タイトル「Améthystes」と「洗礼者」が音韻的に等置される。Q1〜T1の美の礼賛が T2最終行で「血まみれの首を運ぶ者」として逆転する──この「美と死の共存」こそ「Les Princesses」§4の「fleurs sanglantes（血の花）」・「Pasiphaé」§4の「monstre effrayant dont elle est amoureuse（恐ろしい怪物を愛する）」という詩集の主題の集約。マラルメ「エロディアード（Hérodiade）」（1864〜）：同一主題を扱う未完の大作との連絡──バンヴィルが14行のソネットで凝縮した場面をマラルメは一生かけて展開した。",
+      "targetId": "mallarme_hamlet",
+      "targetParagraphId": 1
+    }
+  ]
+}
