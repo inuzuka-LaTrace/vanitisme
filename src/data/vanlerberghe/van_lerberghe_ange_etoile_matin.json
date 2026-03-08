@@ -1,0 +1,75 @@
+{
+  "id": "van_lerberghe_ange_etoile_matin",
+  "title": "L'Ange de l'étoile du matin",
+  "author": "Charles Van Lerberghe",
+  "source": "La Chanson d'Ève, Société du Mercure de France, Paris, 1904 (2e éd.) (p. 67–68). 照合出典: wikisource.org (L'Ange de l'étoile du matin).",
+  "year": "1904",
+  "firstPublication": "La Chanson d'Ève, Société du Mercure de France, Paris, 1904 (p. 67–68).",
+  "difficulty": "初級〜中級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "『イヴの歌（La Chanson d'Ève）』中の1篇（p. 67–68）。前詩「Dans un parfum de roses blanches」の打点列の沈黙に続いて、明けの星（金星）の天使がイヴの庭へ降りてくる場面。天使の台詞（« Viens… »）を挟む会話形式の自由詩。全18行。行長が2音節（「De la terre.」）から14音節（「Dans ses clairs cheveux plus longs que ses ailes,」）まで極端に変化する——散文の語りと詩行の緊張が共存する。イヴは一言も発さず、腕を伸ばし、笑い、沈黙のまま天使に従う。詩は天使がイヴの翼より長い明るい髪に花を飾る場面で閉じる。",
+  "keywords": ["イヴ", "天使", "明けの明星", "楽園", "精霊", "自由詩", "ベルギー象徴主義", "沈黙"],
+  "relatedTexts": [
+    "van_lerberghe_dans_un_parfum",
+    "mallarme_mimique",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "L'ange de l'étoile du matin\nDescendit en son jardin\nEt s'approchant d'Elle :",
+      "provisionalTranslation": "明けの星の天使が\n彼女の庭へと降りてきた\nそして彼女に近づいて："
+    },
+    {
+      "id": 2,
+      "french": "« Viens, lui dit-il, je te montrerai\nLes beaux vallons et les bois secrets\nOù vivent encore, en d'autres rêves,\nLes esprits subtils\nDe la terre. »",
+      "provisionalTranslation": "「来なさい、と彼は言った、見せてあげよう\n美しい谷と秘密の森を\nそこには別の夢の中でまだ生きている\n大地の\n繊細な精霊たちが。」"
+    },
+    {
+      "id": 3,
+      "french": "Elle étendit le bras, et rit,\nRegardant entre ses cils\nL'ange en flamme dans le soleil,\nEt le suivit en silence.",
+      "provisionalTranslation": "彼女は腕を伸ばし、笑った、\n睫毛の間から見つめながら\n太陽の中で炎となっている天使を、\nそして沈黙の中で彼についていった。"
+    },
+    {
+      "id": 4,
+      "french": "Et l'ange, tandis qu'ils allaient\nVers les ombreux bosquets,\nL'enlaçait, et posait\nDans ses clairs cheveux plus longs que ses ailes,\nDes fleurs qu'il cueillait\nAux branches au-dessus d'Elle.",
+      "provisionalTranslation": "そして天使は、彼らが歩いていく間\n木陰の茂みに向かって、\n彼女を抱きかかえ、置いていた\n彼の翼より長い彼女の明るい髪の中に、\n彼が摘んだ花々を\n彼女の上の枝から。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全18行の自由詩（vers libres）。行長は2音節（「De la terre.」）から14音節（「Dans ses clairs cheveux plus longs que ses ailes,」）まで極端に変化し、散文の語りと詩行の緊張が共存する。韻律：matin/jardin（v.1/v.2）の隣接韻（rime suivie）で開始、以降は不規則——cils/subtils（v.10/v.7）の離れた音韻呼応、rit/cueillait/posait（i/ai 音の連鎖）、ailes/Elle（v.16/v.18）の音韻的結び。構成上の三部：§1（天使の降臨・接近）、§2（天使の台詞）、§3（イヴの無言の反応）、§4（共に歩む・髪に花を飾る）。イヴは詩全体を通じて一言も発さず、身体動作（腕を伸ばす・笑う・ついていく）のみで反応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'ange de l'étoile du matin",
+      "body": "「明けの星の天使（L'ange de l'étoile du matin）」——étoile du matin（明けの星）はヴィーナス星（金星）の俗称、ラテン語 Lucifer（光をもたらす者）に対応する。聖書的文脈では「明けの明星」はイザヤ書14章12節「あなたは天から落ちた、明けの明星よ」——堕天使ルシファーの暗示。しかしヴァン・レルベルグの詩では否定的な含意でなく、イヴを楽園の自然の精霊の世界へ誘う「導き手」として機能する。前詩「Dans un parfum de roses blanches」末行の「天使が映る影（comme s'il s'y mirait un ange）」という予告への回答として、ここで天使が実際に「降りてくる（Descendit）」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "« Viens, lui dit-il, je te montrerai\nLes beaux vallons et les bois secrets\nOù vivent encore, en d'autres rêves,\nLes esprits subtils\nDe la terre. »",
+      "body": "天使の台詞（詩中唯一の直接話法・5行）：行長が短くなるにつれて「精霊たち」が大地の奥へと沈んでいく視覚的効果。「Les esprits subtils / De la terre.（大地の繊細な精霊たち）」——最短の2行が最後に置かれ、「精霊（esprits）」と「大地（terre）」を詩行の下部に文字通り「沈める」。「bois secrets（秘密の森）」：secrets（秘密の）——楽園の外に存在する未知の自然空間。「en d'autres rêves（別の夢の中で）」：楽園の外もまた「夢（rêves）」——現実・夢・幻の境界の溶解。「subtils（繊細な）」：マラルメ「Mimique（mallarme_mimique）」の「idée seule et subtile（ただひとつの繊細な理念）」に共鳴する象徴主義的キーワード。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Elle étendit le bras, et rit,\nRegardant entre ses cils\nL'ange en flamme dans le soleil,\nEt le suivit en silence.",
+      "body": "イヴの反応——三つの身体動作と一つの沈黙。「腕を伸ばした（étendit le bras）」→「笑った（rit）」→「沈黙の中でついていった（le suivit en silence）」：言葉を一切持たない同意。「睫毛の間から見つめながら（Regardant entre ses cils）」：cils（睫毛）という微細な身体部位を通じた「見る」行為——光から目を細める半眼の身振り。「太陽の中で炎となっている天使（L'ange en flamme dans le soleil）」：天使が太陽光と一体化して「炎（flamme）」として知覚される。前詩「Dans un parfum…」末の打点列の「沈黙」から一転した視覚的強度の高まり、そしてイヴは再び「沈黙（en silence）」の中へ戻る。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dans ses clairs cheveux plus longs que ses ailes,\nDes fleurs qu'il cueillait\nAux branches au-dessus d'Elle.",
+      "body": "詩の結語——天使がイヴの髪に花を飾る行為。「彼の翼より長い彼女の明るい髪（ses clairs cheveux plus longs que ses ailes）」：イヴの「髪（cheveux）」が天使の「翼（ailes）」より「長い（plus longs）」——人間の身体が天使的な部位を超えるという逆説的な比較。楽園におけるイヴの特異な身体性の提示。「Des fleurs qu'il cueillait / Aux branches au-dessus d'Elle（彼女の上の枝から彼が摘んだ花々）」：「上（au-dessus）」の枝から「下」のイヴの髪へと花が降ろされる垂直の動き——天使（上）からイヴ（下）への贈与の方向が詩の最後の空間イメージをなす。「Elle」の大文字で詩が閉じる——詩集全体の慣例としての大文字 Elle（イヴ）が末尾に置かれて強調される。"
+    }
+  ]
+}
