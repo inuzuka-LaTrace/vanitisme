@@ -1,0 +1,77 @@
+{
+  "id": "van_lerberghe_solitude",
+  "title": "Solitude",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions, Société du Mercure de France, Paris, 1898 (p. 166–167). 初出: Parnasse de la jeune Belgique, 1887. 照合出典: 原典写真（p. 166–167）.",
+  "year": "1898",
+  "firstPublication": "Parnasse de la jeune Belgique, Bruxelles, 1887 (初出). Entrevisions, Société du Mercure de France, Paris, 1898 (p. 166–167) (詩集収録).",
+  "difficulty": "中級",
+  "category": "symbolisme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "シャルル・ヴァン・レルベルグ（Charles Van Lerberghe, 1861–1919）の詩集『Entrevisions（垣間見）』（1898）所収。初出は象徴主義の揺籃となったアンソロジー『ベルギー若き高踏派詩集（Parnasse de la jeune Belgique）』（1887）──メーテルリンク、ロダンバック（Rodenbach）と並びベルギー象徴主義の発生を告げる初期作品のひとつ。全4連・各4行・計16行。ABBA抱韻の規則詩（変形ソネット型）。「私の魂（Mon âme）」を「夜中に目覚めた眠りがちな子供（cette ensommeillée）」に擬人化し、夢の消失・孤独の座り込み・大いなる姉妹への嘆き・月を見つめる捨てられた子供の顔──という4段階の感情的下降を描く。詩末の月が「ひとり旅を続けていく（poursuivre seule le voyage）」という下降で閉じる。",
+  "keywords": ["âme", "solitude", "songe", "lune", "abandon", "enfant", "ベルギー象徴主義", "ABBA"],
+  "relatedTexts": [
+    "van_lerberghe_sous_les_arches",
+    "van_lerberghe_tombee_du_soir",
+    "van_lerberghe_rosier_mystique",
+    "valmore_tristesse",
+    "valmore_insomnie"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Mon âme est cette ensommeillée,\nCette douce enfant de mensonges,\nAux yeux illuminés de songes,\nQui, dans la nuit, s'est réveillée.",
+      "provisionalTranslation": "私の魂はあの眠りがちな者、\n夢幻の優しい子供、\n夢で照らされた目をした、\n夜の中で目覚めてしまったあの者。"
+    },
+    {
+      "id": 2,
+      "french": "Des blanches fleurs et des beaux fleuves,\nRien en son rêve ne subsiste :\nElle est assise, amère et triste,\nEn une robe d'ombres veuves ;",
+      "provisionalTranslation": "白い花も美しい川も、\n夢の中にはもう何も残っていない：\n魂は座っている、苦く、悲しく、\n寡婦の影の衣をまとって；"
+    },
+    {
+      "id": 3,
+      "french": "Et pleure en ses yeux solitaires,\nEt dans sa misère éperdue,\nSa grande sœur qui l'a perdue,\nSi loin encor des rives chères ;",
+      "provisionalTranslation": "そして孤独な目で泣いている、\n茫然とした惨めさの中で、\n自分を見失った大いなる姉妹を、\n愛しい岸辺からまだ遠く隔たった姉妹を；"
+    },
+    {
+      "id": 4,
+      "french": "Et regarde, avec ce visage\nD'une enfant que l'on abandonne,\nLa lune, dans sa paix si bonne,\nPoursuivre seule le voyage.",
+      "provisionalTranslation": "そして見つめている、あの顔で\n捨てられた子供の顔で、\n月が、あれほど穏やかな平和の中で、\nひとり旅を続けていくのを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全4連・各4行・計16行。全連が ABBA 抱韻を持つ規則詩──形式はソネット（4-4-3-3行）でなく4連均等（4-4-4-4行）の変形ソネット型。韻律：連1 ensommeillée/réveillée（A）・mensonges/songes（B）。連2 fleuves/veuves（A）・subsiste/triste（B）。連3 solitaires/chères（A）・éperdue/perdue（B）──éperdue/perdue は perdu（失う）の過去分詞の女性形・能動的意味（茫然とした）と過去分詞的意味（失われた）の区別による同根異義韻（rime dérivée）。連4 visage/voyage（A）・abandonne/bonne（B）。詩全体の統語：連1で「私の魂（Mon âme）」を定義し、連2〜4は長い関係節・等位接続が継続する──連2「Elle est assise」、連3「Et pleure…Et [pleure] Sa grande sœur…」、連4「Et regarde…La lune…Poursuivre…」と動詞系列が「Et」で連結される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mon âme est cette ensommeillée,\nCette douce enfant de mensonges,\nAux yeux illuminés de songes,",
+      "body": "第1連：「私の魂（Mon âme）」の定義──3つの同格による積み上げ。「ensommeillée（眠りがちな者）」：女性名詞的形容詞の実体化──「眠りがちな女性」という造語的用法。「mensonges（虚偽・夢幻）」：mensonge は「嘘」だが、ここでは「夢幻の子供（enfant de mensonges）」として現実でないものの産物という詩的語義。「songes（夢）」：前行の mensonges（-onges）と同音尾──「夢幻（mensonges）」と「夢（songes）」の音韻的・意味的連結。「夢で照らされた目（yeux illuminés de songes）」：illuminés（照らされた）──夢が内側から目を照らすという逆説的な光の方向（外でなく内から）。「夜の中で目覚めてしまった（dans la nuit, s'est réveillée）」：réveillée（目覚めた）──連1の ABBA は ensommeillée（眠りがちな）で始まり réveillée（目覚めた）で閉じる逆説的な対称──「眠りがちな者が夜に目覚める」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des blanches fleurs et des beaux fleuves,\nRien en son rêve ne subsiste :\nElle est assise, amère et triste,\nEn une robe d'ombres veuves ;",
+      "body": "第2連：夢の消失と孤独の姿。「白い花も美しい川も（Des blanches fleurs et des beaux fleuves）」：部分冠詞 Des──「（かつてあった）白い花も美しい川も」という失われたものの列挙。「もう何も残っていない（Rien ne subsiste）」：否定の全面化──連2冒頭の Des（いくつかのもの）が v.2の Rien（何もない）で全否定される。「苦く、悲しく（amère et triste）」：amère（苦い・苦味のある）という味覚語と triste（悲しい）という感情語の並置──象徴主義的な感覚の混交。「寡婦の影の衣（robe d'ombres veuves）」：ombres veuves（寡婦の影）──veuves（寡婦・やもめ）という形容詞が「影」に付く。喪服を着た影として魂の孤独が衣装化される。「Rosier Mystique」§4の「夜がヴェールを広げる（Étendant ses voiles sur elles）」と連動する衣服・覆いの語彙。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et pleure en ses yeux solitaires,\nEt dans sa misère éperdue,\nSa grande sœur qui l'a perdue,\nSi loin encor des rives chères ;",
+      "body": "第3連：最も難解な統語──「Et pleure…Sa grande sœur qui l'a perdue」の構造解釈。2通りの読み：①「Et pleure Sa grande sœur（大いなる姉妹を泣く・嘆く）」──大いなる姉妹への嘆き（pleure の目的語が grande sœur）。②「Et [dans sa misère éperdue] pleure [en ses yeux solitaires] Sa grande sœur（大いなる姉妹が孤独な目で泣いている）」──grande sœur が主語。文脈から①が自然──魂（Elle）が「自分を見失った大いなる姉妹を嘆いている」。「自分を見失った（qui l'a perdue）」：perdu の女性形──la（魂・elle）を失った姉妹、または姉妹に perdre された魂、という二重の帰属が宙吊りになる。「éperdue/perdue（v.2/v.3）」：同根異義韻──éperdue（茫然とした・狼狽した）は éperdre（理性を失う）の過去分詞、perdue（失われた）は perdre（失う）の過去分詞──同一の語根で異なる意味の ABBA 内側韻。「愛しい岸辺（rives chères）」：「Tombée du soir」§2の「rives / Du crépuscule et du matin（黄昏と朝の岸辺）」との語彙連絡。",
+      "targetId": "van_lerberghe_tombee_du_soir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et regarde, avec ce visage\nD'une enfant que l'on abandonne,\nLa lune, dans sa paix si bonne,\nPoursuivre seule le voyage.",
+      "body": "第4連・詩の結語：捨てられた子供の顔で月を見る場面。「捨てられた子供の顔で（avec ce visage / D'une enfant que l'on abandonne）」：on abandonne（人は捨てる）──一般人称 on、受動的な捨てられ。「Dans un parfum de roses blanches」§3の「Elle étendit le bras, et rit（彼女は腕を伸ばし、笑った）」という受容的身体性と対照的──こちらは泣き、見つめるのみ。「月が、あれほど穏やかな平和の中で（La lune, dans sa paix si bonne）」：lune（月）──月の「穏やかな平和（paix si bonne）」は魂の孤独・苦さ・嘆きと対比される。「ひとり旅を続けていく（Poursuivre seule le voyage）」：seule（ひとり）──月も魂も「ひとり」だが、月は「旅を続ける（poursuivre）」のに対し魂は「座り込んでいる（est assise）」──動と静の非対称な孤独。Poursuivre（不定詞）：regarde…Poursuivre──「見る」の目的語として動詞不定詞が置かれる（voir + 不定詞構文の変形）──「月が旅を続けていくのを見つめる」という知覚構文。詩全体の「私の魂（Mon âme）」という宣言から始まり、魂の視線の先にある「月の孤独な旅」で閉じる──内（魂）から外（月）への視線の旅が詩の構造をなす。"
+    }
+  ]
+}
