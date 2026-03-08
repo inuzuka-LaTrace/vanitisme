@@ -1,0 +1,168 @@
+{
+  "id": "mallarme_verlaine",
+  "title": "Verlaine",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 77–79). 初出: Le Figaro, 1896年1月10日（ヴェルレーヌ葬儀のための弔辞として朗読）. 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org (Divagations 1897版).",
+  "year": "1896",
+  "firstPublication": "Le Figaro, 10 janvier 1896 (弔辞として朗読); Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 77–79) (改訂収録)",
+  "difficulty": "中級〜上級",
+  "category": "mallarme_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "1896年1月8日、ポール・ヴェルレーヌ（Paul Verlaine, 1844–1896）が51歳で死去。マラルメはその葬儀（1月10日）で弔辞を朗読し、同日『フィガロ（Le Figaro）』に掲載された。1897年『ディヴァガシオン』所収。テクストは「墓（la tombe）」という一語から始まり、ヴェルレーヌの「誤解された外面（sens extérieur）」への反論──彼の放蕩・貧困・スキャンダルは詩人としての宿命的誠実さの表れだった──へと展開する。「彼のうちに帰っていった天才は未来の時間へ（son génie enfui au temps futur）」という一文段落を軸に、「英雄としてのヴェルレーヌ」という象徴主義的な詩人像を確立した。マラルメが公の場で語った数少ない弔辞テクストのひとつ。",
+  "keywords": ["ヴェルレーヌ", "墓", "沈黙", "英雄", "スキャンダル", "詩人の宿命", "弔辞", "誤解された外面"],
+  "relatedTexts": [
+    "mallarme_hamlet",
+    "mallarme_plainte_automne",
+    "mallarme_mystere",
+    "mallarme_tombeau_verlaine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La tombe aime tout de suite le silence.",
+      "provisionalTranslation": "墓はただちに沈黙を好む。"
+    },
+    {
+      "id": 2,
+      "french": "Acclamations, renom, la parole haute cesse et le sanglot des vers abandonnés ne suivra jusqu'à ce lieu de discrétion celui qui s'y dissimule pour ne pas offusquer, d'une présence, sa gloire.",
+      "provisionalTranslation": "喝采、名声、高らかな言葉は止み、見捨てられた詩行の嗚咽も、この慎みの場所まで、ある存在によって自らの栄光を傷つけないためにそこに身を隠す者に続いては行かない。"
+    },
+    {
+      "id": 3,
+      "french": "Aussi, de notre part, à plus d'un menant un deuil fraternel, aucune intervention littéraire : elle occupe, unanimement, les journaux, comme les blanches feuilles de l'œuvre interrompu ressaisiraient leur ampleur et s'envolent porter le cri d'une disparition vers la brume et le public.",
+      "provisionalTranslation": "したがって、兄弟的な喪に服す多くの者の側からは、いかなる文学的介入もない──それは一致して新聞たちを占めている、中断された作品の白い葉が再びその広がりを取り戻して、ひとつの消滅の叫びを霞と公衆の方へと運ぶために飛び立つように。"
+    },
+    {
+      "id": 4,
+      "french": "La Mort, cependant, institue exprès cette dalle pour qu'un pas dorénavant puisse s'y affermir en vue de quelque explication ou de dissiper le malentendu. Un adieu du signe au défunt cher lui tend la main, si convenait à l'humaine figure souveraine que ce fut, de reparaître, une fois dernière, pensant qu'on le comprit mal et de dire : Voyez mieux comme j'étais.",
+      "provisionalTranslation": "しかし死は、何らかの説明のために、あるいは誤解を払拭するために、これ以後一歩がそこに踏み固められるよう、わざわざこの墓石を設ける。徴の別れが親しい逝者にその手を差し伸べる──それがそうであったような至高の人間的形姿に相応しければ、最後にもう一度再び現れて、自分が誤解されたと思い、こう言うために：もっとよく見てください、私がいかなる者であったかを。"
+    },
+    {
+      "id": 5,
+      "french": "Apprenons, messieurs, au passant, à quiconque, absent, certes, ici, par incompétence et vaine vision se trompa sur le sens extérieur de notre ami, que cette tenue, au contraire, fut, entre toutes, correcte.",
+      "provisionalTranslation": "皆さん、通行人に、誰にでも教えましょう──ここに不在の者、確かに、無能と虚ろな眼差しによって我々の友の外面的な意味を誤解した者に──その態度は、反対に、あらゆる中で最も正しかったのだと。"
+    },
+    {
+      "id": 6,
+      "french": "Oui, les Fêtes Galantes, la Bonne Chanson, Sagesse, Amour, Jadis et Naguère, Parallèlement ne verseraient-ils pas, de génération en génération, quand s'ouvrent, pour une heure, les juvéniles lèvres, un ruisseau mélodieux qui les désaltérera d'onde suave, éternelle et française — conditions, un peu, à tant de noblesse visible : que nous aurions profondément à pleurer et à vénérer, spectateurs d'un drame sans le pouvoir de gêner même par de la sympathie rien à l'attitude absolue que quelqu'un se fit en face du sort.",
+      "provisionalTranslation": "そう、『雅やかな宴』、『よき歌』、『叡知』、『愛』、『かつてと今しがた』、『平行して』は、世代から世代へと、若い唇が一時間だけ開くとき、柔らかで永遠にしてフランス的な波で彼らを潤す旋律の小川を注ぎ込みはしないだろうか──これほどの目に見える気高さへの、いくらかの条件として。私たちが深く嘆き崇めるべき──運命の前に誰かが取った絶対的な態度に共感の力でさえも少しも干渉できない傍観者として──ものは。"
+    },
+    {
+      "id": 7,
+      "french": "Paul Verlaine, son génie enfui au temps futur, reste héros.",
+      "provisionalTranslation": "ポール・ヴェルレーヌ、その天才を未来の時間へと逃がして、英雄としてとどまる。"
+    },
+    {
+      "id": 8,
+      "french": "Seul, ô plusieurs qui trouverions avec le dehors tel accommodement fastueux ou avantageux, considérons que — seul, comme revient cet exemple par les siècles rarement, notre contemporain affronta, dans toute l'épouvante, l'état du chanteur et du rêveur. La solitude, le froid, l'inélégance et la pénurie, qui sont des injures infligées auxquelles leur victime aurait le droit de répondre par d'autres volontairement faites à soi-même — ici la poésie presque a suffi — d'ordinaire composent le sort qu'encourt l'enfant avec son ingénue audace marchant en l'existence selon sa divinité : soit, convint le beau mort, il faut ces offenses, mais ce sera jusqu'au bout, douloureusement et impudiquement.",
+      "provisionalTranslation": "ひとりで──ああ、外の世界とそのような華やかな、あるいは有利な妥協を見出せるだろう私たち多数の者よ──考えよう、ひとりで、このような例が世紀を通じて稀にしか戻ってこないように、私たちの同時代人はあらゆる恐れの中で、歌い手と夢想者の状態に立ち向かったことを。孤独、寒さ、品のなさと貧困は、その犠牲者が自らに自発的に加えられた別の傷で応える権利を持つであろう課された侮辱であり──ここでは詩がほとんど十分だった──普通は、自らの神性に従って存在の中を歩む幼い無垢な大胆さとともに子供が被る運命を成す。そうだ、美しい死者は認めた、こうした侮辱は必要だ、しかしそれは最後まで、苦しみながら、恥知らずに。"
+    },
+    {
+      "id": 9,
+      "french": "Scandale, du côté de qui ? de tous, par un répercuté, accepté, cherché : sa bravoure, il ne se cacha pas du destin, en harcelant, plutôt par défi, les hésitations, devenait ainsi la terrible probité. Nous vîmes cela, messieurs, et en témoignons : cela, ou pieuse révolte, l'homme se montrant devant sa Mère quelle qu'elle soit et voilée, foule, inspiration, vie, le nu qu'elle a fait du poëte et cela consacre un cœur farouche, loyal, avec de la simplicité et tout imbu d'honneur.",
+      "provisionalTranslation": "スキャンダル、誰の側に？万人の側に、反響し、受け容れられ、求められた。その勇気において、彼は運命から身を隠さず、むしろ挑戦として躊躇を追い立てながら、かくして恐るべき誠実さとなった。私たちはそれを見た、皆さん、そして証言する──それを、あるいは敬虔な反抗を、人間が自分の母親の前に現れることを、それが何であれ、ヴェールをまとっていても、群衆、霊感、生、彼女が詩人から作った裸のもの、そしてそれが荒々しく、誠実で、単純さをもち、名誉に完全に浸された心を聖別する。"
+    },
+    {
+      "id": 10,
+      "french": "Nous saluerons de cet hommage, Verlaine, dignement, votre dépouille.",
+      "provisionalTranslation": "この敬意をもって、ヴェルレーヌよ、威厳をもって、あなたの遺骸に別れを告げましょう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "テクスト全体の構造（10段落）：三部構成。第一部（§1〜§3）：墓の沈黙──言葉・喝采・新聞がヴェルレーヌの死を取り囲む状況。第二部（§4〜§6）：誤解への反論──「もっとよく見てください（Voyez mieux comme j'étais）」という死者の仮想的な声を媒介として、ヴェルレーヌの詩集名を列挙し「絶対的な態度」を弁護。第三部（§7〜§10）：英雄像の確立──§7「Paul Verlaine, son génie enfui au temps futur, reste héros.」という一文段落を軸に、孤独・貧困・スキャンダルを「詩人の宿命的誠実さ」として再定義し、最終文の呼格「Verlaine」で閉じる。§1の一文（39字）と§7の一文（59字）が全テクストの構造的ヒンジをなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La tombe aime tout de suite le silence.",
+      "body": "弔辞の開幕：全テクスト中最短の段落（39字）にして最も圧縮された命題。「墓はただちに沈黙を好む（La tombe aime tout de suite le silence）」──tout de suite（ただちに）という副詞が「墓と沈黙の親和性」を即座の自然的傾向として呈示する。この一文は§2「喝采・名声・高らかな言葉は止み」という具体的内容を先取りする序言。マラルメの「沈黙」の詩学──「Le livre, instrument spirituel（mallarme_livre_instrument）」の「折りたたまれた書物の沈黙（le silence y demeure, précieux）」──が弔辞の開幕に転用される。「La tombe aime…」という擬人法：墓が能動的に「沈黙を好む（aime）」主語として立つ──死を受動的な終焉でなく積極的な沈黙選択として提示する修辞。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "le sanglot des vers abandonnés ne suivra jusqu'à ce lieu de discrétion celui qui s'y dissimule pour ne pas offusquer, d'une présence, sa gloire",
+      "body": "「見捨てられた詩行の嗚咽（le sanglot des vers abandonnés）」──abandonnés（見捨てられた）という語：ヴェルレーヌの晩年の詩集──未完・断片的・公には受け入れられなかった作品群──への言及。「慎みの場所（ce lieu de discrétion）」：墓を「慎みの場所」として、騒々しい外部世界から切り離された領域として定義する。「ある存在によって自らの栄光を傷つけないために（pour ne pas offusquer, d'une présence, sa gloire）」：offusquer（傷つける・暗くする）──詩人が死後もなお「自らの存在（sa présence）」によって「自らの栄光」を傷つけないために身を隠すという逆説的な構造。これが§4の「誤解」論への伏線。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "les blanches feuilles de l'œuvre interrompu ressaisiraient leur ampleur et s'envolent porter le cri d'une disparition vers la brume et le public",
+      "body": "「中断された作品の白い葉（les blanches feuilles de l'œuvre interrompu）」──blanches feuilles（白い葉）：印刷されていない白紙、書かれなかった詩のページ。ヴェルレーヌの死によって未完に終わった作品の「白い余白」が擬人化される。「再びその広がりを取り戻して…飛び立つ（ressaisiraient leur ampleur et s'envolent）」：条件法（ressaisiraient）と直説法現在（s'envolent）が混用されている──「もし〜なら〜するだろう…そして実際に今飛び立っている」という現実と仮想の重なり。「霞と公衆の方へ（vers la brume et le public）」：brume（霞）と public（公衆）の並置──理想的な詩的空間（霞）と俗世の消費空間（公衆）が同方向に置かれる。マラルメ「Le livre（mallarme_livre_instrument）」の「書物の白い葉が風に開かれる」場面との連絡。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La Mort, cependant, institue exprès cette dalle pour qu'un pas dorénavant puisse s'y affermir",
+      "body": "「死はわざわざこの墓石を設ける（la Mort institue exprès cette dalle）」──La Mort 大文字：死が能動的な制度的主体として擬人化される。institue（設置する・制度化する）という語：「制度（institution）」に由来する動詞──死が「説明の場（en vue de quelque explication）」としての墓石を「制度として」設けるという社会的比喩。「これ以後一歩がそこに踏み固められるよう（qu'un pas dorénavant puisse s'y affermir）」：s'affermir（確固になる・踏み固まる）──墓石が「踏みしめられることで確かになる」という物理的イメージ。§1「墓はただちに沈黙を好む」に対して、§4「死はわざわざ墓石を設ける」──沈黙と言語化の弁証法。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Voyez mieux comme j'étais",
+      "body": "テクストの中核命題：「もっとよく見てください、私がいかなる者であったかを（Voyez mieux comme j'étais）」──ヴェルレーヌの仮想的な声として挿入される直接話法。Voyez（命令法二人称複数）：観客への命令──「もっとよく見よ」という詩人の要求。mieux（もっとよく）：現在の「見方」が不十分であることへの反論──これが§5「感覚外面的な意味を誤解した者に教えましょう」への接続。comme j'étais（私がいかなる者であったか）：半過去 étais──完了した過去でなく「かつてそうであり続けた状態」としての詩人像。このヴェルレーヌの仮想的声が弔辞全体の「弁護」の根拠となる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "cette tenue, au contraire, fut, entre toutes, correcte",
+      "body": "「その態度は、反対に、あらゆる中で最も正しかった（cette tenue, au contraire, fut, entre toutes, correcte）」──この文がテクストの弁護の核心命題。tenue（態度・姿勢・品位）：ヴェルレーヌの「外面的な振る舞い」──放蕩・酩酊・刑務所・貧困──がまさに「正しい（correcte）」態度として再定義される。「au contraire（反対に）」という転換語が「外面的な誤解（sens extérieur）」への直接的反論として機能する。「messieurs（皆さん）」という呼格の使用：弔辞という公的発話のジャンルを明示する──葬儀会衆への直接呼びかけ。「absent, certes, ici（ここに不在の者）」：葬儀に来ていない者、つまりヴェルレーヌを誤解し葬儀を欠席した者への皮肉的な言及。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "les Fêtes Galantes, la Bonne Chanson, Sagesse, Amour, Jadis et Naguère, Parallèlement",
+      "body": "ヴェルレーヌの主要詩集の列挙。『雅やかな宴（Fêtes Galantes）』（1869）：18世紀コメディア・デラルテの仮面舞踏会的世界を歌った詩集。「En sourdine」「Clair de lune」等を収録。『よき歌（La Bonne Chanson）』（1870）：マティルド・モーテへの愛を歌った婚約期の詩集。『叡知（Sagesse）』（1880）：ランボーとの関係後、刑務所での回心を経て書かれた信仰詩集。『愛（Amour）』（1888）。『かつてと今しがた（Jadis et Naguère）』（1884）：「詩法（Art poétique）」を収録。『平行して（Parallèlement）』（1889）：官能的・同性愛的テーマの詩集──当時スキャンダルとなった作品。マラルメが列挙の最後に『Parallèlement』を置くことで、ヴェルレーヌの「スキャンダル」的側面を詩業の正当な一部として承認する姿勢を示す。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "un ruisseau mélodieux qui les désaltérera d'onde suave, éternelle et française",
+      "body": "「柔らかで永遠にしてフランス的な波で彼らを潤す旋律の小川（un ruisseau mélodieux qui les désaltérera d'onde suave, éternelle et française）」──désaltérera（渇きを癒す）：水による比喩──ヴェルレーヌの詩が「旋律の小川」として世代を癒す。「フランス的（française）」という形容詞の強調：ヴェルレーヌを「永遠にしてフランス的」な詩人として位置づける──当時の文壇でヴェルレーヌは「頽廃的・不道徳・反フランス的」と批判されていたことへの反論。「'onde suave（柔らかな波）」：suave はラテン語的な語彙──マラルメが頽廃詩の文体論的語彙をヴェルレーヌの詩の性質として肯定的に転用する。「絶対的な態度（l'attitude absolue）」：§5の「最も正しい態度（correcte）」と連動する語彙──「absolute」な詩人の身体的・倫理的態度。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Paul Verlaine, son génie enfui au temps futur, reste héros.",
+      "body": "テクスト中最大の構造的ヒンジ：一文のみの独立段落──「Hamlet」の「L'acteur mène ce discours.」（mallarme_hamlet §7）、「Le livre（mallarme_livre_instrument）」の「Or —」と同型の一文段落。「その天才を未来の時間へと逃がして（son génie enfui au temps futur）」──enfui（逃げ去った）という過去分詞：génie（天才）が死とともに「逃げ去った」のでなく「未来の時間へと向かって逃げた」。au temps futur は単に「未来に」でなく「未来の時間（temps）に向けて」──天才は死によって未来へと投企される。「英雄としてとどまる（reste héros）」：reste（とどまる）の現在形──死後も「現在の英雄」として継続する存在。héros に冠詞がない：不定でも定でもない「英雄」という純粋な概念として。",
+      "targetId": "mallarme_hamlet",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "la poésie presque a suffi",
+      "body": "「ここでは詩がほとんど十分だった（ici la poésie presque a suffi）」──テクスト中最もラジカルな命題のひとつ。「ほとんど（presque）」という留保：詩が「完全には」十分でなかったという余地を残す──ヴェルレーヌの晩年の苦難（アルコール依存・貧困・孤立）が詩のみでは抗えなかった事実への誠実な認識。「ここでは（ici）」：この場所、すなわちヴェルレーヌの場合においては、という限定──「詩で十分だ」という一般命題でなく「ヴェルレーヌの場合においては」という個別の証言。孤独・寒さ・品のなさ・貧困という「課された侮辱（injures infligées）」に対して、詩人が「自らに自発的に加える別の傷（d'autres volontairement faites à soi-même）」──これはランボーとの関係（銃撃事件・刑務所）等を示唆する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "soit, convint le beau mort, il faut ces offenses, mais ce sera jusqu'au bout, douloureusement et impudiquement",
+      "body": "「そうだ、美しい死者は認めた、こうした侮辱は必要だ（soit, convint le beau mort, il faut ces offenses）」──le beau mort（美しい死者）：beau（美しい）という形容詞が mort（死者）に付く逆説的な結合。「しかしそれは最後まで、苦しみながら、恥知らずに（mais ce sera jusqu'au bout, douloureusement et impudiquement）」：impudiquement（恥知らずに・臆面もなく）──ヴェルレーヌの「不道徳」をそのまま肯定する語。「最後まで（jusqu'au bout）」：ヴェルレーヌが死の瞬間まで自らの生き方を変えなかったという証言。この二つの副詞（douloureusement / impudiquement）が§9の「terrible probité（恐るべき誠実さ）」と連動する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "sa bravoure, il ne se cacha pas du destin, en harcelant, plutôt par défi, les hésitations, devenait ainsi la terrible probité",
+      "body": "「その勇気において、彼は運命から身を隠さず、むしろ挑戦として躊躇を追い立てながら、かくして恐るべき誠実さとなった（devenait ainsi la terrible probité）」──terrible probité（恐るべき誠実さ）：テクスト全体の倫理的核心語。probité（誠実さ・廉直さ）は道徳的・法的な語彙──ヴェルレーヌのスキャンダルを道徳的逸脱でなく「詩人の誠実さ」の極端な表現として再定義する。「hésitations（躊躇）を追い立てる（harcelant）」：ヴェルレーヌは躊躇せず運命に立ち向かった──これが§8の「最後まで（jusqu'au bout）」と連動。「我々は証言する（en témoignons）」：マラルメ自身が目撃者・証人として弔辞を語るという構造が明示される。「詩人の裸（le nu qu'elle a fait du poëte）」：詩人としての剥き出しの存在様式──服を纏わず社会的仮面をかぶらない詩人像。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Nous saluerons de cet hommage, Verlaine, dignement, votre dépouille.",
+      "body": "弔辞の閉じ：「この敬意をもって、ヴェルレーヌよ、威厳をもって、あなたの遺骸に別れを告げましょう（Nous saluerons de cet hommage, Verlaine, dignement, votre dépouille）」。saluerons（挨拶する・敬礼する・別れを告げる）の未来形：現在の弔辞行為を「これから行われる」未来として語る──弔辞を語りながら同時に「これから語る」という演劇的二重性。「ヴェルレーヌよ（Verlaine）」という呼格：テクストで初めてヴェルレーヌが直接呼びかけられる──「我々の友（notre ami）」「美しい死者（le beau mort）」から最後の最後で固有名詞の呼格へ。「威厳をもって（dignement）」：§9の「恐るべき誠実さ（terrible probité）」を引き継ぐ語彙──「威厳」は社会的礼儀でなくヴェルレーヌの生き方の本質的性質として。「遺骸（votre dépouille）」：dépouille は「脱ぎ捨てられた皮・抜け殻」──死後に残された身体。天才（son génie）は「未来の時間へと逃げた（enfui au temps futur）」のであり、残されたのは「遺骸（dépouille）」のみ──§7と最終文の間に天才と肉体の分離が架けられる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Nous saluerons de cet hommage, Verlaine, dignement, votre dépouille.",
+      "body": "マラルメのソネット「ヴェルレーヌの墓（Tombeau de Verlaine）」（1897）との連絡：このソネットはヴェルレーヌ死の翌年に書かれ、「石（la pierre）」「草（l'herbe）」「空気（l'air）」という自然要素が「汚れない誰か（quelqu'un de pur）」としての詩人を包む。弔辞の「墓石（cette dalle）」「沈黙（silence）」という言語が、ソネットでは詩的形式（14行詩）に変換される。「Verlaine」という呼格で閉じる弔辞散文と、「Verlaine」という固有名を石に刻む詩的エピタフ（墓碑銘）の連続性──マラルメにとって弔辞とソネットは同一の喪の作業（travail de deuil）の二形式をなす。"
+    }
+  ]
+}
