@@ -33,86 +33,74 @@
     {
       "id": 1,
       "verses": "v.1–3",
-      "french": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.",
+      "original": "Nel mezzo del cammin di nostra vita\nmi ritrovai per una selva oscura,\nché la diritta via era smarrita.",
       "provisionalTranslation": "我らの人生の旅の半ばにて\n私は暗い森の中に迷い込んでいた、\n直きみちを踏み外してしまったのだ。"
     },
     {
       "id": 2,
       "verses": "v.4–9",
-      "french": "Ahi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!\n\nTant'è amara che poco è più morte;\nma per trattar del ben ch'i' vi trovai,\ndirò de l'altre cose ch'i' v'ho scorte.",
+      "original": "Ahi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!\n\nTant'è amara che poco è più morte;\nma per trattar del ben ch'i' vi trovai,\ndirò de l'altre cose ch'i' v'ho scorte.",
       "provisionalTranslation": "ああ、それがどんなものだったかを語るのはなんと難しいことか、\nこの荒々しく険しく密なる森を──\n思い出すだけで恐怖がよみがえる！\n\nそれほど苦い、死もほとんどそれ以上ではないほどに；\nしかし私がそこで見出した善きものを語るために、\n私が目にした他のことどもも語ろう。"
     },
     {
       "id": 3,
       "verses": "v.10–21",
-      "french": "Io non so ben ridir com'i' v'intrai,\ntant'era pien di sonno a quel punto\nche la verace via abbandonai.\n\nMa poi ch'i' fui al piè d'un colle giunto,\nlà dove terminava quella valle\nche m'avea di paura il cor compunto,\n\nguardai in alto e vidi le sue spalle\nvestite già de' raggi del pianeta\nche mena dritto altrui per ogne calle.",
-      "provisionalTranslation": "どうやってそこに入り込んだのか、うまく語れない、\nあの時は眠りに満ちていたので\n真の道を捨ててしまったのだ。\n\nしかし私がある丘の麓にたどり着いた時、\nあの谷が終わるところで──\nその谷が私の心を恐れで満たしていた──\n\n私は高みを見上げ、その肩が\nすでに惑星の光線をまとっているのを見た、\nその惑星があらゆる道を人々を正しく導く。"
+      "original": "Io non so ben ridir com'i' v'intrai,\ntant'era pien di sonno a quel punto\nche la verace via abbandonai.\n\nMa poi ch'i' fui al piè d'un colle giunto,\nlà dove terminava quella valle\nche m'avea di paura il cor compunto,\n\nguardai in alto e vidi le sue spalle\nvestite già de' raggi del pianeta\nche mena dritto altrui per ogne calle.\n\nAllor fu la paura un poco queta,\nche nel lago del cor m'era durata\nla notte ch'i' passai con tanta pieta.",
+      "provisionalTranslation": "どうやってそこに入り込んだのか、うまく語れない、\nあの時は眠りに満ちていたので\n真の道を捨ててしまったのだ。\n\nしかし私がある丘の麓にたどり着いた時、\nあの谷が終わるところで──\nその谷が私の心を恐れで満たしていた──\n\n私は高みを見上げ、その肩が\nすでに惑星の光線をまとっているのを見た、\nその惑星があらゆる道を人々を正しく導く。\n\nそのとき恐れは少し静まった、\n私の心の湖に宿っていた恐れが──\nその夜を私はこれほど憐れみをもって過ごした。"
     },
     {
       "id": 4,
       "verses": "v.22–30",
-      "french": "Allor fu la paura un poco queta,\nche nel lago del cor m'era durata\nla notte ch'i' passai con tanta pieta.\n\nE come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l'acqua perigliosa e guata,\n\ncosì l'animo mio, ch'ancor fuggiva,\nsi volse a retro a rimirar lo passo\nche non lasciò già mai persona viva.",
-      "provisionalTranslation": "そのとき恐れは少し静まった、\n私の心の湖に宿っていた恐れが──\nその夜を私はこれほど憐れみをもって過ごした。\n\nそしてあの者のように、息も絶え絶えになりながら、\n沖から岸へと上り来て、\n危険な水面を振り返って見つめる、\n\nそのように私の魂も、まだ逃げながら、\n後ろを振り返ってあの難所を見た、\nかつて誰も生きて通り抜けたことのない難所を。"
+      "original": "E come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l'acqua perigliosa e guata,\n\ncosì l'animo mio, ch'ancor fuggiva,\nsi volse a retro a rimirar lo passo\nche non lasciò già mai persona viva.\n\nPoi ch'èi posato un poco il corpo lasso,\nripresi via per la piaggia diserta,\nsì che 'l piè fermo sempre era 'l più basso.",
+      "provisionalTranslation": "そしてあの者のように、息も絶え絶えになりながら、\n沖から岸へと上り来て、\n危険な水面を振り返って見つめる、\n\nそのように私の魂も、まだ逃げながら、\n後ろを振り返ってあの難所を見た、\nかつて誰も生きて通り抜けたことのない難所を。\n\n疲れた体を少し休めた後、\n私は荒れた斜面を再び歩き始めた、\n常に確かな足が低い方にあるように。"
     },
     {
       "id": 5,
-      "verses": "v.31–54",
-      "french": "Poi ch'èi posato un poco il corpo lasso,\nripresi via per la piaggia diserta,\nsì che 'l piè fermo sempre era 'l più basso.\n\nEd ecco, quasi al cominciar de l'erta,\nuna lonza leggera e presta molto,\nche di pel macolato era coverta;\n\ne non mi si partia dinanzi al volto,\nanzi 'mpediva tanto il mio cammino,\nch'i' fui per ritornar più volte vòlto.\n\nTemp'era dal principio del mattino,\ne 'l sol montava 'n sù con quelle stelle\nch'eran con lui quando l'amor divino\n\nmossedie prima quelle cose belle;\nsì ch'a bene sperar m'era cagione\ndi quella fiera a la gaetta pelle\n\nl'ora del tempo e la dolce stagione;\nma non sì che paura non mi desse\nla vista che m'apparve d'un leone.",
-      "provisionalTranslation": "疲れた体を少し休めた後、\n私は荒れた斜面を再び歩き始めた、\n常に確かな足が低い方にあるように。\n\nすると見よ、丘の登り始めのあたりに、\n一頭のヒョウが、軽やかで素早く、\n斑点のある毛皮をまとっていた；\n\nそれは私の目の前から立ち去らず、\nむしろ私の歩みをひどく妨げたので、\n私は何度も引き返そうとした。\n\n時刻は夜明けの始まりで、\n太陽はあの星々とともに昇っていた──\n神の愛がそれらの星々とともに\n\n初めてあの美しいものどもを動かした時の星々；\nだから私には希望の理由があった\nあの獣の、光り輝く毛皮を持つ獣への──\n\n時刻の徴と、甘い季節のゆえに；\nしかしそれでも恐れを与えないわけではなかった、\n私の前に現れた一頭のライオンの姿が。"
+      "verses": "v.31–51",
+      "original": "Ed ecco, quasi al cominciar de l'erta,\nuna lonza leggera e presta molto,\nche di pel macolato era coverta;\n\ne non mi si partia dinanzi al volto,\nanzi 'mpediva tanto il mio cammino,\nch'i' fui per ritornar più volte vòlto.\n\nTemp'era dal principio del mattino,\ne 'l sol montava 'n sù con quelle stelle\nch'eran con lui quando l'amor divino\n\nmossedie prima quelle cose belle;\nsì ch'a bene sperar m'era cagione\ndi quella fiera a la gaetta pelle\n\nl'ora del tempo e la dolce stagione;\nma non sì che paura non mi desse\nla vista che m'apparve d'un leone.\n\nQuesti parea che contra me venisse\ncon la test'alta e con rabbiosa fame,\nsì che parea che l'aere ne tremesse;\n\ned una lupa, che di tutte brame\nsembiava carca ne la sua magrezza,\ne molte genti fé già viver grame,",
+      "provisionalTranslation": "すると見よ、丘の登り始めのあたりに、\n一頭のヒョウが、軽やかで素早く、\n斑点のある毛皮をまとっていた；\n\nそれは私の目の前から立ち去らず、\nむしろ私の歩みをひどく妨げたので、\n私は何度も引き返そうとした。\n\n時刻は夜明けの始まりで、\n太陽はあの星々とともに昇っていた──\n神の愛がそれらの星々とともに\n\n初めてあの美しいものどもを動かした時の星々；\nだから私には希望の理由があった\nあの獣の、光り輝く毛皮を持つ獣への──\n\n時刻の徴と、甘い季節のゆえに；\nしかしそれでも恐れを与えないわけではなかった、\n私の前に現れた一頭のライオンの姿が。\n\nこれは私に向かって来るように見えた、\n頭を高く上げ、飢えに満ちた怒りをもって、\n空気までもがそれで震えるように見えた；\n\nそして一頭の牝狼が、あらゆる欲望を\nその痩せた姿の中に宿しているように見え、\nすでに多くの人々を惨めに生きさせてきた、"
     },
     {
       "id": 6,
-      "verses": "v.55–60",
-      "french": "Questi parea che contra me venisse\ncon la test'alta e con rabbiosa fame,\nsì che parea che l'aere ne tremesse.\n\nEd una lupa, che di tutte brame\nsembiava carca ne la sua magrezza,\ne molte genti fé già viver grame,",
-      "provisionalTranslation": "これは私に向かって来るように見えた、\n頭を高く上げ、飢えに満ちた怒りをもって、\n空気までもがそれで震えるように見えた。\n\nそして一頭の牝狼が、あらゆる欲望を\nその痩せた姿の中に宿しているように見え、\nすでに多くの人々を惨めに生きさせてきた、"
-    },
-    {
-      "id": 7,
-      "verses": "v.61–75",
-      "french": "questa mi porse tanto di gravezza\ncon la paura ch'uscia di sua vista,\nch'io perdei la speranza de l'altezza.\n\nE qual è quei che volontieri acquista,\ne giugne 'l tempo che perder lo face,\nche 'n tutti suoi pensier piange e s'attrista;\n\ntal mi fece la bestia sanza pace,\nche, venendomi 'ncontro, a poco a poco\nmi ripigneva là dove 'l sol tace.\n\nMentre ch'i' rovinava in basso loco,\ndinanzi a li occhi mi si fu offerto\nchi per lungo silenzio parea fioco.",
+      "verses": "v.52–63",
+      "original": "questa mi porse tanto di gravezza\ncon la paura ch'uscia di sua vista,\nch'io perdei la speranza de l'altezza.\n\nE qual è quei che volontieri acquista,\ne giugne 'l tempo che perder lo face,\nche 'n tutti suoi pensier piange e s'attrista;\n\ntal mi fece la bestia sanza pace,\nche, venendomi 'ncontro, a poco a poco\nmi ripigneva là dove 'l sol tace.\n\nMentre ch'i' rovinava in basso loco,\ndinanzi a li occhi mi si fu offerto\nchi per lungo silenzio parea fioco.",
       "provisionalTranslation": "これは私に重い苦しみを与えた\nその姿から発する恐れをもって、\n私は高みへの希望を失った。\n\nそしてあの者のように、喜んで蓄え、\nそれを失わせる時が来ると、\nすべての思いの中で泣き悲しむ；\n\nそのように私を休ませないあの獣がしたのだ、\n私に向かって来ながら、少しずつ\n太陽が沈黙する場所へと私を押し返した。\n\n私が低い場所へと崩れ落ちていく間に、\n私の目の前に現れた者がいた、\n長い沈黙のために声が弱まったように見える者が。"
     },
     {
+      "id": 7,
+      "verses": "v.64–75",
+      "original": "Quando vidi costui nel gran diserto,\n«Miserere di me», gridai a lui,\n«qual che tu sii, od ombra od omo certo!»\n\nRisposemi: «Non omo, omo già fui,\ne li parenti miei furon lombardi,\nmantovani per patria ambedui.\n\nNacqui sub Iulio, ancor che fosse tardi,\ne vissi a Roma sotto 'l buono Augusto,\nal tempo de li dèi falsi e bugiardi.\n\nPoeta fui, e cantai di quel giusto\nfigliuol d'Anchise che venne di Troia,\npoi che 'l superbo Ilïón fu combusto.",
+      "provisionalTranslation": "この荒野でその者を見た時、\n「憐れんでください」と私は叫んだ、\n「あなたが何者であれ、影であれ、確かな人であれ！」\n\n彼は答えた：「人ではない、人であった、\n私の親はロンバルディア人で、\n二人ともマントヴァを故郷とした。\n\n私はユリウスの時代に生まれた、たとえ遅かったとしても、\nそして善きアウグストゥスの下でローマに生きた、\n偽りで嘘つきの神々の時代に。\n\n詩人であった、そしてあの正しき者を歌った、\nアンキーセスの子で、トロイアから来た者を、\n誇り高いイーリオスが焼かれた後。"
+    },
+    {
       "id": 8,
-      "verses": "v.76–90",
-      "french": "Quando vidi costui nel gran diserto,\n«Miserere di me», gridai a lui,\n«qual che tu sii, od ombra od omo certo!»\n\nRisposemi: «Non omo, omo già fui,\ne li parenti miei furon lombardi,\nmantovani per patria ambedui.\n\nNacqui sub Iulio, ancor che fosse tardi,\ne vissi a Roma sotto 'l buono Augusto,\nal tempo de li dèi falsi e bugiardi.",
-      "provisionalTranslation": "この荒野でその者を見た時、\n「憐れんでください」と私は叫んだ、\n「あなたが何者であれ、影であれ、確かな人であれ！」\n\n彼は答えた：「人ではない、人であった、\n私の親はロンバルディア人で、\n二人ともマントヴァを故郷とした。\n\n私はユリウスの時代に生まれた、たとえ遅かったとしても、\nそして善きアウグストゥスの下でローマに生きた、\n偽りで嘘つきの神々の時代に。"
+      "verses": "v.76–84",
+      "original": "Ma tu perché ritorni a tanta noia?\nperché non sali il dilettoso monte\nch'è principio e cagion di tutta gioia?»\n\n«Or se' tu quel Virgilio e quella fonte\nche spandi di parlar sì largo fiume?»\nrispuos'io lui con vergognosa fronte.\n\n«O de li altri poeti onore e lume,\nvagliami 'l lungo studio e 'l grande amore\nche m'ha fatto cercar lo tuo volume.",
+      "provisionalTranslation": "しかしなぜあなたはそれほどの苦しみへと戻るのか？\nなぜあの喜ばしい丘に登らないのか、\nあらゆる喜びの始まりにして原因である丘に？」\n\n「ではあなたがあのウェルギリウス、あの泉なのか、\nこれほど広大な言葉の川を注ぎ出す？」\nと私は恥じらいの表情で彼に答えた。\n\n「おお、他の詩人たちの誉れと光よ、\nどうか私のために役立ててください、長年の学びと偉大な愛を、\nあなたの書を探し求めさせたその愛を。"
     },
     {
       "id": 9,
-      "verses": "v.91–99",
-      "french": "Poeta fui, e cantai di quel giusto\nfigliuol d'Anchise che venne di Troia,\npoi che 'l superbo Ilïón fu combusto.\n\nMa tu perché ritorni a tanta noia?\nperché non sali il dilettoso monte\nch'è principio e cagion di tutta gioia?»",
-      "provisionalTranslation": "詩人であった、そしてあの正しき者を歌った、\nアンキーセスの子で、トロイアから来た者を、\n誇り高いイーリオスが焼かれた後。\n\nしかしなぜあなたはそれほどの苦しみへと戻るのか？\nなぜあの喜ばしい丘に登らないのか、\nあらゆる喜びの始まりにして原因である丘に？」"
+      "verses": "v.85–96",
+      "original": "Tu se' lo mio maestro e 'l mio autore,\ntu se' solo colui da cu' io tolsi\nlo bello stilo che m'ha fatto onore.\n\nVedi la bestia per cu' io mi volsi;\naiutami da lei, famoso saggio,\nch'ella mi fa tremar le vene e i polsi».\n\n«A te convien tenere altro viaggio»,\nrispose, poi che lagrimar mi vide,\n«se vuo' campar d'esto loco selvaggio;\n\nché questa bestia, per la qual tu gride,\nnon lascia altrui passar per la sua via,\nma tanto 'mpedisce che l'uccide;",
+      "provisionalTranslation": "あなたは私の師、私の著者、\nあなただけが私が美しい文体を学んだ方、\n私に名誉をもたらしたその文体を。\n\nあの獣を見てください、私が向きを変えた理由を；\n私を助けてください、有名な賢者よ、\nそれは私の血管と脈をも震わせるのです」。\n\n「あなたは別の旅をしなければならない」、\nと彼は答えた、私が涙を流すのを見て、\n「この荒野の場所から逃れたいなら；\n\nというのも、あなたが叫ぶあの獣は、\n他の者を自分の道を通り過ぎさせず、\nそれほど妨げてついには殺してしまうから；"
     },
     {
       "id": 10,
-      "verses": "v.100–111",
-      "french": "«Or se' tu quel Virgilio e quella fonte\nche spandi di parlar sì largo fiume?»\nrispuos'io lui con vergognosa fronte.\n\n«O de li altri poeti onore e lume,\nvagliami 'l lungo studio e 'l grande amore\nche m'ha fatto cercar lo tuo volume.\n\nTu se' lo mio maestro e 'l mio autore,\ntu se' solo colui da cu' io tolsi\nlo bello stilo che m'ha fatto onore.",
-      "provisionalTranslation": "「ではあなたがあのウェルギリウス、あの泉なのか、\nこれほど広大な言葉の川を注ぎ出す？」\nと私は恥じらいの表情で彼に答えた。\n\n「おお、他の詩人たちの誉れと光よ、\nどうか私のために役立ててください、長年の学びと偉大な愛を、\nあなたの書を探し求めさせたその愛を。\n\nあなたは私の師、私の著者、\nあなただけが私が美しい文体を学んだ方、\n私に名誉をもたらしたその文体を。"
+      "verses": "v.97–108",
+      "original": "ed ha natura sì malvagia e ria,\nche mai non empie la bramosa voglia,\ne dopo 'l pasto ha più fame che pria.\n\nMolti son li animali a cui s'ammoglia,\ne più saranno ancora, infin che 'l Veltro\nverrà, che la farà morir con doglia.\n\nQuesti non ciberà terra né peltro,\nma sapïenza, amore e virtute,\ne sua nazion sarà tra feltro e feltro.\n\nDi quella umile Italia fia salute\nper cui morì la vergine Cammilla,\nCurio e Torquato e Livïo e Ruttilia,",
+      "provisionalTranslation": "そしてそれは非常に邪悪で凶暴な本性を持ち、\n貪欲な欲望を満たすことが決してなく、\n食後には食前よりもっと飢えている。\n\n多くの動物がそれと交わっており、\nさらに多くが交わるだろう、あのヴェルトロが来るまで──\n来て、それを苦しみとともに死なせるだろう。\n\nこれは土地も銀も食物としないだろう、\nしかし知恵と愛と徳を食物とし、\nその生誕は二つのフェルトロの間にあるだろう。\n\nあの謙虚なイタリアの救いとなるだろう、\nそのために乙女カミッラが死に、\nクリオとトルクアトスとリウィウスとルッティリアが死んだ、"
     },
     {
       "id": 11,
-      "verses": "v.112–120",
-      "french": "Vedi la bestia per cu' io mi volsi;\naiutami da lei, famoso saggio,\nch'ella mi fa tremar le vene e i polsi».\n\n«A te convien tenere altro viaggio»,\nrispose, poi che lagrimar mi vide,\n«se vuo' campar d'esto loco selvaggio;\n\nché questa bestia, per la qual tu gride,\nnon lascia altrui passar per la sua via,\nma tanto 'mpedisce che l'uccide;\n\ned ha natura sì malvagia e ria,\nche mai non empie la bramosa voglia,\ne dopo 'l pasto ha più fame che pria.",
-      "provisionalTranslation": "あの獣を見てください、私が向きを変えた理由を；\n私を助けてください、有名な賢者よ、\nそれは私の血管と脈をも震わせるのです」。\n\n「あなたは別の旅をしなければならない」、\nと彼は答えた、私が涙を流すのを見て、\n「この荒野の場所から逃れたいなら；\n\nというのも、あなたが叫ぶあの獣は、\n他の者を自分の道を通り過ぎさせず、\nそれほど妨げてついには殺してしまうから；\n\nそしてそれは非常に邪悪で凶暴な本性を持ち、\n貪欲な欲望を満たすことが決してなく、\n食後には食前よりもっと飢えている。"
+      "verses": "v.109–117",
+      "original": "caccerà lei per ogne villa,\nfin che l'avrà rimessa ne lo 'nferno,\nlà onde 'nvidia prima dipartilla.\n\nOnd'io per lo tuo me' penso e discerno\nche tu mi segui, e io sarò tua guida,\ne trarrotti di qui per loco etterno;\n\nvedrai li antichi spiriti dolenti,\nche la seconda morte ciascun grida;\ne vederai color che son contenti",
+      "provisionalTranslation": "それはあの獣をあらゆる町から追い出し、\nついにそれを地獄へと送り返すだろう、\n嫉妬が初めてそれを送り出した場所へ。\n\nそれゆえ私はあなたのためを思い判断する、\nあなたが私に従い、私があなたの案内者となることを、\nそして私があなたをここから永遠の場所へと連れ出そう；\n\nあなたは古い苦しむ霊たちを見るだろう、\nそれぞれが第二の死を叫んでいる；\nそして満足している者たちを見るだろう"
     },
     {
       "id": 12,
-      "verses": "v.121–129",
-      "french": "Molti son li animali a cui s'ammoglia,\ne più saranno ancora, infin che 'l Veltro\nverrà, che la farà morir con doglia.\n\nQuesti non ciberà terra né peltro,\nma sapïenza, amore e virtute,\ne sua nazion sarà tra feltro e feltro.\n\nDi quella umile Italia fia salute\nper cui morì la vergine Cammilla,\nCurio e Torquato e Livïo e Ruttilia,",
-      "provisionalTranslation": "多くの動物がそれと交わっており、\nさらに多くが交わるだろう、あのヴェルトロが来るまで──\n来て、それを苦しみとともに死なせるだろう。\n\nこれは土地も銀も食物としないだろう、\nしかし知恵と愛と徳を食物とし、\nその生誕は二つのフェルトロの間にあるだろう。\n\nあの謙虚なイタリアの救いとなるだろう、\nそのために乙女カミッラが死に、\nクリオとトルクアトスとリウィウスとルッティリアが死んだ、"
-    },
-    {
-      "id": 13,
-      "verses": "v.127–135",
-      "french": "caccerà lei per ogne villa,\nfin che l'avrà rimessa ne lo 'nferno,\nlà onde 'nvidia prima dipartilla.\n\nOnd'io per lo tuo me' penso e discerno\nche tu mi segui, e io sarò tua guida,\ne trarrotti di qui per loco etterno;\n\nvedrai li antichi spiriti dolenti,\nche la seconda morte ciascun grida;\ne vederai color che son contenti\n\nnel foco, perché speran di venire\nquando che sia a le beate genti:\na le quai poi se tu vorrai salire,\n\nanima fia a ciò più di me degna;\ncon lei ti lascerò nel mio partire;\nché quello imperador che là sù regna,\n\nperch'i' fu' ribellante a la sua legge,\nnon vuol che 'n sua città per me si vegna.\nIn tutte parti impera e quivi regge;",
-      "provisionalTranslation": "それはあの獣をあらゆる町から追い出し、\nついにそれを地獄へと送り返すだろう、\n嫉妬が初めてそれを送り出した場所へ。\n\nそれゆえ私はあなたのためを思い判断する、\nあなたが私に従い、私があなたの案内者となることを、\nそして私があなたをここから永遠の場所へと連れ出そう；\n\nあなたは古い苦しむ霊たちを見るだろう、\nそれぞれが第二の死を叫んでいる；\nそして満足している者たちを見るだろう\n\n火の中で、なぜなら彼らは来ることを望んでいるから\nいつの日か祝福された人々のもとに：\nその後あなたがそこに登ることを望むなら、\n\nそのためにふさわしい魂が私よりもいる；\n私が去る時、私はあなたをその者に委ねよう；\nというのも、あの上に治める皇帝が、\n\n私が彼の律法に反したゆえに、\n私によって彼の都に来ることを望まないから。\nあらゆる場所で帝し、そこで統治する；"
-    },
-    {
-      "id": 14,
-      "verses": "v.131–136",
-      "french": "quivi è la sua città e l'alto seggio:\noh felice colui cu' ivi elegge!»\n\nE io a lui: «Poeta, io ti richeggio\nper quello Dio che tu non conoscesti,\nacciò ch'io fugga questo male e peggio,\n\nche tu mi meni là dov'or dicesti,\nsì ch'io veggia la porta di san Pietro\ne color cui tu fai cotanto mesti.»\n\nAllor si mosse, e io li tenni dietro.",
-      "provisionalTranslation": "そこに彼の都と高き玉座がある：\nああ、幸いなるかな、そこで選ばれる者は！」\n\nすると私は彼に：「詩人よ、あなたに頼む、\nあなたが知ることのなかったその神にかけて、\n私がこの悪とさらに悪いものから逃れられるように、\n\nあなたが今話した場所へと私を導いてください、\n私が聖ペトロの門を見られるように\nそしてあなたがこれほど悲しいと言う者たちを。」\n\nそのとき彼は動き出し、私は彼の後に従った。"
+      "verses": "v.118–135",
+      "original": "nel foco, perché speran di venire\nquando che sia a le beate genti:\na le quai poi se tu vorrai salire,\n\nanima fia a ciò più di me degna;\ncon lei ti lascerò nel mio partire;\nché quello imperador che là sù regna,\n\nperch'i' fu' ribellante a la sua legge,\nnon vuol che 'n sua città per me si vegna.\nIn tutte parti impera e quivi regge;\n\nquivi è la sua città e l'alto seggio:\noh felice colui cu' ivi elegge!»\n\nE io a lui: «Poeta, io ti richeggio\nper quello Dio che tu non conoscesti,\nacciò ch'io fugga questo male e peggio,\n\nche tu mi meni là dov'or dicesti,\nsì ch'io veggia la porta di san Pietro\ne color cui tu fai cotanto mesti.»\n\nAllor si mosse, e io li tenni dietro.",
+      "provisionalTranslation": "火の中で、なぜなら彼らは来ることを望んでいるから\nいつの日か祝福された人々のもとに：\nその後あなたがそこに登ることを望むなら、\n\nそのためにふさわしい魂が私よりもいる；\n私が去る時、私はあなたをその者に委ねよう；\nというのも、あの上に治める皇帝が、\n\n私が彼の律法に反したゆえに、\n私によって彼の都に来ることを望まないから。\nあらゆる場所で帝し、そこで統治する；\n\nそこに彼の都と高き玉座がある：\nああ、幸いなるかな、そこで選ばれる者は！」\n\nすると私は彼に：「詩人よ、あなたに頼む、\nあなたが知ることのなかったその神にかけて、\n私がこの悪とさらに悪いものから逃れられるように、\n\nあなたが今話した場所へと私を導いてください、\n私が聖ペトロの門を見られるように\nそしてあなたがこれほど悲しいと言う者たちを。」\n\nそのとき彼は動き出し、私は彼の後に従った。"
     }
   ],
   "annotations": [
@@ -159,67 +147,67 @@
       "body": "春分の夜明け、創造の時刻と同じ星座配置──牡羊座に太陽がある春分の朝。時間の神学的充填：旅が始まるのは創造の時刻の繰り返しとして刻印される。この詩的暦法はダンテが詩的時間と宇宙的時間を一致させる手法の典型。"
     },
     {
-      "paragraphId": 7,
+      "paragraphId": 6,
       "type": "commentary",
       "anchor": "mi ripigneva là dove 'l sol tace",
-      "body": "「太陽が沈黙する場所（là dove 'l sol tace）」──光なき地獄の暗示。「tace（沈黙する）」を太陽に用いるのは大胆な擬人法。光と沈黙の対比は神曲全体の構造的対立を先取りする。詩人マラルメが愛用した「沈黙」の比喩の系譜に連なる──ただし方向は逆で、ダンテにとって沈黙は欠如・地獄であり、マラルメにとっては純粋・絶対である。"
+      "body": "「太陽が沈黙する場所（là dove 'l sol tace）」──光なき地獄の暗示。「tace（沈黙する）」を太陽に用いるのは大胆な擬人法。光と沈黙の対比は神曲全体の構造的対立を先取りする。詩人マラルメが愛用した「沈黙」の比喩の系譜に連なる──ダンテにとって沈黙は欠如・地獄であり、マラルメにとっては純粋・絶対である。"
     },
     {
-      "paragraphId": 7,
+      "paragraphId": 6,
       "type": "allusion",
       "anchor": "chi per lungo silenzio parea fioco",
       "body": "「長い沈黙のために声が弱まったように見える者」──ウェルギリウスの霊。ウェルギリウスは没後1300年近く「沈黙」の中にあった。この一行はダンテの詩的先達への深い敬意と、古典文明の「弱まった声」を現在に復活させるという詩的使命を同時に表現する。"
     },
     {
-      "paragraphId": 8,
+      "paragraphId": 7,
       "type": "commentary",
       "anchor": "Non omo, omo già fui",
       "body": "「人ではない、人であった（Non omo, omo già fui）」──存在論的宣言。過去と現在の断絶を一行で表す。ウェルギリウスはキリスト教の洗礼を受けずに死んだためリンボ（辺獄）に住む。洗礼なき古代人の「高貴な地獄」という概念はダンテの神学的発明であり、異教の古典をキリスト教世界に統合するための詩的・神学的装置。"
     },
     {
-      "paragraphId": 9,
+      "paragraphId": 7,
       "type": "allusion",
       "anchor": "cantai di quel giusto / figliuol d'Anchise",
       "body": "ウェルギリウスが自らを「アエネアス（アンキーセスの子）を歌った者」として紹介する。『アエネイス』への直接の言及。ダンテにとってウェルギリウスは『アエネイス』の作者であり、ローマの建国・帝国・秩序の詩人。「il giusto（正しき者）」という形容はアエネアスの政治的・道徳的典型性を示す。"
     },
     {
-      "paragraphId": 10,
+      "paragraphId": 9,
       "type": "commentary",
       "anchor": "Tu se' lo mio maestro e 'l mio autore",
       "body": "「あなたは私の師、私の著者（Tu se' lo mio maestro e 'l mio autore）」──詩史上最も有名な師弟関係の宣言のひとつ。「autore」は中世において権威ある著者（auctoritas）を意味し、単なる「書いた人」以上の重みを持つ。ボルヘスは「ダンテのウェルギリウスへの愛は、単に文学的影響関係ではなく、師を超えることへの不安と感謝が複雑に絡み合っている」と論じた（『ダンテ九篇』）。"
     },
     {
-      "paragraphId": 11,
+      "paragraphId": 9,
       "type": "commentary",
       "anchor": "questa bestia sanza pace",
       "body": "牝狼の「休ませない（sanza pace）」という形容。「pace（平和・安息）」の欠如が地獄の本質であることをここで初めて明示。アウグスティヌス『告白』冒頭「我らの心はあなたの中に安らうまで休まらない（inquietum est cor nostrum donec requiescat in te）」への反響──神への欲求ではなく世俗的貪欲の「落ち着かなさ」。"
     },
     {
-      "paragraphId": 12,
+      "paragraphId": 10,
       "type": "allusion",
       "anchor": "il Veltro",
       "body": "「ヴェルトロ（猟犬）」──神曲最大の謎のひとつ。牝狼（貪欲・腐敗）を倒す救済者の予言。正体は未解決：(1) 皇帝カングランデ・デッラ・スカーラ（ダンテの庇護者）；(2) キリストの再来；(3) 理想の皇帝；(4) ダンテの詩そのもの。「二つのフェルトロの間（tra feltro e feltro）」の解釈も諸説ある──フェルトレ市とモンテフェルトロ、あるいは「フェルト布（粗末な誕生）」のメタファー。エーコはこの予言を中世の千年王国論的言説として位置づけた。"
     },
     {
-      "paragraphId": 14,
+      "paragraphId": 11,
       "type": "commentary",
       "anchor": "la seconda morte ciascun grida",
       "body": "「第二の死（seconda morte）」──黙示録2:11「第二の死に傷つけられることはない」の反転。地獄における霊魂の永遠の苦しみ。肉体の死が「第一の死」であるのに対し、神から永遠に切り離された状態が「第二の死」。ダンテはこの神学的概念を地獄篇全体の基調として導入する。"
     },
     {
-      "paragraphId": 14,
+      "paragraphId": 12,
       "type": "commentary",
       "anchor": "quello imperador che là sù regna / perch'i' fu' ribellante a la sua legge / non vuol che 'n sua città per me si vegna",
       "body": "ウェルギリウスが天国に入れない理由の説明。「皇帝（imperador）」は神。洗礼なき異教徒であるウェルギリウスは神の都（天国）に入ることを許されない──これはダンテの神学にとって最も深刻な問題のひとつ。知恵・徳において完全でありながら救われないウェルギリウスの限界は、理性（ウェルギリウス）が信仰（ベアトリーチェ）なしには究極の救済に達しえないことの象徴。"
     },
     {
-      "paragraphId": 14,
+      "paragraphId": 12,
       "type": "prosody",
       "anchor": "Allor si mosse, e io li tenni dietro",
-      "body": "Canto Iの最終行。「そのとき彼は動き出し、私は彼の後に従った（Allor si mosse, e io li tenni dietro）」──簡潔な一行で旅の開始を告げる。神曲の各CANTOの末行はしばしばこのような静かな閉幕を持つ。次のCanto IIへの橋渡しとして、語り手の躊躇と決意を省略することで、逆に緊張感を高める。ロダン『地獄の門』の動的な構図と対照をなす静謐な出発。"
+      "body": "Canto Iの最終行（v.136）。「そのとき彼は動き出し、私は彼の後に従った」──簡潔な一行で旅の開始を告げる。神曲の各CANTOの末行はしばしばこのような静かな閉幕を持つ。次のCanto IIへの橋渡しとして、語り手の躊躇と決意を省略することで、逆に緊張感を高める。ロダン『地獄の門』の動的な構図と対照をなす静謐な出発。"
     },
     {
-      "paragraphId": 14,
+      "paragraphId": 12,
       "type": "intertextual",
       "anchor": "porta di san Pietro",
       "body": "「聖ペトロの門（porta di san Pietro）」──煉獄の入口の門（煉獄篇Canto IXで描かれる）を指す。ダンテはここで旅全体の目的を先取りする。近代芸術への影響として：ロダンの彫刻群『地獄の門』（1880–1917）はこのCanto Iの旅立ちの情景を視覚化した試みであり、「考える人」は高みを見上げるダンテ自身とも解釈される。",
