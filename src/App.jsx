@@ -21,14 +21,15 @@ import banvilleData from './data/banville';
 import rodenbachData from './data/rodenbach';
 import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
-import poeData from './data/poe';
-import wildeData from './data/wilde';
-import swinburneData from './data/swinburne';
-import yeatsData from './data/yeats';
 import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
 import hoelderlinData from './data/hoelderlin';
+import danteData from './data/dante';
+import poeData from './data/poe';
+import wildeData from './data/wilde';
+import swinburneData from './data/swinburne';
+import yeatsData from './data/yeats';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass } from './utils';
 
@@ -190,6 +191,7 @@ export default function App() {
       ...vanlerbergheData,
       ...racineData,
       ...rimbaudData,
+      ...danteData,
       ...poeData,
       ...wildeData,
       ...swinburneData,
@@ -1699,6 +1701,7 @@ export default function App() {
     if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
