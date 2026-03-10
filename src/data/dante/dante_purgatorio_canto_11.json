@@ -1,0 +1,115 @@
+{
+  "id": "dante_purgatorio_canto_11",
+  "title": "Purgatorio — Canto XI",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XI",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第11歌は第一の圏「傲慢（superbia）」の場面。傲慢な魂たちは重い石板を背負って歩き、地面に彫られた謙虚さの例を見ながら浄化される。三人の亡者──ウンベルト・アルドブランデスキ（貴族の傲慢）・オデリージ・ダ・グッビオ（芸術家の傲慢）・プロヴェンツァン・サルヴァーニ（政治的傲慢）──がそれぞれ自分の罪と転落を語る。\n\n中心人物オデリージ・ダ・グッビオ（1240年頃〜1299頃）はウンブリア出身の細密画家（ミニアトリスト）で、ボローニャとローマで活動した。ダンテと同時代の芸術家で、実際にダンテが知っていた可能性が高い。彼がチマブーエ→ジョット・グイド・カヴァルカンティ→ダンテという芸術的継承の連鎖を語る場面（v.91–108）は、ダンテ研究史上最も頻繁に引用される芸術論的passage の一つ。名声の無常──「uno grido（一つの叫び）」はすぐに別の叫びに取って代わられる──は煉獄篇の傲慢論の核心であり、Versillage が扱う「詩と名声」という主題と最も直接的に接続する。",
+  "keywords": [
+    "傲慢", "謙虚", "名声", "芸術の無常", "オデリージ", "チマブーエ", "ジョット",
+    "グイニゼッリ", "dolce stil novo", "uno grido", "石板", "superbia"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_2",
+    "dante_purgatorio_canto_24",
+    "dante_purgatorio_canto_26"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–24",
+      "speaker": "Le anime",
+      "original": "«O Padre nostro, che ne' cieli stai,\nnon circunscritto, ma per più amore\nch'ai primi effetti di là sù tu hai,\n\nlaudato sia 'l tuo nome e 'l tuo valore\nda ogne creatura, com'è degno\ndi render grazie al tuo dolce vapore.\n\nVegna ver' noi la pace del tuo regno,\nché noi ad essa non potem da noi,\ns'ella non vien, con tutto nostro ingegno.\n\nCome del suo voler li angeli tuoi\nfan sacrificio a te, cantando osanna,\ncosì facciano li uomini de' suoi.\n\nDa' oggi a noi la cotidiana manna,\nsanza la qual per questo aspro diserto\nindietro va chi più di gir s'affanna.\n\nE come noi lo mal ch'avem sofferto\nperdoniamo a ciascuno, e tu perdona\nbenigno, e non guardar lo nostro merto.\n\nNostra virtù che di legger s'adona,\nnon spermentar con l'antico avversaro,\nma libera da lui che sì la sprona.\n\nQuest'ultima preghiera, segnor caro,\ngià non si fa per noi, ché non bisogna,\nma per color che dietro a noi restaro».",
+      "provisionalTranslation": "「私たちの父よ、天にいたまう、\n限られてはいなく、しかしより大きな愛のために\nあなたが上でそこの最初の被造物（天使）に持っている、\n\nあなたの名とあなたの価値が称えられますように\n全ての被造物によって、ふさわしい通りに\nあなたの甘い息吹への感謝を返すために。\n\nあなたの王国の平和が私たちの方へ来ますように、\nなぜなら私たちはそれへは自力では到達できない、\nもし来なければ、私たち全ての才知をもってしても。\n\nあなたの天使たちが自分の意志を\nあなたへの犠牲とするように、ホサナを歌いながら、\nそのように人々も自分のものを（犠牲に）しますように。\n\n今日私たちに日々のマナを与えてください、\nそれなしにはこの険しい荒野で\n最も急ぐ者ほど後退してしまう。\n\nそして私たちが苦しんだ悪を\n私たちが各々に許すように、あなたも許してください\n慈悲深く、私たちの功績を顧みずに。\n\n私たちの美徳を、容易に倒れる、\n古い敵（悪魔）と試さないでください、\nしかし彼から自由にしてください、彼が急き立てるものを。\n\nこの最後の祈りは、大切な主よ、\n私たちのためにはもはや必要ではない、なぜなら必要ないから、\nしかし私たちの後に残った者たちのために（必要です）。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.25–42",
+      "speaker": "Dante-narratore",
+      "original": "Così a sé e noi buona ramogna\nquell'ombre orando, andavan sotto 'l pondo,\nsimili a quel che talvolta si sogna,\n\ndisguali in pena, in su la prima cornice,\nlasse, girando tutta la montagna;\npurgando la caligine del mondo.\n\nSe di là sempre ben per noi si dice,\ndi qua che dire e far per lor si puote\nda quei c'hanno al voler buona radice?\n\nBen si de' loro aiutar lavar le note\nche portar quinci, sì che, mondi e lievi,\npossano uscire a le stellate ruote.\n\n«Deh, se giustizia e pietà vi disgrevi\ntosto, sì che possiate muover l'ala,\nche secondo il disio vostro vi lievi,\n\nmostraste a qual man verso la scala\nsi va più corto; e se c'è più d'un varco,\nquel ne 'nsegnate che men erto cala:\n\nché questi che vien meco, per lo 'ncarco\nde la carne d'Adamo onde si veste,\ncontro sua voglia al montar è parco».",
+      "provisionalTranslation": "このようにして自分たちのためにも私たちのためにも良い糧を\nそれらの影は祈りながら進んでいた、重荷の下で、\n時々夢で見るものに似て、\n\n苦しみにおいては不均等に、最初の圏で、\n疲れて、山全体を回りながら；\n世の濁りを清めながら。\n\nもし向こうで私たちのために常に良いことが言われるなら、\nこちらでは何を言い何をできるか彼らのために\n意志に良い根を持つ者たちが？\n\n彼らがここから運ぶ汚れを洗い流すのを\n助けてあげるべきだ、それによって、清らかで軽くなり、\n星の輪（天）に出られるように。\n\n「ねえ、正義と哀れみがあなた方から重荷を取り除いてくれますように\n早く、そうしてあなた方が翼を動かせるように、\nあなた方の望みが持ち上げてくれるもの（翼）に従って、\n\n（どうか）示してください、階段へはどちら側が\n近い道か；そして通路が一つ以上あるなら、\n最も傾きが少ないものを教えてください：\n\nなぜならここで私と共に来る者は、重荷のために\nアダムの肉の衣のためのものを着ているせいで、\n自分の意志に反して上ることに不十分だから。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.43–72",
+      "speaker": "Omberto Aldobrandesco",
+      "original": "Non fu palese ond'uscì la parola\ntra loro; ma fu detto: «Al destro fianco\nvegna con noi, e troverete il varco\npossibile a persona viva a gire;\n\ne s'io non fossi impedito dal sasso\nche la cervice mia superba doma,\nonde portar lo convien col viso basso,\n\ncostui ch'ancor non so chi si sia, guaterei,\nper veder se 'l conosco, e per farli asso\npietoso, all'erta aspra che si dee.\n\nIo fui latino e nato d'un gran tosco:\nGuglielmo Aldobrandesco fu mio padre;\nnon so se 'l nome suo già mai fu vosco.\n\nL'antico sangue e l'opere leggiadre\nde' miei maggior mi fer sì arrogante,\nche, non pensando a la comune madre,\n\nogni uomo ebbi in dispetto tanto avante,\nche ne mori', come i Sanesi sanno\ne sallo in Campagnatico ogne fante.\n\nIo sono Omberto; e non pur a me danno\nsuperbia fa, che tutti miei consorti\nha ella tratti seco nel malanno;\n\ne qui convien ch'io questo peso porti\nper lei, tanto che a Dio si soddisfaccia,\npo' ch'io nol feci tra ' vivi, or tra ' morti».",
+      "provisionalTranslation": "どこから言葉が出たかは彼らの中では分からなかった；\nしかし言われた：「右手側に\n私たちと一緒に来てください、そうすれば通路が見つかる\n生きた人が行くことの可能な；\n\nもし私が石に妨げられていなければ\nそれが私の傲慢な首を打ち従わせている、\nそのためにそれを顔を下に向けて運ばなければならない、\n\nまだ誰か知らないこの者を見上げて、\n知っているか確かめ、哀れみある\n助けを彼に与えることができるのに。\n\n私はトスカーナ人であり大きなトスカーナ人から生まれた：\nグリエルモ・アルドブランデスキが私の父だった；\n彼の名があなた方の間で既に知られているか分からない。\n\n先祖の古い血と優れた業績が\n私をとても傲慢にした、\n共通の母（大地・人類）のことを考えずに、\n\n全ての人をこれほどまでに軽蔑した\nそのために死んだ、シエナ人たちが知るように\nカンパーニャティコの全ての下男も知るように。\n\n私はウンベルトだ；そして傲慢は私だけに害をなすのではなく、\n彼女は私の仲間全員を\n不幸の中へ彼女と共に引きずり込んだ；\n\nそしてここで私はこの重荷を彼女のために運ばなければならない、\n神が満足なされるまで、\n生者の間でそれをしなかったので、今は死者の間で。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.73–117",
+      "speaker": "Oderisi da Gubbio",
+      "original": "Mentre che li andava, per soverchio carico,\ndi 'Na l'altro, uno spirito latino\nparlò; ed io m'attesi a lui, temendo\ndi non gravarli poi il suo cammino.\n\nOh!»-diss'io lui- «non se' tu Oderisi,\nl'onor d'Agobbio e l'onor di quell'arte\nch'alluminar chiamata è in Parisi?»\n\n«Frate», diss'elli, «più ridon le carte\nche pennelleggia Franco Bolognese;\nl'onore è tutto or suo, e mio in parte.\n\nBen non sare' io stato sì cortese\nmentre ch'io vissi, per lo gran disio\ndel'eccellenza ove mio core intese.\n\nDi tal superbia qui si paga il fio;\ne ancor non sarei qui, se non fosse\nche, possendo peccar, mi volsi a Dio.\n\nOh vana gloria de l'umane posse!\ncom'è poco verde in su la cima,\nse non è giunta da grossi aéri dopo!\n\nCimabue credette tener lo campo\nnella pittura, ed ora ha Giotto il grido,\nsì che la fama di colui è scura.\n\nCosì ha tolto l'uno a l'altro Guido\nla gloria de la lingua; e forse è nato\nchi l'uno e l'altro caccerà del nido.\n\nNon è il mondan romore altro ch'un fiato\ndi vento, ch'or vien quinci e or vien quindi,\ne muta nome perché muta lato.\n\nChe voce avrai tu più, se vecchia scindi\nda te la carne, che se fossi morto\nnanzi che tu lasciassi il «pappo» e 'l «dindi»,\n\nver' l'etterno che vien dopo canto?\nCompar di lui che 'n ciel coronato\ntriomfa ora col mondo e con mio canto?»",
+      "provisionalTranslation": "それらが通りすぎると、重すぎる荷のために\nうつむいて歩く、あるラテン人の霊が\n語りかけた；そして私は彼に注意を向けた、\n彼の旅をその後さらに妨げないように恐れながら。\n\n「おお！」と私は彼に言った「あなたはオデリージではないか、\nグッビオの誉れ、そしてあの芸術の誉れ\nパリではilluminar（彩飾画）と呼ばれているものの？」\n\n「兄弟よ」と彼は言った、「フランコ・ボローニャ人が\n彩色する紙の方がより輝いている；\n名誉は今や全て彼のものだ、私のものは一部に過ぎない。\n\n私が生きていた間は、確かにこれほど礼儀正しくなかっただろう、\n卓越への大きな欲望のために\nそこに私の心が向けられていた。\n\nそのような傲慢の代価がここで払われる；\nそして私はまだここにいなかっただろう、もしなかったなら\n罪を犯せる身でありながら神に向かったことが。\n\nああ、人間の力の空しい栄光よ！\n頂上に緑がいかに少ないか、\n粗い大気が後から来なければ！\n\nチマブーエは絵画において\n王者であると思っていた、今ではジョットが叫び（名声）を持ち、\nそのためにあの者の名声は陰ってしまった。\n\nそのように一方のグイド（グイニゼッリ）が他方のグイド（カヴァルカンティ）から\n言語の栄光を取り上げた；そしておそらく既に生まれた\n一方も他方も巣から追い出す者が。\n\n世の噂は風の息吹に他ならない、\nこちらから来たり、あちらから来たり、\n名前を変える、なぜなら側を変えるから。\n\nあなたの名声はどれほど大きくなるか、年老いて\n肉体をあなたから脱ぎ捨てたとしても、\nまだ「パッポ」と「ディンディ」を言っていた頃に死ぬのに比べて、\n\n後に来る永遠に比べたら？\n今天で冠をかぶって\n世とともに私の歌とともに凱旋する彼に比べたら？」"
+    },
+    {
+      "id": 5,
+      "verses": "v.118–142",
+      "speaker": "Dante-narratore",
+      "original": "«Oh!» diss'io lui, «ancor non ti si tace?\nChi è quell'anima di cui ragioni?\"\"\n\nE quelli a me: «Quei è Provenzan Salvani;\ned è qui perché fu presuntuoso\na recar Siena tutta a le sue mani.\n\nIto è così e va, sanza riposo,\npo' che morì; cotal moneta rende\na sodisfar chi è di là troppo oso».\n\nE io: «Se quello spirito ch'attende,\nprima che si ripenta, l'orlo de la vita,\ndi là si sta e di qua non discende,\n\nse buona orazion lui non aita,\ncome convenne a lui qui venire?»\n\n«Quando viveva più glorïoso»,\nripuose, «liberamente nel Campo\ndi Siena si pose, ogne vergogna deposto;\n\ne lì, per trar l'amico suo di pena\nch'e' sostenea ne la prigione di Carlo,\nsi condusse a tremar per ogni vena.\n\nPiù non dirò, e scuro so che parlo;\nma poco tempo andrà che ' tuoi vicini\nfaranno sì che tu potrai chiosarlo.\n\nQuest'opera li tolse quei confini».",
+      "provisionalTranslation": "「おお！」と私は彼に言った、「まだ黙らないのか？\nあなたが話しているその霊は誰か？」\n\n彼は私に答えた：「あれはプロヴェンツァン・サルヴァーニだ；\n彼はここにいる、なぜなら傲慢だったから\nシエナ全体を自分の手に収めようとして。\n\n彼は行き、こうして休みなく動いている、\n死んでからずっと；そのような貨幣を返済する\nあちら（生前）で傲慢すぎた者は。」\n\n私は言った：「もしその霊が、懺悔する前に\n命の縁（臨終）まで待った者が、\nあちらに留まり、こちら（煉獄）には降りて来ないなら、\n\n良い祈りが助けてくれなければ、\nどのようにして彼がここに来ることになったのか？」\n\n「彼が最も栄光に満ちていた頃に」、\n彼は答えた、「シエナの広場（カンポ広場）で自由に\n自分を置いた、全ての恥を脱ぎ捨てて；\n\nそしてそこで、友人を苦しみから救い出すために\n彼がカルロの牢獄で耐えていた苦しみから、\n全ての血管を震わせて立った（物乞いをした）。\n\nこれ以上は言わない、暗く語っているのは分かる；\nしかし短時間で、あなたの隣人たちが\nそれをあなたに解説できるようにしてくれるだろう。\n\nこの行為が彼からその境界（臨終の待ち時間）を取り除いた。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "O Padre nostro, che ne' cieli stai",
+      "body": "主の祈りのダンテ的パラフレーズ──傲慢者の圏にふさわしく、主の祈りの各節がこの圏の特定の意味と対応する形で展開される。最初の節「私たちの父よ、天にいたまう、限られてはなく（non circunscritto）」──神は空間的に限定されない。これは傲慢の核心（自分を限定された場所・身分・達成に閉じ込める）への対位法。最後の節「しかし私たちの後に残った者たちのために（per color che dietro a noi restaro）」──魂たちが自分のためではなく生者のために祈る、煉獄の相互的祈りの構造を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "simili a quel che talvolta si sogna",
+      "body": "「時々夢で見るものに似て（simili a quel che talvolta si sogna）」──重い石板を背負って歩く傲慢者の姿が夢の中の重荷として描かれる。この比喩はCanto IX（夢でアキレウスの母テティスが眠るアキレウスを運ぶ）の夢のモチーフの変奏。煉獄では夢が重要な認識論的装置として機能する──Canto IX・XVII・XIX・XXVII で夢が啓示として現れる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'antico sangue e l'opere leggiadre\nde' miei maggior mi fer sì arrogante",
+      "body": "「先祖の古い血と優れた業績が私をとても傲慢にした（L'antico sangue e l'opere leggiadre / de' miei maggior mi fer sì arrogante）」──ウンベルト・アルドブランデスキは13世紀トスカーナの有力貴族の一族。傲慢の第一形式：「家柄の傲慢（superbia di casato）」──自分ではなく先祖の業績への誇りが傲慢の根源となる逆説。オデリージの「自己の業績への傲慢」とプロヴェンツァンの「政治的支配への傲慢」と合わせて、三種の傲慢が一つの圏で対比される構造。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Cimabue credette tener lo campo\nnella pittura, ed ora ha Giotto il grido",
+      "body": "「チマブーエは絵画において王者であると思っていた、今ではジョットが叫び（名声）を持ち（Cimabue credette tener lo campo / nella pittura, ed ora ha Giotto il grido）」──チェンニ・ディ・ペポ（チマブーエ、1240頃〜1302頃）とジョット・ディ・ボンドーネ（1267頃〜1337）はともにダンテと同時代人。ダンテが書いた時（1300年頃を設定）にはチマブーエはまだ存命だったが、ジョットの革命的革新（三次元的人体表現・感情表現）によって確かに「チマブーエの時代」は終わっていた。芸術史に関するダンテの洞察の正確さ──ジョットはその後ルネサンスの基礎と評価されることになる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Così ha tolto l'uno a l'altro Guido\nla gloria de la lingua",
+      "body": "「そのように一方のグイドが他方のグイドから言語の栄光を取り上げた（Così ha tolto l'uno a l'altro Guido / la gloria de la lingua）」──「一方のグイド」はグイド・グイニゼッリ（1230頃〜1276）、「他方のグイド」はグイド・カヴァルカンティ（1255頃〜1300）。グイニゼッリはdolce stil novoの先駆者で「我らの父（nostro padre）」とCanto XXVI でダンテは呼ぶ。カヴァルカンティはダンテの親友で師、最も重要な先行詩人。「そしておそらく既に生まれた、一方も他方も巣から追い出す者が（e forse è nato / chi l'uno e l'altro caccerà del nido）」──その「者」がダンテ自身であることを暗示。しかし煉獄でそれを言うのは傲慢の圏──この自己言及はダンテ自身の潜在的な傲慢への警告。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Non è il mondan romore altro ch'un fiato\ndi vento, ch'or vien quinci e or vien quindi,\ne muta nome perché muta lato.",
+      "body": "「世の噂は風の息吹に他ならない、こちらから来たり、あちらから来たり、名前を変える、なぜなら側を変えるから（Non è il mondan romore altro ch'un fiato / di vento, ch'or vien quinci e or vien quindi, / e muta nome perché muta lato）」──煉獄篇で最も引用される三行の一つ。世の名声への批判としてのみならず、詩学的な主題でもある：詩人の名声（grido）は風であり方向性を持たない。しかしこの言葉を語るのは、自身の傲慢を浄化中のオデリージ──彼が語る「名声の無常」は彼自身への自己批判として機能する二重性を持つ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Che voce avrai tu più, se vecchia scindi\nda te la carne",
+      "body": "「あなたの名声はどれほど大きくなるか、年老いて肉体をあなたから脱ぎ捨てたとしても」──オデリージはここでダンテ自身に語りかける。傲慢の圏でダンテは自分の詩的名声への欲望について問われている。Canto IIのカゼッラの歌（詩への陶酔）・Canto XIのオデリージ（名声の無常）・Canto XXIV（dolce stil novo宣言）・Canto XXVI（詩の歴史）という連鎖の中で、ダンテは自分の詩人としての傲慢を段階的に直視させられる。",
+      "targetId": "dante_purgatorio_canto_24",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "liberamente nel Campo\ndi Siena si pose, ogne vergogna deposto",
+      "body": "プロヴェンツァン・サルヴァーニ（1220頃〜1269）はシエナのギベリン派の指導者。傲慢の罪により臨終の悔悟が遅かったため、本来は「浄化の前段階」で長く待つはずだった（Canto IV の法則）。しかし生前に一度、友人（タリアコッツォの戦いでカルロ・ダンジョーの捕虜になった友人）を救うためにシエナの広場で物乞いをした──政治的指導者にとって最大の恥辱を自ら引き受けた「謙虚の行為」が、傲慢の待機期間を免除した。この逆説（傲慢者が謙虚な行為によって救われる）が煉獄の正義の論理。"
+    }
+  ]
+}
