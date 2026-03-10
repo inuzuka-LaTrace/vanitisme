@@ -1,0 +1,103 @@
+{
+  "id": "dante_purgatorio_canto_27",
+  "title": "Purgatorio — Canto XXVII",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XXVII",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第27歌は転換点──最後の圏（色情の圏）から地上楽園（エデン）への通過の歌であり、ウェルギリウスが案内役としての機能を終える歌。火の壁を通過するためにダンテは恐怖して立ちすくむ。ウェルギリウスの説得「ここにはベアトリーチェがいる」という一言が彼を動かす。火の中を歌いながら通過する。夜を待って急な崖に留まる夜の場面でレアの夢──聖書のレアとラケル（活動的生と観想的生）の象徴が現れる。\n\n歌の末尾、山頂に着いたウェルギリウスは歴史的な最後の言葉を語る：「お前の意志は自由で健全で正しい（libero, dritto e sano è tuo arbitrio）」──以後ダンテの案内は要らないと宣言する。これはウェルギリウス（理性・詩・人間の知恵の象徴）が案内できる限界──ベアトリーチェ（神学・啓示）が引き継ぐ前夜。煉獄篇全体の構造的クライマックスであり、次のCanto XXX（ベアトリーチェの登場とウェルギリウスの消滅）の直前の最後の平和。",
+  "keywords": [
+    "火の壁", "ウェルギリウスの別れ", "libero arbitrio", "自由意志",
+    "レアの夢", "ベアトリーチェ", "地上楽園", "理性の限界", "天使",
+    "炎の通過", "Pyramus and Thisbe"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_26",
+    "dante_purgatorio_canto_30",
+    "dante_purgatorio_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–21",
+      "speaker": "Dante-narratore",
+      "original": "Sì come quando i primi raggi vibra\nlà dove il suo fattor lo sangue sparse,\ncadendo Ibero sotto l'alta Libra\n\ne l'onde in Gange da nona s'arsero;\nsì stava il sole; onde 'l giorno sen giva,\nquand'io la volontà di Dio trovai\n\nlieta nel viso mio ad un: «Beati\nmundo corde!» — voce fu; poi «Sanctus, sanctus, sanctus»\nsenza più.\n\nCome alla luce acuta si disonna\nper lo spirto vital che vince il sonno,\nquand'elli è vinto: così ritto posa\n\nl'occhio che si rinfranca e rischiarisce,\npur che il lume che fugge la rimembra;\nsì come nostra via si scorse\n\naver a passar per la vampa acerba;\ned io temeva il foco da ciascun lato,\ncome colui che va per via ristretta.",
+      "provisionalTranslation": "太陽が最初の光線を振るうように\nそこで、その作り手（神）が血を流した場所（エルサレム）で、\nエブロ川がてんびん座の下に沈んで\n\nガンジス川の波が正午（三時）に焼かれる頃；\n太陽はそのように（その位置に）あった；だからその日が去ろうとしていた、\n私が神の意志を見つけた時\n\n私の顔に喜んでいる、一緒に：「祝福あれ\n心の清い者に（Beati mundo corde）！」──声があった；それから「聖なるかな、聖なるかな、聖なるかな（Sanctus, sanctus, sanctus）」\nそれ以上はなく。\n\n鋭い光に目が覚めるように\n眠りを打ち勝つ生命の精気によって、\n眠りが打ち勝たれた時：そのように真っ直ぐに静止する\n\n目は生き返り明るくなり、\nただ逃げる光が彼女（目）を呼び覚ます；\nそのように私たちの道が見えた\n\n苦い炎を通り抜けなければならないと；\n私は両側から火を恐れた、\n狭い道を行く人のように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.22–42",
+      "speaker": "Virgilio",
+      "original": "Lo buon maestro a me: «Figliuol mio,\nqui può esser tormento, ma non morte.\nRicordati, ricordati! E se io\n\nsovra Gerïón ti guidai salvo,\nche farò ora presso a Dio?\nCredi per certo che se dentro a l'alvo\n\ndi questa fiamma stessi ben mille anni,\nnon ti potrebbe far d'un capel calvo.\nE se tu forse credi ch'io t'inganni,\n\nfatti ver' lei, e fatti far credenza\ncon le tue mani al lembo d'i tuoi panni.\nPon omai giù, pon giù ogne temenza;\n\nvolgiti in qua e vieni: entra sicuro!»\nE io pur fermo e contra coscïenza.\n\nQuand'ei mi vide star pur fermo e duro,\nturbato un poco disse: «Or vedi, figlio:\ntra Bëatrice e te è questo muro».",
+      "provisionalTranslation": "善き師が私に：「私の息子よ、\nここには苦しみはあっても、死はない。\n思い出せ、思い出せ！そしてもし私が\n\nゲリオン（地獄第8圏）の上をあなたを無事に導いたなら、\n今、神に近い所で何をしようか？\n確かに信じてくれ、もしこの炎の胎内に\n\n千年いたとしても、\nあなたの髪の毛一本も禿げさせることはできない。\nそしてもしあなたが私が欺いていると思うなら、\n\n彼女（炎）の方に行き、信念を作れ\nあなたの衣の裾であなたの手で。\n今すぐ全ての恐れを置け、置け；\n\nこちらを向いて来い：安心して入れ！」\nそして私はまだ固まって良心に反して（動けなかった）。\n\n彼が私がまだ固まって頑固であるのを見ると、\n少し乱れて言った：「今見ろ、息子よ：\nベアトリーチェとあなたの間にこの壁がある。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.43–60",
+      "speaker": "Dante-narratore",
+      "original": "Come al nome di Tisbe aperse il ciglio\nPiramo in su la morte, e riguardolla,\nallor che 'l gelso diventò vermiglio;\n\ncosì, la mia durezza fatta solla,\nmi volsi al savio duca, udendo il nome\nche ne la mente sempre mi rampolla.\n\nOnd'ei crollò la testa e disse: «Come!\nvogliam di qua star?» poi sorrise\ncome al fanciul si fa ch'è vinto al pome.\n\nEnde s'messe el primo ne la fiamma,\npregando Stazio che venisse retro,\nche lungamente innanzi li si misse.\n\nCom'io fui dentro, in un bogliente vetro\ngittato mi sarei per rinfrescarmi,\ntant'era ivi lo 'ncendio sanza metro.\n\nLo dolce padre mio, per confortarmi,\npur di Beatrice ragionando andava,\ndicendo: «Li occhi suoi già veder parmi».",
+      "provisionalTranslation": "ティスベの名前で目を開いたピラームスのように\n死に際して、そして彼女を見た、\n桑の木が真紅になった時に；\n\nそのように、私の頑固さが柔らかくなり、\n賢い師の方を向いた、その名前を聞いて\nそれは常に私の心の中で湧き出る。\n\nそこで彼は頭を振って言った：「何だと！\nここに留まりたいのか？」それから微笑んだ\nりんごで（誘われて）打ち勝たれる子供にするように。\n\nそれから彼は炎の中に最初に入った、\nステアティウスに後ろから来るよう頼んで、\n彼は長い間前方に進んでいた。\n\n私が内側に入ると、沸騰したガラスに\n投げ込まれても涼もうとしたほど、\nそこの炎は際限がなかった。\n\n私の甘い父は、私を慰めるために、\nベアトリーチェについてだけ話しながら進んだ、\n言いながら：「彼女の目をもう見えそうな気がする。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.61–84",
+      "speaker": "Dante-narratore",
+      "original": "Una voce che cantava da l'altro lato\nci guidò fuori; e noi, attenti pur\na lei, venimmo fuor là dove si montava.\n\n«Venite, benedicti Patris mei»,\nsonava dentro a un lume che lì era,\ntal che mi vinse, e guardar nol potei.\n\n«Lo sol sen va»,soggiunse, «e vien la sera;\nnon v'arrestate, ma studiate il passo,\nmentre che l'occidente non si annera».\n\nDritta salia la via per entro il sasso\nver' tal part'ov'io toglieva i raggi\ndinanzi a me del sol ch'era già basso.\n\nE di pochi scalini aveva assaggi\nnoi, quando — per lo cader de l'ombra —\npoi che 'l sol cadde, io e miei saggi\n\nciascuno in dietro ad un gran sasso\nsi pose; e io più che gli altri attesi,\nvedendo intorno a me gran varco.\n\nRuminando sedeva in quella parte\ndov'io era, pensiero in cor mi venne;\ne del mio duca il pensier m'era molto\nnell'amor bono che i' ò sentito.",
+      "provisionalTranslation": "向こう側から歌っていた声が\n私たちを外へ導いた；そして私たちは、ただそれに注意を向けて、\n上れる場所を出た。\n\n「来い、私の父の祝福を受けた者よ（Venite, benedicti Patris mei）」\n内側で響いていた、そこにあった一つの光の中から、\n私を打ち負かして、見ることができなかった。\n\n「太陽が去る」と付け加えた、「夕暮れが来る；\n立ち止まるな、しかし歩みを急げ、\n西が暗くならないうちに。」\n\n道は岩の中を真っ直ぐに上っていた\n私が既に低い太陽の光線を\n前方に受け取っている部分に向かって。\n\n私たちが何段かを試していた時──影が落ちて──\n太陽が沈んだ後、私と私の賢者たちが\n\n各々が後ろに大きな岩の所に\n身を置いた；そして私は他の者より先に注意を向けた、\n周りに大きな通路を見ながら。\n\nそこにいる部分で物思いに沈んで座り、\n心に考えが来た；\nそして私の師への考えが私にはとても（大切だった）\n私が感じた良き愛の中で。"
+    },
+    {
+      "id": 5,
+      "verses": "v.85–108",
+      "speaker": "Virgilio",
+      "original": "Quale si fe' Piramo a la vista\ndi Tisbe, nel punto che 'l moro\ndi rosseggio in biancore si cangia;\n\ntal mi fee'io, che 'l duol pur mi consume.\nMi volsi con vergogna a la sinistra,\ne sì gran voglia l'occhio mi consuma,\n\nTosto che nacque nel viso dell'aurora,\nche i pellegrini di levante fan\nbello al ritorno il tramontare;\n\nquel sogno mi fuggì. Dirupate e alte\nveggendo questa parte, io già sen andai\nper la via che più cresce in altezza.\n\nTempre' mi al lume del mio maestro,\ne: «Veduto hai», mi dis'elli, «il temporal foco\ne l'etterno veduto hai tu, figliuol mio.\n\nSei venuto in parte ove io per me stesso\nnon discerno più oltre. Io t'ho qui\ncondotto per ingegno e per arte;\n\nlo tuo piacere omai prendi per duce;\nfuor se' de l'erte vie, fuor se' de l'arte.\nVedi lo sol che in fronte ti riluce;\nvedi l'erbette, i fiori e li arbuscelli\nche qui la terra sol da sé produce.\n\nMentre che vegnan lieti li occhi belli\nche, lagrimando, a te venir mi fenno,\nseder ti puoi e puoi andar tra elli.\n\nNon aspettar mio dir più né mio cenno:\nlibero, dritto e sano è tuo arbitrio,\ne fallo fora non fare a suo senno:\nper ch'io te sovra te corono e mitrio».",
+      "provisionalTranslation": "ティスベを見たピラームスがどのようになったかのように\n桑の実が\n赤さから白さに変わる瞬間に；\n\nそのように私はなった、苦しみが私を消費するばかり。\n私は恥と共に左に向いた、\nそして目が大きな欲望で消耗した。\n\n夜明けの顔に生まれるとすぐに、\n東からの巡礼者が\n帰途に日没を美しくする──\n\nその夢が私から逃げた。険しく高い\nこの部分を見て、私はもう行った\n高さが増す道を。\n\n私は師の光に調子を合わせた、\nそして彼は私に言った：「あなたは時の炎を見た\n永遠の炎もあなたは見た、私の息子よ。\n\nあなたは来た場所に、私は自分自身では\nそれ以上先を見分けられない。私はあなたをここに\n才知と技で導いた；\n\nあなたの喜びを今から案内者とせよ；\n険しい道を出た、狭い道を出た。\n前方に輝く太陽を見ろ；\n草の葉、花、小低木を見ろ\nここで大地がひとりでに生み出すものを。\n\n美しい目が喜んで来るまで\nそれらが、泣きながら、あなたのもとに来るように私を作った目が、\nあなたはそれらの間に座り歩くことができる。\n\n私の言葉ももう合図も待つな：\nお前の意志は自由で健全で正しい（libero, dritto e sano è tuo arbitrio）、\nその命令に従わないことは誤りだろう：\nだから私はあなたをあなた自身の上に王冠と帽子を戴かせる。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.109–142",
+      "speaker": "Dante-narratore",
+      "original": "Quando la gente già si disparia\nda noi, Virgilio incominciò: «Il sol\ndà te i raggi; e il giorno sen va, a cima\n\nd'una gran rupe a me; e come ha fatto spesso,\nsoffersi i passi stucchi; poi sentii\nposar la mente e confortarsi il petto.\n\nE come i pellegrini che a la fiera\nvengono quivi e poi tornano via\nrivolti alla lor patria, e via si riedono,\n\ncosì non guai giva; il dolce guida\nmi disse: «Io veggio le stelle già in giro.\nGuarda se alcuna n'apparisce tra 'l fumo».\n\nNoi ci volgemmo a lui, ed el rivolse\na noi le facce; e come, nel salire,\nle pene ti diranno il cammino, e i' vedo\n\nche l'andare è non potere, e io\nsento l'Allegria; per che a lui mi addussi.\nDiss'egli a me: «Guarda i fioretti, i erba,\n\ne li arbori, e le fonti, e i ruscelletti\nch'entra in coteste valli; tu vedrai\ncome amor nasce in ogni parte, ed io.\n\nOr va, ma va pensando: ei non ti falla».\nPoi rimase'l mio maestro; e io\nnon lo vidi più, e via mi andai.",
+      "provisionalTranslation": "人々が既に私たちから散っていた時、\nウェルギリウスは始めた：「太陽が\nあなたに光線を与えている；そして日が去る、頂上へ\n\n大きな岩の私のところへ；そして頻繁にしてきたように、\n私は疲れた歩みを止めた；それから感じた\n心が休まり胸が慰められるのを。\n\nそして巡礼者たちのように 祭りへ\nそこに来てそれからまた去る\n自分たちの祖国に向かって戻り、道を帰るように、\n\nそのように嘆かずに行った；甘い案内者が\n私に言った：「もう星が回っているのが見える。\n見ろ、どれかが煙の間に現れるか。」\n\n私たちは彼の方に向いた、彼は\n私たちに向かって顔を向けた；そして登りながら、\n苦しみがあなたに道を告げ、私には見える\n\n行くことは不可能であり、そして私は\n喜びを感じる；そこで私は彼に近づいた。\n彼は私に言った：「小花を見ろ、草を見ろ、\n\n木々、泉、小川を見ろ\nそれらの谷に入る；あなたはわかるだろう\n愛がどこにでも生まれるのを、そして私も。\n\n今行け、しかし考えながら行け：それはあなたを失わせない。」\nそれから私の師は残った；そして私は\n彼をもう見なかった、そして道を行った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "«Beati\nmundo corde!»",
+      "body": "「祝福あれ、心の清い者に（Beati mundo corde）」──マタイ5:8の「至福の訓え（Beatitudines）」。煉獄の各圏の通過はそれぞれの至福の訓えと対応しており、第7圏（色情）の通過は「心の清い者は神を見るだろう」に対応する。天使の声と「聖なるかな（Sanctus）」の引用──炎の壁の前での聖性の告知は、その炎が罪の浄化ではなく聖化の過程であることを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "«Or vedi, figlio:\ntra Bëatrice e te è questo muro».",
+      "body": "「今見ろ、息子よ：ベアトリーチェとあなたの間にこの壁がある（Or vedi, figlio: / tra Bëatrice e te è questo muro）」──ウェルギリウスが「ベアトリーチェ」の名を使ってダンテを説得する。煉獄篇でウェルギリウスがベアトリーチェの名を使って説得するのはこれが最初。Canto I ではベアトリーチェをカトーへの説得に使ったが、ここでは初めてダンテ自身への説得に使う──ウェルギリウスの「理性による案内」の限界を示す逆説：理性だけでは炎を通過できない、愛（ベアトリーチェへの思慕）が必要だから。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "Come al nome di Tisbe aperse il ciglio\nPiramo in su la morte",
+      "body": "ピラームス（Pyramus）とティスベ（Thisbe）──オウィディウス『変身譚』IV（49–166）の物語。ビュブローン（バビロン）の恋人たちで、ライオンに驚いて逃げたティスベが残したヴェールを血で汚したピラームスが彼女が死んだと思い自害、ティスベも後を追って死ぬ──その血が桑の実を白から赤に染めた。ダンテが炎の前で「ベアトリーチェ」の名で目を開けるという場面に、死に際してティスベの名で目を開けたピラームスを重ねる──愛する者の名前が生死の閾で機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "libero, dritto e sano è tuo arbitrio,\ne fallo fora non fare a suo senno:\nper ch'io te sovra te corono e mitrio",
+      "body": "「お前の意志は自由で健全で正しい（libero, dritto e sano è tuo arbitrio）、その命令に従わないことは誤りだろう：だから私はあなたをあなた自身の上に王冠と帽子を戴かせる（per ch'io te sovra te corono e mitrio）」──神曲全体でウェルギリウスが語る最後の重要な言葉。「王冠（corono）と司教の帽子（mitrio）」──世俗権力と教会権力の両方をダンテに与えると宣言。これは「人間の理性が完全に整えられた魂は自律的である」という主張──ウェルギリウスの役割（理性・詩による案内）の完成と終焉の宣言。Canto XXVIII 以後はベアトリーチェが引き継ぐ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Sei venuto in parte ove io per me stesso\nnon discerno più oltre",
+      "body": "「あなたは来た場所に、私は自分自身ではそれ以上先を見分けられない（Sei venuto in parte ove io per me stesso / non discerno più oltre）」──ウェルギリウスの限界宣言。これはInferno Canto I のウェルギリウスの自己紹介──「私は天国を見られない（lo ciel non vidi）」──の成就。理性は地獄を通過させ、煉獄を上り切らせることができる。しかし神学的真理（ベアトリーチェが体現する）には至れない。Canto XXX でウェルギリウスが消滅する理由の哲学的根拠。",
+      "targetId": "dante_purgatorio_canto_30",
+      "targetParagraphId": 3
+    }
+  ]
+}
