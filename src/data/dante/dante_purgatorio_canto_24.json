@@ -1,0 +1,110 @@
+{
+  "id": "dante_purgatorio_canto_24",
+  "title": "Purgatorio — Canto XXIV",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XXIV",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第24歌は第6の圏「色食（gola）」——大食・暴飲の場面。しかしその詩学的中心は「dolce stil novo（甘い新体）」宣言にある。ダンテの友人フォレーゼ・ドナーティ（1296年死）との再会の続き（Canto XXIII開始）と、詩人ボナジュンタ・ダ・ルッカ（1296年頃死）との問答が核心。\n\nボナジュンタはダンテより前の世代の詩人で、「シチリア派」から発展した伝統的な宮廷詩の代表者。彼はダンテの詩、特に「Donne ch'avete intelletto d'amore（愛を知性でお持ちの女性たちよ）」（『新生』第19章）を指して「あなたがあの新しい詩を書いた人か」と問う。ダンテの答え——「Io mi son un che, quando / Amor mi spira, noto（愛が吹き込む時、私はそれを記す）」——は、dolce stil novoの詩学的定義として後世に語り継がれる。\n\n「愛が吹き込む」という受動的・受容的な詩の生成論は、詩人を「能動的な技術者」から「愛の書記官」として再定義する。これはボナジュンタ世代の「技法（leggatura）」優先の詩学との決定的な断絶であり、Canto XI（名声の無常）・Canto XXVI（グイニゼッリ・アルノー）と合わせて煉獄篇の詩学三部作を形成する。",
+  "keywords": [
+    "dolce stil novo", "ボナジュンタ", "フォレーゼ", "Amor che spira",
+    "詩の生成論", "大食", "Donne ch'avete", "新生", "色食の圏"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_11",
+    "dante_purgatorio_canto_26",
+    "dante_purgatorio_canto_2"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–18",
+      "speaker": "Dante-narratore",
+      "original": "Né 'l parlare era tanto né 'l andare\nlento, che non venissero a le mani\ndi subito altri; e a me era un guardare\n\nda uno a l'altro: un accorrere e 'l fermarsi,\ne 'n sé medesmo vòlger collo e fronte:\nonde talvolta io prendea da lui\n\nella Forese: «Picarda come stai?»\ndiss'io, «e quella gente ch'è con toi?»\nEd elli a me: «Qualcuna già ne sai».\n\nE dissi: «Dimmi ove è, s'a te non è noia,\nGentucca da Montecar che ti fe' sì nota\ntra le buone, e ancor di lei non vede».\n\nForese: «Non son li nostri passi, ché con meco\nviene più tardi; sì com'uom ritroso\nla mie anima è». Ed io: «Qual si ritarda?»",
+      "provisionalTranslation": "話すことも歩くことも\n遅くはなかった、他の者たちがすぐに\n手が届くところに来るほど；そして私にはある見方があった\n\n一人から別の人へと：急いで来て立ち止まり、\n自分の首と顔を回転させる；\nそのため時々私は彼（フォレーゼ）から取った\n\n「フォレーゼよ、ピッカルダはどうしているか？」\n私は言った、「そしてあなたと一緒にいるあの人々は？」\n彼は私に言った：「いくらかは既にあなたは知っている。」\n\n私は言った：「教えてくれ、あなたに迷惑でなければ、\nモンテカルのジェンティッカは どこにいるのか、\n良い人たちの間で私にあなたをとても知らせた者、まだ彼女を見ていない。」\n\nフォレーゼ：「私たちの歩みではない、なぜなら私と共により遅れて来る；\n臆病な人間のように\n私の魂はそうだ。」私は言った：「誰が遅れているのか？」"
+    },
+    {
+      "id": 2,
+      "verses": "v.19–45",
+      "speaker": "Forese",
+      "original": "«Venir vedrai»—così mi disse—«assai\nanche 'nnanzi a noi, quella che già fue\nl'onor di Cicilia e di Napoli;\n\nche per lo mal del mondo e de' suoi\ndormi', e non potei per lei dormire.\nSì come a l'auro argento è inferior,\n\ncosì come 'l secondo Carlo inferio\nfu sempre al primo in pregio e in virtute.\nQuesto non è da te ancora udito.\n\nE tal ne porta con sé la scrittura\ndi Martino quarto—s'i' potrei veder—\nch'ebbe la Santa Chiesia in sua balia.\n\nOr parlerò d'un altro; vedi 'l grande\nche per li denti con la lingua fa\ndi Messer Marchese; a Forlì beveva\n\ncon men sete, e sì fu tal, che non si sazia.\nMa chi è quel che tanto ci è distante?»\nEd io a lui: «Se tu ricordi bene,\n\nfu 'l da Camino di Trevigi, e 'l Visconti\ndi Milano».",
+      "provisionalTranslation": "「来るのを見るだろう」——彼は私に言った——「かなり\nまだ私たちより前に、かつて\nシチリアとナポリの誉れであった者が；\n\n世の悪とその者たちの悪のために\n眠った、そして私は彼女のために眠れなかった。\n銀が金より劣るように、\n\nそのように第二のカルロが\n価値と美徳において常に最初のカルロより劣っていた。\nこれはまだあなたには聞かれていない。\n\nそしてそのようなものを写しとどめる\nマルティーノ第四世の——もし見られるなら——\n聖なる教会を彼の管理下に置いていた者の。\n\n今は別の者について話そう；あの大きな者を見ろ\n歯で舌を使って\nマルケーゼ殿のために；フォルリで飲んでいた\n\n少ない渇きで、それでもそうだったのに、満足しない。\nしかしあれほど私たちから遠い者は誰か？」\n私は彼に言った：「もし良く覚えているなら、\n\nそれはトレヴィジのダ・カミーノとミラノのヴィスコンティ\nだった。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.46–63",
+      "speaker": "Bonagiunta",
+      "original": "Così givan per quella strada i miei,\nch'era esemplar d'ogne alta laude;\ne come il gallo, poi che 'l giorno appar,\n\nnon serba ad aspettar; ma come vuol\nporgi la palma a chi si mostra anelo,\ne come in abbracciarsi, o in salutare,\n\nuna delle ombre, quasi s'inclinaro\na me, e'io a lei; «O Toschano\nche per la città del foco vivo\n\nvivi e, così parlando, vai onesto,\npiacciati d'arrestare il tuo passo.\nParla a me la tua lingua, e dimmi\n\ns'io son colui c'ha, verseggiando, tratto\nle nuove rime, cominciando «Donne\nch'avete intelletto d'amore».\n\nE io a lui: «Io mi son un che, quando\nAmor mi spira, noto, e a quel modo\nch'e' ditta dentro vo significando».",
+      "provisionalTranslation": "このようにして私の仲間たちは道を進んでいた、\nそれはあらゆる高い称賛の模範だった；\nそして雄鶏のように、日が現れると、\n\n待って保っておかない；しかし望むように\n熱心な者に手のひらを差し伸べ、\nそして抱き合う時のように、挨拶する時のように、\n\n影の一人が、ほとんど私に傾いて、\n私に；「ああ、生きた火の都（フィレンツェ）を通って\n生きてそのように話しながら、名誉ある者よ\n\nあなたの歩みを止めることをよしとしてください。\nあなたの言葉を私に話し、教えてください\n\nあなたがあの者かどうか、詩を書いて、引き出した\n新しい詩を、始めで「Donne\nch'avete intelletto d'amore（愛を知性でお持ちの女性たちよ）」。\n\n私は彼に言った：「私は一人の者だ、愛が\n吹き込む時、記す、そしてあの方法で\n彼が内側で口述するのを私は表現しに行く。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.64–90",
+      "speaker": "Dante",
+      "original": "«O frate, issa vegg'io» diss'elli, «il nodo\nche 'l Notaro e Guittone e me ritenne\ndi qua dal dolce stil novo ch'i' odo!\n\nIo veggio ben come le vostre penne\ndi retro al dittator sen vanno strette,\nche de le nostre certo non avvenne;\n\ne qual più a gradire oltre si mette,\nnon vede più da l'uno a l'altro stilo»:\ne, quasi contentato, si tacette.\n\nCome li augei che vernan lungo 'l Nilo,\nalcuna volta in aere fanno schiera,\npoi volan più a fretta e vanno in filo,\n\ncosì tutta la gente che lì era,\nvolgendo 'l viso, raffrettò suo passo,\ne per magrezza e per disio leggera.\n\nE come l'uom che di trottare è lasso,\nlascia andar li compagni, e sì passeggia\ncon l'andar de la gente ch'è rimasa,\n\ncosì Forese lasciò che la mia via\nrimanesse con lui, e disse: «Quando\nfia ch'io ti riveggia?»",
+      "provisionalTranslation": "「兄弟よ、今私には見える」と彼は言った、「結び目が\n公証人（ヤコポーネ・ダ・レンティーニ）とグィットーネと私を引き留めていた\nここ（旧様式）に、私が聞くあの甘い新体（dolce stil novo）の手前で！\n\n私には良く分かる、あなた方の羽根がどのように\n口述する者（愛）の後ろへぴったりついて行くかが、\nそれは確かに私たちのものでは起きなかった；\n\nそしてそれ以上好みに進もうとする者は、\n一方の様式から他方の様式へのそれ以上のものは見ない」：\nそして、ほぼ満足して、彼は黙った。\n\n毎年ナイル川沿いで冬を越す鳥たちのように、\n時として空中で群れを作り、\nそれからより素早く飛んで一列になるように、\n\nそのようにそこにいた人々全員が、\n顔を向けて、歩みを速め、\n痩せ細りと欲望で軽くなって。\n\nそして駆け足で疲れた人のように、\n仲間たちを行かせて、残った人々の\n歩みで歩くように、\n\nそのようにフォレーゼが私の道を\n彼と共に残してくれた、そして言った：「いつ\n私はあなたを再び見ることになるか？」"
+    },
+    {
+      "id": 5,
+      "verses": "v.91–117",
+      "speaker": "Forese",
+      "original": "«Non so quando»,\nrisp'io lui, «quant'io vivo; ma già non fìa\nil torno mio cotanto tosto, ch'io\n\nnon sia col voler prima a la riva:\nché 'l loco u' fui a viver posto,\ndi giorno in giorno più di ben si sriva».\n\n«Ed io ti priego», disse, «che mi dichi\nove è Piccarda. Dì se vedi alcuna\ndi lor che son notabili e degni».\n\nEd elli a me: «Mia suora, che tra bella\ne buona non so ben qual fosse più,\ntrionfa già di là nella sua corona».\n\n«Ma dimmi»—disse allor—«riguarda bene\nse vedi ancor un di lor che si fece,\nnel mondo diserto, alquanto pene.\n\nQuella è Nella, che con le lagrime\nsi purga la vedovanza sfacciata\ndel talamo, onde prima s'aperse.\n\nTanta estimazion mi dà quel loco,\ndove abbonda e grava il peccato:\ne non è grazia piccol quella che sento».",
+      "provisionalTranslation": "「知らない」、\n私は彼に答えた、「どれほど私が生きるか；しかしもはや\n私の帰りはこれほど早くはないだろう、\n\nそれ以前に望みで岸辺にいなければ：\nなぜなら私が住むために置かれた場所は、\n日を追って善からより多く剥ぎ取られているから。」\n\n「そして私はあなたに頼む」と彼は言った、「教えてくれ\nピッカルダはどこにいるか。見えるか\n彼ら（この圏にいる者たち）の中で注目に値する者を。」\n\n彼は私に答えた：「私の妹は、美しさと\n善良さのどちらがより多かったか私にはよく分からないが、\n既に向こう（天）でその冠の中で凱旋している。」\n\n「しかし教えてくれ」と彼は言った——「よく見ろ\nまだ見えるか彼らの中に一人を、\n荒れた世界で、ある苦しみをした者を。\n\nあれはネッラだ、涙で\n恥知らずな後家の振る舞いを清めている\n婚姻床から離れて、最初に開いたところで。\n\nそれほどの評価を私にその場所は与える、\nそこには罪が豊かに重くある：\nそして私が感じるものはわずかな恵みではない。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.118–154",
+      "speaker": "Dante-narratore",
+      "original": "Quali i fioretti dal notturno gelo\nchinati e chiusi, poi che 'l sol li 'mbianca\nsi drizzan tutti aperti in loro stelo,\n\ntal mi fec'io di mia vertude stanca;\ne tanto buono ardire al cor mi corse,\nch'i' cominciai come persona franca:\n\nOde' che 'l duca mio ricominciò: «Vedi\nil tornar là sù». E io a lui:\n«Questi è che m'è venuto si a spesso».\n\nE il duca: «Sì, ma guarda che i piedi\ntender di qua: lascia pur lui andar».\nCosì venimmo là 've s'incominciò\n\nquell'alta ripa che già cadde irata;\ned ivi trovammo la scala vôta.\nSalìvi suso; e il primo grado, bianco\n\nmarmor era sì pulito e terso,\nch'io mi specchiai in esso qual io parvo.\nEra il secondo tinto più che perso,\n\nd'una petrina ruvida e arsiccia,\ncrepata per lo lungo e per traverso.\nLo terzo, che di sopra s'ammasticcia,\n\nporfiro mi parea, sì fiammeggiante\ncome sangue che fuor di vena spiccia.\nSovra questo tenea ambo le piante\n\nl'angel di Dio, sedendo in su la soglia,\nche mi sembiava pietra di diamante.\nPer li tre scaglion sù di buona voglia\n\nmi trasse il duca mio, dicendo: «Chiedi\numilemente che 'l serrame scioglia».\nDevoto mi gittai a' santi piedi;\n\nmisericordia chiesi che s'aprisse,\nma pria nel petto tre volte mi diedi.",
+      "provisionalTranslation": "夜の霜で\n傾いて閉じた小花たちのように、それから太陽がそれらを白くすると\n全て茎の上で直立して開くように、\n\nそのようにした私は、疲れた自分の力で；\nそして非常に良い勇気が心を貫いた、\n自由な人のように始めた：\n\n師が再び言うのが聞こえた：「上へ戻るのを見ろ。」そして私は彼に：\n「これは私のところに非常に頻繁に来ていた（者）。」\n\n師：「そう、しかし見よ、足を\nここに向けろ：彼を行かせておけ。」\nこのようにして私たちは来た、そこから始まった場所へ\n\nあの高い堤（Canto X）が已に落ちて怒った；\nそこで私たちは空の階段を見つけた。\nその上に登った；そして最初の段は白い\n\n大理石があまりにも磨かれて光沢があり、\n私は自分の姿を映した、どのように見えるか。\n第二の段は黒より深い色で、\n\nザラザラで焦げた石で、\n縦横に亀裂が入っていた。\n第三のものは上に積み重なり、\n\n私にはポルフィリー（斑岩）に見えた、血管から飛び出す血のように\n炎を上げながら。\nこの上に両足を\n\n神の天使が保っていた、敷居の上に座って、\n私にはダイヤモンドの石に見えた。\n三段を意欲を持って\n\n師は私を引っ張った、言いながら：「謙虚に頼め\n錠前を開いてくれるように。」\n私は敬虔に聖い足に投げた；\n\n慈悲を求めて開いてほしいと、\nしかし先に胸を三度打った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "s'io son colui c'ha, verseggiando, tratto\nle nuove rime, cominciando «Donne\nch'avete intelletto d'amore»",
+      "body": "「Donne ch'avete intelletto d'amore（愛を知性でお持ちの女性たちよ）」——ダンテ『新生』第19章の最も重要なカンツォーネの冒頭。ダンテは25〜26歳頃（1293年頃）にこれを書き、後に『新生』に収録した。ボナジュンタはこの詩が「新しい様式（nuove rime）」の始まりを画したと認める——これはダンテの自己評価でもあり、「自分の最初の重要な詩」としての位置づけ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "«Io mi son un che, quando\nAmor mi spira, noto, e a quel modo\nch'e' ditta dentro vo significando»",
+      "body": "「私は一人の者だ、愛が吹き込む時、記す、そしてあの方法で彼が内側で口述するのを私は表現しに行く（Io mi son un che, quando / Amor mi spira, noto, e a quel modo / ch'e' ditta dentro vo significando）」——神曲全体で最も凝縮された詩学宣言の一つ。三つの動詞に注目：spira（吹き込む）・noto（記す）・vo significando（表現しに行く）。詩人は「発明する人」ではなく「受け取って記す人」——愛（Amor）が内側で吹き込み口述する内容を、詩人は正確に外側に表現するだけ。この受動的・受容的な詩論は、後のロマン主義的「天才」概念とも近代的「自己表現」とも根本的に異なる中世的詩学。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "«O frate, issa vegg'io» diss'elli, «il nodo\nche 'l Notaro e Guittone e me ritenne\ndi qua dal dolce stil novo ch'i' odo!",
+      "body": "「公証人（ノタロ）とグィットーネと私を引き留めていた結び目（il nodo / che 'l Notaro e Guittone e me ritenne）」——ボナジュンタが旧様式の詩人として三人を挙げる。「公証人（Notaro）」はヤコポーネ・ダ・レンティーニ（Jacopo da Lentini、1210頃〜1260頃）、シチリア派を代表する詩人でソネット形式の発明者とされる。グィットーネ・ダレッツォ（1230頃〜1294）はトスカーナの詩人で宗教詩・道徳詩の代表者。ボナジュンタ自身（1220頃〜1296頃）はルッカの詩人。「結び目（nodo）」は技法・慣習への縛り——dolce stil novoへの「愛の直接的受容」との対比として「技法・形式・慣習の縛り」。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Io veggio ben come le vostre penne\ndi retro al dittator sen vanno strette",
+      "body": "「私には良く分かる、あなた方の羽根がどのように口述する者（愛）の後ろへぴったりついて行くかが（Io veggio ben come le vostre penne / di retro al dittator sen vanno strette）」——ボナジュンタによるdolce stil novoの理解の言葉。「羽根（penne）」は詩の羽根ペン（羽根と筆の二重性）。「口述する者（dittator）」はAmor（愛）——愛が口述し詩人がついていく。Canto IIのカゼッラの歌（愛の甘さへの陶酔）・Canto XIのオデリージ（名声への追求）との対比：愛を追うのではなく愛に従うのが本来の詩法。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Mia suora, che tra bella\ne buona non so ben qual fosse più,\ntrionfa già di là nella sua corona",
+      "body": "「私の妹は、美しさと善良さのどちらがより多かったか私にはよく分からないが（Mia suora, che tra bella / e buona non so ben qual fosse più）」——フォレーゼの妹ピッカルダ・ドナーティはParadiso Canto IIIに登場する。修道生活を誓ったが世俗に引き戻された霊として月の天に住む。「凱旋している（trionfa）」——煉獄（色食の圏）にいるフォレーゼと天国にいるピッカルダという姉弟の対比。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Quali i fioretti dal notturno gelo\nchinati e chiusi, poi che 'l sol li 'mbianca\nsi drizzan tutti aperti in loro stelo",
+      "body": "「夜の霜で傾いて閉じた小花たちのように、それから太陽がそれらを白くすると全て茎の上で直立して開くように（Quali i fioretti dal notturno gelo / chinati e chiusi, poi che 'l sol li 'mbianca / si drizzan tutti aperti in loro stelo）」——煉獄篇の典型的な「自然の直喩」。霜で閉じた花が日差しで開く——魂が啓示によって開かれる過程の比喩。地獄篇では自然の直喩が恐怖・苦痛に結びついたが、煉獄篇では開花・光・成長というポジティブな自然描写が支配的。"
+    }
+  ]
+}
