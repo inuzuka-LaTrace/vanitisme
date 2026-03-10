@@ -1,0 +1,153 @@
+{
+  "id": "dannunzio_pioggia_nel_pineto",
+  "title": "La pioggia nel pineto",
+  "author": "Gabriele d'Annunzio",
+  "source": "Alcyone, Laudi del cielo del mare della terra e degli eroi, libro terzo. Milano: Fratelli Treves Editori, 1904 (初版). 底本: Treves版 1908（Internet Archive所収）; D'Annunzio, G., Versi d'amore e di gloria, a cura di A. Andreoli e N. Lorenzini, Mondadori (I Meridiani), 1982–1984, vol. II. PDF底本: Alcyone / La pioggia nel pineto, Wikisource (Treves, 1908).",
+  "year": "1902–1903頃（Alcyone 執筆期）",
+  "firstPublication": "Laudi del cielo del mare della terra e degli eroi, libro terzo: Alcyone, Treves, Milano, 1904.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "「松林の雨（La pioggia nel pineto）」は Alcyone（1904）の中核をなす作品であり、イタリア語詩における「パニスモ（panismo）」の最も完成した詩的表現として広く認められる。「パニスモ」とはダヌンツィオ独自の概念──牧神パン（Pan）に由来し、人間が感覚を通じて自然と完全に融合し、植物化・自然化してゆく体験を指す。この詩ではそれが松林の中で降り始めた雨を通じて段階的に実現される。\n\n詩は4つの等長詩節（各32行）から成る。Strofa I では「piove（雨が降る）」が8回反復され、植物から人間の体へと雨が降り注ぐ対象が移行する。Strofa II では樹木が「楽器（stromenti）」として異なる音を奏でるという音楽的宇宙観が展開され、「私たちは樹木の命を生きながら自然の霊に沈み込んでいる（d'arborea vita viventi）」というパニスモの宣言が置かれる。Strofa III では蝉の声が「段階的に消えてゆく一音」として詩行に演じられ、最後に蛙だけが残る。Strofa IV で人間の体の器官が植物・自然の素材に次々と喩えられ（心臓＝桃、目＝草間の泉、歯＝青い扁桃）、融合が完成する。\n\n最大の詩的仕掛けは末尾のリフレインの「主語交替」。Strofa I 末では「t'illuse, che oggi m'illude（昨日はあなたを騙した、今日は私を騙す）」だったが、Strofa IV 末では「m'illuse, che oggi t'illude（昨日は私を騙した、今日はあなたを騙す）」に入れ替わる。語り手「私」と「エルミオーネ（あなた）」の位置が逆転する──パニスモの完成、自己と他者の境界の溶解が、主語の交替という文法的操作として刻印される。\n\n呼びかけられる「エルミオーネ（Ermione）」はギリシャ神話のヘルミオネー（ヘレナとメネラオスの娘）の名を持つが、実際にはダヌンツィオの長年の恋人エレオノーラ・ドゥーゼ（1858–1924）を指すと広く解される。",
+  "keywords": [
+    "パニスモ", "panismo", "自然との融合", "松林", "雨", "Ermione",
+    "エレオノーラ・ドゥーゼ", "樹木の楽器", "蝉", "主語交替", "リフレイン",
+    "Alcyone", "感覚の詩学", "植物化", "自由詩"
+  ],
+  "relatedTexts": [
+    "dannunzio_alba_separa",
+    "dannunzio_canti_morte_gloria",
+    "verlaine_art_poetique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–19",
+      "speaker": null,
+      "original": "Taci. Su le soglie\ndel bosco non odo\nparole che dici\numane; ma odo\nparole più nuove\nche parlano gocciole e foglie\nlontane.\nAscolta. Piove\ndalle nuvole sparse.\nPiove su le tamerici\nsalmastre ed arse,\npiove su i pini\nscagliosi ed irti,\npiove su i mirti\ndivini,\nsu le ginestre fulgenti\ndi fiori accolti,\nsu i ginepri folti\ndi coccole aulenti,",
+      "provisionalTranslation": "黙れ。森の\n入り口では\nあなたが言う\n人間の言葉は聞こえない；でも聞こえる\nより新しい言葉が\n遠くで雫と葉が話す言葉が。\n聴け。雨が降る\n散らばった雲から。\n雨が降る 潮っぽく干からびた\nタマリスクに、\n雨が降る 鱗状でとげとげした\n松の木に、\n雨が降る 神聖な\nミルトに、\n花が集まって輝く\nエニシダに、\n芳しい実を稔らせた\n茂ったジュニパーに、"
+    },
+    {
+      "id": 2,
+      "verses": "v.20–32",
+      "speaker": null,
+      "original": "piove su i nostri vólti\nsilvani,\npiove su le nostre mani\nignude,\nsu i nostri vestimenti\nleggieri,\nsu i freschi pensieri\nche l'anima schiude\nnovella,\nsu la favola bella\nche ieri\nt'illuse, che oggi m'illude,\no Ermione.",
+      "provisionalTranslation": "雨が降る 私たちの野生の\n顔に、\n雨が降る 私たちの\n裸の手に、\n私たちの軽い\n衣に、\n新しく目覚めた魂が\n開く みずみずしい思念に、\n昨日はあなたを騙し\n今日は私を騙す\n美しい夢物語（ファーヴォラ）に、\nああ、エルミオーネよ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.33–51",
+      "speaker": null,
+      "original": "Odi? La pioggia cade\nsu la solitaria\nverdura\ncon un crepitìo che dura\ne varia nell'aria\nsecondo le fronde\npiù rade, men rade.\nAscolta. Risponde\nal pianto il canto\ndelle cicale\nche il pianto australe\nnon impaura,\nné il ciel cinerino.\nE il pino\nha un suono, e il mirto\naltro suono, e il ginepro\naltro ancóra, stromenti\ndiversi\nsotto innumerevoli dita.",
+      "provisionalTranslation": "聴こえるか？ 雨は降る\n孤独な\n緑に\nぱちぱちという音と共に、続きながら\n空中で変化する\n葉の密度に従って\nより疎に、より密に。\n聴け。答える\n泣き声（雨音）に歌声（蝉）が\n蝉の歌が──\n南からの泣き声も\n灰色の空も\n蝉を怯えさせない。\n松の木には\n一つの音があり、ミルトには\n別の音があり、ジュニパーには\nさらに別の音がある、異なる楽器たちが\n数え切れない指の下で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.52–64",
+      "speaker": null,
+      "original": "E immersi\nnoi siam nello spirto\nsilvestre,\nd'arborea vita viventi;\ne il tuo vólto ebro\nè molle di pioggia\ncome una foglia,\ne le tue chiome\nauliscono come\nle chiare ginestre,\no creatura terrestre\nche hai nome\nErmione.",
+      "provisionalTranslation": "そして沈み込んで\n私たちは森の霊の中に、\n樹木の命を生きながら；\nあなたの酔った顔は\n雨に濡れて\n一枚の葉のように、\nそしてあなたの髪は\n香る、\n明るいエニシダのように、\nああ、エルミオーネという名を持つ\n地上の被造物よ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.65–88",
+      "speaker": null,
+      "original": "Ascolta, ascolta. L'accordo\ndelle aeree cicale\na poco a poco\npiù sordo\nsi fa sotto il pianto\nche cresce;\nma un canto vi si mesce\npiù roco\nche di laggiù sale,\ndall'umida ombra remota.\nPiù sordo e più fioco\ns'allenta, si spegne.\nSola una nota\nancor trema, si spegne,\nrisorge, trema, si spegne.\nNon s'ode voce del mare.\nOr s'ode su tutta la fronda\ncrosciare\nl'argentea pioggia\nche monda,\nil croscio che varia\nsecondo la fronda\npiù folta, men folta.\nAscolta.",
+      "provisionalTranslation": "聴け、聴け。空高く飛ぶ\n蝉たちの和音が\n少しずつ\nより鈍く\nなってゆく 増す泣き声（雨）の下で；\nしかし一つの歌がそこに混じる\nより嗄れた声が\nあそこ下から上ってくる、\n湿った遠い影から。\nより鈍くより弱く\n緩み、消えてゆく。\n一つの音だけが\nまだ震える、消える、\n甦る、震える、消える。\n海の声は聞こえない。\n今や全ての葉の上で聞こえる\n降り注ぐ音が\n清める銀色の雨、\nその音は変わる\n葉の密度に従って\nより密に、より疎に。\n聴け。"
+    },
+    {
+      "id": 6,
+      "verses": "v.89–96",
+      "speaker": null,
+      "original": "La figlia dell'aria\nè muta; ma la figlia\ndel limo lontana,\nla rana,\ncanta nell'ombra più fonda,\nchi sa dove, chi sa dove!\nE piove su le tue ciglia,\nErmione.",
+      "provisionalTranslation": "空気の娘（蝉）は\n黙っている；しかし泥の娘\n遠くの\n蛙が、\n最も深い影の中で歌っている、\nどこかで、どこかで！\nそして雨が降る あなたの睫毛に、\nエルミオーネよ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.97–115",
+      "speaker": null,
+      "original": "Piove su le tue ciglia nere\nsì che par tu pianga\nma di piacere; non bianca\nma quasi fatta virente,\npar da scorza tu esca.\nE tutta la vita è in noi fresca\naulente,\nil cuor nel petto è come pèsca\nintatta,\ntra le pàlpebre gli occhi\nson come polle tra l'erbe,\ni denti negli alvèoli\nson come mandorle acerbe.\nE andiam di fratta in fratta,\nor congiunti or disciolti\n(e il verde vigor rude\nci allaccia i mallèoli\nc'intrica i ginocchi)\nchi sa dove, chi sa dove!",
+      "provisionalTranslation": "雨が降る あなたの黒い睫毛に\nあなたが泣いているように見えるほどに\nしかし喜びで泣いている；白くなく\nほとんど緑になったように、\nまるで樹皮から出てきたように見える。\nそして私たちの中の全ての命は新鮮で\n芳しい、\n胸の中の心臓は傷のない\n桃のよう、\n瞼の間の目は\n草の間の泉のよう、\n歯槽の中の歯は\n青い扁桃のよう。\n私たちは茂みから茂みへと歩く、\nある時は結ばれある時は離れながら\n（そして粗野な緑の勢いが\n私たちの足首を結び\n私たちの膝に絡まる）\nどこへ、どこへ！"
+    },
+    {
+      "id": 8,
+      "verses": "v.116–128",
+      "speaker": null,
+      "original": "E piove su i nostri vólti\nsilvani,\npiove su le nostre mani\nignude,\nsu i nostri vestimenti\nleggieri,\nsu i freschi pensieri\nche l'anima schiude\nnovella,\nsu la favola bella\nche ieri\nm'illuse, che oggi t'illude,\no Ermione.",
+      "provisionalTranslation": "そして雨が降る 私たちの野生の\n顔に、\n雨が降る 私たちの\n裸の手に、\n私たちの軽い\n衣に、\n新しく目覚めた魂が\n開く みずみずしい思念に、\n昨日は私を騙し\n今日はあなたを騙す\n美しい夢物語に、\nああ、エルミオーネよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Taci. Su le soglie\ndel bosco non odo\nparole che dici\numane; ma odo\nparole più nuove\nche parlano gocciole e foglie",
+      "body": "冒頭の「Taci（黙れ）」──命令形一語。詩の最初の語が「人間の言語を止めよ」という命令。これはダヌンツィオ詩学における「言語の階層」を宣言する──人間の言語（parole umane）より「雫と葉が話す新しい言語（parole più nuove）」の方が上位にある。「新しい（più nuove）」という形容詞が逆説的に機能する──「より新しい」言語は実は人間語より古い自然の言語。Canti della morte e della gloria の「真理（VERITÀ）よ歌え」という命令と構造的に対応するが、そこでの命令対象が擬人化された「真理」であったのに対し、ここでは人間の同伴者──Ermione──に対する命令。この詩における言語は最初から「人間語を超えたもの」として設定される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Piove su le tamerici\nsalmastre ed arse,\npiove su i pini\nscagliosi ed irti,\npiove su i mirti\ndivini,\nsu le ginestre fulgenti\ndi fiori accolti,\nsu i ginepri folti\ndi coccole aulenti,",
+      "body": "「piove（雨が降る）」の反復による「雨の降下」の目録──10行にわたって5種の植物が列挙される。タマリスク（tamerici）・松（pini）・ミルト（mirti）・エニシダ（ginestre）・ジュニパー（ginepri）。各植物に必ず感覚的な形容詞が伴う：「潮っぽく干からびた（salmastre ed arse）」「鱗状でとげとげした（scagliosi ed irti）」「神聖な（divini）」「輝く（fulgenti）」「芳しい（aulenti）」。触覚・味覚・視覚・嗅覚が全て含まれる。この植物目録は次の段落（v.20–32）で人間の体（顔・手・衣・思念）への転換の準備──同じ「piove su …」の構文が、植物から人間へと seamless に移行することで、人間と植物の等価性が文法的に作られる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "piove su i nostri vólti\nsilvani,",
+      "body": "「野生の顔（vólti silvani）」──「silvano」は「森の（silva=森）」の形容詞で、ローマ神話の森の精 Silvanus に由来。人間の顔が既に「森の顔」として自然化されている──これは変容の途中ではなく、雨が降り始めた時点で既に「野生化している」。この形容詞一語がパニスモの開始点を示す。Strofa IV（§7）の「par da scorza tu esca（まるで樹皮から出てきたように）」が完成形だとすれば、「vólti silvani」は変容の第一段階の記録。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "su la favola bella\nche ieri\nt'illuse, che oggi m'illude,\no Ermione.",
+      "body": "Strofa I の締めくくり──「favola bella（美しい夢物語）」は詩全体を貫く自己言及的な語。詩そのもの、または愛の体験、または自然との融合という「幻想（illusione）」。「illuse / illude（騙した・騙す）」という動詞の選択は意図的──美しい幻想であることを認めながらも、その魔力から逃れられないという逆説。Strofa I では「t'illuse（昨日はあなたを騙した）…m'illude（今日は私を騙す）」──語り手が現在形の受動者。Strofa IV（§8）では「m'illuse（昨日は私を騙した）…t'illude（今日はあなたを騙す）」に反転する。この逆転が詩全体の「意味的な結論」として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "E il pino\nha un suono, e il mirto\naltro suono, e il ginepro\naltro ancóra, stromenti\ndiversi\nsotto innumerevoli dita.",
+      "body": "「数え切れない指の下の異なる楽器たち（stromenti diversi / sotto innumerevoli dita）」──雨粒が「指」として樹木という「楽器」を弾く、という比喩。松・ミルト・ジュニパーが各々異なる音（un suono / altro suono / altro ancóra）を持つ──Strofa I で感覚的形容詞によって区別されていた植物が、今度は音響的に区別される。「innumerevoli dita（数え切れない指）」は雨粒の多さと同時に、雨が奏でる音楽の複雑さを表す。この「宇宙的な音楽演奏」の比喩は、次の段落の「パニスモ宣言」への橋渡し──自然が音楽を奏で、人間はその音楽の中に沈み込む。",
+      "targetId": "dannunzio_alba_separa",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "E immersi\nnoi siam nello spirto\nsilvestre,\nd'arborea vita viventi;",
+      "body": "パニスモの中心宣言──「d'arborea vita viventi（樹木の命を生きながら）」。「arborea（樹木の）」はラテン語 arbor（木）からの形容詞。人間が「樹木の命（vita arborea）」を生きている、という宣言。「immersi（沈み込んで）」──水中への没入、または物質への融合を示す空間的比喩。「spirto silvestre（森の霊）」──森そのものが一つの精神（spirito）を持ち、人間がその霊に沈み込む。この「霊への没入」はドゥーゼを指す「エルミオーネ（creatura terrestre＝地上の被造物）」という呼格の直前に置かれることで、愛人（地上的存在）と自然（霊的存在）が同一の「浸透場（campo di immersione）」として提示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Più sordo e più fioco\ns'allenta, si spegne.\nSola una nota\nancor trema, si spegne,\nrisorge, trema, si spegne.",
+      "body": "蝉の声の「段階的消滅」──これはダヌンツィオ詩学における最も精巧な音響詩（poesia sonora）の一例。段階的な動詞の連鎖が消滅プロセスを時間軸上に演じる：「s'allenta（緩む）→ si spegne（消える）→ trema（震える）→ si spegne（消える）→ risorge（甦る）→ trema（震える）→ si spegne（消える）」。最後の「risorge（甦る）」が挿入されることで、単純な消滅ではなく「消えては甦り、また消える」という臨死的な揺らぎが描かれる。詩行の短さ（2〜4音節）が息の切れる感覚として機能する──長い行が「持続する音」なら、短い行の連続は「途切れる音・消える音」の形式的模倣。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La figlia dell'aria\nè muta; ma la figlia\ndel limo lontana,\nla rana,\ncanta nell'ombra più fonda,",
+      "body": "「空気の娘（figlia dell'aria）」vs.「泥の娘（figlia del limo）」──蝉と蛙の対比が元素的対立として提示される。蝉は空気に属し（高所・光・夏の熱）、蛙は泥に属する（低所・暗闇・湿気）。蝉が沈黙した後、蛙が「最も深い影の中で（nell'ombra più fonda）」歌う──音楽が上から下へ移動する。「chi sa dove, chi sa dove！（どこかで、どこかで！）」という繰り返しが位置の不確定性を強調する──蛙の歌声は方向を持たない、暗闇の深みから来る遍在する声。この「chi sa dove」は Strofa IV（§7）の「私たちはどこへ歩くか（chi sa dove）」に反響し、人間もまた蛙と同じ「どこかへ向かう者」になる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "par da scorza tu esca.\nE tutta la vita è in noi fresca\naulente,\nil cuor nel petto è come pèsca\nintatta,\ntra le pàlpebre gli occhi\nson come polle tra l'erbe,\ni denti negli alvèoli\nson come mandorle acerbe.",
+      "body": "「まるで樹皮から出てきたように（par da scorza tu esca）」──パニスモの最高点。エルミオーネの体が「樹木の樹皮から出てきた」ように見える──これはもはや比喩ではなく、変容の知覚として描かれる。続く器官の植物的比喩の連鎖：心臓＝傷のない桃（pèsca intatta）・目＝草間の泉（polle tra l'erbe）・歯＝青い扁桃（mandorle acerbe）。注目すべきは「intatta（傷のない・手つかずの）」と「acerbe（青い・未熟な）」──どちらも「まだ完全に熟していない」状態を示す形容詞。自然との融合が「成熟・完成」ではなく「新鮮な未熟さ・生の充溢」として描かれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "E andiam di fratta in fratta,\nor congiunti or disciolti\n(e il verde vigor rude\nci allaccia i mallèoli\nc'intrica i ginocchi)\nchi sa dove, chi sa dove!",
+      "body": "「茂みから茂みへ（di fratta in fratta）」──この反復的な前置詞句が歩行の不定方向を表す。「or congiunti or disciolti（ある時は結ばれある時は離れながら）」──二人の動きが自然と同じリズムで結合・分離を繰り返す。括弧の中の描写「緑の勢いが足首を結び膝に絡まる（il verde vigor rude / ci allaccia i mallèoli / c'intrica i ginocchi）」──植物が能動的に人間の体を捕らえる逆転。人間が自然に入り込むのではなく、自然が人間の体を捕まえる──パニスモの完成は「人間の意志による融合」ではなく「自然による人間の捕獲」として描かれる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "su la favola bella\nche ieri\nm'illuse, che oggi t'illude,\no Ermione.",
+      "body": "リフレインの「主語交替」──詩の最大の仕掛けの完成。Strofa I（§2）では「t'illuse, che oggi m'illude（昨日はあなたを騙した、今日は私を騙す）」──語り手「私（m'）」が現在形 illude の受動者だった。Strofa IV ではこれが「m'illuse, che oggi t'illude（昨日は私を騙した、今日はあなたを騙す）」に逆転──「あなた（t'）」が現在形の受動者になる。「私」と「エルミオーネ」の位置が入れ替わった。これはパニスモの「自己と他者の境界の溶解」が完成したことの詩的・文法的記録。雨の中で二人は植物化し、自然と融合し、ついには互いの「位置」すら区別できなくなる──その境界消滅が、主語代名詞の交替という最小単位の変化として、最後の行に刻まれる。",
+      "targetId": "dannunzio_pioggia_nel_pineto",
+      "targetParagraphId": 2
+    }
+  ]
+}
