@@ -76,7 +76,7 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
-  const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード
+  const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード: false | 'side' | 'stacked'
 
   // 新機能
   const [searchQuery, setSearchQuery] = useState('');
@@ -119,6 +119,10 @@ export default function App() {
   const [fcSrsData, setFcSrsData] = useState(() => {
     try { return JSON.parse(localStorage.getItem('flashcard-status') || '{}'); } catch { return {}; }
   });
+  // フローティングTOPボタン
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const lastScrollY = useRef(0);
+
   const settingsRef = useRef(null);
   const bodyRef = useRef(null);      // 段落コントロールバーへのref
   const textInfoRef = useRef(null);  // テキスト情報パネルへのref
@@ -226,6 +230,18 @@ export default function App() {
     };
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
+  }, []);
+
+  // フローティングTOPボタン：300px超 かつ上方向スクロール時に表示
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentY = window.scrollY;
+      const isScrollingUp = currentY < lastScrollY.current;
+      setShowScrollTop(currentY > 300 && isScrollingUp);
+      lastScrollY.current = currentY;
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
   // 設定パネルの外クリックで閉じる
@@ -1686,7 +1702,7 @@ export default function App() {
     fontFamily === 'alice'    ? '"Alice", "Shippori Mincho B1", serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
-  const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
+  const fontSizeMap = { xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
     // カテゴリーラベルの短縮表示用マップ
   const catShort = CAT_SHORT; // constants.js
@@ -1747,20 +1763,41 @@ export default function App() {
         </div>
 
         <div className="p-5 space-y-6 flex-1">
-          {/* フォントサイズ */}
-          <div>
-            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>文字サイズ</label>
-            <div className="flex gap-1.5">
-              {[['small','小'],['medium','中'],['large','大'],['xlarge','特大']].map(([val, label]) => (
-                <button key={val} onClick={() => setFontSize(val)}
-                  className={`flex-1 py-2 text-xs rounded-lg font-sans transition-all
-                    ${fontSize === val
-                      ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
-                      : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
-                >{label}</button>
-              ))}
-            </div>
-          </div>
+          {/* フォントサイズ：ステッパー */}
+          {(() => {
+            const sizeSteps = ['xsmall','small','medium','large','xlarge','xxlarge'];
+            const sizeLabels = { xsmall:'極小', small:'小', medium:'中', large:'大', xlarge:'特大', xxlarge:'最大' };
+            const idx = sizeSteps.indexOf(fontSize);
+            const canDec = idx > 0;
+            const canInc = idx < sizeSteps.length - 1;
+            return (
+              <div>
+                <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>文字サイズ</label>
+                <div className={`flex items-center rounded-xl overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+                  <button
+                    onClick={() => canDec && setFontSize(sizeSteps[idx - 1])}
+                    disabled={!canDec}
+                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-sans
+                      ${canDec
+                        ? darkMode ? 'text-zinc-300 hover:bg-zinc-800' : 'text-stone-600 hover:bg-stone-100'
+                        : darkMode ? 'text-zinc-700' : 'text-stone-300'}`}
+                  >−</button>
+                  <div className={`flex-1 flex flex-col items-center justify-center py-2 border-x ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+                    <span className={`font-serif leading-none ${fontSizeMap[fontSize]} ${textClass}`} style={{ fontFamily: fontFamilyStyle }}>Abcあ</span>
+                    <span className={`text-xs mt-1 font-sans ${textSecondary}`}>{sizeLabels[fontSize]}</span>
+                  </div>
+                  <button
+                    onClick={() => canInc && setFontSize(sizeSteps[idx + 1])}
+                    disabled={!canInc}
+                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-sans
+                      ${canInc
+                        ? darkMode ? 'text-zinc-300 hover:bg-zinc-800' : 'text-stone-600 hover:bg-stone-100'
+                        : darkMode ? 'text-zinc-700' : 'text-stone-300'}`}
+                  >＋</button>
+                </div>
+              </div>
+            );
+          })()}
 
           {/* フォント */}
           <div>
@@ -1836,20 +1873,6 @@ export default function App() {
       <header ref={headerRef} className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
-            {selectedText && (
-              <button
-                onClick={() => {
-                  window.history.pushState({}, '', '#');
-                  window.dispatchEvent(new PopStateEvent('popstate'));
-                  window.scrollTo({ top: 0, behavior: 'smooth' });
-                }}
-                title="テキスト一覧へ戻る"
-                className={`shrink-0 flex items-center gap-1 text-xs px-2 py-1 rounded transition-colors ${darkMode ? 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800' : 'text-stone-400 hover:text-stone-700 hover:bg-stone-100'}`}
-              >
-                <List size={13} strokeWidth={1.8} />
-                <span className="hidden sm:inline">一覧</span>
-              </button>
-            )}
             <div className="flex-1 min-w-0">
               <h1
                 style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.08em' }}
@@ -2427,24 +2450,32 @@ export default function App() {
             >
               {speakingId === 'all' ? <><IconSquare size={10} strokeWidth={2} fill='currentColor' className='inline mr-1' />停止</> : <><Volume2 size={13} strokeWidth={1.6} className='inline mr-1' />全文</>}
             </button>
-            {/* 逐行対訳トグル（原文＋仮訳が両方オンの時のみ） */}
+            {/* 逐行対訳：左右 / 上下ボタン（原文＋仮訳が両方オンの時のみ） */}
             {showFrench && showOfficial && (
-              <button
-                onClick={() => setInterlinear(v => !v)}
-                title={interlinear ? '通常表示に戻す' : '逐行対訳：1行ごとに原文と訳を対照表示'}
-                className={`px-3 py-1.5 text-xs rounded-lg transition-all flex items-center gap-1.5 font-sans font-medium border ${
-                  interlinear
-                    ? darkMode
-                      ? 'bg-teal-700 text-teal-100 border-teal-600 shadow-sm shadow-teal-900/50'
-                      : 'bg-teal-700 text-white border-teal-600 shadow-sm shadow-teal-200'
-                    : darkMode
-                      ? 'bg-zinc-800 text-teal-400 border-teal-800/60 hover:bg-teal-900/30 hover:border-teal-700'
-                      : 'bg-teal-50 text-teal-700 border-teal-200 hover:bg-teal-100 hover:border-teal-300'
-                }`}
-              >
-                <List size={12} strokeWidth={2} />
-                {interlinear ? '逐行対訳 ON' : '逐行対訳'}
-              </button>
+              <div className={`flex rounded-lg overflow-hidden border ${
+                interlinear
+                  ? darkMode ? 'border-teal-600' : 'border-teal-400'
+                  : darkMode ? 'border-zinc-700' : 'border-stone-200'
+              }`}>
+                {[['side','左右'],['stacked','上下']].map(([mode, label]) => (
+                  <button
+                    key={mode}
+                    onClick={() => setInterlinear(v => v === mode ? false : mode)}
+                    title={mode === 'side' ? '逐行対訳（左右2カラム）' : '逐行対訳（上下縦並び）'}
+                    className={`px-2.5 py-1.5 text-xs font-sans font-medium transition-all ${
+                      interlinear === mode
+                        ? darkMode
+                          ? 'bg-teal-700 text-teal-100'
+                          : 'bg-teal-600 text-white'
+                        : darkMode
+                          ? 'bg-zinc-800 text-zinc-400 hover:bg-teal-900/30 hover:text-teal-400'
+                          : 'bg-stone-50 text-stone-500 hover:bg-teal-50 hover:text-teal-600'
+                    }${
+                      mode === 'side' ? ` border-r ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''
+                    }`}
+                  >{label}</button>
+                ))}
+              </div>
             )}
           </div>
           <button
@@ -2572,7 +2603,7 @@ export default function App() {
                         {interlinear && showFrench && showOfficial && (
                           <span className={`px-1.5 py-0.5 rounded text-xs font-medium border ${
                             darkMode ? 'bg-teal-900/40 text-teal-400 border-teal-800/60' : 'bg-teal-50 text-teal-600 border-teal-200'
-                          }`}>逐行</span>
+                          }`}>{interlinear === 'stacked' ? '上下' : '左右'}</span>
                         )}
                       </span>
                     )}
@@ -2634,7 +2665,59 @@ export default function App() {
                             {para.speaker.toUpperCase()}
                           </span>
                         )}
-                        {/* 逐行対訳テーブル */}
+
+                        {/* ── stackedモード：行ごとに原文→訳を縦スタック ── */}
+                        {interlinear === 'stacked' ? (
+                          <div className="space-y-0">
+                            {(() => {
+                              const origLines = getOriginalText(para).split('\n');
+                              const transLines = translation.split('\n');
+                              const maxLen = Math.max(origLines.length, transLines.length);
+                              return Array.from({ length: maxLen }, (_, i) => {
+                                const isBlankOrig = !origLines[i]?.trim();
+                                const isBlankTrans = !transLines[i]?.trim();
+                                if (isBlankOrig && isBlankTrans) return (
+                                  <div key={i} className="h-3" />
+                                );
+                                return (
+                                  <div key={i} className={`py-1.5 px-3 rounded-lg mb-1 ${darkMode ? 'bg-zinc-900/60' : 'bg-stone-50/80'}`}>
+                                    {/* 原文行 */}
+                                    {!isBlankOrig && (
+                                      <div className="flex items-baseline gap-2">
+                                        {para.verses && (
+                                          <span className={`text-xs font-mono opacity-25 select-none shrink-0 ${textClass}`}>
+                                            {(() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) + i : ''; })()}
+                                          </span>
+                                        )}
+                                        <span className={`leading-relaxed font-serif ${textClass} ${
+                                          fontSize === 'xxlarge' ? 'text-2xl' :
+                                          fontSize === 'xlarge'  ? 'text-xl' :
+                                          fontSize === 'large'   ? 'text-lg' :
+                                          fontSize === 'medium'  ? 'text-base' : 'text-sm'
+                                        }`}>
+                                          {showAnnotations && hasAnnotations
+                                            ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
+                                            : origLines[i]}
+                                        </span>
+                                      </div>
+                                    )}
+                                    {/* 訳行 */}
+                                    {!isBlankTrans && (
+                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-teal-700/50 text-teal-300/70' : 'border-teal-300/60 text-teal-800/80'}`}>
+                                        <span className={`leading-relaxed ${
+                                          fontSize === 'xxlarge' ? 'text-xl' :
+                                          fontSize === 'xlarge'  ? 'text-lg' :
+                                          fontSize === 'large'   ? 'text-base' :
+                                          fontSize === 'medium'  ? 'text-sm' : 'text-xs'
+                                        }`}>{transLines[i] ?? ''}</span>
+                                      </div>
+                                    )}
+                                  </div>
+                                );
+                              });
+                            })()}
+                          </div>
+                        ) : (
                         <div className={`rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
                           {/* 列ヘッダー */}
                           <div className={`grid grid-cols-[1fr_1fr] border-b text-xs font-sans font-medium tracking-widest uppercase ${
@@ -2673,9 +2756,11 @@ export default function App() {
                                       </span>
                                     )}
                                     <span className={`leading-relaxed font-serif ${textClass} ${
-                                      fontSize === 'xlarge' ? 'text-2xl' :
-                                      fontSize === 'large'  ? 'text-xl' :
-                                      fontSize === 'medium' ? 'text-base' : 'text-sm'
+                                      fontSize === 'xxlarge' ? 'text-2xl' :
+                                      fontSize === 'xlarge' ? 'text-xl' :
+                                      fontSize === 'large'  ? 'text-lg' :
+                                      fontSize === 'medium' ? 'text-base' :
+                                      fontSize === 'small'  ? 'text-sm' : 'text-xs'
                                     }`}>
                                       {origLines[i] != null && !isBlankOrig
                                         ? (showAnnotations && hasAnnotations
@@ -2687,9 +2772,11 @@ export default function App() {
                                   {/* 訳セル */}
                                   <div className={`px-3 py-2 ${darkMode ? 'text-teal-300/80' : 'text-teal-800/90'}`}>
                                     <span className={`leading-relaxed ${
-                                      fontSize === 'xlarge' ? 'text-xl' :
-                                      fontSize === 'large'  ? 'text-lg' :
-                                      fontSize === 'medium' ? 'text-sm' : 'text-xs'
+                                      fontSize === 'xxlarge' ? 'text-xl' :
+                                      fontSize === 'xlarge' ? 'text-lg' :
+                                      fontSize === 'large'  ? 'text-base' :
+                                      fontSize === 'medium' ? 'text-sm' :
+                                      fontSize === 'small'  ? 'text-xs' : 'text-xs'
                                     }`}>
                                       {transLines[i] ?? ''}
                                     </span>
@@ -2699,6 +2786,7 @@ export default function App() {
                             });
                           })()}
                         </div>
+                        )}
                       </div>
                     ) : (
                       <>
@@ -2720,9 +2808,11 @@ export default function App() {
                         <p className={`mt-2 leading-loose whitespace-pre-line pl-4 border-l-2 ${
                           darkMode ? 'border-stone-700' : 'border-stone-300'
                         } ${textClass} ${
-                          fontSize === 'xlarge' ? 'text-2xl' :
-                          fontSize === 'large'  ? 'text-xl' :
-                          fontSize === 'medium' ? 'text-lg' : 'text-base'
+                          fontSize === 'xxlarge' ? 'text-2xl' :
+                          fontSize === 'xlarge' ? 'text-xl' :
+                          fontSize === 'large'  ? 'text-lg' :
+                          fontSize === 'medium' ? 'text-base' :
+                          fontSize === 'small'  ? 'text-sm' : 'text-xs'
                         }`}>
                           {showAnnotations && hasAnnotations
                             ? renderTextWithAnchors(getOriginalText(para), paraAnnotations, para.id)
@@ -2739,9 +2829,11 @@ export default function App() {
                           仮訳
                         </span>
                         <p className={`mt-2 leading-loose whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
-                          fontSize === 'xlarge' ? 'text-xl' :
-                          fontSize === 'large'  ? 'text-lg' :
-                          fontSize === 'medium' ? 'text-base' : 'text-sm'
+                          fontSize === 'xxlarge' ? 'text-xl' :
+                          fontSize === 'xlarge' ? 'text-lg' :
+                          fontSize === 'large'  ? 'text-base' :
+                          fontSize === 'medium' ? 'text-sm' :
+                          fontSize === 'small'  ? 'text-xs' : 'text-xs'
                         }`}>
                           {translation}
                         </p>
@@ -2849,6 +2941,19 @@ export default function App() {
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
+
+      {/* フローティングTOPボタン */}
+      <button
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+        aria-label="ページ先頭へ"
+        className={`fixed bottom-6 right-5 z-50 w-10 h-10 rounded-full flex items-center justify-center shadow-lg transition-all duration-300 ${
+          showScrollTop ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 translate-y-3 pointer-events-none'
+        } ${darkMode ? 'bg-zinc-700 text-zinc-200 hover:bg-zinc-600' : 'bg-stone-700 text-white hover:bg-stone-600'}`}
+      >
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <polyline points="2,9 7,4 12,9" />
+        </svg>
+      </button>
     </div>
   );
 }
