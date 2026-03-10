@@ -1,0 +1,120 @@
+{
+  "id": "dante_paradiso_canto_31",
+  "title": "Paradiso — Canto XXXI",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Paradiso (Princeton UP, 1975); Borges, J.L., Nueve ensayos dantescos (Espasa-Calpe, 1982); Borges, J.L., La divina comedia, conferencia dictada en 1977",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Paradiso",
+  "canto": "XXXI",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "天国篇第31歌はホルヘ・ルイス・ボルヘスが「文学史上最も哀切で、かつ最も冷酷な場面」と呼んだ場面を含む。ダンテが振り返った時、ベアトリーチェはもうそこにいない──彼女は遠い光の座（第三ランクの座）に戻り、ダンテの隣にはベルナルドゥス（聖ベルナール）が立っている。\n\nボルヘスは1977年のブエノスアイレス講義でこの場面に繰り返し言及した。彼が着目したのは「非対称性」──ベアトリーチェはダンテに微笑むが、ダンテは彼女に向かって話しかけ（v.79–90）、しかしベアトリーチェは答えない。彼女はただ「ほほえんで（sorrise）」遠くの光の座へ戻る。この「返答なき微笑み」の冷酷さ。\n\nPurg. XXX でのベアトリーチェの登場と比較するとその落差は際立つ。Purg. XXX では彼女はダンテを厳しく叱責した（「ダンテよ、ウェルギリウスが去ったからといって泣くな」）──あの時の叱責には激情があった。しかし Par. XXXI では彼女はただ微笑んで去る。叱責より微笑みの方が遠い。\n\nもう一つの問題は「ウェルギリウスの消滅」との対称性。Purg. XXX でダンテが振り返るとウェルギリウスは消えていた──言葉もなく。Par. XXXI でダンテが振り返るとベアトリーチェは遠い座にいる──微笑みだけを残して。案内者の喪失という体験がリフレインする。しかし喪失の質が異なる──ウェルギリウスの消滅はダンテを泣かせたが、ベアトリーチェの退場はダンテを「頼み事（supplica）」をする者にする。",
+  "keywords": [
+    "ベアトリーチェの退場", "ボルヘス", "哀切と冷酷", "聖ベルナール",
+    "バラの花びら", "天上の薔薇", "非対称性", "微笑み", "案内者の交代",
+    "empyreo", "天上界"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_30",
+    "dante_paradiso_canto_1",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–24",
+      "speaker": "Dante-narratore",
+      "original": "In forma dunque di candida rosa\nmi si mostrava la milizia santa\nche nel suo sangue Cristo fece sposa;\n\nma l'altra, che volando vede e canta\nla gloria di colui che la 'nnamora\ne la bontà che la fece cotanta,\n\nsì come schiera d'ape che s'infiora\nuna fïata e una si ritorna\nlà dove suo laboro s'insapora,\n\nnella grande fior discendeva a lora\ntra le foglie, poi rivolava sù\ndove 'l suo amor sempre soggiorna;\n\ne visi avean di fiamma e ali d'oro;\ne l'altro era sì bianco, che nulla\nneve a quel termine arriva.\n\nQuando scendean nel fior, di fronda in fronda\ngittavan de la pace e de l'ardore\nch'elli acquistavan ventilando, l'onda;\n\nnon impediva il viso e lo splendore,\nperché la luce divina è penetrante\nper l'universo, secondo ch'è degno.\n\nSicura e lieta regno,\npopolo antico con popolo novo,\nvolgeva miro e ardente amore.",
+      "provisionalTranslation": "白いバラの形に\n聖なる軍（天使・聖人の群れ）が私に示された\nキリストが自分の血でその花嫁とした者たちの；\n\nしかし他方（天使の群れ）は飛びながら見て歌う\n自分たちを恋させる者（神）の栄光と\n自分たちをこれほどにした善性を、\n\n花から花へと一度は舞い降り一度は戻る\n蜂の群れのように\n自分たちの労働が香り付けられる場所へ、\n\n大きな花（天上の薔薇）の中へその時々に降り\n葉から葉へ、それからまた上へ飛び戻る\n自分たちの愛が常に宿る場所へ；\n\n顔は炎のようで翼は金、\n他の部分はこれほど白く、いかなる\n雪もその限界に届かない。\n\n花の中へ降りる時に、葉から葉へ、\n飛び回りながら得た平和と熱烈さの\n波を投げかけた；\n\n顔と輝きはさえぎられなかった、\nなぜなら神の光は\n宇宙を貫いて浸透するから、値するものに応じて。\n\n安全で喜ばしい王国、\n古い民族と新しい民族が\n驚嘆と燃える愛を向けていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.25–63",
+      "speaker": "Dante-narratore",
+      "original": "Oh trina luce che 'n unica stella\nscintillando a lor vista, sì li appaga!\nguarda qua giù ne la nostra procella!\n\nSe i barbari, venendo da tal plaga\nche ciascun giorno d'Elice si cuopra,\nrotante col suo figlio ond'ella è vaga,\n\nveggendo Roma e l'ardüa sua opra,\nstupefaciensi, quando Laterano\na le cose mortali andò di sopra;\n\nio, che al divino da l'umano,\na l'etterno dal tempo era venuto,\ne di Fiorenza in popol giusto e sano,\n\ndi che stupor dovea esser compiuto!\n\nCerto tra esso e 'l gaudio mi facea\nlibito non udire e starmi muto.\n\nE quasi peregrin che si ricrea\nnella chiesa del suo voto, riguarda,\ne spera già ridir com'ella stea;\n\nsù per la viva luce passeggiando,\nmenavo li occhi per li gradi,\nnor in sù nor in giù, né di qua di là.\n\nVedeva visi a carità suadi,\nd'altrui lume fregiati e di suo riso,\ne atti ornati di tutte onestadi.\n\nLa forma general di paradiso\ngià tutta mio sguardo aveva compresa,\nin nulla parte ancor fermato fiso;\n\ne volgeami con voglia riaccesa\nper domandar la mia donna di cose\ndi che la mente mia era sospesa.\n\nUno intendea, e altro mi rispuose:\ncredea veder Beatrice, e vidi un sene\nvestito con le genti glorïose.",
+      "provisionalTranslation": "おお三位一体の光よ、単一の星の中で\nきらめいて彼らの視界を満たし、こんなに彼らを満足させる！\nこちら、私たちの嵐の中を見下ろしてくれ！\n\n北の地（スカンジナビア）から来た蛮族たちが──\n毎日エリス（大熊座）が覆い、\nそれが恋しがる息子（小熊座）と共に回転する地──\n\nローマとその偉大な仕事を見て\nラテラノ（教皇庁）が死すべきものを超えていた時に\n驚嘆していたとしたら；\n\n私は、人間的なものから神的なものへ、\n時間から永遠へ来ていた、\nそしてフィレンツェから正義で健全な民（天上）へ、\n\nどれほどの驚嘆に満たされるべきだったか！\n\n確かにその驚嘆と喜びの間で\n私は聞くことも黙っていることも好きだった。\n\nそして自分の誓いの教会で気晴らしをする\n巡礼者のように、見回して、\n既にそれがどうあるかを語り直すことを望む；\n\n生き生きとした光を通り歩きながら、\n私は目を段（天上の薔薇の座席）に向けた、\n上にも下にも、こちらにもあちらにも。\n\n愛へ誘う顔を見た、\n他者の光と自分たちの微笑みで飾られ、\n全ての品格の身振りで飾られた。\n\n天国の全体的な形は\n私の眼差しは既に全体を把握していた、\n何も固定して定めずに；\n\nそして私は再点火された欲望で向き直った\n心が宙吊りになっていたことについて\n私の女性（ベアトリーチェ）に尋ねるために。\n\n一つを意図したが、別のものが答えた：\nベアトリーチェを見ると思っていたが、見たのは老人\n栄光の民と同じ衣を着た者だった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.64–78",
+      "speaker": "Bernardo di Chiaravalle",
+      "original": "«Ov'è ella?», sùbito diss'io.\nEgli rispose: «A terminar tuo desire\nmosso è Beatrice, ed a priego mio\n\nla del terzo cerchio si siede;\nla donna che il tuo regno ti acquista».\n\nSenza ch'io udissi più sillaba,\nsùbito levai li occhi, e vidi\nche di sè facevan corona e giba.\n\nE come quivi ove s'aspetta il tempo\n…levai le luci sùs,\ncome convien per atto di speranza,\n\n…e vidi lei che si facea corona,\nriflettendo da sé li etterni rai.\nDal più alto punto de l'èterno palazzo\nancor non si distende…",
+      "provisionalTranslation": "「彼女はどこに？」と私はすぐに言った。\n彼は答えた：「あなたの欲望を完成させるために\nベアトリーチェは動いた、そして私の請願によって\n\n第三の輪の座にいる；\nあなたの王国（あなたにふさわしい天国の場）を得てくれる女性。」\n\nそれ以上の音節を聞くことなく、\n私はすぐに目を上げた、そして見た\n彼女が自分自身から王冠と光輪を作っているのを。\n\nそして時間を待つ場所のように\n……私は目を上へ上げた、\n希望の行為として当然のように、\n\n……そして見た、彼女が冠となっているのを、\n永遠の光線を自分から反射させながら。\n天上宮殿の最高点から\nまだ（彼女の光は）広がらない……"
+    },
+    {
+      "id": 4,
+      "verses": "v.79–93",
+      "speaker": "Dante",
+      "original": "«O donna in cui la mia speranza vige,\ne che soffristi per la mia salute\nin inferno lasciar le tue vestige,\n\ndi tante cose quant'i' ho vedute,\ndal tuo podere e da la tua bontate\nriconosco la grazia e la virtute.\n\nTu m'hai di servo tratto a libertate\nper tutte quelle vie, per tutt'i modi\nche di ciò fare avei la potestate.\n\nLa tua magnificenza in me custodi\nsì che l'anima mia, che fatta hai sana,\npiacente a te dal corpo si disnodi».\n\nCosì orai; e quella, sì lontana\ncome parea, sorrise e riguardommi;\npoi si tornò a l'etterna fontana.",
+      "provisionalTranslation": "「おお、私の中に希望が力を持つ女性よ、\nそしてあなたは私の救いのために\n地獄にあなたの足跡を残すことを耐えた、\n\n私が見た数々のことから\nあなたの力とあなたの善性から\n恵みと美徳を私は認める。\n\nあなたは僕の身から自由へ私を引き出した\n全てのあの道を通って、全ての様式によって\nそれをするための力をあなたが持っていた全ての。\n\nあなたの壮大さを私の中に守ってくれ\nそれで私の魂が、あなたが健全にしてくれた、\nあなたに気に入るように、体から解き放たれるよう。」\n\nそのように私は祈った；そして彼女は、これほど遠くに\n見えながら、微笑んで私を見た；\nそれから永遠の泉へ戻った。"
+    },
+    {
+      "id": 5,
+      "verses": "v.94–117",
+      "speaker": "Bernardo di Chiaravalle",
+      "original": "E il santo sene, che non s'accorse\nch'io non ti seguiva, disse: «Acciò che tu\nla tua voglia tutta in su discorse,\n\nconvien che tu volga li occhi in sù;\nma guarda bene prima, sì che tu\nla forma lor comprendere ti piaccia.\n\nLa regina del cielo, ond'io ardore,\nperché del suo ardore tutto mi face\nchi corse a lei, or mi luca al valore;\n\ne santa luce che si nomina Lucia\nvenir fece di quella donna saggia\nch'ei truova, quando al tempo ti si pia.\n\nMa perché 'l tempo fugge che ti assonna,\nqui ci fermiamo, e poi seguiremo.\n\nSì come bon sartore che al panno\nfà la vesta, e ché così l'ha fatto,\ncosì or ti prego che tu bene guardi.»",
+      "provisionalTranslation": "そして聖なる老人は、私が彼に続いていないことに\n気づかずに、言った：「あなたの全ての意志が\n上へ向かうために、\n\n目を上げなければならない；\nしかしよく見よ、まず、そうすれば\n彼らの形を理解することがあなたに喜びをもたらすように。\n\n天の女王（マリア）、私が燃える者、\nなぜなら彼女に向かって走った者を全て彼の燃えが作るから、\n今私に力を輝かせてくれる；\n\nそして聖なるルチア（ルキア）と呼ばれる光が\n賢い女性（ベアトリーチェ）を来させた\n彼（ダンテ）が見つける、あなたに時間が恵まれる時に。\n\nしかし時間が逃げていくから、あなたを眠らせる、\nここで止まり、それから続けよう。\n\n良い仕立て屋が布地に\n衣を作るように、そしてそのように作ったから、\n今あなたによく見てほしいと頼む。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.118–138",
+      "speaker": "Dante-narratore",
+      "original": "E come buon sartore ch'al panno\nfà la vesta, così mi disse il sene;\ne io guardai, ed era là essa manna\n\nché 'l Siro Simonide, quel mastro,\ne l'altro sapïente Archimede,\nnon vi sarien bastati, se nel nastro\n\ndi questa donna avessen visto i gradi.\nQuivi la faccia sua\ntutta la gente che di lei si lega;\n\nquel ch'ivi è, sol da lei deriva\npace e ardore e gran disio;\ne perché 'l amor che li governa e drizza\n\nmira, e d'un sospiro e d'un segno\nla contentò si fece e si disfece,\noltre che 'l natural nostro sostegno.\n\nDalla cima di tal monte alto\ndi Bernardo udio quando mi disse:\n«Qui son le frondi della rosa,\nné son del basso il mezzo od il più alto.»",
+      "provisionalTranslation": "そして良い仕立て屋が布地に衣を作るように\n老人は私に言った；\nそして私は見た、そしてそこにあったのは恵み\n\nシリアのシモニデス、あの名人も、\nアルキメデスも、\n十分ではなかっただろう、もし彼らがこの女性の帯の中で\n\n段階を見ていたなら。\nそこで彼女の顔が\n彼女に結びついた全ての民を；\n\nそこにあるものは、彼女だけから\n平和と熱烈さと大きな欲望が生まれ；\nそして彼らを統治し導く愛が\n\n見つめ、一つの溜め息と一つの記号（合図）で\n満足させ、形成され解体された、\n私たちの自然な支えを超えて。\n\nそのような高い山の頂から\nベルナルドゥスが私に言った時に聞いた：\n「ここに薔薇の葉があり、\n低い部分の中間も最も高い部分もない。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.139–142",
+      "speaker": "Dante-narratore",
+      "original": "E come quei che forse di Croazia\nviene a veder la Veronica nostra,\nche per l'antica fame non sen sazia,\n\nma dice nel pensier, fin che si mostra:\n'Segnor mio Iesù Cristo, Dio verace,\nor fu sì fatta la sembianza vostra?'\n\ntale era io mirando la vivace\ncarità di colui che 'n questo mondo,\ncontemplando, gustò di quella pace.",
+      "provisionalTranslation": "そして、おそらくクロアチアから\n私たちのヴェロニカ（キリストの聖顔布）を見るために来た者が\n古い飢えで満足できない者が、\n\nしかしそれが示される間に心の中で言う：\n『私の主イエス・キリストよ、真実の神よ、\nあなたのお顔はこのようなものでしたか？』\n\nそのように私はいた、この世で\n瞑想しながらその平和を味わった者（ベルナルドゥス）の\n生き生きとした愛を見つめながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Uno intendea, e altro mi rispuose:\ncredea veder Beatrice, e vidi un sene\nvestito con le genti glorïose.",
+      "body": "「一つを意図したが、別のものが答えた：ベアトリーチェを見ると思っていたが、見たのは老人だった（Uno intendea, e altro mi rispuose: / credea veder Beatrice, e vidi un sene）」──ボルヘスが「文学史上最も哀切で、かつ最も冷酷な場面」と呼ぶ場面への直接の序奏。期待と現実の非対称──「ベアトリーチェを見ようとして振り返ると老人がいた」。このズレを描写する詩行の短さと素直さが衝撃を増幅する。Purg. XXX でのウェルギリウスの消滅（「ウェルギリウス！ウェルギリウス！」とダンテが泣きながら名を呼んだ）とのリフレイン──しかし今回ダンテは泣かない。代わりに「彼女はどこに？（Ov'è ella?）」と一言尋ねる。",
+      "targetId": "dante_purgatorio_canto_30",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "«Ov'è ella?», sùbito diss'io.",
+      "body": "「彼女はどこに？（Ov'è ella?）」──神曲全体でダンテが発する最も短い問いの一つ。たった三語。Purg. XXX でのウェルギリウスへの嘆き「しかしウェルギリウスよ、ウェルギリウスよ」が長い独白だったのに対し、ベアトリーチェへの問いは三語で終わる。「哀切と冷酷」とボルヘスが言う時の「冷酷」は──ベアトリーチェ側の冷たさではなく、ダンテ自身が既に「問うことしかできない者」に変容しているという意味での冷酷。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Così orai; e quella, sì lontana\ncome parea, sorrise e riguardommi;\npoi si tornò a l'etterna fontana.",
+      "body": "「そのように私は祈った；そして彼女は、これほど遠くに見えながら、微笑んで私を見た；それから永遠の泉へ戻った（Così orai; e quella, sì lontana / come parea, sorrise e riguardommi; / poi si tornò a l'etterna fontana）」──ボルヘスが最も着目した三行。「sorrise e riguardommi（微笑んで私を見た）」──彼女は答えない。祈りに返答しない。ただ微笑む。そして「poi（それから）」──接続詞一語で場面が転換し、彼女は「永遠の泉（神）」へ戻る。ダンテの祈りへの応答は微笑みのみで、言語的な返答は永遠に与えられない。これがボルヘスの言う「最も冷酷な」場面。Purg. XXXI でのベアトリーチェの叱責（言語による激しい関与）との対比として、天国での「微笑みの沈黙」は遙かに距離が遠い。",
+      "targetId": "dante_purgatorio_canto_30",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "O donna in cui la mia speranza vige,\ne che soffristi per la mia salute\nin inferno lasciar le tue vestige",
+      "body": "「おお、私の中に希望が力を持つ女性よ、そしてあなたは私の救いのために地獄にあなたの足跡を残すことを耐えた（O donna in cui la mia speranza vige, / e che soffristi per la mia salute / in inferno lasciar le tue vestige）」──ダンテのベアトリーチェへの最後の呼びかけ（神曲の中でベアトリーチェに直接語りかける最後の場面）。「地獄に足跡を残した」──地獄篇第2歌でベアトリーチェがウェルギリウスにダンテを救う旅を依頼した場面の回想。全三篇にわたる巡礼の起点への言及が終点で回帰する。詩の円環構造。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La regina del cielo, ond'io ardore",
+      "body": "聖ベルナールとマリア──クレルヴォーの聖ベルナール（1090–1153）は中世最大のマリア崇敬の神学者であり、聖母マリアへの祈りを組織化した（「祈り、希望と慈悲の女王 Regina、spes nostra et misericordiae」）。ダンテはPar. XXXIII での神への最終的なとりなしをベルナールのマリアへの祈りという形で描く──Canto XXXI での「案内者の交代」（ベアトリーチェ→ベルナール）は、この神学的な方向性の転換（知性の案内者→愛の案内者）として機能する。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "come quei che forse di Croazia\nviene a veder la Veronica nostra,\nche per l'antica fame non sen sazia",
+      "body": "ヴェロニカの聖顔布──クロアチアからローマへの巡礼者がサン・ピエトロ大聖堂のヴェロニカ布（キリストの顔が布に残されたとされる聖遺物）を見る比喩。「古い飢え（antica fame）」──長い旅と長い待望の末にようやく実物を見た時の飽和しない渇望感。ダンテが聖ベルナールを見る驚嘆を、「ついに聖顔を見た巡礼者の言葉にならない感動」に喩える。この比喩は天国篇全体の「見ることの詩学」の集約──言語は飽和できない、「これがそれか」という問いの形で感動は残り続ける。"
+    }
+  ]
+}
