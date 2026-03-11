@@ -1649,6 +1649,18 @@ export default function App() {
                   {/* 段落コンテンツ */}
                   {!isCol && (
                     <div className={`px-3 pb-3 border-t ${borderClass}`}>
+                      {para.epigraphs && para.epigraphs.length > 0 && (
+                        <div className={`mt-2 mb-2 pl-3 border-l-2 space-y-1 ${darkMode ? 'border-stone-600' : 'border-stone-300'}`}>
+                          {para.epigraphs.map((ep, ei) => (
+                            <div key={ei}>
+                              <p className={`text-xs italic leading-snug font-serif ${darkMode ? 'text-zinc-400' : 'text-stone-500'}`}>{ep.text}</p>
+                              {(ep.author || ep.source) && (
+                                <p className={`text-xs ${darkMode ? 'text-zinc-600' : 'text-stone-400'}`}>— {[ep.author, ep.source].filter(Boolean).join(', ')}</p>
+                              )}
+                            </div>
+                          ))}
+                        </div>
+                      )}
                       {showOrig && orig && (
                         <p className={`pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
                       )}
@@ -2572,7 +2584,7 @@ export default function App() {
                       : darkMode ? 'hover:bg-zinc-800/60' : 'hover:bg-stone-50/80'
                   }`}
                 >
-                  <div className="flex items-center gap-3 min-w-0">
+                  <div className="flex items-center gap-2 min-w-0 overflow-hidden">
                     <span className={`text-sm font-sans w-7 shrink-0 tabular-nums select-none opacity-30 ${textClass}`}>{para.id}</span>
 
                     {/* verses バッジ（詩行番号あり：dante等） */}
@@ -2584,11 +2596,11 @@ export default function App() {
                       </span>
                     )}
 
-                    {/* speaker バッジ（戯曲のみ） */}
+                    {/* speaker バッジ（戯曲のみ）— max-w で長い名前を切り詰め */}
                     {hasSpeaker && (
-                      <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border shrink-0 ${
+                      <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border shrink-0 max-w-[160px] truncate ${
                         darkMode ? speakerColor.dark : speakerColor.light
-                      }`}>
+                      }`} title={para.speaker.toUpperCase()}>
                         {para.speaker.toUpperCase()}
                       </span>
                     )}
@@ -2660,6 +2672,29 @@ export default function App() {
                 {!isCollapsed && (
                   <div className={`px-6 pb-6 border-t ${borderClass}`}>
 
+                    {/* ── エピグラフ（Monna Innominata等、ダンテ・ペトラルカ引用） ── */}
+                    {para.epigraphs && para.epigraphs.length > 0 && (
+                      <div className={`mt-4 mb-3 pl-4 border-l-2 space-y-2 ${darkMode ? 'border-stone-600' : 'border-stone-300'}`}>
+                        {para.epigraphs.map((ep, ei) => (
+                          <div key={ei} className="flex flex-col gap-0.5">
+                            <p className={`text-sm italic leading-snug font-serif ${darkMode ? 'text-zinc-300' : 'text-stone-600'}`}>
+                              {ep.text}
+                            </p>
+                            {ep.translation && (
+                              <p className={`text-xs leading-snug pl-2 ${darkMode ? 'text-teal-400/70' : 'text-teal-700/70'}`}>
+                                {ep.translation}
+                              </p>
+                            )}
+                            {(ep.author || ep.source) && (
+                              <p className={`text-xs font-sans tracking-wide ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
+                                — {[ep.author, ep.source].filter(Boolean).join(', ')}
+                              </p>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
                     {/* ── 逐行対訳モード ── */}
                     {interlinear && showFrench && showOfficial && translation ? (
                       <div className="pt-4 mb-4">
@@ -2676,9 +2711,13 @@ export default function App() {
                               const origLines = getOriginalText(para).split('\n');
                               const transLines = translation.split('\n');
                               const maxLen = Math.max(origLines.length, transLines.length);
+                              const versesStart = para.verses ? (() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) : null; })() : null;
+                              let nonBlankCount = 0; // 空白行を除いた実詩行カウンター
                               return Array.from({ length: maxLen }, (_, i) => {
                                 const isBlankOrig = !origLines[i]?.trim();
                                 const isBlankTrans = !transLines[i]?.trim();
+                                if (!isBlankOrig) nonBlankCount++;
+                                const lineNum = versesStart != null ? versesStart + nonBlankCount - 1 : null;
                                 if (isBlankOrig && isBlankTrans) return (
                                   <div key={i} className="h-3" />
                                 );
@@ -2687,9 +2726,9 @@ export default function App() {
                                     {/* 原文行 */}
                                     {!isBlankOrig && (
                                       <div className="flex items-baseline gap-2">
-                                        {para.verses && (
+                                        {para.verses && lineNum != null && (
                                           <span className={`text-xs font-mono opacity-25 select-none shrink-0 ${textClass}`}>
-                                            {(() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) + i : ''; })()}
+                                            {lineNum}
                                           </span>
                                         )}
                                         <span className={`leading-relaxed font-serif ${textClass} ${
@@ -2735,9 +2774,13 @@ export default function App() {
                             const origLines = getOriginalText(para).split('\n');
                             const transLines = translation.split('\n');
                             const maxLen = Math.max(origLines.length, transLines.length);
+                            const versesStart = para.verses ? (() => { const m = para.verses.match(/v\.(\d+)/); return m ? parseInt(m[1]) : null; })() : null;
+                            let nonBlankCount = 0;
                             return Array.from({ length: maxLen }, (_, i) => {
                               const isBlankOrig = !origLines[i]?.trim();
                               const isBlankTrans = !transLines[i]?.trim();
+                              if (!isBlankOrig) nonBlankCount++;
+                              const lineNum = versesStart != null ? versesStart + nonBlankCount - 1 : null;
                               if (isBlankOrig && isBlankTrans) return (
                                 <div key={i} className={`h-3 ${darkMode ? 'bg-zinc-900' : 'bg-white'}`} />
                               );
@@ -2749,13 +2792,9 @@ export default function App() {
                                 } ${i < maxLen - 1 ? `border-b ${darkMode ? 'border-zinc-800' : 'border-stone-100'}` : ''}`}>
                                   {/* 原文セル */}
                                   <div className={`px-3 py-2 border-r ${darkMode ? 'border-zinc-700/60' : 'border-stone-200'}`}>
-                                    {para.verses && origLines[i] && !isBlankOrig && (
+                                    {para.verses && origLines[i] && !isBlankOrig && lineNum != null && (
                                       <span className={`text-xs font-mono mr-2 opacity-30 select-none ${textClass}`}>
-                                        {/* 行番号は verses の開始行 + offset */}
-                                        {(() => {
-                                          const m = para.verses.match(/v\.(\d+)/);
-                                          return m ? `${parseInt(m[1]) + i}` : '';
-                                        })()}
+                                        {lineNum}
                                       </span>
                                     )}
                                     <span className={`leading-relaxed font-serif ${textClass} ${
