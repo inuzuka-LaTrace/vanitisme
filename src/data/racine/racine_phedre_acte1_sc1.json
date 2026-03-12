@@ -1,0 +1,166 @@
+{
+  "id": "racine_phedre_acte1_sc1",
+  "title": "Phèdre — Acte I, Scène I",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677. テキスト底本: Œuvres complètes, éd. Georges Forestier, Bibliothèque de la Pléiade, Gallimard, Paris, 1999.",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 1,
+  "scenes": [1],
+  "characters": ["Hippolyte", "Théramène"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ラシーヌ最後の世俗悲劇（1677年）第1幕第1場。全劇1654行のうちv.1–113。登場人物はヒポリット（アテネ王テーセウスの息子）と傅役テラメーヌのみ。ヒポリットが「出発する」という宣言で劇が始まる（in medias res）。表面的な動機は父テーセウスの捜索だが、真の動機はアリシー（敵家の娘）への愛からの逃走。テラメーヌはその真相を引き出す腹心（confident）として機能する。場面の構造は二段階：前半（v.1–51）でヒポリットが「父を探す」という表の理由を語り、後半（v.52–113）でテラメーヌの執拗な問いかけによってアリシーへの愛が引き出される。ヒポリットは「逃げる（fuir）」という動詞を繰り返すことで、愛を告白することなく愛を語る——「語ること・語らないこと（dire et taire）」のラシーヌ語法の核心を体現する場面。次のScène IIでフェードルが初登場し、同じ「隠された愛」の主題がより苛烈な形で展開される。",
+  "keywords": [
+    "ヒポリット", "テラメーヌ", "テーセウス探索", "アリシーへの愛", "fuir（逃げる）", "腹心", "語ること・語らないこと", "in medias res", "アレクサンドランの力学"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte1_sc2_3",
+    "racine_phedre_acte1_sc4_5",
+    "racine_phedre_acte2_sc1_3",
+    "mallarme_herodiade_scene",
+    "valery_lettre_sur_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-7",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Le dessein en est pris : je pars, cher Théramène,\nEt quitte le séjour de l'aimable Trézène.\nDans le doute mortel dont je suis agité,\nJe commence à rougir de mon oisiveté.\nDepuis plus de six mois éloigné de mon père,\nJ'ignore le destin d'une tête si chère ;\nJ'ignore jusqu'aux lieux qui le peuvent cacher.",
+      "provisionalTranslation": "決意は固まった──出発する、親愛なるテラメーヌよ、\n愛すべきトレゼンの地を後にする。\n私が抱えるこの死のような迷いの中で、\n私はみずからの怠惰を恥じ始めている。\n父と離れて六ヶ月以上、\n私はその大切な人の運命を知らない。\n彼が身を隠しているかもしれない場所さえ知らないのだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8-21",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "Et dans quels lieux, seigneur, l'allez-vous donc chercher ?\nDéjà pour satisfaire à votre juste crainte,\nJ'ai couru les deux mers que sépare Corinthe ;\nJ'ai demandé Thésée aux peuples de ces bords\nOù l'on voit l'Achéron se perdre chez les morts ;\nJ'ai visité l'Élide, et laissant le Ténare,\nPassé jusqu'à la mer, qui vit tomber Icare.\nSur quel espoir nouveau, dans quels heureux climats\nCroyez-vous découvrir la trace de ses pas ?\nQui sait même, qui sait si le roi votre père\nVeut que de son absence on sache le mystère ?\nEt si lorsque avec vous nous tremblons pour ses jours,\nTranquille, et nous cachant de nouvelles amours,\nCe héros n'attend point qu'une amante abusée...",
+      "provisionalTranslation": "では殿、どこへ探しに行かれるのですか？\nすでに殿の正当な懸念に応えるべく、\n私はコリントが分かつ両海を渡りました。\n冥府の川アケロンが死者たちの国へ消える岸辺の民にテーセウスを尋ねました。\nエリスを訪れ、テナロスを後にして、\nイカロスが落ちた海まで渡りました。\nいかなる新たな希望で、いかなる幸いな土地で\n殿はその足跡を見つけようとお思いなのですか？\nそもそも誰が知りましょう、王であるお父上が\nその不在の謎を世に知らせることを望んでおられるのかどうかを。\nそして私たちがともにその身を案じているとき、\n静かに新たな恋を隠しながら──\nこの英雄は、騙された恋人が……と待ってはいない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.22-28",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Cher Théramène, arrête, et respecte Thésée.\nDe ses jeunes erreurs désormais revenu,\nPar un indigne obstacle il n'est point retenu ;\nEt fixant de ses vœux l'inconstance fatale,\nPhèdre depuis longtemps ne craint plus de rivale.\nEnfin en le cherchant je suivrai mon devoir,\nEt je fuirai ces lieux que je n'ose plus voir.",
+      "provisionalTranslation": "親愛なるテラメーヌよ、止まれ、テーセウスを敬え。\n若き日の過ちからはもはや立ち返った彼を、\n卑しい障害は引き留めていない。\n心変わりの致命的な移ろいに歯止めをかけ、\nフェードルはもはや長いこと恋仇を恐れていない。\n彼を探すことで私は義務を果たすだろう、\nそしてもはや見ることのできないこの地から逃れよう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.29-33",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "Eh ! depuis quand, seigneur, craignez-vous la présence\nDe ces paisibles lieux si chers à votre enfance,\nEt dont je vous ai vu préférer le séjour\nAu tumulte pompeux d'Athènes et de la cour ?\nQuel péril, ou plutôt quel chagrin vous en chasse ?",
+      "provisionalTranslation": "ええ！いつからこの穏やかな地の存在を恐れるのですか、殿、\n幼少のころから親しんだこの地を、\nアテネの壮麗な喧騒や宮廷よりも\nここに留まることを好んでおられたあの地を。\nいかなる危険が、あるいはむしろいかなる悲しみがあなたをここから追い立てるのですか？"
+    },
+    {
+      "id": 5,
+      "verses": "v.34-36",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Cet heureux temps n'est plus. Tout a changé de face,\nDepuis que sur ces bords les dieux ont envoyé\nLa fille de Minos et de Pasiphaé.",
+      "provisionalTranslation": "あの幸せな時は過ぎ去った。すべての様相が変わった、\nこの岸辺に神々が遣わして以来──\nミノスとパシファエの娘を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.37-47",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "J'entends. De vos douleurs la cause m'est connue.\nPhèdre ici vous chagrine, et blesse votre vue.\nDangereuse marâtre, à peine elle vous vit,\nQue votre exil d'abord signala son crédit.\nMais sa haine, sur vous autrefois attachée,\nOu s'est évanouie, ou s'est bien relâchée.\nEt d'ailleurs quels périls vous peut faire courir\nUne femme mourante, et qui cherche à mourir ?\nPhèdre, atteinte d'un mal qu'elle s'obstine à taire,\nLasse enfin d'elle-même et du jour qui l'éclaire,\nPeut-elle contre vous former quelques desseins ?",
+      "provisionalTranslation": "わかります。あなたの悩みの原因は私には明らかです。\nフェードルがここであなたを苦しめ、あなたの目を傷つけている。\n危険な継母、彼女はあなたを見るや否や、\nあなたの追放によってまずその権力を示した。\nしかし、かつてあなたに向けられた彼女の憎悪は、\n消え去ったか、すっかり緩んだ。\nそれ以上にいかなる危険があなたに迫ろうか、\n死にかけており、死を求める女から。\nフェードルは、言い張って黙し続ける病に冒され、\nついに自分自身と、自分を照らす昼の光に疲れ果て、\n果たしてあなたに対して何らかの企みを抱けるだろうか？"
+    },
+    {
+      "id": 7,
+      "verses": "v.48-51",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Sa vaine inimitié n'est pas ce que je crains.\nHippolyte en partant fuit une autre ennemie :\nJe fuis, je l'avouerai, cette jeune Aricie,\nReste d'un sang fatal conjuré contre nous.",
+      "provisionalTranslation": "彼女の空虚な敵意は私が恐れるものではない。\n出発するヒポリットは別の敵から逃げている。\n私は逃げる──告白しよう──あの若いアリシーから、\n私たちに対して図られた致命の血の最後の残りから。"
+    },
+    {
+      "id": 8,
+      "verses": "v.52-55",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "Quoi ! vous-même, seigneur, la persécutez-vous ?\nJamais l'aimable sœur des cruels Pallantides\nTrempa-t-elle aux complots de ses frères perfides ?\nEt devez-vous haïr ses innocents appas ?",
+      "provisionalTranslation": "なんと！殿、あなた自身が彼女を迫害するのですか？\n残酷なパランティダイの愛すべき姉妹は、\n裏切り者の兄弟たちの陰謀に加わったことがあるでしょうか？\nそして彼女の無垢な魅力を憎まなければならないのですか？"
+    },
+    {
+      "id": 9,
+      "verses": "v.56",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Si je la haïssais, je ne la fuirais pas.",
+      "provisionalTranslation": "もし私が彼女を憎んでいるなら、逃げはしない。"
+    },
+    {
+      "id": 10,
+      "verses": "v.57-76",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "Seigneur, m'est-il permis d'expliquer votre fuite ?\nPourriez-vous n'être plus ce superbe Hippolyte,\nImplacable ennemi des amoureuses lois,\nEt d'un joug que Thésée a subi tant de fois ?\nVénus, dont votre mère a senti la puissance,\nVoudrait-elle justifier Thésée en votre naissance ?\nEt vous, vivant soumis à sa loi souveraine,\nMalgré vous, soupireriez-vous pour la reine,\nQui hait même les noms que vous portez ?\nMais que sert d'affecter un superbe discours ?\nAvouez-le, tout change ; et depuis quelques jours,\nOn vous voit moins souvent, orgueilleux et sauvage,\nTantôt faire voler un char sur le rivage,\nTantôt, savant dans l'art par Neptune inventé,\nRendre docile au frein un coursier indompté ;\nLes forêts de nos cris moins souvent retentissent ;\nChargés d'un feu secret, vos yeux s'appesantissent ;\nIl n'en faut point douter, vous aimez, vous brûlez ;\nVous périssez d'un mal que vous dissimulez.\nLa charmante Aricie a-t-elle su vous plaire ?",
+      "provisionalTranslation": "殿、あなたの逃走を説明することは許されますか？\nあなたはもはやかのヒポリットではないのですか──\n愛の掟の容赦なき敵、\nテーセウスが幾度も服従したその軛の。\nあなたの母が感じたヴィーナスの力は、\nあなたの誕生においてテーセウスの行いを正当化しようとするのでしょうか？\nそして、その至高の掟に従って生きるあなたは、\n意に反して、あなたが持つ名前さえ憎む王妃のために溜め息をつくのでしょうか？\nしかし傲慢な言葉を装っても何になろう？\n認めてください、すべては変わった。ここ数日、\n傲慢で気ままなあなたが浜辺で戦車を走らせたり、\nネプトゥーヌスが発明した技を駆使して\n手のつけられない駿馬を手綱に従わせるのを見かけることが少なくなった。\n森は私たちの叫び声で鳴り響くことが少なくなった。\n秘かな火を帯びた瞳は重くなっている。\n疑う余地はない──あなたは愛している、燃えている。\nあなたは隠しているある病で滅びようとしている。\n魅力的なアリシーはあなたの心を捉えたのですか？"
+    },
+    {
+      "id": 11,
+      "verses": "v.77",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "Théramène, je pars, et vais chercher mon père.",
+      "provisionalTranslation": "テラメーヌ、私は出発する──父を探しに行く。"
+    },
+    {
+      "id": 12,
+      "verses": "v.78-79a",
+      "scene": 1,
+      "speaker": "Théramène",
+      "original": "Ne verrez-vous point Phèdre avant que de partir,\nSeigneur ?",
+      "provisionalTranslation": "出発の前にフェードルにお目にかかりませんか、\n殿？"
+    },
+    {
+      "id": 13,
+      "verses": "v.79b-81",
+      "scene": 1,
+      "speaker": "Hippolyte",
+      "original": "C'est mon dessein. Tu peux l'en avertir.\nVoyons-la, puisque ainsi mon devoir me l'ordonne.\nMais quel nouveau malheur trouble la chère Œnone ?",
+      "provisionalTranslation": "それが私の意図だ。彼女にそう伝えてよい。\n会おう、義務がそう命じるのだから。\nしかし、いかなる新たな不幸が親愛なるエノンを惑わすのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "古典フランス悲劇のアレクサンドラン（12音節）の基本構造：6＋6の等分による内部切れ目（césure）が各行の中央に置かれる。ラシーヌのアレクサンドランの特徴はこの等分を意味の緊張点として使うこと──第1行「Le dessein en est pris（6音節）：je pars, cher Théramène（6音節）」の切れ目が決意と呼びかけを二等分する。韻はcouplets（二行対句）──連続する2行が同じ韻を踏む（AABBCC……）。これによって「一つの命題（A行）＋その展開または反論（B行）」という対話の最小単位が韻的に完結する。エンジャンブマン（句またがり）は古典悲劇では最小限に抑えられ、例外的なエンジャンブマンは感情的崩壊・言語の制御不能のシグナルとして機能する。「語ること・語らないこと（dire et taire）」のラシーヌ的構造：ヒポリットはアリシーへの愛を「語らないために語る」──逃走の真の理由を語ることで認める逆説がScène I全体を貫く。ヴァレリー「Sur Phèdre femme」（Variété V, 1944）：「アレクサンドランはもはや単なる韻律の規則ではなく、完璧さの中で凝固しようとする思想そのものの法則である」。バルト『ラシーヌ論』（Sur Racine, 1963）は同じアレクサンドランを「コード（code）」として構造分析する──ヴァレリーの「内側から生理学的に」とバルトの「外側から記号体系として」が本ファイルの注釈の両軸をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le dessein en est pris : je pars, cher Théramène,\nEt quitte le séjour de l'aimable Trézène.",
+      "body": "フランス古典悲劇の中で最も有名な冒頭行のひとつ。「Le dessein en est pris（決意は固まった）」──動詞のない完了した状態の宣言で劇が始まる：in medias res（物語の中途から）という古典劇の原則に従い、観客は「決意」がいつどのように形成されたかを知らされないまま、その「完了」から劇に引き込まれる。コロン「：」による分断──決意の宣言（6音節）と行動（6音節「je pars」）の間の論理的・聴覚的な切れ目がアレクサンドランの力学を体現する。「aimable Trézène（愛すべきトレゼン）」──出発しようとしている土地を「愛すべき」と形容することで、そこを去ることの矛盾・苦痛が一語に圧縮される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Depuis que sur ces bords les dieux ont envoyé\nLa fille de Minos et de Pasiphaé.",
+      "body": "「ミノスとパシファエの娘（La fille de Minos et de Pasiphaé）」──フェードルの出自を名前でなく「父と母による換称（périphrase généalogique）」で示す。v.36にして初めてフェードルへの言及が現れるが、ヒポリットは「フェードル」と名指しできない──その言語的回避自体が彼女の存在の重さを示す。(1) フェードルが登場する前に神話的血脈（クレタ王ミノス＝冥界の審判者、パシファエ＝牛と交わりミノタウロスを産んだ女）を刻む。(2) 行末の「Pasiphaé」がアレクサンドランの韻を成す──ギリシャ固有名詞がフランス韻文に組み込まれる古典主義的技法の典型。バルト『ラシーヌ論』の「血（le Sang）」論：フェードルが「ミノスとパシファエの娘」であるという事実は、彼女の愛が「個人の罪」でなく「血が受け継ぐ呪いの発現」であることを劇の第36行に刻印する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Je fuis, je l'avouerai, cette jeune Aricie,\nReste d'un sang fatal conjuré contre nous.",
+      "body": "劇全体でアリシーが初めて名指しされる。「Je fuis, je l'avouerai（逃げる──告白しよう）」という構造がv.56の「Si je la haïssais, je ne la fuirais pas」と対をなす：§9が否定形で「逃げる＝愛の告白」を行うのに対し、ここでは肯定形で行う──同一の動詞「fuir（逃げる）」が二度、異なる論理で愛を語る。「sang fatal conjuré（敵対した致命的な血）」──アリシーはパランティダイ家（テーセウスに征服された王家）の末裔。バルト『ラシーヌ論』の「血」論：フェードルは「汚された血（パシファエの血）」によって愛に呪われ、ヒポリットは「敵の血（パランティダイの血）」を持つ者を愛することへの禁忌を感じる──この対称的な「血による呪縛」が劇全体の二重の悲劇構造を形成する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Si je la haïssais, je ne la fuirais pas.",
+      "body": "ラシーヌのhemistiche（半行）技法の典型例。「Si je la haïssais（6音節）/ je ne la fuirais pas（6音節）」：仮定と帰結が等分に配置され、愛の告白を愛の否定という形で行う逆説が一行に圧縮される。テラメーヌの長大な発話（v.57-76）に挟まれた単独行（v.56）が、その簡潔さゆえに最大の意味的重量を持つ。ヴァレリー「Sur Phèdre femme」の「声の密度（densité de la voix）」論：この行は演じられることで「haïssais（憎んでいた）」と「fuirais（逃げる）」の音響が「逃走という愛の告白」の逆説をさらに強化する。第2幕への連絡：ヒポリットのこの「fuir」はActe IIの「Présente, je vous fuis ; absente, je vous trouve」へと直接展開する──「逃げる」という行為がヒポリットにおいて「愛の定義」として機能する一貫したモチーフ。"
+    }
+  ]
+}
