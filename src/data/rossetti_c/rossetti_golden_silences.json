@@ -1,0 +1,86 @@
+{
+  "id": "rossetti_golden_silences",
+  "title": "Golden Silences",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Golden_Silences（2024年版）照合済み。初出: A Pageant and Other Poems, London: Macmillan, 1881.",
+  "year": "1881",
+  "firstPublication": "A Pageant and Other Poems, London: Macmillan, 1881.",
+  "difficulty": "中級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "全2連10行の短詩。「沈黙」を軸に生と死、現在と未来の対比を構築する。第1連：「ため息の沈黙」（生の孤独）と「何も言わぬ沈黙」（死）を対置し、「すべての生まれた者が知るだろう」と普遍的な運命を告げる。第2連：農耕のメタファー（種蒔き・収穫）によって沈黙を待機・希望に転じ、「沈黙たちは消えていく（silences vanish away）」という逆説で閉じる。Monna Innominataの内省的・個人的ソネットとは対照的に、よりアフォリズム的・普遍的な声調。ヴィクトリア朝詩の宗教的楽観主義と死生観を簡潔に体現する。",
+  "keywords": [
+    "沈黙", "生と死", "農耕メタファー", "種蒔き", "収穫", "希望", "Victorian poetry", "短詩"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-5",
+      "speaker": null,
+      "original": "There is silence that saith, \"Ah me!\"\nThere is silence that nothing saith;\nOne the silence of life forlorn,\nOne the silence of death;\nOne is, and the other shall be.",
+      "provisionalTranslation": "「ああ、悲しい」と語る沈黙がある。\n何も語らない沈黙がある。\nひとつは哀れな生の沈黙、\nひとつは死の沈黙。\nひとつは在り、もうひとつは来たるべきものだ。"
+    },
+    {
+      "id": 2,
+      "verses": "l.6-10",
+      "speaker": null,
+      "original": "One we know and have known for long,\nOne we know not, but we shall know,\nAll we who have ever been born;\nEven so, be it so,—\nThere is silence, despite a song.",
+      "provisionalTranslation": "ひとつを私たちは知り、長く知り続けてきた。\nひとつを私たちはまだ知らないが、やがて知るだろう、\nかつて生まれたことのあるすべての者は。\nそれでも、そうあれ、──\n歌があるにもかかわらず、沈黙はある。"
+    },
+    {
+      "id": 3,
+      "verses": "l.11-15",
+      "speaker": null,
+      "original": "Sowing day is a silent day,\nResting night is a silent night;\nBut whoso reaps the ripened corn\nShall shout in his delight,\nWhile silences vanish away.",
+      "provisionalTranslation": "種蒔きの日は沈黙の日、\n安らいの夜は沈黙の夜。\nしかし熟れた穀物を刈り取る者は\n喜びの中に叫ぶだろう、\n沈黙たちが消えていく中で。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "saith, \"Ah me!\"",
+      "body": "「Ah me」は嘆きの間投詞。「語る沈黙」という撞着語法（oxymoron）で始まり、沈黙に声を与える。生の孤独（forlorn）が言葉にならないまま「ため息」として滲み出る状態を指す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "the other shall be",
+      "body": "「is」（現在の生の沈黙）と「shall be」（来たるべき死の沈黙）の時制の対比。死は確実な未来として静かに予告される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Even so, be it so",
+      "body": "ラテン語の「Amen（そのようにあれ）」に対応する英語的表現。諦念でも絶望でもなく、摂理への静かな承認。ロセッティのキリスト教信仰が滲む一句。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "silence, despite a song",
+      "body": "第1連の締め括り。「歌」（詩・声・生）があってもなお沈黙は残るという逆説。詩作行為そのものへの自己言及とも読める──詩を書いても沈黙は消えない。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sowing day is a silent day",
+      "body": "第2連は農耕メタファーに転じ、沈黙を「待機・潜在」として再定義する。種蒔きの沈黙は無ではなく、やがて収穫の叫びへと変わる準備状態。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "body": "農耕・刈り入れのイメージはパウロ書簡（Galatians 6:7「人は蒔いたものを刈り取る」）の反響。ロセッティの詩には聖書的農耕メタファーが頻出し、死後の収穫＝復活という神学的楽観主義と結びつく。",
+      "anchor": "whoso reaps the ripened corn"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "silences vanish away",
+      "body": "詩全体の逆転の一句。冒頭の二種の沈黙（生の孤独・死）が「消えていく」と宣言することで、沈黙は最終的なものでも永続するものでもなくなる。喜びの「叫び」が沈黙を上書きする終幕。"
+    }
+  ]
+}
