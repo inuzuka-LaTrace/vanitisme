@@ -1,0 +1,119 @@
+{
+  "id": "verlaine_serenade",
+  "title": "Sérénade",
+  "author": "Paul Verlaine",
+  "source": "Poèmes saturniens, Lemerre, 1866, p. 93–95. 底本: Wikisource fr.wikisource.org/wiki/Poèmes_saturniens_(1866)/Sérénade（2023年版）照合済み。",
+  "year": "1866",
+  "firstPublication": "Poèmes saturniens, Alphonse Lemerre, 1866.",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルレーヌ（1844–1896）の処女詩集『土星の詩（Poèmes saturniens）』（1866年）所収。全8連各4行、8音節詩行と5音節詩行の交替（8+5/8+5）という非対称な韻律。第1・2連が第4・5連でリフレインとして反復される特殊な構造──詩の前半と後半を額縁のように括り、反復が毒の累積効果をもたらす。「セレナーデ（夕べの窓辺の歌）」という恋愛詩の伝統的形式を採用しながら、語り手は自らの声を「死者の声」「甲高く偽りの声（voix aigre et fausse）」と定義する。讃美の対象は順に：目（黄金とオニキス）→胸（忘却の川レーテ）→髪（冥界の川ステュクス）→肉体の香り→口づけと残酷さ──そして最後の「Mon Ange ! — ma Gouge !（私の天使！──私の淫売！）」という二項の同一視で詩が爆発する。ヴェルレーヌの初期詩に特徴的な皮肉的・自嘲的愛の詩法を示す代表作。",
+  "keywords": [
+    "セレナーデ", "皮肉", "讃美詩の転倒", "レーテ", "ステュクス", "死者の声", "二項対立", "初期ヴェルレーヌ", "Poèmes saturniens"
+  ],
+  "relatedTexts": [
+    "verlaine_clair_de_lune",
+    "baudelaire_spleen_et_ideal",
+    "rodenbach_les_femmes_tristes",
+    "rossetti_soeur_louise"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Comme la voix d'un mort qui chanterait\nDu fond de sa fosse,\nMaîtresse, entends monter vers ton retrait\nMa voix aigre et fausse.",
+      "provisionalTranslation": "墓穴の底から歌う死者の声のように、\n愛しい人よ、あなたの閨へと\n昇っていくのを聞いてほしい、\n私の甲高く偽りの声を。"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "Ouvre ton âme et ton oreille au son\nDe ma mandoline :\nPour toi j'ai fait, pour toi, cette chanson\nCruelle et câline.",
+      "provisionalTranslation": "私のマンドリンの音に\nあなたの魂と耳を開いてほしい。\nあなたのために作った、あなたのために、この歌を、\n残酷で甘えるこの歌を。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-12",
+      "speaker": null,
+      "original": "Je chanterai tes yeux d'or et d'onyx\nPurs de toutes ombres,\nPuis le Léthé de ton sein, puis le Styx\nDe tes cheveux sombres.",
+      "provisionalTranslation": "私は歌おう、黄金とオニキスの瞳を、\nあらゆる影を払った清らかな瞳を。\nそれから胸のレーテの川を、それから暗い\nあなたの髪のステュクスの川を。"
+    },
+    {
+      "id": 4,
+      "verses": "l.13-16",
+      "speaker": null,
+      "original": "Comme la voix d'un mort qui chanterait\nDu fond de sa fosse,\nMaîtresse, entends monter vers ton retrait\nMa voix aigre et fausse.",
+      "provisionalTranslation": "墓穴の底から歌う死者の声のように、\n愛しい人よ、あなたの閨へと\n昇っていくのを聞いてほしい、\n私の甲高く偽りの声を。"
+    },
+    {
+      "id": 5,
+      "verses": "l.17-20",
+      "speaker": null,
+      "original": "Puis je louerai beaucoup, comme il convient,\nCette chair bénie\nDont le parfum opulent me revient\nLes nuits d'insomnie.",
+      "provisionalTranslation": "それから私は讃えよう、礼儀にしたがって、\nあの祝福された肉体を、\nその豊潤な香りが私に戻ってくる\n不眠の夜に。"
+    },
+    {
+      "id": 6,
+      "verses": "l.21-24",
+      "speaker": null,
+      "original": "Et pour finir, je dirai le baiser\nDe ta lèvre rouge,\nEt ta douceur à me martyriser,\n— Mon Ange ! — ma Gouge !",
+      "provisionalTranslation": "そして締めに、私は語ろう、赤い唇の\n口づけを、\n私を苦しめるあなたの甘さを、\n──私の天使！──私の淫売！"
+    },
+    {
+      "id": 7,
+      "verses": "l.25-28",
+      "speaker": null,
+      "original": "Ouvre ton âme et ton oreille au son\nDe ma mandoline :\nPour toi j'ai fait, pour toi, cette chanson\nCruelle et câline.",
+      "provisionalTranslation": "私のマンドリンの音に\nあなたの魂と耳を開いてほしい。\nあなたのために作った、あなたのために、この歌を、\n残酷で甘えるこの歌を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "韻律は8音節＋5音節の二行組（8+5/8+5）の交替。フランス詩の標準的なアレクサンドラン（12音節）やオクトシラブ（8音節）からの逸脱──長短の非対称リズムが「甲高く偽りの声（voix aigre et fausse）」という自己定義と呼応する。第1・2連（l.1-8）が第4・5連として完全反復されるリフレイン構造。反復により「死者の声」と「残酷で甘えた歌」という定義が毒として詩の中盤に再注入される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Comme la voix d'un mort qui chanterait / Du fond de sa fosse",
+      "body": "詩の第一行で語り手は自分の声を「墓穴の底から歌う死者の声」と定義する──セレナーデという生者の愛の歌の形式を死者の声で始めるという根本的な転倒。ロデンバック「Lacrymæ rerum」の「nous sommes un écho（私たちはこだまに過ぎない）」という詩人の受動的定義と対照的に、ヴェルレーヌは自ら「死者」「偽りの声」と積極的に自己否定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Cruelle et câline",
+      "body": "「残酷で甘える（cruelle et câline）」──第2連末の二項対立がこの詩全体の基本構造を宣言する。最終連の「Mon Ange ! — ma Gouge !」という二項への布石。câline（甘える・なだめる）はcruelle（残酷）と意味的に反撥する形容詞──この矛盾した形容が歌そのものの性格を定義する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "le Léthé de ton sein, puis le Styx / De tes cheveux sombres",
+      "body": "「胸のレーテ（Léthé）、髪のステュクス（Styx）」──ギリシア冥界の二つの川。レーテは忘却の川（飲むと生前の記憶を忘れる）、ステュクスは死者の世界を七重に囲む誓いの川。女性の身体部位に冥界の川の名を与えることで、讃美が冥界への降下の地図となる──胸に触れることは忘却に溺れること、暗い髪は不帰の境界。ボードレールの「La Chevelure」で女性の髪が官能的宇宙旅行の乗り物となる比喩と類比的だが、ヴェルレーヌはより直截に冥界の地名を使う。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Cette chair bénie / Dont le parfum opulent me revient / Les nuits d'insomnie",
+      "body": "「不眠の夜に戻ってくる香り」──肉体への讃美の儀礼的表現（「comme il convient（礼儀にしたがって）」）の下に、不眠の苦しみが透けて見える。香りが「戻ってくる（revient）」という動詞が記憶の自動的・強迫的な回帰を示す。ダヌンツィオ「Romanza della donna velata」で記憶が「mi sovviene（思い出す）」と繰り返し戻ってくる構造と同型──ただしダヌンツィオが記憶の美しさを惜しむのに対し、ヴェルレーヌは苦痛として記憶の回帰を語る。",
+      "targetId": "dannunzio_romanza_donna_velata"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mon Ange ! — ma Gouge !",
+      "body": "詩全体のクライマックス。「Mon Ange（私の天使）！──ma Gouge（私の淫売）！」──ダッシュを挟んだ二項の並置が詩の「cruelle et câline」という宣言を完成させる。Ange（天使）は崇高・純粋・非肉体的な愛の表象、Gouge（古語：淫売）は肉体的・低俗な愛の表象──両者が同一の「toi（あなた）」への呼格として等置される。ロセッティ「Sœur Louise de la Miséricorde」の「I have desired, and I have been desired」という欲望の対称構造を、ヴェルレーヌは一行の爆発的対比に凝縮する。",
+      "targetId": "rossetti_soeur_louise"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Pour toi j'ai fait, pour toi, cette chanson / Cruelle et câline",
+      "body": "第2連のリフレイン反復。同一の詩行が「Mon Ange ! — ma Gouge !」の直後に置かれることで意味が変容する──最初の反復では「残酷で甘える歌」は単なる自己定義だったが、今回は「天使にして淫売」への歌という意味が確定した後の言葉として響く。リフレインが詩の進行によって遡及的に意味を変える構造──ダヌンツィオ「Psiche giacente」の環状構造（第1連と第7連の同一句）が最終行の大文字で破壊されるのと対照的に、ヴェルレーヌのリフレインは爆発後の静かな確認として機能する。",
+      "targetId": "dannunzio_psiche_giacente"
+    }
+  ]
+}
