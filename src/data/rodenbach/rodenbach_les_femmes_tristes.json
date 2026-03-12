@@ -1,0 +1,97 @@
+{
+  "id": "rodenbach_les_femmes_tristes",
+  "title": "Les Femmes tristes",
+  "author": "Georges Rodenbach",
+  "source": "Les Tristesses, Alphonse Lemerre, éditeur, 1879, p. 54. 底本: Wikisource fr.wikisource.org/wiki/Les_Tristesses/Les_Femmes_tristes（2024年版）照合済み。",
+  "year": "1879",
+  "firstPublication": "Les Tristesses, Alphonse Lemerre, éditeur, 1879.",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック第2詩集『悲しみ』（1879年）所収のソネット。韻律はABBA-ABBA-CCD-EDE（フランス式ソネット）。オクターヴ（l.1-8）で悲しい女性たちへの共感と聖遺物崇拝にも似た崇敬を語り、セステット（l.9-14）で「悲しみを引き寄せる愛」という逆説的な愛の定義を提示する。「白い額（fronts blancs）」→「星のような目（yeux étoilent）」→「聖堂の香（parfums d'encens）」→「海の燐光（phosphorescence de la mer）」と、感覚的イメージが宗教的・宇宙的スケールへと拡大する詩法が後期象徴主義の萌芽を示す。最終行「Mon amour est un feu que les larmes attirent（私の愛は涙が引き寄せる炎だ）」は詩全体の命題的集約──愛と悲しみが反撥でなく吸引の関係にあるという逆説がローデンバック詩学の中核をなす。",
+  "keywords": [
+    "悲しみ", "白", "女性", "愛", "涙", "炎", "燐光", "逆説", "ソネット", "初期ローデンバック"
+  ],
+  "relatedTexts": [
+    "rodenbach_loubli",
+    "rodenbach_lange_envole",
+    "baudelaire_spleen_et_ideal",
+    "verlaine_romances_sans_paroles"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Les fronts blancs, les fronts doux, les fronts mélancoliques\nDes femmes dont les yeux étoilent la pâleur\nFont tant sympathiser mon âme avec la leur,\nQue j'y mettrais ma lèvre ainsi qu'à des reliques.",
+      "provisionalTranslation": "白い額、柔らかな額、憂いを帯びた額、\nその眼が蒼白に星のような輝きを散らす女性たちの額は、\n私の魂を彼女たちの魂とこれほどに共鳴させるので、\nまるで聖遺物に触れるように、そこに唇を当てたいほどだ。"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "Je voudrais dans mon être amasser la chaleur\nEt les parfums d'encens des vieilles basiliques\nPour faire refleurir l'amour des bucoliques\nEt faire évaporer en elles la douleur.",
+      "provisionalTranslation": "私は自らの内に、古い大聖堂の温もりと\n香の薫りを蓄えたいと思う、\n牧歌の愛を再び花開かせ、\n彼女たちの苦しみを蒸発させるために。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-11",
+      "speaker": null,
+      "original": "Oh ! les femmes qui sont tristes ! Je les préfère\nEt mon cœur se dilate à la tiède atmosphère\nDes pleurs discrets auxquels je trouve un charme amer ;",
+      "provisionalTranslation": "ああ！悲しい女性たちよ！私は彼女たちを愛する、\nそっと流される涙の生ぬるい空気の中で\n私の心は広がる──私がほろ苦い魅力を見出すその涙の中で。"
+    },
+    {
+      "id": 4,
+      "verses": "l.12-14",
+      "speaker": null,
+      "original": "Car mon amour ressemble aux lueurs qui s'étirent\nDans la phosphorescence étrange de la mer :\nMon amour est un feu que les larmes attirent.",
+      "provisionalTranslation": "なぜなら私の愛は、海の不思議な燐光の中に\n伸びひろがる光の筋に似ているから。\n私の愛は涙が引き寄せる炎だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "フランス式ソネット（ABBA-ABBA-CCD-EDE）。韻：reliques/basiliques（A）、pâleur/leur/chaleur/douleur（B）、préfère/atmosphère/mer（C）、s'étirent/attirent（D）、amer（E）。アレクサンドラン12音節。最終行がD-E-Dのセステット末行として詩全体の命題を担う──「Mon amour est un feu que les larmes attirent」が愛の定義として詩を閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Les fronts blancs, les fronts doux, les fronts mélancoliques",
+      "body": "三連の「fronts（額）」反復で詩が始まる──同一名詞に三つの形容詞（blanc/doux/mélancolique）を累積する列挙は、Devant une tête de mortの五類型羅列と同型の詩法。ただしあちらが死者の匿名性を問うのに対し、ここでは生きた女性たちの表情が詩人の魂と共鳴する。「blanc（白）」はローデンバックの白系列の語彙（L'oubliの墓の白、L'ange envoléの雪）の連続だが、ここでは死ではなく脆弱な生の色として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "j'y mettrais ma lèvre ainsi qu'à des reliques",
+      "body": "「聖遺物に触れるように唇を当てる」──悲しい女性の額を聖遺物として崇拝するという比喩は、愛の感情を宗教的崇敬へと昇華させる。ボードレールの「Bénédiction」や「La Beauté」における女性の非人格化・偶像化と類比的だが、ローデンバックは美しさではなく悲しさを崇拝の対象とする点が独自。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "parfums d'encens des vieilles basiliques",
+      "body": "「古い大聖堂の香の薫り」──宗教的空間のイメージが第1四行詩の「reliques」から継続する。詩人が「蓄えたい」のは温もりと香り──これは物質的なものでなく感覚的な雰囲気（atmosphère）であり、第3三行詩の「tiède atmosphère des pleurs（涙の生ぬるい空気）」へと接続する。宗教的な空気感が悲しみの空気感へとずれていく。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "pleurs discrets … charme amer",
+      "body": "「そっと流される涙」と「ほろ苦い魅力（charme amer）」──「amer（苦い）」はSœur Louise（ロセッティ）の「larmes amères（苦い涙）」と同一語。ただしロセッティでは苦い涙は欲望の燃え尽きた残滓だが、ローデンバックでは苦い涙がそれ自体として魅力的・美的な対象となる。涙の美学化がローデンバックの中期詩学の特徴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "phosphorescence étrange de la mer",
+      "body": "「海の不思議な燐光」──ローデンバック初期詩学における最も象徴主義的なイメージ。燐光は暗闇の中でのみ光る──悲しみという暗闇の中でのみ輝く愛の比喩として機能する。Devant une tête de mortの「La lampe éteinte sert à me prouver la flamme（消えた灯明が炎を証明する）」と同型の逆説：消滅・暗闇・悲しみが光・炎・愛を可能にする。",
+      "targetId": "rodenbach_devant_tete_de_mort"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mon amour est un feu que les larmes attirent",
+      "body": "詩全体の命題的結語。「愛は涙が引き寄せる炎」──これはローデンバックの悲しみへの詩的立場の宣言でもある。通常、涙は炎を消す（水と火は反撥）。ローデンバックはこの常識を逆転させ、涙が炎を「引き寄せる（attirer）」と言う。Sœur Louise（ロセッティ）が「死に打たれた愛」「消えてしまった炎」として愛の終焉を語るのと対照的に、ローデンバックは悲しみを愛の燃料として提示する。",
+      "targetId": "rossetti_soeur_louise"
+    }
+  ]
+}
