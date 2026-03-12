@@ -1,0 +1,99 @@
+{
+  "id": "verlaine_un_dahlia",
+  "title": "Un Dahlia",
+  "author": "Paul Verlaine",
+  "source": "Poèmes saturniens, Lemerre, 1866, p. 99–100. 底本: Wikisource fr.wikisource.org/wiki/Poèmes_saturniens_(1866)/Un_Dahlia（2023年版）照合済み。",
+  "year": "1866",
+  "firstPublication": "Poèmes saturniens, Alphonse Lemerre, 1866.",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "『土星の詩』（1866年）所収。全12行、3行×4連、韻律はAAB/CCB/DDE/FFE（変形ソネット）のアレクサンドラン。Sérénade（同詩集、p.93–95）の直後に置かれ、女性への「皮肉的讃美」というテーマを共有しながら対照的な詩法をとる──Sérénadeが声・音楽・官能の詩なら、Un Dahliaは沈黙・無香・視覚の詩。「遊女（Courtisane）」の描写が第9行末の「— Ainsi le Dahlia（──かくてダリアは）」というダッシュで転換し、比喩が女性からダリアへと逆転する。ダリアはメキシコ原産の花で、19世紀フランスに移入された当時「美しいが香りがない」という評判を持っていた。この「無香の美」が詩全体の主題──感覚の不在が美の本質となる逆説。ゴーティエの「芸術のための芸術（l'art pour l'art）」詩学──感情・道徳的内容を排した純粋形式の美──との連絡も指摘される。",
+  "keywords": [
+    "ダリア", "遊女", "無香", "偶像", "芸術のための芸術", "ゴーティエ", "冷たい美", "初期ヴェルレーヌ", "Poèmes saturniens"
+  ],
+  "relatedTexts": [
+    "verlaine_serenade",
+    "baudelaire_une_charogne",
+    "gautier_emaux_et_camees",
+    "dannunzio_donna_sarcofago"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-3",
+      "speaker": null,
+      "original": "Courtisane au sein dur, à l'œil opaque et brun\nS'ouvrant avec lenteur comme celui d'un bœuf,\nTon grand torse reluit ainsi qu'un marbre neuf.",
+      "provisionalTranslation": "硬い胸を持ち、不透明な褐色の眼で、\n雄牛の眼のようにゆっくりと開く遊女よ、\nお前の大きな胴体は新しい大理石のように光る。"
+    },
+    {
+      "id": 2,
+      "verses": "l.4-6",
+      "speaker": null,
+      "original": "Fleur grasse et riche, autour de toi ne flotte aucun\nArôme, et la beauté sereine de ton corps\nDéroule, mate, ses impeccables accords.",
+      "provisionalTranslation": "豊かで肉厚な花よ、お前の周りにはいかなる\n香りも漂わない。そしてお前の肉体の静かな美は、\n艶消しに、その完璧な調和を広げていく。"
+    },
+    {
+      "id": 3,
+      "verses": "l.7-9",
+      "speaker": null,
+      "original": "Tu ne sens même pas la chair, ce goût qu'au moins\nExhalent celles-là qui vont fanant les foins,\nEt tu trônes, Idole insensible à l'encens.",
+      "provisionalTranslation": "お前は肉の匂いさえしない、干し草を作りながら歩く\nあの女たちが少なくとも発散する、あの体の香りさえも。\nそしてお前は君臨する、香炉にも無感覚な偶像として。"
+    },
+    {
+      "id": 4,
+      "verses": "l.10-12",
+      "speaker": null,
+      "original": "— Ainsi le Dahlia, roi vêtu de splendeur,\nÉlève sans orgueil sa tête sans odeur,\nIrritant au milieu des jasmins agaçants !",
+      "provisionalTranslation": "──かくてダリアは、栄光をまとった王として、\n誇りもなく、その無香の頭を高く掲げる、\n苛立たしいジャスミンたちの真ん中で、じりじりと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全12行アレクサンドラン、3行連×4（AAB/CCB/DDE/FFE）──ソネット（4+4+3+3）の変形。3行連の構造はゴーティエの「エナメルとカメオ（Émaux et Camées）」の3行連（トリオレ形式）を想起させ、ヴェルレーヌの師的存在への意識的な参照とも読める。第9行末の「— Ainsi le Dahlia」のダッシュが詩を二分する──ここまでが「遊女」の描写、ここから「ダリア」の比喩という転換。この転換で比喩の方向が逆転する：通常「A（人）はB（花）のようだ」という順序が、「実はAはBだった」という等式に変わる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "à l'œil opaque et brun / S'ouvrant avec lenteur comme celui d'un bœuf",
+      "body": "「雄牛の眼のようにゆっくり開く不透明な褐色の眼」──動物的比喩による脱人格化。Sérénadeで「tes yeux d'or et d'onyx（黄金とオニキスの瞳）」として宝石的に讃美された眼が、ここでは「雄牛の眼」という重くのろい動物のそれとして提示される。同じ『土星の詩』内でも女性への眼差しが讃美と軽蔑の間を揺れていることが見えてくる。",
+      "targetId": "verlaine_serenade"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la beauté sereine de ton corps / Déroule, mate, ses impeccables accords",
+      "body": "「艶消しに、完璧な調和を広げる」──「mate（艶消し）」という語が詩の感覚的核心。光沢がない、反射しない、熱を発しない──これは「marbre neuf（新しい大理石）」と同型の冷たい美。ゴーティエの「Vénus victorieuse」や彫刻的美の詩学（感情なき完璧な形式）の継承。ダヌンツィオ「La donna del sarcofago」の「attitudine regale（王者の態度）」とともに、冷たく超然とした女性像の系列に位置する。",
+      "targetId": "dannunzio_donna_sarcofago"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "celles-là qui vont fanant les foins",
+      "body": "「干し草を作りながら歩く女たち」──農村の労働する女性への対比的言及。この女性たちは「肉の香り（la chair）」を発散する──すなわち生きた体の熱と匂いを持つ。遊女（Courtisane）の「無香の美」は、このいかにも生きた農村女性と対置されることで、その死の彫刻的性格が際立つ。ロデンバックの「Les Femmes tristes」で「悲しい女性たち」が生きた感情の担い手として讃美されるのとは対照的。",
+      "targetId": "rodenbach_les_femmes_tristes"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "tu trônes, Idole insensible à l'encens",
+      "body": "「香炉にも無感覚な偶像」──Sérénadeの「Mon Ange!（私の天使）」という呼格とは逆の、崇拝を受け付けない「偶像」への昇格。「encens（香炉・香木）」はカトリック典礼の香でもあり、礼拝されても感じない偶像という宗教的パロディ。ロデンバックの「Les Femmes tristes」で「聖遺物に触れるように（ainsi qu'à des reliques）」と崇敬される悲しい女性たちと正反対の位置に置かれる──崇拝を受け入れる vs 崇拝を感知しない。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ainsi le Dahlia, roi vêtu de splendeur, / Élève sans orgueil sa tête sans odeur",
+      "body": "詩の転換点──「──Ainsi（かくて）」のダッシュで比喩が完成する。「roi vêtu de splendeur（栄光をまとった王）」という称号は「Idole（偶像）」「Courtisane」の系列を引き継ぎ、ダリアを王として提示する。「sans orgueil（誇りもなく）sa tête sans odeur（無香の頭）」──誇りがないというのはダリアが意識的に超然としているのではなく、ただ生来そうあるという無自覚的な絶対性。これが「偶像」よりもさらに人格を排した存在として、女性とダリアの等値を完成させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Irritant au milieu des jasmins agaçants",
+      "body": "詩の最終行。「苛立たしいジャスミンたちの真ん中で、じりじりと（irritant）」──ジャスミンは強烈な香りを持つ花。無香のダリアが香りで周囲を圧倒するジャスミンの中に屹立するという逆説的な構図で詩が閉じる。「agaçants（苛立たしい）」という形容がジャスミンの香りを攻撃的なものとして提示し、その中で無言・無香を貫くダリア＝遊女＝偶像の超然性が最後に際立つ。Sérénadeの爆発的な「Mon Ange ! — ma Gouge !」との対比──爆発 vs 冷たい閉幕。",
+      "targetId": "verlaine_serenade"
+    }
+  ]
+}
