@@ -1,0 +1,79 @@
+{
+  "id": "dannunzio_donna_sarcofago",
+  "title": "La donna del sarcofago",
+  "author": "Gabriele D'Annunzio",
+  "source": "Poema paradisiaco, sezione Hortus Larvarum. 初版: Gabriele D'Annunzio, L'orto e la prora, Milano, Fratelli Treves Editori, 1896. 底本: Wikisource it.wikisource.org/wiki/Poema_paradisiaco/Hortus_Larvarum/La_donna_del_sarcofago（2025年版）照合済み。",
+  "year": "1893",
+  "firstPublication": "Poema paradisiaco, Milano, Fratelli Treves Editori, 1893.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it",
+  "modernRelevance": "★★★★☆",
+  "context": "「Hortus Larvarum（幽霊たちの庭）」詩群所収のソネット。副題「Da un prerafaelita（あるラファエル前派画家より）」──画家名は特定されていないが、ラファエル前派の女性肖像（ロセッティ兄のダンテ・ガブリエル、バーン＝ジョーンズ等）の特徴である謎めいた表情・官能性・古代的背景を詩の出発点とする。Psiche giacenteと同じくekphrasis（絵画詩）だが、こちらはプシュケの眠りの無垢ではなく「罪の予兆を帯びた覚醒した女性」を描く。ローマの石棺（sarcofago）の上に座す女性がエディプスを待つスフィンクスのように問われ続ける──謎・罪・過去の犯罪という三重の不透明さの中に置かれる。イタリア式ソネット（ABBA-ABBA / CDC-DCD）。最終3行「profondi occhi impudichi / ombrati già da la futura colpa / trapassano ombre di delitti antichi（深い恥知らずの眼に、来るべき罪の影がすでに射し、古い犯罪の影が通り過ぎる）」が詩全体の謎を開くことなく閉じる。",
+  "keywords": [
+    "絵画詩", "ソネット", "謎", "スフィンクス", "罪", "石棺", "ラファエル前派", "女性表象", "ekphrasis", "ダヌンツィオ"
+  ],
+  "relatedTexts": [
+    "dannunzio_psiche_giacente",
+    "rossetti_monna_innominata",
+    "dante_inferno_canto_5",
+    "rodenbach_devant_tete_de_mort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-8",
+      "speaker": null,
+      "original": "La donna in attitudine regale\nsopra il grande sarcofago romano\nassisa — ov'è scolpita, opra di mano\nmirabile, una pompa funerale —\naspetta forse l'Edipo fatale\nche disciolga l'enigma sovrumano?\no la sorella Morte che il profano\nsogno chiuda nel marmo sepolcrale?",
+      "provisionalTranslation": "王者の態度でローマの大石棺の上に\n座す女性──その石棺には\n驚くべき職人の手による\n葬礼の行列が刻まれている──\n彼女は待っているのか、超人的な謎を\n解き明かす運命のエディプスを？\nそれとも、不遜な夢を\n埋葬の大理石の中に閉ざす姉妹・死を？"
+    },
+    {
+      "id": 2,
+      "verses": "l.9-14",
+      "speaker": null,
+      "original": "La sua bocca non dice il suo pensiero.\nChi suggerà da la sanguigna polpa\ndi quel frutto l'essenza del mistero?\nAspetta. E ne' profondi occhi impudichi,\nombrati già da la futura colpa,\ntrapassano ombre di delitti antichi.",
+      "provisionalTranslation": "その口は心を語らない。\n誰があの果実の血のような果肉から\n謎の本質を吸い出せるだろうか？\n彼女は待っている。そして深い恥知らずの眼の中に、\nすでに来るべき罪の影に曇りながら、\n古い犯罪の影が通り過ぎる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "イタリア式ソネット（ABBA-ABBA / CDC-DCD）。エンデカシッラボ（11音節）。オクターヴ（l.1-8）は二つの疑問文「aspetta forse… ？ / o la sorella Morte… ？」で構成される──答えのない問いが詩全体の謎の構造を形式で体現する。セステット（l.9-14）は「bocca non dice（口は語らない）」→「Chi suggerà…？（誰が…？）」→「Aspetta（待っている）」→「trapassano ombre（影が通り過ぎる）」と、問いが答えを持たないまま暗闇へと沈んでいく。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "l'Edipo fatale / che disciolga l'enigma sovrumano",
+      "body": "「超人的な謎を解く運命のエディプス」──スフィンクスの謎かけを解いたオイディプスの神話。女性がスフィンクスとして提示され、詩人＝観者がオイディプスの立場に置かれる。しかし謎は解かれない──オイディプスが謎を解けばスフィンクスは死ぬが、ここでは謎のまま詩が終わる。ロデンバックの「Devant une tête de mort」で「誰だったのか──誰が知ろう？」と問われた骸骨と同型の「解答不能の謎」だが、ロデンバックが信仰によって謎を超えるのに対し、ダヌンツィオは謎を罪の不透明さとして提示したまま終わる。",
+      "targetId": "rodenbach_devant_tete_de_mort"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la sorella Morte",
+      "body": "「姉妹・死（sorella Morte）」──フランチェスコ・ダッシジの「太陽の讃歌（Cantico di frate Sole）」に由来する「姉妹・死（Sora nostra Morte corporale）」の言い換え。中世イタリア詩の死の擬人化を継承しながら、ここでは「il profano sogno（不遜な夢）を閉ざす」として死が一種の解放・封印として機能する。Psiche giacenteの「LAMPADA FATALE（運命の灯）」と同様、死が謎の「解決」として現れる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La sua bocca non dice il suo pensiero",
+      "body": "「その口は心を語らない」──ラファエル前派の謎めいた女性表象の詩的翻訳。バーン＝ジョーンズ、ダンテ・ガブリエル・ロセッティの絵画における女性の口は半ば開かれ、官能的でありながら何も語らない──視覚的な「不語（silence）」をダヌンツィオが言語化する逆説。クリスティーナ・ロセッティの「Monna Innominata」序文が「名もなき女性の声」を想像するのとは逆に、ダヌンツィオは沈黙そのものを表象の核心とする。",
+      "targetId": "rossetti_monna_innominata"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "da la sanguigna polpa / di quel frutto l'essenza del mistero",
+      "body": "「血のような果肉の果実から謎の本質を吸い出す」──果実・口・吸う（suggere）という感覚的連鎖が官能性と知的探求を融合する。「sanguigna polpa（血の果肉）」はザクロや無花果を想起させ、禁断の果実（知恵の木の実）の連想を呼ぶ。Psiche giacenteで薔薇たちが「神聖な髪の中で死にたい」と渇望するイメージと同型──欲望が認識論的問いと分かちがたく結びついたダヌンツィオの詩法。",
+      "targetId": "dannunzio_psiche_giacente"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ne' profondi occhi impudichi, / ombrati già da la futura colpa, / trapassano ombre di delitti antichi",
+      "body": "詩の最終3行が三重の時間軸を圧縮する：「ombrati già da la futura colpa（すでに来るべき罪の影）」は未来が現在に射し込み、「trapassano ombre di delitti antichi（古い犯罪の影が通り過ぎる）」は過去が現在を横断する。女性の眼が過去と未来の罪の交差点として提示される──現在の「Aspetta（待っている）」という静止が過去と未来に挟まれた一瞬として成立する。ダンテ「地獄篇」第5歌でフランチェスカの眼差しが現在・過去・永遠の罰を同時に宿すことと対照的に読める。",
+      "targetId": "dante_inferno_canto_5"
+    }
+  ]
+}
