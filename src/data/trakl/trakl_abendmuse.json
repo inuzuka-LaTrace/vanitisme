@@ -1,0 +1,107 @@
+{
+  "id": "trakl_abendmuse",
+  "title": "Abendmuse",
+  "author": "Georg Trakl",
+  "source": "Georg Trakl, Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S. 20. テキスト底本: Wikisource (Abendmuse).",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "トラークル第一詩集『Gedichte』（1913）所収の16行詩。ABBA×4連の拡張ソネット形式。「夕べのミューズ」と題されたこの詩はトラークル作品の中で例外的に穏やかな和解の詩。夕暮れ時の教会の鐘楼の影・噴水・市場の静寂・庭の音楽・仲間たちの集い・刈り取られた穀物・牛舎の灯火──日常的な夕暮れの情景が順に召喚される。二人称「du（あなた）」への語りかけ（v.4）が詩を親密な呼びかけにする。終連でエンデュミオン（月の女神セレーネに愛されて永遠の眠りに就いた牧人）が古い楢の陰から現れ、「悲しい水面に身をかがめる」──ギリシャ神話的な夢と死の縁取りが穏やかな詩を最後に憂愁へと傾ける。「白い魔術師の物語（Des weißen Magiers Märchen）」は→hofmannsthal_traum_magieの「魔術師（Magier）」と詩的連鎖を持つ。",
+  "keywords": [
+    "夕暮れ",
+    "Endymion",
+    "白い魔術師",
+    "噴水",
+    "和解",
+    "牧歌的",
+    "Stallaterne",
+    "Sternenzeichen",
+    "拡張ソネット",
+    "ABBA"
+  ],
+  "relatedTexts": [
+    "trakl_rosenkranzlieder",
+    "trakl_menschliches_elend",
+    "hofmannsthal_traum_magie",
+    "george_betrübt_totenanger"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-4",
+      "original": "Ans Blumenfenster wieder kehrt des Kirchturms Schatten\nUnd Goldnes. Die heiße Stirn verglüht in Ruh und Schweigen.\nEin Brunnen fällt im Dunkel von Kastanienzweigen –\nDa fühlst du: es ist gut! in schmerzlichem Ermatten.",
+      "provisionalTranslation": "花の窓へと再び帰ってくる、教会の塔の影と\n金色のものが。熱い額が静寂と沈黙の中で燃え尽きる。\n栗の木の枝の暗がりで一つの噴水が落ちていく──\nそのとき感じる：これでいい！　と、痛みを帯びた疲労の中で。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5-8",
+      "original": "Der Markt ist leer von Sommerfrüchten und Gewinden.\nEinträchtig stimmt der Tore schwärzliches Gepränge.\nIn einem Garten tönen sanften Spieles Klänge,\nWo Freunde nach dem Mahle sich zusammenfinden.",
+      "provisionalTranslation": "市場は夏の果物と花飾りから空になっている。\n門扉の黒みがかった荘厳さが調和をもって整う。\nある庭では穏やかな演奏の音が聞こえ、\nそこで友人たちが食事の後に集まる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9-12",
+      "original": "Des weißen Magiers Märchen lauscht die Seele gerne.\nRund saust das Korn, das Mäher nachmittags geschnitten.\nGeduldig schweigt das harte Leben in den Hütten;\nDer Kühe linden Schlaf bescheint die Stallaterne.",
+      "provisionalTranslation": "白い魔術師の物語に魂は喜んで耳を傾ける。\n昼過ぎに刈り手が刈り取った穀物が丸く風に鳴る。\n小屋の中では厳しい生活が辛抱強く黙っている；\n牛たちの穏やかな眠りを厩舎の灯りが照らす。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13-16",
+      "original": "Von Lüften trunken sinken balde ein die Lider\nUnd öffnen leise sich zu fremden Sternenzeichen.\nEndymion taucht aus dem Dunkel alter Eichen\nUnd beugt sich über trauervolle Wasser nieder.",
+      "provisionalTranslation": "そよ風に酔いしれて間もなく瞼が落ちていき、\nそっと異なる星の印へと開いていく。\nエンデュミオンが古い楢の木の暗がりから現れ、\n悲しみに満ちた水面へと身をかがめる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ans Blumenfenster wieder kehrt des Kirchturms Schatten\nUnd Goldnes.",
+      "body": "「花の窓に帰ってくる教会の塔の影と金色」──夕暮れの光が建物の影と黄金色を窓辺に送り込む光景の精密な観察。「wieder（再び）」が日常の反復と帰還を示す。「Goldnes（金色のもの）」の名詞化された形容詞が抽象的な光の質を物体として捉える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Da fühlst du: es ist gut! in schmerzlichem Ermatten.",
+      "body": "「そのとき感じる：これでいい！　と、痛みを帯びた疲労の中で」──トラークル詩では稀な肯定の感嘆「es ist gut!」。しかし即座に「schmerzlichem Ermatten（痛みを帯びた疲労）」という留保が付く──純粋な喜びではなく、苦しみの後に訪れる和解の感触。二人称「du」への語りかけが詩を親密な経験の共有にする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Der Markt ist leer von Sommerfrüchten und Gewinden.\nEinträchtig stimmt der Tore schwärzliches Gepränge.",
+      "body": "「夏の果物から空になった市場」──夕暮れ時の市場の終わりの静謐。「Gewinden（花飾り・花輪）」は夏祭りの装飾が取り除かれた後の空虚。「Einträchtig（調和をもって）」──黒みがかった門扉でさえ夕暮れの調和に参加する。→george_tote_stadt の「賑わう商業都市」との対比的静謐。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "In einem Garten tönen sanften Spieles Klänge,\nWo Freunde nach dem Mahle sich zusammenfinden.",
+      "body": "「庭の穏やかな演奏・食後に集う友人たち」──トラークル詩において例外的な社交と共同体の場面。「Mahl（食事）」は→trakl_menschheit §2の「Abendmahl（最後の晩餐）」と語彙的に連鎖するが、こちらは日常的な共食の穏やかさ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Des weißen Magiers Märchen lauscht die Seele gerne.",
+      "body": "「白い魔術師の物語（Des weißen Magiers Märchen）」──「白い魔術師」は詩の中で名を持たない謎の語り手あるいは詩人的存在。ホフマンスタール「Ein Traum von großer Magie」の「Magier──des Ersten, Großen」との詩的連鎖（→hofmannsthal_traum_magie）。「白い」は純粋性・神聖性・幽霊性の複合的属性。「魂が喜んで耳を傾ける（lauscht die Seele gerne）」──夕暮れのムーズ的受容性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Rund saust das Korn, das Mäher nachmittags geschnitten.\nGeduldig schweigt das harte Leben in den Hütten;\nDer Kühe linden Schlaf bescheint die Stallaterne.",
+      "body": "牧歌的三行──刈り取られた穀物の円い動き・小屋の辛抱強い沈黙・牛の眠りを照らす灯り。農村の夕暮れの具体的な感覚的細部が積み重なる。「Geduldig schweigt（辛抱強く黙っている）」──貧しい農村生活の擬人化された受容。「linden Schlaf（穏やかな眠り）」──牛の眠りへの柔らかな共感。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Von Lüften trunken sinken balde ein die Lider\nUnd öffnen leise sich zu fremden Sternenzeichen.",
+      "body": "ABBA韻律の最終連：Lider/nieder（A）– Sternenzeichen/Eichen（B）。「Von Lüften trunken（そよ風に酔いしれて）」──酔酊の比喩はトラークル詩とゲオルゲ詩（Trunken von sonne und blut：george_kampf）に共通するが、ここでは暴力的酔いではなく穏やかな風の陶酔。「fremde Sternenzeichen（異なる星の印）」──閉じた瞼がまた開くとき、異質な星座が見える──夢と現実の閾値。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Endymion taucht aus dem Dunkel alter Eichen\nUnd beugt sich über trauervolle Wasser nieder.",
+      "body": "「エンデュミオン（Endymion）」──ギリシャ神話の美しい牧人。月の女神セレーネ（ディアナ）に愛され、永遠の眠りを与えられたとされる（テオクリトス、ケーツ『エンデュミオン』）。詩の最終形象として：そよ風の陶酔→眠りへの誘い→エンデュミオンの出現→「悲しみに満ちた水面への身かがみ」。夕暮れの和解が最後に神話的な死・夢・憂愁へと傾く──トラークル的な逆説的終結。"
+    }
+  ]
+}
