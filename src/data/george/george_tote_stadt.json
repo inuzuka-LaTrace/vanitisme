@@ -1,0 +1,112 @@
+{
+  "id": "george_tote_stadt",
+  "title": "Die tote Stadt",
+  "author": "Stefan George",
+  "source": "Stefan George, Der siebente Ring, Blätter für die Kunst, Berlin, 1907, S. 30–31. テキスト底本: Wikisource (Die tote Stadt). 所収部門: Zeitgedichte（時詩篇）",
+  "year": "1907",
+  "firstPublication": "Der siebente Ring, Blätter für die Kunst, Berlin, 1907",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "『Der siebente Ring』「Zeitgedichte（時詩篇）」部門所収の32行詩。二つの都市の対比を軸とした寓意的文明批評。下の「新都市」──繁栄する近代港湾都市、貪欲な商業と大衆の享楽──と、岩山の上の「死せる旧市」──貧しく忘れられているが静寂と聖性に満ちた古都──が対置される。詩の後半（v.17-32）は二つの直接話法：群衆の嘆願（›…‹ v.17-24）と旧市の厳しい拒絶宣告（›…‹ v.25-32）。「ただ七人だけが救われた」（v.27）はノアの箱舟・ソドムの義人の記憶を持つ選民論的宣告。最終行の「裸の足があなたの若者を礁を越えて海へと蹴り落とす」はゲオルゲの予言的激烈さの頂点。ロダンバックの『死都ブルッヘ』（1892）・ホフマンスタール的文明の黄昏との連環も読める。",
+  "keywords": [
+    "死せる都市",
+    "新都市と旧市",
+    "文明批評",
+    "選民論",
+    "七人",
+    "Weihebilder",
+    "Fürst des Geziefers",
+    "拒絶宣告",
+    "ロダンバック",
+    "Der siebente Ring"
+  ],
+  "relatedTexts": [
+    "george_widerchrist",
+    "george_nietzsche",
+    "george_templer"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-8",
+      "original": "Die weite bucht erfüllt der neue hafen\nDer alles glück des landes saugt · ein mond\nVon glitzernden und rauhen häuserwänden ·\nEndlosen strassen drin mit gleicher gier\nDie menge tages feilscht und abends tollt.\nNur hohn und mitleid steigt zur mutterstadt\nAm felsen droben die mit schwarzen mauern\nVerarmt daliegt · vergessen von der zeit.",
+      "provisionalTranslation": "広い入り江を埋める新しい港──\n国の幸福をすべて吸い取り、輝かしい壁と\n荒れた家壁の三日月──\n終わりのない通りの中で等しい貪欲さをもって\n群衆は昼は値段を交渉し、夜は狂い騒ぐ。\nただ嘲笑と哀れみだけが、岩山の上の\n黒い城壁を持つ母都市へと──\n貧しく横たわり、時に忘れられた都市へと──昇っていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9-16",
+      "original": "Die stille veste lebt und träumt und sieht\nWie stark ihr turm in ewige sonnen ragt ·\nDas schweigen ihre weihebilder schüzt\nUnd auf den grasigen gassen ihren wohnern\nDie glieder blühen durch verschlissnes tuch.\nSie spürt kein leid · sie weiss der tag bricht an:\nDa schleppt sich aus den üppigen palästen\nDen berg hinan von flehenden ein zug:",
+      "provisionalTranslation": "静かな砦は生き、夢見、眺める──\n自らの塔がどれほど強く永遠の太陽の中に聳えているかを。\n沈黙がその聖像たちを護り、\n草の生えた路地では住民たちの\n手足が擦り切れた布を通して輝いている。\nそこには苦しみはなく──夜明けが来ることを知っている：\nそのとき豪奢な宮殿からはい出て\n嘆願者の行列が山を登っていく："
+    },
+    {
+      "id": 3,
+      "verses": "v.17-24",
+      "original": "›Uns mäht ein ödes weh und wir verderben\nWenn ihr nicht helft – im überflusse siech.\nVergönnt uns reinen odem eurer höhe\nUnd klaren quell! wir finden rast in hof\nUnd stall und jeder höhlung eines tors.\nHier schätze wie ihr nie sie saht – die steine\nWie fracht von hundert schiffen kostbar · spange\nUnd reif vom werte ganzer länderbreiten!‹",
+      "provisionalTranslation": "「虚ろな苦しみがわれらを刈り取り、われらは滅びる\nあなた方が助けてくれなければ──豊かさの中で病んでいる。\nあなた方の高みの清らかな息吹と\n澄んだ泉を与えてほしい！　われらは院や\n厩や、城門のどんな窪みでも休む。\nここに宝があります──あなた方が見たこともないような──石は\n百艘の船の貨物のように貴重で、腕輪と\n指輪は全大陸の価値がある！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.25-32",
+      "original": "Doch strenge antwort kommt: ›Hier frommt kein kauf.\nDas gut was euch vor allem galt ist schutt.\nNur sieben sind gerettet die einst kamen\nUnd denen unsre kinder zugelächelt.\nEuch all trifft tod. Schon eure zahl ist frevel.\nGeht mit dem falschen prunk der unsren knaben\nZum ekel wird! Seht wie ihr nackter fuss\nIhn übers riff hinab zum meere stösst.‹",
+      "provisionalTranslation": "しかし厳しい答えが来る：「ここでは取引は役に立たない。\nお前たちが何より大切にしてきたものは瓦礫だ。\nただ七人だけが救われた──かつてここに来て、\nわれらの子供たちが微笑みかけた者たちが。\nお前たちすべてに死が当たる。お前たちの数だけでもすでに犯罪だ。\nわれらの若者を嫌悪させる偽りの虚飾とともに去れ！\n見よ、裸の足が彼を礁を越えて\n海へと蹴り落とすのを。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die weite bucht erfüllt der neue hafen\nDer alles glück des landes saugt · ein mond\nVon glitzernden und rauhen häuserwänden ·",
+      "body": "「新しい港（neue hafen）」──近代的工業港湾都市の描写。「国の幸福をすべて吸い取る」は寄生的商業資本主義への告発。「三日月（ein mond）」の形を成す家並みは湾岸都市の地形的形象。ロダンバックの『死都ブルッヘ』（Bruges-la-Morte, 1892）が比較的先行する二都市対比の枠組みを持つが、ゲオルゲはより直接的な社会的寓意へと転換する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die menge tages feilscht und abends tollt.",
+      "body": "昼と夜の両方で同じ「貪欲さ（gleicher gier）」を持つ群衆──昼は値段交渉（feilschen）、夜は狂騒（tollen）。道徳的変化なき反復は精神的空虚の表れ。ゲオルゲ時代批判の定型的形象（→george_widerchrist §2との並走）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Das schweigen ihre weihebilder schüzt",
+      "body": "「Weihebilder（聖像・奉献画像）」──神殿や教会に置かれた奉献的像。ギリシャ・ローマ的神殿装飾と中世的イコンの両義的な語。沈黙が聖像を護るという逆説：言語・商業・騒音の届かない静寂の中にこそ聖なるものが生き残る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Und auf den grasigen gassen ihren wohnern\nDie glieder blühen durch verschlissnes tuch.",
+      "body": "「草の生えた路地・擦り切れた布を通して輝く手足」──貧困と美の共存。草の生えた石畳は使われなくなった道路（死の都市）だが、住民は擦り切れた衣を着ながら肉体が「輝いている（blühen）」。精神的美は物質的貧しさと共存し、豊かさ（v.1-5）とは無関係。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "›Uns mäht ein ödes weh und wir verderben\nWenn ihr nicht helft – im überflusse siech.",
+      "body": "「豊かさの中で病んでいる（im überflusse siech）」──物質的豊かさと精神的病の逆説。群衆の嘆願は「清らかな息吹と澄んだ泉」──精神的・霊的なものを求める。しかし彼らが提示するのは財宝（v.22-24）だけ。精神的なものを金銭で買おうとする不可能な取引。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "›Uns mäht ein ödes weh",
+      "body": "引用符「›…‹」（v.17冒頭・v.24末尾）はゲオルゲの標準的直接話法記号。フランス語の引用符（guillemets）に由来する印刷的慣行をドイツ語表記に適用。v.25の旧市の応答も同様に「›…‹」で括られる（v.25-32）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nur sieben sind gerettet die einst kamen\nUnd denen unsre kinder zugelächelt.",
+      "body": "「ただ七人だけが救われた」──旧約聖書的選民論。ノアの洪水（創世記7-8章）・ソドムとゴモラから救われたロト一家（創世記19章）・黙示録の「封印された者たち」の記憶。「われらの子供たちが微笑みかけた」──精神的親縁性・霊的認識による選別。数・財力ではなく精神的共鳴が救済の条件。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Euch all trifft tod. Schon eure zahl ist frevel.",
+      "body": "「お前たちすべてに死が当たる。数だけでもすでに犯罪だ」──群衆の数（量）自体を「frevel（冒涜・犯罪）」と断ずる。ゲオルゲの反民主主義的・反量的文明批判の最も激烈な表現の一つ。人口密集・大衆化・民主主義への根本的否定。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Geht mit dem falschen prunk der unsren knaben\nZum ekel wird! Seht wie ihr nackter fuss\nIhn übers riff hinab zum meere stösst.‹",
+      "body": "詩の最終三行の激烈な拒絶。「偽りの虚飾（falscher prunk）」──下の都市の商業的輝かしさ。「われらの若者（unsren knaben）を嫌悪させる」──ゲオルゲ・クライスの美少年たちへの汚染。「裸の足が礁を越えて海へ蹴り落とす」──暴力的な浄化のイメージ。詩全体の寓意が終末的断罪として完結する。"
+    }
+  ]
+}
