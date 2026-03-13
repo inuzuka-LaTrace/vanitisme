@@ -1,0 +1,130 @@
+{
+  "id": "trakl_schoene_stadt",
+  "title": "Die schöne Stadt",
+  "author": "Georg Trakl",
+  "source": "Georg Trakl, Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S. 16. テキスト底本: Wikisource (Die schöne Stadt).",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "トラークル第一詩集『Gedichte』（1913）所収の28行詩。ABBA×7連の拡張ソネット形式。「美しい都市」はトラークルの故郷ザルツブルクを指すとされる。詩は都市の様々な声と光景を次々と召喚するパノラマ詩──修道女・教会の死の画像・噴水・少年の夢遊的な遊び・門辺に立つ少女・行進曲・オルガンの音・庭の笑い声・若い母の歌──そして最終連の乳香・タール・ライラックの香りと銀色の疲れた瞼。特筆すべき技法は同語反復韻（Identreime）：schweigen/Schweigen（v.1/v.4）、Kirchen/Kirchen（v.5/v.8）、Brunnen/Brunnen（v.9/v.12）、Toren/Toren（v.13/v.16）、Glockenklänge/Orgelklänge（v.17/v.20）、singen/singen（v.21/v.24）、Fenstern/Fenstern（v.25/v.28）──同一語の反復が各連に呪文的な反響を作り出す。ゲオルゲ「Die tote Stadt」との比較が有益：あちらは死せる古都の寓意的対比、こちらは美しい都市の共時的・感覚的探索。",
+  "keywords": [
+    "ザルツブルク",
+    "同語反復韻",
+    "修道女",
+    "Orgelklänge",
+    "Brunnen",
+    "少女と少年",
+    "パノラマ詩",
+    "乳香",
+    "拡張ソネット",
+    "ABBA"
+  ],
+  "relatedTexts": [
+    "trakl_abendmuse",
+    "trakl_menschliches_elend",
+    "george_tote_stadt"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-4",
+      "original": "Alte Plätze sonnig schweigen.\nTief in Blau und Gold versponnen\nTraumhaft hasten sanfte Nonnen\nUnter schwüler Buchen Schweigen.",
+      "provisionalTranslation": "古い広場が陽光の中で黙っている。\n青と金の中に深く絡め取られ、\n夢うつつに穏やかな修道女たちが急ぎ、\n蒸し暑いブナの木の沈黙の下を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5-8",
+      "original": "Aus den braun erhellten Kirchen\nSchaun des Todes reine Bilder,\nGroßer Fürsten schöne Schilder.\nKronen schimmern in den Kirchen.",
+      "provisionalTranslation": "茶色に照らされた教会の中から\n死の純粋な画像が見つめる、\n偉大な君主たちの美しい紋章が。\n王冠が教会の中で輝いている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9-12",
+      "original": "Rösser tauchen aus dem Brunnen.\nBlütenkrallen drohn aus Bäumen.\nKnaben spielen wirr von Träumen\nAbends leise dort am Brunnen.",
+      "provisionalTranslation": "馬が噴水から現れ出る。\n花の爪が木々から脅かすように伸びる。\n少年たちが夢にうつつを抜かして遊んでいる、\n夕暮れに静かにそこ、噴水のほとりで。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13-16",
+      "original": "Mädchen stehen an den Toren,\nSchauen scheu ins farbige Leben.\nIhre feuchten Lippen beben\nUnd sie warten an den Toren.",
+      "provisionalTranslation": "少女たちが門のところに立ち、\n色彩あふれる生の中へ臆病に見つめる。\n濡れた唇が震えながら、\n彼女たちは門のところで待っている。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17-20",
+      "original": "Zitternd flattern Glockenklänge,\nMarschtakt hallt und Wacherufen.\nFremde lauschen auf den Stufen.\nHoch im Blau sind Orgelklänge.",
+      "provisionalTranslation": "震えながら鐘の音がはためく、\n行進の拍子と歩哨の呼び声が響く。\n異邦人たちが階段の上で耳を傾ける。\n高い青空の中にオルガンの音がある。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21-24",
+      "original": "Helle Instrumente singen.\nDurch der Gärten Blätterrahmen\nSchwirrt das Lachen schöner Damen.\nLeise junge Mütter singen.",
+      "provisionalTranslation": "明るい楽器が歌う。\n庭の葉の框を通して、\n美しい貴婦人たちの笑いがぶんぶんと飛び交う。\n静かに若い母たちが歌う。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25-28",
+      "original": "Heimlich haucht an blumigen Fenstern\nDuft von Weihrauch, Teer und Flieder.\nSilbern flimmern müde Lider\nDurch die Blumen an den Fenstern.",
+      "provisionalTranslation": "花で飾られた窓に秘かに漂う、\n乳香とタールとライラックの香りが。\n銀色に疲れた瞼がちらめく、\n窓の花々を通して。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Alte Plätze sonnig schweigen.\nTief in Blau und Gold versponnen\nTraumhaft hasten sanfte Nonnen\nUnter schwüler Buchen Schweigen.",
+      "body": "ABBA同語反復韻（Identreim）：schweigen（v.1）/Schweigen（v.4）──同一語の大文字・小文字の差異だけで韻を踏む。この技法が7連すべてに貫徹する：Kirchen/Kirchen・Brunnen/Brunnen・Toren/Toren・Glockenklänge/Orgelklänge（準同語）・singen/singen・Fenstern/Fenstern。反響・反復・循環という都市の空間的構造が韻律に写像される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tief in Blau und Gold versponnen\nTraumhaft hasten sanfte Nonnen",
+      "body": "「青と金に絡め取られ」──トラークルの「青」（精神性・死への憧憬）と「金」（夕暮れ・神聖・腐敗）の色彩的二項が冒頭に配置される。「Traumhaft hasten（夢うつつに急ぐ）」──「急ぐ」という動詞と「夢うつつ」という形容の逆説。修道女たちは目的地に向かって急ぎながら、意識は夢の中にある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Aus den braun erhellten Kirchen\nSchaun des Todes reine Bilder,\nGroßer Fürsten schöne Schilder.\nKronen schimmern in den Kirchen.",
+      "body": "「死の純粋な画像（des Todes reine Bilder）」──教会の内部の祭壇画・聖人画・磔刑像を「死の画像」と呼ぶトラークルの逆説的称号。「美しい」「純粋な」という形容詞が死に付される。「偉大な君主の紋章・輝く王冠」──宗教的と世俗的権威が教会内に共存する歴史的堆積（ザルツブルク大聖堂の内部）。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Rösser tauchen aus dem Brunnen.\nBlütenkrallen drohn aus Bäumen.",
+      "body": "「馬が噴水から現れる（Rösser tauchen aus dem Brunnen）」──噴水の装飾彫刻（馬の像）が突然生命を帯びる幻視的描写。「花の爪が木々から脅かす（Blütenkrallen drohn）」──「Blütenkrallen（花＋爪・鉤爪）」の合成語が美しさの中の脅威を一語で示す。美と暴力の共存というトラークル的逆説。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mädchen stehen an den Toren,\nSchauen scheu ins farbige Leben.\nIhre feuchten Lippen beben\nUnd sie warten an den Toren.",
+      "body": "門辺に立つ少女たちの静的な待機──「臆病に（scheu）」「色彩あふれる生（farbige Leben）」の外を見つめ、「濡れた唇が震え」ながら待つ。Toren/Torenの同語反復が少女たちの出口なき循環を示す。門は内部（安全・処女性）と外部（生の危険と豊かさ）の境界。→trakl_rosenkranzlieder §1の妹のイメージと連鎖。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Zitternd flattern Glockenklänge,\nMarschtakt hallt und Wacherufen.\nFremde lauschen auf den Stufen.\nHoch im Blau sind Orgelklänge.",
+      "body": "聴覚的な都市の声の層：震える鐘→行進の拍子と歩哨の呼び声→異邦人の傾聴→高い青空のオルガン。Glockenklänge/Orgelklänge（鐘の音/オルガンの音）の準同語反復が宗教的・軍事的・市民的な音響を一続きの空間に重ねる。「Fremde（異邦人）」──よそ者の視点がこの詩の観察者の立場を示唆する（トラークル自身の故郷への疎隔）。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Helle Instrumente singen.\nDurch der Gärten Blätterrahmen\nSchwirrt das Lachen schöner Damen.\nLeise junge Mütter singen.",
+      "body": "singen/singenの同語反復──「明るい楽器が歌う」（v.21）と「若い母たちが歌う」（v.24）。器楽と人間の声が同一動詞で括られる。「庭の葉の框を通して飛び交う（schwirrt）貴婦人の笑い」──「schwirren（ぶんぶん飛ぶ・羽音を立てる）」は昆虫的な動詞であり、笑いを聴覚的に異化する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Heimlich haucht an blumigen Fenstern\nDuft von Weihrauch, Teer und Flieder.",
+      "body": "「乳香（Weihrauch）・タール（Teer）・ライラック（Flieder）」──三つの香りの並置。乳香は礼拝・宗教的煙、タールは港・船・労働の臭気、ライラックは春の花香。聖俗・美醜・宗教と世俗が同等に窓辺に漂う。→trakl_rosenkranzlieder §2「Vergilbt von Weihrauch（乳香で黄ばんだ）」との乳香のイメージ連鎖。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Silbern flimmern müde Lider\nDurch die Blumen an den Fenstern.",
+      "body": "最終二行──「銀色に疲れた瞼が花々を通してちらめく」。Fenstern/Fensternの同語反復で詩が閉じる。瞼が主体となって窓の花の向こうに見える──内部から外を見る疲れた目の残像。→trakl_menschheit「Lider flattern angstverwirrt」との瞼のイメージ連鎖。「銀色（Silbern）」は→trakl_rosenkranzlieder §3「silberflocken（銀の薄片）」と連鎖する死・月・疲労の色。"
+    }
+  ]
+}
