@@ -22,11 +22,6 @@ export const CATEGORIES = {
   valmore:                    { name: 'ヴァルモール' },
   rodenbach:                  { name: 'ローデンバック' },
   vanlerberghe:               { name: 'ヴァン・レルベルグ' },
-  poe:                        { name: 'ポー' },
-  rossetti_c:                 { name: 'ロセッティ' },
-  wilde:                      { name: 'ワイルド' },
-  swinburne:                  { name: 'スウィンバーン' },
-  yeats:                      { name: 'イェイツ' },
   george:                     { name: 'ゲオルゲ' },
   hofmannsthal:               { name: 'ホフマンスタール' },
   trakl:                      { name: 'トラークル' },
@@ -34,6 +29,11 @@ export const CATEGORIES = {
   dante:                      { name: 'ダンテ' },
   dannunzio:                  { name: 'ダヌンツィオ' },
   pascoli:                    { name: 'パスコリ' },
+  poe:                        { name: 'ポー' },
+  rossetti_c:                 { name: 'ロセッティ' },
+  wilde:                      { name: 'ワイルド' },
+  swinburne:                  { name: 'スウィンバーン' },
+  yeats:                      { name: 'イェイツ' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -54,11 +54,6 @@ export const CAT_SHORT = {
   valmore:                 'ヴァルモール',
   rodenbach:               'ローデンバック',
   vanlerberghe:            'ヴァン・レルベルグ',
-  poe:                     'ポー',
-  rossetti_c:              'ロセッティ',
-  wilde:                   'ワイルド',
-  swinburne:               'スウィンバーン',
-  yeats:                   'イェイツ',
   george:                  'ゲオルゲ',
   hofmannsthal:            'ホフマンスタール',
   trakl:                   'トラークル',
@@ -66,6 +61,11 @@ export const CAT_SHORT = {
   dante:                   'ダンテ',
   dannunzio:               'ダヌンツィオ',
   pascoli:                 'パスコリ',
+  poe:                     'ポー',
+  rossetti_c:              'ロセッティ',
+  wilde:                   'ワイルド',
+  swinburne:               'スウィンバーン',
+  yeats:                   'イェイツ',
 };
 
 // 注釈タイプ定義（ラベル・カラークラス）
