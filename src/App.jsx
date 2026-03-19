@@ -1738,8 +1738,9 @@ export default function App() {
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
-    if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-950/40 text-red-350' : 'bg-red-150 text-red-850';
+    if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('pascoli'))      return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
+    if (cat?.startsWith('bryusov'))      return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
@@ -1956,7 +1957,7 @@ export default function App() {
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
             <p className={`text-sm font-sans ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
-              📚 主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
+              📚 主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
             <p className={`text-xs mt-1 font-sans ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
