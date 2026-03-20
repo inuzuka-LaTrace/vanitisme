@@ -1,0 +1,114 @@
+{
+  "id": "corazzini_la_morte_di_tantalo",
+  "title": "La morte di Tantalo",
+  "author": "Sergio Corazzini",
+  "source": "In: Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. pp. 127–130. 底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/La_morte_di_Tantalo。テキスト: Google Books。",
+  "year": "1907",
+  "firstPublication": "詩集収録: Liriche. Napoli: Ricciardi, 1935.",
+  "difficulty": "上級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "セルジョ・コラッツィーニ（1886–1907）が1907年6月9日──死去（1907年8月17日）の約2ヶ月前──に書いた散文詩。コラッツィーニ最後期の作品の一つ。タイトル「タンタロスの死」はギリシャ神話のタンタロスへの参照──ゼウスの子にして神々の饗宴に人肉を持ち込んだとして地獄の池に罰せられ、水を飲もうとすれば引き、果実を取ろうとすれば逃げるという「タンタリズム（tantalus）」の語源となった存在。しかしコラッツィーニの詩はタンタロス神話の「逆転」として機能する──タンタロスは「果実と水を求めながら得られない」のに対し、この詩の「私たち」は「果実（meravigliosi grappoli）と水（acqua d'oro）を求めて、しかも手に入れてしまう」。最終連の「confessa al viandante / che non abbiamo saputo morire / negandoci il frutto saporoso（通りすがりの人に告白してくれ / 私たちは死に方を知らなかったと / 美味しい果実を自らに禁じることで）」──「タンタロスの死」は果実を手に入れることで達成されず、「死の原因」を探しながら夜通し果実を食べ水を飲んだ「私たち」は結局死ねなかった。「errando per sempre（永遠にさまよいながら）」という最終句は、タンタロスのそれとは逆の「得てしまったゆえの永遠の放浪」として閉じる。34行・7段落の自由詩（verso libero）で、散文的な呼吸と詩的な凝縮が交互する。",
+  "keywords": [
+    "タンタロス",
+    "神話の逆転",
+    "逆タンタリズム",
+    "黄金の葡萄園",
+    "死の原因の不在",
+    "最晩年作品",
+    "永遠の放浪",
+    "自由詩",
+    "クレプスコラリズモ",
+    "2ヶ月前"
+  ],
+  "relatedTexts": [
+    "corazzini_desolazione",
+    "corazzini_spleen",
+    "corazzini_l_anima",
+    "corazzini_ballata_primavera",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "original": "Noi sedemmo sull'orlo\ndella fontana nella vigna d'oro.\nSedemmo lacrimosi in silenzio.\nLe palpebre della mia dolce amica\nsi gonfiavano dietro le lagrime\ncome due vele\ndietro una leggera brezza marina.",
+      "provisionalTranslation": "私たちは縁に座っていた\n黄金の葡萄園の泉の縁に。\n涙ながらに、沈黙の中で座っていた。\n私の愛しい友の瞼が\n涙の後ろで膨らんでいた\n二枚の帆のように\n軽い海の風の後ろで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–13",
+      "original": "Il nostro dolore non era dolore d'amore\nnè dolore di nostalgia\nnè dolore carnale.\nNoi morivamo tutti i giorni\ncercando una causa divina\nil mio dolce bene ed io,",
+      "provisionalTranslation": "私たちの悲しみは愛の悲しみではなかった\n懐かしさの悲しみでもなく\n肉体の悲しみでもなかった。\n私たちは毎日死にかけながら\n神聖な原因を探していた\n私の愛しい人と私は、"
+    },
+    {
+      "id": 3,
+      "verses": "v.14–16",
+      "original": "Ma quel giorno già vanìa\ne la causa della nostra morte\nnon era stata rinvenuta.",
+      "provisionalTranslation": "しかしその日はもう消えていった\nそして私たちの死の原因は\n見つかっていなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.17–20",
+      "original": "E calò la sera su la vigna d'oro\ne tanto essa era oscura\nche alle nostre anime apparve\nuna nevicata di stelle.",
+      "provisionalTranslation": "そして夕べが黄金の葡萄園に降りてきた\nそれはあまりにも暗かったので\n私たちの魂には現れた\n星の雪降りが。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–26",
+      "original": "Assaporammo tutta la notte\ni meravigliosi grappoli.\nBevemmo l'acqua d'oro,\ne l'alba ci trovò seduti\nsull'orlo della fontana\nnella vigna non più d'oro.",
+      "provisionalTranslation": "私たちは夜通し味わった\n素晴らしい葡萄の房を。\n黄金の水を飲んだ、\nそして夜明けが私たちを見つけた、座ったまま\n泉の縁に\nもはや黄金ではない葡萄園の中で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.27–31",
+      "original": "O dolce mio amore,\nconfessa al viandante\nche non abbiamo saputo morire\nnegandoci il frutto saporoso\ne l'acqua d'oro, come la luna.",
+      "provisionalTranslation": "ああ、私の愛しい人よ、\n通りすがりの人に告白してくれ\n私たちは死に方を知らなかったと\n美味しい果実を自らに禁じることで\nそして黄金の水を、月のように。"
+    },
+    {
+      "id": 7,
+      "verses": "v.32–34",
+      "original": "E aggiungi che non morremo più\ne che andremo per la vita\nerrando per sempre.",
+      "provisionalTranslation": "そして付け加えてくれ、もう死なないだろうと\nそして私たちは人生を行くだろうと\n永遠にさまよいながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Noi sedemmo sull'orlo\ndella fontana nella vigna d'oro.",
+      "body": "「私たちは黄金の葡萄園の泉の縁に座っていた」──開幕の空間設定。「vigna d'oro（黄金の葡萄園）」はタンタロス神話の楽園的背景──タンタロスが罰せられた場所は果実に満ちた場所でありながら、果実が手に届かない。コラッツィーニはこれを「黄金の葡萄園」という豊穣な空間として具体化し、二人が座るのはその「縁（orlo）」──「Desolazione」の「angolo oscuro（暗い隅）」と対照的に、ここでは開かれた豊穣の縁。しかし「涙ながらに、沈黙の中で（lacrimosi in silenzio）」という形容が黄金の葡萄園の豊穣と悲しみの奇妙な共存を設定する。「Spleen」の「sull'orlo della fontana（泉の縁に）」とほぼ同一のフレーズが用いられており、コラッツィーニ詩群内の自己引用として機能する──「Spleen」での沈黙するピアノ・街燈のイメージが、この詩では神話的空間に移植される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Il nostro dolore non era dolore d'amore\nnè dolore di nostalgia\nnè dolore carnale.\nNoi morivamo tutti i giorni\ncercando una causa divina",
+      "body": "「私たちの悲しみは愛の悲しみではなく、懐かしさの悲しみでも、肉体の悲しみでもなかった」──三重否定による悲しみの定義。「Desolazione」の「Le mie tristezze sono povere tristezze comuni（私の悲しみは貧しいありふれた悲しみ）」と対照的に、ここでは悲しみが「愛・懐かしさ・肉体」という三つの通常の原因を否定することで定義される──原因のない悲しみ。「Noi morivamo tutti i giorni / cercando una causa divina（私たちは毎日死にかけながら神聖な原因を探していた）」──「毎日少しずつ死んでいく（E muoio, un poco, ogni giorno）」という「Desolazione」のテーゼと同一だが、ここでは「死の神聖な原因を探している」という能動的な探索を伴う。原因なき悲しみの中で死の「神聖な原因」を探す──これが詩全体のテーゼ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "Ma quel giorno già vanìa\ne la causa della nostra morte\nnon era stata rinvenuta.",
+      "body": "「しかしその日はもう消えていった / そして私たちの死の原因は / 見つかっていなかった」──タンタロス神話への最初の明示的な参照。タンタロスは「水と果実を求めながら得られない」存在だが、コラッツィーニの詩で「私たち」は「死の原因を求めながら得られない」存在として定義される──「求めながら得られない」という構造が神話から詩へと移植されるが、内容は「水・果実」から「死の原因」へと置き換えられる。「vanìa」のアクセント記号付きの形（ヴァニーア）が特別な音響的強調をもたらす──日がゆっくりと「消えていく」という過程を音で体現する。この3行のみが3行段落として独立することで、「原因が見つからないまま日が暮れた」という事実が詩の転換点として強調される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Assaporammo tutta la notte\ni meravigliosi grappoli.\nBevemmo l'acqua d'oro,\ne l'alba ci trovò seduti\nsull'orlo della fontana\nnella vigna non più d'oro.",
+      "body": "詩の逆転の中心──「夜通し素晴らしい葡萄の房を味わい、黄金の水を飲んだ」。これがタンタロス神話の完全な反転：タンタロスは果実と水に「手が届かず」苦しむのに対し、コラッツィーニの「私たち」は果実と水を「存分に受け取る」──しかしそれが「死の否定」として機能する。「夜明けが私たちを見つけた / もはや黄金ではない葡萄園の中で（nella vigna non più d'oro）」──冒頭の「vigna d'oro（黄金の葡萄園）」が「vigna non più d'oro（もはや黄金ではない葡萄園）」へと変容する。黄金の喪失は時間の経過（昼→夜→夜明け）と「果実と水を受け取ったこと」による楽園の終焉を示す──「Ballata della primavera」の「春の告別」と同様の喪失の詩学、しかしここでは神話的スケールで。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "confessa al viandante\nche non abbiamo saputo morire\nnegandoci il frutto saporoso",
+      "body": "「通りすがりの人に告白してくれ / 私たちは死に方を知らなかったと / 美味しい果実を自らに禁じることで」──詩の核心的テーゼ。タンタロスは「果実を禁じられた存在」だが、コラッツィーニの「私たち」は「果実を自らに禁じることができなかった（non abbiamo saputo morire negandoci）」存在──「禁じることによる死」を遂行できなかった逆タンタロス。「viandante（通りすがりの人）」は「Desolazione」の「il primo venuto（通りすがりの者）」と同じ匿名的他者──詩人が自己の失敗を証言してもらう外部の証人。日付1907年6月9日（死の約2ヶ月前）という伝記的文脈において、「死に方を知らなかった」という告白が詩人自身の実存的宣言として重みを持つ。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "E aggiungi che non morremo più\ne che andremo per la vita\nerrando per sempre.",
+      "body": "「もう死なないだろう / 人生を行くだろう / 永遠にさまよいながら」──詩の最終結論。「errando per sempre（永遠にさまよいながら）」は「Desolazione」の「Non sono, dunque, un poeta（私は詩人ではない）」という自己否定の動的な展開──死ねなかった存在が「永遠の放浪者」として定義される。タンタロスの罰（水と果実の永遠の追求）に対し、コラッツィーニの「私たち」の罰（または運命）は「永遠の放浪」──果実を受け取ったがゆえに楽園から追放されたアダムとイブの連想も可能（「黄金の葡萄園」＝エデンの園）。「L'anima」の「crocifissa al muro / di un lontano antichissimo convento（遠い修道院の壁に磔）」という永遠の固定とは対照的に、この詩の永遠は「運動・放浪」として定義される──コラッツィーニ詩群における「静止（磔）」と「運動（放浪）」という二つの永遠の形式。"
+    }
+  ]
+}
