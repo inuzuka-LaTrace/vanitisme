@@ -210,6 +210,8 @@ export default function App() {
       ...lecontelisleData,
       ...banvilleData,
       ...rodenbachData,
+      ...verhaerenData,
+      ...maeterlinckData,
       ...vanlerbergheData,
       ...racineData,
       ...rimbaudData,
