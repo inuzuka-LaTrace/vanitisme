@@ -19,6 +19,8 @@ import verlaineData from './data/verlaine';
 import lecontelisleData from './data/lecontelisle';
 import banvilleData from './data/banville';
 import rodenbachData from './data/rodenbach';
+import verhaerenData from './data/verhaeren';
+import maeterlinckData from './data/maeterlinck';
 import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
 import georgeData from './data/george';
@@ -1784,10 +1786,13 @@ export default function App() {
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('verhaeren')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('maeterlinck'))         return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
+    if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('pascoli'))      return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
+    if (cat?.startsWith('corazzine'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-cyan-900/40 text-cyan-300': 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('bryusov'))      return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('sologub'))      return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
@@ -2796,7 +2801,7 @@ export default function App() {
                                     )}
                                     {/* 訳行 */}
                                     {!isBlankTrans && (
-                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-rose-700/50 text-rose-300/70' : 'border-rose-300/60 text-rose-800/80'}`}>
+                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-red-700/50 text-red-300/70' : 'border-red-300/60 text-red-800/80'}`}>
                                         <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                           fontSize === 'xxlarge' ? 'text-xl' :
                                           fontSize === 'xlarge'  ? 'text-lg' :
@@ -2863,7 +2868,7 @@ export default function App() {
                                     </span>
                                   </div>
                                   {/* 訳セル */}
-                                  <div className={`px-3 py-2 ${darkMode ? 'text-rose-300/80' : 'text-rose-800/90'}`}>
+                                  <div className={`px-3 py-2 ${darkMode ? 'text-red-300/80' : 'text-red-800/90'}`}>
                                     <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                       fontSize === 'xxlarge' ? 'text-xl' :
                                       fontSize === 'xlarge' ? 'text-lg' :
@@ -2913,8 +2918,8 @@ export default function App() {
 
                     {/* 仮訳 */}
                     {showOfficial && translation && (
-                      <div className={`mb-2 border-l-2 border-rose-400/60 pl-4 ${showFrench ? '' : 'pt-3'}`}>
-                        <p className={`leading-relaxed whitespace-pre-line ${darkMode ? 'text-rose-300/80' : 'text-rose-800/80'} ${
+                      <div className={`mb-2 border-l-2 border-red-400/60 pl-4 ${showFrench ? '' : 'pt-3'}`}>
+                        <p className={`leading-relaxed whitespace-pre-line ${darkMode ? 'text-red-300/80' : 'text-red-800/80'} ${
                           fontSize === 'xxlarge' ? 'text-xl' :
                           fontSize === 'xlarge' ? 'text-lg' :
                           fontSize === 'large'  ? 'text-base' :
