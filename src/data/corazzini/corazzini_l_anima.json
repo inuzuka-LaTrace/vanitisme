@@ -1,0 +1,87 @@
+{
+  "id": "corazzini_l_anima",
+  "title": "L'anima",
+  "author": "Sergio Corazzini",
+  "source": "Dal «Le aureole». In: Sergio Corazzini. Liriche. — Napoli: Ricciardi, 1935. 底本: it.wikisource.org/wiki/Liriche_(Corazzini_1935)/Le_aureole/L'anima。テキスト: Google Books (books.google.it/books?id=PscGAQAAIAAJ)。",
+  "year": "1904",
+  "firstPublication": "詩集収録: Liriche. Napoli: Ricciardi, 1935.",
+  "difficulty": "上級",
+  "category": "corazzini",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "セルジョ・コラッツィーニ（1886–1907）の詩集「Le aureole（光輪）」所収。詩集「Le aureole」はコラッツィーニの同名の詩集の冒頭セクションを形成し、本詩はその巻頭詩として機能する。「Spleen」とともに「Le aureole」サイクルの核心をなす作品。14行の完全なペトラルカ式ソネット（ABBA ABBA / CDE CDE）──「Ballata della primavera」の変形ソネットとは対照的に、こちらは伝統的なソネット形式を忠実に守る。詩の語りかけは「Tu sai（汝は知っている）」という二人称で始まり、魂（l'anima）の苦悩を告げる──「魂は夢の中で空しく苦しんでいる」。オクターヴ（8行）では川が海へ合流する比喩を用い、魂の渇望が満たされない様子を描き、第7・8行でオフィーリアのイメージへと転換する（「ハムレット」第4幕でオフィーリアが花を持ったまま水中に浮かぶ場面）。セステット（6行）では秋の葉が落ちる中で欲望が枯れていく様子が描かれ、最終2行で修道院の壁に「永遠に磔にされた」黒衣の魂のヴィジョンで閉じる──「Ballata della primavera」の「キリストの茨の冠」と対称をなすキリスト教的殉教のイメージ。",
+  "keywords": [
+    "ソネット",
+    "ペトラルカ式",
+    "魂",
+    "オフィーリア",
+    "修道院",
+    "磔",
+    "川と海の比喩",
+    "落葉",
+    "Le aureole",
+    "クレプスコラリズモ",
+    "黒衣"
+  ],
+  "relatedTexts": [
+    "corazzini_spleen",
+    "corazzini_desolazione",
+    "corazzini_ballata_primavera",
+    "rossetti_monna_innominata",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tu sai: l'anima invano si martòra\ndi sogni; al mar non più le fragorose\nacque dei fiumi giungon desiose\ndi confondere lor voce sonora",
+      "provisionalTranslation": "汝は知っている：魂は空しく苦しめられる\n夢によって；海へはもはや轟く\n川の水が渇望のうちに到達しない\nその音高い声を合流させようと"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "con quella che sì forte la innamora\nda farle di ogni immagine obliose,\nma van per l'onda petali di rose\ncome se Ofelia vi dormisse ancora.",
+      "provisionalTranslation": "これほど強く魂を恋させる声と──\nすべての像を忘れさせるほどに；\nしかし波の上をバラの花びらが漂う\nまるでオフィーリアがそこでまだ眠っているかのように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14",
+      "original": "Tu sai l'anima ben vide cadere\ntutte le foglie e in ogni foglia un puro\ndesiderio, fin che, in suo tormento,\nle parve dolce figurarsi in nere\nvesti, per sempre crocifissa al muro\ndi un lontano antichissimo convento.",
+      "provisionalTranslation": "汝は知っている、魂はよく見た、落ちていくのを\nすべての葉を、そしてどの葉にも純粋な\n欲望があった──ついに、その苦悩の中で、\n魂には甘く思われた、黒衣に\n身を包み、永遠に壁に磔にされた姿を\n遠い、とても古い修道院の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tu sai: l'anima invano si martòra\ndi sogni; al mar non più le fragorose\nacque dei fiumi giungon desiose\ndi confondere lor voce sonora",
+      "body": "完全なペトラルカ式ソネット──ABBA ABBA（オクターヴ）/ CDE CDE（セステット）。A韻: martora/sonora/innamora/ancora（-ora/-amora/-ancora）、B韻: fragorose/desiose/obliose/rose（-ose）。A韻の「-ora」音が「苦悩（martora）」「声（sonora）」「恋（innamora）」「また（ancora）」という意味論的に異なる語を音響的に統一する──苦しみ・声・愛・持続という四つの主題語が同一の音で結ばれる。CDE CDE のセステット韻: C（cadere/nere）・D（puro/muro）・E（tormento/convento）。「落ちること（cadere）」と「黒（nere）」、「純粋（puro）」と「壁（muro）」、「苦悩（tormento）」と「修道院（convento）」という各韻対が意味論的にも対応関係を形成する──特に「tormento/convento」の韻が苦悩の最終的な安置場所として修道院を音響的に確定する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "al mar non più le fragorose\nacque dei fiumi giungon desiose\ndi confondere lor voce sonora",
+      "body": "「海へはもはや川の水が渇望のうちに到達しない、その声を合流させようと」──川が海に注ぐという自然の運動が「もはや起きない（non più）」として否定される。川の水が海を「これほど強く恋させる声（quella che sì forte la innamora）」と合流したいと渇望するというアレゴリーは、魂の合一・融合への渇望を川・海という宇宙的規模の自然現象として提示する。しかし「non più（もはや）」という否定がその合流を不可能として確定する──「Desolazione」の「私は詩人ではない」という自己否定と同様に、コラッツィーニの詩は渇望を提示した直後にその達成不可能性を宣言する構造を持つ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "ma van per l'onda petali di rose\ncome se Ofelia vi dormisse ancora.",
+      "body": "「しかし波の上をバラの花びらが漂う / まるでオフィーリアがそこでまだ眠っているかのように」──シェイクスピア「ハムレット」（1601）第4幕第7場でのオフィーリアの溺死場面への参照。原作ではオフィーリアは花輪を柳の枝に掛けようとして水に落ち、歌いながら「川の中で衣が広がって彼女を浮かせた」（ガートルードの報告）。コラッツィーニの「petali di rose（バラの花びら）」がオフィーリアの花輪の散逸として提示される。「ancora（まだ）」という副詞が幻視の時制を「今も続いている」として定立する──死んだオフィーリアが「今もまだ」水面に眠るという永続的な死のヴィジョン。クレプスコラリズモが好むプレ・ラファエル派的なオフィーリア・イメージ──ジョン・エヴァレット・ミレーの絵画「オフィーリア」（1851–52）との文化的連鎖の中に置かれる。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "in ogni foglia un puro\ndesiderio, fin che, in suo tormento,",
+      "body": "「どの葉にも純粋な欲望があった──ついに、その苦悩の中で」──秋の落葉と欲望の消滅というヴェルレーヌ的なイメージ。「tutte le foglie（すべての葉）」が落ちるという秋の情景が、「in ogni foglia un puro desiderio（どの葉にも純粋な欲望）」という内面化によって各落葉を一つの欲望の死として定義する。「Ballata della primavera」の「di mammola di rose（スミレとバラ）」という春の花が秋の落葉へと転換するコラッツィーニ詩群の季節的連鎖。「fin che（ついに・〜するまで）」という時間的収束の接続詞が詩のvolttaを導き、最終2行の修道院のヴィジョンへと詩を方向付ける。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "le parve dolce figurarsi in nere\nvesti, per sempre crocifissa al muro\ndi un lontano antichissimo convento.",
+      "body": "「魂には甘く思われた、黒衣に身を包み、永遠に壁に磔にされた姿を / 遠い、とても古い修道院の」──詩のクライマックス。「dolce（甘い）」という語が修道院への閉じこもり・磔という受難を「甘さ」として経験する逆説──「Desolazione」の「mi comunico del silenzio（沈黙の聖体拝領）」と同じ逆説的な甘美さ。「crocifissa（磔にされた）」は「Ballata della primavera」の「come Cristo ho corona（キリストのように冠を）」と呼応するキリスト受難の女性形──魂が女性として「永遠に磔にされた」。「lontano antichissimo convento（遠い、とても古い修道院）」という最終句の空間的・時間的な距離が、「永遠（per sempre）」という時間と合わさって魂の完全な隔絶・閉じ込めを完成させる。"
+    }
+  ]
+}
