@@ -1,0 +1,85 @@
+{
+  "id": "maeterlinck_ame_de_serre",
+  "title": "Âme de serre",
+  "author": "Maurice Maeterlinck",
+  "source": "Serres chaudes. Bruxelles/Paris: Paul Lacomblez, Éditeur, 1912 (p. 81–82). 初版: Serres chaudes. Gand: L. Vanderpoorten, 1889. 底本: fr.wikisource.org/wiki/Âme_de_serre（2024年照合）",
+  "year": "1889",
+  "firstPublication": "Serres chaudes. Gand: L. Vanderpoorten, 1889.",
+  "difficulty": "中級",
+  "category": "maeterlinck",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "メーテルリンク（Maurice Maeterlinck, 1862–1949）の詩集『温室（Serres chaudes）』（1889年初版）収録の16行詩、p.81–82。ABBA×4連、8音節（octosyllabes）。詩集の後半に位置し、「Serre chaude（巻頭）」「Serre d'ennui」「Offrande obscure」と同じ形式・語彙を用いながら、これらの詩の主題語（yeux / bleu / verre / closes / portes）を精密に織り込む詩集内の総合詩として機能する。「温室の魂（Âme de serre）」というタイトルが示すように、温室＝魂という等価式を直接に言語化する──「Serre d'ennui」が「ennui bleu comme la serre（温室のように青い倦怠）」と比喩的に述べたのに対し、この詩は「âme enclose sous verre（硝子の下に閉じた魂）」として魂と温室の同一性を構造として設定する。詩の動き：第1連（魂が硝子に触れる）→第2連（感嘆的に温室の内容を羅列）→第3連（「届きたい」という願望）→第4連（「待つ」という持続的な状態へ）。「Serre chaude」が「Mon Dieu！いつ雨と風が来るのか！」と閉鎖の打破を叫んだのに対し、この詩は「lune aux doigts bleus / Entr'ouvre en silence les portes（月が青い指で静かに扉を開く）」という静かな受動的開口で閉じる──詩集を通じた「閉鎖の打破」の主題が、暴力的な叫びから静謐な待機へと変容する。",
+  "keywords": [
+    "温室の魂", "âme enclose", "硝子の下", "vitrages bleus", "閉じた瞳",
+    "ombelles roses", "月の青い指", "扉が開く", "詩集の総合詩",
+    "Serres chaudes", "待機", "ABBA", "オクトシラブ"
+  ],
+  "relatedTexts": [
+    "maeterlinck_serre_chaude",
+    "maeterlinck_serre_d_ennui",
+    "maeterlinck_offrande_obscure",
+    "verlaine_clair_de_lune",
+    "mallarme_sonnet_cygne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Je vois des songes dans mes yeux ;\nEt mon âme enclose sous verre,\nÉclairant sa mobile serre,\nAffleure les vitrages bleus.",
+      "provisionalTranslation": "私は自分の目の中に夢を見る；\nそして硝子の下に閉じ込められた私の魂が、\nその動く温室を照らしながら、\n青い硝子板に触れそうになっている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ô les serres de l'âme tiède,\nLes lys contre les verres clos,\nLes roseaux éclos sous leurs eaux,\nEt tous mes désirs sans remède !",
+      "provisionalTranslation": "ああ、温かい魂の温室たち、\n閉じた硝子に押しつけられた白百合たち、\n水面から芽吹いた葦たち、\nそして治癒のない私の欲望すべて！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Je voudrais atteindre, à travers\nL'oubli de mes pupilles closes,\nLes ombelles autrefois roses\nDe tous mes songes entr'ouverts…",
+      "provisionalTranslation": "私は届きたい、閉じた瞳の\n忘却を通り抜けて、\nかつて薔薇色だったすべての\n半ば開いた私の夢の散形花序に……"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "J'attends pour voir leurs feuilles mortes\nReverdir un peu dans mes yeux ;\nJ'attends que la lune aux doigts bleus\nEntr'ouvre en silence les portes.",
+      "provisionalTranslation": "私は待つ、彼らの枯れ葉が\n私の目の中で少し緑に戻るのを見るために；\n私は待つ、青い指の月が\n静かに扉を半ば開くのを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Je vois des songes dans mes yeux ;\nEt mon âme enclose sous verre,\nÉclairant sa mobile serre,\nAffleure les vitrages bleus.",
+      "body": "韻型 ABBA（yeux / verre / serre / bleus）──「yeux（目）」と「bleus（青）」（A、男性終止）が「verre（硝子）」と「serre（温室）」（B、女性終止）を包む。第4連では A 韻に「yeux（目）」と「bleus（青）」が再び来る──第1連との韻語の一致（yeux v.1 = yeux v.14 / bleus v.4 = bleus v.15）が詩を円環的に閉じる。8音節（octosyllabes）は詩集全体を通じたメーテルリンクの標準詩形──「Serres chaudes」の規則的な詩では常にこの音節数。「Affleure les vitrages bleus（青い硝子板に触れそうになっている）」──「affleurer」は「かすかに触れる・水面に達する」の意、魂が硝子に達して触れるがまだ突き抜けられないという極限的な接触を描く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et mon âme enclose sous verre,\nÉclairant sa mobile serre,",
+      "body": "「硝子の下に閉じ込められた（enclose sous verre）魂が、その動く（mobile）温室を照らす」──「Serre d'ennui」では「倦怠が温室のようだ」という比喩だったのが、この詩では「魂が温室の中にある」という直接的な同一化。「mobile serre（動く温室）」という形容が奇妙──温室は固定した建造物だが魂の温室は「動く」。魂の運動性が閉鎖の中に保持される逆説。「Serre chaude」巻頭の「votre coupole（あなたのドーム）」が外部から呼びかけられる温室だったのに対し、ここでは魂そのものが温室の光源として内部から照らす。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ô les serres de l'âme tiède,\nLes lys contre les verres clos,\nLes roseaux éclos sous leurs eaux,\nEt tous mes désirs sans remède !",
+      "body": "「温かい魂の温室たち」──「serres」の複数形が、詩集全体に散らばる温室群（Serre chaude / Serre d'ennui / Âme de serre）を一挙に召喚する。「lys contre les verres clos（閉じた硝子に押しつけられた白百合）」──「Offrande obscure」の「Des lys au fond des eaux lointaines（遠い水の底の白百合）」との対応：どちらも百合が到達困難な場所に置かれる。「roseaux éclos sous leurs eaux（水面から芽吹いた葦）」──「Serre d'ennui」の「roseau（葦）」を想起させる植物群。「désirs sans remède（治癒のない欲望）」──第3連の「atteindre（届く）」という動詞への前提、欲望は解決されない。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Les ombelles autrefois roses\nDe tous mes songes entr'ouverts…",
+      "body": "「かつて薔薇色だったすべての半ば開いた私の夢の散形花序（ombelles）」──「ombelle（散形花序）」はニンジン・パセリのような傘状に広がる花の形。この植物学的・具体的な語が夢の比喩として使われる。「autrefois roses（かつて薔薇色だった）」──過去の薔薇色が現在失われているという時間的喪失。「entr'ouverts（半ば開いた）」──第4連の「Entr'ouvre（半ば開く）」という動詞と同じ語根の繰り返し（entr'）。「半ば開いた」という状態が詩全体の扉・瞳・夢に通底する──完全に開かず・完全に閉じない中間的な状態こそメーテルリンクの詩的空間の特徴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "J'attends pour voir leurs feuilles mortes\nReverdir un peu dans mes yeux ;\nJ'attends que la lune aux doigts bleus\nEntr'ouvre en silence les portes.",
+      "body": "詩の結末連──「J'attends（私は待つ）」の二重反復が詩の動詞的中心。第3連の「Je voudrais（〜したい）」という願望が第4連で「J'attends（待つ）」という持続的状態に収束する。「feuilles mortes / Reverdir（枯れ葉が緑に戻る）」──死と再生という不可能な逆転への期待。「lune aux doigts bleus（青い指の月）」──月が「青い指」を持つという擬人化。「bleus（青）」は詩の冒頭「vitrages bleus（青い硝子）」と結末「doigts bleus」で詩を色彩的に閉じる。「Entr'ouvre en silence les portes（静かに扉を半ば開く）」──「Serre chaude」の「Mon Dieu！quand aurons-nous la pluie…（いつ雨と風が来るのか）」という叫びによる暴力的な閉鎖の打破から、「静かに・半ば・月によって」扉が開くという受動的・漸進的な開口への変容。詩集の鍵語「portes（扉）」（Serre chaude：「vos portes à jamais closes」）が最終行に再登場し、「永遠に閉じた」から「静かに半ば開く」への詩集内の変容を完成させる。",
+      "targetId": "maeterlinck_serre_chaude",
+      "targetParagraphId": 1
+    }
+  ]
+}
