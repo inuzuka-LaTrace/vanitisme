@@ -1,0 +1,87 @@
+{
+  "id": "verhaeren_heresiarque",
+  "title": "L'Hérésiarque",
+  "author": "Émile Verhaeren",
+  "source": "Les Moines. Paris: Société du Mercure de France, 1895, p. 206–209. 底本: fr.wikisource.org/wiki/Les_Moines_(Recueil)/L'Hérésiarque（2024年照合）",
+  "year": "1895",
+  "firstPublication": "Les Moines. Paris: Société du Mercure de France, 1895.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）のベルギー象徴主義詩集『修道士たち（Les Moines）』（1886年初版、1895年マルキュール・ド・フランス版）収録の詩。「異端の首謀者（L'Hérésiarque）」を主人公とする52行のアレクサンドラン（12音節）詩、★印で区切られた3連構成（18+16+18行）。第1連：黒衣の修道士が孤独の中に「傲慢の記念碑」を密かに建立し、その頂に沈黙の冒瀆が輝く。第2連：兄弟たちの中の容疑者として生き、心・口・脳・眼が信仰の平歌（plain-chant）を破ることを恐れつつ、ついにローマへの憎悪に駆られ「死んだ信仰」を高らかに宣言する。第3連：彼が立てば人間的偉大さの炎が上がり、ローマの雷が轟き、全キリスト教世界が揺れ動き、闇と火災と武器が地平線を覆う。詩集『修道士たち』はヴェルハーレン初期の代表作で、フランドルのベネディクト会修道院での生活体験を基に、信仰・懐疑・反抗という宗教的葛藤を一連の修道士の肖像として描く。マラルメ・ヴェルレーヌとともにベルギー象徴主義の頂点を形成したヴェルハーレンの、ロダンも愛した詩集。",
+  "keywords": [
+    "異端", "修道士", "傲慢", "冒瀆", "孤独", "ローマ", "信仰の崩壊",
+    "異端首謀者", "フランドル象徴主義", "アレクサンドラン", "Les Moines",
+    "宗教的反乱", "キリスト教世界の動揺"
+  ],
+  "relatedTexts": [
+    "verhaeren_les_moines",
+    "mallarme_herodiade_scene",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–18",
+      "original": "Et là, ce moine noir, que vêt un froc de deuil,\nConstruit, dans sa pensée, un monument d'orgueil.\nIl le bâtit, tout seul, de ses mains taciturnes,\nDurant la veille ardente et les fièvres nocturnes.\nIl le dresse, d'un jet, sur les Crédos béants,\nComme un phare de pierre au bord des océans,\nIl y scelle sa fougue et son ardeur mystique,\nEt sa fausse science et son doute ascétique,\nIl y jette sa force et sa raison de fer,\nEt le feu de son âme et le cri de sa chair,\nEt l'œuvre est là, debout, comme une tour vivante,\nDardant toujours plus haut sa tranquille épouvante,\nEmpruntant sa grandeur à son isolement,\nSous le défi serein et clair du firmament,\nCependant qu'au sommet des rigides spirales\nLuisent sinistrement, comme des joyaux pâles,\nComme de froids regards, toisant Dieu dans les cieux,\nLes blasphèmes du grand moine silencieux.",
+      "provisionalTranslation": "そこに、喪の粗衣をまとうあの黒衣の修道士が、\n思念の中に、傲慢の記念碑を建設している。\n彼はそれを、ひとり、黙して閉じた両手で積み上げる、\n熱烈な徹夜祈禱と夜の熱病の中で。\n彼はそれを、一気に、口を開けたクレドたちの上に建立する、\n大海の岸辺の石の灯台のように。\n彼はそこに自らの情熱と神秘的な熱烈さを封じ込め、\n偽りの学識と禁欲的な懐疑を封じ込め、\n彼はそこに自らの力と鉄の理性を投げ込み、\n魂の炎と肉の叫びを投げ込む。\nそして作品はそこに、直立して、生きた塔のように、\n静寂な恐怖をいつも高みへと向けて放ちながら、\n孤立から偉大さを借り受けながら、\n天空の穏やかで明澄な挑戦の下で──\nやがて硬直した螺旋の頂に\n不気味に輝く、蒼白い宝石のように、\n冷たい視線のように、天にいる神を見下すように──\n沈黙の偉大な修道士の冒瀆の言葉が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.19–34",
+      "original": "Aussi vit-il, tel qu'un suspect parmi ses frères,\nTombeau désert, vidé de vases cinéraires,\nDamné d'ombre et de soir, que Satan ronge et mord,\nLépreux moral, chauffant contre sa peau la mort,\nLe cœur tortionné, durant des nuits entières,\nLa bouche morte aux chants sacrés, morte aux prières,\nLe cerveau fatigué d'énormes tensions,\nLes yeux brûlés au feu rouge des visions,\nLe courage hésitant, malgré les clairvoyances,\nÀ rompre effrayamment le plain-chant des croyances,\nQui par le monde entier s'en vont prenant l'essor\nEt dont Rome, là-bas, est le colombier d'or,\nJusqu'au jour où, poussé par sa haine trop forte,\nIl se possède enfin et clame sa foi morte\nEt se carre massif, sous l'azur déployé,\nAvec son large front vermeil de foudroyé.",
+      "provisionalTranslation": "かくして彼は生きる、兄弟たちの中で嫌疑者のように──\n荒廃した墓、骨壺を空にされた墓、\n影と夕暮れに断罪された者、サタンが蝕み噛む者、\n道徳の癩病者、皮膚に死を温め続ける者、\n心が苦悶にねじれながら、夜通し、\n口は聖なる歌に死に、祈りに死に、\n脳が巨大な緊張に疲れ果て、\n目がヴィジョンの赤い炎に焼かれながら、\n勇気が躊躇する、透視力にもかかわらず、\n信仰の平歌を恐ろしいほどに打ち破ることを──\nその平歌は全世界を通じて飛翔していき\nローマはその遠い金の鳩小屋──\nついに、あまりにも強くなった憎悪に駆られた日、\n彼はついに自己を取り戻し、死んだ信仰を高らかに宣言し、\n広げた蒼穹の下で、重々しくそびえ立つ、\n雷に撃たれた者の広い真紅の額をもって。"
+    },
+    {
+      "id": 3,
+      "verses": "v.35–52",
+      "original": "Alors il sera grand de la grandeur humaine,\nSon orgueil flamboiera sous la foudre romaine,\nSon nom sera crié dans la rage et l'amour,\nSon ombre, projetée, obscurcira le jour,\nLes prêches, les écrits, les diètes, les écoles,\nLes sectes germeront autour de ses paroles,\nLe monde entier, promis par les papes aux rois,\nSur le vieux sol chrétien verra trembler la croix,\nLes disputes, les cris, les querelles, les haines,\nLes passions et les fureurs, rompant leurs chaînes,\nAinsi qu'un troupeau roux de grands fauves lâchés,\nBroieront, entre leurs dents, les dogmes desséchés,\nUn vent venu des loins antiques de la terre\nÉteindra les flambeaux autour du sanctuaire,\nEt la nuit l'emplira morne, comme un cercueil,\nDepuis l'autel désert jusqu'aux marches du seuil,\nTandis qu'à l'horizon luiront des incendies,\nDes glaives furieux et des crosses brandies.",
+      "provisionalTranslation": "そのとき彼は人間的偉大さの偉大さとなるだろう、\n彼の傲慢はローマの雷の下で燃え上がり、\n彼の名は怒りと愛の中で叫ばれ、\n彼の影は投影されて、昼を暗くし、\n説教、著作、公会議、学派、\n諸派はその言葉を中心に芽生えるだろう、\n全世界は、法王から王たちに約束されていたが、\n古いキリスト教の大地の上に十字架が震えるのを見るだろう、\n論争、叫び、争い、憎しみ、\n情熱と怒りが、その鎖を断ち切って、\n解き放たれた大きな野獣の赤毛の群れのように、\n乾ばびた教義を歯の間で噛み砕くだろう、\n大地の古代の遠さから来た風が\n聖所の周りの松明を消し、\n夜が、棺のように陰鬱に、それを満たすだろう、\n廃棄された祭壇から入り口の石段まで、\nやがて地平線には火災が輝き、\n激しい剣と振りかざされた司教杖が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et là, ce moine noir, que vêt un froc de deuil,\nConstruit, dans sa pensée, un monument d'orgueil.",
+      "body": "アレクサンドラン（александрин、12音節）の対韻（rimes plates、AABB…）。全篇を通じて対韻が維持される──「deuil / orgueil」「taciturnes / nocturnes」等。ヴェルハーレンのアレクサンドランは古典的12音節を守りながら、句またがり（enjambement）を多用して散文的な勢いを持つ。第1連18行・第2連16行・第3連18行という非対称の連構成は、詩集『修道士たち』の各肖像詩の個性に応じた有機的な形式選択。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Il le dresse, d'un jet, sur les Crédos béants,\nComme un phare de pierre au bord des océans,",
+      "body": "「口を開けたクレドたちの上に海辺の石の灯台のように建立する」──「Crédos béants（口を開けたクレド）」という比喩が異端の記念碑の基礎を宗教的教義の空洞の上に置く逆説。「phare de pierre（石の灯台）」は方向を示す建造物として異端の思想的指標性を示す。孤独の偉大さ（「Empruntant sa grandeur à son isolement」）という主題──群れからの孤立が傑出の条件であるというヴェルハーレンの詩学。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Les blasphèmes du grand moine silencieux.",
+      "body": "第1連の結末行──「沈黙の偉大な修道士の冒瀆の言葉」。「grand moine silencieux（沈黙の偉大な修道士）」という矛盾した形容──沈黙しながら冒瀆を発する。「Luisent sinistrement, comme des joyaux pâles（蒼白い宝石のように不気味に輝く）」という比喩で冒瀆が宝石化・審美化される。ボードレール「悪の花」の系譜──罪と美の融合というボードレール的美学がヴェルハーレンに継承される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tombeau désert, vidé de vases cinéraires,\nDamné d'ombre et de soir, que Satan ronge et mord,\nLépreux moral, chauffant contre sa peau la mort,",
+      "body": "「荒廃した墓・道徳の癩病者・死を温める者」──異端者の身体的・精神的自画像の連続する比喩。「Lépreux moral（道徳の癩病者）」は道徳的汚染の身体的化として、中世の宗教的排除の言語をヴェルハーレンが象徴主義的に再使用する。「chauffant contre sa peau la mort（皮膚に死を温め続ける）」──死を「暖める」という奇妙な動詞（chauffer）の選択が、死との親密な共棲を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "À rompre effrayamment le plain-chant des croyances,\nQui par le monde entier s'en vont prenant l'essor\nEt dont Rome, là-bas, est le colombier d'or,",
+      "body": "「plain-chant des croyances（信仰の平歌）」──グレゴリオ聖歌（plain-chant）が「信仰」の比喩として使われる。「colombier d'or（金の鳩小屋）」としてのローマ──平歌を歌う声（鳩）が帰還するローマという中央集権的比喩。これを「破る（rompre）」のが異端者の役割──ヴェルハーレンはルターやカルヴァンのような宗教改革者の原型的な心理を描いている。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Les passions et les fureurs, rompant leurs chaînes,\nAinsi qu'un troupeau roux de grands fauves lâchés,\nBroieront, entre leurs dents, les dogmes desséchés,",
+      "body": "「解き放たれた大きな野獣の赤毛の群れのように乾ばびた教義を噛み砕く」──動物的な暴力の比喩による宗教改革の描写。「troupeau roux de grands fauves（赤毛の大きな野獣の群れ）」という色彩的・動物的イメージは、ヴェルハーレンの後期詩集『暗闇に輝くもの（Les Forces tumultueuses）』等の群衆詩学の萌芽として読める。「dogmes desséchés（乾ばびた教義）」──乾燥・老化した教義が動物に噛み砕かれる有機的腐朽の過程。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tandis qu'à l'horizon luiront des incendies,\nDes glaives furieux et des crosses brandies.",
+      "body": "詩の結末──「地平線に火災が輝き、激しい剣と振りかざされた司教杖」。「crosses brandies（振りかざされた司教杖）」──クロスは司教の権威の象徴で、それが武器として「振りかざされる」とき、宗教的権威が戦争的行為に転化する。詩は異端者の個人的英雄性の称揚から始まり、教会世界全体の火災と混乱という終末論的景観で閉じる──個人の行為が世界史的な宗教的大変動を引き起こすというヴェルハーレンの壮大な歴史ヴィジョン。"
+    }
+  ]
+}
