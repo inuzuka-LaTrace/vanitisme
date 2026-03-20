@@ -1,0 +1,90 @@
+{
+  "id": "maeterlinck_offrande_obscure",
+  "title": "Offrande obscure",
+  "author": "Maurice Maeterlinck",
+  "source": "Serres chaudes. Bruxelles/Paris: Paul Lacomblez, Éditeur, 1912 (p. 23–24). 初版: Serres chaudes. Gand: L. Vanderpoorten, 1889. 底本: fr.wikisource.org（2024年照合）",
+  "year": "1889",
+  "firstPublication": "Serres chaudes. Gand: L. Vanderpoorten, 1889.",
+  "difficulty": "中級",
+  "category": "maeterlinck",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "メーテルリンク（Maurice Maeterlinck, 1862–1949）の詩集『温室（Serres chaudes）』（1889年初版）収録の16行詩。ABAB×4連、8音節（octosyllabes）。第1連：「私」が「死者の夢に似た不出来な作品」を持参し、月が嵐と悔恨の動物群を照らす。第2連：夢の紫の蛇・剣の冠を持つ欲望・陽光に溺れたライオンという象徴的な捧げ物の列挙。第3連：遠い水の底の白百合・閉じた手・憎悪の赤い茎・愛の緑の喪という矛盾した対象の並置。第4連：突然「主よ、言葉を哀れんでください！」という祈願へ転換し、月が夜を刈り取るイメージで閉じる。詩集『温室』はヴェルハーレンとともにベルギー象徴主義の頂点を形成し、マラルメから「驚くべき自律性」と称賛された。「不出来な作品（mauvais ouvrage）」を神に捧げるという逆説が詩全体の中心──詩作を捧げ物として提示しながら、その価値を最初に否定する自己解体的身振り。ヴァレリー「Le vin perdu（失われた葡萄酒）」の海への奉納と比較すると：どちらも「意味をなさない贈り物」という逆説を構造の核とするが、ヴァレリーは奉納の後に生じる変容（「まぶしい渇き」）を問い、メーテルリンクは「言葉」そのものへの哀れみを神に乞う。",
+  "keywords": [
+    "捧げ物", "暗い奉納", "悔恨の動物群", "夢の蛇", "剣冠の欲望", "白百合",
+    "言葉への憐れみ", "Serres chaudes", "温室", "ベルギー象徴主義",
+    "不出来な作品", "月と夜", "オクトシラブ"
+  ],
+  "relatedTexts": [
+    "valery_le_vin_perdu",
+    "vanlerberghe_invocation",
+    "verhaeren_a_tenebres",
+    "mallarme_sonnet_cygne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "J'apporte mon mauvais ouvrage\nAnalogue aux songes des morts,\nEt la lune éclaire l'orage\nSur la faune de mes remords :",
+      "provisionalTranslation": "私は自らの不出来な作品を持参する\n死者たちの夢に似た作品を、\nそして月は嵐を照らす\n私の悔恨の動物群の上で："
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Les serpents violets des rêves\nQui s'enlacent dans mon sommeil,\nMes désirs couronnés de glaives,\nDes lions noyés au soleil,",
+      "provisionalTranslation": "眠りの中で絡み合う\n夢の紫の蛇たち、\n剣の冠を持つ私の欲望たち、\n陽光の中に溺れたライオンたち、"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Des lys au fond des eaux lointaines\nEt des mains closes sans retour,\nEt les tiges rouges des haines\nEntre les deuils verts de l'amour.",
+      "provisionalTranslation": "遠い水の奥底の白百合たち\nそして二度と開かぬ閉じた手、\nそして憎悪の赤い茎たち\n愛の緑の喪の間で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Seigneur, ayez pitié du verbe !\nLaissez mes mornes oraisons\nEt la lune éparse dans l'herbe\nFaucher la nuit aux horizons !",
+      "provisionalTranslation": "主よ、言葉を哀れんでください！\n私の陰鬱な祈りと\n草の中に散らばった月が\n地平線で夜を刈り取るに任せてください！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'apporte mon mauvais ouvrage\nAnalogue aux songes des morts,",
+      "body": "「私は自らの不出来な作品（mauvais ouvrage）を持参する──死者たちの夢に似た作品を」。詩集全体への序詩的な機能──メーテルリンクは詩集『温室』を冒頭で「不出来」と宣言することで、象徴主義の自己解体的な謙遜の身振りを演じる。「mauvais（不出来な）」は単なる謙遜ではなく、言語・詩作の不充分性への象徴主義的な認識──マラルメの「L'Œuvre（作品）」という絶対的理想に対する詩人の不可能性の意識と連続する。「songes des morts（死者の夢）」──生者の夢でなく死者のものとして捧げ物が定義される逆説。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et la lune éclaire l'orage\nSur la faune de mes remords :",
+      "body": "「月が悔恨の動物群（faune de mes remords）の上で嵐を照らす」──「faune（動物相・ファウヌス）」を「remords（悔恨）」に対応させる隠喩。続く第2連の「serpents（蛇）」「lions（ライオン）」という具体的な動物群がこの「faune de mes remords」の展開として機能する。ABAB韻型、8音節（octosyllabes）──アレクサンドラン（12音節）ではなく、より短い音節数を選ぶことでヴェルハーレンの雄弁な長詩とは対照的な、内向きで削ぎ落とされた詩的語りが実現される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Les serpents violets des rêves\nQui s'enlacent dans mon sommeil,\nMes désirs couronnés de glaives,\nDes lions noyés au soleil,",
+      "body": "第2連の四つの捧げ物──「紫の蛇・剣冠の欲望・陽光に溺れたライオン」。各行が一つの象徴的イメージを提示する列挙構造。「serpents violets（紫の蛇）」──夢の無意識的・性的含意（蛇）と象徴主義的色彩（violets、紫はメランコリー・神秘の色）の融合。「désirs couronnés de glaives（剣の冠を持つ欲望）」──欲望が戴冠されながら剣によって脅かされる矛盾した形象。「lions noyés au soleil（陽光に溺れたライオン）」──力の象徴（ライオン）が光（soleil）に溺死するという逆説。バリモント「ЦВѢТОКЪ」の「Как вулкан, стремишь потоки лавы」の猛烈な力のイメージとの対比──どちらも強大な力を詩に組み込むが、メーテルリンクの力は「溺れる」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Des lys au fond des eaux lointaines\nEt des mains closes sans retour,\nEt les tiges rouges des haines\nEntre les deuils verts de l'amour.",
+      "body": "第3連の四つの捧げ物──色彩の対置が際立つ。「lys（白百合）」の純白・遠い水底、「mains closes sans retour（二度と開かぬ閉じた手）」の喪失、「tiges rouges des haines（憎悪の赤い茎）」と「deuils verts de l'amour（愛の緑の喪）」という色彩的逆説。「vert（緑）」が「deuil（喪）」に割り当てられ、「rouge（赤）」が「haine（憎悪）」に──通常の象徴体系（緑＝生命・赤＝愛）が反転している。この色彩逆転がメーテルリンク象徴主義の核心的技法。ヴァン・レルベルグ「Entrevisions」の水・白百合のイメージとの詩集横断的な共鳴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Seigneur, ayez pitié du verbe !",
+      "body": "「主よ、言葉（verbe）を哀れんでください！」──詩の突然の転換。三連にわたる列挙が突然祈願（祈りの形式）に切り替わる。「pitié du verbe（言葉への哀れみ）」──神への哀れみを自己や他者のためでなく「言葉」そのものに求めるという、詩作への形而上学的な問いとして読める。「le Verbe（言葉・ロゴス）」はヨハネ1:1「はじめに言葉があった」の神学的概念──神に言葉自体への哀れみを乞うことは、創造の根拠への問いかけ。ヴァレリー「Le vin perdu」の「Quelque perte me vint illuminer（何らかの喪失が私を照らした）」との比較：どちらも奉納の後に残る空虚を主題とするが、ヴァレリーは照明として、メーテルリンクは哀れみの要請として処理する。",
+      "targetId": "valery_le_vin_perdu",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et la lune éparse dans l'herbe\nFaucher la nuit aux horizons !",
+      "body": "詩の結末──「草の中に散らばった月が地平線で夜を刈り取る」。「éparse（散らばった）」──第1連の「la lune éclaire l'orage（月が嵐を照らす）」から「la lune éparse dans l'herbe（草の中に散らばった月）」への変化：最初は統一体として嵐を照らした月が、最後には地上に断片化して散らばる。「Faucher la nuit（夜を刈り取る）」──月光が草を刈る鎌として夜を刈る比喩。「faune de mes remords（悔恨の動物群）」の第1連から「Faucher（刈る）」の第4連への音の連鎖（fau-ne / Fau-cher）が詩を音的に閉じる。ヴェルハーレン「À Ténèbres」の「Raffinés de la mort, nous l'invoquons les soirs（死によって精錬されて、私たちは夕に暗闇を呼び求める）」との並行：どちらも「召喚（invoquer / laissez）」の動詞で暗闇・夜へ向かって詩を閉じる。"
+    }
+  ]
+}
