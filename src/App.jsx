@@ -28,7 +28,9 @@ import hoelderlinData from './data/hoelderlin';
 import danteData from './data/dante';
 import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
+import corazziniData from './data/corazzini';
 import bryusovData from './data/bryusov';
+import sologubData from './data/sologub';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
@@ -210,7 +212,9 @@ export default function App() {
       ...danteData,
       ...dannunzioData,
       ...pascoliData,
+      ...corazziniData,
       ...bryusovData,
+      ...sologubData,
       ...poeData,
       ...wildeData,
       ...swinburneData,
@@ -1927,7 +1931,7 @@ export default function App() {
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 title="最上部へ戻る"
               >
-                Versillage
+                VERSILLAGE
               </h1>
             {currentText && (
               <p className={`text-xs font-sans truncate mt-0.5 ${textSecondary}`}>
