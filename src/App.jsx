@@ -1709,16 +1709,37 @@ export default function App() {
 
 
   if (loading) {
-    return (
-      <div className="min-h-screen bg-stone-50 flex items-center justify-center">
-        <div className="text-center">
-          <div className="text-6xl mb-4">📚</div>
-          <p className="text-xl font-serif text-stone-700">読み込み中...</p>
-        </div>
-      </div>
-    );
-  }
+  return (
+    <div className="min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-sans">
+      {/* 1. 星群のような配置 (マラルメ的要素) */}
+      <div className="w-full max-w-4xl h-[60vh] relative">
+        
+        {/* 段差とサイズ違いのテキストを「パッ」と出すアニメーション */}
+        <span className="absolute top-[10%] left-[5%] text-white text-3xl font-black tracking-tighter animate-[flash_2s_infinite]">
+          UN COUP DE DÉS
+        </span>
 
+        <span className="absolute top-[40%] right-[10%] text-white text-5xl font-bold italic animate-[flash_2s_infinite_0.5s] opacity-0">
+          JAMAIS
+        </span>
+
+        <span className="absolute bottom-[20%] left-[20%] text-red-600 text-6xl font-black animate-[flash_1.5s_infinite_1s] opacity-0">
+          N'ABOLIRA
+        </span>
+
+        <span className="absolute top-[60%] left-[40%] text-white text-4xl font-light tracking-[1em] animate-[flash_3s_infinite_1.5s] opacity-0">
+          LE HASARD
+        </span>
+      </div>
+
+      {/* 2. ゴダール風の垂直線または分割線 */}
+      <div className="absolute inset-0 flex justify-between px-20 opacity-20 pointer-events-none">
+        <div className="w-[1px] h-full bg-white"></div>
+        <div className="w-[1px] h-full bg-red-600"></div>
+      </div>
+    </div>
+  );
+}
   if (selectedText && !currentText) {
     return (
       <div className="min-h-screen bg-stone-50 flex items-center justify-center">
