@@ -1,0 +1,90 @@
+{
+  "id": "verhaeren_a_tenebres",
+  "title": "À Ténèbres",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 69–71. 底本: fr.wikisource.org/wiki/À_Ténèbres_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の36行詩。詩集では「Mourir」の直後、最終セクション「LES DÉBÂCLES（崩壊たち）」の直前に配置される。ABBA×9連（12-8-8-12音節の変則的アレクサンドラン混合）、第1連と第9連が「Un catafalque d'or…」で完全一致する環状構造（épiphore）。「暗闇に捧げる詩（À Ténèbres）」という献辞的タイトルが示すように、夕空の黄金の棺台から始まり、その棺に横たわるのは「影の人々（hommes d'ombre）」──征服者でなく敗北者、夢想家、孤独な魂──と問いに答えながら、6連（§3–8）にわたって彼らの内的生の失敗を描写し、最終連で冒頭の宇宙的景観に回帰する。「Insatiablement」の「苦しみを意志的に選ぶ傲慢な私」と対極的に、この詩は傲慢を持てなかった者たち、「煤山の上で薔薇を食べようとした者たち（Sur les fumiers du monde à se nourrir de roses）」への哀歌。ヴェルハーレン自身の精神的危機（1887–91年の神経衰弱期）の記憶と結びついて読まれることが多い。",
+  "keywords": [
+    "暗闇", "棺台", "影の人々", "敗者", "孤独", "夢想家", "薔薇と煤山",
+    "信仰の喪失", "水晶の亀裂", "環状構造", "épiphore", "変則アレクサンドラン",
+    "精神的危機", "LES DÉBÂCLES"
+  ],
+  "relatedTexts": [
+    "verhaeren_mourir",
+    "verhaeren_insatiablement",
+    "verhaeren_heresiarque",
+    "mallarme_toast_funebre",
+    "sologub_kumir_upal"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Un catafalque d'or surgit au fond des soirs,\nQuand les astres, comme des lampes,\nBrûlent, en étageant leurs rampes,\nVers les lointains d'argent marbrant des parvis noirs.\n\nQuel mort en ce cercueil ? Le cœur des hommes d'ombre.\nNon des banals victorieux\nDont l'audace brûle les yeux,\nMais le cœur des vaincus que la tristesse encombre.",
+      "provisionalTranslation": "黄金の棺台が夕空の奥から現れる、\n星々が、ランプのように、\n黒い広場に銀を大理石模様に刻みながら、\n次々と段を成しその傾斜を燃やすとき。\n\nその棺の中の死者は誰か？影の人々の心臓。\n陳腐な勝利者たちではない、\nその傲慢さが目を焼く者たちではなく、\n悲しみが重くのしかかる敗者たちの心臓。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–28",
+      "original": "Ils ont passé rêveurs, muets, hagards et seuls,\nToujours découragés d'eux-mêmes,\nLaissant l'éclat des diadèmes\nÀ d'autres fronts et se vêtant de leurs linceuls.\n\nAprès, se regardant, inquiets et des choses\nEt des autres — et sans amours ;\nEt néanmoins cherchant toujours\nSur les fumiers du monde à se nourrir de roses.\n\nLointainement par les grands mirages tentés,\nEt par les gloires médusaires,\nMais peur des vices nécessaires,\nEt du cynique assaut de tant d'hostilités.\n\nLeurs bras, rameaux tendus vers le printemps des rêves,\nSont retombés, — et pas un fruit,\nPas une fleur d'or ou de nuit,\nJamais, pas un seul rut de feuilles ni de sèves.\n\nCe qui flottait de Dieu dans l'albe immensité,\n— Douceur éparse et messagère —\nOn l'a cristallisé naguère\nAu seuil des temps, en des vases d'éternité.\n\nMais le cristal s'en est fêlé. Les grands calices\nSe sont vidés de l'infini.\nEt maintenant l'esprit bruni\nDe trouble et les regards usés par les supplices,",
+      "provisionalTranslation": "彼らは夢想家として、黙して、魂が抜けたように、孤独に通り過ぎた、\nいつも自分自身に意気消沈し、\n冠の輝きを\n他の額に残し、自らの屍布を身にまとって。\n\nその後、物事への、他者への不安を抱えて\nお互いを見つめ合い──愛もなく；\nそれでもいつも求め続けた、\n世界の糞山の上で薔薇を食べ物とすることを。\n\n遠くに大いなる蜃気楼に誘惑されながら、\nメドゥーサ的な栄光に誘惑されながら、\nしかし必然的な悪徳への恐れ、\nあまりにも多くの敵意の冷笑的な攻撃への恐れ。\n\n彼らの腕は、夢の春に向かって伸ばされた若枝として、\n落ちてしまった──そして何の実もなく、\n金や夜の花もなく、\n決して、葉や樹液の一つの芽吹きもなく。\n\n白い広大さの中で神から漂っていたもの、\n──散りばめられた優しい使者──\nそれはかつて結晶化された、\n時の敷居で、永遠の壺の中に。\n\nしかし水晶にひびが入った。偉大な聖杯が\n無限から空にされた。\nそして今、精神は煤けて\n混乱に染まり、苦役に擦り切れた眼差し、"
+    },
+    {
+      "id": 3,
+      "verses": "v.29–36",
+      "original": "Raffinés de la mort, nous l'invoquons les soirs,\nQuand les astres, comme des lampes,\nBrûlent, en étageant leurs rampes,\nVers les lointains d'argent marbrant des parvis noirs.",
+      "provisionalTranslation": "死によって精錬されて、私たちは夕に暗闇を呼び求める、\n星々が、ランプのように、\n黒い広場に銀を大理石模様に刻みながら、\n次々と段を成しその傾斜を燃やすとき。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Un catafalque d'or surgit au fond des soirs,\nQuand les astres, comme des lampes,\nBrûlent, en étageant leurs rampes,\nVers les lointains d'argent marbrant des parvis noirs.",
+      "body": "韻型 ABBA×9連──各連は12音節（A、アレクサンドラン）と8音節（B、オクトシラブ）を交互に配置する変則的な混合韻律。12-8-8-12という音節数パターンが各連で繰り返される。「catafalque d'or（黄金の棺台）」──葬儀に使われる棺を飾る台。夕空を棺台として比喩化する冒頭の壮大な換喩。「étageant leurs rampes（傾斜を段状に並べながら）」──星を劇場の照明段（rampes）として描く演劇的比喩。第1連と第9連が字句通り一致する環状反復（épiphore）が詩全体を黄金の棺台で開閉する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quel mort en ce cercueil ? Le cœur des hommes d'ombre.\nNon des banals victorieux\nDont l'audace brûle les yeux,\nMais le cœur des vaincus que la tristesse encombre.",
+      "body": "詩の問いと答え──「その棺の中の死者は誰か？影の人々の心臓。陳腐な勝利者ではなく、敗者たちの心臓」。「hommes d'ombre（影の人々）」というタイトル的概念が第2連で定義される。「banals victorieux（陳腐な勝利者）」への拒否が「L'Hérésiarque」の孤独な異端者、「Moine féodal」の封建的誇りとは全く異なる視点──勝者ではなく「悲しみに重くのしかかられた敗者（vaincus que la tristesse encombre）」への転換。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sur les fumiers du monde à se nourrir de roses.",
+      "body": "「世界の糞山（fumiers）の上で薔薇を食べ物とすること」──詩集全体で最も記憶に残る行の一つ。「fumiers（糞山・肥料山）」という卑俗な語と「roses（薔薇）」という高雅な象徴語の極端な対置。影の人々は汚濁の中で美を求める──それが彼らの不可能な企てを定義する。ボードレール「腐屍（Une Charogne）」の腐敗と美の融合との系譜。ロシア象徴主義のソログープ「Какие слабые цветы（何と弱い花たちだろう）」の「盲目の運命の容赦なさに抑圧される花」との詩学的親縁性──どちらも極限的条件下での美の生存を問う。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Lointainement par les grands mirages tentés,\nEt par les gloires médusaires,",
+      "body": "「メドゥーサ的な栄光（gloires médusaires）」──見る者を石に変えるメドゥーサの比喩として栄光が描かれる。栄光は魅惑すると同時に麻痺させる──「tentés（誘惑されながら）」という受動性がこれを裏付ける。「Mais peur des vices nécessaires（しかし必然的な悪徳への恐れ）」──「L'Hérésiarque」が悪徳・冒瀆を能動的に選んだのに対し、影の人々はそれを恐れる。この恐れが彼らの敗北の原因として診断される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Leurs bras, rameaux tendus vers le printemps des rêves,\nSont retombés, — et pas un fruit,\nPas une fleur d'or ou de nuit,\nJamais, pas un seul rut de feuilles ni de sèves.",
+      "body": "「夢の春に向かって伸ばされた若枝としての腕が落ちた」──腕を木の枝（rameaux）として比喩化する身体化。「pas un fruit / Pas une fleur / Jamais, pas un seul rut（何の実も・花も・決して・一つの芽吹きも）」という否定の畳み掛け。「Mourir」の果実・花の豊饒な系列（リンゴ・ブドウ・月）が、この詩では全面的な否定として現れる──「Mourir」の秋の感覚的充溢と「À Ténèbres」の実らぬ腕の対照は、詩集内の意図的な対比配置。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ce qui flottait de Dieu dans l'albe immensité,\n— Douceur éparse et messagère —\nOn l'a cristallisé naguère\nAu seuil des temps, en des vases d'éternité.\n\nMais le cristal s'en est fêlé. Les grands calices\nSe sont vidés de l'infini.",
+      "body": "「神から漂っていたもの（douceur éparse）が永遠の壺に結晶化されたが、水晶にひびが入り、偉大な聖杯が無限から空にされた」──信仰の発生・制度化・崩壊という三段階の宗教史的叙述。「albe（夜明けの白）」──ラテン語由来の詩語で白い広大さ。「cristallisé（結晶化）」──神の恩寵が宗教的制度（壺・聖杯）に固定化される過程。「calices se sont vidés de l'infini（聖杯が無限から空にされた）」──ソログープ「Кумир упал, разрушен храм（偶像は倒れ神殿は破壊された）」との並行：両詩とも信仰の器の崩壊を主題とするが、ヴェルハーレンは崩壊の過程を歴史的に、ソログープは個人的に語る。",
+      "targetId": "sologub_kumir_upal"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Raffinés de la mort, nous l'invoquons les soirs,",
+      "body": "詩の結末連の冒頭行のみが第1連から変化する──「Un catafalque d'or surgit（黄金の棺台が現れる）」から「Raffinés de la mort, nous l'invoquons les soirs（死によって精錬されて、私たちは夕に暗闇を呼び求める）」へ。「Raffinés de la mort（死によって精錬されて）」──影の人々の経験が「死による精錬」として最後に定義される。「nous（私たち）」という複数一人称の突然の出現──詩全体で「ils（彼ら）」として描かれてきた影の人々に「私たち」が合流する。語り手自身も影の人々であることの告白。「insatiablement（飽くことなく）」の孤独な「je（私）」からこの「nous（私たち）」への転換が、詩集内でのヴェルハーレンの詩的立場の変化を示す。"
+    }
+  ]
+}
