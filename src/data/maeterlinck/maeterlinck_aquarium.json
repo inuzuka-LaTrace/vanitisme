@@ -1,0 +1,95 @@
+{
+  "id": "maeterlinck_aquarium",
+  "title": "Aquarium",
+  "author": "Maurice Maeterlinck",
+  "source": "Serres chaudes. Bruxelles/Paris: Paul Lacomblez, Éditeur, 1912 (p. 63–64). 初版: Serres chaudes. Gand: L. Vanderpoorten, 1889. 底本: fr.wikisource.org/wiki/Aquarium_(Maeterlinck)（2024年照合）",
+  "year": "1889",
+  "firstPublication": "Serres chaudes. Gand: L. Vanderpoorten, 1889.",
+  "difficulty": "中級",
+  "category": "maeterlinck",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "メーテルリンク（Maurice Maeterlinck, 1862–1949）の詩集『温室（Serres chaudes）』（1889年初版）収録の20行詩、p.63–64。ABAB×5連、各連8-8-8-4音節という変則的な形式──第4行が常に短い（4音節）ことで連の末尾が途切れ、水中に沈んでいく息切れの感覚を韻律的に体現する。詩集中で唯一「水族館（Aquarium）」を題名とするが、具体的な水族館は登場せず、タイトルは「魂が水底に沈む」という詩全体の比喩的空間として機能する。主語の移動が詩の動き：第1連「mes vœux（私の誓い）」→第2–4連「Elle（彼女＝魂）」→第5連「elle doit mourir（彼女は死なねばならない）」。「Âme de serre」が「月が静かに扉を開く」という受動的開口で閉じたのに対し、「Aquarium」は「lasses enfin de cueillir / Ces fleurs absentes（不在の花を摘むことに疲れて死ぬ）」という疲弊と消滅で閉じる──詩集の「serre（温室）」の論理が「aquarium（水族館）」という水中的閉鎖へと移行する。詩集全体を通じた語彙「lys（百合）」「bleu（青）」「closes（閉じた）」「doigts（指）」「fleurs（花）」が再び集結する総合的な詩。",
+  "keywords": [
+    "水族館", "魂の沈降", "不在の花", "百合", "青い茎", "閉じた唇",
+    "指が白ませる", "疲弊と死", "8-4音節", "変則ABAB",
+    "Serres chaudes", "水中的閉鎖", "まぶたの岸辺"
+  ],
+  "relatedTexts": [
+    "maeterlinck_ame_de_serre",
+    "maeterlinck_serre_d_ennui",
+    "maeterlinck_serre_chaude",
+    "maeterlinck_offrande_obscure",
+    "mallarme_sonnet_cygne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Hélas ! mes vœux n'amènent plus\nMon âme aux rives des paupières,\nElle est descendue au reflux\nDe ses prières.",
+      "provisionalTranslation": "ああ！私の誓いはもはや\n魂をまぶたの岸辺に連れて来ない、\n魂は引き潮の中に降りてしまった\n祈りの引き潮の中に。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Elle est au fond de mes yeux clos,\nEt seule son haleine lasse\nÉlève encore à fleur des eaux\nSes lys de glace.",
+      "provisionalTranslation": "魂は私の閉じた目の奥底にある、\nそして疲れた息吹だけが\n水面にまだ浮かべる\n氷の百合を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ses lèvres au fond des douleurs,\nSemblent closes à mille lieues,\nEt je les vois chanter des fleurs\nÀ tiges bleues.",
+      "provisionalTranslation": "苦悩の奥底にある唇は、\n千里の彼方で閉じているように見える、\nそして私には唇が花を歌うのが見える\n青い茎の花を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Ses doigts blanchissent mes regards,\nEn suivant la trace incolore\nDe ses lys à jamais épars\nEt morts d'éclore.",
+      "provisionalTranslation": "指は私の眼差しを白ませる、\n永遠に散り散りになった百合の\n色のない痕跡を辿りながら\n開花したまま死んだ百合の。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Et je sais qu'elle doit mourir\nEn joignant ses mains impuissantes,\nEt lasses enfin de cueillir\nCes fleurs absentes.",
+      "provisionalTranslation": "そして私は知っている、魂が死なねばならないことを\n無力な手を合わせながら、\n不在の花を摘むことに\nついに疲れて。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Hélas ! mes vœux n'amènent plus\nMon âme aux rives des paupières,\nElle est descendue au reflux\nDe ses prières.",
+      "body": "ABAB韻型（plus / paupières / reflux / prières）、各連8-8-8-4音節──第4行の4音節が「短い息切れ」として機能する。「De ses prières（祈りの）」という4音節の短い行が、魂の引き潮（reflux）のイメージを韻律的に体現する。この8-8-8-4のパターンが5連すべてを通じて維持され、詩全体に「沈んでいく」感覚の韻律的一貫性を与える。「Âme de serre」「Serre d'ennui」の均質な8音節×4行と比較すると、この変則形式は詩集中で際立った選択──タイトル「Aquarium」の水中的・沈降的な世界に対応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Hélas ! mes vœux n'amènent plus\nMon âme aux rives des paupières,",
+      "body": "「私の誓いはもはや魂をまぶたの岸辺に連れて来ない」──「rives des paupières（まぶたの岸辺）」という複合的な比喩。目（まぶた）が水域の岸辺として提示される──魂は通常まぶたの「岸辺」（表面）にあるはずが、今は水底に沈んでいる。「Hélas !（ああ！）」という感嘆詞──「Serre chaude」の「Ô（ああ）」「Mon Dieu !（主よ！）」という感嘆詞の系譜。しかしここでは叫びではなく嘆息。「mes vœux（私の誓い・願い）」──「Offrande obscure」の「mes vœux」（捧げ物の中の誓い）との語彙的連続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et seule son haleine lasse\nÉlève encore à fleur des eaux\nSes lys de glace.",
+      "body": "「疲れた息吹だけが水面に氷の百合を浮かべる」──「à fleur des eaux（水面に）」という表現が「Âme de serre」の「Affleure les vitrages（硝子板に触れそうになる）」と同じ語根（affleurer）を共有する──表面・ぎりぎりの接触という共通イメージ。「lys de glace（氷の百合）」──「Offrande obscure」の「Des lys au fond des eaux lointaines（遠い水底の百合）」、「Âme de serre」の「Les lys contre les verres clos（閉じた硝子の百合）」に続く詩集を貫く百合の系列が、ここで「氷の百合」として完全に凍結・死化する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Et je les vois chanter des fleurs\nÀ tiges bleues.",
+      "body": "「唇が青い茎の花を歌う」──「chanter des fleurs（花を歌う）」という動詞の転用（fleurを「言う」のではなく「歌う」）。「bleues（青い）」──詩集全体を貫く「bleu（青）」の系列：「Serre d'ennui」の「ennui bleu（青い倦怠）」「vitrages bleus（青い硝子）」、「Âme de serre」の「vitrages bleus（青い硝子）」「doigts bleus（青い指）」、そしてここ「tiges bleues（青い茎）」──青は詩集『温室』において遠さ・冷たさ・閉鎖の色として一貫して使われる。「Semblent closes à mille lieues（千里の彼方で閉じているように見える）」──距離の極端な誇張（mille lieues）が魂の到達不能性を空間的に表現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "De ses lys à jamais épars\nEt morts d'éclore.",
+      "body": "「永遠に散り散りになり開花したまま死んだ百合」──「morts d'éclore（開花したまま死んだ）」という逆説的な複合形容。「d'éclore（開花することによって）」──開花がそのまま死の原因となるという逆転。「Serre chaude」の「vos portes à jamais closes（永遠に閉じた扉）」の「à jamais（永遠に）」が、ここでは「à jamais épars（永遠に散り散りに）」として再登場する──詩集の「永遠の閉鎖」が「永遠の散逸」へと反転する。「trace incolore（色のない痕跡）」──色彩の豊富な詩集の中で「無色」という語が際立つ──すべての色が消えた痕跡。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et je sais qu'elle doit mourir\nEn joignant ses mains impuissantes,\nEt lasses enfin de cueillir\nCes fleurs absentes.",
+      "body": "詩の結末──「不在の花を摘むことに疲れて死ぬ」。「fleurs absentes（不在の花）」──詩集を通じた「花」の系列（lys / roses / ombelles / fleurs à tiges bleues）が最後に「不在（absentes）」として総括される。「手を合わせながら（en joignant ses mains）」は祈りの姿勢──「Offrande obscure」の「Seigneur, ayez pitié du verbe !（主よ、言葉を哀れんで）」という祈願との連続。「lasses enfin（ついに疲れて）」──「Âme de serre」の「J'attends（私は待つ）」という持続的待機が「ついに」疲弊で終わる。詩集全体を通じた「魂の待機と疲弊の弧」がここで閉じる──「Serre chaude」の「いつ雨が来るのか」という叫びへの答えが、雨でなく魂の消滅であるという詩集的結論。"
+    }
+  ]
+}
