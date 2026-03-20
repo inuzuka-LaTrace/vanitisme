@@ -6,13 +6,16 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        'paper': {
-          DEFAULT: '#f4f1ea',
-          dark: '#e8e4d8', // 少し暗めのバリエーション（ホバー用など）
-        },
-        'ink': '#2c2c2c', // 紙に合う「墨」のような色もセットで定義すると◎
-      },　
+      keyframes: {
+        flash: {
+          '0%, 100%': { opacity: '0' },
+          '10%, 90%': { opacity: '1' },
+          '91%': { opacity: '0' },
+        }
+      },
+      animation: {
+        flash: 'flash 2s steps(1) infinite', // steps(1)で中間を飛ばしてパッと切り替える
+      }
     },
   },
   plugins: [],
