@@ -87,6 +87,9 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
+  const [transColor, setTransColor] = useState(() => {
+    try { return localStorage.getItem('transColor') || 'neutral'; } catch { return 'neutral'; }
+  });
   const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード: false | 'side' | 'stacked'
 
   // 新機能
@@ -296,6 +299,11 @@ export default function App() {
       try { localStorage.setItem('lastCategory', selectedCategory); } catch {}
     }
   }, [selectedCategory]);
+
+  // 訳文カラー設定を localStorage に保存
+  useEffect(() => {
+    try { localStorage.setItem('transColor', transColor); } catch {}
+  }, [transColor]);
 
   // extractSnippet → utils.js
 
@@ -1778,6 +1786,25 @@ export default function App() {
 
   const fontSizeMap = { xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
+  // 訳文カラー設定から Tailwind クラスを返すヘルパー
+  // neutral: ダーク zinc-300 / ライト stone-700（白黒）
+  // rose:    ダーク rose-300/80 / ライト rose-800/80
+  // teal:    ダーク teal-300/80 / ライト teal-800/80
+  const transTextClass = darkMode
+    ? transColor === 'rose'    ? 'text-rose-300/80'
+    : transColor === 'teal'    ? 'text-teal-300/80'
+    : /* neutral */              'text-zinc-300'
+    : transColor === 'rose'    ? 'text-rose-800/80'
+    : transColor === 'teal'    ? 'text-teal-800/80'
+    : /* neutral */              'text-stone-700';
+  const transBorderClass = darkMode
+    ? transColor === 'rose'    ? 'border-rose-700/50'
+    : transColor === 'teal'    ? 'border-teal-700/50'
+    : /* neutral */              'border-stone-600'
+    : transColor === 'rose'    ? 'border-rose-300/60'
+    : transColor === 'teal'    ? 'border-teal-300/60'
+    : /* neutral */              'border-stone-300';
+
     // カテゴリーラベルの短縮表示用マップ
   const catShort = CAT_SHORT; // constants.js
 
@@ -1906,6 +1933,22 @@ export default function App() {
                 >
                   <span>{label}</span>
                   <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '1.05em' }}>Abcあ</span>
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* 訳文の色 */}
+          <div>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>訳文の色</label>
+            <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+              {[['neutral','白黒'],['rose','ローズ'],['teal','ティール']].map(([val, label], i) => (
+                <button key={val} onClick={() => setTransColor(val)}
+                  className={`flex-1 py-2 text-xs font-sans transition-colors ${transColor === val
+                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                    : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
+                  }${i > 0 ? ` border-l ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''}`}>
+                  {label}
                 </button>
               ))}
             </div>
@@ -2806,7 +2849,7 @@ export default function App() {
                                     )}
                                     {/* 訳行 */}
                                     {!isBlankTrans && (
-                                      <div className={`pl-2 mt-0.5 border-l-2 ${darkMode ? 'border-red-700/50 text-red-300/70' : 'border-red-300/60 text-red-800/80'}`}>
+                                      <div className={`pl-2 mt-0.5 border-l-2 ${transBorderClass} ${transTextClass}`}>
                                         <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                           fontSize === 'xxlarge' ? 'text-xl' :
                                           fontSize === 'xlarge'  ? 'text-lg' :
@@ -2873,7 +2916,7 @@ export default function App() {
                                     </span>
                                   </div>
                                   {/* 訳セル */}
-                                  <div className={`px-3 py-2 ${darkMode ? 'text-red-300/80' : 'text-red-800/90'}`}>
+                                  <div className={`px-3 py-2 ${transTextClass}`}>
                                     <span style={{ fontFamily: fontFamilyStyle }} className={`leading-relaxed ${
                                       fontSize === 'xxlarge' ? 'text-xl' :
                                       fontSize === 'xlarge' ? 'text-lg' :
@@ -2923,8 +2966,8 @@ export default function App() {
 
                     {/* 仮訳 */}
                     {showOfficial && translation && (
-                      <div className={`mb-2 border-l-2 border-red-400/60 pl-4 ${showFrench ? '' : 'pt-3'}`}>
-                        <p className={`leading-relaxed whitespace-pre-line ${darkMode ? 'text-red-300/80' : 'text-red-800/80'} ${
+                      <div className={`mb-2 border-l-2 ${transBorderClass} pl-4 ${showFrench ? '' : 'pt-3'}`}>
+                        <p className={`leading-relaxed whitespace-pre-line ${transTextClass} ${
                           fontSize === 'xxlarge' ? 'text-xl' :
                           fontSize === 'xlarge' ? 'text-lg' :
                           fontSize === 'large'  ? 'text-base' :
