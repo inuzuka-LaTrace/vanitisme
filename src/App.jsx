@@ -30,6 +30,7 @@ import hoelderlinData from './data/hoelderlin';
 import danteData from './data/dante';
 import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
+import gozzanoData from './data/gozzano';
 import corazziniData from './data/corazzini';
 import bryusovData from './data/bryusov';
 import sologubData from './data/sologub';
@@ -218,6 +219,7 @@ export default function App() {
       ...danteData,
       ...dannunzioData,
       ...pascoliData,
+      ...gozzanoData,
       ...corazziniData,
       ...bryusovData,
       ...sologubData,
@@ -1788,12 +1790,13 @@ export default function App() {
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('verhaeren')) return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
-    if (cat?.startsWith('maeterlinck'))         return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
+    if (cat?.startsWith('verhaeren'))    return darkMode ? 'bg-emerald-900/40 text-emerald-300': 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('maeterlinck'))  return darkMode ? 'bg-blue-900/40 text-blue-300' : 'bg-blue-100 text-blue-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('pascoli'))      return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
+    if (cat?.startsWith('gozzano'))      return darkMode ? 'bg-yellow-900/40 text-yellow-300'   : 'bg-yellow-100 text-yellow-800';
     if (cat?.startsWith('corazzini'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-cyan-900/40 text-cyan-300': 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('bryusov'))      return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
