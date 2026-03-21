@@ -1714,7 +1714,7 @@ export default function App() {
 
   if (loading) {
   return (
-    <div className="min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-sans">
+    <div className="min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-cinzel">
       {/* 1. 星群のような配置 (マラルメ的要素) */}
       <div className="w-full max-w-4xl h-[60vh] relative">
         
