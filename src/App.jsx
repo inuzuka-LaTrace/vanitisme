@@ -1650,7 +1650,7 @@ export default function App() {
                     <div className="min-w-0 flex-1">
                       {/* 著者・年・カテゴリバッジ */}
                       <div className="flex items-center gap-1.5 flex-wrap mb-0.5">
-                        <span className={`text-xs font-sans ${isSelected ? (darkMode ? 'text-amber-300' : 'text-amber-700') : textSecondary}`}>
+                        <span className={`text-xs font-Hina Mincho ${isSelected ? (darkMode ? 'text-amber-300' : 'text-amber-700') : textSecondary}`}>
                           {text.author}
                         </span>
                         <span className={`text-xs font-sans opacity-40 ${textClass}`}>·</span>
@@ -1660,7 +1660,7 @@ export default function App() {
                         </span>
                       </div>
                       {/* タイトル */}
-                      <p className={`font-serif text-sm leading-snug ${isSelected ? 'font-semibold' : ''} ${textClass}`}>
+                      <p className={`font-EB Garamond text-sm leading-snug ${isSelected ? 'font-semibold' : ''} ${textClass}`}>
                         {text.title}
                       </p>
                       {/* スニペット（ハイライト付き） */}
