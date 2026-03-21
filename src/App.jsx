@@ -1057,7 +1057,7 @@ export default function App() {
         <div className={`px-4 py-3 border-b ${ac.header} shrink-0`}>
           <div className="flex items-start justify-between gap-2">
             <div className="min-w-0">
-              <h3 className={`font-serif text-sm font-semibold leading-snug ${textClass}`}>{textObj.title}</h3>
+              <h3 className={`font-EB Garamond text-sm font-semibold leading-snug ${textClass}`}>{textObj.title}</h3>
               <p className={`text-xs mt-0.5 ${textSecondary}`}>{textObj.author}　{textObj.year}</p>
             </div>
             {/* 表示トグル */}
@@ -1276,11 +1276,11 @@ export default function App() {
     if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
-    if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-1000/40 text-red-400' : 'bg-red-200 text-red-900';
+    if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('yeats'))        return darkMode ? 'bg-slate-900/40 text-slate-300' : 'bg-slate-100 text-slate-800';
+    if (cat?.startsWith('yeats'))        return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
