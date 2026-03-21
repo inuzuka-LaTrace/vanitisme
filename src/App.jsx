@@ -1235,7 +1235,7 @@ export default function App() {
     ? transColor === 'red'    ? 'text-red-500/80'
     : transColor === 'violet'    ? 'text-violet-300/80'
     : /* neutral */              'text-zinc-300'
-    : transColor === 'red'    ? 'text-red-600/80'
+    : transColor === 'red'    ? 'text-red-800/80'
     : transColor === 'violet'    ? 'text-violet-800/80'
     : /* neutral */              'text-stone-700';
   const transBorderClass = darkMode
