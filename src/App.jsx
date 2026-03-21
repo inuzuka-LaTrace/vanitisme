@@ -6,7 +6,6 @@ import {
   Search, Link, FileText, List,
   ChevronRight, ChevronDown,
   X, Check, Tag,
-  GraduationCap, RotateCcw, ThumbsUp, ThumbsDown, Shuffle,
   Clock, ExternalLink, PenLine,
 } from 'lucide-react';
 import racineData from './data/racine';
@@ -42,7 +41,7 @@ import swinburneData from './data/swinburne';
 import rossetti_cData from './data/rossetti_c';
 import yeatsData from './data/yeats';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
-import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass } from './utils';
+import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
 // getTranslation, getOriginalText, getSpeechLang, getBestVoice, PREFERRED_VOICES, SPEECH_RATES → constants.js / utils.js
 
@@ -119,20 +118,6 @@ export default function App() {
     try { return JSON.parse(localStorage.getItem('recentTexts') || '[]'); } catch { return []; }
   });
   // フラッシュカードモード
-  const [showFlashcard, setShowFlashcard] = useState(false);
-  const [fcSource, setFcSource] = useState('bookmarks'); // 'bookmarks'|'text'|'category'
-  const [fcSourceId, setFcSourceId] = useState('');      // textId or categoryKey
-  const [fcMode, setFcMode] = useState('orig2trans');    // 'orig2trans'|'trans2orig'|'head2full'
-  const [fcCards, setFcCards] = useState([]);            // [{textId, paraId, text}]
-  const [fcIndex, setFcIndex] = useState(0);
-  const [fcFlipped, setFcFlipped] = useState(false);
-  const [fcSessionResult, setFcSessionResult] = useState({}); // paraKey→'good'|'again'
-  const [fcBackMode, setFcBackMode] = useState('provisional'); // 'provisional'|'user'
-  const [fcFinished, setFcFinished] = useState(false);
-  // SRS記録: { 'textId:paraId': { status:'good'|'again', lastSeen:ts } }
-  const [fcSrsData, setFcSrsData] = useState(() => {
-    try { return JSON.parse(localStorage.getItem('flashcard-status') || '{}'); } catch { return {}; }
-  });
   // フローティングTOPボタン
   const [showScrollTop, setShowScrollTop] = useState(false);
   const lastScrollY = useRef(0);
@@ -765,6 +750,22 @@ export default function App() {
             style={{verticalAlign:'middle'}}><Bookmark size={11} strokeWidth={1.6} /></span>
           ボタンで追加できます。
         </p>
+        {/* フラッシュカードへのリンク */}
+        <div className={`mt-2 pt-3 border-t ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
+          <a
+            href="/flashcard.html"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-sans transition-colors ${
+              darkMode
+                ? 'bg-zinc-800/60 hover:bg-zinc-700/60 text-zinc-300 border border-zinc-700'
+                : 'bg-stone-50 hover:bg-stone-100 text-stone-600 border border-stone-200'
+            }`}
+          >
+            <span>フラッシュカード学習を開く</span>
+            <span className="opacity-50">→</span>
+          </a>
+        </div>
       </div>
     );
     return (
@@ -806,584 +807,26 @@ export default function App() {
             );
           })}
         </div>
-      </div>
-    );
-  };
-
-
-  // ─── フラッシュカード ヘルパー ──────────────────────────────
-  // fcParaKey → utils.js
-
-  const buildFcCards = (source, sourceId, mode, srsData) => {
-    const allTextsArr = Object.values(texts);
-    let pairs = [];
-    if (source === 'bookmarks') {
-      Object.entries(bookmarks).forEach(([textId, paraIds]) => {
-        const t = texts[textId]; if (!t) return;
-        paraIds.forEach(paraId => {
-          const p = t.paragraphs?.find(p => p.id === paraId); if (!p) return;
-          pairs.push({ textId, paraId, textTitle: t.title, textAuthor: t.author, para: p });
-        });
-      });
-    } else if (source === 'text') {
-      const t = texts[sourceId]; if (!t) return [];
-      (t.paragraphs || []).forEach(p => {
-        pairs.push({ textId: sourceId, paraId: p.id, textTitle: t.title, textAuthor: t.author, para: p });
-      });
-    } else if (source === 'category') {
-      allTextsArr.filter(t => t.category === sourceId).forEach(t => {
-        (t.paragraphs || []).forEach(p => {
-          pairs.push({ textId: t.id, paraId: p.id, textTitle: t.title, textAuthor: t.author, para: p });
-        });
-      });
-    }
-    // 原文・訳の両方が存在する段落のみ
-    pairs = pairs.filter(p => getOriginalText(p.para) && getTranslation(p.para));
-    // SRS: 'again' または未学習を先、'good' を後にソート
-    pairs.sort((a, b) => {
-      const ka = fcParaKey(a.textId, a.paraId), kb = fcParaKey(b.textId, b.paraId);
-      const sa = (srsData[ka]?.status === 'good') ? 1 : 0;
-      const sb = (srsData[kb]?.status === 'good') ? 1 : 0;
-      return sa - sb;
-    });
-    return pairs;
-  };
-
-  const openFlashcard = () => {
-    const cards = buildFcCards(fcSource, fcSourceId, fcMode, fcSrsData);
-    setFcCards(cards);
-    setFcIndex(0);
-    setFcFlipped(false);
-    setFcSessionResult({});
-    setFcFinished(false);
-    setShowFlashcard(true);
-  };
-
-  const saveSrs = (key, status) => {
-    setFcSrsData(prev => {
-      const next = { ...prev, [key]: { status, lastSeen: Date.now() } };
-      try { localStorage.setItem('flashcard-status', JSON.stringify(next)); } catch {}
-      return next;
-    });
-  };
-
-  const fcJudge = (status) => {
-    const card = fcCards[fcIndex];
-    const key = fcParaKey(card.textId, card.paraId);
-    saveSrs(key, status);
-    setFcSessionResult(prev => ({ ...prev, [key]: status }));
-
-    // 'again' 判定はカードをデッキ末尾に再追加（無限ループ防止：既にキューにあれば追加しない）
-    if (status === 'again') {
-      setFcCards(prev => {
-        const next = [...prev];
-        const alreadyQueued = next.slice(fcIndex + 1).some(
-          c => fcParaKey(c.textId, c.paraId) === key
-        );
-        if (!alreadyQueued) next.push({ ...card, isRetry: true });
-        return next;
-      });
-    }
-
-    if (fcIndex + 1 >= fcCards.length) {
-      setFcFinished(true);
-    } else {
-      setFcIndex(i => i + 1);
-      setFcFlipped(false);
-    }
-  };
-
-  // ─── フラッシュカード モーダル ───────────────────────────────
-  const FlashcardModal = () => {
-    const allTextsArr = Object.values(texts);
-    const categories_fc = [...new Set(allTextsArr.map(t => t.category))].sort();
-
-    // インライン訳文入力用ローカルstate
-    const [fcInlineEdit, setFcInlineEdit] = React.useState(false);
-    const [fcInlineDraft, setFcInlineDraft] = React.useState('');
-    // 注釈表示トグル
-    const [fcShowAnnotation, setFcShowAnnotation] = React.useState(false);
-
-    // キーボード操作（スペース→裏表示、矢印→判定）
-    React.useEffect(() => {
-      const handler = (e) => {
-        if (!showFlashcard) return;
-        if (fcFinished) return;
-        if (fcInlineEdit) return; // 入力中はキー操作無効
-        if (e.code === 'Space') { e.preventDefault(); if (!fcFlipped) setFcFlipped(true); }
-        if (e.code === 'ArrowRight' && fcFlipped) fcJudge('good');
-        if (e.code === 'ArrowLeft'  && fcFlipped) fcJudge('again');
-      };
-      window.addEventListener('keydown', handler);
-      return () => window.removeEventListener('keydown', handler);
-    }, [showFlashcard, fcFlipped, fcFinished, fcIndex, fcInlineEdit]);
-
-    const card = fcCards[fcIndex];
-    const goodCount  = Object.values(fcSessionResult).filter(v => v === 'good').length;
-    const againCount = Object.values(fcSessionResult).filter(v => v === 'again').length;
-
-    const getFront = (card) => {
-      if (fcMode === 'orig2trans') return getOriginalText(card.para);
-      if (fcMode === 'trans2orig') return getTranslation(card.para);
-      // head2full: 原文冒頭30字
-      return getOriginalText(card.para).slice(0, 30) + (getOriginalText(card.para).length > 30 ? '…' : '');
-    };
-    const getBack = (card) => {
-      if (fcMode === 'orig2trans') return getTranslation(card.para);
-      if (fcMode === 'trans2orig') return getOriginalText(card.para);
-      return getOriginalText(card.para);
-    };
-    const frontLabel = fcMode === 'orig2trans' ? '原文' : fcMode === 'trans2orig' ? '訳' : '冒頭';
-    const backLabel  = fcMode === 'orig2trans' ? '訳'   : fcMode === 'trans2orig' ? '原文' : '原文（全体）';
-
-    const totalGoodEver = Object.values(fcSrsData).filter(v => v.status === 'good').length;
-
-    return (
-      <div className="fixed inset-0 z-60 flex flex-col" style={{zIndex:60}}>
-        {/* オーバーレイ */}
-        <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={() => setShowFlashcard(false)} />
-
-        {/* モーダル本体 */}
-        <div className={`relative z-10 m-auto w-full max-w-lg rounded-2xl shadow-2xl flex flex-col overflow-hidden ${darkMode ? 'bg-zinc-900 border border-zinc-700' : 'bg-white border border-stone-200'}`}
-          style={{ maxHeight: 'min(90vh, 90dvh)', height: 'min(90vh, 90dvh)' }}>
-
-          {/* ヘッダー */}
-          <div className={`flex items-center justify-between px-5 py-3 border-b shrink-0 ${borderClass}`}>
-            <div className="flex items-center gap-2">
-              <GraduationCap size={15} strokeWidth={1.6} className={textSecondary} />
-              <span className={`text-sm font-semibold font-sans ${textClass}`}>フラッシュカード</span>
-              {fcCards.length > 0 && !fcFinished && (
-                <span className={`text-xs font-sans ${textSecondary} opacity-60`}>{fcIndex + 1} / {fcCards.length}</span>
-              )}
-            </div>
-            <button onClick={() => setShowFlashcard(false)}
-              className={`w-7 h-7 flex items-center justify-center rounded-full ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-100 text-stone-500'}`}>
-              <X size={14} strokeWidth={2} />
-            </button>
-          </div>
-
-          <div className="overflow-y-auto flex-1 p-5 space-y-4">
-
-            {/* ── ソース・モード設定 ── */}
-            {fcCards.length === 0 && !fcFinished && (
-              <>
-                {/* ソース選択 */}
-                <div>
-                  <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2`}>カードソース</label>
-                  <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-                    {[['bookmarks','ブックマーク'],['text','テキスト指定'],['category','カテゴリ']].map(([val, label]) => (
-                      <button key={val} onClick={() => { setFcSource(val); setFcSourceId(''); }}
-                        className={`flex-1 py-2 transition-colors ${fcSource === val
-                          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                          : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
-                        } ${val !== 'bookmarks' ? (darkMode ? 'border-l border-zinc-700' : 'border-l border-stone-200') : ''}`}>
-                        {label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* テキスト指定 */}
-                {fcSource === 'text' && (
-                  <div>
-                    <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2`}>テキストを選択</label>
-                    <select value={fcSourceId} onChange={e => setFcSourceId(e.target.value)}
-                      className={`w-full rounded-lg border px-3 py-2 text-sm font-sans focus:outline-none focus:ring-2 focus:ring-amber-400 ${inputBg}`}>
-                      <option value="">-- 選択してください --</option>
-                      {allTextsArr.map(t => (
-                        <option key={t.id} value={t.id}>{t.author} — {t.title} ({t.paragraphs?.length || 0}段落)</option>
-                      ))}
-                    </select>
-                  </div>
-                )}
-
-                {/* カテゴリ指定 */}
-                {fcSource === 'category' && (
-                  <div>
-                    <label className={`text-xs font-semibond uppercase tracking-wider font-sans ${textSecondary} block mb-2`}>カテゴリを選択</label>
-                    <div className="flex flex-wrap gap-1.5">
-                      {categories_fc.map(cat => (
-                        <button key={cat} onClick={() => setFcSourceId(cat)}
-                          className={`px-2.5 py-1 rounded-full text-xs font-sans transition-colors ${fcSourceId === cat
-                            ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                            : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
-                          }`}>
-                          {catShort[cat] || cat}
-                        </button>
-                      ))}
-                    </div>
-                  </div>
-                )}
-
-                {/* モード選択 */}
-                <div>
-                  <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2`}>表裏モード</label>
-                  <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-                    {[['orig2trans','原文→訳'],['trans2orig','訳→原文'],['head2full','冒頭→全文']].map(([val, label], i) => (
-                      <button key={val} onClick={() => setFcMode(val)}
-                        className={`flex-1 py-2 transition-colors leading-tight px-1 ${fcMode === val
-                          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                          : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
-                        } ${i > 0 ? (darkMode ? 'border-l border-zinc-700' : 'border-l border-stone-200') : ''}`}>
-                        {label}
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* SRS情報 */}
-                {totalGoodEver > 0 && (
-                  <div className={`flex items-center justify-between px-3 py-2 rounded-lg text-xs font-sans ${darkMode ? 'bg-zinc-800 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
-                    <span>累計習得: <strong>{totalGoodEver}</strong> 段落</span>
-                    <button onClick={() => {
-                      setFcSrsData({});
-                      try { localStorage.removeItem('flashcard-status'); } catch {}
-                    }} className="flex items-center gap-1 opacity-60 hover:opacity-100 transition-opacity">
-                      <RotateCcw size={11} strokeWidth={2} />リセット
-                    </button>
-                  </div>
-                )}
-
-                {/* 開始ボタン */}
-                <button
-                  onClick={openFlashcard}
-                  disabled={fcSource !== 'bookmarks' && !fcSourceId}
-                  className={`w-full py-3 rounded-xl text-sm font-semibold font-sans transition-all ${
-                    (fcSource === 'bookmarks' || fcSourceId)
-                      ? darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white'
-                      : 'opacity-40 cursor-not-allowed ' + (darkMode ? 'bg-zinc-800 text-zinc-500' : 'bg-stone-200 text-stone-400')
-                  }`}>
-                  <GraduationCap size={14} strokeWidth={1.8} className="inline mr-2" />
-                  セッションを開始
-                </button>
-              </>
-            )}
-
-            {/* ── カード表示 ── */}
-            {fcCards.length > 0 && !fcFinished && card && (
-              <>
-                {/* 進捗バー */}
-                <div className={`w-full h-1.5 rounded-full ${darkMode ? 'bg-zinc-800' : 'bg-stone-200'}`}>
-                  <div className="h-1.5 rounded-full bg-amber-500 transition-all"
-                    style={{ width: `${((fcIndex) / fcCards.length) * 100}%` }} />
-                </div>
-
-                {/* テキスト情報 + アクションボタン群 */}
-                <div className="flex items-center gap-2">
-                  <div className={`flex items-center gap-1.5 text-xs font-sans ${textSecondary} flex-1 min-w-0`}>
-                    <span className={`px-1.5 py-0.5 rounded shrink-0 ${authorColor(texts[card.textId]?.category || '')}`}>
-                      {catShort[texts[card.textId]?.category] || ''}
-                    </span>
-                    <span className="opacity-60 truncate">{card.textAuthor}</span>
-                    <span className="opacity-40 shrink-0">·</span>
-                    <span className="opacity-70 font-serif truncate">{card.textTitle}</span>
-                    <span className="opacity-40 shrink-0">§{card.paraId}</span>
-                    {card.isRetry && (
-                      <span className={`shrink-0 px-1.5 py-0.5 rounded text-xs font-sans ${darkMode ? 'bg-rose-900/50 text-rose-300' : 'bg-rose-100 text-rose-600'}`}>
-                        再挑戦
-                      </span>
-                    )}
-                  </div>
-                  {/* A: 音読ボタン */}
-                  <button
-                    onClick={() => {
-                      const textObj = texts[card.textId];
-                      if (!textObj) return;
-                      speakParagraph(card.para, textObj);
-                    }}
-                    title={speakingId === card.para?.id ? '停止' : '原文を読み上げる'}
-                    className={`shrink-0 w-7 h-7 flex items-center justify-center rounded-full transition-colors ${
-                      speakingId === card.para?.id
-                        ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                        : darkMode ? 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-200' : 'bg-stone-100 text-stone-500 hover:bg-stone-200'
-                    }`}
-                  >
-                    {speakingId === card.para?.id
-                      ? <IconSquare size={10} strokeWidth={2} fill="currentColor" />
-                      : <Volume2 size={13} strokeWidth={1.6} />}
-                  </button>
-                  {/* B: 本文へジャンプ */}
-                  <button
-                    onClick={() => {
-                      setShowFlashcard(false);
-                      handleTextChange(card.textId);
-                      setTimeout(() => {
-                        const el = paragraphRefs.current[card.paraId];
-                        if (el) scrollToEl(el);
-                      }, 300);
-                    }}
-                    title="本文のこの段落へジャンプ"
-                    className={`shrink-0 w-7 h-7 flex items-center justify-center rounded-full transition-colors ${
-                      darkMode ? 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-200' : 'bg-stone-100 text-stone-500 hover:bg-stone-200'
-                    }`}
-                  >
-                    <ExternalLink size={12} strokeWidth={1.8} />
-                  </button>
-                </div>
-
-                {/* ── 表面カード ── */}
-                <div className={`rounded-xl border p-4 flex flex-col ${
-                  darkMode ? 'bg-zinc-800 border-zinc-700' : 'bg-stone-50 border-stone-200'
-                }`} style={{ minHeight: '160px' }}>
-                  <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${textSecondary} opacity-50 shrink-0`}>{frontLabel}</span>
-                  <div className="mt-2 flex-1 overflow-y-auto">
-                    <p translate="no" className={`notranslate font-serif ${fcFontSizeClass(getFront(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
-                      {getFront(card)}
-                    </p>
-                  </div>
-                </div>
-
-                {/* ── 裏面：めくるボタン or 裏面コンテンツ ── */}
-                {!fcFlipped ? (
-                  <button
-                    onClick={() => setFcFlipped(true)}
-                    className={`w-full py-3 rounded-xl border-2 border-dashed text-sm font-sans font-medium transition-all ${
-                      darkMode
-                        ? 'border-zinc-700 text-zinc-400 hover:border-amber-600 hover:text-amber-300 hover:bg-amber-950/20'
-                        : 'border-stone-300 text-stone-400 hover:border-amber-400 hover:text-amber-700 hover:bg-amber-50'
-                    }`}
-                  >
-                    裏を見る <span className="opacity-50 text-xs ml-1">Space</span>
-                  </button>
-                ) : (
-                  <div className={`rounded-xl border p-4 flex flex-col ${
-                    darkMode ? 'bg-zinc-800/80 border-amber-700/40' : 'bg-amber-50/60 border-amber-200'
-                  }`} style={{ minHeight: '160px' }}>
-                    {/* 裏面ヘッダー：ラベル + 仮訳/自分の訳トグル */}
-                    <div className="flex items-center justify-between shrink-0 mb-2">
-                      <span className={`text-xs font-sans font-semibold uppercase tracking-wider ${darkMode ? 'text-amber-400' : 'text-amber-700'} opacity-70`}>{backLabel}</span>
-                      <div className="flex items-center gap-1.5">
-                        {/* D: 注釈トグル */}
-                        {(() => {
-                          const annCount = (texts[card.textId]?.annotations || []).filter(a => a.paragraphId === card.paraId).length;
-                          return annCount > 0 ? (
-                            <button
-                              onClick={() => setFcShowAnnotation(v => !v)}
-                              title="注釈を表示/非表示"
-                              className={`px-2 py-0.5 rounded text-xs font-sans border transition-colors ${
-                                fcShowAnnotation
-                                  ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-amber-700 text-white border-amber-600'
-                                  : darkMode ? 'border-zinc-600 text-zinc-400 hover:bg-zinc-700' : 'border-stone-300 text-stone-500 hover:bg-stone-100'
-                              }`}
-                            >
-                              注釈{annCount}
-                            </button>
-                          ) : null;
-                        })()}
-                        {/* 仮訳/自分の訳トグル */}
-                        {fcMode !== 'head2full' && (
-                          <div className={`flex rounded-md overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-600' : 'border-stone-300'}`}>
-                            <button onClick={() => setFcBackMode('provisional')}
-                              className={`px-2 py-0.5 transition-colors ${fcBackMode === 'provisional'
-                                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                                : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'}`}>
-                              仮訳
-                            </button>
-                            <button onClick={() => {
-                                const hasUT = !!userTranslations[card.paraId];
-                                if (hasUT) { setFcBackMode('user'); setFcInlineEdit(false); }
-                              }}
-                              disabled={!userTranslations[card.paraId]}
-                              title={!userTranslations[card.paraId] ? '自分の訳がありません（下から入力できます）' : '自分の訳を表示'}
-                              className={`px-2 py-0.5 transition-colors border-l ${darkMode ? 'border-zinc-600' : 'border-stone-300'} ${
-                                !userTranslations[card.paraId] ? 'opacity-30 cursor-not-allowed ' + (darkMode ? 'text-zinc-500' : 'text-stone-400')
-                                : fcBackMode === 'user'
-                                  ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-700 text-white'
-                                  : darkMode ? 'text-zinc-400 hover:bg-zinc-700' : 'text-stone-500 hover:bg-stone-100'
-                              }`}>
-                              自分の訳
-                            </button>
-                          </div>
-                        )}
-                      </div>
-                    </div>
-
-                    {/* 裏面テキスト */}
-                    <div className="flex-1 overflow-y-auto">
-                      {/* trans2orig / head2full モードの裏面は原文 → 翻訳保護 */}
-                      {(fcMode === 'trans2orig' || fcMode === 'head2full') && !(fcBackMode === 'user' && userTranslations[card.paraId]) ? (
-                        <p translate="no" className={`notranslate font-serif ${fcFontSizeClass(getBack(card))} leading-relaxed whitespace-pre-line ${textClass}`}>
-                          {getBack(card)}
-                        </p>
-                      ) : (
-                        <p className={`font-serif ${fcFontSizeClass(
-                          (fcBackMode === 'user' && userTranslations[card.paraId]) ? userTranslations[card.paraId] : getBack(card)
-                        )} leading-relaxed whitespace-pre-line ${textClass}`}>
-                          {(fcBackMode === 'user' && userTranslations[card.paraId])
-                            ? userTranslations[card.paraId]
-                            : getBack(card)}
-                        </p>
-                      )}
-                    </div>
-
-                    {/* D: glossary注釈表示 */}
-                    {fcShowAnnotation && (() => {
-                      const anns = (texts[card.textId]?.annotations || []).filter(a => a.paragraphId === card.paraId);
-                      return anns.length > 0 ? (
-                        <div className={`mt-3 pt-3 border-t space-y-1.5 ${darkMode ? 'border-amber-800/40' : 'border-amber-200'}`}>
-                          {anns.map((ann, i) => {
-                            const def = getTypeDef(ann.type);
-                            return (
-                              <div key={i} className={`flex items-start gap-2 text-xs font-sans`}>
-                                <span className={`shrink-0 mt-0.5 px-1.5 py-0.5 rounded border ${darkMode ? def.colorDark : def.colorLight}`}>
-                                  {def.label}
-                                </span>
-                                <span className={`${textClass} leading-relaxed opacity-80`}>
-                                  {ann.anchor && <span className="font-mono opacity-60 mr-1">「{ann.anchor}」</span>}
-                                  {ann.body}
-                                </span>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      ) : null;
-                    })()}
-
-                    {/* E: インライン訳文入力 */}
-                    <div className={`mt-3 pt-2 border-t ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
-                      {fcInlineEdit ? (
-                        <div>
-                          <textarea
-                            autoFocus
-                            value={fcInlineDraft}
-                            onChange={e => setFcInlineDraft(e.target.value)}
-                            placeholder="自分の訳を書く..."
-                            className={`w-full p-2 rounded-lg border text-sm font-sans resize-none focus:outline-none focus:ring-2 focus:ring-purple-500 ${
-                              darkMode ? 'bg-zinc-900 text-zinc-100 border-zinc-600' : 'bg-white border-stone-300 text-stone-800'
-                            }`}
-                            rows={3}
-                          />
-                          <div className="flex gap-2 mt-1.5">
-                            <button
-                              onClick={() => {
-                                if (fcInlineDraft.trim()) {
-                                  saveUserTranslation(card.paraId, fcInlineDraft.trim());
-                                  setFcBackMode('user');
-                                }
-                                setFcInlineEdit(false);
-                              }}
-                              className="px-3 py-1 bg-purple-600 text-white rounded-lg text-xs font-sans hover:bg-purple-700 transition-colors"
-                            >保存</button>
-                            <button
-                              onClick={() => { setFcInlineEdit(false); setFcInlineDraft(''); }}
-                              className={`px-3 py-1 rounded-lg text-xs font-sans transition-colors ${darkMode ? 'bg-zinc-700 text-zinc-300 hover:bg-zinc-600' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
-                            >キャンセル</button>
-                          </div>
-                        </div>
-                      ) : (
-                        <button
-                          onClick={() => {
-                            setFcInlineDraft(userTranslations[card.paraId] || '');
-                            setFcInlineEdit(true);
-                          }}
-                          className={`flex items-center gap-1.5 text-xs font-sans transition-colors ${
-                            userTranslations[card.paraId]
-                              ? darkMode ? 'text-purple-400 hover:text-purple-300' : 'text-purple-600 hover:text-purple-700'
-                              : darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'
-                          }`}
-                        >
-                          <PenLine size={11} strokeWidth={1.8} />
-                          {userTranslations[card.paraId] ? '自分の訳を編集' : '自分の訳を書く'}
-                        </button>
-                      )}
-                    </div>
-                  </div>
-                )}
-
-                {/* 判定ボタン（裏を見た後のみ） */}
-                {fcFlipped && (
-                  <div className="grid grid-cols-2 gap-3">
-                    <button onClick={() => { fcJudge('again'); setFcInlineEdit(false); setFcShowAnnotation(false); }}
-                      className={`flex items-center justify-center gap-2 py-3 rounded-xl text-sm font-semibold font-sans transition-all ${
-                        darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300 border border-zinc-700' : 'bg-stone-100 hover:bg-stone-200 text-stone-700 border border-stone-300'
-                      }`}>
-                      <ThumbsDown size={14} strokeWidth={1.8} />もう一度
-                    </button>
-                    <button onClick={() => { fcJudge('good'); setFcInlineEdit(false); setFcShowAnnotation(false); }}
-                      className={`flex items-center justify-center gap-2 py-3 rounded-xl text-sm font-semibold font-sans transition-all ${
-                        darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white'
-                      }`}>
-                      <ThumbsUp size={14} strokeWidth={1.8} />覚えた
-                    </button>
-                  </div>
-                )}
-
-                {/* スキップ（表面表示中のみ） */}
-                {!fcFlipped && (
-                  <button onClick={() => { setFcIndex(i => i + 1 < fcCards.length ? i + 1 : i); setFcFlipped(false); setFcShowAnnotation(false); }}
-                    className={`w-full text-xs font-sans text-center py-2 ${textSecondary} opacity-40 hover:opacity-70 transition-opacity`}>
-                    スキップ →
-                  </button>
-                )}
-              </>
-            )}
-
-            {/* ── セッション終了サマリー ── */}
-            {fcFinished && (
-              <div className="text-center space-y-4 py-4">
-                <div className="text-4xl">🎓</div>
-                <p className={`font-serif text-lg ${textClass}`}>セッション完了</p>
-                <div className="flex justify-center gap-6">
-                  <div className="text-center">
-                    <p className={`text-2xl font-bold ${darkMode ? 'text-amber-400' : 'text-amber-700'}`}>{goodCount}</p>
-                    <p className={`text-xs font-sans ${textSecondary}`}>覚えた</p>
-                  </div>
-                  <div className="text-center">
-                    <p className={`text-2xl font-bold ${textClass}`}>{againCount}</p>
-                    <p className={`text-xs font-sans ${textSecondary}`}>もう一度</p>
-                  </div>
-                  <div className="text-center">
-                    <p className={`text-2xl font-bold ${textClass}`}>{Object.keys(fcSessionResult).length}</p>
-                    <p className={`text-xs font-sans ${textSecondary}`}>合計</p>
-                  </div>
-                </div>
-                <div className="flex gap-3 pt-2">
-                  <button onClick={() => { setFcCards([]); setFcFinished(false); setFcSessionResult({}); setFcIndex(0); }}
-                    className={`flex-1 py-2.5 rounded-xl text-sm font-sans border transition-colors ${darkMode ? 'border-zinc-700 text-zinc-300 hover:bg-zinc-800' : 'border-stone-300 text-stone-600 hover:bg-stone-50'}`}>
-                    設定に戻る
-                  </button>
-                  <button onClick={() => {
-                    const cards = buildFcCards(fcSource, fcSourceId, fcMode, fcSrsData);
-                    setFcCards(cards); setFcIndex(0); setFcFlipped(false); setFcSessionResult({}); setFcFinished(false);
-                  }}
-                    className={`flex-1 py-2.5 rounded-xl text-sm font-semibold font-sans transition-colors ${darkMode ? 'bg-amber-700 hover:bg-amber-600 text-amber-100' : 'bg-stone-800 hover:bg-stone-700 text-white'}`}>
-                    <RotateCcw size={13} strokeWidth={2} className="inline mr-1.5" />もう一周
-                  </button>
-                </div>
-              </div>
-            )}
-
-            {/* カードなし警告 */}
-            {fcCards.length === 0 && !fcFinished && fcSource === 'bookmarks' && Object.keys(bookmarks).length === 0 && (
-              <p className={`text-sm font-sans text-center ${textSecondary} opacity-60 py-4`}>
-                ブックマークがまだありません。段落の🔖ボタンで追加できます。
-              </p>
-            )}
-          </div>
-
-          {/* フッター：モード切替（セッション中） */}
-          {fcCards.length > 0 && !fcFinished && (
-            <div className={`shrink-0 border-t px-5 py-2 flex items-center gap-2 ${borderClass}`}>
-              <span className={`text-xs font-sans ${textSecondary} opacity-50 mr-1`}>モード:</span>
-              {[['orig2trans','原→訳'],['trans2orig','訳→原'],['head2full','冒頭→全']].map(([val, label]) => (
-                <button key={val} onClick={() => { setFcMode(val); setFcFlipped(false); }}
-                  className={`px-2.5 py-1 rounded-full text-xs font-sans transition-colors ${fcMode === val
-                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                    : darkMode ? 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700' : 'bg-stone-100 text-stone-500 hover:bg-stone-200'
-                  }`}>{label}</button>
-              ))}
-              <button onClick={() => {
-                const shuffled = [...fcCards].sort(() => Math.random() - 0.5);
-                setFcCards(shuffled); setFcIndex(0); setFcFlipped(false);
-              }} className={`ml-auto flex items-center gap-1 text-xs font-sans ${textSecondary} opacity-50 hover:opacity-80 transition-opacity`}>
-                <Shuffle size={11} strokeWidth={2} />シャッフル
-              </button>
-            </div>
-          )}
+        {/* フラッシュカードへのリンク */}
+        <div className={`mt-3 pt-3 border-t ${darkMode ? 'border-zinc-800' : 'border-stone-100'}`}>
+          <a
+            href="/flashcard.html"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-sans transition-colors ${
+              darkMode
+                ? 'bg-zinc-800/60 hover:bg-zinc-700/60 text-zinc-300 border border-zinc-700'
+                : 'bg-stone-50 hover:bg-stone-100 text-stone-600 border border-stone-200'
+            }`}
+          >
+            <span>ブックマークでフラッシュカード学習</span>
+            <span className="opacity-50">→</span>
+          </a>
         </div>
       </div>
     );
   };
+
 
   // ─── 時系列マップ（縦リスト ↔ 横マップ 切替式） ────────────
   const TimelineView = () => {
@@ -1847,9 +1290,6 @@ export default function App() {
 
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
-
-      {/* ─── フラッシュカード モーダル ─────────────────── */}
-      {showFlashcard && <FlashcardModal />}
 
       {/* ─── サイドドロワー オーバーレイ ─────────────────── */}
       {showSettings && (
@@ -2374,30 +1814,19 @@ export default function App() {
             </div>
           )}
 
-          {/* このテキストで学習ボタン */}
+          {/* フラッシュカードへのリンク */}
           <div className={`mt-4 pt-4 border-t ${borderClass} flex items-center justify-between gap-3`}>
-            <div className={`text-xs font-sans ${textSecondary}`}>
-              <span className="opacity-60">フラッシュカード</span>
-            </div>
-            <button
-              onClick={() => {
-                setFcSource('text');
-                setFcSourceId(currentText.id);
-                const cards = buildFcCards('text', currentText.id, fcMode, fcSrsData);
-                setFcCards(cards);
-                setFcIndex(0);
-                setFcFlipped(false);
-                setFcSessionResult({});
-                setFcFinished(false);
-                setShowFlashcard(true);
-              }}
+            <span className={`text-xs font-sans ${textSecondary} opacity-60`}>フラッシュカード</span>
+            <a
+              href="/flashcard.html"
+              target="_blank"
+              rel="noopener noreferrer"
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold font-sans transition-colors ${
-                darkMode ? 'bg-amber-800/60 hover:bg-amber-700 text-amber-200' : 'bg-amber-50 hover:bg-amber-100 text-amber-800 border border-amber-200'
+                darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300 border border-zinc-700' : 'bg-stone-100 hover:bg-stone-200 text-stone-600 border border-stone-200'
               }`}
             >
-              <GraduationCap size={13} strokeWidth={1.8} />
-              このテキストで学習
-            </button>
+              学習モードを開く →
+            </a>
           </div>
 
           {/* 横断読解ボタン＋テキスト選択 */}
