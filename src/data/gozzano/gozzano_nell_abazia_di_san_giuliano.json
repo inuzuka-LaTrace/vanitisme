@@ -1,0 +1,90 @@
+{
+  "id": "gozzano_nell_abazia_di_san_giuliano",
+  "title": "Nell'Abazia di San Giuliano",
+  "author": "Guido Gozzano",
+  "source": "Poesie sparse (XX secolo). In: Gozzano: Tutte le poesie, a cura di Giacinto Spagnoletti. Grandi Tascabili Economici Newton, n. 202. Newton Compton Editori, Roma, 1993. 底本: it.wikisource.org/wiki/Poesie_sparse/Nell%27Abazia_di_San_Giuliano（2024年照合）",
+  "year": "1907",
+  "firstPublication": "Poesie sparse (XX secolo)",
+  "difficulty": "上級",
+  "category": "gozzano",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "グイド・ゴッツァーノ（Guido Gozzano, 1883–1916）の散詩集（Poesie sparse）収録の24行詩。独特の内部韻（leonine rhyme）を持つ形式──各行が中央の区切り（句読点）で2つのコロンに分かれ、前後の半行末尾が交互に韻を踏む複雑な音声構造。タイトル「サン・ジュリアーノ修道院にて」──詩人が修道院に入り、修道士・司祭との対話の中で神への不信仰と愛の矛盾を独白する。「善き神よ、私は信じない、善き神よ、あなたは存在しない、──私はあなたを愛する！」という逆説的な冒頭宣言が詩のすべてを支配する。括弧内の問いかけ（v.2, v.4, v.6）が三度繰り返されることで、信仰の外部からの哲学的問いが詩の構造に組み込まれる。「芸術を信じるか？夢を信じるか？──信じない、しかし愛する」というゴッツァーノの詩学的立場の表明。神人同形論（antropomorfismo）への批判と、それでも「神の顔は祖父（Nonno）に似ている」という親密で世俗的な神像への愛着──これが黄昏主義の宗教性の核心。ソログープ「Кумир упал（偶像は倒れ）」との並行：どちらも信仰を失いながら宗教的感受性を保持するが、ゴッツァーノはより対話的・弁証法的にその矛盾を提示する。",
+  "keywords": [
+    "不信仰と愛", "神への呼びかけ", "修道院", "対話詩", "神人同形論",
+    "括弧の問い", "祖父の顔の神", "tomismo", "内部韻", "leonine rhyme",
+    "黄昏主義", "Crepuscolarismo", "信仰なき愛", "「善き神よ」"
+  ],
+  "relatedTexts": [
+    "gozzano_suprema_quies",
+    "gozzano_la_preraffaelita",
+    "sologub_kumir_upal",
+    "verhaeren_a_tenebres",
+    "mallarme_catholicisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Buon Dio nel quale non credo, buon Dio che non esisti,\n(non sono gli oggetti mai visti più cari di quelli che vedo?)\nIo t'amo! Ché non c'è bisogno di creder in te per amarti\n(e forse che credo nell'arti? E forse che credo nel sogno?)\nIo t'amo, Purissima Fonte che non esisti, e t'anelo!\n(Esiste l'azzurro del cielo? Esiste il profilo del monte?)",
+      "provisionalTranslation": "善き神よ、私が信じない神よ、善き神よ、あなたは存在しない、\n（見たことのないものより見ているものの方がより親しくないだろうか？）\n私はあなたを愛する！なぜなら愛するのに信じる必要はないから\n（では私は芸術を信じるか？では私は夢を信じるか？）\n私はあなたを愛する、純粋の源よ、あなたは存在しない、そして私はあなたを求める！\n（空の青は存在するか？山のシルエットは存在するか？）"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "M'accolga l'antica Abazia; è ricca di luci e di suoni.\nMi piacciono i frati; son buoni pel cuore in malinconia.\nSon buoni. \"Non credi? Che importa? Riposati un poco sui banchi.\nSu, entra, su, varca la porta. Si accettano tutti gli stanchi.\"\nVi seggo - la mente suasa - ma come potrebbe sedervi\nun tale invitato dai servi e non dal padrone di casa.",
+      "provisionalTranslation": "古い修道院が私を迎えてくれる；それは光と音に満ちている。\n修道士たちが好きだ；彼らは憂鬱な心に優しい。\n彼らは優しい。「信じないか？それが何だ？椅子で少し休みなさい。\nさあ入れ、さあ門をくぐれ。疲れた者は皆受け入れる。」\n私はそこに座る──説得された心で──しかしどうして座れようか\n主人からではなく召使から招かれた客として。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–16",
+      "original": "- \"Riposati, o anima sazia! Riposati, piega i ginocchi!\nChissà che il Signore ti tocchi, chissà che ti faccia la grazia.\"\n- \"Mi piace il Signore, mi garba il volto che gli avete fatto.\nOh, il Nonno! Lo stesso ritratto! Portava pur egli la barba!\"",
+      "provisionalTranslation": "──「休みなさい、満ち足りた魂よ！休みなさい、ひざまずきなさい！\n主があなたに触れてくださるかもしれない、恵みを与えてくださるかもしれない。」\n──「主は好きだ、あなた方が作ったあの顔が気に入っている。\nああ、祖父だ！全く同じ肖像！彼も髭を生やしていた！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.17–24",
+      "original": "\"O Preti, ma è assurdo che dòmini sul tutto inumano ed amorfo\nquell'essere antropomorfo che hanno creato gli uomini!\"\n- \"E non ragionare! L'indagine è quella che offùscati il lume.\nInchìnati sopra il volume, ma senza voltarne le pagine,\no anima senza conforti, e pensa che solo una fede\nrivede la vita, rivede il volto dei poveri morti.\"\n- \"O Prete, l'amore è un istinto umano. Si spegne alle porte\ndel Tutto. L'amore e la morte son vani al tomista convinto.\"",
+      "provisionalTranslation": "「神父たちよ、しかし不条理ではないか、非人間的で無定形のすべてを\n人間が作ったあの神人同形論的な存在が支配するとは！」\n──「理屈を言うな！探求こそが光を曇らせるものだ。\n本の上にかがみなさい、しかしページをめくらずに、\n慰めのない魂よ、そして信仰のみが\n人生を、貧しき死者たちの顔を再び見ることができると考えなさい。」\n──「神父よ、愛は人間的な本能だ。すべての門のところで消える\n全体の前で。愛と死はトミスタ確信者には空虚なものだ。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Buon Dio nel quale non credo, buon Dio che non esisti,\n(non sono gli oggetti mai visti più cari di quelli che vedo?)",
+      "body": "内部韻（rima leonina）──各行の前半末尾と前後の行の前半末尾が交互に韻を踏む複雑な音声構造。v.1「non credo / non esisti」・v.2「mai visti / che vedo」──「visti」と「esisti」（isti韻）が行をまたいで連鎖する。括弧内の問い（v.2, v.4, v.6）という形式的特徴──これは内心の声・懐疑・哲学的問いが詩の構造に明示的に組み込まれたメタ詩学的身振り。各偶数行が括弧に入ることで、詩の言表と内省が交互に配置される。音節数は各行が長め（14-16音節）で、フランス語のアレクサンドランに近い長さを持ちながら内部で折り畳まれる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Buon Dio nel quale non credo, buon Dio che non esisti,\n[...]\nIo t'amo! Ché non c'è bisogno di creder in te per amarti",
+      "body": "「善き神よ、私が信じない神よ、あなたは存在しない──私はあなたを愛する！なぜなら愛するのに信じる必要はないから」──詩のパラドックスの完全な定式化。「non credo（信じない）/ non esisti（存在しない）/ t'amo（愛する）」という三段の論理逆転。ソログープ「Кумир упал（偶像は倒れ）」の「不信仰でありながら他者の祈りに感動する」という立場と比較すると、ゴッツァーノは「信じないが直接に愛する」というより能動的な不信仰の愛を宣言する。「e forse che credo nell'arti? E forse che credo nel sogno?（芸術を信じるか？夢を信じるか？）」──答えは「否」でありながら愛する──ゴッツァーノの詩学的・宗教的立場の同一性を示す。",
+      "targetId": "sologub_kumir_upal"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vi seggo - la mente suasa - ma come potrebbe sedervi\nun tale invitato dai servi e non dal padrone di casa.",
+      "body": "「私はそこに座る──説得された心で──しかしどうして座れようか、主人からではなく召使から招かれた客として」──詩の中で最も鋭い皮肉。「mente suasa（説得された心）」と「come potrebbe sedervi（どうして座れようか）」の矛盾──心は説得されたが理性は拒否する。「invitato dai servi e non dal padrone di casa（主人からではなく召使から招かれた客）」──召使（修道士）の「疲れた者は誰でも受け入れる」という寛大さが、逆に「主人（神）が自分を招いていない」という疎外感を際立てる。ヴェルハーレン「À Ténèbres」の「影の人々（hommes d'ombre）」の「必然的な悪徳への恐れから真の栄光に到達できない」構造との並行。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "- \"Mi piace il Signore, mi garba il volto che gli avete fatto.\nOh, il Nonno! Lo stesso ritratto! Portava pur egli la barba!\"",
+      "body": "「主は好きだ、あなた方が作ったあの顔が気に入っている──ああ、祖父だ！全く同じ肖像！彼も髭を生やしていた！」──詩全体の最も記憶に残る行。神の顔を「祖父（il Nonno）の肖像」と同一視することで、神人同形論（v.17の「essere antropomorfo」への批判と対応）を逆説的に肯定的に経験する。「ritratto（肖像）」──「La preraffaelita」の絵画的エクフラシスの詩学が、ここでは神学的文脈で現れる──神は絵画の中の人物として「好まれる」。第4段落で「神人同形論は不条理」と批判するのと同じ詩人が、同時に「祖父に似た神の顔が好き」と言う──この矛盾がゴッツァーノの詩的誠実さの核心。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "\"O Preti, ma è assurdo che dòmini sul tutto inumano ed amorfo\nquell'essere antropomorfo che hanno creato gli uomini!\"",
+      "body": "「神父たちよ、しかし不条理ではないか──人間が作った神人同形論的な存在が、非人間的で無定形のすべてを支配するとは！」──フォイエルバッハ的な神批判：神は人間が自分の像に作り上げたものに過ぎない（Ludwig Feuerbach, 1804–1872『キリスト教の本質』1841）。「inumano ed amorfo（非人間的で無定形）」──「すべて（il tutto）」の本性は人間的ではなく形を持たないという存在論的認識。しかし詩人は第3段落でこの「神人同形的な神の顔」を「祖父に似ている」として愛している──哲学的批判と情感的愛着の共存がゴッツァーノの詩的特徴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "- \"O Prete, l'amore è un istinto umano. Si spegne alle porte\ndel Tutto. L'amore e la morte son vani al tomista convinto.\"",
+      "body": "詩の結末──「愛と死はトミスタ（tomista）確信者には空虚なものだ」。「tomista（トマス・アクィナス主義者）」──スコラ哲学・カトリック神学の伝統的立場を代表する「確信者（convinto）」。「l'amore è un istinto umano（愛は人間的本能だ）」──愛を形而上学ではなく生物学的本能として定義する唯物論的宣言。「Si spegne alle porte del Tutto（すべての門のところで消える）」──「すべて（il Tutto）」の前で人間的感情は消滅するという虚無主義的認識。「L'amore e la morte son vani（愛と死は空虚だ）」──バリモント「ЯДЪ」の「私の毒は愛だ」という生命力の肯定と対極にある死後の虚無の宣言。しかし詩の冒頭「Io t'amo!（私はあなたを愛する！）」という叫びと「愛は空虚だ」という結末の間の矛盾が、詩全体の弁証法的運動を完成させる。"
+    }
+  ]
+}
