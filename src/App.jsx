@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Bookmark, BookmarkCheck,
-  CalendarDays, Settings, Moon, Sun,
+  CalendarDays, Settings, Moon, Sun, Star,
   Volume2, Square as IconSquare,
   Search, Link, FileText, List,
   ChevronRight, ChevronDown,
@@ -1448,7 +1448,7 @@ export default function App() {
           <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
             <div className="flex-1 min-w-0">
               <h1
-                style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.08em' }}
+                style={{ fontFamily: "'Cinzel', serif", letterSpacing: '0.04em' }}
                 className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 title="最上部へ戻る"
