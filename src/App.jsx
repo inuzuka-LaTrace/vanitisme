@@ -2238,7 +2238,7 @@ export default function App() {
                           {textWordCount(text).toLocaleString()}語
                         </span>
                         {text.annotations?.length > 0 && (
-                          <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-amber-900/40 text-amber-400' : 'bg-amber-100 text-amber-700'}`}>
+                          <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
                             注釈{text.annotations.length}
                           </span>
                         )}
