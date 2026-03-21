@@ -741,7 +741,7 @@ export default function App() {
     if (allBookmarks.length === 0) return (
       <div className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-1">
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}><Bookmark size={13} strokeWidth={1.6} />ブックマーク</h2>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}><Bookmark size={13} strokeWidth={1.6} />ブックマーク</h2>
           <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70`}>閉じる</button>
         </div>
         <p className={`text-sm font-sans ${textSecondary} py-3 flex items-center gap-1.5 flex-wrap`}>
@@ -756,7 +756,7 @@ export default function App() {
             href="/flashcard.html"
             target="_blank"
             rel="noopener noreferrer"
-            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-sans transition-colors ${
+            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-IBM Plex sans JP transition-colors ${
               darkMode
                 ? 'bg-zinc-800/60 hover:bg-zinc-700/60 text-zinc-300 border border-zinc-700'
                 : 'bg-stone-50 hover:bg-stone-100 text-stone-600 border border-stone-200'
@@ -771,10 +771,10 @@ export default function App() {
     return (
       <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
         <div className="flex items-center justify-between mb-3">
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}>
             <Bookmark size={13} strokeWidth={1.6} />ブックマーク <span className="font-normal opacity-70">({allBookmarks.length}件)</span>
           </h2>
-          <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70 font-sans`}>閉じる</button>
+          <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70 font-IBM Plex sans JP`}>閉じる</button>
         </div>
         <div className="space-y-1.5">
           {allBookmarks.map(({ textId, paraId, text }) => {
@@ -790,18 +790,18 @@ export default function App() {
               >
                 <span className={`text-xs font-mono shrink-0 opacity-40 ${textClass}`}>§{paraId}</span>
                 <div className="min-w-0 flex-1">
-                  <p className={`text-xs font-sans font-medium truncate ${textSecondary}`}>{text.author} — {text.title}</p>
+                  <p className={`text-xs font-IBM Plex sans JP font-medium truncate ${textSecondary}`}>{text.author} — {text.title}</p>
                   <p translate="no" className={`notranslate text-xs font-serif truncate ${textClass}`}>{preview}{preview.length >= 60 ? '…' : ''}</p>
                 </div>
                 <button
                   onClick={(e) => { e.stopPropagation(); copyParaLink(e, textId, paraId); }}
                   title="リンクをコピー"
-                  className={`shrink-0 text-xs px-1.5 py-0.5 rounded font-sans transition-colors ${darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'}`}
+                  className={`shrink-0 text-xs px-1.5 py-0.5 rounded font-IBM Plex sans JP transition-colors ${darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'}`}
 ><Link size={12} strokeWidth={1.6} /></button>
                 <button
                   onClick={(e) => toggleBookmark(e, textId, paraId)}
                   title="ブックマーク解除"
-                  className={`shrink-0 text-xs font-sans transition-colors ${darkMode ? 'text-amber-400 hover:text-zinc-400' : 'text-amber-600 hover:text-stone-400'}`}
+                  className={`shrink-0 text-xs font-IBM Plex sans JP transition-colors ${darkMode ? 'text-amber-400 hover:text-zinc-400' : 'text-amber-600 hover:text-stone-400'}`}
 ><BookmarkCheck size={13} strokeWidth={2} /></button>
               </div>
             );
@@ -813,7 +813,7 @@ export default function App() {
             href="/flashcard.html"
             target="_blank"
             rel="noopener noreferrer"
-            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-sans transition-colors ${
+            className={`flex items-center justify-between w-full px-3 py-2 rounded-lg text-xs font-IBM Plex sans JP transition-colors ${
               darkMode
                 ? 'bg-zinc-800/60 hover:bg-zinc-700/60 text-zinc-300 border border-zinc-700'
                 : 'bg-stone-50 hover:bg-stone-100 text-stone-600 border border-stone-200'
@@ -886,7 +886,7 @@ export default function App() {
 
         {/* ── ヘッダー ── */}
         <div className={`flex items-center justify-between px-4 py-2.5 border-b ${borderClass}`}>
-          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans flex items-center gap-1.5 ${textSecondary}`}>
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP flex items-center gap-1.5 ${textSecondary}`}>
             <CalendarDays size={13} strokeWidth={1.6} />
             時系列マップ
             <span className="font-normal opacity-50">({allEntries.length}作品)</span>
@@ -894,7 +894,7 @@ export default function App() {
 
           <div className="flex items-center gap-1.5">
             {/* リスト ↔ マップ 切替 */}
-            <div className={`flex rounded-lg overflow-hidden border text-xs font-sans ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
+            <div className={`flex rounded-lg overflow-hidden border text-xs font-IBM Plex sans JP ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
               <button
                 onClick={() => setTimelineMode('list')}
                 className={`px-2.5 py-1 transition-colors flex items-center gap-1 ${
@@ -958,7 +958,7 @@ export default function App() {
                         </span>
                         <span className={`w-2 h-2 rounded-full shrink-0 ${dot} ${isSelected ? 'ring-2 ring-offset-1 ring-current' : 'opacity-70'}`} />
                         <div className="min-w-0 flex-1">
-                          <span className={`text-xs font-sans ${textSecondary}`}>{t.author.split(' ').pop()}</span>
+                          <span className={`text-xs font-IBM Plex sans JP ${textSecondary}`}>{t.author.split(' ').pop()}</span>
                           <span className={`mx-1.5 text-xs opacity-30 ${textClass}`}>·</span>
                           <span className={`text-xs font-serif ${textClass} ${isSelected ? 'font-semibold' : ''}`}>{t.title}</span>
                         </div>
@@ -998,7 +998,7 @@ export default function App() {
                     <div key={author} className="flex items-center gap-2">
                       {/* 著者名ラベル（固定幅） */}
                       <div className="w-24 shrink-0 text-right pr-2">
-                        <span className={`text-xs font-sans truncate block ${textSecondary}`}>{author.split(' ').pop()}</span>
+                        <span className={`text-xs font-IBM Plex sans JP truncate block ${textSecondary}`}>{author.split(' ').pop()}</span>
                       </div>
                       {/* ドット行 */}
                       <div className="relative flex-1 h-7">
@@ -1029,7 +1029,7 @@ export default function App() {
         )}
 
         {/* フッター */}
-        <div className={`px-4 py-2 border-t text-xs font-sans flex items-center gap-2 ${borderClass} ${textSecondary} opacity-60`}>
+        <div className={`px-4 py-2 border-t text-xs font-IBM Plex sans JP flex items-center gap-2 ${borderClass} ${textSecondary} opacity-60`}>
           {isMap
             ? 'ドットをクリックで選択 — タイムラインを表示したまま本文へ移動できます'
             : '行をクリックで選択 — タイムラインを表示したまま本文へ移動できます'
@@ -1110,7 +1110,7 @@ export default function App() {
                 {isNewScene && (
                   <div className={`flex items-center gap-2 px-1 pt-1 pb-0.5`}>
                     <span className={`text-xs font-semibold tracking-wider px-2 py-0.5 rounded-full border ${
-                      darkMode ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-sans' : 'bg-stone-100 text-stone-600 border-stone-300 font-sans'
+                      darkMode ? 'bg-zinc-800 text-zinc-300 border-zinc-600 font-IBM Plex sans JP' : 'bg-stone-100 text-stone-600 border-stone-300 font-sans'
                     }`}>Scène {para.scene}</span>
                     <div className={`flex-1 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
                   </div>
@@ -1306,7 +1306,7 @@ export default function App() {
           ${darkMode ? 'bg-zinc-900 border-l border-zinc-700' : 'bg-stone-50 border-l border-stone-200'}`}
       >
         <div className={`flex items-center justify-between px-5 py-4 border-b ${darkMode ? 'border-zinc-800' : 'border-stone-200'}`}>
-          <h3 className={`text-sm font-semibold tracking-wide font-sans ${textClass}`}>表示設定</h3>
+          <h3 className={`text-sm font-semibold tracking-wide font-IBM Plex sans JP ${textClass}`}>表示設定</h3>
           <button
             onClick={() => setShowSettings(false)}
             className={`w-7 h-7 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'hover:bg-zinc-800 text-zinc-400' : 'hover:bg-stone-200 text-stone-500'}`}
@@ -1323,24 +1323,24 @@ export default function App() {
             const canInc = idx < sizeSteps.length - 1;
             return (
               <div>
-                <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>文字サイズ</label>
+                <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>文字サイズ</label>
                 <div className={`flex items-center rounded-xl overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
                   <button
                     onClick={() => canDec && setFontSize(sizeSteps[idx - 1])}
                     disabled={!canDec}
-                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-sans
+                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-IBM Plex sans JP
                       ${canDec
                         ? darkMode ? 'text-zinc-300 hover:bg-zinc-800' : 'text-stone-600 hover:bg-stone-100'
                         : darkMode ? 'text-zinc-700' : 'text-stone-300'}`}
                   >−</button>
                   <div className={`flex-1 flex flex-col items-center justify-center py-2 border-x ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
                     <span className={`font-serif leading-none ${fontSizeMap[fontSize]} ${textClass}`} style={{ fontFamily: fontFamilyStyle }}>Abcあ</span>
-                    <span className={`text-xs mt-1 font-sans ${textSecondary}`}>{sizeLabels[fontSize]}</span>
+                    <span className={`text-xs mt-1 font-IBM Plex sans JP ${textSecondary}`}>{sizeLabels[fontSize]}</span>
                   </div>
                   <button
                     onClick={() => canInc && setFontSize(sizeSteps[idx + 1])}
                     disabled={!canInc}
-                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-sans
+                    className={`w-10 h-10 flex items-center justify-center text-lg font-light transition-colors font-IBM Plex sans JP
                       ${canInc
                         ? darkMode ? 'text-zinc-300 hover:bg-zinc-800' : 'text-stone-600 hover:bg-stone-100'
                         : darkMode ? 'text-zinc-700' : 'text-stone-300'}`}
@@ -1352,7 +1352,7 @@ export default function App() {
 
           {/* フォント */}
           <div>
-            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>フォント</label>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>フォント</label>
             <div className="flex flex-col gap-1.5">
               {[
                 ['garamond',    'Garamond',     'EB Garamond'],
@@ -1362,7 +1362,7 @@ export default function App() {
                 ['ubuntu',      'Ubuntu',         'Ubuntu'],
               ].map(([val, label, preview]) => (
                 <button key={val} onClick={() => setFontFamily(val)}
-                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-sans
+                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-IBM Plex sans JP
                     ${fontFamily === val
                       ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
                       : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
@@ -1376,11 +1376,11 @@ export default function App() {
 
           {/* 訳文の色 */}
           <div>
-            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>訳文の色</label>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>訳文の色</label>
             <div className={`flex rounded-lg overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
               {[['neutral','白黒'],['red','赤'],['violet','紫']].map(([val, label], i) => (
                 <button key={val} onClick={() => setTransColor(val)}
-                  className={`flex-1 py-2 text-xs font-sans transition-colors ${transColor === val
+                  className={`flex-1 py-2 text-xs font-IBM Plex sans JP transition-colors ${transColor === val
                     ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
                     : darkMode ? 'text-zinc-400 hover:bg-zinc-800' : 'text-stone-500 hover:bg-stone-50'
                   }${i > 0 ? ` border-l ${darkMode ? 'border-zinc-700' : 'border-stone-200'}` : ''}`}>
@@ -1392,11 +1392,11 @@ export default function App() {
 
           {/* 読み上げ速度 */}
           <div>
-            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>読み上げ速度</label>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>読み上げ速度</label>
             <div className="flex flex-col gap-1.5">
               {Object.entries(SPEECH_RATES).map(([key, { label }]) => (
                 <button key={key} onClick={() => setSpeechRate(key)}
-                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-sans transition-all
+                  className={`py-2.5 px-3.5 text-xs rounded-lg text-left flex items-center justify-between font-IBM Plex sans JP transition-all
                     ${speechRate === key
                       ? darkMode ? 'bg-amber-700 text-amber-100 shadow-sm' : 'bg-stone-800 text-white shadow-sm'
                       : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'}`}
@@ -1410,7 +1410,7 @@ export default function App() {
 
           {/* 表示する内容（トグルスイッチ） */}
           <div>
-            <label className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary} block mb-2.5`}>表示する内容</label>
+            <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>表示する内容</label>
             <div className={`rounded-xl overflow-hidden border ${darkMode ? 'border-zinc-700' : 'border-stone-200'}`}>
               {[
                 [showFrench, setShowFrench, '原文'],
@@ -1421,7 +1421,7 @@ export default function App() {
                 <div
                   key={label}
                   onClick={() => setter(!checked)}
-                  className={`flex items-center justify-between px-4 py-3 cursor-pointer transition-colors font-sans
+                  className={`flex items-center justify-between px-4 py-3 cursor-pointer transition-colors font-IBM Plex sans JP
                     ${i < arr.length - 1 ? (darkMode ? 'border-b border-zinc-700' : 'border-b border-stone-100') : ''}
                     ${darkMode ? 'hover:bg-zinc-800' : 'hover:bg-stone-100'}`}
                 >
@@ -1452,7 +1452,7 @@ export default function App() {
                 VERSILLAGE
               </h1>
             {currentText && (
-              <p className={`text-xs font-sans truncate mt-0.5 ${textSecondary}`}>
+              <p className={`text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
                 <span className="opacity-60">{currentText.author}</span>
                 <span className="opacity-40 mx-1">›</span>
                 <span>{currentText.title}</span>
@@ -1501,11 +1501,14 @@ export default function App() {
               onClick={() => setShowWelcome(false)}
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70`}
             ><X size={14} strokeWidth={2} /></button>
-            <p className={`text-sm font-sans ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
+            <p className={`text-sm font-IBM Plex sans JP ${darkMode ? 'text-amber-300' : 'text-amber-900'}`}>
               📚 主に近代西洋の詩と散文を収録。フランス語・ドイツ語・イタリア語・ロシア語・英語の原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
-            <p className={`text-xs mt-1 font-sans ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
+            <p className={`text-xs mt-1 font-IBM Plex sans JP ${darkMode ? 'text-amber-500' : 'text-amber-700'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
+            </p>
+            <p className={`text-xs mt-1 font-IBM Plex sans JP ${darkMode ? 'text-violet-500' : 'text-violet-700'}`}>
+              By using your browser's translation feature, you can read the Japanese translations in your preferred language while keeping the original texts (French, etc.) intact.
             </p>
           </div>
         )}
