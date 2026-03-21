@@ -1767,10 +1767,10 @@ export default function App() {
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
     fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
-    fontFamily === 'poiret'       ? '"Poiret One", "Noto Serif JP", sans-serif' :
-    fontFamily === 'jura'         ? '"Jura", "Noto Serif JP", sans-serif' :
-    fontFamily === 'ubuntu'       ? '"Ubuntu", "Noto Serif JP", sans-serif' :
     fontFamily === 'viaoda'       ? '"Viaoda Libre", "Shippori Mincho B1", serif' :
+    fontFamily === 'ubuntu'       ? '"Ubuntu", "IBM Plex sans JP", sans-serif' :
+    fontFamily === 'poiret'       ? '"Poiret One", "IBM Plex sans JP", sans-serif' :
+    fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     fontFamily === 'great-vibes'  ? '"Great Vibes", "Shippori Mincho B1", cursive' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
@@ -1794,7 +1794,7 @@ export default function App() {
     if (cat?.startsWith('dante'))        return darkMode ? 'bg-red-900/40 text-red-300'       : 'bg-red-100 text-red-800';
     if (cat?.startsWith('dannunzio'))    return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('pascoli'))      return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
-    if (cat?.startsWith('corazzine'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
+    if (cat?.startsWith('corazzini'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-cyan-900/40 text-cyan-300': 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('bryusov'))      return darkMode ? 'bg-red-900/40 text-red-300' : 'bg-red-100 text-red-800';
     if (cat?.startsWith('sologub'))      return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
