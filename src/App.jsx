@@ -1220,11 +1220,9 @@ export default function App() {
   const fontFamilyStyle =
     fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
     fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
-    fontFamily === 'viaoda'       ? '"Viaoda Libre", "Shippori Mincho B1", serif' :
     fontFamily === 'ubuntu'       ? '"Ubuntu", "IBM Plex sans JP", sans-serif' :
     fontFamily === 'poiret'       ? '"Poiret One", "IBM Plex sans JP", sans-serif' :
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
-    fontFamily === 'great-vibes'  ? '"Great Vibes", "Shippori Mincho B1", cursive' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
   const fontSizeMap = { xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
@@ -1362,8 +1360,6 @@ export default function App() {
                 ['poiret',      'Poiret One',    'Poiret One'],
                 ['jura',        'Jura',           'Jura'],
                 ['ubuntu',      'Ubuntu',         'Ubuntu'],
-                ['viaoda',      'Viaoda Libre',  'Viaoda Libre'],
-                ['great-vibes', 'Great Vibes',   'Great Vibes'],
               ].map(([val, label, preview]) => (
                 <button key={val} onClick={() => setFontFamily(val)}
                   className={`py-2.5 px-3.5 text-xs rounded-lg text-left transition-all flex items-center justify-between font-sans
@@ -1448,7 +1444,7 @@ export default function App() {
           <div className="flex-1 min-w-0 flex items-center gap-2 min-w-0">
             <div className="flex-1 min-w-0">
               <h1
-                style={{ fontFamily: "Viaoda libre, serif", letterSpacing: '0.04em' }}
+                style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.05em' }}
                 className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
                 onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 title="最上部へ戻る"
