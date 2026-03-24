@@ -4,7 +4,7 @@ import {
   GraduationCap, Sun, Moon,
 } from 'lucide-react';
 
-// ── データインポート（Versillageと共通） ──────────────────────
+// ── データインポート（VANITISMEと共通） ──────────────────────
 import racineData        from '../data/racine';
 import mallarmeData      from '../data/mallarme';
 import baudelaireData    from '../data/baudelaire';
@@ -40,7 +40,7 @@ const ALL_TEXTS = {
   ...hoelderlinData,
 };
 
-// ── カテゴリーカラー（Versillageと同系） ─────────────────────
+// ── カテゴリーカラー（VANITISMEと同系） ─────────────────────
 const catColor = (cat) => {
   if (!cat) return 'text-stone-400';
   if (cat.startsWith('racine'))       return 'text-violet-400';
