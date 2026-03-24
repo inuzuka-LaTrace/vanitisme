@@ -168,7 +168,7 @@ export default function FlashcardApp() {
             <GraduationCap size={20} className={textSub} strokeWidth={1.5} />
             <h1 className={`text-2xl font-serif ${textMain}`}>フラッシュカード</h1>
           </div>
-          <p className={`text-xs font-sans ${textSub}`}>Versillage — 近代西洋詩・批評 対訳学習</p>
+          <p className={`text-xs font-sans ${textSub}`}>VANITISME — 近代西洋詩・批評 対訳学習</p>
         </div>
 
         {/* ソース選択 */}
@@ -220,7 +220,7 @@ export default function FlashcardApp() {
           {/* ブックマークなし警告 */}
           {fc.source === 'bookmarks' && bookmarkCount === 0 && (
             <p className={`text-xs font-sans ${textSub} flex items-center gap-1.5`}>
-              ブックマークがありません。Versillageで段落に🔖をつけてください。
+              ブックマークがありません。VANITISMEで段落に🔖をつけてください。
             </p>
           )}
         </div>
@@ -524,8 +524,8 @@ export default function FlashcardApp() {
         <div className="max-w-2xl mx-auto px-4 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <GraduationCap size={15} strokeWidth={1.5} className={textSub} />
-            <span className={`text-sm font-serif ${darkMode ? 'text-zinc-200' : 'text-stone-800'}`}>
-              Versillage — フラッシュカード
+            <span className={`text-sm font-Cinzel ${darkMode ? 'text-zinc-200' : 'text-stone-800'}`}>
+              VANITISME
             </span>
           </div>
 
