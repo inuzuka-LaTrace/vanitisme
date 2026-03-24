@@ -109,6 +109,10 @@ export default function App() {
     try { return JSON.parse(localStorage.getItem('bookmarks') || '{}'); } catch { return {}; }
   });
   const [showBookmarks, setShowBookmarks] = useState(false);
+  const [showToc, setShowToc]             = useState(false);
+  const [tocOpenAuthors, setTocOpenAuthors] = useState({}); // { authorKey: bool }
+  const [tocLangFilter, setTocLangFilter]   = useState('all'); // 'all'|'fr'|'de'|'en'|'it'|'ru'
+  const [tocSearch, setTocSearch]           = useState('');
   // タイムラインビュー: false=非表示, 'list'=縦リスト, 'map'=横マップ
   const [timelineMode, setTimelineMode] = useState(false);
   // キーワードフィルター（クラウドクリック時にセット）
@@ -733,6 +737,205 @@ export default function App() {
     return textObj.paragraphs.reduce((sum, p) => sum + countWords(getOriginalText(p)), 0);
   };
 
+  // ─── 目次ドロワー ───────────────────────────────────────────
+  const TocDrawer = () => {
+    const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'it': 'it-IT', 'ru': 'ru-RU' };
+
+    // フィルタ済みテキスト一覧
+    const allTextsArr = Object.values(texts);
+    const filtered = allTextsArr.filter(t => {
+      if (tocLangFilter !== 'all' && t.originalLang !== langMap[tocLangFilter]) return false;
+      if (tocSearch.trim()) {
+        const q = tocSearch.toLowerCase();
+        return (
+          t.title?.toLowerCase().includes(q) ||
+          t.author?.toLowerCase().includes(q) ||
+          t.year?.toString().includes(q)
+        );
+      }
+      return true;
+    });
+
+    // 作家でグループ化（author フィールドをキーに）
+    const groups = {};
+    filtered.forEach(t => {
+      const key = t.author || '—';
+      if (!groups[key]) groups[key] = [];
+      groups[key].push(t);
+    });
+    // 作家名アルファベット順（キリル・漢字は末尾）
+    const sortedAuthors = Object.keys(groups).sort((a, b) => {
+      const la = /^[A-Za-z]/.test(a), lb = /^[A-Za-z]/.test(b);
+      if (la && !lb) return -1;
+      if (!la && lb) return 1;
+      return a.localeCompare(b);
+    });
+
+    const toggleAuthor = (key) =>
+      setTocOpenAuthors(prev => ({ ...prev, [key]: !prev[key] }));
+
+    // ダーク固定スタイル（目次は常にダーク）
+    const tocBg     = 'bg-[#0a0907]';
+    const tocBorder = 'border-[#1e1b16]';
+    const tocText   = 'text-[#c8b89a]';
+    const tocSub    = 'text-[#6a5a40]';
+    const tocDim    = 'text-[#3a3028]';
+    const tocActive = 'bg-[#141210] border-l-2 border-[#8b7355]';
+
+    const langLabels = [
+      { key: 'all', label: '全' },
+      { key: 'fr',  label: 'fr' },
+      { key: 'de',  label: 'de' },
+      { key: 'en',  label: 'en' },
+      { key: 'it',  label: 'it' },
+      { key: 'ru',  label: 'ru' },
+    ];
+
+    return (
+      <>
+        {/* オーバーレイ背景 */}
+        <div
+          className="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
+          onClick={() => setShowToc(false)}
+        />
+
+        {/* ドロワー本体（左から出現） */}
+        <div className={`fixed top-0 left-0 h-full z-50 flex flex-col shadow-2xl
+          transition-transform duration-300 ease-in-out
+          ${showToc ? 'translate-x-0' : '-translate-x-full'}
+          ${tocBg} border-r ${tocBorder}`}
+          style={{ width: '280px', fontFamily: '"EB Garamond", "Shippori Mincho B1", serif' }}
+        >
+          {/* ── ヘッダー ── */}
+          <div className={`flex items-center justify-between px-4 py-3 border-b ${tocBorder} shrink-0`}>
+            <span className={`text-xs tracking-[0.2em] uppercase font-sans ${tocDim}`}>目次</span>
+            <button
+              onClick={() => setShowToc(false)}
+              className={`w-6 h-6 flex items-center justify-center rounded-full ${tocSub} hover:opacity-70 transition-opacity`}
+            >
+              <X size={12} strokeWidth={1.8} />
+            </button>
+          </div>
+
+          {/* ── 検索 ── */}
+          <div className={`px-3 pt-3 pb-2 border-b ${tocBorder} shrink-0`}>
+            <div className={`flex items-center gap-2 border ${tocBorder} rounded px-2.5 py-1.5 bg-[#0d0b08]`}>
+              <Search size={11} strokeWidth={1.6} className={tocDim} />
+              <input
+                type="text"
+                value={tocSearch}
+                onChange={e => setTocSearch(e.target.value)}
+                placeholder="作家・題名・年…"
+                className={`flex-1 bg-transparent text-xs font-sans outline-none placeholder-[#3a3028] ${tocSub}`}
+              />
+              {tocSearch && (
+                <button onClick={() => setTocSearch('')} className={`${tocDim} hover:opacity-70`}>
+                  <X size={10} strokeWidth={2} />
+                </button>
+              )}
+            </div>
+          </div>
+
+          {/* ── 言語フィルター ── */}
+          <div className={`px-3 py-2 border-b ${tocBorder} flex gap-1.5 shrink-0`}>
+            {langLabels.map(({ key, label }) => (
+              <button
+                key={key}
+                onClick={() => setTocLangFilter(key)}
+                className={`px-2.5 py-0.5 text-xs font-sans rounded transition-colors border ${
+                  tocLangFilter === key
+                    ? 'bg-[#2a2010] text-[#c8b89a] border-[#6b5a3a]'
+                    : `${tocDim} border-[#1e1b16] hover:text-[#8b7355] hover:border-[#2a2520]`
+                }`}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
+
+          {/* ── テキスト一覧（作家折り畳み） ── */}
+          <div className="flex-1 overflow-y-auto">
+            {sortedAuthors.length === 0 ? (
+              <p className={`px-4 py-6 text-xs font-sans ${tocDim}`}>
+                {tocSearch ? `「${tocSearch}」に一致するテキストがありません` : 'テキストがありません'}
+              </p>
+            ) : (
+              sortedAuthors.map(author => {
+                const isOpen = tocOpenAuthors[author] !== false; // デフォルト展開
+                const authorTexts = groups[author];
+                return (
+                  <div key={author}>
+                    {/* 作家名ヘッダー（クリックで折り畳み） */}
+                    <button
+                      className={`w-full flex items-center justify-between px-4 py-2 text-left border-b ${tocBorder} hover:bg-[#0f0d0a] transition-colors group`}
+                      onClick={() => toggleAuthor(author)}
+                    >
+                      <span className={`text-xs italic ${tocSub} group-hover:text-[#9a8a6a] transition-colors`}>
+                        {author}
+                      </span>
+                      <span className={`text-xs ${tocDim} ml-2 flex items-center gap-1`}>
+                        <span className="font-sans text-[10px] opacity-60">{authorTexts.length}</span>
+                        <span style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
+                      </span>
+                    </button>
+
+                    {/* 作品リスト */}
+                    {isOpen && (
+                      <div>
+                        {authorTexts.map(t => {
+                          const isSelected = currentText?.id === t.id;
+                          return (
+                            <button
+                              key={t.id}
+                              className={`w-full flex items-baseline gap-2 pl-6 pr-3 py-1.5 text-left border-b border-[#140f0a] transition-colors
+                                ${isSelected ? tocActive : 'hover:bg-[#100e0b]'}`}
+                              onClick={() => {
+                                setSelectedText(t.id);
+                                setShowToc(false);
+                              }}
+                            >
+                              <span className={`text-xs leading-snug ${isSelected ? tocText : tocSub} flex-1 min-w-0`}
+                                style={{ wordBreak: 'break-all' }}>
+                                {t.title}
+                              </span>
+                              <span className={`text-[10px] font-sans shrink-0 ${tocDim}`}>
+                                {t.year}
+                              </span>
+                            </button>
+                          );
+                        })}
+                        {/* 作家区切り装飾 */}
+                        <div className={`text-center py-1 text-[#1e1b16] text-xs tracking-[0.4em] select-none`}>
+                          · · ·
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                );
+              })
+            )}
+          </div>
+
+          {/* ── フッター（件数） ── */}
+          <div className={`px-4 py-2 border-t ${tocBorder} shrink-0 flex items-center justify-between`}>
+            <span className={`text-[10px] font-sans ${tocDim}`}>
+              {filtered.length} テキスト
+            </span>
+            <button
+              onClick={() => {
+                setTocSearch('');
+                setTocLangFilter('all');
+              }}
+              className={`text-[10px] font-sans ${tocDim} hover:text-[#6a5a40] transition-colors`}
+            >
+              フィルターをリセット
+            </button>
+          </div>
+        </div>
+      </>
+    );
+  };
+
   // ─── ブックマーク一覧パネル ──────────────────────────────────
   const BookmarkPanel = () => {
     const allBookmarks = Object.entries(bookmarks).flatMap(([tid, pids]) =>
@@ -1289,6 +1492,9 @@ export default function App() {
   return (
     <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
 
+      {/* ─── 目次ドロワー ─────────────────────────────────── */}
+      {showToc && <TocDrawer />}
+
       {/* ─── サイドドロワー オーバーレイ ─────────────────── */}
       {showSettings && (
         <div
@@ -1460,6 +1666,18 @@ export default function App() {
             )}
             </div>
           </div>
+          <button
+            onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
+            title="目次"
+            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
+              showToc
+                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+            }`}
+          >
+            <List size={15} strokeWidth={1.6} />
+          </button>
+
           <button
             onClick={() => { setShowBookmarks(v => !v); setTimelineMode(false); }}
             title="ブックマーク一覧"
