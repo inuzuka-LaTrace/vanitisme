@@ -2252,7 +2252,7 @@ const TocDrawer = ({
                               <div className="flex items-baseline gap-2 w-full">
                                 {/* ③ タイトル文字のみがクリック可能 */}
                                 <button
-                                  className={`text-sm leading-snug text-left flex-1 min-w-0 transition-colors ${
+                                  className={`text-base leading-snug text-left flex-1 min-w-0 transition-colors ${
                                     isSelected ? tocText : tocSub
                                   } ${!isSelected ? (d ? 'hover:text-[#ddd0b3]' : 'hover:text-stone-800') : ''} cursor-pointer`}
                                   onClick={() => {
