@@ -1846,7 +1846,9 @@ export default function App() {
                                       fontSize === 'xlarge' ? 'text-xl' :
                                       fontSize === 'large'  ? 'text-lg' :
                                       fontSize === 'medium' ? 'text-base' :
-                                      fontSize === 'small'  ? 'text-sm' : 'text-xs' : 'text-[10px]' :
+                                      fontSize === 'small'  ? 'text-sm' : 
+                                      fontSize === 'xsmall' ? 'text-xs' :
+                                      fontSize === 'xxsmall' ? 'text-[10px]' :
                                     }`}>
                                       {origLines[i] != null && !isBlankOrig
                                         ? (showAnnotations && hasAnnotations
@@ -1862,7 +1864,9 @@ export default function App() {
                                       fontSize === 'xlarge' ? 'text-lg' :
                                       fontSize === 'large'  ? 'text-base' :
                                       fontSize === 'medium' ? 'text-sm' :
-                                      fontSize === 'small'  ? 'text-xs' : 'text-xs' : 'text-[10px]' :
+                                      fontSize === 'small'  ? 'text-sm' : 
+                                      fontSize === 'xsmall' ? 'text-xs' :
+                                      fontSize === 'xxsmall' ? 'text-[10px]' :
                                     }`}>
                                       {transLines[i] ?? ''}
                                     </span>
@@ -1894,7 +1898,9 @@ export default function App() {
                           fontSize === 'xlarge' ? 'text-xl' :
                           fontSize === 'large'  ? 'text-lg' :
                           fontSize === 'medium' ? 'text-base' :
-                          fontSize === 'small'  ? 'text-sm' : 'text-xs' : 'text-[10px]' :
+                          fontSize === 'small'  ? 'text-sm' : 
+                          fontSize === 'xsmall' ? 'text-xs' :
+                          fontSize === 'xxsmall' ? 'text-[10px]' :
                         }`}>
                           {showAnnotations && hasAnnotations
                             ? renderTextWithAnchors(getOriginalText(para), paraAnnotations, para.id)
@@ -1912,7 +1918,9 @@ export default function App() {
                           fontSize === 'xlarge' ? 'text-lg' :
                           fontSize === 'large'  ? 'text-base' :
                           fontSize === 'medium' ? 'text-sm' :
-                          fontSize === 'small'  ? 'text-xs' : 'text-xs' : 'text-[10px]' :
+                          fontSize === 'small'  ? 'text-sm' : 
+                          fontSize === 'xsmall' ? 'text-xs' :
+                          fontSize === 'xxsmall' ? 'text-[10px]' :
                         }`}>
                           {translation}
                         </p>
