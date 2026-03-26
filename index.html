@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0a0a">
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -18,6 +19,28 @@
   }
   ::selection {
     background-color: rgba(197, 160, 89, 0.4);
+  }
+    </style>
+    <style>
+  /* Webkit系（Chrome, Safari, Edge） */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #8a7a5a; /* 金褐色 */
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c5a059; /* ホバーで少し明るく */
+  }
+
+  /* Firefox用 */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #8a7a5a transparent;
   }
     </style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
