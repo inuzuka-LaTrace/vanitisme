@@ -1784,7 +1784,11 @@ export default function App() {
                                           fontSize === 'xxlarge' ? 'text-2xl' :
                                           fontSize === 'xlarge'  ? 'text-xl' :
                                           fontSize === 'large'   ? 'text-lg' :
-                                          fontSize === 'medium'  ? 'text-base' : 'text-sm'
+                                          fontSize === 'medium'  ? 'text-base' : 
+                                          fontSize === 'small'  ? 'text-sm' : 
+                                          fontSize === 'xsmall' ? 'text-xs' :
+                                          fontSize === 'xxsmall' ? 'text-[10px]' :
+                                  　　　'text-base'
                                         }`}>
                                           {showAnnotations && hasAnnotations
                                             ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
@@ -1799,7 +1803,11 @@ export default function App() {
                                           fontSize === 'xxlarge' ? 'text-xl' :
                                           fontSize === 'xlarge'  ? 'text-lg' :
                                           fontSize === 'large'   ? 'text-base' :
-                                          fontSize === 'medium'  ? 'text-sm' : 'text-xs'
+                                          fontSize === 'medium'  ? 'text-sm' : 
+                                        fontSize === 'small'  ? 'text-sm' : 
+                                      fontSize === 'xsmall' ? 'text-xs' :
+                                      fontSize === 'xxsmall' ? 'text-[10px]' :
+                                  　　　'text-base'
                                         }`}>{transLines[i] ?? ''}</span>
                                       </div>
                                     )}
