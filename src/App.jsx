@@ -939,7 +939,7 @@ export default function App() {
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
-  const fontSizeMap = { xxsmall: 'text-xxs', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
+  const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
   // 訳文カラー設定から Tailwind クラスを返すヘルパー
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
@@ -2012,7 +2012,7 @@ export default function App() {
         </>)}
 
         {/* フッター */}
-        <div className={`text-center text-xxs font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
+        <div className={`text-center text-[10px] font-IBM Plex sans JP ${textSecondary} pb-8 space-y-1`}>
           <p>{Object.keys(texts).length}編収録</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
