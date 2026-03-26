@@ -939,7 +939,7 @@ export default function App() {
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
     '"EB Garamond", "Shippori Mincho B1", serif';
 
-  const fontSizeMap = { xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
+  const fontSizeMap = { xxsmall: 'text-xxs', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
   // 訳文カラー設定から Tailwind クラスを返すヘルパー
   // neutral: ダーク zinc-300 / ライト stone-700（白黒）
