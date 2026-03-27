@@ -1259,55 +1259,51 @@ export default function App() {
 
         {/* ─── テキスト未選択時：目次への誘導 ─── */}
         {!selectedText && (
+  <div className={`relative flex flex-col items-center justify-center min-h-[70vh] transition-colors duration-700 ${darkMode ? 'bg-zinc-950' : 'bg-[#f4f1ea]'}`}>
+    {/* 絵画：モードによって合成モードを切り替え */}
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG/800px-Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG"
+      className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${darkMode ? 'opacity-20' : 'opacity-30 mix-blend-multiply'}`}
+      alt=""
+      aria-hidden="true"
+    />
+
+    {/* テキスト前景 */}
+    <div className="relative z-10 flex flex-col items-center justify-center text-center px-6">
+      <p 
+        className={`mb-8 text-xl md:text-2xl font-serif tracking-[0.2em] italic transition-colors duration-500
+          ${darkMode ? 'text-stone-200' : 'text-stone-800'}`}
+        style={{ 
+          textShadow: darkMode 
+            ? '0 0 12px rgba(212, 175, 55, 0.3)' 
+            : '0.5px 0.5px 1px rgba(0, 0, 0, 0.15)' 
+        }}
+      >
+        vanité des vanités
+      </p>
+
+      <button
+        onClick={toggleToc}
+        className={`group relative px-10 py-4 transition-all duration-700 border
+          ${darkMode 
+            ? 'text-[#c5a059] border-[#c5a059]/40 hover:bg-[#c5a059]/5' 
+            : 'text-stone-700 border-stone-400/60 hover:bg-stone-800/5'}`}
+      >
+        <span className="absolute -top-px left-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
+        <span className="absolute -bottom-px right-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
         
-<div className="relative flex flex-col items-center justify-center min-h-[60vh]">
-  {/* 絵画：薄い overlay で暗くしたうえで背景に */}
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG/800px-Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG"
-    className="absolute inset-0 w-full h-full object-cover opacity-20"
-    alt=""
-    aria-hidden="true"
-  />
-  {/* テキストは前景に */}
-  <div className="relative z-10 flex flex-col items-center justify-center text-center px-6">
-  {/* メインフレーズ */}
-  <p 
-    className={`mb-8 text-xl md:text-2xl font-serif tracking-[0.2em] italic transition-colors duration-500
-      ${darkMode ? 'text-stone-200' : 'text-stone-800'}`}
-    style={{ 
-      // ダークモードは黄金の残光、ライトモードは紙への刻印を意識した影
-      textShadow: darkMode 
-        ? '0 0 12px rgba(212, 175, 55, 0.3)' 
-        : '0.5px 0.5px 1px rgba(0, 0, 0, 0.15)' 
-    }}
-  >
-    vanité des vanités
-  </p>
+        <span className="flex items-center gap-3 text-sm tracking-[0.3em] font-serif uppercase">
+          Explore the Anthology
+        </span>
+      </button>
 
-  {/* 目次を開くボタン */}
-  <button
-    onClick={toggleToc}
-    className={`group relative px-10 py-4 transition-all duration-700 border
-      ${darkMode 
-        ? 'text-[#c5a059] border-[#c5a059]/40 hover:bg-[#c5a059]/5' 
-        : 'text-stone-700 border-stone-400/60 hover:bg-stone-800/5'}`}
-  >
-    {/* 装飾ライン（上下） */}
-    <span className="absolute -top-px left-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
-    <span className="absolute -bottom-px right-0 w-0 h-px bg-current transition-all duration-700 group-hover:w-full"></span>
-    
-    <span className="flex items-center gap-3 text-sm tracking-[0.3em] font-serif uppercase">
-      Explore the Anthology
-    </span>
-  </button>
-
-  {/* クレジット */}
-  <p className={`mt-12 text-[9px] tracking-widest font-serif uppercase transition-opacity duration-500
-    ${darkMode ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
-    Adriaen van Utrecht, 1642
-  </p>
-</div>  
-        )}
+      <p className={`mt-12 text-[9px] tracking-widest font-serif uppercase transition-opacity duration-500
+        ${darkMode ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
+        Adriaen van Utrecht, 1642
+      </p>
+    </div>
+  </div>
+)}
 
         {selectedText && (<>
         {/* ─── 現在のテキスト情報 ───────────────────── */}
@@ -2068,7 +2064,6 @@ export default function App() {
           <p>掲載の日本語訳は学習補助の為の試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
-      )}
         {/* フローティングTOPボタン */}
       <button
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
