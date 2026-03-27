@@ -1258,12 +1258,13 @@ export default function App() {
         {showBookmarks && <BookmarkPanel />}
 
         {/* ─── テキスト未選択時：目次への誘導 ─── */}
-        {!selectedText && (
-  <div className={`relative flex flex-col items-center justify-center min-h-[70vh] transition-colors duration-700 ${darkMode ? 'bg-zinc-950' : 'bg-[#f4f1ea]'}`}>
-    {/* 絵画：モードによって合成モードを切り替え */}
+       {!selectedText && (
+  <div className={`relative flex flex-col items-center justify-center min-h-[70vh] transition-colors duration-700 ${darkMode || (typeof d !== 'undefined' && d) ? 'bg-zinc-950' : 'bg-[#f4f1ea]'}`}>
+    
+    {/* 絵画背景 */}
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG/800px-Adriaen_van_Utrecht-_Vanitas_-_Still_Life_with_Bouquet_and_Skull.JPG"
-      className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${darkMode ? 'opacity-20' : 'opacity-30 mix-blend-multiply'}`}
+      className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${(darkMode || (typeof d !== 'undefined' && d)) ? 'opacity-20' : 'opacity-30 mix-blend-multiply'}`}
       alt=""
       aria-hidden="true"
     />
@@ -1272,9 +1273,9 @@ export default function App() {
     <div className="relative z-10 flex flex-col items-center justify-center text-center px-6">
       <p 
         className={`mb-8 text-xl md:text-2xl font-serif tracking-[0.2em] italic transition-colors duration-500
-          ${darkMode ? 'text-stone-200' : 'text-stone-800'}`}
+          ${(darkMode || (typeof d !== 'undefined' && d)) ? 'text-stone-200' : 'text-stone-800'}`}
         style={{ 
-          textShadow: darkMode 
+          textShadow: (darkMode || (typeof d !== 'undefined' && d))
             ? '0 0 12px rgba(212, 175, 55, 0.3)' 
             : '0.5px 0.5px 1px rgba(0, 0, 0, 0.15)' 
         }}
@@ -1282,10 +1283,14 @@ export default function App() {
         vanité des vanités
       </p>
 
+      {/* ボタン：setIsTocOpen(true) に書き換えるとより確実かもしれません */}
       <button
-        onClick={toggleToc}
+        onClick={() => {
+          if (typeof toggleToc === 'function') toggleToc();
+          else if (typeof setIsTocOpen === 'function') setIsTocOpen(true);
+        }}
         className={`group relative px-10 py-4 transition-all duration-700 border
-          ${darkMode 
+          ${(darkMode || (typeof d !== 'undefined' && d))
             ? 'text-[#c5a059] border-[#c5a059]/40 hover:bg-[#c5a059]/5' 
             : 'text-stone-700 border-stone-400/60 hover:bg-stone-800/5'}`}
       >
@@ -1298,7 +1303,7 @@ export default function App() {
       </button>
 
       <p className={`mt-12 text-[9px] tracking-widest font-serif uppercase transition-opacity duration-500
-        ${darkMode ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
+        ${(darkMode || (typeof d !== 'undefined' && d)) ? 'text-stone-500 opacity-40' : 'text-stone-400 opacity-60'}`}>
         Adriaen van Utrecht, 1642
       </p>
     </div>
