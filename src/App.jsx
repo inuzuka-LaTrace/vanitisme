@@ -1259,12 +1259,7 @@ export default function App() {
 
         {/* ─── テキスト未選択時：目次への誘導 ─── */}
         {!selectedText && (
-        <div className="flex flex-col items-center justify-center py-24 gap-5">
-  <p>vanité des vanités</p>
-  ...
-</div>
-
-// 変更後
+        
 <div className="relative flex flex-col items-center justify-center min-h-[60vh]">
   {/* 絵画：薄い overlay で暗くしたうえで背景に */}
   <img
