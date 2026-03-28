@@ -1,0 +1,108 @@
+{
+  "id": "baudelaire_horloge",
+  "title": "L'Horloge",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, LXXXV, Poulet-Malassis et De Broise, Paris, 1861（第2版）. 初出: L'Artiste, 15 octobre 1860. 底本: Wikisource, Les Fleurs du mal (1861)/L'Horloge.",
+  "year": "1861",
+  "firstPublication": "L'Artiste, 15 octobre 1860; 単行本初収: Les Fleurs du Mal, 2e édition, Poulet-Malassis, 1861, LXXXV",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の花』第2版（1861）「スプリーンと理想（Spleen et Idéal）」章の最終詩（LXXXV番）。章の結末として「理想」の失墜後に時間という絶対的支配者が現れる構造。24行・6連のアレクサンドランという形式そのものが時計の文字盤──24時間・各連4行＝15分の刻みを模倣する。詩はホラーゲームのように時計を「sinistre（不吉な）神」として擬人化し、時計の「指（針）」が我々を脅し「Souviens-toi !（覚えておけ！）」と繰り返す。第3連では「秒（Seconde）」が一時間に3600回つぶやき、「現在（Maintenant）」が「過去（Autrefois）」として死に「お前の命を汚い吻で吸い尽くした」と語る。多言語の「Souviens-toi / Remember / Esto memor」が時間の普遍的命令を示す。最終連では時計が直接「Meurs, vieux lâche !（死ね、老いた臆病者！）」と命じる。ゴーティエ詩への言及（「Vulnerant omnes, ultima necat──すべての時は傷つけ、最後の時は殺す」）、「L'Ennemi」「Spleen IV」との時間三部作を形成。",
+  "keywords": [
+    "時計",
+    "時間と死",
+    "Souviens-toi",
+    "Remember Esto memor",
+    "多言語命令",
+    "秒の擬人化",
+    "mortel folâtre",
+    "gangue et or",
+    "Vulnerant omnes ultima necat",
+    "スプリーンと理想の結末"
+  ],
+  "relatedTexts": [
+    "baudelaire_spleen",
+    "baudelaire_heroisme",
+    "baudelaire_une_charogne",
+    "baudelaire_correspondances",
+    "gautier_l_art"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Horloge ! dieu sinistre, effrayant, impassible,\nDont le doigt nous menace et nous dit : « Souviens-toi !\nLes vibrantes Douleurs dans ton cœur plein d'effroi\nSe planteront bientôt comme dans une cible ;",
+      "provisionalTranslation": "時計よ！不吉な神よ、恐ろしく、冷淡な──\nその指が我々を脅して言う：「覚えておけ！\n振動する苦悩が、恐怖に満ちたお前の心に\n的の中のように間もなく突き刺さるだろう。」"
+    },
+    {
+      "id": 2,
+      "french": "Le Plaisir vaporeux fuira vers l'horizon\nAinsi qu'une sylphide au fond de la coulisse ;\nChaque instant te dévore un morceau du délice\nÀ chaque homme accordé pour toute sa saison.",
+      "provisionalTranslation": "霧のような快楽は地平線に向かって逃げ去るだろう\n袖幕の奥に消える空気の精のように。\n各瞬間が、その季節ずっとの間に\n各人に与えられた悦びの一片をお前から食い尽くす。"
+    },
+    {
+      "id": 3,
+      "french": "Trois mille six cents fois par heure, la Seconde\nChuchote : Souviens-toi ! — Rapide, avec sa voix\nD'insecte, Maintenant dit : Je suis Autrefois,\nEt j'ai pompé ta vie avec ma trompe immonde !",
+      "provisionalTranslation": "一時間に三千六百回、秒がつぶやく：\n「覚えておけ！」──速く、虫の声で、\n「現在」は言う：「私は過去だ、\n私の汚い吻でお前の命を吸い尽くした！」"
+    },
+    {
+      "id": 4,
+      "french": "Remember ! Souviens-toi, prodigue ! Esto memor !\n(Mon gosier de métal parle toutes les langues.)\nLes minutes, mortel folâtre, sont des gangues\nQu'il ne faut pas lâcher sans en extraire l'or !",
+      "provisionalTranslation": "覚えておけ！Souviens-toi、放蕩者よ！Esto memor !\n（私の金属の喉はすべての言語を話す。）\n死すべき者よ、戯れ人よ、分刻みは鉱脈だ──\nその中から金を取り出さずに手放してはならない！"
+    },
+    {
+      "id": 5,
+      "french": "Souviens-toi que le Temps est un joueur avide\nQui gagne sans tricher, à tout coup ! c'est la loi.\nLe jour décroît ; la nuit augmente ; souviens-toi !\nLe gouffre a toif toujours ; la clepsydre se vide.",
+      "provisionalTranslation": "覚えておけ、時間とは欲張りな賭博師だと──\n毎回、いかさまなしで勝つ！それが法則だ。\n昼は衰え、夜は増す──覚えておけ！\n深淵はいつも渇いている、水時計は空になっていく。"
+    },
+    {
+      "id": 6,
+      "french": "Tantôt sonnera l'heure où le divin Hasard,\nOù l'auguste Vertu, ton épouse encor vierge,\nOù le Repentir même (oh ! la dernière auberge !),\nOù tout te dira : Meurs, vieux lâche ! il est trop tard !",
+      "provisionalTranslation": "やがて鐘を打つだろう、あの時刻が──神聖な偶然も、\n尊厳ある徳も、お前のまだ処女の花嫁も、\n悔恨でさえも（ああ！最後の宿よ！）、\nすべてがお前に言うだろう：死ね、老いた臆病者よ！もう遅い！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Horloge ! dieu sinistre, effrayant, impassible,",
+      "body": "詩の形式そのものが時計の構造──24行・6連のアレクサンドラン（12音節）は24時間を表し、各4行連は15分の区切りを模倣する。ボードレールが周到に設計した「時計詩」。開幕の呼格「Horloge !」──名詞への直接の呼びかけが擬人化を即座に確立する。「dieu sinistre（不吉な神）」という逆説的神格化：時計は創造でなく消滅の神として君臨する。韻律はABBA（抱擁韻）──「掌の中に閉じ込める」韻の形が時間の罠を体現。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Les vibrantes Douleurs dans ton cœur plein d'effroi\nSe planteront bientôt comme dans une cible",
+      "body": "「的の中のように突き刺さる振動する苦悩」──的（cible）の比喩が苦悩の身体的・物理的な突き刺さりを視覚化する。将来形（planteront）が避けられない未来の脅威として機能──まだ来ていないが確実に来る。「vibrantes Douleurs（振動する苦悩）」の大文字化が苦悩を実体的存在として擬人化する。ボードレール詩全体で苦悩・悪・死は固有名詞的大文字で書かれる傾向がある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le Plaisir vaporeux fuira vers l'horizon\nAinsi qu'une sylphide au fond de la coulisse",
+      "body": "「霧のような快楽……袖幕の奥に消える空気の精」──sylphide（シルフィード）はケルト・ゲルマン神話の空気の精霊で、バレエの舞台でも定番の存在。「fond de la coulisse（袖幕の奥）」という舞台裏への消滅は、快楽の非実在性・束の間性を劇場的に表現する。「vaporeux（霧のような）」はヴェルレーヌ「Spleen」の「trop tendre（あまりにも柔らかい）」と同じ感覚的過剰のカテゴリーに属する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Trois mille six cents fois par heure, la Seconde\nChuchote : Souviens-toi !",
+      "body": "「一時間に3600回、秒がつぶやく」──数学的精密さ（3600秒/時間）が詩の中に挿入される。秒の擬人化：「Chuchote（ささやく）」という静かな動詞が時間の恐怖を声の次元に移す。続く「Maintenant dit : Je suis Autrefois（現在は言う：私は過去だ）」──現在時制が語るやいなや過去になるという時間の自己消滅の逆説。「trompe immonde（汚い吻）」──象の鼻・昆虫の口吻の両義。時間が吸血鬼として命を吸い尽くすイメージは「L'Ennemi」「Spleen IV」と連続する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Remember ! Souviens-toi, prodigue ! Esto memor !",
+      "body": "英語・フランス語・ラテン語の三言語による「覚えておけ」の命令──「Mon gosier de métal parle toutes les langues（私の金属の喉はすべての言語を話す）」の括弧付き説明が多言語性を自己解説する。時間の命令が英語（Remember）・フ�語（Souviens-toi）・ラテン語（Esto memor）を横断することで、時間の普遍的・超歴史的支配を示す。「gangues（鉱脈の脈石）」──金を含む岩石から有用物を取り出すという錬金術的比喩。ボードレールにとって詩作とは時間の鉱脈から美という金を抽出する行為──「泥から金を作る（j'ai fait de l'or）」という詩学と対応。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "allusion",
+      "anchor": "Souviens-toi que le Temps est un joueur avide\nQui gagne sans tricher, à tout coup !",
+      "body": "「時間は欲張りな賭博師、毎回いかさまなしで勝つ」──ボードレールが『ロマン主義芸術』でゴーティエ詩「スペイン」の時計の碑銘に言及している：「Vulnerant omnes, ultima necat（すべての時は傷つけ、最後の時は殺す）」。この格言がこの詩の哲学的底流をなす。賭博のイメージはボードレール詩集の「パリの情景」章「賭博（Le Jeu）」とも連続。「clepsydre（水時計）」──古代ギリシャの水時計。砂時計でなく水時計を選ぶことで「流れ去る水＝時間」の古典的イメージを喚起。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Où tout te dira : Meurs, vieux lâche ! il est trop tard !",
+      "body": "詩の最終行──時計が直接「Meurs, vieux lâche !（死ね、老いた臆病者！）」と命じる。高踏的・悲劇的な詩調から突然の口語的罵倒への転落（vieux lâche）が詩の最大の衝撃。「il est trop tard !（もう遅い！）」──ダウスン詩の「too late（遅すぎる）」と同一の時間的絶望が、ここでは時計自身の口から発せられる。「l'auguste Vertu, ton épouse encor vierge（尊厳ある徳、お前のまだ処女の花嫁）」──徳を未婚の花嫁として描く比喩が道徳的純粋さの未達成を婚姻イメージで表現。詩全体を貫いた「Souviens-toi !」の命令が最終行では「Meurs !」へと極限に達する。"
+    }
+  ]
+}
