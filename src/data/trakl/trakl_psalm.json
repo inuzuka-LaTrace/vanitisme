@@ -1,0 +1,115 @@
+{
+  "id": "trakl_psalm",
+  "title": "Psalm",
+  "author": "Georg Trakl",
+  "source": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913, S.47–48. 底本: Wikisource, Psalm (Trakl, Gedichte 1913)（oldid=2555709）.",
+  "year": "1913",
+  "firstPublication": "Gedichte, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "トラークルの第1詩集『詩集（Gedichte）』（1913）所収。カール・クラウス（Karl Kraus、風刺雑誌『ファッケル』主宰）に献呈。「詩篇（Psalm）」という聖書的タイトルと全く異質な内容──祈りでも讃美でもなく、滅びゆく像の断片的な列挙──が詩の最大の逆説をなす。\n\n4節（＊＊＊で区切られる）に歌番号なし、各節が「Es ist（それは〜だ）」「Man（人々は）」「Die（〜たちは）」という三人称の冷然とした叙述で進む。第1節：消えた光・棄てられた荒野の居酒屋・焼けた葡萄園・ミルクで塗られた部屋──から「失われた楽園（unser verlorenes Paradies）」の嘆きへ。第2節：黄金の森を去った水の精・異邦人の埋葬・貧しい少女たち・病院の回復者・血の疫病を運ぶ蒸気船。第3節：悪夢の中の「見知らぬ姉妹（fremde Schwester）」・二重身（Doppelgänger）の学生・盲目の少女──の失踪と彷徨。第4節：黒い運河を流れる空舟・廃墟となった人間・泥で汚れた翼の天使・蛇と遊ぶ白い魔術師。終行：「髑髏の地（Schädelstätte）の上で、神の黄金の眼が静かに開く」。\n\nトラークル詩の「Verfallspoetik（頽廃の詩学）」──腐敗・廃墟・子供・姉妹・天使という反復するイメージ群が、この詩で最も集中的に現れる。",
+  "keywords": [
+    "Psalm",
+    "Es ist-構文",
+    "verlorenes Paradies",
+    "fremde Schwester",
+    "Doppelgänger",
+    "泥の翼の天使",
+    "Schädelstätte",
+    "黒い運河",
+    "カール・クラウス",
+    "Verfallspoetik"
+  ],
+  "relatedTexts": [
+    "trakl_de_profundis",
+    "trakl_helian",
+    "trakl_abendlaendisches_lied",
+    "trakl_grodek",
+    "trakl_sebastian_im_traum",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1-9",
+      "original": "Es ist ein Licht, das der Wind ausgelöscht hat.\nEs ist ein Heidekrug, den am Nachmittag ein Betrunkener verläßt.\nEs ist ein Weinberg, verbrannt und schwarz mit Löchern voll Spinnen.\nEs ist ein Raum, den sie mit Milch getüncht haben.\nDer Wahnsinnige ist gestorben. Es ist eine Insel der Südsee,\nDen Sonnengott zu empfangen. Man rührt die Trommeln.\nDie Männer führen kriegerische Tänze auf.\nDie Frauen wiegen die Hüften in Schlinggewächsen und Feuerblumen,\nWenn das Meer singt. O unser verlorenes Paradies.",
+      "provisionalTranslation": "それは一つの光、風が消してしまった光だ。\nそれは荒野の居酒屋、午後に酔っぱらいが立ち去る場所だ。\nそれは葡萄畑、焼けて黒く、蜘蛛だらけの穴が開いている。\nそれは一つの部屋、彼らがミルクで白く塗った部屋だ。\n狂人は死んだ。それは南海の島、\n太陽神を迎えるための島だ。人々は太鼓を叩く。\n男たちは戦いの踊りを踊る。\n女たちはつる草と火の花の中で腰を揺らす、\n海が歌う時に。ああ、われらの失われた楽園よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.10-17",
+      "original": "Die Nymphen haben die goldenen Wälder verlassen.\nMan begräbt den Fremden. Dann hebt ein Flimmerregen an.\nDer Sohn des Pan erscheint in Gestalt eines Erdarbeiters,\nDer den Mittag am glühenden Asphalt verschläft.\nEs sind kleine Mädchen in einem Hof in Kleidchen voll herzzerreißender Armut!\nEs sind Zimmer, erfüllt von Akkorden und Sonaten.\nEs sind Schatten, die sich vor einem erblindeten Spiegel umarmen.\nAn den Fenstern des Spitals wärmen sich Genesende.\nEin weißer Dampfer am Kanal trägt blutige Seuchen herauf.",
+      "provisionalTranslation": "水の精たちは黄金の森を去ってしまった。\n人々は異邦人を埋葬する。それからちらちらと雨が降り始める。\nパンの息子が現れる、土工の姿で、\n灼熱のアスファルトの上で正午を寝過ごしている土工の姿で。\n中庭に小さな女の子たちがいる、胸の張り裂けるほどの貧しさのワンピースを着た！\n和音とソナタに満たされた部屋がある。\n曇った鏡の前で抱き合っている影たちがある。\n病院の窓辺で、回復者たちが暖をとっている。\n運河の白い蒸気船が血なまぐさい疫病を運んでくる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.18-26",
+      "original": "Die fremde Schwester erscheint wieder in jemands bösen Träumen.\nRuhend im Haselgebüsch spielt sie mit seinen Sternen.\nDer Student, vielleicht ein Doppelgänger, schaut ihr lange vom Fenster nach.\nHinter ihm steht sein toter Bruder, oder er geht die alte Wendeltreppe herab.\nIm Dunkel brauner Kastanien verblaßt die Gestalt des jungen Novizen.\nDer Garten ist im Abend. Im Kreuzgang flattern die Fledermäuse umher.\nDie Kinder des Hausmeisters hören zu spielen auf und suchen das Gold des Himmels.\nEndakkorde eines Quartetts. Die kleine Blinde läuft zitternd durch die Allee,\nUnd später tastet ihr Schatten an kalten Mauern hin, umgeben von Märchen und heiligen Legenden.",
+      "provisionalTranslation": "見知らぬ姉妹が再び誰かの悪夢の中に現れる。\n榛の木の茂みで休みながら、彼女はその星たちと遊んでいる。\n学生が──おそらくは二重身──窓から長い間彼女の後ろ姿を見つめる。\n彼の背後に彼の死んだ兄弟が立っている、あるいは彼は古い螺旋階段を降りていく。\n茶色の栗の木の暗がりの中で、若い修練士の姿が薄れていく。\n庭は夕暮れの中にある。回廊をコウモリたちが飛び回っている。\n管理人の子どもたちは遊ぶのをやめて、天の黄金を探している。\n四重奏の終止和音。小さな盲目の少女が震えながら並木道を走る、\nそして後に彼女の影が冷たい壁を伝って手探りで進む、おとぎ話と聖なる伝説に包まれながら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.27-35",
+      "original": "Es ist ein leeres Boot, das am Abend den schwarzen Kanal heruntertreibt.\nIn der Düsternis des alten Asyls verfallen menschliche Ruinen.\nDie toten Waisen liegen an der Gartenmauer.\nAus grauen Zimmern treten Engel mit kotgefleckten Flügeln.\nWürmer tropfen von ihren vergilbten Lidern.\nDer Platz vor der Kirche ist finster und schweigsam, wie in den Tagen der Kindheit.\nAuf silbernen Sohlen gleiten frühere Leben vorbei\nUnd die Schatten der Verdammten steigen zu den seufzenden Wassern nieder.\nIn seinem Grab spielt der weiße Magier mit seinen Schlangen.",
+      "provisionalTranslation": "それは空の小舟、夕べに黒い運河を流れ下ってくる。\n古い収容所の薄暗がりの中で、人間の廃墟が崩れ落ちていく。\n死んだ孤児たちが庭の壁のそばに横たわっている。\n灰色の部屋から、泥で汚れた翼を持つ天使たちが出てくる。\n虫が彼らの黄ばんだまぶたから滴り落ちる。\n教会前の広場は暗く、静かだ、子ども時代の日々のように。\n銀の靴底をはいて、かつての命たちが滑るように過ぎ去っていく、\nそして呪われた者たちの影が、嘆く水の流れへと降りていく。\n墓の中で、白い魔術師は蛇たちと遊んでいる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.36",
+      "original": "Schweigsam über der Schädelstätte öffnen sich Gottes goldene Augen.",
+      "provisionalTranslation": "静かに、髑髏の地の上で、神の黄金の眼が開く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Es ist ein Licht, das der Wind ausgelöscht hat.\nEs ist ein Heidekrug, den am Nachmittag ein Betrunkener verläßt.\nEs ist ein Weinberg, verbrannt und schwarz mit Löchern voll Spinnen.\nEs ist ein Raum, den sie mit Milch getüncht haben.",
+      "body": "「Es ist（それは〜だ）」の4連反復──詩の最大の統辞的特徴。主語「es（それ）」の指示対象は不明確なまま、属詞のみが変わる。「詩篇（Psalm）」という聖書的タイトルとの逆説：旧約詩篇は「主よ、あなたは……」という二人称の呼びかけで始まるが、トラークルの詩篇は誰にも呼びかけず、誰も指示しない「それは」の連続で始まる。光・居酒屋・葡萄畑・部屋という4つの像は前後の論理的連関を持たない──超現実主義的断片の連鎖としてのイメージ列挙（Reihungsstil）がトラークル詩の最大の様式的特徴。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "O unser verlorenes Paradies.",
+      "body": "第1節唯一の感嘆句──「ああ、われらの失われた楽園よ（O unser verlorenes Paradies）」。南海の島・太鼓・踊り・海の歌という異教的・原始的な楽園像の後に突然発される嘆きが、詩全体の隠れた主題を明示する。ミルトン『失楽園』の「失われた楽園」のドイツ語受容（Klopstock等）と、ロマン派的な「原初の純粋さへの回帰不能」の感覚が重なる。トラークル詩における「楽園」は常に失われたものとして、「秋」「夕暮れ」「子ども時代」と等値される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Es sind kleine Mädchen in einem Hof in Kleidchen voll herzzerreißender Armut!",
+      "body": "「胸の張り裂けるほどの貧しさ（herzzerreißender Armut）」──詩の中で最も感情的に直接的な一行。合成語「herzzerreißend（心を引き裂く）」という強い形容詞が詩的冷静さを一時的に破る。感嘆符「!」は詩全体でここにしか現れない──貧しい少女たちへの視線が詩人の仮面を外す瞬間。「Es sind（それらは〜だ）」形式の繰り返しの中で、この行だけが観察者の感情を滲ませる。社会的弱者（孤児・盲目・回復者）への眼差しがトラークル詩を単なる耽美主義から区別する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Die fremde Schwester erscheint wieder in jemands bösen Träumen.\nRuhend im Haselgebüsch spielt sie mit seinen Sternen.",
+      "body": "「見知らぬ姉妹（die fremde Schwester）」──トラークル詩全体を貫く最重要人物。実際の姉妹グレーテ・トラークル（後にピアニスト）への近親愛的感情が詩的に昇華されたとも言われるが、この人物は常に「fremde（見知らぬ・よそよそしい）」という矛盾した形容詞を持つ──最も身近な者が最も遠い存在として現れる。「bösen Träumen（悪夢）」の中での登場、「seinen Sternen（その星たち）」との遊びは、夢・星・遊びという純粋さの記号を不吉な文脈の中に置く。「Helian」「Sebastian im Traum」でも反復される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Der Student, vielleicht ein Doppelgänger, schaut ihr lange vom Fenster nach.\nHinter ihm steht sein toter Bruder, oder er geht die alte Wendeltreppe herab.",
+      "body": "「vielleicht（おそらく）」「oder（あるいは）」──断定を避ける挿入語が主体の不確かさを演出する。学生＝二重身（Doppelgänger）という可能性、背後の死んだ兄弟という二重の幽霊化。「Doppelgänger」はホフマン・ハイネ・シューベルト（「冬の旅」）を経由したロマン派的自己分裂の象徴。トラークルが当時抱えていた自己同一性の危機──薬物依存・近親愛の禁忌意識──が詩的に投影されているとも読める。「alte Wendeltreppe（古い螺旋階段）」は昇降でなく螺旋的循環として時間を空間化する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Aus grauen Zimmern treten Engel mit kotgefleckten Flügeln.\nWürmer tropfen von ihren vergilbten Lidern.",
+      "body": "「泥で汚れた翼を持つ天使（Engel mit kotgefleckten Flügeln）」──トラークル詩の最も衝撃的な像のひとつ。キリスト教的天使像の根本的な汚染──白く清純であるべき翼が「Kot（糞・泥）」で汚れ、まぶたから虫が滴る。腐敗と神聖の共存はボードレール「Danse macabre」の骸骨コケットと同型の逆説だが、トラークルの場合はより根底的な神学的絶望を示す──救済をもたらすべき存在自体が腐敗している。「vergilbten Lidern（黄ばんだまぶた）」の黄色は腐敗と病を示すトラークルの色彩語彙の一部。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Auf silbernen Sohlen gleiten frühere Leben vorbei\nUnd die Schatten der Verdammten steigen zu den seufzenden Wassern nieder.",
+      "body": "「銀の靴底をはいて、かつての命たちが滑るように過ぎ去る」──「silbernen Sohlen（銀の靴底）」は死者の幽霊的な移動を音なき滑走として表現する。「Verdammten（呪われた者たち）」の影が「seufzenden Wassern（嘆く水）」へ降りる──ダンテ「地獄篇」の亡者たちのアケロン川への降下との照応。「frühere Leben（かつての命）」という複数形が個別の死者でなく、既に過ぎ去った生の堆積として歴史的時間を示す。ヘルダーリン「パンと葡萄酒」の神々の去った後の世界との連続性。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Schweigsam über der Schädelstätte öffnen sich Gottes goldene Augen.",
+      "body": "詩全体の唯一の終止符──単独の1行が詩を閉じる。「Schädelstätte（髑髏の地）」はゴルゴタ（キリストの磔刑の場）のドイツ語訳──詩の最後にキリスト教的地名が初めて明示される。「Gottes goldene Augen（神の黄金の眼）」──「黄金（golden/goldene）」はトラークルの最も重要な色彩語で、失われた純粋さ・超越・秋の光を象徴する。この眼は怒りでも救済でもなく「schweigsam（静かに）」開く──神は沈黙したまま見守るだけ。腐敗・廃墟・泥の天使・死の蔓延を経た後に来る神の眼差しが、「判決」でも「救済」でもなく「開く」という動詞のみで閉じられる。詩全体の「失われた楽園」への嘆きが、この1行で応答なしに終わる。"
+    }
+  ]
+}
