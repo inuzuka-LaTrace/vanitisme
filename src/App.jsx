@@ -1047,6 +1047,33 @@ export default function App() {
         </div>
 
         <div className="p-5 space-y-6 flex-1">
+          {/* 追加：外観（ダークモード切替） */}
+  <div>
+    <label className={`text-xs font-semibold uppercase tracking-wider font-IBM Plex sans JP ${textSecondary} block mb-2.5`}>外観</label>
+    <div 
+      onClick={() => setDarkMode(!darkMode)}
+      className={`flex items-center justify-between px-4 py-3 cursor-pointer rounded-xl border transition-all font-IBM Plex sans JP
+        ${darkMode 
+          ? 'bg-zinc-800 border-zinc-700 hover:bg-zinc-750' 
+          : 'bg-stone-100 border-stone-200 hover:bg-stone-200'}`}
+    >
+      <div className="flex items-center gap-3">
+        {darkMode ? (
+          <Sparkles size={16} className="text-amber-400" strokeWidth={1.6} />
+        ) : (
+          <Moon size={16} className="text-stone-500" strokeWidth={1.6} />
+        )}
+        <span className={`text-sm ${textClass}`}>{darkMode ? 'ダークモード' : 'ライトモード'}</span>
+      </div>
+      
+      {/* トグルスイッチ（既存のデザインに準拠） */}
+      <div className={`relative w-10 h-5 rounded-full transition-colors
+        ${darkMode ? 'bg-amber-600' : 'bg-stone-300'}`}>
+        <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform
+          ${darkMode ? 'translate-x-5' : 'translate-x-0.5'}`} />
+      </div>
+    </div>
+  </div>
           {/* フォントサイズ：ステッパー */}
           {(() => {
             const sizeSteps = ['xxsmall','xsmall','small','medium','large','xlarge','xxlarge'];
@@ -1182,68 +1209,61 @@ export default function App() {
       ? 'bg-zinc-950/95 border-zinc-800 before:bg-zinc-950' 
       : 'bg-stone-50/95 border-stone-200 before:bg-stone-50'}`}
 >
-  <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
-    <div className="flex-1 min-w-0 flex items-center gap-2">
-      <div className="flex-1 min-w-0">
-        <h1
-          style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.04em' }}
-                className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
-                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                title="最上部へ戻る"
-              >
-                VANITISME
-              </h1>
-            {currentText && (
-              <p className={`text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
-                <span className="opacity-60">{currentText.author}</span>
-                <span className="opacity-40 mx-1">›</span>
-                <span>{currentText.title}</span>
-              </p>
-            )}
-            </div>
-          </div>
-          <button
-            onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
-            title="目次"
-            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
-              showToc
-                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
-            }`}
-          >
-            <List size={15} strokeWidth={1.6} />
-          </button>
+<div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+  {/* 左側：タイトルエリア。flex-1 min-w-0 により、ボタン以外の全幅を作品名に割り当てます */}
+  <div className="flex-1 min-w-0">
+    <h1
+      style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.04em' }}
+      className={`text-base font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
+      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+    >
+      VANITISME
+    </h1>
+    {currentText && (
+      <p className={`text-[10px] sm:text-xs font-IBM Plex sans JP truncate mt-0.5 ${textSecondary}`}>
+        <span className="opacity-60">{currentText.author}</span>
+        <span className="opacity-40 mx-1">›</span>
+        <span>{currentText.title}</span>
+      </p>
+    )}
+  </div>
 
-          <button
-            onClick={() => setShowBookmarks(v => !v)}
-            title="ブックマーク一覧"
-            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
-              showBookmarks
-                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
-            }`}
-          >
-            <Bookmark size={15} strokeWidth={1.6} />
-          </button>
+  {/* 右側：ボタン群。3つに絞ることでタイトルエリアの「領土」を物理的に広げます */}
+  <div className="flex items-center gap-2 flex-shrink-0">
+    <button
+      onClick={() => { setShowToc(v => !v); setShowBookmarks(false); }}
+      className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
+        showToc
+          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+          : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+      }`}
+    >
+      <List size={15} strokeWidth={1.6} />
+    </button>
 
-          <button
-            onClick={() => setDarkMode(!darkMode)}
-            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
-            title="ダーク/ライト切替"
-          >
-            {darkMode ? <Sparkles size={15} strokeWidth={1.6} /> : <Moon size={15} strokeWidth={1.6} />}
-          </button>
-          <button
-            onClick={() => setShowSettings(v => !v)}
-            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
-              showSettings
-                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
-            title="表示設定"
-          >
-            <Settings size={15} strokeWidth={1.6} />
-          </button>
-        </div>
+    <button
+      onClick={() => { setShowBookmarks(v => !v); setShowToc(false); }}
+      className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
+        showBookmarks
+          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+          : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+      }`}
+    >
+      <Bookmark size={15} strokeWidth={1.6} />
+    </button>
+
+    <button
+      onClick={() => setShowSettings(v => !v)}
+      className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
+        showSettings
+          ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+          : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+      }`}
+    >
+      <Settings size={15} strokeWidth={1.6} />
+    </button>
+  </div>
+</div>
       </header>
 
       <div className="max-w-6xl mx-auto px-4 py-6">
@@ -1287,7 +1307,7 @@ export default function App() {
     <div className="relative z-10 flex flex-col items-center justify-center gap-5 text-center">
       <p className={`text-xs tracking-[0.25em] uppercase font-sans ${
         darkMode ? 'text-[#3a3228]' : 'text-stone-300'
-      }`}>vanité des vanités</p>
+  }`}>vanité des vanités</p>
       
       <p className={`font-serif text-base text-center leading-relaxed ${
         darkMode ? 'text-[#6a5840]' : 'text-stone-400'
@@ -1308,13 +1328,13 @@ export default function App() {
         目次を開く
       </button>
     <div 
-  className={`mt-40 text-[9px] opacity-45 ${ // 25 -> 35
-darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
+  className={`mt-45 text-[9px] opacity-48 ${ // 25 -> 35
+    darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
 >
   Adriaen van Utrecht, "Stilleven met boeket en schedel", 1642
-</div>
+    </div>
     </div>
   </div>
 )}
