@@ -881,34 +881,73 @@ export default function App() {
   };
 
 
-  if (loading) {
+ if (loading) {
   return (
-    <div className="min-h-screen bg-black overflow-hidden flex items-center justify-center relative font-">
-      {/* 1. 星群のような配置 (マラルメ的要素) */}
-      <div className="w-full max-w-4xl h-[60vh] relative">
+    <div className={`min-h-screen overflow-hidden flex items-center justify-center relative transition-colors duration-700 ${
+      darkMode ? 'bg-zinc-950' : 'bg-stone-100'
+    }`}>
+      {/* 1. 背景：モローの『ユピテルとセメレ』 */}
+      <div className="absolute inset-0 z-0 overflow-hidden">
+        <img
+          src="/images/moreau_jupiter.jpg"
+          className="w-full h-full object-cover object-center opacity-15 grayscale contrast-125"
+          alt="" 
+          aria-hidden="true" 
+        />
         
-        {/* 段差とサイズ違いのテキストを「パッ」と出すアニメーション */}
-        <span className="absolute top-[10%] left-[5%] text-white text-3xl font-black tracking-tighter animate-[flash_2s_infinite]">
-          UN COUP DE DÉS
-        </span>
-
-        <span className="absolute top-[40%] right-[10%] text-white text-5xl font-bold italic animate-[flash_2s_infinite_0.5s] opacity-0">
-          JAMAIS
-        </span>
-
-        <span className="absolute bottom-[20%] left-[20%] text-red-600 text-6xl font-black animate-[flash_1.5s_infinite_1s] opacity-0">
-          N'ABOLIRA
-        </span>
-
-        <span className="absolute top-[60%] left-[40%] text-white text-4xl font-light tracking-[1em] animate-[flash_3s_infinite_1.5s] opacity-0">
-          LE HASARD
-        </span>
+        {/* ダークモード/ライトモードに応じたオーバーレイとビネット */}
+        <div className={`absolute inset-0 ${
+          darkMode 
+            ? 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.85)_100%)]' 
+            : 'bg-[radial-gradient(circle_at_center,transparent_0%,rgba(245,245,244,0.7)_100%)]'
+        }`} />
       </div>
 
-      {/* 2. ゴダール風の垂直線または分割線 */}
-      <div className="absolute inset-0 flex justify-between px-20 opacity-20 pointer-events-none">
-        <div className="w-[1px] h-full bg-white"></div>
-        <div className="w-[1px] h-full bg-red-600"></div>
+      {/* 2. マラルメ的要素の再構築：言葉が深淵から浮かび上がる */}
+      <div className="relative z-10 w-full max-w-4xl h-[60vh] flex flex-col items-center justify-center">
+        <div className="relative w-full h-full">
+          <span className={`absolute top-[15%] left-[10%] text-xl tracking-[0.3em] font-serif italic transition-colors duration-1000 animate-pulse ${
+            darkMode ? 'text-amber-200/40' : 'text-stone-800/40'
+          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+            UN COUP DE DÉS
+          </span>
+
+          <span className={`absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest transition-colors duration-1000 animate-[pulse_3s_infinite_1s] opacity-0 ${
+            darkMode ? 'text-stone-100/60' : 'text-stone-900/60'
+          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+            JAMAIS
+          </span>
+
+          {/* 中央：アプリタイトル。ここが視線の終着点 */}
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-6">
+            <h1
+              style={{ fontFamily: "Cinzel, serif", letterSpacing: '0.2em' }}
+              className={`text-2xl font-bold transition-colors duration-1000 ${
+                darkMode ? 'text-amber-200' : 'text-stone-900'
+              }`}
+            >
+              VANITISME
+            </h1>
+            {/* プログレスバー：細く、長く */}
+            <div className={`w-32 h-[1px] relative overflow-hidden ${
+              darkMode ? 'bg-zinc-800' : 'bg-stone-200'
+            }`}>
+              <div className={`absolute inset-0 bg-amber-700/60 animate-progress`} />
+            </div>
+          </div>
+
+          <span className={`absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] transition-colors duration-1000 animate-[pulse_4s_infinite_2s] opacity-0 ${
+            darkMode ? 'text-stone-400/30' : 'text-stone-500/30'
+          }`} style={{ fontFamily: 'Cinzel, serif' }}>
+            LE HASARD
+          </span>
+        </div>
+      </div>
+
+      {/* 3. 垂直線の継承：ゴダール風から「額装」の意匠へ */}
+      <div className={`absolute inset-0 flex justify-between px-10 md:px-20 opacity-10 pointer-events-none`}>
+        <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
+        <div className={`w-[1px] h-full ${darkMode ? 'bg-zinc-700' : 'bg-stone-300'}`}></div>
       </div>
     </div>
   );
