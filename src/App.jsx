@@ -1059,9 +1059,9 @@ export default function App() {
     >
       <div className="flex items-center gap-3">
         {darkMode ? (
-          <Sparkles size={16} className="text-amber-400" strokeWidth={1.6} />
+          <Moon size={16} className="text-amber-400" strokeWidth={1.6} />
         ) : (
-          <Moon size={16} className="text-stone-500" strokeWidth={1.6} />
+          <Sun size={16} className="text-stone-500" strokeWidth={1.6} />
         )}
         <span className={`text-sm ${textClass}`}>{darkMode ? 'ダークモード' : 'ライトモード'}</span>
       </div>
@@ -1328,7 +1328,7 @@ export default function App() {
         目次を開く
       </button>
     <div 
-  className={`mt-45 text-[9px] opacity-48 ${ // 25 -> 35
+  className={`mt-40 text-[9px] opacity-48 ${ // 25 -> 35
     darkMode ? 'text-[#8a7a5a]' : 'text-stone-500' // 金褐色 #8a7a5a を指定
   }`}
   style={{ fontFamily: 'Cinzel, serif', letterSpacing: '0.05em' }}
