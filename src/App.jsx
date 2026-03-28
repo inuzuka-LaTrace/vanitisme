@@ -934,12 +934,12 @@ export default function App() {
   const settingsBg      = darkMode ? 'bg-[#17140e] border-[#3a3228] shadow-2xl'  : 'bg-white border-stone-200 shadow-2xl';
 
   const fontFamilyStyle =
-    fontFamily === 'garamond'     ? '"EB Garamond", "Shippori Mincho B1", serif' :
-    fontFamily === 'alice'        ? '"Alice", "Shippori Mincho B1", serif' :
+    fontFamily === 'garamond'     ? '"EB Garamond", "pori Mincho B1", serif' :
+    fontFamily === 'alice'        ? '"Alice", "pori Mincho B1", serif' :
     fontFamily === 'ubuntu'       ? '"Ubuntu", "IBM Plex sans JP", sans-serif' :
     fontFamily === 'poiret'       ? '"Poiret One", "IBM Plex sans JP", sans-serif' :
     fontFamily === 'jura'         ? '"Jura", "IBM Plex sans JP", sans-serif' :
-    '"EB Garamond", "Shippori Mincho B1", serif';
+    '"EB Garamond", "pori Mincho B1", serif';
 
   const fontSizeMap = { xxsmall: 'text-[10px]', xsmall: 'text-xs', small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl', xxlarge: 'text-2xl' };
 
@@ -2249,7 +2249,7 @@ const TocDrawer = ({
                 value={tocSearch}
                 onChange={e => setTocSearch(e.target.value)}
                 placeholder="作家・題名・年・本文…"
-                className={`flex-1 bg-transparent text-sm font-sans outline-none ${tocSub}`}
+                className={`flex-1 bg-transparent text-sm font-Shippori Mincho B1 outline-none ${tocSub}`}
                 style={{ caretColor: d ? '#ddd0b3' : '#1c1917' }}
               />
               {tocSearch && (
@@ -2309,7 +2309,7 @@ const TocDrawer = ({
                       </span>
                       <span className="flex items-center gap-1 ml-2 shrink-0">
                         <span className={`font-sans text-[10px] ${tocDim} opacity-60`}>{authorTexts.length}</span>
-                        <span className={tocDim} style={{ fontSize: '9px' }}>{isOpen ? '▾' : '▸'}</span>
+                        <span className={tocDim} style={{ fontSize: '10px' }}>{isOpen ? '▾' : '▸'}</span>
                       </span>
                     </button>
 
@@ -2343,7 +2343,7 @@ const TocDrawer = ({
                                 >
                                   {t.title}
                                 </button>
-                                <span className={`text-[10px] font-sans shrink-0 ${tocDim}`}>
+                                <span className={`text-[10px] font-Alice shrink-0 ${tocDim}`}>
                                   {t.year}
                                 </span>
                               </div>
