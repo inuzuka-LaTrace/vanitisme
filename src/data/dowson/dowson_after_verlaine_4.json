@@ -1,0 +1,82 @@
+{
+  "id": "dowson_after_verlaine_4",
+  "title": "After Paul Verlaine — IV",
+  "author": "Ernest Dowson",
+  "source": "Verses, Leonard Smithers, London, 1896. テキスト底本: 所蔵本画像（upload.wikimedia.org）, p.139. 原詩照合: Paul Verlaine, «Le ciel est, par-dessus le toit...», Sagesse III, vi, 1881.",
+  "year": "1896",
+  "firstPublication": "Verses, Leonard Smithers, London, 1896",
+  "difficulty": "初級",
+  "category": "dowson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ダウスンの「ヴェルレーヌ以後（After Paul Verlaine）」シリーズ第4番。ヴェルレーヌ『叡智（Sagesse）』（1881）III-vi「Le ciel est, par-dessus le toit...」の英語翻案。原詩の4連（各4行、octosyllabe＋tétrasyllabe）をダウスンは同じ4連形式で移植──長行と短行の交互リズムを英語のiambic tetrameter＋dimeter相当で再現する。最も注目すべき翻案上の選択：原詩第3連「Mon Dieu, mon Dieu」を「Dear God !」と訳し宗教的強度を保ちながら英語の感嘆句に転換。最終連「What hast thou done... Where hast thou laid... / Thy youth away?」は原詩「Qu'as-tu fait... de ta jeunesse ?」の分割──一問を二問に展開することで自己断罪の問いを増幅させる。ダウスンは1896年当時すでに肺結核を患い、アデレードへの叶わぬ恋と詩作への倦怠を抱えていた──この翻案に自己の状況を重ねた可能性が高い。",
+  "keywords": [
+    "After Paul Verlaine IV",
+    "Le ciel est par-dessus le toit",
+    "Sagesse",
+    "獄中詩の翻案",
+    "Dear God",
+    "Thy youth away",
+    "青春の浪費",
+    "自己断罪",
+    "ヴェルレーヌ翻案",
+    "Verses 1896"
+  ],
+  "relatedTexts": [
+    "verlaine_le_ciel",
+    "dowson_after_verlaine_2",
+    "dowson_after_verlaine_3",
+    "dowson_after_verlaine_1",
+    "dowson_vanitas"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "original": "The sky is up above the roof\n      So blue, so soft!\nA tree there, up above the roof,\n      Swayeth aloft.",
+      "provisionalTranslation": "空は屋根の上に、\n　　これほど青く、これほど柔らかく！\n木が一本、屋根の上に、\n　　高く揺れている。"
+    },
+    {
+      "id": 2,
+      "original": "A bell within that sky we see,\n      Chimes low and faint:\nA bird upon that tree we see,\n      Maketh complaint.",
+      "provisionalTranslation": "鐘がその空の中に見える、\n　　低く、かすかに鳴り響く。\n鳥が一羽、その木の上に見える、\n　　嘆きを発している。"
+    },
+    {
+      "id": 3,
+      "original": "Dear God! is not the life up there,\n      Simple and sweet?\nHow peacefully are borne up there\n      Sounds of the street!",
+      "provisionalTranslation": "神よ！そこにある命は\n　　単純で甘くはないか？\nなんと穏やかに運ばれてくることか、そこに、\n　　街の音が！"
+    },
+    {
+      "id": 4,
+      "original": "What hast thou done, who comest here,\n      To weep alway?\nWhere hast thou laid, who comest here,\n      Thy youth away?",
+      "provisionalTranslation": "お前はここへ来て、いったい何をしたのか、\n　　いつも泣くために？\nお前はどこへ置いてきたのか、ここへ来て、\n　　自分の青春を？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "The sky is up above the roof\n      So blue, so soft!",
+      "body": "原詩「Le ciel est, par-dessus le toit, / Si bleu, si calme !（空は屋根の上に、これほど青く、これほど静かに！）」の翻案。ダウスンは「calme（静か・穏やか）」を「soft（柔らかい）」に変換──視覚的静寂から触覚的柔らかさへの感覚的シフト。「par-dessus le toit（屋根の上に）」を「up above the roof」と上昇の副詞で補強。「Swayeth aloft（高く揺れる）」の古形動詞「swayeth」が原詩の動詞「berce（揺り籠のように揺らす）」の揺動を別の角度から再現する。",
+      "targetId": "verlaine_le_ciel",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "A bird upon that tree we see,\n      Maketh complaint.",
+      "body": "原詩「Un oiseau sur l'arbre qu'on voit / Chante sa plainte（鳥が……嘆きを歌っている）」の翻案。「Chante sa plainte（嘆きを歌う）」を「Maketh complaint（嘆きを発する）」と古形で訳す──「maketh」はシェイクスピア・欽定訳聖書の文語形。「complaint（嘆き・苦情）」は「plainte」の直訳だが、英語では詩的な「嘆き歌（complaint）」の伝統的ジャンル名でもある──中世宮廷詩の「complaint」の系譜への参照。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dear God! is not the life up there,\n      Simple and sweet?",
+      "body": "原詩「Mon Dieu, mon Dieu, la vie est là, / Simple et tranquille（神よ、神よ、人生はそこにある、単純で静かに）」の最も大胆な翻案。原詩の感嘆文「la vie est là（人生はそこにある）」をダウスンは疑問文「is not the life up there... Simple and sweet?」に転換──確認の問いとして構造を変える。「tranquille（静か）」を「sweet（甘い）」と訳す──ヴェルレーヌの宗教的平静からダウスン的な甘美さへの変換。「up there」の反復が屋根の上の遠い世界への距離感を強調。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "What hast thou done, who comest here,\n      To weep alway?\nWhere hast thou laid, who comest here,\n      Thy youth away?",
+      "body": "原詩「Qu'as-tu fait, ô toi que voilà / Pleurant sans cesse, / Dis, qu'as-tu fait, toi que voilà, / De ta jeunesse ?」の翻案。最大の構造的変更：原詩の一つの問い（「何をしたのか？青春を」）をダウスンは二つの問い（「何をしたのか？」「どこへ置いてきたのか、青春を？」）に分割──「What... Where...」という疑問詞の変化が自己断罪を二段階に深める。「who comest here（ここへ来て）」の反復が原詩「toi que voilà（ほら、お前よ）」の自己への指差しに対応。「Thy youth away?」の「away」が行末に落下し、失われた青春の取り返しのなさを音として封じる。"
+    }
+  ]
+}
