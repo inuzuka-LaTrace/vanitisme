@@ -1,0 +1,171 @@
+{
+  "id": "baudelaire_litanies_satan",
+  "title": "Les Litanies de Satan",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, CXX, «Révolte», Poulet-Malassis et de Broise, Paris, 1861（第2版）, pp.288–291. 底本: Wikisource, Les Fleurs du mal (1861)/Les Litanies de Satan（2025年4月24日版）.",
+  "year": "1861",
+  "firstPublication": "Les Fleurs du Mal, 2e édition, Poulet-Malassis et de Broise, Paris, 1861, CXX（「反逆」章所収）",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の花』第2版（1861）「反逆（Révolte）」章の中心詩（CXX）。カトリック典礼の「連祷（Litanies）」形式──各祈願節の後に反復句「Ô Satan, prends pitié de ma longue misère !（おお、サタンよ、私の長い悲惨を憐れみたまえ！）」が繰り返される──を神への反逆・悪魔への転倒的礼拝に用いる。15の祈願節が描くサタン像：追放された天使・地底の王・苦悩の癒し手・孤独な詩人の守護者・社会的周縁者（癩病者・酔っぱらい・死刑囚）の友・発明家・宝石の隠し場所を知る者・火薬の創案者──ミルトン『失楽園』のサタン像の系譜に連なりながら、ロマン主義的反英雄・プロメテウス的創造者として再定義される。「PRIÈRE（祈り）」で結ばれる詩は、知識の木の下でサタンとともに魂が安らう終末的幻視で終わる。1857年の第1版では「反逆」章ごと裁判にかけられ有罪判決を受けた6篇のうちの1篇（後に撤回）。",
+  "keywords": [
+    "連祷",
+    "litanies",
+    "反逆章",
+    "サタン礼拝",
+    "転倒的典礼",
+    "追放された天使",
+    "プロメテウス的サタン",
+    "知識の木",
+    "社会的周縁者",
+    "ミルトン失楽園"
+  ],
+  "relatedTexts": [
+    "baudelaire_heroisme",
+    "baudelaire_une_charogne",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "baudelaire_correspondances"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "preface",
+      "french": "—",
+      "provisionalTranslation": "──"
+    },
+    {
+      "id": 2,
+      "french": "Ô toi, le plus savant et le plus beau des Anges,\nDieu trahi par le sort et privé de louanges,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "おお、天使の中で最も知恵あり最も美しい者よ、\n運命に裏切られ、讃美を奪われた神よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 3,
+      "french": "Ô Prince de l'exil, à qui l'on a fait tort,\nEt qui, vaincu, toujours te redresses plus fort,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "おお、不当に扱われた追放の君主よ、\n敗れながらも、常により強く立ち上がる者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 4,
+      "french": "Toi qui sais tout, grand roi des choses souterraines,\nGuérisseur familier des angoisses humaines,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "すべてを知る者よ、地底の事物の大いなる王よ、\n人間の苦悩の親しみある癒し手よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 5,
+      "french": "Toi qui, même aux lépreux, aux parias maudits,\nEnseignes par l'amour le goût du Paradis,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "癩病者にも、呪われたパリアにさえも、\n愛によって楽園の味を教える者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 6,
+      "french": "Ô toi qui de la Mort, ta vieille et forte amante,\nEngendras l'Espérance, — une folle charmante !\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "死から──お前の老いた強き愛人から──\n希望を生んだ者よ──魅惑的な狂女を！\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 7,
+      "french": "Toi qui fais au proscrit ce regard calme et haut\nQui damne tout un peuple autour d'un échafaud,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "追放者にあの穏やかで高い眼差しを与える者よ──\n処刑台の周りの民衆全体を断罪するような眼差しを──\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 8,
+      "french": "Toi qui sais en quels coins des terres envieuses\nLe Dieu jaloux cacha les pierres précieuses,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "嫉妬深い神が、妬み深い大地のどの隅に\n宝石を隠したかを知る者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 9,
+      "french": "Toi dont l'œil clair connaît les profonds arsenaux\nOù dort enseveli le peuple des métaux,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "その澄んだ目が知る者よ──深い武器庫を、\nそこで金属の民が埋もれて眠る場所を──\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 10,
+      "french": "Toi dont la large main cache les précipices\nAu somnambule errant au bord des édifices,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "その広い手で、建物の縁をさまよう夢遊病者から\n断崖を隠す者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 11,
+      "french": "Toi qui, magiquement, assouplis les vieux os\nDe l'ivrogne attardé foulé par les chevaux,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "馬に踏みにじられた遅れた酔っぱらいの\n老いた骨を、魔法のように和らげる者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 12,
+      "french": "Toi qui, pour consoler l'homme frêle qui souffre,\nNous appris à mêler le salpêtre et le soufre,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "苦しむ脆い人間を慰めるために、\n硝石と硫黄を混ぜることを我々に教えた者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 13,
+      "french": "Toi qui poses ta marque, ô complice subtil,\nSur le front du Crésus impitoyable et vil,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "おお、巧みな共謀者よ、冷酷で卑しいクレソスの\n額に印を刻む者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 14,
+      "french": "Toi qui mets dans les yeux et dans le cœur des filles\nLe culte de la plaie et l'amour des guenilles,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "乙女たちの目と心に、\n傷への崇拝とぼろへの愛を置く者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 15,
+      "french": "Bâton des exilés, lampe des inventeurs,\nConfesseur des pendus et des conspirateurs,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "追放者の杖、発明家の灯、\n絞首刑者と陰謀者の告解聴聞者よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 16,
+      "french": "Père adoptif de ceux qu'en sa noire colère\nDu paradis terrestre a chassés Dieu le Père,\n\nÔ Satan, prends pitié de ma longue misère !",
+      "provisionalTranslation": "神父が黒い怒りの中で地上の楽園から追い払った\n者たちの養父よ、\n\nおお、サタンよ、私の長い悲惨を憐れみたまえ！"
+    },
+    {
+      "id": 17,
+      "verses": "priere",
+      "french": "PRIÈRE\n\nGloire et louage à toi, Satan, dans les hauteurs\nDu Ciel, où tu régnas, et dans les profondeurs\nDe l'Enfer, où, vaincu, tu rêves en silence !\nFais que mon âme un jour, sous l'Arbre de Science,\nPrès de toi se repose, à l'heure où sur ton front\nComme un Temple nouveau ses rameaux s'épandront !",
+      "provisionalTranslation": "祈り\n\n栄光と讃美をお前に、サタンよ、天の高みに──\nお前が君臨した天に──そして深みに──\n地獄に、敗れて、お前が沈黙の中で夢見る地獄に！\n私の魂がいつか、知識の木の下で、\nお前のそばに憩う日を与えたまえ──その枝が\n新しい神殿のようにお前の額に広がる時に！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ô Satan, prends pitié de ma longue misère !",
+      "body": "カトリック典礼「連祷（Litanies）」の構造的転倒──通常の聖人連祷では「Sancte N., ora pro nobis（聖N.よ、我らのために祈りたまえ）」と繰り返すが、ボードレールは悪魔への祈願句「Ô Satan, prends pitié...」を15回反復させる。神への礼拝形式を悪魔への礼拝に転用するこの blasphème structural（構造的冒涜）が1857年裁判の対象となった。各祈願節は2行の英雄対句（alexandrin couplet）──サタンの特質を讃えた後に反復句が落下する音楽的構造がリタニーの催眠的効果を生む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ô toi, le plus savant et le plus beau des Anges,\nDieu trahi par le sort et privé de louanges,",
+      "body": "詩の神学的基盤──サタンを「最も知恵あり最も美しい天使」として定義する。ミルトン『失楽園』（Paradise Lost, 1667）の壮大なサタン像に直接由来する。「Dieu trahi par le sort（運命に裏切られた神）」──サタンを神と同格に置く逆転の神学。ボードレールが影響を受けたロマン主義（ユゴー、ヴィニー）のサタン再評価の系譜──ヴィニー「エロア」、ユゴー「サタンの終焉」との連続。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et qui, vaincu, toujours te redresses plus fort,",
+      "body": "「敗れながらも、常により強く立ち上がる（vaincu, toujours te redresses plus fort）」──反英雄的・プロメテウス的サタン像の定式化。ミルトンのサタン「Better to reign in Hell than serve in Heaven（天国で仕えるより地獄で君臨する方がよい）」との照応。「L'Horloge」の時計が「Meurs !（死ね！）」と命じる神的権威に対し、このサタンは倒されても起き上がり続ける抵抗の原理として機能する──ボードレール的詩人像の鏡。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ô toi qui de la Mort, ta vieille et forte amante,\nEngendras l'Espérance, — une folle charmante !",
+      "body": "「死から希望を生んだ者よ──魅惑的な狂女を！」──最も神学的に逆説的な祈願節。ミルトン『失楽園』ではサタンは死（Death）と近親相姦的な関係にあるが、ボードレールはそこから「希望（Espérance）」が生まれると反転させる。「une folle charmante（魅惑的な狂女）」というダッシュ後の追加が、希望を崇高なものでなく、美しいが理性を失った存在として定義する──ボードレールにとって希望は真剣に信じられるものではなく、魔力的な幻惑として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Toi qui fais au proscrit ce regard calme et haut\nQui damne tout un peuple autour d'un échafaud,",
+      "body": "「処刑台の周りの民衆全体を断罪するような眼差し」──詩人・反逆者・政治犯の処刑場面。「regard calme et haut（穏やかで高い眼差し）」は群衆の敵意に動じない殉教者的視線。ボードレールの1848年革命参加・後の反動体制への失望という政治的文脈。「Qui damne tout un peuple（民衆全体を断罪する）」──処刑される側の眼差しが処刑する側を道徳的に断罪するという逆転。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "Nous appris à mêler le salpêtre et le soufre,",
+      "body": "「硝石と硫黄を混ぜることを教えた」──火薬の発明への言及。硝石（KNO₃）と硫黄（S）は黒色火薬の主成分（炭と混ぜると完成）。サタンが火薬を人間に教えたという伝説はミルトン『失楽園』第6巻（サタン軍が天使軍に火器を使用する場面）に由来する。「l'homme frêle qui souffre（苦しむ脆い人間）を慰めるために」という目的語が、破壊兵器の発明を「慰め」として提示する逆説──暴力による苦悩からの解放という黒い論理。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Bâton des exilés, lampe des inventeurs,\nConfesseur des pendus et des conspirateurs,",
+      "body": "詩全体で最も圧縮された祈願節──動詞なしの名詞列挙（呼格の連鎖）がサタンの多面的な守護者像を凝縮する。「Bâton des exilés（追放者の杖）」「lampe des inventeurs（発明家の灯）」「Confesseur des pendus et des conspirateurs（絞首刑者と陰謀者の告解聴聞者）」──老人・科学者・犯罪者という社会的周縁者の三者を並置。「Confesseur（告解聴聞者）」はカトリックの秘跡語彙──サタンが神父の代わりに犯罪者の告解を聴く転倒的な教会像。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Fais que mon âme un jour, sous l'Arbre de Science,\nPrès de toi se repose, à l'heure où sur ton front\nComme un Temple nouveau ses rameaux s'épandront !",
+      "body": "「PRIÈRE（祈り）」の結末──「知識の木（l'Arbre de Science）」はエデンの禁断の木（創世記2:9）。サタンの額に知識の木の枝が「新しい神殿（Temple nouveau）」として広がる終末的幻視。神の神殿でなくサタンの額が新しい神殿となるという「反・神殿」神学。詩人の魂はその下で安らうことを願う──「L'Horloge」の「Meurs, vieux lâche !」という時間の命令への究極の答えとして、ボードレールは知識と反逆のサタンのもとでの安息を選ぶ。"
+    }
+  ]
+}
