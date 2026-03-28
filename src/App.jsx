@@ -1280,7 +1280,7 @@ export default function App() {
         aria-hidden="true" // スクリーンリーダーには無視させる
       />
       {/* 3. 暗くするためのオーバーレイ：背景色とブレンドさせる（透過あり） */}
-      <div className={`absolute inset-0 ${darkMode ? 'bg-zinc-950/80' : 'bg-stone-50/60'}`} />
+      <div className={`absolute inset-0 ${darkMode ? 'bg-zinc-950/65' : 'bg-stone-50/60'}`} />
     </div>
 
     {/* 4. コンテンツレイヤー：relative z-10 で絵画の前に完璧に重ねる */}
