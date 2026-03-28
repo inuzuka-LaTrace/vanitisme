@@ -882,55 +882,39 @@ export default function App() {
 
 if (loading) {
   return (
-    <div className="fixed inset-0 z-[100] bg-zinc-950 flex items-center justify-center overflow-hidden">
-      {/* 1. 背景：読み込み中も「黒」を維持し、画像はふわっと出す */}
-      <div className="absolute inset-0 z-0 animate-in fade-in duration-1000">
-        <img
-          src="/images/moreau_jupiter.jpg"
-          className="w-full h-full object-cover opacity-20 grayscale contrast-125 saturate-50"
-          alt=""
-          onLoad={(e) => e.currentTarget.classList.add('opacity-20')} // 読み込み完了後に表示
+    <div className="fixed inset-0 z-[100] bg-zinc-950 flex flex-col items-center justify-center overflow-hidden">
+      {/* スピナー外枠：細いラインで洗練された印象に */}
+      <div className="relative flex items-center justify-center">
+        {/* スピナー本体 */}
+        <div 
+          className="w-12 h-12 border-[3px] border-zinc-800 border-t-amber-700 rounded-full animate-spin"
+          style={{ 
+            filter: 'drop-shadow(0 0 8px rgba(180, 83, 9, 0.4))' // 金褐色の微かな光
+          }}
         />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(9,9,11,0.9)_100%)]" />
+        
+        {/* 中央に静止した小さな点（任意：より精密な時計・計器感を出す場合） */}
+        <div className="absolute w-1 h-1 bg-amber-900/40 rounded-full" />
       </div>
 
-      {/* 2. マラルメの星座：配置を固定し、一瞬でも目に留まるように調整 */}
-      <div className="relative z-10 w-full max-w-4xl h-[60vh] flex flex-col items-center justify-center select-none">
-        <div className="relative w-full h-full font-serif" style={{ fontFamily: 'Cinzel, serif' }}>
-          
-          <span className="absolute top-[15%] left-[10%] text-lg tracking-[0.3em] italic text-amber-200/40">
-            UN COUP DE DÉS
-          </span>
-
-          <span className="absolute top-[45%] right-[15%] text-4xl font-bold tracking-widest text-zinc-100/60">
-            JAMAIS
-          </span>
-
-          {/* 中央：VANITISME（ここが最前面） */}
-          <div className="absolute inset-0 flex flex-col items-center justify-center gap-6">
-            <h1 className="text-2xl font-bold tracking-[0.2em] text-amber-200">
-              VANITISME
-            </h1>
-            <div className="w-32 h-[1px] bg-zinc-800 overflow-hidden">
-              <div className="h-full bg-amber-700/60 animate-progress" />
-            </div>
-          </div>
-
-          <span className="absolute bottom-[20%] left-[15%] text-2xl font-light tracking-[0.5em] text-zinc-400/30">
-            LE HASARD
-          </span>
-        </div>
+      {/* テキスト */}
+      <div className="mt-6">
+        <span 
+          className="text-xs tracking-[0.4em] text-amber-700/60 font-serif uppercase select-none"
+          style={{ fontFamily: 'Cinzel, serif' }}
+        >
+          Loading
+        </span>
       </div>
 
-      {/* 3. 左右の垂直線（ゴダール/本の意匠） */}
-      <div className="absolute inset-0 flex justify-between px-10 md:px-20 opacity-10 pointer-events-none">
-        <div className="w-[1px] h-full bg-zinc-700"></div>
-        <div className="w-[1px] h-full bg-zinc-700"></div>
+      {/* 左右の垂直線：以前のデザインの面影を残し、画面の引き締め効果として維持（不要なら削除可） */}
+      <div className="absolute inset-0 flex justify-between px-10 md:px-20 opacity-5 pointer-events-none">
+        <div className="w-[1px] h-full bg-zinc-800"></div>
+        <div className="w-[1px] h-full bg-zinc-800"></div>
       </div>
     </div>
   );
 }
-
   // ─── テーマ変数 ───────────────────────────────────────────
   const bgClass         = darkMode ? 'bg-[#131008]'                              : 'bg-stone-50';
   const cardBgClass     = darkMode ? 'bg-[#17140e] border-[#2e2a20]'             : 'bg-white border-stone-200';
