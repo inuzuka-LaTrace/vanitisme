@@ -1,0 +1,86 @@
+{
+  "id": "verlaine_le_ciel",
+  "title": "Le ciel est, par-dessus le toit...",
+  "author": "Paul Verlaine",
+  "source": "Sagesse, III, vi, Société Générale de Librairie Catholique, Paris, 1881. 照合: Wikisource, Sagesse (1902), Vanier, Œuvres complètes vol. I, p.272.",
+  "year": "1881",
+  "firstPublication": "Sagesse, Société Générale de Librairie Catholique, Paris, 1881（モン刑務所収監中（1873–1875）に執筆）",
+  "difficulty": "初級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルレーヌの第5詩集『叡智（Sagesse）』（1881）第3部第6詩。1873年7月、ランボーへの銃撃事件でブリュッセルで逮捕・モン刑務所に収監されたヴェルレーヌが、1873〜1875年の獄中で執筆。フランス語詩の最も有名な一篇として知られる。4連（octosyllabe 8音節＋tétrasyllabe 4音節の交互）の形式。牢獄の窓から見える屋根の上の空・木・鐘・鳥という極めて限定された視界から始まり、「Mon Dieu, la vie est là, / Simple et tranquille（神よ、人生はそこにある、単純で静かに）」という都市の生の肯定を経て、最終連では詩人が自分自身を「お前」と呼んで断罪する──「お前は青春をどこに置いてきたのか（Qu'as-tu fait... de ta jeunesse ?）」。外の世界の単純さと内面の荒廃の対比がフランス詩史上最も切迫した形で結晶した詩。",
+  "keywords": [
+    "獄中詩",
+    "Sagesse",
+    "叡智",
+    "モン刑務所",
+    "屋根の上の空",
+    "青春の浪費",
+    "自己断罪",
+    "8音節と4音節",
+    "窓からの視界",
+    "ランボー事件"
+  ],
+  "relatedTexts": [
+    "dowson_after_verlaine_4",
+    "verlaine_colloque_sentimental",
+    "verlaine_chanson_dautomne",
+    "verlaine_spleen",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le ciel est, par-dessus le toit,\n  Si bleu, si calme !\nUn arbre, par-dessus le toit,\n  Berce sa palme.",
+      "provisionalTranslation": "空は、屋根の上に、\n　これほど青く、これほど静かに！\n木が一本、屋根の上に、\n　その葉を揺らしている。"
+    },
+    {
+      "id": 2,
+      "french": "La cloche, dans le ciel qu'on voit,\n  Doucement tinte.\nUn oiseau sur l'arbre qu'on voit\n  Chante sa plainte.",
+      "provisionalTranslation": "鐘が、見える空の中で、\n　やさしく鳴り響く。\n鳥が一羽、見える木の上で\n　嘆きを歌っている。"
+    },
+    {
+      "id": 3,
+      "french": "Mon Dieu, mon Dieu, la vie est là,\n  Simple et tranquille.\nCette paisible rumeur-là\n  Vient de la ville.",
+      "provisionalTranslation": "神よ、神よ、人生はそこにある、\n　単純で、静かに。\nあのおだやかな物音は\n　町から来ている。"
+    },
+    {
+      "id": 4,
+      "french": "— Qu'as-tu fait, ô toi que voilà\n  Pleurant sans cesse,\nDis, qu'as-tu fait, toi que voilà,\n  De ta jeunesse ?",
+      "provisionalTranslation": "──お前はいったい何をしたのか、ほら、お前よ、\n　泣き続けているお前よ。\n言え、お前はいったい何をしたのか、ほら、お前よ、\n　自分の青春を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Le ciel est, par-dessus le toit,\n  Si bleu, si calme !",
+      "body": "詩の韻律：octosyllabe（8音節）とtétrasyllabe（4音節）の交互、ABAB韻。4音節の短行「Si bleu, si calme !」「Berce sa palme.」が長行の後に落下し、感嘆・静止・要約として機能する──「A Requiem」「Venite Descendamus」等のダウスン詩の短行効果と同型。「si bleu, si calme（これほど青く、これほど静かに）」の反復副詞は「Spleen」の「trop（あまりにも）」と対照的──こちらは過剰でなく充足として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "par-dessus le toit",
+      "body": "「屋根の上に（par-dessus le toit）」──第1連に2回、第2連に1回反復される前置詞句。牢獄の窓から見える限定された視界を示す──詩人は空を直接見るのでなく、常に「屋根の上に」という媒介を通じて見る。「qu'on voit（見える）」の反復も同様に視界の制限を強調する。囚われの身体の不動性と、その小さな窓から広がる外の世界との対比が詩のドラマを生む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Un oiseau sur l'arbre qu'on voit\n  Chante sa plainte.",
+      "body": "「鳥が……嘆きを歌っている（Chante sa plainte）」──鐘の「Doucement tinte（やさしく鳴る）」と対比される。鐘は宗教的・外的な音、鳥は詩人の内的な嘆きの投影。「plainte（嘆き）」は第4連の詩人自身の「Pleurant sans cesse（泣き続けて）」と響き合う──鳥は詩人のアルターエゴ。プロヴァンス語lai（嘆き歌）の伝統、ダンテ「地獄篇」V歌の鶴の嘆き歌との連続性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mon Dieu, mon Dieu, la vie est là,\n  Simple et tranquille.",
+      "body": "「神よ、神よ、人生はそこにある、単純で静かに」──詩の転換点。第1・2連の純粋な感覚描写から、内面の声が入る。「Mon Dieu」の反復は『Sagesse』全体の宗教的回心の文脈に位置するが、ここでは神学的命題でなく驚嘆の間投詞として機能する──外の「単純な」生への嘆息。「Simple et tranquille（単純で静か）」は牢獄の複雑な内面状況との対比で最大の効果を発揮する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "— Qu'as-tu fait, ô toi que voilà\n  Pleurant sans cesse,\nDis, qu'as-tu fait, toi que voilà,\n  De ta jeunesse ?",
+      "body": "最終連の構文的特異性：詩人が自分自身を「お前（toi）」と呼んで断罪する──一人称「je」が突然二人称「tu/toi」に転換する。「Qu'as-tu fait...」の反復と「Dis（言え）」という命令形が自己糾弾の強度を高める。「De ta jeunesse ?（青春を）」──詩は青春の浪費・ランボーとの逃避行・銃撃事件という具体的な自己破壊への後悔を、この一語に集約する。ダウスンが「Where hast thou laid... / Thy youth away?」と訳した箇所。"
+    }
+  ]
+}
