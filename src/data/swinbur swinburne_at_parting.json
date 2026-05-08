@@ -1,0 +1,79 @@
+{
+  "id": "swinburne_at_parting",
+  "title": "At Parting",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series (Chatto & Windus, 1878). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads,_Second_Series/At_Parting",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "初級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "「At Parting（別れに際して）」はAlgernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, Second Series』（1878）所収。3連×6行構成で、各連末の「For a day and a night（一日と一夜のあいだ）」というリフレインが詩全体の時間的枠組みを規定する。三連が担う三つの時制：第1連（愛の神エロスが「われわれとともにいた間」──過去の充足）・第2連（エロスが「われわれを隠してくれた間」──過去の庇護）・第3連（エロスが「去っていく今」──現在の受容と別れ）。「月桃（myrtle）」──ウェヌス（ヴィーナス）の聖木であり、禁じられた愛の聖域を示す植物的象徴。第2連「myrtles forbidden us（われわれに禁じられた月桃）」と第3連「let the myrtles make way for us（月桃がわれわれのために道を開けるように）」の対応が「禁じられた愛→解放」という運動を示す。「エロスの翼（pinions from flight）」が「飛翔途中で止まった（Stayed in mid passage）」という逆説的停止が愛の一夜を構成し、第3連では「翼は休まない（wings will not rest）」として翼が再び飛翔へと戻ることで別れが確定する。第1詩集（1866年）の官能的・反抗的エロスに対して、本詩は感謝と受容を基調とする成熟した愛の詩学を示す──「A Match」の仮定法的非現実（「もし〜ならば」）・「The Year of the Rose」の時間的喪失（「短さ」）に対して、「At Parting」は充足された一夜の肯定（「甘くしてくれた」）として、Swinburne愛の詩学の第三の位相を形成する。",
+  "keywords": ["エロス", "別れ", "一日と一夜", "リフレイン", "月桃", "myrtles", "pinions", "感謝と受容"],
+  "relatedTexts": [
+    "swinburne_year_of_the_rose",
+    "swinburne_a_match",
+    "swinburne_euthanatos",
+    "valmore_separees",
+    "valmore_adieu",
+    "dowson_venite_descendamus",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "For a day and a night Love sang to us, played with us,\nFolded us round from the dark and the light;\nAnd our hearts were fulfilled of the music he made with us,\nMade with our hearts and our lips while he stayed with us,\nStayed in mid passage his pinions from flight\nFor a day and a night.",
+      "provisionalTranslation": "一日と一夜のあいだ、愛はわれわれに歌い、遊んだ、\n暗闇と光からわれわれを包み込んで；\nそしてわれわれの心は彼がわれわれとともに作った音楽で満たされた、\nわれわれの心とわれわれの唇とともに作られた、彼がわれわれとともにいた間に、\n飛翔から翼を途中で止めながら\n一日と一夜のあいだ。"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "From his foes that kept watch with his wings had he hidden us,\nCovered us close from the eyes that would smite,\nFrom the feet that had tracked and the tongues that had chidden us\nSheltering in shade of the myrtles forbidden us\nSpirit and flesh growing one with delight\nFor a day and a night.",
+      "provisionalTranslation": "その翼で見張りをしていた敵たちからわれわれを彼は隠してくれた、\n打ちたいと思う目からわれわれをしっかりと覆って、\nわれわれを追跡した足とわれわれを叱った舌から\nわれわれに禁じられた月桃の木陰に避難させて\n精神と肉体が喜びとともに一つになって\n一日と一夜のあいだ。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "But his wings will not rest and his feet will not stay for us:\nMorning is here in the joy of its might;\nWith his breath has he sweetened a night and a day for us:\nNow let him pass, and the myrtles make way for us;\nLove can but last in us here at his height\nFor a day and a night.",
+      "provisionalTranslation": "しかし彼の翼はわれわれのために休まず、足は留まらない：\n朝がその力の喜びとともにここにある；\n彼の息でわれわれのために一夜と一日を甘くしてくれた：\n今彼を通過させ、月桃がわれわれのために道を開けるようにしよう；\n愛はわれわれの中でその最高点においてのみここで続くことができる\n一日と一夜のあいだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "For a day and a night Love sang to us, played with us,",
+      "body": "詩形：3連×6行。各連の押韻型 ABABBA（または AABBA＋A）で、奇数行が長い弱強五歩格（iambic pentameter）、偶数行が短い弱強三歩格（iambic trimeter）を基調とし、各連末の「For a day and a night（一日と一夜のあいだ）」という定型句がリフレインとして機能する。「For a day and a night」が第1連冒頭（「For a day and a night Love sang」）と末尾（「For a day and a night」）の両方に置かれることで、第1連自体が「一日と一夜」という時間の輪環として閉じる──リフレインが連の始まりと終わりを重ねる「包み込み（enveloping）」の形式的実演。「Love sang to us, played with us（愛はわれわれに歌い、遊んだ）」──「A Match」の仮定法「If love were what the rose is（もし愛が薔薇であるなら）」に対して、「At Parting」では愛が現実の動詞（sang, played）として過去に実現している：仮定の愛（A Match）→実現し去った愛（At Parting）という Swinburne 愛の詩学の展開として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Stayed in mid passage his pinions from flight",
+      "body": "「Stayed in mid passage his pinions from flight（飛翔途中で翼を止めながら）」──「pinions（風切り羽・翼）」という語がエロスの翼を示す。「mid passage（途中で）」という副詞句が「エロスが本来飛び続ける存在である」という前提の上に「一時的な停止」を描く：翼は本質的に飛翔を求めるが、「われわれのために（for us）」一時的に止まった。「Stayed…stayed（止まった…止まった）」──同動詞の行頭反復（anaphora）が「留まること」の動作を強調しつつ、その後の第3連「will not stay for us（われわれのために留まらない）」との対比を準備する。ダウスン「Venite Descendamus」の「Love, if love be love（愛よ、もし愛が愛であるなら）」というエロスへの問いかけと照応：どちらも愛を翼を持つ逃れゆく存在として把握しながら、Swinburne は一夜の停止を肯定し、Dowson は愛の本質への懐疑を表明する。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sheltering in shade of the myrtles forbidden us\nSpirit and flesh growing one with delight",
+      "body": "「myrtles forbidden us（われわれに禁じられた月桃）」──「myrtle（フサボグ・月桃）」はウェヌス（ヴィーナス）の聖木であり、古代ローマの恋愛詩においてエロス的逢瀬の聖域を示す植物的象徴。「forbidden（禁じられた）」という形容詞が月桃の木陰を「社会的・道徳的に禁じられた愛の場所」として定義する。第3連「let the myrtles make way for us（月桃がわれわれのために道を開けるようにしよう）」との対応：「forbidden（禁じられた）月桃」→「make way（道を開ける）月桃」という運動が「禁じられた愛の聖域への侵入→愛の成就・解放」を示す。「Spirit and flesh growing one with delight（精神と肉体が喜びとともに一つになって）」──「A Match」第4連「Spirit and flesh」に対応する：スウィンバーンの愛の哲学における霊肉合一論の定式。プラトン的「魂の合一」とエピクロス的「肉体の喜び」が「delight（喜び）」という単語に同時に含まれる。ヴェイユ「Accepter le vide」の「霊魂と肉体の分離」という脱創造的方向とは正反対の、肉体的・霊的合一の肯定として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "But his wings will not rest and his feet will not stay for us:",
+      "body": "「But his wings will not rest and his feet will not stay for us」──第1連「Stayed in mid passage his pinions from flight（翼を途中で止めながら）」との対比：第1連での翼の「停止（stayed）」が第3連では「休まない（will not rest）・留まらない（will not stay）」という二重否定として翻転する。「Morning is here in the joy of its might（朝がその力の喜びとともにここにある）」──「朝（morning）」の到来がエロスの逃避の時間的指標として機能する：愛の夜は朝によって終わる。ヴェルレーヌ「La Lune Blanche（白い月）」の夜明けによる愛の解消・ラシーヌ「Phèdre」第2幕の「日が昇る（le jour）」という暴露の構造との照応：夜の愛と朝の現実という西洋文学の定型的時間対が、Swinburne においては「悲劇的暴露」ではなく「穏やかな受容」として提示される。「With his breath has he sweetened a night and a day for us（彼の息でわれわれのために一夜と一日を甘くしてくれた）」──「breath（息）」という語が第1連「music he made with us（われわれとともに作った音楽）」・「The Year of the Rose」第2連「mix their breath（息を混ぜ合わせた）」と連結する：愛の「息」が甘さ・音楽・生命力の語彙連鎖として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Love can but last in us here at his height\nFor a day and a night.",
+      "body": "「Love can but last in us here at his height / For a day and a night（愛はその最高点においてのみわれわれの中でここで続くことができる──一日と一夜のあいだ）」──詩全体の結語命題。「at his height（その最高点において）」という限定が重要：愛は「its height（最高点）」においてのみ「a day and a night」続くことができる──最高点以外では（衰退の中では）そもそも愛は続かない、という逆説的定義。「The Year of the Rose」の「The time of lovers is brief（恋人たちの時は短い）」・「A Match」の仮定法的非現実との三篇的対話：「A Match」（実現しない愛）→「At Parting」（一夜実現し去った愛）→「The Year of the Rose」（愛の年と薔薇の年の短さ）というSwinburne愛の詩学の三段階。クリスティーナ・ロセッティ「Monna Innominata」第11連「My love of you was life and not a breath（私のあなたへの愛は命であって一息でなかった）」との対照：Rossetti が愛を「breath」と区別した「life（命）」として永遠化しようとするのに対し、Swinburne の愛は「breath（息）」によって甘くされた「a day and a night（一日と一夜）」という時間限定の中で完結する。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 8
+    }
+  ]
+}
