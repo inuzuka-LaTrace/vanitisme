@@ -1,0 +1,163 @@
+{
+  "id": "swinburne_euthanatos",
+  "title": "Euthanatos",
+  "author": "Algernon Charles Swinburne",
+  "source": "Tristram of Lyonesse and Other Poems (1882). Wikisource: https://en.wikisource.org/wiki/Tristram_of_Lyonesse_and_Other_Poems/Euthanatos. 初出: The Athenæum, June 11th, 1881, p. 782.",
+  "year": "1882",
+  "firstPublication": "The Athenæum, June 11th, 1881; 収録: Tristram of Lyonesse and Other Poems (Chatto & Windus, 1882)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「Euthanatos（善き死・安らかな死）」はAlgernon Charles Swinburne（1837–1909）が1881年2月4日に書き、同年6月11日付『アシニーアム』誌に発表し、翌1882年の詩集『Tristram of Lyonesse and Other Poems』に収録した追悼詩。副題「IN MEMORY OF MRS. THELLUSSON」──テルッソン夫人（詳細は不明）の死を悼む哀悼詩であるが、特定の個人への追悼の形式を借りながら、Swinburneの霊魂論・死後の存在論・愛の不滅性という思想的命題を展開する。タイトル「εὐθανασία（euthanasia）」はギリシャ語「εὖ（善く・良く）＋θάνατος（死）」の合成語──「善き死・安楽死・穏やかな死」を意味し、古代では「美しく死ぬこと」の意であった。Swinburneはこの語を詩集の各詩の中に散りばめているが、本詩ではそれを直接タイトルとして掲げることで、死を「苦悩からの解放・純化」として肯定する姿勢を示す。詩形は9連×7行（各連AAAAbbb型の押韻＋インデントによる視覚的変化）で、「A white soul soaring（舞い昇る白い魂）」という導入から「Love's self were dead（愛そのものが死んでいるだろう）」という逆説的結語まで、魂の完全性・地上での卓越性・死後の変化不可能性という三命題を段階的に展開する。'The Garden of Proserpine'の「死への静寂な憧憬」・'Ave atque Vale'（ボードレール追悼詩）の「死と詩人の絆」と並ぶSwinburneの死の詩学の重要作。",
+  "keywords": [
+    "εὐθανασία",
+    "善き死",
+    "追悼詩",
+    "white soul",
+    "Mrs. Thellusson",
+    "魂の完全性",
+    "Love's self",
+    "天上",
+    "不変性",
+    "哀悼"
+  ],
+  "relatedTexts": [
+    "swinburne_garden_of_proserpine",
+    "swinburne_at_parting",
+    "swinburne_forsaken_garden",
+    "swinburne_a_match",
+    "rossetti_c_sweet_death",
+    "rossetti_c_remember",
+    "dowson_a_requiem",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "IN MEMORY OF MRS. THELLUSSON.\nFebruary 4, 1881.",
+      "provisionalTranslation": "テルッソン夫人の追憶に。\n1881年2月4日。"
+    },
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "Forth of our ways and woes,\nForth of the winds and snows,\nA white soul soaring goes,\nWinged like a dove:\nSo sweet, so pure, so clear,\nSo heavenly tempered here,\nLove need not hope or fear her changed above:",
+      "provisionalTranslation": "われわれの道と嘆きから外へ、\n風と雪から外へ、\nひとつの白い魂が舞い昇っていく、\n鳩のような翼で。\nこれほど甘く、清らかで、透明で、\nこれほど天的にここで調律されていたから、\n愛は天上で彼女が変わることを望んだり恐れたりする必要はない。"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "Ere dawned her day to die,\nSo heavenly, that on high\nChange could not glorify\nNor death refine her:\nPure gold of perfect love,\nOn earth like heaven's own dove,\nShe cannot wear, above, a smile diviner.",
+      "provisionalTranslation": "彼女の死すべき日が明ける前から、\nこれほど天的であったから、高みにおいても\n変化は彼女を栄光化できず、\n死も彼女を純化できない。\n完全な愛の純金として、\n地上において天の鳩のように、\n天上で彼女はより神聖な微笑みをまとうことができない──すでに完全であるから。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "Her voice in heaven's own quire\nCan sound no heavenlier lyre\nThan here no purer fire\nHer soul can soar:\nNo sweeter stars her eyes\nIn unimagined skies\nBeyond our sight can rise than here before,",
+      "provisionalTranslation": "天の合唱隊における彼女の声は、\nここより天的な竪琴を奏でることができない。\nここより純粋な炎で\n彼女の魂は飛翔することができない。\n想像を超えた空の中でも\nわれわれの視野の彼方でも、\n彼女の瞳はここの以前より甘い星として輝くことはできない。"
+    },
+    {
+      "id": 4,
+      "verses": "Stanza IV",
+      "original": "Hardly long years had shed\nTheir shadows on her head:\nHardly we think her dead,\nWho hardly thought her\nOld: hardly can believe\nThe grief our hearts receive\nAnd wonder while they grieve, as wrong were wrought her.",
+      "provisionalTranslation": "長い年月はほとんどその影を\n彼女の頭上に落としていなかった。\nわれわれはほとんど彼女が死んだと思えない、\n彼女が老いているとも\nほとんど思っていなかった者たちは。われわれの心が受け取る\n悲嘆をほとんど信じられない、\n悲しみながら驚いている、彼女に不正が働かれたかのように。"
+    },
+    {
+      "id": 5,
+      "verses": "Stanza V",
+      "original": "But though strong grief be strong\nNo word or thought of wrong\nMay stain the trembling song,\nWring the bruised heart,\nThat sounds or sighs its faint\nLow note of love, nor taint\nGrief for so sweet a saint, when such depart.",
+      "provisionalTranslation": "しかし強い悲嘆がいかに強くとも\n不正の言葉や思いは\n震える歌を汚してはならない、\n傷ついた心を絞ってはならない、\nかすかな低い愛の音を\n奏で、あるいは嘆く、\nこれほど甘い聖なる者への悲嘆を汚してはならない、こうした者たちが去るとき。"
+    },
+    {
+      "id": 6,
+      "verses": "Stanza VI",
+      "original": "A saint whose perfect soul,\nWith perfect love for goal,\nFaith hardly might control,\nCreeds might not harden:\nA flower more splendid far\nThan the most radiant star\nSeen here of all that are in God's own garden.",
+      "provisionalTranslation": "完全な魂を持つ聖なる者、\n完全な愛を目標として、\n信仰がほとんど制御できず、\n信条も硬化させることができなかった。\nここで見られるいかなる星よりも\n遥かに輝かしい花として、\n神の庭にあるすべての中で最も輝く星よりも遥かに。"
+    },
+    {
+      "id": 7,
+      "verses": "Stanza VII",
+      "original": "Surely the stars we see\nRise and relapse as we,\nAnd change and set, may be\nBut shadows too:\nBut spirits that man's lot\nCould neither mar nor spot\nLike these false lights are not, being heavenly true.",
+      "provisionalTranslation": "確かに、われわれが見る星は\nわれわれのように上り、また沈み、\n変化し、沈む──おそらくは\n影に過ぎないかもしれない。\nしかし人間の運命が\n傷もつけず汚れもさせることのなかった魂たちは\nこれらの偽りの光のようではない、天的に真実であるから。"
+    },
+    {
+      "id": 8,
+      "verses": "Stanza VIII",
+      "original": "Not like these dying lights\nOf worlds whose glory smites\nThe passage of the nights\nThrough heaven's blind prison:\nNot like their souls who see,\nIf thought fly far and free,\nNo heavenlier heaven to be for souls rerisen.",
+      "provisionalTranslation": "夜の通路を打つ栄光を持つ\n世界のこれらの消えゆく光のようではない、\n天の盲目の牢獄を通り抜けて。\nその魂たちのようでもない、思考が\n遠く自由に飛べば、\n再び蘇った魂たちのために\nより天的な天国があるとは見えない者たちの。"
+    },
+    {
+      "id": 9,
+      "verses": "Stanza IX",
+      "original": "A soul wherein love shone\nEven like the sun, alone,\nWith fervour of its own\nAnd splendour fed,\nMade by no creeds less kind\nToward souls by none confined,\nCould Death's self quench or blind, Love's self were dead.",
+      "provisionalTranslation": "愛がまるで太陽のように輝いていた魂、\nひとり、\n自らの熱狂と\n光輝によって養われ、\n信条によって誰にも誰に向けても\n優しさを減じられることなく、\n死そのものが消し去り盲目にできるなら、愛そのものが死んでいるだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "A white soul soaring goes,\nWinged like a dove:",
+      "body": "詩形：9連×7行、各連AAAAbbb型の押韻構造。第1〜4行（A：長行）が主題を展開し、第5〜7行（b：短行、インデント）が結句として凝縮する。第1連の韻：woes / snows / goes / dove / clear / here / above（AAAB CCB）──「dove（鳩）」が第1連の中心的象徴として据えられる。「A white soul soaring goes（白い魂が舞い昇っていく）」──「soaring」という分詞の現在進行が死を「上昇する運動」として提示する：死の瞬間が静的な「横臥（κείμεθα）」ではなく動的な「飛翔（soaring）」として──シモニデス「AP VII 249」の「τῇδε κείμεθα（ここに横たわっている）」との対極として。「Winged like a dove（鳩のような翼で）」──キリスト教的聖霊（dove）の図像との照応：魂の上昇が聖霊的形象を通じて神学的に担保される。Christina Rossetti「Sweet Death」の「a white rose dying」（魂の白さと死の同一視）との語彙的照応。",
+      "targetId": "rossetti_c_sweet_death",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Pure gold of perfect love,\nOn earth like heaven's own dove,\nShe cannot wear, above, a smile diviner.",
+      "body": "「Pure gold of perfect love（完全な愛の純金）」──錬金術的純化の比喩：死が金属を精錬するのではなく、生前に「純金」として既に完全であったという命題。第3連「No heavenlier lyre…no purer fire」・第2連「Change could not glorify / Nor death refine her」という二重否定の連鎖が、死後の変化・向上の不可能性ではなく「すでに地上で完全であった」という逆説的称賛として機能する。「She cannot wear, above, a smile diviner（天上でより神聖な微笑みをまとうことができない）」──「cannot」という否定が「より神聖な（diviner）」という比較級を否定することで「最上級の完全性」を示す修辞法（litotes）：「より神聖にはなれない＝すでに最も神聖であった」。この「地上での完全性が天上を凌駕する」という命題が詩全体の神学的逆説を形成する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "No sweeter stars her eyes\nIn unimagined skies\nBeyond our sight can rise than here before,",
+      "body": "「No sweeter stars her eyes / In unimagined skies / Beyond our sight can rise than here before」──三行にわたる単一の否定文。「her eyes（彼女の瞳）」が「stars（星）」として「unimagined skies（想像を超えた空）」で輝くという天上的比喩が「than here before（ここの以前よりも）」という比較によって否定される──天上の星も地上の瞳に及ばない。「unimagined skies（想像を超えた空）」──「想像（imagination）」の限界を超えた空間という概念が、人間の認識の境界（「われわれの視野の彼方」）として設定される。ヴァレリー「L'Amateur de Poèmes」の「思考が到達できない空間」概念との照応：Swinburne の「unimagined skies」はヴァレリーの「認識の彼方」を天上的文脈で表現する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hardly long years had shed\nTheir shadows on her head:\nHardly we think her dead,",
+      "body": "「Hardly…hardly…hardly…hardly（ほとんど〜ない）」──4回反復される副詞「hardly」による anaphora：「長い年月がほとんど影を落としていなかった」→「ほとんど死んだと思えない」→「ほとんど老いているとも思っていなかった」→「ほとんど信じられない」。この「hardly」の連鎖が死の信じがたさ・時間的な若さ・悲嘆の衝撃を複数の文脈で反復することで、読者を話者の茫然自失へと引き込む。「as wrong were wrought her（彼女に不正が働かれたかのように）」──死が「不正（wrong）」として認識されるという感情的命題：義人・聖人の早死が「不正義（injustice）」として現れるという感覚は、ヨブ記第1章「義人ヨブへの試練」の構造と照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 22
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Grief for so sweet a saint, when such depart.",
+      "body": "「No word or thought of wrong / May stain the trembling song」──追悼詩の倫理的禁止：死者への不正の思いが「震える歌（trembling song）」を汚してはならないという詩人の自己規律。「trembling song（震える歌）」──感情によって震える詩作という自己言及：この詩自体が「震える歌」として、自らの感情的限界を認識しながら書かれている。「so sweet a saint（これほど甘い聖なる者）」──「saint（聖人）」という語が宗教的正典化ではなく詩的な称揚として機能する──Swinburne は「Creeds might not harden（信条も硬化させることができなかった）」という第6連の命題と照応させることで、宗教的制度的聖人化に対して詩的・個人的聖化を対置する。ダウスン「A Requiem」の「聖人」への追悼との語彙的連続性。",
+      "targetId": "dowson_a_requiem",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "A flower more splendid far\nThan the most radiant star\nSeen here of all that are in God's own garden.",
+      "body": "「Faith hardly might control, / Creeds might not harden」──「信仰（Faith）」と「信条（Creeds）」という二語の対：制度的宗教（Creeds）が魂を「硬化（harden）」させることができなかったという命題が Swinburne の反聖職者主義・異端的神学の核心を示す。信条に縛られない「完全な愛を目標とする完全な魂」という定義が、組織的宗教の外に真の聖性を措定する。「A flower more splendid far / Than the most radiant star / Seen here of all that are in God's own garden」──「God's own garden（神自身の庭）」という比喩が第5連「trembling song」の哀悼的文脈から第7連の宇宙論的文脈（星の影）への橋渡しを形成する。「花（flower）が星（star）を超える」という比喩の逆転──光輝の宇宙的尺度（星）を地上的・植物的尺度（花）が超えるという Swinburne 的逆説。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Surely the stars we see\nRise and relapse as we,\nAnd change and set, may be\nBut shadows too:",
+      "body": "「The stars we see / Rise and relapse as we, / And change and set, may be / But shadows too」──星の「上昇・沈下・変化・消滅」が人間の生死と同型として提示される：コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り……大地は永遠に立ち続ける）」の循環的時間論との照応。「may be / But shadows too（おそらく影に過ぎないかもしれない）」──星すら「影（shadow）」に過ぎないという宇宙論的虚無論がプラトン的洞窟の比喩（現象世界は影）と照応する：可視の宇宙（星）が影であるなら、魂の真実は影の彼方にある。「But spirits that man's lot / Could neither mar nor spot / Like these false lights are not, being heavenly true」──「false lights（偽りの光）」としての星に対する「heavenly true（天的に真実）」な魂の対比がプラトン的実在論の詩的展開として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Not like these dying lights\nOf worlds whose glory smites",
+      "body": "「dying lights of worlds（世界の消えゆく光）」──星を「死にゆく光（dying lights）」と定義することで、宇宙全体が死の過程にあるという宇宙論的悲観主義が提示される。「Through heaven's blind prison（天の盲目の牢獄を通り抜けて）」──「heaven's blind prison」：天空（宇宙）を「盲目の（blind）牢獄（prison）」として定義する Swinburne の反宇宙的・反楽観主義的宇宙論。「盲目（blind）」という語が神の不在・宇宙の無目的性を示唆する。「No heavenlier heaven to be for souls rerisen（再び蘇った魂たちのためにより天的な天国があるとは見えない）」──復活（rerisen）した魂に「より天的な天国」が開かれないという否定が、伝統的キリスト教的天国論への懐疑として機能する──第2・3連の「天上でも地上と同じ完全性」という命題の宇宙論的延長。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Could Death's self quench or blind, Love's self were dead.",
+      "body": "詩全体の結語命題。「A soul wherein love shone / Even like the sun, alone（愛がまるで太陽のように輝いていた魂──ひとり）」──太陽的愛の自立性：「alone（ひとり）」という語が孤立ではなく自足的完全性として機能する。「Made by no creeds less kind / Toward souls by none confined（信条によって誰にも向けても優しさを減じられることなく、誰によっても囲われることのない魂たちへ）」──第6連「Creeds might not harden」の再確認：制度的信仰に縛られない普遍的愛の定義。「Could Death's self quench or blind, Love's self were dead（死そのものが消し去り盲目にできるなら、愛そのものが死んでいるだろう）」──条件法による反事実命題：「死が愛を消し去れるなら愛そのものが存在しないことになる」──逆説的に「愛は死によって消し去られることができない」という命題を証明する。ヨブ記第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」の「奪取」に対して、「Could Death's self quench…Love's self were dead」は「死は愛を奪取できない」という愛の不可奪性として応答する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
