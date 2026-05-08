@@ -1,0 +1,168 @@
+{
+  "id": "swinburne_year_of_the_rose",
+  "title": "The Year of the Rose",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series (Chatto & Windus, 1878). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads,_Second_Series/The_Year_of_the_Rose",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「The Year of the Rose（薔薇の年）」はAlgernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, Second Series』（1878）所収。9連構成（第2・3・4・5・6・7・8連は10行、第1・9連は8行）で、詩形は弱強四歩格（iambic tetrameter）を基調としつつ、各連末尾に向かって行長が変化する音楽的な流動性を持つ。詩の三段階的運動：第1連（序章：薔薇の支配の宣言）→第2〜6連（ヴィーナスの北方への到来と薔薇の盛り）→第7〜9連（衰退・恋人たちの時の短さ・廃墟）。薔薇の年（year of the rose）と恋人たちの時（time of lovers）を同型として提示する並行構造が詩の骨格をなし、第2連「The year of the rose is brief」と第8連「The time of lovers is brief」という対応句がその枠を形成する。「砂時計（hour-glass）」が第1連と第9連を鏡像的に結ぶ環状構造（第1連「holds not a sand」→第9連「breaks in his hand」）は時間の消尽を形式的に実演する。'A Forsaken Garden'・'The Garden of Proserpine'が廃墟・冥府という静的空間を通じて愛の消滅を描くのに対し、本詩は季節の循環という動的時間の中に愛の時間を溶解させる──Swinburneの死の詩学における「時間による死」の最も音楽的な定式として。「薔薇（rose）」「愛（love）」「死（death）」「息（breath）」「精神（spirit）」の語彙連鎖がVANITISMEコーパス全体の「vanitas」的主題網の英語的変奏として機能する。",
+  "keywords": ["薔薇", "愛の短さ", "季節の循環", "Venus", "砂時計", "hour-glass", "brief", "北方と南方", "vanitas"],
+  "relatedTexts": [
+    "swinburne_forsaken_garden",
+    "swinburne_garden_of_proserpine",
+    "swinburne_a_match",
+    "swinburne_euthanatos",
+    "valmore_les_roses_de_saadi",
+    "vanlerberghe_rosier_mystique",
+    "dowson_vanitas",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "From the depths of the green garden-closes\nWhere the summer in darkness dozes\nTill autumn pluck from his hand\nAn hour-glass that holds not a sand;\nFrom the maze that a flower-belt encloses\nTo the stones and sea-grass on the strand\nHow red was the reign of the roses\nOver the rose-crowned land!",
+      "provisionalTranslation": "緑の庭の奥深くから\n夏が暗闇の中でまどろんでいるところ\n秋が彼の手から取り上げるまで\n砂一粒も残らない砂時計を；\n花の帯に囲まれた迷路から\n岸辺の石と海草まで\n薔薇の支配はなんと赤かったことか\n薔薇の冠をいただく土地の上で！"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "The year of the rose is brief;\nFrom the first blade blown to the sheaf,\nFrom the thin green leaf to the gold,\nIt has time to be sweet and grow old,\nTo triumph and leave not a leaf\nFor witness in winter's sight\nHow lovers once in the light\nWould mix their breath with its breath,\nAnd its spirit was quenched not of night,\nAs love is subdued not of death.",
+      "provisionalTranslation": "薔薇の年は短い；\n最初の芽吹きから穂束まで、\n薄い緑の葉から金色まで、\n甘くなり老いる時間はある、\n勝利し、冬の目には\nかつて光の中の恋人たちが\n自分たちの息をその息と混ぜ合わせたことの\n証人となる葉一枚も残さずに；\nそしてその精神は夜に消えなかった、\n愛が死に屈しないように。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "In the red-rose land not a mile\nOf the meadows from stile to stile,\nOf the valleys from stream to stream,\nBut the air was a long sweet dream\nAnd the earth was a sweet wide smile\nRed-mouthed of a goddess, returned\nFrom the sea which had borne her and burned,\nThat with one swift smile of her mouth\nLooked full on the north as it yearned,\nAnd the north was more than the south.",
+      "provisionalTranslation": "薔薇色の土地では一マイルも\n木戸から木戸への牧草地も、\n流れから流れへの谷も、\n空気は長く甘い夢だった\n大地は女神の赤い口の\n甘く広い微笑みだった、帰ってきた\n彼女を宿して燃えた海から、\nその口の一つの素早い微笑みで\n憧れる北に正面から向かって、\n北は南より豊かだった。"
+    },
+    {
+      "id": 4,
+      "verses": "Stanza IV",
+      "original": "For the north, when winter was long,\nIn his heart had made him a song,\nAnd clothed it with wings of desire,\nAnd shod it with shoon as of fire,\nTo carry the tale of his wrong\nTo the south-west wind by the sea,\nThat none might bear it but he\nTo the ear of the goddess unknown\nWho waits till her time shall be\nTo take the world for a throne.",
+      "provisionalTranslation": "北は、冬が長かった時、\n心の中に歌を作り、\n欲望の翼でそれを包み、\n炎のような靴でそれを履かせた、\n自分の不満の物語を運ぶために\n海辺の南西の風へと、\n彼以外の誰も運べないように\n未知の女神の耳へと\n彼女の時が来るまで待っている者、\n世界を玉座とする者の耳へと。"
+    },
+    {
+      "id": 5,
+      "verses": "Stanza V",
+      "original": "In the earth beneath, and above\nIn the heaven where her name is love,\nShe warms with light from her eyes\nThe seasons of life as they rise,\nAnd her eyes are as eyes of a dove,\nBut the wings that lift her and bear\nAs an eagle's, and all her hair\nAs fire by the wind's breath curled,\nAnd her passage is song through the air,\nAnd her presence is spring through the world.",
+      "provisionalTranslation": "地の下にも、上にも\n愛という名で知られる天においても、\n彼女は目からの光で温める\n生の季節を、それが昇るにつれて、\n彼女の目は鳩の目のよう、\nしかし彼女を持ち上げ運ぶ翼は\n鷲のように、そして彼女の髪はすべて\n風の息に巻かれた炎のように、\n彼女の通過は空気を通る歌、\n彼女の存在は世界を通る春。"
+    },
+    {
+      "id": 6,
+      "verses": "Stanza VI",
+      "original": "So turned she northward and came,\nAnd the white-thorn land was aflame\nWith the fires that were shed from her feet,\nThat the north, by her love made sweet,\nShould be called by a rose-red name;\nAnd a murmur was heard as of doves,\nAnd a music beginning of loves\nIn the light that the roses made,\nSuch light as the music loves,\nThe music of man with maid.",
+      "provisionalTranslation": "そして彼女は北に向かって来た、\n白い茨の土地は燃えていた\n彼女の足から注がれた炎で、\n彼女の愛によって甘くなった北が\n薔薇色の名で呼ばれるように；\n鳩のようなざわめきが聞こえ、\n愛の始まりの音楽が\n薔薇が作った光の中で、\n音楽が愛するような光の中で、\n男と乙女の音楽が。"
+    },
+    {
+      "id": 7,
+      "verses": "Stanza VII",
+      "original": "But the days drop one upon one,\nAnd a chill soft wind is begun\nIn the heart of the rose-red maze\nThat weeps for the roseleaf days\nAnd the reign of the rose undone\nThat ruled so long in the light,\nAnd by spirit, and not by sight,\nThrough the darkness thrilled with its breath,\nStill ruled in the viewless night,\nAs love might rule over death.",
+      "provisionalTranslation": "しかし日々は一つひとつと落ち、\n冷たい柔らかい風が始まる\n薔薇色の迷路の心の中で\n薔薇の葉の日々のために泣いて\n崩れ去った薔薇の支配のために\nあれほど長く光の中で支配した、\nそして精神によって、視覚ではなく、\nその息に震わされた暗闇を通って、\nいまだに見えない夜の中で支配する、\n愛が死の上に支配するように。"
+    },
+    {
+      "id": 8,
+      "verses": "Stanza VIII",
+      "original": "The time of lovers is brief;\nFrom the fair first joy to the grief\nThat tells when love is grown old,\nFrom the warm wild kiss to the cold,\nFrom the red to the white-rose leaf,\nThey have but a season to seem\nAs roseleaves lost on a stream\nThat part not and pass not apart\nAs a spirit from dream to dream,\nAs a sorrow from heart to heart.",
+      "provisionalTranslation": "恋人たちの時は短い；\n美しい最初の喜びから悲しみまで\n愛が老いたことを告げる悲しみまで、\n暖かく野性的な口付けから冷たい口付けまで、\n赤い薔薇の葉から白い薔薇の葉まで、\n彼らには一つの季節しかない\n流れの上に失われた薔薇の葉のように見える\n離れず別れて過ぎない\n精神が夢から夢へと、\n悲しみが心から心へと。"
+    },
+    {
+      "id": 9,
+      "verses": "Stanza IX",
+      "original": "From the bloom and the gloom that encloses\nThe death-bed of Love where he dozes\nTill a relic be left not of sand\nTo the hour-glass that breaks in his hand;\nFrom the change in the grey garden-closes\nTo the last stray grass of the strand,\nA rain and ruin of roses\nOver the red-rose land.",
+      "provisionalTranslation": "愛の死の床を閉ざす\n咲き乱れと薄暗がりから、愛がまどろむ\n彼の手の中で砕ける砂時計に\n砂の欠片一つも残らなくなるまで；\n灰色の庭の奥の変化から\n岸辺の最後の迷い込んだ草まで、\n薔薇の雨と廃墟\n薔薇色の土地の上に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "From the depths of the green garden-closes",
+      "body": "詩形：9連構成。第1・9連は8行（環状的開閉を担う「額縁」連）、第2〜8連は10行。各連の押韻は AABBAABBA 等の変形アナペスト・アイアンビックの混合で、Swinburne 特有の「音の波」を生む。「garden-closes / dozes / encloses / roses」の -oses 韻が第1連を貫く──同一音節の反復が「薔薇の支配」という主題を音響的に刻印する。第1連「holds not a sand（砂一粒も残らない砂時計）」と第9連「breaks in his hand（彼の手の中で砕ける砂時計）」の「砂時計（hour-glass）」の鏡像的対応が詩全体を環状に閉じる──バロック的 vanitas 画の定番モチーフ「砂時計」が詩形の骨格として機能する。コヘレト第1章v.6「in circulos suos revertitur（その巡回へと戻る）」の循環的時間論の詩的実演として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "How red was the reign of the roses\nOver the rose-crowned land!",
+      "body": "「reign of the roses（薔薇の支配）」──「reign（支配・治世）」という政治的語彙が薔薇の季節的支配に適用される：薔薇が「女王（queen）」として短い王国を治めるという比喩がこの詩全体の政治的寓話性を開く。「how red（なんと赤かったことか）」──感嘆句が過去形（was）で提示されることで、詩は冒頭から「すでに終わった盛り」を回想する悲歌的時制に置かれる。「rose-crowned land（薔薇の冠をいただく土地）」──「crowned（冠された）」という語が第9連「ruin of roses（薔薇の廃墟）」との対比を準備する：冠（crown）→廃墟（ruin）という王権失墜の構造が詩全体の弧を形成する。Swinburne「Dysthanatos」の「thrones whose trembling equipoise（震える均衡の玉座）」における王権の脆弱性と照応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The year of the rose is brief;",
+      "body": "「The year of the rose is brief（薔薇の年は短い）」──第8連「The time of lovers is brief（恋人たちの時は短い）」との対応句が詩全体の並行構造の軸をなす。「brief（短い）」という形容詞が「薔薇の年」と「恋人たちの時」という二つの主語に共通して適用されることで、自然時間と人間的時間の等価性が宣言される。「From the first blade blown to the sheaf（最初の芽吹きから穂束まで）」──農業的時間サイクルの始点と終点：「芽吹き→穂」という生長の全過程が「brief」として括弧に入る。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の世代的無常観の植物的変奏として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "As love is subdued not of death.",
+      "body": "「its spirit was quenched not of night, / As love is subdued not of death（その精神は夜に消えなかった、愛が死に屈しないように）」──第2連の結語命題。薔薇の精神が夜に消えないことと、愛が死に屈しないことが同型として提示される──「not…not」という二重否定の対句。第7連「As love might rule over death（愛が死の上に支配するように）」・「Euthanatos」結語「Could Death's self quench or blind, Love's self were dead（死が愛を消し去れるなら愛そのものが死んでいるだろう）」との三重の照応として：Swinburne 詩学における「愛の不死性」命題の三変奏。ダウスン「Vanitas」の「I cried for madder music and for stronger wine（より狂った音楽とより強い酒を求めて叫んだ）」との対比：Swinburne は愛の不死性を肯定し、Dowson は愛の消尽を哀悼する。",
+      "targetId": "swinburne_euthanatos",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Red-mouthed of a goddess, returned\nFrom the sea which had borne her and burned,",
+      "body": "「a goddess, returned / From the sea which had borne her and burned」──ヴィーナス（Aphrodite）の海からの誕生（ボッティチェッリ「ヴィーナスの誕生」）への明示的言及：「sea which had borne her（彼女を宿した海）」がヴィーナスの海泡誕生神話（Ἀφρο-δίτη：海の泡から）を示す。「burned（燃えた）」──海がヴィーナスの神的な炎によって「燃えた」という逆説：水が火を宿すという神話的倒置。「Red-mouthed（赤い口の）」──ヴィーナスの赤い唇が薔薇の赤さと同一化される：女神の身体と薔薇の植物が色彩（赤）によって融合する。D.G. Rossetti「Venus Verticordia」・「Proserpina」における女神の赤い口の官能的描写との Pre-Raphaelite 的連続性。「And the north was more than the south（北は南より豊かだった）」──ヴィーナスの到来によって北方（英国的寒冷地）が南方（地中海的豊穣地）を超えるという逆説：第4連の「北の冬の渇望」が第3連の「南の豊穣」を超える逆転として。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "And clothed it with wings of desire,\nAnd shod it with shoon as of fire,",
+      "body": "「clothed it with wings of desire（欲望の翼でそれを包んだ）」・「shod it with shoon as of fire（炎のような靴でそれを履かせた）」──「clothe（包む）」と「shod（履かせる）」という衣装・靴の動詞が「歌（song）」という非物体的なものを物体化する。「shoon（靴）」──古英語的複数形（shoes の詩的古形）：Swinburne の意図的な古語使用が中世牧歌の語彙的伝統への接続を示す。「wings of desire（欲望の翼）」──Eros の翼とのイメージ連結：「Dysthanatos」で「愛を狩り出し翼を抜く（Pluck out his flying-feather）」と対照的に、ここでは欲望の翼が北方の渇望を担う肯定的形象として機能する。「the goddess unknown / Who waits till her time shall be（彼女の時が来るまで待っている未知の女神）」──「unknown（未知の）」という形容詞がヴィーナスの名を伏せることで、普遍的な「愛の女神」の形象として拡張する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "And her passage is song through the air,\nAnd her presence is spring through the world.",
+      "body": "「her passage is song through the air / And her presence is spring through the world」──ヴィーナスの「通過（passage）」が「歌」として、「存在（presence）」が「春」として定義される：通過的・一時的な歌と、存在的・充満的な春の対比が女神の二つの側面を示す。「her eyes are as eyes of a dove / But the wings…as an eagle's」──「鳩の目（柔和・純粋）」と「鷲の翼（力強・高翔）」の対が「Euthanatos」の「Winged like a dove（鳩のような翼）」のヴィーナス的変奏として照応する：白い魂と愛の女神がともに「鳩」の形象を共有する。ヴェイユ「La Mer（海）」の「海の精神」概念との照応：ヴェイユが海を「必然性」の純粋な表象として論じるのに対し、Swinburne のヴィーナスは海から生まれた「愛の必然性」の化身として。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "But the days drop one upon one,",
+      "body": "「the days drop one upon one（日々は一つひとつと落ちる）」──「drop（落ちる・滴る）」という動詞が日々の経過を「液体の滴下」として提示する：時間の「落下（drop）」という重力的比喩がヴェイユ「pesanteur（重力）」──地上の力学的法則に縛られたすべての存在──との照応を開く。第1連「autumn pluck from his hand / An hour-glass（秋が手から取り上げる砂時計）」のイメージが「days drop（日々が落ちる）」として動詞化される。「And a chill soft wind is begun（冷たい柔らかい風が始まる）」──「chill（冷たい）」と「soft（柔らかい）」の形容詞の矛盾対が秋の風の両義性を示す：心地よい柔らかさを持ちながら冷たさで衰退を告げる風。コヘレト第1章v.6「Lustrans universa in circuitu pergit spiritus（風はあらゆるところを照らしながら巡り続ける）」の風の循環との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "As love might rule over death.",
+      "body": "第2連「As love is subdued not of death」・第7連「As love might rule over death」・「Euthanatos」結語「Could Death's self quench or blind, Love's self were dead」という三命題の進行：第2連は「愛は死に屈しない（現在的事実）」、第7連は「愛が死を支配するかもしれない（仮定的可能性）」、「Euthanatos」は「死が愛を消し去れるなら愛が存在しない（反事実的条件法）」として、同一命題が確信→仮定→逆説的証明へと強度を増す三段階として。ソネット連作「Monna Innominata」終行「Silence of love that cannot sing again（再び歌えない愛の沈黙）」との対比：Swinburne の「love might rule over death」（愛による死の支配）対 Christina Rossetti の「silence of love（愛の沈黙）」という英国 Victorian 詩における愛の結末の二極として。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "The time of lovers is brief;",
+      "body": "「The time of lovers is brief（恋人たちの時は短い）」──第2連「The year of the rose is brief」との対応句。「year of the rose（薔薇の年）」→「time of lovers（恋人たちの時）」という主語の交代が「自然時間と人間的時間の同型性」の構造的証明として機能する。「From the red to the white-rose leaf（赤い薔薇の葉から白い薔薇の葉まで）」──「赤（red）→白（white）」という色彩変化が愛の熱情から冷却・死への移行を示す：赤い薔薇（愛・情熱・血）と白い薔薇（死・純潔・消滅）の対は西洋詩の「色彩の死の美学」の定型。クリスティーナ・ロセッティ「Sweet Death」・ダウスン「Vanitas」の白さと死の照応として。",
+      "targetId": "dowson_vanitas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "As roseleaves lost on a stream\nThat part not and pass not apart\nAs a spirit from dream to dream,\nAs a sorrow from heart to heart.",
+      "body": "「As roseleaves lost on a stream / That part not and pass not apart」──「part not and pass not apart（離れず別れて過ぎない）」という語の内的緊張：「part（離れる）」と「pass apart（別れて過ぎる）」の両否定が「離れることなく・しかし流されていく」という矛盾的結合を示す。「As a spirit from dream to dream, / As a sorrow from heart to heart」──「spirit from dream to dream（夢から夢へと移る精神）」と「sorrow from heart to heart（心から心へと移る悲しみ）」という二つの「移行（from…to）」が恋人たちの「離れないが失われていく」状態の比喩として。第2連「mix their breath（息を混ぜ合わせた）」という恋人の合一が、第8連「sorrow from heart to heart（悲しみが心から心へ）」という分離的哀悼へと変容する──「合一（mix）→分離（sorrow）」の詩的弧が詩全体の感情的移行を示す。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "A rain and ruin of roses\nOver the red-rose land.",
+      "body": "「A rain and ruin of roses（薔薇の雨と廃墟）」──頭韻（rain / ruin / roses すべて r-）が崩壊の音響的模倣として機能する：薔薇の「雨（rain）」が「廃墟（ruin）」と同語根的に響き合い、降り注ぐ薔薇の花弁そのものが廃墟の断片として提示される。第1連「How red was the reign of the roses（薔薇の支配はなんと赤かったことか）」の「reign（支配）」が第9連「ruin（廃墟）」へと変容する：r-音の連鎖が「reign→rain→ruin」という語彙的崩壊過程を音的に実演する。「The death-bed of Love where he dozes（愛がまどろむ愛の死の床）」──第1連「summer in darkness dozes（夏が暗闇の中でまどろむ）」の「dozes」が第9連「Love…dozes（愛がまどろむ）」として反響する：夏のまどろみが愛の臨終のまどろみとして反復される。'A Forsaken Garden'の「dead men's dead gardens（死者の死んだ庭）」と並ぶ Swinburne の廃墟的終結として、コヘレト「afflictio spiritus（霊の苦悩）」の詩的等価物として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
