@@ -1,0 +1,108 @@
+{
+  "id": "swinburne_dysthanatos",
+  "title": "Dysthanatos",
+  "author": "Algernon Charles Swinburne",
+  "source": "Tristram of Lyonesse and Other Poems (1882). Wikisource: https://en.wikisource.org/wiki/Tristram_of_Lyonesse_and_Other_Poems/Dysthanatos",
+  "year": "1882",
+  "firstPublication": "Tristram of Lyonesse and Other Poems (Chatto & Windus, 1882)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「Dysthanatos（δύσθανατος：悪しき死・難しい死）」はAlgernon Charles Swinburne（1837–1909）が1881年3月14日に書き、詩集『Tristram of Lyonesse and Other Poems』（1882）に収録した政治的ソネット。タイトルは「Euthanatos（善き死）」と対をなすギリシャ語造語──「δυσ-（悪い・困難な）＋θάνατος（死）」──であり、両詩は同詩集内に収録される。詩の歴史的背景：アレクサンドル2世（1818–1881）は1881年3月13日（ユリウス暦3月1日）にサンクトペテルブルクで虚無主義者（Народная воля）の爆弾により暗殺された──この詩はその翌日（3月14日）に書かれた即興的政治詩。Swinburneは熱烈な共和主義者・反帝国主義者であり、アレクサンドル2世を「白いツァーリ（White Czar）」として「ポーランドに名を血で書いた者（The name writ red on Polish earth）」──1863年のポーランド一月蜂起の残酷な鎮圧者──として批判する。しかし同時に「自由人の声は王の死を喜んではならない（may no free man's voice / rejoice）」という倫理的制止が詩の緊張を形成する。ラテン語エピグラフはユウェナリス（Juvenalis）『風刺詩』第10歌112–113行からの引用：「Ad generem Cereris sine cæde et vulnere pauci / Descendunt reges, aut siccâ morte tyranni（ケレスの一族の許へ、流血と傷なしに降りる王はほとんどいない、あるいは乾いた死で死ぬ暴君も）」──暴力的死が王・暴君の常態であるという古代的格言が詩のエピグラフとして機能する。「Euthanatos」と「Dysthanatos」の対置：聖なる女性の「善き死（白い魂の上昇）」と暴君の「悪しき死（血に染まる死）」が同詩集内で対称的に並ぶことで、死の質的差異という主題が詩集レベルで展開される。",
+  "keywords": [
+    "δύσθανατος",
+    "悪しき死",
+    "アレクサンドル2世",
+    "暗殺",
+    "White Czar",
+    "ポーランド",
+    "Juvenalis",
+    "政治ソネット",
+    "共和主義",
+    "暴君"
+  ],
+  "relatedTexts": [
+    "swinburne_euthanatos",
+    "swinburne_garden_of_proserpine",
+    "swinburne_a_match",
+    "simonides_ap_x_105",
+    "palladas_ap_x_85",
+    "george_nietzsche",
+    "george_widerchrist"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Ad generem Cereris sine cæde et vulnere pauci\nDescendunt reges, aut siccâ morte tyranni.",
+      "provisionalTranslation": "ケレスの一族の許へ、流血と傷なしに降りる王はほとんどいない、\nあるいは乾いた死で死ぬ暴君も。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "By no dry death another king goes down\nThe way of kings. Yet may no free man's voice,\nFor stern compassion and deep awe, rejoice\nThat one sign more is given against the crown,",
+      "provisionalTranslation": "乾いた死によってではなく、また別の王が降りていく\n王たちの道を。しかしいかなる自由人の声も、\n厳粛な同情と深い畏敬のゆえに、喜んではならない、\n王冠に対するまた一つの徴が与えられたことを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "That one more head those dark red waters drown\nWhich rise round thrones whose trembling equipoise\nIs propped on sand and bloodshed and such toys\nAs human hearts that shrink at human frown.",
+      "provisionalTranslation": "またひとつの首を、あの暗い赤い水が溺れさせたことを、\nその水は玉座の周りに満ちていく、その玉座の震える均衡は\n砂と流血とこのような玩具に支えられている──\n人間の眉顰めに縮み上がる人間の心という玩具に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "The name writ red on Polish earth, the star\nThat was to outshine our England's in the far\nEast heaven of empire—where is one that saith",
+      "provisionalTranslation": "ポーランドの大地に血で書かれた名、その星、\nはるか東方の帝国の空においてわれわれのイングランドの星を\n凌ぐはずだったもの──誰がいま言えようか、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "'In bloodless pangs few kings yield up their breath,\nFew tyrants perish by no violent death,'",
+      "provisionalTranslation": "「血なき苦悶の中で息を吐き出す王はほとんどいない、\n暴力的でない死によって滅びる暴君もほとんどいない」と。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Ad generem Cereris sine cæde et vulnere pauci\nDescendunt reges, aut siccâ morte tyranni.",
+      "body": "ユウェナリス（Decimus Iunius Iuvenalis, c. 55–130 AD）『風刺詩（Saturae）』第10歌112–113行からの引用。「Ad generem Cereris（ケレスの一族の許へ）」──「ケレス（Ceres）の一族」は冥界の支配者プルートーの妃ペルセポネの母ケレス（デメテル）への言及：冥府への「降下（descendere）」を「ケレスの一族の許への到達」として婉曲的に表現する。「siccâ morte（乾いた死で）」──「sicca mors（乾いた死・血のない死）」：「流血（cæde）と傷（vulnere）なし」の死──つまり暴力なき自然死。王・暴君に「乾いた死」はほとんどないというユウェナリス的風刺的格言がSwinburneの詩全体の命題を予告する。「Euthanatos」との対比：ユウェナリスの格言は「王と暴君の死は常に暴力的（non sicca）」という観察として、Swinburneの「Euthanatos（善き死）」対「Dysthanatos（悪しき死）」という詩集レベルの対称の神学的・政治的根拠として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "By no dry death another king goes down",
+      "body": "「By no dry death（乾いた死によってではなく）」──エピグラフ「siccâ morte（乾いた死）」の英語的変奏として詩が開始する：ラテン語エピグラフの「sicca mors」が「dry death」として英語詩に移植される語彙的連続性。「another king goes down / The way of kings」──「another（また別の）」という副詞が歴史的連続性・循環性を示す：アレクサンドル2世が暴力的死によって死んだ「また別の王」として、ユウェナリス的格言を歴史的に例証する事例として位置づけられる。「Yet may no free man's voice…rejoice」──逆接（yet）による倫理的制止：Swinburneの共和主義的立場では王の死は体制への打撃として「歓迎すべき」はずだが、「自由人の声は喜んではならない（may no…rejoice）」という自己制止が挿入される。「stern compassion and deep awe（厳粛な同情と深い畏敬）」──「同情（compassion）」と「畏敬（awe）」という相矛盾する感情の共存が詩の倫理的緊張を形成する。シモニデス「AP VII 253」の「εἰ τὸ καλῶς θνῄσκειν ἀρετῆς μέρος ἐστὶ μέγιστον（高潔に死ぬことが徳の最大の部分）」との逆説的対話：暴君の「悪しき死（Dysthanatos）」は「高潔な死（καλῶς θνῄσκειν）」の否定として。",
+      "targetId": "simonides_ap_vii_253",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "That one more head those dark red waters drown",
+      "body": "「dark red waters（暗い赤い水）」──血の比喩：王座の周囲に満ちる「血」の水が王権の維持コストとして提示される。「Which rise round thrones（玉座の周りに満ちていく）」──「rise（上昇する・満ちる）」という動詞が「もう一つの首を溺れさせる」まで上昇する血の水位の持続的増大として。「thrones whose trembling equipoise / Is propped on sand and bloodshed」──「trembling equipoise（震える均衡）」という均衡論：王座の安定性が「砂（sand）と流血（bloodshed）と玩具（toys）」に支えられているという不安定な基盤の露呈。「砂の上に建てる」──マタイ7:26「建てた家が砂の上に建てられた愚かな人」との照応：王権という「家」の砂上の楼閣的脆弱性。「As human hearts that shrink at human frown（人間の眉顰めに縮み上がる人間の心という玩具）」──「恐怖による支配」の定義：王権の基盤が物理的暴力だけでなく、臣民の心理的萎縮（shrink）にあるという権力論的分析。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Is propped on sand and bloodshed and such toys\nAs human hearts that shrink at human frown.",
+      "body": "「Dysthanatos」はペトラルカ式ソネット（ABBA ABBA / CDC DCD）に準じた14行詩として構成されるが、Swinburneは最終2行を引用符付きの二行連句として分離し、エピグラフのユウェナリス格言の英語的反響として「詩の中の引用」という形式的入れ子を作る。韻型：第1連「down / voice / rejoice / crown」（ABBA）、第2連「drown / equipoise / toys / frown」（ABBA）、第3連「star / far / saith」（CCD）、第4連「breath / death」（EE）──セステットが三行連句ではなく3＋2行に分割され、最終2行がユウェナリスの格言の英語的再現として括弧的に閉じる形式。「Euthanatos」（9連×7行）との形式的対比：「善き死」は拡張的・音楽的詩形であり、「悪しき死」は圧縮的・論証的ソネット形式である──死の質的差異が詩形の差異として実演される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The name writ red on Polish earth, the star\nThat was to outshine our England's in the far\nEast heaven of empire—where is one that saith",
+      "body": "「The name writ red on Polish earth（ポーランドの大地に血で書かれた名）」──歴史的背景：アレクサンドル2世は1863年のポーランド一月蜂起（Powstanie Styczniowe）を「血（red）」で鎮圧した。蜂起後のポーランドへの厳しい報復──言語・文化・宗教の弾圧、強制移送──が「ポーランドの大地に血で書かれた名」として凝縮される。「the star / That was to outshine our England's（イングランドの星を凌ぐはずだった星）」──「star（星）」という比喩がアレクサンドル2世の帝国的野望──特に中央アジア・インドへの膨張政策、「グレートゲーム」においてイギリスと競合した帝国主義的拡張──を指す。「in the far / East heaven of empire（帝国の遠い東方の空に）」──「East（東）」がロシアの中央アジア征服・インドへの脅威という地政学的文脈を召喚する。「where is one that saith（誰がいま言えようか）」──修辞的疑問（rhetorical question）がセステットの転換点として機能する：誰もいまは「白いツァーリ」の偉大さを讃える言葉を言えないという歴史的修辞的問い。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "'In bloodless pangs few kings yield up their breath,\nFew tyrants perish by no violent death,'",
+      "body": "詩の最終2行はエピグラフのユウェナリス格言（「siccâ morte tyranni」）の英語的変奏として引用符に収められ、詩全体を閉じる。「In bloodless pangs（血なき苦悶の中で）」──「bloodless（血のない）」という形容詞がエピグラフの「sine cæde et vulnere（流血と傷なしに）」・「siccâ morte（乾いた死）」に対応する。「few kings yield up their breath / Few tyrants perish by no violent death」──エピグラフの「pauci（ほとんどいない）」が「few」として英語に移植される：格言的二行連句が詩の歴史的事例（アレクサンドル2世の暗殺）を普遍的格言の例証として回収する。この引用形式は「詩人の声」がユウェナリスの古代的権威に一時的に場所を譲るという構造：Swinburneの共和主義的立場が「個人的判断」としてではなく「古代の格言の確認」として提示される。シモニデス「AP X 105」「θανάτῳ πάντες ὀφειλόμεθα（死に皆、負債を負っている）」との照応：すべての者が死に負債を負うが、王・暴君の死は「暴力的負債の支払い（violent death）」として提示される──負債の弁済形式の差異として。",
+      "targetId": "simonides_ap_x_105",
+      "targetParagraphId": 1
+    }
+  ]
+}
