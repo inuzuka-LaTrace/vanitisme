@@ -1,0 +1,172 @@
+{
+  "id": "swinburne_rococo",
+  "title": "Rococo",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, First Series (1866). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads_(Swinburne)/Rococo",
+  "year": "1866",
+  "firstPublication": "Poems and Ballads (Moxon, 1866)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「Rococo（ロココ）」はAlgernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, First Series』（1866）所収。10連×8行構成、弱強三歩格（iambic trimeter）を基調とし、ABABCDCD の押韻型が各連を貫く。タイトル「Rococo」──18世紀フランスの装飾芸術様式であるロココが示す「過剰な装飾・優雅な形式・軽妙さ」が詩の逆説的タイトルとして機能する：詩の内容は「三日間（three days）の愛の消尽・記憶と忘却・快楽と苦痛の不可分性」という重い主題であり、「ロココ」という軽妙な様式名との乖離がそのまま詩の緊張を形成する。詩全体を貫くのは「remember（覚えている）/ forget（忘れる）」という語の反復的対立──各連末部に置かれる「remember / forget」の対が10連にわたって変奏される構造的リフレイン。「pleasure（快楽）/ pain（苦痛）」の対語もほぼ全連に登場し、Swinburne詩学の核心命題「快楽と苦痛の不可分性」を形式的に実演する。固有名「Juliette（ジュリエット）」が第8連に突如現れることで、それまで匿名だった詩の語り手と相手に個人的次元が一瞬開かれるが、すぐに「time will not forget（時間は忘れない）」という格言的閉じに回収される。「The Year of the Rose」の「brief（短い）」が植物的・季節的時間を描くのに対し、「Rococo」では「three days' love（三日間の愛）」という究極的に圧縮された愛の時間が提示される──Swinburne愛の詩学における「時間による消尽」の最も苛烈な表現。",
+  "keywords": [
+    "remember", "forget", "pleasure", "pain", "three days", "Juliette",
+    "ロココ", "記憶と忘却", "快楽と苦痛", "愛の消尽", "時間"
+  ],
+  "relatedTexts": [
+    "swinburne_year_of_the_rose",
+    "swinburne_a_match",
+    "swinburne_at_parting",
+    "swinburne_garden_of_proserpine",
+    "dowson_vanitas",
+    "verlaine_colloque_sentimental",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "Take hands and part with laughter;\nTouch lips and part with tears;\nOnce more and no more after,\nWhatever comes with years.\nWe twain shall not remeasure\nThe ways that left us twain;\nNor crush the lees of pleasure\nFrom sanguine grapes of pain.",
+      "provisionalTranslation": "手を取り合い、笑いながら別れよう；\n唇を触れ合わせ、涙ながらに別れよう；\nもう一度だけ、そしてそれ以後はなし、\n年月がいかなるものをもたらそうとも。\nわれわれ二人はもはや測り直さないだろう\nわれわれを二人のままにした道を；\n苦悩の血色の葡萄から\n快楽の澱をもはや搾ることもしない。"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "We twain once well in sunder,\nWhat will the mad gods do\nFor hate with me, I wonder,\nOr what for love with you?\nForget them till November,\nAnd dream there's April yet;\nForget that I remember,\nAnd dream that I forget.",
+      "provisionalTranslation": "われわれ二人がいったんよく離れたなら、\n狂える神々は何をするだろうか\n私への憎しみのために、と私は思う、\nあるいはあなたへの愛のために何を？\n十一月まで彼らを忘れよう、\nそして、まだ四月があると夢を見よう；\n私が覚えていることを忘れよう、\nそして私が忘れると夢を見よう。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "Time found our tired love sleeping,\nAnd kissed away his breath;\nBut what should we do weeping,\nThough light love sleep to death?\nWe have drained his lips at leisure,\nTill there's not left to drain\nA single sob of pleasure,\nA single pulse of pain.",
+      "provisionalTranslation": "時間はわれわれの疲れた愛が眠っているのを見つけ、\nその息を口付けして奪い去った；\nしかし軽い愛が死へと眠ったとしても\nわれわれが泣いて何をすべきだろうか？\nわれわれは閑かに彼の唇を飲み干した、\n残るものが何もなくなるまで搾り取って──\n快楽の一つのすすり泣きも、\n苦痛の一つの脈動も。"
+    },
+    {
+      "id": 4,
+      "verses": "Stanza IV",
+      "original": "Dream that the lips once breathless\nMight quicken if they would;\nSay that the soul is deathless;\nDream that the gods are good;\nSay March may wed September,\nAnd time divorce regret;\nBut not that you remember,\nAnd not that I forget.",
+      "provisionalTranslation": "かつて息絶えた唇が\n望めば蘇るかもしれないと夢を見よう；\n魂は不死であると言おう；\n神々は善いと夢を見よう；\n三月が九月と結婚するかもしれないと言おう、\n時間が後悔を離婚させると言おう；\nしかしあなたが覚えているとは言うな、\nそして私が忘れるとも言うな。"
+    },
+    {
+      "id": 5,
+      "verses": "Stanza V",
+      "original": "We have heard from hidden places\nWhat love scarce lives and hears:\nWe have seen on fervent faces\nThe pallor of strange tears:\nWe have trod the wine-vat's treasure,\nWhence, ripe to steam and stain,\nFoams round the feet of pleasure\nThe blood-red must of pain.",
+      "provisionalTranslation": "われわれは隠された場所から聞いた\n愛がかろうじて生きて聞くものを；\nわれわれは熱情的な顔に見た\n奇妙な涙の青ざめを；\nわれわれはぶどう搾り樽の宝を踏みしだいた、\nそこから、熱気と汚れに熟して、\n快楽の足元に泡立つ\n苦痛の血赤いマストが。"
+    },
+    {
+      "id": 6,
+      "verses": "Stanza VI",
+      "original": "Remembrance may recover\nAnd time bring back to time\nThe name of your first lover,\nThe ring of my first rhyme;\nBut rose-leaves of December\nThe frosts of June shall fret,\nThe day that you remember,\nThe day that I forget.",
+      "provisionalTranslation": "記憶は回復するかもしれず\n時間は時間へと連れ戻すかもしれない\nあなたの最初の恋人の名を、\nわたしの最初の韻律の響きを；\nしかし十二月の薔薇の葉を\n六月の霜が悩ませるだろう、\nあなたが覚えているその日に、\n私が忘れるその日に。"
+    },
+    {
+      "id": 7,
+      "verses": "Stanza VII",
+      "original": "The snake that hides and hisses\nIn heaven we twain have known;\nThe grief of cruel kisses,\nThe joy whose mouth makes moan;\nThe pulse's pause and measure,\nWhere in one furtive vein\nThrobs through the heart of pleasure\nThe purpler blood of pain.",
+      "provisionalTranslation": "隠れて囁く蛇を\n天においてわれわれ二人は知った；\n残酷な口付けの悲しみを、\n口が呻くような喜びを；\n脈動の停止と律動を、\nひそかな一つの静脈の中で\n快楽の心臓を通り脈打つ\n苦痛のより紫色の血が。"
+    },
+    {
+      "id": 8,
+      "verses": "Stanza VIII",
+      "original": "We have done with tears and treasons\nAnd love for treason's sake;\nRoom for the swift new seasons,\nThe years that burn and break,\nDismantle and dismember\nMen's days and dreams, Juliette;\nFor love may not remember,\nBut time will not forget.",
+      "provisionalTranslation": "われわれは涙と裏切りと\n裏切りのための愛を終えた；\n素早い新しい季節のために場所を空けよう、\n燃えて砕ける年月のために、\n人々の日々と夢を\n解体し粉砕する年月のために、ジュリエット；\nなぜなら愛は覚えていないかもしれないが、\n時間は忘れないだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "Stanza IX",
+      "original": "Life treads down love in flying,\nTime withers him at root;\nBring all dead things and dying,\nReaped sheaf and ruined fruit,\nWhere, crushed by three days' pressure,\nOur three days' love lies slain;\nAnd earlier leaf of pleasure,\nAnd latter flower of pain.",
+      "provisionalTranslation": "人生は飛ぶ中で愛を踏み倒す、\n時間は根元から彼を萎らせる；\n死んだものと死にゆくものすべてを持ってこよう、\n刈り取られた穂束と台無しになった果実を、\nそこに、三日間の重みに押しつぶされて、\nわれわれの三日間の愛が殺されて横たわる；\n快楽のより早い葉と、\n苦痛のより遅い花とともに。"
+    },
+    {
+      "id": 10,
+      "verses": "Stanza X",
+      "original": "Breathe close upon the ashes,\nIt may be flame will leap;\nUnclose the soft close lashes,\nLift up the lids, and weep.\nLight love's extinguished ember,\nLet one tear leave it wet\nFor one that you remember\nAnd ten that you forget.",
+      "provisionalTranslation": "灰の上に近く息を吹きかけよ、\n炎が躍り上がるかもしれない；\n柔らかく閉じたまつ毛を開けよ、\n瞼を持ち上げて、泣こう。\n愛の消えかけた残り火を灯せ、\n一粒の涙でそれを湿らせよ\nあなたが覚えている一つのために\nそしてあなたが忘れる十のために。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Take hands and part with laughter;",
+      "body": "詩形：10連×8行、弱強三歩格（iambic trimeter）基調、ABABCDCD 押韻型。タイトル「Rococo」──18世紀フランスの装飾芸術様式（ワトー、フラゴナール等）の「軽妙・過剰装飾・優雅」と、詩の「愛の消尽・苦痛・三日間の死」という重い内容の乖離がロココ的逆説として機能する：軽快な詩形（trimeter）と重い主題の対位法。「Take hands and part with laughter; / Touch lips and part with tears」──対句構文（TAKE…part / Touch…part）が別れの行為を二重に提示する：「笑いながらの別れ」と「涙の別れ」が連の冒頭を挟む対。「Once more and no more after（もう一度だけ、それ以後はなし）」──「once more」という反復の許可と「no more after」という絶対的閉止の矛盾対が詩全体のトーンを設定する。「At Parting」の「Love can but last in us here at his height / For a day and a night」という肯定的受容に対し、「Rococo」は「Once more and no more after」という切断としての別れから始まる──Swinburne愛の詩学における「肯定的充足（At Parting）」対「苦い終焉（Rococo）」の対照として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Nor crush the lees of pleasure\nFrom sanguine grapes of pain.",
+      "body": "「lees of pleasure（快楽の澱）」・「sanguine grapes of pain（苦痛の血色の葡萄）」──ワイン醸造の比喩が快楽と苦痛の関係を定式化する：「苦痛（pain）」という葡萄から「快楽（pleasure）」という澱が搾り取られる──苦痛が快楽の原料であるという逆説。「sanguine（血色の・楽観的）」の二義：① 赤みがかった・血の色の、② 楽観的な。「苦痛の楽観的な葡萄」という矛盾形容が Swinburne 詩学の中核命題「快楽と苦痛の不可分性」を一語に圧縮する。この「葡萄と澱」の比喩が第5連「wine-vat's treasure（ぶどう搾り樽の宝）」・「blood-red must of pain（苦痛の血赤いマスト）」として展開される──第1連の比喩が第5連で具体的場面として開花する詩的伏線。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Forget that I remember,\nAnd dream that I forget.",
+      "body": "「Forget that I remember, / And dream that I forget」──詩全体を貫く「remember / forget」の対立の最初の完全な定式。「私が覚えていることを忘れよう、そして私が忘れると夢を見よう」──「忘れること（forget）」を「覚えていること（remember）」の上に重ねるという入れ子の逆説：「覚えていることの忘却」と「忘却の夢想」が同時に命じられる。「Forget them till November / And dream there's April yet」──十一月（晩秋）と四月（春）という時間的対が夢想の構造として：十一月（衰退・終わり）が現実であるが、四月（再生・始まり）をまだあると「夢見る（dream）」ことが提案される。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消去命題が、ここでは「remember / forget」という個人的意志の問いとして再定式化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Time found our tired love sleeping,\nAnd kissed away his breath;",
+      "body": "「Time found our tired love sleeping, / And kissed away his breath」──「時間（Time）」の擬人化が「眠っている愛に口付けして息を奪う」という死の形象として：「kissed away his breath（息を口付けして奪い去った）」は愛の「死の口付け」──通常「口付け＝生命力の交換」という比喩を逆転させ、時間が愛の息（breath）を口付けによって吸い取る。「The Year of the Rose」の「Time withers him at root（時間は根元から彼を萎らせる）」との照応：どちらも「時間」が愛を擬人化し、能動的に愛を滅ぼす。「But what should we do weeping, / Though light love sleep to death?」──「軽い愛（light love）」という形容が重要：真剣な愛ではなく「軽い愛」が「死へと眠る（sleep to death）」ことへの冷静な問い。ヴェルレーヌ「Colloque Sentimental」の「C'est bien le paradis perdu（これはまさに失われた楽園）」という追悼的問答との照応：どちらも「終わった愛」に対して嘆きの無効性を示す。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "A single sob of pleasure,\nA single pulse of pain.",
+      "body": "「A single sob of pleasure, / A single pulse of pain」──「sob（すすり泣き）」と「pulse（脈動）」という身体的感覚語が「pleasure（快楽）」と「pain（苦痛）」に各々付与される：「快楽のすすり泣き」と「苦痛の脈動」という感覚的交差（synesthesia）が快楽と苦痛の身体的融合を示す。「drained his lips at leisure（閑かに彼の唇を飲み干した）」──愛という飲み物を「飲み干す（drain）」という消費の比喩：第1連「lees of pleasure（快楽の澱）」・「sanguine grapes of pain（苦痛の葡萄）」のワイン的比喩が「drain（飲み干す）」として具体化される。「not left to drain（搾り取るものが何もない）」──完全な消尽の宣言：快楽も苦痛も残滓がない完全な「飲み干し」として愛の終焉が定義される。ダウスン「Vanitas」の消尽した愛の語彙（「madder music…stronger wine」）との照応。",
+      "targetId": "dowson_vanitas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "But not that you remember,\nAnd not that I forget.",
+      "body": "「Say that the soul is deathless; / Dream that the gods are good」──一連の仮定的希望の連鎖（「夢を見よう／言おう」）が第4連を占める：魂の不死・神の善性・三月と九月の結婚・後悔の離婚──いずれも現実ではない「夢想」として提示される。「Say March may wed September（三月が九月と結婚するかもしれないと言おう）」──三月（春・始まり）と九月（秋・終わり）という相反する季節の結婚という不可能な比喩が「time divorce regret（時間が後悔を離婚させる）」と対をなす：結婚（march/september）と離婚（time/regret）の婚姻的比喩の連鎖。「But not that you remember, / And not that I forget」──第2連「Forget that I remember, / And dream that I forget」の否定的変奏：「夢を見てよい（forget/dream）」しかし「覚えていることとして（remember）言うな・忘れることとして（forget）言うな」。第4連は「記憶と忘却の禁止」として第2連の「記憶と忘却の命令」を逆転する──詩全体の「remember/forget」の弁証法的深化として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "We have trod the wine-vat's treasure,\nWhence, ripe to steam and stain,\nFoams round the feet of pleasure\nThe blood-red must of pain.",
+      "body": "「wine-vat's treasure（ぶどう搾り樽の宝）」──第1連「sanguine grapes of pain（苦痛の葡萄）」の比喩を引き継ぎ、搾り樽（wine-vat）において「宝（treasure）」が踏みしだかれる過程を描く。「ripe to steam and stain（熱気と汚れに熟して）」──熟成の「蒸気（steam）」と「汚れ（stain）」が官能的なものと腐敗的なものの両義を持つ。「Foams round the feet of pleasure / The blood-red must of pain（快楽の足元に泡立つ苦痛の血赤いマスト）」──「must（マスト：葡萄搾り汁）」が「苦痛」の形容として「blood-red（血赤い）」と結合する：快楽（feet）の足元を苦痛の血が泡立って囲む空間的形象が快楽と苦痛の同時性・不可分性を視覚的に定式化する。「We have heard…We have seen…We have trod（聞いた…見た…踏んだ）」という三段の経験の累積が第5連を「愛の共有体験の証言」として位置づける。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "The day that you remember,\nThe day that I forget.",
+      "body": "「rose-leaves of December / The frosts of June shall fret」──「十二月の薔薇の葉を六月の霜が悩ませる」という季節的逆転の比喩：十二月（冬）の薔薇と六月（夏）の霜という双方向の季節倒錯が「不可能な記憶と忘却」の時間的逆説を示す。「The Year of the Rose」の「From the red to the white-rose leaf（赤い薔薇から白い薔薇の葉へ）」との色彩的照応：薔薇の葉が熱情の記号として機能しながら、季節的不可能性（December roses, June frosts）において「記憶と忘却の乖離」を形象化する。「The day that you remember, / The day that I forget」──詩の全体的「remember/forget」構造の第三の変奏：第2連（忘れよ・夢見よ）→第4連（言うな）→第6連（あなたが覚える日、私が忘れる日）という記憶と忘却の非対称性として──「あなたが覚えている日こそ私が忘れる日」という絶対的乖離の宣言。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "The purpler blood of pain.",
+      "body": "「The snake that hides and hisses / In heaven（天において隠れて囁く蛇）」──エデンの蛇（創世記3章）の天上的変奏：「heaven（天）」における「蛇（snake）」という逆説的配置が、「禁じられた愛の甘美と危険」をパラダイス的・堕罪的文脈に置く。「At Parting」の「myrtles forbidden us（われわれに禁じられた月桃）」という禁じられた聖域との照応。「The pulse's pause and measure, / Where in one furtive vein / Throbs through the heart of pleasure / The purpler blood of pain」──「furtive vein（ひそかな静脈）」において快楽の心臓を「苦痛のより紫色の血（purpler blood of pain）」が通り脈打つという解剖学的形象：「purpler（より紫色の）」という比較級が通常の赤い血よりも暗い・深い・苦痛の色として苦痛を快楽の内部に位置づける。詩全体の「pleasure/pain」の不可分性の最も精緻な身体的定式化として。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "For love may not remember,\nBut time will not forget.",
+      "body": "「Juliette」──詩で唯一登場する固有名。シェイクスピア「ロミオとジュリエット」のジュリエットとの関連が想起されるが、Swinburne は直接的典拠を示さず、「愛と死の女性」の普遍的名として召喚する。「Men's days and dreams, Juliette」という呼びかけが「時間によって解体される人間の日々と夢」の中にジュリエットを埋め込むことで、個人的追悼と普遍的無常の間を揺れ動く。「For love may not remember, / But time will not forget」──詩全体の「remember/forget」構造の第四変奏にして最初の格言的断言：「愛は覚えていないかもしれないが、時間は忘れない」。愛の忘却対時間の記憶という非対称性が第8連で初めて「but（しかし）」という逆接による断言として提示される──詩の感情的転換点。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」との逆説的対話：コヘレトは「記憶はない」と言い、Swinburneは「時間は忘れない」と言う──「記憶の消去」対「時間の記憶」。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Life treads down love in flying,\nTime withers him at root;",
+      "body": "「Life treads down love in flying（人生は飛ぶ中で愛を踏み倒す）」・「Time withers him at root（時間は根元から彼を萎らせる）」──「人生（Life）」と「時間（Time）」という二つの擬人化された力が「love（愛）」を破壊する二重の攻撃として。「treads down in flying（飛ぶ中で踏み倒す）」──「飛翔（flying）」という動作が「踏み倒し（treads down）」という矛盾的同時性として：人生は飛翔しながら足元の愛を踏み潰す。「The Year of the Rose」「Time withers him at root」との同一表現：両詩において「時間が根元から萎らせる」という植物的比喩が愛の死を定式化する。「Our three days' love lies slain（われわれの三日間の愛が殺されて横たわる）」──「three days（三日間）」という究極的圧縮：「At Parting」の「a day and a night（一日と一夜）」・「The Year of the Rose」の「brief（短い）」・「Rococo」の「three days（三日間）」という Swinburne 愛の時間的圧縮の三段階。「slain（殺された）」という過去分詞が愛を「横たわる死者」として──シモニデス「AP VII 249」の「τῇδε κείμεθα（ここに横たわっている）」との戦士的横臥の逆説的照応として。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "For one that you remember\nAnd ten that you forget.",
+      "body": "「Breathe close upon the ashes, / It may be flame will leap（灰の上に近く息を吹きかけよ、炎が躍り上がるかもしれない）」──「灰（ashes）」から「炎（flame）」の再点火という希望的比喩が、詩全体の「消尽・消滅」に対して最後の反転として提示される。「Euthanatos」の「A soul wherein love shone / Even like the sun」との照応：愛の炎の残り火（ember）という形象。「Unclose the soft close lashes, / Lift up the lids, and weep（柔らかく閉じたまつ毛を開けよ、瞼を持ち上げて泣こう）」──「close…close（閉じた）」の反復が「まつ毛が閉じている」という眠り・死の状態と「開く（unclose）」という意識への帰還の緊張として。「Light love's extinguished ember, / Let one tear leave it wet / For one that you remember / And ten that you forget」──詩の最終定式：一つの記憶（remember）と十の忘却（forget）の非対称が1対10という数的比率として結晶化される。「ten that you forget（あなたが忘れる十）」という数的誇張が忘却の圧倒的優位性を示しながら、「For one that you remember（一つを覚えていることのために）」という微細な残存記憶へ一滴の涙を捧げる詩の閉じとして──記憶の希少性と忘却の支配性の最後の定式。",
+      "targetId": "swinburne_euthanatos",
+      "targetParagraphId": 9
+    }
+  ]
+}
