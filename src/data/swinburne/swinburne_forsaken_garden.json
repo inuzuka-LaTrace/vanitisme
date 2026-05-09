@@ -1,0 +1,225 @@
+{
+  "id": "swinburne_forsaken_garden",
+  "title": "A Forsaken Garden",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series (Chatto & Windus, 1878). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads,_Second_Series/A_Forsaken_Garden",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「A Forsaken Garden（廃園）」はAlgernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, Second Series』（1878）所収。10連×8行（最終行は2強格の短縮行）構成で、弱強四歩格（iambic tetrameter）を基調とし、インデントと最終短縮行による視覚的・音響的な「落下」の形式が各連を閉じる。詩はイングランド西海岸（おそらくランズエンド近傍）の断崖の窪みに実在する廃園を描写することから出発し、三段階の拡大運動を経て結語「Death lies dead（死は死んでいる）」に至る：第1〜4連（廃園の地誌的描写──薔薇の墓・茨・海風）→第5〜7連（かつてそこにいた恋人たちの召喚と消滅──「Love was dead（愛は死んでいた）」・「Love deep as the sea as a rose must wither（海のように深い愛は薔薇のように枯れなければならない）」）→第8〜10連（普遍的眠り・死の主権・「Death lies dead」という逆説的結語）。詩全体のレトリック的核心は「時間（彼：he）」の擬人化：第3連「The thorns he spares when the rose is taken（薔薇が取られるとき、彼は茨を残す）」──時間が薔薇を奪い茨を残すという選択的破壊者として。「Death lies dead」という結語逆説：死が死の主権を確立した結果、それ以上「死ぬ（deal）」ことができない──「Here death may deal not again for ever（ここでは死はもはや永遠に手を下せない）」（第9連）という「死の不可能性」の宣言として。ボードレール「悪の花」的廃墟美学・ゴーティエ「L'Art」的抵抗する形式・Christina Rossetti「Dead before Death」の死の美学との系譜的連続性を持ちながら、Swinburne 独自の「海の永遠性による死の吸収」という宇宙論的終結として。VANITISMEコーパスにおいては、コヘレト「afflictio spiritus（霊の苦悩）」の英詩的極限形として位置づけられる。",
+  "keywords": [
+    "廃園", "愛と消滅", "海の永遠性", "Death lies dead", "茨と薔薇",
+    "時間の擬人化", "ナイチンゲール", "恋人たちの消滅", "自然と時間", "死の不可能性"
+  ],
+  "relatedTexts": [
+    "swinburne_garden_of_proserpine",
+    "swinburne_dolores",
+    "swinburne_year_of_the_rose",
+    "swinburne_ballad_dreamland",
+    "swinburne_euthanatos",
+    "rossetti_c_dead_before_death",
+    "vanlerberghe_la_mort",
+    "baudelaire_une_charogne",
+    "gautier_l_art",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "In a coign of the cliff between lowland and highland,\n   At the sea-down's edge between windward and lee,\nWalled round with rocks as an inland island,\n   The ghost of a garden fronts the sea.\nA girdle of brushwood and thorn encloses\n   The steep square slope of the blossomless bed\nWhere the weeds that grew green from the graves of its roses\n            Now lie dead.",
+      "provisionalTranslation": "低地と高地の間、断崖の窪みに、\n　風上と風下の間、海岸の端に、\n岩に四方を囲まれた内陸の島のように、\n　廃園の幽霊が海に向かっている。\n灌木と茨の帯が取り巻く\n　花のない花壇の急な四角い斜面を、\nかつてその薔薇の墓から緑に育った雑草たちは\n　　　　　　今は死んでいる。"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "The fields fall southward, abrupt and broken,\n   To the low last edge of the long lone land.\nIf a step should sound or a word be spoken,\n   Would a ghost not rise at the strange guest's hand?\nSo long have the grey bare walks lain guestless,\n   Through branches and briars if a man make way,\nHe shall find no life but the sea-wind's, restless\n            Night and day.",
+      "provisionalTranslation": "野原は南へ、急勾配で、荒れ果てて落ちていく、\n　長く孤独な土地の低い最果ての端まで。\nもし足音がしたり言葉が発せられたりしたなら、\n　幽霊は見知らぬ客の手もとに立ち上がらないだろうか？\nこれほど長く、灰色の裸の小道は客を迎えていない、\n　枝と茨をかき分けて人が進んでも、\n彼は海風のもの以外いかなる生命も見つけられない、落ち着きのない\n　　　　　　夜も昼も。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "The dense hard passage is blind and stifled\n   That crawls by a track none turn to climb\nTo the strait waste place that the years have rifled\n   Of all but the thorns that are touched not of time.\nThe thorns he spares when the rose is taken;\n   The rocks are left when he wastes the plain.\nThe wind that wanders, the weeds wind-shaken,\n            These remain.",
+      "provisionalTranslation": "密集した固い通路は暗く息詰まる、\n　誰も登ろうとしない道を這って進み、\n歳月が時間に触れられない茨だけを残して\n　残らず略奪した狭い荒廃の場所へと。\n薔薇が取られるとき、彼は茨を残す；\n　彼が平原を荒らすとき、岩が残される。\n彷徨う風、風に揺れる雑草、\n　　　　　　それらが残る。"
+    },
+    {
+      "id": 4,
+      "verses": "Stanza IV",
+      "original": "Not a flower to be pressed of the foot that falls not;\n   As the heart of a dead man the seed-plots are dry;\nFrom the thicket of thorns whence the nightingale calls not,\n   Could she call, there were never a rose to reply.\nOver the meadows that blossom and wither\n   Rings but the note of a sea-bird's song;\nOnly the sun and the rain come hither\n            All year long.",
+      "provisionalTranslation": "落ちることのない足に踏みしめられる花ひとつない；\n　死んだ人の心のように種床は乾いている；\nナイチンゲールが呼びかけることのない茨の茂みから、\n　彼女が呼べたとしても、応えるべき薔薇は一輪もない。\n花咲き枯れる牧草地の上に\n　海鳥の歌の一音だけが鳴り響く；\n太陽と雨だけがここへやってくる\n　　　　　　年中ずっと。"
+    },
+    {
+      "id": 5,
+      "verses": "Stanza V",
+      "original": "The sun burns sere and the rain dishevels\n   One gaunt bleak blossom of scentless breath.\nOnly the wind here hovers and revels\n   In a round where life seems barren as death.\nHere there was laughing of old, there was weeping,\n   Haply, of lovers none ever will know,\nWhose eyes went seaward a hundred sleeping\n            Years ago.",
+      "provisionalTranslation": "太陽は枯れを焼き、雨は乱す\n　香りのない息の、ひとつの痩せた陰鬱な花を。\n風だけがここで舞い踊る\n　生命が死と同じく不毛に見える円環のなかで。\nかつてここでは笑いがあり、泣き声があった、\n　おそらく、誰も永遠に知ることのない恋人たちの、\n眼が百年の眠りの前に\n　　　　　　海へと向かった恋人たちの。"
+    },
+    {
+      "id": 6,
+      "verses": "Stanza VI",
+      "original": "Heart handfast in heart as they stood, \"Look thither,\"\n   Did he whisper? \"look forth from the flowers to the sea;\nFor the foam-flowers endure when the rose-blossoms wither,\n   And men that love lightly may die—but we?\"\nAnd the same wind sang and the same waves whitened,\n   And or ever the garden's last petals were shed,\nIn the lips that had whispered, the eyes that had lightened,\n            Love was dead.",
+      "provisionalTranslation": "心と心を固く繋いで立ちながら、「あちらを見て」\n　彼は囁いたのか？「花から海へと目を向けて；\n薔薇の花が枯れるとき泡の花は耐え続ける、\n　そして軽く愛する者は死ぬかもしれない——でも私たちは？」\nそして同じ風が歌い、同じ波が白く輝いた、\n　そして園の最後の花びらが散る前に、\n囁いた唇のなかで、輝いた瞳のなかで、\n　　　　　　愛は死んでいた。"
+    },
+    {
+      "id": 7,
+      "verses": "Stanza VII",
+      "original": "Or they loved their life through, and then went whither?\n   And were one to the end—but what end who knows?\nLove deep as the sea as a rose must wither,\n   As a rose-red seaweed that mocks the rose.\nShall the dead take thought for the dead to love them?\n   What love was ever as deep as a grave?\nThey are loveless now as the grass above them\n            Or the wave.",
+      "provisionalTranslation": "あるいは彼らは生涯を愛し尽くし、それからどこへ行ったのか？\n　そして最後まで一つだった——しかしどんな終わりか誰が知る？\n海のように深い愛は薔薇のように枯れなければならない、\n　薔薇を嘲る薔薇色の海藻のように。\n死者は自分を愛してくれる死者のことを考えるだろうか？\n　いかなる愛が墓ほど深かったか？\n彼らは今、自分たちの上の草のように\n　　　　　　あるいは波のように、愛することのない存在となった。"
+    },
+    {
+      "id": 8,
+      "verses": "Stanza VIII",
+      "original": "All are at one now, roses and lovers,\n   Not known of the cliffs and the fields and the sea.\nNot a breath of the time that has been hovers\n   In the air now soft with a summer to be.\nNot a breath shall there sweeten the seasons hereafter\n   Of the flowers or the lovers that laugh now or weep,\nWhen as they that are free now of weeping and laughter\n            We shall sleep.",
+      "provisionalTranslation": "今や皆ひとつだ、薔薇も恋人たちも、\n　断崖にも野原にも海にも知られることなく。\n過ぎ去った時のいかなる息吹も漂わない\n　これから来る夏に柔らかい空気のなかに。\nこれからの季節をいかなる息吹も甘くしない\n　今泣いたり笑ったりする花々や恋人たちの、\n彼らのように泣きも笑いもすることから自由になった者として\n　　　　　　わたしたちが眠るとき。"
+    },
+    {
+      "id": 9,
+      "verses": "Stanza IX",
+      "original": "Here death may deal not again for ever;\n   Here change may come not till all change end.\nFrom the graves they have made they shall rise up never,\n   Who have left nought living to ravage and rend.\nEarth, stones, and thorns of the wild ground growing,\n   While the sun and the rain live, these shall be;\nTill a last wind's breath upon all these blowing\n            Roll the sea.",
+      "provisionalTranslation": "ここでは死はもはや永遠に手を下せない；\n　ここでは変化はすべての変化が終わるまで来ることができない。\n彼らが作った墓から彼らは決して蘇らない、\n　荒らし裂くべき生けるものを何も残さなかった者たちは。\n大地、石、荒野に育つ茨、\n　太陽と雨が生きている間、これらはあるだろう；\n最後の風の息吹がこれらすべての上に吹いて\n　　　　　　海が転がって来るまで。"
+    },
+    {
+      "id": 10,
+      "verses": "Stanza X",
+      "original": "Till the slow sea rise and the sheer cliff crumble,\n   Till terrace and meadow the deep gulfs drink,\nTill the strength of the waves of the high tides humble\n   The fields that lessen, the rocks that shrink,\nHere now in his triumph where all things falter,\n   Stretched out on the spoils that his own hand spread,\nAs a god self-slain on his own strange altar,\n            Death lies dead.",
+      "provisionalTranslation": "緩やかな海が上がり、断崖が崩れるまで、\n　テラスと牧草地を深い淵が飲み込むまで、\n高潮の波の力が辱めるまで\n　縮む野原を、小さくなる岩を、\nここで今、すべてのものが揺らぐ彼の勝利のなかで、\n　自らの手が広げた戦利品の上に横たわって、\n自分自身の奇妙な祭壇の上で自ら命を絶った神のように、\n　　　　　　死は死んでいる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "The ghost of a garden fronts the sea.",
+      "body": "詩形：10連×8行（最終行は2強格の短縮行）、弱強四歩格（iambic tetrameter）基調。各連の押韻型 ABABCDCD、ただし最終短縮行（2強格）が各連の「落下（collapse）」として機能する──「Now lie dead」「Night and day」「These remain」「All year long」等、短縮行が連全体の意味を一語・二語に収束させる。視覚的インデント（第2・6行の字下げ）と最終行の大幅字下げが「断崖の崩落」という詩の中心的形象を詩形として実演する。「The ghost of a garden fronts the sea（廃園の幽霊が海に向かっている）」──「ghost（幽霊）」という語が詩の最初の定義として廃園を「死者の現前」として確立する：花でも建物でもなく「幽霊（ghost）」として。「In a coign of the cliff（断崖の窪みに）」──「coign（窪み・角）」という語が廃園の地誌的孤立を示す：「between lowland and highland（低地と高地の間）」「between windward and lee（風上と風下の間）」という二重の「間（between）」がこの廃園を「二項の狭間」という境界的位置に置く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Where the weeds that grew green from the graves of its roses",
+      "body": "「the weeds that grew green from the graves of its roses / Now lie dead（かつてその薔薇の墓から緑に育った雑草たちは今は死んでいる）」──二重の死の形象：薔薇が死んで「墓（graves）」になり、その墓から育った雑草もまた死んでいる。死から生まれた生がさらに死んでいるという死の連鎖的増殖。「graves of its roses（薔薇の墓）」──「graves」という語の複数形が個々の薔薇に個別の墓を与える：匿名的集合死ではなく個体的死の集積として廃園を定義する。「blossomless bed（花のない花壇）」──「bed（花壇・寝床）」という語の二義：花を植える花壇と、人が横たわる寝床。「The Year of the Rose」の「The death-bed of Love（愛の死の床）」・「Dolores」の「the flowers or the lovers（花々や恋人たち）」との連続性：花と恋人が同一の「bed」に横たわる形象として。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "He shall find no life but the sea-wind's, restless",
+      "body": "「He shall find no life but the sea-wind's, restless / Night and day（彼は海風のもの以外いかなる生命も見つけられない、落ち着きのない夜も昼も）」──廃園に残る唯一の「生命（life）」が「sea-wind（海風）」という非有機的・不定形的な力として定義される。「restless（落ち着きのない）」という形容詞が「Night and day（夜も昼も）」という時間副詞と結合し、海風の永続的・時間を超えた運動として。「If a step should sound or a word be spoken, / Would a ghost not rise at the strange guest's hand?」──仮定法（should…would）が廃園を「訪れる者のいない空間」として定義する：人間の到来が「幽霊の出現」という超自然的反応を引き起こすという逆転──人間が異物であり幽霊が正住者という廃園の論理。コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り……大地は永遠に立ち続ける）」の「大地の永続」が、ここでは海風の永続として詩的に変奏される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The thorns he spares when the rose is taken;",
+      "body": "「The thorns he spares when the rose is taken; / The rocks are left when he wastes the plain（薔薇が取られるとき、彼は茨を残す；彼が平原を荒らすとき、岩が残される）」──「彼（he）」という三人称単数男性代名詞が指す主語は明示されていないが、文脈上「時間（time）」の擬人化として機能する：第3連「the years have rifled（歳月が略奪した）」という複数形から、単数の「he（彼）」への収束が「時間」という抽象的力の人格化として。「thorns he spares（茨を残す）」・「rocks are left（岩が残される）」──時間の選択的破壊：「美しいもの（薔薇・肥沃な平原）」を奪い「棘のあるもの・硬いもの（茨・岩）」を残すという時間の逆説的正義。「Dolores」の「For the crown of our life as it closes / Is darkness, the fruit thereof dust（閉じゆく生命の冠は暗闇、その果実は塵）」という同様の「時間による奪取」の命題との照応。",
+      "targetId": "swinburne_dolores",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "The wind that wanders, the weeds wind-shaken,",
+      "body": "「The wind that wanders, the weeds wind-shaken, / These remain（彷徨う風、風に揺れる雑草、それらが残る）」──各連最終短縮行の最初の例が「These remain（それらが残る）」。短縮行が詩全体の「残存（remain）」という主題を形式的に実演する：長い8行の連が短縮行に「落下」する形式が「時間による収縮・奪取」の視覚的・音響的模倣として。「The wind that wanders, the weeds wind-shaken」──「w」の頭韻（alliteration）が「wind / wanders / weeds / wind-shaken」を音的に連結する：「風（wind）」という語の反復が廃園における「残存する力」を音響的に強調。「weeds wind-shaken（風に揺れる雑草）」──「wind-shaken」という複合形容詞が雑草の受動的・依存的存在を示す：自力で動かず、風に揺られるだけの存在として残存する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "From the thicket of thorns whence the nightingale calls not,",
+      "body": "「From the thicket of thorns whence the nightingale calls not, / Could she call, there were never a rose to reply（ナイチンゲールが呼びかけることのない茨の茂みから、彼女が呼べたとしても、応えるべき薔薇は一輪もない）」──ナイチンゲールと薔薇という西洋詩学の最も古い対（ペルシア・ウルドゥー詩の「ブルブルとバラ」の伝統）が廃園において二重に否定される：ナイチンゲールは鳴かず（calls not）、薔薇は応えない（never a rose to reply）。「Could she call（彼女が呼べたとしても）」──仮定法過去が「ナイチンゲールが鳴くことの反事実性」を示す：廃園では鳴くことそのものが不可能。ローデンバック「忘却（L'Oubli）」の静寂・マラルメ「Sainte（聖女）」の「musicienne du silence（沈黙の音楽家）」との照応：声なき音楽家・応えなき薔薇という沈黙の二重構造として。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Only the sun and the rain come hither",
+      "body": "「Only the sun and the rain come hither / All year long（太陽と雨だけがここへやってくる年中ずっと）」──廃園への訪問者が「人間でも幽霊でもなく」「太陽と雨」という非人格的自然力のみであるという宣言。「All year long（年中ずっと）」という最終短縮行が時間の非人称的永続性を定式化する：季節変化もなく「年中」同じ訪問者だけが来るという不変性。コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」という太陽の循環的永続との照応：コヘレトの太陽が「循環の証拠」として機能するのに対し、Swinburne の太陽は「廃園の唯一の訪問者」として廃園の人間的空虚を際立てる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Here there was laughing of old, there was weeping,",
+      "body": "「Here there was laughing of old, there was weeping, / Haply, of lovers none ever will know（かつてここでは笑いがあり、泣き声があった、おそらく、誰も永遠に知ることのない恋人たちの）」──詩の第5連で初めて「恋人たち（lovers）」が召喚される：前4連が廃園の地誌的・植物的描写に徹したのに対し、第5連で初めて人間的次元が開かれる。「Haply（おそらく）」という副詞が恋人たちの実在を「推測」として括弧に入れる：実証不可能な過去の人間存在。「laughing…weeping（笑い…泣き声）」という対が「Dolores」の「tears and treasons（涙と裏切り）」・「Rococo」の「weeping and laughter（泣きと笑い）」との語彙的連続性を示す：Swinburne 詩篇群を貫く「笑い／泣き」の対立的感情語彙として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Whose eyes went seaward a hundred sleeping",
+      "body": "「Whose eyes went seaward a hundred sleeping / Years ago（眼が百年の眠りの前に海へと向かった恋人たちの）」──「a hundred sleeping / Years ago（百年の眠りの前）」という時間の測定：「sleeping（眠っている）」という形容詞が「百年」に付与されることで時間の流れそのものが「眠り」として──死・無意識・停止の形象として──提示される。「eyes went seaward（眼が海へと向かった）」──「海（sea）」への視線として恋人たちの死を示す：第1連の「The ghost of a garden fronts the sea（廃園の幽霊が海に向かっている）」の「fronts the sea（海に向かっている）」との鏡像的照応：廃園と恋人たちが同じ「海への視線」を持つ。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」──百年前の恋人たちが「誰も永遠に知ることのない（none ever will know）」という記憶の消去として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "For the foam-flowers endure when the rose-blossoms wither,",
+      "body": "「For the foam-flowers endure when the rose-blossoms wither, / And men that love lightly may die—but we?（薔薇の花が枯れるとき泡の花は耐え続ける、そして軽く愛する者は死ぬかもしれない——でも私たちは？）」──恋人の男性が語る「永遠の愛の論証」：「foam-flowers（泡の花）」──波の泡が海岸に作る白い花状の形象──が「rose-blossoms（薔薇の花）」よりも永続するという自然観察を永遠の愛への類推として使う。「men that love lightly may die—but we?（軽く愛する者は死ぬかもしれない——でも私たちは？）」という問いが直後に裏切られる：「Love was dead（愛は死んでいた）」という結語によって。「foam-flowers（泡の花）」──「Dolores」末連「As foam upon water shall perish（水の上の泡のように消えるだろう）」との鏡像的対置：Dolores では泡が「消えるもの」として虚無論的に機能するのに対し、ここでは恋人が「泡の花が耐える」と主張する──そして即座に反駁される。",
+      "targetId": "swinburne_dolores",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Love was dead.",
+      "body": "「In the lips that had whispered, the eyes that had lightened, / Love was dead（囁いた唇のなかで、輝いた瞳のなかで、愛は死んでいた）」──詩の第一の頂点命題。「the lips that had whispered（囁いた唇）」・「the eyes that had lightened（輝いた瞳）」という過去完了形の関係節が恋人の愛の行為を「すでに完了したもの」として距離化する：囁きと輝きが現在形ではなく過去完了形で提示されることで、愛の死がその行為の完了と同時だったことを示す。「And or ever the garden's last petals were shed（そして園の最後の花びらが散る前に）」──「or ever（の前に）」という時間的先行性が重要：花びらが散る「前」に愛は死んでいた──花よりも愛の方が先に死ぬという逆説。「Rococo」の「Time found our tired love sleeping, / And kissed away his breath」との照応：どちらも愛の死を時間的に精密に測定する。",
+      "targetId": "swinburne_rococo",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Love deep as the sea as a rose must wither,",
+      "body": "「Love deep as the sea as a rose must wither, / As a rose-red seaweed that mocks the rose（海のように深い愛は薔薇のように枯れなければならない、薔薇を嘲る薔薇色の海藻のように）」──詩全体の主題命題。「Love deep as the sea（海のように深い愛）」──第6連の恋人の言葉「foam-flowers endure（泡の花は耐える）」という楽観論が「海の深さ」という別の形象で永続性を主張しようとするが、即座に「as a rose must wither（薔薇のように枯れなければならない）」という必然性に帰着される。「rose-red seaweed that mocks the rose（薔薇を嘲る薔薇色の海藻）」──「rose-red（薔薇色）」という形容詞を持ちながら薔薇ではない海藻が薔薇を「嘲る（mocks）」という逆説：薔薇の外見を模倣しながら、薔薇の本質（脆さ・枯れること）を持たない存在が「真の薔薇（枯れゆく愛）」を嘲笑する。コヘレト第7章「Quid est quod fuit? Ipsum quod futurum est（あったものは何か？それはこれから来るものである）」──「海の深さ」という永続の主張が「薔薇の枯れ」という消滅の必然に吸収される循環論として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "What love was ever as deep as a grave?",
+      "body": "「Shall the dead take thought for the dead to love them? / What love was ever as deep as a grave?（死者は自分を愛してくれる死者のことを考えるだろうか？いかなる愛が墓ほど深かったか？）」──二つの修辞的問いが「愛の深さ」の問題を死後の問題へと移行させる。「Shall the dead take thought for the dead to love them?」──コヘレト「In inferno autem, ad quos properas, nulla est prudentia, nec scientia（死者の世界には知恵も知識もない）」（伝道9:10）との照応：死者が「死者のことを考える（take thought）」能力の否定として。「What love was ever as deep as a grave?（いかなる愛が墓ほど深かったか？）」──「grave（墓・重大な）」の語義的多義：「深い墓穴」と「深刻な・重大な」の両義が「love as deep as a grave」という比喩に重なる。詩の第6連での「海の深さ」による永続の主張が第7連で「墓の深さ」によって否定される：「海の深さ」対「墓の深さ」という深度の競合として。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "All are at one now, roses and lovers,",
+      "body": "「All are at one now, roses and lovers, / Not known of the cliffs and the fields and the sea（今や皆ひとつだ、薔薇も恋人たちも、断崖にも野原にも海にも知られることなく）」──詩の第三段階への転換：個別の恋人の物語から「roses and lovers（薔薇と恋人たち）」の普遍的合一へ。「All are at one（皆ひとつだ）」──死による解体が「合一（at one）」として提示される逆説：個別性の消去が合一として定義される。「Not known of the cliffs and the fields and the sea（断崖にも野原にも海にも知られることなく）」──「知られない（not known）」という不知性が三つの自然的な証人（断崖・野原・海）によって確認される：詩の冒頭「In a coign of the cliff（断崖の窪みに）」・「The fields fall southward（野原は南へ落ちていく）」・「The ghost of a garden fronts the sea（廃園が海に向かっている）」という三要素が第8連で「知る者のない」証人として召喚される。コヘレト「Non est priorum memoria（先のことどもの記憶はない）」の普遍的記憶消去の詩的定式化として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "We shall sleep.",
+      "body": "「When as they that are free now of weeping and laughter / We shall sleep（彼らのように泣きも笑いもすることから自由になった者として、わたしたちが眠るとき）」──詩の語り手（「I / we」）が初めて「we（わたしたち）」として死を予言する：第1〜7連では廃園と恋人たちが三人称で語られてきたが、第8連で初めて「we（われわれ）」が「眠る（sleep）」として死の普遍化を宣言する。「free now of weeping and laughter（今や泣きも笑いもすることから自由）」──「The Garden of Proserpine」の「Here, where the world is quiet; / Here, where all trouble seems / Dead winds' and spent waves' riot（ここで世界は静かだ；ここですべての苦しみが）」という死後的静寂との語彙的連続性。ヴァン・レルベルグ「La Mort（死）」の「沈黙の中の死」・ダウスン「A Requiem」の「death's sweet sleep（死の甘い眠り）」という「眠りとしての死」の詩篇群との照応：「Dolores」末連「We shall see whether hell be not heaven（地獄が天国でないかどうかを見るだろう）」という死後認識への問いとは異なり、「We shall sleep」は認識なき純粋な眠りとして死を定義する。",
+      "targetId": "vanlerberghe_la_mort",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Here death may deal not again for ever;",
+      "body": "「Here death may deal not again for ever; / Here change may come not till all change end（ここでは死はもはや永遠に手を下せない；ここでは変化はすべての変化が終わるまで来ることができない）」──詩の第四段階への転換：死が自身の活動不能を宣言される空間としての廃園の再定義。「death may deal not again（死はもはや手を下せない）」──「deal（手を下す・分配する）」という動詞：死が「奪取する・配分する」行為者としての機能を失う。「Here change may come not till all change end（すべての変化が終わるまで変化は来ることができない）」──廃園が「変化の終わり（end of change）」という時間の停止点として定義される：コヘレト第1章「循環する時間」の彼方にある「変化の終止」として。「Earth, stones, and thorns of the wild ground growing, / While the sun and the rain live, these shall be（大地、石、荒野の茨、太陽と雨が生きている間、これらはあるだろう）」──第3連「The wind that wanders, the weeds wind-shaken, / These remain」の「These remain」を「these shall be」として未来形で反復する：「残存」が「未来への確実な存在」として強化される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Till a last wind's breath upon all these blowing",
+      "body": "「Till a last wind's breath upon all these blowing / Roll the sea（最後の風の息吹がこれらすべての上に吹いて、海が転がって来るまで）」──詩の宇宙論的終末：「last wind's breath（最後の風の息吹）」が海を廃園の上へと「転がす（roll）」という終末論的形象。「Roll the sea（海が転がって来る）」──次の第10連「Till the slow sea rise and the sheer cliff crumble（緩やかな海が上がり、断崖が崩れるまで）」への橋渡し：廃園・断崖・野原がすべて海に飲み込まれるという宇宙論的最終状態。ヴェルレーヌ「Chanson d'automne（秋の歌）」の「Je m'en vais / Au vent mauvais（わたしは行く、悪い風に）」という風に運ばれる自我との照応：Swinburne では「最後の風」が「海（死）」を運んでくるという宇宙論的終末の媒体として機能する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "As a god self-slain on his own strange altar,",
+      "body": "「As a god self-slain on his own strange altar, / Death lies dead（自分自身の奇妙な祭壇の上で自ら命を絶った神のように、死は死んでいる）」──詩全体の結語逆説。「Death lies dead（死は死んでいる）」──「死」という主語が「死んでいる（dead）」という述語を持つという論理的矛盾が詩の最高点として機能する：死が死ぬことで「もはや死を配分できない（deal not again）」という第9連の命題が「Death lies dead」という格言として結晶化される。「a god self-slain on his own strange altar（自分自身の奇妙な祭壇の上で自ら命を絶った神）」──「self-slain（自ら命を絶った）」という形容詞が「死」を「神の自己犠牲」として提示する：バロック的 Deus mortuus（死んだ神）の形象。「his own hand spread（自らの手が広げた）」という所有格──死が自らの活動（「hand spread（手で広げた）」戦利品）の上に横たわる：「Stretched out on the spoils that his own hand spread（自らの手が広げた戦利品の上に横たわって）」という完全な自己完結的終末。「Here now in his triumph where all things falter（ここで今、すべてのものが揺らぐ彼の勝利のなかで）」──「triumph（勝利）」と「falter（揺らぐ）」の逆説：勝利のなかで「すべてのものが揺らぐ」という死の主権の完成が、その主権の自己消滅として。ヴェイユ「Accepter le vide」の「恩寵は真空に入る」という脱創造論的命題との照応：死が自らを空にする（self-slain）ことで「恩寵の入る真空（vide）」が生まれるという逆転的神学として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
