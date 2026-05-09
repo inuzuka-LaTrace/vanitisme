@@ -1,0 +1,116 @@
+{
+  "id": "swinburne_ballad_dreamland",
+  "title": "A Ballad of Dreamland",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series (Chatto & Windus, 1878). Wikisource: https://en.wikisource.org/wiki/Poems_and_Ballads,_Second_Series/A_Ballad_of_Dreamland",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「A Ballad of Dreamland（夢の国のバラッド）」はAlgernon Charles Swinburne（1837–1909）の詩集『Poems and Ballads, Second Series』（1878）所収。詩形はバラッド形式（ballade）の変奏：3連×8行＋エンヴォワ4行（ABABABBB）、各連末を「Only the song of a secret bird（ただ秘密の鳥の歌だけが）」というリフレインで閉じる。バラッドの伝統的エンヴォワは「Prince（王子よ）」への呼びかけで始まるが、Swinburne は「In the world of dreams I have chosen my part（夢の世界のなかでわたしは自分の役割を選んだ）」という内向的な宣言でエンヴォワを開く──王子への献辞の伝統を自己への選択宣言として転換する。詩の三段階の運動：第1連（「薔薇の巣に心を隠した」──隠匿と眠りの失敗）→第2連（「じっとしていろ」という自己命令と「hope deferred（先延ばしにされた希望）」という聖書的引用）→第3連（「旅人の地図にも商人の市場にも存在しない緑の土地」──夢の国の名状不可能性）→エンヴォワ（「真の愛の真実も軽い愛の術も聞かずに眠る」という意志的断絶）。「secret bird（秘密の鳥）」というリフレインの中心的形象：名付けることができない──「秘密（secret）」はその正体の不可言語化を宣言する──夢の閾を越えさせる力として機能する。マラルメ「Brise Marine（海の微風）」の「行ったこともない国への逃走衝動」・ヴァン・レルベルグ「Entrevisions（垣間見）」の「言語以前の光の閾」と同一の「名状しがたい逃避の構造」を持ちながら、Swinburne のそれは「愛（love）」という現実的苦悩からの意志的な逃走として個人的性格をより鮮明に持つ。「Dolores」の「快楽と苦痛の充満」・「The Year of the Rose」の「薔薇の盛りへの没入」とは逆に、「A Ballad of Dreamland」は愛から・薔薇から遠ざかることへの欲求として Swinburne 詩学の静寂的・逃走的極を形成する。",
+  "keywords": [
+    "夢", "逃避", "薔薇", "秘密の鳥", "バラッド形式", "エンヴォワ",
+    "hope deferred", "名状不可能性", "リフレイン", "隠匿"
+  ],
+  "relatedTexts": [
+    "swinburne_garden_of_proserpine",
+    "swinburne_year_of_the_rose",
+    "swinburne_at_parting",
+    "swinburne_dolores",
+    "wilde_theoretikos",
+    "wilde_helas",
+    "vanlerberghe_entrevisions",
+    "mallarme_brise_marine",
+    "dowson_beata_solitudo"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "I hid my heart in a nest of roses,\nOut of the sun's way, hidden apart;\nIn a softer bed than the soft white snow's is,\nUnder the roses I hid my heart.\nWhy would it sleep not? why should it start,\nWhen never a leaf of the rose-tree stirred?\nWhat made sleep flutter his wings and part?\nOnly the song of a secret bird.",
+      "provisionalTranslation": "わたしは心を薔薇の巣に隠した、\n太陽の届かないところ、離れて隠れて；\n白い柔らかい雪より柔らかい寝床に、\n薔薇の下にわたしは心を隠した。\nなぜ眠ろうとしないのか？なぜ飛び起きるのか、\n薔薇の木の葉一枚も揺れていないのに？\n何が眠りにその翼を羽ばたかせ去らせたのか？\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "Lie still, I said, for the wind's wing closes,\nAnd mild leaves muffle the keen sun's dart;\nLie still, for the wind on the warm seas dozes,\nAnd the wind is unquieter yet than thou art.\nDoes a thought in thee still as a thorn's wound smart?\nDoes the fang still fret thee of hope deferred?\nWhat bids the lips of thy sleep dispart?\nOnly the song of a secret bird.",
+      "provisionalTranslation": "じっとしていろ、と言った、風の翼が閉じ、\n穏やかな葉が鋭い太陽の矢をくるんでいる；\nじっとしていろ、暖かい海の上で風は眠っている、\nそして風はまだ汝よりも落ち着きがない。\n汝のなかで何か思いが茨の傷のようにまだ痛むか？\n先延ばしにされた希望の牙がまだ汝を悩ませるか？\n何が汝の眠りの唇を開かせるのか？\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "The green land's name that a charm encloses,\nIt never was writ in the traveller's chart,\nAnd sweet on its trees as the fruit that grows is,\nIt never was sold in the merchant's mart.\nThe swallows of dreams through its dim fields dart,\nAnd sleep's are the tunes in its tree-tops heard;\nNo hound's note wakens the wildwood hart,\nOnly the song of a secret bird.",
+      "provisionalTranslation": "魔法に囲まれたその緑の土地の名は、\n旅人の地図に記されたことは一度もない、\nそこに育つ果実のようにその木々の上で甘く、\n商人の市場で売られたことも一度もない。\n夢のツバメたちがその薄暗い野原を飛び交い、\n眠りのものである調べが梢に聞こえる；\n犬の遠吠えも森の牡鹿を目覚めさせない、\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 4,
+      "verses": "Envoi",
+      "original": "In the world of dreams I have chosen my part,\nTo sleep for a season and hear no word\nOf true love's truth or of light love's art,\nOnly the song of a secret bird.",
+      "provisionalTranslation": "夢の世界のなかでわたしは自分の役割を選んだ、\nひとしきり眠り、いかなる言葉も聞かないために、\n真の愛の真実も軽い愛の術も、\nただ秘密の鳥の歌だけを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "I hid my heart in a nest of roses,",
+      "body": "詩形：バラッド（ballade）の変奏。3連×8行＋エンヴォワ4行。各連の押韻型 ABABABBB（A = -oses/-art/-oses/-art、B = -art/-ird/-art/-ird）──「roses / snow's is / closes / dozes」という -oses 音と「apart / heart / start / stirred」という -art/-ird 音が交互に組み合わさる。各連末「Only the song of a secret bird（ただ秘密の鳥の歌だけが）」というリフレインがバラッドの refrain として機能する。伝統的フランス語バラッドでは各連が同一の refrain で閉じ、エンヴォワが「Prince（王子よ）」への呼びかけで始まる：Swinburne はエンヴォワを「In the world of dreams I have chosen my part」という内向的な宣言に置き換えることで、外向的な献辞の伝統を詩人自身への選択の宣言として転換する。「I hid my heart（わたしは心を隠した）」──詩の冒頭が過去完了の行為として始まる：「薔薇の巣（nest of roses）」という保護的・有機的空間への「心（heart）」の隠匿が詩全体の動力学（隠す→眠れない→覚醒→夢の国を選ぶ）の出発点として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "What made sleep flutter his wings and part?\nOnly the song of a secret bird.",
+      "body": "「What made sleep flutter his wings and part?（何が眠りにその翼を羽ばたかせ去らせたのか？）」──「sleep（眠り）」が「翼を持つ存在（flutter his wings）」として擬人化される：エロスの翼（「At Parting」の「pinions from flight」）・「Euthanatos」の「white soul soaring」という翼の形象群と連続する。「Only the song of a secret bird（ただ秘密の鳥の歌だけが）」──「secret（秘密の）」という形容詞が鳥の正体の不可言語化を宣言する：マラルメ「Sainte」の「musicienne du silence（沈黙の音楽家）」──言語化不可能な音楽としての沈黙の鳥との照応。この「秘密の鳥」は「眠りを妨げる」と同時に「眠りを唯一可能にする」という両義的役割を持つ：鳥の歌が眠りを逃がし（第1・2連）、鳥の歌だけを聞くことが夢の国での選択（エンヴォワ）となる。",
+      "targetId": "mallarme_sainte",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Does the fang still fret thee of hope deferred?",
+      "body": "「Does the fang still fret thee of hope deferred?（先延ばしにされた希望の牙がまだ汝を悩ませるか？）」──「hope deferred（先延ばしにされた希望）」は箴言13:12「Spes quae differtur affligit animam（先延ばしにされた希望は魂を悩ます）」への引用。「fang（牙）」という動物的・攻撃的形象が「hope deferred（先延ばしの希望）」という抽象的概念に付与される：希望が牙を持つ獣として魂を噛み続けるという痛みの身体的比喩。第2連全体が「Lie still（じっとしていろ）」という自己命令と、その命令を破る「thought（思い）」・「hope deferred（先延ばしの希望）」という内的動揺の対話として構成される：命令（「Lie still」×2）→問い（「Does a thought…smart?」「Does the fang…fret?」「What bids…?」×3）という命令と問いの非対称が第2連の緊張を形成する。「The wind is unquieter yet than thou art（風はまだ汝よりも落ち着きがない）」──暖かい海の上で眠る風よりも「心（thou）」が静かであるという逆説的比較：心の静けさを求めながら、風（自然）の方が心より不安定だという慰めの論理。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "What bids the lips of thy sleep dispart?\nOnly the song of a secret bird.",
+      "body": "「What bids the lips of thy sleep dispart?（何が汝の眠りの唇を開かせるのか？）」──「lips…dispart（唇を開く）」という発語の身体的形象：「lips（唇）」が「sleep（眠り）」の擬人化された「口」として、秘密の鳥の歌が眠りの唇を「開かせる（dispart）」──覚醒させる動因として。「At Parting」の「What made sleep flutter his wings and part?」（第1連）との対応：第1連で「sleep が翼を持って去る（part）」のに対し、第2連では「sleep の唇が開く（dispart）」という身体的拡大として。ヴァン・レルベルグ「Entrevisions（垣間見）」の「言語以前の光の閾での垣間見」との構造的照応：どちらも「言語化できない何か（秘密の鳥の歌 / 垣間見の光）」が意識の閾に立ち現れ、完全な休息・完全な覚醒のいずれも不可能にする。",
+      "targetId": "vanlerberghe_entrevisions",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The green land's name that a charm encloses,\nIt never was writ in the traveller's chart,",
+      "body": "「The green land's name that a charm encloses, / It never was writ in the traveller's chart」──夢の国の「名状不可能性（unnameable）」と「地図不可能性（uncharted）」の宣言。「charm（魔法・魅力）encloses（囲む）」──魔法によって囲まれた土地として夢の国が外界から隔絶される：「encloses」という動詞が第1連「nest of roses（薔薇の巣）」の保護的囲いと連動する。「never was writ in the traveller's chart（旅人の地図に記されたことは一度もない）」・「never was sold in the merchant's mart（商人の市場で売られたことも一度もない）」──「never…never」という二重否定が知識・商業という近代的合理性の二領域からの完全な逸脱として夢の国を定義する。マラルメ「Brise Marine（海の微風）」の「Je partirai! Steamer balançant ta mâture（出発しよう！帆柱を揺らせる汽船よ）」という「行ったこともない国」への逃走衝動との照応：マラルメが「地名のない土地への航海」を詩的主題とするように、Swinburne の「緑の土地」は地図にない。",
+      "targetId": "mallarme_brise_marine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The swallows of dreams through its dim fields dart,",
+      "body": "「The swallows of dreams through its dim fields dart（夢のツバメたちがその薄暗い野原を飛び交う）」──「swallows of dreams（夢のツバメたち）」という複合名詞が夢を「渡り鳥的・一時的」として定義する：ツバメは春夏に来て去る渡り鳥であり、「夢のツバメ」は夢の季節的・一時的性格を示す。「its dim fields（その薄暗い野原）」──「dim（薄暗い）」という形容詞が夢の国の視覚的不確定性を示す：明るい現実世界（「the sun's way（太陽の届くところ）」第1連）に対して薄暗い夢の国として。「sleep's are the tunes in its tree-tops heard（眠りのものである調べが梢に聞こえる）」──「sleep's（眠りに属する）」という所有格が梢の音楽を「眠りの財産」として定義する：「秘密の鳥の歌」がこの「眠りの調べ」の具体的形象として。「No hound's note wakens the wildwood hart（犬の遠吠えも森の牡鹿を目覚めさせない）」──「hound（猟犬）」の声＝現実の侵入・覚醒の脅威が夢の国には届かないという保護的空間の定義。「The Garden of Proserpine」の「Here, where the world is quiet（ここで、世界は静かだ）」という死後的静寂の空間と夢の国の静寂が構造的に照応する。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "In the world of dreams I have chosen my part,",
+      "body": "「In the world of dreams I have chosen my part（夢の世界のなかでわたしは自分の役割を選んだ）」──エンヴォワの冒頭宣言。「I have chosen（わたしは選んだ）」という現在完了形が選択の確定的・完了的性格を示す：この選択が詩全体の三連を経た帰結として提示される。「my part（わたしの役割）」──「part（役割・部分）」という語が「At Parting（別れに際して）」の「part（分かれる）」・「A Match」の「part with laughter / part with tears（笑いながら別れる / 涙ながらに別れる）」というSwinburne 詩集群の「別れ」モチーフと連動する：「夢の国での役割の選択」が「現実の愛との別れ（parting）」として。ワイルド「Theoretikos」の「This mighty empire hath but feet of clay（この偉大な帝国には泥の足しかない）」という芸術的隠遁宣言との照応：ワイルドが「現実の帝国」から「芸術の彼岸」への隠遁を宣言するように、Swinburne は「愛という現実」から「夢の国」への選択を宣言する。",
+      "targetId": "wilde_theoretikos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Of true love's truth or of light love's art,\nOnly the song of a secret bird.",
+      "body": "「Of true love's truth or of light love's art（真の愛の真実も軽い愛の術も）」──「true love's truth（真の愛の真実）」と「light love's art（軽い愛の術）」という二種の愛の定義が「聞かない（hear no word）」対象として列挙される。「A Match」の仮定法的「軽い愛」・「At Parting」の充足した「一夜の愛」・「The Year of the Rose」の「時間的に短い愛」・「Rococo」の「three days' love」・「Dolores」の「苦痛と快楽の不可分な愛」というSwinburne 愛の詩篇群が「true love / light love」という二類型に要約され、その両方からの断絶として「夢の国の選択」が宣言される。ダウスン「Beata Solitudo（幸いなる孤独）」の「better is the ancient way / Whereby the world is bought and sold（古い道の方がよい、そこで世界は買われ売られる）」という世俗的愛からの撤退宣言との照応：どちらも「愛の言語」からの意志的沈黙として夢・孤独を選ぶ。",
+      "targetId": "dowson_beata_solitudo",
+      "targetParagraphId": null
+    }
+  ]
+}
