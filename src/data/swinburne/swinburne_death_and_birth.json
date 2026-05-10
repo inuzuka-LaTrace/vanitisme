@@ -1,0 +1,94 @@
+{
+  "id": "swinburne_death_and_birth",
+  "title": "Death and Birth",
+  "author": "Algernon Charles Swinburne",
+  "source": "A Century of Roundels (Chatto & Windus, 1883). Wikisource: https://en.wikisource.org/wiki/A_Century_of_Roundels/Death_and_Birth",
+  "year": "1883",
+  "firstPublication": "A Century of Roundels (Chatto & Windus, 1883)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「Death and Birth（死と誕生）」はAlgernon Charles Swinburne（1837–1909）の詩集『A Century of Roundels（百のロンデル）』（1883）所収。詩集全体が100篇のロンデル（rondel）で構成される企画詩集であり、本詩はその一篇。ロンデル（rondel）形式：11行、ABba / ABab / ABbA の押韻型で、「Death and birth」というタイトル句がリフレインとして第4行（インデント付き）と第11行に反復される──リフレインが詩の内容（死と誕生の結びつき）を形式的に実演する。詩の論理：「Death and birth should dwell not near together（死と誕生は近くに住むべきではない）」という最初の命題から始まり、「Fate doth ill to link in one brief tether（運命は二つを一つの短い繋ぎ縄で結ぶという悪事をする）」という宿命論的批判、「Death be best, who knows, or life on earth?（死の方が良いのか、あるいは地上の生命か、誰が知るか？）」というコヘレト的問い、「Ill the rose-red and the sable feather / Blend in one crown's plume（薔薇色と黒の羽根が一つの冠の羽飾りに混じり合う）」という色彩的不調和の形象を経て、最終リフレイン「Death and birth」へと収束する。本詩と対を成すのが詩集内の「Birth and Death（誕生と死）」（タイトルを逆順にした対詩）──Swinburne は「Death and Birth」と「Birth and Death」という逆転したタイトルの2篇を並置することで、死と誕生の先後・優劣という問いをロンデルの対称的形式の中に組み込む。VANITISMEコーパスにおいては「The Garden of Proserpine」の「That no life lives for ever; / That dead men rise up never」というキリスト教的復活否定、「Hymn to Proserpine」の「death is a sleep」という死の至上性定式に対して、「Death and Birth」は「death be best, who knows」という留保付きの問いとして、Swinburne 死の詩学の「懐疑的・問答的」極を示す。",
+  "keywords": [
+    "ロンデル", "rondel", "死と誕生", "リフレイン", "Fate", "運命",
+    "薔薇色と黒", "問いの詩学", "A Century of Roundels"
+  ],
+  "relatedTexts": [
+    "swinburne_garden_of_proserpine",
+    "swinburne_hymn_to_proserpine",
+    "swinburne_forsaken_garden",
+    "swinburne_euthanatos",
+    "swinburne_dysthanatos",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "palladas_ap_x_85",
+    "simonides_ap_x_105"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Lines 1–4",
+      "original": "Death and birth should dwell not near together:\nWealth keeps house not, even for shame, with dearth:\nFate doth ill to link in one brief tether\n    Death and birth.",
+      "provisionalTranslation": "死と誕生は近くに住むべきではない：\n富は貧困と、恥のためにさえ、同居しない：\n運命は一つの短い繋ぎ縄で結ぶという悪事をする\n　　死と誕生を。"
+    },
+    {
+      "id": 2,
+      "verses": "Lines 5–7",
+      "original": "Harsh the yoke that binds them, strange the girth\nSeems that girds them each with each: yet whether\nDeath be best, who knows, or life on earth?",
+      "provisionalTranslation": "彼らを縛る軛は過酷であり、奇妙に見える腹帯が\n互いを互いに締め付ける：しかし\n死の方が良いのか、誰が知るか、あるいは地上の生命か？"
+    },
+    {
+      "id": 3,
+      "verses": "Lines 8–11",
+      "original": "Ill the rose-red and the sable feather\nBlend in one crown's plume, as grief with mirth:\nIll met still are warm and wintry weather,\n    Death and birth.",
+      "provisionalTranslation": "薔薇色と黒の羽根は\n一つの冠の羽飾りに混じり合わない、悲しみと歓喜のように：\n暖かい天気と冬の天気はいまだに悪しき出会いであり、\n　　死と誕生も。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Death and birth should dwell not near together:",
+      "body": "詩形：ロンデル（rondel）。11行、ABba / ABab / ABbA の押韻型。Swinburne が『A Century of Roundels』で採用したロンデル形式はフランス語の「rondeau」系詩形の英語的変奏：「Death and birth」というタイトル句（4音節）がリフレインとして第4行（インデント付き・短縮行）と第11行（同）に反復される。A韻 = together / tether / whether / feather / weather、B韻 = dearth / earth / girth / mirth の交互配置が「-ther / -th」という歯音韻（dental rhyme）の音響的連鎖を形成する。「Death and birth」というリフレインのインデント（字下げ）が視覚的に孤立した短縮行として：詩の内容「二つは不調和だ」という命題を視覚的な「分離」として実演する。詩集内対詩「Birth and Death」との関係：タイトルの語順逆転（Death and Birth → Birth and Death）が「死が先か誕生が先か」という問いを詩集の配列として提示する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Fate doth ill to link in one brief tether",
+      "body": "「Death and birth should dwell not near together（死と誕生は近くに住むべきではない）」──「should（〜すべきではない）」という当為的様相助動詞が命題の規範的性格を示す：死と誕生の近接が「あってはならない」というモデル論的否定として。「Wealth keeps house not, even for shame, with dearth（富は貧困と、恥のためにさえ、同居しない）」──比喩的対句：「Wealth（富）と dearth（貧困）」という経済的対が「Death（死）と birth（誕生）」の存在論的対の類比として提示される。「Fate doth ill to link in one brief tether（運命は一つの短い繋ぎ縄で結ぶという悪事をする）」──「tether（繋ぎ縄）」という動物的束縛の比喩：死と誕生が「tether（繋ぎ縄）」で結ばれた動物のように「brief（短い）」繋ぎ縄で縛られる。「Fate doth ill（運命は悪事をする）」──運命の「ill（悪）」という道徳的批判：コヘレト第1章「Hanc occupationem pessimam dedit Deus filiis hominum（神は人の子らにこの最も過酷な営みを与えた）」という神への批判的命題との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Harsh the yoke that binds them, strange the girth",
+      "body": "「Harsh the yoke that binds them（彼らを縛る軛は過酷である）」──「yoke（軛）」という農耕的・抑圧的束縛の比喩：死と誕生を「軛（yoke）」で結ばれた牛のペアとして。「strange the girth / Seems that girds them each with each（奇妙に見える腹帯が互いを互いに締め付ける）」──「girth（腹帯・胴回り）」という馬具的比喩の継続：「tether（繋ぎ縄）」→「yoke（軛）」→「girth（腹帯）」という動物的束縛の三段階の比喩連鎖が死と誕生の強制的結合を形象化する。「each with each（互いを互いに）」という相互性が両者の分離不可能な結合を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Death be best, who knows, or life on earth?",
+      "body": "「yet whether / Death be best, who knows, or life on earth?（しかし死の方が良いのか、誰が知るか、あるいは地上の生命か？）」──詩全体の哲学的核心。「who knows（誰が知るか）」という懐疑的括弧が「Death be best（死の方が良い）」という命題を問いとして括弧に入れる：「Hymn to Proserpine」の「For there is no God found stronger than death; and death is a sleep（死より強い神は見つからないから；そして死は眠りだ）」という死の至上性の断言に対して、「Death and Birth」では「who knows（誰が知るか）」という留保として──Swinburne死の詩学の「断言的極（Hymn）」対「懐疑的極（Death and Birth）」の対称として。コヘレト「quid habet amplius homo de universo labore suo quo laborat sub sole?（人は労苦から何を得るのか？）」という問いの定式との照応：コヘレトの問いが「死対生」の問いとして変奏される。パラダス「AP X 85」の「Πάντες τῷ θανάτῳ τηρούμεθα（私たちは皆、死のために見守られる）」という断言と、シモニデス「AP X 105」の「θανάτῳ πάντες ὀφειλόμεθα（死に皆、負債を負っている）」という格言的断言の双方に対して、Swinburne は「who knows（誰が知るか）」という不可知論的問いを対置する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ill the rose-red and the sable feather",
+      "body": "「Ill the rose-red and the sable feather / Blend in one crown's plume（薔薇色と黒の羽根が一つの冠の羽飾りに混じり合わない）」──色彩的不調和の形象：「rose-red（薔薇色）」と「sable（黒・紋章学の黒）」という二色が「ill（悪く・うまく）」混じり合わないことで死（黒）と誕生（薔薇色）の不調和を視覚的に示す。「sable（セーブル）」は紋章学（heraldry）の黒色で、死・喪の色。「rose-red（薔薇色）」はSwinburne詩篇群の薔薇的生命・愛・快楽の色──「The Year of the Rose」の「rose-crowned land（薔薇の冠の土地）」・「Dolores」の「rose-red seaweed（薔薇色の海藻）」との薔薇的語彙連鎖。「as grief with mirth（悲しみと歓喜のように）」──色彩の不調和が感情の不調和（grief / mirth）として説明される対句的類比。「Ill met still are warm and wintry weather（暖かい天気と冬の天気はいまだに悪しき出会いである）」──季節的不調和の第三の類比：「warm（暖かい）」と「wintry（冬の）」の並置が「rose-red」と「sable」・「grief」と「mirth」の系列に加わる。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Ill met still are warm and wintry weather,\n    Death and birth.",
+      "body": "最終リフレイン「Death and birth」の反復が詩全体を閉じる：第1段落（1–4行）での「Fate doth ill to link in one brief tether / Death and birth（運命は一つの短い繋ぎ縄で結ぶという悪事をする、死と誕生を）」という外部的・宿命論的批判から、第3段落（8–11行）での「Ill met still are warm and wintry weather, / Death and birth（暖かい天気と冬の天気はいまだに悪しき出会いであり、死と誕生も）」という比喩的・永続的不調和として──「still（いまだに）」という副詞が不調和の永続性を示す。「Garden of Proserpine」の「Here life has death for neighbour（ここでは生命は死を隣人とする）」という「隣人」としての共存に対して、「Death and Birth」は「should dwell not near together（近くに住むべきではない）」と明示的に否定する──「隣人的共存（Garden）」対「不調和な強制的結合（Death and Birth）」というSwinburne 死の詩学内の対話として。シモニデス「AP VII 249」「τῇδε κείμεθα（ここに横たわっている）」と「AP VII 253」の「死と徳の関係」という命題群との問いの系譜的連続性として：「Death be best, who knows, or life on earth?」という問いがシモニデスの碑銘詩篇群における「死の意味化」への懐疑的返答として位置づけられる。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": 3
+    }
+  ]
+}
