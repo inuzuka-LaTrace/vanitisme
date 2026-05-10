@@ -1,0 +1,98 @@
+{
+  "id": "swinburne_eurydice",
+  "title": "Eurydice",
+  "author": "Algernon Charles Swinburne",
+  "source": "Songs before Sunrise (Chatto & Windus, 1871). Wikisource: https://en.wikisource.org/wiki/Songs_before_Sunrise_(Swinburne)/Eurydice",
+  "year": "1871",
+  "firstPublication": "Songs before Sunrise (F. S. Ellis, 1871)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「Eurydice（エウリュディケ）」はAlgernon Charles Swinburne（1837–1909）の政治詩集『Songs before Sunrise（日の出前の歌）』（1871）所収のソネット。副題「TO VICTOR HUGO（ヴィクトル・ユゴーに捧ぐ）」──詩集全体がイタリア統一運動（リソルジメント）への連帯と当時亡命中のユゴーへの讃辞を主題とするが、本詩ではオルフェウスとエウリュディケの神話が詩的・政治的寓意として機能する。詩形：ペトラルカ式ソネット（ABBA ABBA / CDCD EE）。オクターヴ（8行）：「夜は涙と叫びに満ち」という絶望的状況の中でオルフェウスがエウリュディケの頭を確かめようとする姿。セステット（6行）：毒蛇に刺された傷の毒素が残るとはいえ「Turn yet（振り返れ）」という命令と「Wait, and see hell yield up Eurydice（待て、地獄がエウリュディケを手放すのを見よ）」という希望的結語。詩の政治的寓意：「Orpheus（オルフェウス）」＝ユゴー（流刑中の詩人・政治的声）、「Eurydice（エウリュディケ）」＝フランスの共和制・解放（1851年クーデターで失われ、1870年代に取り戻されつつあった）、「hell（地獄）」＝ナポレオン3世の帝政・専制。神話的層では：オルフェウスの「振り返ること（turn）」がエウリュディケを失わせるという神話の逆説を、Swinburne は「Turn yet, she will not fade nor fly from thee（振り返れ、彼女はそなたから消えず逃げない）」として神話的命令を反転させる──「振り返るな」から「振り返れ」への逆転が詩の倫理的核心。リルケ「Die Sonette an Orpheus」（オルフェウスへのソネット）との詩学的対話：リルケが「Sei immer tot in Eurydike（エウリュディケの中で常に死ね）」と「オルフェウスは死によってのみエウリュディケと合一する」として死への自発的降下を命じるのに対し、Swinburne は「Wait, and see hell yield up Eurydice（地獄がエウリュディケを手放すのを見よ）」として地獄からの解放・回帰の命題として提示する──「死への降下（リルケ）」対「冥界からの帰還（Swinburne）」というオルフェウス神話の二様式として。ブランショ「文学の空間」のオルフェウス論：「オルフェウスの視線（le regard d'Orphée）」──振り返ることがエウリュディケを失わせるが、その視線こそが詩作の本質であるという逆説。Swinburne の「Turn yet（振り返れ）」はブランショ的な「失うことを知りながら振り返る詩人」の視線を肯定的命令として提示する。",
+  "keywords": [
+    "オルフェウス", "エウリュディケ", "ヴィクトル・ユゴー", "政治的寓意",
+    "リソルジメント", "ソネット", "振り返り", "冥界", "毒蛇", "Songs before Sunrise"
+  ],
+  "relatedTexts": [
+    "rilke_sonette_orpheus_2_03",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_10",
+    "bryusov_orfey",
+    "bryusov_orfey_evredika",
+    "swinburne_garden_of_proserpine",
+    "swinburne_hymn_to_proserpine",
+    "swinburne_dolores",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "TO VICTOR HUGO.",
+      "provisionalTranslation": "ヴィクトル・ユゴーに捧ぐ。"
+    },
+    {
+      "id": 1,
+      "verses": "Octave (v.1–8)",
+      "original": "Orpheus, the night is full of tears and cries,\nAnd hardly for the storm and ruin shed\nCan even thine eyes be certain of her head\nWho never passed out of thy spirit's eyes,\nBut stood and shone before them in such wise\nAs when with love her lips and hands were fed,\nAnd with mute mouth out of the dusty dead\nStrove to make answer when thou bad'st her rise.",
+      "provisionalTranslation": "オルフェウスよ、夜は涙と叫びに満ちており、\n嵐と廃墟の中では\nそなたの霊の目から決して離れることのなかった彼女の頭を\nそなたの目でさえ確かめることができない、\nしかし彼女はかつて愛で唇と手を養われたときのように\nそのような姿でそれら（霊の目）の前に立ち輝いていた、\nそして塵に汚れた死者の中から黙した口で\nそなたが彼女に立ち上がれと命じたとき答えようと努めた。"
+    },
+    {
+      "id": 2,
+      "verses": "Sestet (v.9–14)",
+      "original": "Yet viper-stricken must her lifeblood feel\nThe fang that stung her sleeping, the foul germ\nEven when she wakes of hell's most poisonous worm,\nThough now it writhe beneath her wounded heel.\nTurn yet, she will not fade nor fly from thee;\nWait, and see hell yield up Eurydice.",
+      "provisionalTranslation": "それでも毒蛇に打たれた彼女の生き血は感じなければならない\n眠っている彼女を刺した牙を、汚れた病原菌を\n彼女が目覚めるときでさえ地獄の最も毒性の強い虫の、\n今それが彼女の傷ついた踵の下でのたうつとはいえ。\n振り返れ、彼女はそなたから消えず逃げない；\n待て、地獄がエウリュディケを手放すのを見よ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "TO VICTOR HUGO.",
+      "body": "ヴィクトル・ユゴー（Victor Hugo, 1802–1885）への献辞。ユゴーは1851年のルイ＝ナポレオンのクーデター後19年間（1851–1870）亡命生活を送り、ジャージー島・ゲルンジー島に在住した。Swinburne の詩集『Songs before Sunrise』（1871）全体がイタリア統一運動（リソルジメント）とナポレオン3世批判・共和制擁護という政治的文脈を持ち、ユゴーはその精神的・詩的先駆者として位置づけられる。「Orpheus（オルフェウス）」＝ユゴーという政治的寓意：詩人・流刑者・冥界に降りた者としてのユゴーがオルフェウスと重ねられる。「Eurydice（エウリュディケ）」＝フランスの共和制・解放という政治的対応。「hell yield up Eurydice（地獄がエウリュディケを手放す）」＝1870年の普仏戦争敗北によるナポレオン3世体制の崩壊・第三共和制への移行という歴史的回収。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Orpheus, the night is full of tears and cries,",
+      "body": "詩形：ペトラルカ式ソネット、ABBA ABBA（オクターヴ）/ CDCD EE（セステット）。韻：A = cries / eyes / wise / eyes、B = shed / head / fed / dead、C = feel / heel、D = germ / worm、E = thee / Eurydice。「Eurydice（エウリュディケ）」がセステット最終行の脚韻位置（E韻）に置かれることで、詩全体の到達点として結晶化される。「Orpheus（オルフェウス）」という呼格による冒頭：「Dolores」・「Hymn to Proserpine」等のSwinburne讃歌詩と同様に呼格による「語りかけ」の形式が採用される──しかしこの詩では詩人が「Orpheus（神話的詩人）」に語りかけるという二重の詩人的対話構造を持つ。「the night is full of tears and cries（夜は涙と叫びに満ちている）」──政治的現実（帝政の圧政）と神話的空間（エウリュディケを失ったオルフェウスの嘆き）の二重的「夜」として。リルケ「Duineser Elegien I（第1悲歌）」の「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（もし私が叫んでも、天使の秩序の中で誰が聞くだろうか？）」という「叫び（schriee）」の冒頭との照応：どちらも「叫び」という音声的絶望から詩が開始される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Who never passed out of thy spirit's eyes,",
+      "body": "「Who never passed out of thy spirit's eyes（そなたの霊の目から決して離れることのなかった彼女）」──オルフェウスにとってエウリュディケは「霊の目（spirit's eyes）」に常に存在し続けるという内的現前性として。「spirit's eyes（霊の目）」という表現がブランショ「文学の空間」のオルフェウス論との接点を開く：ブランショは「オルフェウスはエウリュディケを『作品』（詩）として持ち、彼女の不在が詩の根拠である」と論じた──「spirit's eyes（霊の目）」に見え続けるエウリュディケは「不在の中の現前」として。「As when with love her lips and hands were fed（かつて愛で唇と手を養われたときのように）」──「fed（養われた）」という動詞が愛を食物・栄養として提示する：「Dolores」の「feed me and fill me with pleasure（われを快楽で養い満たしてくれ）」との「feed（養う）」の語彙的照応として。「with mute mouth out of the dusty dead / Strove to make answer（塵に汚れた死者の中から黙した口で答えようと努めた）」──「mute mouth（黙した口）」という逆説：口があるが「mute（黙した）」──声を出せない死者の状態が「答えようと努める（strove to make answer）」という動詞の努力と矛盾として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "And with mute mouth out of the dusty dead\nStrove to make answer when thou bad'st her rise.",
+      "body": "「with mute mouth out of the dusty dead（塵に汚れた死者の中から黙した口で）」──リルケ「Die Sonette an Orpheus II, XIII」の「Sei immer tot in Eurydike（エウリュディケの中で常に死ね）」との神話的対話：リルケのエウリュディケが「死の中に在る存在として」オルフェウスとの関係を定義するのに対し、Swinburne のエウリュディケは「mute mouth（黙した口）」で「答えようと努める（strove to make answer）」という生への志向を保つ。ブリューソフ「Orfei i Evridika（オルフェウスとエウリュディケ）」のエウリュディケ像との対話：ブリューソフの詩ではエウリュディケが冥界の暗闇の中で自分の名を呼ばれるのを聞く存在として描かれるのに対し、Swinburne のエウリュディケは「答えようと努める（strove to make answer）」という能動的・意志的存在として。「thou bad'st her rise（そなたが彼女に立ち上がれと命じた）」──「bad'st（命じた）」という二人称過去形：オルフェウスがエウリュディケに「rise（立ち上がれ）」と命じたという行為の定式化。リルケ「Duineser Elegien X（第10悲歌）」の冥界への降下的視線と対照的に、Swinburne のオルフェウスはエウリュディケに「rise（上昇）」を命じる。",
+      "targetId": "rilke_sonette_orpheus_2_03",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Yet viper-stricken must her lifeblood feel\nThe fang that stung her sleeping, the foul germ",
+      "body": "「Yet viper-stricken must her lifeblood feel / The fang that stung her sleeping, the foul germ / Even when she wakes of hell's most poisonous worm（それでも毒蛇に打たれた彼女の生き血は感じなければならない、眠っている彼女を刺した牙を、汚れた病原菌を、彼女が目覚めるときでさえ地獄の最も毒性の強い虫の）」──エウリュディケの死因（viper / 毒蛇に刺されて死んだ）が回帰的傷として：「foul germ（汚れた病原菌）」という近代的医学的語彙が古代神話の「viper（毒蛇）」と並置される。「Even when she wakes（彼女が目覚めるときでさえ）」という条件節が毒素の持続性を示す：回復・帰還の後にも毒が残るという外傷的記憶の問題として。政治的寓意：「viper-stricken（毒蛇に打たれた）」＝帝政の傷、「foul germ（汚れた病原菌）」＝独裁的統治の遺産が共和制回復後も残存するという政治的現実主義として。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae（裸で母の胎から出た）」の回復の後も傷が残るという苦悩論との照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Though now it writhe beneath her wounded heel.",
+      "body": "「Though now it writhe beneath her wounded heel（今それが彼女の傷ついた踵の下でのたうつとはいえ）」──「wounded heel（傷ついた踵）」という聖書的形象への照応：創世記3:15「ipsa conteret caput tuum et tu insidiaberis calcaneo eius（彼女はお前の頭を砕き、お前は彼女の踵を狙う）」──神が蛇に告げた言葉、「女（Evah）の踵（calcaneum）を蛇（serpens）が狙う」というプロトエヴァンゲリウム。Swinburne はエウリュディケの「wounded heel（傷ついた踵）」をギリシャ神話の毒蛇とキリスト教の蛇＝悪魔の両方と響かせることで、神話的・聖書的層を重層化する。「writhe beneath her wounded heel（彼女の傷ついた踵の下でのたうつ）」──毒蛇（帝政・悪）が今は彼女の踵の下に制圧されているという勝利的逆転：「viper-stricken（毒蛇に打たれた）」→「writhe beneath her wounded heel（踵の下でのたうつ）」という被害から支配への転換。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Turn yet, she will not fade nor fly from thee;\nWait, and see hell yield up Eurydice.",
+      "body": "「Turn yet, she will not fade nor fly from thee（振り返れ、彼女はそなたから消えず逃げない）」──オルフェウス神話の逆転的命令。通常の神話では「振り返るな（Don't look back）」という禁止がエウリュディケを失わせる条件であるが、Swinburne は「Turn yet（それでも振り返れ）」として禁止を肯定的命令に反転させる：「she will not fade nor fly from thee（彼女はそなたから消えず逃げない）」という保証がこの逆転の根拠として。ブランショ「文学の空間」のオルフェウス論との核心的対話：ブランショは「オルフェウスの視線（le regard d'Orphée）」を「失うことを知りながら振り返る詩人の本質的行為」として定義した──詩作とは「エウリュディケを失うこと（le perdre）」を知りながら振り返ることであると。Swinburne の「Turn yet, she will not fade（振り返れ、彼女は消えない）」はブランショ的「失うための視線」を「失わない視線」として再解釈する：「振り返ること＝喪失」という構造を「振り返ること＝保持」として逆転させる政治的楽観主義として。「Wait, and see hell yield up Eurydice（待て、地獄がエウリュディケを手放すのを見よ）」──最終行の命令（Wait）と視覚（see）の結合：「待つこと」と「見ること」が「hell yield up Eurydice（地獄がエウリュディケを手放す）」という歴史的事件の目撃として。リルケ「Die Sonette an Orpheus II, XIII」の「Sei immer tot in Eurydike, singender steige（エウリュディケの中で常に死ね、より高く歌いながら登れ）」との対話：リルケが「死の中でのみエウリュディケと合一する」という降下的命題を提示するのに対し、Swinburne は「hell yield up（地獄が手放す）」という上昇的解放の命題として──「死への降下（リルケ）」対「冥界からの解放（Swinburne）」というオルフェウス詩学の対極。ブリューソフ「Orfei i Evridika」との比較：ブリューソフのエウリュディケは「名を呼ばれるのを聞く受動的存在」として描かれるのに対し、Swinburne のエウリュディケは「hell yield up（地獄が解放する）」という能動的解放の客体として──詩の政治的寓意（フランス共和制の回復）が神話的解放として機能する。",
+      "targetId": "rilke_sonette_orpheus_2_03",
+      "targetParagraphId": 3
+    }
+  ]
+}
