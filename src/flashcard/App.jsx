@@ -52,12 +52,15 @@ import nervoData from '../data/nervo';
 import hieronymusData from '../data/hieronymus';
 import liturgyData from '../data/liturgy';
 import horatiusData from '../data/horatius';
+import catullusData from '../data/catullus';
 import platoData from '../data/plato';
 import meleagerData from '../data/meleager';
 import palladasData from '../data/palladas';
+import simonidesData from '../data/simonides';
 import kavafisData from '../data/kavafis';
 import mavilisData from '../data/mavilis';
 import sarantarisData from '../data/sarantaris';
+import karyotakisData from '../data/karyotakis';
 
 import { CAT_SHORT } from '../constants';
 import { getOriginalText, getTranslation } from '../utils';
@@ -113,12 +116,14 @@ const ALL_TEXTS = {
       ...hieronymusData,
       ...liturgyData,
       ...horatiusData,
+      ...catullusData,
       ...platoData,
       ...meleagerData,
       ...palladasData,
       ...kavafisData,
       ...mavilisData,
       ...sarantarisData,
+      ...karyotakisData,
 };
 
 // ── カテゴリーカラー（VANITISMEと同系） ─────────────────────
