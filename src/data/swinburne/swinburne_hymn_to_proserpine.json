@@ -39,6 +39,12 @@
   ],
   "paragraphs": [
     {
+      "id": 0,
+      "verses": "preface",
+      "original": "Vicisti, Galilæe.",
+      "provisionalTranslation": "征服した、ガリラヤ人よ。"
+    },
+    {
       "id": 1,
       "verses": "Lines 1–12",
       "original": "I have lived long enough, having seen one thing, that love hath an end;\nGoddess and maiden and queen, be near me now and befriend.\nThou art more than the day or the morrow, the seasons that laugh or that weep;\nFor these give joy and sorrow; but thou, Proserpina, sleep.\nSweet is the treading of wine, and sweet the feet of the dove;\nBut a goodlier gift is thine than foam of the grapes or love.\nYea, is not even Apollo, with hair and harpstring of gold,\nA bitter God to follow, a beautiful God to behold?\nI am sick of singing: the bays burn deep and chafe: I am fain\nTo rest a little from praise and grievous pleasure and pain.\nFor the Gods we know not of, who give us our daily breath,\nWe know they are cruel as love or life, and lovely as death.",
@@ -107,10 +113,16 @@
   ],
   "annotations": [
     {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Vicisti, Galilæe.",
+      "body": "エピグラフ「Vicisti, Galilæe（征服した、ガリラヤ人よ）」はローマ皇帝ユリアヌス（Julian the Apostate, 331–363）の臨終の言葉として伝わる──キリスト教を否定し異教を復興しようとした最後の異教的皇帝が、死の床でキリスト（ガリラヤ人）の勝利を認めた言葉として。Swinburne はこのユリアヌス的立場──異教的価値の擁護者として「征服された」側から語る──を詩全体の語り手の声として採用する。。",
+    },
+    {
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "I have lived long enough, having seen one thing, that love hath an end;",
-      "body": "詩の開口部。エピグラフ「Vicisti, Galilæe（征服した、ガリラヤ人よ）」はローマ皇帝ユリアヌス（Julian the Apostate, 331–363）の臨終の言葉として伝わる──キリスト教を否定し異教を復興しようとした最後の異教的皇帝が、死の床でキリスト（ガリラヤ人）の勝利を認めた言葉として。Swinburne はこのユリアヌス的立場──異教的価値の擁護者として「征服された」側から語る──を詩全体の語り手の声として採用する。ギリシャ語エピグラフ「φυχάριον εἶ βαστάζον νεκρόν（汝は小さな魂であり、死体を担いでいる）」──エピクテトス（Epictetus）からの引用：詩末「A little soul for a little bears up this corpse which is man（小さな魂がひとしきりこの屍を担ぐ、それが人間だ）」の英語的変奏として機能する詩全体の格言的枠組み。「love hath an end（愛には終わりがある）」──詩全体の主題命題の最初の宣言：「The Garden of Proserpine」の「I am tired of tears and laughter」と並ぶSwinburne的疲弊の定式として。「Goddess and maiden and queen, be near me now and befriend（女神よ、乙女よ、女王よ、今ここで私の近くにいて助けてくれ）」──第9段落で反復されるリフレイン：「Garden of Proserpine」の「Pale, beyond porch and portal, / Crowed with calm leaves, she stands」と同一のプロセルピナへの呼格。",
+      "body": "詩の開口部。ギリシャ語エピグラフ「φυχάριον εἶ βαστάζον νεκρόν（汝は小さな魂であり、死体を担いでいる）」──エピクテトス（Epictetus）からの引用：詩末「A little soul for a little bears up this corpse which is man（小さな魂がひとしきりこの屍を担ぐ、それが人間だ）」の英語的変奏として機能する詩全体の格言的枠組み。「love hath an end（愛には終わりがある）」──詩全体の主題命題の最初の宣言：「The Garden of Proserpine」の「I am tired of tears and laughter」と並ぶSwinburne的疲弊の定式。「Goddess and maiden and queen, be near me now and befriend（女神よ、乙女よ、女王よ、今ここで私の近くにいて助けてくれ）」──第9段落で反復されるリフレイン：「Garden of Proserpine」の「Pale, beyond porch and portal, / Crowed with calm leaves, she stands」と同一のプロセルピナへの呼格。",
       "targetId": "swinburne_garden_of_proserpine",
       "targetParagraphId": 7
     },
