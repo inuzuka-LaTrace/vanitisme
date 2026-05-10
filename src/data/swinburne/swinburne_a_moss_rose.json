@@ -1,0 +1,105 @@
+{
+  "id": "swinburne_a_moss_rose",
+  "title": "A Moss-Rose",
+  "author": "Algernon Charles Swinburne",
+  "source": "Astrophel and Other Poems (Chatto & Windus, 1894). Wikisource: https://en.wikisource.org/wiki/Astrophel_and_Other_Poems/A_Moss-Rose",
+  "year": "1894",
+  "firstPublication": "Astrophel and Other Poems (Chatto & Windus, 1894)",
+  "difficulty": "初級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "「A Moss-Rose（苔薔薇）」はAlgernon Charles Swinburne（1837–1909）の後期詩集『Astrophel and Other Poems』（1894）所収。4連×4行（ABAB押韻）の軽妙な短詩。後期 Swinburne が好んだ子供・嬰児への愛情詩の一篇──「苔薔薇（moss-rose）は花の中でも最も美しい」という問いかけから「The flower was the face of a baby, / The moss was a bonnet of plush（その花は嬰児の顔であり、その苔はビロードのボンネットであった）」という「嬰児の顔＝最高の苔薔薇」という微笑ましい終着へと至るエピグラム的構造を持つ。「苔薔薇（moss-rose）」──19世紀前半に流行したバラの品種（Rosa centifolia muscosa）で、花托に苔状の突起があることからこう呼ばれる。ヴィクトリア朝の「花言葉（floriography）」では「純粋な愛（pure love）」・「謙虚さ（modesty）」を意味し、嬰児を連想させる柔らかさを持つ。詩の構造：第1連（問いの前提──薔薇の中で苔薔薇が最も美しい）→第2連（問いの展開──しかし木から離れて咲くより美しい薔薇があるとしたら？）→第3連（時間的逆説──11月の薄暗さの中で7月の輝きが現れた）→第4連（謎解き──それは嬰児の顔とビロードのボンネット）。VANITISMEコーパスにおけるSwinburne詩篇群の中では最も「軽やかな」作品として、「Dolores」・「Garden of Proserpine」・「Forsaken Garden」等の死の詩学・苦悩の美学とは対極的な生命的・無垢的肯定を示す──しかし「苔薔薇」という薔薇詩学の共通語彙を通じて、Swinburne詩篇群の薔薇のネットワークの末端に位置する。",
+  "keywords": [
+    "苔薔薇", "moss-rose", "嬰児", "花言葉", "エピグラム",
+    "November", "July", "Astrophel", "後期Swinburne", "純粋な愛"
+  ],
+  "relatedTexts": [
+    "swinburne_year_of_the_rose",
+    "swinburne_a_match",
+    "swinburne_forsaken_garden",
+    "swinburne_euthanatos",
+    "valmore_les_roses_de_saadi",
+    "vanlerberghe_rosier_mystique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "Stanza I",
+      "original": "If the rose of all flowers be the rarest\nThat heaven may adore from above,\nAnd the fervent moss-rose be the fairest\nThat sweetens the summer with love,",
+      "provisionalTranslation": "すべての花の中で薔薇が最も希少であり\n天が上から崇めるものであり、\n熱情的な苔薔薇が最も美しく\n愛で夏を甘くするものであるなら、"
+    },
+    {
+      "id": 2,
+      "verses": "Stanza II",
+      "original": "Can it be that a fairer than any\nShould blossom afar from the tree?\nYet one, and a symbol of many,\nShone sudden for eyes that could see.",
+      "provisionalTranslation": "いかなるものよりも美しいものが\n木から遠く離れて咲くことがあり得るだろうか？\nそれでも一つが、多くのものの象徴として、\n見ることのできる目のために突然輝いた。"
+    },
+    {
+      "id": 3,
+      "verses": "Stanza III",
+      "original": "In the grime and the gloom of November\nThe bliss and the bloom of July\nBade autumn rejoice and remember\nThe balm of the blossoms gone by.",
+      "provisionalTranslation": "11月の汚れと薄暗さの中で\n7月の至福と花盛りが\n秋に喜び、そして思い出すよう命じた\n過ぎ去った花々の薬香を。"
+    },
+    {
+      "id": 4,
+      "verses": "Stanza IV",
+      "original": "Would you know what moss-rose now it may be\nThat puts all the rest to the blush,\nThe flower was the face of a baby,\nThe moss was a bonnet of plush.",
+      "provisionalTranslation": "他のすべてを赤面させるのが\n今いかなる苔薔薇であるかをお知りになりたければ、\nその花は嬰児の顔であり、\nその苔はビロードのボンネットであった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "If the rose of all flowers be the rarest",
+      "body": "詩形：4連×4行（ABAB押韻）、弱強三歩格（iambic trimeter）基調。韻：A = rarest / fairest、B = above / love（第1連）；A = any / many、B = tree / see（第2連）；A = November / remember、B = July / by（第3連）；A = may be / baby、B = blush / plush（第4連）。詩全体が条件文（「If…」第1連→「Can it be…」第2連→「Yet…」第2連→「Would you know…」第4連）という問答的進行で構成される：問いが深まるごとに謎解きへと近づく構造がエピグラム（epigram）の古典的形式として。後期 Swinburne の詩調：「Dolores」・「Rococo」の弱強三歩格（anapaestic trimeter / iambic trimeter）という同一韻律が、ここでは苦悩ではなく軽妙な微笑みとして使われる──同一の詩形が「苦痛の女神讃歌」から「嬰児への微笑み」まで機能するという詩形の中立性の実演として。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "And the fervent moss-rose be the fairest",
+      "body": "「If the rose of all flowers be the rarest（すべての花の中で薔薇が最も希少であるなら）」──仮定法の条件節（If…be）が詩全体の問答的構造の出発点として。「the fervent moss-rose（熱情的な苔薔薇）」──「fervent（熱情的）」という形容詞が苔薔薇の花弁の密集・熱気を示す：ロサ・ケンティフォリア・ムスコサ（Rosa centifolia muscosa）の苔状の花托と鮮やかな花弁の両義として。「sweetens the summer with love（愛で夏を甘くする）」──「sweetens（甘くする）」という動詞が「The Year of the Rose」の「With his breath has he sweetened a night and a day for us（彼の息でわれわれのために一夜と一日を甘くしてくれた）」・「earth grew sweet with her name（大地は彼女の名で甘くなった：Hymn to Proserpine）」という「甘くする（sweeten）」の語彙的連続性として──Swinburne 詩篇群における「甘さ（sweetness）」の語彙連鎖の軽やかな末端として。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Can it be that a fairer than any",
+      "body": "「Can it be that a fairer than any / Should blossom afar from the tree?（いかなるものよりも美しいものが木から遠く離れて咲くことがあり得るだろうか？）」──「afar from the tree（木から遠く離れて）」という場所的逸脱：「苔薔薇は薔薇の木に咲く」という自然の秩序から逸脱した場所に「最も美しい薔薇」が存在するという逆説的命題。「Yet one, and a symbol of many, / Shone sudden for eyes that could see（それでも一つが、多くのものの象徴として、見ることのできる目のために突然輝いた）」──「a symbol of many（多くのものの象徴）」という個体と象徴の関係：一つの嬰児の顔が「多くのもの（many）の象徴」として機能するという象徴論的命題。「for eyes that could see（見ることのできる目のために）」──「could see」という条件的視覚：すべての目が見えるわけではなく「見ることのできる目」だけが突然の輝きを見ることができるという認識論的選択性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "In the grime and the gloom of November",
+      "body": "「In the grime and the gloom of November（11月の汚れと薄暗さの中で）」──「grime（汚れ）and gloom（薄暗さ）」という頭韻（g-）の対が11月という晩秋の季節的薄暗さを二重に強調する。「A Forsaken Garden」の「The dense hard passage is blind and stifled（密集した固い通路は暗く息詰まる）」という廃墟的暗さとは対照的に、「A Moss-Rose」の「gloom of November」は温かい「bliss and bloom of July（7月の至福と花盛り）」によって突破される希望的暗さとして。「The bliss and the bloom of July（7月の至福と花盛りが）」──「bliss（至福）」と「bloom（花盛り）」という b- の頭韻対：「grime and gloom」の暗い g- 音から「bliss and bloom」の明るい bl- 音への音響的転換が暗から明への感情的移行を音的に実演する。「Bade autumn rejoice and remember / The balm of the blossoms gone by（秋に喜び、そして思い出すよう命じた、過ぎ去った花々の薬香を）」──「Bade（命じた）」という動詞が7月の輝きを擬人化する：「The Year of the Rose」の「Bade autumn（秋に命じた）」という同一の季節的時制語彙との照応として。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Bade autumn rejoice and remember",
+      "body": "「The balm of the blossoms gone by（過ぎ去った花々の薬香を）」──「balm（薬香・バルサム）」という芳香的・治癒的語彙：「Forsaken Garden」の「One gaunt bleak blossom of scentless breath（香りのない息の、ひとつの痩せた陰鬱な花）」という無香の廃墟の花とは対照的に、「A Moss-Rose」の「balm of the blossoms（花々の薬香）」は記憶の中に保存された香りとして。「gone by（過ぎ去った）」という過去分詞──「The Year of the Rose」の「The year of the rose is brief（薔薇の年は短い）」という薔薇の一時性がここでは「gone by（過ぎ去った）」として11月の記憶の中に保存される：季節的記憶として保存された薔薇という過去の形象として。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消去命題に対して、「remember / the balm of the blossoms gone by（過ぎ去った花々の薬香を思い出すよう）」という記憶の肯定・保存としての Swinburne 的応答として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Would you know what moss-rose now it may be",
+      "body": "「Would you know what moss-rose now it may be / That puts all the rest to the blush（他のすべてを赤面させるのが今いかなる苔薔薇であるかをお知りになりたければ）」──「Would you know（お知りになりたければ）」という二人称への直接的問いかけ：エピグラムの伝統的な「読者への問いかけ（interpellatio）」として。「puts all the rest to the blush（他のすべてを赤面させる）」──「blush（赤面）」という語が「rose-red（薔薇色）」の赤さと「恥ずかしさの赤面」の両義として機能する：最も美しい苔薔薇が他の薔薇を「恥ずかしさで赤面させる」という比喩が詩のユーモア的頂点として。「The flower was the face of a baby（その花は嬰児の顔であり）」──詩全体の謎解き：「最も美しい苔薔薇」の正体が「嬰児の顔（face of a baby）」であるという微笑ましい答え。「fervent（熱情的）」→「fairest（最も美しい）」→「fairer than any（いかなるものよりも美しい）」→「face of a baby（嬰児の顔）」という美の頂点の逆説的収束として。「The moss was a bonnet of plush（その苔はビロードのボンネットであった）」──「plush（プラッシュ・ビロード）」という柔らかい布地が「moss（苔）」の柔らかさ・質感と照応する：苔薔薇の苔状の質感が嬰児のボンネット（帽子）の柔らかさとして具体化される。「Euthanatos」の「white soul soaring…Winged like a dove（白い魂が舞い昇る……鳩のような翼で）」という昇天的「白さ・純粋さ」の形象が、ここでは「嬰児の顔」という地上的・無垢的「白さ」として変奏される。",
+      "targetId": "swinburne_euthanatos",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "The flower was the face of a baby,",
+      "body": "Swinburne 薔薇詩学の系譜における「A Moss-Rose」の位置：「The Year of the Rose」（薔薇の盛りと衰退）→「A Match」（薔薇と愛の仮定的対）→「A Forsaken Garden」（廃れた薔薇の庭）→「Dolores」（「lilies and languors of virtue / For the raptures and roses of vice」：悪徳の薔薇）→「A Moss-Rose」（嬰児の顔としての薔薇）という薔薇の意味論的変容の最終形として。「Rococo」の「A rain and ruin of roses（薔薇の雨と廃墟）」という消滅的薔薇に対して、「A Moss-Rose」は「The flower was the face of a baby（嬰児の顔としての花）」という誕生・無垢・生命の肯定として──Swinburne 詩学の「薔薇」の極北として「Death and Birth」の対詩から「A Moss-Rose」の生命的肯定まで、死と生の弁証法の「生」極として。ヴァルモール「Les Roses de Saadi（サアディの薔薇）」の「J'en ai trop chargé ma ceinture（帯に積みすぎた）」という溢れ出る薔薇の親密さ・ 贈与との照応：どちらも「愛の贈り物としての薔薇」という主題の中で、Swinburne は最終的に嬰児の顔という生命の原点へと収束する。",
+      "targetId": "swinburne_year_of_the_rose",
+      "targetParagraphId": 9
+    }
+  ]
+}
