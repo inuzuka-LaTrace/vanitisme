@@ -1,0 +1,390 @@
+{
+  "id": "hieronymus_ioannes_18",
+  "title": "Ioannes, Caput XVIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XVIII. Bible Gateway: https://www.biblegateway.com/passage/?search=John+18&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第18章。逮捕・尋問・ペトロの否認・ピラトとの対話を語る受難の開始章。第17章「大祭司の祈り」の静謐から転じて、本章は行動と対話の連鎖として展開する。構造は三部：第一部（v.1–11）ゲッセマネの園での逮捕──「Ego sum（私はある）」の宣告と兵士たちの倒伏；第二部（v.12–27）アンナス・カイアファへの連行とペトロの三度の否認──「Non sum（私は……ではない）」の反復；第三部（v.28–40）ピラトの法廷──「Regnum meum non est de hoc mundo（私の王国はこの世のものではない）」と「Quid est veritas?（真理とは何か）」。ヨハネ福音書の受難記述の特質は、苦しむイエスではなく「知っており（sciens）」「主導する（processit）」王的イエスの描写にある。v.5–6の「Ego sum」による兵士たちの倒伏はヨハネ福音書のみに記され、神的名称の発声による力の顕示として機能する。v.38「Quid est veritas?」というピラトの問いは、西洋哲学史・文学史における最も有名な問いのひとつとして流通した。バッハ「ヨハネ受難曲（Johannes-Passion, BWV 245, 1724）」は本章・第19章を主要テキストとし、コラール・アリア・合唱によってこの物語を音楽的に多声化する。太宰治「駈込み訴へ（1940）」はユダの一人称独白として裏切りの心理を内側から語り、「告白という語り形式」の問題を前景化する。",
+  "keywords": [
+    "逮捕",
+    "Ego sum",
+    "Non sum",
+    "ペトロの否認",
+    "Quid est veritas",
+    "Regnum meum non est de hoc mundo",
+    "hortus",
+    "Calix",
+    "Barabbas",
+    "ヨハネ受難曲"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_ioannes_13",
+    "hieronymus_ioannes_17",
+    "hieronymus_iob_1",
+    "hieronymus_psalm_21",
+    "weil_accepter_le_vide",
+    "weil_la_violence",
+    "weil_necessite",
+    "baudelaire_de_profundis_clamavi",
+    "trakl_de_profundis",
+    "dante_inferno_canto_3",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Haec cum dixisset Jesus, egressus est cum discipulis suis trans torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli ejus.",
+      "provisionalTranslation": "イエスはこう言ってから、弟子たちと共にケデロンの谷の向こうへ出て行かれた。そこには園があり、イエスは弟子たちと共にそこに入られた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Sciebat autem et Judas, qui tradebat eum, locum: quia frequenter Jesus convenerat illuc cum discipulis suis.",
+      "provisionalTranslation": "イエスを裏切ろうとしていたユダもその場所を知っていた。イエスはたびたび弟子たちとそこに集まっておられたからだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Judas ergo cum accepisset cohortem, et a pontificibus et pharisaeis ministros, venit illuc cum laternis, et facibus, et armis.",
+      "provisionalTranslation": "ユダは一隊の兵士と、祭司長たちとファリサイ人たちの手下を引き連れ、松明と灯火と武器を持ってそこへ来た。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Jesus itaque sciens omnia quae ventura erant super eum, processit, et dixit eis: Quem quaeritis?",
+      "provisionalTranslation": "イエスは御自分に降りかかることをすべて知り、進み出て言われた。「誰を求めているのか。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Responderunt ei: Jesum Nazarenum. Dicit eis Jesus: Ego sum. Stabat autem et Judas, qui tradebat eum, cum ipsis.",
+      "provisionalTranslation": "「ナザレのイエスを。」イエスは言われた。「私はある。」なおユダも彼らと一緒に立っていた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Ut ergo dixit eis: Ego sum: abierunt retrorsum, et ceciderunt in terram.",
+      "provisionalTranslation": "「私はある」と言われると、彼らは後ずさりして地に倒れた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Iterum ergo interrogavit eos: Quem quaeritis? Illi autem dixerunt: Jesum Nazarenum.",
+      "provisionalTranslation": "そこでイエスは再び問われた。「誰を求めているのか。」「ナザレのイエスを」と彼らは言った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Respondit Jesus: Dixi vobis, quia ego sum: si ergo me quaeritis, sinite hos abire.",
+      "provisionalTranslation": "イエスは答えられた。「私はあると言ったではないか。私を求めているなら、この人たちを行かせなさい。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ut impleretur sermo, quem dixit: Quia quos dedisti mihi, non perdidi ex eis quemquam.",
+      "provisionalTranslation": "「あなたが私にくださった者を、私は一人も失いませんでした」と言われたみ言葉が成就するためであった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Simon ergo Petrus habens gladium eduxit eum: et percussit pontificis servum, et abscidit auriculam ejus dexteram. Erat autem nomen servo Malchus.",
+      "provisionalTranslation": "シモン・ペトロは剣を持っていたので、それを抜いて大祭司の僕に打ちかかり、右の耳を切り落とした。その僕の名はマルコスであった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Dixit ergo Jesus Petro: Mitte gladium tuum in vaginam. Calicem, quem dedit mihi Pater, non bibam illum?",
+      "provisionalTranslation": "イエスはペトロに言われた。「剣をさやに収めなさい。父が私にお与えになった杯を、私は飲まないでいられようか。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Cohors ergo, et tribunus, et ministri Judaeorum comprehenderunt Jesum, et ligaverunt eum.",
+      "provisionalTranslation": "そこで一隊の兵士と千人隊長とユダヤ人の手下たちがイエスを捕らえ、縛った。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et adduxerunt eum ad Annam primum: erat enim socer Caiphae, qui erat pontifex anni illius.",
+      "provisionalTranslation": "まずアンナスのところに連れて行った。アンナスはその年の大祭司カイアファの舅であったからだ。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Erat autem Caiphas, qui consilium dederat Judaeis: Quia expedit unum hominem mori pro populo.",
+      "provisionalTranslation": "カイアファは「一人の人間が民のために死ぬ方が得策だ」とユダヤ人たちに助言した人物であった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Sequebatur autem Jesum Simon Petrus, et alius discipulus. Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium pontificis.",
+      "provisionalTranslation": "シモン・ペトロともう一人の弟子がイエスに従っていた。その弟子は大祭司の知り合いで、イエスと共に大祭司の屋敷の中庭に入った。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Petrus autem stabat ad ostium foris. Exivit ergo discipulus alius, qui erat notus pontifici, et dixit ostiariae: et introduxit Petrum.",
+      "provisionalTranslation": "しかしペトロは外で門の所に立っていた。すると大祭司の知り合いであるもう一人の弟子が出て来て、門番の女に話し、ペトロを中に入れた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Dicit ergo Petro ancilla ostiaria: Numquid et tu ex discipulis es hominis istius? Dicit ille: Non sum.",
+      "provisionalTranslation": "門番の女中はペトロに言った。「あなたもあの人の弟子の一人ではないですか。」「違う」と彼は言った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se: erat autem cum eis et Petrus stans, et calefaciens se.",
+      "provisionalTranslation": "寒かったので、僕たちや手下たちは炭火を起こし、そこに立って暖まっていた。ペトロも彼らと一緒に立って暖まっていた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Pontifex ergo interrogavit Jesum de discipulis suis, et de doctrina ejus.",
+      "provisionalTranslation": "大祭司はイエスに弟子たちのことと、その教えについて尋ねた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Respondit ei Jesus: Ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes Judaei conveniunt, et in occulto locutus sum nihil.",
+      "provisionalTranslation": "イエスは答えられた。「私は世に公然と語った。いつも会堂や神殿で、ユダヤ人たちが皆集まる場所で教えた。隠れて何かを語ったことはない。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Quid me interrogas? interroga eos qui audierunt quid locutus sim ipsis: ecce hi sciunt quae dixerim ego.",
+      "provisionalTranslation": "「なぜ私に尋ねるのか。私が何を語ったか、聞いた人たちに聞きなさい。私が言ったことを彼らは知っている。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Haec autem cum dixisset, unus assistens ministrorum dedit alapam Jesu, dicens: Sic respondes pontifici?",
+      "provisionalTranslation": "こう言われると、手下の一人がイエスを平手打ちして言った。「大祭司にそのように答えるのか。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Respondit ei Jesus: Si male locutus sum, testimonium perhibe de malo: si autem bene, quid me caedis?",
+      "provisionalTranslation": "イエスは答えられた。「もし私が悪いことを言ったなら、その悪いことについて証しなさい。しかし良いことを言ったなら、なぜ打つのか。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Et misit eum Annas ligatum ad Caipham pontificem.",
+      "provisionalTranslation": "アンナスはイエスを縛ったまま大祭司カイアファのもとに送った。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei: Numquid et tu ex discipulis ejus es? Negavit ille, et dixit: Non sum.",
+      "provisionalTranslation": "シモン・ペトロは立って暖まっていた。「あなたもあの人の弟子の一人ではないか」と人々は言った。彼は否定して、「違う」と言った。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Dicit ei unus ex servis pontificis, cognatus ejus, cujus abscidit Petrus auriculam: Nonne ego te vidi in horto cum illo?",
+      "provisionalTranslation": "大祭司の僕の一人で、ペトロに耳を切られた者の縁者が言った。「私はあなたが彼と一緒に園にいるのを見たのではないか。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Iterum ergo negavit Petrus: et statim gallus cantavit.",
+      "provisionalTranslation": "ペトロはまた否定した。するとすぐに鶏が鳴いた。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Adducunt ergo Jesum a Caipha in praetorium. Erat autem mane: et ipsi non introierunt in praetorium, ut non contaminarentur, sed ut manducarent Pascha.",
+      "provisionalTranslation": "人々はイエスをカイアファのもとから総督官邸に連れて行った。夜明けだった。彼らは汚れないために官邸には入らなかった。過越祭の食事をするためだ。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Exivit ergo Pilatus ad eos foras, et dixit: Quam accusationem affertis adversus hominem hunc?",
+      "provisionalTranslation": "そこでピラトは彼らのところへ外に出て来て言った。「この人物に対してどのような訴えを持ってきたのか。」"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Responderunt, et dixerunt ei: Si non esset hic malefactor, non tibi tradidissemus eum.",
+      "provisionalTranslation": "「この人が悪人でなければ、あなたに引き渡しはしなかった」と彼らは答えた。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Dixit ergo eis Pilatus: Accipite eum vos, et secundum legem vestram judicate eum. Dixerunt ergo ei Judaei: Nobis non licet interficere quemquam.",
+      "provisionalTranslation": "ピラトは言った。「あなた方が受け取って、あなた方の律法で裁きなさい。」ユダヤ人たちは言った。「私たちは誰も死刑にする権限がない。」"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Ut sermo Jesu impleretur, quem dixit, significans qua morte esset moriturus.",
+      "provisionalTranslation": "イエスがどのような死に方で死ぬかを示されたみ言葉が成就するためであった。"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Introivit ergo iterum in praetorium Pilatus: et vocavit Jesum, et dixit ei: Tu es rex Judaeorum?",
+      "provisionalTranslation": "ピラトは再び官邸に入り、イエスを呼んで言った。「あなたはユダヤ人の王か。」"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "Respondit Jesus: A temetipso hoc dicis, an alii dixerunt tibi de me?",
+      "provisionalTranslation": "イエスは答えられた。「あなたは自分からそう言うのか、それとも他の者が私についてあなたに言ったのか。」"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Respondit Pilatus: Numquid ego Judaeus sum? gens tua et pontifices tradiderunt te mihi: quid fecisti?",
+      "provisionalTranslation": "ピラトは答えた。「私はユダヤ人ではないだろう。あなた自身の民族と祭司長たちがあなたを私に引き渡したのだ。何をしたのか。」"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Respondit Jesus: Regnum meum non est de hoc mundo. Si ex hoc mundo esset regnum meum, ministri mei utique decertarent ut non traderer Judaeis: nunc autem regnum meum non est hinc.",
+      "provisionalTranslation": "イエスは答えられた。「私の王国はこの世のものではない。もし私の王国がこの世のものであれば、私の手下たちはユダヤ人に引き渡されないよう戦ったであろう。しかし実際、私の王国はここのものではない。」"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Dixit itaque ei Pilatus: Ergo rex es tu? Respondit Jesus: Tu dicis quia rex sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimonium perhibeam veritati: omnis qui est ex veritate, audit vocem meam.",
+      "provisionalTranslation": "ピラトは言った。「では、あなたは王なのか。」イエスは答えられた。「あなたは私が王だと言う。私は真理について証しするために生まれ、そのために世に来た。真理に属する者は皆、私の声を聞く。」"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Dicit ei Pilatus: Quid est veritas? Et cum hoc dixisset, iterum exivit ad Judaeos, et dicit eis: Ego nullam invenio in eo causam.",
+      "provisionalTranslation": "ピラトは言った。「真理とは何か。」こう言ってから再びユダヤ人たちのところに出て行き、言った。「私はこの人には何の罪も見つけない。」"
+    },
+    {
+      "id": 39,
+      "verses": "v.39",
+      "original": "Est autem consuetudo vobis ut unum dimittam vobis in Pascha: vultis ergo dimittam vobis regem Judaeorum?",
+      "provisionalTranslation": "「過越祭にはあなた方のために一人を釈放する慣例がある。ユダヤ人の王を釈放してほしいか。」"
+    },
+    {
+      "id": 40,
+      "verses": "v.40",
+      "original": "Clamaverunt ergo rursum omnes, dicentes: Non hunc, sed Barabbam. Erat autem Barabbas latro.",
+      "provisionalTranslation": "すると全員が再び叫んだ。「この人ではなく、バラバを。」バラバは強盗であった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "trans torrentem Cedron, ubi erat hortus, in quem introivit ipse, et discipuli ejus.",
+      "body": "「ケデロンの谷の向こうへ……園があり、そこに入られた」──「hortus（園）」という場所の設定。ヨハネ福音書は共観福音書の「ゲッセマネ（Gethsemane）」という名称を使わず、単に「園（hortus）」と記す。創世記第2章の「Eden（楽園）」が「hortus」の語で訳されるヴルガータでは、この「園」への入りが「楽園からの追放（expulsio de horto）」の逆像として響く。バッハ「ヨハネ受難曲（BWV245）」第1コーラス「Herr, unser Herrscher（主よ、われらの支配者）」はこの章の導入として、栄光と苦難の逆説を複声的に展開する。ケデロン川の「torrentem（急流）」という語が、詩篇第110篇v.7「de torrente in via bibet（道端の急流から飲む）」のメシア的詩篇を想起させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sciebat autem et Judas, qui tradebat eum, locum: quia frequenter Jesus convenerat illuc cum discipulis suis.",
+      "body": "「ユダもその場所を知っていた──イエスはたびたびそこに集まっておられたからだ」──「frequenter（たびたび）」という副詞が「場所の知識」の由来を説明する。最も親密な集まりの場所が裏切りの場所として機能するという逆説。太宰治「駈込み訴へ（1940）」のユダは「私はあの人に惚れているのです」と告白し、愛と裏切りの分離不可能性を一人称で語る──「frequenter（たびたび）」共にいたという親密さが、裏切りを可能にする条件として機能する構造を太宰は内面から展開する。ブランショ「裏切りの中立性（neutralité de la trahison）」──裏切りは中立的で非人格的な力として「tradebat（裏切りつつあった）」という未完了形で継続する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Jesus itaque sciens omnia quae ventura erant super eum, processit, et dixit eis: Quem quaeritis?",
+      "body": "「イエスは御自分に降りかかることをすべて知り、進み出て言われた：誰を求めているのか」──「sciens omnia（すべてを知り）」という全知の強調がヨハネ受難記述の特徴的モチーフ。受難するイエスは受動的な被害者ではなく、「processit（進み出た）」という能動的な自己提示によって逮捕の主導権を握る王的イエスとして描かれる。「Quem quaeritis?（誰を求めているのか）」──第1章v.38「Quid quaeritis?（何を求めているのか）」の反響：最初の弟子たちへの問いかけが、ここでは逮捕者たちへの問いとして反転・再現される。バッハ「ヨハネ受難曲」第2番アリア「Von den Stricken meiner Sünden（私の罪の縄目から）」が「縛ること（ligare）」と「解放（lösen）」の神学的交換をこの逮捕場面に応じて展開する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 38
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Dicit eis Jesus: Ego sum.",
+      "body": "「イエスは言われた：私はある（Ego sum）」──第13章v.19・第17章での「ego sum」定式がここで逮捕の文脈において発声される。ギリシア語「ἐγώ εἰμι（エゴー・エイミ）」は出エジプト記第3章v.14「Ego sum qui sum（私はあるところのものである）」という神の自己啓示と同じ語形であり、神名（テトラグラマトン）の機能的等価として機能する。v.6で兵士たちが「後ずさりして地に倒れた（abierunt retrorsum, et ceciderunt in terram）」ことは、神名の発声による力の放射の帰結として理解される。「Ego sum」と「Non sum（私は……ではない）」の対比がこの章の語彙的・神学的構造を形成する：イエスの「私はある」に対してペトロの三度の「Non sum（私は……ではない）」が続く。ハイデガー「存在と時間」での「Dasein（現存在）の自己了解」との対話：「ego sum」は「私は存在する」という現存在の最も根源的な自己確認として機能するが、ここではその宣言が逮捕と受難への扉を開く。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "abierunt retrorsum, et ceciderunt in terram.",
+      "body": "「彼らは後ずさりして地に倒れた」──ヨハネ福音書のみに記される出来事。「Ego sum」の発声に応じた兵士たちの倒伏が、神名の音響的力の顕示として機能する。「retrorsum（後ずさりして）」という方向の語が注目される：前進する逮捕の力が神名の前で逆転する。バッハ「ヨハネ受難曲」第4番コラール「O große Lieb（おお、大いなる愛）」はこの場面に応じて、力の顕示と受難への自発的服従の神学的逆説を歌う。「ceciderunt in terram（地に倒れた）」──ヨブ記第1章v.20「corruens in terram adoravit（地に倒れ伏して礼拝した）」のヨブの礼拝的倒伏との対照：礼拝と恐怖による倒伏が同じ身体的動作において表現される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Calicem, quem dedit mihi Pater, non bibam illum?",
+      "body": "「父が私にお与えになった杯を、私は飲まないでいられようか」──「calix（杯）」はヨハネ福音書における受難の唯一のゲッセマネ的要素。共観福音書の「この杯を私から取り去ってください（transeat calix iste a me）」という苦悩の祈りと対照的に、ヨハネのイエスは「飲まないでいられようか」という反語的肯定によって杯を自ら引き受ける。「calix」はバッハ「ヨハネ受難曲」全体を通じて「苦難の杯を飲むこと」として音楽的に展開される主題。ヴェイユ「真空の受容（Accepter le vide）」章での「苦難を拒まず受け入れること」──「non bibam illum?（飲まないでいられようか）」という反語は、苦難の受容を強制ではなく選択として内面化する論理に対応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium pontificis.",
+      "body": "「その弟子は大祭司の知り合いで、イエスと共に大祭司の屋敷の中庭に入った」──第13章v.23で「イエスが愛しておられた弟子（discipulus quem diligebat Jesus）」として登場した「愛の弟子」の再出現。名を持たず「知り合い（notus）」という関係性によって定義される証言者が、ペトロとは対照的に「入る」ことができた者として提示される。ブランショ「証言と匿名性」──証言者は自らを透明にすることで語る：「愛の弟子」は名を持たないゆえに内部に入れた、という逆説。バッハ「ヨハネ受難曲」では「愛の弟子」がコラールの語り手的位置を担い、聴衆と物語の間の媒介者として機能する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Numquid et tu ex discipulis es hominis istius? Dicit ille: Non sum.",
+      "body": "「あなたもあの人の弟子の一人ではないですか──違う（Non sum）」──第一の否認。「Non sum（私は……ではない）」という発語がv.5の「Ego sum（私はある）」の神学的対極として機能する。第13章v.37でペトロが「animam meam pro te ponam（命をあなたのために捧げます）」と宣言したことへの裏切りがここで成就する。太宰治「駈込み訴へ」のユダが愛から裏切りへと滑落する心理的プロセスを一人称で語るのに対し、ペトロの「Non sum」は心理的説明なしに行為として記録される：ヨハネ福音書の語りの「客観的圧縮性」がペトロの否認を最大限に衝撃的なものにする。バッハ「ヨハネ受難曲」第10番コラール「Wer hat dich so geschlagen（誰があなたをそのように打ったのか）」がこの否認の場面に応じて、罪と苦難の関係を問う。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Stabant autem servi et ministri ad prunas, quia frigus erat, et calefaciebant se: erat autem cum eis et Petrus stans, et calefaciens se.",
+      "body": "「僕たちや手下たちは炭火を起こし……ペトロも彼らと一緒に立って暖まっていた」──「prunas（炭火）」という感覚的詳細の記述。「frigus erat（寒かった）」という気象的注記が否認の場面の背景として定着される。第13章v.30「Erat autem nox（夜だった）」と同様の簡潔な情景描写がバルト的「刺点（punctum）」として機能する：「寒い夜に炭火を囲む」という情景が、ペトロの否認の身体的条件として刻印される。バッハ「ヨハネ受難曲」第12番アリア「Ach, mein Sinn（ああ、わが心よ）」はペトロが鶏の声を聞いて崩れ去る場面を「内的声（innere Stimme）」として展開する。ナンシー「身体の暖まること（se réchauffer）」の物質的次元──「calefaciens se（暖まっていた）」という身体的快楽が裏切りの場面に隣接する記述の詩的リアリズム。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes Judaei conveniunt, et in occulto locutus sum nihil.",
+      "body": "「私は世に公然と語った──隠れて何かを語ったことはない（in occulto locutus sum nihil）」──「palam（公然と）」と「in occulto（隠れて）」の対比による語りの倫理の宣言。第17章での「Manifestavi nomen tuum（あなたの名を現した）」という使命の総括として機能する。ブランショ「語ることの公共性（publicité de la parole）」──真の言葉は隠れることなく公共的空間において発語されるという言語倫理が、「in occulto nihil（隠れて何も言わなかった）」という否定によって確立される。デリダ「証言（témoignage）」論──証言は常に「公的な場（lieu public）」を必要とし、証人は自らの語りに責任を負う：「interroga eos qui audierunt（聞いた人たちに聞け）」という対審への招待がデリダ的証言の論理として機能する。"
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Iterum ergo negavit Petrus: et statim gallus cantavit.",
+      "body": "「ペトロはまた否定した。するとすぐに鶏が鳴いた」──第13章v.38「non cantabit gallus, donec ter me neges（鶏が鳴く前に三度私を否定するだろう）」の成就。「statim（すぐに）」という時間副詞が予告と成就の瞬間的一致を強調する。バッハ「ヨハネ受難曲」第14番アリア「Zerfließe, mein Herze（溶け流れよ、わが心よ）」はこのペトロの崩壊の瞬間に応じる。音楽的には「gallus cantavit（鶏が鳴いた）」という聴覚的出来事が受難物語の転換点として機能し、バッハはこの転換を和声的急変によって表現する。太宰「駈込み訴へ」のユダが裏切りの瞬間を事前に語るのに対し、ペトロの否認はその瞬間を事後的に──鶏の声という外的シグナルによって──当人が気づくという、自己認識の遅延として提示される。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "Erat autem mane: et ipsi non introierunt in praetorium, ut non contaminarentur, sed ut manducarent Pascha.",
+      "body": "「夜明けだった──彼らは汚れないために官邸には入らなかった」──「mane（夜明け）」という時間的移行が第13章v.30「nox（夜）」から「朝」への転換として機能する。「ut non contaminarentur（汚れないために）」という純粋保持の動機と「死刑要求」という行為の極端な逆説が、無言で並置される。ヴェイユ「力（la force）」論──「La Violence」章での「力の支配のもとで人間は自己欺瞞に陥る」という命題：宗教的清潔を保ちながら殺人を要求するという行為の分裂を、ヴェイユ的「力の論理」が説明する。バッハ「ヨハネ受難曲」においてこの「汚れ」の逆説はコラールで繰り返し問われ、外側の清潔と内側の腐敗の逆転が受難物語の神学的核心として提示される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 36,
+      "type": "commentary",
+      "anchor": "Regnum meum non est de hoc mundo. Si ex hoc mundo esset regnum meum, ministri mei utique decertarent ut non traderer Judaeis: nunc autem regnum meum non est hinc.",
+      "body": "「私の王国はこの世のものではない──実際、私の王国はここのものではない」──「Regnum meum non est de hoc mundo（私の王国はこの世のものではない）」という命題は、第17章v.14–16「de mundo non sunt（世に属さない）」の王的・政治的展開として位置づけられる。ピラトという「この世の法（lex mundi）」の代表者に向けて、「この世ではない王国（regnum non de hoc mundo）」を宣言するという対話の構造。ヴェイユ「必然（Nécessité）」章──「世界の法則（必然性）に属さない超自然的秩序」の概念が「non de hoc mundo」という命題の哲学的展開として読める。バッハ「ヨハネ受難曲」第39番コラール「Durch dein Gefängnis, Gottes Sohn（あなたの牢獄を通して、神の子よ）」が「捕縛（Gefängnis）」を通じた「自由（Freiheit）」という逆説的神学を歌う：「王国は世の外にある」という宣言が音楽的に展開される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 37,
+      "type": "commentary",
+      "anchor": "ut testimonium perhibeam veritati: omnis qui est ex veritate, audit vocem meam.",
+      "body": "「真理について証しするために生まれ、そのために世に来た──真理に属する者は皆、私の声を聞く」──第1章「Verbum（言葉）」・第17章v.17「Sermo tuus veritas est（あなたの言葉は真理）」の倫理的結論として、「真理の証言」という使命の宣言。「omnis qui est ex veritate, audit vocem meam（真理に属する者は皆、私の声を聞く）」──「聞くこと（audire）」が真理への帰属の証明として機能するという認識論。ブランショ「声と聴くこと」──声は発話者から切り離されて伝播し、聞く者において意味が開かれるという語りの構造が、「私の声を聞く」という命題において凝縮される。ナンシー『歌の分有（À l'écoute）』での「聴くことは存在の開口である」という命題との照応。"
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "Dicit ei Pilatus: Quid est veritas?",
+      "body": "「ピラトは言った：真理とは何か（Quid est veritas?）」──西洋哲学史・文学史における最も引用された問いのひとつ。注目すべきはこの問いの直後に「Et cum hoc dixisset, iterum exivit（こう言ってから再び出て行き）」と記されることで、ピラトは問いへの答えを待たずに去る──問いを問いとして放置する哲学的ポーズあるいは倦怠として。バッハ「ヨハネ受難曲」はこの「Quid est veritas?」に対し、音楽的沈黙ではなくコラールによる神学的応答を配置する：問いと応答の非対称性が音楽劇として展開される。デリダ「真理の問い（question de la vérité）」論──「真理とは何か」という問いは答えを求める問いではなく、問い自体がすでに真理の近傍にあることを示す：ピラトが答えを待たないことは、問いの存在論的深さに対する哲学的誠実さの欠如を示すのか、それとも答えの不可能性の直観を示すのかという解釈の分岐点。ヴェイユ「真実を愛すること（amour de la vérité）」──真理への愛は全存在をかけた問いとして実践されるという命題と、答えを待たずに去るピラトの対照。"
+    },
+    {
+      "paragraphId": 40,
+      "type": "commentary",
+      "anchor": "Non hunc, sed Barabbam. Erat autem Barabbas latro.",
+      "body": "「この人ではなく、バラバを──バラバは強盗であった」──「latro（強盗・盗賊）」という一語でバラバを定義する最終節の簡潔さ。「Non hunc（この人ではなく）」という群衆の叫びが「Ego sum（私はある）」というイエスの自己宣言と対極をなす集団的否認として機能する。バッハ「ヨハネ受難曲」における「Barabbam（バラバを）」の合唱は最も劇的な部分のひとつであり、単音節的な怒号がオーケストラの爆発的和音と結合する。デリダ「代替・置換（substitution）」論──無実の者の代わりに有罪の者が選ばれるという交換の非対称性が、贈与と正義の問題を根本から問い直す：ここでの「代替」は法的正義の逆転として機能し、受難の「代贖（vicaria satisfactio）」神学の逆向きの先行形として読める。太宰「駈込み訴へ」のユダが「あの人」に対する愛と憎しみの分裂を語るように、群衆の「Non hunc」という叫びも、誰かを選ぶことが誰かを否定することと不可分であるという選択の暴力性を体現する。"
+    }
+  ]
+}
