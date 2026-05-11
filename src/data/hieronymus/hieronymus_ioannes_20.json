@@ -1,0 +1,338 @@
+{
+  "id": "hieronymus_ioannes_20",
+  "title": "Ioannes, Caput XX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XX. Bible Gateway: https://www.biblegateway.com/passage/?search=John+20&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第20章。復活の顕現を語る。章は三部に分かれる：第一部（v.1–10）空の墓の発見──マグダラのマリア・ペトロ・「愛の弟子」の到着と「見ること」の段階的差異；第二部（v.11–18）マグダラのマリアへの顕現──「Maria（マリア）」という名の呼びかけと認識・「Noli me tangere（私に触れるな）」；第三部（v.19–29）弟子たちへの顕現と聖霊授与・トマスへの特別な顕現。v.16「Dicit ei Jesus: Maria（イエスは言われた：マリア）」という固有名の呼びかけによる認識の場面は、西洋絵画・文学・音楽において最も繰り返し描かれた復活顕現の形象である。v.17「Noli me tangere（私に触れるな）」というラテン語句は美術史的標題として独立して流通する。v.22「insufflavit（息を吹きかけた）」は創世記第2章v.7「insufflavit in faciem ejus spiraculum vitae（命の息を顔に吹き込んだ）」との意図的照応として、復活が「新しい創造」を意味することを提示する。v.29「beati qui non viderunt, et crediderunt（見なかったのに信じた者は幸いだ）」は信仰論の要として西洋神学全体に流通した。v.30–31は著者の後書きとして「書くこと（scripta sunt）」の神学的目的を自己言及的に宣言する。",
+  "keywords": [
+    "resurrectio",
+    "monumentum vacuum",
+    "Maria",
+    "Noli me tangere",
+    "insufflavit",
+    "Pax vobis",
+    "Thomas",
+    "beati qui non viderunt",
+    "scripta sunt",
+    "愛の弟子"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_ioannes_13",
+    "hieronymus_ioannes_17",
+    "hieronymus_ioannes_18",
+    "hieronymus_ioannes_19",
+    "hieronymus_iob_19",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_atheisme_purificateur",
+    "mallarme_coup_de_des",
+    "mallarme_livre_instrument",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_10",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum: et vidit lapidem sublatum a monumento.",
+      "provisionalTranslation": "週の初めの日、マグダラのマリアは朝早く、まだ暗いうちに墓に来て、石が墓から取り除けられているのを見た。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Cucurrit ergo, et venit ad Simonem Petrum, et ad alium discipulum, quem amabat Jesus, et dicit illis: Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum.",
+      "provisionalTranslation": "走って、シモン・ペトロとイエスが愛しておられたもう一人の弟子のところに行き、言った。「主が墓から取り去られました。どこに置かれたのか分かりません。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Exiit ergo Petrus, et ille alius discipulus, et venerunt ad monumentum.",
+      "provisionalTranslation": "そこでペトロともう一人の弟子が出て行き、墓へ向かった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Currebant autem duo simul, et ille alius discipulus praecucurrit citius Petro, et venit primus ad monumentum.",
+      "provisionalTranslation": "二人は共に走った。しかしもう一人の弟子の方がペトロより速く走り、先に墓に着いた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et cum se inclinasset, vidit posita linteamina: non tamen introivit.",
+      "provisionalTranslation": "そして身をかがめて、亜麻布が置いてあるのを見た。しかし中には入らなかった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Venit ergo Simon Petrus sequens eum, et introivit in monumentum, et vidit linteamina posita,",
+      "provisionalTranslation": "続いてシモン・ペトロが着いて、墓の中に入り、亜麻布が置いてあるのを見た。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "et sudarium, quod fuerat super caput ejus, non cum linteaminibus positum, sed separatim involutum in unum locum.",
+      "provisionalTranslation": "また、イエスの頭を包んでいた覆いが亜麻布と一緒には置かれず、別のところに丸めてあるのを見た。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Tunc ergo introivit et ille discipulus qui venerat primus ad monumentum: et vidit, et credidit:",
+      "provisionalTranslation": "それから先に墓に着いたもう一人の弟子も入り、見て、信じた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "nondum enim sciebant Scripturam, quia oportebat eum a mortuis resurgere.",
+      "provisionalTranslation": "イエスは必ず死者の中から復活するという聖書をまだ理解していなかったのだ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Abierunt ergo iterum discipuli ad semetipsos.",
+      "provisionalTranslation": "それから弟子たちは再び自分たちのところへ帰って行った。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Maria autem stabat ad monumentum foris, plorans. Dum ergo fleret, inclinavit se, et prospexit in monumentum:",
+      "provisionalTranslation": "しかしマリアは墓の外に立って泣いていた。泣きながら墓の中をのぞき込むと、"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "et vidit duos angelos in albis sedentes, unum ad caput, et unum ad pedes, ubi positum fuerat corpus Jesu.",
+      "provisionalTranslation": "白い衣をまとった二人の天使が、イエスの遺体が置かれていたところに、一人は頭の方に、一人は足の方に座っているのを見た。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Dicunt ei illi: Mulier, quid ploras? Dicit eis: Quia tulerunt Dominum meum: et nescio ubi posuerunt eum.",
+      "provisionalTranslation": "天使たちは言った。「女の方、なぜ泣いているのか。」「主が取り去られました。どこに置かれたのか私には分かりません。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Haec cum dixisset, conversa est retrorsum, et vidit Jesum stantem: et non sciebat quia Jesus est.",
+      "provisionalTranslation": "こう言ってから後ろを振り向くと、イエスが立っておられるのを見た。しかしそれがイエスだとは分からなかった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Dicit ei Jesus: Mulier, quid ploras? quem quaeris? Illa existimans quia hortulanus esset, dicit ei: Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum, et ego eum tollam.",
+      "provisionalTranslation": "イエスは言われた。「女の方、なぜ泣いているのか。誰を探しているのか。」マリアは園丁と思って言った。「あなたが彼を運んだのなら、どこに置いたか教えてください。私が引き取ります。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Dicit ei Jesus: Maria. Conversa illa, dicit ei: Rabboni (quod dicitur Magister).",
+      "provisionalTranslation": "イエスは言われた。「マリア。」マリアは振り向いて言った。「ラボニ（訳せば師よ）。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Dicit ei Jesus: Noli me tangere, nondum enim ascendi ad Patrem meum: vade autem ad fratres meos, et dic eis: Ascendo ad Patrem meum, et Patrem vestrum, Deum meum, et Deum vestrum.",
+      "provisionalTranslation": "イエスは言われた。「私に触れるな。まだ父のもとへ上っていないのだから。私の兄弟たちのところへ行って伝えなさい。私の父・あなた方の父、私の神・あなた方の神のもとへ上る、と。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Venit Maria Magdalene annuntians discipulis: Quia vidi Dominum, et haec dixit mihi.",
+      "provisionalTranslation": "マグダラのマリアは弟子たちのところへ行き、「主を見た」と告げ、主が自分に言われたことを伝えた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Cum ergo sero esset die illo, una sabbatorum, et fores essent clausae, ubi erant discipuli congregati propter metum Judaeorum: venit Jesus, et stetit in medio, et dixit eis: Pax vobis.",
+      "provisionalTranslation": "その日、週の初めの日の夕方、弟子たちはユダヤ人を恐れて扉に鍵をかけていた。イエスが来て、真ん中に立って言われた。「あなた方に平和を。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et cum hoc dixisset, ostendit eis manus et latus. Gavisi sunt ergo discipuli, viso Domino.",
+      "provisionalTranslation": "こう言ってから、手と脇腹を見せられた。弟子たちは主を見て喜んだ。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Dixit ergo eis iterum: Pax vobis. Sicut misit me Pater, et ego mitto vos.",
+      "provisionalTranslation": "イエスは再び言われた。「あなた方に平和を。父が私を遣わされたように、私もあなた方を遣わす。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Haec cum dixisset, insufflavit, et dixit eis: Accipite Spiritum Sanctum:",
+      "provisionalTranslation": "こう言ってから息を吹きかけ、言われた。「聖霊を受けなさい。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "quorum remiseritis peccata, remittuntur eis: et quorum retinueritis, retenta sunt.",
+      "provisionalTranslation": "「あなた方が誰かの罪を赦せば、その罪は赦される。誰かの罪をそのままにしておけば、そのままになっている。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Thomas autem unus ex duodecim, qui dicitur Didymus, non erat cum eis quando venit Jesus.",
+      "provisionalTranslation": "十二人の一人で「双子」と呼ばれるトマスは、イエスが来られたとき、彼らと一緒にいなかった。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Dixerunt ergo ei alii discipuli: Vidimus Dominum. Ille autem dixit eis: Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus ejus, non credam.",
+      "provisionalTranslation": "他の弟子たちが「主を見た」と言うと、トマスは言った。「あの人の手に釘の跡を見て、釘の跡に指を入れ、脇腹に手を入れてみなければ、信じない。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Et post dies octo, iterum erant discipuli ejus intus, et Thomas cum eis. Venit Jesus januis clausis, et stetit in medio, et dixit: Pax vobis.",
+      "provisionalTranslation": "八日後、弟子たちは再び家の中にいた。トマスも一緒だった。扉が閉まっていたのにイエスが来て、真ん中に立って言われた。「あなた方に平和を。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Deinde dicit Thomae: Infer digitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incredulus, sed fidelis.",
+      "provisionalTranslation": "それからトマスに言われた。「あなたの指をここに入れ、私の手を見なさい。あなたの手を伸ばして脇腹に入れなさい。疑い深い者にならず、信じる者になりなさい。」"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Respondit Thomas, et dixit ei: Dominus meus et Deus meus.",
+      "provisionalTranslation": "トマスは答えた。「私の主、私の神よ。」"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Dixit ei Jesus: Quia vidisti me, Thoma, credidisti: beati qui non viderunt, et crediderunt.",
+      "provisionalTranslation": "イエスは言われた。「私を見たから信じたのか、トマス。見なかったのに信じた者は幸いだ。」"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Multa quidem et alia signa fecit Jesus in conspectu discipulorum suorum, quae non sunt scripta in libro hoc.",
+      "provisionalTranslation": "イエスはこの書に記されていない他の多くのしるしも弟子たちの前で行われた。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Haec autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine ejus.",
+      "provisionalTranslation": "これらのことが書かれたのは、イエスが神の子キリストであることをあなた方が信じるためであり、また信じてその名によって命を持つためである。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum:",
+      "body": "「週の初めの日、マグダラのマリアは朝早く、まだ暗いうちに」──「cum adhuc tenebrae essent（まだ暗いうちに）」という時間的限定が第1章v.5「lux in tenebris lucet（光は暗闇の中で輝く）」の神学を時間的な景として具象化する：「光の到来（復活の発見）」は「まだ闇の中」において始まる。第13章v.30「Erat autem nox（夜だった）」のユダの退場から第19章の埋葬を経て、この「まだ暗い朝」へと到達する光と闇の連続した時間軸の頂点。ブランショ「夜の二重性（double nuit）」──「もう一つの夜」は光の到来を期待しない夜であり、マリアが「まだ暗いうちに」歩き出すことは、その「もう一つの夜」の中での探索として機能する。バッハ「ヨハネ受難曲」の終局コラール「Ach Herr, laß dein lieb Engelein（主よ、あなたの天使を）」が「暗闇の後の朝」への移行を歌い、本章の時間的文脈と照応する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Currebant autem duo simul, et ille alius discipulus praecucurrit citius Petro, et venit primus ad monumentum.",
+      "body": "「二人は共に走った──もう一人の弟子の方がペトロより速く走り、先に墓に着いた」──「duo simul（共に二人）」という共走と「praecucurrit citius（より速く走った）」という個体差の共存。「愛の弟子（discipulus quem amabat Jesus）」と「ペトロ（Petrus）」の到達の差異は神学的に解釈されてきた：「見て信じた（vidit et credidit, v.8）」のは「愛の弟子」であり、「入って見た」のはペトロという行動様式の差異。速さが「愛の弟子」の属性として示されるという身体論的表現。ナンシー「近傍（proximité）と到達」──他者の死（空の墓）へと向かう「走ること（currere）」が、愛の身体的応答として理解される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "et sudarium, quod fuerat super caput ejus, non cum linteaminibus positum, sed separatim involutum in unum locum.",
+      "body": "「頭を包んでいた覆いが……別のところに丸めてあった」──「sudarium（覆い・顔布）」の「separatim involutum（別のところに丸めてある）」という精密な描写。第11章v.44「ligatus … et facies illius sudario erat ligata（顔はsudarioで縛られていた）」のラザロの死装束との対照：ラザロの顔布は「Solvite eum（ほどいてやれ）」という命令によって外から解かれたが、復活のイエスの顔布は自らによって「整然と」置かれた。ブランショ「ラザロ来たれ（Lazare, vieni dehors）」論の逆像：ラザロは縛られたまま洞窟から出てきたが、復活の主は束縛の痕跡を自ら整理して出ていく──「書かれた言葉が作者から自由になるとき、それは混乱ではなく完成した形を持つ」というブランショ的テキスト論との照応。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 44
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "et vidit, et credidit:",
+      "body": "「見て、信じた（vidit et credidit）」──「見ること（videre）」と「信じること（credere）」の直接的結合。ヨハネ福音書全体を貫く「見ること」の認識論的主題の最初の完成形として機能する。第1章「Venite et videte（来て見なさい）」以来の「見ることへの招待」の連鎖が、空の墓という「不在の証拠」を前にした「見て信じる」という逆説的認識において頂点に達する──「そこに何もない」ことが「信仰の根拠」となる。ハイデガー「現象（Phänomen）」論──現象は「自らを示すもの（das Sich-zeigende）」であり、空の墓という「不在の示し方（Zeigen durch Abwesenheit）」が最大の顕現として機能する。ヴェイユ「不在の神（Dieu absent）」：神の不在は神の存在の証明ではなく、「顕現のひとつの形式」であるという命題が、「空の墓を見て信じた」という認識構造に照応する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Maria autem stabat ad monumentum foris, plorans.",
+      "body": "「しかしマリアは墓の外に立って泣いていた（stabat … plorans）」──第19章v.25「Stabant autem juxta crucem（十字架のそばに立っていた）」の「stabat」の反響。十字架の下で「立つ」マリアが、今は墓の前で「立って泣く」マリアとして反復される。「plorans（泣きながら）」は第11章v.35「Et lacrimatus est Jesus（イエスは涙を流された）」以来の「涙」の主題の継続：神が泣き、今は人が泣く。バルト「悲嘆（deuil）の言語」──涙は言語化されえない喪失の身体的証言として機能し、マリアの「plorans」が「語ることができない者の語り方」として機能する。第11章でのブランショ「泣くことの不可能性」との逆説的対照：ここでは泣くことが認識の前に先行し、名を呼ばれることによってのみ涙を超えた認識が開かれる。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Illa existimans quia hortulanus esset",
+      "body": "「園丁と思って（existimans quia hortulanus esset）」──復活のイエスが「hortulanus（園丁）」と誤認される場面。第18章v.1・第19章v.41の「hortus（園）」という主題語が「hortulanus（園の主・園丁）」という人格的形式を取って回帰する。創世記第2章の「園（hortus）」の管理者としての人間というモチーフが、「新しいアダム（Novus Adam）」としての復活のキリストという教父的解釈の根拠となった。ブランショ「変装した他者性（altérité déguisée）」──他者は常に親しい形で到来しながら認識されないという「他者の来訪」の論理：マリアが「知っているはず」の人を「知らない誰か」として受け取るという認識の失敗が、「名を呼ばれること（v.16）」による認識の反転を準備する。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Dicit ei Jesus: Maria. Conversa illa, dicit ei: Rabboni",
+      "body": "「イエスは言われた：マリア──マリアは振り向いた」──第20章・ヨハネ福音書全体の感情的・神学的頂点のひとつ。「Maria」という一語の固有名による呼びかけが認識を開く：問い・説明・証明ではなく、名を呼ぶことが他のいかなる認識論的手続きも超えて機能する。第1章v.42「tu vocaberis Cephas（あなたはケファと呼ばれるだろう）」という命名行為との照応：名を与えることと名を呼ぶことが「言葉の人格的創造力」として一貫して機能する。バルト「愛の言語における呼びかけ（apostrophe amoureuse）」──『恋愛のディスクール』において「あなたの名を呼ぶこと」は愛の言語の最も基本的な身振りであり、いかなる描述や説明も代替できないという命題が、「Maria」という一語に完全に凝縮される。ナンシー「声と聴くこと（À l'écoute）」：名を呼ぶ声は空間を通過して「聴く者の存在を開く（ouvrir l'être）」という現象学的命題が、マリアの「振り向き（conversa）」という身体的応答に照応する。ハイデガー「呼びかけ（Ruf）としての良心の声」の構造との対話：呼びかけは呼ばれた者を「その最も固有な存在（eigenstes Sein）」へと呼び戻す。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Noli me tangere, nondum enim ascendi ad Patrem meum:",
+      "body": "「私に触れるな（Noli me tangere）──まだ父のもとへ上っていないのだから」──西洋美術史・文化史において独立した標題として流通するラテン語句。「tangere（触れること）」の禁止と「nondum（まだ）」という時間的保留の結合。第11章v.44でラザロへの「Solvite eum（ほどいてやれ）」という解放の命令と対照的な「触れるな」という接触の禁止。ナンシー『ノリ・メ・タンゲレ（Noli me tangere）』は本節を主題に、「触れることの不可能性」と「顕現の論理」を展開する：復活の身体は「触れることを通じて把握（comprehendere）されることを拒否する」──v.5「tenebrae eam non comprehenderunt（闇は光を把握しなかった）」の「comprehendere」が、ここで身体的「tangere（触れること）」として再現される。デリダ「接触（contact）の不可能性」：他者に完全に「触れること」は常に不可能であるという命題が、「Noli me tangere」という禁止に聖書的根拠を見出す。ハイデガー「現前性（Anwesenheit）と不在」の時間論：「まだ（nondum）」という時間副詞が「到来の不完全性」を示す──「上っていない（nondum ascendi）」という未完了状態が、触れられることの時間的不可能性を規定する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "fores essent clausae, ubi erant discipuli congregati propter metum Judaeorum: venit Jesus, et stetit in medio,",
+      "body": "「扉に鍵をかけていた……イエスが来て、真ん中に立った（stetit in medio）」──「clausae（閉じられた）」扉を通過するという復活の身体の特質が示される。閉ざされた空間への到来は第1章v.11「In propria venit, et sui eum non receperunt（自分のもののもとに来た。しかし受け入れなかった）」の反転的成就：閉ざされた扉が今は復活の身体を遮断できない。「stetit in medio（真ん中に立った）」──「中央（medium）」という場所が第19章v.18「medium autem Jesum（中央にイエスを）」十字架の「中央」と空間的に照応する：十字架の「中央」と復活の顕現の「中央」が対称的に配置される。ブランショ「空間の中性化（neutralisation de l'espace）」──扉という境界が無効化される復活の身体は、ブランショ的「中性的空間（espace neutre）」の占有者として機能する：いかなる場所的規定も超えた「来ること（venir）」の実践。",
+      "targetId": "hieronymus_ioannes_19",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "insufflavit, et dixit eis: Accipite Spiritum Sanctum:",
+      "body": "「息を吹きかけ、言われた：聖霊を受けなさい」──「insufflavit（息を吹きかけた）」は創世記第2章v.7「insufflavit in faciem ejus spiraculum vitae（命の息を顔に吹き込んだ）」との意図的な語彙的照応：神がアダムに命の息を吹き込んだ創造行為が、復活のキリストによる「新しい創造（nova creatio）」として反復される。「Spiritus Sanctus（聖霊）」と「spiraculum vitae（命の息）」という共通の「spiritus／spirare（息・霊）」語根が両節を接続する。ハイデガー「息吹（Atem）と存在の開口」──呼吸は存在が世界に開かれる最も根源的な生命的運動として、「insufflatio（吹きかけ）」が存在の新しい開口として機能する。リルケ「ドゥイノの悲歌」第1歌冒頭「Wer, wenn ich schriee（私が叫んでも）」という呼びかけへの不応答と対照的に、「insufflavit」という神的呼びかけは応答なしに与えられる一方的贈与として機能する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Nisi videro in manibus ejus fixuram clavorum, et mittam digitum meum in locum clavorum, et mittam manum meam in latus ejus, non credam.",
+      "body": "「釘の跡を見て、指を入れ、脇腹に手を入れてみなければ、信じない（non credam）」──トマスの条件的不信仰の宣言。「fixura clavorum（釘の跡）」・「locus clavorum（釘の場所）」・「latus（脇腹）」という三つの身体的証拠への要求が具体的に列挙される。第19章v.34「latus ejus aperuit（脇腹を開いた）」・v.37「Videbunt in quem transfixerunt（彼らは刺し貫いた者を見るだろう）」の照応：傷は証拠として機能するためにこそ記録されてきたという語りの自己実現的構造。ナンシー「傷口（blessure）の証拠性」──傷は「開口（ouverture）」として、触れることを通じてのみ確認される身体的真理の場として機能する：トマスの要求は「手で触れること」によって認識を確立しようとする身体的認識論の表明。デリダ「確実性（certitude）と接触」：「mittam digitum meum（指を入れる）」という触覚的確認要求は、視覚的証拠を超えた「接触による確実性」への信頼を示すが、v.27でのイエスの応答はこの触覚的確実性要求の充足によってではなく「信じなさい（fidelis esto）」という命令によって解決される。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "glossary",
+      "anchor": "Respondit Thomas, et dixit ei: Dominus meus et Deus meus.",
+      "body": "「トマスは答えた：私の主、私の神よ（Dominus meus et Deus meus）」──ヨハネ福音書における最高の信仰告白。第1章v.1「Deus erat Verbum（言葉は神であった）」という語り手の神学的命題が、ここでは人物の直接的発語として反復・確認される：福音書の冒頭で宣言された神学的真理が、最後の顕現場面において一人の人間の口から確認される首尾照応の完成。「meus（私の）」という所有格代名詞の反復が、「主」と「神」を普遍的命題としてではなく「私の（個人的・人格的）関係」として定義する：信仰は普遍命題への同意ではなく人格的関係の承認として機能する。ヴェイユ「神への個人的関係」論：信仰の個人性──「私の神（Deus meus）」という一人称所有格が、神を「所有する」のではなく「神の前で自己を確認する」関係論的定式として機能する。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "beati qui non viderunt, et crediderunt.",
+      "body": "「見なかったのに信じた者は幸いだ（beati qui non viderunt, et crediderunt）」──ヨハネ福音書におけるイエスの最後の「まことに」なき言葉として、信仰論の要として西洋神学全体に流通した命題。v.8「vidit et credidit（見て信じた）」という「愛の弟子」の信仰と対照的な「見ずに信じる」という信仰の定義。「beati（幸いな）」という形容詞が山上の垂訓（Sermon in Monte）の「Beati（幸いなるかな）」定式を反響させる。ブランショ「見えないものへの信頼（confiance en l'invisible）」──書かれた言葉は書いた者を見なくても受け取られうるという「書物の信頼性」の神学的先行形として読める：「見なかったのに信じる」者とは「著者の不在にもかかわらずテキストを信頼する読者」の神学的原型。ハイデガー「信仰（Glaube）と理解（Verstehen）」の区別：信仰は理解に先行するという命題が「非視認的信仰（non viderunt, et crediderunt）」に照応する。マラルメ「骰子一擲」での「偶然の廃棄不可能性」への対抗として：マラルメが「見える証拠」なしに「別の星座（autre Constellation）」の可能性に賭けることと、「見なかったのに信じる」信仰が「証拠なき賭け」として構造的に照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Multa quidem et alia signa fecit Jesus in conspectu discipulorum suorum, quae non sunt scripta in libro hoc.",
+      "body": "「イエスはこの書に記されていない他の多くのしるしも行われた（quae non sunt scripta in libro hoc）」──書かれなかったものへの言及という自己言及的語り。「non sunt scripta（書かれていない）」という否定が、書かれたものの外部──「不在のテキスト（texte absent）」の存在を宣言する。ブランショ「来るべき書物（Le Livre à venir）」の核心命題：書物は常に「書かれなかったもの」の影を帯び、書かれたテキストは不在のテキストへの指示として機能する。マラルメ「書物（Le Livre）」論での「究極の書物（le Livre total）」はすべてを包含するが現実には実現しない──「quae non sunt scripta（書かれていないもの）」という余白が、書かれたものの意味を逆説的に増幅する。デリダ「テキストの外部はない（il n'y a pas de hors-texte）」という命題への問い：ヨハネはここで「書物の外部（hors-livre）」の存在を肯定することで、書かれたものの完結性を自ら相対化する。"
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Haec autem scripta sunt ut credatis, quia Jesus est Christus Filius Dei: et ut credentes, vitam habeatis in nomine ejus.",
+      "body": "「これらのことが書かれたのは……あなた方が信じるためであり……命を持つためである」──ヨハネ福音書の自己言及的後書き。「scripta sunt（書かれた）」という受動完了形が「書くこと（scribere）」の目的を明示する：第19章v.22「Quod scripsi, scripsi（私が書いたことは書いた）」というピラトの書記行為の神学的対極として、ここでの「書くこと」は「信仰と命のため」という目的論的構造を持つ。「in nomine ejus（その名によって）」──第1章「In principio erat Verbum」から始まった「言葉・名・語り」の連鎖が「nomine ejus（その名によって）」という終点に収束する：言葉は「名」として、命は「名によって」与えられる。ブランショ「書くことの責任（responsabilité d'écrire）」──書くことは常に読者への「あなたが信じ、命を持つために」という倫理的指向性を内在させるという命題が、このヨハネ福音書の自己言及的宣言に聖書的根拠を持つ。マラルメ「書物は世界の孤独な存在に対するオルフェウス的解釈」というフランス象徴主義の書物観と、「ut credatis … vitam habeatis（信じ……命を持つために）」という目的論的書物観の比較。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    }
+  ]
+}
