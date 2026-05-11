@@ -1,0 +1,393 @@
+{
+  "id": "hieronymus_ioannes_19",
+  "title": "Ioannes, Caput XIX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XIX. Bible Gateway: https://www.biblegateway.com/passage/?search=John+19&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第19章。受難・十字架刑・死・埋葬の全過程を語る。本章はヨハネ受難記述の核心であり、章全体が精密な神学的構成をもつ。構造は四部：第一部（v.1–16a）鞭打ち・茨の冠・「見よ、この人（Ecce homo）」・死刑宣告；第二部（v.16b–24）十字架を担う行進・ゴルゴタ・磔刑・「INRI」の銘・衣の分配；第三部（v.25–30）十字架下のマリア・「愛の弟子」への委託・「渇く（Sitio）」・「成し遂げられた（Consummatum est）」；第四部（v.31–42）脇腹を刺す・血と水・ヨセフとニコデモによる埋葬。v.5「Ecce homo（見よ、この人）」とv.14「Ecce rex vester（見よ、あなた方の王）」のピラトの二つの宣言が章全体の「王的受難」というヨハネ神学を額縁として確立する。v.30「Consummatum est（成し遂げられた）」はラテン語聖書の中で最も密度の高い一語として、第1章「In principio（初めに）」から始まった「言葉の使命」の完成を宣言する。v.34「exivit sanguis et aqua（血と水が流れ出た）」は教父学的伝統において「洗礼（水）とユーカリスト（血）」の教会論的起源として解釈された。バッハ「ヨハネ受難曲（BWV 245）」は本章を中心テキストとし、特に「Es ist vollbracht（成し遂げられた、BWV245第58番アルトアリア）」はヨハネ受難曲全体の神学的頂点をなす。",
+  "keywords": [
+    "Ecce homo",
+    "Consummatum est",
+    "INRI",
+    "corona spinea",
+    "Sitio",
+    "sanguis et aqua",
+    "Mater Jesu",
+    "Golgotha",
+    "hortus",
+    "monumentum novum"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_ioannes_13",
+    "hieronymus_ioannes_17",
+    "hieronymus_ioannes_18",
+    "hieronymus_iob_1",
+    "hieronymus_psalm_21",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_la_violence",
+    "weil_necessite",
+    "rossetti_de_profundis",
+    "trakl_de_profundis",
+    "baudelaire_de_profundis_clamavi",
+    "dante_paradiso_canto_33",
+    "rilke_duineser_elegien_10"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Tunc ergo apprehendit Pilatus Jesum, et flagellavit.",
+      "provisionalTranslation": "そこでピラトはイエスを捕らえ、鞭打ちにした。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et milites plectentes coronam de spinis, imposuerunt capiti ejus: et veste purpurea circumdederunt eum.",
+      "provisionalTranslation": "兵士たちは茨で冠を編んで頭に被せ、紫の衣をまとわせた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et veniebant ad eum, et dicebant: Ave, rex Judaeorum: et dabant ei alapas.",
+      "provisionalTranslation": "そして彼のところに来ては言った。「ユダヤ人の王、万歳。」そして平手打ちをした。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Exivit ergo iterum Pilatus foras, et dicit eis: Ecce adduco vobis eum foras, ut cognoscatis quia nullam invenio in eo causam.",
+      "provisionalTranslation": "ピラトは再び外に出て来て言った。「見よ、彼に何も罪状が見つからないことをあなた方に知らせるために、外に連れて来る。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "(Exivit ergo Jesus portans coronam spineam, et purpureum vestimentum.) Et dicit eis: Ecce homo.",
+      "provisionalTranslation": "（イエスは茨の冠と紫の衣をまとって出て来られた。）ピラトは言った。「見よ、この人。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Cum ergo vidissent eum pontifices et ministri, clamabant, dicentes: Crucifige, crucifige eum. Dicit eis Pilatus: Accipite eum vos, et crucifigite: ego enim non invenio in eo causam.",
+      "provisionalTranslation": "祭司長たちと手下たちはイエスを見ると叫んだ。「十字架につけろ、十字架につけろ。」ピラトは言った。「あなた方が受け取って十字架につけなさい。私はこの人に罪状を見つけない。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Responderunt ei Judaei: Nos legem habemus, et secundum legem debet mori, quia Filium Dei se fecit.",
+      "provisionalTranslation": "ユダヤ人たちは答えた。「私たちには律法があり、律法によればこの人は死ななければならない。自分を神の子としたからだ。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Cum ergo audisset Pilatus hunc sermonem, magis timuit.",
+      "provisionalTranslation": "ピラトはこの言葉を聞いて、ますます恐れた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et ingressus est praetorium iterum: et dixit ad Jesum: Unde es tu? Jesus autem responsum non dedit ei.",
+      "provisionalTranslation": "再び官邸に入り、イエスに言った。「あなたはどこから来たのか。」しかしイエスは何もお答えにならなかった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Dicit ergo ei Pilatus: Mihi non loqueris? nescis quia potestatem habeo crucifigere te, et potestatem habeo dimittere te?",
+      "provisionalTranslation": "ピラトは言った。「私に話しかけないのか。あなたを十字架につける権限も釈放する権限も私にあることを知らないのか。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Respondit Jesus: Non haberes potestatem adversum me ullam, nisi tibi datum esset desuper. Propterea qui me tradidit tibi, majus peccatum habet.",
+      "provisionalTranslation": "イエスは答えられた。「もし上から与えられていなければ、あなたは私に対して何の権限も持っていないだろう。だから私をあなたに引き渡した者の罪はより重い。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et exinde quaerebat Pilatus dimittere eum. Judaei autem clamabant dicentes: Si hunc dimittis, non es amicus Caesaris. Omnis enim qui se regem facit, contradicit Caesari.",
+      "provisionalTranslation": "そのときからピラトはイエスを釈放しようとしていた。しかしユダヤ人たちは叫んだ。「この人を釈放するなら、あなたはカエサルの友ではない。王を自称する者は皆、カエサルに反逆する。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Pilatus autem cum audisset hos sermones, adduxit foras Jesum: et sedit pro tribunali, in loco qui dicitur Lithostrotos, hebraice autem Gabbatha.",
+      "provisionalTranslation": "これらの言葉を聞いてピラトはイエスを外に連れ出し、「リトストロトス（ヘブライ語でガバタ）」と呼ばれる場所で裁判の座に就いた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Erat autem parasceve Paschae, hora quasi sexta, et dicit Judaeis: Ecce rex vester.",
+      "provisionalTranslation": "過越祭の準備の日、時はおよそ第六の刻（正午頃）であった。ピラトはユダヤ人たちに言った。「見よ、あなた方の王。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Illi autem clamabant: Tolle, tolle, crucifige eum. Dicit eis Pilatus: Regem vestrum crucifigam? Responderunt pontifices: Non habemus regem, nisi Caesarem.",
+      "provisionalTranslation": "「連れ去れ、連れ去れ、十字架につけろ。」「あなた方の王を十字架につけるのか。」祭司長たちは答えた。「私たちにはカエサル以外に王はいない。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Jesum, et eduxerunt.",
+      "provisionalTranslation": "そこでピラトは十字架につけるために彼らに引き渡した。彼らはイエスを受け取り、連れ出した。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et bajulans sibi crucem exivit in eum, qui dicitur Calvariae locum, hebraice autem Golgotha:",
+      "provisionalTranslation": "イエスは自ら十字架を担いながら、「髑髏の場所（ヘブライ語でゴルゴタ）」と呼ばれるところへ出て行かれた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "ubi crucifixerunt eum, et cum eo alios duos hinc et hinc, medium autem Jesum.",
+      "provisionalTranslation": "そこで彼らはイエスを十字架につけ、イエスを中央に、両側に二人ずつ十字架につけた。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Scripsit autem et titulum Pilatus, et posuit super crucem. Erat autem scriptum: Jesus Nazarenus, Rex Judaeorum.",
+      "provisionalTranslation": "ピラトは罪状書きも書いて十字架の上に掲げた。「ナザレのイエス、ユダヤ人の王」と書いてあった。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Hunc ergo titulum multi Judaeorum legerunt: quia prope civitatem erat locus, ubi crucifixus est Jesus, et erat scriptum hebraice, graece, et latine.",
+      "provisionalTranslation": "イエスが十字架につけられた場所は町の近くで、多くのユダヤ人がこの罪状書きを読んだ。それはヘブライ語・ギリシア語・ラテン語で書かれていた。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Dicebant ergo Pilato pontifices Judaeorum: Noli scribere: Rex Judaeorum: sed quia ipse dixit: Rex sum Judaeorum.",
+      "provisionalTranslation": "ユダヤ人の祭司長たちはピラトに言った。「『ユダヤ人の王』と書かないで、『自分はユダヤ人の王と言った』と書いてください。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Respondit Pilatus: Quod scripsi, scripsi.",
+      "provisionalTranslation": "ピラトは答えた。「私が書いたことは書いた。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Milites ergo cum crucifixissent eum, acceperunt vestimenta ejus (et fecerunt quatuor partes, unicuique militi partem) et tunicam. Erat autem tunica inconsutilis, desuper contexta per totum.",
+      "provisionalTranslation": "兵士たちはイエスを十字架につけてから、その衣を取り、四つに分けて兵士一人ずつに分配した。また下着も取った。下着は継ぎ目なく、上から全体に織られていた。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Dixerunt ergo ad invicem: Non scindamus eam, sed sortiamur de illa cujus sit. Ut Scriptura impleretur, dicens: Partiti sunt vestimenta mea sibi: et in vestem meam miserunt sortem. Et milites quidem haec fecerunt.",
+      "provisionalTranslation": "「裂かないで、誰のものになるか籤を引こう」と彼らは言い合った。それは「彼らは私の衣を自分たちで分け合い、私の着物について籤を引いた」という聖書が成就するためであった。兵士たちはこのようにした。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Stabant autem juxta crucem Jesu mater ejus, et soror matris ejus, Maria Cleophae, et Maria Magdalene.",
+      "provisionalTranslation": "イエスの十字架のそばには、その母と母の姉妹、クレオパの妻マリアと、マグダラのマリアが立っていた。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Cum vidisset ergo Jesus matrem, et discipulum stantem, quem diligebat, dicit matri suae: Mulier, ecce filius tuus.",
+      "provisionalTranslation": "イエスは母と、そばに立っている愛しておられた弟子を見て、母に言われた。「女の方、見よ、あなたの子です。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit eam discipulus in sua.",
+      "provisionalTranslation": "それからその弟子に言われた。「見よ、あなたの母です。」そのときからその弟子はイエスの母を自分の家に引き取った。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Postea sciens Jesus quia omnia consummata sunt, ut consummaretur Scriptura, dixit: Sitio.",
+      "provisionalTranslation": "その後、イエスはすべてのことが成し遂げられたのを知り、聖書が成就するために言われた。「渇く。」"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Vas ergo erat positum aceto plenum. Illi autem spongiam plenam aceto, hyssopo circumponentes, obtulerunt ori ejus.",
+      "provisionalTranslation": "そこには酢のいっぱい入った器が置いてあった。彼らは酢を含んだ海綿をヒソプの茎につけ、イエスの口元に差し出した。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Cum ergo accepisset Jesus acetum, dixit: Consummatum est. Et inclinato capite tradidit spiritum.",
+      "provisionalTranslation": "イエスは酢を受けてから言われた。「成し遂げられた。」そして頭をたれ、霊を渡された。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Judaei ergo (quoniam parasceve erat) ut non remanerent in cruce corpora sabbato (erat enim magnus dies ille sabbati), rogaverunt Pilatum ut frangerentur eorum crura, et tollerentur.",
+      "provisionalTranslation": "その日は準備の日であったので、ユダヤ人たちは安息日に（その安息日は大事な日であったので）死体が十字架の上に残らないよう、足を折って降ろすことをピラトに願った。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Venerunt ergo milites: et primi quidem fregerunt crura, et alterius, qui crucifixus est cum eo.",
+      "provisionalTranslation": "兵士たちは来て、最初の者の足と、イエスと一緒に十字架につけられたもう一人の足を折った。"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Ad Jesum autem cum venissent, ut viderunt eum jam mortuum, non fregerunt ejus crura,",
+      "provisionalTranslation": "しかしイエスのところに来ると、イエスがすでに死んでいるのを見て、その足を折らなかった。"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "sed unus militum lancea latus ejus aperuit, et continuo exivit sanguis et aqua.",
+      "provisionalTranslation": "しかし兵士の一人が槍でその脇腹を刺すと、すぐに血と水が流れ出た。"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Et qui vidit, testimonium perhibuit: et verum est testimonium ejus. Et ille scit quia vera dicit: ut et vos credatis.",
+      "provisionalTranslation": "それを見た者が証しし、その証しは真実である。その者は自分が真実を語っていることを知っている。あなた方も信じるために。"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Facta sunt enim haec ut Scriptura impleretur: Os non comminuetis ex eo.",
+      "provisionalTranslation": "これは「その骨は一本も砕かれない」という聖書が成就するために起きた。"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Et iterum alia Scriptura dicit: Videbunt in quem transfixerunt.",
+      "provisionalTranslation": "また別の聖書は「彼らは自分たちが刺し貫いた者を見るだろう」と言っている。"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Post haec autem rogavit Pilatum Joseph ab Arimathaea (eo quod esset discipulus Jesu, occultus autem propter metum Judaeorum), ut tolleret corpus Jesu. Et permisit Pilatus. Venit ergo, et tulit corpus Jesu.",
+      "provisionalTranslation": "その後、アリマタヤのヨセフが（ユダヤ人を恐れて隠れていたがイエスの弟子であった）イエスの遺体を取り降ろす許可をピラトに求め、ピラトはそれを許可した。彼は来て、イエスの遺体を取り降ろした。"
+    },
+    {
+      "id": 39,
+      "verses": "v.39",
+      "original": "Venit autem et Nicodemus, qui venerat ad Jesum nocte primum, ferens mixturam myrrhae et aloes, quasi libras centum.",
+      "provisionalTranslation": "また、最初にイエスのもとに夜来たニコデモも、没薬と沈香を混ぜ合わせたものをおよそ百リトラ持って来た。"
+    },
+    {
+      "id": 40,
+      "verses": "v.40",
+      "original": "Acceperunt ergo corpus Jesu, et ligaverunt illud linteis cum aromatibus, sicut mos est Judaeis sepelire.",
+      "provisionalTranslation": "彼らはイエスの遺体を取り、ユダヤ人の埋葬の慣習に従って、香料と共に亜麻布で包んだ。"
+    },
+    {
+      "id": 41,
+      "verses": "v.41",
+      "original": "Erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.",
+      "provisionalTranslation": "イエスが十字架につけられた場所には園があり、園の中にはまだ誰も葬られたことのない新しい墓があった。"
+    },
+    {
+      "id": 42,
+      "verses": "v.42",
+      "original": "Ibi ergo propter parasceven Judaeorum, quia juxta erat monumentum, posuerunt Jesum.",
+      "provisionalTranslation": "ユダヤ人の準備の日であったので、墓が近かったため、彼らはそこにイエスを葬った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et dicit eis: Ecce homo.",
+      "body": "「見よ、この人（Ecce homo）」──西洋美術史・文化史において最も繰り返し描かれた場面のひとつを確立する二語。「Ecce（見よ）」という指示詞がv.14「Ecce rex vester（見よ、あなた方の王）」と対をなし、「人（homo）」と「王（rex）」という二つの称号が受難の逆説的王権論を構成する。ヨハネ福音書のイエスは茨の冠と紫の衣という「王の諷刺」を身に帯びて登場するが、ヨハネの語りはこれを諷刺としてではなく「真の王の顕現」として提示する。バッハ「ヨハネ受難曲」第21番コーラル「Durch dein Gefängnis, Gottes Sohn（あなたの牢獄を通して、神の子よ）」はこの「Ecce homo」の場面に応じて、拘束と王権の神学的逆転を歌う。ナンシー『コルプス』における「身体の露出（exposition du corps）」──傷つけられた身体が「見よ」という命令によって公的空間に晒される行為が、ナンシー的「身体の意味論」において「傷が意味の刻印（inscription）となる」という命題の極限として機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Unde es tu? Jesus autem responsum non dedit ei.",
+      "body": "「あなたはどこから来たのか──しかしイエスは何もお答えにならなかった」──「responsum non dedit（答えを与えなかった）」という沈黙。第18章v.20「in occulto locutus sum nihil（隠れて何も言わなかった）」というイエスの公開性の宣言と対照的に、ここでは「起源（Unde es tu）」という問いに対して沈黙が選ばれる。ブランショ「沈黙の語り（parole silencieuse）」──最も深い語りは言葉が尽きた後に始まるという命題が、「responsum non dedit」という聖書的沈黙において先取りされる。第1章v.1「In principio erat Verbum」の「言葉は初めにあった」という命題が、ここでは「言葉が与えられない」という沈黙として反転する──「Verbum（言葉）」が意図的に「沈黙（silentium）」を選ぶという逆説。ヴェイユ「神の沈黙」論：神が答えないことそのものが応答の一形式であるという命題との照応。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Non haberes potestatem adversum me ullam, nisi tibi datum esset desuper.",
+      "body": "「もし上から与えられていなければ、あなたは私に対して何の権限も持っていないだろう」──「desuper（上から）」という起源の副詞が「potestas（権限・権力）」の本質的根拠を定義する。ピラトの「権限（potestas）」は自己根拠的な権力ではなく「与えられた（datum）」ものとして位置づけられ、その「与えた者」が神であるという神学的政治論。ヴェイユ「力（La Violence）」章──「力（force）は常に自らを絶対的なものと錯覚する」という命題が、「desuper datum（上から与えられた）」という力の相対化によって神学的に解体される。デリダ「法の力（Force de loi）」：法と暴力の関係において、法的権力は常に自らの起源を超自然的・神的権威に仮託することで正当化を求めるという論理が、「desuper datum」という命題の脱構築的読みとして機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et bajulans sibi crucem exivit in eum, qui dicitur Calvariae locum, hebraice autem Golgotha:",
+      "body": "「イエスは自ら十字架を担いながら……ゴルゴタへ出て行かれた」──「bajulans sibi crucem（自ら十字架を担いながら）」という自己担架の強調がヨハネ福音書の特徴：共観福音書の「キレネのシモンに十字架を担わせた」という記述をヨハネは採用せず、イエスが独力で十字架を運ぶ王的自主性を保持する。「Calvariae locum（髑髏の場所）」はアラム語「Golgotha（ゴルゴタ）」の訳──「骸骨・頭蓋骨（calvaria）」という語の選択が、ヴァニタス的メメント・モリの系譜に接続される。バッハ「ヨハネ受難曲」第32番コーラル「In meines Herzens Grunde（わが心の奥底に）」は十字架行進の場面に応じて、苦難を「心の奥底」に刻む黙想的応答を置く。ダンテ「地獄篇」第3歌の「中間の道（mezzo del cammin）」──人生の途上での方向転換としての歩行と、ゴルゴタへの一方向的な歩みの対照。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "glossary",
+      "anchor": "Erat autem scriptum: Jesus Nazarenus, Rex Judaeorum.",
+      "body": "「ナザレのイエス、ユダヤ人の王（Jesus Nazarenus Rex Judaeorum）」──頭文字「INRI」として西洋美術史・キリスト教図像学全体を貫く銘文。v.20「hebraice, graece, et latine（ヘブライ語・ギリシア語・ラテン語で）」という三言語の同時刻印は、古代地中海世界の三大言語圏全体への宣言として機能する。ヒエロニムスのラテン語訳がこの銘文を伝達するという自己言及的な構造：ヒエロニムスは「latine scriptum（ラテン語で書かれた）」言葉を「ラテン語で」翻訳・伝達する。v.22「Quod scripsi, scripsi（私が書いたことは書いた）」というピラトの答えが、書くことの不可撤回性（irrévocabilité）を宣言する──ブランショ「書かれたものは書かれたものとして残る」という書くことの存在論的重さと照応する。バッハ「ヨハネ受難曲」ではこの銘文の三言語性が「普遍的王権」の象徴として音楽的に展開される。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Respondit Pilatus: Quod scripsi, scripsi.",
+      "body": "「私が書いたことは書いた（Quod scripsi, scripsi）」──ラテン語聖書で最も簡潔かつ鋭い一節のひとつ。同一動詞の完了形反復「scripsi … scripsi」が書くことの自己完結的・不可撤回的性質を宣言する。バルト「著者の意図と書かれたもの（écrit）」の問題──著者（ここではピラト）が書いたものは、著者の後悔や修正意図を超えて「書かれたもの」として自律する：「Quod scripsi, scripsi」はバルト的「テキストの自律性」の聖書的先行形として読める。デリダ「エクリチュール（écriture）の逸脱可能性（itérabilité）」──書かれたものは原文脈を離れて無限に引用・反復可能であるという「テキストの遺産」論が、「scripsi」の完了形の不変性に照応する。ブランショ「書くことの不可能性と必然性」──ひとたび書かれたものは書いた者自身によっても取り消せないという逆説が、「scripsi, scripsi」という自己強調に凝縮される。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Stabant autem juxta crucem Jesu mater ejus, et soror matris ejus, Maria Cleophae, et Maria Magdalene.",
+      "body": "「イエスの十字架のそばにはその母と……が立っていた」──「stabant juxta crucem（十字架のそばに立っていた）」という「立つ（stare）」という動詞の持続性。第11章v.25で「resurrectio et vita（復活と命）」が宣言された場所に「立っていた」マリアたちの存在が、今は十字架の下で「立つ」ことの持続として反復される。四人の女性が名指しされる中、次節で「母（mater）」と「愛の弟子（discipulus quem diligebat）」が最小の家族的共同体として「十字架の証人」として立てられる。ナンシー「接触と近傍（proximité）」──「juxta（そばに）」という前置詞が「共にいること（être-avec）」の身体的形式として機能する：距離をおかず「そばに」いることが、十字架の苦難への最深の連帯として提示される。ヴェイユ「affliction（苦難）に同伴する者」の問題との照応。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "dicit matri suae: Mulier, ecce filius tuus.",
+      "body": "「母に言われた：女の方、見よ、あなたの子です」──「Mulier（女の方）」という呼称はヨハネ福音書ではカナの婚礼（第2章v.4「Quid mihi et tibi est, mulier?」）に続く二度目のマリアへの呼びかけ。「母（mater）」ではなく「Mulier（女）」という非個人的呼称が、マリアを個人としての母から「人類の母」あるいは「新しいエバ（Eva Nova）」として位置づける解釈的伝統の根拠となった。バッハ「ヨハネ受難曲」第58番アルトアリア「Es ist vollbracht（成し遂げられた）」はこの場面の直後に位置し、十字架の委託から死への移行を音楽的に担う。ナンシー「遺贈（legs）と相続（héritage）」──「Ecce filius tuus / Ecce mater tua（あなたの子・あなたの母）」という相互的委託は、血縁を超えた「精神的相続」の成立として、コミュニティの新たな起源を形成する。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "Postea sciens Jesus quia omnia consummata sunt, ut consummaretur Scriptura, dixit: Sitio.",
+      "body": "「イエスはすべてのことが成し遂げられたのを知り……言われた：渇く（Sitio）」──「sciens quia omnia consummata sunt（すべてが成し遂げられたことを知り）」という全知の確認の後に「Sitio（渇く）」という肉体的欠乏の宣言が続く構造。第1章「Verbum caro factum est（言葉は肉となった）」の受肉が「Sitio」という最も基本的な身体的必要において完成する：神的知識と人間的渇きの共存が受肉神学の頂点として提示される。「ut consummaretur Scriptura（聖書が成就するために）」──詩篇第22篇v.16「sitit anima mea（私の魂は渇く）」および詩篇第69篇v.22「aceto potaverunt me（私に酢を飲ませた）」への照応。バッハ「ヨハネ受難曲」第58番アルトアリア「Es ist vollbracht」はこの「Sitio」と「Consummatum est」の間の時間を、最も長く沈鬱なアリアとして音楽的に拡張する：「成し遂げられた」という宣言の前の最後の「渇き」が、人間的苦難の最終的な確認として展開される。ヴェイユ「affliction（苦難）の極限」論：あらゆる認識を持ちながら肉体的苦痛から免れない状態が、「sciens……dixit: Sitio」という構造に結晶する。",
+      "targetId": "hieronymus_psalm_21",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Consummatum est. Et inclinato capite tradidit spiritum.",
+      "body": "「成し遂げられた（Consummatum est）──そして頭をたれ、霊を渡された」──第19章・ヨハネ福音書・そして第1章「In principio erat Verbum」から連続してきた「言葉の使命」の完成を宣言する一語「Consummatum est」。第4章v.4「opus consummavi（業を成し遂げた）」の過去形の確認が、ここで最終的現在形として宣言される。「tradidit spiritum（霊を渡した）」──「tradere（手渡す・引き渡す）」は第18章での「tradere（裏切り・引き渡し）」と同一の動詞：ユダのイエス「引き渡し（traditio）」が、ここではイエス自身による霊の「引き渡し（traditio）」として意図的に反復・変換される。バッハ「ヨハネ受難曲」第58番「Es ist vollbracht（成し遂げられた）」は「Es ist vollbracht」という反復句を核として、ヨハネ受難曲全体の音楽的・神学的頂点を形成する：アルトの深い声部が「vollbracht」の完了を沈黙の手前まで引き延ばす。ブランショ「作品の完成（achèvement）」論──完成した作品は作者を脱して独立する：「Consummatum est」という宣言は同時に「これ以上語る言葉はない（ne plus parler）」という語りの終止を宣言する。ヴェイユ「脱創造（Décréation）」の終点：自己を完全に神に手渡すという「脱創造」の運動が「tradidit spiritum（霊を渡した）」という動詞において完成される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 34,
+      "type": "commentary",
+      "anchor": "sed unus militum lancea latus ejus aperuit, et continuo exivit sanguis et aqua.",
+      "body": "「しかし兵士の一人が槍でその脇腹を刺すと、すぐに血と水が流れ出た」──「latus ejus aperuit（脇腹を開いた）」という「開く（aperire）」という動詞。「aperuit」はヨハネ第11章での「Tollite lapidem（石を取り除け）」以来の「封印を開く」モチーフの頂点：死体の脇腹を槍が開くことで「血と水（sanguis et aqua）」が流れる。教父的伝統では「水（洗礼）と血（聖体）」として教会の誕生の源と解釈される。「continuo exivit（すぐに流れ出た）」──「continuo」という即時性の副詞が「生きた水（aqua viva）」としての流れを強調する。ナンシー「傷口（blessure）と開口（ouverture）」の身体論：傷口は閉じた身体を「外部に向けて開く」という行為として、内なるものが外に流れ出る接触の場を作る。バッハ「ヨハネ受難曲」ではこの「血と水」が典礼的象徴として合唱とアリアに繰り返し浮上する。"
+    },
+    {
+      "paragraphId": 35,
+      "type": "commentary",
+      "anchor": "Et qui vidit, testimonium perhibuit: et verum est testimonium ejus.",
+      "body": "「それを見た者が証しし、その証しは真実である」──第1章v.7「ut testimonium perhiberet de lumine（光について証しするために）」から連続してきた「証言（testimonium）」の主題の最終的確認。証言者は名を明かさず「qui vidit（見た者）」として自己規定される──「愛の弟子」の匿名性が証言の客観性の保証として機能する。「et ille scit quia vera dicit: ut et vos credatis（その者は自分が真実を語っていることを知っている：あなた方も信じるために）」──「信じること（credere）」が証言の目的として明示されるという語りの自己言及的構造。デリダ「証言（témoignage）と虚偽（parjure）」論：真の証言は常に反証可能性を保持しながら語られるという命題が、「verum est testimonium ejus（その証しは真実）」という証言者の自己保証と共鳴する。ブランショ「見ることと語ること」──見ることは語ることへの責任を伴う：証人は見たことを語る義務によって定義される。"
+    },
+    {
+      "paragraphId": 39,
+      "type": "commentary",
+      "anchor": "Venit autem et Nicodemus, qui venerat ad Jesum nocte primum",
+      "body": "「最初にイエスのもとに夜来たニコデモも」──「nocte primum（最初に夜に）」という時間的修辞が第3章v.2でのニコデモの初訪問「venit ad Jesum nocte（夜イエスのもとに来た）」を想起させる。最初の「夜の訪問者」が今、公開の埋葬行為に参加するという、第13章v.30「Erat autem nox（夜だった）」のユダの退場と対照的な「夜からの到来」。「没薬と沈香（myrrha et aloes）」という高価な香料の「百リトラ（libras centum）」という大量の供給は、第12章のマリアの香油注ぎと照応する「惜しまない愛の贈与」として機能する。ヴェイユ「愛の極端な行為」──経済的合理性を超えた「蕩尽（dépense）」としての愛の実践。"
+    },
+    {
+      "paragraphId": 41,
+      "type": "commentary",
+      "anchor": "Erat autem in loco, ubi crucifixus est, hortus: et in horto monumentum novum, in quo nondum quisquam positus erat.",
+      "body": "「イエスが十字架につけられた場所には園があり、園の中にはまだ誰も葬られたことのない新しい墓があった」──「hortus（園）」という語が第18章v.1「in quem introivit（そこに入られた）」のケデロンの「園」と首尾照応する：受難は「園」から始まり「園」で終わる──しかし最初の「園（ゲッセマネ）」は逮捕の場であり、最後の「園（埋葬の地）」は安置の場として対称的に置かれる。「monumentum novum, in quo nondum quisquam positus erat（まだ誰も葬られたことのない新しい墓）」──「novum（新しい）」という形容詞が「新しい掟（Mandatum novum）」・「新しい創造（nova creatio）」という主題群の最終的な空間的具象化として機能する。第11章でラザロが出てきた「洞窟（spelunca）」と対照的な「新しい墓（monumentum novum）」──ラザロの墓は古い死の経験の場であり、この新しい墓は第20章の復活への出発点として保留される。リルケ「ドゥイノの悲歌」第10歌での「嘆きの国（das Land der Klage）」と「新たな出発（neuer Aufbruch）」の境界的空間との照応。",
+      "targetId": "rilke_duineser_elegien_10",
+      "targetParagraphId": null
+    }
+  ]
+}
