@@ -1,0 +1,503 @@
+{
+  "id": "hieronymus_ioannes_11",
+  "title": "Ioannes, Caput XI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XI. Bible Gateway: https://www.biblegateway.com/passage/?search=John+11&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第11章。ヨハネ福音書における最大の「しるし（signum）」であるラザロの復活を語る。ヨハネ福音書の七つの「しるし」の頂点として位置づけられるこの奇跡は、同時にイエスの死刑決定（v.53「cogitaverunt ut interficerent eum」）を招く政治的転換点でもある。章の構造は三部に分かれる：第一部（v.1–16）は遅延する到来・「眠り」から「死」への言葉の修正；第二部（v.17–44）はマルタとマリアの会話・イエスの涙・復活の奇跡；第三部（v.45–56）は最高法院の密議・死刑決定。v.25「Ego sum resurrectio et vita（私は復活であり命である）」という命題は「私は……である（Ego sum）」定式の中で最も存在論的強度が高い。v.35「Et lacrimatus est Jesus（イエスは涙を流された）」はラテン語聖書全体で最も短い節のひとつであり、神の受肉的悲嘆の集約的表現として文学的・神学的に特権的な地位を占める。「ラザロ（אֶלְעָזָר／Eleazar）」という名は「神が助ける（El-azar）」を意味するが、この名の担い手は神の助けを必要とする極限の無力において提示される。",
+  "keywords": [
+    "Lazarus",
+    "resurrectio",
+    "Ego sum resurrectio et vita",
+    "lacrimatus est Jesus",
+    "monumentum",
+    "死と復活",
+    "testimonium",
+    "Caiphas",
+    "vox magna",
+    "Lazare veni foras"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_iob_1",
+    "hieronymus_iob_14",
+    "hieronymus_iob_19",
+    "hieronymus_psalm_129",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_la_violence",
+    "rilke_duineser_elegien_01",
+    "rilke_duineser_elegien_10",
+    "trakl_de_profundis",
+    "baudelaire_de_profundis_clamavi",
+    "rossetti_de_profundis",
+    "dante_inferno_canto_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Erat autem quidam languens Lazarus a Bethania, de castello Mariae et Marthae sororis ejus.",
+      "provisionalTranslation": "ベタニアのある病人がいた。ラザロといい、マリアとその姉妹マルタの村の人であった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "(Maria autem erat quae unxit Dominum unguento, et extersit pedes ejus capillis suis: cujus frater Lazarus infirmabatur.)",
+      "provisionalTranslation": "（マリアは主に香油を塗り、自分の髪で主の足を拭った女である。その兄弟ラザロが病んでいた。）"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Miserunt ergo sorores ejus ad eum dicentes: Domine, ecce quem amas infirmatur.",
+      "provisionalTranslation": "姉妹たちはイエスのもとに使いを遣わして言った。「主よ、あなたが愛しておられる者が病んでいます。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Audiens autem Jesus dixit eis: Infirmitas haec non est ad mortem, sed pro gloria Dei, ut glorificetur Filius Dei per eam.",
+      "provisionalTranslation": "イエスはこれを聞いて言われた。「この病は死に至るものではない。神の栄光のためのもの、それによって神の子が栄光を受けるためのものだ。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Diligebat autem Jesus Martham, et sororem ejus Mariam, et Lazarum.",
+      "provisionalTranslation": "イエスはマルタと、その姉妹マリアと、ラザロを愛しておられた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Ut ergo audivit quia infirmabatur, tunc quidem mansit in eodem loco duobus diebus;",
+      "provisionalTranslation": "それゆえ病んでいると聞いたとき、そのいた場所に二日間とどまられた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "deinde post haec dixit discipulis suis: Eamus in Judaeam iterum.",
+      "provisionalTranslation": "それからその後、弟子たちに言われた。「もう一度ユダヤへ行こう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Dicunt ei discipuli: Rabbi, nunc quaerebant te Judaei lapidare, et iterum vadis illuc?",
+      "provisionalTranslation": "弟子たちは言った。「ラビ、ユダヤ人たちはたった今もあなたを石打ちにしようとしていたのに、またそこへ行かれるのですか。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Respondit Jesus: Nonne duodecim sunt horae diei? Si quis ambulaverit in die, non offendit, quia lucem hujus mundi videt:",
+      "provisionalTranslation": "イエスは答えられた。「昼間は十二時間あるではないか。昼間に歩けば、この世の光を見ているのでつまずかない。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "si autem ambulaverit in nocte, offendit, quia lux non est in eo.",
+      "provisionalTranslation": "夜に歩けば、その人の中に光がないのでつまずく。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Haec ait, et post haec dixit eis: Lazarus amicus noster dormit: sed vado ut a somno excitem eum.",
+      "provisionalTranslation": "こう言われてから、その後に言われた。「私たちの友ラザロは眠っている。しかし私は彼を眠りから目覚めさせに行く。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dixerunt ergo discipuli ejus: Domine, si dormit, salvus erit.",
+      "provisionalTranslation": "弟子たちは言った。「主よ、眠っているなら助かるでしょう。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Dixerat autem Jesus de morte ejus: illi autem putaverunt quia de dormitione somni diceret.",
+      "provisionalTranslation": "しかしイエスはラザロの死について語られたのだった。弟子たちは眠って休んでいることを言っておられると思ったのだった。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Tunc ergo Jesus dixit eis manifeste: Lazarus mortuus est:",
+      "provisionalTranslation": "そこでイエスははっきりと彼らに言われた。「ラザロは死んだ。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "et gaudeo propter vos, ut credatis, quoniam non eram ibi, sed eamus ad eum.",
+      "provisionalTranslation": "「そしてあなた方のために、あなた方が信じるようになるために、私がそこにいなかったことを喜ぶ。さあ彼のもとへ行こう。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Dixit ergo Thomas, qui dicitur Didymus, ad condiscipulos: Eamus et nos, ut moriamur cum eo.",
+      "provisionalTranslation": "すると「双子」と呼ばれるトマスが仲間の弟子たちに言った。「私たちも行こう、彼と一緒に死ぬために。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Venit itaque Jesus: et invenit eum quatuor dies jam in monumento habentem.",
+      "provisionalTranslation": "イエスが来られると、ラザロはすでに墓に四日いることがわかった。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "(Erat autem Bethania juxta Jerosolymam quasi stadiis quindecim.)",
+      "provisionalTranslation": "（ベタニアはエルサレムに近く、およそ十五スタディオンの距離であった。）"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Multi autem ex Judaeis venerant ad Martham et Mariam, ut consolarentur eas de fratre suo.",
+      "provisionalTranslation": "多くのユダヤ人がマルタとマリアのもとへ、兄弟のことについて慰めるためにやって来ていた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Martha ergo ut audivit quia Jesus venit, occurrit illi: Maria autem domi sedebat.",
+      "provisionalTranslation": "マルタはイエスが来られると聞いて出迎えに行った。マリアは家に座っていた。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Dixit ergo Martha ad Jesum: Domine, si fuisses hic, frater meus non fuisset mortuus:",
+      "provisionalTranslation": "マルタはイエスに言った。「主よ、もしあなたがここにおられたなら、私の兄弟は死ななかったでしょう。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "sed et nunc scio quia quaecumque poposceris a Deo, dabit tibi Deus.",
+      "provisionalTranslation": "「しかし今でも、あなたが神に求めることは何でも、神はあなたに与えてくださると私は知っています。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Dicit illi Jesus: Resurget frater tuus.",
+      "provisionalTranslation": "イエスは言われた。「あなたの兄弟は復活する。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Dicit ei Martha: Scio quia resurget in resurrectione in novissimo die.",
+      "provisionalTranslation": "マルタは言った。「最後の日の復活の時に復活することは知っています。」"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Dixit ei Jesus: Ego sum resurrectio et vita: qui credit in me, etiam si mortuus fuerit, vivet:",
+      "provisionalTranslation": "イエスは言われた。「私は復活であり命である。私を信じる者は、死んでも生きる。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "et omnis qui vivit et credit in me, non morietur in aeternum. Credis hoc?",
+      "provisionalTranslation": "「生きていて私を信じる者は誰も、永遠に死ぬことはない。あなたはこれを信じますか。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Ait illi: Utique Domine, ego credidi quia tu es Christus, Filius Dei vivi, qui in hunc mundum venisti.",
+      "provisionalTranslation": "「はい、主よ。あなたがキリスト、神の子、世に来られる方であると私は信じてきました。」"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Et cum haec dixisset, abiit, et vocavit Mariam sororem suam silentio, dicens: Magister adest, et vocat te.",
+      "provisionalTranslation": "こう言ってから去り、姉妹マリアをひそかに呼んで言った。「先生がここに来ておられ、あなたを呼んでいる。」"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Illa ut audivit, surgit cito, et venit ad eum;",
+      "provisionalTranslation": "マリアはそれを聞くと急いで立ち上がり、イエスのもとへ行った。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "nondum enim venerat Jesus in castellum: sed erat adhuc in illo loco, ubi occurrerat ei Martha.",
+      "provisionalTranslation": "イエスはまだ村に入っておられず、マルタが出迎えたあの場所におられた。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Judaei ergo, qui erant cum ea in domo, et consolabantur eam, cum vidissent Mariam quia cito surrexit, et exiit, secuti sunt eam dicentes: Quia vadit ad monumentum, ut ploret ibi.",
+      "provisionalTranslation": "マリアと一緒に家にいて慰めていたユダヤ人たちは、マリアが急いで立ち上がって出て行くのを見て、墓へ泣きに行くのだと思い、後についていった。"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Maria ergo, cum venisset ubi erat Jesus, videns eum, cecidit ad pedes ejus, et dicit ei: Domine, si fuisses hic, non esset mortuus frater meus.",
+      "provisionalTranslation": "マリアはイエスのおられるところに来て、見るなりその足元に倒れ伏して言った。「主よ、もしあなたがここにおられたなら、私の兄弟は死ななかったでしょう。」"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Jesus ergo, ut vidit eam plorantem, et Judaeos, qui venerant cum ea, plorantes, infremuit spiritu, et turbavit seipsum,",
+      "provisionalTranslation": "イエスは彼女が泣いているのを、また一緒に来たユダヤ人たちが泣いているのを見て、霊に憤りを覚え、心を激しく動かされた。"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "et dixit: Ubi posuistis eum? Dicunt ei: Domine, veni, et vide.",
+      "provisionalTranslation": "そして言われた。「どこに安置しましたか。」「主よ、来て、ご覧ください」と言われた。"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Et lacrimatus est Jesus.",
+      "provisionalTranslation": "イエスは涙を流された。"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Dixerunt ergo Judaei: Ecce quomodo amabat eum.",
+      "provisionalTranslation": "そこでユダヤ人たちは言った。「見よ、いかにラザロを愛しておられたことか。」"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Quidam autem ex ipsis dixerunt: Non poterat hic, qui aperuit oculos caeci nati, facere ut hic non moreretur?",
+      "provisionalTranslation": "しかし彼らのうちの何人かは言った。「盲人の目を開けたこの方が、この人が死なないようにすることはできなかったのか。」"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Jesus ergo rursum fremens in semetipso, venit ad monumentum. Erat autem spelunca, et lapis superpositus erat ei.",
+      "provisionalTranslation": "イエスは再び心に憤りを覚えながら墓に来られた。墓は洞穴であり、石が入口に置かれていた。"
+    },
+    {
+      "id": 39,
+      "verses": "v.39",
+      "original": "Ait Jesus: Tollite lapidem. Dicit ei Martha, soror ejus qui mortuus fuerat: Domine, jam foetet, quatriduanus est enim.",
+      "provisionalTranslation": "イエスは言われた。「石を取り除きなさい。」死んだ人の姉妹マルタは言った。「主よ、もう臭います。四日経っていますから。」"
+    },
+    {
+      "id": 40,
+      "verses": "v.40",
+      "original": "Dicit ei Jesus: Nonne dixi tibi quoniam si credideris, videbis gloriam Dei?",
+      "provisionalTranslation": "イエスは彼女に言われた。「もし信じるなら神の栄光を見るだろうと、あなたに言わなかったか。」"
+    },
+    {
+      "id": 41,
+      "verses": "v.41",
+      "original": "Tulerunt ergo lapidem: Jesus autem, elevatis sursum oculis, dixit: Pater, gratias ago tibi quoniam audisti me.",
+      "provisionalTranslation": "人々は石を取り除いた。イエスは目を上げて言われた。「父よ、私の願いを聞いてくださったことを感謝します。」"
+    },
+    {
+      "id": 42,
+      "verses": "v.42",
+      "original": "Ego autem sciebam quia semper me audis, sed propter populum qui circumstat, dixi: ut credant quia tu me misisti.",
+      "provisionalTranslation": "「あなたが常に私の願いを聞いてくださることを私は知っていました。しかし周りに立っている群衆のために言いました。あなたが私を遣わされたことを信じるように、と。」"
+    },
+    {
+      "id": 43,
+      "verses": "v.43",
+      "original": "Haec cum dixisset, voce magna clamavit: Lazare, veni foras.",
+      "provisionalTranslation": "こう言ってから、大きな声で叫ばれた。「ラザロよ、出てきなさい。」"
+    },
+    {
+      "id": 44,
+      "verses": "v.44",
+      "original": "Et statim prodiit qui fuerat mortuus, ligatus pedes, et manus institis, et facies illius sudario erat ligata. Dixit eis Jesus: Solvite eum et sinite abire.",
+      "provisionalTranslation": "すると死んでいた者がすぐに出てきた。手足は包み帯で縛られ、顔は布で覆われていた。イエスは言われた。「ほどいてやって、行かせなさい。」"
+    },
+    {
+      "id": 45,
+      "verses": "v.45",
+      "original": "Multi ergo ex Judaeis, qui venerant ad Mariam, et Martham, et viderant quae fecit Jesus, crediderunt in eum.",
+      "provisionalTranslation": "マリアとマルタのもとへ来ていた多くのユダヤ人たちは、イエスのなさったことを見て信じた。"
+    },
+    {
+      "id": 46,
+      "verses": "v.46",
+      "original": "Quidam autem ex ipsis abierunt ad pharisaeos, et dixerunt eis quae fecit Jesus.",
+      "provisionalTranslation": "しかしその中の何人かはファリサイ人のところへ行って、イエスのなさったことを告げた。"
+    },
+    {
+      "id": 47,
+      "verses": "v.47",
+      "original": "Collegerunt ergo pontifices et pharisaei concilium, et dicebant: Quid facimus, quia hic homo multa signa facit?",
+      "provisionalTranslation": "そこで祭司長たちとファリサイ人たちは議会を召集して言った。「この男が多くのしるしを行っているのに、私たちは何もしていない。」"
+    },
+    {
+      "id": 48,
+      "verses": "v.48",
+      "original": "Si dimittimus eum sic, omnes credent in eum, et venient Romani, et tollent nostrum locum, et gentem.",
+      "provisionalTranslation": "「このままにしておけば、すべての人が彼を信じるようになる。そしてローマ人がやって来て、私たちの場所も民族も奪ってしまうだろう。」"
+    },
+    {
+      "id": 49,
+      "verses": "v.49",
+      "original": "Unus autem ex ipsis, Caiphas nomine, cum esset pontifex anni illius, dixit eis: Vos nescitis quidquam,",
+      "provisionalTranslation": "しかしその年の大祭司カイアファというその中の一人が言った。「あなた方は何も分かっていない。」"
+    },
+    {
+      "id": 50,
+      "verses": "v.50",
+      "original": "nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat.",
+      "provisionalTranslation": "「一人の人間が民のために死に、民族全体が滅びないようにする方があなた方にとって都合がよいことを、考えもしないのか。」"
+    },
+    {
+      "id": 51,
+      "verses": "v.51",
+      "original": "Hoc autem a semetipso non dixit: sed cum esset pontifex anni illius, prophetavit, quod Jesus moriturus erat pro gente,",
+      "provisionalTranslation": "これは自分から言ったのではなく、その年の大祭司として、イエスが民族のために死のうとしておられることを預言したのだった。"
+    },
+    {
+      "id": 52,
+      "verses": "v.52",
+      "original": "et non tantum pro gente, sed ut filios Dei, qui erant dispersi, congregaret in unum.",
+      "provisionalTranslation": "民族のためだけでなく、散らされていた神の子らを一つに集めるためにも。"
+    },
+    {
+      "id": 53,
+      "verses": "v.53",
+      "original": "Ab illo ergo die cogitaverunt ut interficerent eum.",
+      "provisionalTranslation": "その日から彼らはイエスを殺そうと謀った。"
+    },
+    {
+      "id": 54,
+      "verses": "v.54",
+      "original": "Jesus ergo jam non in palam ambulabat apud Judaeos, sed abiit in regionem juxta desertum, in civitatem quae dicitur Ephrem, et ibi morabatur cum discipulis suis.",
+      "provisionalTranslation": "それゆえイエスはもはやユダヤ人たちの間を公然と歩かれず、荒れ野に近い地方、エフレムという町に行き、そこで弟子たちと過ごされた。"
+    },
+    {
+      "id": 55,
+      "verses": "v.55",
+      "original": "Proximum autem erat Pascha Judaeorum, et ascenderunt multi Jerosolymam de regione ante Pascha, ut sanctificarent seipsos.",
+      "provisionalTranslation": "ユダヤ人の過越祭が近づいていた。多くの人が過越祭の前に地方からエルサレムへ上り、自らを聖別した。"
+    },
+    {
+      "id": 56,
+      "verses": "v.56",
+      "original": "Quaerebant ergo Jesum, et colloquebantur ad invicem, in templo stantes: Quid putatis, quia non venit ad diem festum? Dederant autem pontifices et pharisaei mandatum ut si quis cognoverit ubi sit, indicet, ut apprehendant eum.",
+      "provisionalTranslation": "彼らはイエスを求めて、神殿の境内で互いに言い合った。「あなた方はどう思いますか。祭りには来られないでしょうか。」祭司長たちとファリサイ人たちは、イエスの居場所を知った者は知らせるように、そして逮捕できるようにとの命令を出していた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Erat autem quidam languens Lazarus a Bethania",
+      "body": "「ベタニアのある病人がいた──ラザロ」──「languens（病む・衰弱する）」という現在分詞が章全体の動的状態として提示される。「Lazarus」はアラム語名「לָעָזָר（Lazaros）」＝ヘブライ語「אֶלְעָזָר（Elazar）」──「神が助ける（El-azar）」の語義を持つ名が、極限の無力と放棄の状態において提示される逆説。ブランショ『来るべき書物（Le Livre à venir）』は「ラザロ——再び来なさい（Lazare, vieni dehors）」を論じ、文学的空間を「死の岸辺から召還されること」の経験として定義する：ラザロが洞窟から出てくることは、書かれた言葉が「他なる夜（l'autre nuit）」から光の側へと引き出される運動の聖書的型として機能する。『われはラザロ（I Am Lazarus）』を著したアンナ・カヴァン（Anna Kavan）は薬物依存・精神病院入院という死と再生の経験を繰り返した作家として、その作品は「ラザロ的往復運動」の実存的証言として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Domine, ecce quem amas infirmatur.",
+      "body": "「主よ、あなたが愛しておられる者が病んでいます」──愛されることと苦しむことの同時性を単文で宣言する。「quem amas（あなたが愛する者）」という関係節がラザロを名前ではなく「愛の関係」によって定義する──この定義法が第21章v.20の「discipulus ille quem diligebat Jesus（イエスが愛しておられた弟子）」という愛の弟子の定義と同型。バタイユ『エロティシズム（L'Érotisme）』における「愛と死の連続性」──愛は死の手前に立つのではなく、愛そのものが死への開口部として機能するという論理がこの「愛する者が病む」という逆説的宣言に先取りされる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Diligebat autem Jesus Martham, et sororem ejus Mariam, et Lazarum.",
+      "body": "「イエスはマルタと、その姉妹マリアと、ラザロを愛しておられた」──v.3の「amas（フィレーイン）」に対してここでは「diligebat（アガパーオー）」が使われる──ギリシア語原典では前者がφιλεῖν（親愛・友情）、後者がἀγαπάω（神的愛・選びの愛）。この動詞の交換がヨハネ福音書の愛の語彙の精密な構造を示す。ロラン・バルト『彼自身によるロラン・バルト（Roland Barthes par Roland Barthes）』での「愛の言語の独自性」──愛を語る言語は常にその対象の固有性（propre）に向かうという命題が、ここで三人を名指して個別に愛することの叙述に照応する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "tunc quidem mansit in eodem loco duobus diebus;",
+      "body": "「そのいた場所に二日間とどまられた」──「愛している」ゆえに「とどまる（mansit）」という逆説的遅延。知らせを受けながらあえて動かないというイエスの遅延が第11章の神学的核心をなす：急いで助けに行くことをしない愛の逆説。ブランショ「待つこと（l'attente）」の概念──『期待・忘却（L'Attente l'oubli）』において「待つことは到来を早めず、むしろ到来を純化する」という時間論が、イエスの二日間の停留に照応する。カヴァンの小説『氷（Ice）』における追跡と到達の永遠の遅延──主人公は常に目的地に遅れて到着し、その遅延が求める存在の消失を深める──という構造的モチーフとの共鳴。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Lazarus amicus noster dormit: sed vado ut a somno excitem eum.",
+      "body": "「私たちの友ラザロは眠っている。しかし私は彼を眠りから目覚めさせに行く」──「dormit（眠る）」という婉曲表現の意図的使用。「somnus（眠り）」は古代語において常に「死（mors）」の婉曲として機能し、「excitem（目覚めさせる）」という動詞が「復活（resurrectio）」の予告として機能する。バタイユ『死者（Le Mort）』における「眠りと死の区別不可能性」──眠りの中で人は死者と同じ「不在（absence）」の状態にあるという論理。ブランショ『文学空間』「眠りと夜」の章：眠りは意識の一時的停止として死の先取りであり、「目覚め（réveil）」は毎回小さな復活として経験される──この構造がラザロの「眠りから目覚めること」に聖書的先行形を見出す。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Lazarus mortuus est:",
+      "body": "「ラザロは死んだ」──三語の断定文。「manifeste（はっきりと）」という副詞の後に置かれる端的な死亡宣告。ブランショ『文学空間』「ラザロ来たれ」（「Lazare, vieni dehors」）の章が直接この節に向き合う：「ラザロよ、出てきなさい」という命令は、洞窟の暗闇から引き出された者が「まだそこにいる」という死の引力との分裂として理解される。引き出されたラザロは「死んだラザロ」のままであり続ける──生者として戻ってきたのではなく、「死者として光の中に現れた」という不可解な存在論的位置。デリダ「アポリア（Apories）」における死の不可能性の逆説：「自分の死を経験することはできない」という命題が、ラザロという「自分の死を経験した者」の存在によって根本的に問われる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Eamus et nos, ut moriamur cum eo.",
+      "body": "「私たちも行こう、彼と一緒に死ぬために」──トマスの発言。「Didymus（双子）」と呼ばれるトマスが「一緒に死ぬこと（ut moriamur cum eo）」を目的として同行を促す。バタイユ『エロティシズム』における「連帯的死の欲動」──他者の死に同伴しようとする衝動は、個体の孤立した不連続性を「連続性（continuité）」へと溶解させようとする根本的欲動として理解される。ブランショ「共同体（communauté）」論──他者の死に向き合うことで初めて共同体が生まれるという逆説的共同体論が、トマスのこの言葉に原型的形式を見出す。ヨブ記第1章v.21「Nudus egressus sum（裸で出た）」の孤独な死の受容と対照的に、ここでは「共に死ぬこと（moriamur cum eo）」という死の共有が語られる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "invenit eum quatuor dies jam in monumento habentem.",
+      "body": "「ラザロはすでに墓に四日いた」──「quatuor dies（四日）」の神学的意義。ユダヤの伝承では魂は死後三日間は肉体の近くにとどまるとされ、四日目には魂の離脱が完了するとみなされた：四日という設定がラザロの死の「完全性・回復不可能性」を強調する。v.39「jam foetet（もう臭います）」という腐敗の証言が四日という時間の肉体的現実を確証する。バタイユ『エロティシズム』の「腐敗（putréfaction）」論──生命から非生命への移行過程における腐敗の身体的リアリティが、「sanctus」としての死体という伝統的宗教的表象に抵抗する。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Domine, si fuisses hic, frater meus non fuisset mortuus:",
+      "body": "「主よ、もしあなたがここにおられたなら、私の兄弟は死ななかったでしょう」──マルタ・マリア両者に共通する条件節（v.21・v.32）。「si fuisses hic（もしここにおられたなら）」──反実仮想の過去完了が「あなたの不在が死をもたらした」という告発を含む。神の不在という問題はコヘレト第9章「nescit homo utrum amore an odio dignus sit（人は愛されるか憎まれるかを知らない）」・ヨブ記第3章の呪詛詩の「神の沈黙」と連続する。ヴェイユ「神の愛と苦難（L'Amour de Dieu et le malheur）」での「神の不在の中での愛の持続」──神が助けに来ないことそのものが愛の試練の場として機能するという命題が、マルタのこの言葉の裏面として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 25,
+      "type": "glossary",
+      "anchor": "Ego sum resurrectio et vita: qui credit in me, etiam si mortuus fuerit, vivet:",
+      "body": "「私は復活であり命である。私を信じる者は、死んでも生きる」──ヨハネ福音書の「Ego sum（私は……である）」定式の中で最も存在論的強度が高い命題。「resurrectio（復活）」と「vita（命）」を同一の主語に帰属させることで、「死んでも生きる（etiam si mortuus fuerit, vivet）」という逆説的命題が演繹される。ハイデガー『存在と時間』の「死への存在（Sein zum Tode）」──死は存在の最も固有な可能性として、外から到来するものではなく存在に内在するものとして理解される。この「死への存在」がキリストへの信仰によって「死の中での生命（vita in morte）」として転換されるという逆転の論理。バタイユ『内的経験（L'Expérience intérieure）』における「死を超えた連続性」の体験──個体の不連続性を破って生命の連続性に溶解する神秘的経験が、「私は……命である」という人格的命題に対応する。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "commentary",
+      "anchor": "vocavit Mariam sororem suam silentio",
+      "body": "「姉妹マリアをひそかに呼んだ」──「silentio（沈黙のうちに・ひそかに）」という副詞。公的な証言のコンテクストにありながら、マリアを呼ぶのは「沈黙のうちに」行われる。バルト『恋愛のディスクール（Fragments d'un discours amoureux）』における「名指し（appel）」の問題──愛の言語において、相手の名を呼ぶことは他の言語行為とは異なる固有の構造を持つ：名を呼ぶことは「あなたがそこにいること」を召喚する行為。ブランショ「沈黙の語り（parole silencieuse）」──最も深い呼びかけは声を上げずに届くという逆説的コミュニケーションの形式。"
+    },
+    {
+      "paragraphId": 33,
+      "type": "commentary",
+      "anchor": "infremuit spiritu, et turbavit seipsum,",
+      "body": "「霊に憤りを覚え、心を激しく動かされた」──「infremuit（憤った・うなり声を上げた）」はギリシア語「ἐνεβριμήσατο（エネブリメーサト）」の訳で「激しく感情が動く・憤慨する」という強い感情動詞。「turbavit seipsum（自らを乱した）」──神が自分自身を「乱す（turbare）」という自己撹乱の表現。神の受肉的感情の最も強度の高い表現のひとつ。バタイユ「内的経験」における「情動（émotion）の暴力性」──感情は主体の統制を超えて主体を「引き裂く（déchirer）」力として機能するという論理が、「turbavit seipsum」という自己撹乱に照応する。ナンシー『コルプス』での「感情は身体の刻印（inscription）である」という命題：憤りと悲嘆が霊と身体の両面で刻印されることが「受肉した神の涙」の前準備として機能する。"
+    },
+    {
+      "paragraphId": 35,
+      "type": "commentary",
+      "anchor": "Et lacrimatus est Jesus.",
+      "body": "「イエスは涙を流された」──ラテン語聖書全体で最短クラスの節のひとつ。三語で神の涙を記録する。ギリシア語原典「ἐδάκρυσεν ὁ Ἰησοῦς」も同様に最短の節として知られる（英語訳『Jesus wept』も聖書英訳最短節として有名）。バルト『テキストの快楽（Le Plaisir du texte）』における「刺点（punctum）」──読者の胸を突き刺す、テキストの意図せぬ詳細という概念が、この三語の圧縮的な感情記録に完璧に適用される：神が泣くという記述の衝撃は、その簡潔さによって増幅される。デリダ「哀悼の仕事（Le Travail du deuil）」──涙は「取り返しのつかない喪失（perte irréparable）」の身体的証言であり、言語に先行する悲嘆の表出として機能する。ブランショ「泣くことの不可能性（l'impossibilité de pleurer）」との逆説的対照：文学的空間において感情は常に媒介・距離を経るのに対し、この節は媒介なしに感情を直接記録する。ナンシー『コルプス』の「涙は身体が外部に露出するときの液体（liquide de l'exposition）」という身体論との照応。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 39,
+      "type": "commentary",
+      "anchor": "Domine, jam foetet, quatriduanus est enim.",
+      "body": "「主よ、もう臭います。四日経っていますから」──マルタの反論。「foetet（臭う）」という感覚的動詞が神学的命題の直前に挿入される：「信じるなら栄光を見る（v.40）」に先立って、腐敗の臭気という身体的リアリティが強調される。バタイユ「腐敗（putréfaction）」論──腐敗は生命の「過剰（excès）」が死を超えて流出するプロセスであり、生命のエネルギーが最も激しく外部に溢れ出す現象として理解される。カヴァン『氷』において繰り返される「溶解・腐敗・消滅」のイメージが、このラザロの腐敗と構造的に共鳴する：肉体が形を失っていくプロセスが、別種の変容への入口として機能する。"
+    },
+    {
+      "paragraphId": 43,
+      "type": "commentary",
+      "anchor": "voce magna clamavit: Lazare, veni foras.",
+      "body": "「大きな声で叫ばれた：ラザロよ、出てきなさい」──「voce magna（大きな声）」という強調と呼格「Lazare（ラザロよ）」の固有名による直接呼びかけ。「veni foras（出てきなさい）」──「foras（外へ）」という方向性が「内（暗闇・死・洞窟）」から「外（光・生命・開かれた空間）」への運動を命じる。ブランショ『来るべき書物』「ラザロ、来たれ（Lazare, vieni dehors）」：この呼びかけは文学における「呼びかけの問題（problème de l'apostrophe）」の原型的形式として論じられる。「洞窟の奥深くからだれかを引き出す」という行為は、作品が読者を「他なる夜」から引き出す運動に対応する──しかしブランショは、引き出されたラザロが完全には戻ってこないことを強調する。デリダ「固有名（nom propre）」論：「Lazare」という呼格の固有名は、死者を「その死の固有性（propre）」から引き離し、「私のもの（propre）」として召還しようとする行為として機能する。アンナ・カヴァン作品群全体が「呼ばれても完全には応えられない」存在の彷徨として読め、この「Lazare veni foras」への応答不可能性がその文学的空間の核心をなす。"
+    },
+    {
+      "paragraphId": 44,
+      "type": "commentary",
+      "anchor": "ligatus pedes, et manus institis, et facies illius sudario erat ligata. Dixit eis Jesus: Solvite eum et sinite abire.",
+      "body": "「手足は包み帯で縛られ、顔は布で覆われていた──ほどいてやって、行かせなさい」──「ligatus（縛られた）」と「solvite（ほどきなさい）」の対。死装束（包み帯・顔布）をつけたまま外に出てきたラザロの視覚的イメージが、「死者として蘇った者」の存在論的曖昧さを身体的に体現する。「Solvite eum et sinite abire（ほどいて行かせなさい）」──復活の完成は洞窟からの出現ではなく、縛めの解放と自由な移動の回復によって完成する。ブランショ『文学空間』の分析：縛られたまま外に出てきたラザロは「死の側に属したまま生者の空間にいる」存在として、作品と作者の関係を類比する──作品は完成すると作者から切り離されるが、作者の「死の印（marque de mort）」を帯びたまま世界を歩く。バルト「著者の死（La Mort de l'auteur）」：「Solvite eum（ほどいてやれ）」という命令は、テキストが作者から解放されて読者の手に渡されるという文学的事件の聖書的形象として読める。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 49,
+      "type": "commentary",
+      "anchor": "Unus autem ex ipsis, Caiphas nomine, cum esset pontifex anni illius, dixit eis: Vos nescitis quidquam,",
+      "body": "「その年の大祭司カイアファが言った：あなた方は何も分かっていない」──「nescitis quidquam（何も分かっていない）」という認識の全面的否定。v.50「一人の人間が民のために死ぬ方が……」という「犠牲的合理性」の宣告。デリダ「法の力（Force de loi）」における「法の暴力性」──法的・政治的判断が生命に対して行使する力の問題：カイアファの論理は「一人の死が全体を救う」という功利主義的暴力の原型的形式として位置づけられる。バタイユ「主権（souveraineté）」論：「一人が民族のために死ぬ（unus moriatur homo pro populo）」という論理は、個体の生命を共同体の継続のために消費するという「犠牲（sacrifice）」の構造であり、バタイユが分析する「呪われた部分（la part maudite）」の経済的論理に対応する。"
+    },
+    {
+      "paragraphId": 51,
+      "type": "commentary",
+      "anchor": "prophetavit, quod Jesus moriturus erat pro gente,",
+      "body": "「イエスが民族のために死のうとしておられることを預言した」──カイアファの政治的発言が「預言（prophetavit）」として解釈されるという語り手の二重的コメント。「a semetipso non dixit（自分から言ったのではなく）」──語る主体が自分の語りの意味を把握していないというアイロニカルな語りの構造。バルト「作者の意図（intention auctoriale）」論：テキストの意味は発話者の意図を超える──カイアファは政治的発言をしながら神学的真理を語るという構造が、作者の死によってテキストが複数の意味を持つというバルトの命題の聖書的先行形として読める。ブランショの「作品の匿名性」──真の作品は作者の意図から逸脱することで成立するという命題との照応。"
+    },
+    {
+      "paragraphId": 53,
+      "type": "commentary",
+      "anchor": "Ab illo ergo die cogitaverunt ut interficerent eum.",
+      "body": "「その日から彼らはイエスを殺そうと謀った」──ラザロの復活（生命の奇跡）が即座にイエスの死刑計画（死の政治）を起動するという逆説的因果。「生命を与えること」が「死の決定」を招くという構造。デリダ「贈与と死（Donner la mort）」──命を与える行為が命を奪われる行為と交換可能として機能するというギフトの逆説的論理がここに凝縮される。バタイユ『呪われた部分（La Part maudite）』の「過剰な生命力はその消費（dépense）を強制する」という論理：ラザロの復活という生命力の過剰な顕示が、政治的システムによる消費（イエスの処刑）を招くという経済的循環。"
+    }
+  ]
+}
