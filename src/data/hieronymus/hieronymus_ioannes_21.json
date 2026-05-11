@@ -1,0 +1,276 @@
+{
+  "id": "hieronymus_ioannes_21",
+  "title": "Ioannes, Caput XXI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XXI. Bible Gateway: https://www.biblegateway.com/passage/?search=John+21&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第21章。「後記（Epilog）」と呼ばれる付加的章として、第20章v.30–31の後書きに続く形で福音書を締め括る。本章が後代の付加か最初からの計画かは聖書学の問題として未解決だが、文体・神学的内容ともにヨハネ的特質を持つ。章は三部から構成される：第一部（v.1–14）テベリア湖での魚の奇跡的漁獲と第三の顕現──「Dominus est（主だ、v.7）」という認識と炭火を囲む食事；第二部（v.15–19）ペトロへの三度の問い──「diligis me / amas me（私を愛しているか）」の反復とペトロの委託・殉教の預言；第三部（v.20–25）「愛の弟子」の運命への問いと福音書の自己言及的結語。v.15–17の「diligis me（アガパオー：神的愛で愛しているか）」と「amos me（フィレオー：親しく愛しているか）」の動詞交換は聖書学・哲学的愛の語彙論の重要な問題点として議論される。v.18「extendes manus tuas, et alius te cinget（あなたは手を伸ばし、他者があなたに帯を巻く）」という殉教の預言が、第13章v.4–5の洗足「linteum praecinxit se（帯を巻いた）」の動詞的反響として機能する。v.25「nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros（世界もそれらを収める書物を容れることができないだろう）」という書物の不可能な全体性の宣言が、コヘレト第1章「Nihil sub sole novum（太陽の下に新しいものは何もない）」と逆の方向から同一の「過剰（excès）」に向き合う。",
+  "keywords": [
+    "mare Tiberiadis",
+    "Dominus est",
+    "prunas",
+    "diligis me",
+    "Pasce agnos meos",
+    "Sequere me",
+    "愛の弟子",
+    "testimonium",
+    "libros",
+    "第三の顕現"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_ioannes_13",
+    "hieronymus_ioannes_17",
+    "hieronymus_ioannes_18",
+    "hieronymus_ioannes_19",
+    "hieronymus_ioannes_20",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "mallarme_livre_instrument",
+    "mallarme_coup_de_des",
+    "rilke_duineser_elegien_10",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Postea manifestavit se iterum Jesus discipulis ad mare Tiberiadis. Manifestavit autem sic:",
+      "provisionalTranslation": "その後、イエスはテベリア湖のほとりで再び弟子たちに御自身を現された。その顕現はこのようであった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "erant simul Simon Petrus, et Thomas, qui dicitur Didymus, et Nathanael, qui erat a Cana Galilaeae, et filii Zebedaei, et alii ex discipulis ejus duo.",
+      "provisionalTranslation": "シモン・ペトロと「双子」と呼ばれるトマス、ガリラヤのカナ出身のナタナエル、ゼベダイの子たち、それから他の二人の弟子たちが一緒にいた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Dicit eis Simon Petrus: Vado piscari. Dicunt ei: Venimus et nos tecum. Et exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt.",
+      "provisionalTranslation": "シモン・ペトロは言った。「魚を捕りに行く。」「私たちも一緒に行く。」彼らは出かけて舟に乗り込んだ。しかしその夜は何も取れなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Mane autem facto stetit Jesus in littore: non tamen cognoverunt discipuli quia Jesus est.",
+      "provisionalTranslation": "夜が明けると、イエスが岸辺に立っておられた。しかし弟子たちはそれがイエスだとは分からなかった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Dixit ergo eis Jesus: Pueri, numquid pulmentarium habetis? Responderunt ei: Non.",
+      "provisionalTranslation": "イエスは言われた。「子たちよ、何か食べるものがあるか。」「ありません。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Dicit eis: Mittite in dexteram navigii rete, et invenietis. Miserunt ergo: et jam non valebant illud trahere prae multitudine piscium.",
+      "provisionalTranslation": "「舟の右側に網を打ちなさい。そうすれば見つかる。」彼らは打った。すると魚があまりに多くて、もはやそれを引き上げることができなかった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Dixit ergo discipulus ille, quem diligebat Jesus, Petro: Dominus est. Simon Petrus cum audisset quia Dominus est, tunica succinxit se (erat enim nudus) et misit se in mare.",
+      "provisionalTranslation": "イエスが愛しておられたあの弟子がペトロに言った。「主だ。」シモン・ペトロは「主だ」と聞くと、裸だったので上着を羽織り、湖に飛び込んだ。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Alii autem discipuli navigio venerunt (non enim longe erant a terra, sed quasi cubitis ducentis), trahentes rete piscium.",
+      "provisionalTranslation": "他の弟子たちは、陸から遠くなく、おおよそ二百ペキュスほどしか離れていなかったので、魚の入った網を引きながら舟でやって来た。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ut ergo descenderunt in terram, viderunt prunas positas, et piscem superpositum, et panem.",
+      "provisionalTranslation": "陸に上がると、炭火がおこされ、その上に魚が載っており、パンがあるのを見た。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Dicit eis Jesus: Afferte de piscibus, quos prendidistis nunc.",
+      "provisionalTranslation": "イエスは言われた。「今取った魚を何匹か持って来なさい。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Ascendit Simon Petrus et traxit rete in terram, plenum magnis piscibus centum quinquaginta tribus. Et cum tanti essent, non est scissum rete.",
+      "provisionalTranslation": "シモン・ペトロが乗り込んで、百五十三匹の大きな魚でいっぱいになった網を陸に引き上げた。それほど多くても網は破れなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Dicit eis Jesus: Venite, prandete. Et nemo audebat discumbentium interrogare eum: Tu quis es? scientes, quia Dominus est.",
+      "provisionalTranslation": "イエスは言われた。「さあ、食事をしなさい。」食卓についていた者は誰も「あなたは誰ですか」と問い尋ねる勇気がなかった。主であることが分かっていたから。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et venit Jesus, et accipit panem, et dat eis, et piscem similiter.",
+      "provisionalTranslation": "イエスは来て、パンを取って彼らに渡し、魚も同じようにされた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Hoc jam tertio manifestatus est Jesus discipulis suis cum resurrexisset a mortuis.",
+      "provisionalTranslation": "これはイエスが死者の中から復活された後、弟子たちに御自身を現された三度目であった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Cum ergo prandissent, dicit Simoni Petro Jesus: Simon Joannis, diligis me plus his? Dicit ei: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos meos.",
+      "provisionalTranslation": "食事が終わると、イエスはシモン・ペトロに言われた。「ヨハネの子シモン、あなたはこれらの者以上に私を愛しているか。」「はい、主よ、私があなたを愛していることはあなたがご存知です。」「私の小羊を飼いなさい。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Dicit ei iterum: Simon Joannis, diligis me? Ait illi: Etiam Domine, tu scis quia amo te. Dicit ei: Pasce agnos meos.",
+      "provisionalTranslation": "また二度目に言われた。「ヨハネの子シモン、私を愛しているか。」「はい、主よ、私があなたを愛していることはあなたがご存知です。」「私の羊を牧しなさい。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Dicit ei tertio: Simon Joannis, amas me? Contristatus est Petrus, quia dixit ei tertio: Amas me? et dixit ei: Domine, tu omnia nosti, tu scis quia amo te. Dixit ei: Pasce oves meas.",
+      "provisionalTranslation": "三度目に言われた。「ヨハネの子シモン、私を愛しているか。」ペトロは三度「私を愛しているか」と言われたので悲しくなった。そして言った。「主よ、あなたはすべてをご存知です。私があなたを愛していることをあなたは知っておられます。」「私の羊を飼いなさい。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Amen, amen dico tibi: cum esses junior, cingebas te, et ambulabas ubi volebas: cum autem senueris, extendes manus tuas, et alius te cinget, et ducet quo tu non vis.",
+      "provisionalTranslation": "「まことにまことに言う。あなたが若かった時は、自分で帯を締めて行きたい所へ行っていた。しかし年をとると、あなたは手を伸ばし、他者があなたに帯を締め、行きたくないところへ連れて行くだろう。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei: Sequere me.",
+      "provisionalTranslation": "これは、ペトロがどのような死によって神に栄光を帰するかを示して言われたのだった。こう言ってから、「私に従いなさい」と言われた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Conversus Petrus vidit illum discipulum, quem diligebat Jesus, sequentem, qui et recubuit in coena super pectus ejus, et dixit: Domine, quis est qui tradet te?",
+      "provisionalTranslation": "振り返ると、イエスが愛しておられた弟子が従って来るのをペトロは見た。この弟子は夕食の席でイエスの胸にもたれて「主よ、あなたを裏切る者は誰ですか」と言った人である。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Hunc ergo cum vidisset Petrus, dixit Jesu: Domine, hic autem quid?",
+      "provisionalTranslation": "ペトロはこの弟子を見てイエスに言った。「主よ、この人はどうなのですか。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Dicit ei Jesus: Sic eum volo manere donec veniam, quid ad te? tu me sequere.",
+      "provisionalTranslation": "イエスは言われた。「私が来るまで彼にそのままとどまっていてほしいとしても、あなたには何の関係があるのか。あなたは私に従いなさい。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Exiit ergo sermo iste inter fratres quia discipulus ille non moritur. Et non dixit ei Jesus: Non moritur, sed: Sic eum volo manere donec veniam, quid ad te?",
+      "provisionalTranslation": "それで「あの弟子は死なない」という言葉が兄弟たちの間に広まった。しかしイエスは「死なない」とは言われず、「私が来るまで彼にそのままとどまっていてほしいとしても、あなたには何の関係があるのか」と言われたのだった。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Hic est discipulus ille qui testimonium perhibet de his, et scripsit haec: et scimus quia verum est testimonium ejus.",
+      "provisionalTranslation": "これらのことについて証しし、これらのことを書いたのがこの弟子である。そして私たちは彼の証しが真実であることを知っている。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Sunt autem et alia multa quae fecit Jesus: quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.",
+      "provisionalTranslation": "イエスがなさったことは他にも多くある。もし一つ一つ書き記すなら、世界もそれらを収める書物を容れることができないだろうと私は思う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Postea manifestavit se iterum Jesus discipulis ad mare Tiberiadis.",
+      "body": "「その後、イエスはテベリア湖のほとりで再び弟子たちに御自身を現された」──「manifestavit se（御自身を現した）」という再帰動詞の反復がこの後記章全体の基調を定める。「Postea（その後）」という時間副詞が第20章の閉じた叙述の後に、未完了の「時間の続き」を開口する。第17章v.6「Manifestavi nomen tuum（あなたの名を現した）」という「大祭司的祈り」での使命宣言が、ここで復活後の身体的「顕現（manifestatio）」として完成する。ブランショ「来るべきもの（ce qui vient）」の問題──「Postea（その後）」という時間は終わりの後に始まる余剰の時間として、「来るべき書物（Le Livre à venir）」の開かれた時間性に照応する。テベリア湖という地誌的具体性が「復活は場所を持つ」という受肉的事実性を確保する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Vado piscari. Dicunt ei: Venimus et nos tecum. Et exierunt, et ascenderunt in navim: et illa nocte nihil prendiderunt.",
+      "body": "「魚を捕りに行く──私たちも一緒に行く──その夜は何も取れなかった（nihil prendiderunt）」──「nihil（何もない）」という結果の空虚。第1章「In principio erat Verbum」から第20章「Consummatum est」まで「すべてが満ちた」後、弟子たちは日常（漁労）に戻り「nihil（何もない）」という空虚な夜に帰着する。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（太陽の下で人は労苦から何を得るのか）」という問いが、「その夜は何も取れなかった」という状況に逆照射される──しかし次節で「方向を変えること」によって「nihil」が「multitudo（多数）」へと転換される逆転が起きる。ヴェイユ「真空の受容」：空虚は神の介入のための条件として機能するという命題が、この「nihil」の夜に先行的に成立する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Dixit ergo discipulus ille, quem diligebat Jesus, Petro: Dominus est.",
+      "body": "「イエスが愛しておられたあの弟子がペトロに言った：主だ（Dominus est）」──第20章v.16「Maria」という名の呼びかけによる認識とは異なり、ここでは「愛の弟子」が「奇跡的漁獲（signum）」を媒介として「Dominus est（主だ）」と認識する。「愛の弟子」の認識が先行し、ペトロの行動が後続するという第20章v.4「praecucurrit citius Petro（より速く走った）」の構造が再現される──愛の弟子は先に「知り」、ペトロは先に「動く」。バルト「愛と認識の逆説」：最も深く愛する者は確実な証拠なしに認識できるという命題が、奇跡的漁獲という「状況の充溢」から「Dominus est」を演繹する「愛の弟子」の認識論に照応する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "viderunt prunas positas, et piscem superpositum, et panem.",
+      "body": "「炭火がおこされ、その上に魚が載っており、パンがあるのを見た」──「prunas（炭火）」という語が第18章v.18「Stabant autem servi et ministri ad prunas（僕たちや手下たちは炭火のそばに立っていた）」のペトロの三度の否認の場面と同一の語彙的条件を共有する。否認が「炭火のそば」で起きたように、赦しと委託（v.15–17）もまた「炭火（prunas）」を囲む食事の後に起きる：同一の「炭火」という感覚的要素が罪と赦しの対称的な場として機能する。ナンシー「食卓（table）の共同体」──共に食べること（prandium）が共同体の再建の場として機能する：ペトロの否認によって壊れた関係が、ここでの共食によって回復への入口を開く。バルト「身体の記憶（mémoire corporelle）」：炭火の光・魚の匂い・パンの感触という感覚的記憶が、対話（v.15–17）に先立つ身体的文脈として機能する。",
+      "targetId": "hieronymus_ioannes_18",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "plenum magnis piscibus centum quinquaginta tribus. Et cum tanti essent, non est scissum rete.",
+      "body": "「百五十三匹の大きな魚──それほど多くても網は破れなかった（non est scissum rete）」──「centum quinquaginta tres（百五十三）」という精確な数の神学的解釈は古代から多数提示されてきた（ヒエロニムス自身は当時知られていた魚の総種類数と解釈；アウグスティヌスは「三角数」＝1から17の和として数論的意義を付与）。しかしより重要なのは「non est scissum rete（網は破れなかった）」という完全性の強調：「普遍的共同体」を「破れない網」として象徴する図象として解釈される。第17章v.21「ut omnes unum sint（すべての者が一つであるように）」という祈りの物語的・視覚的完成として「破れない網の中の多様な魚」が機能する。マラルメ「書物（Le Livre）」論での「散乱する断片を一つの全体として包む」書物の理想が、「破れない網の中の百五十三匹」というイメージと照応する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Simon Joannis, diligis me plus his?",
+      "body": "「ヨハネの子シモン、あなたはこれらの者以上に私を愛しているか（diligis me plus his）」──「diligis（アガパオー）」という神的・意志的愛の動詞によるイエスの問いに対し、ペトロが「amo te（フィレオー：親しく愛している）」という友愛的動詞で応答する動詞の非対称性が第15–17節に展開される。第18章v.17・25・27でのペトロの三度の「Non sum（私は……ではない）」という否認が、ここでの三度の「amo te（私はあなたを愛している）」という愛の告白として鏡的に反転・回復される：否認の三重性が告白の三重性によって上書きされる。バルト「愛の問いの反復」──愛を問われることの繰り返しが相手を苦しめる（v.17「Contristatus est Petrus」）のは、問いが記憶と自己認識を呼び起こすからである。ヴェイユ「愛の無条件性」：「plus his（これらの者以上に）」という比較級による問いが愛の「量的比較可能性」を問うように見えるが、ペトロの応答はつねに「tu scis（あなたはご存知です）」という神の全知への委ねによって、愛の比較的定量化を回避する。",
+      "targetId": "hieronymus_ioannes_18",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Contristatus est Petrus, quia dixit ei tertio: Amas me?",
+      "body": "「ペトロは三度『私を愛しているか』と言われたので悲しくなった（Contristatus est Petrus）」──三度目の問いで「diligis（アガパオー）」からイエス自身が「amas（フィレオー）」へと動詞を下げることで、ペトロの応答の語彙水準に合わせるという神学的降下が起きる。「Contristatus（悲しくなった）」という受動語が、ペトロが問いによって自分の三度の否認の記憶へと連れ戻された内的状態を示す。ブランショ「記憶と反復」──同じ問いの三度の反復が「完全な記憶の召喚」として機能し、記憶は反復によって現在へと侵入するという時間論。「tu omnia nosti（あなたはすべてをご存知です）」というペトロの応答が「sciens omnia（すべてを知る）」という第18章冒頭のイエスの全知規定を逆照射する：知られることへの服従として。デリダ「赦し（pardon）の不可能性」：赦しえないもの（否認）に対する赦しは、それが問いの形で実践されるとき、相手に記憶の苦しみを要求するという逆説的構造。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "extendes manus tuas, et alius te cinget, et ducet quo tu non vis.",
+      "body": "「あなたは手を伸ばし、他者があなたに帯を締め、行きたくないところへ連れて行くだろう」──「extendes manus tuas（手を伸ばす）」という動詞が磔刑への照応として伝統的に解釈される。「alius te cinget（他者があなたに帯を巻く）」──第13章v.4「praecinxit se（帯を巻いた）」でイエスが洗足のために自ら帯を巻いたのに対し、ここでは「他者が帯を巻く」という受動的・強制的帯束が殉教を予告する。「ducet quo tu non vis（行きたくないところへ連れて行く）」：意志の自由（ubi volebas）から意志の剥奪（quo non vis）への移行が、第一の状態としての自律から第二の状態としての従属への人格的成熟を定義する。ヴェイユ「必然（Nécessité）と意志の放棄」──「行きたくないところへ」という強制的移動は、自己意志の放棄を通じて「必然」と合致する脱創造的運動として読める。ナンシー「他者によって動かされること（être-mû-par-l'autre）」の身体論：「alius te cinget（他者があなたに帯を締める）」という他者性による身体的拘束が、ナンシー的「接触と暴力の境界」上に位置する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Hoc autem dixit significans qua morte clarificaturus esset Deum. Et cum hoc dixisset, dicit ei: Sequere me.",
+      "body": "「ペトロがどのような死によって神に栄光を帰するかを示して──こう言ってから、『私に従いなさい』と言われた」──「clarificaturus esset Deum（神に栄光を帰する）」という殉教の定義が第1章v.1「clarifica Filium tuum（御子に栄光を）」・第13章「clarificatus est Filius hominis（人の子は栄光を受けた）」の「栄光（clarificatio）」連鎖を殉教という倫理的形式において完成させる。「Sequere me（私に従いなさい）」──第1章v.43「Sequere me」というフィリポへの最初の召命句が最後の召命として反復される：福音書の開始と終結を「従うこと（sequi）」という動詞が首尾照応的に括る。ブランショ「死への先駆（precursor ad mortem）」：死への最も固有な可能性へと先駆することが、「Sequere me」という命令の解釈的射程として機能する──死へと至るイエスに「従う」ことは死の経験への同伴として。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Sic eum volo manere donec veniam, quid ad te? tu me sequere.",
+      "body": "「私が来るまで彼にそのままとどまっていてほしいとしても、あなたには何の関係があるのか（quid ad te）──あなたは私に従いなさい」──「quid ad te?（あなたには何の関係があるのか）」という問いがペトロの「hic autem quid?（この人はどうなのですか）」への応答として鋭く機能する：他者の使命への干渉を拒否し、各人の固有の召命への帰還を促す。「donec veniam（私が来るまで）」という終末論的留保が「愛の弟子」の「とどまること（manere）」を時間的に開いたまま保持する。第14章v.23「manebit（とどまるだろう）」という「留住（manere）」の神学との照応：「来るまでとどまる」という命令が終末論的待機の倫理的形式として機能する。ブランショ「期待（attente）の時間」──待つことは来るものを早めず、来るものの到来の純粋さを保存するという時間論が、「donec veniam（私が来るまで）」という条件節の「待機」に照応する。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Hic est discipulus ille qui testimonium perhibet de his, et scripsit haec: et scimus quia verum est testimonium ejus.",
+      "body": "「これらのことについて証しし、これらのことを書いたのがこの弟子である（scripsit haec）──そして私たちは彼の証しが真実であることを知っている」──「scripsit haec（これらのことを書いた）」という自己言及的宣言によって、「愛の弟子」が語り手・著者として初めて明示的に同定される。第20章v.30「quae non sunt scripta in libro hoc（この書に記されていない）」・v.31「scripta sunt ut credatis（あなた方が信じるために書かれた）」から本節の「scripsit haec（これらのことを書いた）」への「書くこと（scribere）」の三段階の言及が、書物の自己根拠化を達成する。「et scimus quia verum est（私たちは真実であることを知っている）」──「scimus（私たちは知っている）」という一人称複数が「著者の共同体」を示唆する：証人・書き手・読者の共同体が「私たちは知っている」という発語において成立する。デリダ「著者の署名（signature）と証言」：「scripsit haec」という自己言及的署名は通常の署名とは異なり、書かれたテキストの内部に埋め込まれた「内在的署名」として機能し、テキストがその著者について語るという自己再帰的構造を持つ。ブランショ「証人と書き手の一致不可能性」：証言する者と書く者は同一の行為の内で分裂するという命題が、「testimonium perhibet … et scripsit haec（証しし……書いた）」という二動詞の並置に照応する。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Sunt autem et alia multa quae fecit Jesus: quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros.",
+      "body": "「世界もそれらを収める書物を容れることができないだろう（nec ipsum arbitror mundum capere posse eos, qui scribendi sunt, libros）」──ヨハネ福音書の最終節にして、ヨハネ全体の「書くこと」の営みへの最後の自己言及。「世界（mundus）」が「書物（libri）」を「容れられない（capere non posse）」という逆説的大小関係：書かれるべきものの無限性が「世界」という最大の容れ物を超える。コヘレト第1章「Nihil sub sole novum（太陽の下に新しいものは何もない）」との根本的な対立：コヘレトが「太陽の下」の世界の閉鎖的循環性を宣言するのに対し、ヨハネはここで「太陽の下の世界」が収められない「過剰（excès）」を宣言する。マラルメ「書物（Le Livre）」論での究極の書物の夢──すべてを包含する書物の不可能性が、「世界も容れられない」という逆説的定式の照応として機能する：マラルメが書物の「全体性（totalité）」を目指して失敗するように、ヨハネは世界を超える「多さ」の前で書くことの不完全性を認める。ブランショ「書くことの不可能性」──書物は常に書かれるべきものの残余を持ち、完結することなく「来るべき書物（Le Livre à venir）」へと向かう：「alia multa quae fecit Jesus（イエスがなさった他の多くのこと）」という余剰が「来るべき書物」の無限の可能性として開かれたまま残る。デリダ「アーカイブの熱（Mal d'archive）」：「scribantur per singula（一つ一つ書き記すなら）」という極限的書記行為の想定が、アーカイブの「すべてを保存しようとする欲動（pulsion d'archive）」とその不可能性を照射する。第1章「In principio erat Verbum（初めに言葉があった）」から本節「qui scribendi sunt, libros（書かれるべき書物）」まで──ヨハネ福音書は「言葉（Verbum）」の到来を「書物（libri）」という形式で受け取り、その受け取りの不完全性を最後の節で自ら告白することで、「書くこと」の倫理的謙虚さと開かれた未来性のうちに終わる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    }
+  ]
+}
