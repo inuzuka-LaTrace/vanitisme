@@ -1,0 +1,491 @@
+{
+  "id": "hieronymus_ioannes_01",
+  "title": "Ioannes, Caput I",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput I. Bible Gateway: https://www.biblegateway.com/passage/?search=John+1&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書（Evangelium Secundum Ioannem）第1章。ヨハネ福音書はマタイ・マルコ・ルカの共観福音書と異なり、哲学的・神学的密度が際立って高い。冒頭プロローグ（v.1–18）は「In principio erat Verbum（初めに言葉があった）」という命題で始まり、創世記第1章「In principio creavit Deus caelum et terram」の言葉的反響を持つ。「Verbum（ロゴス）」はヘレニズム哲学（ストア哲学・フィロン）とヘブライ思想の交差点に位置する概念であり、宇宙的原理としての神の「言葉」が肉体として歴史の中に現れるという「受肉（Incarnatio）」の神学的宣言がv.14「Et Verbum caro factum est」において頂点に達する。プロローグは初代教会の讃歌（ヒュムノス）が福音書記者によって編集されたと解される。v.19以降は洗礼者ヨハネの証言と最初の弟子たちの召命を散文的に語る。ヒエロニムスのラテン語訳は「Verbum」という選択によって、ギリシア語「λόγος（ロゴス）」を哲学的精密さをもってラテン語世界に伝達し、以後の西洋哲学・神学・文学における「言語・書くこと・沈黙」の問題系の出発点となった。収録予定章：第1章（プロローグ・最初の証言・最初の弟子たち）・第11章（ラザロの復活）・第13章（最後の晩餐・足の洗い）・第17章（大祭司的祈り）・第18章（逮捕・裁判）・第19章（受難・死・埋葬）・第20章（復活・マリア・トマス）・第21章（ガリラヤ湖岸の顕現・結語）。",
+  "keywords": [
+    "Verbum",
+    "In principio",
+    "ロゴス",
+    "Incarnatio",
+    "受肉",
+    "lux et tenebrae",
+    "agnus Dei",
+    "testimonium",
+    "言葉と沈黙",
+    "ウルガータ"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "hieronymus_psalm_21",
+    "mallarme_coup_de_des",
+    "mallarme_livre_instrument",
+    "mallarme_mystere",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "weil_atheisme_purificateur",
+    "trakl_de_profundis",
+    "rilke_duineser_elegien_01",
+    "hoelderlin_brot_und_wein",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.",
+      "provisionalTranslation": "初めに言葉があった。言葉は神のもとにあった。言葉は神であった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Hoc erat in principio apud Deum.",
+      "provisionalTranslation": "この言葉は初めに神のもとにあった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Omnia per ipsum facta sunt: et sine ipso factum est nihil, quod factum est.",
+      "provisionalTranslation": "すべてのものは言葉を通して造られた。言葉なしには、造られたもののうちで何も造られなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "In ipso vita erat, et vita erat lux hominum:",
+      "provisionalTranslation": "言葉の中に命があった。命は人の光であった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et lux in tenebris lucet, et tenebrae eam non comprehenderunt.",
+      "provisionalTranslation": "光は暗闇の中で輝く。暗闇はそれを理解しなかった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Fuit homo missus a Deo, cui nomen erat Joannes.",
+      "provisionalTranslation": "神から遣わされた人がいた。その名はヨハネであった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Hic venit in testimonium ut testimonium perhiberet de lumine, ut omnes crederent per illum.",
+      "provisionalTranslation": "この人は証しのためにやって来た。光について証しするために、すべての人が彼を通して信じるように。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Non erat ille lux, sed ut testimonium perhiberet de lumine.",
+      "provisionalTranslation": "彼は光ではなかった。ただ光について証しするためにあった。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Erat lux vera, quae illuminat omnem hominem venientem in hunc mundum.",
+      "provisionalTranslation": "この世に来るすべての人を照らす、真の光があった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "In mundo erat, et mundus per ipsum factus est, et mundus eum non cognovit.",
+      "provisionalTranslation": "言葉は世にあった。世は言葉を通して造られた。しかし世は言葉を認識しなかった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "In propria venit, et sui eum non receperunt.",
+      "provisionalTranslation": "言葉はご自分のもののもとに来た。しかし自分のものたちは受け入れなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui credunt in nomine ejus:",
+      "provisionalTranslation": "しかし受け入れた者すべてに、神の子となる権能を与えた。その名を信じる者たちに。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt.",
+      "provisionalTranslation": "この人たちは血によってでも、肉の意志によってでも、男の意志によってでもなく、神から生まれた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et Verbum caro factum est, et habitavit in nobis: et vidimus gloriam ejus, gloriam quasi unigeniti a Patre plenum gratiae et veritatis.",
+      "provisionalTranslation": "そして言葉は肉となり、私たちの間に宿った。私たちは父の独り子としての栄光、恵みと真理に満ちた栄光を見た。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Joannes testimonium perhibet de ipso, et clamat dicens: Hic erat quem dixi: Qui post me venturus est, ante me factus est: quia prior me erat.",
+      "provisionalTranslation": "ヨハネは彼について証しして叫ぶ。「これが私の言った方だ。私の後に来る方は私より先におられた。私より先に存在しておられたから。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et de plenitudine ejus nos omnes accepimus, et gratiam pro gratia:",
+      "provisionalTranslation": "そして私たちはみな、その満ちたるものから受けた。恵みの上に恵みを。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "quia lex per Moysen data est, gratia et veritas per Jesum Christum facta est.",
+      "provisionalTranslation": "律法はモーセを通して与えられた。恵みと真理はイエス・キリストを通して実現した。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Deum nemo vidit umquam: unigenitus Filius, qui est in sinu Patris, ipse enarravit.",
+      "provisionalTranslation": "神を見た者はかつて誰もいない。父のふところにある独り子の御子が、語り明かしてくださった。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et hoc est testimonium Joannis, quando miserunt Judaei ab Jerosolymis sacerdotes et Levitas ad eum ut interrogarent eum: Tu quis es?",
+      "provisionalTranslation": "これがヨハネの証しである。ユダヤ人たちがエルサレムから祭司とレビ人を遣わして問わせたとき。「あなたは誰ですか。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et confessus est, et non negavit, et confessus est: Quia non sum ego Christus.",
+      "provisionalTranslation": "彼は告白して、否定せず、告白した。「私はキリストではない。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Et interrogaverunt eum: Quid ergo? Elias es tu? Et dixit: Non sum. Propheta es tu? Et respondit: Non.",
+      "provisionalTranslation": "「では何か。あなたはエリアですか。」「違う。」「あなたは預言者ですか。」「いや。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Dixerunt ergo ei: Quis es ut responsum demus his qui miserunt nos? quid dicis de teipso?",
+      "provisionalTranslation": "「あなたは誰か、私たちを遣わした者たちに返答できるように。自分について何と言いますか。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Ait: Ego vox clamantis in deserto: Dirigite viam Domini, sicut dixit Isaias propheta.",
+      "provisionalTranslation": "「私は荒れ野で叫ぶ声だ。主の道を真っ直ぐにせよ、とイザヤ預言者が言ったように。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Et qui missi fuerant, erant ex pharisaeis.",
+      "provisionalTranslation": "遣わされた者たちはファリサイ人の中からであった。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Et interrogaverunt eum, et dixerunt ei: Quid ergo baptizas, si tu non es Christus, neque Elias, neque propheta?",
+      "provisionalTranslation": "「では何故洗礼を授けるのか、もしあなたがキリストでも、エリアでも、預言者でもないなら。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Respondit eis Joannes, dicens: Ego baptizo in aqua: medius autem vestrum stetit, quem vos nescitis.",
+      "provisionalTranslation": "ヨハネは答えた。「私は水で洗礼を授ける。しかしあなた方の真ん中に、あなた方が知らない方が立っておられる。」"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Ipse est qui post me venturus est, qui ante me factus est: cujus ego non sum dignus ut solvam ejus corrigiam calceamenti.",
+      "provisionalTranslation": "この方は私の後に来る方で、私より先におられた。私はその方の靴の紐を解く値打ちもない。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Haec in Bethania facta sunt trans Jordanem, ubi erat Joannes baptizans.",
+      "provisionalTranslation": "これはヨルダンの向こうのベタニアで起こった。ヨハネが洗礼を授けていたところで。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Altera die vidit Joannes Jesum venientem ad se, et ait: Ecce agnus Dei, ecce qui tollit peccatum mundi.",
+      "provisionalTranslation": "翌日、ヨハネはイエスが自分の方に来るのを見て言った。「見よ、神の小羊。世の罪を取り去る方を。」"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Hic est de quo dixi: Post me venit vir qui ante me factus est: quia prior me erat:",
+      "provisionalTranslation": "「この方が、私が言った方だ。私の後に来る方は私より先におられた。私より先に存在しておられたから。」"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "et ego nesciebam eum, sed ut manifestetur in Israel, propterea veni ego in aqua baptizans.",
+      "provisionalTranslation": "「私はこの方を知らなかった。しかしイスラエルにこの方が現れるために、私は水で洗礼を授けにきた。」"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Et testimonium perhibuit Joannes, dicens: Quia vidi Spiritum descendentem quasi columbam de caelo, et mansit super eum.",
+      "provisionalTranslation": "ヨハネは証しして言った。「霊が鳩のように天から降り、この方の上にとどまるのを見た。」"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Et ego nesciebam eum: sed qui misit me baptizare in aqua, ille mihi dixit: Super quem videris Spiritum descendentem, et manentem super eum, hic est qui baptizat in Spiritu Sancto.",
+      "provisionalTranslation": "「私はこの方を知らなかった。しかし水で洗礼を授けるよう私を遣わされた方が言われた。霊が降り、その上にとどまるのを見る者、その人こそが聖霊で洗礼を授ける方だ、と。」"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "Et ego vidi: et testimonium perhibui quia hic est Filius Dei.",
+      "provisionalTranslation": "「私は見た。そしてこの方が神の子であると証しした。」"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "Altera die iterum stabat Joannes, et ex discipulis ejus duo.",
+      "provisionalTranslation": "翌日、またヨハネは立っていた。弟子のうちの二人と一緒に。"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Et respiciens Jesum ambulantem, dicit: Ecce agnus Dei.",
+      "provisionalTranslation": "歩いておられるイエスを見つめて言った。「見よ、神の小羊。」"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Et audierunt eum duo discipuli loquentem, et secuti sunt Jesum.",
+      "provisionalTranslation": "二人の弟子は彼が言うのを聞いて、イエスに従った。"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Conversus autem Jesus, et videns eos sequentes se, dicit eis: Quid quaeritis? Qui dixerunt ei: Rabbi (quod dicitur interpretatum Magister), ubi habitas?",
+      "provisionalTranslation": "イエスは振り向き、彼らが従ってくるのを見て言われた。「何を求めているのか。」「ラビ（訳せば師よ）、どこに住んでおられますか。」"
+    },
+    {
+      "id": 39,
+      "verses": "v.39",
+      "original": "Dicit eis: Venite et videte. Venerunt, et viderunt ubi maneret, et apud eum manserunt die illo: hora autem erat quasi decima.",
+      "provisionalTranslation": "「来て、見なさい。」彼らは来て、どこに滞在されているかを見た。そしてその日、彼のもとにとどまった。時はおよそ第十の刻（午後四時頃）であった。"
+    },
+    {
+      "id": 40,
+      "verses": "v.40",
+      "original": "Erat autem Andreas, frater Simonis Petri, unus ex duobus qui audierant a Joanne, et secuti fuerant eum.",
+      "provisionalTranslation": "ヨハネから聞いてイエスに従った二人のうちの一人はアンデレ、シモン・ペトロの兄弟であった。"
+    },
+    {
+      "id": 41,
+      "verses": "v.41",
+      "original": "Invenit hic primum fratrem suum Simonem, et dicit ei: Invenimus Messiam (quod est interpretatum Christus).",
+      "provisionalTranslation": "アンデレはまず自分の兄弟シモンを見つけて言った。「メシア（訳せばキリスト）を見つけた。」"
+    },
+    {
+      "id": 42,
+      "verses": "v.42",
+      "original": "Et adduxit eum ad Jesum. Intuitus autem eum Jesus, dixit: Tu es Simon, filius Jona; tu vocaberis Cephas, quod interpretatur Petrus.",
+      "provisionalTranslation": "シモンをイエスのもとに連れて行った。イエスは彼を見つめて言われた。「あなたはヨナの子シモン。あなたはケファ（訳せばペトロ）と呼ばれるだろう。」"
+    },
+    {
+      "id": 43,
+      "verses": "v.43",
+      "original": "In crastinum voluit exire in Galilaeam, et invenit Philippum. Et dicit ei Jesus: Sequere me.",
+      "provisionalTranslation": "翌日、ガリラヤへ行こうとされた。フィリポを見つけた。イエスは言われた。「私に従いなさい。」"
+    },
+    {
+      "id": 44,
+      "verses": "v.44",
+      "original": "Erat autem Philippus a Bethsaida, civitate Andreae et Petri.",
+      "provisionalTranslation": "フィリポはベトサイダの出身で、アンデレとペトロの町の人であった。"
+    },
+    {
+      "id": 45,
+      "verses": "v.45",
+      "original": "Invenit Philippus Nathanael, et dicit ei: Quem scripsit Moyses in lege, et prophetae, invenimus Jesum filium Joseph a Nazareth.",
+      "provisionalTranslation": "フィリポはナタナエルを見つけて言った。「モーセが律法に記し、預言者たちも書いた方を見つけた。ナザレのヨセフの子イエスだ。」"
+    },
+    {
+      "id": 46,
+      "verses": "v.46",
+      "original": "Et dixit ei Nathanael: A Nazareth potest aliquid boni esse? Dicit ei Philippus: Veni et vide.",
+      "provisionalTranslation": "「ナザレから何か良いものが出るだろうか。」「来て、見なさい。」"
+    },
+    {
+      "id": 47,
+      "verses": "v.47",
+      "original": "Vidit Jesus Nathanael venientem ad se, et dicit de eo: Ecce vere Israelita, in quo dolus non est.",
+      "provisionalTranslation": "イエスはナタナエルが来るのを見て、彼について言われた。「見よ、真のイスラエル人だ。この人の中には偽りがない。」"
+    },
+    {
+      "id": 48,
+      "verses": "v.48",
+      "original": "Dicit ei Nathanael: Unde me nosti? Respondit Jesus, et dixit ei: Priusquam te Philippus vocavit, cum esses sub ficu, vidi te.",
+      "provisionalTranslation": "「どこで私をご存知なのですか。」「フィリポがあなたを呼ぶ前に、無花果の木の下にいたあなたを、私は見ていた。」"
+    },
+    {
+      "id": 49,
+      "verses": "v.49",
+      "original": "Respondit ei Nathanael, et ait: Rabbi, tu es Filius Dei, tu es rex Israel.",
+      "provisionalTranslation": "「ラビ、あなたは神の子です。あなたはイスラエルの王です。」"
+    },
+    {
+      "id": 50,
+      "verses": "v.50",
+      "original": "Respondit Jesus, et dixit ei: Quia dixi tibi: Vidi te sub ficu, credis; majus his videbis.",
+      "provisionalTranslation": "「無花果の木の下であなたを見たと言ったから信じるのか。これより大きなことを見るだろう。」"
+    },
+    {
+      "id": 51,
+      "verses": "v.51",
+      "original": "Et dicit ei: Amen, amen dico vobis, videbitis caelum apertum, et angelos Dei ascendentes, et descendentes supra Filium hominis.",
+      "provisionalTranslation": "「まことにまことに言う。天が開け、神の天使たちが人の子の上に昇り降りするのをあなた方は見るだろう。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "In principio erat Verbum",
+      "body": "「初めに言葉があった」──ヨハネ福音書の開口命題にして西洋精神史全体の出発点のひとつ。「In principio（初めに）」は創世記第1章「In principio creavit Deus caelum et terram」の意図的な反響であり、ヨハネはイエス・キリストの到来を「第二の創造」として位置づける。「Verbum（言葉）」はギリシア語原典の「λόγος（ロゴス）」のヒエロニムス訳。ストア哲学の宇宙的理性原理・フィロンの「ロゴス」論とヘブライの「ダバール（神の言葉＝行為的力）」の交差点に立つ概念。ハイデガー『言葉への途上（Unterwegs zur Sprache）』は「言語は存在の家である」と述べるが、ヨハネの「Verbum」はその「家」が人格的・神学的実体として宇宙の起源そのものであるという命題である。「erat（あった）」という半過去形──「あった・存在していた・常にあった」という未完了的存在の永続性が、「造られた（factum est）」という創造の完了形（v.3）と鋭く対比される。マラルメ「骰子一擲（Un Coup de Dés）」が「初め（commencement）」のない偶然に向き合うことで「Verbum」の起源的確実性を逆照射する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "et Deus erat Verbum.",
+      "body": "「言葉は神であった」──この同一化命題が「受肉（Incarnatio）」神学の論理的前提となる。ジャン＝リュック・ナンシー『コルプス（Corpus）』において、「神の身体」という問題は「書くこと（écriture）と身体の不可分性」の問いへと変換される：書かれた言葉が身体を持つ（Verbum caro factum est）という出来事は、ナンシーにとって「意味の身体的刻印（inscription）」の原型的モデルとなる。ヴェイユ「脱創造（Décréation）」章でのキリストの「自己放棄（kénose）」──神が神であることを手放して被造物となるという運動──がv.1の「神であった言葉」とv.14の「肉となった言葉」の間の神学的緊張に対応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sine ipso factum est nihil, quod factum est.",
+      "body": "「言葉なしには何も造られなかった」──「nihil（無・何もない）」という語がコヘレト的「vanitas」の文脈において特別な反響を持つ。コヘレト第1章「omnia vanitas」の「すべては空虚」が被造物の無意味を語るのに対し、ここでの「nihil」は「言葉なき被造物」の不可能性を通じて、すべての存在が「言葉の内に」根拠を持つことを積極的に宣言する。ハイデガー「存在と時間（Sein und Zeit）」における「無（Nichts）」の現象学的役割──「不安（Angst）」において開示される「無」が存在の根拠として機能するという論理──が、ヨハネのこの「nihil」の逆転的肯定と哲学的に対話する。マラルメ「空虚（le néant）」との対決──「骰子一擲」においてマラルメが「Rien n'aura eu lieu que le lieu（場所以外何も起きなかっただろう）」と書くとき、その「Rien（何もない）」はヨハネのこの「nihil」と同じ深淵を指すが、ロゴスという根拠を持たない「無」として提示される。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "vita erat lux hominum",
+      "body": "「命は人の光であった」──「vita（命）」と「lux（光）」の同一化。ヨハネ福音書全体の「光と闇」の二元論的主題系の初出。ヘブライ思想において「光（אוֹר／or）」は神の現前の象徴であり、創世記「Fiat lux（光あれ）」が「言葉」による最初の創造行為であったことと照応する。v.5「lux in tenebris lucet（光は暗闇の中で輝く）」・第8章「Ego sum lux mundi（私は世の光である）」・第12章「Ego lux in mundum veni（私は光として世に来た）」へと連鎖する第一の「光」の確立。ヴェイユ「美（Beauté）」章での「美は神の愛の輝き」という命題が、この「命は光」という等式の神秘主義的展開として読める。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "lux in tenebris lucet, et tenebrae eam non comprehenderunt.",
+      "body": "「光は暗闇の中で輝く。暗闇はそれを理解しなかった」──「comprehenderunt（理解した／把握した）」はギリシア語「κατέλαβεν（カテラベン）」の訳で「捕らえた・征服した・理解した」の多義性を持つ。闇が光を「理解しなかった」のか「消し去れなかった」のか──両義性がヒエロニムスのラテン語訳に保存される。ブランショ『文学空間（L'Espace littéraire）』における「夜（nuit）の二重性」──日常の闇（理解可能な不在）と「もう一つの夜（l'autre nuit）」（理解を根本的に拒む闇）──がこの「tenebrae non comprehenderunt」の哲学的展開として読める。ブランショにとって「書くこと」は常にこの「もう一つの夜」の中で行われ、光が闇に「理解されない」ように、書かれたものは書いた者自身によって完全には把握されない。トラークル「De Profundis」の「光と夜」の緊張との照応。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Non erat ille lux, sed ut testimonium perhiberet de lumine.",
+      "body": "「彼は光ではなかった──ただ光について証しするためにあった」──証人（testis）の存在論的定義。洗礼者ヨハネは「光でない者」として定義されることで、その機能が「証言（testimonium）」に純化される。ブランショ『語りの声（La Voix narrative）』における「中性的な語り手（narateur neutre）」──物語を語る声は物語の外にあり、自らは物語の中の主体として出現しないという語りの倫理──が、ヨハネの「光でない証人」の構造と照応する。マラルメ「書物（Le Livre）」論でのマラルメ自身の「消失（disparition élocutoire）」──詩人は自らを消し去り、言葉そのものを主体として立てるという詩学──が、ここでの「光でない証人」のあり方と平行する。ナンシー『コルプス』での「皮膚（peau）」の概念──身体の表面が「接触（contact）」の場所であって光そのものではないという論──との共鳴。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "mundus eum non cognovit.",
+      "body": "「世は言葉を認識しなかった」──「cognovit（認識した）」はギリシア語「ἔγνω（エグノー）」の完了形。世が言葉によって造られたにもかかわらず、世は言葉の言葉たるゆえんを認識しなかったという根源的な「認識の失敗」。ヘルダーリン「パンと葡萄酒（Brot und Wein）」第7連「warum schweigen auch sie, die alten heiligen Theater?（なぜ古い神聖な劇場も沈黙するのか）」──神々の退去後、世界に現前していた「ロゴス」的なものが認識されなくなるという喪失の構造と照応する。ヴェイユ「脱創造」章での「世界の美しさは神が隠されている場所である」──神が被造物に内在しながらも認識されないという隠れた神（Deus absconditus）の主題の新約的先行形として。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "In propria venit, et sui eum non receperunt.",
+      "body": "「言葉はご自分のもののもとに来た。しかし自分のものたちは受け入れなかった」──最も短い節のひとつが最大の神学的逆説を述べる。「propria（固有のもの）」と「sui（自分のもの）」の二語が「来る（venit）」と「受け入れなかった（non receperunt）」という動詞の間で緊張する。リルケ「ドゥイノの悲歌（Duineser Elegien）」第1章冒頭「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（私が叫んでも、天使の序列のうちの誰が私を聞くだろうか）」──呼びかけが応答されないという構造的孤独と照応。ブランショ『期待・忘却（L'Attente l'oubli）』における「来ること（venir）」と「受け取り（accueil）」の問題──他者の到来が常に「受け取れない」地点で起きるという倫理的非対称性──がこの節の哲学的展開として読める。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt.",
+      "body": "「血によってでも、肉の意志によってでも、男の意志によってでもなく、神から生まれた」──三重の否定による「神からの誕生」の定義。「sanguinibus（血々）」の複数形はラテン語独特の表現でヘブライ語的複数「דָּמִים（damim）」の反映──血統・家系・民族的帰属を通じた誕生の全面的否定。ヴェイユ「必然（Nécessité）」章での「超自然的恩寵は自然の法則（必然性）を超える」という命題──「血・肉・男の意志」がすべて「自然の必然性」の領域に属するのに対し、「神から生まれること」は必然性を超えた恩寵の領域への参入を指す。ナンシー『コルプス』における「誕生（naissance）」の身体論──誕生は身体が「外部（dehors）」に露出することとして、この「神からの誕生」は身体的誕生の論理を根本的に転換するものとして対照される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et Verbum caro factum est, et habitavit in nobis",
+      "body": "「言葉は肉となり、私たちの間に宿った」──ヨハネ福音書プロローグの頂点命題であり、キリスト教神学全体の中心命題。「caro（肉）」はギリシア語「σάρξ（サルクス）」の訳──「身体（soma）」ではなく「肉（sarx）」の選択が重要：「肉」は弱さ・有限性・死すべき性質を持つ人間的実質を指す。「factum est（なった）」──v.3の「facta sunt（造られた）」と同じ動詞だが、ここでは神的主語に適用される逆説的な「生成（fieri）」。ナンシー『コルプス』の中心命題「身体は意味の場（lieu du sens）である」がここに聖書的根拠を持つ：「Verbum caro factum est」は意味（Verbum＝ロゴス）が身体（caro）として存在することの原型的宣言。ハイデガー「物（Das Ding）」講演における「宿ること（wohnen）」──「habitavit in nobis（私たちの間に宿った）」の「habitavit」は「住む・宿る・滞在する」を意味し、ハイデガーの「住まうこと（Wohnen）」が存在の基本様式であるという論との照応。ヴェイユ「脱創造（Décréation）」における「ケノーシス（κένωσις）」──神の自己縮減・自己放棄によって空間（vide）を作り出し、被造物がそこに宿るという運動の逆像として、「言葉が肉に宿る」受肉が読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "intertextual",
+      "anchor": "gloriam quasi unigeniti a Patre plenum gratiae et veritatis.",
+      "body": "「父の独り子としての栄光、恵みと真理に満ちた」──「gloria（栄光）」はヘブライ語「כָּבוֹד（kavod）」のラテン語訳で「重さ・威厳・輝き」を指す。ダンテ『神曲』天国篇第1歌冒頭「La gloria di colui che tutto move / per l'universo penetra（すべてを動かす方の栄光は宇宙を貫く）」はこの「gloria」概念の詩的展開として読める。ヴェイユ「美（Beauté）」章での「美は神の臨在の輝き（reflet de la beauté de Dieu）」という命題が「gloria」の審美的翻訳として位置づけられる。",
+      "targetId": "dante_paradiso_canto_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "gratia et veritas per Jesum Christum facta est.",
+      "body": "「恵みと真理はイエス・キリストを通して実現した」──律法（Lex）と恵み（Gratia）の対照。モーセの律法は「与えられた（data est）」のに対し、恵みと真理は「実現した（facta est）」──後者の「fieri（なる）」は受肉の動詞（v.14）と同じ語根。「veritas（真理）」はヘブライ語「אֱמֶת（emet）」の訳で「誠実さ・確かさ・信頼」という関係的概念を持つ。ハイデガー「真理の本質について（Vom Wesen der Wahrheit）」での「アレーテイア（ἀλήθεια）」──「覆いを取り除くこと・顕わになること」としての真理概念が、「恵みと真理が実現した」という人格的真理の到来の構造と対話する。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Deum nemo vidit umquam: unigenitus Filius, qui est in sinu Patris, ipse enarravit.",
+      "body": "「神を見た者はかつて誰もいない。父のふところにある独り子の御子が、語り明かしてくださった」──プロローグの結語。「nemo vidit umquam（誰も見たことがない）」という絶対的不可視性の宣言と、「enarravit（語り明かした）」という語り・解釈の行為による「不可視の可視化」の逆説。「enarravit」はギリシア語「ἐξηγήσατο（エクセーゲーサト）」の訳──「詳しく語る・解釈する・案内する」を意味し、「釈義（exegesis）」という聖書解釈学の術語の語源。ブランショ『来るべき書物（Le Livre à venir）』における「語ること（parler）」の根本的問題──「神が自ら語らない」ところで言葉が成立するという逆説的語りの構造。ヴェイユ「神の愛と苦難（L'Amour de Dieu et le malheur）」での「神の沈黙（silence de Dieu）」──神が不可視・沈黙であるゆえに、その「語り」はキリストという受肉した言葉を通じてのみ可能になるという神学的論理。マラルメ「神秘（Le Mystère dans les lettres）」での「言葉は自らの沈黙において意味する」という詩学が、「神を誰も見たことがない」という神的沈黙と「語り明かした」という言語的顕現の間の緊張と共鳴する。",
+      "targetId": "mallarme_mystere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Et confessus est, et non negavit, et confessus est: Quia non sum ego Christus.",
+      "body": "「告白して、否定せず、告白した：私はキリストではない」──三重の構文（告白・否定・告白）が強調する自己否定の形式。ヨハネの証言は何者「である（est）」かの宣言ではなく、何者「でない（non sum）」かの否定的宣言として始まる。ブランショの「非人称的な書き手（l'écrivain impersonnel）」──書き手は自己を主張することなく、言葉が通過する透明な媒体として機能するという詩学的倫理──がヨハネの「Non sum ego（私は……ではない）」という自己縮減の語りと照応する。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "glossary",
+      "anchor": "Ego vox clamantis in deserto",
+      "body": "「私は荒れ野で叫ぶ声だ」──イザヤ書第40章v.3「Vox clamantis in deserto: parate viam Domini（荒れ野で叫ぶ声：主の道を備えよ）」の引用。洗礼者ヨハネが自らを固有名を持つ「人格」ではなく「声（vox）」として定義する。「声（vox）」は「言葉（Verbum）」に対する機能的・従属的存在：声は消えるが言葉は残る。ブランショ「文学空間」における「詩的声（la voix poétique）」──声は発話の瞬間に消え去り、書かれた言葉にその「痕跡（trace）」を残す。ナンシー『歌の分有（À l'écoute）』における「声と聴くこと」の現象学との共鳴。ヴェルレーヌ「詩法（Art Poétique）」の「声（voix）は意味より音楽を優先する」という詩学的命題が、ここでは神学的文脈で「声は固有の意味を持たず、指示する」という構造として先取りされる。"
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Ecce agnus Dei, ecce qui tollit peccatum mundi.",
+      "body": "「見よ、神の小羊。世の罪を取り去る方を」──「Ecce（見よ）」という命令形の指示詞が洗礼者ヨハネの証言の頂点をなす。「agnus Dei（神の小羊）」は旧約聖書の「過越の小羊（Agnus Paschalis）」・イザヤ書第53章「屠り場に引かれる小羊（quasi agnus ad occisionem ductus）」のモチーフを統合する犠牲的象徴。「tollit peccatum mundi（世の罪を取り去る）」──「tollit」は現在形で進行中の行為を示す。ヒエロニムス訳のこの語は典礼文「Agnus Dei, qui tollis peccata mundi（世の罪を取り去る神の小羊）」として典礼聖歌corpus（liturgy_agnus_dei）に流通する。ヴェイユ「苦難と十字架（La Violence）」章での「贖罪的苦難」の神学との直接的接続。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "Quid quaeritis?",
+      "body": "「何を求めているのか」──ヨハネ福音書における最初のイエスの言葉。第18章v.4・v.7「Quem quaeritis?（誰を求めているのか）」で逮捕の場面において反響する。「quaerere（求める・探す）」はコヘレト第1章v.13「proposui in animo meo quaerere et investigare sapienter（知恵をもって探求し調査することを定めた）」の動詞と同じ語根──コヘレトが太陽の下の「すべてを求める」という無限の探求の身振りが、ここではイエスによる問いかけに反転される。"
+    },
+    {
+      "paragraphId": 39,
+      "type": "commentary",
+      "anchor": "Venite et videte.",
+      "body": "「来て、見なさい」──ヨハネ福音書の中心的招待句。v.46「Veni et vide（来て、見なさい）」でフィリポがナタナエルに向けて反響させる。第11章v.34「Venite et videte（来て、見なさい）」ではイエスがラザロの墓に向かう場面で用いられる。「videre（見ること）」はヨハネ福音書全体を貫くモチーフ：神学的には「見ること（visio）」が「認識・信仰」と同義として機能する。ハイデガー「アレーテイア（顕れ）」の概念──「見ること」が対象の「顕わになること」に参与するという現象学的視点。"
+    },
+    {
+      "paragraphId": 42,
+      "type": "glossary",
+      "anchor": "tu vocaberis Cephas, quod interpretatur Petrus.",
+      "body": "「あなたはケファと呼ばれるだろう（訳せばペトロ）」──命名行為。「岩（ケファ：アラム語、ペトロス：ギリシア語、ペトルス：ラテン語）」という名が付与されることで、シモンという固有名が新たな使命を指示する名へと変換される。名を与えること（Nominatio）が人格の再創造として機能するという聖書的命名論の典型例。v.1「In principio erat Verbum」から始まる「言葉の創造的力」が、個人への命名という行為においてミクロコスモス的に再現される。"
+    },
+    {
+      "paragraphId": 51,
+      "type": "commentary",
+      "anchor": "videbitis caelum apertum, et angelos Dei ascendentes, et descendentes supra Filium hominis.",
+      "body": "「天が開け、神の天使たちが人の子の上に昇り降りするのをあなた方は見るだろう」──創世記第28章v.12「ヤコブの梯子（scala Jacob）」のモチーフ：ヤコブが夢に見た天と地を結ぶ梯子の上を天使たちが昇り降りするヴィジョンを、イエスが自らの身体へと置き換える。「Filius hominis（人の子）」──アラム語「בַּר אֱנָשׁ（Bar Enash）」。「人の子」という称号が「天と地の接合点（medium）」として機能する。第1章の結語がダンテ『神曲』天国篇の「天使と聖人の薔薇の座」という上昇・下降のヴィジョンの聖書的先行形として位置づけられる。リルケ「ドゥイノの悲歌」における天使の問題──「昇り降りする天使」への呼びかけが常に応答されないという存在論的孤独と、ここでの「天使が人の子の上を昇り降りする」という接触の約束が対照される。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": null
+    }
+  ]
+}
