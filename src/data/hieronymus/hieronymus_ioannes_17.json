@@ -1,0 +1,297 @@
+{
+  "id": "hieronymus_ioannes_17",
+  "title": "Ioannes, Caput XVII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XVII. Bible Gateway: https://www.biblegateway.com/passage/?search=John+17&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第17章。「大祭司の祈り（Oratio Sacerdotalis）」と呼ばれる章で、最後の晩餐から受難へと向かう転換点に位置する。全26節が一つの祈りの言葉として構成され、ヨハネ福音書の神学的核心を圧縮する。章は三部に分かれる：第一部（v.1–8）はイエスが自らのために祈る──「栄光（gloria/claritas）」の相互的与授；第二部（v.9–19）は弟子たちのための祈り──世にありながら世に属さない者たちの「聖別（sanctificatio）」；第三部（v.20–26）は「信じる者すべて」のための祈り──「ut omnes unum sint（すべての者が一つであるように）」という一致の祈り。v.3「vita aeterna（永遠の命）」を「神とイエス・キリストを知ること（cognoscant）」として定義するヨハネ独自の認識論的定義が章全体の哲学的基盤をなす。v.5「claritate quam habui priusquam mundus esset（世界が存在する以前から持っていた栄光）」という「世界以前の栄光」の命題は、第1章v.1「In principio erat Verbum」の時間論的・存在論的前提を受難の前夜において再確認する。v.11「ut sint unum（一つであるように）」・v.21「ut omnes unum sint」の反復が、この章の典礼的・哲学的影響力の中核をなす。「大祭司の祈り」という名称はルター派神学者ダヴィト・キトラーウス（1531–1600）に由来し、キリストが自ら祭司として自身を犠牲の供物として捧げる前の祈りという解釈に基づく。",
+  "keywords": [
+    "大祭司の祈り",
+    "clarificatio",
+    "vita aeterna",
+    "ut omnes unum sint",
+    "sanctificatio",
+    "世界以前の栄光",
+    "cognoscere",
+    "名の顕示",
+    "mundo non sunt",
+    "dilectio"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_ioannes_13",
+    "hieronymus_psalm_21",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "weil_atheisme_purificateur",
+    "mallarme_coup_de_des",
+    "dante_paradiso_canto_33",
+    "rilke_duineser_elegien_09",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Haec locutus est Jesus: et sublevatis oculis in caelum, dixit: Pater, venit hora: clarifica Filium tuum, ut Filius tuus clarificet te:",
+      "provisionalTranslation": "イエスはこう語ってから、目を天に向けて言われた。「父よ、時が来ました。御子が栄光を受けるようにしてください。御子があなたに栄光をお返しするために。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "sicut dedisti ei potestatem omnis carnis, ut omne, quod dedisti ei, det eis vitam aeternam.",
+      "provisionalTranslation": "「あなたが御子にすべての肉の上の権能をお与えになったように、御子があなたから与えられた者すべてに永遠の命を与えるために。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Haec est autem vita aeterna: ut cognoscant te, solum Deum verum, et quem misisti Jesum Christum.",
+      "provisionalTranslation": "「永遠の命とは、唯一の真の神であるあなたと、あなたが遣わされたイエス・キリストとを知ることです。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Ego te clarificavi super terram: opus consummavi, quod dedisti mihi ut faciam:",
+      "provisionalTranslation": "「私は地上であなたの栄光を現しました。あなたが私に行わせるためにお与えになった業を成し遂げました。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et nunc clarifica me tu, Pater, apud temetipsum, claritate quam habui, priusquam mundus esset, apud te.",
+      "provisionalTranslation": "「父よ、今あなたご自身のもとで、世界が存在する以前にあなたのもとで私が持っていた栄光で、私に栄光をお与えください。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Manifestavi nomen tuum hominibus, quos dedisti mihi de mundo: tui erant, et mihi eos dedisti: et sermonem tuum servaverunt.",
+      "provisionalTranslation": "「あなたが世からお与えになった人々に、あなたの名を現しました。彼らはあなたのものでした。あなたは彼らを私にお与えになりました。彼らはあなたの言葉を守りました。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Nunc cognoverunt quia omnia quae dedisti mihi, abs te sunt:",
+      "provisionalTranslation": "「今、彼らはあなたが私にお与えになったすべてのものがあなたから来たことを知りました。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "quia verba quae dedisti mihi, dedi eis: et ipsi acceperunt, et cognoverunt vere quia a te exivi, et crediderunt quia tu me misisti.",
+      "provisionalTranslation": "「あなたが私にくださった言葉を私は彼らに与えました。彼らはそれを受け取り、私があなたのもとから出たことを真実に知り、あなたが私を遣わされたことを信じました。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ego pro eis rogo; non pro mundo rogo, sed pro his quos dedisti mihi: quia tui sunt:",
+      "provisionalTranslation": "「私は彼らのために願います。世のためではなく、あなたが私にくださった者たちのために願います。彼らはあなたのものですから。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et mea omnia tua sunt, et tua mea sunt: et clarificatus sum in eis.",
+      "provisionalTranslation": "「私のものはすべてあなたのものであり、あなたのものは私のものです。私は彼らにおいて栄光を受けました。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et jam non sum in mundo, et hi in mundo sunt, et ego ad te venio. Pater sancte, serva eos in nomine tuo, quos dedisti mihi: ut sint unum, sicut et nos.",
+      "provisionalTranslation": "「私はもはや世にはいません。しかし彼らは世にいます。私はあなたのもとへ参ります。聖なる父よ、あなたが私にくださった者たちをあなたの名によってお守りください。私たちが一つであるように、彼らも一つであるように。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Cum essem cum eis, ego servabam eos in nomine tuo. Quos dedisti mihi, custodivi: et nemo ex eis periit, nisi filius perditionis, ut Scriptura impleatur.",
+      "provisionalTranslation": "「彼らと共にいた間、あなたの名によって彼らを守りました。あなたが私にくださった者たちを私は守り、聖書が成就するために滅びの子以外は誰も滅びませんでした。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Nunc autem ad te venio: et haec loquor in mundo, ut habeant gaudium meum impletum in semetipsis.",
+      "provisionalTranslation": "「しかし今あなたのもとへ参ります。世にいる間にこれらのことを語るのは、彼らが私の喜びを自分たちの中に満ちあふれさせるためです。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Ego dedi eis sermonem tuum, et mundus eos odio habuit, quia non sunt de mundo, sicut et ego non sum de mundo.",
+      "provisionalTranslation": "「私は彼らにあなたの言葉を与えました。私が世に属さないように、彼らも世に属さないので、世は彼らを憎みました。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Non rogo ut tollas eos de mundo, sed ut serves eos a malo.",
+      "provisionalTranslation": "「彼らを世から取り去ることをお願いするのではなく、悪から守ってくださることをお願いします。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "De mundo non sunt, sicut et ego non sum de mundo.",
+      "provisionalTranslation": "「私が世に属さないように、彼らも世に属しません。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Sanctifica eos in veritate. Sermo tuus veritas est.",
+      "provisionalTranslation": "「真理によって彼らを聖別してください。あなたの言葉は真理です。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Sicut tu me misisti in mundum, et ego misi eos in mundum:",
+      "provisionalTranslation": "「あなたが私を世に遣わされたように、私も彼らを世に遣わしました。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "et pro eis ego sanctifico meipsum: ut sint et ipsi sanctificati in veritate.",
+      "provisionalTranslation": "「彼らのために、私は自らを聖別します。彼らも真理によって聖別されるために。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Non pro eis autem rogo tantum, sed et pro eis qui credituri sunt per verbum eorum in me:",
+      "provisionalTranslation": "「彼らだけのためでなく、彼らの言葉によって私を信じる者たちのためにも願います。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint: ut credat mundus, quia tu me misisti.",
+      "provisionalTranslation": "「父よ、あなたが私の中に、私があなたの中にいるように、すべての者が一つであるように。彼らも私たちの中で一つであるように。世があなたが私を遣わされたことを信じるために。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Et ego claritatem, quam dedisti mihi, dedi eis: ut sint unum, sicut et nos unum sumus.",
+      "provisionalTranslation": "「あなたが私にくださった栄光を私は彼らに与えました。私たちが一つであるように、彼らも一つであるために。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Ego in eis, et tu in me: ut sint consummati in unum: et cognoscat mundus quia tu me misisti, et dilexisti eos, sicut et me dilexisti.",
+      "provisionalTranslation": "「私は彼らの中に、あなたは私の中に。彼らが完全に一つとなるために。世が、あなたが私を遣わされ、私を愛されたように彼らをも愛されたことを知るために。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Pater, quos dedisti mihi, volo ut ubi sum ego, et illi sint mecum: ut videant claritatem meam, quam dedisti mihi: quia dilexisti me ante constitutionem mundi.",
+      "provisionalTranslation": "「父よ、あなたが私にくださった者たちが、私のいるところに共にいるように望みます。世界の始まりの前から私を愛してくださったのですから、あなたが私にくださった私の栄光を彼らが見るために。」"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Pater juste, mundus te non cognovit, ego autem te cognovi: et hi cognoverunt, quia tu me misisti.",
+      "provisionalTranslation": "「正しい父よ、世はあなたを知りませんでした。しかし私はあなたを知っています。この者たちも、あなたが私を遣わされたことを知りました。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.",
+      "provisionalTranslation": "「私はあなたの名を彼らに知らせました。また知らせるでしょう。あなたが私を愛してくださった愛が彼らの中にあり、私が彼らの中にあるために。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Pater, venit hora: clarifica Filium tuum, ut Filius tuus clarificet te:",
+      "body": "「父よ、時が来ました：御子に栄光をお与えください、御子があなたに栄光をお返しするために」──「venit hora（時が来た）」という完了形の宣言で祈りが開口する。「hora（時・刻）」は第2章v.4「nondum venit hora mea（私の時はまだ来ていない）」から第12章v.23「venit hora（時が来た）」まで準備されてきた主題の到達点。「clarifica … clarificet（栄光を与えよ……栄光をお返しするために）」という相互的動詞の連動が、栄光の「円環的交換（échange circulaire）」を構造化する。ナンシー『コルプス』の「露出（exposition）」概念──栄光（gloria）は内に蓄積されるものではなく、外に向かって露出・放出されるものとして機能する：父から子へ、子から父への栄光の相互的露出。ハイデガー「存在の顕現（Lichtung）」──存在が自らを開いて「輝き出る（leuchten）」ことが、「clarificatio（栄光化・明輝）」の存在論的対応として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Haec est autem vita aeterna: ut cognoscant te, solum Deum verum, et quem misisti Jesum Christum.",
+      "body": "「永遠の命とは、唯一の真の神であるあなたと、あなたが遣わされたイエス・キリストとを知ることです」──「vita aeterna（永遠の命）」を「知ること（cognoscere）」として定義するヨハネ独自の認識論的命題。「cognoscant（知るように）」はギリシア語「γινώσκωσιν（ギノースコーシン）」──ヘブライ語「יָדַע（yada）」の反映で、単なる知的理解ではなく「人格的・経験的認識」を意味する。「solum Deum verum（唯一の真の神）」という排他的定義が「et quem misisti Jesum Christum（そしてあなたが遣わされたイエス・キリスト）」という付加によって二重化される。ハイデガー「真理（Wahrheit）としてのアレーテイア（ἀλήθεια）」──真理を「覆いを取り除くこと」と定義する存在論的概念が、ここでの「真の神（Deum verum）を知ること」としての命題と対話する。ヴェイユ「無神論的浄化（Athéisme purificateur）」章でのキリスト論──神を「知ること」が単純な信仰の受容ではなく、浄化と疑いを経た認識として成立するという命題との照応。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "claritate quam habui, priusquam mundus esset, apud te.",
+      "body": "「世界が存在する以前にあなたのもとで私が持っていた栄光」──「priusquam mundus esset（世界が存在する以前）」という前宇宙的・超時間的次元の確認。第1章v.1「In principio erat Verbum」の「erat（あった）」という半過去形が示す、世界の起源以前に「すでにあった」Verbumの存在様式が、ここで受難前夜において再確認される。ヘルダーリン「パンと葡萄酒（Brot und Wein）」第9連での「神が遠ざかった後の世界」──神が「世界の中に入る以前」と「世界の中から去った後」の時間論的非対称性が、「priusquam mundus esset」という命題の詩的共鳴として機能する。マラルメ「骰子一擲（Un Coup de Dés）」の「Rien n'aura eu lieu que le lieu（場所以外何も起きなかっただろう）」──「世界以前（priusquam mundus esset）」という絶対的無の地平から「世界」という場所が開始される構造との対話。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Manifestavi nomen tuum hominibus",
+      "body": "「あなたの名を人々に現しました」──「manifestavi（現した・顕した）」という動詞と「nomen（名）」という主題の結合。「名を現すこと（manifestatio nominis）」が第13章から続く別れの説教全体の使命として総括される。ブランショ「名と命名」の問題──名は対象を「指示（désigner）」するが、同時に指示対象の「不在（absence）」を証言するという言語の逆説的構造。神の「名（nomen）」を「現す（manifestare）」という行為は、神自身の直接的現前ではなく言語的媒介による間接的顕現として機能する。ハイデガー「言語は存在の家である」──神の名が「人々に現される」ことは、存在の家（言語）が神的現実に向けて開かれることとして読める。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ego pro eis rogo; non pro mundo rogo, sed pro his quos dedisti mihi: quia tui sunt:",
+      "body": "「私は彼らのために願います──世のためではなく」──「non pro mundo（世のためではなく）」という排除の宣言が神学的に最も議論を呼んだ箇所。第三部（v.20）では「信じる者すべて」へと祈りが拡張されるが、ここでは「選ばれた者たち（quos dedisti mihi）」への限定が維持される。デリダ「選びの逻辑（logique de l'élection）」──選ぶことは必然的に選ばないことを含むという排除の構造が内在する：「非世界性（non pro mundo）」という境界線の設定。ヴェイユ「愛の不偏性（impartialité de l'amour）」との緊張──神的愛は偏りなく注がれるべきという命題と、ここでの選ばれた者への集中的祈りの論理的緊張。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "ut sint unum, sicut et nos.",
+      "body": "「私たちが一つであるように、彼らも一つであるように」──「unum（一つ）」という中性単数形が人格的複数の一致を表すという文法的逆説。「sicut et nos（私たちが〔一つであるように〕と同様に）」という比較節が、神的一致を人間的一致の範型として提示する。バタイユ「連続性（continuité）」論──個体の不連続性を超えた存在の連続的一致という「一つ（unum）」の神学的命題は、バタイユが「共同体（communauté）」や「エロティシズム」において論じる連続性への回帰と構造的に照応する。ナンシー『無為の共同体（La Communauté désoeuvrée）』の「いかなる固定的一致も共同体を裏切る」という命題との緊張──「ut sint unum」という祈願は到達されたのではなく、常に到来すべきものとして保留される。ダンテ「天国篇」第33歌で「愛が太陽と諸星を動かす」という究極的一致が、この「unum」命題の詩的最大値として位置づけられる。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "nisi filius perditionis, ut Scriptura impleatur.",
+      "body": "「聖書が成就するために滅びの子以外は」──「filius perditionis（滅びの子）」というユダへの言及が祈りの言葉の中に挿入される。「ut Scriptura impleatur（聖書が成就するために）」という目的節が、裏切りを「必然的な成就」として枠組みする。デリダ「赦し（le pardon）」論──赦し得ないもの（裏切り）が「聖書の成就」という大きな目的のために必要とされるという逆説が、ここに凝縮される。ブランショ「書かれることの必然性」──「Scriptura（聖書・書かれたもの）が成就する」という命題は、書かれた言葉が出来事に先行し、出来事を要請するという文字と現実の逆転的関係を示す。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "mundus eos odio habuit, quia non sunt de mundo, sicut et ego non sum de mundo.",
+      "body": "「私が世に属さないように、彼らも世に属さないので、世は彼らを憎みました」──「de mundo non sunt（世に属さない）」という命題の三重の反復（v.14・v.16・v.16）。「mundo non sunt」という否定的定義による「超越的帰属」の論理：「世の憎しみ（odium mundi）」が帰属の非対称性の証明として機能する。コヘレト第1章v.3「sub sole（太陽の下で）」という地上的限定に対する神学的逆命題：「太陽の下」の世界に属さない者として弟子たちが定義される。ヴェイユ「真空の受容（Accepter le vide）」での「世界に属さないこと」としての脱創造的立場──「不在（absence）」と「撤退（retrait）」による神への接近という命題との照応。リルケ「ドゥイノの悲歌」第9歌での「地上に属しながら地上を超える」という弁証法的矛盾と、ここでの「世にいながら世に属さない」の緊張。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "Sanctifica eos in veritate. Sermo tuus veritas est.",
+      "body": "「真理によって彼らを聖別してください。あなたの言葉は真理です」──「sanctifica（聖別せよ）」・「veritas（真理）」・「sermo（言葉）」の三項の同一化。「Sermo tuus veritas est（あなたの言葉は真理である）」という等式は第1章「Verbum（ロゴス）」の存在論的命題の倫理的・実践的展開として機能する：第1章では「言葉は神であった」、ここでは「神の言葉は真理である」という相互規定の連鎖。「Sermo（言葉・説教）」はここで「Verbum（言葉・ロゴス）」と異なる語を使用する──「Sermo」は発話・語りかけとしての言葉の動的側面を強調する。ハイデガー「言語への途上（Unterwegs zur Sprache）」での「言語が語る（Die Sprache spricht）」という命題──「あなたの言葉は真理である」という宣言は、神的言語の「自己実現性（Performativität）」を確認する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "et pro eis ego sanctifico meipsum: ut sint et ipsi sanctificati in veritate.",
+      "body": "「彼らのために、私は自らを聖別します」──「sanctifico meipsum（自らを聖別する）」という再帰的聖別が「大祭司の祈り」という章全体の命名根拠となる箇所：祭司は犠牲の供物を聖別するが、ここでは祭司自身が供物として自己を聖別する。ヴェイユ「脱創造（Décréation）」章での「自己消去（effacement de soi）」──自らを聖別・捧げることで他者の聖別を可能にするという代理的自己犠牲の論理。バタイユ「犠牲（sacrifice）」論──犠牲は「有用性の圏外に置かれた蕩尽（dépense）」として機能し、「sanctifico meipsum」という行為は経済的論理を超えた純粋な自己贈与として読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint: ut credat mundus, quia tu me misisti.",
+      "body": "「すべての者が一つであるように……彼らも私たちの中で一つであるように」──章全体の神学的頂点。「unum」という語がv.11・v.21・v.22・v.23と四度反復される「一致の祈り」の集約。「sicut tu Pater in me, et ego in te（父よ、あなたが私の中に、私があなたの中にいるように）」という相互内在（périchorèse）の構造を人間的共同体の範型として提示する。ナンシー『無為の共同体（La Communauté désoeuvrée）』の中心問題──「一つであること（être-un）」は共同体を固定的実体として実現するのではなく、「分有（partage）」の運動として常に到来しつつある過程であるという命題が、「ut sint unum（一つであるように）」という祈願の接続法（欲求的未来）に照応する。マラルメ「骰子一擲」での「偶然の廃棄不可能性」──散乱する多様性を一つに集約する試みは常に失敗するという詩的認識と、この「unum」への祈りの緊張。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Ego in eis, et tu in me: ut sint consummati in unum:",
+      "body": "「私は彼らの中に、あなたは私の中に：彼らが完全に一つとなるために」──「consummati in unum（完全に一つに完成された）」という「一致の完成形」。「consummati（完成された・成就された）」は第4章v.4「opus consummavi（業を成し遂げた）」と同じ語根──地上での業の完成が、霊的一致の完成と照応する。ブランショ「書物の完成（achèvement du livre）」論──書物は完成することで作者から切り離され、独立した存在となる：「consummati in unum」という完成が、弟子たちを独立した「一つ」の実体として確立することとの照応。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "quia dilexisti me ante constitutionem mundi.",
+      "body": "「世界の始まりの前から私を愛してくださったのですから」──「ante constitutionem mundi（世界の構成以前から）」という超時間的愛の宣言。v.5「priusquam mundus esset（世界が存在する以前）」の反響が、愛の文脈において再現される：「栄光」（v.5）と「愛」（v.24）が等しく「世界以前」に遡及する。ヴェイユ「創造以前の神の愛（amour divin ante mundum）」──神の愛は世界の創造に先行し、創造そのものがその愛の自由な選択として理解されるという命題との照応。リルケ「ドゥイノの悲歌」第1歌の「美は恐ろしいものの始まりに過ぎない」という超越的美への接近──「世界以前」という次元への詩的接触として。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Et notum feci eis nomen tuum, et notum faciam: ut dilectio, qua dilexisti me, in ipsis sit, et ego in ipsis.",
+      "body": "「私はあなたの名を彼らに知らせました。また知らせるでしょう──あなたが私を愛してくださった愛が彼らの中にあり、私が彼らの中にあるために」──章の結語。「notum feci … et notum faciam（知らせました……また知らせるでしょう）」という過去と未来の並置が、「名の顕示（manifestatio nominis）」という使命の継続性を確立する。「ut dilectio … in ipsis sit, et ego in ipsis（愛が彼らの中に……私が彼らの中に）」──「愛（dilectio）」と「私（ego）」が同一の場所（彼らの中）に共存するという最終命題。これはv.1「clarifica Filium tuum, ut Filius tuus clarificet te」から始まった「栄光の相互的交換」が「愛の内在」として完成される論理的結末。ブランショ「来るべき書物」の終わりなき「来るべき（à venir）」性──「notum faciam（また知らせるでしょう）」という未来形が、神の名の顕示を完成された事実としてではなく、常に継続する運動として保持する。ヴェイユ「神の愛の必然性」での「神は愛において存在する者たちの中に内在する」という命題が、「et ego in ipsis（私が彼らの中に）」という最終節の神学的展開として位置づけられる。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    }
+  ]
+}
