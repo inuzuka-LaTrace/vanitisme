@@ -1,0 +1,370 @@
+{
+  "id": "hieronymus_ioannes_13",
+  "title": "Ioannes, Caput XIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Evangelium Secundum Ioannem, Caput XIII. Bible Gateway: https://www.biblegateway.com/passage/?search=John+13&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネによる福音書第13章。過越祭の前夜、最後の晩餐の席でイエスが弟子たちの足を洗う「洗足（lavatio pedum）」の場面を中心に据える。共観福音書の「最後の晩餐」叙述に代わり、ヨハネ福音書は「足の洗い」という身体的・象徴的行為をその核心に置く。章は三つの主要な出来事から構成される：（1）洗足（v.1–20）、（2）裏切り者の指摘とユダの退場（v.21–30）、（3）「新しい掟（Mandatum novum）」の宣言とペトロの予告（v.31–38）。v.1「in finem dilexit eos（最後まで彼らを愛した）」という章の出発点は、「愛の極致」として第13〜17章（別れの説教・大祭司的祈り）全体を貫くモチーフを確立する。v.30「Erat autem nox（夜だった）」という簡潔な地誌的注記がヨハネ的「光と闇」の神学を圧縮的に刻印する。「Mandatum novum（新しい掟）」という命名は典礼暦「Mandatum（洗足木曜日）」の語源として典礼実践に流通する。章全体はバタイユ的「主権」と奉仕の逆転・ブランショ的「来ること」と「去ること」の時間論・ヴェイユの「服従と愛」・ナンシーの「接触の身体論」と深く共鳴する。",
+  "keywords": [
+    "洗足",
+    "lavatio pedum",
+    "in finem dilexit",
+    "Mandatum novum",
+    "裏切り",
+    "Erat autem nox",
+    "Quo vadis",
+    "愛の掟",
+    "servus et dominus",
+    "clarificatio"
+  ],
+  "relatedTexts": [
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_11",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "weil_dressage",
+    "dante_paradiso_canto_33",
+    "rilke_duineser_elegien_01",
+    "baudelaire_de_profundis_clamavi",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Ante diem festum Paschae, sciens Jesus quia venit hora ejus ut transeat ex hoc mundo ad Patrem: cum dilexisset suos, qui erant in mundo, in finem dilexit eos.",
+      "provisionalTranslation": "過越祭の前の日、イエスはこの世から父のもとへ移る御自分の時が来たことを知り、世にいる自分の者たちを愛して、最後まで愛し通された。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et coena facta, cum diabolus jam misisset in cor ut traderet eum Judas Simonis Iscariotae:",
+      "provisionalTranslation": "夕食の席で、悪魔はすでにシモンの子イスカリオテのユダの心に、イエスを裏切ろうという思いを入れていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+      "provisionalTranslation": "父がすべてのものを御自分の手に渡してくださったこと、また御自分が神のもとから来て神のもとへ帰ろうとしていることを知り、"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "surgit a coena, et ponit vestimenta sua, et cum accepisset linteum, praecinxit se.",
+      "provisionalTranslation": "食事の席から立ち上がり、上着を脱ぎ、手ぬぐいを取って腰に巻かれた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Deinde mittit aquam in pelvim, et coepit lavare pedes discipulorum, et extergere linteo, quo erat praecinctus.",
+      "provisionalTranslation": "それから洗い桶に水を入れ、弟子たちの足を洗い、腰に巻いた手ぬぐいで拭き始められた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Venit ergo ad Simonem Petrum. Et dicit ei Petrus: Domine, tu mihi lavas pedes?",
+      "provisionalTranslation": "シモン・ペトロのところに来られると、ペトロは言った。「主よ、あなたが私の足を洗ってくださるのですか。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Respondit Jesus, et dixit ei: Quod ego facio, tu nescis modo: scies autem postea.",
+      "provisionalTranslation": "イエスは答えられた。「私がしていることは、今はあなたには分からない。しかし後で分かるようになる。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Dicit ei Petrus: Non lavabis mihi pedes in aeternum. Respondit ei Jesus: Si non lavero te, non habebis partem mecum.",
+      "provisionalTranslation": "ペトロは言った。「永遠に私の足を洗ってはなりません。」イエスは答えられた。「もし私があなたを洗わなければ、あなたは私と関わりを持てない。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Dicit ei Simon Petrus: Domine, non tantum pedes meos, sed et manus, et caput.",
+      "provisionalTranslation": "シモン・ペトロは言った。「主よ、足だけでなく、手も頭も。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Dicit ei Jesus: Qui lotus est, non indiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.",
+      "provisionalTranslation": "イエスは言われた。「体を洗った者は、足以外は洗う必要はない。全身が清い。あなた方は清い。しかしすべてではない。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Sciebat enim quisnam esset qui traderet eum; propterea dixit: Non estis mundi omnes.",
+      "provisionalTranslation": "自分を裏切る者が誰かを知っておられたからこそ、「すべてではない」と言われたのだった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Postquam ergo lavit pedes eorum, et accepit vestimenta sua, cum recubuisset iterum, dixit eis: Scitis quid fecerim vobis?",
+      "provisionalTranslation": "足を洗い終え、上着を着て席に戻った後、彼らに言われた。「私があなた方に何をしたか、分かりますか。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Vos vocatis me Magister et Domine, et bene dicitis: sum etenim.",
+      "provisionalTranslation": "「あなた方は私を師、主と呼んでいる。それは正しい。私はそうなのだから。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Si ergo ego lavi pedes vestros, Dominus et Magister, et vos debetis alter alterius lavare pedes.",
+      "provisionalTranslation": "「主であり師である私があなた方の足を洗ったなら、あなた方もお互いの足を洗うべきだ。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Exemplum enim dedi vobis, ut quemadmodum ego feci vobis, ita et vos faciatis.",
+      "provisionalTranslation": "「私があなた方にしたように、あなた方もするようにと、手本を示したのだ。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Amen, amen dico vobis: non est servus major domino suo: neque apostolus major est eo qui misit illum.",
+      "provisionalTranslation": "「まことにまことに言う。僕は主人より大きくなく、遣わされた者は遣わした者より大きくはない。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Si haec scitis, beati eritis si feceritis ea.",
+      "provisionalTranslation": "「これらのことを知っているなら、それを行うなら幸いだ。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Non de omnibus vobis dico: ego scio quos elegerim; sed ut adimpleatur Scriptura: Qui manducat mecum panem, levabit contra me calcaneum suum.",
+      "provisionalTranslation": "「あなた方すべてについて言っているのではない。私は自分が選んだ者たちを知っている。しかし、『私と共にパンを食べる者が私に向かって踵を上げた』という聖書が成就するために言う。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Amodo dico vobis, priusquam fiat: ut cum factum fuerit, credatis quia ego sum.",
+      "provisionalTranslation": "「今から、それが起きる前に言っておく。それが起きたとき、私が『それである者』であることを信じるために。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Amen, amen dico vobis: qui accipit si quem misero, me accipit; qui autem me accipit, accipit eum qui me misit.",
+      "provisionalTranslation": "「まことにまことに言う。私が遣わす者を受け入れる者は私を受け入れる。私を受け入れる者は私を遣わされた方を受け入れる。」"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Cum haec dixisset Jesus, turbatus est spiritu: et protestatus est, et dixit: Amen, amen dico vobis, quia unus ex vobis tradet me.",
+      "provisionalTranslation": "こう言い終えると、イエスは心が乱れ、証しして言われた。「まことにまことに言う。あなた方の一人が私を裏切ろうとしている。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Aspiciebant ergo ad invicem discipuli, haesitantes de quo diceret.",
+      "provisionalTranslation": "弟子たちは誰のことを言っておられるのか当惑して、顔を見合わせた。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem diligebat Jesus.",
+      "provisionalTranslation": "弟子の一人──イエスが愛しておられた者──がイエスのすぐそばに座っていた。"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Innuit ergo huic Simon Petrus, et dixit ei: Quis est, de quo dicit?",
+      "provisionalTranslation": "シモン・ペトロはその人に合図して言った。「誰のことを言っておられるのか聞いてくれ。」"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "Itaque cum recubuisset ille supra pectus Jesu, dicit ei: Domine, quis est?",
+      "provisionalTranslation": "その人はイエスの胸にもたれかかって言った。「主よ、誰ですか。」"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Respondit Jesus: Ille est cui ego intinctum panem porrexero. Et cum intinxisset panem, dedit Judae Simonis Iscariotae.",
+      "provisionalTranslation": "イエスは答えられた。「パンを浸して渡す者がその人だ。」パンを浸して、シモンの子イスカリオテのユダに渡された。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus: Quod facis, fac citius.",
+      "provisionalTranslation": "パン切れを受け取ると、サタンが彼の中に入った。イエスは彼に言われた。「しようとしていることを、早くしなさい。」"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "Hoc autem nemo scivit discumbentium ad quid dixerit ei.",
+      "provisionalTranslation": "食卓についていた者の誰も、なぜイエスがそう言われたのかを分からなかった。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Quidam enim putabant, quia loculos habebat Judas, quod dixisset ei Jesus: Eme ea quae opus sunt nobis ad diem festum: aut egenis ut aliquid daret.",
+      "provisionalTranslation": "ユダが金入れを持っていたので、「祭りのために必要なものを買え」、あるいは「貧しい人たちに何かやれ」とイエスが言われたのだと思う者もいた。"
+    },
+    {
+      "id": 30,
+      "verses": "v.30",
+      "original": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+      "provisionalTranslation": "パン切れを受け取ったユダはすぐに出て行った。夜だった。"
+    },
+    {
+      "id": 31,
+      "verses": "v.31",
+      "original": "Cum ergo exisset, dixit Jesus: Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo.",
+      "provisionalTranslation": "ユダが出て行くと、イエスは言われた。「今、人の子は栄光を受けた。神も人の子において栄光を受けられた。」"
+    },
+    {
+      "id": 32,
+      "verses": "v.32",
+      "original": "Si Deus clarificatus est in eo, et Deus clarificabit eum in semetipso: et continuo clarificabit eum.",
+      "provisionalTranslation": "「神が人の子において栄光を受けられたなら、神も御自身において人の子に栄光をお与えになる。しかも今すぐに。」"
+    },
+    {
+      "id": 33,
+      "verses": "v.33",
+      "original": "Filioli, adhuc modicum vobiscum sum. Quaeretis me; et sicut dixi Judaeis, quo ego vado, vos non potestis venire: et vobis dico modo.",
+      "provisionalTranslation": "「子たちよ、もう少しの間、私はあなた方と共にいる。あなた方は私を求めるだろう。しかしユダヤ人たちに言ったように、私が行くところへあなた方は来ることができない、と今あなた方にも言う。」"
+    },
+    {
+      "id": 34,
+      "verses": "v.34",
+      "original": "Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.",
+      "provisionalTranslation": "「新しい掟をあなた方に与える。互いに愛し合いなさい。私があなた方を愛したように、あなた方も互いに愛し合いなさい。」"
+    },
+    {
+      "id": 35,
+      "verses": "v.35",
+      "original": "In hoc cognoscent omnes quia discipuli mei estis, si dilectionem habueritis ad invicem.",
+      "provisionalTranslation": "「互いに愛し合うなら、それによってすべての人は、あなた方が私の弟子であることを知るだろう。」"
+    },
+    {
+      "id": 36,
+      "verses": "v.36",
+      "original": "Dicit ei Simon Petrus: Domine, quo vadis? Respondit Jesus: Quo ego vado non potes me modo sequi: sequeris autem postea.",
+      "provisionalTranslation": "シモン・ペトロは言った。「主よ、どこへ行かれるのですか。」イエスは答えられた。「私が行くところへは今はついて来られない。しかし後でついて来るだろう。」"
+    },
+    {
+      "id": 37,
+      "verses": "v.37",
+      "original": "Dicit ei Petrus: Quare non possum te sequi modo? animam meam pro te ponam.",
+      "provisionalTranslation": "ペトロは言った。「なぜ今ついて行けないのですか。命をあなたのために捧げます。」"
+    },
+    {
+      "id": 38,
+      "verses": "v.38",
+      "original": "Respondit ei Jesus: Animam tuam pro me pones? amen, amen dico tibi: non cantabit gallus, donec ter me neges.",
+      "provisionalTranslation": "イエスは答えられた。「命を私のために捧げると言うのか。まことにまことに言う。鶏が鳴く前に、あなたは三度私を否定するだろう。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "in finem dilexit eos.",
+      "body": "「最後まで愛し通された」──「in finem（終わりまで・極みまで）」という表現がギリシア語「εἰς τέλος（エイス・テロス）」の訳。「テロス（τέλος）」は「終わり・目的・完成」の多義語であり、「最後まで」と「極みにまで（to the utmost degree）」の両義を持つ。第13〜17章全体の神学的主題を序言として確立する命題。バタイユ『エロティシズム（L'Érotisme）』における「連続性への回帰としての愛」──愛は個体の不連続性の境界を超えようとする運動として、死（=不連続性の終焉）に至るまで続く。ヴェイユ「Accepter le vide（真空を受容する）」での「神の愛は被造物の愛とは方向が逆──神は与え続けることで愛する」という命題と照応する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sciens quia omnia dedit ei Pater in manus, et quia a Deo exivit, et ad Deum vadit:",
+      "body": "「父がすべてのものを御自分の手に渡してくださったこと、また御自分が神のもとから来て神のもとへ帰ろうとしていることを知り」──「知ること（sciens）」が洗足行為の神学的前提として置かれる。自らの起源と終点の完全な認識がなければ、この自己卑下は成立しない──「すべてを持つ者だけがすべてを脱ぐことができる」という逆説的な主権的奉仕の論理。バタイユ「主権（souveraineté）」論：主権的存在は自らを消費・浪費することができる──「Dominus（主人）」が「servus（僕）」の行為をすることは、主権のパラドクス的行使として読める。ヴェイユ「脱創造（Décréation）」章での神の「ケノーシス（自己縮減）」──神が持つすべてを手放して被造物の空間を作るという運動がここに凝縮される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "surgit a coena, et ponit vestimenta sua, et cum accepisset linteum, praecinxit se.",
+      "body": "「食事の席から立ち上がり、上着を脱ぎ、手ぬぐいを取って腰に巻かれた」──動詞の連続による身体的所作の精密な記録。「ponit vestimenta（上着を脱ぐ）」はヨハネ福音書において第10章v.17「pono animam meam（命を捨てる）」と同じ動詞「ponere」を用いる──上着を脱ぐことが命を捨てることの予型として機能する。ナンシー『コルプス』における「脱衣（déshabiller）」の身体論──衣服を脱ぐことは身体が「露出（exposition）」する行為として、接触と傷つきやすさ（vulnérabilité）の開口となる。この脱衣と「linteum（手ぬぐい）を巻くこと」の対が、主人の衣から僕の道具への変換を身体的に実演する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "coepit lavare pedes discipulorum, et extergere linteo, quo erat praecinctus.",
+      "body": "「弟子たちの足を洗い、腰に巻いた手ぬぐいで拭き始められた」──「足（pedes）」という身体部位の選択の意味。古代近東において足は最も卑しい身体部位とみなされ、その洗いは奴隷の仕事とされた。ナンシー「接触（contact）」の現象学──足に触れることは身体の最も「低い（bas）」部位への接触であり、「接触」が常に上下の非対称性において成立するという身体的現実を極端化する。バルト『彼自身によるロラン・バルト』での「身体の言語（langage corporel）」──言葉を超えた身体的行為が意味を持つ場として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quod ego facio, tu nescis modo: scies autem postea.",
+      "body": "「私がしていることは今はあなたには分からない。しかし後で分かるようになる」──「modo（今）」と「postea（後で）」の時間的分裂。理解は行為の後に、しかも必ずやってくる──という独特の認識論的約束。ブランショ『来るべき書物（Le Livre à venir）』における「遅延した理解（compréhension différée）」──真の意味は常に出来事の後に、しかも「来るべきもの（à venir）」として到来するという時間論。ヴェイユ「訓練（Dressage）」章での「苦難の意味は事後にしか開示されない」という苦難論との照応。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Si non lavero te, non habebis partem mecum.",
+      "body": "「もし私があなたを洗わなければ、あなたは私と関わりを持てない」──「partem mecum（私と共に部分・関わり）を持つ」。「pars（部分）」という語の使用が興味深い──ペトロが洗いを拒否することは「関係の切断」であり、「一部となること」の放棄として定義される。バタイユ「連続性（continuité）と不連続性（discontinuité）」論──個体は孤立した不連続的存在として生きるが、愛・エロティシズム・死において連続性へと一時的に開く。「partem mecum（私と共に部分を）」という命題は、この「連続性への参入」の神学的形式として読める。デリダ「贈与（don）」論：洗いを「受け取る」ことが贈与の連鎖に入ることを意味し、受け取りを拒否することが贈与の論理からの排除を招くという逆説。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Si ergo ego lavi pedes vestros, Dominus et Magister, et vos debetis alter alterius lavare pedes.",
+      "body": "「主であり師である私があなた方の足を洗ったなら、あなた方もお互いの足を洗うべきだ」──「Dominus et Magister（主と師）」という称号を自ら引用した上で、その称号の持ち主による自己卑下を「規範（exemplum）」として提示する。v.16「servus non est major domino suo（僕は主人より大きくない）」との連動：主人が僕の行為をすることで、この命題が逆転・解体される。バタイユ「主権」論での「主権的存在は有用性の論理の外にある」──足を洗うことは経済的・機能的な「有用性（utilité）」とは逆の行為として、純粋な蕩尽・贈与として読める。ヴェイユ「必然（Nécessité）」章での「愛する者は相手の必要（besoin）に自ら応える」という愛の定義との照応：「足を洗うべき（debetis）」という義務命令は愛の行為を必然として内面化する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "glossary",
+      "anchor": "ut cum factum fuerit, credatis quia ego sum.",
+      "body": "「それが起きたとき、私が『それである者（ego sum）』であることを信じるために」──「ego sum（私はある）」という絶対的命題。ギリシア語「ἐγώ εἰμι（エゴー・エイミ）」はヨハネ福音書を貫く「私は……である」定式の絶対形──述語を持たない「ego sum」は出エジプト記第3章v.14「Ego sum qui sum（私はあるところのものである）」という神の自己啓示命題の新約的反響。ハイデガー「存在（Sein）」の問い──「ego sum」という自己定義はあらゆる述語規定に先立つ存在の自己主張として、ハイデガー的「現存在（Dasein）の存在了解」と対話する。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Erat ergo recumbens unus ex discipulis ejus in sinu Jesu, quem diligebat Jesus.",
+      "body": "「弟子の一人──イエスが愛しておられた者──がイエスのすぐそばに座っていた」──「discipulus quem diligebat Jesus（イエスが愛しておられた弟子）」の初出。名を持たず「愛されていること」によってのみ定義される証人の出現。第1章v.1「In principio erat Verbum」以来の「言葉と関係」の主題が、ここで「名の不在・愛による定義」という形式に到達する。バルト『恋愛のディスクール（Fragments d'un discours amoureux）』における「私はあなたを愛している（Je t'aime）」という発話の非交換性・非言語的次元との照応：愛は相手を「名指しする」のではなく「愛されている者」として定義する。ブランショ「匿名性（anonymat）」の倫理──最も深い証言は名を持たない者から来るという命題が、「愛の弟子」の名の不在において聖書的先行形を持つ。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Et cum intinxisset panem, dedit Judae Simonis Iscariotae.",
+      "body": "「パンを浸して、シモンの子イスカリオテのユダに渡された」──「intinctum panem（浸されたパン）」が裏切り者の指標として機能する。テーブルでパンを共に浸すことは最も親密な共食の身振りでありながら、それが裏切り者への指示として用いられる逆説。v.18「Qui manducat mecum panem（私と共にパンを食べる者）」という詩篇41篇の引用が実現する瞬間。バタイユ「コミュニケーションの不可能性」──最も近しい共食の行為の中に最深の裏切りが宿るという逆説が、ここで極限まで圧縮される。デリダ「友愛（amitié）の政治学」において友は常に潜在的な敵でもあるという命題との照応。"
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Et post buccellam, introivit in eum Satanas. Et dixit ei Jesus: Quod facis, fac citius.",
+      "body": "「サタンが彼の中に入った。イエスは言われた：しようとしていることを、早くしなさい」──「introivit in eum Satanas（サタンが彼の中に入った）」という悪の内在化の表現と、「fac citius（早くしなさい）」というイエスの命令の共存。イエスが裏切りを認識した上で促進するという構造は神学的に最も難解な箇所のひとつ。ブランショ「出来事の必然性」──書かれることは「起きなければならなかったこと」であり、語り手は出来事の開始者ではなく見届け人として機能するという論理。デリダ「赦し（le pardon）」論：赦しえないものを赦す逆説が、ここでは「裏切りを促す者がその裏切られた者である」という自己関係性において先取りされる。"
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Cum ergo accepisset ille buccellam, exivit continuo. Erat autem nox.",
+      "body": "「ユダはすぐに出て行った。夜だった」──第11章v.14「Lazarus mortuus est（ラザロは死んだ）」と並ぶ、ヨハネ福音書における最も圧縮的な語りの節のひとつ。「exivit continuo（すぐに出て行った）」と「Erat autem nox（夜だった）」の二文が並置される簡潔さが語りの衝撃を最大化する。第1章v.5「lux in tenebris lucet, et tenebrae eam non comprehenderunt（光は暗闇の中で輝く。暗闇はそれを理解しなかった）」が「夜」の語によって集約的に反響する──ユダが「夜の中へ」出て行くことで、光のテーブルから闇の外部へという空間的・神学的分裂が完成する。バルト『テキストの快楽』の「刺点（punctum）」──「Erat autem nox」という三語が読者の胸を突き刺す詳細として機能する：このシンプルな地誌的注記が道徳的・神学的宇宙の全体を刻印する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Nunc clarificatus est Filius hominis, et Deus clarificatus est in eo.",
+      "body": "「今、人の子は栄光を受けた。神も人の子において栄光を受けられた」──ユダの退場の直後、「今（nunc）」という時間副詞で始まる「栄光（clarificatio）」の宣言。裏切り者の退場が「栄光化」の起点であるという逆説的な因果構造。「clarificatus est（栄光を受けた）」はギリシア語「ἐδοξάσθη（エドクサスセー）」の完了形──過去において起きた出来事が現在において完了・現前しているという時制の論理。ヴェイユ「美（Beauté）」章での「神の栄光は苦難の極限において顕現する」という命題が、裏切りから受難へと向かう文脈での「栄光」宣言に照応する。"
+    },
+    {
+      "paragraphId": 34,
+      "type": "glossary",
+      "anchor": "Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.",
+      "body": "「新しい掟をあなた方に与える：互いに愛し合いなさい。私があなた方を愛したように、あなた方も互いに愛し合いなさい」──「Mandatum novum（新しい掟）」は典礼暦の「聖木曜日（Mandatum）」の命名語源。「novum（新しい）」という形容詞が何に対して「新しい」のかが神学的問題：モーセの律法に対して・旧い愛の掟に対して・それとも形式ではなく「sicut dilexi（私が愛したように）」という愛の基準・尺度の新しさとして。バルト「愛の言語」論：「diligatis invicem（互いに愛し合いなさい）」という命令形は、愛を感情ではなく行為・選択・義務として定義する。ヴェイユ「隣人愛（amour du prochain）」論──「sicut（〜のように）」という比較の接続詞が愛の尺度を「神の愛」に置くことで、人間的愛の自己完結性を解体する。"
+    },
+    {
+      "paragraphId": 36,
+      "type": "commentary",
+      "anchor": "Domine, quo vadis?",
+      "body": "「主よ、どこへ行かれるのですか」──「Quo vadis（どこへ行くのか）」という問いは後代のキリスト教伝承・文学において際立った反響を持つ。ヘンリク・シェンキェヴィチの小説『クォ・ヴァディス（Quo Vadis, 1895）』のタイトルはここに由来する。ブランショ「去ること（partir）」の問題──『期待・忘却（L'Attente l'oubli）』において「どこへ（où）」という問いは常に答えられないまま問い続けられるという時間論と照応する。v.33「vos non potestis venire（あなた方は来られない）」という不可能性の宣言が、この問いへの応答として先行していたことをペトロは理解していなかった──理解の時間的遅延（v.7「postea scies」）が再現される。"
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "non cantabit gallus, donec ter me neges.",
+      "body": "「鶏が鳴く前に、あなたは三度私を否定するだろう」──「gallus（鶏）」という動物の鳴き声が時間の指標として機能する。「ter（三度）」という数の反復が予告として確立される。ペトロの「animam meam pro te ponam（命をあなたのために捧げます）」という最大の宣言と「三度の否定」という最大の失敗が同一の場面で予告される逆説。ブランショ「失敗（échec）と決意（résolution）」──人間の最も強い決意はその失敗の可能性を除去しないという倫理的リアリズムが、イエスの予告によって神学的に確立される。バタイユ「人間的限界（limite humaine）」論：「命を捧げる（animam ponere）」という最高の意志の表明が、鶏の声という最も日常的・動物的なシグナルによって測定・無化されるという対比の暴力性。"
+    }
+  ]
+}
