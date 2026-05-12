@@ -9,7 +9,7 @@
   "category": "hieronymus",
   "originalLang": "la-LA",
   "modernRelevance": "★★★★★",
-  "context": "ヨハネによる福音書第18章。逮捕・尋問・ペトロの否認・ピラトとの対話を語る受難の開始章。第17章「大祭司の祈り」の静謐から転じて、本章は行動と対話の連鎖として展開する。構造は三部：第一部（v.1–11）ゲッセマネの園での逮捕──「Ego sum（私はある）」の宣告と兵士たちの倒伏；第二部（v.12–27）アンナス・カイアファへの連行とペトロの三度の否認──「Non sum（私は……ではない）」の反復；第三部（v.28–40）ピラトの法廷──「Regnum meum non est de hoc mundo（私の王国はこの世のものではない）」と「Quid est veritas?（真理とは何か）」。ヨハネ福音書の受難記述の特質は、苦しむイエスではなく「知っており（sciens）」「主導する（processit）」王的イエスの描写にある。v.5–6の「Ego sum」による兵士たちの倒伏はヨハネ福音書のみに記され、神的名称の発声による力の顕示として機能する。v.38「Quid est veritas?」というピラトの問いは、西洋哲学史・文学史における最も有名な問いのひとつとして流通した。バッハ「ヨハネ受難曲（Johannes-Passion, BWV 245, 1724）」は本章・第19章を主要テキストとし、コラール・アリア・合唱によってこの物語を音楽的に多声化する。太宰治「駈込み訴へ（1940）」はユダの一人称独白として裏切りの心理を内側から語り、「告白という語り形式」の問題を前景化する。",
+  "context": "ヨハネによる福音書第18章。逮捕・尋問・ペトロの否認・ピラトとの対話を語る受難の開始章。第17章「大祭司的祈り」の静謐から転じて、本章は行動と対話の連鎖として展開する。構造は三部：第一部（v.1–11）ゲッセマネの園での逮捕──「Ego sum（私はある）」の宣告と兵士たちの倒伏；第二部（v.12–27）アンナス・カイアファへの連行とペトロの三度の否認──「Non sum（私は……ではない）」の反復；第三部（v.28–40）ピラトの法廷──「Regnum meum non est de hoc mundo（私の王国はこの世のものではない）」と「Quid est veritas?（真理とは何か）」。ヨハネ福音書の受難記述の特質は、苦しむイエスではなく「知っており（sciens）」「主導する（processit）」王的イエスの描写にある。v.5–6の「Ego sum」による兵士たちの倒伏はヨハネ福音書のみに記され、神的名称の発声による力の顕示として機能する。v.38「Quid est veritas?」というピラトの問いは、西洋哲学史・文学史における最も有名な問いのひとつとして流通した。「Non sum（私は……ではない）」というペトロの三度の否認（v.17・v.25・v.27）と「Ego sum（私はある）」というイエスの宣言が章全体の語彙的対称軸を形成する。注釈は章全体の40段落すべてを対象とし、参照軸としてブランショ（代替の倫理・書かれたものの自己実現・語ることと聴くこと・見ることと証言・沈黙の語り）・デリダ（遂行的発語の暴力・法廷と正義の差異・証言の構造・友愛の政治学・贈与と死）・バルト（発話の起源・punctum・身体の記憶）・ナンシー（傷と固有名・身体の暖まること・声の現象学）・ヴェイユ（力の論理・afflictionと侮辱・法と恩寵）・バッハ「ヨハネ受難曲（BWV 245）」（各コーラル・アリアとの対応）・太宰治「駈込み訴へ」（ユダの内的分裂・愛と裏切り）・ハイデガー（存在の自己主張・不安と畏怖・死の様式）を統合的に配置する。",
   "keywords": [
     "逮捕",
     "Ego sum",
@@ -293,6 +293,14 @@
       "body": "「ユダもその場所を知っていた──イエスはたびたびそこに集まっておられたからだ」──「frequenter（たびたび）」という副詞が「場所の知識」の由来を説明する。最も親密な集まりの場所が裏切りの場所として機能するという逆説。太宰治「駈込み訴へ（1940）」のユダは「私はあの人に惚れているのです」と告白し、愛と裏切りの分離不可能性を一人称で語る──「frequenter（たびたび）」共にいたという親密さが、裏切りを可能にする条件として機能する構造を太宰は内面から展開する。ブランショ「裏切りの中立性（neutralité de la trahison）」──裏切りは中立的で非人格的な力として「tradebat（裏切りつつあった）」という未完了形で継続する。"
     },
     {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Judas ergo cum accepisset cohortem, et a pontificibus et pharisaeis ministros, venit illuc cum laternis, et facibus, et armis.",
+      "body": "「ユダは一隊の兵士と……松明と灯火と武器を持ってそこへ来た（cum laternis, et facibus, et armis）」──「laternis（提灯）・facibus（松明）・armis（武器）」という三種の持ち物の列挙が、逮捕隊の準備の完全性を示す。第1章v.5「lux in tenebris lucet（光は暗闇の中で輝く）」の「光と闇」という神学的対立が、ここでは「人工の光（laternis, facibus）」が「真の光（lux vera）」を捕らえに来るという逆説的場面として具現化される：人間が作り出した光がVerbum（真の光）を闇の中で照らし出そうとする。バッハ「ヨハネ受難曲」第1番コーラス「Herr, unser Herrscher」で展開される「栄光の光が苦難の闇の中へ」という神学的逆説が、この「松明と武器」の入園に音楽的に対応する。太宰治「駈込み訴へ」のユダが「あの人がどんなに偉いか、私だけが知っている」と告白しながら連行を手引きするという内的分裂が、ここでの「道案内者（知っている者）」としての役割に照応する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 5
+    },
+    {
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Jesus itaque sciens omnia quae ventura erant super eum, processit, et dixit eis: Quem quaeritis?",
@@ -315,6 +323,34 @@
       "targetParagraphId": 20
     },
     {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Iterum ergo interrogavit eos: Quem quaeritis? Illi autem dixerunt: Jesum Nazarenum.",
+      "body": "「再び問われた：誰を求めているのか──ナザレのイエスを」──v.4–6での「Ego sum」による兵士の倒伏の後、イエスは同じ問いを繰り返す。倒れた後に再び立ち上がって問いに答えるという構造が、「倒伏（ceciderunt in terram）」という力の顕示が逮捕を妨げないというヨハネ的逆説を確立する。「Quem quaeritis?」の反復が第1章v.38「Quid quaeritis?（何を求めているのか）」以来の「求めること（quaerere）」という主題の最終的な負の極として機能する：弟子たちへの最初の「何を求めているか」という問いかけが、逮捕者たちへの「誰を求めているのか」として反転される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Respondit Jesus: Dixi vobis, quia ego sum: si ergo me quaeritis, sinite hos abire.",
+      "body": "「私はあると言ったではないか──私を求めているなら、この人たちを行かせなさい（sinite hos abire）」──「sinite hos abire（この人たちを行かせなさい）」という命令形が逮捕の場面でのイエスの主導権を示す：逮捕されながら同行者の解放を「命令する」という王的制御の維持。「si ergo me quaeritis（私を求めているなら）」という条件節が、「私」という単一の固有性への逮捕の絞り込みを自ら行う：イエスは自らを「交換可能な身代わり」として提示する。ブランショ「代替（substitution）の倫理」──自らを差し出して他者を解放するという身代わりの身振りが、第11章のラザロの「代わりに死ぬ」というトマスの言葉（v.16「ut moriamur cum eo」）と逆の方向において機能する。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ut impleretur sermo, quem dixit: Quia quos dedisti mihi, non perdidi ex eis quemquam.",
+      "body": "「『あなたが私にくださった者を、私は一人も失いませんでした』と言われたみ言葉が成就するためであった」──第17章v.12「nemo ex eis periit（誰も滅びなかった）」の反響が、「sinite hos abire（この人たちを行かせなさい）」という命令の神学的根拠として事後的に提示される。「Ut impleretur sermo（み言葉が成就するために）」という目的節が、逮捕の場面での個別行為（弟子の解放）を「言葉の成就」という次元に接続する。ブランショ「書かれたものの自己実現」──語られた言葉（sermo）が現実の出来事を産出するという「遂行的言語（parole performative）」の聖書的形式として機能する：第17章で「祈られた言葉」がここで「物語として成就する」という時間的連鎖。",
+      "targetId": "hieronymus_ioannes_17",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Simon ergo Petrus habens gladium eduxit eum: et percussit pontificis servum, et abscidit auriculam ejus dexteram. Erat autem nomen servo Malchus.",
+      "body": "「シモン・ペトロは剣を抜いて大祭司の僕に打ちかかり、右の耳を切り落とした──その僕の名はマルコスであった」──「gladium（剣）」によるペトロの暴力と「auriculam dexteram（右の耳）」の切断という具体的な身体的描写。「Erat autem nomen servo Malchus（その僕の名はマルコスであった）」──名もなく登場した者に名が与えられるという語りの身振りが、ヨハネ福音書の証言的精密さを示す：名を知ることは「その人が実在した」という証言の根拠として機能する。「auris（耳）」という聴覚器官への攻撃が、v.37「omnis qui est ex veritate, audit vocem meam（真理に属する者は私の声を聞く）」という「聴くこと」の主題と逆照射する：「聴くこと（audire）」の器官を傷つける行為としての剣の攻撃。ナンシー「傷（blessure）と固有名」：傷を受けた者に名が与えられることで、匿名の暴力の被害者が固有の人格として記録される。"
+    },
+    {
       "paragraphId": 11,
       "type": "commentary",
       "anchor": "Calicem, quem dedit mihi Pater, non bibam illum?",
@@ -323,10 +359,38 @@
       "targetParagraphId": null
     },
     {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Cohors ergo, et tribunus, et ministri Judaeorum comprehenderunt Jesum, et ligaverunt eum.",
+      "body": "「一隊の兵士と千人隊長とユダヤ人の手下たちがイエスを捕らえ、縛った（ligaverunt eum）」──「comprehenderunt（捕らえた・把握した）」という動詞が第1章v.5「tenebrae eam non comprehenderunt（闇は光を把握しなかった）」と同一語根として反響する：「闇が把握できなかった（non comprehenderunt）」光を、今度は武装した者たちが物理的に「把握（comprehenderunt）」する。「ligaverunt（縛った）」という動詞が第11章v.44「ligatus pedes et manus（手足が縛られた）」のラザロの死装束・第19章v.40「ligaverunt illud linteis（亜麻布で包んだ）」の埋葬と同語根として連鎖する：縛ることが死の経験と連動するという語彙的神学。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et adduxerunt eum ad Annam primum: erat enim socer Caiphae, qui erat pontifex anni illius.",
+      "body": "「まずアンナスのところに連れて行った──アンナスはその年の大祭司カイアファの舅であったからだ」──「primum（まず）」という副詞が「アンナス→カイアファ→ピラト」という連行の三段階の順序を確立する。「erat enim socer Caiphae（カイアファの舅であったからだ）」という説明的語り──「舅（socer）」という親族関係が法的権威の連鎖として機能する：宗教的権力の家族的・血縁的基盤を示す。ヴェイユ「力（force）の連鎖」：権力は常に上位の権威（カイアファ→ローマ）から委譲されるという力の連鎖として理解される：アンナスへの「まず（primum）」の連行がその連鎖の第一環として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Erat autem Caiphas, qui consilium dederat Judaeis: Quia expedit unum hominem mori pro populo.",
+      "body": "「カイアファは『一人の人間が民のために死ぬ方が得策だ』とユダヤ人たちに助言した人物であった」──第11章v.49–51での「カイアファの預言」の回想的引用。「consilium dederat（助言を与えた）」という過去完了形が、現在の逮捕場面を第11章の先行する発言の成就として位置づける。デリダ「贈与と死（Donner la mort）」──「一人が民のために死ぬ（unus moriatur pro populo）」という命題が贈与の逆説的論理（一人の死が多数の「命の贈与」として機能する）の政治的・神学的形式として機能する。バッハ「ヨハネ受難曲」ではこの「pro populo（民のために）」という命題が受難神学の核心として繰り返しコラールに回帰する。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 50
+    },
+    {
       "paragraphId": 15,
       "type": "commentary",
       "anchor": "Discipulus autem ille erat notus pontifici, et introivit cum Jesu in atrium pontificis.",
       "body": "「その弟子は大祭司の知り合いで、イエスと共に大祭司の屋敷の中庭に入った」──第13章v.23で「イエスが愛しておられた弟子（discipulus quem diligebat Jesus）」として登場した「愛の弟子」の再出現。名を持たず「知り合い（notus）」という関係性によって定義される証言者が、ペトロとは対照的に「入る」ことができた者として提示される。ブランショ「証言と匿名性」──証言者は自らを透明にすることで語る：「愛の弟子」は名を持たないゆえに内部に入れた、という逆説。バッハ「ヨハネ受難曲」では「愛の弟子」がコラールの語り手的位置を担い、聴衆と物語の間の媒介者として機能する。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Petrus autem stabat ad ostium foris. Exivit ergo discipulus alius, qui erat notus pontifici, et dixit ostiariae: et introduxit Petrum.",
+      "body": "「しかしペトロは外で門の所に立っていた──大祭司の知り合いであるもう一人の弟子が出て来て、門番の女に話し、ペトロを中に入れた」──「stabat ad ostium foris（外で門のところに立っていた）」というペトロの境界的位置：「内部（中庭）」と「外部（通り）」の中間としての門における停滞。「愛の弟子」が「出て来て（exivit）」ペトロを「中に入れた（introduxit）」という仲介の行為が、第20章v.4「praecucurrit citius Petro（より速く走った）」の構造を先取りする：「愛の弟子」は常にペトロより先に動き、ペトロのための道を開く。第1章v.11「In propria venit, et sui eum non receperunt（自分のもののもとに来た──受け入れなかった）」という「受け入れと排除」の主題が、「门番の女に話して中に入れた」という小さな社会的行為において鏡的に反転される。"
     },
     {
       "paragraphId": 17,
@@ -341,10 +405,56 @@
       "body": "「僕たちや手下たちは炭火を起こし……ペトロも彼らと一緒に立って暖まっていた」──「prunas（炭火）」という感覚的詳細の記述。「frigus erat（寒かった）」という気象的注記が否認の場面の背景として定着される。第13章v.30「Erat autem nox（夜だった）」と同様の簡潔な情景描写がバルト的「刺点（punctum）」として機能する：「寒い夜に炭火を囲む」という情景が、ペトロの否認の身体的条件として刻印される。バッハ「ヨハネ受難曲」第12番アリア「Ach, mein Sinn（ああ、わが心よ）」はペトロが鶏の声を聞いて崩れ去る場面を「内的声（innere Stimme）」として展開する。ナンシー「身体の暖まること（se réchauffer）」の物質的次元──「calefaciens se（暖まっていた）」という身体的快楽が裏切りの場面に隣接する記述の詩的リアリズム。"
     },
     {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Pontifex ergo interrogavit Jesum de discipulis suis, et de doctrina ejus.",
+      "body": "「大祭司はイエスに弟子たちのことと、その教えについて尋ねた（de discipulis suis, et de doctrina ejus）」──「discipuli（弟子たち）」と「doctrina（教え）」という二つの問いの対象が、「共同体と言葉」という二重の構造として尋問の射程を定義する。v.20でのイエスの応答「Ego palam locutus sum mundo（私は世に公然と語った）」は、「doctrina（教え）」への問いにのみ答え「discipuli（弟子たち）」については沈黙する：弟子たちを「保護する沈黙」として機能する。バッハ「ヨハネ受難曲」では大祭司の尋問が「権威による語りの強制」として音楽的に圧迫的な調性で表現される。"
+    },
+    {
       "paragraphId": 20,
       "type": "commentary",
       "anchor": "Ego palam locutus sum mundo: ego semper docui in synagoga, et in templo, quo omnes Judaei conveniunt, et in occulto locutus sum nihil.",
       "body": "「私は世に公然と語った──隠れて何かを語ったことはない（in occulto locutus sum nihil）」──「palam（公然と）」と「in occulto（隠れて）」の対比による語りの倫理の宣言。第17章での「Manifestavi nomen tuum（あなたの名を現した）」という使命の総括として機能する。ブランショ「語ることの公共性（publicité de la parole）」──真の言葉は隠れることなく公共的空間において発語されるという言語倫理が、「in occulto nihil（隠れて何も言わなかった）」という否定によって確立される。デリダ「証言（témoignage）」論──証言は常に「公的な場（lieu public）」を必要とし、証人は自らの語りに責任を負う：「interroga eos qui audierunt（聞いた人たちに聞け）」という対審への招待がデリダ的証言の論理として機能する。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Quid me interrogas? interroga eos qui audierunt quid locutus sim ipsis: ecce hi sciunt quae dixerim ego.",
+      "body": "「なぜ私に尋ねるのか──聞いた人たちに聞きなさい（interroga eos qui audierunt）」──「interroga eos qui audierunt（聴いた人たちを尋問せよ）」という対審への招待。「ecce hi sciunt（見よ、彼らは知っている）」──「ecce（見よ）」という指示詞がv.5「Ecce homo（見よ、この人）」・第19章v.14「Ecce rex vester（見よ、あなた方の王）」という「Ecce」の連鎖に先行する：ここでのイエスの「ecce（見よ）」は証人たちを指示する。デリダ「証言（témoignage）の構造」──証言は常に第三者の「audire（聴くこと）」に依存し、「聴いた者たちに聞け」という命令は証言の社会的・間主観的条件を明示する。ブランショ「語ることと聴くこと」の非対称性：「私が語った（locutus sim）」ことの真実は「聴いた者たち（qui audierunt）」によってのみ証言できるという語りの開口性。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Haec autem cum dixisset, unus assistens ministrorum dedit alapam Jesu, dicens: Sic respondes pontifici?",
+      "body": "「こう言われると、手下の一人がイエスを平手打ちして言った（dedit alapam Jesu）──大祭司にそのように答えるのか」──「alapam（平手打ち）」という語が第19章v.3「dabant ei alapas（平手打ちをした）」に反響する：尋問の場での単独の暴力が磔刑の場での集団的暴力の先行形として機能する。「Sic respondes pontifici?（大祭司にそのように答えるのか）」──礼儀の欠如という罪名による暴力の正当化。ヴェイユ「affliction（苦難）の随伴としての侮辱」──苦難は常に物理的苦痛だけでなく社会的侮辱を伴って完成するという命題が、この「平手打ち＋叱責」の組み合わせに凝縮される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Respondit ei Jesus: Si male locutus sum, testimonium perhibe de malo: si autem bene, quid me caedis?",
+      "body": "「もし私が悪いことを言ったなら、その悪いことについて証しなさい──しかし良いことを言ったなら、なぜ打つのか（quid me caedis）」──「testimonium perhibe de malo（悪いことについて証しなさい）」という法的対審への呼びかけが、暴力を「証言の手続き」によって超克しようとする言語的応答として機能する。「si … si autem（もし……しかしもし）」という条件文の二重構造が、暴力の不当性を論理的に析出する：「悪いことを言った→証言すべき」「良いことを言った→打つべきでない」という完全な条件対称が暴力の恣意性を示す。ブランショ「語ることの法的保護」：語ることは常に「反論可能性（contestabilité）」を保持し、その可能性を奪う暴力は言語行為の根拠を破壊する。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Et misit eum Annas ligatum ad Caipham pontificem.",
+      "body": "「アンナスはイエスを縛ったまま（ligatum）大祭司カイアファのもとに送った」──「ligatum（縛られたまま）」という分詞が拘束の継続を示す。v.12「ligaverunt eum（縛った）」から本節「ligatum（縛られたまま）」まで、拘束は解かれることなく移送される。「連行の連鎖（アンナス→カイアファ→ピラト）」という権力移動の中で、身体は「縛られたもの（ligatum）」として一貫して移送の客体として機能する：縛ることが所有権の移転の身体的形式として機能する。第11章v.44「Solvite eum（ほどいてやれ）」というラザロへの解放命令の対極として、ここでの「縛ったまま」の移送が受難の身体的拘束の継続を確認する。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 44
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Erat autem Simon Petrus stans, et calefaciens se. Dixerunt ergo ei: Numquid et tu ex discipulis ejus es? Negavit ille, et dixit: Non sum.",
+      "body": "「シモン・ペトロは立って暖まっていた──あなたもあの人の弟子の一人ではないか──違う（Non sum）」──第二の否認。v.17の第一の否認（門番の女への「Non sum」）が、ここで場所と問い手を変えて反復される。「stans, et calefaciens se（立って暖まっていた）」というv.18の炭火の場面が継続される：ペトロは同じ姿勢・同じ場所で第二の否認を行う。「Non sum（私は……ではない）」という発語がv.5「Ego sum（私はある）」の神学的対極として三度確立される連鎖の第二環として機能する。太宰治「駈込み訴へ」のユダが「私はあの人が好きだから裏切る」という愛と裏切りの分離不可能性を語るのとは対照的に、ペトロの否認は「好きだから従ってきた」という愛から「怖いから否定する」という恐怖への滑落として構造化される。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "commentary",
+      "anchor": "Dicit ei unus ex servis pontificis, cognatus ejus, cujus abscidit Petrus auriculam: Nonne ego te vidi in horto cum illo?",
+      "body": "「大祭司の僕の一人で、ペトロに耳を切られた者の縁者が言った──私はあなたが彼と一緒に園にいるのを見たのではないか（Nonne ego te vidi in horto cum illo）」──v.10でペトロが傷つけた「Malchus（マルコス）」の縁者が証人として登場するという精密な語りの構成。「Nonne ego te vidi（私は……あなたを見なかったか）」という目撃証言の問いが、v.26の「証人」としての登場者を「私は見た（vidi）」という証言の言語で定義する。「in horto（園で）」という場所への言及が第18章v.1「hortus（園）」を証拠の場として回帰させる：逮捕の「園」が否認の場面へと証言的に侵入する。ブランショ「見ることが証言を生む」：目撃者（qui vidit）は語る義務を負うという証言の倫理が、この縁者の問いに照応する。"
     },
     {
       "paragraphId": 27,
@@ -359,6 +469,52 @@
       "body": "「夜明けだった──彼らは汚れないために官邸には入らなかった」──「mane（夜明け）」という時間的移行が第13章v.30「nox（夜）」から「朝」への転換として機能する。「ut non contaminarentur（汚れないために）」という純粋保持の動機と「死刑要求」という行為の極端な逆説が、無言で並置される。ヴェイユ「力（la force）」論──「La Violence」章での「力の支配のもとで人間は自己欺瞞に陥る」という命題：宗教的清潔を保ちながら殺人を要求するという行為の分裂を、ヴェイユ的「力の論理」が説明する。バッハ「ヨハネ受難曲」においてこの「汚れ」の逆説はコラールで繰り返し問われ、外側の清潔と内側の腐敗の逆転が受難物語の神学的核心として提示される。",
       "targetId": "weil_la_violence",
       "targetParagraphId": null
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Exivit ergo Pilatus ad eos foras, et dixit: Quam accusationem affertis adversus hominem hunc?",
+      "body": "「ピラトは彼らのところへ外に出て来て言った──この人物に対してどのような訴えを持ってきたのか（Quam accusationem affertis）」──v.28「ipsi non introierunt in praetorium（彼らは官邸に入らなかった）」という「宗教的汚れ」の忌避に応じてピラトが「外に出る（exivit foras）」という空間的適応。「Quam accusationem（どのような訴えを）」という法的問いが「罪状（causa）」の存在を前提とする正当な法手続きの開始として機能する。デリダ「法廷（tribunal）と正義（justice）の差異」：法的手続き（accusatio・lex・iudicium）は「正義（justice）」と一致しないという差異が、「無罪（nullam causam）」と知りながらも法的手続きを続けるピラトの行動に体現される。"
+    },
+    {
+      "paragraphId": 30,
+      "type": "commentary",
+      "anchor": "Responderunt, et dixerunt ei: Si non esset hic malefactor, non tibi tradidissemus eum.",
+      "body": "「この人が悪人でなければ、あなたに引き渡しはしなかった（non tibi tradidissemus eum）」──「Si non esset hic malefactor（もしこの人が悪人でなければ）」という条件文が「悪人であること」を前提とした循環論法として機能する：「引き渡したという事実」が「悪人の証拠」として提示されるという論証の転倒。「tradidissemus（引き渡していた）」という接続法過去完了が「引き渡し（traditio）」という章全体の動詞を再び呼び起こす：ユダのイエス引き渡しがユダヤ当局のピラトへの引き渡しとして継続する。ヴェイユ「力（force）の言語」：力を行使した者は常にその行使を正当化する言語を必要とするという論理が、この「引き渡したのだから悪人だ」という力の言語化に照応する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Dixit ergo eis Pilatus: Accipite eum vos, et secundum legem vestram judicate eum. Dixerunt ergo ei Judaei: Nobis non licet interficere quemquam.",
+      "body": "「あなた方が受け取って、あなた方の律法で裁きなさい──私たちは誰も死刑にする権限がない（Nobis non licet interficere quemquam）」──ピラトの「律法で裁け（secundum legem vestram judicate）」という委任の発語と「死刑の権限がない（non licet interficere）」というユダヤ側の権限の否定が、「死刑の執行権」という法的権限の所在をめぐる交渉として機能する。「Nobis non licet（私たちには許されない）」という法的不能の宣言が、次節v.32での「ローマ式処刑（十字架）を要求する」という動機として機能する：律法上の石打ち刑ではなく、ローマ法による十字架刑を実現するための「권限の所在の操作」。ハイデガー「死の様式」：どのような死に方で死ぬかという問いが、ここでは政治的・法的に交渉されるという受難の存在論的次元。"
+    },
+    {
+      "paragraphId": 32,
+      "type": "commentary",
+      "anchor": "Ut sermo Jesu impleretur, quem dixit, significans qua morte esset moriturus.",
+      "body": "「イエスがどのような死に方で死ぬかを示されたみ言葉が成就するためであった」──v.9「Ut impleretur sermo（み言葉が成就するために）」に続く第二の「成就」の言及。法的・政治的交渉（ユダヤ権限の否定→ローマ法への委任）という現実的プロセスが「み言葉の成就」という神学的必然として枠組みされる。「significans qua morte（どのような死を示すか）」──「significare（示す・意味する）」という動詞が「死の様式（modus mortis）」の予言的意味論として機能する：十字架刑という死の形式が第12章v.32「cum exaltatus fuero a terra（地上から上げられるとき）」という予告の成就として確認される。"
+    },
+    {
+      "paragraphId": 33,
+      "type": "commentary",
+      "anchor": "Introivit ergo iterum in praetorium Pilatus: et vocavit Jesum, et dixit ei: Tu es rex Judaeorum?",
+      "body": "「ピラトは再び官邸に入り、イエスを呼んで言った──あなたはユダヤ人の王か（Tu es rex Judaeorum）」──「Introivit iterum（再び入った）」という動詞が、ピラトの「内部（官邸）」と「外部（群衆）」の間の往復運動の一部として機能する：ピラトは章全体を通じて「内部と外部を往復する」者として描かれ、この往復が決断の遅延・優柔不断の身体的表現となる。「Tu es rex Judaeorum?（あなたはユダヤ人の王か）」──断定ではなく問いとして提示される「王」の称号が、v.34でイエスに問い返されることで「名前の帰属」をめぐる対話として展開される。"
+    },
+    {
+      "paragraphId": 34,
+      "type": "commentary",
+      "anchor": "Respondit Jesus: A temetipso hoc dicis, an alii dixerunt tibi de me?",
+      "body": "「イエスは答えられた──あなたは自分からそう言うのか、それとも他の者が私についてあなたに言ったのか（a temetipso hoc dicis, an alii dixerunt tibi）」──問いを問いで返すという対話の転換。「a temetipso（あなた自身から）」という起源の副詞句が、言葉の「固有の発言（parole propre）」と「伝聞（parole rapportée）」の区別を問題化する。バルト「発話の起源（origine de l'énonciation）」：「あなた自身から言うのか、それとも他から聞いたのか」という問いは、発話者の固有性と証言の媒介性という言語行為の根本問題を提起する。ブランショ「他者の声を通して語ること」：ピラトの「Tu es rex」という問いは「他者（祭司長たち）の声」を代理しているという逆照射。"
+    },
+    {
+      "paragraphId": 35,
+      "type": "commentary",
+      "anchor": "Respondit Pilatus: Numquid ego Judaeus sum? gens tua et pontifices tradiderunt te mihi: quid fecisti?",
+      "body": "「私はユダヤ人ではないだろう（Numquid ego Judaeus sum）──あなた自身の民族と祭司長たちがあなたを私に引き渡したのだ──何をしたのか」──「Numquid ego Judaeus sum?」という修辞疑問が「私はあなたの問いに答える義務を持たない」という外部者としての立場の主張。「gens tua et pontifices（あなた自身の民族と祭司長たち）」──「自分のもの（propria）」による「自分のもの（suus）」の否定という第1章v.11「In propria venit, et sui eum non receperunt」の政治的・法的展開として読める。「quid fecisti?（何をしたのか）」という問いが、v.36でのイエスの「Regnum meum non est de hoc mundo（私の王国はこの世のものではない）」という応答を引き出す：「何をしたか」という行為の問いに対して「いかなる種類の存在として在るか」という存在論的応答が返される。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 11
     },
     {
       "paragraphId": 36,
@@ -379,6 +535,12 @@
       "type": "commentary",
       "anchor": "Dicit ei Pilatus: Quid est veritas?",
       "body": "「ピラトは言った：真理とは何か（Quid est veritas?）」──西洋哲学史・文学史における最も引用された問いのひとつ。注目すべきはこの問いの直後に「Et cum hoc dixisset, iterum exivit（こう言ってから再び出て行き）」と記されることで、ピラトは問いへの答えを待たずに去る──問いを問いとして放置する哲学的ポーズあるいは倦怠として。バッハ「ヨハネ受難曲」はこの「Quid est veritas?」に対し、音楽的沈黙ではなくコラールによる神学的応答を配置する：問いと応答の非対称性が音楽劇として展開される。デリダ「真理の問い（question de la vérité）」論──「真理とは何か」という問いは答えを求める問いではなく、問い自体がすでに真理の近傍にあることを示す：ピラトが答えを待たないことは、問いの存在論的深さに対する哲学的誠実さの欠如を示すのか、それとも答えの不可能性の直観を示すのかという解釈の分岐点。ヴェイユ「真実を愛すること（amour de la vérité）」──真理への愛は全存在をかけた問いとして実践されるという命題と、答えを待たずに去るピラトの対照。"
+    },
+    {
+      "paragraphId": 39,
+      "type": "commentary",
+      "anchor": "Est autem consuetudo vobis ut unum dimittam vobis in Pascha: vultis ergo dimittam vobis regem Judaeorum?",
+      "body": "「過越祭にはあなた方のために一人を釈放する慣例がある──ユダヤ人の王を釈放してほしいか（vultis ergo dimittam vobis regem Judaeorum）」──「consuetudo（慣例・慣習）」という語が制度的・反復的行為の틀組みを確立する：個別の出来事ではなく慣例の適用として問題が定式化される。「dimittam vobis regem Judaeorum?（ユダヤ人の王を釈放してほしいか）」──ピラトがここで「regem Judaeorum（ユダヤ人の王）」という称号を問いの中で使用することで、v.33での「Tu es rex?」という問いから始まった「王（rex）」の称号が、釈放の交渉の言語として流通する。バッハ「ヨハネ受難曲」でのバラバとの入れ替えの場面は、音楽的に最も暴力的な転調と群衆の叫びとして展開される：「unum（一人）」という選択の問いが「Non hunc, sed Barabbam（この人ではなく、バラバを）」という集団的否定へと転化する瞬間。"
     },
     {
       "paragraphId": 40,
