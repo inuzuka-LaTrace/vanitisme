@@ -1,0 +1,324 @@
+{
+  "id": "hieronymus_psalmi_50",
+  "title": "Psalmi L — Miserere mei, Deus",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi L (LXX/Vulgata numbering; Hebrew/English Ps. 51). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+51&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第50篇（ヘブライ語・英語聖書では51篇；ウルガータ・七十人訳では50篇）。「ダヴィデの詩篇──預言者ナタンがバト・シェバのもとに入ったときにダヴィデのもとに来たとき（cum venit ad eum Nathan propheta, quando intravit ad Bethsabee）」という歴史的標題を持つ。ダヴィデが預言者ナタンによって姦淫・謀殺の罪を指摘された後の悔悟の詩篇として伝承され、七つの「悔悟の詩篇（Psalmi Poenitentiales）」──詩篇6・32・38・50・101・129・142篇──の中でも最も集中した神学的・詩的強度を持つ。「Miserere mei, Deus（神よ、私を憐れんでください）」という冒頭句はキリスト教典礼の中で最も反復された語りかけとして、グレゴリオ聖歌から近代音楽まで無数の作曲家によって曲づけされてきた。アレグリのポリフォニー「Miserere（1638年）」はシスティーナ礼拝堂専用曲として秘匿されモーツァルトが記憶で写譜したという逸話で名高い。ヴェルディ「レクイエム（1874年）」・ベルリオーズ「レクイエム（1837年）」においても本詩篇の語彙（misericordia・iniquitas・cor contritum）が典礼テキストとして基盤をなす。構造は三部：第一部（v.3–7）罪の告白と神への訴え──「Miserere」の要請と「tibi soli peccavi（あなただけに罪を犯した）」という罪の神学的定義；第二部（v.8–14）清めと刷新の祈り──「hyssopo（ヒソプ）」による清め・「cor mundum（清い心）」の創造・「spiritum sanctum（聖霊）」の保持；第三部（v.15–21）使命への回帰と礼拝の再定義──「sacrificium Deo spiritus contribulatus（打ち砕かれた霊こそが神への犠牲）」という礼拝論の逆説。v.12「cor mundum crea in me, Deus（神よ、私の中に清い心を創造してください）」の「crea（創れ）」は創世記第1章「creavit（創った）」と同語根であり、悔悟を「新しい創造（nova creatio）」として定義するという神学的命題の核心をなす。詩篇21篇・87篇・129篇と同じく afflictionの聖書的証言として機能しながら、本篇は「罪の自覚（v.5）→告白（v.6）→清め（v.9）→刷新（v.12）→使命（v.15）」という回帰的運動によって、詩篇87篇の「転換なき絶望」とは対称的な「転換を通じた再生」の詩的形式を提示する。",
+  "keywords": [
+    "Miserere",
+    "misericordia",
+    "cor mundum",
+    "spiritus contribulatus",
+    "peccatum",
+    "hyssopo",
+    "iniquitas",
+    "悔悟の詩篇",
+    "nova creatio",
+    "sacrificium spiritus"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_129",
+    "hieronymus_iob_1",
+    "hieronymus_iob_3",
+    "hieronymus_iob_14",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ioannes_13",
+    "hieronymus_ioannes_19",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_la_violence",
+    "weil_atheisme_purificateur",
+    "trakl_de_profundis",
+    "baudelaire_de_profundis_clamavi",
+    "rossetti_de_profundis",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "In finem. Psalmus David, cum venit ad eum Nathan propheta, quando intravit ad Bethsabee.",
+      "provisionalTranslation": "終わりのために。ダヴィデの詩篇。預言者ナタンがダヴィデのもとに来たとき──バト・シェバのもとに入ったとき。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3",
+      "original": "Miserere mei, Deus, secundum magnam misericordiam tuam; et secundum multitudinem miserationum tuarum, dele iniquitatem meam.",
+      "provisionalTranslation": "神よ、あなたの大きな憐れみに従って私を憐れんでください。あなたの慈悲の多さに従って、私の咎を消し去ってください。"
+    },
+    {
+      "id": 3,
+      "verses": "v.4",
+      "original": "Amplius lava me ab iniquitate mea, et a peccato meo munda me.",
+      "provisionalTranslation": "私の咎からさらに洗い清めてください。私の罪から私を清めてください。"
+    },
+    {
+      "id": 4,
+      "verses": "v.5",
+      "original": "Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me est semper.",
+      "provisionalTranslation": "なぜなら私は自分の咎を知っており、私の罪は常に私の前にあるから。"
+    },
+    {
+      "id": 5,
+      "verses": "v.6",
+      "original": "Tibi soli peccavi, et malum coram te feci; ut justificeris in sermonibus tuis, et vincas cum judicaris.",
+      "provisionalTranslation": "あなただけに罪を犯し、あなたの御前で悪を行いました。あなたがその言葉において義とされ、裁かれるときに勝たれるように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.7",
+      "original": "Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.",
+      "provisionalTranslation": "見よ、私は咎の中に生まれ、私の母は罪の中に私を宿した。"
+    },
+    {
+      "id": 7,
+      "verses": "v.8",
+      "original": "Ecce enim veritatem dilexisti; incerta et occulta sapientiae tuae manifestasti mihi.",
+      "provisionalTranslation": "見よ、あなたは真理を愛してくださった。あなたの知恵の隠されたことと秘義を私に現してくださった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.9",
+      "original": "Asperges me hyssopo, et mundabor; lavabis me, et super nivem dealbabor.",
+      "provisionalTranslation": "ヒソプで私を清めてください、そうすれば私は清くなります。私を洗ってください、そうすれば雪より白くなります。"
+    },
+    {
+      "id": 9,
+      "verses": "v.10",
+      "original": "Auditui meo dabis gaudium et laetitiam, et exsultabunt ossa humiliata.",
+      "provisionalTranslation": "私の聴くものに喜びと楽しみをお与えください。打ち砕かれた骨が歓喜するように。"
+    },
+    {
+      "id": 10,
+      "verses": "v.11",
+      "original": "Averte faciem tuam a peccatis meis, et omnes iniquitates meas dele.",
+      "provisionalTranslation": "私の罪から御顔を背けてください。私のすべての咎を消し去ってください。"
+    },
+    {
+      "id": 11,
+      "verses": "v.12",
+      "original": "Cor mundum crea in me, Deus, et spiritum rectum innova in visceribus meis.",
+      "provisionalTranslation": "神よ、私の中に清い心を創造してください。私の内臓に正しい霊を新たにしてください。"
+    },
+    {
+      "id": 12,
+      "verses": "v.13",
+      "original": "Ne projicias me a facie tua, et spiritum sanctum tuum ne auferas a me.",
+      "provisionalTranslation": "私をあなたの御前から投げ捨てないでください。あなたの聖霊を私から取り去らないでください。"
+    },
+    {
+      "id": 13,
+      "verses": "v.14",
+      "original": "Redde mihi laetitiam salutaris tui, et spiritu principali confirma me.",
+      "provisionalTranslation": "あなたの救いの喜びを私に返してください。寛大な霊をもって私を強めてください。"
+    },
+    {
+      "id": 14,
+      "verses": "v.15",
+      "original": "Docebo iniquos vias tuas, et impii ad te convertentur.",
+      "provisionalTranslation": "咎ある者たちにあなたの道を教えます。そうすれば不敬虔な者たちはあなたに立ち帰るでしょう。"
+    },
+    {
+      "id": 15,
+      "verses": "v.16",
+      "original": "Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea justitiam tuam.",
+      "provisionalTranslation": "血の罪から私を解放してください、神よ、私の救いの神よ。そうすれば私の舌はあなたの義を高らかに歌います。"
+    },
+    {
+      "id": 16,
+      "verses": "v.17",
+      "original": "Domine, labia mea aperies, et os meum annuntiabit laudem tuam.",
+      "provisionalTranslation": "主よ、私の唇を開いてください。そうすれば私の口はあなたへの讃美を告げ知らせます。"
+    },
+    {
+      "id": 17,
+      "verses": "v.18",
+      "original": "Quoniam si voluisses sacrificium, dedissem utique; holocaustis non delectaberis.",
+      "provisionalTranslation": "もしあなたが犠牲を望まれたなら、私は確かにそれを献げたでしょう。しかしあなたは燔祭を喜ばれません。"
+    },
+    {
+      "id": 18,
+      "verses": "v.19",
+      "original": "Sacrificium Deo spiritus contribulatus; cor contritum et humiliatum, Deus, non despicies.",
+      "provisionalTranslation": "神への犠牲は打ち砕かれた霊。打ち砕かれ、低くされた心を、神よ、あなたは侮らないでしょう。"
+    },
+    {
+      "id": 19,
+      "verses": "v.20",
+      "original": "Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem.",
+      "provisionalTranslation": "主よ、あなたの御心の善意によってシオンに恵みをお与えください。エルサレムの城壁が建て直されるように。"
+    },
+    {
+      "id": 20,
+      "verses": "v.21a",
+      "original": "Tunc acceptabis sacrificium justitiae, oblationes et holocausta;",
+      "provisionalTranslation": "そのときあなたは義の犠牲を、供え物と燔祭を受け入れてくださるでしょう。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21b",
+      "original": "tunc imponent super altare tuum vitulos.",
+      "provisionalTranslation": "そのとき彼らはあなたの祭壇の上に雄牛を献げるでしょう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "In finem. Psalmus David, cum venit ad eum Nathan propheta, quando intravit ad Bethsabee.",
+      "body": "詩篇50篇の二重の標題。「In finem（終わりのために）」：ヘブライ語「לַמְנַצֵּחַ（lamenatseaḥ）」のラテン語訳──「指揮者のために」という音楽的指示。「Psalmus David（ダヴィデの詩篇）」に続く「cum venit ad eum Nathan propheta, quando intravit ad Bethsabee（預言者ナタンがダヴィデのもとに来たとき──バト・シェバのもとに入ったとき）」という歴史的標題が、この詩篇を具体的な罪の経験（姦淫・謀殺：サムエル記下第11–12章）の文脈に位置づける。「王（rex）」という最高権力者が「罪を犯した者（peccator）」として詩篇を発語するという構造が、コヘレト第1章「エルサレムの王（regis Jerusalem）」がすべての虚無を告発するという「王の逆説」と同型の逆説をなす。詩篇21篇v.2「quare me dereliquisti（なぜ見捨てたのか）」という「遺棄の問い」に対して、本篇は「tibi soli peccavi（あなただけに罪を犯した）」という「罪の告白」として対称的な応答をなす：遺棄された者の嘆きと、罪を犯した者の告白という二つの聖書的affliction定式。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Miserere mei, Deus, secundum magnam misericordiam tuam; et secundum multitudinem miserationum tuarum, dele iniquitatem meam.",
+      "body": "「神よ、あなたの大きな憐れみに従って私を憐れんでください（Miserere mei, Deus）」──「Miserere」という命令形が詩篇全体の表題・象徴語として流通する。「misericordia（憐れみ）」はヘブライ語「חֶסֶד（hesed）」の訳──「契約的愛・変わらぬ慈悲」という関係的概念。「miserationum（慈悲の複数）」という複数形が憐れみの「多さ（multitudo）」を強調する：「大きな（magna）」と「多さ（multitudo）」という二重の量的強調が、罪の重さへの応答として神的憐れみの過剰な豊かさを宣言する。音楽史：グレゴリオ聖歌「Miserere」の反唱・アレグリ「Miserere（1638年）」（システィーナ礼拝堂専用のポリフォニー、モーツァルトが記憶で写譜した逸話で著名）・ヴェルディ「スターバト・マーテル」・バッハ「カンタータ」など無数の音楽化の中心句。「dele iniquitatem meam（私の咎を消し去ってください）」──「delere（消す・抹消する）」という動詞がv.11「omnes iniquitates meas dele（すべての咎を消し去ってください）」と首尾照応する：詩篇全体が「消去（deletio）」という言語行為を核心として展開する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Amplius lava me ab iniquitate mea, et a peccato meo munda me.",
+      "body": "「私の咎からさらに洗い清めてください（Amplius lava me）──私の罪から私を清めてください（munda me）」──「lavare（洗う）」と「mundare（清める）」という二つの浄化動詞の連動。「Amplius（さらに・より完全に）」という副詞が単純な洗いを超えた「根本的浄化」への要求を示す。v.9「lavabis me, et super nivem dealbabor（洗ってください、そうすれば雪より白くなります）」・ヨハネ第13章v.8「Si non lavero te, non habebis partem mecum（もし私があなたを洗わなければ、あなたは私と関わりを持てない）」という洗いの主題群との照応。ヴェイユ「真空の受容（Accepter le vide）」：浄化は「空虚（vide）」を作り出すための先行条件として機能するという命題が、この「洗い・清め」の要求に照応する──浄化されることで神の恩寵が入り込む余地（vide）が生まれる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quoniam iniquitatem meam ego cognosco, et peccatum meum contra me est semper.",
+      "body": "「私は自分の咎を知っており（ego cognosco）、私の罪は常に私の前にある（contra me est semper）」──「ego cognosco（私は知っている）」という主体的認識の宣言。罪が「cognosco（知識の対象）」となることが、詩篇87篇v.2「in die clamavi et nocte（昼も夜も叫んだ）」という無意識的嘆きとは対照的に、本篇の「意識的な罪の自覚」という特質を定義する。「contra me est semper（常に私の前にある）」──罪の持続的・不消滅的存在として。ブランショ「記憶の持続性」──「semper（常に）」という時間副詞が罪を「記憶の中に持続する現実」として定義する：罪はなされた過去の出来事であるにもかかわらず「常に（semper）」現在として意識を占領し続ける。ヴェイユ「affliction（苦難）の魂への刻印」：afflictionは経験として終わった後も魂に「刻印（empreinte）」として残り続けるという命題が、「contra me est semper」という罪の恒常的現前に照応する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Tibi soli peccavi, et malum coram te feci; ut justificeris in sermonibus tuis, et vincas cum judicaris.",
+      "body": "「あなただけに罪を犯し（Tibi soli peccavi）──あなたがその言葉において義とされ（ut justificeris in sermonibus tuis）」──詩篇50篇の神学的核心命題。「Tibi soli（あなただけに）」という排他的単数が、罪を「神との垂直的関係の破綻」として定義する：姦淫・謀殺というダヴィデの行為は水平的（人間相互）な罪でありながら、「tibi soli（あなただけに）」という宣言が神との関係の次元においてのみ罪が本質的に定義されることを主張する。「ut justificeris in sermonibus tuis, et vincas cum judicaris（あなたがあなたの言葉において義とされ、裁かれるときに勝たれるように）」──罪の告白が神の義の顕示のための条件として機能するという逆説的命題：人間の罪の認識が神的義の「証明の場（locus demonstrationis）」となる。パウロ「ローマ書」第3章v.4での引用：この節は新約聖書の恵みの神学において「罪人の告白が神の義を確立する」という命題として中心的に機能する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.",
+      "body": "「見よ、私は咎の中に生まれ（in iniquitatibus conceptus sum）、私の母は罪の中に私を宿した（in peccatis concepit me mater mea）」──「原罪（peccatum originale）」の詩篇的定式として西洋神学において最も重要な聖書的根拠の一つ。「conceptus sum（宿された）」という受動完了形が誕生以前への遡及として機能する：罪は個人の行為の前に「存在様式（modus essendi）」として先行する。ヨハネ第13章v.13「qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt（血によってでも、肉の意志によってでも……なく、神から生まれた）」という「神からの誕生」の命題が、この「in peccatis concepit（罪の中に宿した）」という人間的誕生の条件への応答として神学的に照応する。ヴェイユ「被造物の条件（condition de la créature）」：被造物として生まれることは常に「重力（pesanteur）」の法則に縛られた条件として出発するという命題が、「in iniquitatibus conceptus（咎の中に宿された）」という誕生の条件に照応する。",
+      "targetId": "hieronymus_ioannes_13",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ecce enim veritatem dilexisti; incerta et occulta sapientiae tuae manifestasti mihi.",
+      "body": "「見よ、あなたは真理を愛してくださった（veritatem dilexisti）──あなたの知恵の隠されたことと秘義を私に現してくださった（manifestasti mihi）」──罪の告白（v.5–7）から神の積極的行為（愛・開示）への転換。「veritatem dilexisti（真理を愛した）」──神の「愛の対象（真理）」と人間の「愛の対象（罪）」の対比が、前節の「in peccatis」と本節の「veritas」の間に張られる。「incerta et occulta（不確かなもの・隠されたもの）」──ヘブライ語「תָּמִים（tamim：内部の真実）」の解釈的翻訳として、「見えない内部の知恵」という神の認識論的深みを示す。ハイデガー「真理（Wahrheit）としてのアレーテイア（ἀλήθεια）」──「隠されたもの（occulta）を現すこと（manifestare）」という動詞の組み合わせが、ハイデガー的「覆いを取り除くこと（Entbergung）」としての真理論と照応する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Asperges me hyssopo, et mundabor; lavabis me, et super nivem dealbabor.",
+      "body": "「ヒソプで私を清めてください（Asperges me hyssopo）、そうすれば私は清くなります──雪より白くなります（super nivem dealbabor）」──典礼的浄化の具体的形象。「hyssopo（ヒソプ）」：出エジプト記第12章v.22「過越の小羊の血を柱に塗るためのヒソプの束」・ヨハネ第19章v.29「hyssopo circumponentes（ヒソプの茎につけ）」という受難への照応：清めの道具としてのヒソプが「十字架の場面」に再帰する。「super nivem dealbabor（雪より白くなります）」──「nix（雪）」という比較対象の視覚的鮮烈さ：白さの最上級として雪が選ばれる視覚的詩学。イザヤ書第1章v.18「si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur（罪が緋のようであっても、雪のように白くなる）」との照応。典礼においては「Asperges me」という句が「水を振りかける（aspersio）」という清めの礼式の典礼語として流通する。",
+      "targetId": "hieronymus_ioannes_19",
+      "targetParagraphId": 29
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Auditui meo dabis gaudium et laetitiam, et exsultabunt ossa humiliata.",
+      "body": "「私の聴くものに喜びと楽しみをお与えください（Auditui meo dabis gaudium et laetitiam）──打ち砕かれた骨が歓喜するように（exsultabunt ossa humiliata）」──「auditus（聴覚）」という感覚器官への「喜び（gaudium）」の贈与という逆説的形象。「auditui meo dabis gaudium」──「聴くこと」に喜びが「与えられる（dabis）」という受動的受容の構造：詩篇作者は喜びを「作り出す」のではなく「受け取る」として定位される。「ossa humiliata（打ち砕かれた骨）」──詩篇21篇v.15「dispersa sunt omnia ossa mea（骨はすべて離れ離れになった）」という「身体的崩壊」の言語が、ここでは「打ち砕かれた（humiliata）」が「歓喜する（exsultabunt）」という逆転の主語として機能する：afflictionの最深の身体的形象（打ち砕かれた骨）が歓喜の担い手となるという転換の神学。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Averte faciem tuam a peccatis meis, et omnes iniquitates meas dele.",
+      "body": "「私の罪から御顔を背けてください（Averte faciem tuam a peccatis meis）──私のすべての咎を消し去ってください（omnes iniquitates meas dele）」──詩篇87篇v.15「avertis faciem tuam a me（あなたは私から顔を背ける）」という「神的遺棄」の語彙の逆転的使用。詩篇87篇では「神が人から顔を背ける」ことが最大の苦難として訴えられるのに対し、ここでは「神に罪から顔を背けるよう」祈願する：同じ「avertere faciem（顔を背ける）」という動詞が、遺棄の表現から「罪の見逃し・赦し」の表現へと方向を逆転させる。神の「顔を背けること」が「遺棄の証明」でも「赦しの行為」でもあるという、同一動詞の神学的両義性。ヴェイユ「神の不在（absence de Dieu）」論：神が「顔を背ける」ことは遺棄でも同時に「罪を見ないで赦す」という愛の形式でもあるという逆説。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Cor mundum crea in me, Deus, et spiritum rectum innova in visceribus meis.",
+      "body": "「神よ、私の中に清い心を創造してください（cor mundum crea in me, Deus）──私の内臓に正しい霊を新たにしてください（spiritum rectum innova in visceribus meis）」──詩篇50篇の神学的頂点命題。「crea（創れ）」は創世記第1章「In principio creavit Deus caelum et terram（初めに神は天と地を創った）」の「creavit」と同語根：悔悟の祈りが「新しい創造（nova creatio）」の要請として定式化される。人間の意志や努力によって「作られる（facere）」ものではなく、神のみが「創造する（creare）」ことができるという動詞の神学的精密さ。「spiritum rectum innova（正しい霊を新たにせよ）」──「innova（新たにせよ）」という命令形が「刷新（renovatio）」の神学的主題を確立する：単なる修復（reparatio）ではなく「新しくすること（innovatio）」としての回心。ヴェイユ「脱創造（Décréation）」：自己を「神が再創造する空間」として提供するという「脱創造」の運動が、「cor mundum crea in me（私の中に清い心を創れ）」という祈りの神学的先行形として照応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ne projicias me a facie tua, et spiritum sanctum tuum ne auferas a me.",
+      "body": "「私をあなたの御前から投げ捨てないでください（Ne projicias me a facie tua）──あなたの聖霊を私から取り去らないでください（spiritum sanctum tuum ne auferas a me）」──二重の否定的嘆願。「projicias（投げ捨てる）」はヨハネ第11章v.44「Solvite eum（ほどいてやれ）」の逆向きの動詞として：解放と投棄の対極。詩篇21篇v.7「abjectio plebis（民の廃棄物）」という「abjection（廃棄）」の語根が「projicias」に反響する：「廃棄されること（projici）」への恐怖が祈願の否定形として表明される。「spiritum sanctum tuum ne auferas a me（聖霊を取り去らないで）」──「auferre（取り去る）」という動詞が、ヨハネ第20章v.22「Accipite Spiritum Sanctum（聖霊を受けなさい）」という「与えること（accipere facere）」の逆向きとして機能する：失うことへの恐れが受け取ることへの感謝の前提として。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Redde mihi laetitiam salutaris tui, et spiritu principali confirma me.",
+      "body": "「あなたの救いの喜びを私に返してください（Redde mihi laetitiam salutaris tui）──寛大な霊をもって私を強めてください（spiritu principali confirma me）」──「Redde（返せ）」という動詞が「かつてあったものの回復」を要請する：喜びは新しく「作られる（facere）」ものではなく、以前に所有し失ったものとして「返される（reddi）」。「spiritu principali（寛大な・導く霊）」──ヘブライ語「רוּחַ נְדִיבָה（ruah nedibah）」の訳、「気高い・自発的な・寛大な霊」という意味。「confirma me（私を強めてください）」という動詞が「Miserere（憐れんでください）」という嘆願から「confirma（強めよ）」という委任の嘆願への移行を示す：弱者の受容から使命の担い手への変換。ブランショ「回復（retour）の時間」：失われたものが「返される（reddi）」時間は、単純な過去の反復ではなく「変容を経た帰還」として理解される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Docebo iniquos vias tuas, et impii ad te convertentur.",
+      "body": "「咎ある者たちにあなたの道を教えます（Docebo iniquos vias tuas）──不敬虔な者たちはあなたに立ち帰るでしょう（impii ad te convertentur）」──悔悟の詩篇の転換点：「私（ego）」の回心が「他者（iniqui / impii）」の回心の根拠となるという使命の宣言。「Docebo（教えます）」という未来形の能動的宣言が、v.2–12の受動的嘆願（「Miserere・lava・munda・crea・redde」）から能動的使命（「docebo・libera me」）への転換を告げる。「impii ad te convertentur（不敬虔な者たちはあなたに立ち帰る）」──「convertere（立ち帰る）」という回心の動詞が本節で初めて登場する：詩篇50篇全体の「回心（conversio）」という主題が、ここで初めて言語化される。ヴェイユ「afflictionを経験した者だけが affliction にある他者に真に応じることができる」という命題との照応。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Libera me de sanguinibus, Deus, Deus salutis meae, et exsultabit lingua mea justitiam tuam.",
+      "body": "「血の罪から私を解放してください（Libera me de sanguinibus）、神よ、私の救いの神よ」──「sanguinibus（血々）」の複数形がヘブライ語「דָּמִים（damim）」の反映：ウリア謀殺という「血の罪（peccatum sanguinis）」への具体的言及として伝統的に解釈される。「Deus salutis meae（私の救いの神）」という呼びかけが詩篇87篇v.2「Domine, Deus salutis meae（主よ、私の救いの神よ）」と同一の定式として反響する：詩篇87篇での「救いの神への無応答の叫び」と本詩篇での「血の罪からの解放への呼びかけ」が同じ定式から出発しながら、応答の有無において対照される。「exsultabit lingua mea justitiam tuam（私の舌はあなたの義を高らかに歌います）」──v.17「os meum annuntiabit laudem tuam（私の口はあなたへの讃美を告げ知らせます）」と連動する「口・舌・唇」の器官の讃美への参加。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Domine, labia mea aperies, et os meum annuntiabit laudem tuam.",
+      "body": "「主よ、私の唇を開いてください（labia mea aperies）──そうすれば私の口はあなたへの讃美を告げ知らせます（os meum annuntiabit laudem tuam）」──「aperies（開いてください）」という動詞が唇という身体器官への神的介入を要請する：「口（os）・唇（labia）・舌（lingua）」の器官が人間の能動的発語の前に神によって「開かれる（aperire）」という受動的先行性。「labia aperies（唇を開く）」というこの節が、伝統的に詩篇典礼（Divinum Officium）の「Domine, labia mea aperies」として時課の祈りの開口句として使用される：典礼において一日の祈りは「唇を開く神への要請」として始まる。ブランショ「語ることの可能性の問題」：語ることは人間の自律的能力ではなく、「開かれること（être-ouvert）」という先行条件に依存するという命題が、「labia mea aperies（唇を開いてください）」という外的介入への依存に照応する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Quoniam si voluisses sacrificium, dedissem utique; holocaustis non delectaberis.",
+      "body": "「もしあなたが犠牲を望まれたなら、私は確かにそれを献げたでしょう（si voluisses sacrificium, dedissem utique）──しかしあなたは燔祭を喜ばれません（holocaustis non delectaberis）」──旧約的犠牲制度への批判的反省。「si voluisses … dedissem（もし望まれたなら……献げていたでしょう）」という反実仮想が、犠牲の提供が可能であることと、それが神の望みでないことを同時に宣言する。「holocaustis non delectaberis（燔祭を喜ばれません）」──イザヤ書第1章v.11「Holocausta arietum et adipem pinguium nolo（雄羊の燔祭も肥えた獣の脂も望まない）」・アモス書第5章v.22「holocaustomata vestra non suscipiam（あなた方の燔祭を受け入れない）」という預言者的伝統の凝縮。バッハ「カンタータ」における「外的礼拝の無効性」という主題と、本節の「外的犠牲より内的悔悟」の論理の音楽的展開。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "glossary",
+      "anchor": "Sacrificium Deo spiritus contribulatus; cor contritum et humiliatum, Deus, non despicies.",
+      "body": "「神への犠牲は打ち砕かれた霊（sacrificium Deo spiritus contribulatus）──打ち砕かれ、低くされた心を、神よ、あなたは侮らないでしょう（cor contritum et humiliatum, Deus, non despicies）」──詩篇50篇の最も有名な神学的命題にして、礼拝論の根本的転換点。「spiritus contribulatus（打ち砕かれた霊）」──「contribulare（打ち砕く・叩き壊す）」という動詞の強調形。「cor contritum（砕かれた心）」という語が「contritio（痛悔）」という神学的術語の語源として機能する：典礼的「痛悔（contrition）」が「cor contritum」という聖書的形象に根拠を持つ。「non despicies（侮らないでしょう）」──v.6「ut justificeris（義とされるために）」という神の義の顕示が、ここでは「non despicies（侮らない）」という神の応答として定式化される。ヴェイユ「affliction（苦難）と神の注意（attention de Dieu）」：打ち砕かれた者こそが神の「注意」の対象となるという命題が、「cor contritum non despicies（砕かれた心を侮らない）」という節に聖書的根拠を持つ。バッハ「マタイ受難曲」の最終コーラル「Wenn ich einmal soll scheiden（私がいつか別れを告げるとき）」での「砕かれた心」のモチーフとの照応。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem.",
+      "body": "「主よ、あなたの御心の善意によってシオンに恵みをお与えください（Benigne fac, Domine, in bona voluntate tua Sion）──エルサレムの城壁が建て直されるように（ut aedificentur muri Jerusalem）」──個人的悔悟（v.3–18）から共同体的祈り（v.19–21）への転換。詩篇50篇の最終二節（v.20–21）は後代の付加として聖書学的に議論されるが、ヴルガータ版では一体的に伝承される。「Sion（シオン）・Jerusalem（エルサレム）」という地名の登場が、個人の「cor（心）」から共同体の「muri（城壁）」へという空間的拡張を示す。「aedificentur muri Jerusalem（エルサレムの城壁が建て直される）」──ネヘミヤ記的「城壁の再建」という歴史的文脈との照応：個人の霊的再建が都市・共同体の再建として外部化される比喩的連動。ヴェイユ「afflictionを超えた集団的正義」：個人の回心（「redde mihi laetitiam」）が共同体の再建（「aedificentur muri」）へと連鎖するという運動。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Tunc acceptabis sacrificium justitiae, oblationes et holocausta;",
+      "body": "「そのときあなたは義の犠牲を、供え物と燔祭を受け入れてくださるでしょう（Tunc acceptabis sacrificium justitiae）」──v.17–18での犠牲制度の相対化の後、「そのとき（tunc）」という時間副詞で枠組みされた犠牲の再受容が宣言される。v.17「holocaustis non delectaberis（燔祭を喜ばれません）」という否定が「tunc acceptabis … holocausta（そのとき燔祭を受け入れる）」という肯定として回収される逆転：外的犠牲の「否定→打ち砕かれた霊の肯定→外的犠牲の再肯定」という弁証法的三段階。「sacrificium justitiae（義の犠牲）」──「justitia（義）」という語が単なる外的儀礼ではなく「義にかなった（justus）」内的状態から生まれる犠牲という質的転換を示す：「cor contritum（砕かれた心）」から発する外的礼拝の真正性。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "tunc imponent super altare tuum vitulos.",
+      "body": "「そのとき彼らはあなたの祭壇の上に雄牛を献げるでしょう（tunc imponent super altare tuum vitulos）」──詩篇50篇の結語。「vitulos（子牛・雄牛）」という最も価値ある動物的犠牲が「祭壇（altare）」の上に「献げられる（imponere）」ことで、礼拝の完全な回復が宣言される。「imponent（献げるでしょう）」という三人称複数が、v.15「Docebo iniquos（咎ある者たちに教えます）」で予告された「共同体の回心」の完成として機能する：個人の悔悟→共同体への教え→共同体の礼拝再開という「Miserere」の論理的・神学的完結。詩篇87篇が「miseria（惨め）」という単語で転換なく終わるのとは対照的に、本篇は「祭壇への献げ物」という礼拝的共同体の回復として閉じる：afflictionの「転換なき詩篇（87篇）」と「転換を経た再生の詩篇（50篇）」という二極性がヴァニタス的affliction詩学の全体像を形成する。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 19
+    }
+  ]
+}
