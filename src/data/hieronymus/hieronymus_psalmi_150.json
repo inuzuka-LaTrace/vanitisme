@@ -1,0 +1,122 @@
+{
+  "id": "hieronymus_psalmi_150",
+  "title": "Psalmi CL — Laudate Dominum in sanctis ejus",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi CL (LXX/Vulgata numbering; Hebrew/English Ps. 150). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+150&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "初級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第150篇（ヘブライ語・英語聖書・ウルガータとも同番号）。詩篇集全150篇の最終詩篇にして、詩篇全体の「大いなる閉幕（Grande Finale）」として機能する。わずか6節の中に「Laudate（讃えよ）」という動詞が13回反復され、讃美の純粋な遂行として詩篇集全体を完結させる。構造は明快な四問答として読める：「どこで（in sanctis ejus / in firmamento）」「なぜ（in virtutibus / secundum multitudinem magnitudinis）」「何で（tuba / psalterio / cithara / tympano / chordis / organo / cymbalis）」「誰が（Omnis spiritus）」という問いへの詩的応答として全節が展開する。詩篇150篇はヴァニタス詩学の集積地点であるVANITISMEコーパスの聖書的骨格において最終的な極として機能する：詩篇21篇「quare me dereliquisti（なぜ見捨てたのか）」・詩篇87篇「miseria（惨め）」・詩篇129篇「De profundis（深みより）」というafflictionの嘆きの詩篇群から、詩篇50篇「Miserere（憐れんでください）」という悔悟を経て、詩篇148篇「Laudate Dominum de caelis（天から主を讃えよ）」の宇宙的讃美へと至り、本篇において「Omnis spiritus laudet Dominum（すべての霊よ、主を讃えよ）」という存在論的全包含の讃美として完結する。音楽的側面：詩篇150篇は西洋音楽史上最も多く作曲された詩篇テキストのひとつ。ブラームス「ドイツ・レクイエム（Ein deutsches Requiem, 1868）」第7曲終章での「Selig sind die Toten（幸いなるかな、主にあって死ぬ者）」の前後に詩篇150篇的な讃美の構造が配置される。ダリウス・ミヨー「Laudate Dominum（1960年）」・セザール・フランク「詩篇150篇（Psaume 150, 1888）」・カミーユ・サン＝サーンス「詩篇150篇（1921年）」・ズデニェク・フィビフ「詩篇150篇（Žalm 150, 1878）」など独立した合唱曲・オーケストラ曲として無数に作曲された。バッハ「マニフィカト（Magnificat, BWV243）」における「Omnis generatio（あらゆる世代）」の反復構造と詩篇150篇の「Laudate」反復構造は構造的に照応する。最終節「Omnis spiritus laudet Dominum（すべての霊よ、主を讃えよ）」という宇宙的完結命題はハイドン「天地創造（Die Schöpfung, 1798）」第3部フィナーレ「Singt dem Herren（主を讃えよ）」・ベートーヴェン「第九交響曲（1824）」第4楽章「Freude（喜び）」の普遍的讃美の音楽的先行形として西洋音楽史全体を底流する。",
+  "keywords": [
+    "Laudate",
+    "Omnis spiritus",
+    "Alleluja",
+    "音楽的讃美",
+    "tuba",
+    "psalterium",
+    "cithara",
+    "tympanum",
+    "cymbala",
+    "詩篇集の閉幕"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_148",
+    "hieronymus_psalmi_50",
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_129",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ioannes_01",
+    "hieronymus_ioannes_17",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "dante_paradiso_canto_33",
+    "rilke_duineser_elegien_10",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Alleluja. Laudate Dominum in sanctis ejus; laudate eum in firmamento virtutis ejus.",
+      "provisionalTranslation": "アレルヤ。主をその聖所において讃えよ。主をその力の大空において讃えよ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Laudate eum in virtutibus ejus; laudate eum secundum multitudinem magnitudinis ejus.",
+      "provisionalTranslation": "主の力ある業において主を讃えよ。主の偉大さの多さに従って主を讃えよ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Laudate eum in sono tubae; laudate eum in psalterio et cithara.",
+      "provisionalTranslation": "角笛の音で主を讃えよ。竪琴と琴で主を讃えよ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Laudate eum in tympano et choro; laudate eum in chordis et organo.",
+      "provisionalTranslation": "太鼓と踊りで主を讃えよ。弦楽器とオルガンで主を讃えよ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Laudate eum in cymbalis benesonantibus; laudate eum in cymbalis jubilationis.",
+      "provisionalTranslation": "よく響くシンバルで主を讃えよ。歓声のシンバルで主を讃えよ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Omnis spiritus laudet Dominum! Alleluja.",
+      "provisionalTranslation": "すべての霊よ、主を讃えよ！アレルヤ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Alleluja. Laudate Dominum in sanctis ejus; laudate eum in firmamento virtutis ejus.",
+      "body": "「アレルヤ──主をその聖所において讃えよ（in sanctis ejus）──主をその力の大空において讃えよ（in firmamento virtutis ejus）」──詩篇150篇の開口にして、詩篇集全体の最終的開口。詩篇148篇の「Laudate Dominum de caelis（天から）」が讃美の「起点（出発地）」を示すのに対し、本篇の「in sanctis ejus（聖所において）」・「in firmamento（大空において）」は讃美の「場所（場）」を示す：讃美はどこから発するのか（148篇）ではなく、どこにおいて行われるのか（150篇）という問いへの転換。「firmamentum virtutis（力の大空）」──創世記第1章v.6「fiat firmamentum（大空があれ）」という創造の大空が「virtus（力）」によって修飾される：大空は単なる物理的空間ではなく神の力の顕現の場として定義される。フランク「詩篇150篇（Psaume 150, 1888）」はオルガン・合唱・オーケストラという器楽と声楽の全体をこの「firmamentum（大空）」の音楽的具象化として展開する。詩篇87篇「Posuerunt me in lacu inferiori（下の穴に私を置いた）」という affliction の「下降（descensio）」と対称的な「上昇（ascensio）」の場としての「firmamentum（大空）」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Laudate eum in virtutibus ejus; laudate eum secundum multitudinem magnitudinis ejus.",
+      "body": "「主の力ある業において主を讃えよ（in virtutibus ejus）──主の偉大さの多さに従って主を讃えよ（secundum multitudinem magnitudinis ejus）」──讃美の「理由（causa）」の宣言。「virtutibus ejus（主の力ある業）」と「magnitudinis ejus（主の偉大さ）」という二つの根拠が讃美を「義務ではなく応答」として定義する：讃美は命令に従う義務的行為ではなく、「力ある業（virtutes）」と「偉大さ（magnitudo）」という神的現実への応答として内発される。詩篇50篇v.3「secundum magnam misericordiam tuam（あなたの大きな憐れみに従って）」と本節「secundum multitudinem magnitudinis ejus（その偉大さの多さに従って）」：同一の「secundum（〜に従って）」という前置詞が罪の「赦しの尺度」から讃美の「規模の尺度」へと反転される。コヘレト第1章v.2「omnia vanitas（すべては虚無）」という「多さ（omnia）の無価値」が、ここでは「multitudo magnitudinis（偉大さの多さ）」という「多さの満ち溢れ」として逆転的に肯定される。",
+      "targetId": "hieronymus_psalmi_50",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Laudate eum in sono tubae; laudate eum in psalterio et cithara.",
+      "body": "「角笛の音で主を讃えよ（in sono tubae）──竪琴と琴で主を讃えよ（in psalterio et cithara）」──詩篇150篇の音楽論的核心。v.3–5に渡って登場する七種の楽器の列挙が古代ヘブライの礼拝音楽の全貌を示す。「tuba（角笛・ラッパ）」はヘブライ語「שׁוֹפָר（shofar）」の訳で、宗教的祭儀・新年・ヨベルの年を告げる最も神聖な管楽器：マタイ福音書第24章v.31「cum tuba et voce magna（大きな角笛の声と共に）」という終末論的な「tuba」の使用が、ここでの礼拝的「tuba」から終末論的「tuba」への射程の広がりを示す。「psalterium（詩篇琴・プサルテリウム）」──「psalmos（詩篇）」という詩篇集の名称がこの楽器名から派生する：詩篇は「竪琴の演奏に合わせて歌われるもの（psalmoi）」という音楽的定義を持つ。「cithara（琴）」：ダヴィデが弾いた楽器として伝承される弦楽器。バッハ「カンタータBWV137」「Lobe den Herren（主を讃えよ）」において「psalterium」的な通奏低音とオルガンが詩篇の音楽的展開として機能する。フィビフ「詩篇150篇（1878年）」では「tuba」の独奏から始まり全管弦楽へと讃美が拡張される音楽的構造が採用される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Laudate eum in tympano et choro; laudate eum in chordis et organo.",
+      "body": "「太鼓と踊りで主を讃えよ（in tympano et choro）──弦楽器とオルガンで主を讃えよ（in chordis et organo）」──身体的讃美と弦・管の讃美の連動。「tympano et choro（太鼓と踊り）」──「chorus（踊り・輪舞）」という語が身体的・舞踏的讃美の次元を導入する：声と楽器に加えて「身体の動き（motus corporis）」が讃美の形式として組み込まれる。ナンシー「身体の意味（sens du corps）」：讃美は聴覚的・視覚的だけでなく身体的接触として実践されるという身体論が、「choro（踊り）」という身体的讃美に照応する。「organo（オルガン）」──「organum」というラテン語は「楽器全般」を指すが、キリスト教典礼においてパイプオルガンと同定された：フランク「詩篇150篇（1888年）」はオルガンを中心に据えた器楽と合唱の統合として詩篇の「organo」の伝統を継承する。サン＝サーンス「詩篇150篇（1921年）」では「organo」が全曲を通じた持続音として宇宙的讃美の底流を形成する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Laudate eum in cymbalis benesonantibus; laudate eum in cymbalis jubilationis.",
+      "body": "「よく響くシンバルで主を讃えよ（cymbalis benesonantibus）──歓声のシンバルで主を讃えよ（cymbalis jubilationis）」──七種の楽器列挙の最終楽器としての「cymbala（シンバル）」の二重の言及。「benesonantibus（よく響く）」と「jubilationis（歓声の）」という二つの形容詞が音質（音響的優良性）と感情（喜び・歓声）の両面からシンバルを定義する。「jubilatio（歓声・喜び）」はヘブライ語「תְּרוּעָה（teruah）」の反映で、単なる「喜び」ではなく「制御を超えた感情的爆発」としての歓声：感情の極点における讃美の形式。詩篇87篇v.19「notos meos a miseria（知人たちを惨めさから）」という最終節の「miseria（惨め）」の一語と対称的な終結として：「miseria」（afflictionの詩篇の閉幕）対「jubilatio（歓声）」（讃美の詩篇の頂点）という両極が詩篇集全体の感情的弧を形成する。ベートーヴェン「第九交響曲（1824）」第4楽章「Freude（喜び）」のクライマックスに打楽器（ティンパニ・シンバル）が加わる音楽的設計は、詩篇150篇の「cymbalis jubilationis」という感情的爆発の音楽的継承として理解できる。ブラームス「ドイツ・レクイエム（1868）」第7曲において「Selig sind die Toten（幸いなるかな、主にあって死ぬ者）」という嘆きの言語と讃美の音楽が統合される構造は、afflictionから讃美への詩篇的弧の音楽的完成として読める。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 19
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Omnis spiritus laudet Dominum! Alleluja.",
+      "body": "「すべての霊よ、主を讃えよ（Omnis spiritus laudet Dominum）！アレルヤ」──詩篇集全体・聖書全体・VANITISMEコーパスの聖書的骨格の最終的結語。「Omnis spiritus（すべての霊）」──「omnis（すべて）」という全包含の形容詞と「spiritus（霊・息）」という生命の根源的基盤の組み合わせが、コヘレト第1章「omnia vanitas（すべては虚無）」の「omnia」を根本的に反転させる：「すべてが虚無（omnia vanitas）」から「すべての霊が讃える（Omnis spiritus laudet）」への転換が詩篇集の大きな円弧を完結させる。「spiritus」はヘブライ語「נְשָׁמָה（neshamah）」の訳で、創世記第2章v.7「insufflavit in faciem ejus spiraculum vitae（命の息を顔に吹き込んだ）」という「命の息（spiraculum vitae）」と同一の語根を持つ：ヨハネ第20章v.22「insufflavit et dixit eis: Accipite Spiritum Sanctum（息を吹きかけ、言われた：聖霊を受けなさい）」という「息の贈与」が、ここでの「Omnis spiritus（すべての息・霊）」の讃美への帰還として収束する。「Laudate」という命令形が詩篇全体を通じて13回反復された後、最終節では「laudet（讃えるように）」という接続法に転換される：命令から願望・祈願への転換が、讃美が外部からの強制ではなく内発的・自発的行為として完成されることを示す。ハイドン「天地創造（Die Schöpfung, 1798）」フィナーレ「Singt dem Herren, ihr Stimmen（声よ、主を讃えよ）」・モーツァルト「魔笛（1791）」フィナーレ「Es siegte die Stärke（力が勝利した）」という西洋音楽の「大いなる終結（Grande Finale）」の伝統は、詩篇150篇という「すべての霊よ讃えよ」という存在論的全包含の完結の音楽的継承として理解される。ミヨー「Laudate Dominum（1960年）」での「Omnis spiritus」の合唱的爆発と静寂への帰還は、讃美が感情的頂点でありながら同時に「沈黙（silentium）」へと向かう逆説的な音楽的完結として機能する。コヘレト第12章v.13「hoc est enim omnis homo（これが人間のすべて）」という人間の定義が「神を畏れ掟を守ること」として閉じるのに対し、詩篇150篇は「Omnis spiritus laudet（すべての霊よ讃えよ）」という「人間以上の全被造物の讃美」として閉じる：「afflictionから讃美へ」というVANITISMEコーパスの聖書的弧が「Alleluja」という一語において完結する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    }
+  ]
+}
