@@ -9,7 +9,7 @@
   "category": "hieronymus",
   "originalLang": "la-LA",
   "modernRelevance": "★★★★★",
-  "context": "ヨハネによる福音書第19章。受難・十字架刑・死・埋葬の全過程を語る。本章はヨハネ受難記述の核心であり、章全体が精密な神学的構成をもつ。構造は四部：第一部（v.1–16a）鞭打ち・茨の冠・「見よ、この人（Ecce homo）」・死刑宣告；第二部（v.16b–24）十字架を担う行進・ゴルゴタ・磔刑・「INRI」の銘・衣の分配；第三部（v.25–30）十字架下のマリア・「愛の弟子」への委託・「渇く（Sitio）」・「成し遂げられた（Consummatum est）」；第四部（v.31–42）脇腹を刺す・血と水・ヨセフとニコデモによる埋葬。v.5「Ecce homo（見よ、この人）」とv.14「Ecce rex vester（見よ、あなた方の王）」のピラトの二つの宣言が章全体の「王的受難」というヨハネ神学を額縁として確立する。v.30「Consummatum est（成し遂げられた）」はラテン語聖書の中で最も密度の高い一語として、第1章「In principio（初めに）」から始まった「言葉の使命」の完成を宣言する。v.34「exivit sanguis et aqua（血と水が流れ出た）」は教父学的伝統において「洗礼（水）とユーカリスト（血）」の教会論的起源として解釈された。バッハ「ヨハネ受難曲（BWV 245）」は本章を中心テキストとし、特に「Es ist vollbracht（成し遂げられた、BWV245第58番アルトアリア）」はヨハネ受難曲全体の神学的頂点をなす。",
+  "context": "ヨハネによる福音書第19章。受難・十字架刑・死・埋葬の全過程を語る。本章はヨハネ受難記述の核心であり、章全体が精密な神学的構成をもつ。構造は四部：第一部（v.1–16a）鞭打ち・茨の冠・「見よ、この人（Ecce homo）」・死刑宣告；第二部（v.16b–24）十字架を担う行進・ゴルゴタ・磔刑・「INRI」の銘・衣の分配；第三部（v.25–30）十字架下のマリア・「愛の弟子」への委託・「渇く（Sitio）」・「成し遂げられた（Consummatum est）」；第四部（v.31–42）脇腹を刺す・血と水・ヨセフとニコデモによる埋葬。v.5「Ecce homo（見よ、この人）」とv.14「Ecce rex vester（見よ、あなた方の王）」のピラトの二つの宣言が章全体の「王的受難」というヨハネ神学を額縁として確立する。v.22「Quod scripsi, scripsi（私が書いたことは書いた）」はピラトによる書くことの不可撤回性の宣言として、ブランショ・デリダ・バルトの書記論と深く共鳴する。v.30「Consummatum est（成し遂げられた）」はラテン語聖書の中で最も密度の高い一語として、第1章「In principio（初めに）」から始まった「言葉の使命」の完成を宣言する。v.34「exivit sanguis et aqua（血と水が流れ出た）」は教父学的伝統において「洗礼（水）とユーカリスト（血）」の教会論的起源として解釈された。注釈は章全体の42段落すべてを対象とし、参照軸としてブランショ（書くことの不可撤回性・沈黙の語り・見せることの失敗・証言と匿名性）・デリダ（法の力・遂行的発語の暴力・翻訳の課題・主権の自己根拠性・友愛の政治学）・バルト（punctum・著者の意図）・ナンシー（身体の露出・接触と近傍・傷口と開口・衣と身体）・ヴェイユ（力の論理・法と恩寵・必然・脱創造）・バッハ「ヨハネ受難曲（BWV 245）」（各コーラル・アリアとの対応）・太宰治「駈込み訴へ」（第18章継続）・マラルメ（骰子一擲の偶然論）・ダンテ（神曲との対称的照応）・リルケ（ドゥイノの悲歌第10歌）を統合的に配置する。",
   "keywords": [
     "Ecce homo",
     "Consummatum est",
@@ -296,16 +296,66 @@
   ],
   "annotations": [
     {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tunc ergo apprehendit Pilatus Jesum, et flagellavit.",
+      "body": "「そこでピラトはイエスを捕らえ、鞭打ちにした（flagellavit）」──「Tunc ergo（そこで）」という接続副詞が第18章のピラトの宣言「nullam invenio in eo causam（何も罪状が見つからない）」から直接接続される：無罪と認めながら鞭打つという行為の倫理的矛盾が「Tunc ergo」という因果連鎖の中に埋め込まれる。「flagellavit（鞭打ちにした）」という動詞の単純過去形が一語で暴力の遂行を記録する。バッハ「ヨハネ受難曲」第15番コーラル「Wer hat dich so geschlagen（誰があなたをそのように打ったのか）」はこの鞭打ちに応じて、暴力の責任の問いを合唱として展開する。ヴェイユ「力（La Force）」論──力は行使されることで行使する者をも変質させる：ピラトは「無罪」と知りながら「鞭打つ」ことで、力の論理に飲み込まれる者として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et milites plectentes coronam de spinis, imposuerunt capiti ejus: et veste purpurea circumdederunt eum.",
+      "body": "「茨で冠を編んで頭に被せ、紫の衣をまとわせた」──「corona de spinis（茨の冠）」と「vestis purpurea（紫の衣）」という王権の記号が諷刺として機能する。しかしヨハネの神学においてこの「諷刺的王冠」は同時に「真の王冠」として読まれる：第1章v.1から確立されたキリストの王権が、その最も逆説的な形式において顕現する。ナンシー「傷と冠（couronne）」の身体論──茨が頭部に食い込む痛みは「開口（ouverture）」の暴力的形式として、受肉した神の身体が最も深く「世界に刻印される（inscrit dans le monde）」瞬間として機能する。バロック美術における「茨の冠を戴くキリスト（Ecce Homo）」の図像的伝統がここに起源を持つ。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et veniebant ad eum, et dicebant: Ave, rex Judaeorum: et dabant ei alapas.",
+      "body": "「『ユダヤ人の王、万歳』と言っては平手打ちをした（dabant ei alapas）」──「Ave（万歳）」という敬礼句とその直後の「alapas（平手打ち）」という暴力行為の即座の並置。ラテン語「Ave」はカエサルへの「Ave, Caesar（万歳、カエサル）」という帝国的敬礼の反響を持つ：帝国の権力的言語が嘲弄的形式で流用される。バッハ「ヨハネ受難曲」ではこの「Ave rex」の嘲弄と「Crucifige」の叫びが群衆合唱として交互に現れ、権力の言語と暴力の言語の連動を音楽的に構造化する。デリダ「遂行的発語（performatif）の暴力」──「万歳」という言語行為が物理的暴力と同時に行使されることで、言語と身体的暴力の不可分性が示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ecce adduco vobis eum foras, ut cognoscatis quia nullam invenio in eo causam.",
+      "body": "「彼に何も罪状が見つからないことをあなた方に知らせるために、外に連れて来る」──v.5の「Ecce homo」に先行するピラトの弁明的宣言。「ut cognoscatis（あなた方が知るように）」という目的節が、連れ出しという行為を「認識の提供」として定義する。ピラトは「見せること（monstrare）」によって「知らせる（cognoscere facere）」という教示的身振りをとるが、「見せる」ことが「認識」ではなく「処刑要求」を引き出すという逆説が続く。ブランショ「見せることの失敗」──何かを「見せる」行為は、見る者の側の応答を制御できないという語りの倫理的無力を示す。"
+    },
+    {
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Et dicit eis: Ecce homo.",
       "body": "「見よ、この人（Ecce homo）」──西洋美術史・文化史において最も繰り返し描かれた場面のひとつを確立する二語。「Ecce（見よ）」という指示詞がv.14「Ecce rex vester（見よ、あなた方の王）」と対をなし、「人（homo）」と「王（rex）」という二つの称号が受難の逆説的王権論を構成する。ヨハネ福音書のイエスは茨の冠と紫の衣という「王の諷刺」を身に帯びて登場するが、ヨハネの語りはこれを諷刺としてではなく「真の王の顕現」として提示する。バッハ「ヨハネ受難曲」第21番コーラル「Durch dein Gefängnis, Gottes Sohn（あなたの牢獄を通して、神の子よ）」はこの「Ecce homo」の場面に応じて、拘束と王権の神学的逆転を歌う。ナンシー『コルプス』における「身体の露出（exposition du corps）」──傷つけられた身体が「見よ」という命令によって公的空間に晒される行為が、ナンシー的「身体の意味論」において「傷が意味の刻印（inscription）となる」という命題の極限として機能する。"
     },
     {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Crucifige, crucifige eum.",
+      "body": "「十字架につけろ、十字架につけろ（Crucifige, crucifige eum）」──動詞の即座の反復が集団的叫びの音響的強度を記録する。ラテン語「Crucifige」という命令形の反復はバッハ「ヨハネ受難曲」において最も劇的な二重唱コーラスとして音楽化され、不協和音と急激な転調によって群衆の声の暴力性が聴覚的に構造化される。「Accipite eum vos, et crucifigite（あなた方が受け取って十字架につけなさい）」というピラトの応答が、責任の転嫁という政治的言語行為として機能する：言葉によって暴力の主体が移動するというデリダ的「法と暴力の言語的媒介」の問題。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Nos legem habemus, et secundum legem debet mori, quia Filium Dei se fecit.",
+      "body": "「私たちには律法があり、律法によればこの人は死ななければならない──自分を神の子としたからだ（Filium Dei se fecit）」──「legem habemus（律法を持つ）」という所有と「secundum legem debet mori（律法によれば死ぬべき）」という義務の論理の連接。「se fecit（自ら……した）」──「fecere（作る・為す）」という動詞がキリストの「自己神格化」という罪状の定式として機能する。レビ記第24章v.16「神の名を汚す者は必ず死刑に処される」というユダヤ律法の適用。ヴェイユ「法と恩寵」論──律法的正義（lex）と超律法的恩寵（gratia）の対立が、「律法によれば死ぬべき」という法的必然と「恩寵として命を与える」という逆命題の間に凝縮される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Cum ergo audisset Pilatus hunc sermonem, magis timuit.",
+      "body": "「ピラトはこの言葉を聞いて、ますます恐れた（magis timuit）」──「magis（ますます）」という比較の副詞が、「神の子」という称号に対するピラトの恐怖の増大を示す。「timuit（恐れた）」という動詞がローマ的・宗教的文脈における「神性への畏怖（timor numinis）」と政治的恐怖の両義を持つ。ハイデガー「不安（Angst）と畏怖（Furcht）」の区別：「timuit」という恐れは具体的対象に向けられた畏怖として、「神の子」という言葉が開く存在論的深淵への直観として読める。ピラトの「恐れ」が認識の端緒でありながら行動の根拠とならないという倫理的失敗の内面として機能する。"
+    },
+    {
       "paragraphId": 9,
       "type": "commentary",
       "anchor": "Unde es tu? Jesus autem responsum non dedit ei.",
       "body": "「あなたはどこから来たのか──しかしイエスは何もお答えにならなかった」──「responsum non dedit（答えを与えなかった）」という沈黙。第18章v.20「in occulto locutus sum nihil（隠れて何も言わなかった）」というイエスの公開性の宣言と対照的に、ここでは「起源（Unde es tu）」という問いに対して沈黙が選ばれる。ブランショ「沈黙の語り（parole silencieuse）」──最も深い語りは言葉が尽きた後に始まるという命題が、「responsum non dedit」という聖書的沈黙において先取りされる。第1章v.1「In principio erat Verbum」の「言葉は初めにあった」という命題が、ここでは「言葉が与えられない」という沈黙として反転する──「Verbum（言葉）」が意図的に「沈黙（silentium）」を選ぶという逆説。ヴェイユ「神の沈黙」論：神が答えないことそのものが応答の一形式であるという命題との照応。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "nescis quia potestatem habeo crucifigere te, et potestatem habeo dimittere te?",
+      "body": "「あなたを十字架につける権限も釈放する権限も私にあることを知らないのか（nescis quia potestatem habeo）」──「potestas（権限・権力）」という語の二重の言及が権力の自己主張として機能するが、次節v.11「Non haberes potestatem adversum me ullam, nisi tibi datum esset desuper（上から与えられていなければ何の権限もない）」によって即座に解体される。「nescis（知らないのか）」という認識の問いかけが、直後にイエスの「より深い知（sciens）」によって逆転されるという対話の構造。デリダ「主権の自己根拠性（auto-fondation de la souveraineté）」の問題：ピラトの「potestatem habeo」という権力の自己宣言は根拠を持たない宣言として、イエスの「desuper datum（上から与えられた）」という根拠への照射によって脱構築される。"
     },
     {
       "paragraphId": 11,
@@ -316,11 +366,53 @@
       "targetParagraphId": null
     },
     {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Si hunc dimittis, non es amicus Caesaris.",
+      "body": "「この人を釈放するなら、あなたはカエサルの友ではない（non es amicus Caesaris）」──「amicus Caesaris（カエサルの友）」というローマ的友誼の政治的称号を用いた脅迫。「amicus」という語が第11章v.11「Lazarus amicus noster（私たちの友ラザロ）」以来の「友（amicus）」の主題と逆照射する：「友」という語が愛の関係ではなく政治的利害関係の語として機能する場面。デリダ「友愛の政治学（Politiques de l'amitié）」──「amicus」という語が政治的忠誠の言語として機能するとき、友愛は権力関係の別名となるという論理が、「amicus Caesaris」という称号の脅迫的使用に照応する。ピラトが「内的説得（イエスは無罪）」から「外的強制（Caesarへの忠誠）」へと移行する決断の転換点として機能する。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "sedit pro tribunali, in loco qui dicitur Lithostrotos, hebraice autem Gabbatha.",
+      "body": "「裁判の座に就いた（sedit pro tribunali）──『リトストロトス（ヘブライ語でガバタ）』と呼ばれる場所で」──「Lithostrotos（石畳）」というギリシア語名と「Gabbatha（高い場所）」というアラム語名の二重の地名提示が、ヨハネ福音書の多言語的記述の典型として機能する。「sedit pro tribunali（裁判の座に就いた）」──「tribunale（裁判台）」という権力の座への着座が死刑宣告の形式的前提として機能する。場所の精密な指定という地誌的リアリズムが、ヨハネ受難記述の証言的性格を確保する：「愛の弟子（証人）」が場所と時刻を記録するという証言の身体的条件。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Erat autem parasceve Paschae, hora quasi sexta, et dicit Judaeis: Ecce rex vester.",
+      "body": "「過越祭の準備の日、時はおよそ第六の刻（hora quasi sexta）──見よ、あなた方の王（Ecce rex vester）」──「hora quasi sexta（おおよそ第六時）」という時刻の指定が神学的意義を持つ：過越祭に犠牲の小羊が屠られる時刻と重なるというヨハネの神学的時間論（第1章「Ecce agnus Dei（神の小羊）」との対応）。v.5「Ecce homo（見よ、この人）」と対をなす「Ecce rex vester（見よ、あなた方の王）」──「人」と「王」という二重の称号がピラトによって宣言される逆説的即位の二段構造。バッハ「ヨハネ受難曲」においてこの「hora sexta」はヨハネ神学の時間的精密性として重視される。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 29
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Non habemus regem, nisi Caesarem.",
+      "body": "「私たちにはカエサル以外に王はいない（Non habemus regem, nisi Caesarem）」──祭司長たちによるこの宣言が神学的に最も衝撃的な言表のひとつとして機能する：「神ヤハウェ以外に王を持たない」というイスラエルの根本的神政政治的信仰（サムエル記上第8章）の公的な放棄として読める。「Non habemus regem nisi Caesarem」というラテン語の整然たる対比構造が、この神学的逆転の言語的鋭さを際立たせる。デリダ「主権の譲渡」論：宗教的主権（神の王権）を政治的主権（カエサルの王権）へと言語的に移譲する行為がここで遂行される。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Tunc ergo tradidit eis illum ut crucifigeretur. Susceperunt autem Jesum, et eduxerunt.",
+      "body": "「そこでピラトは十字架につけるために彼らに引き渡した（tradidit eis illum）──彼らはイエスを受け取り、連れ出した」──「tradidit（引き渡した）」という動詞が第18章での「tradere（裏切り・引き渡し）」・第19章v.30での「tradidit spiritum（霊を渡した）」という三つの「引き渡し」の連鎖の中間項として機能する：ユダによる引き渡し→ピラトによる引き渡し→イエスによる霊の引き渡し、という動詞の神学的変容。「Susceperunt（受け取った）」という第二の動詞が「引き渡す者と受け取る者」の関係として権力移動を記録する。"
+    },
+    {
       "paragraphId": 17,
       "type": "commentary",
       "anchor": "Et bajulans sibi crucem exivit in eum, qui dicitur Calvariae locum, hebraice autem Golgotha:",
       "body": "「イエスは自ら十字架を担いながら……ゴルゴタへ出て行かれた」──「bajulans sibi crucem（自ら十字架を担いながら）」という自己担架の強調がヨハネ福音書の特徴：共観福音書の「キレネのシモンに十字架を担わせた」という記述をヨハネは採用せず、イエスが独力で十字架を運ぶ王的自主性を保持する。「Calvariae locum（髑髏の場所）」はアラム語「Golgotha（ゴルゴタ）」の訳──「骸骨・頭蓋骨（calvaria）」という語の選択が、ヴァニタス的メメント・モリの系譜に接続される。バッハ「ヨハネ受難曲」第32番コーラル「In meines Herzens Grunde（わが心の奥底に）」は十字架行進の場面に応じて、苦難を「心の奥底」に刻む黙想的応答を置く。ダンテ「地獄篇」第3歌の「中間の道（mezzo del cammin）」──人生の途上での方向転換としての歩行と、ゴルゴタへの一方向的な歩みの対照。",
       "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "ubi crucifixerunt eum, et cum eo alios duos hinc et hinc, medium autem Jesum.",
+      "body": "「そこで彼らはイエスを十字架につけ、イエスを中央に、両側に二人ずつ（medium autem Jesum）」──「medium（中央）」というイエスの位置が神学的に意味づけられる：第20章v.19「stetit in medio（真ん中に立った）」という復活の顕現の「中央」が十字架の「中央」を逆照射する。「hinc et hinc（こちらとあちら）」という両側の対称が「中央」を際立たせる構造として機能する。ダンテ「地獄篇」第34歌でのルチフェルが「地の中心（medium terrae）」に位置するという対称的な負の中心と照応：ゴルゴタの「中央」とダンテ的「地獄の中央」が天と地の中心として対照的に機能する。",
+      "targetId": "dante_inferno_canto_34",
       "targetParagraphId": null
     },
     {
@@ -330,10 +422,36 @@
       "body": "「ナザレのイエス、ユダヤ人の王（Jesus Nazarenus Rex Judaeorum）」──頭文字「INRI」として西洋美術史・キリスト教図像学全体を貫く銘文。v.20「hebraice, graece, et latine（ヘブライ語・ギリシア語・ラテン語で）」という三言語の同時刻印は、古代地中海世界の三大言語圏全体への宣言として機能する。ヒエロニムスのラテン語訳がこの銘文を伝達するという自己言及的な構造：ヒエロニムスは「latine scriptum（ラテン語で書かれた）」言葉を「ラテン語で」翻訳・伝達する。v.22「Quod scripsi, scripsi（私が書いたことは書いた）」というピラトの答えが、書くことの不可撤回性（irrévocabilité）を宣言する──ブランショ「書かれたものは書かれたものとして残る」という書くことの存在論的重さと照応する。バッハ「ヨハネ受難曲」ではこの銘文の三言語性が「普遍的王権」の象徴として音楽的に展開される。"
     },
     {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "erat scriptum hebraice, graece, et latine.",
+      "body": "「ヘブライ語・ギリシア語・ラテン語で書かれていた」──古代地中海世界の三大言語による同時刻印。ヘブライ語（宗教的言語・聖書の言語）・ギリシア語（哲学的言語・学術の言語）・ラテン語（政治的言語・帝国の言語）という三つの言語世界への同時宣言として機能する。ヒエロニムス自身がこの三言語すべての学者であったという自伝的照応：ウルガータ訳がラテン語でヘブライ語・ギリシア語原典を翻訳するという行為が、この三言語の「INRI」の銘の伝達として自己言及的に機能する。デリダ「翻訳の課題（La Tâche du traducteur）」──複数言語への同時刻印は、いかなる単一言語も「真理」を独占しないという翻訳論的前提を示す。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Noli scribere: Rex Judaeorum: sed quia ipse dixit: Rex sum Judaeorum.",
+      "body": "「『ユダヤ人の王』と書かないで、『自分はユダヤ人の王と言った』と書いてください」──祭司長たちの要求が「書かれたこと（scriptum）」と「言われたこと（dictum）」の差異に着目する：事実の陳述として書かれた言葉を、引用・発話の記録として書き直すことを求める。「Rex Judaeorum（ユダヤ人の王）」という命題から「ipse dixit（彼自身が言った）Rex sum（私は王である）」という引用への変換要求が、書くことの真理性・権威性をめぐる言語的闘争として機能する。ブランショ「書かれたものの力（force de l'écrit）」──v.22「Quod scripsi, scripsi（私が書いたことは書いた）」というピラトの拒否が、書かれた言葉の不可撤回性を権力的に行使する。"
+    },
+    {
       "paragraphId": 22,
       "type": "commentary",
       "anchor": "Respondit Pilatus: Quod scripsi, scripsi.",
       "body": "「私が書いたことは書いた（Quod scripsi, scripsi）」──ラテン語聖書で最も簡潔かつ鋭い一節のひとつ。同一動詞の完了形反復「scripsi … scripsi」が書くことの自己完結的・不可撤回的性質を宣言する。バルト「著者の意図と書かれたもの（écrit）」の問題──著者（ここではピラト）が書いたものは、著者の後悔や修正意図を超えて「書かれたもの」として自律する：「Quod scripsi, scripsi」はバルト的「テキストの自律性」の聖書的先行形として読める。デリダ「エクリチュール（écriture）の逸脱可能性（itérabilité）」──書かれたものは原文脈を離れて無限に引用・反復可能であるという「テキストの遺産」論が、「scripsi」の完了形の不変性に照応する。ブランショ「書くことの不可能性と必然性」──ひとたび書かれたものは書いた者自身によっても取り消せないという逆説が、「scripsi, scripsi」という自己強調に凝縮される。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Erat autem tunica inconsutilis, desuper contexta per totum.",
+      "body": "「下着は継ぎ目なく、上から全体に織られていた（tunica inconsutilis, desuper contexta per totum）」──「inconsutilis（継ぎ目のない）」という形容詞が神学的象徴として解釈されてきた：教父的伝統においてこの「分割不可能な衣」は教会の一致（unitas Ecclesiae）の象徴として理解された。「desuper contexta（上から織られた）」──「desuper（上から）」という方向性がv.11「nisi tibi datum esset desuper（上から与えられていなければ）」という権力の起源の語と照応する。ナンシー「衣（vêtement）と身体の関係」──衣は身体を覆いながら身体の形を示す媒介として機能する：「継ぎ目なく上から全体に織られた」衣が「言葉（Verbum）が上から全体に存在する」という第1章のロゴス論と照応する。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Partiti sunt vestimenta mea sibi: et in vestem meam miserunt sortem.",
+      "body": "「彼らは私の衣を自分たちで分け合い、私の着物について籤を引いた（sortem miserunt）」──詩篇第22篇v.19の引用。「Ut Scriptura impleretur（聖書が成就するために）」という言及が、衣の分配という偶発的に見える出来事を予言的必然として枠組みする。「sortem miserunt（籤を引いた）」──「sors（籤・運命・偶然）」という語がコヘレト的「偶然」の問題と接続する：すべてが神の計画として構造化されているヨハネの語りにおいて、「偶然（sors）」さえも「聖書の成就」として回収される。マラルメ「骰子一擲（Un Coup de Dés）」での「偶然の廃棄不可能性」──骰子（sors）という偶然の象徴が「聖書の成就」という必然の中に埋め込まれるという逆説的関係。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
     },
     {
       "paragraphId": 25,
@@ -348,6 +466,14 @@
       "body": "「母に言われた：女の方、見よ、あなたの子です」──「Mulier（女の方）」という呼称はヨハネ福音書ではカナの婚礼（第2章v.4「Quid mihi et tibi est, mulier?」）に続く二度目のマリアへの呼びかけ。「母（mater）」ではなく「Mulier（女）」という非個人的呼称が、マリアを個人としての母から「人類の母」あるいは「新しいエバ（Eva Nova）」として位置づける解釈的伝統の根拠となった。バッハ「ヨハネ受難曲」第58番アルトアリア「Es ist vollbracht（成し遂げられた）」はこの場面の直後に位置し、十字架の委託から死への移行を音楽的に担う。ナンシー「遺贈（legs）と相続（héritage）」──「Ecce filius tuus / Ecce mater tua（あなたの子・あなたの母）」という相互的委託は、血縁を超えた「精神的相続」の成立として、コミュニティの新たな起源を形成する。"
     },
     {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Deinde dicit discipulo: Ecce mater tua. Et ex illa hora accepit eam discipulus in sua.",
+      "body": "「それからその弟子に言われた：見よ、あなたの母です──そのときからその弟子はイエスの母を自分の家に引き取った（accepit eam discipulus in sua）」──「ex illa hora（そのときから）」という時点の確立が、十字架における言葉が実践的効力を持つことを示す：言葉が行為を産出するという「遂行的発語（parole performative）」の聖書的形式。「in sua（自分のものとして）」──「自分のもの（sua）」という所有格が第1章v.11「In propria venit, et sui eum non receperunt（自分のもののもとに来た──しかし受け入れなかった）」の「propria / sui」の反転として機能する：世界に受け入れられなかったイエスが、今は「愛の弟子」の「自分のもの（sua）」として受け入れられるという首尾照応。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 11
+    },
+    {
       "paragraphId": 28,
       "type": "commentary",
       "anchor": "Postea sciens Jesus quia omnia consummata sunt, ut consummaretur Scriptura, dixit: Sitio.",
@@ -356,12 +482,38 @@
       "targetParagraphId": null
     },
     {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Illi autem spongiam plenam aceto, hyssopo circumponentes, obtulerunt ori ejus.",
+      "body": "「酢を含んだ海綿をヒソプの茎につけ、イエスの口元に差し出した（obtulerunt ori ejus）」──「hyssopo（ヒソプ）」という植物の指定が出エジプト記第12章v.22「ヒソプの束で過越の小羊の血を柱に塗る」という過越の儀式への照応：ヒソプは「聖別の道具」として機能する植物であり、「過越の小羊（agnus Dei）」としてのキリストの死の直前に使用される。詩篇第51篇v.9「ヒソプで私を清めてください」という浄化の詩篇との連鎖。「obtulerunt（差し出した）」という動詞が「献げ物（oblatio）」という祭儀的語根を持ち、「Sitio（渇く）」への応答としての「酢（acetum）」が最後の供物として機能する。"
+    },
+    {
       "paragraphId": 30,
       "type": "commentary",
       "anchor": "Consummatum est. Et inclinato capite tradidit spiritum.",
       "body": "「成し遂げられた（Consummatum est）──そして頭をたれ、霊を渡された」──第19章・ヨハネ福音書・そして第1章「In principio erat Verbum」から連続してきた「言葉の使命」の完成を宣言する一語「Consummatum est」。第4章v.4「opus consummavi（業を成し遂げた）」の過去形の確認が、ここで最終的現在形として宣言される。「tradidit spiritum（霊を渡した）」──「tradere（手渡す・引き渡す）」は第18章での「tradere（裏切り・引き渡し）」と同一の動詞：ユダのイエス「引き渡し（traditio）」が、ここではイエス自身による霊の「引き渡し（traditio）」として意図的に反復・変換される。バッハ「ヨハネ受難曲」第58番「Es ist vollbracht（成し遂げられた）」は「Es ist vollbracht」という反復句を核として、ヨハネ受難曲全体の音楽的・神学的頂点を形成する：アルトの深い声部が「vollbracht」の完了を沈黙の手前まで引き延ばす。ブランショ「作品の完成（achèvement）」論──完成した作品は作者を脱して独立する：「Consummatum est」という宣言は同時に「これ以上語る言葉はない（ne plus parler）」という語りの終止を宣言する。ヴェイユ「脱創造（Décréation）」の終点：自己を完全に神に手渡すという「脱創造」の運動が「tradidit spiritum（霊を渡した）」という動詞において完成される。",
       "targetId": "weil_decreation",
       "targetParagraphId": null
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "rogaverunt Pilatum ut frangerentur eorum crura, et tollerentur.",
+      "body": "「足を折って降ろすことをピラトに願った（rogaverunt Pilatum ut frangerentur eorum crura）」──「frangerentur crura（足を折る）」という要求が宗教的清潔（安息日前の死体除去）の動機から生じるという逆説が第18章の「汚れないために官邸に入らなかった（ut non contaminarentur）」と照応する：外的純潔と内的矛盾の共存というヴェイユ的「力の論理」の継続。「tollerentur（取り去られる）」という動詞が第1章v.29「Ecce agnus Dei, ecce qui tollit peccatum mundi（世の罪を取り去る方）」の「tollere」と同語根：死体を「取り去る」という物理的行為と罪を「取り去る」という神学的行為の言語的照応。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 29
+    },
+    {
+      "paragraphId": 32,
+      "type": "commentary",
+      "anchor": "Venerunt ergo milites: et primi quidem fregerunt crura, et alterius, qui crucifixus est cum eo.",
+      "body": "「兵士たちは来て、最初の者の足と、イエスと一緒に十字架につけられたもう一人の足を折った」──「primi（最初の者）」と「alterius（もう一人）」という二人の足が折られることが記録され、次節v.33でイエスの足が折られないことへの対比として機能する準備段落。ヨハネ福音書の語りの精密さ──順序立てた行動の記録が証言の客観性を確保する：v.35「Et qui vidit, testimonium perhibuit（それを見た者が証しした）」という証言の信憑性がこうした細部の記録に基づく。"
+    },
+    {
+      "paragraphId": 33,
+      "type": "commentary",
+      "anchor": "Ad Jesum autem cum venissent, ut viderunt eum jam mortuum, non fregerunt ejus crura,",
+      "body": "「しかしイエスのところに来ると、イエスがすでに死んでいるのを見て（viderunt eum jam mortuum）、その足を折らなかった」──「jam mortuum（すでに死んでいた）」という観察の即時性が記録される。「non fregerunt ejus crura（足を折らなかった）」という否定が次節の「latus ejus aperuit（脇腹を刺した）」という代替行為を準備する。v.36「Os non comminuetis ex eo（骨は一本も砕かれない）」という詩篇的預言の成就として、「足を折らなかった」という行為の不作為が神学的必然として枠組みされる：兵士たちの「すでに死んでいる」という現実的判断が聖書的預言の成就の道具として機能する。"
     },
     {
       "paragraphId": 34,
@@ -376,10 +528,36 @@
       "body": "「それを見た者が証しし、その証しは真実である」──第1章v.7「ut testimonium perhiberet de lumine（光について証しするために）」から連続してきた「証言（testimonium）」の主題の最終的確認。証言者は名を明かさず「qui vidit（見た者）」として自己規定される──「愛の弟子」の匿名性が証言の客観性の保証として機能する。「et ille scit quia vera dicit: ut et vos credatis（その者は自分が真実を語っていることを知っている：あなた方も信じるために）」──「信じること（credere）」が証言の目的として明示されるという語りの自己言及的構造。デリダ「証言（témoignage）と虚偽（parjure）」論：真の証言は常に反証可能性を保持しながら語られるという命題が、「verum est testimonium ejus（その証しは真実）」という証言者の自己保証と共鳴する。ブランショ「見ることと語ること」──見ることは語ることへの責任を伴う：証人は見たことを語る義務によって定義される。"
     },
     {
+      "paragraphId": 36,
+      "type": "commentary",
+      "anchor": "Os non comminuetis ex eo.",
+      "body": "「その骨は一本も砕かれない（Os non comminuetis ex eo）」──出エジプト記第12章v.46「過越の小羊の骨を砕いてはならない」の引用。v.34の「足を折らなかった」という出来事が過越の小羊の律法の成就として神学的に意味づけられる：第1章v.29「Ecce agnus Dei（神の小羊）」という洗礼者ヨハネの宣言がここで律法的形式において確認される。「Os（骨）」という最も硬い身体部位の保全が、「言葉（Verbum）」の不可破壊性との照応として読める：骨が保たれることが「受肉した言葉」の完全性の最後の身体的証明として機能する。"
+    },
+    {
+      "paragraphId": 37,
+      "type": "commentary",
+      "anchor": "Et iterum alia Scriptura dicit: Videbunt in quem transfixerunt.",
+      "body": "「また別の聖書は『彼らは自分たちが刺し貫いた者を見るだろう（Videbunt in quem transfixerunt）』と言っている」──ゼカリヤ書第12章v.10の引用。「transfixerunt（刺し貫いた）」という動詞が「lancea latus ejus aperuit（槍で脇腹を開いた）」というv.34の行為に具体的に照応する。「Videbunt（見るだろう）」という未来形が読者を「見る者（spectator / testis）」として呼び込む：過去の出来事の記述が未来的視点（「見るだろう」）を通じて現在の読者に向けられるという時制の開口。ブランショ「読むことは見ることである」という読書論との照応。"
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "Post haec autem rogavit Pilatum Joseph ab Arimathaea (eo quod esset discipulus Jesu, occultus autem propter metum Judaeorum)",
+      "body": "「アリマタヤのヨセフが（ユダヤ人を恐れて隠れていたがイエスの弟子であった）許可をピラトに求め」──「occultus propter metum Judaeorum（ユダヤ人を恐れて隠れていた）」という括弧内の注記が、この人物の信仰の「隠れた（occultus）」性格を定義する。第18章v.15–16の「愛の弟子」が大祭司の屋敷に入れたのに対し、ヨセフは「隠れていた」という対照。しかし「Post haec（その後）」という時間的転換の後、ヨセフは公的行為（corpus tollere：遺体の引き取り）に踏み出す：「隠れていた（occultus）」者が「公的（palam）」な行為へと移行するという信仰の可視化。"
+    },
+    {
       "paragraphId": 39,
       "type": "commentary",
       "anchor": "Venit autem et Nicodemus, qui venerat ad Jesum nocte primum",
       "body": "「最初にイエスのもとに夜来たニコデモも」──「nocte primum（最初に夜に）」という時間的修辞が第3章v.2でのニコデモの初訪問「venit ad Jesum nocte（夜イエスのもとに来た）」を想起させる。最初の「夜の訪問者」が今、公開の埋葬行為に参加するという、第13章v.30「Erat autem nox（夜だった）」のユダの退場と対照的な「夜からの到来」。「没薬と沈香（myrrha et aloes）」という高価な香料の「百リトラ（libras centum）」という大量の供給は、第12章のマリアの香油注ぎと照応する「惜しまない愛の贈与」として機能する。ヴェイユ「愛の極端な行為」──経済的合理性を超えた「蕩尽（dépense）」としての愛の実践。"
+    },
+    {
+      "paragraphId": 40,
+      "type": "commentary",
+      "anchor": "Acceperunt ergo corpus Jesu, et ligaverunt illud linteis cum aromatibus, sicut mos est Judaeis sepelire.",
+      "body": "「彼らはイエスの遺体を取り、ユダヤ人の埋葬の慣習に従って、香料と共に亜麻布で包んだ（ligaverunt illud linteis cum aromatibus）」──「ligaverunt linteis（亜麻布で縛った）」という動詞が第11章v.44「ligatus pedes et manus institis（手足が包み帯で縛られた）」のラザロの死装束と同じ語彙的構造をなす：ラザロが「縛られたまま出てきた」のに対し、第20章v.7ではイエスの「sudarium separatim involutum（顔布が別に丸めてあった）」という自発的な束縛解除が対照される準備としてこの丁寧な埋葬が機能する。「sicut mos est Judaeis（ユダヤの慣習に従って）」という文化的・宗教的具体性の強調が証言の信憑性を確保する。",
+      "targetId": "hieronymus_ioannes_11",
+      "targetParagraphId": 44
     },
     {
       "paragraphId": 41,
@@ -388,6 +566,12 @@
       "body": "「イエスが十字架につけられた場所には園があり、園の中にはまだ誰も葬られたことのない新しい墓があった」──「hortus（園）」という語が第18章v.1「in quem introivit（そこに入られた）」のケデロンの「園」と首尾照応する：受難は「園」から始まり「園」で終わる──しかし最初の「園（ゲッセマネ）」は逮捕の場であり、最後の「園（埋葬の地）」は安置の場として対称的に置かれる。「monumentum novum, in quo nondum quisquam positus erat（まだ誰も葬られたことのない新しい墓）」──「novum（新しい）」という形容詞が「新しい掟（Mandatum novum）」・「新しい創造（nova creatio）」という主題群の最終的な空間的具象化として機能する。第11章でラザロが出てきた「洞窟（spelunca）」と対照的な「新しい墓（monumentum novum）」──ラザロの墓は古い死の経験の場であり、この新しい墓は第20章の復活への出発点として保留される。リルケ「ドゥイノの悲歌」第10歌での「嘆きの国（das Land der Klage）」と「新たな出発（neuer Aufbruch）」の境界的空間との照応。",
       "targetId": "rilke_duineser_elegien_10",
       "targetParagraphId": null
+    },
+    {
+      "paragraphId": 42,
+      "type": "commentary",
+      "anchor": "Ibi ergo propter parasceven Judaeorum, quia juxta erat monumentum, posuerunt Jesum.",
+      "body": "「ユダヤ人の準備の日であったので、墓が近かったため、彼らはそこにイエスを葬った（posuerunt Jesum）」──「quia juxta erat monumentum（墓が近かったため）」という実務的・偶然的理由が埋葬の場所を決定するという叙述の散文的リアリズム。「parasceve（準備の日）」という典礼的時間と「juxta（近い）」という地理的偶然性の交差が、神学的出来事の歴史的具体性を確保する。「posuerunt Jesum（イエスを置いた）」という章の最終動詞──「置くこと（ponere）」は第10章v.17–18「pono animam meam（命を捨てる）」と同一語根：イエスが「命を置いた（posuit）」者として、ここでは「墓に置かれた（posuerunt）」という受動的形式で章が閉じられる。「monumentum novum（新しい墓）」という第19章v.41の「新しさ（novum）」が沈黙のうちに保留されたまま第20章の復活へと開かれる。"
     }
   ]
 }
