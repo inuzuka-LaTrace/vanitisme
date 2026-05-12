@@ -1,0 +1,238 @@
+{
+  "id": "hieronymus_psalmi_148",
+  "title": "Psalmi CXLVIII — Laudate Dominum de caelis",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi CXLVIII (LXX/Vulgata numbering; Hebrew/English Ps. 148). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+148&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "初級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★☆",
+  "context": "詩篇第148篇（ヘブライ語・英語聖書・ウルガータとも同番号）。「アレルヤ（Alleluja）」という表題と終結詞を持つ「アレルヤ詩篇（Psalmi Hallelujah）」群（146〜150篇）の中核をなす宇宙的讃美詩。詩篇全体（150篇）の結尾ブロックに位置し、詩篇集全体が「afflictionの嘆き（de profundis）」から「宇宙的讃美（laudate）」へと向かう大きな運動の頂点として機能する。詩篇129篇「De profundis clamavi（深みより叫んだ）」・詩篇87篇「Domine, Deus salutis meae（主よ、私の救いの神よ）」・詩篇21篇「Deus, Deus meus, quare me dereliquisti（わが神、なぜ見捨てたのか）」・詩篇50篇「Miserere mei, Deus（神よ、私を憐れんでください）」という affliction の詩篇群の対極に位置する「上昇の讃美」として、VANITISMEのコーパスにおける affliction 詩学の対称的な極を形成する。構造は二部に分かれる：第一部（v.1–6）「天の讃美」──天使・天体・天の水という「天上（caeli）」の存在者たちへの讃美の呼びかけ；第二部（v.7–14）「地の讃美」──龍・深淵・気象現象・山々・動植物・人間（王から子供まで）という「地上（terra）」の存在者たちへの讃美の呼びかけ。v.5「Quia ipse dixit, et facta sunt; ipse mandavit, et creata sunt（なぜならご自身が命じれば造られ、ご自身が命令すれば創造されるから）」という創造の言語論的命題は、ヨハネ第1章「In principio erat Verbum」・創世記第1章「Fiat lux（光あれ）」との照応において、言葉による創造という神学的公理の詩的反復として機能する。v.13「quia exaltatum est nomen ejus solius（なぜならその御名だけが高められているから）」という「名の唯一性」の宣言は、ヨハネ第20章v.31「vitam habeatis in nomine ejus（その名によって命を持つために）」という「名による命」の命題と照応する。全体として、苦難・罪・嘆き・afflictionという詩篇の垂直的下降運動の後に、被造物全体が「Laudate（讃えよ）」という水平的・円環的な讃美に参与するという宇宙的和解の詩学を提示する。",
+  "keywords": [
+    "Laudate",
+    "Alleluja",
+    "宇宙的讃美",
+    "creatio",
+    "nomen Domini",
+    "caeli caelorum",
+    "terra",
+    "被造物の列挙",
+    "exaltatum",
+    "Hymnus"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_129",
+    "hieronymus_psalmi_50",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_38",
+    "hieronymus_ioannes_01",
+    "weil_les_astres",
+    "weil_necessite",
+    "rilke_duineser_elegien_09",
+    "rilke_duineser_elegien_10",
+    "dante_paradiso_canto_33",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1a",
+      "original": "Alleluja. Laudate Dominum de caelis; laudate eum in excelsis.",
+      "provisionalTranslation": "アレルヤ。天から主を讃えよ。いと高き所で主を讃えよ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Laudate eum, omnes angeli ejus; laudate eum, omnes virtutes ejus.",
+      "provisionalTranslation": "主のすべての天使よ、主を讃えよ。主のすべての軍勢よ、主を讃えよ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Laudate eum, sol et luna; laudate eum, omnes stellae et lumen.",
+      "provisionalTranslation": "太陽と月よ、主を讃えよ。すべての星と光よ、主を讃えよ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Laudate eum, caeli caelorum; et aquae omnes quae super caelos sunt,",
+      "provisionalTranslation": "天の天よ、主を讃えよ。天の上にあるすべての水よ、"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "laudent nomen Domini. Quia ipse dixit, et facta sunt; ipse mandavit, et creata sunt.",
+      "provisionalTranslation": "主の御名を讃えよ。なぜならご自身が命じれば造られ、ご自身が命令すれば創造されるから。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Statuit ea in aeternum, et in saeculum saeculi; praeceptum posuit, et non praeteribit.",
+      "provisionalTranslation": "永遠に、世々に渡って定められた。掟を定め、それは過ぎ去ることがない。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Laudate Dominum de terra, dracones et omnes abyssi;",
+      "provisionalTranslation": "地から主を讃えよ、龍よ、すべての深淵よ。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum ejus;",
+      "provisionalTranslation": "炎よ、雹よ、雪よ、氷よ、嵐の風よ──主の御言葉を行うものたちよ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "montes, et omnes colles; ligna fructifera, et omnes cedri;",
+      "provisionalTranslation": "山々とすべての丘よ、実を結ぶ木々とすべての杉よ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "bestiae, et universa pecora; serpentes, et volucres pennatae;",
+      "provisionalTranslation": "野の獣とすべての家畜よ、蛇と羽ある鳥よ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "reges terrae et omnes populi; principes et omnes judices terrae;",
+      "provisionalTranslation": "地の王たちとすべての民よ、君主たちと地のすべての裁判官よ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "juvenes et virgines; senes cum junioribus, laudent nomen Domini:",
+      "provisionalTranslation": "若者と乙女よ、老人は若者と共に、主の御名を讃えよ。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "quia exaltatum est nomen ejus solius.",
+      "provisionalTranslation": "なぜならその御名だけが高められているから。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Confessio ejus super caelum et terram; et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus; filiis Israel, populo appropinquanti sibi. Alleluja.",
+      "provisionalTranslation": "その栄光は天と地の上にある。神は御自分の民の角を高く上げられた。賛歌はすべての聖なる者たちへ、神に近づく民、イスラエルの子らへ。アレルヤ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Alleluja. Laudate Dominum de caelis; laudate eum in excelsis.",
+      "body": "「アレルヤ（Alleluja）」──ヘブライ語「הַלְלוּ יָהּ（hallelu Yah）」の音訳で「ヤハ（神）を讃えよ」の意。七十人訳・ウルガータでは音訳のまま保存され、典礼語として西洋音楽史全体に流通した（ヘンデル「メサイア」の「ハレルヤ・コーラス」はその最も著名な音楽化）。「Laudate Dominum de caelis（天から主を讃えよ）」──「de caelis（天から）」という出発点の前置詞が「讃美の方向（天→地）」ではなく「讃美の行為の起点（天から発せられる讃美）」を示す：天上の存在者が地上の存在者に先行して讃美を始めるという宇宙的讃美の秩序。「in excelsis（いと高き所で）」という場所副詞がルカ福音書第2章v.14「Gloria in excelsis Deo（いと高き所に栄光）」の典礼句を先取りする。リルケ「ドゥイノの悲歌（Duineser Elegien）」第1歌冒頭「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（天使の序列の誰が私の声を聞くだろうか）」という天使への呼びかけが、詩篇の「天使よ、讃えよ（Laudate eum, omnes angeli ejus）」という宇宙的讃美の逆向きの不応答として照応する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Laudate eum, omnes angeli ejus; laudate eum, omnes virtutes ejus.",
+      "body": "「主のすべての天使よ（omnes angeli ejus）──主のすべての軍勢よ（omnes virtutes ejus）」──天使論的階層の二重の呼びかけ。「virtutes（軍勢・力）」はヘブライ語「צְבָאוֹת（tzeva'ot：万軍）」に対応するラテン語訳：「万軍の主（Dominus virtutum）」という神の称号の被造物的側面として天上の軍勢が讃美に召喚される。詩篇21篇v.4「Tu autem in sancto habitas, laus Israel（しかしあなたは聖所に住んでいる、イスラエルの讃美よ）」という「神は讃美に住む（inhabitat laudem）」という命題と照応する：讃美が神の住処であるならば、天使たちの讃美は神の「住処を形成する行為」として機能する。ダンテ「天国篇」第33歌でのベルナルドゥスの祈り「Vergine Madre（処女にして母よ）」において天使の列（gerarchia angelica）が神を讃える場面がここの詩篇の詩的展開として位置づけられる。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Laudate eum, sol et luna; laudate eum, omnes stellae et lumen.",
+      "body": "「太陽と月よ、主を讃えよ（sol et luna）──すべての星と光よ（omnes stellae et lumen）」──天体の讃美への召喚。コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」という太陽の「循環的虚無」の記述と対照的な位置にある：コヘレトでは太陽の循環が「afflictio spiritus（霊の苦悩）」の象徴として機能するのに対し、詩篇148篇では同じ「sol et luna（太陽と月）」が讃美の行為者として召喚される。ヴェイユ「Les Astres（星々）」章での宇宙的秩序への黙想──星々が「必然（nécessité）」の法則に従いながら同時に「美（beauté）」として顕現するという命題が、「星と光よ、讃えよ」という呼びかけと照応する：必然の秩序そのものが讃美として機能する。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Laudate eum, caeli caelorum; et aquae omnes quae super caelos sunt,",
+      "body": "「天の天よ（caeli caelorum）──天の上にあるすべての水よ（aquae omnes quae super caelos sunt）」──「caeli caelorum（天の天）」は創世記第1章v.8「appellavitque Deus firmamentum Caelum（神は大空を天と呼んだ）」を超えた「超天的領域」を示す最上級的複数形。「aquae super caelos（天の上の水）」は古代近東の宇宙論において「天蓋の上に保持された原初の水（tehom：深淵の水）」を指す：創世記第1章「spiritus Dei ferebatur super aquas（神の霊が水の面を動いていた）」と同一の宇宙論的水のイメージ。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という水の循環が「affliction（苦悩）」の形象として機能するのに対して、ここでの「天の上の水」は讃美の行為者として召喚される：同じ「水（aqua）」が苦悩の象徴から讃美の参与者へと転換される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "laudent nomen Domini. Quia ipse dixit, et facta sunt; ipse mandavit, et creata sunt.",
+      "body": "「主の御名を讃えよ──なぜならご自身が命じれば造られ（ipse dixit, et facta sunt）、ご自身が命令すれば創造されるから（ipse mandavit, et creata sunt）」──詩篇148篇の神学的核心命題。「ipse dixit, et facta sunt（ご自身が言えば造られた）」は創世記第1章「Dixit Deus: Fiat lux, et facta est lux（神は言った：光あれ、すると光があった）」という「創造的言語行為（parole créatrice）」の詩的反復。「ipse mandavit, et creata sunt（命令すれば創造された）」──「mandare（命令する）」と「creare（創造する）」という動詞の対が、ヨハネ第1章v.3「Omnia per ipsum facta sunt（すべてのものは言葉を通して造られた）」の「Verbum（言葉）」による創造との神学的連続性を確立する。ハイデガー「語ること（Sagen）と存在（Sein）の関係」──「dixit et facta sunt（言った、すると造られた）」という創造の構造は、ハイデガーが「言語は存在の家である」と述べるとき前提にしている「語りと存在の根源的連動」の聖書的先行形として読める。デリダ「遂行的発語（performatif）の究極形」：神の言葉は最も根源的な遂行的発語として、語ることが即座に現実を産出する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Statuit ea in aeternum, et in saeculum saeculi; praeceptum posuit, et non praeteribit.",
+      "body": "「永遠に、世々に渡って定められた（in aeternum, et in saeculum saeculi）──掟を定め、それは過ぎ去ることがない（non praeteribit）」──創造の永続性の宣言。「in aeternum, et in saeculum saeculi」という二重の永続性の定式がコヘレト第1章v.4「terra autem in aeternum stat（しかし大地は永遠に立ち続ける）」と同じ「in aeternum」という副詞句を共有しながら、まったく逆の神学的方向性を持つ：コヘレトでは大地の永続性が人間の無常を際立たせる「affliction」の背景として機能するのに対し、詩篇148篇では同じ永続性が被造物の讃美の根拠（「だからこそ讃えよ」）として機能する。「non praeteribit（過ぎ去ることがない）」──マタイ福音書第24章v.35「caelum et terra transibunt, verba autem mea non praeteribunt（天と地は過ぎ去るが、私の言葉は過ぎ去らない）」との照応：神の「掟（praeceptum）」の不変性が言葉の永続性として確認される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Laudate Dominum de terra, dracones et omnes abyssi;",
+      "body": "「地から主を讃えよ（Laudate Dominum de terra）──龍よ、すべての深淵よ（dracones et omnes abyssi）」──第二部「地の讃美」の開口。「de terra（地から）」という起点が「de caelis（天から）」と対称的な「下からの讃美」として第一部の天の讃美に応答する：上下の全存在が「讃美（laudes）」という行為において合流する宇宙的構造。「dracones et omnes abyssi（龍とすべての深淵）」──「draco（龍・大蛇）」は創世記の「serpens（蛇）」・ヨブ記第40章の「ベヒモト・リヴィアタン」という被造物の最大の力の象徴と同一の語彙的伝統に属する：最も恐ろしく力強い被造物も讃美の行為者として召喚される。「abyssi（深淵）」は創世記第1章「tenebrae erant super faciem abyssi（深淵の面には暗闇があった）」という「原初の混沌（tohu-bohu）」への反響：原初の混沌さえもが讃美の参与者として変換される。ヨブ記第38章v.4「Ubi eras quando ponebam fundamenta terrae?（地の基を据えたとき、あなたはどこにいたか）」という神の嵐の中からの語りかけが、ここでの「龍よ、深淵よ、讃えよ」という命令と同じ「被造物の限界への呼びかけ」の構造をなす。",
+      "targetId": "hieronymus_iob_38",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum ejus;",
+      "body": "「炎よ、雹よ、雪よ、氷よ、嵐の風よ（ignis, grando, nix, glacies, spiritus procellarum）──主の御言葉を行うものたちよ（quae faciunt verbum ejus）」──気象現象の讃美への召喚。「ignis, grando, nix, glacies」という四元素的気象現象の列挙が視覚的・感覚的詩学を形成する。「quae faciunt verbum ejus（主の御言葉を行うものたちよ）」──気象現象が「御言葉を行う（verbum facere）」という定義が神学的核心をなす：嵐・雪・氷は盲目的な自然力ではなく「神の御言葉（verbum Dei）の実行者（executor）」として位置づけられる。ヴェイユ「必然（Nécessité）」章での「自然の法則は神の意志の間接的媒介として機能する」という命題が、「quae faciunt verbum ejus（神の御言葉を行う）」という自然の神学的機能に照応する。ヘルダーリン「パンと葡萄酒（Brot und Wein）」での嵐・夜・稲妻という自然現象が神的現前の媒介として機能するという詩学との照応。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "montes, et omnes colles; ligna fructifera, et omnes cedri;",
+      "body": "「山々とすべての丘よ（montes, et omnes colles）──実を結ぶ木々とすべての杉よ（ligna fructifera, et omnes cedri）」──地形と植物への讃美の召喚。「montes（山々）」──詩篇87篇v.7「Posuerunt me in lacu inferiori（下の穴に私を置いた）」という「深み（lacus）」への沈降の逆向きとして、「montes（山々）」という高みへの上昇が讃美の場として機能する。「ligna fructifera（実を結ぶ木々）」と「cedri（杉）」の対比──「実を結ぶ（fructifera）」という有用性を持つ木と「cedrus（レバノン杉）」という威容を誇る無用にして荘厳な木の対比が、「有用性（utilitas）」と「荘厳性（majestas）」の双方が讃美に参与するという被造物の二様態を示す。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "bestiae, et universa pecora; serpentes, et volucres pennatae;",
+      "body": "「野の獣とすべての家畜よ（bestiae, et universa pecora）──蛇と羽ある鳥よ（serpentes, et volucres pennatae）」──動物界の全体への讃美の召喚。「bestiae（野獣）」と「pecora（家畜）」という「野生（ferus）」と「飼育（domesticus）」の対──「serpentes（蛇）」と「volucres（鳥）」という地を這うものと空を飛ぶものの対：水平性と垂直性の全方位的包含。ヨブ記第38章での「神の嵐の中からの語りかけ」において野獣・鳥・蛇への問いかけが展開される：「あなたはプレイアデス星団の縄を結ぶことができるか・オリオン座の帯を解くことができるか（Job 38:31）」という被造物の無知の確認が、ここでは「讃美への招待」という積極的役割へと反転される。",
+      "targetId": "hieronymus_iob_38",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "reges terrae et omnes populi; principes et omnes judices terrae;",
+      "body": "「地の王たちとすべての民よ（reges terrae et omnes populi）──君主たちと地のすべての裁判官よ（principes et omnes judices terrae）」──政治的権力者への讃美の召喚。コヘレト第1章v.1「regis Jerusalem（エルサレムの王）」というダヴィデの子の「王（rex）」が「すべては虚無（omnia vanitas）」を告発する者として登場するのに対し、ここでの「reges terrae（地の王たち）」は「讃美（laudes）」の行為者として召喚される：「affliction」の詩学（王が虚無を宣言する）と「讃美」の詩学（王が神を讃える）の対称的逆転。「judices terrae（地の裁判官たち）」──ヨハネ第18章v.38「Quid est veritas?（真理とは何か）」というピラトの問いが応えなく残るのとは対照的に、詩篇では裁判官自身が「真理の讃美者（laudator veritatis）」として召喚される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "juvenes et virgines; senes cum junioribus, laudent nomen Domini:",
+      "body": "「若者と乙女よ（juvenes et virgines）──老人は若者と共に（senes cum junioribus）、主の御名を讃えよ」──年齢的全包含の讃美の召喚。「juvenes et virgines（若者と乙女）」という性的・年齢的双対と「senes cum junioribus（老人と若者）」という世代的包含が、讃美という行為が人間のいかなる属性によっても条件づけられないことを示す。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の「虚無的循環」が、詩篇148篇では「senes cum junioribus（老人は若者と共に）」という世代の共時的包含・共同讃美として反転される：世代の交代（affliction）から世代の共存（讃美）への転換。リルケ「ドゥイノの悲歌」第10歌「ひとたびすべてのことが学ばれた若者は（Wenn aber die Jugend nach einigem gelernt hat）」という若者と老いの時間論との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "quia exaltatum est nomen ejus solius.",
+      "body": "「なぜならその御名だけが高められているから（quia exaltatum est nomen ejus solius）」──詩篇148篇の中心命題。「nomen ejus solius（その御名だけ）」という排他的単数形が宇宙的讃美の全体の根拠を単一の「名（nomen）」に収束させる。「exaltatum est（高められている）」という受動完了形が「名」の超越的・永続的高みを定式化する。ヨハネ第21章v.31「vitam habeatis in nomine ejus（その名によって命を持つために）」・ヨハネ第17章v.26「notum feci eis nomen tuum（私はあなたの名を彼らに知らせました）」という「名（nomen）」の神学的主題群との照応：宇宙的讃美の根拠としての「名の唯一性（nomen solius）」が、ヨハネ的「名による命（vita in nomine）」と同一の神学的基盤を共有する。コヘレト第1章「Nihil sub sole novum（太陽の下に新しいものは何もない）」という虚無の宣言の対極として：詩篇では「nomen ejus solius（ただその御名だけ）」という唯一性の主張が虚無に対する根拠として立てられる。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Confessio ejus super caelum et terram; et exaltavit cornu populi sui. Hymnus omnibus sanctis ejus; filiis Israel, populo appropinquanti sibi. Alleluja.",
+      "body": "「その栄光は天と地の上にある（Confessio ejus super caelum et terram）──神は御自分の民の角を高く上げられた（exaltavit cornu populi sui）──賛歌はすべての聖なる者たちへ（Hymnus omnibus sanctis ejus）──神に近づく民（populo appropinquanti sibi）──アレルヤ」──詩篇148篇の四重の結語。「Confessio ejus super caelum et terram（その栄光は天と地の上）」──「confessio（告白・栄光）」という語がヘブライ語「הוֹד（hod：荘厳・輝き）」の訳として、詩篇50篇の「confessus est（告白した）」という罪の「告白」と語源的に連動しながら、ここでは神の「栄光の告白（confessio gloriae）」として転換される。「cornu populi sui（民の角）」──「cornu（角）」という力・権威・名誉の象徴が「高く上げられる（exaltavit）」ことで、詩篇87篇での「低められ・混乱させられた（humiliatus et conturbatus）」afflictionの逆転として機能する。「populo appropinquanti sibi（神に近づく民）」──「appropinquare（近づく）」という接近の動詞が詩篇全体のVANITISMEコーパスにおける「afflictionからの回帰」の最終的定式として機能する。「Alleluja」による閉幕が「Alleluja」による開幕と首尾照応する環状構造を完成させ、讃美が始まりから終わりまで宇宙的円環として完結する。ヴァニタス詩学における affliction（詩篇87篇の「miseria」による閉幕）と讃美（詩篇148篇の「Alleluja」による閉幕）の対極性が、VANITISMEコーパス全体の「虚無から讃美へ」という運動の聖書的骨格を形成する。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 19
+    }
+  ]
+}
