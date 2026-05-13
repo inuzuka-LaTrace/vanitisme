@@ -1,0 +1,116 @@
+{
+  "id": "delamare_shadow",
+  "title": "Shadow",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Shadow",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全3連、各連5行の不規則韻詩（AABBCまたは類似の変則韻）。「影（Shadow）」という主題を三つの形象──薔薇の影・水泡の影・ステンドグラスの聖人の光輪の影──を通じて展開し、地上の美のすべてに死の「暗い影（dark hint of death）」が不可分に付随するという認識へと収斂する。結語「Who, then, may tell / The beauty of heaven's shadowless asphodel?」は、影なき天上の美という不可能な理想への問いとして詩を開いたまま閉じる。デ・ラ・メアの詩世界の核心にある「見えないもの・かすかなもの・夢のようなもの」への執着が、死の影という普遍的主題と結びついた作品。ヴァニタス絵画の静物──切り花・泡・砂時計──という伝統的死の形象の詩的変奏として位置づけられる。コヘレト第1章「vanitas vanitatum」の現代英詩的継承として、またローデンバック・マラルメ・トラークルの「影」の詩的系譜の英語的対応として読める。",
+  "keywords": [
+    "shadow",
+    "影",
+    "death",
+    "asphodel",
+    "rose",
+    "bubble",
+    "nimbus",
+    "vanitas",
+    "beauty",
+    "darkness",
+    "dreamlike"
+  ],
+  "relatedTexts": [
+    "rodenbach_du_silence",
+    "rodenbach_devant_tete_de_mort",
+    "trakl_verfall",
+    "mallarme_soupir",
+    "dowson_vanitas",
+    "johnson_ash_wednesday",
+    "hieronymus_ecclesiastes_1",
+    "weil_pesanteur_beaute",
+    "gautier_coquetterie_posthume",
+    "swinburne_garden_of_proserpine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Even the beauty of the rose doth cast,\nWhen its bright, fervid noon is past,\nA still and lengthening shadow in the dust,\nTill darkness come\nAnd take its strange dream home.",
+      "provisionalTranslation": "薔薇の美でさえも投げかける、\nその輝かしく熱情的な真昼が過ぎたとき、\nひとつの静かで伸び続ける影を塵の中に、\n暗闇が来て\nその奇妙な夢を家に連れ去るまで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "The transient bubbles of the water paint\n'Neath their frail arch a shadow faint;\nThe golden nimbus of the windowed saint,\nTill shine the stars,\nCasts pale and trembling bars.",
+      "provisionalTranslation": "水の束の間の泡は描く\nその脆い弧の下に、かすかな影を；\nステンドグラスの聖人の黄金の光輪は、\n星々が輝くまで、\n蒼白く震える縞模様を投げかける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "The loveliest thing earth hath, a shadow hath,\nA dark and livelong hint of death,\nHaunting it ever till its last faint breath.\nWho, then, may tell\nThe beauty of heaven's shadowless asphodel?",
+      "provisionalTranslation": "大地が持つ最も愛しきものは、影を持つ、\n死のひとつの暗く終わりなき暗示を、\nその最後の微かな息まで常に付き纏う。\nそれならば、誰が語れようか\n天上の影なきアスフォデルの美を？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Even the beauty of the rose doth cast,\nWhen its bright, fervid noon is past,\nA still and lengthening shadow in the dust,",
+      "body": "「薔薇の美でさえも影を投げかける」──「Even（でさえも）」という冒頭の逆接的副詞が詩の論理的基盤を定める：美の最高例示である薔薇ですら影から免れないという例外なき普遍性の宣言。「bright, fervid noon（輝かしく熱情的な真昼）」という絶頂の瞬間の直後に「shadow in the dust（塵の中の影）」が到来するという時間的構造が、美の頂点と死の暗示の不可分性を示す。ヴァニタス絵画における切り花──その盛りの美しさと同時に始まる腐敗──の静物画的モチーフの詩的変奏。ゴーティエ「Coquetterie posthume」の薔薇と死の結合との詩的照応。コヘレト第1章v.2「vanitas vanitatum」の「すべては虚無」という命題が、薔薇という具体的形象を通じて展開される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "take its strange dream home.",
+      "body": "「その奇妙な夢を家に連れ去る（take its strange dream home）」──「darkness（暗闇）」が擬人化されて薔薇の「夢」を「家」へと連れ去るという終連の形象。「strange dream（奇妙な夢）」：薔薇の存在そのものが一種の夢的幻想として提示される──美の実体性への疑問。「home（家）」：死・暗闇の帰還先としての「家」という矛盾的な比喩。デ・ラ・メアの詩世界で繰り返し登場する「夢（dream）」という語彙が、ここでは消滅の婉曲表現として機能する。マラルメ「Soupir（嘆息）」の「ma pensée / …Vers ton front marmoréen（大理石の額へ）」という消滅する意識の詩的形象との照応。",
+      "targetId": "mallarme_soupir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The transient bubbles of the water paint\n'Neath their frail arch a shadow faint;",
+      "body": "「水の束の間の泡（transient bubbles of the water）」──ヴァニタス絵画の最も典型的なモチーフのひとつ。泡（bulla）は人生の儚さ・即時的な消滅の象徴として17世紀オランダ・フランドル静物画に繰り返し描かれた。アドリアーン・ファン・ユトレヒト（VANITISMEの空画面に実装）の静物画群に見られる泡の形象と直接照応する。「frail arch（脆い弧）」：泡の半球形の優美さと脆弱性の同時表現。「shadow faint（かすかな影）」：泡の薄い膜が投げかける影が第1連の薔薇の影より「faint（かすか）」であるという程度の差異が、第2連で描かれるものの一層の儚さを示す。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "The golden nimbus of the windowed saint,\nTill shine the stars,\nCasts pale and trembling bars.",
+      "body": "第2連の韻律構造：「paint / faint / saint」の三行脚韻（AAA）の後、「stars / bars」の二行対韻（BB）という5行AAABB構造。「nimbus（光輪）」という神学的語彙がステンドグラスの聖人像を指す。「Till shine the stars（星々が輝くまで）」という時間的限定が、ステンドグラスの光輪の投影が昼間のみの現象であることを示す──太陽光なくして光輪は影を作れない、という逆説。「pale and trembling bars（蒼白く震える縞模様）」：聖人の金の光輪が地面に落とす格子縞の影が「震える（trembling）」という動詞で生命的な動きを与えられる。ジョンソン「King Charles」の「stars his courtiers are」という星の廷臣化と逆の方向で、ここでは星が光輪の支配から解放する時刻として機能する。",
+      "targetId": "johnson_king_charles",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The loveliest thing earth hath, a shadow hath,\nA dark and livelong hint of death,\nHaunting it ever till its last faint breath.",
+      "body": "「大地が持つ最も愛しきものは、影を持つ」──第3連の開口行は詩全体の帰納的結論。第1連・第2連の具体的形象（薔薇・泡・光輪）から抽象的命題「地上の最愛のものには死の暗示が付き纏う」への論理的移行。「livelong（終わりなき・一生の）」という複合形容詞が「hint of death（死の暗示）」の持続性を強調する：死の影は一瞬の脅威でなく、存在の全期間にわたって「付き纏う（haunting）」。「Haunting（付き纏う）」：幽霊的な執着というデ・ラ・メアの詩的語彙の核心語。トラークル「Verfall（頽廃）」の「Ein Zug von wilden Rossen（野生の馬の一群）」が通り過ぎた後に残る廃墟感との照応。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "heaven's shadowless asphodel?",
+      "body": "「天上の影なきアスフォデル（heaven's shadowless asphodel）」──結語の最重要語彙。「asphodel（アスフォデル）」：ギリシャ神話においてエリシオン（楽園）の野に咲く花。ホメロス『オデュッセイア』第11歌「アスフォデルの野（ἀσφοδελὸς λειμών）」において死者の魂が漂う場所の花として登場する。デ・ラ・メアはこの古典的形象をキリスト教的天上界と接合し、「shadowless（影なき）」という否定的形容詞によって地上の美と天上の美の唯一の差異を定式化する。スウィンバーン「Garden of Proserpine」の「pale asphodel（蒼白いアスフォデル）」という死の庭の花との照応：スウィンバーンの「pale（蒼白い）」に対してデ・ラ・メアは「shadowless（影なき）」を選ぶ──同じ花が死の消滅と天上の完全性の双方を担う。詩全体の問いが「shadowless asphodel」の美を誰も語れない──地上の言語は影を前提とするから──という詩的認識論として閉じる。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Who, then, may tell\nThe beauty of heaven's shadowless asphodel?",
+      "body": "詩の結語が疑問文として開かれたまま終わるという詩形的選択。「Who, then, may tell（それならば誰が語れようか）」──修辞的疑問（rhetorical question）として答えは「誰も語れない」を含意するが、同時に天上の美への渇望の表明でもある。ジョンソン「Precept of Silence」の「I have not spoken of these things（私はこれらのことを語らなかった）」という沈黙の選択と対称的：デ・ラ・メアは「語れない」という不可能性を問いとして開き、ジョンソンは「語らない」という意志として閉じる。ローデンバック「Du Silence」の沈黙の詩学──語ることの不可能性の美学的肯定──との照応。ヴェイユ「Pesanteur et beauté」の「美は実体のないものへの引力」という命題が、「shadowless asphodel」という実体のない天上的美への問いと共鳴する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    }
+  ]
+}
