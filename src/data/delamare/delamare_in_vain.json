@@ -1,0 +1,125 @@
+{
+  "id": "delamare_in_vain",
+  "title": "In Vain",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/In_Vain",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全4連各4行、ABCB韻を基調とする。詩人が「汝（thou）」の扉を四つの季節──春（芽吹く前の冬末）・夏（六月の薔薇）・晩夏（夕暮れのコンボルヴルス）・冬（冬の星）──にわたって繰り返し訪ね、しかし「汝」は応答しないという拒絶・不在の詩。四度の訪問が四季の循環として構造化されることで、コヘレト的な「太陽の下の循環（Nihil sub sole novum）」の個人的変奏として機能する。「Remembrance」の死者の記憶・「The Glimpse」の不在の「汝」と連続する詩的主題。結語「Wide open into night（夜へと大きく開いた）」は、扉が「開いていた」という意外な転換──しかしそれは「応答」でなく「空虚への開口」として機能する。ヴェルレーヌ「Colloque sentimental」・ダウスン「Venite Descendamus」・ローデンバック「Fin du rêve」との詩的照応が深い。",
+  "keywords": [
+    "in vain",
+    "徒労",
+    "knocking",
+    "absence",
+    "four seasons",
+    "door",
+    "night",
+    "convolvulus",
+    "footsore",
+    "unrequited"
+  ],
+  "relatedTexts": [
+    "delamare_remembrance",
+    "delamare_the_glimpse",
+    "delamare_shadow",
+    "verlaine_colloque_sentimental",
+    "dowson_venite_descendamus",
+    "rodenbach_fin_du_reve",
+    "rodenbach_loubli",
+    "hieronymus_ecclesiastes_1",
+    "mallarme_soupir",
+    "johnson_precept_of_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "I knocked upon thy door ajar,\nWhile yet the woods with buds were grey;\nNought but a little child I heard\nWarbling at break of day.",
+      "provisionalTranslation": "私は汝の半開きの扉を叩いた、\n森がまだ芽吹きで灰色だったとき；\n小さな子供の声しか私には聞こえなかった\n夜明けに歌うのが。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "I knocked when June had lured her rose\nTo mask the sharpness of its thorn;\nKnocked yet again, heard only yet\nThee singing of the morn.",
+      "provisionalTranslation": "私は六月が薔薇を誘い出したとき叩いた\n茨の鋭さを覆い隠すために；\nまた叩いた、しかしまだ聞こえただけだった\n朝を歌う汝の声が。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "The frail convolvulus had wreathed\nIts cup, but the faint flush of eve\nLingered upon thy Western wall;\nThou hadst no word to give.",
+      "provisionalTranslation": "脆いコンボルヴルスがその杯を編んでいた、\nしかし夕暮れのかすかな赤みが\n汝の西の壁に留まっていた；\n汝は与える言葉を持っていなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Once yet I came; the winter stars\nAbove thy house wheeled wildly bright;\nFootsore I stood before thy door —\nWide open into night.",
+      "provisionalTranslation": "もう一度私は来た；冬の星々が\n汝の家の上を狂おしいほど輝きながら旋回していた；\n足を痛めながら私は汝の扉の前に立った──\n夜へと大きく開いた扉の前に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "I knocked upon thy door ajar,\nWhile yet the woods with buds were grey;",
+      "body": "「汝の半開きの扉（door ajar）」──冒頭から「半開き」という閾値的状態が設定される。完全に閉じているのでなく「半開き」であることで、到達可能性と不可到達性が同時に示唆される。「woods with buds were grey（芽吹きで森が灰色）」：早春の芽吹き前の状態──灰色という色彩が萌芽の可能性と冬の残滓を同時に表す。詩全体の季節的構造：第1連（早春）→第2連（六月の夏）→第3連（晩夏の夕暮れ）→第4連（冬）という四季の一巡がコヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の時間的循環の個人的変奏として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nought but a little child I heard\nWarbling at break of day.",
+      "body": "第1連の「応答」として現れるのが「汝」の声でなく「小さな子供の鳥のような歌声（warbling）」という間接的な音の置き換え。「Nought but（ただ〜だけ）」という限定構文が期待された応答の代わりに届くものの貧しさを強調する。「warbling（さえずるように歌う）」：鳥の声の婉曲表現として使われ、「汝」の不在を自然の音が埋める構造が第2連以降も継続する。ABCB韻において「grey / day」が韻を踏む：芽吹きの灰色と夜明けの日が音響的に結合し、未だ色彩のない曖昧な夜明けという時間帯を強調する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "I knocked when June had lured her rose\nTo mask the sharpness of its thorn;",
+      "body": "「六月が薔薇を誘い出した──茨の鋭さを覆い隠すために」。「lured（誘い出した）」という動詞が六月を擬人化し、薔薇への誘惑者として提示する。「mask the sharpness of its thorn（茨の鋭さを覆い隠す）」：薔薇の美が茨の危険を隠蔽するという構造は「Remembrance」第1連「In shadow of a thorn（茨の影の中）」の茨イメージの展開であり、「Shadow」第1連「Even the beauty of the rose doth cast / A still and lengthening shadow」の薔薇と影の主題との連続でもある。ジョンソン「Dark Angel」第2連「no thought, no thing, / Abides for me undesecrate」という汚染の遍在と対照的に、デ・ラ・メアの薔薇は「汝」への接近を阻む美的仮面として機能する。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Knocked yet again, heard only yet\nThee singing of the morn.",
+      "body": "第1連「I heard / Warbling」・第2連「heard only yet / Thee singing」という聴覚的応答の反復構造。「汝」の声は聞こえる──しかし「応答（response）」としてではなく「歌（singing）」として、すなわち詩人への注意を向けない独立した声として。ヴェルレーヌ「Colloque sentimental」での亡霊たちの会話が互いに届かない──「l'autre répondit: Ah! les beaux jours de bonheur indicible（もう一方は答えた）」という非-対話の構造──との照応。ここでの「汝」の歌もまた詩人への返答でなく独自の歌として存在し、二者の間の根本的な疎通不能を示す。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "The frail convolvulus had wreathed\nIts cup,",
+      "body": "「コンボルヴルス（convolvulus）」：ヒルガオ科の蔓性植物（旋花・昼顔）。「frail（脆い）」という形容詞が植物の繊細さと一日で萎む性質を示す。コンボルヴルスは夜明けに開いて日中に萎む──「Shadow」の「transient bubbles（束の間の泡）」・「Remembrance」の「waterdrop（水滴）」と同様の「束の間の美」の系列を形成する。「wreathed its cup（杯を編んだ）」：蔓が花の形（杯状）を作るという動詞的形象が植物の自己完結的な美を示す──詩人の訪問とは無関係に「汝」の壁で花を咲かせているという自律性。デ・ラ・メアの植物語彙において「frail」という形容詞は繰り返し美しいものの儚さを定義する語として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "but the faint flush of eve\nLingered upon thy Western wall;\nThou hadst no word to give.",
+      "body": "「夕暮れのかすかな赤み（faint flush of eve）」が「汝の西の壁に留まっていた（lingered）」──夕暮れの光が壁に残存する情景が「汝」の不在の代替として機能する。「Lingered（留まった）」という動詞が夕暮れの光の名残の粘り強さを示す。しかし第3連の結語「Thou hadst no word to give（汝は与える言葉を持っていなかった）」は三連を通じて最も直接的な拒絶の定式：「言葉を持っていなかった（hadst no word to give）」──能力の欠如として拒絶を表現することで、意志的拒否でなく不可能性として「汝」の沈黙が定義される。ジョンソン「Precept of Silence」の「I have not spoken of these things（私はこれらのことを語らなかった）」という自発的沈黙と逆向きの──「持っていなかった」という欠如としての沈黙。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Once yet I came; the winter stars\nAbove thy house wheeled wildly bright;",
+      "body": "「冬の星々が汝の家の上を狂おしいほど輝きながら旋回していた（wheeled wildly bright）」──コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の星・風の循環運動が、ここでは「wildly（狂おしく）」という副詞によって制御不能な宇宙的運動として変奏される。「Remembrance」第2連「Rose in profundity and sank / Into infinity（深淵から湧き上がり無限へと沈んだ）」の宇宙的スケールの感覚と連続する。冬という最終季節が到来することで、四季の一巡が完了する──コヘレト的循環の個人的スケールでの完結。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Footsore I stood before thy door —\nWide open into night.",
+      "body": "詩の結語にして最大の逆転。「Footsore（足を痛めて）」：四季にわたる繰り返しの訪問による身体的疲労の具体的表現──「労苦（labour）」が身体化した形。「Wide open into night（夜へと大きく開いた）」：冒頭「door ajar（半開きの扉）」が最終連では「Wide open（大きく開いた）」へと変容している。この変容は期待された「応答・受容」への逆転的実現のように見えるが、「into night（夜へと）」という方向性が開口の内実を空虚・暗闇への開口として定義する：扉は開かれたが、その先には「夜（night）」しかない。ローデンバック「Fin du rêve」の夢の終わりに残る空虚・ダウスン「Venite Descendamus」の夜への沈降と照応しながら、デ・ラ・メアの「wide open into night」は到達した先の空虚という最も簡潔な虚無の定式として機能する。",
+      "targetId": "rodenbach_fin_du_reve",
+      "targetParagraphId": null
+    }
+  ]
+}
