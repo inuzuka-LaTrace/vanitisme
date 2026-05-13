@@ -1,0 +1,100 @@
+{
+  "id": "johnson_flos_florum",
+  "title": "Flos Florum",
+  "author": "Lionel Johnson",
+  "source": "Internet Archive: The religious poems of Lionel Johnson: being a selection from his collected works. https://archive.org/details/religiouspoems00john",
+  "year": "1895",
+  "firstPublication": "Poems (1895); repr. The Religious Poems of Lionel Johnson (1916)",
+  "difficulty": "初級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）の聖母マリア讃歌。表題「Flos Florum（花の中の花）」はラテン語で、聖母マリアへの伝統的な称号のひとつ──典礼文「Litaniae Lauretanae（ラウレタのリタニー）」における「Rosa mystica（神秘の薔薇）」「Lilium（百合）」などの花の比喩系列に属する。全2連各6行、リフレイン構造（各連の第1・2行を第5・6行で反復）による典礼的・呪文的形式。第1連は「百合（Lily）」──純潔・恩寵の象徴──によるマリア讃美。第2連は「薔薇（Rose）」──ゲッセマネの園・神秘の薔薇・棘なきエデン──によるマリア讃美。百合＝受胎告知・純潔、薔薇＝受難・神秘的合一という典礼的象徴体系が、ジョンソンのカトリック改宗後の信仰詩の核心をなす。イェイツ「To the Rose upon the Rood of Time」の「Mystical Rose」と直接照応する「Mystical Rose！」という称号、ダヌンツィオの聖母的女性像（「Beata Beatrice」）、ヴァン・レルベルグ「Rosier mystique」との詩的連鎖の中に位置づけられる。",
+  "keywords": [
+    "Flos Florum",
+    "百合",
+    "薔薇",
+    "聖母マリア",
+    "Mystical Rose",
+    "Calvary",
+    "Gethsemani",
+    "典礼",
+    "リフレイン",
+    "カトリック",
+    "花の象徴"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "johnson_precept_of_silence",
+    "yeats_to_the_rose_upon_the_rood_of_time",
+    "van_lerberghe_rosier_mystique",
+    "dannunzio_beata_beatrice",
+    "rossetti_monna_innominata",
+    "liturgy_ave_maria",
+    "liturgy_ave_verum_corpus",
+    "liturgy_magnificat",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Lily, O Lily of the Vallies!\nLily, O Lily of Calvary Hill!\nWhite with the glory of all graces,\nEarth with the breath of thy pure soul fill:\nLily, O Lily of the Vallies!\nLily, O Lily of Calvary Hill!",
+      "provisionalTranslation": "百合よ、おお谷の百合よ！\n百合よ、おおカルヴァリーの丘の百合よ！\nすべての恩寵の栄光をもって白く、\n汝の清き魂の息吹で大地を満たせ：\n百合よ、おお谷の百合よ！\n百合よ、おおカルヴァリーの丘の百合よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Rose, O Rose of Gethsemani Garden!\nRose of the Paradise: Mystical Rose!\nFrom thickets of the thornless Eden,\nLoad with rich odour each wind that blows:\nRose, O Rose of Gethsemani Garden!\nRose of the Paradise: Mystical Rose!",
+      "provisionalTranslation": "薔薇よ、おおゲッセマネの園の薔薇よ！\n楽園の薔薇：神秘の薔薇よ！\n棘なきエデンの茂みから、\n吹くそれぞれの風を豊かな香りで満たせ：\n薔薇よ、おおゲッセマネの園の薔薇よ！\n楽園の薔薇：神秘の薔薇よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Lily, O Lily of the Vallies!\nLily, O Lily of Calvary Hill!\nWhite with the glory of all graces,\nEarth with the breath of thy pure soul fill:\nLily, O Lily of the Vallies!\nLily, O Lily of Calvary Hill!",
+      "body": "各連は6行から成り、第1・2行を第5・6行で逐語反復するリフレイン構造を持つ。この反復形式は典礼文──とりわけ「ラウレタのリタニー（Litaniae Lauretanae）」の「Ora pro nobis（我らのために祈りたまえ）」という連祷的反復──に由来する。詩が「祈り」の言語形式を取ることで、読む行為そのものが典礼的反復行為として構成される。第3・4行のみが「内容」を担い、第1・2行と第5・6行の反復に挟まれる構造が、祈願の核心（「大地を満たせ」）を反復の枠で聖別する。スウィンバーン「Garden of Proserpine」の反復的詩形との比較では、スウィンバーンの反復が倦怠・死の循環を強調するのに対し、ジョンソンの反復は典礼的高揚と賛美を生む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lily of the Vallies",
+      "body": "「谷の百合（Lily of the Vallies）」──雅歌（Canticum Canticorum）第2章v.1「ego flos campi et lilium convallium（私は野の花、谷の百合）」のラテン語聖書表現。西洋キリスト教神学において、この「谷の百合」は聖母マリアへの適用が伝統的に行われ、純潔・謙遜・恩寵の象徴として機能する。「Calvary Hill（カルヴァリーの丘）」：イエスの磔刑の地。谷の百合（受胎告知・誕生の喜び）とカルヴァリーの丘（受難・死）の対置が、マリアの生涯全体──喜びと悲しみの共存──を一連に凝縮する。ヴァン・レルベルグ「Rosier mystique」の「rosier（薔薇の木）」が同様の聖母的花の象徴系列に属する。",
+      "targetId": "van_lerberghe_rosier_mystique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "White with the glory of all graces,\nEarth with the breath of thy pure soul fill:",
+      "body": "「すべての恩寵の栄光をもって白く（White with the glory of all graces）」──白という色彩がカトリック的純潔の最上級として機能する。ゴーティエ「Symphonie en blanc majeur」のロ長調ならぬ「白の交響曲」──白という色彩の感覚的・精神的純粋性の探究──との詩的照応がある。「Earth with the breath of thy pure soul fill（大地を汝の清き魂の息吹で満たせ）」：命令形による祈願が、マリアの「息吹（breath）」という生命的・霊的エネルギーの地上への充満を求める。コヘレト第1章v.6「pergit spiritus（霊は巡る）」の「spiritus（霊・息吹）」が、ここでは腐敗した世界循環でなく、純粋な聖母の魂の息吹として対置される。",
+      "targetId": "gautier_symphonie_en_blanc_majeur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Mystical Rose!",
+      "body": "「神秘の薔薇（Mystical Rose / Rosa mystica）」──「ラウレタのリタニー」における聖母マリアへの称号のひとつ。薔薇はキリスト教的伝統において、マリアの愛・純潔・神秘的美を象徴する。「mystical（神秘の）」という形容詞が感覚的な花の美を超越的・神学的次元へと引き上げる。イェイツ「To the Rose upon the Rood of Time」の「Red Rose, proud Rose, sad Rose of all my days! / Come near me」という呼びかけと直接照応する：イェイツはケルト的・神話的文脈で「神秘の薔薇」を呼び出すが、ジョンソンはカトリック典礼の文脈からまったく同じ称号を使用する。両者はライマーズ・クラブの友人であり、「神秘の薔薇」という共通の象徴をめぐる詩的対話として読める。",
+      "targetId": "yeats_to_the_rose_upon_the_rood_of_time",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Rose, O Rose of Gethsemani Garden!\nRose of the Paradise: Mystical Rose!",
+      "body": "「ゲッセマネの園の薔薇」と「楽園の薔薇」の対置──第1連の「谷の百合」と「カルヴァリーの丘の百合」に対応する二項対立の反復。「ゲッセマネの園（Gethsemani Garden）」：イエスが逮捕前夜に祈った場所・受難の始まりの地。「楽園（Paradise）」：最終的な救済の場所。受難の場から救済の場へという神学的運動が、薔薇という同一の象徴によって橋渡しされる。ダヌンツィオ「Beata Beatrice」における聖なる女性像の美的崇拝と比較すると、ジョンソンは美的崇拝を典礼的賛美の形式に厳格に収める点で異なる。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "From thickets of the thornless Eden,\nLoad with rich odour each wind that blows:",
+      "body": "「棘なきエデンの茂みから（From thickets of the thornless Eden）」──「棘なき（thornless）」という否定的形容詞が神学的要点を担う。薔薇の棘は原罪後の世界──「呪われた大地（terra maledicta）」──の象徴であり（創世記第3章v.18「spinas et tribulos germinabit tibi」）、マリアはその棘なき薔薇として原罪以前のエデンの純粋性を体現する。「Load with rich odour each wind that blows（吹くそれぞれの風を豊かな香りで満たせ）」：香気の遍在という感覚的イメージが世界の霊的変容の祈願として機能する。マラルメ「Les Fleurs」の花々の「calices（聖杯）」から溢れる香気・ボードレール「Correspondances」の「Les parfums（香り）」が宇宙的照応の媒体となる感覚詩学との共鳴がある。",
+      "targetId": "mallarme_les_fleurs",
+      "targetParagraphId": null
+    }
+  ]
+}
