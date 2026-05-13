@@ -1,0 +1,125 @@
+{
+  "id": "johnson_magic",
+  "title": "Magic",
+  "author": "Lionel Johnson",
+  "source": "Internet Archive: Some poems of Lionel Johnson newly selected. https://archive.org/details/somepoems00john",
+  "year": "1895",
+  "firstPublication": "Poems (1895); repr. Some Poems of Lionel Johnson Newly Selected (1912)",
+  "difficulty": "中級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）の詩人論的自己定義の詩。全4連各6行、4行長行＋2行短行（インデント）という変則的連形式。「Magic」という表題が示すのは超自然的魔術でなく、詩人が選択した「孤独と労苦（loneliness and labour）」という詩的実践の名称である。俗衆が詩人の孤独を哀れみ、官能的音楽（viol / harp / tabour）の快楽を享受する一方で、詩人は「神的厳粛さ（divine austerity）」・「哲学の声（voices of philosophy）」・「永遠の真理の威厳（majesty and dignity / Of everlasting verity）」を選ぶという詩人の孤高の自己定義が展開される。第3連では詩人のビジョン的能力──「炎熱の夕暮れ・雷・永遠の天使たち」を引き寄せる──が詩的「魔法」として提示される。第4連「I choose laborious loneliness: and ye / Lead Love in triumph through the dancing city」という対比が詩の核心：詩人の選択的孤独と俗衆の快楽の対立が、「while death and darkness girdle me, / I grope for immortality（死と暗闇が私を取り囲む中、私は不滅を手探りで求める）」という詩学的宣言で結語となる。「King Charles」・「Dark Angel」・「Precept of Silence」と同様の「孤独の肯定・世俗的快楽の拒絶」という主題の詩論的変奏。",
+  "keywords": [
+    "magic",
+    "loneliness",
+    "divine austerity",
+    "immortality",
+    "everlasting verity",
+    "Angels of Eternity",
+    "philosophy",
+    "詩人論",
+    "孤独の選択",
+    "darkness"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "johnson_king_charles",
+    "johnson_precept_of_silence",
+    "johnson_de_profundis",
+    "dowson_beata_solitudo",
+    "wilde_helas",
+    "yeats_to_the_rose_upon_the_rood_of_time",
+    "mallarme_brise_marine",
+    "baudelaire_elevation",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "They wrong with ignorance a royal choice\nWho cavil at my loneliness and labour:\nFor them, the luring wonder of a voice,\nThe viol's cry for them, the harp and tabour:\n    For me divine austerity,\n    And voices of philosophy.",
+      "provisionalTranslation": "無知をもって高貴な選択を傷つける者たちよ\n私の孤独と労苦に文句をつける者たちよ：\n彼らには、声の誘惑的な不思議があり、\n彼らにはヴィオルの叫び、ハープと太鼓がある：\n　　私には神的厳粛さがある、\n　　そして哲学の声が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Ah! light imaginations, that discern\nNo passion in the citadel of passion:\nTheir fancies lie on flowers; but my thoughts turn\nTo thoughts and things of an eternal fashion:\n    The majesty and dignity\n    Of everlasting verity.",
+      "provisionalTranslation": "ああ！軽薄な想像力よ、情熱の砦に\n何の情熱も見出さない者たちよ：\n彼らの空想は花々に横たわる；しかし私の思念は向かう\n永遠の形式の思念と事物へと：\n　　永遠の真理の\n　　威厳と品格へと。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Mine is the sultry sunset, when the skies\nTremble with strange intolerable thunder:\nAnd at the dead of an hushed night, these eyes\nDraw down the soaring oracles winged with wonder:\n    From the four winds they come to me,\n    The Angels of Eternity.",
+      "provisionalTranslation": "炎熱の夕暮れは私のものだ、空が\n奇妙で耐え難い雷に震えるとき：\nそして静まり返った夜の真っ只中に、これらの目は\n不思議の翼をもって舞い上がる神託を引き寄せる：\n　　四方の風から彼らは私のもとに来る、\n　　永遠の天使たちが。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Men pity me; poor men, who pity me!\nPoor charitable scornful souls of pity!\nI choose laborious loneliness: and ye\nLead Love in triumph through the dancing city:\n    While death and darkness girdle me,\n    I grope for immortality.",
+      "provisionalTranslation": "人々は私を哀れむ；哀れな者たちよ、私を哀れむ人々よ！\n哀れな慈善的な侮蔑的な哀れみの魂たちよ！\n私は労苦ある孤独を選ぶ：そしてあなたたちは\n愛を踊る都市に凱旋させる：\n　　死と暗闇が私を取り囲む間、\n　　私は不滅を手探りで求める。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "They wrong with ignorance a royal choice\nWho cavil at my loneliness and labour:",
+      "body": "「無知をもって高貴な選択（royal choice）を傷つける者たち」──詩人の孤独な生を選択する行為を「王的（royal）」と定義する点が重要。「By the Statue of King Charles」における王権の孤高──「Alone he rides, alone」──が詩人自身の孤独の比喩的原型となっている。「cavil（文句をつける・難癖をつける）」という動詞が、俗衆の批判を些細な難癖として格下げする。「loneliness and labour（孤独と労苦）」──ゴーティエ「L'Art」の「L'art pénible et austère（苦痛と厳粛の芸術）」に呼応する詩人論的労苦の肯定。詩人の孤独が選択（choice）として提示されることが、第4連「I choose laborious loneliness」の宣言を先取りする。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "For me divine austerity,\n    And voices of philosophy.",
+      "body": "「神的厳粛さ（divine austerity）」──「By the Statue of King Charles」第7連「sweet austerity（甘き厳粛さ）」の変奏。チャールズ一世の顔の感情的複雑さとして定義された「austerity」が、ここでは詩人自身の選択として「divine（神的）」という修飾語とともに再登場する。「哲学の声（voices of philosophy）」：ジョンソンはオクスフォード大学でウォルター・ペイターに師事しプラトン哲学・新プラトン主義を深く研究した──「philosophy」はデカダンス的耽美主義と対立するものでなく、その知的基盤として機能する。「Precept of Silence」の「沈黙」が哲学的瞑想の空間として照応する。",
+      "targetId": "johnson_king_charles",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ah! light imaginations, that discern\nNo passion in the citadel of passion:",
+      "body": "「情熱の砦（citadel of passion）に何の情熱も見出さない軽薄な想像力」──逆説的定式。「citadel of passion（情熱の砦）」とは詩人の内的世界・孤独の精神的要塞を指し、外から見れば「情熱がない」ように見えるが、実際には最も深い情熱の場所であるという逆説。「Dark Angel」第3連「Delight untortured by desire（欲望に苛まれることなき悦び）」という不可能な理想の詩論的展開として読める：俗衆の「情熱」は官能的欲望に過ぎず、詩人の「情熱」は欲望を超えた永遠の真理への志向である。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "The majesty and dignity\n    Of everlasting verity.",
+      "body": "「永遠の真理の威厳と品格（majesty and dignity / Of everlasting verity）」──「verity」はラテン語「veritas（真理）」に由来し、単なる「truth」より哲学的・神学的重みを持つ語。プラトン的イデア論における「永遠の形相（Forms）」への照応が明確：詩人は感覚的・現象的な美（花々・音楽）でなく、永遠不変の真理の次元へと思念を向ける。ペイターの美学論「Conclusion to The Renaissance」での「瞬間的経験の燃焼」という感覚主義的立場とは逆に、ジョンソンは「everlasting（永遠の）」という時間的超越を選ぶ。この「永遠の真理」への志向が第3連の「Angels of Eternity（永遠の天使たち）」へと具体的形象として展開される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mine is the sultry sunset, when the skies\nTremble with strange intolerable thunder:\nAnd at the dead of an hushed night, these eyes\nDraw down the soaring oracles winged with wonder:",
+      "body": "「炎熱の夕暮れ・耐え難い雷・静まり返った夜・舞い上がる神託」──詩人のビジョン的受容能力の描写。「these eyes（これらの目）」という直示表現が詩人自身の感覚器官を霊的受信装置として提示する。「Te Martyrum Candidatus」第2連「They saw with their eyes the Eyes of the Crucified（磔刑の主の双眸を見た）」との照応：殉教者の眼が神を直視するように、詩人の眼が「永遠の天使たち」を引き寄せる（draw down）。「oracles winged with wonder（不思議の翼をもつ神託）」──ギリシャ的神託（oracle）とキリスト教的天使の翼が融合した詩的形象：ジョンソンの古典的教養とカトリック信仰の詩的統合。",
+      "targetId": "johnson_te_martyrum_candidatus",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "From the four winds they come to me,\n    The Angels of Eternity.",
+      "body": "「四方の風から彼らは私のもとに来る、永遠の天使たちが」──黙示録第7章v.1「quatuor angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae（地の四つの角に立ち、地の四方の風を押さえる四人の天使）」の詩的変奏。「De Profundis」の「White Angels around Christ」・「Te Martyrum Candidatus」の「White Horsemen」という天使的存在が、ここでは詩人のビジョンに応答する「Angels of Eternity（永遠の天使たち）」として再登場する。イェイツ「To the Rose upon the Rood of Time」での「eternal beauty wandering on her way」という永遠の美への召喚と詩的構造が照応する。",
+      "targetId": "yeats_to_the_rose_upon_the_rood_of_time",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Men pity me; poor men, who pity me!\nPoor charitable scornful souls of pity!",
+      "body": "第4連冒頭2行の修辞的構造が詩全体で最も際立つ。「Men pity me; poor men, who pity me!」──「pity me（私を哀れむ）」の反復と「poor men（哀れな者たち）」という語の転用：哀れむ側が実は「哀れむべき者（poor）」であるという逆転。続く「Poor charitable scornful souls of pity!」での「poor / charitable / scornful」という矛盾する三形容詞の並置──「慈善的」でありながら「侮蔑的」という哀れみの内的矛盾の暴露。詩全体の4行長行＋2行短行という連形式において、この第4連冒頭2行が最も感情的激度の高い部分として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "I choose laborious loneliness: and ye\nLead Love in triumph through the dancing city:\n    While death and darkness girdle me,\n    I grope for immortality.",
+      "body": "詩の結語。「I choose laborious loneliness（私は労苦ある孤独を選ぶ）」──「Precept of Silence」の「I have not spoken of these things」という沈黙の選択、「King Charles」の「Dark night is all his own」という孤独の専有が、ここでは「laborious（労苦ある）」という形容詞をともなう能動的選択として宣言される。「ye / Lead Love in triumph through the dancing city」：俗衆が都市の快楽の中で「愛の凱旋」を演じるのに対し、詩人は「death and darkness」に取り囲まれる。「I grope for immortality（私は不滅を手探りで求める）」──「grope（手探りする）」という動詞が確信でなく探索の過程として不滅を位置づける：「Dark Angel」の「Lonely, unto the Lone I go」という確信的帰還と対比すると、「Magic」の結語は不滅への到達でなく永続的探索として開かれたまま終わる。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 14
+    }
+  ]
+}
