@@ -1,0 +1,119 @@
+{
+  "id": "johnson_precept_of_silence",
+  "title": "The Precept of Silence",
+  "author": "Lionel Johnson",
+  "source": "Internet Archive: The religious poems of Lionel Johnson: being a selection from his collected works. https://archive.org/details/religiouspoems00john",
+  "year": "1895",
+  "firstPublication": "Poems (1895); repr. The Religious Poems of Lionel Johnson (1916)",
+  "difficulty": "初級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）の短詩。全3連12行、交互韻（ABAB）の四行連句。「沈黙の訓戒（Precept of Silence）」という表題が示す通り、詩人が内面に抱える悲嘆・情熱・信仰を外に語らず、「ただ一人の人間と神のみに」打ち明けるという告白の詩。第1連で「孤独な悲嘆」「震える信仰」「苦悩する希望」「灰色の花」という内面の荒廃を認識する場面として開く。第2連で「悲しき風」「恐怖に満ちた星の空間」「海の悲しみ」「荒涼とした場所の嘆息」という外界の自然がすべて詩人の内的状態を鏡として映す世界へと展開する。第3連で「弦楽の奏者たちは情感を広く公表する」という他者の表現行為への言及の後、「私はそれらのことを語らなかった──ただ一人の人間と、神のみに」という沈黙の告白が結語となる。この「沈黙」はローデンバックの「静寂」論（rodenbach_du_silence）・マラルメの「エクリチュールの沈黙」・ヴェイユの「空虚の受容」という主題群と深く共鳴する。ジョンソンの信仰詩の核心──神と人間の間の秘密の告白空間としての詩的言語──を凝縮した作品。",
+  "keywords": [
+    "silence",
+    "solitary griefs",
+    "tremulous beliefs",
+    "ashen flowers",
+    "wistfulness",
+    "sorrow",
+    "precept",
+    "God",
+    "confession",
+    "秘密"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "johnson_king_charles",
+    "rodenbach_du_silence",
+    "rodenbach_seul",
+    "dowson_beata_solitudo",
+    "dowson_a_last_word",
+    "wilde_e_tenebris",
+    "weil_accepter_le_vide",
+    "mallarme_soupir",
+    "verlaine_calme_orphelin"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "I know you: solitary griefs,\nDesolate passions, aching hours!\nI know you: tremulous beliefs,\nAgonized hopes, and ashen flowers!",
+      "provisionalTranslation": "私はあなたたちを知っている：孤独な悲嘆よ、\n荒涼とした情熱よ、疼く時間よ！\n私はあなたたちを知っている：震える信仰よ、\n苦悩する希望よ、灰色の花よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "The winds are sometimes sad to me;\nThe starry spaces, full of fear:\nMine is the sorrow on the sea,\nAnd mine the sigh of places drear.",
+      "provisionalTranslation": "風は時として私には悲しい；\n星の空間は、恐怖に満ちている：\n海の上の悲しみは私のものであり、\n荒涼とした場所の嘆息もまた私のものだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Some players upon plaintive strings\nPublish their wistfulness abroad:\nI have not spoken of these things,\nSave to one man, and unto God.",
+      "provisionalTranslation": "嘆きの弦を奏でる者たちは\n彼らの物悲しさを広く公表する：\n私はこれらのことを語ったことがない、\nただ一人の人間と、神のみに。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "I know you: solitary griefs,\nDesolate passions, aching hours!\nI know you: tremulous beliefs,\nAgonized hopes, and ashen flowers!",
+      "body": "「I know you」の行頭反復（anaphora）が第1連の構造的支柱。v.1とv.3に置かれた同一句の反復が、列挙される内的状態群を二つのグループに分類する：「孤独な悲嘆・荒涼とした情熱・疼く時間」（第一群）と「震える信仰・苦悩する希望・灰色の花」（第二群）。感嘆符「!」による終結が、「知ること（I know）」が冷静な認識でなく感情的な直面であることを示す。形容詞群の選択──solitary / desolate / aching / tremulous / agonized / ashen──が、すべて弱化・疲弊・崩壊の方向性を持ち、連全体に灰色の情動的色調をもたらす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "ashen flowers!",
+      "body": "「灰色の花（ashen flowers）」──ジョンソン詩語彙の最も特徴的な結合のひとつ。「ashen」は「灰（ash）の」と「灰色の」の二義を持ち、燃え尽きた後の残滓としての花という腐敗・消尽のイメージを生む。「Dark Angel」第9連「Apples of ashes, golden bright（灰の林檎、黄金のごとく輝く）」の「ashes」と語根を同じくし、外見は花（美）でありながら内実は灰（虚無）という逆説的形象を反復する。ダウスン「Seraphita」の「pale anemones」（蒼白いアネモネ）や、ローデンバック「Les Femmes tristes」の疲弊した花のイメージとの詩的照応。マラルメ「Les Fleurs」の聖なる花々の対極として、ジョンソンの「ashen flowers」は信仰の燃え尽きた残骸として機能する。",
+      "targetId": "mallarme_les_fleurs",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "tremulous beliefs,\nAgonized hopes,",
+      "body": "「震える信仰（tremulous beliefs）」「苦悩する希望（agonized hopes）」──ジョンソンのカトリック信仰が確固たる確信ではなく「震え」と「苦悩」を内包するものとして自己診断されている。1891年の改宗後もジョンソンのカトリシズムは内的確信と官能的誘惑（「Dark Angel」）の間の絶え間ない緊張として生きられた。「tremulous」はラテン語「tremere（震える）」に由来し、恐れ・不安定さを含む。ワイルド「E Tenebris」の「I am weary of the days and hours / ... I am weary of the night」という信仰の疲弊と照応しながら、ジョンソンの「beliefs」はワイルドよりも積極的に神学的命題として維持されている。",
+      "targetId": "wilde_e_tenebris",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The winds are sometimes sad to me;\nThe starry spaces, full of fear:",
+      "body": "第2連は第1連の内的状態が外界の自然へと投影される転換点。「風が悲しい」「星の空間が恐怖に満ちている」──自然が詩人の内的状態を映す鏡として機能するという感情移入（Einfühlung）の詩的構造。ローデンバック「Du Silence」の沈黙が外界の風景と内的状態を統合する空間として機能する論理と同型。「starry spaces, full of fear」：宇宙的空間の広大さが恐怖を喚起するという感覚はパスカル「これらの無限の空間の永遠の沈黙が私を恐怖させる（Le silence éternel de ces espaces infinis m'effraie）」の詩的変奏として読める。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Mine is the sorrow on the sea,\nAnd mine the sigh of places drear.",
+      "body": "「海の上の悲しみは私のもの」「荒涼とした場所の嘆息もまた私のもの」──所有格「mine」の二重反復による自己同一化。自然の悲しみ・嘆息が詩人の内的状態と同一化される構造は、ヴェルレーヌ「Chanson d'automne」の「Je me souviens / Des jours anciens / Et je pleure（私は泣く）」──秋の自然と内的哀愁の融合──との詩的照応を持つ。マラルメ「Soupir（嘆息）」の「soupir（嘆息）」が「sigh of places drear」と直接共鳴し、場所・季節・内的状態の三者の一体化という象徴主義的感覚詩学の典型的表現として位置づけられる。",
+      "targetId": "mallarme_soupir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Some players upon plaintive strings\nPublish their wistfulness abroad:",
+      "body": "「嘆きの弦を奏でる者たちは彼らの物悲しさを広く公表する」──他者の詩人・音楽家たちへの言及。「plaintive strings（嘆きの弦）」は詩的・音楽的表現行為の換喩。「publish abroad（広く公表する）」という語が、私的な感情を公的な芸術として流通させることへの批判的距離を示す。これはジョンソン自身のライマーズ・クラブの詩人仲間──ダウスン・ワイルド・イェイツ──への暗黙の言及とも読める：彼らは「wistfulness（物悲しさ）」を詩として「公表」するが、ジョンソンの「沈黙の訓戒」はそれとは異なる秘密の告白空間を要求する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Save to one man, and unto God.",
+      "body": "「ただ一人の人間と、神のみに（Save to one man, and unto God）」──詩の結語にして最大の謎。「one man（一人の人間）」が誰を指すかは特定されない：告解を聞く神父（カトリック的読解）、あるいは親密な友人（伝記的読解）、あるいは詩的創造における理想的読者（詩学的読解）として解釈可能。「unto God」との対置が、この「一人の人間」を神との中間に位置する媒介者として示唆する。詩全体が「語らないことについての詩」という自己言及的逆説を構成する：詩が語ることで「沈黙」を破るはずが、詩の言語それ自体が神と一人の人間への「告白」として沈黙の中に包まれた別種の告白となる。ヴェイユ「Accepter le vide」の「空虚」──語ることのできない内的経験の空間──の詩的先取りとして読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "I have not spoken of these things,\nSave to one man, and unto God.",
+      "body": "「私はこれらのことを語ったことがない」という沈黙の宣言が詩の結語となる逆説──詩は沈黙を語ることで沈黙を犯すという自己矛盾を内包する。ローデンバック「Seul（孤独）」の孤独の絶対的内面化と照応しながら、ジョンソンの「沈黙」は孤立でなく「神への告白」という垂直的な通路を持つ点で異なる。「Dark Angel」結末「Lonely, unto the Lone I go; / Divine, to the Divinity」との照応が顕著：両詩において詩人の最終的な向かう先は神的なものであり、人間的な公共圏への「公表（publish abroad）」を拒否する。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 14
+    }
+  ]
+}
