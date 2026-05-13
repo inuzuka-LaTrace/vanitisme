@@ -1,0 +1,231 @@
+{
+  "id": "johnson_king_charles",
+  "title": "By the Statue of King Charles at Charing Cross",
+  "author": "Lionel Johnson",
+  "source": "Wikisource: https://en.wikisource.org/wiki/The_Year%27s_at_the_Spring:_An_Anthology_of_Recent_Poetry/Johnson,_Lionel",
+  "year": "1889",
+  "firstPublication": "Poems (1895); also in The Year's at the Spring: An Anthology of Recent Poetry (1920)",
+  "difficulty": "中級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）の代表作のひとつ。チャリング・クロス（Charing Cross）に立つチャールズ一世（Charles I, 1600–1649）の騎馬像──ユベール・ル・シュール（Hubert Le Sueur）作、1633年──を詩的媒介として、敗北・孤独・殉教・芸術の超越という主題を展開する。チャールズ一世はピューリタン革命によって処刑された悲劇の王であり、ジョンソンはその「敗者の荘厳さ」に自らのカトリック的殉教者崇敬と美的耽溺を重ねる。ワイルドやイェイツとのライマーズ・クラブ時代に書かれたこの詩は、デカダンス期英国における「失われた大義（Lost Cause）」への審美的耽溺の極点を示す。詩形は四行連句（quatrain）×13連、交互韻（ABAB）、短い行（iambic trimeter）を基調とする端整な形式が、内容の荘厳さと対をなす。「Vanquished in life, his death / By beauty made amends」という命題は、ジョンソン詩学の核心──政治的・歴史的敗北が美的・精神的勝利へと昇華されるという逆説──を定式化している。イェイツはのちに「ジョンソンの詩の中で最も完成した作品のひとつ」として本詩を高く評価した。",
+  "keywords": [
+    "King Charles I",
+    "Charing Cross",
+    "殉教",
+    "孤独",
+    "敗北と勝利",
+    "彫像",
+    "夜",
+    "静寂",
+    "美的超越",
+    "カトリック",
+    "Rhymers' Club",
+    "sweet austerity"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "wilde_e_tenebris",
+    "wilde_helas",
+    "swinburne_forsaken_garden",
+    "swinburne_garden_of_proserpine",
+    "swinburne_ballad_dreamland",
+    "dowson_a_last_word",
+    "dowson_beata_solitudo",
+    "yeats_to_the_rose_upon_the_rood_of_time",
+    "rodenbach_du_silence",
+    "rodenbach_les_statues",
+    "regnier_les_statues"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sombre and rich, the skies;\nGreat glooms, and starry plains.\nGently the night wind sighs;\nElse a vast silence reigns.",
+      "provisionalTranslation": "陰鬱にして豊潤、空は；\n深い翳、そして星の野。\n静かに夜風が嘆息する；\n他には広大な静寂が支配する。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "The splendid silence clings\nAround me: and around\nThe saddest of all kings\nCrowned, and again discrowned.",
+      "provisionalTranslation": "荘麗な静寂が纏わりつく\n私の周囲に：そして周囲に\nすべての王の中で最も悲しき者の\n戴冠され、そして再び冠を剥奪された者の。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Comely and calm, he rides\nHard by his own Whitehall:\nOnly the night wind glides:\nNo crowds, nor rebels, brawl.",
+      "provisionalTranslation": "端正に穏やかに、彼は馬を駆る\n彼自身のホワイトホールのほとりを：\n夜風だけが滑るように流れる：\n群衆も、反乱者も、喧騒もない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Gone, too, his Court; and yet,\nThe stars his courtiers are:\nStars in their stations set;\nAnd every wandering star.",
+      "provisionalTranslation": "彼の宮廷もまた消えた；しかし、\n星々が彼の廷臣たちだ：\n定められた軌道に置かれた星々；\nそしてあらゆる漂う星も。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Alone he rides, alone,\nThe fair and fatal king:\nDark night is all his own,\nThat strange and solemn thing.",
+      "provisionalTranslation": "孤独に彼は馬を駆る、孤独に、\n端麗にして宿命の王：\n暗き夜はすべて彼のもの、\nあの不思議で荘厳なるもの。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Which are more full of fate:\nThe stars; or those sad eyes?\nWhich are more still and great:\nThose brows; or the dark skies?",
+      "provisionalTranslation": "どちらがより多くの運命を孕むか：\n星々か；それともあの悲しき瞳か？\nどちらがより静かに偉大か：\nあの眉か；それとも暗き空か？"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Although his whole heart yearn\nIn passionate tragedy:\nNever was face so stern\nWith sweet austerity.",
+      "provisionalTranslation": "彼の心全体が焦がれるとはいえ\n激情の悲劇の中で：\n甘き厳粛さをもってかくも峻厳な\n顔は未だかつてなかった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Vanquished in life, his death\nBy beauty made amends:\nThe passing of his breath\nWon his defeated ends.",
+      "provisionalTranslation": "生において打ち負かされ、彼の死は\n美によって償いをなした：\n彼の息の絶えることが\n彼の敗れた目的を勝ち取った。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Brief life and hapless? Nay:\nThrough death, life grew sublime.\nSpeak after sentence? Yea:\nAnd to the end of time.",
+      "provisionalTranslation": "短く不幸な生？否：\n死を通じて、生は崇高となった。\n判決の後に語るか？然り：\n時の終わりに至るまで。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Armoured he rides, his head\nBare to the stars of doom:\nHe triumphs now, the dead,\nBeholding London's gloom.",
+      "provisionalTranslation": "武装して彼は馬を駆る、その頭は\n運命の星々に向かって剥き出しに：\n彼は今や勝利する、死せる者として、\nロンドンの暗闇を見つめながら。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Our wearier spirit faints,\nVexed in the world's employ:\nHis soul was of the saints;\nAnd art to him was joy.",
+      "provisionalTranslation": "私たちのより疲れた霊は萎える、\n世の営みに悩まされて：\n彼の魂は聖者のものだった；\n芸術は彼にとって喜びだった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "King, tried in fires of woe!\nMen hunger for thy grace:\nAnd through the night I go,\nLoving thy mournful face.",
+      "provisionalTranslation": "王よ、苦悩の炎の中で試された者よ！\n人々は汝の恩寵を渇望する：\nそして私は夜を通じて行く、\n汝の悲嘆に沈む顔を愛しながら。"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Yet when the city sleeps;\nWhen all the cries are still:\nThe stars and heavenly deeps\nWork out a perfect will.",
+      "provisionalTranslation": "しかし都市が眠るとき；\nすべての叫びが静まるとき：\n星々と天の深淵が\nひとつの完全な意志を成し遂げる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sombre and rich, the skies;\nGreat glooms, and starry plains.\nGently the night wind sighs;\nElse a vast silence reigns.",
+      "body": "詩形はiambic trimeterを基調とする短行四行連句（ABAB韻）×13連。開口連の四行は「Sombre and rich」「Great glooms」「Gently」「a vast silence」と、形容詞句・名詞句による静的な情景描写を積み重ねる。「sighs（嘆息）」と「reigns（支配する）」の脚韻が、自然の感情的表出（嘆息）と統治的権威（支配）という二つのモチーフをあらかじめ結びつける──これが王（チャールズ一世）の「悲嘆と統治」という主題の序奏として機能する。同様の短行による荘重な静寂描写は、ローデンバック「沈黙について（Du Silence）」の散文的静寂論と詩的に響き合う。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sombre and rich, the skies;",
+      "body": "「陰鬱にして豊潤（Sombre and rich）」という矛盾的形容詞の並置が、ジョンソン詩学の基本的な感覚構造を開口部に示す。「sombre」はフランス語由来の英語語彙で、デカダンス期英詩においてボードレール的な「陰鬱」の質感を帯びる。ゴーティエ「L'Art」の「Ce que l'art pénible et austère（芸術は苦痛と峻厳の中に）」とジョンソンの「sombre and rich」は、美的価値と感覚的陰鬱の一致という審美的立場を共有する。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "The saddest of all kings\nCrowned, and again discrowned.",
+      "body": "「すべての王の中で最も悲しき者──戴冠され、再び剥奪された」。チャールズ一世の歴史的運命の凝縮的定式。1625年戴冠、1649年処刑による「脱戴冠」という歴史的事実が、詩的最上級「saddest of all kings」によって普遍的な悲劇の型として提示される。シェイクスピア『リチャード二世』第3幕第2場「let us sit upon the ground / And tell sad stories of the death of kings」という王権の脆弱性の主題との共鳴は明白であり、ジョンソンはそのシェイクスピア的伝統を19世紀末のカトリック審美主義の中に引き継ぐ。コヘレト第1章v.1「regis Jerusalem（エルサレムの王）」の仮面劇──王権の頂点からの虚無の告発──という構造が、ここでは歴史的実在の王によって具体化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Comely and calm, he rides\nHard by his own Whitehall:",
+      "body": "「端正に穏やかに、彼は馬を駆る / 彼自身のホワイトホールのほとりを」。ホワイトホール（Whitehall）：チャールズ一世が処刑された場所。1649年1月30日、ホワイトホール宮殿の饗宴の間（Banqueting House）の窓から処刑台へと歩んだ。騎馬像はまさにその処刑場のほとり──チャリング・クロス──に立つ。「his own Whitehall」という所有格が、処刑の地が同時に彼の宮廷の地でもあったという歴史的逆説を暗示する。彫像の「静止」と「馬を駆る」という動詞の矛盾が詩的緊張を生む：彫像は動かないが、ジョンソンのまなざしの中では永遠に騎乗し続ける。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Gone, too, his Court; and yet,\nThe stars his courtiers are:",
+      "body": "「彼の宮廷も消えた；しかし、星々が彼の廷臣たちだ」。地上の宮廷（廷臣・群衆・権力）の消滅と、宇宙的廷臣（星々）への代替という転換。コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り……大地は永遠に立ち続ける）」の世代の消滅と宇宙的永続という構造の詩的変奏として読める。星々を廷臣に見立てる比喩は、シェイクスピア『ジュリアス・シーザー』のカシウスの言葉「The fault, dear Brutus, is not in our stars」という星の運命論の反転でもある：ジョンソンにとって星は「運命の敵」でなく「永遠の忠臣」として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Alone he rides, alone,\nThe fair and fatal king:",
+      "body": "「Alone he rides, alone」──同一語「alone」の行頭と行末への反復配置（epanalepsis）。この単語の反復が孤独の絶対性を音声的・視覚的に実演する詩形上の傑出した工夫。「fair and fatal」のf頭韻もセットで機能し、美と宿命の不可分な結びつきを音響として提示する。ダウスン「Beata Solitudo」の「Ah, God! the loneliness!」という孤独の叫びと照応しながら、ジョンソンの「alone」は叫びでなく荘重な肯定として機能する点が異なる。",
+      "targetId": "dowson_beata_solitudo",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Which are more full of fate:\nThe stars; or those sad eyes?\nWhich are more still and great:\nThose brows; or the dark skies?",
+      "body": "詩中唯一の疑問連句。「星と悲しき瞳」「眉と暗き空」という二重の比較疑問が、彫像の顔（人間的悲劇の次元）と宇宙（天文学的・神学的次元）を対等の秤に乗せる。この疑問は答えを提示しない：どちらがより運命的か・より偉大かという問いが宙吊りにされることで、王の顔が星と同等の宇宙的重量を持つものとして提示される。ヴェルハーレン「Mourir」での生と死の問いかけ、ローデンバック「La vie des chambres」での窓越しの沈黙した世界への問いと同様の「答えなき疑問」の詩的修辞。",
+      "targetId": "rodenbach_la_vie_des_chambres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "sweet austerity",
+      "body": "「甘き厳粛さ（sweet austerity）」──ジョンソン詩学の核心語彙のひとつ。「austerity（厳粛・禁欲）」はカトリック的修道生活・殉教者の精神的態度を指すと同時に、彫像の表情の感情的複雑さ──悲劇的苦悩を内に秘めながら外面は峻厳に保つという態度──を定義する。「sweet」との逆説的結合が本詩最大の詩的発見：厳格さが甘美さを帯びるという感覚は、ジョンソン自身の「Dark Angel」との戦いにおける信仰的禁欲の甘美さと照応する。ワイルド「Hélas!」の「the honey of romance」という甘美な誘惑への屈服と逆向きに、ジョンソンは禁欲の中に甘美さを見出す。",
+      "targetId": "wilde_helas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Vanquished in life, his death\nBy beauty made amends:\nThe passing of his breath\nWon his defeated ends.",
+      "body": "本詩の哲学的核心命題。「生において打ち負かされ、彼の死は美によって償いをなした」──政治的・軍事的敗北が死という美的行為によって逆転されるという逆説。「beauty made amends（美が償いをなした）」は、ジョンソンのデカダンス詩学の最も明快な定式：歴史的事実の次元での敗北が、審美的次元での勝利によって「償われる」。ゴーティエ「L'Art」の「Tout passe. L'art robuste / Seul a l'éternité（すべては過ぎ去る。堅牢な芸術だけが永遠を持つ）」というテーゼ──芸術による歴史への勝利──の英国デカダンス的実践。スウィンバーン「Memorial Verses on the Death of Théophile Gautier」で死後の詩人の芸術的不滅を讃えた議論と同型。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Speak after sentence? Yea:\nAnd to the end of time.",
+      "body": "「判決の後に語るか？然り：時の終わりに至るまで」。「Speak after sentence」：処刑宣告（sentence）の後に語ること、すなわち死後に言葉が続くという逆説的命題。チャールズ一世は処刑台でその生涯最後の演説を行ったという歴史的事実（1649年1月30日）を踏まえる。「Yea」という強い肯定が、前行の疑問「Brief life and hapless? Nay」と「Speak after sentence? Yea」という二組の否定・肯定の対称として機能する。この修辞的問答（erotesis）が連全体に論証の力強さを与える。ホラティウス「Carmina III.30」「Non omnis moriar（私は全部は死なない）」の詩的不滅の主張との直接的照応。",
+      "targetId": "horatius_carmina_3_30",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Armoured he rides, his head\nBare to the stars of doom:\nHe triumphs now, the dead,\nBeholding London's gloom.",
+      "body": "「武装して」（鎧甲）と「頭は剥き出し」（無防備）という身体的矛盾が、彫像のル・シュール作の実際の造形──胸甲を着た騎馬武者の頭が帽子を脱いだ状態──を正確に描写しながら、象徴的な逆説として機能する。「stars of doom（運命の星々）」：第4連「Stars in their stations set」（廷臣としての星）が、ここでは「doom（運命・滅亡）」の星へと変じる──同じ星が廷臣的忠誠と運命的必然の両義性を持つ。「He triumphs now, the dead」──「the dead（死せる者）」の同格が、死者の現在的勝利を宣言する：死が過去でなく「now（今）」に帰する勝利の時制として提示される。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "Our wearier spirit faints,\nVexed in the world's employ:\nHis soul was of the saints;\nAnd art to him was joy.",
+      "body": "詩中唯一の「我々（Our）」という複数主語の登場。それまで「彼（he/his）」と語り手「私（I）」という二者関係だったものが、「私たち」という集合的詩的主体へと拡張される転換点。「wearier spirit（より疲れた霊）」：現代の詩人たち・読者たちの霊が、殉教者の魂に比して「より疲弊している」という比較級による貶下。ワイルド「E Tenebris」の「I am weary of the working of the day」という現代的疲弊の感覚との照応。「art to him was joy」──チャールズ一世は実際に熱心な芸術擁護者であり（ヴァン・ダイクをはじめ多くの画家を庇護した）、その審美的王権がジョンソンのデカダンス詩学と接続される。",
+      "targetId": "wilde_e_tenebris",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "And through the night I go,\nLoving thy mournful face.",
+      "body": "「私は夜を通じて行く、汝の悲嘆に沈む顔を愛しながら」──詩の視点が「彫像への観察」から「夜の通行者としての詩人自身」へと転換する個人的告白の瞬間。「loving thy mournful face」という現在分詞句が、王の顔への静的な崇拝ではなく、動的な「夜の巡礼」の中での継続的な愛着として機能する。ジョンソン自身のロンドンの夜の徘徊──アルコール依存と詩的インスピレーションの夜の都市遍歴──の自伝的反映。ダウスン「A Last Word」の「let us go hence」という夜への出発と照応しながら、ジョンソンの「through the night I go」は終わりに向かうのでなく、愛着の対象に向かう夜の巡礼として方向が異なる。",
+      "targetId": "dowson_a_last_word",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Yet when the city sleeps;\nWhen all the cries are still:\nThe stars and heavenly deeps\nWork out a perfect will.",
+      "body": "結末連。「都市が眠るとき、すべての叫びが静まるとき」という二重の沈黙の条件のもとで、「星々と天の深淵が完全な意志を成し遂げる（work out a perfect will）」という神学的結語。「perfect will（完全な意志）」は神の摂理的意志──チャールズ一世の歴史的敗北が神の「完全な意志」の中で意味を持つという宣言。ヨブ記第1章v.21「sicut Domino placuit, ita factum est（主の御心のままになった）」の「神の意志への委譲」という命題が、ここでは宇宙論的な「stars and heavenly deeps」を通じた詩的表現として変奏される。「Dark Angel」の結末「Lonely, unto the Lone I go; / Divine, to the Divinity」と対称的に、本詩の結末は個人的魂の神への帰還でなく、宇宙的意志の実現という客観的な秩序の確認として締め括られる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
