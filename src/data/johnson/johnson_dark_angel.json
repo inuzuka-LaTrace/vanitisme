@@ -1,0 +1,276 @@
+{
+  "id": "johnson_dark_angel",
+  "title": "The Dark Angel",
+  "author": "Lionel Johnson",
+  "source": "Wikisource: https://en.wikisource.org/wiki/The_Dark_Angel",
+  "year": "1893",
+  "firstPublication": "The Book of the Rhymers' Club, Second Book, 1894; also in Poems (1895)",
+  "difficulty": "中級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）による代表作。オクスフォード大学でウォルター・ペイターに師事し、1891年にカトリックに改宗。オスカー・ワイルドおよびアーネスト・ダウスンと「ライマーズ・クラブ（Rhymers' Club）」を結成し、1890年代英国デカダンス詩の中核を担った。本詩は1893年に書かれ、1894年刊「ライマーズ・クラブ詩集・第二集」に収録。魂を絶えず誘惑・汚染する「暗き天使（Dark Angel）」への直接の呼びかけという構造で全14連が展開する。神学的には「悪魔（Satan）」に近いが、ジョンソンはあえて「天使」という逆説的な呼称を選ぶことで、悪が美・芸術・感覚の内側に巣食う様を描く。カトリック信仰と官能的耽美主義の間の引き裂かれた内面──これはワイルドとの交友、ダウスンのデカダンス美学、スウィンバーンの異教的官能論との緊張を背景に持つ。終連「Lonely, unto the Lone I go; / Divine, to the Divinity」はプロティノスの「孤独者から孤独者へ（μόνος πρὸς μόνον）」という神秘主義的定式の引用であり、詩全体のカトリック的解決として機能する。アルコール依存と詩的インスピレーションの共存という自己破壊的な生に35歳で斃れたジョンソンの内面の核心を示す作品。",
+  "keywords": [
+    "Dark Angel",
+    "temptation",
+    "penitence",
+    "decadence",
+    "Catholic",
+    "Rhymers' Club",
+    "Paraclete",
+    "second death",
+    "Plotinus",
+    "evil ecstasy",
+    "subtile violence",
+    "drifting dust"
+  ],
+  "relatedTexts": [
+    "wilde_e_tenebris",
+    "wilde_helas",
+    "wilde_ballad_reading_gaol",
+    "swinburne_garden_of_proserpine",
+    "swinburne_hymn_to_proserpine",
+    "swinburne_dysthanatos",
+    "swinburne_euthanatos",
+    "dowson_a_last_word",
+    "dowson_venite_descendamus",
+    "dowson_seraphita",
+    "trakl_de_profundis",
+    "baudelaire_litanies_satan",
+    "baudelaire_de_profundis_clamavi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "DARK Angel, with thine aching lust\nTo rid the world of penitence:\nMalicious Angel, who still dost\nMy soul such subtile violence!",
+      "provisionalTranslation": "暗き天使よ、悔悛を世界から一掃せんとする\nその疼くような渇望をもって：\n悪意の天使よ、今もなお\n我が魂にかくも巧妙な暴力を加える者よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Because of thee, no thought, no thing,\nAbides for me undesecrate:\nDark Angel, ever on the wing,\nWho never reachest me too late!",
+      "provisionalTranslation": "汝のゆえに、いかなる思念も、いかなる事物も\n私にとって汚されないままには留まらない：\n暗き天使よ、常に翼を広げ、\n決して遅すぎることなく私のもとに至る者よ！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "When music sounds, then changest thou\nIts silvery to a sultry fire:\nNor will thine envious heart allow\nDelight untortured by desire.",
+      "provisionalTranslation": "音楽が鳴り響くとき、汝はその\n銀白の音色を灼熱の炎へと変える：\n汝の嫉妬深い心は許さない、\n欲望に苛まれることなき悦びを。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Through thee, the gracious Muses turn,\nTo Furies, O mine Enemy!\nAnd all the things of beauty burn\nWith flames of evil ecstasy.",
+      "provisionalTranslation": "汝を通じて、優雅なるムーサイは\nフリアエへと変じる、おお我が敵よ！\nそして美しきものすべてが燃える\n邪悪な法悦の炎をもって。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Because of thee, the land of dreams\nBecomes a gathering place of fears:\nUntil tormented slumber seems\nOne vehemence of useless tears.",
+      "provisionalTranslation": "汝のゆえに、夢の国は\n恐怖の集う場所となる：\n苛まれた眠りはついには\nひとつの激しい無益な涙と化す。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "When sunlight glows upon the flowers,\nOr ripples down the dancing sea:\nThou, with thy troop of passionate powers,\nBeleaguerest, bewilderest, me.",
+      "provisionalTranslation": "陽光が花々に輝くとき、\nあるいは踊る海面に漣が走るとき：\n汝は、激情の力の軍勢を率いて、\n私を包囲し、惑わす。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Within the breath of autumn woods,\nWithin the winter silences:\nThy venomous spirit stirs and broods,\nO Master of impieties!",
+      "provisionalTranslation": "秋の森の息吹の中に、\n冬の静寂の中に：\n汝の毒ある霊は蠢き、うずくまる、\nおお、不敬の主よ！"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "The ardour of red flame is thine,\nAnd thine the steely soul of ice:\nThou poisonest the fair design\nOf nature, with unfair device.",
+      "provisionalTranslation": "紅の炎の激情は汝のものであり、\n氷の鋼鉄の如き魂もまた汝のもの：\n汝は自然の公正な意匠を\n不公正な策略で毒する。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Apples of ashes, golden bright;\nWaters of bitterness, how sweet!\nO banquet of a foul delight,\nPrepared by thee, dark Paraclete!",
+      "provisionalTranslation": "灰の林檎、黄金のごとく輝く；\n苦みの水、なんと甘いことか！\nおお、汚れた悦びの宴よ、\n暗き弁護者よ、汝が準備した！"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Thou art the whisper in the gloom,\nThe hinting tone, the haunting laugh:\nThou art the adorner of my tomb,\nThe minstrel of mine epitaph.",
+      "provisionalTranslation": "汝は薄暗がりの中の囁き、\n示唆する声音、付き纏う哄笑：\n汝は我が墓の装飾者、\n我が墓碑銘の吟遊詩人。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "I fight thee, in the Holy Name!\nYet, what thou dost, is what God saith:\nTemplar! should I escape thy flame,\nThou wilt have helped my soul from Death:",
+      "provisionalTranslation": "我は聖なる御名において汝と戦う！\nしかし汝のなすことは神の宣告でもある：\n誘惑者よ！汝の炎を逃れることができるなら、\n汝は我が魂を死から救う者となるだろう："
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "The second Death, that never dies,\nThat cannot die, when time is dead:\nLive Death, wherein the lost soul cries,\nEternally uncomforted.",
+      "provisionalTranslation": "決して死なない第二の死、\n時間が死しても死ぬことのできない死：\n生ける死、その中で迷える魂は叫ぶ、\n永遠に慰められることなく。"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Dark Angel, with thine aching lust!\nOf two defeats, of two despairs:\nLess dread, a change to drifting dust,\nThan thine eternity of cares.",
+      "provisionalTranslation": "暗き天使よ、その疼く渇望をもって！\n二つの敗北、二つの絶望の間で：\n漂う塵への変容のほうが、\n汝の煩悶の永遠よりも恐ろしくない。"
+    },
+    {
+      "id": 14,
+      "verses": "v.53–56",
+      "original": "Do what thou wilt, thou shalt not so,\nDark Angel! triumph over me:\nLonely, unto the Lone I go;\nDivine, to the Divinity.",
+      "provisionalTranslation": "汝の望むことをなせ、しかし汝はそうはできない、\n暗き天使よ！私に勝利することは：\n孤独なる者として、孤独なる者のもとへ私は行く；\n神的なる者として、神性へと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "subtile violence",
+      "body": "「subtile（巧妙な・精妙な）」はラテン語「subtilis」に由来し、「subtle」の古形。感覚を通じて魂に浸透する悪の「精妙さ」を示す。直接的な強制でなく、美・音楽・感覚の内側から来る誘惑の構造を言い当てる語。スウィンバーン「Hymn to Proserpine」の「subtler / more secret」な神への転換（キリスト教的道徳からの解放）という審美的「暴力」と対照的：スウィンバーンが歓迎する感覚的解放を、ジョンソンは信仰の立場から「暴力」として定義し直す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "DARK Angel, with thine aching lust\nTo rid the world of penitence:",
+      "body": "開口部の呼格構造は、ボードレール「リタニー・ド・サタン（Litanies de Satan）」の「Ô Satan, prends pitié de ma longue misère!」と同型の悪魔への呼びかけ詩形をカトリック的に反転させる。ボードレールがサタンに「憐れみ」を求めるのに対し、ジョンソンは「Dark Angel」を正面から告発する形式を取る。「aching lust（疼く渇望）」という身体的苦痛を伴う欲望の定式が、詩全体の誘惑の二重性──魅惑と苦痛の不可分性──を冒頭で宣言する。",
+      "targetId": "baudelaire_litanies_satan",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "no thought, no thing,\nAbides for me undesecrate",
+      "body": "「いかなる思念も、いかなる事物も汚されないままに留まらない」──存在のすべての領域への汚染の遍在性。ワイルド「E Tenebris」の「I am weary of the working of the day」──日常のすべてが「牢獄」として経験されるという内面の閉塞と照応する。ジョンソンにおける汚染は外部からでなく、「Dark Angel」という内的誘惑者を通じて思念・事物の知覚そのものが変質するという認識論的な次元にある。",
+      "targetId": "wilde_e_tenebris",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "When music sounds, then changest thou\nIts silvery to a sultry fire:",
+      "body": "音楽が純粋な美から官能的な「灼熱の炎」へと変質させられる場面。スウィンバーン「At Parting」・「A Match」において音楽・歌は官能的合一のメタファーとして肯定的に機能するが、ジョンソンにおいてはその「変容」が誘惑者の介入として否定的に記述される。ワイルド「Hélas!」の「I have grown weary of the strength / That gladness gave」──悦びの力が疲弊へと変じる経験──と構造的に照応する。",
+      "targetId": "wilde_helas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Delight untortured by desire.",
+      "body": "「欲望に苛まれることなき悦び」という不可能な理想。スウィンバーン「Garden of Proserpine」の「From too much love of living, / From hope and fear set free」──感情的苦悩からの完全な解脱という死の美学──と対称的：スウィンバーンは苦悩からの解放を死に求めるが、ジョンソンはその解放を信仰による誘惑の克服に求める。どちらも「untortured（苛まれない）」状態への渇望を持つが、解決先が根本的に異なる。",
+      "targetId": "swinburne_garden_of_proserpine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "the gracious Muses turn,\nTo Furies, O mine Enemy!",
+      "body": "「ムーサイ（Musae）」：詩・音楽・芸術の女神。「フリアエ（Furiae）」：ギリシャ語「エリニュエス（Ἐρινύες）」のラテン語名で、復讐・罰の女神。芸術的インスピレーションの源泉が復讐神へと変貌するという転換は、詩的創造そのものが誘惑と不可分であるというデカダンス的詩人論の逆説的表現。スウィンバーン「Memorial Verses on the Death of Théophile Gautier」でゴーティエの詩を讃える際の「the Muses' minister」という定式と対照的に、ジョンソンのムーサイは憎悪の力へと反転する。",
+      "targetId": "swinburne_memorial_gautier",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "all the things of beauty burn\nWith flames of evil ecstasy.",
+      "body": "「邪悪な法悦（evil ecstasy）」──美的恍惚が道徳的邪悪と結合するデカダンス的経験の定式。ワイルド「Hélas!」の「to drift with every passion till my soul / Is a stringed lute on which all winds can play」における魂の受動的な「法悦」への開放と照応。しかしジョンソンはその状態を「evil」として明確に名指すことで、ワイルド的な法悦の美学を内部から批判する。",
+      "targetId": "wilde_helas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "the land of dreams\nBecomes a gathering place of fears:",
+      "body": "「夢の国」が恐怖の集積場へと変質する──意識が解放される睡眠の空間さえも「Dark Angel」の支配下に置かれるという、逃走の不可能性の宣言。ダウスン「Venite Descendamus」での夢への沈降（「let us go down into the silence of sleep」）という解放のユートピアがジョンソンにおいては反転し、夢そのものが汚染されている。スウィンバーン「Ballad of Dreamland」の夢境の審美的理想化との対照も鮮明。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Beleaguerest, bewilderest, me.",
+      "body": "「Beleaguerest, bewilderest, me」──「b」音の頭韻（alliteration）による包囲感の音声的実演。詩中最も注目すべき音響効果のひとつ。「包囲する（beleaguer）」と「惑わす（bewilder）」の二動詞が連続することで、外側からの軍事的包囲と内側からの認知的混乱が同時に発生する誘惑の二重作用を表す。末尾の「me」の分離的配置が、主語（詩人）の孤立と受動性を強調する。スウィンバーン「Anactoria」の複合的感覚動詞による圧迫表現との類縁を持つ。",
+      "targetId": "swinburne_anactoria",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Within the breath of autumn woods,\nWithin the winter silences:\nThy venomous spirit stirs and broods,",
+      "body": "「秋の森の息吹」「冬の静寂」という自然描写の中に「毒ある霊（venomous spirit）」が宿るという構造は、自然の美が内在的な悪によって汚染されているというジョンソンの根本的世界観を示す。スウィンバーン「Forsaken Garden」の廃園──「there is no help for all these things are so」という自然の無常への無抵抗な諦観──と対照的に、ジョンソンの自然には能動的な悪の力が潜伏している。",
+      "targetId": "swinburne_forsaken_garden",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "The ardour of red flame is thine,\nAnd thine the steely soul of ice:",
+      "body": "「紅の炎の激情」と「氷の鋼鉄の如き魂」──相互に矛盾する極端の支配者としての「Dark Angel」の定義。炎と氷の二元的対立はダンテ『神曲』地獄篇第34歌のルキフェルが氷の中に封じられる一方で燃え続けるという矛盾的形象の変奏として読める。スウィンバーン「Hymn to Proserpine」での「cold immortal hands」（プロセルピナの冷たい手）という死の形象との照応もある。",
+      "targetId": "swinburne_hymn_to_proserpine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "dark Paraclete!",
+      "body": "「Paraclete（弁護者・慰め主）」：ヨハネ福音書第14〜16章でイエスが約束した「聖霊（Paracletus）」のギリシャ語・ラテン語名「παράκλητος（paraklētos）」。「慰め・助け・擁護者」を意味する。「dark Paraclete」はこの神学的称号の究極の逆転──聖霊の代わりに誘惑者が「弁護者・慰め主」として機能するという冒涜的倒置。ボードレール「リタニー・ド・サタン」でサタンに「恩寵の主（Toi qui fais au proscrit ce regard calme et haut）」と呼びかける逆転神学と同型の構造を持つが、ジョンソンのカトリック信仰はその倒置を肯定でなく告発として提示する。",
+      "targetId": "baudelaire_litanies_satan",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "anchor": "Apples of ashes, golden bright;\nWaters of bitterness, how sweet!",
+      "body": "「灰の林檎」は「死海の林檎（Apples of Sodom）」の伝説的形象：外見は黄金の美しい林檎だが、口にすると灰と煙に変じる──デカダンス文学における腐敗した美の典型的比喩。バイロン『チャイルド・ハロルドの巡礼』にも登場し、1890年代英国デカダンスにおいて広く流通した。「苦みの水、なんと甘いことか」という逆説的官能の記述はスウィンバーン「Anactoria」の「I felt thy blood against my blood: my pain / Part of thy pleasure」──苦痛と悦びの不可分性──という感覚的逆説と照応する。",
+      "targetId": "swinburne_anactoria",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Thou art the adorner of my tomb,\nThe minstrel of mine epitaph.",
+      "body": "「我が墓の装飾者、我が墓碑銘の吟遊詩人」としての「Dark Angel」──誘惑者が同時に詩人の死を美しく飾る審美家として機能するという逆説。詩的インスピレーションと自己破壊的誘惑が同一の源泉から来るというデカダンス詩人論の核心。ワイルド『レディング監獄のバラッド』での「the Governor was strong upon the Regulations Act」という死刑執行の美的描写と、本連の「墓の装飾者」という死の美化が構造的に照応する。ダウスン「A Last Word」の「Let us go hence: the night is now at hand」──詩の終わりとしての死への出発──との照応も顕著。",
+      "targetId": "dowson_a_last_word",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Yet, what thou dost, is what God saith:",
+      "body": "「しかし汝のなすことは神の宣告でもある」──試練の神学的逆説の核心命題。誘惑者「Dark Angel」の行為が神の摂理の内に包含されているという神学的立場。ヨブ記第1章でサタンが神の許可のもとにヨブを試練にかけるという構造──「Ecce universa quae habet in manu tua sunt（彼の持つものすべてをあなたの手に委ねる）」──との直接的照応。カトリック神学の「許可的意志（voluntas permissiva）」の詩的定式として機能する。この逆転によって「Dark Angel」は単なる悪魔から「神の試練の道具」へと地位が変じ、詩全体の神学的解決への転換点となる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "The second Death, that never dies,\nThat cannot die, when time is dead:",
+      "body": "「第二の死（second Death）」：ヨハネ黙示録第20章14節「haec est mors secunda（これが第二の死）」──最後の審判後の「火の池」への投げ込み、すなわち神から永遠に切り離された状態としての「霊的死」。「time is dead（時間が死した後でも）」という時間の終焉後にも続く死という逆説が、「第二の死」の本質として提示される。スウィンバーン「Euthanatos」・「Dysthanatos」での「良き死・悪き死」という死の分類論と対照的：スウィンバーンが死を「解放」として望む世界では「第二の死」は問題化されない。ジョンソンのカトリック神学的恐怖の極点がここにある。",
+      "targetId": "swinburne_dysthanatos",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Less dread, a change to drifting dust,\nThan thine eternity of cares.",
+      "body": "「漂う塵への変容」としての肉体的死は、「煩悶の永遠」としての「第二の死」よりも恐ろしくないという逆説的な死の位階化。コヘレト第3章v.20「Omnia de pulvere facta sunt, et omnia in pulverem revertuntur（すべては塵から造られ、すべては塵に帰る）」の「pulvis（塵）」がここでは「drifting dust（漂う塵）」として、むしろ望ましい終わりとして再評価される。スウィンバーン「Garden of Proserpine」の「I am tired of tears and laughter / And men that laugh and weep」──生の感情的疲弊からの解放としての死──と方向性を同じくしながら、ジョンソンはその死を「霊的永遠の苦悩」との比較においてのみ相対的に肯定する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Lonely, unto the Lone I go;\nDivine, to the Divinity.",
+      "body": "詩の終連にして哲学的・神学的解決の定式。「Lonely, unto the Lone（孤独なる者として、孤独なる者のもとへ）」はプロティノス『エンネアデス（Enneades）』VI.9.11の結語「φυγὴ μόνου πρὸς μόνον（孤独者から孤独者への逃走）」の英訳的引用。プロティノスにとってこの「孤独者から孤独者へ」という定式は、魂が一者（τὸ Ἕν）に向かう神秘的合一の運動を指す。ジョンソンはこの新プラトン主義的定式をカトリック的文脈に移植し、「Dark Angel」との戦いの末の神への帰還として使用する。ワイルドが「De Profundis」でキリストへの精神的接近を語る際の「mystical union」という語彙と共鳴しながら、ジョンソンの解決はより形而上学的・禁欲的な次元にある。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "intertextual",
+      "anchor": "Do what thou wilt, thou shalt not so,\nDark Angel! triumph over me:",
+      "body": "「汝の望むことをなせ、しかし汝はそうはできない──私に勝利することは」という終結宣言。ワイルド「E Tenebris」の「Come down, O Christ, and help me!」──外部の救済者への呼びかけによる絶望からの脱出──と対照的に、ジョンソンの解決は魂の内なる方向転換（「Lone I go」）として内面化されている。スウィンバーン「Birth and Death」での死と誕生の循環的対称において、ジョンソンは逆に「循環」を拒否し「神への一方向的な帰還」を宣言する。",
+      "targetId": "wilde_e_tenebris",
+      "targetParagraphId": null
+    }
+  ]
+}
