@@ -1,0 +1,138 @@
+{
+  "id": "delamare_the_glimpse",
+  "title": "The Glimpse",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Glimpse",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全6連各4行（第5連のみ行数が変則）、ABCB韻を基調とする。詩は不在の「汝（thou）」──ミューズ・霊的存在・天上的美・あるいは恋人──への呼びかけとして始まり、内的荒廃（心が葉のない森・活気のない本）を経て、一瞬の「垣間見（Glimpse）」という詩的ビジョンの体験へと展開する。第4連「Yet through this vapid surface, I / Seem to see old-time deeps; I see, / Past the dark painting of the hour, / Life's ecstasy」がその転換点。第5・6連でセレーネー（Dian）とエンデュミオン（Endymion）の神話的比喩が展開され、「垣間見」が月光が眠れる牧人を照らしてはまた消えるという一瞬の神秘的顕現として完結する。「Shadow」との対をなす作品：「Shadow」が地上の美に常に付き纏う死の影を主題とするのに対し、「The Glimpse」は内的荒廃の只中での一瞬の超越的ビジョンを主題とする。ローデンバック「Fin du rêve」・ホフマンスタール「Erlebnis」・マラルメ「Apparition」との詩的照応が深い。",
+  "keywords": [
+    "glimpse",
+    "垣間見",
+    "Dian",
+    "Endymion",
+    "ecstasy",
+    "lassitude",
+    "vision",
+    "dream",
+    "inner desolation",
+    "moon",
+    "transience"
+  ],
+  "relatedTexts": [
+    "delamare_shadow",
+    "mallarme_apparition",
+    "hofmannsthal_erlebnis",
+    "rodenbach_fin_du_reve",
+    "rodenbach_du_silence",
+    "verlaine_clair_de_lune",
+    "dowson_seraphita",
+    "yeats_aedh_wishes_for_the_cloths_of_heaven",
+    "keats_endymion",
+    "weil_eclair"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Art thou asleep? or have thy wings\nWearied of my unchanging skies?\nOr, haply, is it fading dreams\nAre in my eyes?",
+      "provisionalTranslation": "汝は眠っているのか？それとも汝の翼が\n私の変わらぬ空に倦んだのか？\nあるいは、おそらく、消えゆく夢が\n私の眼の中にあるのか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Not even an echo in my heart\nTells me the courts thy feet trod last,\nBare as a leafless wood it is,\nThe summer past.",
+      "provisionalTranslation": "心の中には反響ひとつさえない\n汝の足が最後に踏んだ廊下を教えてくれるものが、\n葉のない森のように剥き出しだ、それは、\n夏が過ぎて。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "My inmost mind is like a book\nThe reader dulls with lassitude,\nWherein the same old lovely words\nSound poor and rude.",
+      "provisionalTranslation": "私の最も奥深い心は本のようだ\n読者が倦怠感で鈍らせる本、\nその中で同じ古い美しい言葉が\n貧しく粗雑に聞こえる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Yet through this vapid surface, I\nSeem to see old-time deeps; I see,\nPast the dark painting of the hour,\nLife's ecstasy.",
+      "provisionalTranslation": "しかしこの活気のない表面を通じて、私は\n往時の深みを見るように思う；私は見る、\nこの時の暗い絵の彼方に、\n生の法悦を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Only a moment; as when day\nIs set, and in the shade of night,\nThrough all the clouds that compassed her,\nStoops into sight",
+      "provisionalTranslation": "ほんの一瞬；それはちょうど、昼が\n沈み、夜の翳の中で、\n彼女を取り囲んだすべての雲を通じて、\n視界へとかがみ込む"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Pale, changeless, everlasting Dian,\nGleams on the prone Endymion,\nTroubles the dulness of his dreams:\nAnd then is gone.",
+      "provisionalTranslation": "蒼白く、変わらず、永遠なるディアナが、\n横たわるエンデュミオンの上に輝き、\n彼の夢の鈍さを掻き乱す：\nそして消える。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Art thou asleep? or have thy wings\nWearied of my unchanging skies?",
+      "body": "詩の呼びかけ構造：「汝（thou）」という二人称が詩全体を通じて一度も同定されないまま進行する。「翼（wings）」という語彙が「汝」を天使的・霊的存在・あるいはミューズとして示唆するが、固有名を与えない。「unchanging skies（変わらぬ空）」：詩人の内的世界の停滞・硬直が外的自然の比喩として提示される。ジョンソン「Precept of Silence」の「solitary griefs, / Desolate passions」という内的荒廃の自己認識と同型の開口部として読める──ただしデ・ラ・メアの詩法はより間接的・問答的である。マラルメ「Apparition」の「La lune s'attristait（月は悲しんでいた）」という不在の「汝」への悲嘆的呼びかけとの照応。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Or, haply, is it fading dreams\nAre in my eyes?",
+      "body": "第1連のABCB韻（skies / eyes）は詩全体を通じる基本韻律。三つの疑問文（Art thou asleep? / have thy wings wearied? / is it fading dreams?）が連を構成し、答えのない三択の問いとして不在の「汝」を多角的に定義する。「haply（おそらく）」という副詞が三番目の可能性に「偶然性・不確実性」の色調を加える：「消えゆく夢が私の眼の中にある」という可能性は、「汝」の不在が外部的事実でなく詩人自身の内的変容（夢の消滅）である可能性を示唆する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Bare as a leafless wood it is,\nThe summer past.",
+      "body": "「葉のない森のように剥き出しだ、夏が過ぎて」──内的荒廃の季節的比喩。「leafless wood（葉のない森）」は秋冬の樹木の剥き出しの骨格であり、かつての豊かさ（夏・葉・霊的存在の訪れ）の消失後の残骸として機能する。ジョンソン「Magic」第1連「laborious loneliness（労苦ある孤独）」が能動的選択として提示されるのに対し、デ・ラ・メアの「Bare as a leafless wood」は意志でなく喪失の結果としての荒廃。「The summer past」という短い分詞句が独立した短行として孤立することで、過去の充実した季節への惜別が詩形的に強調される。ヴェルレーヌ「Chanson d'automne」の秋の枯れ葉的哀愁との照応。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "My inmost mind is like a book\nThe reader dulls with lassitude,\nWherein the same old lovely words\nSound poor and rude.",
+      "body": "「私の最も奥深い心は本のようだ──倦怠感で鈍らせる本」。心をテクストとして比喩する詩的自己言及。「lassitude（倦怠感）」はデカダンス期の核心語彙のひとつ：ボードレール的「Spleen」・ローデンバックの倦怠・マラルメの「Las（疲れた）」と同型の感覚的・精神的疲弊。「the same old lovely words（同じ古い美しい言葉）」が「poor and rude（貧しく粗雑）」に聞こえるという認識は、詩的インスピレーションの喪失という自己批判的な詩人論として機能する。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」の不飽和性の逆としての「倦怠」──見慣れたものが美しく見えなくなる──という対照的状態。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Yet through this vapid surface, I\nSeem to see old-time deeps; I see,\nPast the dark painting of the hour,\nLife's ecstasy.",
+      "body": "詩の転換点。「Yet（しかし）」という逆接が第1〜3連の内的荒廃から一瞬の超越的ビジョンへの転換を告げる。「vapid surface（活気のない表面）」──第3連の「lassitude」に呼応する倦怠的表面を「通じて（through）」深みを見るというビジョン的透視。「old-time deeps（往時の深み）」：過去の豊かな詩的経験の記憶の復活。「Past the dark painting of the hour（この時の暗い絵の彼方に）」──現在という「暗い絵（dark painting）」の絵画的定義が詩中最も鮮烈な比喩。「Life's ecstasy（生の法悦）」：法悦（ecstasy）という語がジョンソン「Dark Angel」の「evil ecstasy（邪悪な法悦）」の悪的法悦と対置される：デ・ラ・メアの法悦は邪悪でなく生の根源的輝きとして提示される。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Only a moment; as when day\nIs set, and in the shade of night,\nThrough all the clouds that compassed her,\nStoops into sight",
+      "body": "「ほんの一瞬（Only a moment）」──第4連の法悦のビジョンが瞬間的であることを宣言する冒頭の時間的限定。第5・6連全体が「as when（ちょうど〜のように）」という直喩節として機能し、ディアナ（月）とエンデュミオン（眠れる牧人）の神話的場面が「一瞬のビジョン」の比喩的例証となる。「Stoops into sight（視界へとかがみ込む）」──月が雲の間から「かがみ込む（stoop）」という動詞が月の運動に意志的な身をかがめる動作を付与する：月が能動的に詩人（エンデュミオン）へと向かう。ヴェイユ「Eclair（閃光）」での神の一瞬的顕現という構造との照応。",
+      "targetId": "weil_eclair",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Pale, changeless, everlasting Dian,\nGleams on the prone Endymion,",
+      "body": "「ディアナ（Dian）」：ローマ神話の月の女神（ギリシャ名セレーネー）。「エンデュミオン（Endymion）」：月の女神に愛された美しい牧人で、永遠の眠りに落とされラトモス山に眠り続けるという神話。ケイツ（Keats）の長詩「Endymion」（1818年）がこの神話の英詩的最高表現として19世紀以降の英詩に流通させた。デ・ラ・メアはこの神話を「一瞬のビジョン」の比喩として使用する：月（永遠の美・霊的存在）が眠れる詩人（Endymion）を一瞬照らして消えるという構造が、詩全体の「Glimpse（垣間見）」の主題と完全に照応する。「Pale, changeless, everlasting（蒼白く、変わらず、永遠なる）」という三形容詞の列挙が月の超時間的性質を定義する点は、「Shadow」の「shadowless asphodel」という天上的不変性の定義と連続する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Troubles the dulness of his dreams:\nAnd then is gone.",
+      "body": "「彼の夢の鈍さを掻き乱す：そして消える」──詩の結語。「troubles（掻き乱す）」という動詞が月光の介入の性質を定義する：完全な覚醒でも完全な無視でもなく、夢の「鈍さ（dulness）」を「掻き乱す」という閾値的干渉。これは第3連の「lassitude（倦怠感）」が作り出した「dulness（鈍さ）」への応答として機能する──法悦のビジョンは「鈍さ」を解消するのでなく「掻き乱す」に留まる。「And then is gone（そして消える）」という四語の短い結語が詩全体の一瞬性・消滅性を凝縮する。ホフマンスタール「Erlebnis（体験）」の「Dann wach ich auf und um mich ist es Nacht（そして目覚めると周りは夜だ）」という幻視の後の現実への帰還と構造的に照応する。",
+      "targetId": "hofmannsthal_erlebnis",
+      "targetParagraphId": null
+    }
+  ]
+}
