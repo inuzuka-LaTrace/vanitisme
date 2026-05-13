@@ -1,0 +1,119 @@
+{
+  "id": "delamare_remembrance",
+  "title": "Remembrance",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Remembrance",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全4連各4行、ABCB韻を基調とする短詩。夜の自然描写──水滴のような空・稲妻・海の噂・楡の木と星──を経て、「驚嘆も、崇拝も、平和さえも」ない心の空虚の中に、「すべての中で最も死んでいる者の記憶（memory of one, / Of all most dead to me）」だけが残るという結語へと収斂する。「The Glimpse」が一瞬の超越的ビジョンの詩であるのに対し、「Remembrance」はビジョンの不在・崇高の感情の喪失という逆の経験を主題とする。「The Glimpse」との対を形成しながら、「Shadow」の「death」主題と「The Glimpse」の内的荒廃主題を統合した作品として位置づけられる。結語「Of all most dead to me」における「最も死んでいる（most dead）」という比較最上級の逆説──物理的死と心理的疎遠さの二重の意味──がデ・ラ・メア詩学の核心語法を示す。ローデンバック「L'Oubli（忘却）」・クリスティーナ・ロセッティ「Remember」との直接的詩的系譜の中に置かれる。",
+  "keywords": [
+    "remembrance",
+    "記憶",
+    "death",
+    "night",
+    "silence",
+    "waterdrop",
+    "infinity",
+    "dreamer",
+    "forlorn",
+    "most dead"
+  ],
+  "relatedTexts": [
+    "delamare_shadow",
+    "delamare_the_glimpse",
+    "rodenbach_loubli",
+    "rodenbach_du_silence",
+    "rossetti_remember",
+    "verlaine_colloque_sentimental",
+    "mallarme_soupir",
+    "johnson_precept_of_silence",
+    "hieronymus_ecclesiastes_11",
+    "weil_pesanteur_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "The sky was like a waterdrop\nIn shadow of a thorn,\nClear, tranquil, beautiful,\nDark, forlorn.",
+      "provisionalTranslation": "空は水滴のようだった\n茨の影の中の、\n澄んで、穏やかで、美しく、\n暗く、荒涼として。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Lightning along its margin ran;\nA rumour of the sea\nRose in profundity and sank\nInto infinity.",
+      "provisionalTranslation": "稲妻がその縁に沿って走った；\n海の噂が\n深淵の中で湧き上がり、沈んだ\n無限の中へと。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Lofty and few the elms, the stars\nIn the vast boughs most bright;\nI stood a dreamer in a dream\nIn the unstirring night.",
+      "provisionalTranslation": "高くそびえ数少ない楡の木々、星々は\n広大な枝の中で最も輝いていた；\n私は夢の中の夢想家として立っていた\n静まり返った夜の中に。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Not wonder, worship, not even peace\nSeemed in my heart to be:\nOnly the memory of one,\nOf all most dead to me.",
+      "provisionalTranslation": "驚嘆も、崇拝も、平和さえも\n私の心の中にあるとは思えなかった：\nただひとりの者の記憶だけが、\nすべての中で私にとって最も死んでいる者の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "The sky was like a waterdrop\nIn shadow of a thorn,\nClear, tranquil, beautiful,\nDark, forlorn.",
+      "body": "「空が水滴のようだった」──天空全体を一粒の水滴という微小な形象に凝縮する比喩。スケールの逆転（宏大→微小）が詩の開口部で行われ、宇宙的空間を脆弱・透明・一時的なものとして定義する。「Shadow」の「transient bubbles of the water（束の間の水の泡）」との形象的連続：水・泡・水滴というデ・ラ・メアの液体的儚さの語彙系列。「In shadow of a thorn（茨の影の中）」──茨（thorn）はキリスト教的苦難（茨の冠）の暗示を持ちながら、ここでは空の水滴を影で覆う自然物として機能する。四形容詞「Clear, tranquil, beautiful, / Dark, forlorn」の二項対立的配置が一連に矛盾する性質を同居させる：美的肯定（澄んで・穏やかで・美しく）と否定的状態（暗く・荒涼として）の共存。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Clear, tranquil, beautiful,\nDark, forlorn.",
+      "body": "第1連第3・4行の詩形的特異性：第3行「Clear, tranquil, beautiful」はコンマ区切りの三形容詞列挙（tricolon）、第4行「Dark, forlorn」は二形容詞のみで詩全体で最も短い行。行の長短の非対称が意味的非対称（美しさ三語 vs 荒廃二語）と一致する。ABCB韻において「thorn / forlorn」が韻を踏む（B韻）：「茨（thorn）」と「荒涼（forlorn）」の音響的結合が意味的に強化される。デ・ラ・メアの詩形的特徴として、意味の転換が行の短縮として実現される技法。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "A rumour of the sea\nRose in profundity and sank\nInto infinity.",
+      "body": "「海の噂（rumour of the sea）」──「噂（rumour）」という語が海の音を直接描写するのでなく、聞こえるか聞こえないかの閾値的な知覚として提示する。デ・ラ・メア詩世界の核心にある「かすかなもの・ほのめかされるもの」への執着。「Rise in profundity and sank / Into infinity（深淵の中で湧き上がり、無限の中へと沈んだ）」──「profundity（深淵）」と「infinity（無限）」という二つの宇宙的次元の語彙が、詩篇第130篇「De profundis（深みから）」のラテン語表題と直接照応する。ジョンソン「De Profundis」の「old-time deeps（往時の深み）」という深淵イメージとも連続する。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」の海への不飽和な流入と、ここでの「sank into infinity」という消滅的流入が照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "I stood a dreamer in a dream\nIn the unstirring night.",
+      "body": "「私は夢の中の夢想家として立っていた」──自己言及的な二重の夢の構造。「a dreamer in a dream（夢の中の夢想家）」という同語反復的表現が、詩人の存在様式を夢と現実の境界の溶解として定義する。「The Glimpse」第3連「My inmost mind is like a book / The reader dulls with lassitude」における倦怠的自己疎外が、ここでは「夢の中の夢想家」という夢的自己分裂として変奏される。「unstirring night（静まり返った夜）」──「stirring（動揺・騒動）」の否定によって作られる完全な静止の状態。ローデンバック「Du Silence」の沈黙の詩学において「夜」が静寂の時間として機能する構造と同型。マラルメ「Soupir」の「ô calme sœur（おお、穏やかな姉妹）」という静止した秋への呼びかけとの照応。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Not wonder, worship, not even peace\nSeemed in my heart to be:",
+      "body": "「驚嘆も、崇拝も、平和さえも」という三つの内的状態の不在の宣言。三者の序列が重要：「wonder（驚嘆）」──崇高体験の最初の段階、「worship（崇拝）」──宗教的感情の頂点、「peace（平和）」──最も基本的な心の状態。この序列が逆順（崇高→宗教的→基本的）で否定されることで、最も根底的な心の状態さえも失われているという究極的内的空虚が示される。「The Glimpse」第4連「Yet through this vapid surface…Life's ecstasy」という一瞬の法悦との逆関係：「Remembrance」では法悦も崇拝も平和もなく、ただ死者の記憶のみが残る。ジョンソン「Precept of Silence」の「aching hours（疼く時間）」という内的荒廃と照応しながら、デ・ラ・メアはより抑制された「ない（not）」の反復として内的空虚を表現する。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Only the memory of one,\nOf all most dead to me.",
+      "body": "「すべての中で最も死んでいる者（Of all most dead to me）」──詩の結語にして最大の詩的発見。「most dead（最も死んでいる）」という「dead」の比較最上級は文法的逆説：死は度合いを持たないはずだが、「most dead」という表現が「この人の記憶における存在の喪失が最大である」ことを示す。物理的死と心理的距離・精神的疎遠さの二重の意味が重なる──死んでいる（gone）であると同時に、生前から「最も遠かった」あるいは「最も深く心に刻まれた」という逆説。ローデンバック「L'Oubli（忘却）」の「忘却」が記憶の逆面として機能するように、ここでの「most dead」は記憶の極限的形態として機能する。クリスティーナ・ロセッティ「Remember」の「remember me when I am gone away（私が去ったとき、私を覚えていてください）」という命令としての記憶要求と逆の方向：デ・ラ・メアは記憶が能動的意志でなく心の空虚の中に最後に残る受動的残余として現れる。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Only the memory of one,\nOf all most dead to me.",
+      "body": "詩全体が第1〜3連の自然描写（空・稲妻・海・楡・星・夜）から第4連の内的空虚・記憶の残余へと収斂する構造は、ヴェルレーヌ「Colloque sentimental」の外的荒廃した庭と死者たちの会話の消滅的な構造と照応する。また「The Glimpse」の「And then is gone（そして消える）」という結語が超越的ビジョンの消滅であるのに対し、「Remembrance」の「Of all most dead to me」という結語は消えることなく残り続ける死者の記憶という逆の残余として機能する──二詩は「消えるもの」と「残るもの」の対称的な結語として対をなす。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    }
+  ]
+}
