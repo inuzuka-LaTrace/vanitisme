@@ -1,0 +1,153 @@
+{
+  "id": "johnson_de_profundis",
+  "title": "De Profundis",
+  "author": "Lionel Johnson",
+  "source": "Internet Archive: The religious poems of Lionel Johnson: being a selection from his collected works. https://archive.org/details/religiouspoems00john",
+  "year": "1895",
+  "firstPublication": "Poems (1895); repr. The Religious Poems of Lionel Johnson (1916)",
+  "difficulty": "中級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）の祈祷詩。表題「De Profundis（深みから）」は詩篇第130篇（Vulgate第129篇）v.1「De profundis clamavi ad te Domine（深みから私はあなたに叫んだ、主よ）」のラテン語標題。全30行、長短行の交互による不規則なインデント詩形。詩は地上の「闇の中を歩む者」としての詩人が、天使の音楽の世界への渇望を抱えながら、自らの「壊れた音楽（broken music）」を白い天使たちに混ぜてもらうよう祈願し、最終的に「ミルラの山から光の光からの光が燃える」という黙示録的夜明けのビジョンへと向かう構造を持つ。「De Profundis」という表題はVANITISMEコーパスにおいてボードレール・トラークル・クリスティーナ・ロセッティ・シルバとの「De Profundis」詩的系譜を形成し、詩篇第130篇の嘆願詩形式の近代的諸変奏のひとつとして位置づけられる。ジョンソン版の特徴は、その「深み（profundis）」が地獄的・虚無的な深淵ではなく、天上の白い天使の世界への切望という上昇的な方向性を持つ点にある。ワイルドの散文「De Profundis」（1897年、レディング監獄からの書簡）との対比において、ジョンソンの同題詩は個人的告発でなく典礼的祈願として書かれている。",
+  "keywords": [
+    "De Profundis",
+    "詩篇130篇",
+    "White Angels",
+    "broken music",
+    "Victor Victim",
+    "Wounded Heart",
+    "Light of Light",
+    "Mount of Myrrh",
+    "darkness",
+    "imparadised",
+    "深みから"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "johnson_te_martyrum_candidatus",
+    "johnson_precept_of_silence",
+    "baudelaire_de_profundis_clamavi",
+    "trakl_de_profundis",
+    "rossetti_de_profundis",
+    "silva_de_profundis_clamavi",
+    "hieronymus_psalm_129",
+    "wilde_e_tenebris",
+    "weil_accepter_le_vide",
+    "liturgy_requiem_aeternam"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Would, that with you I were imparadised,\n    White Angels around Christ!\nThat, by the borders of the eternal sea\n    Singing, I too might be:\nWhere dewy green the palm trees on the strand,\n    Your gentle shelter, stand:\nWhere reigns the Victor Victim, and His Eyes\n    Control eternities!",
+      "provisionalTranslation": "願わくは、あなたたちとともに私が楽園に入れますように、\n　　キリストの周りの白い天使たちよ！\n永遠の海の岸辺で\n　　歌いながら、私もそこにいられますように：\n浜辺に露に濡れて緑なる棕櫚の木々が、\n　　あなたたちの優しい庇護として、立つところに：\n勝利する犠牲者が支配し、その御眼が\n　　永遠を制御するところに！"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "Immortally your music flows in sweet\n    Stream round the Wounded Feet;\nAnd rises to the Wounded Hands; and then\n    Springs to the Home of Men,\nThe Wounded Heart: and there in flooding praise\n    Circles, and sings, and stays.",
+      "provisionalTranslation": "不滅の形であなたたちの音楽は甘く流れる\n　　傷ついた御足の周りを流れとなって；\nそして傷ついた御手へと昇る；そして\n　　人々の住処へと湧き出る、\n傷ついた御心へと：そしてそこで溢れる賛美の中で\n　　巡り、歌い、留まる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.15–18",
+      "original": "My broken music wanders in the night,\n    Faints, and finds no delight:\nWhite Angels! take of it one piteous tone,\n    And mix it with your own!",
+      "provisionalTranslation": "私の壊れた音楽は夜の中を彷徨い、\n　　萎え、何の喜びも見出さない：\n白い天使たちよ！そこから哀れな一音を取って、\n　　あなたたち自身のものと混ぜてください！"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Then, as He feels your chaunting flow less clear,\n    He will but say: I hear\nThe sorrow of My child on earth! and send\n    Some fair, celestial friend,\nOne of yourselves, to help me: and you will,\n    Choirs of the Holy Hill,",
+      "provisionalTranslation": "そして、あなたたちの詠唱の流れが少し濁るのを彼が感じるとき、\n　　彼はただこう言うだろう：私は聞こえる\n地上の我が子の悲しみが！そして遣わすだろう\n　　何人かの美しい天上の友を、\n私を助けるために、あなたたちの中の一人を：そしてあなたたちはそうするだろう、\n　　聖なる丘の合唱隊よ、"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Help me, who walk in darkness, far away\n    From your enduring day:\nWho have the wilderness for home, till morn\n    Break, and my day be born;\nAnd on the Mount of Myrrh burn golden white\n    Light from the Light of Light.",
+      "provisionalTranslation": "私を助けてください、闇の中を歩む者を、遠く離れて\n　　あなたたちの永続する昼から：\n荒野を家として持つ者を、朝が\n　　明けて、私の昼が生まれるまで；\nそしてミルラの山の上で黄金の白さで燃える\n　　光の光からの光よ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Would, that with you I were imparadised,",
+      "body": "「imparadised（楽園に入れられた）」──ミルトン『失楽園（Paradise Lost）』第4巻v.506「imparadised in one another's arms（互いの腕の中で楽園に入る）」に由来する造語的動詞。ミルトンでは恋人たちの官能的合一を指すが、ジョンソンはこれを天使との霊的合一・天上界への参入という意味に転用する。官能的語彙の霊的転用というジョンソン的手法が冒頭から機能している。詩篇第130篇「De profundis clamavi（深みから私は叫んだ）」の嘆願構造がここでは「Would, that（願わくは）」という願望法として開口される：「叫び」が「願望」へと内面化・洗練されている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Where reigns the Victor Victim, and His Eyes\n    Control eternities!",
+      "body": "「勝利する犠牲者（Victor Victim）」──ジョンソンの神学的造語の最高点のひとつ。キリストが同時に「勝利者（Victor）」であり「犠牲者（Victim）」であるという逆説的二重性を一語の対置で定式化する。ラテン語典礼における「Agnus Dei（神の子羊）」──犠牲として屠られながら世界の罪を取り去る存在──の詩的変奏。「His Eyes / Control eternities（御眼が永遠を制御する）」：第2連「Te Martyrum Candidatus」の「They saw with their eyes the Eyes of the Crucified（磔刑の主の双眸を見た）」との照応。ここでは殉教者が「見る」側であるのに対し、キリストの眼が「永遠を制御する」主体として転換される。",
+      "targetId": "johnson_te_martyrum_candidatus",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "White Angels around Christ!",
+      "body": "「キリストの周りの白い天使たち」──「Te Martyrum Candidatus」の「White Horsemen, who ride on white horses」という白の象徴系列の継続。本詩では殉教者的白から天使的白へと「白」のベクトルが転換される。ジョンソンのカトリック詩群における「白（white）」は一貫して超越的純粋性の色彩として機能する：「Flos Florum」の「White with the glory of all graces」・「Te Martyrum Candidatus」の「White Horsemen」・本詩の「White Angels」という系列が形成される。",
+      "targetId": "johnson_flos_florum",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Immortally your music flows in sweet\n    Stream round the Wounded Feet;\nAnd rises to the Wounded Hands; and then\n    Springs to the Home of Men,\nThe Wounded Heart:",
+      "body": "「傷ついた御足・傷ついた御手・傷ついた御心」という三重の受難の傷の列挙が、天使の音楽の上昇運動の経路として機能する。足→手→心という身体的上昇が同時に霊的深化として提示される：磔刑の傷跡を音楽が巡ることで、受難の痛みが賛美の音楽によって充填される。「The Wounded Heart（傷ついた御心）」：カトリックの「聖心崇敬（Devotion to the Sacred Heart）」への言及。「Precept of Silence」での沈黙の内的空間が、ここでは「Wounded Heart」という受難の内的空間として対応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Circles, and sings, and stays.",
+      "body": "第2段落の結語行「Circles, and sings, and stays」──三動詞の等位接続（polysyndeton）による終止。「circles（巡る）」「sings（歌う）」「stays（留まる）」という動詞の三連が、天使の音楽の円環的・持続的・定住的性格を音声的に実演する。コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の循環運動が、ここでは腐敗した世界の反復でなく、天上の賛美の永続的循環として対置される。短い終止行がそれ以前の長行の展開を静的に収斂させる詩形的効果。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "My broken music wanders in the night,\n    Faints, and finds no delight:",
+      "body": "「私の壊れた音楽（broken music）」──第2段落の「Immortally your music（不滅のあなたたちの音楽）」との対極として定義される詩人自身の音楽。「broken（壊れた）」という形容詞がジョンソンの自己認識の核心：アルコール依存・精神的不安定という実存的「破損」が詩的インスピレーションの不完全性として表現される。「Dark Angel」の「Delight untortured by desire（欲望に苛まれることなき悦び）」という不可能な理想が、ここでは「finds no delight（何の喜びも見出さない）」という否定として現れる。「Precept of Silence」の「aching hours（疼く時間）」との照応。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "White Angels! take of it one piteous tone,\n    And mix it with your own!",
+      "body": "「哀れな一音を取って、あなたたちのものと混ぜてください」──詩全体の祈願の核心。詩人の「壊れた音楽」の「一音（one piteous tone）」が天使の完全な音楽に混入されることで、不完全が完全の中に包摂されるという神学的構造。ボードレール「De profundis clamavi」の「J'implore ta pitié, Toi, l'unique que j'aime（憐れみを乞う、あなたに、私が愛する唯一の者よ）」という嘆願との照応：ボードレールが人間的愛人に向かうのに対し、ジョンソンは天使たちへの嘆願として転換する。クリスティーナ・ロセッティ「De Profundis」の「Oh why is heaven built so far」という天上への渇望との直接的詩的照応。",
+      "targetId": "baudelaire_de_profundis_clamavi",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "He will but say: I hear\nThe sorrow of My child on earth!",
+      "body": "「彼はただこう言うだろう：私は聞こえる / 地上の我が子の悲しみが！」──詩中唯一のキリストの直接話法。イタリック体で表記された「I hear / The sorrow of My child on earth!」というキリストの声が、詩人の嘆願に対する神の応答として機能する。「My child（我が子）」という親的呼称がキリストと詩人の関係を「主と僕」でなく「父と子」として定義する。ヴェイユ「Accepter le vide」§4「真理を愛することは死を受け入れること」という神への委譲の詩的先行形：詩人の「broken music」が神に「聞こえる」という受動的被聴取の瞬間が、能動的嘆願の成就として提示される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Choirs of the Holy Hill,",
+      "body": "「聖なる丘の合唱隊（Choirs of the Holy Hill）」──詩篇第43篇（Vulgate第42篇）v.4「et introibo ad altare Dei, ad Deum qui laetificat juventutem meam（神の祭壇へと入ろう、私の若さを喜ばせる神のもとへ）」のカトリック典礼における「聖なる山（mons sanctus）」への言及。「Holy Hill」はシオンの丘・エルサレムの神殿の丘・そして天上のエルサレムを多義的に指す。「Te Martyrum Candidatus」の「White Horsemen」が天上の騎士の合唱隊として、ここでは「Choirs of the Holy Hill」として言い換えられる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Help me, who walk in darkness, far away\n    From your enduring day:\nWho have the wilderness for home, till morn\n    Break, and my day be born;",
+      "body": "「闇の中を歩む者（who walk in darkness）」「荒野を家として持つ者（who have the wilderness for home）」──詩篇的放浪者のイメージ。詩篇第107篇v.4「Erraverunt in solitudine in inaquoso（彼らは水なき荒野を迷い歩いた）」との照応。「till morn Break, and my day be born（朝が明けて、私の昼が生まれるまで）」：夜明けの到来を待つという終末論的時間意識。「Dark Angel」の「Lonely, unto the Lone I go」という孤独な帰還に対して、ここでは「朝」という外的・宇宙的な解放の到来を待つという受動的希望として対照される。トラークル「De Profundis」の「Es ist ein Stoppelfeld, in das ein schwarzer Regen fällt（黒い雨が降る刈り株の野）」という暗闇と荒廃との対比において、ジョンソンの「darkness」は「till morn Break」という光への開口を保持する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "And on the Mount of Myrrh burn golden white\n    Light from the Light of Light.",
+      "body": "「ミルラの山（Mount of Myrrh）」：雅歌第4章v.6「vadam ad montem myrrhae（ミルラの山へと行こう）」に由来。ミルラは死者の塗油・埋葬に用いる香料であり、同時に救済の香気を象徴する。キリストの誕生（東方の三博士の贈り物）・磔刑・復活の三つの場面に関わるミルラが、ここでは「黄金の白さで燃える光」の場所として天上化される。「Light from the Light of Light（光の光からの光）」：ニカイア信条（Symbolum Nicaenum）「Lumen de Lumine（光の光）」──三位一体論における子（キリスト）の神性の定式──の直接引用。「Flos Florum」の「White with the glory of all graces」と同様に、白と光という色彩的・神学的頂点として詩を閉じる。ジョンソンの宗教詩全体が「暗き天使」の闇から「光の光からの光」へという神学的運動として完結する。"
+    }
+  ]
+}
