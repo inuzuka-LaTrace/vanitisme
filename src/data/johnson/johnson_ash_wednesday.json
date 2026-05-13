@@ -1,0 +1,127 @@
+{
+  "id": "johnson_ash_wednesday",
+  "title": "Ash Wednesday",
+  "author": "Lionel Johnson",
+  "source": "Internet Archive: Some poems of Lionel Johnson newly selected. https://archive.org/details/somepoems00john",
+  "year": "1895",
+  "firstPublication": "Poems (1895); repr. Some Poems of Lionel Johnson Newly Selected (1912)",
+  "difficulty": "初級",
+  "category": "johnson",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ライオネル・ジョンソン（Lionel Pigot Johnson, 1867–1902）による挽歌。副題「In Memoriam: Ernest Dowson」として、友人・詩人アーネスト・ダウスン（Ernest Dowson, 1867–1900）の死を悼む。ダウスンはジョンソンとともにライマーズ・クラブの中核を担い、1900年2月23日に32歳で死去した──アルコール依存・結核・貧困による早逝。「灰の水曜日（Ash Wednesday）」はキリスト教典礼暦における四旬節の初日であり、司祭が会衆の額に灰で十字架の印をつけながら「Memento, homo, quia pulvis es et in pulverem reverteris（人よ、汝が塵であることを覚えよ、そして塵に戻ることを）」（創世記第3章v.19）と告げる日。この典礼句がイタリック体のリフレインとして各連の首尾を飾り、詩全体が典礼的死の宣告と個人的悼みの二重構造を持つ。ダウスン追悼詩として書かれたことで、VANITISMEコーパスにおける「ダウスン」テキスト群との直接的詩的対話を形成する。ダウスン「A Last Word」・「Vanitas」・「Venite Descendamus」との虚無的美学の共有を前提に、ジョンソンはカトリック典礼の言語でダウスンの死を聖別する。",
+  "keywords": [
+    "Ash Wednesday",
+    "In Memoriam",
+    "Ernest Dowson",
+    "Memento homo",
+    "pulvis",
+    "灰",
+    "典礼",
+    "挽歌",
+    "友情",
+    "vanitas",
+    "consecrated"
+  ],
+  "relatedTexts": [
+    "johnson_dark_angel",
+    "johnson_precept_of_silence",
+    "johnson_de_profundis",
+    "dowson_a_last_word",
+    "dowson_vanitas",
+    "dowson_venite_descendamus",
+    "dowson_beata_solitudo",
+    "hieronymus_ecclesiastes_3",
+    "weil_accepter_le_vide",
+    "liturgy_requiem_aeternam",
+    "baudelaire_de_profundis_clamavi"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "In Memoriam: Ernest Dowson",
+      "provisionalTranslation": "アーネスト・ダウスンの思い出に"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Memento, homo, quia pulvis es!\nTo-day the cross of ashes marks my brow:\nYesterday, laid to solemn sleep wert thou,\nO dear to me of old, and dearer now!\nMemento, homo, quia pulvis es!",
+      "provisionalTranslation": "覚えよ、人よ、汝が塵であることを！\n今日、灰の十字架が私の額に印をつける：\n昨日、厳粛な眠りに横たえられたのはあなただった、\n以前より私に親しく、今ではなおさら親しい者よ！\n覚えよ、人よ、汝が塵であることを！"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Memento, homo, quia pulvis es!\nAnd all the subtile beauty of that face,\nWith all its winning, all its wistful grace\nFades in the consecrated stilly place:\nMemento, homo, quia pulvis es!",
+      "provisionalTranslation": "覚えよ、人よ、汝が塵であることを！\nそしてあの顔の巧妙な美しさのすべては、\nその魅惑のすべて、その物悲しい優雅さのすべてとともに\n聖別された静かな場所の中で消えゆく：\n覚えよ、人よ、汝が塵であることを！"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Memento, homo, quia pulvis es!\nThe visible vehement earth remains to me:\nThe visionary quiet land holds thee:\nBut what shall separate such friends as we?\nMemento, homo, quia pulvis es!",
+      "provisionalTranslation": "覚えよ、人よ、汝が塵であることを！\n目に見える激しい大地が私のもとに残る：\n幻のような静かな国があなたを抱く：\nしかし、私たちのような友人を何が引き離せようか？\n覚えよ、人よ、汝が塵であることを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "In Memoriam: Ernest Dowson",
+      "body": "アーネスト・クリストファー・ダウスン（Ernest Christopher Dowson, 1867–1900）──ジョンソンとともにライマーズ・クラブの中核を担った詩人。1867年生まれ（ジョンソンと同年）、1900年2月23日に32歳で死去。アルコール依存・結核・極貧のうちにロンドン郊外フォード（Catford）の友人宅で没した。カトリックへの改宗（1891年）もジョンソンと同年。ダウスン「Vanitas」・「A Last Word」・「Venite Descendamus」の虚無的美学はジョンソンの「Dark Angel」・「Precept of Silence」と深く共鳴する。「灰の水曜日」という典礼日を挽歌の枠として選ぶことで、ジョンソンはダウスンの死を個人的喪失と普遍的「塵への帰還」の交点に置く。テニソン「In Memoriam A.H.H.」（1850）という英文学における偉大な挽歌詩の伝統を引き継ぎながら、ジョンソンの挽歌は遥かに凝縮された典礼的形式を選ぶ。",
+      "targetId": "dowson_vanitas",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Memento, homo, quia pulvis es!",
+      "body": "「覚えよ、人よ、汝が塵であることを（Memento, homo, quia pulvis es et in pulverem reverteris）」──灰の水曜日の典礼句。創世記第3章v.19「quia pulvis es et in pulverem reverteris（汝は塵であり、塵に帰るから）」のヴルガータ原文に基づく。司祭が会衆の額に灰で十字架の印をつける際に告げる言葉であり、四旬節の開始を告げる死の宣告。詩はこの典礼句をイタリック体のリフレインとして各連の首尾に配置することで、詩全体を典礼的時間の中に封入する。コヘレト第3章「人は塵に帰る」・コヘレト第12章v.7「revertatur pulvis in terram suam（塵はその大地に帰る）」の知恵文学的定式と直接照応する。VANITISMEアプリのコーパス全体に通底する「vanitas」主題の最も凝縮された典礼的表現。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Memento, homo, quia pulvis es!\nTo-day the cross of ashes marks my brow:\nYesterday, laid to solemn sleep wert thou,\nO dear to me of old, and dearer now!\nMemento, homo, quia pulvis es!",
+      "body": "各連5行、ラテン語リフレイン（イタリック）が首尾を囲む構造（envelope structure）。中間3行がiambic pentameterを基調とし、ABBA韻を内包する：「brow / thou / now」（B韻）と「es」（A韻、リフレイン）。この包囲的リフレイン構造は典礼的連祷（litany）の詩的転用であり、「覚えよ」という命令が詩人自身と読者両方に向けられた二重の機能を持つ。各連の「今日（To-day）/ 昨日（Yesterday）」という時制の対置が、典礼的「現在（今日の灰）」と追悼の「過去（昨日の埋葬）」を同一の典礼時間に重ねる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Yesterday, laid to solemn sleep wert thou,\nO dear to me of old, and dearer now!",
+      "body": "「昨日、厳粛な眠りに横たえられたのはあなただった」──埋葬の婉曲表現として「solemn sleep（厳粛な眠り）」。「以前より私に親しく、今ではなおさら親しい者よ（dear to me of old, and dearer now）」──死によって友情の深さが逆説的に増すという逆転の命題。生前の親しさ（of old）が死後の親しさ（dearer now）に超過される──これはジョンソンのカトリック神学的死生観において、死が友情を断絶させるのでなく霊的次元で深化させるという信仰に基づく。ダウスン「A Last Word」の「We are not long for loving, laughter, light」という生の儚さへの诀別と、ジョンソンの「dearer now」という逆説的深化が対照をなす。",
+      "targetId": "dowson_a_last_word",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "all the subtile beauty of that face,\nWith all its winning, all its wistful grace\nFades in the consecrated stilly place:",
+      "body": "「あの顔の巧妙な美しさ（subtile beauty of that face）」──「Dark Angel」第1連「subtile violence」と同じ形容詞「subtile」がダウスンの顔の美の定義に転用される。誘惑的「巧妙さ」として機能した語が、ここでは友人の顔の「繊細な美しさ」を定義する語として肯定的に再配置される。「consecrated stilly place（聖別された静かな場所）」：墓地・埋葬地の婉曲表現。「consecrated（聖別された）」というカトリック的語彙が墓地を教会的聖域として神聖化する。「Precept of Silence」の「沈黙」が死後の空間としての「静寂（stilly）」へと変容している。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "all its wistful grace",
+      "body": "「その物悲しい優雅さ（wistful grace）」──「wistful」はダウスン詩の特徴的語彙のひとつ。「Precept of Silence」第3連「Publish their wistfulness abroad（物悲しさを広く公表する）」における「wistfulness」が、ここではダウスン自身の顔の特質として帰属される逆転的引用。ジョンソンがダウスンの詩学を定義する語として「wistful」を選ぶことで、「Precept of Silence」での他者の詩人たちへの批評的言及がダウスン追悼においては愛着の語彙へと変容する。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "The visible vehement earth remains to me:\nThe visionary quiet land holds thee:",
+      "body": "「目に見える激しい大地（visible vehement earth）」対「幻のような静かな国（visionary quiet land）」──生者の世界と死者の世界の対置。「vehement（激しい）」と「visionary（幻の）」、「visible（目に見える）」と「quiet（静かな）」という形容詞の対称的配置が二つの世界の質的差異を定義する。「Dark Angel」での現世の官能的誘惑（激しい大地）と「Te Martyrum Candidatus」での天上の白き世界（静かな国）という詩的対立がここでも反復される。死によって詩人とダウスンは異なる「世界」に属するが、第4行「But what shall separate such friends as we?」によってその分離が問いに付される。",
+      "targetId": "johnson_te_martyrum_candidatus",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "But what shall separate such friends as we?",
+      "body": "「しかし、私たちのような友人を何が引き離せようか？」──ローマ書第8章v.35「Quis nos separabit a caritate Christi（誰が私たちをキリストの愛から引き離すことができるか）」のパウロ的問いの友情版への転用。聖書的修辞を用いることで、詩人とダウスンの友情がキリストの愛と同様の不可分性を持つと主張する。ダウスン「Venite Descendamus」の「Let us go hence: the night is now at hand（さあ行こう、今や夜が近い）」という共同の下降への誘いが、ここでは死によって強制的に実現された「分離」への問いとして反転される。詩全体の典礼的「塵への帰還」という宣告の中で、この問いだけが宣告への抵抗として機能する。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    }
+  ]
+}
