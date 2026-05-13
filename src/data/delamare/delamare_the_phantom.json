@@ -1,0 +1,147 @@
+{
+  "id": "delamare_the_phantom",
+  "title": "The Phantom",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Phantom",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。「The Glimpse」・「In Vain」と同様の不在の「汝（thou）」への呼びかけ詩だが、本詩ではその「汝」が明示的に「幻（Phantom）」・「記憶の幻の子（Phantom child of memory）」として定義される。全4連（分割して6段落）。冒頭の問い「Wilt thou never come again, / Beauteous one?」という呼びかけが詩全体を貫き、最終行「Beauteous one!」として反響するリフレイン構造。第1連では自然の持続（緑の森・鳥・水）の中での「汝」の不在、第2連では薔薇の秘密半ばの啓示、第3連前半では夜の到来と完全な暗闇、後半では「Never more」という絶対的不帰還の宣言、第4連前半では世界の万物の無常（「Come to nought」）、後半では「汝」のみが不滅の幻として記憶の中で付き纏い続けるという逆説的結語へと展開する。ポーの「The Raven」の「Nevermore」、ローデンバック「Choses fatales」の不可避の消滅、ホフマンスタール「Erlebnis」の消える幻視との詩的系譜に位置する。詩題「Phantom」はVANITISMEコーパスの虚無・消滅・幻の主題群の英詩的結晶。",
+  "keywords": [
+    "phantom",
+    "幻",
+    "beauteous one",
+    "never more",
+    "memory",
+    "haunting",
+    "immortal",
+    "Time's flux",
+    "come to nought",
+    "glowworm",
+    "transience"
+  ],
+  "relatedTexts": [
+    "delamare_the_glimpse",
+    "delamare_in_vain",
+    "delamare_remembrance",
+    "delamare_shadow",
+    "poe_the_raven",
+    "rodenbach_choses_fatales",
+    "rodenbach_loubli",
+    "hofmannsthal_erlebnis",
+    "verlaine_colloque_sentimental",
+    "mallarme_apparition",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "original": "Wilt thou never come again,\nBeauteous one?\nYet the woods are green and dim,\nYet the birds' deluding cry\nEchoes in the hollow sky,\nYet the falling waters brim\nThe clear pool which thou wast fain\nTo paint thy lovely cheek upon.\nBeauteous one!",
+      "provisionalTranslation": "汝は二度と来ないのか、\n麗しき者よ？\nそれでも森は緑で薄暗く、\nそれでも鳥たちの欺くような鳴き声が\n虚ろな空に反響し、\nそれでも流れ落ちる水は満たす\n澄んだ池を、汝がかつて喜んで\n汝の愛らしい頬を映そうとした池を。\n麗しき者よ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–18",
+      "original": "I may see the thorny rose\nStir and wake\nThe dark dewdrop on her gold;\nBut thy secret will she keep\nHalf-divulged — yet all untold,\nSince a child's heart woke from sleep.",
+      "provisionalTranslation": "私は棘の薔薇が\n揺れて目覚め\nその金の上の暗い露を動かすのを見られる；\nしかし汝の秘密を薔薇は守る\n半ば打ち明けながら──それでもすべては語られないまま、\n子供の心が眠りから目覚めたときから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.19–26",
+      "original": "The faltering sunbeam fades and goes;\nThe night-bird whistles in the brake;\nThe willows quake;\nUtter darkness walls; the wind\nSighs no more.",
+      "provisionalTranslation": "たどたどしい陽光が薄れて消える；\n夜の鳥が茂みの中で口笛を吹く；\n柳の木々が震える；\n完全な暗闇が壁をなす；風は\nもはや嘆息しない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.27–34",
+      "original": "Yet it seems the silence yearns\nBut to catch thy fleeting foot;\nYet the wandering glowworm burns\nLest her lamp should light thee not—\nThee whom I shall never find;\nThough thy shadow lean before,\nThou thyself return'st no more—\nNever more.",
+      "provisionalTranslation": "それでも静寂が渇望しているように思える\n汝の素早い足音を捉えようと；\nそれでも彷徨う蛍が燃える\nその灯りが汝を照らさないといけないと──\n私が決して見出すことのない汝；\n汝の影が前に傾いているとはいえ、\n汝自身はもはや戻らない──\n二度と戻らない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.35–40",
+      "original": "All the world's woods, tree o'er tree.\nCome to nought.\nBirds, flowers, beasts, how transient they,\nAngels of a flying day.",
+      "provisionalTranslation": "世界のすべての森、木の上に木。\n虚無へと帰す。\n鳥、花、獣、いかに束の間のものか、\n飛び去る日の天使たち。"
+    },
+    {
+      "id": 6,
+      "verses": "v.41–50",
+      "original": "Love is quenched; dreams drown in sleep;\nRuin nods along the deep:\nOnly thou immortally\nHauntest on\nThis poor earth in Time's flux caught;\nHauntest on, pursued, unwon,\nPhantom child of memory,\nBeauteous one!",
+      "provisionalTranslation": "愛は消え；夢は眠りの中で溺れる；\n廃墟が深淵に沿って頷く：\n汝だけが不滅に\n付き纏い続ける\n時の流れに捕らわれたこの哀れな大地に；\n付き纏い続ける、追われ、手に入らないまま、\n記憶の幻の子よ、\n麗しき者よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wilt thou never come again,\nBeauteous one?",
+      "body": "冒頭の問い「汝は二度と来ないのか（Wilt thou never come again）」が詩全体の動力として機能し、「Beauteous one（麗しき者）」という呼びかけが第1連末尾・最終行に反響するリフレイン構造を形成する。「never（決して〜ない）」という時間的絶対否定が冒頭に置かれることで、詩は希望の問いでなく絶望の確認として始まる。ポー「The Raven」の「Nevermore」という絶対的否定のリフレインと照応する：詩人の問いに対して「二度と来ない」という否定が反響し続ける構造が同型。「Beauteous one（麗しき者）」という呼格が固有名を持たない点は「The Glimpse」・「In Vain」の「汝（thou）」と連続する──不在の存在を特定しないことで、喪失の普遍性が担保される。",
+      "targetId": "poe_the_raven",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Yet the woods are green and dim,\nYet the birds' deluding cry\nEchoes in the hollow sky,\nYet the falling waters brim",
+      "body": "「Yet（それでも）」の三重反復（anaphora）が第1連中間部を構成する。「それでも森は・それでも鳥は・それでも水は」という自然の持続が「汝」の不在と対置される：自然は変わらず続くが「汝」だけが戻らないという逆説。「deluding cry（欺くような鳴き声）」──鳥の声が「欺く（delude）」という形容詞を持つ点が重要：自然の美的継続が詩人を「汝が戻ったかのような」錯覚へと欺く働きを持つ。「hollow sky（虚ろな空）」：「hollow（虚ろ・中空）」という形容詞が空の物理的特性と詩人の内的空虚を重ねる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "But thy secret will she keep\nHalf-divulged — yet all untold,\nSince a child's heart woke from sleep.",
+      "body": "「汝の秘密を薔薇は半ば打ち明けながら──それでもすべては語られないまま（Half-divulged — yet all untold）」──「In Vain」の薔薇（「to mask the sharpness of its thorn」）と「Shadow」の薔薇（「the beauty of the rose doth cast a shadow」）が継続する薔薇の主題が、ここでは「秘密の番人」として機能する。「Half-divulged（半ば打ち明けられた）」という分詞が象徴主義的な部分開示の詩学を定義する：完全に語られることなく半ば示されるもの──これはマラルメの「暗示（suggestion）」の詩学と直接照応する。「Since a child's heart woke from sleep（子供の心が眠りから目覚めたときから）」：詩人の詩的感受性の覚醒が子供時代に始まることを示す自伝的時間軸。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "The faltering sunbeam fades and goes;\nThe night-bird whistles in the brake;\nThe willows quake;\nUtter darkness walls; the wind\nSighs no more.",
+      "body": "第3段落（原詩第3連前半）は詩全体で最も視覚的・聴覚的に密度の高い段落。「faltering sunbeam fades and goes（たどたどしい陽光が薄れて消える）」→「night-bird whistles（夜の鳥が口笛を吹く）」→「willows quake（柳が震える）」→「Utter darkness walls（完全な暗闇が壁をなす）」→「wind / Sighs no more（風がもはや嘆息しない）」という五段階の消滅過程が一段落に圧縮される。行の短縮（「The willows quake;」「Sighs no more.」）が視覚的に消滅を加速させる。「Sighs no more（もはや嘆息しない）」：風の嘆息の停止が「Remembrance」の「unstirring night（静まり返った夜）」・「In Vain」の「Thou hadst no word to give（汝は与える言葉を持っていなかった）」という沈黙の系列の最終形として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Yet the wandering glowworm burns\nLest her lamp should light thee not—",
+      "body": "「彷徨う蛍（wandering glowworm）」──完全な暗闇の中で唯一燃え続ける光として蛍が登場する。「Lest her lamp should light thee not（その灯りが汝を照らさないといけないと）」という目的節が蛍の発光行為に「汝」を照らすための意志的動機を付与する：蛍が「汝」のために燃えているという擬人化が詩人自身の渇望の自然への投影として機能する。「Shadow」の「golden nimbus of the windowed saint（ステンドグラスの聖人の光輪）」・「The Glimpse」のディアナの月光と連続する「光が暗闇の中の「汝」を照らす」という主題の変奏。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Thou thyself return'st no more—\nNever more.",
+      "body": "「汝自身はもはや戻らない──二度と戻らない（Never more）」。ポー「The Raven」の「Nevermore」という不帰還の絶対的定式の直接的引用・変奏。ポーの「Nevermore」が一語の反復として ravens の声によって機械的に反響するのに対し、デ・ラ・メアの「Never more」は二語に分割され詩人自身の声として発せられる──より個人的・断念的な否定として機能する。「Though thy shadow lean before（汝の影が前に傾いているとはいえ）」：影は存在する──「幻（phantom）」としての影の前方への傾きが、「汝自身」の不在をより鮮明に浮き彫りにする。「Shadow」の詩的主題──美しいものは必ず影を持つ──がここでは逆転し、残るのは「汝」の影だけで「汝自身」が消えるという逆説として展開する。",
+      "targetId": "poe_the_raven",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "All the world's woods, tree o'er tree.\nCome to nought.\nBirds, flowers, beasts, how transient they,\nAngels of a flying day.",
+      "body": "「世界のすべての森、木の上に木──虚無へと帰す（Come to nought）」。コヘレト第1章v.2「omnia vanitas（すべては虚無）」の英詩的直訳として機能する最も明快な定式のひとつ。「tree o'er tree（木の上に木）」という累積的列挙の後に「Come to nought（虚無へと帰す）」という短い独立行が置かれる詩形的配置が、積み重ねの崩壊を視覚的に実演する。「Birds, flowers, beasts, how transient they, / Angels of a flying day（鳥、花、獣、いかに束の間──飛び去る日の天使たち）」：自然物の無常を「天使たち」という崇高な語彙で定義するという逆説的命名。「Shadow」の「transient bubbles（束の間の泡）」・「The Glimpse」の「fading dreams（消えゆく夢）」という無常の系列の最も広大なスケールの展開。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Love is quenched; dreams drown in sleep;\nRuin nods along the deep:",
+      "body": "「愛は消え（quenched）；夢は眠りの中で溺れる（drown in sleep）；廃墟が深淵に沿って頷く（Ruin nods along the deep）」──三つの壊滅的動詞（quench・drown・nod）が連続する。「quenched（消された）」：炎を消す動詞が愛に適用される。「drown in sleep（眠りの中で溺れる）」：夢が睡眠という液体的媒体の中で溺死する逆説。「Ruin nods along the deep（廃墟が深淵に沿って頷く）」：廃墟の擬人化が最も不穏なイメージ──「頷く（nods）」という半ば眠るような動作が廃墟の緩慢な崩壊を示す。ローデンバック「Choses fatales（避けがたき事物）」の不可避的消滅の詩学との照応。",
+      "targetId": "rodenbach_choses_fatales",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Only thou immortally\nHauntest on\nThis poor earth in Time's flux caught;\nHauntest on, pursued, unwon,\nPhantom child of memory,\nBeauteous one!",
+      "body": "詩の結語。「汝だけが不滅に付き纏い続ける（Only thou immortally / Hauntest on）」──第5段落で「すべては虚無へと帰す」と宣言された世界の中で、「汝」のみが「不滅（immortally）」という例外として残る逆説。「Time's flux（時の流れ）」に捕らわれた「哀れな大地」の上で、「幻の子（Phantom child）」だけが持続する──これはコヘレト第11章「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消滅命題の逆転として機能する：すべての記憶が消えるはずの世界で、この「幻」の記憶だけが消えない。「Hauntest on, pursued, unwon（付き纏い続ける、追われ、手に入らないまま）」：三つの分詞による幻の存在様式の定義が詩を閉じる。ホフマンスタール「Erlebnis」の「Dann wach ich auf und um mich ist es Nacht（そして目覚めると周りは夜だ）」という幻視の後の消滅と逆の方向：デ・ラ・メアの幻は消えずに「haunts on（付き纏い続ける）」。",
+      "targetId": "hofmannsthal_erlebnis",
+      "targetParagraphId": null
+    }
+  ]
+}
