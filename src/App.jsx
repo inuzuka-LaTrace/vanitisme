@@ -47,6 +47,7 @@ import rossetti_cData from './data/rossetti_c';
 import d_g_rossettiData from './data/d_g_rossetti';
 import yeatsData from './data/yeats';
 import johnsonData from './data/johnson';
+import delamareData from './data/delamare';
 import juan_de_la_cruzData from './data/juan_de_la_cruz';
 import teresaData from './data/teresa';
 import silvaData from './data/silva';
@@ -271,6 +272,7 @@ export default function App() {
       ...swinburneData,
       ...yeatsData,
       ...johnsonData,
+      ...delamareData,
       ...rossetti_cData,
       ...d_g_rossettiData,
       ...georgeData,
