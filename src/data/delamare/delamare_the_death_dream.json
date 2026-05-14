@@ -1,0 +1,110 @@
+{
+  "id": "delamare_the_death_dream",
+  "title": "The Death-Dream",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Death-Dream",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全18行の連続詩（無連区切り）。睡眠中の「汝（thou/thy）」の心に「死の夢（Death-Dream）」を送り込んだ者は誰か、という問いが詩全体を貫く。「He's dead!（彼は死んだ！）」という夢の中の声が「汝の哀れな地上の心」を鐘の乱打として覚醒させる──この「彼（he）」は詩人自身であると示唆される。四つの問い（Was it Time? / Or earth's noise? / Or Love? / Or, haply, was it I?）が連鎖し、最後の問い「Or, haply, was it I who out of dream / Stole but a little where shadows course, / Called back to thee across the eternal stream?」が詩の核心：詩人が死後の「影の流れる場所（where shadows course）」から「永遠の流れ（eternal stream）」を越えて「汝」に呼びかけたという、死者から生者への逆方向の通信という逆説的な詩的命題。「The Phantom」の「Phantom child of memory」・「Remembrance」の「most dead to me」という死と記憶の主題の最も直接的な展開として位置づけられる。",
+  "keywords": [
+    "death-dream",
+    "death",
+    "dream",
+    "eternal stream",
+    "shadows",
+    "frenzied bells",
+    "He's dead",
+    "Time",
+    "Love",
+    "remorse",
+    "霊的通信"
+  ],
+  "relatedTexts": [
+    "delamare_the_phantom",
+    "delamare_remembrance",
+    "delamare_the_glimpse",
+    "delamare_shadow",
+    "rossetti_remember",
+    "rodenbach_loubli",
+    "trakl_de_profundis",
+    "mallarme_apparition",
+    "hieronymus_iob_1",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Who, now, put dreams into thy slumbering mind?\nWho, with bright Fear's lean taper, crossed a hand\nAthwart its beam, and stooping, truth maligned,\nSpake so thy spirit speech should understand,",
+      "provisionalTranslation": "今、誰が汝の眠れる心に夢を送り込んだのか？\n誰が、明るき恐怖の細い蝋燭をもって、手を\nその光の前に差し渡し、かがみ込んで、真実を歪め、\n汝の霊が言葉を理解できるように語りかけたのか、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–9",
+      "original": "And with a dread \"He's dead!\" awaked a peal\nOf frenzied bells along the vacant ways\nOf thy poor earthly heart; waked thee to steal,\nLike dawn distraught upon unhappy days,\nTo prove nought, nothing?",
+      "provisionalTranslation": "そして恐ろしい「彼は死んだ！」という声で\n汝の哀れな地上の心の空虚な通路に沿って\n狂った鐘の乱打を目覚めさせ；汝を目覚めさせた、盗み出すように、\n不幸な日々に錯乱した夜明けのように、\n何も、何も証明できないために？"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–14",
+      "original": "Was it Time's large voice\nOut of the inscrutable future whispered so?\nOr but the horror of a little noise\nEarth wakes at dead of night? Or does Love know\nWhen his sweet wings weary and droop, and even\nIn sleep cries audibly a shrill remorse?",
+      "provisionalTranslation": "それは時の大いなる声が\n不可知の未来からそのように囁いたのか？\nそれとも大地が夜の深みに目覚める\n小さな物音の恐怖に過ぎないのか？それとも愛は知るのか\nその甘い翼が疲れて垂れるときを、そして\n眠りの中でさえ甲高い懊悩を声高に泣くのか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.15–18",
+      "original": "Or, haply, was it I who out of dream\nStole but a little where shadows course,\nCalled back to thee across the eternal stream?",
+      "provisionalTranslation": "あるいは、おそらく、夢から抜け出して\n影が流れる場所へとほんの少し忍び込んだのは私だったのか、\n永遠の流れを越えて汝へと呼びかけた？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Who, now, put dreams into thy slumbering mind?\nWho, with bright Fear's lean taper, crossed a hand",
+      "body": "「Who（誰が）」の二重反復による開口部（anaphora）が詩全体の問答的構造を冒頭に確立する。iambic pentameterを基調とする18行の連続詩（無連区切り）は変則ソネット的構造を持つ：14行のソネット形式を4行超過し、最終問い（v.15–18）が「解答」として突出する。「bright Fear's lean taper（明るき恐怖の細い蝋燭）」という所有格複合語──「Fear（恐怖）」が擬人化されてその蝋燭（taper）を手に持つ。「lean（痩せた・細い）」という形容詞が蝋燭の物理的細さと恐怖の憔悴した性質を重ねる。「crossed a hand / Athwart its beam（その光の前に手を差し渡す）」：光を遮る手という影の形象が「Shadow」の詩的主題と直接照応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "stooping, truth maligned,\nSpake so thy spirit speech should understand,",
+      "body": "「かがみ込んで、真実を歪め（stooping, truth maligned）」──夢に忍び込む者が「真実を歪める（malign）」という行為者として提示される。「truth maligned（歪められた真実）」：夢の中の「He's dead!」という声が、真実（詩人は生きている or 死んでいる）を「悪意をもって歪める（malign）」かたちで伝える。「thy spirit speech should understand（汝の霊が言葉を理解できるように）」：「spirit（霊）」という語が意識の超個人的な次元を指し、夢の言語が通常の理性的理解でなく「霊（spirit）」の次元に語りかけることを示す。ヨブ記第1章での天上での会話が地上のヨブの苦難をひき起こすという間接的因果構造との照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "And with a dread \"He's dead!\" awaked a peal\nOf frenzied bells along the vacant ways\nOf thy poor earthly heart;",
+      "body": "「He's dead!（彼は死んだ！）」──詩中唯一の直接話法、鉤括弧付きの叫び。「he（彼）」が誰を指すかは明示されないが、詩の末尾「Or, haply, was it I（それとも、おそらく私だったのか）」という問いとの照応から、詩人自身の死の告知として読まれる。「a peal / Of frenzied bells（狂った鐘の乱打）」：心臓の鼓動を鐘の乱打として比喩化する──悪夢の恐怖による心拍の急激な上昇を聴覚的に提示。「vacant ways / Of thy poor earthly heart（汝の哀れな地上の心の空虚な通路）」：心臓の解剖学的通路（血管・腔室）と感情的空虚の二重の意味。「The Phantom」の「This poor earth in Time's flux caught（時の流れに捕らわれた哀れな大地）」の「poor earth」との語彙的連続。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Was it Time's large voice\nOut of the inscrutable future whispered so?\nOr but the horror of a little noise\nEarth wakes at dead of night? Or does Love know\nWhen his sweet wings weary and droop, and even\nIn sleep cries audibly a shrill remorse?",
+      "body": "三つの問いが連鎖する中間段落。「Time's large voice（時の大いなる声）」「inscrutable future（不可知の未来）」「a little noise Earth wakes at（大地が目覚める小さな物音）」「Love…a shrill remorse（愛の甲高い懊悩）」という三者がそれぞれ異なるスケール（宇宙的・地上的・内的）での死の夢の発生源として提示される。「inscrutable（不可知の）」：コヘレト第9章v.1「nescit homo utrum amore an odio dignus sit（人間は神の意図を知らない）」という神の不可知性との照応。「Love / When his sweet wings weary and droop（愛がその甘い翼が疲れて垂れるとき）」──「The Phantom」の「wandering glowworm burns」という愛の持続的燃焼と対照的に、ここでは愛の翼の疲弊・懊悩が夢の恐怖の源として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Or, haply, was it I who out of dream\nStole but a little where shadows course,\nCalled back to thee across the eternal stream?",
+      "body": "詩の核心・結語。「Or, haply, was it I（あるいは、おそらく、私だったのか）」──三つの非人格的発生源（時・大地・愛）に続く第四の可能性として「私（I）」が登場する。「out of dream / Stole but a little where shadows course（夢から抜け出して影が流れる場所へとほんの少し忍び込んだ）」：死後の領域──「影の流れる場所（where shadows course）」──への詩人の一時的侵入。「Stole but a little（ほんの少し忍び込んだ）」という動詞の慎ましさが、生と死の境界の閾値的横断を示す。「Called back to thee across the eternal stream（永遠の流れを越えて汝へと呼びかけた）」：「eternal stream（永遠の流れ）」はギリシャ神話のステュクス川・冥界と現世を分かつ「忘却の川」の変奏。詩全体の「Who put dreams into thy mind?」という問いへの最終的な答えが「死んだ私（I）が汝へと呼びかけた」という逆説的結語として提示される。ヴェイユ「Décréation」の「脱創造──被造物から非被造物へ」という死的変容の後に他者に語りかける霊的次元の照応。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "where shadows course,\nCalled back to thee across the eternal stream?",
+      "body": "「影が流れる場所（where shadows course）」・「永遠の流れ（eternal stream）」という結語の二形象がデ・ラ・メアのコーパス全体の詩的地図において占める位置。「Shadow」の「take its strange dream home（夢を家に連れ去る暗闇）」・「Remembrance」の「Of all most dead to me」・「The Phantom」の「Phantom child of memory」という死と記憶の系列が、本詩では「死者が生者に夢を通じて語りかける」という最も積極的な形態として完結する。クリスティーナ・ロセッティ「Remember」の「remember me when I am gone away（私が去ったとき、私を覚えていてください）」という死者の要求が、デ・ラ・メアでは死者が能動的に夢に侵入するという逆転として提示される。マラルメ「Apparition」の「La lune s'attristait（月は悲しんでいた）」という不在の「汝」からの幻的接触の構造との照応。",
+      "targetId": "rossetti_remember",
+      "targetParagraphId": null
+    }
+  ]
+}
