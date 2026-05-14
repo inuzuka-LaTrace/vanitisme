@@ -1,0 +1,100 @@
+{
+  "id": "delamare_even_in_the_grave",
+  "title": "Even in the Grave",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Even_in_the_Grave",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。正規のイタリア式ソネット（Petrarchan sonnet）14行、ABBAABBA / CDECDE韻。詩人が「死（Death）」のもとへ人生の「目録（inventory）」──運命の傷・敵の負担・愛と憎しみ・友の傷・無関心・空虚な言葉と沈黙・希望と夢──を差し出す。死がそれをすべて読み終えた後、「汝は代わりに何を求めるのか（What seek'st thou then instead?）」と問う。詩人が沈黙する（「I bowed my face」）と、死は「strange innocence（奇妙な無垢）」をもって「墓の中においてさえ汝は汝自身を持つだろう（Even in the grave thou wilt have thyself）」と答える。この結語が詩の核心：死によってすべてを失うと想定されているが、「汝自身（thyself）」という自己の核心だけは死後も持ち続けるという逆説的慰め──あるいは逃れられない自己の呪縛としての逆説的恐怖。「The Death-Dream」・「The Phantom」の死の主題の最も凝縮されたソネット的結晶。ヴェイユ「Décréation（脱創造）」の「自己を無にすること」という命題と根本的に対話する詩：ヴェイユが「脱創造」を求めるのに対し、デ・ラ・メアの「死」は「汝自身」の永続を告げる。",
+  "keywords": [
+    "sonnet",
+    "death",
+    "inventory",
+    "grave",
+    "thyself",
+    "love",
+    "fate",
+    "innocence",
+    "vain silence",
+    "自己の永続",
+    "逆説的慰め"
+  ],
+  "relatedTexts": [
+    "delamare_the_death_dream",
+    "delamare_the_phantom",
+    "delamare_remembrance",
+    "delamare_shadow",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "hieronymus_iob_1",
+    "rossetti_remember",
+    "johnson_dark_angel",
+    "baudelaire_de_profundis_clamavi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "I laid my inventory at the hand\nOf Death, who in his gloomy arbour sate;\nAnd while he conned it, sweet and desolate\nI heard Love singing in that quiet land.\nHe read the record even to the end —\nThe heedless, livelong injuries of Fate,\nThe burden of foe, the burden of love and hate;\nThe wounds of foe, the bitter wounds of friend:",
+      "provisionalTranslation": "私は自分の目録を死の手に差し出した、\n暗い木陰に座る死のもとへ；\nそして彼がそれを熟読する間、甘く荒涼として\n私はその静かな国で愛が歌うのを聞いた。\n彼は記録を終わりまで読んだ──\n運命の無頓着な、生涯にわたる傷、\n敵の重荷、愛と憎しみの重荷；\n敵の傷、友の苦い傷："
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14",
+      "original": "All, all, he read, ay, even the indifference,\nThe vain talk, vainer silence, hope and dream.\nHe questioned me: \"What seek'st thou then instead?\"\nI bowed my face in the pale evening gleam.\nThen gazed he on me with strange innocence:\n\"Even in the grave thou wilt have thyself,\" he said.",
+      "provisionalTranslation": "すべて、すべてを彼は読んだ、そう、無関心さえも、\n空虚な言葉、より空虚な沈黙、希望と夢を。\n彼は私に問うた：「汝は代わりに何を求めるのか？」\n私は薄明かりの夕暮れに顔を伏せた。\nそして彼は奇妙な無垢をもって私を見つめた：\n「墓の中においてさえ汝は汝自身を持つだろう」と彼は言った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "I laid my inventory at the hand\nOf Death, who in his gloomy arbour sate;",
+      "body": "イタリア式ソネット（Petrarchan sonnet）の正規形式：ABBAABBA（オクターヴ）／CDECDE（セステット）。オクターヴが「状況の設定と問題提示」、セステットが「転換と解決」を担う伝統的構造が本詩では厳密に踏襲される。「sate（座っていた）」はarchaic過去形（sat の古形）──デ・ラ・メアが「Death」という擬人像に古風な荘重さを与えるための意図的な古語使用。「gloomy arbour（暗い木陰）」：死が庭の木陰に座る形象は、牧歌的・田園詩的な設定（locus amoenus）の意図的な反転──「快適な場所」が「暗い場所」として再配置される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "And while he conned it, sweet and desolate\nI heard Love singing in that quiet land.",
+      "body": "「死が目録を熟読する間、甘く荒涼として / 私は愛が歌うのを聞いた」──「sweet and desolate（甘く荒涼として）」という矛盾的形容詞の対置が「Remembrance」第1連「Clear, tranquil, beautiful, / Dark, forlorn」の同型の詩的手法の反復。「Love singing in that quiet land（その静かな国で愛が歌う）」：「quiet land（静かな国）」が死の領域──死後の世界──を指す婉曲表現。死の領域においてさえ「愛が歌う」という逆説が第2段落の結語「Even in the grave thou wilt have thyself」の前奏として機能する。「Shadow」の「The loveliest thing earth hath, a shadow hath」という美と死の不可分性の命題が、ここでは「死の領域においてさえ愛は歌う」という逆方向の命題として提示される。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "The heedless, livelong injuries of Fate,\nThe burden of foe, the burden of love and hate;\nThe wounds of foe, the bitter wounds of friend:",
+      "body": "「目録」の内容が列挙される三行：「運命の傷」「敵の重荷・愛と憎しみの重荷」「敵の傷・友の苦い傷」。この三行の列挙構造（tricolon）が人生の苦悩の体系的分類として機能する。「wounds of foe…bitter wounds of friend（敵の傷…友の苦い傷）」：「friend」の傷が「bitter（苦い）」という形容詞を受けることで、敵より友からの傷の方が深いという逆説が提示される。ヨブ記第1章でサタンが神の許可のもとにヨブに試練を与える構造──外部からの傷と神学的意味──との照応。「Magic」のジョンソン的「loneliness and labour（孤独と労苦）」という詩人の自己定義が、ここでは「目録」として死に差し出される人生の記録として変奏される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "The vain talk, vainer silence, hope and dream.",
+      "body": "「空虚な言葉、より空虚な沈黙（vain talk, vainer silence）」──比較級「vainer」の使用が重要：「言葉（talk）」が空虚であるだけでなく、「沈黙（silence）」がそれよりさらに空虚（vainer）であるという逆説。「Precept of Silence」のジョンソンが沈黙を選んだのと対照的に、デ・ラ・メアの「沈黙」は言葉より「より空虚」な失敗として位置づけられる。「vain（空虚な）」という語はコヘレト第1章v.2「vanitas vanitatum（虚無の虚無）」の英語的対応語──「vain talk / vainer silence」がヴァニタスの主題の最も凝縮された英詩的表現のひとつ。「hope and dream（希望と夢）」：デ・ラ・メアのコーパスで繰り返す「dream」が、ここでは目録の最終項目として死に差し出される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "He questioned me: \"What seek'st thou then instead?\"\nI bowed my face in the pale evening gleam.",
+      "body": "「汝は代わりに何を求めるのか？」──死の問いが詩の哲学的核心。詩人は人生の苦悩の「目録」を死に差し出した──つまり死によってそれらから解放されることを暗黙に求めた。しかし死の問い「代わりに何を求めるのか」が、死による解放の「代価」として何を失うかを突きつける。「I bowed my face（私は顔を伏せた）」：沈黙・答えの不在。「pale evening gleam（薄明かりの夕暮れ）」：夕暮れという黄昏の時間帯が生と死の境界の象徴として機能する──「The Glimpse」の「Pale, changeless, everlasting Dian」の月光的薄明さと照応する。ヨブ記第1章でヨブが答えられずに地に倒れ伏す場面（v.20）との構造的照応。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Then gazed he on me with strange innocence:\n\"Even in the grave thou wilt have thyself,\" he said.",
+      "body": "詩の結語にして最大の哲学的命題。「strange innocence（奇妙な無垢）」：死が「無垢（innocence）」をもって見つめるという逆説──死は罰でも裁きでもなく、「無垢」という子供的・中立的な視線で詩人を見る。「Even in the grave thou wilt have thyself（墓の中においてさえ汝は汝自身を持つだろう）」：二重の逆説。第一に、死によって「すべてを失う」という通念への反証として「汝自身」は残ると慰める。第二に、「汝自身」こそが人生の苦悩の源泉（傷・重荷・無関心）であったとすれば、死においても「汝自身」を持つことは慰めでなく呪縛の継続を意味する。ヴェイユ「Décréation」§1「脱創造：被造物から非被造物へ──自己を無にすること」という命題と根本的に対立する：ヴェイユが死において「自己」の消滅・神への帰還を求めるのに対し、デ・ラ・メアの「死」は「汝自身」の不消滅を宣言する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    }
+  ]
+}
