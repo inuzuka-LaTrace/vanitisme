@@ -1,0 +1,106 @@
+{
+  "id": "delamare_hawthorn_deathly_smell",
+  "title": "\"The Hawthorn Hath a Deathly Smell\"",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/%22The_Hawthorn_Hath_a_Deathly_Smell%22",
+  "year": "1914",
+  "firstPublication": "The Listners (1914); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『The Listners』（1914年）所収。全3連各8行、ABCBDEFE韻を基調とする。表題は引用符付きで提示され、民謡・古い諺・または先行テキストからの引用であることを示唆する。「サンザシ（hawthorn / may）」はイギリス民間伝承において不吉・死・妖精の世界との接触を意味する花として古来から畏れられてきた一方、五月祭（May Day）の花・婚礼の花としての祝祭的側面を持つ。本詩はその「死の匂い」という属性を出発点として、すべての花の香りを「最後の審判の日（Judgment Day）」という終末論的時間へと向けられた香（incense）として定義する詩的神学を展開する。第1連：野の花々の列挙の中で「銀色のメイの花（silver of the may）」が最も甘く、審判の日のために香として装われるという逆説的美化。第2連：リンゴ・子供・塵・夕暮れの雨・野薔薇の葉という混合的感覚的記憶の喚起──記憶の香りとしての「may」が同じリフレインで閉じる。第3連：「すべての愛しさの眼（Eyes of all loveliness）」という「汝（thou）」への呼びかけ──花が褪せるように「汝」も視界から消えるが、墓の上には審判の日まで「鋭い棘のあるメイ（sharp-thorned may）」が香として装われるという逆説的永続性で結語となる。ジョンソン「Flos Florum」の花の典礼的象徴・「Ash Wednesday」の灰と死の記念との詩的照応。",
+  "keywords": [
+    "hawthorn",
+    "may",
+    "Judgment Day",
+    "incense",
+    "smell",
+    "memory",
+    "サンザシ",
+    "審判の日",
+    "香",
+    "花と死",
+    "民謡"
+  ],
+  "relatedTexts": [
+    "delamare_shadow",
+    "delamare_when_the_rose_is_faded",
+    "delamare_remembrance",
+    "johnson_ash_wednesday",
+    "johnson_flos_florum",
+    "hieronymus_ecclesiastes_1",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_correspondances",
+    "mallarme_apparition",
+    "weil_pesanteur_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "The flowers of the field\nHave a sweet smell;\nMeadowsweet, tansy, thyme,\nAnd faint-heart pimpernel;\nBut sweeter even than these,\nThe silver of the may\nWreathed is with incense for\nThe Judgment Day.",
+      "provisionalTranslation": "野の花々は\n甘い香りを持っている；\nメドウスウィート、タンジー、タイム、\nそして気おくれのサンピンソウ；\nしかしこれらよりもなお甘く、\nメイの銀色の花が\n審判の日のために\n香で装われている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "An apple, a child, dust,\nWhen falls the evening rain,\nWild brier's spiced leaves,\nBreathe memories again;\nWith further memory fraught.\nThe silver of the may\nWreathed is with incense for\nThe Judgment Day.",
+      "provisionalTranslation": "リンゴ、子供、塵、\n夕暮れの雨が降るとき、\n野薔薇の香辛料のような葉が、\n再び記憶を吐き出す；\nさらなる記憶を孕んで。\nメイの銀色の花が\n審判の日のために\n香で装われている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "Eyes of all loveliness —\nShadow of strange delight,\nEven as a flower fades\nMust thou from sight;\nBut oh, o'er thy grave's mound,\nTill come the Judgment Day,\nWraathed shall with incense be\nThy sharp-thorned may.",
+      "provisionalTranslation": "すべての愛しさの眼よ──\n不思議な悦びの影よ、\n花が褪せるように\n汝も視界から消えなければならない；\nしかしああ、汝の墓の土盛りの上に、\n審判の日が来るまで、\n香で装われるだろう\n汝の鋭い棘のあるメイが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Meadowsweet, tansy, thyme,\nAnd faint-heart pimpernel;",
+      "body": "野の花々の四種の列挙。「Meadowsweet（メドウスウィート）」：バラ科の白い花、甘い蜂蜜香。「Tansy（タンジー）」：黄色い菊状の花、強烈な苦い香り。「Thyme（タイム）」：香草、地中海的清涼な香り。「Pimpernel（サンピンソウ）」：小さな赤い花。「faint-heart（気おくれの）」という形容詞がサンピンソウに付与される──花の小ささ・はかなさを「臆病な心（faint heart）」として擬人化する詩的手法。ジョンソン「Flos Florum」の「Lily of the Vallies」・「Rose of Gethsemani」という典礼的花の対置と比較すると、デ・ラ・メアの花の列挙はより土着的・民謡的な植物誌として機能する。ボードレール「Correspondances」の「Les parfums（香り）」が宇宙的照応の媒体となる感覚詩学との照応。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "But sweeter even than these,\nThe silver of the may\nWreathed is with incense for\nThe Judgment Day.",
+      "body": "「メイの銀色の花（the silver of the may）」──サンザシ（hawthorn）の五月に咲く白い花の英語的通称「may」。「silver（銀色）」という色彩が純粋性・霊的光沢を与える。「審判の日のために香で装われている（Wreathed is with incense for / The Judgment Day）」：「Wreathed（装われる）」という動詞が花輪・リース的な装飾行為を指し、サンザシの花が審判の日に向けた典礼的「香（incense）」として定義される。「死の香り（deathly smell）」が「香（incense）」という典礼的昇華として再定義される逆転──ジョンソン「Ash Wednesday」の「Memento, homo, quia pulvis es（覚えよ、汝は塵である）」という死の宣告が典礼的枠組みで行われる構造と照応する。",
+      "targetId": "johnson_ash_wednesday",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "An apple, a child, dust,\nWhen falls the evening rain,\nWild brier's spiced leaves,\nBreathe memories again;",
+      "body": "「リンゴ、子供、塵（An apple, a child, dust）」という三語の並置が詩中最も独創的な感覚的列挙。名詞の裸の羅列（コンマ区切り）が各々の香りの唐突な喚起力を提示する。「apple（リンゴ）」：エデンの原罪・秋の収穫・子供の記憶。「child（子供）」：子供の皮膚の香りという触覚的・官能的記憶。「dust（塵）」：コヘレト第3章「pulverem reverteris（塵に帰る）」の死の定式の感覚化。「夕暮れの雨が降るとき（When falls the evening rain）」という条件節が香りの喚起の時間的文脈を夕暮れ・雨という感傷的条件として定義する。ボードレール「Harmonie du soir」の夕暮れの香りと記憶の融合という感覚詩学との直接的照応。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "The silver of the may\nWreathed is with incense for\nThe Judgment Day.",
+      "body": "第1連末尾のリフレイン「The silver of the may / Wreathed is with incense for / The Judgment Day」が第2連末尾に逐語的に反復される典礼的リフレイン構造。ジョンソン「Flos Florum」の各連首尾を囲むリフレイン構造と同型の典礼的繰り返し。この反復が詩全体に「リタニー（連祷）」的性格を与える──各連の具体的詩的内容（野の花・記憶の香り・愛する者の死）が「審判の日のための香」という共通の終末論的結語によって聖別される構造。「The Judgment Day」という大文字化が詩全体を通じて一貫した神学的照準として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Eyes of all loveliness —\nShadow of strange delight,\nEven as a flower fades\nMust thou from sight;",
+      "body": "「すべての愛しさの眼──不思議な悦びの影（Eyes of all loveliness — / Shadow of strange delight）」──「汝（thou）」への直接の呼びかけが初めて現れる転換点。「Eyes of all loveliness」：「When the Rose is Faded」の「Loveliest on earth to me（私にとって地上で最も愛しきもの）」と同型の最上級的愛着の定式。「Shadow of strange delight」：「Shadow」の詩的主題──「even the beauty of the rose doth cast a shadow」──が「不思議な悦びの影（Shadow of strange delight）」として凝縮される。「flower fades（花が褪せる）」：「When the Rose is Faded」の薔薇の褪色との直接的照応。デ・ラ・メアの花の詩学において「fades」という動詞は褪色・消滅・死の普遍的定式として機能する。",
+      "targetId": "delamare_when_the_rose_is_faded",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "But oh, o'er thy grave's mound,\nTill come the Judgment Day,\nWraathed shall with incense be\nThy sharp-thorned may.",
+      "body": "詩の結語。第1・2連のリフレインが第3連で変容する：「The silver of the may / Wreathed is with incense for / The Judgment Day」（第1・2連の現在形）が「Wreathed shall with incense be / Thy sharp-thorned may」（第3連の未来形）へと時制転換する。「shall」という未来形が「審判の日まで」という時間的持続を保証する──現在の「is（装われている）」が未来の「shall be（装われるだろう）」として個人の墓へと特定化される。「sharp-thorned may（鋭い棘のあるメイ）」：表題「deathly smell（死の匂い）」と呼応する「thorned（棘のある）」という修飾語が、最終行で初めて「may」に付与される──美と死の不可分性の最終的定式。「Ophelia」の「Ivy she hath, that to old ruin clings」という墓の植物的装飾との照応。ジョンソン「Ash Wednesday」の「consecrated stilly place（聖別された静かな場所）」としての墓地の上に「香（incense）」が永続するという逆説的な慰めの神学的構造。",
+      "targetId": "johnson_ash_wednesday",
+      "targetParagraphId": 2
+    }
+  ]
+}
