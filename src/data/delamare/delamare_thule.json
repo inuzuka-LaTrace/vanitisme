@@ -1,0 +1,98 @@
+{
+  "id": "delamare_thule",
+  "title": "Thule",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Thule",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全3連各4行、ABAB韻。「Thule（トゥーレ）」は古代ギリシャ・ローマの地理的想像において世界の最果てに位置する島──ピュテアスの航海記録（紀元前4世紀）に初出し、ウェルギリウス「農耕詩」の「ultima Thule（最果てのトゥーレ）」として西洋文学に流通した。ここでは「Thule」は地理的実在でなく、愛・希望・到達不可能な理想という詩的理念の象徴として機能する。全3連が一つの長い条件節（If…If…）を経て第3連の祈願（cease not…to mock us）へと展開する複雑な構文を持つ。「The Phantom」の「Thee whom I shall never find」・「In Vain」の「Wide open into night」と同様の到達不可能性の主題を、今度は航海・海・地平線という空間的スケールで展開する。ヘルダーリン「Andenken」の海の岸辺での別れ・マラルメ「Brise marine」の出航への渇望・ランボー「Le Bateau ivre」の不可能な航海との詩的系譜に位置する。",
+  "keywords": [
+    "Thule",
+    "ultima Thule",
+    "最果て",
+    "航海",
+    "到達不可能",
+    "Time's salt sea",
+    "horizon",
+    "hope",
+    "beacon",
+    "距離",
+    "渇望"
+  ],
+  "relatedTexts": [
+    "delamare_the_phantom",
+    "delamare_in_vain",
+    "delamare_remembrance",
+    "mallarme_brise_marine",
+    "hoelderlin_andenken",
+    "rimbaud_le_bateau_ivre",
+    "verlaine_calme_orphelin",
+    "dowson_beata_solitudo",
+    "hieronymus_ecclesiastes_1",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "If thou art sweet as they are sad\nWho on the shores of Time's salt sea\nWatch on the dim horizon fade\nShips bearing love to night and thee;",
+      "provisionalTranslation": "汝が甘美であるならば、彼らが悲しいのと同じくらい、\n時の塩の海の岸辺で\n薄暗い地平線に消えゆくのを見守る者たちほどに\n愛を夜と汝のもとへと運ぶ船が；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "If past all beacons Hope hath lit\nIn the dark wanderings of the deep\nThey who unwilling traverse it\nDream not till dawn unseal their sleep;",
+      "provisionalTranslation": "もし深海の暗い彷徨いの中で\n希望が灯したすべての灯台を越えて\n意に反してそれを渡る者たちが\n夜明けが眠りを開封するまで夢も見ないならば；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ah, cease not in thy winds to mock\nUs, who yet wake, but cannot see\nThy distant shores; who at each shock\nOf the waves' onset faint for thee!",
+      "provisionalTranslation": "ああ、汝の風の中で嘲うことをやめないでくれ\n私たちを、まだ目覚めているが、見えない者たちを\n汝の遠い岸辺を；波の打ちつける\nそれぞれの衝撃に、汝ゆえに気を失う者たちを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Who on the shores of Time's salt sea\nWatch on the dim horizon fade\nShips bearing love to night and thee;",
+      "body": "「時の塩の海（Time's salt sea）」──時間を海として比喩化する詩的形象。「Time's salt sea」という所有格複合語が時間の流れを塩辛い・苦い海として感覚化する。「dim horizon（薄暗い地平線）」に消えゆく「Ships bearing love（愛を運ぶ船)」：愛が船として地平線の彼方に消えていくという視覚的形象が、「到達不可能な愛」という詩全体の主題を開口部に定式化する。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」の海への不飽和な流入が、ここでは「愛を運ぶ船が地平線に消える」という逆方向の消滅として変奏される。マラルメ「Brise marine」の「Je partirai！（私は出発する！）」という出航への渇望における海の形象との照応。",
+      "targetId": "mallarme_brise_marine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "If thou art sweet as they are sad\nWho on the shores of Time's salt sea",
+      "body": "詩全体が第1・2連を占める長大な条件節（If…If…）と第3連の帰結節（Ah, cease not…）という一文で構成される複文構造。iambic tetrameter を基調とするABAB韻。第1連の「sad / fade」（A韻）・「sea / thee」（B韻）が詩の主題的語彙──悲しみ・消滅・海・「汝」──を音響的に結合させる。「If thou art sweet as they are sad」という比較構文が「汝の甘美さ」を「彼らの悲しさ」の等価物として定義する逆説的開口：目的地の甘美さが旅人の悲しさと等量関係にある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "If past all beacons Hope hath lit\nIn the dark wanderings of the deep\nThey who unwilling traverse it\nDream not till dawn unseal their sleep;",
+      "body": "「希望が灯したすべての灯台を越えて（past all beacons Hope hath lit）」──希望（Hope）が擬人化されて海上の灯台を灯す行為者として提示される。「past all beacons」という句が到達可能な範囲を超えた──すべての指標・導きの光を越えた──領域としての「Thule」を定義する。「unwilling traverse it（意に反してそれを渡る）」：航海が積極的欲求でなく強制・宿命として経験される点が重要。コヘレト第1章v.13「Hanc occupationem pessimam dedit Deus filiis hominum（神は人の子らにこの最も過酷な営みを与えた）」という神が課す宿命的試練との照応。「Dream not till dawn unseal their sleep（夜明けが眠りを開封するまで夢も見ない）」：「unseal（開封する）」という動詞が夜明けを封印された眠りを解く文書的行為として提示する──デ・ラ・メアの独創的比喩語法。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ah, cease not in thy winds to mock\nUs, who yet wake, but cannot see\nThy distant shores;",
+      "body": "第3連で条件節（If…If…）が帰結節「Ah, cease not…to mock（嘲うことをやめないでくれ）」へと転じる。「cease not to mock（嘲うことをやめないでくれ）」という二重否定の命令が逆説的祈願として機能する：「嘲うのをやめろ」でなく「嘲うのをやめないでくれ」──Thuleの嘲りそのものが詩人たちを生かし続ける渇望の源泉であることの告白。「who yet wake, but cannot see（まだ目覚めているが、見えない）」：「The Glimpse」での「I / Seem to see old-time deeps（往時の深みを見るように思う）」という曖昧な視覚と対照的に、ここでは「見えない（cannot see）」という明確な不視が宣言される。「The Phantom」の「Thee whom I shall never find（私が決して見出すことのない汝）」との直接的照応。",
+      "targetId": "delamare_the_phantom",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "who at each shock\nOf the waves' onset faint for thee!",
+      "body": "「波の打ちつけるそれぞれの衝撃に、汝ゆえに気を失う（faint for thee）」──詩の結語。「faint（気を失う・かすかになる）」という動詞が身体的失神と光の減衰の二義を持つ：波に打ちつけられるたびに気を失う身体的消耗と、「Thule」を前にしてかすかになる意識の二重性。詩全体の「If…If…cease not」という構文が未解決のまま「faint for thee!」で終わることで、詩は帰結を完成させずに開いたまま閉じる。ヘルダーリン「Andenken」の「Es nehmet aber / Und gibt Gedächtnis die See（しかし海は記憶を奪い、また与える）」という海と記憶の授受の詩的論理と照応する。ダウスン「Beata Solitudo」の「Ah God! the loneliness!」という渇望の孤独と同型の閉じ方として読める。",
+      "targetId": "hoelderlin_andenken",
+      "targetParagraphId": null
+    }
+  ]
+}
