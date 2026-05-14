@@ -1,0 +1,122 @@
+{
+  "id": "delamare_ophelia",
+  "title": "Ophelia",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Ophelia",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。シェイクスピア『ハムレット』のオフィーリアを主題とする無韻詩（blank verse 的自由詩）23行。「Polonius」「Hamlet」という詩に隣接する「Shakespeare」三連作の中核。デ・ラ・メアのオフィーリアは原典の悲劇的溺死の女性でなく、「愛の狂気によって天上へと純化された（purified to heaven）」生ける聖性として提示される。「空色の花（azure flower）」として歩むオフィーリアの美が「もはや泣くことを超えた（past all weeping）」という第三連の命題で神秘化される一方、「心の竪琴の切れた弦（her heart's lute hath a broken string）」という詩人論的形象が本詩の最も独創的な貢献。第三段落の「アイビー・ローズマリー・パンジー」という花の象徴は原典ハムレット第4幕第5場のオフィーリアの花配り場面を継承しつつ、「語ることができるなら、この大地は非現実のものに留まるだろうか（if utterable, would this earth / Remain the base, unreal thing it is?）」という沈黙の認識論的命題へと昇華される。「Silence」の「rarer speech」・「Precept of Silence」のジョンソン的沈黙の詩学と直接対話する作品。最終行「Better the glassy horror of the stream（川の玻璃のような恐怖の方がよい）」が溺死への帰還を「恐怖」として直視しながらも「better（よい）」として肯定する逆説的結語。ブローク「Песня Офелии（オフィーリアの歌）」・ランボー「Ophélie」との比較において、デ・ラ・メアのオフィーリアは最も静謐・内省的な変奏として位置づけられる。",
+  "keywords": [
+    "Ophelia",
+    "Shakespeare",
+    "azure flower",
+    "broken string",
+    "rosemary",
+    "pansies",
+    "glassy horror",
+    "stream",
+    "狂気",
+    "純化",
+    "沈黙の認識論"
+  ],
+  "relatedTexts": [
+    "delamare_silence",
+    "delamare_even_in_the_grave",
+    "delamare_the_phantom",
+    "blok_pesnya_ofelii",
+    "rimbaud_ophelie",
+    "blok_ofeliya_v_tsvetakh",
+    "johnson_precept_of_silence",
+    "mallarme_apparition",
+    "rossetti_remember",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "There runs a crisscross pattern of small leaves\nEspalier, in a fading summer air,\nAnd there Ophelia walks, an azure flower,\nWhom wind, and snowflakes, and the sudden rain\nOf love's wild skies have purified to heaven.",
+      "provisionalTranslation": "小さな葉の交差する模様が走る\n壁面仕立ての、褪せゆく夏の空気の中に、\nそしてそこにオフィーリアが歩く、空色の花として、\n風と、雪片と、突然の雨が\n愛の荒れた空から天上へと純化した者。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–12",
+      "original": "There is a beauty past all weeping now\nIn that sweet, crooked mouth, that vacant smile;\nOnly a lonely grey in those mad eyes,\nWhich never on earth shall learn their loneliness.\nAnd when amid startled birds she sings lament,\nMocking in hope the long voice of the stream,\nIt seems her heart's lute hath a broken string.",
+      "provisionalTranslation": "もはや泣くことをすべて超えた美がある\nその甘い、歪んだ口に、その虚ろな微笑みに；\nただひとつの孤独な灰色だけがあの狂った眼に、\n大地においては決してその孤独を知ることのない眼に。\nそして驚いた鳥たちの中で彼女が哀歌を歌うとき、\n希望をもって川の長い声を模倣しながら、\n彼女の心の竪琴には切れた弦があるように思える。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–17",
+      "original": "Ivy she hath, that to old ruin clings;\nAnd rosemary, that sees remembrance fade;\nAnd pansies, deeper than the gloom of dreams;\nBut ah! if utterable, would this earth\nRemain the base, unreal thing it is?",
+      "provisionalTranslation": "彼女は古い廃墟にしがみつく蔦を持っている；\nそして記憶が褪せるのを見るローズマリーを；\nそして夢の暗闇より深いパンジーを；\nしかしああ！もし語ることができるなら、この大地は\n今あるような卑しく非現実のものに留まるだろうか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.18–23",
+      "original": "Better be out of sight of peering eyes;\nOut — out of hearing of all-useless words,\nSpoken of tedious tongues in heedless ears.\nAnd lest, at last, the world should learn heart-secrets;\nLest that sweet wolf from some dim thicket steal;\nBetter the glassy horror of the stream.",
+      "provisionalTranslation": "覗き見る眼の視界から外れる方がよい；\n外へ──すべての無益な言葉の聴取から外へ、\n退屈な舌から不注意な耳に語られる言葉の。\nそして最後には世界が心の秘密を知るといけないから；\n薄暗い茂みから甘い狼が忍び出るといけないから；\n川の玻璃のような恐怖の方がよい。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "And there Ophelia walks, an azure flower,\nWhom wind, and snowflakes, and the sudden rain\nOf love's wild skies have purified to heaven.",
+      "body": "「空色の花（azure flower）」としてのオフィーリア──狂気によって天上へと純化された存在という定義。「purified to heaven（天上へと純化された）」：ジョンソン「Flos Florum」の「White with the glory of all graces（すべての恩寵の栄光をもって白く）」という聖母的純化の構造と照応する。しかしジョンソンの純化が信仰的修練によるのに対し、デ・ラ・メアの純化は「wind, snowflakes, sudden rain / Of love's wild skies（愛の荒れた空の風・雪片・突然の雨）」という感情的・自然的苦難によるものとして提示される。「Espalier（壁面仕立て）」：果樹を壁に沿って平面的に育てる園芸技法──オフィーリアが宮廷という「壁」に沿って成長・拘束されてきた生の比喩として機能する。ランボー「Ophélie」の「Sur l'onde calme et noire（静かな黒い水の上）」という水面上の漂流と異なり、デ・ラ・メアのオフィーリアはまだ「歩いている（walks）」。",
+      "targetId": "rimbaud_ophelie",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "There is a beauty past all weeping now\nIn that sweet, crooked mouth, that vacant smile;\nOnly a lonely grey in those mad eyes,\nWhich never on earth shall learn their loneliness.",
+      "body": "「もはや泣くことを超えた美（beauty past all weeping）」──狂気が悲嘆の能力を超えた状態として提示される：涙を流すことさえできない状態が「美」として定義される逆説。「crooked mouth（歪んだ口）」「vacant smile（虚ろな微笑み）」「mad eyes（狂った眼）」という三つの顔の部位の描写が狂気の解剖学として機能する。「Which never on earth shall learn their loneliness（大地においては決してその孤独を知ることのない眼）」：オフィーリアの眼が「孤独（loneliness）」を認知する能力を失っているという逆説──「Remembrance」の「Of all most dead to me（すべての中で最も死んでいる者）」という意識の最終的消滅と照応する。ブローク「オフィーリアの歌」の狂気の中の純粋性という主題との直接的照応。",
+      "targetId": "blok_pesnya_ofelii",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "It seems her heart's lute hath a broken string.",
+      "body": "「彼女の心の竪琴には切れた弦がある（her heart's lute hath a broken string）」──詩中最も独創的な形象。心（heart）を竪琴（lute）として比喩化し、狂気を「切れた弦（broken string）」として音楽的に定義する。「De Profundis」のジョンソン的「broken music（壊れた音楽）」との直接的照応：ジョンソンの「broken music」が詩人自身の霊的不完全性として内省的に提示されるのに対し、デ・ラ・メアの「broken string」はオフィーリアの外から観察される狂気の音楽的形象として客観化される。「Silence」の「grace-notes（装飾音）」・「The Glimpse」の「Pale, changeless, everlasting Dian」の音楽的比喩と連続するデ・ラ・メアの音楽語彙の中核的形象。",
+      "targetId": "johnson_de_profundis",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ivy she hath, that to old ruin clings;\nAnd rosemary, that sees remembrance fade;\nAnd pansies, deeper than the gloom of dreams;",
+      "body": "シェイクスピア『ハムレット』第4幕第5場のオフィーリアの花配り場面の詩的変奏。原典では「ローズマリー──記憶のために」「パンジー──思いのために」「ヘンルーダ──後悔のために」等が分配される。デ・ラ・メアの三花：「蔦（Ivy）──古い廃墟にしがみつく」：廃墟への執着・過去への固執。「ローズマリー（rosemary）──記憶が褪せるのを見る」：原典「記憶のためのローズマリー」が「褪せる記憶を見守る」という悲哀的変奏へ。「パンジー（pansies）──夢の暗闇より深い」：原典「思い（pansées）のためのパンジー」がフランス語語源（penser=考える）を保ちながら「夢の暗闇より深い」という深淵的変奏へ。「Remembrance」の「the memory of one, / Of all most dead to me」という記憶の主題との連続。",
+      "targetId": "delamare_remembrance",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "But ah! if utterable, would this earth\nRemain the base, unreal thing it is?",
+      "body": "「もし語ることができるなら、この大地は非現実のものに留まるだろうか？」──詩中最も哲学的な命題。「語ることができるなら（if utterable）」：語ることの不可能性（unutterability）が世界の非現実性（unreality）を維持しているという認識論的逆説。ジョンソン「Precept of Silence」の「I have not spoken of these things（私はこれらのことを語らなかった）」という沈黙の選択が、ここでは「語れないからこそ大地は非現実に留まる」という逆説的命題として展開される。「Silence」の「rarer speech（より稀なる言葉）」という沈黙の充満としての言語と照応する：デ・ラ・メアにとって「語れないもの」の領域が最も現実的であり、「語れるもの」は非現実を暴露する。ヴェイユ「Decreation」の「言語以前の経験」という沈黙の神学との照応。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Better be out of sight of peering eyes;\nOut — out of hearing of all-useless words,\nSpoken of tedious tongues in heedless ears.",
+      "body": "「覗き見る眼（peering eyes）」「無益な言葉（all-useless words）」「退屈な舌（tedious tongues）」「不注意な耳（heedless ears）」──視覚・聴覚・発語・受語という四つの感覚的・言語的器官の否定的定義が連続する。「Out — out of hearing（外へ──聴取の外へ）」：ダッシュによる「Out」の強調的反復がシェイクスピア的語法（リア王「Out, out! 」）を引用しながら、狂気者の「外（out）」への希求として機能する。「all-useless words（すべての無益な言葉）」：コヘレト第5章v.1–2「守れ汝の足……言葉は少なくあれ」という言語的節制の命題との照応。「Silence」の「veiling silentness」へと戻る動線──世界の言語的喧騒から沈黙へと帰還する運動。",
+      "targetId": "delamare_silence",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "And lest, at last, the world should learn heart-secrets;\nLest that sweet wolf from some dim thicket steal;\nBetter the glassy horror of the stream.",
+      "body": "詩の結語。「心の秘密（heart-secrets）」：「Even in the Grave」の「inventory（目録）」として死に差し出された人生の傷・秘密が、ここでは世界に知られることへの恐怖として反転される。「sweet wolf（甘い狼）」：「sweet（甘い）」と「wolf（狼）」の矛盾的結合が詩中最も不穏な形象。愛の危険性・あるいは世界（社会）の偽善的甘さの下の捕食者的性質を示唆する。「glassy horror of the stream（川の玻璃のような恐怖）」：溺死という死が「glassy（玻璃のような）」という審美的形容詞と「horror（恐怖）」という否定的語彙の結合として定義される。「Shadow」の「And take its strange dream home（その奇妙な夢を家に連れ去る暗闇）」という死的消滅への帰還と同型の、詩的「よい死」としての溺死──「better（の方がよい）」という比較が恐怖を選択として肯定する逆説的結語。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 1
+    }
+  ]
+}
