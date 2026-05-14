@@ -1,0 +1,118 @@
+{
+  "id": "delamare_hamlet",
+  "title": "Hamlet",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Hamlet",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。「Ophelia」に隣接するシェイクスピア連作の一篇。全20行の無韻自由詩。夜の杉の木陰に座して夢想するハムレットの静的な肖像詩として展開する。「Ophelia」が花と流れる水の中を歩む動的な像として描かれるのに対し、「Hamlet」は徹底的な静止（He sat…He sat so still）の中に置かれる。第1段落：杉の木の交響的な呟き・夢に伴われた眼・子供が操り人形を見るような世界への視線。第2段落：暗闇が震える星を産み落とし、遠い瀑布の轟音が夜を満たす。第3段落：完全な静止の中で思念がアリエルのように飛翔し、やがて夜の影響力のもとに沈む──「Time's dark waters in unearthly trouble（時の暗い水の中の地上を超えた苦悩）」という詩の哲学的核心。第4段落：轟音が増し、雲の塔が空を占領するとともに、ハムレットが立ち上がる──その顔は「悲嘆が何度も何度も書き付けた羊皮紙（a parchment of old age / Sorrow hath scribbled o'er, and o'er, and o'er）」として詩を閉じる。ブローク「Я Гамлет（我はハムレット）」・ツヴェターエワ「Диалог Гамлета с совестью（ハムレットと良心の対話）」との比較において、デ・ラ・メアのハムレットは思念の飛翔と沈降という内的運動に特化した最も静謐な変奏として位置づけられる。",
+  "keywords": [
+    "Hamlet",
+    "Shakespeare",
+    "stillness",
+    "dream",
+    "Ariel",
+    "Time's dark waters",
+    "sorrow",
+    "parchment",
+    "星",
+    "瀑布",
+    "思念の飛翔"
+  ],
+  "relatedTexts": [
+    "delamare_ophelia",
+    "delamare_silence",
+    "delamare_the_glimpse",
+    "blok_ya_gamlet",
+    "tsvetaeva_dialog_gamleta",
+    "johnson_magic",
+    "mallarme_hamlet",
+    "hieronymus_ecclesiastes_1",
+    "weil_pesanteur_beaute",
+    "hofmannsthal_erlebnis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Umbrageous cedars murmuring symphonies\nStouprd in lale twilight o'er dark Denmark's Prince:\nHe sat, his eyes companioned with dream —\nLustrous large eyes that held the world in view\nAs some entranced child's a puppet show.",
+      "provisionalTranslation": "影を作る杉の木々が交響楽を呟きながら\n暗きデンマークの王子の上に薄暮の中でかがみ込んでいた：\n彼は座っていた、夢に伴われた眼をもって──\n世界を視野に収める輝く大きな眼、\n恍惚とした子供が操り人形劇を見るように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–8",
+      "original": "Darkness gave birth to the all-trembling stars,\nAnd a far roar of long-drawn cataracts,\nFlooding immeasurable night with sound.",
+      "provisionalTranslation": "暗闇はすべてを震わせる星々を産み落とし、\n遠く引き伸ばされた瀑布の遠い轟音が\n測り知れない夜を音で満たした。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–16",
+      "original": "He sat so still, his very thoughts took wing,\nAnd, lightest Ariels, the stillness haunted\nWith midge-like measures; but, at last, even they\nSank 'neath the influences of his night.\nThe sweet dust shed faint perfume in the gloom;\nThrough all wild space the stars' bright arrows fell\nOn the lone Prince — the troubled son of man —\nOn Time's dark waters in unearthly trouble:",
+      "provisionalTranslation": "彼はあまりにも静かに座っていたので、思念そのものが翼を持ち、\n最も軽いアリエルたちとして、静寂に取り憑き\n蚊のような歩みをもって；しかし、ついに、彼らでさえも\n彼の夜の影響力のもとへと沈んでいった。\n甘い塵が暗闇の中でかすかな香りを放っていた；\nすべての荒れた空間を通じて星々の明るい矢が降り注いだ\n孤独な王子の上に──苦悩する人の子の上に──\n地上を超えた苦悩の中の時の暗い水の上に："
+    },
+    {
+      "id": 4,
+      "verses": "v.17–20",
+      "original": "Then, as the roar increased, and one fair tower\nOf cloud took sky and stars with majesty,\nHe rose, his face a parchment of old age,\nSorrow hath scribbled o'er, and o'er, and o'er.",
+      "provisionalTranslation": "そして、轟音が増すにつれ、雲のひとつの美しい塔が\n威厳をもって空と星々を占領すると、\n彼は立ち上がった、その顔は老齢の羊皮紙、\n悲嘆が何度も、何度も、何度も書き付けた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Umbrageous cedars murmuring symphonies\nStouprd in lale twilight o'er dark Denmark's Prince:",
+      "body": "「Umbrageous（影を作る・陰鬱な）」という冒頭の形容詞がラテン語「umbra（影）」に由来し、「Shadow」・「The Phantom」と連続するデ・ラ・メアの影の語彙系列に接続する。「murmuring symphonies（交響楽を呟く）」：杉の木の風の音を「symphonies（交響楽）」と定義する擬人化が、「Silence」の「Sweet jargonings（甘い囀り）」・「Ophelia」の「heart's lute（心の竪琴）」と連続する音楽的自然描写の系列を形成する。「Stouprd in lale twilight（薄暮の中でかがみ込んでいた）」：「stooping（かがみ込む）」という動詞がジョンソン「Dark Angel」（stooping, truth maligned）・「Silence」（one who stooping near）・「Ophelia」（Espalier）と連鎖する重要語彙として機能する──ここでは杉の木がハムレットの上にかがみ込む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "He sat, his eyes companioned with dream —\nLustrous large eyes that held the world in view\nAs some entranced child's a puppet show.",
+      "body": "「夢に伴われた眼（eyes companioned with dream）」──「The Glimpse」の「fading dreams / Are in my eyes（消えゆく夢が私の眼の中にある）」という眼と夢の結合の変奏。「held the world in view / As some entranced child's a puppet show（恍惚とした子供が操り人形劇を見るように世界を視野に収める）」：世界全体を操り人形劇として俯瞰する視線の比喩。ブローク「Я Гамлет（我はハムレット）」の「世界劇場」的自意識と照応する。「The Massacre」の「On one who dreamed（夢を見ている者）」という夢想的な視点が、ハムレットという文学的人格に投影される。「entranced child（恍惚とした子供）」：子供の眼という主題はデ・ラ・メア詩学の核心にある──「The Phantom」の「Since a child's heart woke from sleep（子供の心が眠りから目覚めたときから）」との照応。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Darkness gave birth to the all-trembling stars,\nAnd a far roar of long-drawn cataracts,\nFlooding immeasurable night with sound.",
+      "body": "「暗闇が震える星々を産み落とす（Darkness gave birth to the all-trembling stars）」──暗闇の出産という形象が星の誕生を逆説的に定義する：光は暗闇から「産まれる」。「all-trembling（すべてを震わせる）」：星の光の瞬きが「震え（trembling）」として擬人化される──「Remembrance」の「Trembles a rarer speech（より稀なる言葉が震える）」という震えの語彙との連続。「far roar of long-drawn cataracts（遠く引き伸ばされた瀑布の遠い轟音）」：「long-drawn（長く引き伸ばされた）」という複合形容詞が時間的持続を音響として定義する。「Flooding immeasurable night with sound（測り知れない夜を音で満たす）」：第4連「all-encompassing hush（すべてを包む静謐）」という「Silence」の充満と逆の、音による充満として機能する。",
+      "targetId": "delamare_silence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "He sat so still, his very thoughts took wing,\nAnd, lightest Ariels, the stillness haunted\nWith midge-like measures;",
+      "body": "「最も軽いアリエルたち（lightest Ariels）」──シェイクスピア『テンペスト』のアリエル（Ariel）：精霊・空気の存在。ハムレットの思念が複数のアリエルとして静寂に取り憑く（haunt）という形象は、「The Phantom」の「Hauntest on, pursued, unwon（付き纏い続ける、追われ、手に入らないまま）」という付き纏いの語彙と連続する。「midge-like measures（蚊のような歩み）」：「midge（小さな虫・蚊）」という微小な生物への縮小が思念の軽さ・儚さを示す──「The Massacre」の「thirsty wasp（渇いた蜂）」という昆虫的視点と同型の自然的微細さ。「stillness haunted（静寂に取り憑く）」：思念が静寂を「haunting（付き纏う）」という動詞が逆転的──通常は幽霊が場所に取り憑くが、ここでは思念が静寂に取り憑く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "On the lone Prince — the troubled son of man —\nOn Time's dark waters in unearthly trouble:",
+      "body": "「孤独な王子──苦悩する人の子（the lone Prince — the troubled son of man）」──「son of man（人の子）」という聖書的称号がハムレットという文学的人物に重ねられる。「人の子（filius hominis）」はヨブ記・詩篇・エゼキエル書・黙示録における預言的・受難的人物の称号で、キリスト的苦悩者としてのハムレット像を定義する。「Time's dark waters in unearthly trouble（地上を超えた苦悩の中の時の暗い水）」：「Time's dark waters」がコヘレト第1章の「太陽の下の労苦（labor sub sole）」という時間的苦悩の水的変奏として機能する。ブローク「Я Гамлет」・ツヴェターエワ「Диалог Гамлета с совестью」の「ハムレット＝現代的苦悩者」という主題との照応。",
+      "targetId": "blok_ya_gamlet",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Then, as the roar increased, and one fair tower\nOf cloud took sky and stars with majesty,",
+      "body": "「雲のひとつの美しい塔（one fair tower / Of cloud）」が「威厳をもって空と星々を占領する（took sky and stars with majesty）」──第2段落で暗闇が産み落とした星々が、第4段落で雲の塔に覆われる：光の消滅という循環。「fair tower（美しい塔）」：「King Charles」のジョンソン的「Armoured he rides」という孤高の垂直的形象と照応しながら、デ・ラ・メアでは雲という自然物が「塔」として擬人的な威厳を持つ。「roar increased（轟音が増す）」：第2段落の「far roar」が近づき増大するという時間的進行が、ハムレットの立ち上がりの触媒として機能する──外的世界の音的変化が内的沈思を終わらせる。",
+      "targetId": "johnson_king_charles",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "his face a parchment of old age,\nSorrow hath scribbled o'er, and o'er, and o'er.",
+      "body": "「顔は老齢の羊皮紙、悲嘆が何度も何度も書き付けた（a parchment of old age / Sorrow hath scribbled o'er, and o'er, and o'er）」──詩の最も独創的な結語形象。顔を「羊皮紙（parchment）」として比喩化し、悲嘆（Sorrow）を書き手として擬人化する。「scribbled o'er（書き付けた）」：「scribble（走り書きする）」という動詞の粗雑さが悲嘆の暴力的・反復的な性質を示す。「o'er, and o'er, and o'er」という三重反復が詩全体の結語として機能し、「The Phantom」の「Hauntest on, / Hauntest on」・「Even in the Grave」の「All, all, he read」という反復的強調と連続する。「Even in the Grave」で「目録」として死に差し出された傷の記録が、ここでは顔という羊皮紙に悲嘆が書き付けた文書として外面化される。マラルメ「Hamlet」散文の「ハムレットとは誰か」という問いへの詩的回答として、デ・ラ・メアは「悲嘆に書き付けられた顔」という視覚的定義を提示する。",
+      "targetId": "mallarme_hamlet",
+      "targetParagraphId": null
+    }
+  ]
+}
