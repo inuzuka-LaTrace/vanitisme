@@ -1,0 +1,105 @@
+{
+  "id": "delamare_when_the_rose_is_faded",
+  "title": "When the Rose is Faded",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/When_the_Rose_is_Faded",
+  "year": "1914",
+  "firstPublication": "The Listeners (1914); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全4連各4行、変則韻（ABCB類似）。「薔薇が褪せたとき（When the Rose is Faded）」という条件節が詩全体の前提として機能する──薔薇の美・香りという感覚的現実が消滅した後に何が残るかという問いへの応答として詩が展開される。第1連で薔薇の褪色後も「記憶（Memory）」が「影となった美（beauty shadowed）」と「失われた甘い香り（sweet smell gone）」に留まり続けることを示す。第2連でその「消えゆく愛しさ（vanishing loveliness）」は生の絆にも死の悲嘆にも属さない超個人的な次元として規定される。第3連で「不滅の思念（immortal thought）」の情熱が「変わるものを変わらないものへと変容させる（Makes of the changing / The unchangeable）」という詩学的命題が提示される。第4連で「汝（Thee）」という愛する存在の美が「悲しみなき暗さ（Dark with no sorrow）」をもって輝き・燃えるという逆説的結語で閉じる。「Shadow」の薔薇・「Remembrance」の記憶・「Even in the Grave」の「汝自身」という主題系列の最も純粋な収斂点。",
+  "keywords": [
+    "rose",
+    "memory",
+    "fading",
+    "immortal thought",
+    "unchangeable",
+    "beauty",
+    "vanishing",
+    "薔薇",
+    "記憶",
+    "不滅"
+  ],
+  "relatedTexts": [
+    "delamare_shadow",
+    "delamare_remembrance",
+    "delamare_even_in_the_grave",
+    "delamare_the_phantom",
+    "rodenbach_loubli",
+    "mallarme_apparition",
+    "rossetti_remember",
+    "hieronymus_ecclesiastes_1",
+    "weil_pesanteur_beaute",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "When the rose is faded,\nMemory may still dwell on\nHer beauty shadowed,\nAnd the sweet smell gone.",
+      "provisionalTranslation": "薔薇が褪せたとき、\n記憶はなお留まり続けることができる\nその影となった美に、\nそして失われた甘い香りに。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "That vanishing loveliness,\nThat burdening breath\nNo bond of life hath then\nNor grief of death.",
+      "provisionalTranslation": "その消えゆく愛しさ、\nその重さを持つ息は\nそのとき生の絆を持たない\n死の悲嘆をも。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "'Tis the immortal thought\nWhose passion still\nMakes of the changing\nThe unchangeable.",
+      "provisionalTranslation": "それは不滅の思念だ\nその情熱がなお\n変わるものを\n変わらないものへと変える。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Oh, thus thy beauty,\nLoveliest on earth to me,\nDark with no sorrow, shines\nAnd burns, with Thee.",
+      "provisionalTranslation": "ああ、かくして汝の美は、\n私にとって地上で最も愛しきものよ、\n悲しみなき暗さをもって輝き\nそして燃える、汝とともに。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "When the rose is faded,\nMemory may still dwell on\nHer beauty shadowed,\nAnd the sweet smell gone.",
+      "body": "「薔薇が褪せたとき（When the rose is faded）」──「Shadow」の「Even the beauty of the rose doth cast / A still and lengthening shadow」という薔薇の影の主題が、本詩では「褪せた後に記憶が留まる」という時間的後続の局面として展開される。「Memory may still dwell on（記憶はなお留まり続けることができる）」：「dwell on（留まり続ける・執着する）」という動詞が記憶の能動的持続として機能する──「Remembrance」の「the memory of one, / Of all most dead to me」という死者の記憶の受動的残余と対照的に、ここでの記憶は意志的持続として提示される。「Her beauty shadowed（影となった美）」：薔薇の消えた美が「shadow（影）」として残るという形象が「Shadow」のテーマの直接的変奏。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "That vanishing loveliness,\nThat burdening breath\nNo bond of life hath then\nNor grief of death.",
+      "body": "「消えゆく愛しさ（vanishing loveliness）」「重さを持つ息（burdening breath）」──二つの「That」による指示的反復が第1連の薔薇の残像を受け継ぐ。「No bond of life…Nor grief of death（生の絆も…死の悲嘆も持たない）」：この「消えゆく愛しさ」が生と死のどちらの領域にも属さない超越的な中間状態として定義される。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消滅命題と逆の方向：デ・ラ・メアの「消えゆく愛しさ」は生にも死にも属さない第三の不滅の次元として保存される。「Even in the Grave」の「Even in the grave thou wilt have thyself」という自己の不消滅と同型の、美の不消滅の命題として読める。",
+      "targetId": "delamare_even_in_the_grave",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "'Tis the immortal thought\nWhose passion still\nMakes of the changing\nThe unchangeable.",
+      "body": "詩の哲学的核心命題。「不滅の思念（immortal thought）」：「思念（thought）」が「不滅（immortal）」である──ジョンソン「Magic」の「The majesty and dignity / Of everlasting verity（永遠の真理の威厳）」という詩人論的命題のデ・ラ・メア版として読める。「Makes of the changing / The unchangeable（変わるものを変わらないものへと変える）」：「changing / unchangeable」という語根同一の対義語の対置が命題の逆説的構造を音響的に実演する。プラトン的イデア論における「変化する現象界（薔薇の美）」と「不変のイデア（美のイデア）」の詩的変奏として機能する。「思念（thought）」が「変化するもの」を「変わらないもの」へと変容させるという認識論的能動性が、詩人論的命題として提示される。",
+      "targetId": "johnson_magic",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Oh, thus thy beauty,\nLoveliest on earth to me,\nDark with no sorrow, shines\nAnd burns, with Thee.",
+      "body": "結語連。「汝の美（thy beauty）」──詩全体の「薔薇の美」が最終連で「汝（Thee）」という人格的存在の美へと同定される転換：薔薇は「汝」の美の比喩だったことが明かされる。「Dark with no sorrow（悲しみなき暗さをもって）」──「Remembrance」の「Dark, forlorn（暗く、荒涼として）」という暗さと対照的に、ここでの「Dark」は「no sorrow（悲しみなき）」という否定によって純化された暗さとして提示される。「shines / And burns（輝き・燃える）」：二動詞の並置が光的（shines）と熱的（burns）という双方向の強度として「汝の美」の永続的顕現を示す。「The Glimpse」の「Life's ecstasy（生の法悦）」・「Magic」の「Angels of Eternity（永遠の天使たち）」という超越的顕現の系列の最も個人的・抒情的な到達点として本詩が位置づけられる。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Dark with no sorrow, shines\nAnd burns, with Thee.",
+      "body": "「Thee」の大文字化──詩の全体を通じて単数の「Her（薔薇）」として語られてきた対象が、最終行で大文字の「Thee」として宗教的含意を帯びた人格へと昇格する。カトリック的伝統において大文字の「Thee」は神・キリスト・聖母を指す慣習的用法であり、ジョンソン「Flos Florum」の「Lily, O Lily of the Vallies!」・「Te Martyrum Candidatus」の「for ever He!」という宗教的頂点への到達と同型の詩的身振り。デ・ラ・メアのコーパスにおいて「Thee」の大文字化は本詩が初めて──「The Phantom」の「Beauteous one」・「In Vain」の「thee」という小文字の「汝」が最終詩「When the Rose is Faded」で「Thee」へと昇格する詩的成長として読める。ヴェイユ「Pesanteur et beauté」の「美は実体のないものへの引力」という命題が、「Dark with no sorrow, shines / And burns, with Thee」という感覚的・霊的二重性として実現される。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    }
+  ]
+}
