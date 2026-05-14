@@ -1,0 +1,106 @@
+{
+  "id": "delamare_nocturne",
+  "title": "Nocturne",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Nocturne",
+  "year": "1919",
+  "firstPublication": "Motley (1919); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『Motley』（1919年）所収。全3連各6行、変則韻。「夜想曲（Nocturne）」という音楽的標題が示す通り、夜の闇・鳥の声・月・星という夜的要素が愛の呼びかけの媒体として機能する。第1連：「今語るのは私の声でなく、闇の森で甘い喉を掘る鳥（a bird hollows a sweet throat）」──詩人の声が鳥の声へと変容し、遠い谺が反響するまで訴え続けるという構造。「謎に包まれて生きる愛（love that shrouded dwells in mystery）」が眠れる「汝」を呼び覚ます。第2連：「孤独なる者よ（Thou Solitary）」への呼びかけ──「夜全体が汝を待つのに、汝はなお夢を見続ける」という眠れる「汝」の覚醒への促し。「月の輝く足音を欺く影（cheat the shining footsteps of the moon）」という月光の擬人化。第3連：「天上の曖昧さに迷い込んで（Lost in heaven's vague）」・「世界の暗い格子細工（dark latticings）」の中を囚われたまま彷徨う「我々（we）」・「沈黙から言葉へ、愛から自己の自己へ（from love / To that self's self it still is dreaming of）」という詩の最も難解な結語。「The Exile」と隣接する詩であり、「孤独・囚われた魂・夢の中で夢見られる自己」というモチーフの集約点。",
+  "keywords": [
+    "nocturne",
+    "夜想曲",
+    "bird",
+    "echo",
+    "mystery",
+    "solitary",
+    "moon",
+    "labyrinth",
+    "seraphs",
+    "silence",
+    "self's self"
+  ],
+  "relatedTexts": [
+    "delamare_the_exile",
+    "delamare_silence",
+    "delamare_the_glimpse",
+    "delamare_the_phantom",
+    "verlaine_clair_de_lune",
+    "verlaine_calme_orphelin",
+    "mallarme_soupir",
+    "johnson_precept_of_silence",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "'Tis not my voice now speaks; but a bird\nIn darkling forest hollows a sweet throat —\nPleads on till distant echo too hath heard\nAnd doubles every note:\nSo love that shrouded dwells in mystery\nWould cry and waken thee.",
+      "provisionalTranslation": "今語るのは私の声でなく；しかし鳥が\n暗くなる森で甘い喉を掘る──\n遠い谺もまた聞くまで訴え続け\nすべての音符を倍にする：\nかくして謎の中に覆われて宿る愛が\n汝に向かって泣き、汝を目覚めさせようとする。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Thou Solitary, stir in thy still sleep;\nAll the night waits thee, yet thou still dream'st on.\nFurtive the shadows that about thee creep,\nAnd cheat the shining footsteps of the moon:\nUnseal thine eyes, it is my heart that sings,\nAnd beats in vain its wings.",
+      "provisionalTranslation": "孤独なる者よ、汝の静かな眠りの中で動け；\n夜全体が汝を待つ、しかし汝はなお夢を見続ける。\n汝の周りを忍び寄る影は狡猾で、\n月の輝く足音を欺く：\n汝の目を開け、歌っているのは私の心だ、\nそしてその翼を空しく羽ばたかせながら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Lost in heaven's vague, the stars burn softly through\nThe world's dark latticings, we prisoned stray\nWithin its lovely labyrinth, and know\nMute seraphs guard the way\nEven from silence unto speech, from love\nTo that self's self it still is dreaming of.",
+      "provisionalTranslation": "天上の曖昧さに迷い込んで、星々が静かに燃えながら通り抜ける\n世界の暗い格子細工を；囚われた我々は彷徨う\nその美しい迷宮の中を、そして知る\n沈黙のセラフィムが道を守ることを\n沈黙から言葉へと向かう道でさえ、愛から\nそれがなお夢見続ける自己の自己へと向かう道でさえ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "'Tis not my voice now speaks; but a bird\nIn darkling forest hollows a sweet throat —",
+      "body": "「今語るのは私の声でなく、鳥が喉を掘る（a bird hollows a sweet throat）」──詩的声の自己否定として開く。「hollows a sweet throat（甘い喉を掘る）」という「hollow（掘る・くりぬく）」動詞の使用が独創的：鳥の歌声が喉という器官を内側から掘り出す行為として描写される。「Remembrance」の「hollow sky（虚ろな空）」・「The Dark Château」の「hollow stone（虚ろな石）」と連続する「hollow」の語彙系列が、ここでは鳥の発声という生命的行為に適用される。「Silence」の「Sweet jargonings（甘い囀り）」・「Hamlet」の「murmuring symphonies（呟く交響楽）」という音楽的自然描写の系列に接続しながら、本詩では鳥の声が詩人自身の愛の代理として明示的に機能する点が異なる。",
+      "targetId": "delamare_silence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "So love that shrouded dwells in mystery\nWould cry and waken thee.",
+      "body": "「謎の中に覆われて宿る愛（love that shrouded dwells in mystery）」──「The Glimpse」の不在の「汝」への渇望・「In Vain」の繰り返される訪問・「The Phantom」の「Beauteous one」への呼びかけという「目覚めない・到達できない汝」という詩的主題系列の変奏。「shrouded（覆われた）」：屍衣的な覆いという含意が愛に死的な包被を与える。「would cry and waken thee（汝を目覚めさせようとする）」：条件法が覚醒への渇望の未達成性を示す──ヴェルレーヌ「Clair de lune」の月光の中で夢を見る魂と、現実への覚醒の間の境界の詩的照応。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Thou Solitary, stir in thy still sleep;\nAll the night waits thee, yet thou still dream'st on.",
+      "body": "「孤独なる者よ（Thou Solitary）」──大文字化された呼格が「汝」を固有名なき普遍的孤独者として定義する。「Solitary」という語はジョンソン「Precept of Silence」の「solitary griefs（孤独な悲嘆）」・「Magic」の「laborious loneliness（労苦ある孤独）」と語根を共有する──しかしジョンソンの孤独が詩人の能動的選択であるのに対し、デ・ラ・メアの「Thou Solitary」は眠りの中で目覚めることを促される受動的存在として提示される。「All the night waits thee（夜全体が汝を待つ）」：「The Phantom」の「Beauteous one」が来ないことを嘆く詩人とは逆に、ここでは「夜」が「汝」を待つという逆の待機構造。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Furtive the shadows that about thee creep,\nAnd cheat the shining footsteps of the moon:\nUnseal thine eyes, it is my heart that sings,\nAnd beats in vain its wings.",
+      "body": "第2連の韻律：「sleep / creep」（A韻）・「on / moon」（B韻）・「sings / wings」（C韻）という変則的ABABCC構造。「月の輝く足音（shining footsteps of the moon）」──月光を「足音（footsteps）」として聴覚化する共感覚的擬人化。「The Dark Château」の「Lone in a sunless sky（日のない空に孤独に）」という月のない天空と対置的に、ここでは月が「輝く足音」として能動的に歩む。「Unseal thine eyes（汝の目を開け）」：「The Dark Château」の「Would that my sleep-bright eyes could win / To the inner gloom（眠りに輝く私の眼が内なる暗闇へと到達できれば）」という「目を開く」渇望と同型の覚醒の命令。「beats in vain its wings（空しく翼を羽ばたかせる）」：「The Exile」の「broken wings（折れた翼）」・ジョンソン「De Profundis」の「White Angels」の翼との照応。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Lost in heaven's vague, the stars burn softly through\nThe world's dark latticings, we prisoned stray\nWithin its lovely labyrinth, and know\nMute seraphs guard the way",
+      "body": "「世界の暗い格子細工（world's dark latticings）」──「latticings」という複数形が世界を格子状の牢獄として視覚化する。「囚われた（prisoned）」という分詞が「我々（we）」に適用されることで、詩人と「汝」の共同的閉囚が宣言される。「lovely labyrinth（美しい迷宮）」：「美しい（lovely）」と「迷宮（labyrinth）」の矛盾的結合が世界の魅惑的・閉塞的二面性を定義する──「The Dark Château」の「inner gloom（内なる暗闇）」・「The Exile」の「A world where sin, and beauty, whisper of Home（罪と美が故郷を囁く世界）」という美と閉塞の共存と連続する。「Mute seraphs（沈黙のセラフィムたち）」：「Te Martyrum Candidatus」のジョンソン的白い天使が「沈黙（Mute）」として返照される──騒々しくなく、しかし「道を守る（guard the way）」存在として。",
+      "targetId": "delamare_the_exile",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Even from silence unto speech, from love\nTo that self's self it still is dreaming of.",
+      "body": "詩の結語。「沈黙から言葉へ（from silence unto speech）」──「Silence」の「rarer speech（より稀なる言葉）」という沈黙の充満としての言語と逆の方向：ここでは「沈黙」から「言葉」へという移行が「Mute seraphs（沈黙のセラフィムたち）」によって守られた道として定義される。「from love / To that self's self it still is dreaming of（愛から、それがなお夢見続ける自己の自己へ）」──詩中最も難解な結語。「self's self（自己の自己）」：自己の最も深い核心・自己を超えた自己として読める。「Even in the Grave」の「thou wilt have thyself（汝は汝自身を持つだろう）」という死においても消えない「thyself」が、ここでは「self's self」という二重の自己として夢の対象となる。ヴェイユ「Décréation」の「自己を無にすること」と対立しながら、デ・ラ・メアの詩学は自己の消滅でなく「自己の自己」への到達を夢の目標として提示する。",
+      "targetId": "delamare_even_in_the_grave",
+      "targetParagraphId": 2
+    }
+  ]
+}
