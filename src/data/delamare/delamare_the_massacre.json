@@ -1,0 +1,134 @@
+{
+  "id": "delamare_the_massacre",
+  "title": "The Massacre",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Massacre",
+  "year": "1906",
+  "firstPublication": "Poems (1906); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Poems』（1906年）所収。全7連各4行、ABCB韻を基調とする。一人の剣士が「一対千」の戦いに臨み、高慢な敵を殲滅するという英雄的物語として展開するが、最終連「On one who dreamed（夢を見ている者の上に）」という結語により全体が「夢（dream）」の中の出来事であったと明かされる。敵の正体は詩の随所に示唆されている──「purple plumes（紫の羽飾り）」「ichor green and pale（緑と蒼白い血漿）」「shameful slain（恥ずべき死者たち）」という描写が、敵が実際には野の花々（おそらくアザミ・草・雑草）であることを暗示する。光輝く夏の午後の「湖のような陽光（lake of sun）」の中で、子供が草を剣で薙ぎ払う遊戯的行為が壮大な「虐殺」として詩的に変容されている。デ・ラ・メアの「夢と現実の境界」という詩的主題の最も戯謔的・軽妙な変奏。「The Glimpse」・「The Death-Dream」・「The Phantom」のシリアスな夢の詩学が、本詩では夏の昼の夢という子供的スケールの逆説として提示される。",
+  "keywords": [
+    "massacre",
+    "dream",
+    "sword",
+    "purple plumes",
+    "ichor",
+    "silence",
+    "wasp",
+    "夢と現実",
+    "戯謔",
+    "花の擬人化",
+    "子供の遊戯"
+  ],
+  "relatedTexts": [
+    "delamare_the_glimpse",
+    "delamare_the_death_dream",
+    "delamare_the_phantom",
+    "delamare_shadow",
+    "delamare_in_vain",
+    "hieronymus_ecclesiastes_1",
+    "mallarme_apparition",
+    "verlaine_clair_de_lune",
+    "trakl_ein_herbstabend",
+    "gautier_coquetterie_posthume"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "The shadow of a poplar tree\nLay in that lake of sun,\nAs I with my little sword went in —\nAgainst a thousand, one.",
+      "provisionalTranslation": "ポプラの木の影が\n陽光の湖の中に横たわっていた、\n私が小さな剣をもって踏み込んだとき──\n千に対して、一として。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Haughty and infinitely armed,\nInsolent in their wrath,\nPlumed high with purple plumes they held\nThe narrow meadow path.",
+      "provisionalTranslation": "傲慢にして無限に武装し、\nその怒りの中で尊大に、\n高く紫の羽飾りをつけて彼らは保持していた\n狭い草原の小道を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "The air was sultry; all was still;\nThe sun like flashing glass;\nAnd snip-snap my light-whispering steel\nIn arcs of light did pass.",
+      "provisionalTranslation": "空気は蒸し暑く；すべては静かだった；\n太陽は閃く硝子のように；\nそしてチョキチョキ（スニップ・スナップ）と私の軽く囁く鋼が\n光の弧を描きながら過ぎていった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Lightly and dull fell each proud head,\nSpiked keen without avail,\nTill swam my uncontented blade\nWith ichor green and pale.",
+      "provisionalTranslation": "軽く鈍く落ちた各々の高慢な頭が、\n鋭く尖っていたにもかかわらず無駄に、\n満足を知らない刃が泳ぐまで\n緑と蒼白い血漿をもって。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "And silence fell: the rushing sun\nStood still in paths of heat,\nGazing in waves of horror on\nThe dead about my feet.",
+      "provisionalTranslation": "そして静寂が落ちた：疾走する太陽が\n熱の道の中で静止し、\n恐怖の波をもって見つめていた\n私の足元の死者たちを。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Never a whir of wing, no bee\nStirred o'er the shameful slain;\nNought but a thirsty wasp crept in,\nStooped, and came out again.",
+      "provisionalTranslation": "翼のはばたきも、蜂も\n恥ずべき死者たちの上では動かなかった；\nただ渇いた蜂だけが這い込んで、\nかがみ込み、また出てきた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "The very air trembled in fear;\nEclipsing shadow seemed\nRising in crimson waves of gloom —\nOn one who dreamed.",
+      "provisionalTranslation": "空気そのものが恐怖に震えた；\n日蝕のような影が\n暗闇の緋色の波の中で立ち上がるように思えた──\n夢を見ている者の上に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "The shadow of a poplar tree\nLay in that lake of sun,\nAs I with my little sword went in —\nAgainst a thousand, one.",
+      "body": "開口連の二重構造：「湖のような陽光（lake of sun）」という視覚的形象と「一対千（Against a thousand, one）」という英雄的定式が同時に提示される。「lake of sun」：太陽の光が地上に広がる様子を湖として比喩化する──デ・ラ・メアの液体的光の語彙（「Remembrance」の「waterdrop」、「Thule」の「Time's salt sea」）の系列。「my little sword（私の小さな剣）」という「little（小さな）」という形容詞が詩人（または子供）の剣の実際の大きさを示唆し、英雄的スケールとの乖離を埋め込む。「ポプラの影」という詩的定番の形象が「Shadow」の薔薇の影・光輪の影と連続する「影」の主題系列に属する。",
+      "targetId": "delamare_shadow",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Plumed high with purple plumes they held\nThe narrow meadow path.",
+      "body": "「高く紫の羽飾りをつけて（Plumed high with purple plumes）」──「purple plumes」が詩の最重要な謎かけの語。軍隊的解釈では兜の羽飾りだが、植物的解釈ではアザミ（thistle）・チコリ・カルドン等の紫色の花穂。「narrow meadow path（狭い草原の小道）」を「保持する（held）」という動詞が、植物が小道に茂り侵食している状態として読める。p音の頭韻「Plumed / purple / plumes / path」が第2連全体に誇示的な音響効果を与える──傲慢な敵の荘重さを音声的に実演。「purple」という色彩はバロック的ヴァニタス絵画における「権力・傲慢」の色彩として、またコヘレト第2章の「王の栄華」への批判的含意を持つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "And snip-snap my light-whispering steel\nIn arcs of light did pass.",
+      "body": "「snip-snap（チョキチョキ）」──詩中最も際立った擬音語（onomatopoeia）。剣戟の金属音でなく、植物の茎を刈る鋏・剣の軽快な切断音として機能する。「light-whispering steel（軽く囁く鋼）」という複合形容詞が剣の音を「囁き（whispering）」として繊細化する──壮大な「虐殺」の語と「囁く鋼」という語の落差が戯謔的効果を生む。「In arcs of light did pass（光の弧を描きながら過ぎていった）」：剣の軌跡が「光の弧（arcs of light）」として視覚化される。「The sun like flashing glass（閃く硝子のような太陽）」との照応で、第3連全体が光・熱・音の感覚的過密として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Till swam my uncontented blade\nWith ichor green and pale.",
+      "body": "「ichor（血漿）」──ギリシャ語「ἰχώρ（ikhōr）」：ホメロスにおいて神々の血管を流れる液体（人間の血でなく薄い液体）。「ichor green and pale（緑と蒼白い血漿）」：「green」という色彩が植物の汁液（草・茎の緑）として敵の正体を決定的に示唆する。神々の「ichor」という崇高な語彙を草の「緑の汁」に適用するという戯謔的転用が、偽英雄詩（mock-heroic poem）の伝統的な手法。「uncontented blade（満足を知らない刃）」：「uncontented（満足しない）」という語が刃に欲求不満的な性格を付与する擬人化──「In Vain」の繰り返される失われた訪問のような満たされない渇望が武器に転写される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "And silence fell: the rushing sun\nStood still in paths of heat,\nGazing in waves of horror on\nThe dead about my feet.",
+      "body": "虐殺後の静寂の場面。「silence fell（静寂が落ちた）」──「The Death-Dream」の「Sighs no more」・「Remembrance」の「unstirring night」という静寂の系列の最も劇的な版。「the rushing sun / Stood still（疾走する太陽が静止した）」：太陽の擬人化が「コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」の循環する太陽の対極として、静止・凝視する太陽として提示される。「waves of horror（恐怖の波）」という液体的恐怖が「Gazing…on / The dead about my feet（私の足元の死者たちを見つめる）」という視線の対象として機能する──太陽が「恐怖」をもって見つめるという逆説的情景が詩の最大の修辞的転換点。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Never a whir of wing, no bee\nStirred o'er the shameful slain;\nNought but a thirsty wasp crept in,\nStooped, and came out again.",
+      "body": "「渇いた蜂（thirsty wasp）」が唯一の生き残りの訪問者として登場する細部描写が詩中最も精密な自然観察。「shameful slain（恥ずべき死者たち）」という「shameful（恥ずべき）」の適用が反語的：死者（草・花）を「恥ずべき」と形容することで、虐殺者（詩人）の視点における道徳的動揺が示唆される。「Stooped, and came out again（かがみ込み、また出てきた）」：蜂の短く平静な訪問が殺戮の現場への無関心として機能する──自然は「恐怖」の劇的感情を持たず、ただ淡々と花の汁を求める。ジョンソン「Ash Wednesday」の「the consecrated stilly place（聖別された静かな場所）」という死後の沈黙と逆の方向で、ここでの沈黙は聖別でなく「恥」として規定される。",
+      "targetId": "johnson_ash_wednesday",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "The very air trembled in fear;\nEclipsing shadow seemed\nRising in crimson waves of gloom —\nOn one who dreamed.",
+      "body": "結語連にして詩全体の種明かし。「Eclipsing shadow（日蝕のような影）」：太陽が影に覆われるという天体的スケールの変化が「crimson waves of gloom（暗闇の緋色の波）」として視覚化される。「On one who dreamed（夢を見ている者の上に）」──最終行の四語が詩全体の「虐殺」という大仰な叙述を「夢（dream）」として相対化する結語。「The Death-Dream」の「Or, haply, was it I who out of dream / Stole but a little」・「The Glimpse」の「Life's ecstasy（生の法悦）」という一瞬の幻視と連続する「夢」の詩的主題が、ここでは最も軽妙な形態──夏の昼の草薙ぎ遊びという子供的夢──として結晶する。詩全体の偽英雄詩的戯謔が「on one who dreamed」という四語によって完全に解除される。",
+      "targetId": "delamare_the_death_dream",
+      "targetParagraphId": 4
+    }
+  ]
+}
