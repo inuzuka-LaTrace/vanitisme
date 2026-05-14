@@ -1,0 +1,126 @@
+{
+  "id": "delamare_the_dark_chateau",
+  "title": "The Dark Château",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Dark_Ch%C3%A2teau",
+  "year": "1914",
+  "firstPublication": "The Listeners (1914); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『The Listeners』（1914年）所収。全6連各8行、ABABCDCD韻を基調とする。夢の中に繰り返し現れる「暗い城館（dark château）」の詩。第1連：夢の城館・夢の水・無日の空に浮かぶ鷲・沈黙する鳥たちという超自然的情景。第2連：声の不在・風の眠り・光の花の拒絶・蔦と野薔薇と糸杉という植物的支配。第3連：「すべて空虚で未知」──夢想家だけが石から石へと歩み、川の深みを覗き込む。第4連：「忍び込むことができれば」という渇望──「秘密の部屋（secret room）」へ・「内なる暗闇（inner gloom）」へ・ レーテ（Lethe）の流れを望む高窓へ。第5連：しかし「凝視するたびに」眠りから地上の現実へと引き戻される覚醒の瞬間。第6連：天空も雪の峰も消えて夜明けの緑に褪せる──「我が暗き城館（My dark château）」という結語。ローデンバックの「死の都ブリュージュ」的廃墟美学・マラルメ的「書物の理想（Livre idéal）」の夢想空間・ジョンソン「Dark Angel」の誘惑する暗き領域という三つの主題が交差する。「Lethe（レーテ）」という忘却の川の登場がVANITISMEコーパスの虚無・消滅・忘却の主題系列に新たな神話的次元を加える。",
+  "keywords": [
+    "dark château",
+    "dream",
+    "Lethe",
+    "ivy",
+    "cypress",
+    "eagle",
+    "inner gloom",
+    "secret room",
+    "夢の城館",
+    "忘却",
+    "廃墟"
+  ],
+  "relatedTexts": [
+    "delamare_the_glimpse",
+    "delamare_the_phantom",
+    "delamare_silence",
+    "delamare_in_vain",
+    "rodenbach_du_silence",
+    "rodenbach_fin_du_reve",
+    "mallarme_livre_instrument",
+    "johnson_dark_angel",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "In dreams a dark château\nStands ever open to me,\nIn far ravines dream-waters flow,\nDescending soundlessly;\nAbove its peaks the eagle floats,\nLone in a sunless sky;\nMute are the golden woodland throats\nOf the birds flitting by.",
+      "provisionalTranslation": "夢の中に暗い城館が\n常に私に向けて開かれて立っている、\n遠い峡谷に夢の水が流れ、\n音もなく降りていく；\nその峰の上に鷲が浮かぶ、\n日のない空に孤独に；\n沈黙している飛び回る鳥たちの\n黄金の森の喉が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "No voice is audible. The wind\nSleeps in its peace.\nNo flower of the light can find\nRefuge beneath its trees;\nOnly the darkening ivy climbs\nMingled with wilding rose,\nAnd cypress, morn and evening, time's\nBlack shadow throws.",
+      "provisionalTranslation": "声は聞こえない。風は\nその静寂の中で眠る。\n光の花は何も見つけられない\nその木々の下に避難所を；\nただ暗くなる蔦だけが登り\n野薔薇と混じりあって、\nそして糸杉が、朝も夕も、時の\n黒い影を投げかける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "All vacant, and unknown;\nOnly the dreamer steps\nFrom stone to hollow stone,\nWhere the green moss sleeps,\nPeers at the rivers in its deeps,\nThe eagle lone in the sky,\nWhile the dew of evening drips,\nColdly and silently.",
+      "provisionalTranslation": "すべて空虚で、未知；\nただ夢想家だけが踏み出す\n石から虚ろな石へと、\n緑の苔が眠るところを、\n川の深みを覗き込み、\n空の孤独な鷲を、\n夕暮れの露が滴る間、\n冷たく静かに。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–32",
+      "original": "Would that I could steal in! —\nInto each secret room;\nWould that my sleep-bright eyes could win\nTo the inner gloom;\nGaze from its high windows,\nFar down its mouldering walls,\nWhere amber-clear still Lethe flows,\nAnd foaming falls.",
+      "provisionalTranslation": "忍び込むことができればよいのに！──\n各々の秘密の部屋へと；\n眠りに輝く私の眼が到達できればよいのに\n内なる暗闇へと；\nその高い窓から眺めることができれば、\n朽ちゆく壁の遥か下を、\n琥珀のように澄んだレーテが静かに流れ、\n泡立ちながら落ちるところを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.33–40",
+      "original": "But ever as I gaze,\nFrom slumber soft doth come\nSome touch my stagnant sense to raise\nTo its old earthly home;\nFades then that sky serene;\nAnd peak of ageless snow;\nFades to a paling dawn-lit green,\nMy dark château.",
+      "provisionalTranslation": "しかし凝視するたびに、\n柔らかな眠りから来る\n何かが私の停滞した感覚を揺り起こして\nその古い地上の家へと引き戻す；\nそのとき消えていく、あの穏やかな空が；\nそして永遠の雪の峰が；\n薄れゆく夜明けの緑へと消えていく、\n我が暗き城館が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "In dreams a dark château\nStands ever open to me,",
+      "body": "「夢の中に暗い城館が常に私に向けて開かれて立っている（Stands ever open to me）」──「In Vain」の「door ajar（半開きの扉）」・「Wide open into night（夜へと大きく開いた）」という扉の主題の変奏として読める。しかし「In Vain」で扉の向こうにあったのは「空虚（into night）」だったのに対し、「The Dark Château」では「always open（常に開かれている）」という永続的な招待として提示される。「In dreams（夢の中に）」という冒頭の限定が詩全体を夢の空間として定義する──「The Glimpse」の「Life's ecstasy（生の法悦）」・「The Death-Dream」の「Or, haply, was it I who out of dream（夢から抜け出して）」という夢の系譜の最も建築的・空間的な変奏。",
+      "targetId": "delamare_in_vain",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Mute are the golden woodland throats\nOf the birds flitting by.",
+      "body": "第1連のABABCDCD韻が詩全体を貫く基本韻律。「Mute are the golden woodland throats / Of the birds flitting by（沈黙している飛び回る鳥たちの黄金の森の喉が）」──倒置構文（Mute are…throats）が静寂の状態を先行させ、鳴くべき「喉（throats）」の沈黙を強調する。「golden woodland throats（黄金の森の喉）」という共感覚的表現が鳥の声を「黄金」という色彩として定義する──「Silence」の「Sweet jargonings（甘い囀り）」・「Hamlet」の「murmuring symphonies（呟く交響楽）」という音楽的自然描写の系列。しかしここでの「黄金の喉」は沈黙している──音楽の可能性が実現されない状態として定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "No flower of the light can find\nRefuge beneath its trees;\nOnly the darkening ivy climbs\nMingled with wilding rose,\nAnd cypress, morn and evening, time's\nBlack shadow throws.",
+      "body": "「光の花（flower of the light）」の排除と「暗くなる蔦（darkening ivy）」「野薔薇（wilding rose）」「糸杉（cypress）」という暗の植物の支配。「cypress（糸杉）」：西洋的葬送・死の象徴植物──「Shadow」の「In shadow of a thorn（茨の影の中）」という棘の植物と連続する死の植物系列。「time's / Black shadow throws（時の黒い影を投げかける）」：コヘレト第1章v.5の太陽の循環と照応しながら、糸杉が「朝も夕も（morn and evening）」一日中「時の影」を投げかけるという時間的普遍性として機能する。「Ophelia」の「Ivy she hath, that to old ruin clings（古い廃墟にしがみつく蔦）」との直接的植物的照応。",
+      "targetId": "delamare_ophelia",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "All vacant, and unknown;\nOnly the dreamer steps\nFrom stone to hollow stone,",
+      "body": "「すべて空虚で、未知（All vacant, and unknown）」──「Even in the Grave」の「All, all, he read（すべて、すべてを彼は読んだ）」という全的列挙の逆として、ここでの「All」は充満でなく空虚として定義される。「dreamer（夢想家）」という語が詩人の代理として登場する──「Hamlet」の「his eyes companioned with dream（夢に伴われた眼）」・「The Massacre」の「On one who dreamed（夢を見ている者）」という夢想家の系列。「From stone to hollow stone（石から虚ろな石へと）」：「hollow（虚ろ）」という形容詞が「Remembrance」の「hollow sky（虚ろな空）」と連続する空虚の語彙として機能する。ローデンバック「Du Silence」の沈黙の廃墟的空間との照応。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Where amber-clear still Lethe flows,\nAnd foaming falls.",
+      "body": "「レーテ（Lethe）」──ギリシャ神話の冥界の忘却の川。死者が飲むと前世の記憶が消える。「amber-clear（琥珀のように澄んだ）」という色彩形容詞がレーテの水を透明・黄金的・神秘的なものとして美化する。VANITISMEコーパスにおける忘却の主題系列：ローデンバック「L'Oubli（忘却）」・「Remembrance」の記憶の消滅・「The Phantom」の「Phantom child of memory（記憶の幻の子）」という記憶と忘却の詩的弁証法の中で、レーテという神話的形象が最も直接的な忘却の定式として登場する。「秘密の部屋（secret room）」から高窓越しにレーテを眺めるという構造は、マラルメ「Livre instrument」の書物という閉じた空間から理想の世界を眺望する詩的理念との照応を持つ。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Would that I could steal in! —\nInto each secret room;\nWould that my sleep-bright eyes could win\nTo the inner gloom;",
+      "body": "「忍び込むことができればよいのに（Would that I could steal in）」──願望法の反復（Would that…Would that）が到達不可能性の渇望として機能する。「The Death-Dream」の「Stole but a little where shadows course（影の流れる場所へとほんの少し忍び込んだ）」という「steal（忍び込む）」の動詞との直接的照応：「The Death-Dream」では「影の場所へ少し忍び込んだ」という過去の行為として語られたことが、「The Dark Château」では「忍び込むことができればよいのに」という未達成の渇望として変奏される。「inner gloom（内なる暗闇）」：ジョンソン「Dark Angel」の「malicious Angel」が誘惑する内的暗闇と照応しながら、デ・ラ・メアの「inner gloom」は排除でなく渇望の対象として提示される。",
+      "targetId": "delamare_the_death_dream",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "But ever as I gaze,\nFrom slumber soft doth come\nSome touch my stagnant sense to raise\nTo its old earthly home;\nFades then that sky serene;\nAnd peak of ageless snow;\nFades to a paling dawn-lit green,\nMy dark château.",
+      "body": "詩の結語連。「凝視するたびに（ever as I gaze）」──「The Glimpse」の「Only a moment; as when day / Is set（ほんの一瞬；ちょうど昼が沈むとき）」という一瞬性・消滅の構造の反復。「Some touch my stagnant sense to raise / To its old earthly home（何かが私の停滞した感覚を揺り起こして古い地上の家へと引き戻す）」：「stagnant sense（停滞した感覚）」という逆説──夢の城館の中でこそ感覚は「停滞」していると定義される：現実への帰還が「覚醒（raise）」として機能する逆の世界観。「Fades…Fades（消えていく…消えていく）」という二重の動詞反復が城館の消滅を詩形的に実演する。「My dark château」という所有格の結語が詩全体を詩人の私的な夢的領土として定義する──「The Exile」の「Heaven's nothingness（天上の虚無）」という到達不可能な理想と対称的な、夢の中でのみ「私の（My）」ものとなる空間。",
+      "targetId": "delamare_the_glimpse",
+      "targetParagraphId": 5
+    }
+  ]
+}
