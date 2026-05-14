@@ -1,0 +1,94 @@
+{
+  "id": "delamare_the_exile",
+  "title": "The Exile",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/The_Exile",
+  "year": "1919",
+  "firstPublication": "Motley (1919); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『Motley』（1919年）所収。全12行、対韻（AA BB CC…）の二連構成。「I AM that Adam（我はあのアダムだ）」という宣言的同一化で始まり、詩人がアダムという聖書的人物と自己同一視する告白詩。第1段落（v.1–6）：蛇を客人として迎え、イブの胸に苦悩の目を隠し、天使のラッパの声とともに楽園を追放されたアダムとして詩人が自己を定義する──「裏切られ逃げ惑う者として、私はなお彷徨わなければならない / 罪と美が故郷（Home）を囁く世界を」という現在の実存的状態。第2段落（v.7–12）：「広い回路（wide circuit）」の果てにエデンの木に純粋な夜明けが再び輝くのを見られるか、という一連の疑問文が回帰への渇望として展開する。「Loosed from remorse and hope and love's distress（後悔と希望と愛の苦悩から解き放たれて）」という三重の解放・「lost nakedness（失われた裸体）」への再装束・「Heaven's nothingness（天上の虚無）」へのイブの再迎入という結語が詩を閉じる。ヴェイユ「Décréation」の脱創造・「Accepter le vide」の空虚の受容とジョンソン「Dark Angel」の誘惑からの解放という両軸を、楽園喪失という聖書的枠組みで統合した作品。「Heaven's nothingness（天上の虚無）」という結語の「nothingness」がVANITISMEコーパスの虚無主題の英詩的頂点として機能する。",
+  "keywords": [
+    "Adam",
+    "Eve",
+    "Eden",
+    "exile",
+    "nakedness",
+    "nothingness",
+    "追放",
+    "回帰",
+    "楽園",
+    "罪と美",
+    "蛇"
+  ],
+  "relatedTexts": [
+    "delamare_even_in_the_grave",
+    "delamare_when_the_rose_is_faded",
+    "delamare_silence",
+    "johnson_dark_angel",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "rossetti_monna_innominata",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "I AM that Adam who, with Snake for guest,\nHid anguished eyes upon Eve's piteous breast.\nI am that Adam who, with broken wings,\nFled from the Seraph's brazen trumpetings.\nBetrayed and fugitive, I still must roam\nA world where sin, and beauty, whisper of Home.",
+      "provisionalTranslation": "我はあのアダムだ、蛇を客人として、\n苦悩する眼をイブの哀れな胸に隠した者。\n我はあのアダムだ、折れた翼をもって、\nセラフィムの真鍮のラッパの響きから逃げた者。\n裏切られ逃げ惑う者として、私はなお彷徨わなければならない\n罪と美が故郷を囁く世界を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Oh, from wide circuit, shall at length I see\nPure daybreak lighten again on Eden's tree?\nLoosed from remorse and hope and love's distress,\nEnrobe me again in my lost nakedness?\nNo more with wordless grief a loved one grieve,\nBut to Heaven's nothingness re-welcome Eve?",
+      "provisionalTranslation": "ああ、広い回路の果てに、私はついに見られるだろうか\nエデンの木の上に純粋な夜明けが再び輝くのを？\n後悔と希望と愛の苦悩から解き放たれて、\n失われた裸体の中に私を再び包むだろうか？\nもはや言葉なき悲嘆で愛する者を悲嘆させることなく、\n天上の虚無へとイブを再び迎え入れるだろうか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "I AM that Adam who, with Snake for guest,\nHid anguished eyes upon Eve's piteous breast.\nI am that Adam who, with broken wings,\nFled from the Seraph's brazen trumpetings.",
+      "body": "「I AM that Adam（我はあのアダムだ）」という冒頭の大文字「AM」による存在論的宣言。対韻（AA BB CC DD EE FF）の厳格な韻律が12行全体を貫く：「guest / breast」「wings / trumpetings」「roam / Home」「see / tree」「distress / nakedness」「grieve / Eve」。「I am that Adam」の二重反復（v.1とv.3）が詩人とアダムの同一化を音響的に確立するanaphora。「with broken wings（折れた翼をもって）」──「De Profundis」のジョンソン的「White Angels around Christ（キリストの周りの白い天使たち）」の天使的翼が、ここでは「折れた（broken）」状態として堕落・追放の形象となる。ジョンソン「Dark Angel」の「翼を持つ天使（ever on the wing）」との対照的形象。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Betrayed and fugitive, I still must roam\nA world where sin, and beauty, whisper of Home.",
+      "body": "「罪と美が故郷（Home）を囁く世界（a world where sin, and beauty, whisper of Home）」──詩の哲学的核心命題。「sin（罪）」と「beauty（美）」が並置されることで、デカダンス詩学の根本的逆説──罪と美の不可分性──が提示される。ジョンソン「Dark Angel」の「flames of evil ecstasy（邪悪な法悦の炎）」という罪と美の結合と直接照応する。「whisper of Home（故郷を囁く）」：失われた楽園（Eden / Home）への渇望が「囁き（whisper）」という微かな声として聞こえる──「Silence」の「rarer speech（より稀なる言葉）」・「The Death-Dream」の「the whisper in the gloom（暗がりの囁き）」という囁きの語彙系列に接続する。「Home（故郷）」の大文字化がエデンを単なる場所でなく存在の根源的帰属先として神学的に定義する。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Oh, from wide circuit, shall at length I see\nPure daybreak lighten again on Eden's tree?",
+      "body": "「広い回路（wide circuit）」──コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の円環的循環運動の変奏として読める。風・川・世代の循環という宇宙的反復がここでは詩人の人生の「wide circuit（広い回路）」という巡回として縮小される。「Pure daybreak lighten again on Eden's tree（エデンの木の上に純粋な夜明けが再び輝く）」：「Hamlet」の「Darkness gave birth to the all-trembling stars（暗闇がすべてを震わせる星を産み落とした）」という光の誕生と照応する──しかし「Hamlet」の光が宇宙的であるのに対し、「The Exile」の光は失われた楽園の光としてより個人的・神学的。「again（再び）」という副詞が回帰への渇望として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Loosed from remorse and hope and love's distress,\nEnrobe me again in my lost nakedness?",
+      "body": "「後悔と希望と愛の苦悩から解き放たれて（Loosed from remorse and hope and love's distress）」──三重の否定的感情からの解放。「remorse（後悔）」「hope（希望）」「love's distress（愛の苦悩）」という三者のうち「hope（希望）」が否定的文脈に置かれることが詩の最も鋭い逆説：「Even in the Grave」で死に差し出された目録の最終項「hope and dream（希望と夢）」との照応において、希望は苦悩の一形態として位置づけられる。「my lost nakedness（失われた裸体）」：創世記第3章v.7「et aperti sunt oculi amborum（二人の目は開かれた）」の原罪以前の「裸（nudus）」の状態への回帰渇望。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae（裸で母の胎から出た）」という原初的裸体の命題が、ここでは楽園回帰の形象として変奏される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "But to Heaven's nothingness re-welcome Eve?",
+      "body": "詩の結語。「Heaven's nothingness（天上の虚無）」──VANITISMEコーパスにおける「虚無（nothingness / vanitas）」主題の英詩的最高点。「nothingness」という語が「Heaven's（天上の）」という所有格と結合することで、天上の虚無という逆説的頂点が定義される：楽園への回帰が「虚無」として定義されるという認識論的逆転。ヴェイユ「Décréation」の「脱創造──被造物から非被造物へ・自己を無にすること」という命題が、「Heaven's nothingness」という一語に凝縮される。「re-welcome Eve（イブを再び迎え入れる）」：追放されたイブを天上の虚無へと再び迎え入れるという行為が詩の目標として提示される──ダンテ「Paradiso」第33歌での天上のベアトリーチェとの合一という構造との照応。「When the Rose is Faded」の「And burns, with Thee（汝とともに燃える）」という大文字の「Thee」への帰還が、ここでは「Heaven's nothingness」への「Eve」の再迎入として展開する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    }
+  ]
+}
