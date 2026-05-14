@@ -1,0 +1,105 @@
+{
+  "id": "delamare_silence",
+  "title": "Silence",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Silence",
+  "year": "1914",
+  "firstPublication": "The Listeners (1914); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『The Listeners』（1914年）所収。全4連各7行、変則的な長短行の交互構造（長行・短行・短行・短行・短行・短行・長行という枠組み）。「沈黙（Silence）」を主題とするが、ローデンバック「Du Silence」の象徴主義的沈黙論の英詩的対応として読める。第1連では最も魅惑的な弦楽・最も美しい声の音楽でさえ「覆いとなる沈黙（veiling silentness）」へと帰還することを示す。第2連では戦場の喧騒──軍隊・ラッパ・太鼓──が「高き静寂（that high quietness）」の壁に跳ね返され無応答に終わる。第3連では二人の友人の親密な会話の中の「より稀なる言葉（rarer speech）」として沈黙が人間関係の最深部を満たす存在として提示される。第4連では「すべてを包む静謐（all-encompassing hush）」が人格的な「耳を傾ける者（one who…Harkens）」として擬人化され、私たちの最も軽い言葉を聞き取るという詩の結語へと至る。音楽・戦争・友情・神秘という四つの場面を通じて展開される沈黙の多面的な詩学。ジョンソン「Precept of Silence」・マラルメの「白のページ」・ヴェイユの「空虚の受容」との詩的系譜に位置する。",
+  "keywords": [
+    "silence",
+    "沈黙",
+    "music",
+    "stillness",
+    "veiling",
+    "high quietness",
+    "rarer speech",
+    "hush",
+    "mystery",
+    "listening"
+  ],
+  "relatedTexts": [
+    "rodenbach_du_silence",
+    "johnson_precept_of_silence",
+    "delamare_remembrance",
+    "delamare_even_in_the_grave",
+    "mallarme_soupir",
+    "mallarme_le_guignon",
+    "verlaine_calme_orphelin",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "delamare_the_glimpse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "original": "With changeful sound life beats upon the ear;\nYet, striving for release,\nThe most seductive string's\nSweet jargonings,\nThe happiest throat's\nMost easeful, lovely notes\nFall back into a veiling silentness.",
+      "provisionalTranslation": "変わりゆく音とともに生は耳を打つ；\nしかし、解放を求めて、\n最も魅惑的な弦の\n甘い囀り、\n最も幸福な喉の\n最も安らかで愛しい音符も\n覆いとなる沈黙の中へと帰っていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–14",
+      "original": "Even 'mid the rimiour of a moving host,\nBlackening the clear green earth,\nVainly 'gainst that thin wall\nThe trumpets call,\nOr with loud hum\nThe smoke-bemuffled drum:\nFrom that high quietness no reply comes forth.",
+      "provisionalTranslation": "動く軍勢の喧騒の真っ只中においてさえ、\n澄んだ緑の大地を黒く染めながら、\n空しくその薄い壁に向かって\nラッパが呼びかける、\nあるいは大きな響きをもって\n煙に覆われた太鼓が；\nその高き静寂から何の返答も来ない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.15–21",
+      "original": "When, all at peace, two friends at ease alone\nTalk out their hearts, — yet still\nBetween the grace-notes of\nThe voice of love\nFrom each to each\nTrembles a rarer speech,\nAnd with its presence every pause doth fill.",
+      "provisionalTranslation": "すべてが平和に、二人の友人が安らかにただ二人で\n心の底まで語り合うとき──それでもなお\n愛の声の\n装飾音の間に\n互いから互いへと\nより稀なる言葉が震える、\nそしてその存在によってすべての間を満たす。"
+    },
+    {
+      "id": 4,
+      "verses": "v.22–28",
+      "original": "Unmoved it broods, this all-encompassing hush\nOf one who stooping near,\nNo smallest stir will make\nOur fear to wake;\nBut yet intent\nUpon some mystery bent\nHarkens the lightest word we say, or hear.",
+      "provisionalTranslation": "動かず、それはうずくまる、このすべてを包む静謐が\nかがみ込んで近くにいる者のように、\n最も小さな動きさえしないだろう\n私たちの恐れを目覚めさせないように；\nしかしなお意図をもって\n何かの神秘へと向かって\n私たちが言う、あるいは聞く最も軽い言葉に耳を傾ける。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "With changeful sound life beats upon the ear;\nYet, striving for release,\nThe most seductive string's\nSweet jargonings,\nThe happiest throat's\nMost easeful, lovely notes\nFall back into a veiling silentness.",
+      "body": "各連7行の変則的長短行構造：長行（L）→短行（S）→短行→短行→短行→短行→長行（L）という「L・SSSS・L」の枠組み。長行が連の主張を開き・閉じ、短行の連続が中間的な具体例を積み重ねるという視覚的・音響的効果。第1連の「Sweet jargonings（甘い囀り）」：「jargoning」は鳥のさえずりの古語（チョーサー由来）──最も美しい音楽でさえ「鳥の囀り」として相対化される。「veiling silentness（覆いとなる沈黙）」：「veil（ベール）」という布地的比喩が沈黙を透過性のある覆いとして定義する──完全な消去でなく「覆い」としての沈黙。ローデンバック「Du Silence」の沈黙が空間的・霊的な充満として定義される論理と照応する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Even 'mid the rimiour of a moving host,\nBlackening the clear green earth,\nVainly 'gainst that thin wall\nThe trumpets call,",
+      "body": "「動く軍勢の喧騒（rimiour of a moving host）」──「rimiour」は「rumour」の古語的変形（詩的・方言的綴り）で喧騒・噂を意味する。軍隊が「澄んだ緑の大地を黒く染める（Blackening the clear green earth）」という描写が「The Massacre」の「narrow meadow path」という草原の場面と対照的に、戦争の規模での自然への侵食として提示される。「that thin wall（その薄い壁）」：沈黙が「壁（wall）」として物理化されるが「薄い（thin）」という形容詞が壁の脆弱性を示す──沈黙は壊れやすいが貫通不能。「From that high quietness no reply comes forth（その高き静寂から何の返答も来ない）」：第1連の「veiling silentness」が第2連で「high quietness（高き静寂）」として垂直的・超越的次元を帯びる。コヘレト第8章「Cunctae res difficiles（すべての事柄は困難）」の世界的喧騒への応答不能性との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Between the grace-notes of\nThe voice of love\nFrom each to each\nTrembles a rarer speech,\nAnd with its presence every pause doth fill.",
+      "body": "「愛の声の装飾音の間に、より稀なる言葉が震える（Trembles a rarer speech）」──音楽的「grace-notes（装飾音）」という比喩が言葉の間の沈黙を音楽の装飾音と同位置に置く。「rarer speech（より稀なる言葉）」：沈黙が「言葉（speech）」として定義されるが「より稀な（rarer）」という比較級が通常の言語より高度な伝達として位置づける。「with its presence every pause doth fill（その存在によってすべての間を満たす）」：沈黙（silence）が「間（pause）」を「満たす（fill）」という逆説──空虚でなく充満としての沈黙。ジョンソン「Precept of Silence」の「Save to one man, and unto God（ただ一人の人間と神のみに）」という沈黙の告白空間と照応する：二者の間の最深部の伝達は言語でなく沈黙によってなされる。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Unmoved it broods, this all-encompassing hush\nOf one who stooping near,\nNo smallest stir will make\nOur fear to wake;",
+      "body": "第4連で沈黙が「一人の者（one）」として擬人化される。「Unmoved it broods（動かず、うずくまる）」：「broods（うずくまる）」は「The Phantom」第3連「Thy venomous spirit stirs and broods」のジョンソン的「broods」の変奏──ジョンソンでは「Dark Angel」の霊の潜伏として否定的に機能したのに対し、デ・ラ・メアの「broods」は神秘的な静謐として中立的に提示される。「stooping near（かがみ込んで近く）」：ジョンソン「Dark Angel」の「stooping, truth maligned（かがみ込んで、真実を歪め）」の「stooping」と同一動詞──しかしデ・ラ・メアの「stooping」は歪めるためでなく「聞くため」のかがみ込みとして逆転される。「No smallest stir will make / Our fear to wake（最も小さな動きさえしないだろう私たちの恐れを目覚めさせないように）」：沈黙の気配りとしての静止。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "But yet intent\nUpon some mystery bent\nHarkens the lightest word we say, or hear.",
+      "body": "詩の結語。「Upon some mystery bent（何かの神秘へと向かって）」：沈黙が「神秘（mystery）」への志向性を持つ人格的存在として定義される──「The Glimpse」の「Life's ecstasy（生の法悦）」という一瞬の神秘的ビジョンが、ここでは沈黙そのものの内的志向性として内在化される。「Harkens the lightest word we say, or hear（私たちが言う、あるいは聞く最も軽い言葉に耳を傾ける）」：「say, or hear（言う、あるいは聞く）」という二動詞が発話と受信の両方を含む──沈黙は私たちの言葉だけでなく「私たちが聞く」ものにも耳を傾ける無限の受信者として機能する。ヴェイユ「Accepter le vide」の「空虚を受け入れること」が真の聞くことの前提であるという命題が、本詩の「all-encompassing hush / Harkens」という全的な聴取の形象と深く照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
