@@ -1,0 +1,136 @@
+{
+  "id": "heym_die_tote_im_wasser",
+  "title": "Die Tote im Wasser",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Die Tote im Wasser. In: Der ewige Tag. S. 19–20. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Die_Tote_im_Wasser",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Die Tote im Wasser（水中の死女）」はハイムの表現主義詩の中で最も論議を呼ぶ作品のひとつであり、産業都市ベルリンの河川に漂う女性の遺体という素材を7連28行、ABBA抱擁韻（Umarmungsreim）によって定着させる。表現主義的手法の核心──視線の冷徹な走査・グロテスクな身体描写・崇高と汚辱の併置──が最も激烈な形で発揮される。詩の構造は段階的な「発見と追跡」として展開する：第1〜2連では都市の港湾空間の設定（マスト・廃倉庫・汚濁した流れ）、第3連で遺体の断片的出現（白いドレス・首・顔）、第4連で全体の浮上（死の眼・ピンクの雲との対比）、第5連でネズミによる「乗船」、第6連で腐食した身体の「航行」、第7連でネプトゥヌス神への「挨拶」と海底への沈降という終結。最も注目すべきは「froh（喜んで）」「stolz（誇らしげに）」「salutiert（挨拶する）」という讃美的・英雄的語彙が、腐敗した死体という対象に適用される逆説的転用であり、これは単なる悪趣味ではなく、崇高（das Erhabene）と汚辱（das Abjekte）の境界そのものへの詩的攻撃として機能する。ランボー「オフェリア（Ophélie）」のロマン主義的水死女の美化から、ハイムはその正反対へ──グロテスクな物質性・腐朽・都市の廃棄物との同化──へと向かう。ボードレール「腐肉（Une Charogne）」の腐朽美学の表現主義的急進化として位置づけられる。VANITISMEにおけるaffliction詩の系譜（詩篇21篇の身体的崩壊・ヴェイユの「afflictionの三層」）の都市的・物質的展開。",
+  "keywords": [
+    "水死",
+    "都市河川",
+    "腐朽",
+    "Verwesung",
+    "表現主義",
+    "グロテスク",
+    "崇高と汚辱",
+    "Neptun",
+    "白いドレス",
+    "Der ewige Tag",
+    "Ophélie"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "rimbaud_ophelie",
+    "baudelaire_une_charogne",
+    "baudelaire_danse_macabre",
+    "trakl_de_profundis",
+    "trakl_verfall",
+    "hieronymus_psalmi_21",
+    "weil_la_violence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Die Masten ragen an dem grauen Wall\nWie ein verbrannter Wald ins frühe Rot,\nSo schwarz wie Schlacke. Wo das Wasser tot\nZu Speichern stiert, die morsch und im Verfall.",
+      "provisionalTranslation": "マストたちが灰色の防壁沿いに聳えている\n焼け焦げた森が早朝の赤みへと向かうように、\nまるで炉滓のように黒く。水が死んで\n朽ちて崩壊途上の倉庫たちを虚ろに見つめるところで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Dumpf tönt der Schall, da wiederkehrt die Flut\nDen Kai entlang. Der Stadtnacht Spülicht treibt\nWie eine weiße Haut im Strom und reibt\nSich an dem Dampfer, der im Docke ruht.",
+      "provisionalTranslation": "くぐもった響きが鳴る、潮が戻ってくるとき\n埠頭沿いに。都市の夜の汚水が漂う\n流れの中の白い皮膚のように、こすれる\nドックに停泊している蒸気船に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Staub, Obst, Papier, in einer dicken Schicht,\nSo treibt der Kot aus seinen Röhren ganz.\nEin weißes Tanzkleid kommt, in fettem Glanz\nEin nackter Hals und bleiweiß ein Gesicht.",
+      "provisionalTranslation": "塵、果物、紙、厚い層をなして、\n汚物が排水管から全て流れ出てくる。\n白いダンスドレスが来る、脂ぎった光沢の中に\n裸の首、そして鉛白色の顔がある。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Die Leiche wälzt sich ganz heraus. Es bläht\nDas Kleid sich wie ein weißes Schiff im Wind.\nDie toten Augen starren groß und blind\nZum Himmel, der voll rosa Wolken steht.",
+      "provisionalTranslation": "死体は完全に転がり出てくる。ドレスが\n風の中の白い船のように膨らむ。\n死の眼は大きく虚ろに凝視している\nバラ色の雲に満ちた空へと。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Das lila Wasser bebt von kleiner Welle.\n– Der Wasserratten Fährte, die bemannen\nDas weiße Schiff. Nun treibt es stolz von dannen,\nVoll grauer Köpfe und voll schwarzer Felle.",
+      "provisionalTranslation": "ライラック色の水が小波に揺れている。\n──ドブネズミたちの痕跡、白い船に\n乗り込んでくる。今やそれは誇らしげに彼方へと流れる、\n灰色の頭と黒い毛皮に満ちて。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Die Tote segelt froh hinaus, gerissen\nVon Wind und Flut. Ihr dicker Bauch entragt\nDem Wasser groß, zerhöhlt und fast zernagt.\nWie eine Grotte dröhnt er von den Bissen.",
+      "provisionalTranslation": "死女は喜ばしく外洋へと帆走する、引き裂かれながら\n風と波によって。その膨れ上がった腹が\n大きく水面から突き出ている、えぐられ、ほぼ食い尽くされて。\n洞穴のように、それは噛み跡からどろんと響く。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Sie treibt ins Meer. Ihr salutiert Neptun\nVon einem Wrack, da sie das Meer verschlingt,\nDarinnen sie zur grünen Tiefe sinkt,\nIm Arm der feisten Kraken auszuruhn.",
+      "provisionalTranslation": "彼女は海へと漂い出る。難破船からネプトゥヌスが\n彼女に敬礼する、海が彼女を飲み込む中で、\nそこで彼女は緑の深みへと沈んでいく、\n太った蛸の腕の中で安らうために。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die Masten ragen an dem grauen Wall\nWie ein verbrannter Wald ins frühe Rot,\nSo schwarz wie Schlacke. Wo das Wasser tot\nZu Speichern stiert, die morsch und im Verfall.",
+      "body": "「焼け焦げた森のように……炉滓のように黒く（Wie ein verbrannter Wald … So schwarz wie Schlacke）」──第1連の二重の直喩が詩全体の視覚的・主題的枠組みを設定する。「verbrannter Wald（焼け焦げた森）」という自然の破壊と「Schlacke（炉滓）」という工業的廃棄物が並置され、産業都市の港湾空間をロマン主義的自然からの完全な断絶として定義する。「Wasser tot（水が死んでいる）」──水の死という逆説的擬人化：流動的・生命的なものの代表である水が「死」として定義される。これが第7連「Sie treibt ins Meer（海へと漂い出る）」における死体の海への到達まで、詩全体を貫く「死の水」の主題の導入。「Speichern stiert（倉庫たちを虚ろに見つめる）」──「stieren（虚ろに見つめる）」という動詞が第4連「Die toten Augen starren（死の眼が凝視する）」の「starren」と対応する：詩の冒頭で水が死んだ目で見つめ、中盤で死体の目が空を見つめるという構造的反復。詩篇21篇v.15「Sicut aqua effusus sum（水のように流し出された）」という身体の液体化との逆対応：詩篇では人間が水となり崩壊するが、ハイムでは水そのものがすでに「死んで」いる。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Der Stadtnacht Spülicht treibt\nWie eine weiße Haut im Strom und reibt\nSich an dem Dampfer, der im Docke ruht.",
+      "body": "「都市の夜の汚水（Der Stadtnacht Spülicht）」──単一語として結合された「Stadtnacht（都市の夜）」という複合名詞がハイムの表現主義的語彙形成の典型例。「Spülicht（汚水・洗い水の残骸）」という口語的・卑俗な語の選択が、直後に来る「weiße Haut（白い皮膚）」という身体的比喩への道を準備する：汚水が「白い皮膚」として比喩化されることで、第3連の遺体の皮膚との同化が先取りされる。ABBA抱擁韻（Umarmungsreim）の構造：「treibt—reibt」（B韻）が「Flut—ruht」（A韻）に包囲される形式が、「都市の廃棄物が流れ出し蒸気船にこすれる」という物理的運動を音響的に模倣する。「reibt / Sich（こすれる）」という動詞の跨行（Enjambement）が運動の継続性を視覚的に実演する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Staub, Obst, Papier, in einer dicken Schicht,\nSo treibt der Kot aus seinen Röhren ganz.\nEin weißes Tanzkleid kommt, in fettem Glanz\nEin nackter Hals und bleiweiß ein Gesicht.",
+      "body": "「塵、果物、紙（Staub, Obst, Papier）」──名詞の列挙による廃棄物の目録。三項の並列が都市の廃棄物の無差別性を定着させ、「Kot（汚物・糞）」という語が列挙の総括として来る：都市とはすべてを「Kot（汚物）」として排出する有機体として定義される。「bleiweiß ein Gesicht（鉛白色の顔）」──「bleiweiß（鉛白）」という複合形容詞が第1連「Schlacke（炉滓）」と同様の工業的色彩語として機能する：死の白さが自然の白さではなく、重金属的・工業的な白として定義される。ランボー「オフェリア（Ophélie）」との対比：ランボーの水死女は「白い幻影（blanche Ophélia）」として花に囲まれ美化されるが、ハイムの「bleiweiß」は同じ白を毒性・重さ・死の物質として反転する。「in fettem Glanz（脂ぎった光沢の中に）」──「fett（脂ぎった）」という形容詞が「Glanz（光沢・輝き）」という美的語と結合することで、美と嫌悪の同時的提示というハイムの基本的修辞を確立する。「Gruft」第3連「schwimmt das Glänzen / dran Verwesung zehrt（光沢が揺蕩う、腐朽がそれを侵食する）」との照応。",
+      "targetId": "rimbaud_ophelie",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Die Leiche wälzt sich ganz heraus. Es bläht\nDas Kleid sich wie ein weißes Schiff im Wind.\nDie toten Augen starren groß und blind\nZum Himmel, der voll rosa Wolken steht.",
+      "body": "「死の眼は大きく虚ろに凝視している / バラ色の雲に満ちた空へと（Die toten Augen starren groß und blind / Zum Himmel, der voll rosa Wolken steht）」──詩全体の中心的対比。「tote Augen（死の眼）」対「rosa Wolken（バラ色の雲）」：死の物質的グロテスクと自然の美的昇華の対置。「groß und blind（大きく虚ろに）」──詩篇21篇v.17「Foderunt manus meas et pedes meos（手と足を穿った）」・v.18「dinumeraverunt omnia ossa mea（骨をすべて数え上げた）」という身体部位への「まなざしの暴力」との照応：死体の眼が空を「凝視（starren）」し、地上の者たちがその死体を「凝視」するという二重の眼差しの構造。「Das Kleid sich wie ein weißes Schiff im Wind（白い船のように膨らむドレス）」──腐敗ガスによる腹部膨満という物理的事実が「白い船」という航海的比喩に変換される：これが第5連「das weiße Schiff（白い船）」・第6連「segelt froh hinaus（喜ばしく帆走する）」へと続く「死の航海」モチーフの確立。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "– Der Wasserratten Fährte, die bemannen\nDas weiße Schiff. Nun treibt es stolz von dannen,\nVoll grauer Köpfe und voll schwarzer Felle.",
+      "body": "「ドブネズミたちが白い船に乗り込む（Wasserratten … bemannen / Das weiße Schiff）」──第5連はハイムの詩の中で最も物議を醸す箇所のひとつ。「bemannen（乗組員を配置する・乗り込む）」という海事用語が死体とネズミに適用されることで、「白い船」の比喩が完全に展開する：腐敗した死体がドブネズミたちに「乗組員」として乗り込まれた「船」となる。「stolz von dannen treibt（誇らしげに彼方へ流れる）」──「stolz（誇り高い・誇らしげな）」という讃美的語の適用が詩の最大の逆説的転用。英雄的・高貴な感情語が最も卑俗な対象に適用されるこの修辞は、崇高（das Erhabene）の語彙によってアブジェクション（abjectio）を描写するという表現主義的戦略として機能する。クリステヴァ「アブジェクション（Pouvoirs de l'horreur, 1980）」における「abject（アブジェクト）」──自己から投げ捨てられたもの・象徴的秩序から排除されたものとしての死体が、「stolz（誇らしげ）」という秩序の語によって逆説的に讃美される。詩篇21篇v.7「abjectio plebis（民の廃棄物）」という「投棄された者」の聖書的先形がここで都市の廃棄物と同化する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Die Tote segelt froh hinaus, gerissen\nVon Wind und Flut. Ihr dicker Bauch entragt\nDem Wasser groß, zerhöhlt und fast zernagt.\nWie eine Grotte dröhnt er von den Bissen.",
+      "body": "「死女は喜ばしく外洋へと帆走する（Die Tote segelt froh hinaus）」──「froh（喜ばしい・嬉しい）」という感情語の適用が第5連「stolz（誇らしげ）」に続く讃美的語彙の継続。表現主義における死者の「主体化（Subjektivierung）」：死体が感情・意志・能動性を付与され、逆説的な生として描写される。「zerhöhlt und fast zernagt（えぐられ、ほぼ食い尽くされて）」──「zer-」という破壊的接頭辞の二重使用（zerhöhlt・zernagt・zerschlägt「Gruft」第6連など）がハイムの語彙形成上の特徴：「zer-」は「完全な破壊・解体」を示すドイツ語の接頭辞であり、これらの語が腐朽・解体の段階的かつ完全な進行を表す。「Wie eine Grotte dröhnt er von den Bissen（洞穴のように、それは噛み跡からどろんと響く）」──「Grotte（洞穴・グロッタ）」という語の起源：イタリア語「grotta」からフランス語「grotte」経由で「grotesque（グロテスク）」の語根となった。腐食した腹部が「洞穴」として比喩化されることで、グロテスク（grotesque）の語源的意味──地下の洞穴に描かれた怪物的装飾──が文字通り身体において実現される。ボードレール「腐肉（Une Charogne）」「あなたも最後にはこんなものになる（Vous serez semblable à cette ordure）」という腐朽の告知との照応。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Sie treibt ins Meer. Ihr salutiert Neptun\nVon einem Wrack, da sie das Meer verschlingt,\nDarinnen sie zur grünen Tiefe sinkt,\nIm Arm der feisten Kraken auszuruhn.",
+      "body": "「難破船からネプトゥヌスが彼女に敬礼する（Ihr salutiert Neptun / Von einem Wrack）」──神話的存在ネプトゥヌス（海神）が「難破船から（Von einem Wrack）」という廃墟の場所に立って死体に「salutieren（敬礼する）」という場面。第5連「stolz」・第6連「froh」に続く讃美語彙の頂点として「salutiert（敬礼する）」が来る：軍事的・礼儀的行為を死体に向ける神話的存在の完全な逆説。「Wrack（難破船・廃墟）」──「Gruft」第1連「morsch und im Verfall（朽ちて崩壊途上）」と同様の廃墟モチーフ：ネプトゥヌスが「難破船（Wrack）」に立っているという設定が、神的権威の廃墟化・失効として機能する。「zur grünen Tiefe sinkt（緑の深みへと沈む）」──「grün（緑）」という唯一の生の色彩が死の最終局面に出現する：海の深みの「緑」は生命の色であると同時に腐敗の色（グリーン・デスの緑）として機能する両義性を持つ。「Im Arm der feisten Kraken auszuruhn（太った蛸の腕の中で安らうために）」──「feist（太った・肥え太った）」という卑俗語が「Kraken（蛸・海の怪物）」に適用され、抱擁・安らぎというロマン主義的終結の語彙（auszuruhn）が怪物的存在によって担われる。ランボー「酔いどれ船（Le Bateau ivre）」との対比：ランボーの「酔いどれ船」が主体的航行から沈降へと向かうのに対し、ハイムの死体-船は客体として海に「飲み込まれ（verschlingt）」蛸に抱かれる受動的消滅として終わる。",
+      "targetId": "rimbaud_le_bateau_ivre",
+      "targetParagraphId": null
+    }
+  ]
+}
