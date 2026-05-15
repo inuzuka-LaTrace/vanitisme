@@ -1,0 +1,98 @@
+{
+  "id": "delamare_for_all_the_grief",
+  "title": "For All the Grief",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/For_All_the_Grief",
+  "year": "1919",
+  "firstPublication": "Motley (1919); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の初期詩集『Motley』（1919年）所収。全3連各4行（第2連のみ変則）、ABAB韻を基調とする。デ・ラ・メアのコーパス中、最も直接的な「詩的贖罪（poetic atonement）」の詩。詩人が「言葉によって与えてきた悲嘆（grief I have given with words）」に対する贖いとして、死後に美しきものが現れることを願う三連の祈願詩。第1連：「言葉によって与えた悲嘆のために / 今いくつかの澄んだ花が咲きますように / 孤独な者たちが行く / 塵と熱と鳥の沈黙の中に」。第2連：「心が私に求めた語られなかったことのために / 暗く冷たい水となれ──呼び続ける / 影が落ちるとき / 足を痛め、夜に迷い、孤独な者に」。第3連：「私のすべての盲目に対して美となれ / 疲れた者たちが行く空の月となれ / 終わりの闇の中に / 慈しみを帯びた露となれ」。「Betrayal」の絶望・「Dust to Dust」の死の要求と対照的に、本詩はデ・ラ・メアのコーパスで最も利他的・贈与的な声として異彩を放つ。「孤独な者・足を痛めた者・疲れた者」への慰めとしての詩の機能──ジョンソン「De Profundis」の「白い天使への訴え」と対称的な、詩人が自ら「澄んだ花・冷たい水・月・露」として贈与される構造。",
+  "keywords": [
+    "grief",
+    "atonement",
+    "words",
+    "clear flowers",
+    "cool water",
+    "solitary",
+    "moon",
+    "dew",
+    "loving-kindness",
+    "贖罪",
+    "詩の贈与"
+  ],
+  "relatedTexts": [
+    "delamare_dust_to_dust",
+    "delamare_betrayal",
+    "delamare_silence",
+    "delamare_when_the_rose_is_faded",
+    "johnson_de_profundis",
+    "johnson_ash_wednesday",
+    "weil_accepter_le_vide",
+    "weil_pesanteur_beaute",
+    "hieronymus_psalm_129",
+    "verlaine_calme_orphelin"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "For all the grief I have given with words\nMay now a few clear flowers blow,\nIn the dust, and the heat, and the silence of birds,\nWhere the lonely go.",
+      "provisionalTranslation": "言葉によって私が与えてきたすべての悲嘆のために\n今いくつかの澄んだ花が咲きますように、\n塵と熱と鳥の沈黙の中に、\n孤独な者たちが行くところに。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "For the thing unsaid that heart asked of me\nBe a dark, cool water calling — calling\nTo the footsore, benighted, solitary,\nWhen the shadows are falling.",
+      "provisionalTranslation": "心が私に求めた語られなかったことのために\n暗く冷たい水となれ──呼び続ける──\n足を痛め、夜に迷い、孤独な者に、\n影が落ちるとき。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "O, be beauty for all my blindness,\nA moon in the air where the weary wend,\nAnd dews burdened with loving-kindness\nIn the dark of the end.",
+      "provisionalTranslation": "ああ、私のすべての盲目のために美となれ、\n疲れた者たちが行く空の月となれ、\nそして慈しみを帯びた露となれ\n終わりの闇の中に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "For all the grief I have given with words\nMay now a few clear flowers blow,",
+      "body": "「言葉によって与えた悲嘆（grief I have given with words）」──詩人が自らの詩的言語行為を「悲嘆の贈与」として自己批判的に定義する冒頭。「Precept of Silence」のジョンソン的「I have not spoken of these things（私はこれらのことを語らなかった）」という沈黙の選択と逆の立場から、デ・ラ・メアは「語ってしまったこと」への贖いを詩に込める。「May now a few clear flowers blow（今いくつかの澄んだ花が咲きますように）」：接続法的祈願（may）が詩全体を贖罪の願望として定義する。「clear（澄んだ）」という形容詞が「Hawthorn」の「clear flowers」との語彙的連続を持つ：花が言語的贖いの形象として選ばれる。「Shadow」の「Even the beauty of the rose doth cast a shadow（薔薇の美でさえも影を投げかける）」という花と死の不可分性と対照的に、ここでの花は「悲嘆への答え」として純化される。",
+      "targetId": "johnson_precept_of_silence",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "In the dust, and the heat, and the silence of birds,\nWhere the lonely go.",
+      "body": "「塵と熱と鳥の沈黙（the dust, and the heat, and the silence of birds）」という三重の接続詞連鎖（polysyndeton）が過酷な環境を積み重ねる。「dust（塵）」：コヘレト第12章「revertatur pulvis in terram（塵はその大地に帰る）」・「Ash Wednesday」の「Memento, homo, quia pulvis es」という塵の語彙系列。「silence of birds（鳥の沈黙）」：「Nocturne」の「'Tis not my voice now speaks; but a bird（今語るのは私の声でなく、鳥が）」・「The Dark Château」の「Mute are the golden woodland throats / Of the birds（沈黙している鳥たちの黄金の喉）」という鳥の沈黙の系列の反復。「Where the lonely go（孤独な者たちが行くところ）」：「Magic」のジョンソン的「laborious loneliness（労苦ある孤独）」の自己選択的孤独と対照的に、ここでの孤独は贖いの受取人として他者的に定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "For the thing unsaid that heart asked of me\nBe a dark, cool water calling — calling",
+      "body": "「心が求めた語られなかったこと（the thing unsaid that heart asked of me）」──「Precept of Silence」の「I have not spoken of these things（私はこれらのことを語らなかった）」という沈黙の選択が、ここでは「語られなかったこと（the thing unsaid）」として他者の「心（heart）」が詩人に求めたものとして外面化される。「calling — calling」というダッシュによる同語反復が水の声の持続的呼びかけを音響的に実演する。「footsore, benighted, solitary（足を痛め、夜に迷い、孤独な者）」：三形容詞の列挙が第2連の受益者を定義する──「Dust to Dust」の「I, too, would go（私も去りたい）」という詩人自身の疲弊が、ここでは他者の疲弊への共感として変換される。ヴェイユ「Accepter le vide」の「空虚を受け入れること」が水という媒体を通じた他者への贈与として詩的に実現される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "O, be beauty for all my blindness,\nA moon in the air where the weary wend,",
+      "body": "「私のすべての盲目のために美となれ（be beauty for all my blindness）」──「Betrayal」の結語「All blind, and blind（すべて盲目、そして盲目）」という自己の盲目が、ここでは「私の盲目のために」という贖罪の動機として転用される。「Nocturne」の「Mute seraphs guard the way（沈黙のセラフィムたちが道を守る）」・「The Glimpse」の「Pale, changeless, everlasting Dian（蒼白く、変わらず、永遠なるディアナ）」という月的形象が、「疲れた者たちが行く空の月（A moon in the air where the weary wend）」として、慰めの媒体として機能する。「wend（行く）」という古語的動詞が「The Exile」の「I still must roam（私はなお彷徨わなければならない）」という彷徨いの動詞と連続する。",
+      "targetId": "delamare_betrayal",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "And dews burdened with loving-kindness\nIn the dark of the end.",
+      "body": "詩の結語。「慈しみを帯びた露（dews burdened with loving-kindness）」──「loving-kindness」はヘブライ語「חֶסֶד（hesed）」の英訳語として聖書翻訳に定着した語であり、神の恩寵的な愛・憐れみ・忠実な慈しみを意味する。詩篇第129篇（De profundis）v.7「quia apud Dominum misericordia（主のもとには慈しみがあるから）」という「misericordia（慈しみ）」の英詩的変奏として読める。「burdened with（重さを帯びた）」：ヴェイユ「Pesanteur et beauté」の「pesanteur（重力）」という地上の重力が、ここでは「慈しみ」の重さとして愛的に変容される。「In the dark of the end（終わりの闇の中に）」：「Dust to Dust」の「Gardens of the Dead（死者の庭）」・「Betrayal」の「All blind, and blind（すべて盲目）」という終末的暗闇の系列が、本詩では「慈しみを帯びた露」が降り注ぐ場所として逆転的に肯定される──デ・ラ・メアコーパスの最もやわらかな、贈与的な結語として機能する。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    }
+  ]
+}
