@@ -173,7 +173,7 @@ export const AUTHOR_COLOR_MAP = {
   d_g_rossetti:     { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   yeats:            { dark: 'bg-amber-900/40 text-amber-300',   light: 'bg-amber-100 text-amber-800' },
   johnson:          { dark: 'bg-emerald-900/40 text-emerald-300', light: 'bg-emerald-100 text-emerald-800' },
-  deramare:         { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
+  delamare:         { dark: 'bg-violet-900/40 text-violet-300', light: 'bg-violet-100 text-violet-800' },
   george:           { dark: 'bg-teal-900/40 text-teal-300',    light: 'bg-teal-100 text-teal-800' },
   hofmannsthal:     { dark: 'bg-yellow-900/40 text-yellow-400', light: 'bg-yellow-200 text-yellow-900' },
   trakl:            { dark: 'bg-blue-900/40 text-blue-400',    light: 'bg-blue-200 text-blue-900' },
