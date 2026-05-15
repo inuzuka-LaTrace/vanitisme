@@ -1,0 +1,205 @@
+{
+  "id": "heym_ophelia",
+  "title": "Ophelia",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Ophelia. In: Der ewige Tag. S. 56–57. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Ophelia_(Heym)",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。12連48行。二部構成（第I部v.1–16、第II部v.17–48）を持つハイムの詩集中最長格の作品のひとつ。「オフェリア（Ophelia）」というモチーフはシェイクスピア『ハムレット』第4幕第7場における語り（溺死する場面の報告）に遡り、19世紀以降の詩・絵画において水死女性の美化という伝統を形成した。ランボー「Ophélie」（1870）が花に包まれる「白い幻影」として水死女を昇華し、ブロークが「オフェリアの歌（Pesnya Ofelii）」で幻想的・象徴主義的に変奏したのに対し、ハイムは表現主義の眼でこの伝統を根底から解体する。第I部では「髪に溝鼠の巣」「ヒル」「蛍光虫」「うなぎ」というグロテスクな動物的細部によってランボー的美化を反転させ、第II部では農村から産業都市の河川へとオフェリアが流れていく過程で「モロク（Moloch）」「機械の叫び（Maschinenkreischen）」「鎖のような橋（Wie Ketten）」という産業資本主義批判の語彙が大量に流入する。しかし第II部終結部（v.37–48）において「不可視の（unsichtbar）」存在として彼女は都市の水際を通過し、「時間を下って、永遠を通って（Die Zeit hinab. Durch Ewigkeiten fort）」という宇宙的・時間横断的な運動として詩は閉じられる。オフェリア伝統の詩的系譜──ランボー・ブローク・デ・ラ・メア・ブロークの「オフェリアの花の中で（Ofeliya v Tsvetakh）」──との交差読解において、ハイムの「Ophelia」はその伝統の表現主義的臨界として位置づけられる。",
+  "keywords": [
+    "Ophelia",
+    "水死",
+    "Wasserratten",
+    "Moloch",
+    "産業都市",
+    "Maschinenkreischen",
+    "ewigen Traum",
+    "Ewigkeiten",
+    "表現主義",
+    "オフェリア伝統",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_die_tote_im_wasser",
+    "heym_gruft",
+    "heym_der_schlafer_im_walde",
+    "rimbaud_ophelie",
+    "blok_pesnya_ofelii",
+    "blok_ofeliya_v_tsvetakh",
+    "delamare_ophelia",
+    "delamare_the_dark_chateau",
+    "hieronymus_psalmi_21",
+    "baudelaire_une_charogne",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Im Haar ein Nest von jungen Wasserratten,\nUnd die beringten Hände auf der Flut\nWie Flossen, also treibt sie durch den Schatten\nDes großen Urwalds, der im Wasser ruht.",
+      "provisionalTranslation": "髪の中に若い溝鼠の巣、\nそして指輪をした手が水面に\nヒレのように広がり、こうして彼女は流れる、影を通って\n水の中に眠る大いなる原始林の影を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Die letzte Sonne, die im Dunkel irrt,\nVersenkt sich tief in ihres Hirnes Schrein.\nWarum sie starb? Warum sie so allein\nIm Wasser treibt, das Farn und Kraut verwirrt?",
+      "provisionalTranslation": "闇の中を迷う最後の太陽が\n深く沈み込む、彼女の脳の厨子の中へ。\nなぜ彼女は死んだのか。なぜこれほど孤独に\n羊歯と水草が絡まり合う水の中を漂うのか。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Im dichten Röhricht steht der Wind. Er scheucht\nWie eine Hand die Fledermäuse auf.\nMit dunklem Fittich, von dem Wasser feucht\nStehn sie wie Rauch im dunklen Wasserlauf,",
+      "provisionalTranslation": "密生した葦の中に風が立っている。風は追い立てる\n一本の手のように蝙蝠たちを。\n水に濡れた暗い翅で\nそれらは暗い水流の中に煙のように立ちこめ、"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Wie Nachtgewölk. Ein langer, weißer Aal\nSchlüpft über ihre Brust. Ein Glühwurm scheint\nAuf ihrer Stirn. Und eine Weide weint\nDas Laub auf sie und ihre stumme Qual.",
+      "provisionalTranslation": "夜雲のように。長い白いうなぎが\n彼女の胸の上を滑り抜ける。蛍光虫が光る\n彼女の額に。そして一本の柳が泣く\n葉を彼女の上に、彼女の沈黙した苦悩の上に。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Korn. Saaten. Und des Mittags roter Schweiß.\nDer Felder gelbe Winde schlafen still.\nSie kommt, ein Vogel, der entschlafen will.\nDer Schwäne Fittich überdacht sie weiß.",
+      "provisionalTranslation": "穀物。種。そして真昼の赤い汗。\n野原の黄色い風は静かに眠っている。\n彼女は来る、眠りに就こうとする鳥のように。\n白鳥の翅が白く彼女を覆う。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Die blauen Lider schatten sanft herab.\nUnd bei der Sensen blanken Melodien\nTräumt sie von eines Kusses Karmoisin\nDen ewigen Traum in ihrem ewigen Grab.",
+      "provisionalTranslation": "青い瞼が柔らかく影を落として下がる。\n鎌の煌めく旋律の中で\n彼女は深紅の口づけを夢見る、\n永遠の墓の中で永遠の夢を。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Vorbei, vorbei. Wo an das Ufer dröhnt\nDer Schall der Städte. Wo durch Dämme zwingt\nDer weiße Strom. Der Widerhall erklingt\nMit weitem Echo. Wo herunter tönt",
+      "provisionalTranslation": "過ぎ去る、過ぎ去る。岸辺に轟く、\n都市の音響が。堤防を突き破って強制する、\n白い流れが。反響が鳴り響く\n遠いこだまとともに。そこから降り響く"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Hall voller Straßen. Glocken und Geläut.\nMaschinenkreischen. Kampf. Wo westlich droht\nIn blinde Scheiben dumpfes Abendrot,\nIn dem ein Kran mit Riesenarmen dräut,",
+      "provisionalTranslation": "通りに満ちた響き。鐘と鐘の音。\n機械の叫び。闘争。西の方に脅える、\n盲目の窓ガラスへと、くぐもった夕焼けが、\nその中で巨大な腕を持つクレーンが威圧する、"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Mit schwarzer Stirn, ein mächtiger Tyrann,\nEin Moloch, drum die schwarzen Knechte knien.\nLast schwerer Brücken, die darüber ziehn\nWie Ketten auf dem Strom, und harter Bann.",
+      "provisionalTranslation": "黒い額を持つ強大な暴君として、\nモロクとして、その周りに黒い奴隷たちがひざまずく。\n重い橋の荷重が上を通り過ぎる\n流れの上の鎖のように、そして過酷な禁縛。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Unsichtbar schwimmt sie in der Flut Geleit.\nDoch wo sie treibt, jagt weit den Menschenschwarm\nMit großem Fittich auf ein dunkler Harm,\nDer schattet über beide Ufer breit.",
+      "provisionalTranslation": "不可視のまま彼女は水の流れに伴われて泳ぐ。\nしかし彼女が漂うところでは、人間の群れを遠くへ追い立てる\n大きな翅で、一つの暗い悲嘆が、\nそれは両岸の上に広く影を落とす。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Vorbei, vorbei. Da sich dem Dunkel weiht\nDer westlich hohe Tag des Sommers spät,\nWo in dem Dunkelgrün der Wiesen steht\nDes fernen Abends zarte Müdigkeit.",
+      "provisionalTranslation": "過ぎ去る、過ぎ去る。闇に身を捧げる、\n西方の夏の遅い高い日が。\n牧草地の暗い緑の中に立っている、\n遠い夕暮れの繊細な疲れが。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "Der Strom trägt weit sie fort, die untertaucht,\nDurch manchen Winters trauervollen Port.\nDie Zeit hinab. Durch Ewigkeiten fort,\nDavon der Horizont wie Feuer raucht.",
+      "provisionalTranslation": "流れは彼女を遠くへと運んでゆく、水に沈んだ彼女を、\n幾多の冬の悲しい港を通り。\n時間を下って。永遠を通って果てしなく、\nそこから地平が炎のように煙る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Im Haar ein Nest von jungen Wasserratten,\nUnd die beringten Hände auf der Flut\nWie Flossen, also treibt sie durch den Schatten\nDes großen Urwalds, der im Wasser ruht.",
+      "body": "「髪の中に溝鼠の巣（Im Haar ein Nest von jungen Wasserratten）」──詩の開口部として、オフェリア伝統への正面からの挑戦。ランボー「Ophélie」（1870）第1連「Sur l'onde calme et noire où dorment les étoiles / La blanche Ophélia flotte comme un grand lys（星が眠る静かで黒い波の上で、白いオフェリアが大きな百合のように漂う）」の「白い幻影・百合」という美化に対して、ハイムは「Wasserratten（溝鼠）」を髪の中の「Nest（巣）」として冒頭に配置する：浮かび上がるのは美ではなく、腐朽が進行する死体。「Die Tote im Wasser」第3連「Ein weißes Tanzkleid kommt（白いダンスドレスが来る）」との構造的対応：どちらも「白いもの」の出現として水面上の存在が登場するが、「Ophelia」では「白い百合」の代わりに「溝鼠の巣」が先行する。「beringten Hände（指輪をした手）」──「Gruft」第4連「die schmale Hand / Von einem Kind（子どもの細い手）」の死体の手との連動：指輪という生の装飾品が死の文脈に残存する。「Urwald（原始林）」──ランボーの「calme et noire（静かで黒い）」水面世界が「Urwald（原始林）」という有機的・古代的な森として変換される：都市河川の前段として、野生の原始的自然の空間が設定される。",
+      "targetId": "rimbaud_ophelie",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Warum sie starb? Warum sie so allein\nIm Wasser treibt, das Farn und Kraut verwirrt?",
+      "body": "「なぜ彼女は死んだのか（Warum sie starb?）」──詩の中で唯一の直接的な問いとして、オフェリアの死の原因を問うが、答えは与えられない。この問いの未答性がブロークの「オフェリアの歌（Pesnya Ofelii）」との根本的な差異を画する：ブロークは象徴主義的なオフェリアに「どこへ泳ぐのか（Gde ty, gde ty, Ofelia）」という内面的叫びを与えるが、ハイムのオフェリアは問いを発する主体を持たず、外部からの「なぜ（Warum）」として問われる。「Hirnes Schrein（脳の厨子）」──「Schrein（厨子・聖遺物箱）」という語の選択：脳が宗教的遺物を収める容器（Reliquiar）として比喩化される。死んだ脳に「最後の太陽（letzte Sonne）」が沈み込むという形象が、生の最後の光の死体内部への収蔵として機能する。詩篇21篇v.16「Aruit tamquam testa virtus mea（私の力は陶器の破片のように乾いた）」という内部の枯渇との照応。",
+      "targetId": "blok_pesnya_ofelii",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Im dichten Röhricht steht der Wind. Er scheucht\nWie eine Hand die Fledermäuse auf.\nMit dunklem Fittich, von dem Wasser feucht\nStehn sie wie Rauch im dunklen Wasserlauf,",
+      "body": "「密生した葦の中に風が立っている（Im dichten Röhricht steht der Wind）」──「Der Schläfer im Walde」第1連の「Der Wald liegt tot（森は死んで横たわる）」における「横たわる森」に対して、ここでは「立っている風（Wind steht）」という逆説的静止。「Wie eine Hand（一本の手のように）」──風の「手」という擬人化が蝙蝠を追い立てる：「Gruft」第4連「die schmale Hand / Von einem Kind（子どもの細い手）」・「Die Tote im Wasser」第2連「Wie eine weiße Haut（白い皮膚のように）」と連動する「手」の形象が三作品を横断する。「Fittich（翅）」──第5連「Der Schwäne Fittich（白鳥の翅）」・第10連「Mit großem Fittich（大きな翅で）」と三度反復される：蝙蝠の「暗い翅（dunklem Fittich）」から白鳥の「白い翅（weiß）」へ、さらに「悲嘆の翅（Fittich eines dunklen Harm）」へという「Fittich」の変奏が詩全体の音響的骨格を形成する。ABAB韻律（scheucht—feucht, auf—Wasserlauf）が第I部の二連で採用される一方、第II部はほぼ全連ABBA抱擁韻へと移行する：形式的変化が第I部（自然）から第II部（都市）への転換と平行する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ein langer, weißer Aal\nSchlüpft über ihre Brust. Ein Glühwurm scheint\nAuf ihrer Stirn. Und eine Weide weint\nDas Laub auf sie und ihre stumme Qual.",
+      "body": "「長い白いうなぎが彼女の胸の上を滑り抜ける（Ein langer, weißer Aal / Schlüpft über ihre Brust）」──「Die Tote im Wasser」で「溝鼠が白い船（死体）に乗り込む」という動物的占拠が、ここでは「うなぎが胸を滑る」という接触の形象として繰り返される。「Die Tote im Wasser」のネズミ・「Der Schläfer im Walde」の蛆虫・「Ophelia」のうなぎ──腐朽の担い手としての動物が三作品を通じて変奏される。「Glühwurm（蛍光虫）」──「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」との対照：そこでは食い込む「Würmer（蛆虫）」だったのに対し、ここでは光る「Glühwurm」が額を照らす。腐朽の中の光という逆説的美がデ・ラ・メア「Ophelia」の「pale and cold（蒼白く冷たい）」という静的描写と対比される。「eine Weide weint / Das Laub auf sie（一本の柳が葉を彼女の上に泣く）」──シェイクスピア『ハムレット』第4幕第7場のゲルトルードの報告「there is a willow grows aslant a brook（小川に斜めに柳が生えている）」から引き継がれるオフェリア伝統の「柳（Weide）」のモチーフ。ランボー「Ophélie」第3連「– Ô pâle Ophélia! belle comme la neige（おお、蒼白いオフェリアよ！雪のように美しい）」への照応：ランボーの「美」がハイムでは「stumme Qual（沈黙した苦悩）」として反転する。",
+      "targetId": "delamare_ophelia",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Korn. Saaten. Und des Mittags roter Schweiß.\nDer Felder gelbe Winde schlafen still.\nSie kommt, ein Vogel, der entschlafen will.\nDer Schwäne Fittich überdacht sie weiß.",
+      "body": "「穀物。種。そして真昼の赤い汗（Korn. Saaten. Und des Mittags roter Schweiß）」──第II部冒頭。名詞の断片的列挙（Korn. Saaten.）が第I部の連続的描写から切断される：第I部の原始林的水空間から、第II部は農業的景観（穀物・種・野原）へと場面が転換する。「Mittags roter Schweiß（真昼の赤い汗）」──「赤い汗」という形象が第I部「letzte Sonne, die im Dunkel irrt（闇を迷う最後の太陽）」から「赤い太陽」への回帰として読める：しかし昇華された光ではなく「汗（Schweiß）」という労働の分泌物として地上に下降する。「ein Vogel, der entschlafen will（眠りに就こうとする鳥）」──「Der Schläfer im Walde」第3連「Nichts mehr zu sein, von allem abzuscheiden（もはや何者でもなく、すべてから離れ去ること）」という消滅欲望が、ここでは「鳥が眠りに就く（entschlafen）」という動作として婉曲的に再現される。「Schwäne Fittich（白鳥の翅）」──ランボー「Ophélie」の「grand lys（大きな百合）」と同様の純白の覆いとして白鳥が機能する：しかし直後の第7連以降で都市の「Maschinenkreischen（機械の叫び）」が侵入し、この白い覆いは破られる。",
+      "targetId": "rimbaud_ophelie",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Den ewigen Traum in ihrem ewigen Grab.",
+      "body": "「永遠の墓の中で永遠の夢（Den ewigen Traum in ihrem ewigen Grab）」──「ewig（永遠）」の二重使用が第II部全体の時間論的主題を先取りする。「Der Schläfer im Walde」第2連「ewigen Vergessen（永遠の忘却）」・同第6連「Er schläft, ein Gott, den süßer Traum bezwang（甘い夢に屈した神として眠る）」との照応：三作品において「永遠」は救済ではなく「夢（Traum）」「忘却（Vergessen）」「影（Schatten）」の永続として定義される。「Karmoisin（深紅・カーマイン）」──口づけの色としての「深紅（Karmoisin）」が「Die Tote im Wasser」の「bleiweiß（鉛白）」・「Gruft」の「schwarzem Marmor（黒い大理石）」と対置される：三作品中で最も鮮やかな色彩語として、夢の中の生の欲望（口づけ）が「死の色（白・黒・灰）」と区別される唯一の赤系色として機能する。「Sensen blanken Melodien（鎌の煌めく旋律）」──「Sensen（鎌）」は死神の刃の伝統的象徴：「旋律（Melodien）」という音楽語との結合が「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」と同様に、死の道具を音楽化する。コヘレト第12章v.6「priusquam rumpatur funiculus argenteus（銀の紐が断ち切られる前に）」という死の比喩的描写との照応。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Vorbei, vorbei. Wo an das Ufer dröhnt\nDer Schall der Städte. Wo durch Dämme zwingt\nDer weiße Strom. Der Widerhall erklingt\nMit weitem Echo. Wo herunter tönt",
+      "body": "「過ぎ去る、過ぎ去る（Vorbei, vorbei）」──第7連と第11連の冒頭を飾る句頭反復（Anaphora）。「vorbei（過ぎ去る）」という副詞の二重反復が詩全体の運動を「通過」として定義する：オフェリアは「どこか」に留まるのではなく、すべてのものの傍らを「過ぎ去る」。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という永続的通過の主題との照応。「Schall der Städte（都市の音響）」──第I部の自然的音響（葦の風・蝙蝠の翅音・柳の葉）から、第II部の産業的音響（都市の音・鐘・機械の叫び・こだま）への転換。この音響的対比が第I部と第II部の主題的対立を最も鮮明に示す。「durch Dämme zwingt（堤防を突き破る）」──「zwingen（強制する・突き破る）」という動詞の選択：自然の流れが産業社会の堤防という人工的制御構造を「強制的に」通過するという運動。ブロークの「オフェリアの花の中で（Ofeliya v Tsvetakh）」における「夢の中の水（voda vo sne）」という象徴主義的な静水と、ハイムの都市の濁流という対照。",
+      "targetId": "blok_ofeliya_v_tsvetakh",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Hall voller Straßen. Glocken und Geläut.\nMaschinenkreischen. Kampf. Wo westlich droht\nIn blinde Scheiben dumpfes Abendrot,\nIn dem ein Kran mit Riesenarmen dräut,",
+      "body": "「機械の叫び（Maschinenkreischen）。闘争（Kampf）」──第8連は詩全体で最も表現主義的・社会批判的な語彙が集中する箇所。「Maschinenkreischen」という複合名詞が一語として出現する点が際立つ：機械の「叫び（Kreischen）」という擬人化が産業機械を苦しみの主体として定義する。「Kampf（闘争）」──名詞の断片的列挙（第II部冒頭「Korn. Saaten.」と同型）が第8連で「Glocken und Geläut. / Maschinenkreischen. Kampf.」として産業的・社会的暴力の列挙として再現される。「blinde Scheiben（盲目の窓ガラス）」──「窓ガラス（Scheiben）」が「盲目（blind）」として定義される：ガラスの透明性（見ること）が否定され、都市の建物が「見ることのできない」盲目的な表面として提示される。「Gruft」第5連「Durch kleine Fenster hoch im Dunkel oben / Verirrt sich gelb（小さな窓から黄色く迷い込む）」という「窓と光の迷い込み」モチーフの都市的変奏として読める。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Ein Moloch, drum die schwarzen Knechte knien.\nLast schwerer Brücken, die darüber ziehn\nWie Ketten auf dem Strom, und harter Bann.",
+      "body": "「モロク（Ein Moloch）」──旧約聖書における子供の生贄を要求するカナンの神モロク（Moloch）が産業資本主義の比喩として機能する。ハイムの同時代人、ハインリヒ・ハイネ（Heinrich Heine）「紡ぎ女たちの歌（Das Lied der schlesischen Weber, 1844）」・カール・マルクス「資本論（Das Kapital, 1867）」における「モロクとしての資本」という比喩の詩的継承。「schwarzen Knechte knien（黒い奴隷たちがひざまずく）」──「schwarzen（黒い）」という色彩が産業労働者を「奴隷（Knechte）」として描写する：「Gruft」第1連「schwarzem Marmorhaupte（黒い大理石の頭部）」・「Die Tote im Wasser」第5連「schwarzer Felle（黒い毛皮）」という「黒」の色彩系列が産業都市の支配と死を結ぶ。「Wie Ketten auf dem Strom（流れの上の鎖のように）」──「橋（Brücken）」が「鎖（Ketten）」として比喩化される：架橋という文明的接続が支配・束縛の形象として転倒される。「harter Bann（過酷な禁縛）」──魔術的・法的な「禁縛（Bann）」が産業都市の支配構造を「呪い（Bann）」として定義する。詩篇21篇v.17「concilium malignantium obsedit me（悪をなす者たちの集いが私を包囲した）」という包囲の形象との照応：オフェリアが都市という「悪の包囲」を通過する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Unsichtbar schwimmt sie in der Flut Geleit.\nDoch wo sie treibt, jagt weit den Menschenschwarm\nMit großem Fittich auf ein dunkler Harm,\nDer schattet über beide Ufer breit.",
+      "body": "「不可視のまま彼女は水の流れに伴われて泳ぐ（Unsichtbar schwimmt sie in der Flut Geleit）」──第10連はオフェリアの存在様態の転換点。第I部では具体的・感覚的な死体として描かれ（溝鼠・うなぎ・蛍光虫）、第8〜9連の産業都市の描写ではほぼ消えていたオフェリアが、「unsichtbar（不可視）」という存在として再登場する。「不可視」という存在様態がヴェイユ「Effacement（消去）」の「自己消去（s'effacer）」という概念との照応として読める：afflictionを通過したオフェリアが「存在しながら見えない」という自己消去的存在として定義される。「dunkler Harm（暗い悲嘆）」──「Harm（悲嘆・苦悩）」という古語的語彙：オフェリアの「不可視の通過」が周囲に与える影響が「悲嘆（Harm）」として具現化される。都市の人々がこの悲嘆によって散り散りになるという運動が、afflictionの感染的伝播として機能する。詩篇21篇v.7「opprobrium hominum, et abjectio plebis（人間の恥辱、民の廃棄物）」のアブジェクト的存在が「不可視」として都市を通過する読みと共鳴する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Vorbei, vorbei. Da sich dem Dunkel weiht\nDer westlich hohe Tag des Sommers spät,\nWo in dem Dunkelgrün der Wiesen steht\nDes fernen Abends zarte Müdigkeit.",
+      "body": "「闇に身を捧げる（Da sich dem Dunkel weiht）」──「weihen（捧げる・奉献する）」という宗教的語の適用：夏の長い日が闇に「身を捧げる（sich weihen）」ことで、日没が宗教的奉献の行為として定義される。第8連「Maschinenkreischen. Kampf（機械の叫び。闘争）」という産業的轟音から、第11連「zarte Müdigkeit（繊細な疲れ）」という繊細な静寂への後退：都市の暴力と自然の黄昏の対比が第II部の弁証法的展開として機能する。「Des fernen Abends zarte Müdigkeit（遠い夕暮れの繊細な疲れ）」──「Der Schläfer im Walde」第7連「Und er senkt sich müd（そして疲れて降り立つ）」の蝶の「疲れ（müd）」と同じ語が、ここでは「夕暮れの疲れ」として夕景に投影される：生命の疲弊が自然現象へと移し変えられる表現主義的擬人法。デ・ラ・メア「Ophelia」の「pale and cold（蒼白く冷たい）」という静止した死の美と、ハイムの運動し続けるオフェリアの対比：ハイムのオフェリアは「疲れ」を知らず、ただ「Vorbei（過ぎ去る）」。",
+      "targetId": "delamare_ophelia",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Der Strom trägt weit sie fort, die untertaucht,\nDurch manchen Winters trauervollen Port.\nDie Zeit hinab. Durch Ewigkeiten fort,\nDavon der Horizont wie Feuer raucht.",
+      "body": "「時間を下って。永遠を通って果てしなく（Die Zeit hinab. Durch Ewigkeiten fort）」──詩全体の最終的な時間的宣言。「Zeit hinab（時間を下って）」という空間的隠喩：「時間」が「降下（hinab）」という垂直的運動として提示される。「Der Schläfer im Walde」第3連「Und wie ein Hauch der Nacht hinabzuwallen（夜のひと吐息のように下へとただよい降りる）」の「hinab」と同一の方向として──下への運動が消滅と永遠の接点として機能する。「Durch Ewigkeiten fort（永遠を通って果てしなく）」──「Ewigkeiten（永遠、複数形）」という複数形の使用が際立つ：単一の「永遠（Ewigkeit）」ではなく、複数の「永遠たち（Ewigkeiten）」を通過するという、永遠の量的多数化。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性の命題が、ここでは「永遠の複数形」として無限化される。「Davon der Horizont wie Feuer raucht（そこから地平が炎のように煙る）」──「Die Tote im Wasser」第7連「zur grünen Tiefe sinkt（緑の深みへと沈む）」・「Der Schläfer im Walde」第7連「dunkel glüht（暗く燃える）」と連動するハイム三作品共通の「燃焼する終結」の形象：詩は閉じられるのではなく、「煙（raucht）」という消散として開放されたまま終わる。ランボー「酔いどれ船（Le Bateau ivre）」の「J'ai vu quelquefois ce que l'homme a cru voir（私は人間が見たと信じたものを見た）」という幻視的終結に対して、ハイムは「wie Feuer raucht（炎のように煙る）」という煙の消散で応答する：幻視の肯定ではなく、視界の喪失として終わる。",
+      "targetId": "rimbaud_le_bateau_ivre",
+      "targetParagraphId": null
+    }
+  ]
+}
