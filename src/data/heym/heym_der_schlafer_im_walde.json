@@ -1,0 +1,137 @@
+{
+  "id": "heym_der_schlafer_im_walde",
+  "title": "Der Schläfer im Walde",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Der Schläfer im Walde. In: Der ewige Tag. S. 21–22. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Der_Schl%C3%A4fer_im_Walde",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "中級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Der Schläfer im Walde（森の眠り人）」は同詩集所収の「Gruft」「Die Tote im Wasser」とともにハイムの「死」の主題を共有する。7連28行、ABAB交互韻（Kreuzreim）。詩の構造は「現在の死体」から「死者の王国」へのヴィジョン的移行として展開する：第1〜2連は森の中に横たわる傷を負った死体の現在的描写（朝の雨・葉の滴り・頭蓋の虫）、第3〜5連は「いかに甘いことか（Wie süß ist es）」という韻文的独白として「眠り人たちの王国（Reich der Schläfer）」のヴィジョンが展開し、第6〜7連で再び死体の現在へと回帰する。この構造はラテン語詩「De Profundis」的な「嘆きから讃美への転換」を逆に用いる：ハイムにおいて「甘さ（Süße）」は救済ではなく消滅への欲望として機能する。「Nichts mehr zu sein, von allem abzuscheiden（もはや何者でもなく、すべてから離れること）」というv.11の命題が詩全体の哲学的核心であり、ヴェイユ「Décréation（脱創造）」の「非被造物への移行」という神学的欲望の世俗的・物質的変容として読める。最終連の「蝶（Falter）」と「血の聖杯（Kelch von Blut）」という二つの形象——脆弱な美と傷口の合流——がヴァニタス絵画の「花と骸骨」という古典的対置の詩的定着として詩全体を閉じる。",
+  "keywords": [
+    "森の眠り人",
+    "Vergessen",
+    "Schädel",
+    "Würmer",
+    "Reich der Schläfer",
+    "Hetairieen",
+    "Nichts mehr zu sein",
+    "Falter",
+    "Kelch von Blut",
+    "Sammetrose",
+    "表現主義",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_die_tote_im_wasser",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "hofmannsthal_terzinen",
+    "rimbaud_ophelie",
+    "weil_decreation",
+    "hieronymus_iob_1",
+    "hieronymus_psalmi_21",
+    "rodenbach_devant_tete_de_mort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Seit Morgen ruht er. Da die Sonne rot\nDurch Regenwolken seine Wunde traf.\nDas Laub tropft langsam noch. Der Wald liegt tot.\nIm Baume ruft ein Vögelchen im Schlaf.",
+      "provisionalTranslation": "朝からずっと彼は眠っている。赤い太陽が\n雨雲を通して彼の傷を射た、あの時から。\n葉はまだゆっくりと滴り落ちている。森は死んで横たわる。\n木の中で、小鳥が眠りながら鳴いている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Der Tote schläft im ewigen Vergessen,\nUmrauscht vom Walde. Und die Würmer singen,\nDie in des Schädels Höhle tief sich fressen,\nIn seine Träume ihn mit Flügelklingen.",
+      "provisionalTranslation": "死者は永遠の忘却の中で眠っている、\n森のざわめきに包まれて。蛆虫たちは歌う、\n頭蓋の空洞の中で深く食い込みながら、\n翅の音で彼を夢の中へと送り込みながら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Wie süß ist es, zu träumen nach den Leiden\nDen Traum, in Licht und Erde zu zerfallen,\nNichts mehr zu sein, von allem abzuscheiden,\nUnd wie ein Hauch der Nacht hinabzuwallen,",
+      "provisionalTranslation": "苦しみの後に夢を見ることは、いかに甘いことか、\n光と土の中に崩れ落ちる夢を。\nもはや何者でもなく、すべてから離れ去り、\n夜のひと吐息のように下へとただよい降りる夢を、"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Zum Reich der Schläfer. Zu den Hetairieen\nDer Toten unten. Zu den hohen Palästen,\nDavon die Bilder in dem Strome ziehen,\nZu ihren Tafeln, zu den langen Festen.",
+      "provisionalTranslation": "眠り人たちの王国へ。地下の死者たちの\n友誼団へ。高い宮殿へ、\nそこからの映像が流れの中をゆく、\n彼らの食卓へ、長い祝宴へ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Wo in den Schalen dunkle Flammen schwellen,\nWo golden klingen vieler Leiern Saiten.\nDurch hohe Fenster schaun sie auf die Wellen,\nAuf grüne Wiesen in den blassen Weiten.",
+      "provisionalTranslation": "そこでは椀の中に暗い炎が膨れ上がり、\nそこでは多くの竪琴の弦が黄金色に鳴り響く。\n高い窓から彼らは波を見渡し、\n蒼白い広がりの中の緑の牧草地を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Er scheint zu lächeln aus des Schädels Leere,\nEr schläft, ein Gott, den süßer Traum bezwang.\nDie Würmer blähen sich in seiner Schwäre,\nSie kriechen satt die rote Stirn entlang.",
+      "provisionalTranslation": "彼は頭蓋の虚ろから微笑んでいるように見える、\n甘い夢に屈した神として眠っている。\n蛆虫たちは彼の重さの中で膨れ上がり、\n満腹になって赤い額に沿ってはいずる。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Ein Falter kommt die Schlucht herab. Er ruht\nAuf Blumen. Und er senkt sich müd\nDer Wunde zu, dem großen Kelch von Blut,\nDer wie die Sammetrose dunkel glüht.",
+      "provisionalTranslation": "一羽の蝶が峡谷を下ってくる。花の上に\n宿る。そして疲れて降り立つ\n傷口へと、血の大きな聖杯へと、\nビロード薔薇のように暗く燃えているそれへと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Seit Morgen ruht er. Da die Sonne rot\nDurch Regenwolken seine Wunde traf.\nDas Laub tropft langsam noch. Der Wald liegt tot.",
+      "body": "「朝からずっと彼は眠っている（Seit Morgen ruht er）」——冒頭の三つの短文（Seit Morgen ruht er. / Da die Sonne rot … / Das Laub tropft langsam noch. / Der Wald liegt tot.）が断片的な知覚の切断として機能する。「ruht（眠る・休む）」という動詞が死の婉曲表現として第2連「Der Tote schläft（死者は眠る）」へと継続される：「眠ること（Schlaf）」と「死（Tod）」の等価化がこの詩の根本的修辞。「Der Wald liegt tot（森は死んで横たわる）」——死体の「横たわること（liegen）」と森の「横たわること」の重ね合わせ：「森全体が死体と同一の状態にある」という拡張。詩集名『永遠の日（Der ewige Tag）』の「Tag（昼・日）」が「赤い太陽（die Sonne rot）」として冒頭に現れるが、その太陽は「雨雲（Regenwolken）」を通してしか届かず、傷口を照らすことしかできない：光が生を照らすのではなく死の傷を確認するだけという逆転。コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的無常との照応：ハイムの「赤い太陽」は循環するのではなく、傷口に触れてその場に止まる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Der Tote schläft im ewigen Vergessen,\nUmrauscht vom Walde. Und die Würmer singen,\nDie in des Schädels Höhle tief sich fressen,\nIn seine Träume ihn mit Flügelklingen.",
+      "body": "「永遠の忘却（ewigen Vergessen）」——「ewig（永遠）」という語が「Gruft」最終連「In ewigen Schatten（永遠の影の中）」と「Die Tote im Wasser」の「stolz von dannen」という讃美語彙に続き、ここでは「忘却（Vergessen）」に適用される。「忘却」の永遠化：コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の抹消が「ewig（永遠）」という時間的無限化によって確定される。「die Würmer singen（蛆虫たちが歌う）」——腐朽の担い手である「Würmer（蛆虫）」が「singen（歌う）」という音楽的行為の主体として配置される：生の崇高な行為（歌）が死の物質的プロセスの描写に適用される逆転的転用。第6連「Die Würmer blähen sich in seiner Schwäre（蛆虫たちは彼の重さの中で膨れ上がる）」との連動でWürmerが詩の構造的繰り返し語として機能する。「Flügelklingen（翅の音）」——「Flügel（翅）」と「Klingen（響き・鳴ること）」の複合名詞：蛆虫の翅が夢の音楽として機能するという転倒した美学。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Wie süß ist es, zu träumen nach den Leiden\nDen Traum, in Licht und Erde zu zerfallen,\nNichts mehr zu sein, von allem abzuscheiden,\nUnd wie ein Hauch der Nacht hinabzuwallen,",
+      "body": "「いかに甘いことか（Wie süß ist es）」——第3〜4連は詩全体の中心的ヴィジョン部であり、死者の「夢（Traum）」としての消滅欲望を展開する。「Wie süß（いかに甘い）」という感嘆構文が死の欲望を肯定的・美的に枠組みする：「Die Tote im Wasser」の「froh（喜ばしく）」「stolz（誇らしげに）」と同系列の逆説的讃美語彙。「Nichts mehr zu sein, von allem abzuscheiden（もはや何者でもなく、すべてから離れ去ること）」——詩全体の哲学的核心命題。「Nichts（無）」という存在の否定をシモーヌ・ヴェイユ「Décréation（脱創造）」§1「脱創造：被造物から非被造物へ（Décréation: passer du créé à l'incréé）」の対概念として読める：ヴェイユの脱創造が神への向上的自己消去であるのに対し、ハイムの「Nichts mehr zu sein」は神への向きを持たない物質的消滅への欲望。「Hauch der Nacht（夜のひと吐息）」——「Hauch（吐息・ひと吹き）」はヘブライ語「הֶבֶל（hevel）」——「Vanitas vanitatum」の語源としての「息・蒸気・実体のなさ」——の詩的変容として機能する：コヘレト第1章の「vanitas」がここでは死への溶け込みとして積極的に欲望される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Zum Reich der Schläfer. Zu den Hetairieen\nDer Toten unten. Zu den hohen Palästen,\nDavon die Bilder in dem Strome ziehen,\nZu ihren Tafeln, zu den langen Festen.",
+      "body": "「眠り人たちの王国（Reich der Schläfer）」——死者の国の古典的形象。第3連末尾v.12「hinabzuwallen（下へとただよい降りる）」から第4連v.13「Zum Reich der Schläfer（眠り人たちの王国へ）」という跨行（Enjambement）が、降下運動の連続として死者の国への到達を実演する。「Hetairieen（友誼団）」——ギリシア語「ἑταιρεία（hetaireia）」からの借用：古典的な友人・仲間の団体を指す。ハイムが表現主義的文脈でギリシア古典語彙を使用する際の典型的語彙選択：死者の国が単なる暗闇ではなく、古典的な饗宴の空間として豊かに構築される。「Davon die Bilder in dem Strome ziehen（そこからの映像が流れの中をゆく）」——「Bilder（映像・絵・像）」が「Strom（流れ・川）」の中を「ziehen（ゆく・流れる）」：死者の国の宮殿から発せられる「像」が川を流れるという幻視的イメージ。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という川の循環との照応：ハイムでは川が「映像を運ぶ」という詩的機能を持つ。「langen Festen（長い祝宴）」——ホメロス的死者の国の宴（ヨブ記以前のシェオール的冥府観）の表現主義的継承：死者たちが永遠の饗宴を開いているという古典的ハデス観。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wo in den Schalen dunkle Flammen schwellen,\nWo golden klingen vieler Leiern Saiten.\nDurch hohe Fenster schaun sie auf die Wellen,\nAuf grüne Wiesen in den blassen Weiten.",
+      "body": "「椀の中に暗い炎が膨れ上がり（dunkle Flammen schwellen）」——「dunkle Flammen（暗い炎）」という矛盾語法（Oxymoron）：炎は通常「明るい」が「暗い」という形容詞との結合が表現主義的な矛盾的強度を生む。「Schalen（椀・皿）」——ヴァニタス画における「椀」は灰や骨を盛る器として機能することがある。「Wo … Wo（そこでは……そこでは）」という句頭反復（Anapher）が第5連全体を死者の王国の描写として整列させる：二回の「Wo」が空間的確定として機能する。「blassen Weiten（蒼白い広がり）」——「blass（蒼白・青白い）」という色彩が「Gruft」第5連「blassem Staub（蒼白い塵）」・「Die Tote im Wasser」の「bleiweiß（鉛白）」と連動する：ハイムにおける白・蒼白の色彩系列が死の色彩体系として三作品を横断する。ABAB韻律（schwellen—Wellen, Saiten—Weiten）が第5連において最も整然と機能し、死者の王国の「調和」を形式的に実演する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Er scheint zu lächeln aus des Schädels Leere,\nEr schläft, ein Gott, den süßer Traum bezwang.\nDie Würmer blähen sich in seiner Schwäre,\nSie kriechen satt die rote Stirn entlang.",
+      "body": "「頭蓋の虚ろから微笑んでいるように見える（scheint zu lächeln aus des Schädels Leere）」——第6連は第3〜5連のヴィジョン的展開から死体の現在への回帰として際立つ。「Schädels Leere（頭蓋の虚ろ）」——「Gruft」第1連「Marmorhaupte hohl und karg（大理石の頭部、虚ろで乏しい）」の「hohl（虚ろ）」と連動：ハイムの三作品に共通する「頭蓋の虚ろ」というヴァニタス的形象の反復。「Ein Gott, den süßer Traum bezwang（甘い夢に屈した神）」——「ein Gott（一人の神）」という格上げが「Die Tote im Wasser」の「stolz（誇らしげ）」「froh（喜ばしく）」と同系列の逆説的讃美として機能する。死体が「神」として名付けられることで、第3〜5連の「夢のヴィジョン」が神的経験として遡及的に権威づけられる。「satt die rote Stirn entlang（満腹になって赤い額に沿って）」——「satt（満腹）」という日常語が蛆虫の行為の主体的・充足的完結として機能する：死体は「神」として眠り、蛆虫は「満腹」になる——存在の階梯が転倒した逆説的均衡。詩篇21篇v.27「Edent pauperes, et saturabuntur（貧しい者たちは食べ、満たされる）」という「飽食」の宗教的主題の物質的反転として読める。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 27
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ein Falter kommt die Schlucht herab. Er ruht\nAuf Blumen. Und er senkt sich müd\nDer Wunde zu, dem großen Kelch von Blut,\nDer wie die Sammetrose dunkel glüht.",
+      "body": "「一羽の蝶（Ein Falter）」——最終連の中心的形象。「Falter（蝶）」はドイツ語詩の伝統において霊魂・儚さ・美の象徴として機能する。「Gruft」最終連の「Wind」が外部からの破壊的力として機能したのに対し、「Falter」は繊細で脆弱な生命として同じ「外部からの訪問者」という役割を担う。「müd（疲れて）」——蝶の疲労が第1連「Seit Morgen ruht er（朝からずっと眠っている）」の死体の「休息」と共鳴する：生の疲弊（蝶の müd）と死の永眠（彼の Ruht）の等価化。「Kelch von Blut（血の聖杯）」——「Kelch（聖杯・カリス）」という語が聖餐式の杯を想起させる：死の傷口が「聖杯」として比喩化されることで、キリスト教的受難（Passion）と死者の傷の重ね合わせが生じる。「Sammetrose（ビロード薔薇）」——「Sammet（ビロード）」という布地語と「Rose（薔薇）」の複合名詞が「Gruft」第4連「Sammetband（ビロードの紐）」を繰り返す：ビロードという豊かで官能的な素材が死の文脈に埋め込まれるというハイムの一貫したヴァニタス的対位法の継続。「dunkel glüht（暗く燃える）」——「Die Tote im Wasser」第7連「zur grünen Tiefe sinkt（緑の深みへと沈む）」・「Gruft」第5連「gelb des Winterabends Schein（黄色い冬の夕べの光）」と同様に、燃焼する色彩が死の最終形象として置かれる：傷口＝聖杯＝薔薇が「暗く燃える」ことで、腐朽と美・死と情熱の境界が溶解する。ホフマンスタール「テルツィーネン（Terzinen）」の「薔薇と死」という主題との照応。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    }
+  ]
+}
