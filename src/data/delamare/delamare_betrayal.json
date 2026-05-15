@@ -1,0 +1,124 @@
+{
+  "id": "delamare_betrayal",
+  "title": "Betrayal",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Betrayal",
+  "year": "1919",
+  "firstPublication": "Motley (1919); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "初級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『Motley』（1919年）所収。全6連各3行、ABA韻を基調とする短詩。「彼女は死なないだろう、と彼らは言う──美を脇に置いて立ち去るだけだ（She will but put her beauty by / And hie away）」という他者の言葉（「they say」）への詩人の個人的反論として詩が展開する。「彼女の美が去った後」の世界の荒廃が六連に渡って予見される：夢想の孤独・すべての事物の悲化・希望の記憶化・過去の亡霊の囁き・夢の中でのみ見えるその美・そして「人間の偽りの天国（man's false Heaven）」による慰めの不可能性。表題「Betrayal（裏切り）」が指すものが詩中明示されない：「彼女」の美の喪失による詩人への裏切りか、「死なない」という他者の言葉による詩人の感情への裏切りか、あるいは「人間の偽りの天国（man's false Heaven）」による信仰の裏切りかという三層の曖昧性。「When the Rose is Faded」の薔薇の褪色後の記憶主題と対称的に、本詩では美の喪失後の世界の根本的荒廃が希望の余地なく提示される。ジョンソン「Ash Wednesday」のダウスン追悼詩との照応において、本詩の「彼女（She）」は「他者の喪失」への個人的応答として位置づけられる。",
+  "keywords": [
+    "betrayal",
+    "beauty",
+    "death",
+    "reverie",
+    "ghosts",
+    "mortal beauty",
+    "false Heaven",
+    "blindness",
+    "喪失",
+    "裏切り",
+    "悲嘆"
+  ],
+  "relatedTexts": [
+    "delamare_when_the_rose_is_faded",
+    "delamare_remembrance",
+    "delamare_shadow",
+    "delamare_even_in_the_grave",
+    "johnson_ash_wednesday",
+    "dowson_a_last_word",
+    "rossetti_remember",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "verlaine_colloque_sentimental"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "She will not die, they say,\nShe will but put her beauty by\nAnd hie away.",
+      "provisionalTranslation": "彼女は死なないだろう、と彼らは言う、\n彼女はただ美を脇に置いて\n立ち去るだけだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Oh, but her beauty gone, how lonely\nThen will seem all reverie,\nHow black to me!",
+      "provisionalTranslation": "ああ、しかし彼女の美が去ったなら、いかに孤独に\nすべての夢想が思われることだろう、\n私にはいかに暗いことか！"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "All things will sad be made\nAnd every hope a memory,\nAll gladness dead.",
+      "provisionalTranslation": "すべての事物は悲しくなるだろう\nそして希望はすべて記憶となり、\nすべての喜びは死ぬ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "Ghosts of the past will know\nMy weakest hour, and whisper to me,\nAnd coldly go.",
+      "provisionalTranslation": "過去の亡霊たちは知るだろう\n私の最も弱い時間を、そして私に囁き、\n冷たく去っていく。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "And hers in deep of sleep,\nClothed in its mortal beauty I shall see,\nAnd, waking, weep.",
+      "provisionalTranslation": "そして眠りの深みの中で、\nその死すべき美をまとった彼女を私は見るだろう、\nそして、目覚めて、泣くだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.16–18",
+      "original": "Naught will my mind then find\nIn man's false Heaven my peace to be:\nAll blind, and blind.",
+      "provisionalTranslation": "そのとき私の心は何も見出さないだろう\n人間の偽りの天国の中に私の平和を：\nすべて盲目、そして盲目。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "She will not die, they say,\nShe will but put her beauty by\nAnd hie away.",
+      "body": "「彼女は死なないだろう、と彼らは言う」──「they say（彼らは言う）」という他者の声の引用として詩が開く。詩人は他者の慰めの言葉──「美を脇に置いて立ち去るだけ（put her beauty by / And hie away）」という死の婉曲表現──を受け取りながら、その言葉が自分の喪失感を軽減しないことを六連を通じて示す。「put her beauty by（美を脇に置く）」：「When the Rose is Faded」の「Memory may still dwell on / Her beauty shadowed（記憶はその影となった美に留まる）」という褪色後の美の記憶と対照的に、ここでは美が「脇に置かれる」という能動的行為として擬人化される。「hie away（急いで立ち去る）」という古語的動詞が死を旅立ちの比喩として提示する。",
+      "targetId": "delamare_when_the_rose_is_faded",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Oh, but her beauty gone, how lonely\nThen will seem all reverie,\nHow black to me!",
+      "body": "全6連の詩形：各3行、長行（4〜5強勢）・長行・短行（2〜3強勢）という「LL・S」構造。ABA韻が全連を貫く：「say / by / away」「lonely / reverie / me」「made / memory / dead」「know / me / go」「sleep / see / weep」「find / be / blind」。各連の第3行が短い行として感情的打撃を集約する詩形上の工夫：「How black to me!」「All gladness dead.」「And coldly go.」「And, waking, weep.」「All blind, and blind.」というそれぞれの結語が詩の感情的スコアを刻む。「how lonely / Then will seem all reverie（いかに孤独にすべての夢想が思われることか）」：「reverie（夢想）」という語がデ・ラ・メアの詩的語彙の核心──「The Glimpse」の「vapid surface（活気のない表面）」・「The Death-Dream」の夢の空間と連続する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "All things will sad be made\nAnd every hope a memory,\nAll gladness dead.",
+      "body": "「すべての事物は悲しくなる──希望はすべて記憶となり──すべての喜びは死ぬ」という三重の荒廃の宣言。「every hope a memory（希望はすべて記憶となる）」──「The Exile」の「Loosed from remorse and hope and love's distress（後悔と希望と愛の苦悩から解き放たれて）」における「hope」が苦悩の一形態として否定的に位置づけられたことと照応する：「hope」が「memory（記憶）」に変換されることで、未来への投企が過去への沈潜へと転換される。コヘレト第1章v.2「omnia vanitas（すべては虚無）」の命題が「All things will sad be made / All gladness dead」という感情的変奏として英詩化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ghosts of the past will know\nMy weakest hour, and whisper to me,\nAnd coldly go.",
+      "body": "「過去の亡霊（Ghosts of the past）」が「最も弱い時間（weakest hour）」を知り、「囁き（whisper）」、「冷たく去る（coldly go）」という三段階の幽霊的訪問。「whisper（囁き）」：「The Exile」の「sin, and beauty, whisper of Home（罪と美が故郷を囁く）」・「The Dark Château」の「'Tis not my voice now speaks」という間接的・微かな声の系列。「coldly go（冷たく去る）」：ヴェルレーヌ「Colloque sentimental」での亡霊たちが会話を残して去っていく構造との直接的照応。「The Phantom」の「Hauntest on, pursued, unwon（付き纏い続ける、追われ、手に入らないまま）」という幽霊的付き纏いと対照的に、ここでの亡霊たちは「coldly go（冷たく去る）」という無関心な離去として提示される。",
+      "targetId": "verlaine_colloque_sentimental",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "And hers in deep of sleep,\nClothed in its mortal beauty I shall see,\nAnd, waking, weep.",
+      "body": "「眠りの深みの中で、死すべき美をまとった彼女を見る──そして目覚めて泣く（And, waking, weep）」──第5連が詩のなかで最も具体的・視覚的な予見。「in deep of sleep（眠りの深みの中で）」：「The Death-Dream」の「Who put dreams into thy slumbering mind（誰が汝の眠れる心に夢を送り込んだのか）」という眠りと夢の空間の変奏として、ここでは「彼女」が夢の中でのみ見える存在となる。「Clothed in its mortal beauty（死すべき美をまとった）」：「mortal（死すべき・人間的）」という形容詞が「彼女の美」の有限性を定義する──「When the Rose is Faded」の「vanishing loveliness（消えゆく愛しさ）」と同型の美の消滅。「And, waking, weep」：コンマによる分離が「目覚め」と「泣く」の間の時間的落差を詩形的に実演する。",
+      "targetId": "delamare_the_death_dream",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Naught will my mind then find\nIn man's false Heaven my peace to be:\nAll blind, and blind.",
+      "body": "詩の結語。「人間の偽りの天国（man's false Heaven）」──「Even in the Grave」の「'Even in the grave thou wilt have thyself'」という死の宣告と「The Exile」の「Heaven's nothingness（天上の虚無）」という回帰の渇望の間で、ここでは「人間の（man's）」という限定付きの「偽りの（false）」天国が慰めを提供しないと宣言される。「All blind, and blind」：詩中最も簡潔な結語。同語反復（「blind, and blind」）による二重の視覚的喪失の宣言が、第2連「How black to me!」という暗闇の到来の最終的確認として機能する。ジョンソン「Dark Angel」の「I fight thee, in the Holy Name（聖なる御名において汝と戦う）」という信仰的抵抗と逆の方向で、デ・ラ・メアの「man's false Heaven」は信仰的解決の拒絶として詩を閉じる。",
+      "targetId": "johnson_dark_angel",
+      "targetParagraphId": 11
+    }
+  ]
+}
