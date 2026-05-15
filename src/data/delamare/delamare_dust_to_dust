@@ -1,0 +1,118 @@
+{
+  "id": "delamare_dust_to_dust",
+  "title": "Dust to Dust",
+  "author": "Walter de la Mare",
+  "source": "Wikisource: Collected Poems, 1901–1918, Volume 1. https://en.wikisource.org/wiki/Collected_Poems,_1901-1918/Volume_1/Dust_to_Dust",
+  "year": "1919",
+  "firstPublication": "Motley (1919); repr. Collected Poems, 1901–1918, Volume 1 (1920)",
+  "difficulty": "中級",
+  "category": "delamare",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ウォルター・デ・ラ・メア（Walter de la Mare, 1873–1956）の詩集『Motley』（1919年）所収。全5連各3行、AAA韻（三行連句）による死の祈願詩。「天上の射手（Heavenly Archer）」への呼びかけで始まり・閉じる首尾呼応（inclusio）構造。「天上の射手」はアポロン（詩・太陽・医療の神、同時に弓矢による急死の神）またはエロス（愛の矢の射手）として解釈可能だが、ここでは「死の使者」として機能する。第1連：「生の炎が低く燃える今、汝の弓を引け──青春は去った、私も去りたい」という死への祈願。第2連：運命（Fortune）が「すべての法悦の殺害者（Murderess of all ecstasies）」であるという認識。第3連：霊は暗く孤独に感覚に縛られながらも「失われた至福の便り（tidings of a bliss foregone）」を聞き続ける。第4連：「夢なき頭には眠りがよい──死者の庭から吐息一つで驚かされることなく」。第5連：「バビロンの川のほとりで憔悴しながら（By Babylon's river languishing）、不滅の竪琴が鳴り響くのを私は聞く──天上の射手よ、汝の弦を放て」という結語。「Betrayal」の「All blind, and blind」という絶望的閉じ方と対照的に、「Dust to Dust」は積極的な死の要求として閉じる。ジョンソン「Dark Angel」の信仰的戦いとダウスン「Venite Descendamus」の夜への沈降という双方の要素を統合した詩として位置づけられる。",
+  "keywords": [
+    "Heavenly Archer",
+    "dust to dust",
+    "death",
+    "Fortune",
+    "ecstasy",
+    "Babylon",
+    "immortal harps",
+    "bliss foregone",
+    "Gardens of the Dead",
+    "死への祈願",
+    "アポロン"
+  ],
+  "relatedTexts": [
+    "delamare_betrayal",
+    "delamare_even_in_the_grave",
+    "delamare_the_exile",
+    "delamare_shadow",
+    "dowson_venite_descendamus",
+    "johnson_dark_angel",
+    "johnson_de_profundis",
+    "swinburne_garden_of_proserpine",
+    "hieronymus_psalm_129",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Heavenly Archer, bend thy bow;\nNow the flame of life burns low,\nYouth is gone; I, too, would go.",
+      "provisionalTranslation": "天上の射手よ、汝の弓を引け；\n今、生の炎は低く燃える、\n青春は去った；私も、また、去りたい。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Even Fortune leads to this:\nHarsh or kind, at last she is\nMurderess of all ecstasies.",
+      "provisionalTranslation": "運命でさえもここへと導く：\n厳しくとも親切にとも、最後には彼女は\nすべての法悦の殺害者である。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "Yet the spirit, dark, alone,\nBound in sense, still hearkens on\nFor tidings of a bliss foregone.",
+      "provisionalTranslation": "しかし霊は、暗く、孤独に、\n感覚に縛られ、なお聞き続ける\n失われた至福の便りを求めて。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "Sleep is well for dreamless head,\nAt no breath astonished,\nFrom the Gardens of the Dead.",
+      "provisionalTranslation": "眠りは夢なき頭には良い、\n吐息一つにも驚かされることなく、\n死者の庭から。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "I the immortal harps hear ring,\nBy Babylon's river languishing.\nHeavenly Archer, loose thy string.",
+      "provisionalTranslation": "不滅の竪琴が鳴り響くのを私は聞く、\nバビロンの川のほとりで憔悴しながら。\n天上の射手よ、汝の弦を放て。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Heavenly Archer, bend thy bow;",
+      "body": "「天上の射手（Heavenly Archer）」──ギリシャ神話のアポロン（Apollo）の最も特徴的な属性である弓と矢の使い手としての側面。アポロンは詩・音楽・太陽の神であると同時に、「遠射の神（ἑκάτος）」として矢による急死をもたらす神でもある。ホメロス『イリアス』第1歌でアポロンがギリシャ軍に疫病の矢を放つ場面の変奏として読める。「Ophelia」の「heart's lute hath a broken string（心の竪琴には切れた弦がある）」・「Nocturne」の「it is my heart that sings, / And beats in vain its wings（歌っているのは私の心だ、空しく翼を羽ばたかせながら）」という弦楽器・翼の形象が、ここでは「弓の弦（string）」という死の解放の形象として最終連で結語となる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Now the flame of life burns low,\nYouth is gone; I, too, would go.",
+      "body": "「生の炎は低く燃える（flame of life burns low）」──生命の衰退を炎の減衰として定義する形象。「Betrayal」の「All gladness dead（すべての喜びは死ぬ）」という感情的死の宣告と照応しながら、ここでは「炎」という物理的エネルギーの衰退として客観化される。「Youth is gone; I, too, would go（青春は去った；私も去りたい）」：「青春（Youth）」の擬人的出発と詩人自身の出発の欲求が「too（もまた）」という副詞で同型化される。ジョンソン「Magic」の「While death and darkness girdle me, / I grope for immortality（死と暗闇が私を取り囲む中、私は不滅を手探りで求める）」という死への開口と対照的に、デ・ラ・メアは「不滅を求める」でなく「去りたい」という受動的・肯定的な死への欲求を提示する。",
+      "targetId": "johnson_magic",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Even Fortune leads to this:\nHarsh or kind, at last she is\nMurderess of all ecstasies.",
+      "body": "「すべての法悦の殺害者（Murderess of all ecstasies）」──「Fortune（運命）」の女性的擬人化が「殺害者（Murderess）」という女性形の語として定義される。「ecstasies（法悦）」という複数形が人生において経験可能なすべての高揚状態の総体を指す。ジョンソン「Dark Angel」の「flames of evil ecstasy（邪悪な法悦の炎）」という邪悪な法悦と対照的に、ここでの「ecstasies」は価値的に中立──運命という外的力によって殺害されるものとして提示される。「The Glimpse」の「Life's ecstasy（生の法悦）」という一瞬の超越的法悦が、ここでは運命によって消滅させられる脆弱なものとして再定義される。コヘレト第1章「afflictio spiritus（霊の苦悩）」という世界の苦悩の英詩的変奏として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Yet the spirit, dark, alone,\nBound in sense, still hearkens on\nFor tidings of a bliss foregone.",
+      "body": "「霊は暗く孤独に感覚に縛られ、失われた至福の便りを聞き続ける（tidings of a bliss foregone）」──「bliss foregone（失われた至福）」：「foregone（かつて経験され今は失われた）」という過去分詞が楽園的至福の喪失後の状態として機能する。「The Exile」の「A world where sin, and beauty, whisper of Home（罪と美が故郷を囁く世界）」という失われた楽園への渇望と照応する。「Bound in sense（感覚に縛られ）」：ヴェイユ「Pesanteur et beauté（重力と美）」の「pesanteur（重力）」──地上の物質的力学に縛られた人間の条件──の詩的変奏として読める。「still hearkens on（なお聞き続ける）」：「Nocturne」の「Mute seraphs guard the way / Even from silence unto speech（沈黙のセラフィムたちが沈黙から言葉へと向かう道を守る）」という聴取の姿勢と照応する。",
+      "targetId": "delamare_the_exile",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sleep is well for dreamless head,\nAt no breath astonished,\nFrom the Gardens of the Dead.",
+      "body": "「夢なき頭には眠りがよい──死者の庭から吐息一つにも驚かされることなく」。「dreamless head（夢なき頭）」：デ・ラ・メアのコーパスで繰り返す「dream」という語が「dreamless（夢なき）」として否定される──「The Glimpse」の「fading dreams（消えゆく夢）」・「The Death-Dream」の夢的通信・「The Dark Château」の夢の城館という夢の系列の最終的な否定として、「夢なき眠り」が死の理想的状態として提示される。「Gardens of the Dead（死者の庭）」：古典的「エリシオンの野（Elysian Fields）」の変奏──「Shadow」の「shadowless asphodel（影なきアスフォデル）」という死後の庭の形象と連続する。ダウスン「Venite Descendamus」の「let us go down」という夜・死への沈降の誘いと照応する。",
+      "targetId": "dowson_venite_descendamus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "I the immortal harps hear ring,\nBy Babylon's river languishing.\nHeavenly Archer, loose thy string.",
+      "body": "詩の結語。「バビロンの川のほとりで憔悴しながら（By Babylon's river languishing）」──詩篇第137篇v.1「Super flumina Babylonis, illic sedimus et flevimus（バビロンの川のほとりで、私たちは座り泣いた）」の直接的引用。捕囚の民が川のほとりで竪琴を柳にかけて嘆く場面──「I the immortal harps hear ring（不滅の竪琴が鳴り響くのを私は聞く）」という聴取が、詩篇的嘆きの空間での「不滅の竪琴」の聴取として重層化される。「Heavenly Archer, loose thy string（天上の射手よ、汝の弦を放て）」：冒頭「bend thy bow（弓を引け）」への応答として、「loose thy string（弦を放て）」という矢の発射が死の完成として要求される。「Ophelia」の「heart's lute hath a broken string（心の竪琴には切れた弦がある）」・「Nocturne」の「beats in vain its wings（空しく翼を羽ばたかせる）」という生の不全を経て、「loose thy string」という死の解放への要求がデ・ラ・メアコーパスの最終的な死の命令形として機能する。",
+      "targetId": "hieronymus_psalm_129",
+      "targetParagraphId": null
+    }
+  ]
+}
