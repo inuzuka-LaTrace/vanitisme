@@ -1,0 +1,163 @@
+{
+  "id": "heym_bist_du_nun_tot",
+  "title": "Bist Du nun tot?",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Bist Du nun tot? In: Der ewige Tag. S. 23–24. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Bist_Du_nun_tot%3F",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Bist Du nun tot?（お前はもう死んでいるのか?）」は9連36行、全篇ABAB交互韻。ハイム詩集中で最も直接的に「殺人」という行為とその直後の精神状態を扱う例外的な作品。語りの人称が詩の展開とともに三段階で移行する構造が際立つ：第1〜3連では「Du（死体への二人称）」として死体に語りかける殺人者の視点、第4〜6連では「ich（一人称）」として過去の愛と憎しみの記憶が自問形式で噴出し、第7連でダッシュによって括られた「sie（三人称）」──「Ihr nackter Leib ist kalt und eisesklar（彼女の裸の体は冷たく氷のように明澄だ）」──が外部から死体を叙述する瞬間的な視点転換として挿入され、第8〜9連では再び「sie（三人称）」のまま語り手が部屋を逃げ出す。この人称の崩壊が「自己と死体」「愛と殺害」「内部と外部」の境界の溶解として機能する。「Hasses ungeheurer Freudigkeit（憎しみの途方もない歓び）」という第5連の命題はハイムの詩群において最も明示的な情動の逆説であり、エロスとタナトス・愛とagressionの結合という精神分析的モチーフの表現主義的極限として位置づけられる。最終連の「Gleich schwarzer Flamme, die im Sturm verlischt（嵐の中で消える黒い炎のように）」が「Gruft」「Ophelia」「Der Schläfer im Walde」に通底するハイム的「燃焼する終結」の形象をここでも担う。",
+  "keywords": [
+    "殺人",
+    "Würgemale",
+    "エロスとタナトス",
+    "人称の移行",
+    "Hasses Freudigkeit",
+    "schwarze Flamme",
+    "Ampellicht",
+    "stumm",
+    "表現主義",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_die_tote_im_wasser",
+    "heym_der_schlafer_im_walde",
+    "heym_ophelia",
+    "baudelaire_une_charogne",
+    "baudelaire_femmes_damnees",
+    "trakl_de_profundis",
+    "hieronymus_psalmi_21",
+    "weil_la_violence",
+    "rossetti_dead_before_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Bist Du nun tot? Da hebt die Brust sich noch,\nEs war ein Schatten, der darüber fegt,\nDer in der ungewissen Dämmrung kroch\nVom Vorhang, der im Nachtwind Falten schlägt.",
+      "provisionalTranslation": "お前はもう死んでいるのか。そこでまだ胸が持ち上がっている、\nそれはひとつの影だった、その上を掃き抜ける、\n定かならぬ薄明りの中をはい進む影、\n夜風の中でひだを打つカーテンから。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Wie ist Dein Kehlkopf blau, draus ächzend fuhr\nDein leises Stöhnen von der Hände Druck.\nDas ist der Würgemale tiefe Spur,\nDu nimmst ins Grab sie nun als letzten Schmuck.",
+      "provisionalTranslation": "お前の喉仏はなんと青いことか、そこからうめきながら出た、\nお前の低い呻き声が、手の圧力によって。\nこれは絞殺痕の深い跡、\nお前はそれを今や最後の装飾品として墓へと持っていく。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Die weißen Brüste schimmern hoch empor\nIndes Dein stummes Haupt nach hinten sank,\nDas aus dem Haar den Silberkamm verlor.\nBist Du das, die ich einst so heiß umschlang?",
+      "provisionalTranslation": "白い胸が高く輝いている\nお前の沈黙した頭が後ろへと沈んでいく間に、\n髪から銀の櫛を失った頭が。\nこれがお前なのか、かつて私がこんなにも熱く抱き締めた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Bin ich denn der, der einst bei Dir geruht\nVor Liebe toll und bittrer Leidenschaft,\nDer in Dich sank wie in ein Meer von Glut\nUnd Deine Brüste trank wie Traubensaft?",
+      "provisionalTranslation": "私はあの者なのか、かつてお前のそばで横たわった、\n愛に狂い激しい情念の前に、\nお前の中へと炎の海のように沈んでいき\nお前の胸を葡萄の汁のように飲んだあの者が。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Bin ich denn der, der so voll Zorn gebrannt\nWie einer Höllenfackel Göttlichkeit,\nUnd Deine Kehle wie im Rausch umspannt,\nIn Hasses ungeheurer Freudigkeit?",
+      "provisionalTranslation": "私はあの者なのか、地獄の松明の神性のように\nこれほど怒りに燃え上がり、\n酩酊のうちにお前の喉を締め上げた、\n憎しみの途方もない歓びの中で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Ist das nicht alles nur ein wüster Traum?\nIch bin so ruhig und so fern der Gier.\nDie fernen Glocken zittern in dem Raum,\nEs ist so still wie in den Kirchen hier.",
+      "provisionalTranslation": "これはすべて荒涼とした夢に過ぎないのではないか。\n私はこんなにも静かで、欲望からこんなにも遠い。\n遠い鐘が部屋の中に震えている、\nここはまるで教会の中のように静かだ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Wie ist das alles fremd und sonderbar?\nWo bist Du nun? Was gibst Du Antwort nicht?\n– Ihr nackter Leib ist kalt und eisesklar\nIm blassen Schein vom blauen Ampellicht. –",
+      "provisionalTranslation": "これはすべてなんと奇妙で異様なことか。\nお前は今どこにいるのか。なぜ答えないのか。\n──彼女の裸の体は冷たく氷のように明澄だ\n青い吊り燈籠の光の蒼白い輝きの中で。──"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Was ließ sie alles auch so stumm geschehn.\nSie wird mir furchtbar, wenn so stumm sie liegt.\nO wäre nur ein Tropfen Bluts zu sehn.\nWas ist das, hat sie ihren Kopf gewiegt?",
+      "provisionalTranslation": "彼女はすべてがこんなにも黙ったまま起きるにまかせた。\nこんなにも黙って横たわる彼女は私に恐ろしくなってくる。\nああ、血がひとしずくでも見えたら。\nこれは何だ、彼女は頭を揺らしたのか。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Ich will hier fort. – Er stürzt aus dem Gemach.\nDer Nachtwind, der im Haar der Toten zischt,\nLöst leis es auf. Es weht dem Winde nach,\nGleich schwarzer Flamme, die im Sturm verlischt.",
+      "provisionalTranslation": "ここを去りたい。──彼は部屋から転げ出る。\n死んだ女の髪の中で囁く夜風が、\n静かにそれをほどく。風の後を吹き流れる、\n嵐の中で消え去る黒い炎のように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Bist Du nun tot? Da hebt die Brust sich noch,\nEs war ein Schatten, der darüber fegt,",
+      "body": "「お前はもう死んでいるのか（Bist Du nun tot?）」──詩のタイトルが冒頭行として反復される：問いが答えを得ないまま詩に入り込む。「nun（今・もう）」という副詞が時間的臨界を示す：死の確認行為が現在進行中であることを定義する。「Da hebt die Brust sich noch（そこでまだ胸が持ち上がっている）」──死の直後における身体運動への疑念。「noch（まだ）」という副詞が死と生の境界の不確定性を示す：「まだ」生きているのか、それとも死後の反射運動なのか。「Gruft」第1連「Wie schlafen sie so stumm im hohlen Sarg（いかに黙して空洞の棺の中に眠ることか）」の死者の「沈黙した眠り」が、ここでは「まだ胸が動く」という観察によって問いに付される。「Es war ein Schatten（それはひとつの影だった）」──「war（だった）」という過去形が現在の「hebt（持ち上がっている）」と対置される：影は既に去ったが胸はまだ動く、という時間の錯綜。「ungewissen Dämmrung（定かならぬ薄明り）」──「ungewiss（不確か・定かでない）」という形容詞が視覚的不確定性を主題化する：何が見えて何が見えないかの境界が「Dämmrung（薄明り）」によって溶解する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Wie ist Dein Kehlkopf blau, draus ächzend fuhr\nDein leises Stöhnen von der Hände Druck.\nDas ist der Würgemale tiefe Spur,\nDu nimmst ins Grab sie nun als letzten Schmuck.",
+      "body": "「絞殺痕の深い跡（der Würgemale tiefe Spur）」──「Würgemale（絞殺痕）」という医学的・法律的語が詩に導入される：ハイムの五作品中でここだけが「殺人の証拠」という法的・犯罪的現実に直接言及する。「Kehlkopf blau（喉仏が青い）」──「Ophelia」第1連の「Würgemale」との連動：「Ophelia」では「Kehle（喉）」が「締め上げられた（umspannt）」として過去として言及され、ここでは「Kehlkopf（喉仏）」の「青み（blau）」という結果として現在的に提示される。「Du nimmst ins Grab sie nun als letzten Schmuck（最後の装飾品として墓へ持っていく）」──「Schmuck（装飾品・宝飾）」という語の逆説的転用：絞殺痕（暴力の刻印）が「最後の装飾品（letzten Schmuck）」として美化される。「Gruft」第4連「Sammetband（ビロードの紐）」・「Die Tote im Wasser」の「Tanzkleid（ダンスドレス）」と同様に、衣装・装飾が死の文脈に配置される。「letzten（最後の）」──詩集名『永遠の日（Der ewige Tag）』の「永遠」に対して、「最後（letzt）」という終末性が絞殺痕に適用される：「最後の装飾品」として死体が完結する。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Die weißen Brüste schimmern hoch empor\nIndes Dein stummes Haupt nach hinten sank,\nDas aus dem Haar den Silberkamm verlor.\nBist Du das, die ich einst so heiß umschlang?",
+      "body": "「これがお前なのか、かつて私がこんなにも熱く抱き締めた（Bist Du das, die ich einst so heiß umschlang?）」──第1連「Bist Du nun tot?」の問いが第3連末尾で「Bist Du das（これがお前なのか）」として反復される：「死んでいるのか」という存在論的問いから「これがお前なのか」という同一性の問いへの移行。死体と過去の「Du（お前）」の同一性が問われる。「stummes Haupt（沈黙した頭）」──「stumm（沈黙した）」という形容詞が「Ophelia」第4連「ihre stumme Qual（沈黙した苦悩）」・「Die Tote im Wasser」第8連「so stumm geschehn（黙ったまま起きる）」と連動：ハイムの死者は一貫して「stumm（沈黙）」として定義される。「Silberkamm（銀の櫛）」──「Ophelia」第4連「beringten Hände（指輪をした手）」と同様に、生の装飾品（指輪・銀の櫛）が死の文脈に残存する：装身具が「失われた（verlor）」こととして生の痕跡の喪失が具体的に刻まれる。詩篇21篇v.19「Diviserunt sibi vestimenta mea（私の衣を分け合った）」という所有物の剥奪の形象との照応：死体から「落ちる」銀の櫛が、afflictionにおける自己の外皮の喪失として読める。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 19
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Bin ich denn der, der einst bei Dir geruht\nVor Liebe toll und bittrer Leidenschaft,\nDer in Dich sank wie in ein Meer von Glut\nUnd Deine Brüste trank wie Traubensaft?",
+      "body": "「私はあの者なのか（Bin ich denn der）」──第4〜5連は自問の二重連として機能する。「Bin ich denn der, der…（私はあの者なのか、……した）」という同一構文の反復が第4連（愛のeros）と第5連（憎しみのaggression）を対称的に組み立てる。第4連は「愛・情念・沈没・飲む」という融合のイメージ系：「in Dich sank wie in ein Meer von Glut（炎の海のように沈んでいく）」の「沈む（sinken）」が「Die Tote im Wasser」第7連「zur grünen Tiefe sinkt（緑の深みへと沈む）」・「Ophelia」第12連「die untertaucht（水に沈んだ彼女）」と連動する：愛の「沈没」と死の「沈没」が同一動詞で結ばれる。「Traubensaft（葡萄の汁）」──聖餐式の葡萄酒（Wein）の感覚的・官能的変形として機能する：ヨハネ福音書6章「私の血を飲む者は」という聖餐論がエロスの文脈に転用される。ABAB韻律（geruht—Glut, Leidenschaft—Traubensaft）が第4連で最も「充足的」に機能する：愛の記憶の充足感と韻の整合が一致する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Bin ich denn der, der so voll Zorn gebrannt\nWie einer Höllenfackel Göttlichkeit,\nUnd Deine Kehle wie im Rausch umspannt,\nIn Hasses ungeheurer Freudigkeit?",
+      "body": "「憎しみの途方もない歓び（Hasses ungeheurer Freudigkeit）」──第5連の頂点命題にして詩全体の哲学的核心。「Freudigkeit（歓び）」という肯定的感情語が「Hass（憎しみ）」という否定的感情の属格に従属する：「憎しみの歓び」という矛盾語法（Oxymoron）がエロスとタナトス・愛と殺意の融合を定式化する。「Die Tote im Wasser」の「froh（喜ばしく）」「stolz（誇らしげ）」・「Der Schläfer im Walde」の「Wie süß ist es（いかに甘いことか）」と同系列の逆説的肯定語がここでは最も暴力的な行為（殺害）に結合する。「Wie einer Höllenfackel Göttlichkeit（地獄の松明の神性のように）」──「Höllenfackel（地獄の松明）」に「Göttlichkeit（神性）」という属格が付く：地獄的なものの中に神性を見出すという逆説。ボードレール「悪の華」の「理想（Idéal）」と「憂鬱（Spleen）」の弁証法──「地獄的なものの中の美的・神的高揚」という命題がハイムの殺害行為への「Freudigkeit（歓び）」として詩的に急進化される。「wie im Rausch（酩酊のうちに）」──意識の陶酔的喪失として殺害行為が定義される：「ich（私）」としての自己同一性の崩壊が「Rausch（陶酔）」として遡及される。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ist das nicht alles nur ein wüster Traum?\nIch bin so ruhig und so fern der Gier.\nDie fernen Glocken zittern in dem Raum,\nEs ist so still wie in den Kirchen hier.",
+      "body": "「これはすべて荒涼とした夢に過ぎないのか（Ist das nicht alles nur ein wüster Traum?）」──第4〜5連の自問が「愛と殺害の記憶を問う」ものだったのに対し、第6連は行為全体を「夢（Traum）」として括弧に入れる試み。「wüster Traum（荒涼とした夢）」──「Der Schläfer im Walde」第6連「Wie süß ist es zu träumen（夢を見ることはいかに甘いことか）」の「甘い夢」の対極として「wüst（荒涼とした・荒廃した）」な夢が配置される：三作品の「夢」が「甘い→荒涼とした→永遠の（ewigen Traum、「Ophelia」第6連）」という変奏として読める。「Ich bin so ruhig（私はこんなにも静かだ）」──第5連「Zorn（怒り）」・「Rausch（陶酔）」・「Freudigkeit（歓び）」という激情の後に来る「ruhig（静か）」が情動の急激な冷却として際立つ：殺害後の「静寂」という心理的現実。「wie in den Kirchen（教会の中のように）」──「鐘（Glocken）」と「教会（Kirchen）」という宗教的空間への比喩。ヨブ記第1章v.21「Sit nomen Domini benedictum（主の御名が祝福されよ）」というすべての喪失の後の神への讃美が、ここでは「教会のような静けさ」という空間的比喩として世俗化・反転される：讃美でも祈りでもなく、殺害後の虚脱的静寂が「教会」として定義される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "– Ihr nackter Leib ist kalt und eisesklar\nIm blassen Schein vom blauen Ampellicht. –",
+      "body": "「──彼女の裸の体は冷たく氷のように明澄だ（Ihr nackter Leib ist kalt und eisesklar）──」──第7連の中央2行がダッシュで括られ、「Du（二人称）」から「sie（三人称）」へという人称転換が突然実現する。「Ihr（彼女の）」という三人称への移行が視点の外在化として機能する：それまで「Du（お前）」として親密に語りかけていた語り手が、死体を突然「sie（彼女）」として客体化する。詩篇21篇v.18「consideraverunt et inspexerunt me（考え、私を眺めた）」という affliction における「まなざしの客体化」との照応：死体が「Du」から「sie」に変わる瞬間が、afflicted personの物象化として読める。「eisesklar（氷のように明澄な）」──「eisesklar（氷＋明澄）」という複合形容詞：「冷たさ（kalt）」と「明澄さ（klar）」の結合が死体の透明な物質性を定義する。「Ophelia」第7連「ihr nackter Leib（彼女の裸の体）」との直接的照応──詩行そのものが一致する。「blauen Ampellicht（青い吊り燈籠の光）」──「blau（青）」という色彩が第2連「Kehlkopf blau（喉仏が青い）」の絞殺痕の青と照応する：「青い光」が「青い喉仏」を照らすという色彩的閉環。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Was ließ sie alles auch so stumm geschehn.\nSie wird mir furchtbar, wenn so stumm sie liegt.\nO wäre nur ein Tropfen Bluts zu sehn.\nWas ist das, hat sie ihren Kopf gewiegt?",
+      "body": "「彼女はすべてが黙ったまま起きるにまかせた（Was ließ sie alles auch so stumm geschehn）」──第8連は人称が「sie（三人称）」として固定されたまま、語り手の不安と恐怖が増幅していく。「stumm（沈黙）」の反復──「stumm geschehn（黙ったまま起きる）」→「stumm sie liegt（黙って横たわる）」と同一形容詞が二度使われる：「Ophelia」「Die Tote im Wasser」「Gruft」を貫く「stumm（沈黙）」の主題がここでは死体の「応答しない沈黙」として恐怖の対象となる。「O wäre nur ein Tropfen Bluts zu sehn（血がひとしずくでも見えたら）」──血の不在への欲望という奇妙な命題：絞殺という「血の出ない死」が死体の現実感を殺害者から奪う。ヴェイユ「La Violence（暴力）」における「affliction は痕跡を残さない（affliction laisse pas de trace visible）」という命題との照応：血という可視的な痕跡の不在が暴力の現実を不可視化する。「hat sie ihren Kopf gewiegt?（彼女は頭を揺らしたのか）」──知覚の崩壊：「まだ動いているのか」という第1連の疑念が第8連末尾で幻覚的知覚として回帰する。死と生の境界の不確定性が詩の冒頭から末尾まで維持される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ich will hier fort. – Er stürzt aus dem Gemach.\nDer Nachtwind, der im Haar der Toten zischt,\nLöst leis es auf. Es weht dem Winde nach,\nGleich schwarzer Flamme, die im Sturm verlischt.",
+      "body": "「ここを去りたい（Ich will hier fort）。──彼は部屋から転げ出る（Er stürzt aus dem Gemach）」──最終連の冒頭で最後の人称転換が起きる：「ich（私）」として発話される意志（Ich will）の直後に「Er（彼）」という三人称への転換がダッシュを挟んで実現する。この人称分裂──「私が言う」と「彼が行動する」──が詩全体の人称移行（Du→ich→sie）の最終局面として、語り手の自己内部における主体の崩壊を示す。「Nachtwind（夜風）」──「Gruft」最終連「Der Wind zerschlägt ein Fenster（風が窓を打ち砕く）」・「Ophelia」の「In ewigen Schatten（永遠の影の中）」と連動する：ハイムの詩における「風」は常に死の空間に侵入し、死者の残滓（花輪・髪）を運び去る外的力として機能する。「Haar der Toten（死んだ女の髪）」──第1連「Du（お前）」から「die Tote（死んだ女）」という非人称化による完全な客体化：詩は「お前は死んでいるのか」という問いで始まり、「死んだ女（die Tote）」という定義で終わる。「Gleich schwarzer Flamme, die im Sturm verlischt（嵐の中で消え去る黒い炎のように）」──「Der Schläfer im Walde」第7連「dunkel glüht（暗く燃える）」・「Ophelia」第12連「Horizont wie Feuer raucht（地平が炎のように煙る）」・「Gruft」第6連「In ewigen Schatten（永遠の影の中）」と連動するハイム五作品共通の「燃焼する終結」の最終形象。「schwarze Flamme（黒い炎）」という矛盾語法──炎は「明るい」はずだが「黒い」：光を発しながら黒い炎が「消え去る（verlischt）」という形象が、コヘレト第1章v.2「Vanitas vanitatum, et omnia vanitas（すべては虚無である）」という消散の詩的定着として詩全体を閉じる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    }
+  ]
+}
