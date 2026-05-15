@@ -1,0 +1,165 @@
+{
+  "id": "hieronymus_psalmi_136",
+  "title": "Psalmi CXXXVI — Super flumina Babylonis",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Psalmi CXXXVI (LXX/Vulgata numbering; Hebrew/English Ps. 137). Bible Gateway: https://www.biblegateway.com/passage/?search=Psalm+137&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "詩篇第136篇（ヘブライ語・英語聖書では137篇；ウルガータ・七十人訳では136篇）。副題「ダヴィデの詩篇、エレミヤに」。バビロン捕囚（紀元前586年）を背景とする嘆きの詩篇。「Super flumina Babylonis（バビロンの川のほとりで）」という冒頭句が西洋文学に広く流通し、ダウスン「Dust to Dust」の「By Babylon's river languishing」・ヴェルディのオペラ「ナブッコ」の合唱「Va, pensiero（行け、わが思いよ）」等の直接的源泉となった。九節の構造：①嘆きの情景（v.1–3）・②エルサレムへの誓い（v.4–6）・③復讐の祈願（v.7–9）。詩篇中で最も暴力的な結語「あなたの幼子を岩に叩きつける者は幸いだ（Beatus qui tenebit, et allidet parvulos tuos ad petram）」は神学的・倫理的論争の焦点であり続ける。詩篇87篇の「転換なき絶望」と対照的に、本篇は嘆きから復讐の宣言へという感情的運動を持つ。VANITISMEコーパスにおいて「バビロン」という空間が「時の塩の海（Time's salt sea）」・「忘却の地（terra oblivionis）」と連動する亡命・忘却・記憶の詩的地図を形成する。",
+  "keywords": [
+    "Super flumina Babylonis",
+    "バビロン捕囚",
+    "Sion",
+    "Jerusalem",
+    "忘却と記憶",
+    "竪琴を柳に掛ける",
+    "異国の歌",
+    "復讐の詩篇",
+    "oblivio",
+    "captivitas"
+  ],
+  "relatedTexts": [
+    "hieronymus_psalmi_87",
+    "hieronymus_psalmi_21",
+    "hieronymus_psalmi_129",
+    "hieronymus_ecclesiastes_11",
+    "hieronymus_iob_3",
+    "delamare_dust_to_dust",
+    "delamare_the_exile",
+    "rodenbach_loubli",
+    "weil_accepter_le_vide",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Super flumina Babylonis, illic sedimus et flevimus, cum recordaremur Sion.",
+      "provisionalTranslation": "バビロンの川のほとりで、私たちはそこに座り泣いた、シオンを思い起こすとき。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "In salicibus in medio ejus suspendimus organa nostra:",
+      "provisionalTranslation": "その中ほどの柳の木々に、私たちは楽器を掛けた："
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "quia illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum; et qui abduxerunt nos: Hymnum cantate nobis de canticis Sion.",
+      "provisionalTranslation": "なぜなら、そこで私たちを虜として連れていった者たちが、歌の言葉を私たちに求めたから；そして私たちを拉致した者たちが：「シオンの歌の中から、私たちに賛歌を歌え。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Quomodo cantabimus canticum Domini in terra aliena?",
+      "provisionalTranslation": "主の歌を、どうして異国の地で歌えようか？"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.",
+      "provisionalTranslation": "もし私がエルサレムを忘れるなら、私の右手が忘れられますように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Adhaereat lingua mea faucibus meis, si non meminero tui; si non proposuero Jerusalem in principio laetitiae meae.",
+      "provisionalTranslation": "私が汝を覚えていなければ、私の喜びの始まりにエルサレムを置かないなら、私の舌が喉に張り付きますように。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Memor esto, Domine, filiorum Edom, in die Jerusalem: qui dicunt: Exinanite, exinanite usque ad fundamentum in ea.",
+      "provisionalTranslation": "主よ、エルサレムの日に、エドムの子らを覚えていてください：「空にせよ、空にせよ、その基礎まで」と言う者たちを。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Filia Babylonis misera! beatus qui retribuet tibi retributionem tuam quam retribuisti nobis.",
+      "provisionalTranslation": "哀れなバビロンの娘よ！汝が私たちに行ったことを、汝への報いとして報いる者は幸いだ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Beatus qui tenebit, et allidet parvulos tuos ad petram.",
+      "provisionalTranslation": "汝の幼子を掴み、岩に叩きつける者は幸いだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Super flumina Babylonis, illic sedimus et flevimus, cum recordaremur Sion.",
+      "body": "「バビロンの川のほとりで、私たちは座り泣いた（sedimus et flevimus）」──詩篇136篇の冒頭命題にして西洋文学・音楽における最も広く流通したラテン語聖書句のひとつ。「Super flumina Babylonis」：ユーフラテス川・ティグリス川等バビロニア（現在のイラク）の川群を指す。ヘブライ語原典「עַל נַהֲרוֹת בָּבֶל（ʿal naharôt Bāvel）」の逐語訳。「cum recordaremur Sion（シオンを思い起こすとき）」：「recordari（記憶する）」という動詞がコヘレト第11章「Non est priorum memoria（先のことどもの記憶はない）」の普遍的忘却命題と逆の方向で、記憶の行為そのものが嘆きを引き起こす構造として機能する。デ・ラ・メア「Dust to Dust」の「By Babylon's river languishing（バビロンの川のほとりで憔悴しながら）」の直接的源泉。",
+      "targetId": "delamare_dust_to_dust",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "In salicibus in medio ejus suspendimus organa nostra:",
+      "body": "「柳の木々に楽器を掛けた（suspendimus organa nostra）」──捕囚の民が竪琴等の弦楽器を川辺の柳に掛けて歌うことを拒絶するという行為が、音楽的沈黙の最も強烈な詩的形象として機能する。「organa（楽器）」：ヘブライ語「כִּנֹּרוֹת（kinnorot）」は竪琴・キタラを指す。「salicibus（柳）」：柳は西洋詩において哀悼・嘆き・別れの象徴として定着する──「Ophelia」のデ・ラ・メアの「The willows quake（柳の木々が震える）」との照応。詩篇87篇「psalmus tenebrosissimus」の「転換なき絶望」と本篇の楽器の沈黙は同様に音楽的活動の停止として嘆きを表現するが、87篇が個人の嘆きであるのに対して136篇は集団的沈黙として提示される。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Hymnum cantate nobis de canticis Sion.",
+      "body": "「シオンの歌の中から、私たちに賛歌を歌え（Hymnum cantate nobis de canticis Sion）」──捕囚者たちへの嘲弄的な歌の要求。「canticis Sion（シオンの歌）」：神殿礼拝の歌・詩篇がシオン（エルサレム）の聖なる場所と不可分であるという神学的前提。ローデンバック「Pour la gloire de Mallarmé」のマラルメへの礼賛詩と照応するという逆方向の読解：ここでは聖なる歌が世俗的・政治的な権力者に強制的に歌わされることへの拒絶が、芸術の自律性の問題として読める。「captivos duxerunt（虜として連れていった）」という表現がヨブ記第1章の試練の強制的性格との照応を持つ。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Quomodo cantabimus canticum Domini in terra aliena?",
+      "body": "「主の歌を、どうして異国の地で歌えようか？（Quomodo cantabimus canticum Domini in terra aliena?）」──詩篇136篇の哲学的核心命題にして修辞的疑問（rhetorical question）の最高例。答えは「歌えない」──しかしこの問い自体が、歌うことの不可能性を詩篇という歌として表現するという逆説を内包する。「terra aliena（異国の地）」：デ・ラ・メア「The Exile」の「A world where sin, and beauty, whisper of Home（罪と美が故郷を囁く世界）」という亡命者的実存と直接照応する。ジョンソン「Precept of Silence」の「I have not spoken of these things / Save to one man, and unto God（私はこれらのことを語らなかった──ただ一人の人間と神のみに）」という沈黙の選択が、ここでは集団的な歌の拒絶として外面化される。",
+      "targetId": "delamare_the_exile",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.",
+      "body": "「もし私がエルサレムを忘れるなら、私の右手が忘れられますように（oblivioni detur dextera mea）」──条件的自呪（conditional self-curse）の定式。「oblivioni detur（忘却に委ねられますように）」：「oblivio（忘却）」という語がコヘレト第1章「Non est priorum memoria（先のことどもの記憶はない）」の普遍的忘却と詩篇87篇「terra oblivionis（忘却の地）」に接続する。しかし本篇では忘却が呪いの対象として提示される：忘れることは最大の刑罰として定義される。「dextera（右手）」：書く手・弦を弾く手・誓いの手。v.2で楽器を柳に掛けた手が、ここでは忘却への制裁として「忘れられる」対象として提示される。",
+      "targetId": "hieronymus_psalmi_87",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Adhaereat lingua mea faucibus meis, si non meminero tui; si non proposuero Jerusalem in principio laetitiae meae.",
+      "body": "「私の舌が喉に張り付きますように──汝を覚えていなければ、私の喜びの始まりにエルサレムを置かないなら」。「Adhaereat lingua mea faucibus meis（舌が喉に張り付く）」：詩篇21篇v.16「lingua mea adhaesit faucibus meis（舌は喉に張り付いた）」の直接的語彙的照応──afflictionの身体的形象の反復。しかし21篇では affliction の結果として舌が張り付くのに対し、136篇では忘却への懲罰として詩人が自ら呪う能動的自己宣言として提示される。「in principio laetitiae meae（私の喜びの始まりに）」：エルサレムの記憶がすべての喜びに先行するという神学的優先権の宣言。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Memor esto, Domine, filiorum Edom, in die Jerusalem: qui dicunt: Exinanite, exinanite usque ad fundamentum in ea.",
+      "body": "「エドムの子らを覚えていてください──『空にせよ、空にせよ、その基礎まで』と言う者たちを」。「Memor esto（覚えていてください）」：v.1の「recordaremur（思い起こすとき）」という捕囚者の記憶行為と対称的に、神への「記憶の要求」として機能する。「Exinanite, exinanite usque ad fundamentum（空にせよ、空にせよ、基礎まで）」：「exinanire（空にする・廃棄する）」という動詞の二重反復が徹底的な破壊の要求を強調する。コヘレト第1章「vanitas vanitatum（虚無の虚無）」の最上級強調構文と同型の反復強調。「エドム（Edom）」：エサウの子孫でイスラエルの宿敵。エルサレム陥落時にバビロン軍に協力したとして詩篇・予言書に繰り返し告発される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Filia Babylonis misera! beatus qui retribuet tibi retributionem tuam quam retribuisti nobis.",
+      "body": "「哀れなバビロンの娘よ（Filia Babylonis misera）！汝への報いとして報いる者は幸いだ」。「misera（哀れな）」という形容が告発の対象であるバビロンに「哀れみ」を込めるという逆説的語法──しかしこの「哀れみ」は共感でなく滅亡への予感として機能する。「retribuet…retributionem…retribuisti（報いる…報い…報いた）」という同一語根の三重反復（figura etymologica）が「報い」の絶対的循環正義を言語的に実演する。「beatus（幸いな）」：詩篇1篇「Beatus vir（幸いな人）」の祝福的開口句が、ここでは復讐者への祝福として転倒される──詩篇全体の文脈において最も衝撃的な「beatitudo（至福）」の逆用のひとつ。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Beatus qui tenebit, et allidet parvulos tuos ad petram.",
+      "body": "「汝の幼子を掴み、岩に叩きつける者は幸いだ（Beatus qui tenebit, et allidet parvulos tuos ad petram）」──聖書全体を通じて最も神学的・倫理的論争を引き起こし続けてきた節のひとつ。「allidet parvulos ad petram（幼子を岩に叩きつける）」：バビロンの次世代の殲滅という復讐の要求。アウグスティヌス「詩篇解説（Enarrationes in Psalmos）」はこの「parvulos（幼子）」を「邪悪な思念の芽生え（initia malarum cogitationum）」として寓意的に解釈した：文字通りの幼児殺害でなく、悪の芽を断つという霊的解釈。「petram（岩）」：キリスト教的解釈では「岩（petra）」はキリスト（1コリント10:4「petra autem erat Christus」）として寓意化される。詩篇136篇の極端な復讐詩篇としての位置づけが、ヴェイユ「affliction」論の「afflictionの暴力が被害者を加害者へと変容させる危険」という命題の聖書的証言として機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    }
+  ]
+}
