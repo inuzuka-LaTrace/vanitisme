@@ -1,0 +1,122 @@
+{
+  "id": "heym_gruft",
+  "title": "Gruft",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Gruft. In: Der ewige Tag. S. 34. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Gruft",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "中級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。ハイムはベルリン表現主義の中核的詩人であり、1912年1月に凍結したハーフェル川でのスケート中の水難事故により24歳で夭折した。「Gruft（地下納骨堂）」は表現主義詩の典型的モチーフである「死の空間」の精緻な定着であり、ヴァニタス美術の静物絵画的構図（頭蓋・腐食・蝋・花・砂時計的時間）を詩的言語へと移植した作品として際立つ。6連24行、ABAB交互韻（Kreuzreim）による均整のとれた形式が、腐食と解体という主題の無秩序と緊張的対照をなす。第1連から第5連までは静止した死者たちの空間を走査する視線の運動として展開され、第6連において「風」という外部の力が侵入し、乾いた花輪を「永遠の影（ewigen Schatten）」へと駆り立てる運動によって閉じられる。この終結部の「動」は解放でも救済でもなく、腐朽の延長である。ヒエロニムス「コヘレト」第1章の「afflictio spiritus（霊の苦悩）」・ローデンバック「骸骨の前で（Devant une Tête de Mort）」・トラークル「De Profundis」のaffliction詩の系譜に連なり、VANITISMEが一貫して追求する「ヴァニタスの詩学」の表現主義的展開として位置づけられる。",
+  "keywords": [
+    "Gruft",
+    "地下納骨堂",
+    "表現主義",
+    "腐朽",
+    "Verwesung",
+    "Wachs",
+    "蝋",
+    "ヴァニタス",
+    "Winterabend",
+    "風と忘却",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "trakl_de_profundis",
+    "trakl_verfall",
+    "hofmannsthal_verse_auf_ein_kleines_kind",
+    "rodenbach_devant_tete_de_mort",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalmi_21",
+    "baudelaire_une_charogne",
+    "rossetti_dead_before_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Die in der großen Gruft des Todes ruhen,\nWie schlafen sie so stumm im hohlen Sarg.\nDes Todes Auge schaut auf stumme Truhen\nAus schwarzem Marmorhaupte hohl und karg.",
+      "provisionalTranslation": "死の大いなる地下納骨堂で眠る者たちは、\nいかに黙して空洞の棺の中に眠ることか。\n死の眼は黙した箱たちを見つめている\n黒い大理石の頭部から、虚ろに、乏しく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Sein dunkler Mantel starrt von Staub und Spinnen.\nVor alters schlossen sie der Toten Gruft.\nVergessen wohnen sie. Die Jahre rinnen\nEin unbewegter Strom in dumpfer Luft.",
+      "provisionalTranslation": "死の暗いマントは塵と蜘蛛で硬直している。\n往古から彼らは死者たちの地下墓を閉じた。\n忘れられて彼らは住まう。歳月は流れる、\n淀んだ空気の中、動かぬ流れとして。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Nach Weihrauch duftet es und morschen Kränzen,\nVon trocknen Salben ist die Luft beschwert.\nUnd in geborstnen Särgen schwimmt das Glänzen\nDer Totenkleider, dran Verwesung zehrt.",
+      "provisionalTranslation": "乳香と朽ちた花輪の香りが漂う、\n乾いた香油に空気は重く圧されている。\n亀裂の入った棺の中で、死装束の\n光沢が揺蕩う──腐朽がそれを侵食する。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Aus einer Fuge hängt die schmale Hand\nVon einem Kind, wie Wachs so weiß und kalt,\nDie, balsamiert, sich um das Sammetband\nDer schon in Staub zerfallnen Blumen krallt.",
+      "provisionalTranslation": "継ぎ目から垂れ下がっている、細い手が\nひとりの子どもの──蝋のように白く冷たい。\nその手は、防腐処置を施されて、ビロードの紐に\nすでに塵と化した花々のそれをつかもうとする。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Durch kleine Fenster hoch im Dunkel oben\nVerirrt sich gelb des Winterabends Schein.\nSein schmales Band, mit blassem Staub verwoben,\nRuht auf der Sarkophage grauem Stein.",
+      "provisionalTranslation": "上方の闇の中、小さな窓から\n冬の夕べの光が黄色く迷い込む。\nその細い帯は、蒼白い塵と織り混ぜられ、\n石棺の灰色の石の上に宿る。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Der Wind zerschlägt ein Fenster. Aus den Händen\nNimmt er der Toten dürre Kränze fort\nUnd treibt sie vor sich hin an hohen Wänden,\nIn ewigen Schatten weit und dunklen Ort.",
+      "provisionalTranslation": "風が窓を打ち砕く。死者たちの手から\n風は乾いた花輪を奪い去り、\n高い壁沿いに、それらを駆り立てる、\n永遠の影の中、遠く暗い場所へと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Des Todes Auge schaut auf stumme Truhen\nAus schwarzem Marmorhaupte hohl und karg.",
+      "body": "「死の眼（Des Todes Auge）」──死が「頭部（Marmorhaupte）」を持つ擬人的存在として召喚される。「schwarzem Marmorhaupte（黒い大理石の頭部）」はバロック・ヴァニタス絵画における石膏製頭蓋骨（memento mori）の詩的変換。「hohl und karg（虚ろで乏しい）」という形容詞の反復は第1連の「hohlen Sarg（空洞の棺）」と「stumme Truhen（黙した箱）」における空洞性・沈黙の主題を確立する。「Truhen（箱・長持ち）」という語──本来は家具を指すが、ここでは棺との同義的ずらしとして機能する：生の財産を収める「箱」と死者を収める「棺」の等価化。コヘレト第1章v.2「Vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無である）」のラテン語的峻厳さが、「hohl und karg」というドイツ語の身体的虚無として視覚化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vergessen wohnen sie. Die Jahre rinnen\nEin unbewegter Strom in dumpfer Luft.",
+      "body": "「忘れられて彼らは住まう（Vergessen wohnen sie）」──「wohnen（住む・居を定める）」という動詞の選択が際立つ：死者は「眠る」のでも「横たわる」のでもなく、地下墓を「住処」として定住する。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の抹消と構造的に照応する。「Die Jahre rinnen / Ein unbewegter Strom（歳月は流れる、動かぬ流れとして）」──「rinnen（流れる）」と「unbewegt（動かぬ）」の矛盾が、コヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」という充足しない循環の運動と響き合う。ローデンバック「忘却（L'Oubli）」の静水のイメージとも照応し、時間が流れながら何も変えない、すなわち忘却が時間の本質であるという命題を文体的に実演する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Und in geborstnen Särgen schwimmt das Glänzen\nDer Totenkleider, dran Verwesung zehrt.",
+      "body": "「亀裂の入った棺の中で、死装束の光沢が揺蕩う（schwimmt das Glänzen）──腐朽がそれを侵食する（Verwesung zehrt）」──名詞化された動詞「das Glänzen（輝くこと・光沢）」という形式が光の動的な持続性を暗示しつつ、「Verwesung zehrt（腐朽が侵食する）」という現在形の動詞と衝突する：美（Glänzen）と解体（Verwesung）の同時進行。「geborstnen（亀裂の入った）」という形容詞が第3連全体のキーワードとして機能する：密閉されていたはずの棺が亀裂を持ち、外と内の境界が崩壊し始めている。ボードレール「腐肉（Une Charogne）」における「腐敗しながらも輝く（brillait d'une ardeur vague）」美の逆説との照応：腐朽の中の光沢という美的モチーフが両作品に共通する。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Aus einer Fuge hängt die schmale Hand\nVon einem Kind, wie Wachs so weiß und kalt,\nDie, balsamiert, sich um das Sammetband\nDer schon in Staub zerfallnen Blumen krallt.",
+      "body": "「継ぎ目から垂れ下がる細い手──蝋のように白く冷たい」──第4連は詩全体の視覚的・情動的頂点。「Fuge（継ぎ目・亀裂）」という語が第3連「geborstnen（亀裂の入った）」と連動し、崩壊する封じ込めの主題を継続する。「wie Wachs（蝋のように）」──詩篇21篇v.15「factum est cor meum tamquam cera liquescens（心臓は溶ける蝋のようになった）」の身体的afflictionの形象と一致する：蝋は死の物質的比喩としてヴァニタス美術で定番的に機能する（溶ける蝋燭＝消えゆく生命）。「balsamiert（防腐処置を施された）」──保存の試みと腐朽の進行の逆説：人間が永続を意図した行為（ミイラ化・防腐）が、「すでに塵と化した花々（schon in Staub zerfallnen Blumen）」という崩壊した対象と組み合わされることで無効化される。子どもという存在──無垢・未来・生命の象徴──が死の空間の中で最も残酷な細部として配置される。ホフマンスタール「幼い子への詩行（Verse auf ein kleines Kind）」の「死と子ども」というモチーフの表現主義的展開として読める。",
+      "targetId": "hofmannsthal_verse_auf_ein_kleines_kind",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Verirrt sich gelb des Winterabends Schein.\nSein schmales Band, mit blassem Staub verwoben,\nRuht auf der Sarkophage grauem Stein.",
+      "body": "「冬の夕べの光が黄色く迷い込む（Verirrt sich gelb des Winterabends Schein）」──第5連は外部からの光の侵入として際立つ。「verirrt（迷い込む・道に迷う）」という動詞──光が「意図せず」地下墓に入り込む偶発的な侵入として、目的論的な照明ではなく「迷子の光」として定義される。「gelb（黄色）」という色彩──表現主義における黄色は衰退・病的状態・秋の終わり・夕暮れの死を示す色調。第1連の「schwarzem（黒）」・第5連の「grauem（灰色）」・「blassem（蒼白）」という色彩系列が、生の色彩を排除した死の色彩体系を構成する。「mit blassem Staub verwoben（蒼白い塵と織り混ぜられ）」──光が塵と物質的に結合することで、外部世界の光すら内部の腐朽に取り込まれてしまうという封鎖的な閉域性が確認される。トラークル「De Profundis」における「黄昏の光と廃墟」というモチーフとの照応。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Der Wind zerschlägt ein Fenster. Aus den Händen\nNimmt er der Toten dürre Kränze fort\nUnd treibt sie vor sich hin an hohen Wänden,\nIn ewigen Schatten weit und dunklen Ort.",
+      "body": "「風が窓を打ち砕く──死者たちの手から乾いた花輪を奪い去り、永遠の影の中、遠く暗い場所へと駆り立てる」──第6連は詩全体の構造的転換点であり、同時に反‐解放として機能する。コヘレト第1章v.6「Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur（風はあらゆるところを照らしながら巡り続け、その巡回へと戻る）」の「spiritus（風・霊）」との照応：ハイムの「Wind」はコヘレト的な循環する「風」の表現主義的変容として、腐朽の空間に外から侵入する無目的な力として機能する。「dürre Kränze（乾いた花輪）」──花輪はもともと勝利・喜び・追悼の象徴であるが、「dürre（乾いた・枯れた）」という形容詞によってその機能を完全に失っている：第4連「schon in Staub zerfallnen Blumen（すでに塵と化した花々）」との連動で、植物的生命の完全な消滅が確認される。「In ewigen Schatten weit und dunklen Ort（永遠の影の中、遠く暗い場所へ）」──「ewig（永遠）」という語の使用が逆説的：「永遠」が救済でも昇華でもなく、「影（Schatten）」と「暗い場所（dunklen Ort）」の永続として定義される。詩集名『永遠の日（Der ewige Tag）』の「ewig」がここで「ewigen Schatten（永遠の影）」として反転し、光のない永遠として詩全体が閉じられる。ローデンバック「骸骨の前で（Devant une Tête de Mort）」の「腐朽の静寂」がここでは「風による運動」として動態化される──しかし運動の行き先は「dunklen Ort（暗い場所）」であり、逸脱なき消散として終わる。",
+      "targetId": "rodenbach_devant_tete_de_mort",
+      "targetParagraphId": null
+    }
+  ]
+}
