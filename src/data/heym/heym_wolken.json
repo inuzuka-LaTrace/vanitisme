@@ -1,0 +1,179 @@
+{
+  "id": "heym_wolken",
+  "title": "Wolken",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Wolken. In: Der ewige Tag. S. 32–33. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Wolken_(Heym)",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Wolken（雲）」は10連40行、全篇ABBA抱擁韻（Umarmungsreim）。タイトル「Wolken（雲）」が示す通り、本作は死者たちの行列が「雲」として天空を移動するという宏壮なヴィジョンとして展開する。「Die Heimat der Toten」の「死者の帰還行列」が地上を進むものであったのに対し、「Wolken」の死者行列は天空を「冥府（Orkus）へと向かう雲」として運動する。詩の構造は行列の漸進的展開として読める：第1〜2連で行列の枠組み設定（死者の魂・カロンへの道・死の旗幟・軍旗）、第3〜5連で行列の構成員の多様性（修道士・腐った棺・水死者・未生児・首吊り・飢死者・子ども・麻痺者・盲者）、第6〜8連で行列の音響的・視覚的強度（松明・頭蓋骨の太鼓・巨帆・追放者たちの讃美歌・十字架）、第9〜10連で嵐の中の「キリスト磔刑像（Kruzifixus）」の到来と完全な「夜（Nacht）」への転落。「Styx」の「地獄の讃美歌（höllischer Choral）」・「Die Heimat der Toten」の「死の行列」の系譜において、「Wolken」はこれらを天空的・宇宙的スケールに拡大した頂点として位置づけられる。「Verbannten（追放者たち）」・「Kruzifixus（キリスト磔刑像）」・「Orkus（冥府）」という語彙の連鎖が宗教的・神話的権威を解体するハイムの詩的攻撃の集大成として機能する。",
+  "keywords": [
+    "雲",
+    "死の行列",
+    "Wesenlosen",
+    "carroccio",
+    "Kruzifixus",
+    "Verbannten",
+    "Orkus",
+    "Schädel",
+    "Choral",
+    "表現主義",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_styx",
+    "heym_die_heimat_der_toten",
+    "heym_gruft",
+    "heym_ophelia",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_34",
+    "baudelaire_litanies_satan",
+    "baudelaire_danse_macabre",
+    "hieronymus_psalmi_21",
+    "hieronymus_ecclesiastes_1",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Der Toten Geister seid ihr, die zum Flusse,\nZum überladnen Kahn der Wesenlosen\nDer Bote führt. Euer Rufen hallt im Tosen\nDes Sturms und in des Regens wildem Gusse.",
+      "provisionalTranslation": "お前たちは死者の魂、川へと、\n実体なき者たちの荷を積んだ小舟へと\n使者が導く。お前たちの叫びは轟音の中に響く\n嵐の轟音と雨の荒れ狂う奔流の中に。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Des Todes Banner wird im Zug getragen.\nDes Heers carroccio führt die Wappentiere.\nUnd graunhaft weiß erglänzen die Paniere,\nDie mit dem Saum die Horizonte schlagen.",
+      "provisionalTranslation": "死の旗が行列の中で運ばれる。\n軍の戦車が紋章の動物たちを率いる。\nそして恐ろしく白く旗たちが輝く、\n縁で地平線を打つ旗たちが。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Es nahen Mönche, die in Händen bergen\nDie Totenlichter in den Prozessionen.\nAuf Toter Schultern morsche Särge thronen.\nUnd Tote sitzen aufrecht in den Särgen.",
+      "provisionalTranslation": "修道士たちが近づく、行列の中で\n死者のための燈火を手に収めて。\n死者たちの肩の上に腐った棺が玉座として鎮まっている。\nそして死者たちが棺の中に直立して座っている。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Ertrunkene kommen. Ungeborner Leichen.\nGehenkte blaugeschnürt. Die Hungers starben\nAuf Meeres fernen Inseln. Denen Narben\nDes schwarzen Todes umkränzen rings die Weichen.",
+      "provisionalTranslation": "溺死者たちが来る。未生児の死体たち。\n首を吊られた者たち、青く絞められて。飢えで死んだ者たち\n海の遠い島々で。彼らの脇腹を\n黒い死の傷跡が周囲に花冠のように囲む。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Es kommen Kinder in dem Zug der Toten,\nDie eilend fliehn. Gelähmte vorwärts hasten.\nDer Blinden Stäbe nach dem Pfade tasten.\nDie Schatten folgen schreiend dem stummen Boten.",
+      "provisionalTranslation": "子どもたちが死者の行列の中にやってくる、\n急いで逃げながら。麻痺した者たちが前へと急ぐ。\n盲目の者たちの杖が道を探ってたどる。\n影たちが叫びながら沈黙した使者に従う。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Wie sich in Windes Maul des Laubes Tanz\nHindreht, wie Eulen auf dem schwarzen Flug,\nSo wälzt sich schnell der ungeheure Zug,\nRot überstrahlt von großer Fackeln Glanz.",
+      "provisionalTranslation": "風の口の中で葉の踊りが回り込むように、\n黒い飛翔の中のフクロウのように、\nこうして途方もない行列が素早く転がる、\n大きな松明の輝きによって赤く照らされながら。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Auf Schädeln trommeln laut die Musikanten,\nUnd wie die weißen Segeln blähn und knattern,\nSo blähn der Spieler Hemden sich und flattern.\nEs fallen ein im Chore die Verbannten.",
+      "provisionalTranslation": "頭蓋骨の上で楽師たちが大きく太鼓を叩く、\nそして白い帆が膨らんでばたばた鳴るように、\n奏者たちのシャツが膨らんではためく。\n追放者たちが合唱の中に加わる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Das Lied braust machtvoll hin in seiner Qual,\nVor der die Herzen durch die Rippen glimmen.\nDa kommt ein Haufe mit verwesten Stimmen,\nDraus ragt ein hohes Kreuz zum Himmel fahl.",
+      "provisionalTranslation": "歌はその苦悩の中を力強く轟いていく、\nその前に心臓たちが肋骨を通して燃えくすぶる。\nすると腐った声を持つ一群がやってくる、\nそこから高い十字架が褪せた空へと聳える。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Der Kruzifixus ward einhergetragen.\nDa hob der Sturm sich in der Toten Volke.\nVom Meere scholl und aus dem Schoß der Wolke\nEin nimmer endend grauenvolles Klagen.",
+      "provisionalTranslation": "キリスト磔刑像が運ばれていった。\nすると嵐が死者たちの民の中で起き上がった。\n海から轟き、雲の胎から\n決して終わることのない恐ろしい嘆きが鳴り響いた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Es wurde dunkel in den grauen Lüften.\nEs kam der Tod mit ungeheuren Schwingen.\nEs wurde Nacht, da noch die Wolken gingen\nDem Orkus zu, den ungeheuren Grüften.",
+      "provisionalTranslation": "灰色の空気の中が暗くなった。\n死が途方もない翅とともに来た。\n夜となった、雲たちがまだ進んでいく中で\n冥府へと、途方もない地下墓へと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Der Toten Geister seid ihr, die zum Flusse,\nZum überladnen Kahn der Wesenlosen\nDer Bote führt.",
+      "body": "「お前たちは死者の魂、川へと、実体なき者たちの荷を積んだ小舟へと使者が導く」──詩の開口部にして最大の神話的設定。「zum Flusse（川へと）」──冥府の川Styx・Phlegetonへの道として：「Styx」第2連「Phlegeton（フレゲトン）」に続く冥府の水の形象。「Kahn der Wesenlosen（実体なき者たちの小舟）」──「Wesenlosen（実体なき者たち）」という名詞化された形容詞：「Wesenlosen」は「Wesen（本質・存在）」の否定として死者を「存在を持たない者たち」として定義する。「Der Bote（使者）」──ギリシア神話の冥府の渡し守カロン（Charon）・またはヘルメス（冥府への案内者）への暗示：「Die Heimat der Toten」第2連「der Tod, der Schifferknecht（死神、船頭）」との照応。「überladnen Kahn（荷を積んだ小舟）」──「überladen（積み過ぎた）」という形容詞がカロンの船の「超満員」状態を示す：ダンテ「地獄篇」第3歌「Caron dimonio… traggesi tutti quanti（カロンが彼らを全員引き連れる）」という渡し守の形象との直接的照応。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des Todes Banner wird im Zug getragen.\nDes Heers carroccio führt die Wappentiere.\nUnd graunhaft weiß erglänzen die Paniere,\nDie mit dem Saum die Horizonte schlagen.",
+      "body": "「死の旗（Des Todes Banner）」・「carroccio（カロッチョ）」──第2連は中世の戦争的・宗教的行列の語彙を死の行列に適用する。「carroccio」──イタリア語に由来する語（ドイツ語ではcarroccio）：中世イタリア（特にミラノ）において都市国家の軍が戦場に持ち込んだ旗を立てた聖なる牛車・移動する祭壇車。ハイムがイタリア語語彙を直接使用する点が表現主義の文化的折衷性の典型例として機能する。「Wappentiere（紋章の動物たち）」──紋章学の紋章動物（ライオン・鷲など）が死の行列の先頭を率いる：「Styx」第5連「fetten Greise（太った老人）」・「Ophelia」第5連「Schwäne Fittich（白鳥の翅）」と連動する行列の先頭的形象。「graunhaft weiß（恐ろしく白く）」──「graunhaft（恐怖をかき立てる）」と「weiß（白）」の結合：「Ophelia」第1連の「weiß」・「Die Tote im Wasser」の「weißes Tanzkleid」と連動する「死の白」がここでは軍旗の色として集団的に出現する。「Horizonte schlagen（地平線を打つ）」──旗の「縁（Saum）」が地平線を「打つ（schlagen）」という大規模な視覚的形象：行列が地平線のスケールにまで拡大されていることを示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Auf Toter Schultern morsche Särge thronen.\nUnd Tote sitzen aufrecht in den Särgen.",
+      "body": "「死者たちの肩の上に腐った棺が玉座として鎮まっている（Auf Toter Schultern morsche Särge thronen）」──「thronen（玉座に鎮まる）」という動詞の適用が際立つ：棺が「玉座（Thron）」として死者の肩の上に「鎮まる」という権力的・高位的形象。「Gruft」第1連「Des Todes Auge schaut … Aus schwarzem Marmorhaupte（大理石の頭部から死の眼が見つめる）」との照応：死が「高い位置から見下ろす」という構造がここでは「棺が玉座として鎮まる」として反復される。「Tote sitzen aufrecht in den Särgen（死者たちが棺の中に直立して座っている）」──「Die Heimat der Toten」第6段落「Verlegen drehend die Köpfe in der Hand（手に持った頭を当惑げに回す）」と同様の「死者の行動」としての奇妙なグロテスク：座ること（生の身体的行為）と棺（死の空間）の組み合わせ。「morsche（腐った）」──「Gruft」第1連「morsch und im Verfall（朽ちて崩壊途上）」と連動する「腐朽（Morsches）」の形容詞。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ertrunkene kommen. Ungeborner Leichen.\nGehenkte blaugeschnürt. Die Hungers starben\nAuf Meeres fernen Inseln. Denen Narben\nDes schwarzen Todes umkränzen rings die Weichen.",
+      "body": "「溺死者たち。未生児の死体たち。首を吊られた者たち、青く絞められて（Ertrunkene kommen. Ungeborner Leichen. / Gehenkte blaugeschnürt）」──第4連は行列の構成員の死の類型を断片的列挙として提示する。名詞の断片的並置──「Ophelia」第8連「Glocken und Geläut. / Maschinenkreischen. Kampf.」・「Die Tote im Wasser」第3連「Staub, Obst, Papier」という列挙的文体との連動。「Ertrunkene（溺死者たち）」──「Ophelia」・「Die Tote im Wasser」の水死女との直接的照応：水死が行列の一成員の死の形態として包含される。「Ungeborner Leichen（未生児の死体たち）」──「geboren（生まれた）」の否定として「ungeboren（未生の）」：生を経験しないまま死んだ者たちが行列に加わる。ヨブ記第3章v.11「Quare non in vulva mortuus sum（なぜ胎内で死ななかったのか）」というヨブの胎内死への欲望と逆に、ここでは胎内で死んだ者たちが「行列」の一員として出現する。「Des schwarzen Todes Narben umkränzen rings die Weichen（黒い死の傷跡が脇腹を花冠のように囲む）」──「Styx」第10連「Den Göttern gleich im heißen Purpurpfühl（神々に等しく）」と同様に、傷跡が「umkränzen（花冠として囲む）」という讃美的動詞で定義される。",
+      "targetId": "hieronymus_iob_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Die Schatten folgen schreiend dem stummen Boten.",
+      "body": "「影たちが叫びながら沈黙した使者に従う（Die Schatten folgen schreiend dem stummen Boten）」──第5連の結語にして詩全体の中心的逆説命題。「Schatten（影）」──ギリシア神話における死者の魂の表現（「σκιά（skia）」）：ホメロス的冥府観における「影」としての死者がここで使用される。「schreiend（叫びながら）」と「stummen（沈黙した）」の対置──「schreiend（叫ぶ）」という行動が「Sterbenden（瀕死の者たち）」に続き「影たち」に適用される一方、「stumm（沈黙）」は「Boten（使者）」に帰属される：死者たちが「叫ぶ」のに対し、使者（カロン的存在）は「沈黙する」という反転。「stumm（沈黙）」──「Ophelia」第4連「stumme Qual（沈黙した苦悩）」・「Die Heimat der Toten」第7段落「überschließt sie stumm（黙って閉じ込める）」・「Bist Du nun tot?」第8連「stumm geschehn（黙ったまま）」と連動：ハイム全作品を貫く「stumm（沈黙）」の主題がここでは「使者の沈黙」として権威的に機能する。詩篇21篇v.2「quare me dereliquisti（なぜ見捨てたのか）」という神への呼びかけが応答なく終わる「神の沈黙」との照応。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Wie sich in Windes Maul des Laubes Tanz\nHindreht, wie Eulen auf dem schwarzen Flug,\nSo wälzt sich schnell der ungeheure Zug,\nRot überstrahlt von großer Fackeln Glanz.",
+      "body": "「風の口の中で葉の踊りが回り込むように（Wie sich in Windes Maul des Laubes Tanz / Hindreht）」──第6連は詩全体の運動的加速点として機能する。「Windes Maul（風の口）」という擬人化：風に「Maul（動物の口）」を与えることで、「葉の踊り（Laubes Tanz）」が「飲み込まれる」という捕食的イメージを生む。二重の直喩（Wie … wie … So）──「Wie … Hindreht（葉が回るように）」・「wie Eulen auf dem schwarzen Flug（フクロウの黒い飛翔のように）」が「So wälzt sich … der ungeheure Zug（行列が転がる）」という帰結へと向かう：直喩の二重化が行列の運動の複合的性格を定義する。「Rot überstrahlt von großer Fackeln Glanz（大きな松明の輝きによって赤く照らされながら）」──「Styx」第4連「höllischer Choral im Takte schwillt（地獄の讃美歌が高まる）」と同様に、行列が「赤（rot）」という炎的色彩に包まれる。ABBA韻律（Tanz—Glanz, Flug—Zug）が第6連で最も音響的に機能する：「Tanz（踊り）」と「Glanz（輝き）」・「Flug（飛翔）」と「Zug（行列）」という意味的照応が韻として収束する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Auf Schädeln trommeln laut die Musikanten,\nUnd wie die weißen Segeln blähn und knattern,\nSo blähn der Spieler Hemden sich und flattern.\nEs fallen ein im Chore die Verbannten.",
+      "body": "「頭蓋骨の上で楽師たちが大きく太鼓を叩く（Auf Schädeln trommeln laut die Musikanten）」──「Styx」第4連「höllischer Choral im Takte schwillt（地獄の讃美歌が拍子を刻んで高まる）」・「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」と連動する「死の音楽」の最も直接的な形象：「Schädeln（頭蓋骨）」が太鼓として楽器化される。「Die Heimat der Toten」第6段落「Da fliegen Schädel aus der Erde Schoß（頭蓋骨が大地の胎から飛び出す）」との照応：一方では地面から飛び出す頭蓋骨、ここでは楽器として叩かれる頭蓋骨──ハイムの頭蓋骨は常に「使用される物体」として機能する。「wie die weißen Segeln blähn（白い帆が膨らむように）」──「Die Tote im Wasser」第4連「Das Kleid sich wie ein weißes Schiff im Wind（ドレスが白い船のように）」・「Ophelia」の「weißes Schiff（白い船）」と連動する「帆・船」の比喩：死体のドレスが「白い船」として比喩化されるのと同様に、ここでは「奏者のシャツ」が「白い帆」として比喩化される。「Verbannten（追放者たち）」──「Styx」第8連「Verbannten selbst wir uns（我々自身が呪われた者として）」の「Verdammten（呪われた者たち）」と語彙的に連動：「追放（Verbannung）」と「断罪（Verdammnis）」が同一の集団的存在として行列の合唱に加わる。",
+      "targetId": "heym_styx",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Das Lied braust machtvoll hin in seiner Qual,\nVor der die Herzen durch die Rippen glimmen.\nDa kommt ein Haufe mit verwesten Stimmen,\nDraus ragt ein hohes Kreuz zum Himmel fahl.",
+      "body": "「歌はその苦悩の中を力強く轟いていく（Das Lied braust machtvoll hin in seiner Qual）」──「Qual（苦悩）」という名詞が「歌（Lied）」の属格として歌に帰属される：歌そのものが「苦悩を持つ」として音楽が苦悩の主体として定義される。「Styx」第4連「höllischer Choral」の「地獄の讃美歌」がここでは「Qual（苦悩）」の中の「Lied（歌）」として内面化される。「die Herzen durch die Rippen glimmen（心臓たちが肋骨を通して燃えくすぶる）」──「glimmen（くすぶる・くすぶり燃える）」という動詞：肋骨の隙間から心臓の炎が漏れ出るという形象が詩篇21篇v.15「factum est cor meum tamquam cera liquescens（心臓は溶ける蝋のようになった）」の「心臓の溶解」の炎的変奏として機能する。「hohes Kreuz zum Himmel fahl（高い十字架が褪せた空へと）」──「fahl（褪せた）」という形容詞が「Himmel（空・天）」に適用される：「Styx」第II部「Des Himmels ewiger Schläfrigkeit（天国の永遠の眠気）」と同様に、「天（Himmel）」が生命的・昇華的なものではなく「褪せた（fahl）」ものとして提示される。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Der Kruzifixus ward einhergetragen.\nDa hob der Sturm sich in der Toten Volke.\nVom Meere scholl und aus dem Schoß der Wolke\nEin nimmer endend grauenvolles Klagen.",
+      "body": "「キリスト磔刑像が運ばれていった（Der Kruzifixus ward einhergetragen）」──詩全体のなかで最も宗教的・神学的に問題含みの行。「Kruzifixus（キリスト磔刑像）」──ラテン語「crucifixus（十字架に釘づけにされた者）」から：キリストの受難像が死者の行列の中で「運ばれる（ward einhergetragen）」という形象。「Styx」第9連「Trinität（三位一体）」がソファで眠ることへの諷刺に対し、ここでは磔刑像が「運ばれる」──礼拝の対象が行列の道具として機能することで、宗教的権威の行列への包含・世俗化が実現する。「Da hob der Sturm sich in der Toten Volke（すると嵐が死者たちの民の中で起き上がった）」──磔刑像の到来が「嵐（Sturm）」を引き起こす：「Gruft」最終連「Der Wind zerschlägt ein Fenster（風が窓を打ち砕く）」・「Bist Du nun tot?」最終連「Der Nachtwind, der im Haar der Toten zischt（夜風が死んだ女の髪で囁く）」と連動するハイム全作品の「風・嵐」が宗教的到来への応答として最大化される。「nimmer endend grauenvolles Klagen（決して終わることのない恐ろしい嘆き）」──「nimmer endend（決して終わらない）」という時間的無限性が「Klagen（嘆き）」に適用される：詩篇21篇v.2「quare me dereliquisti（なぜ見捨てたのか）」という嘆きの「無限化」として。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Es wurde dunkel in den grauen Lüften.\nEs kam der Tod mit ungeheuren Schwingen.\nEs wurde Nacht, da noch die Wolken gingen\nDem Orkus zu, den ungeheuren Grüften.",
+      "body": "「灰色の空気の中が暗くなった（Es wurde dunkel in den grauen Lüften）」──詩全体の最終段落として、三つの「Es wurde（〜となった）」の反復が構造を形成する。「Es wurde dunkel（暗くなった）」→「Es kam der Tod（死が来た）」→「Es wurde Nacht（夜となった）」という三段階の漸進的暗化が宇宙的な「夜（Nacht）」への転落として展開する。「der Tod mit ungeheuren Schwingen（途方もない翅とともに死が来た）」──「Die Heimat der Toten」最終連「Da über euch ein großer Vogel fliegt / Mit schwarzem Flug ins gelbe Abendrot（あなたたちの上を大きな鳥が黒い飛翔で）」・「Ophelia」第10連「Mit großem Fittich auf ein dunkler Harm（大きな翅で暗い悲嘆が）」と連動する「翅を持つ死」の形象。「ungeheuer（途方もない）」という形容詞の二重使用──「ungeheuren Schwingen（途方もない翅）」と「ungeheuren Grüften（途方もない地下墓）」：この反復が詩全体の「ungeheurer Zug（途方もない行列）」（第6連）を回収する。「Orkus（冥府）」──ラテン神話の冥府の神・また冥府そのものを指す「Orcus」のドイツ語転写：ギリシア語「Hades」に対してローマ的冥府語彙の使用が「Styx（ギリシア神話）」・「carroccio（イタリア語）」という多文化的語彙選択と一貫する。「den ungeheuren Grüften（途方もない地下墓へと）」──「Gruft」というハイムの第一作品のタイトル語が詩全体の最終語として回帰する：詩集冒頭の「Gruft（地下墓）」がここで宇宙的スケールの「Grüften（複数形の地下墓たち）」として全作品を閉じる円環的形象。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の循環が、ここでは「雲が冥府へと進む（Wolken gingen / Dem Orkus zu）」という宇宙的運動として最終化される。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 6
+    }
+  ]
+}
