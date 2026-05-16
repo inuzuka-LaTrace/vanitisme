@@ -1,0 +1,82 @@
+{
+  "id": "heym_nach_der_schlacht",
+  "title": "Nach der Schlacht",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Nach der Schlacht. In: Der ewige Tag. S. 25. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Nach_der_Schlacht",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "中級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Nach der Schlacht（戦いの後）」は3連12行、全篇ABAB交互韻の短詩であり、戦場の死体という主題においてハイム詩集中で最も凝縮された完成度を示す作品のひとつ。詩集所収の「Die Heimat der Toten」「Gruft」「Der Schläfer im Walde」が死の「行列」「空間」「個的な身体」として死を叙述するのに対し、「Nach der Schlacht」は戦闘「後」の静止した全景という単一の時間的瞬間に凝縮される。三つの連が空間的に遠ざかるズームアウトの視線として機能する：第1連は地上の死体と廃棄された武器の俯瞰、第2連は血の水たまりと死んだ馬の腹という地上至近の細部、第3連は瀕死者の呻きと地平線上の暁の光という水平的・遠景の視線として展開する。「Maiensaaten（五月の若い苗）」という生の最盛期と「Leichen（死体）」の並置、「Blumen, ihren Betten（花、彼らの寝床）」という自然の美と死の床の同化、そして第3連の「flüchtigen Aurore（はかない暁）」という古典的女神名の導入が詩全体を「ヴァニタス静物（natura morta）」の詩的等価物として構成する。トラークル「Grodek」との比較において、ハイムの戦場詩は感情移入を一切排除した「視線の純粋性」として際立つ。",
+  "keywords": [
+    "戦場",
+    "Maiensaaten",
+    "Leichen",
+    "Pferde",
+    "Blut",
+    "Aurore",
+    "暁",
+    "Nach der Schlacht",
+    "表現主義",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_der_schlafer_im_walde",
+    "heym_die_heimat_der_toten",
+    "trakl_grodek",
+    "trakl_de_profundis",
+    "trakl_abendlaendisches_lied",
+    "hieronymus_psalmi_21",
+    "baudelaire_une_charogne",
+    "rimbaud_le_bateau_ivre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "In Maiensaaten liegen eng die Leichen,\nIm grünen Rain, auf Blumen, ihren Betten.\nVerlorne Waffen, Räder ohne Speichen,\nUnd umgestürzt die eisernen Lafetten.",
+      "provisionalTranslation": "五月の若い苗の中に死体たちが密に横たわる、\n緑の畦道の上、花の上に、彼らの寝床として。\n失われた武器、輻のない車輪、\nそして倒れた鉄の砲架。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Aus vielen Pfützen dampft des Blutes Rauch,\nDie schwarz und rot den braunen Feldweg decken.\nUnd weißlich quillt der toten Pferde Bauch,\nDie ihre Beine in die Frühe strecken.",
+      "provisionalTranslation": "多くの水たまりから血の煙が立ちのぼる、\n黒と赤で茶色い野道を覆う水たまりから。\nそして死んだ馬たちの腹が白みがかって膨れ上がる、\n早朝の中に四肢を伸ばす馬たちの。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Im kühlen Winde friert noch das Gewimmer,\nVon Sterbenden, da in des Osten Tore\nEin blasser Glanz erscheint, ein grüner Schimmer,\nDas dünne Band der flüchtigen Aurore.",
+      "provisionalTranslation": "冷たい風の中でまだ呻き声が凍える、\n瀕死の者たちの呻きが、東の門に\n蒼白い輝きが現れる、緑の微光が、\nはかない暁（アウロラ）の細い帯が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "In Maiensaaten liegen eng die Leichen,\nIm grünen Rain, auf Blumen, ihren Betten.",
+      "body": "「五月の若い苗の中に死体たちが密に横たわる（In Maiensaaten liegen eng die Leichen）」──詩の開口部として、「Maiensaaten（五月の若い苗・播種）」という生の最盛期の語彙と「Leichen（死体）」の直接的並置が際立つ。「Mai（五月）」は生命・春・豊穣の月として西洋詩の伝統において確立されているが、その「五月の苗（Maiensaaten）」が死体の「寝床（Betten）」として機能する。「auf Blumen, ihren Betten（花の上に、彼らの寝床として）」──「ihre（彼らの）」という所格が「Betten（寝床）」に適用される：花が死体の「寝床」として定義されることで、自然の生命的なものが死の空間として変換される。「Der Schläfer im Walde」第1連「Das Laub tropft langsam noch. Der Wald liegt tot（葉がまだゆっくりと滴り落ちている。森は死んで横たわる）」の「森と死」との照応：ここでは「緑の畦道（grünen Rain）」が死の場所として同様に機能する。「eng（密に）」という副詞──戦場の死体が「密集」した状態として提示される：「Die Heimat der Toten」の「行列」という縦の運動に対して、ここでは「密集（eng）」という水平的広がりとして戦死者が定着される。ランボー「酔いどれ船」の「バラ色の日没（couchers de soleils en rose）」のような昇華的視覚との対比：ハイムは美化を徹底的に排除し、「死体と花」の物質的共存として戦場を定着させる。",
+      "targetId": "heym_der_schlafer_im_walde",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Aus vielen Pfützen dampft des Blutes Rauch,\nDie schwarz und rot den braunen Feldweg decken.\nUnd weißlich quillt der toten Pferde Bauch,\nDie ihre Beine in die Frühe strecken.",
+      "body": "「多くの水たまりから血の煙が立ちのぼる（Aus vielen Pfützen dampft des Blutes Rauch）」──第2連は詩全体で最も「物質的・感覚的」な細部を集中させる。「Pfützen（水たまり）」・「Rauch（煙）」・「Bauch（腹）」という聴覚的に近接した母音（au-音）の三連──「Rauch/Bauch」のABAB韻が母音的に強化される：au音の反復が「膨張・腐敗・蒸発」という物理的プロセスの音響的模倣として機能する。「schwarz und rot（黒と赤）」──「Styx」第6連「weißen Leib an seine schwarze Brust（白い体と黒い胸）」・「Die Heimat der Toten」第1連「schwarzes Band（黒い帯）」と連動する「黒」の色彩が、ここでは「rot（赤）」と並置される：血が「黒と赤」として固定化・腐敗化する戦場の色彩。「weißlich quillt der toten Pferde Bauch（死んだ馬たちの腹が白みがかって膨れ上がる）」──「Die Tote im Wasser」第6連「Ihr dicker Bauch entragt / Dem Wasser groß（膨れ上がった腹が大きく水面から突き出る）」という腐敗ガスによる腹部膨張の形象の反復：水死女の「Bauch（腹）」が戦場では「馬のBauch（腹）」として変奏される。「Frühe（早朝）」──詩全体が「夜明け前の戦闘直後」という単一の時間的瞬間に圧縮される：第1連の「Betten（寝床）」・第2連の「Frühe（早朝）」・第3連の「Aurore（暁）」という時間語が詩の夜明けの瞬間を多角的に定着させる。",
+      "targetId": "heym_die_tote_im_wasser",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Im kühlen Winde friert noch das Gewimmer,\nVon Sterbenden, da in des Osten Tore\nEin blasser Glanz erscheint, ein grüner Schimmer,\nDas dünne Band der flüchtigen Aurore.",
+      "body": "「冷たい風の中でまだ呻き声が凍える（Im kühlen Winde friert noch das Gewimmer）」──第3連は詩全体のなかで唯一「音（Gewimmer）」と「生者（Sterbenden）」が登場する連。「Gewimmer（呻き・叫喚）」──「Die Heimat der Toten」第1連「Trommelfell（太鼓の皮）」・「Styx」第2連「Wie tausend Niagaras hallt sein Brüllen（千のナイアガラのように響き渡る咆哮）」と連動する音響的形象がここでは「friert（凍える）」という動詞によって静止される：音が「凍る」という共感覚的形象（音の固体化）が瀕死者の呻きを物質として提示する。「Sterbenden（瀕死の者たち）」──詩中で唯一の生者の言及：すでに死んでいる者たちの中に「まだ死んでいない（Sterbenden）」者が「まだ（noch）」という副詞で括り込まれる。「noch（まだ）」の反復──「Bist Du nun tot?」第1連「Da hebt die Brust sich noch（そこでまだ胸が持ち上がっている）」と同様に、死と生の境界の不確定性を「noch（まだ）」という副詞が担う。「das dünne Band der flüchtigen Aurore（はかない暁の細い帯）」──詩の最終形象として古典的女神名「Aurore（アウロラ）」が導入される：「Aurora」はローマ神話の暁の女神であり、「blasser Glanz（蒼白い輝き）」「grüner Schimmer（緑の微光）」「dünne Band（細い帯）」という三つの弱い光の形容詞が続く。「flüchtig（はかない・逃げ去る）」という形容詞──「暁」そのものが「逃げ去るもの」として定義される：コヘレト第1章v.2「Vanitas vanitatum（虚無の虚無）」の「vanitas（虚無・はかなさ）」が「flüchtige Aurore（はかない暁）」として自然現象に投影される。トラークル「Grodek」「Am Abend tönen die herbstlichen Wälder（夕暮れに秋の森が響く）」という戦場詩の「黄昏」との対比：トラークルが「夕暮れ（Abend）」として戦場を閉じるのに対し、ハイムは「暁（Aurore）」──しかし「はかない（flüchtig）」暁──として、救済なき夜明けによって詩を閉じる。",
+      "targetId": "trakl_grodek",
+      "targetParagraphId": null
+    }
+  ]
+}
