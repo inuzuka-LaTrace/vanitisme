@@ -1,0 +1,161 @@
+{
+  "id": "heym_die_schlafer",
+  "title": "Die Schläfer",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Die Schläfer. In: Der ewige Tag. S. 63–64. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Die_Schl%C3%A4fer",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。副題「Jacob van Hoddis gewidmet（ヤコブ・ファン・ホッディスに捧ぐ）」。8連32行、主にABAB交互韻（連2のみABBA）。ヤコブ・ファン・ホッディス（Jacob van Hoddis, 本名Hans Davidsohn, 1887–1942）はハイムの親友にして表現主義の先駆的詩人であり、「世界の終わり（Weltende, 1911）」の詩人として知られる。「Die Schläfer（眠る者たち）」はハイム詩集中で「眠り」と「死」を最も直接的に連結させる作品であり、「Der Schläfer im Walde」の個的な眠れる死者に対して、複数の「Schläfer（眠る者たち）」という集団的afflictionの形象として展開する。「Der Schlaf（眠り）」が「grünem Fittich（緑の翅）」を持ち「Schnabel dunkelrot（暗赤色の嘴）」を持つ鳥として擬人化され（第1〜3連）、「大きな木の影（großer Baum mit langem Schatten）」が月の毒とともに眠る者たちの「白い心臓（weißes Herz）」へと侵入し（第4〜5連）、「影の木（Baum von Schatten）」が心臓に根を張り吸い尽くす（第6〜7連）、という構造で「眠り」がパラサイト的afflictionとして展開する。最終連（第8連）の「krankem Violett（病んだ紫）」・「Ein Kreuz, Asche und Fett（十字架、灰、脂）」・「welken Jahr（枯れた年）」という語彙が死の収穫の宗教的・反宗教的定着として詩を閉じる。",
+  "keywords": [
+    "眠り",
+    "Schlaf",
+    "影の木",
+    "月の毒",
+    "Violett",
+    "Schläfer",
+    "Jacob van Hoddis",
+    "緑の翅",
+    "affliction",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_der_schlafer_im_walde",
+    "heym_gruft",
+    "heym_die_heimat_der_toten",
+    "heym_schwarze_visionen",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "hofmannsthal_terzinen",
+    "hieronymus_psalmi_21",
+    "weil_la_violence",
+    "baudelaire_harmonie_du_soir"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Jacob van Hoddis gewidmet",
+      "provisionalTranslation": "ヤコブ・ファン・ホッディスに捧ぐ"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Es schattet dunkler noch des Wassers Schoß,\nTief unten brennt ein Licht, ein rotes Mal\nAm schwarzen Leib der Nacht, wo bodenlos\nDie Tiefe sinkt. Und auf dem dunklen Tal,",
+      "provisionalTranslation": "水の胎はなお一段と暗く陰っている、\n深い底でひとつの光が燃える、赤い痕として\n夜の黒い体に、底なしのところで\n深みが沈む。そして暗い谷の上に、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Mit grünem Fittich auf der dunklen Flut\nFlattert der Schlaf, der Schnabel dunkelrot,\nDrin eine Lilie welkt, der Nacht Salut,\nDen Kopf von einem Greise gelb und tot.",
+      "provisionalTranslation": "暗い流れの上を緑の翅で\n眠りがはためく、嘴は暗赤色、\nその中に百合が萎れる、夜への挨拶として、\n頭は老人のものを持ち、黄ばんで死んでいる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Er schüttelt seine Federn wie ein Pfau.\nDie Träume wandern wie ein lila Hauch\nUm seine Schwinge, wie ein blasser Tau.\nIn ihre Wolke taucht er, in den Rauch.",
+      "provisionalTranslation": "眠りは孔雀のように羽根を振るう。\n夢たちが薄紫のひと吐息のように\n翅の周りをさまよう、蒼白い露のように。\n眠りはその雲の中へ、煙の中へと沈む。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Die großen Bäume wandern durch die Nacht\nMit langem Schatten, der hinüber läuft\nIns weiße Herz der Schläfer, die bewacht\nDer kalte Mond, der seine Gifte träuft",
+      "provisionalTranslation": "大きな木々が夜を通ってさまよう\n長い影とともに、渡り走って\n眠る者たちの白い心臓へと、彼らを見守る\n冷たい月が、その毒を滴らせながら"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Wie ein erfahrner Arzt tief in ihr Blut.\nSie liegen fremd einander, stumm, im Haß\nDer dunklen Träume, in verborgner Wut.\nUnd ihre Stirn wird von den Giften blaß.",
+      "provisionalTranslation": "経験豊かな医師のように深く彼らの血の中に。\n彼らは互いに疎遠に横たわる、沈黙して、暗い夢の\n憎しみの中で、隠れた怒りの中で。\nそして彼らの額は毒によって蒼白くなる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Der Baum von Schatten klammert um ihr Herz\nUnd senkt die Wurzeln ein. Er steigt empor\nUnd saugt sie aus. Sie stöhnen auf vor Schmerz.\nEr ragt herauf, am Turm der Nacht, am Tor",
+      "provisionalTranslation": "影の木が心臓の周りにしがみつき\n根を沈み込ませる。木は立ち上がり\n彼らを吸い尽くす。彼らは苦しみのうちに呻く。\n木は聳え上がる、夜の塔に、門に"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Der blinden Stille. In die Zweige fliegt\nDer Schlaf. Und seine kalte Schwinge streift\nDie schwere Nacht, die auf den Schläfern liegt\nUnd ihre Stirn mit Qualen weiß bereift.",
+      "provisionalTranslation": "盲目の静寂の門に。枝の中へと飛ぶ\n眠りが。そして眠りの冷たい翅が触れる\n眠る者たちの上に横たわる重い夜を\nそして苦悩によって彼らの額を白く霜で覆う。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Er singt. Ein Ton von krankem Violett\nStößt an dem Raum. Der Tod geht. Manches Haar\nStreicht er zurück. Ein Kreuz, Asche und Fett,\nSo malt er seine Frucht im welken Jahr.",
+      "provisionalTranslation": "眠りは歌う。病んだ紫のひとつの音が\n空間に衝突する。死が行く。いくつかの髪を\n死は撫でつける。十字架、灰と脂、\nこうして死は枯れた年の中にその実を描く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Jacob van Hoddis gewidmet",
+      "body": "「ヤコブ・ファン・ホッディスに捧ぐ（Jacob van Hoddis gewidmet）」──ヤコブ・ファン・ホッディス（本名ハンス・ダーヴィトゾーン、Hans Davidsohn, 1887–1942）はハイムの親友にして表現主義の先駆的詩人。1911年に発表した「世界の終わり（Weltende）」──「市民たちの尖り帽が風に飛ぶ（Dem Bürger fliegt vom spitzen Kopf der Hut）」という冒頭で始まる8行詩──は表現主義の「開幕作品」として文学史的に位置づけられる。後にパラノイアを発症し1942年にアウシュヴィッツで死亡した。ハイムが「Die Schläfer」をホッディスに捧げた動機について伝記的証拠はないが、ホッディスの「Weltende」の「眠り」的・夢幻的世界観との主題的親和性が推察される。「Der Schlaf（眠り）」の擬人化という本作の中心的詩的戦略がホッディスの表現主義的語彙との対話として位置づけられる。헌정詩（Widmungsgedicht）という形式が詩集中で「Schwarze Visionen」の副題「An eine imaginäre Geliebte（想像上の恋人へ）」に続く二度目の実名・固有の献呈として際立つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Es schattet dunkler noch des Wassers Schoß,\nTief unten brennt ein Licht, ein rotes Mal\nAm schwarzen Leib der Nacht, wo bodenlos\nDie Tiefe sinkt.",
+      "body": "「水の胎はなお一段と暗く陰っている（Es schattet dunkler noch des Wassers Schoß）」──「die Schläfer（眠る者たち）」という集団的afflictionの展開に先行する宇宙的・水的設定。「Schoß（胎・膝）」という語──「Schwarze Visionen」第9段落「Die Silberstädte, die im Monde glühen」の冥府的宇宙と連動する「水の胎（Wassers Schoß）」が生命の起源的空間として冥府的闇と重なる。「ein rotes Mal（赤い痕）」──「Bist Du nun tot?」第2連「der Würgemale tiefe Spur（絞殺痕の深い跡）」との照応：「Mal（痕・刻印）」という語が暴力の物質的形跡として機能する──しかしここでは「rotes Licht（赤い光）」が「夜の黒い体に刻まれた赤い痕」として提示される。「bodenlos（底なしの）」──「Styx」第2連「Entsetzlich wälzt sich hin der Phlegeton（フレゲトンが恐ろしく転がる）」・「Ophelia」第12連「Durch Ewigkeiten fort（永遠を通って）」と連動する「底なし・深み」の形象。跨行（連1末→連2頭）：「Und auf dem dunklen Tal,（暗い谷の上に、）」で連1が終わり、連2冒頭「Mit grünem Fittich（緑の翅で）」が続く──この跨行が「谷の上を翅で飛ぶ眠り」という視覚的形象を連をまたいで実現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Mit grünem Fittich auf der dunklen Flut\nFlattert der Schlaf, der Schnabel dunkelrot,\nDrin eine Lilie welkt, der Nacht Salut,\nDen Kopf von einem Greise gelb und tot.",
+      "body": "「眠り（der Schlaf）」の擬人的鳥としての形象──「Der Schlaf（眠り）」という抽象的概念が「grünem Fittich（緑の翅）」・「Schnabel dunkelrot（暗赤色の嘴）」・「Kopf von einem Greise（老人の頭）」という具体的鳥的身体を持つ擬人的存在として召喚される：「Wolken」第1連「Der Bote（使者）」・「Die Heimat der Toten」第2連「der Tod, der Schifferknecht（死神）」という擬人的死の使者のシリーズに「眠り（Schlaf）」が鳥として加わる。「grünem Fittich（緑の翅）」──「Der Tod der Liebenden」第8連「grünen Fittichs dunkler Träumerei（緑の翅の暗い夢想）」の鵜の「緑の翅」と連動：ハイムにおける「緑（grün）」の翅は「深み・夢・死」の色として水面を飛ぶ鳥に一貫して適用される。「Schnabel dunkelrot（暗赤色の嘴）」──「dunkelrot（暗赤色）」という色彩：「嘴（Schnabel）」に「暗い赤」が適用されることで、眠りが吸血的・捕食的な存在として定義される。「Drin eine Lilie welkt（その中に百合が萎れる）」──嘴の中で百合が萎れるという形象：「黒い髪（Schwarze Visionen）」が「星雲」として昇華されるのと対照的に、ここでは「百合（Lilie）」が「眠りの嘴の中で萎れる（welkt）」という消滅として機能する。「Den Kopf von einem Greise gelb und tot（頭は老人のものを持ち、黄ばんで死んでいる）」──「Die Heimat der Toten」第2連「gelbe Pferdezähne（黄色い馬の歯）」の「黄色い死神の歯」との照応：「gelb und tot（黄ばんで死んでいる）」という形容詞対が「眠り」の死的本質を鳥的・老人的身体に刻む。",
+      "targetId": "heym_der_tod_der_liebenden",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Er schüttelt seine Federn wie ein Pfau.\nDie Träume wandern wie ein lila Hauch\nUm seine Schwinge, wie ein blasser Tau.\nIn ihre Wolke taucht er, in den Rauch.",
+      "body": "「孔雀のように羽根を振るう（wie ein Pfau）」──「Pfau（孔雀）」という比喩が「眠り」の視覚的壮麗さを定義する：孔雀は美的誇示（尾羽の展示）の象徴であるが、その「羽根を振るう（schüttelt seine Federn）」という行為が「夢たちを散らす」機能として提示される。「Die Träume wandern wie ein lila Hauch（夢たちが薄紫のひと吐息のようにさまよう）」──「lila（薄紫・ライラック色）」という色彩：「Die Tote im Wasser」第5連「Das lila Wasser bebt von kleiner Welle（ライラック色の水が小波に揺れる）」・「Die Schläfer」第8連「krankem Violett（病んだ紫）」という「紫系」色彩の反復。「lila」という夢の色が第8連「Violett（紫）」として再現され、詩全体の色彩的円環を形成する。「wie ein blasser Tau（蒼白い露のように）」──「Schwarze Visionen」最終段落「Tränentau（涙の露）」との照応：「Tau（露）」という微小な水滴が夢の「蒼白さ（blass）」の物質的形象として機能する。ABAB韻律（Pfau—Tau, Hauch—Rauch）における「Hauch（吐息）—Rauch（煙）」の対：同じ「気体的・蒸発的」物質の反復として夢の非物質性を音響的に定着させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Die großen Bäume wandern durch die Nacht\nMit langem Schatten, der hinüber läuft\nIns weiße Herz der Schläfer, die bewacht\nDer kalte Mond, der seine Gifte träuft",
+      "body": "「大きな木々が夜をさまよう（Die großen Bäume wandern durch die Nacht）」──「木（Baum）」という植物的形象が詩の中核的形象として登場する：「Der Schläfer im Walde」の「森（Wald）」が個的な死者の「眠り場」として機能したのに対し、ここでは「大きな木々（großen Bäume）」が能動的・移動的な「夜を歩く存在（wandern durch die Nacht）」として定義される。「ins weiße Herz der Schläfer（眠る者たちの白い心臓へ）」──「白い心臓（weißes Herz）」という形象：「weiß（白）」がここでは「脆弱さ・無防備さ・死の蒼白さ」の色として心臓に適用される──「Schwarze Visionen」第13段落「Dann nimmst dein Herz du aus den weißen Brüsten（白い胸から心臓を取り出す）」と連動する「白い胸・心臓」の形象。「Der kalte Mond, der seine Gifte träuft（冷たい月、その毒を滴らせながら）」──月が「毒（Gifte）」を「滴らせる（träufen）」という医学的・毒物的擬人化：「Der Blinde」第5連「Wie ein erfahrner Arzt（経験豊かな医師のように）」という医師の比喩との連動として、月が「医師のように」毒を与える。詩篇21篇v.13「Circumdederunt me vituli multi; tauri pingues obsederunt me（多くの子牛が私を取り囲んだ）」という包囲的afflictionが、ここでは「木の影」が心臓へと侵入するという形象として展開される。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Sie liegen fremd einander, stumm, im Haß\nDer dunklen Träume, in verborgner Wut.\nUnd ihre Stirn wird von den Giften blaß.",
+      "body": "「彼らは互いに疎遠に横たわる、沈黙して、暗い夢の憎しみの中で（Sie liegen fremd einander, stumm, im Haß）」──第5段落は「眠る者たち（Schläfer）」の内的afflictionを定義する。「fremd einander（互いに疎遠）」──隣に眠る者たちが「疎遠（fremd）」として定義される：「Bist Du nun tot?」第3連「die ich einst so heiß umschlang（かつて私がこんなにも熱く抱き締めた）」という愛の記憶と対比して、「眠る者たち」は互いに「fremd」として並存する。「stumm（沈黙）」──「Ophelia」「Die Heimat der Toten」「Wolken」を貫く「stumm」の主題がここでは「眠る者たち」の沈黙として現れる：眠りが「沈黙（stumm）」を強制するというafflictionの形象。「verborgner Wut（隠れた怒り）」──「verborgen（隠れた）」という形容詞が「Wut（怒り）」に適用される：表面の「stumm（沈黙）」の下に「隠れた怒り」が潜むという二重構造がafflictionの内的・外的層の分裂として機能する。ヴェイユ「La Violence」章の「afflicted person loses the capacity to express their affliction（afflictionを受けた者はafflictionを表現する能力を失う）」──「stumm, im Haß, in verborgner Wut（沈黙して、憎しみの中で、隠れた怒りの中で）」という三重の抑圧がこの命題を体現する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Der Baum von Schatten klammert um ihr Herz\nUnd senkt die Wurzeln ein. Er steigt empor\nUnd saugt sie aus. Sie stöhnen auf vor Schmerz.\nEr ragt herauf, am Turm der Nacht, am Tor",
+      "body": "「影の木が心臓の周りにしがみつき、根を沈み込ませる（Der Baum von Schatten klammert um ihr Herz / Und senkt die Wurzeln ein）」──第6段落は詩全体の最も暴力的なafflictionの形象として機能する。「Baum von Schatten（影の木）」──第4段落「大きな木」の「長い影」が「影の木」として物質化・凝縮される：影が木として独立した存在となり、心臓に「しがみつく（klammert）」。「saugt sie aus（彼らを吸い尽くす）」──吸血的・寄生的な動詞「aussaugen（吸い尽くす）」が木の行為として定義される：「Die Schläfer」における「眠り」の本質が「吸血（Aussaugen）」として最も直接的に定義される。「Sie stöhnen auf vor Schmerz（彼らは苦しみのうちに呻く）」──第5段落の「stumm（沈黙）」から「stöhnen（呻く）」への転換：「沈黙した怒り」が「苦しみの呻き」として表面化する。詩篇21篇v.14「Aperuerunt super me os suum, sicut leo rapiens et rugiens（略奪し吼える獅子のように、私に向かってその口を開けた）」という捕食的afliction形象との照応：ライオンの「略奪する口」が「吸い尽くす木の根」として植物的に変奏される。跨行（連6末→連7頭）：「am Tor（門に）」で連6が終わり、連7「Der blinden Stille（盲目の静寂の）」が続く──「夜の塔の・盲目の静寂の門」という複合的空間が連をまたいで構成される。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Der blinden Stille. In die Zweige fliegt\nDer Schlaf. Und seine kalte Schwinge streift\nDie schwere Nacht, die auf den Schläfern liegt\nUnd ihre Stirn mit Qualen weiß bereift.",
+      "body": "「盲目の静寂（blinden Stille）」──「Der Blinde」第6連「Das erloschene Licht（消えた光）・bleiernen Opal（鉛色のオパール）」という視覚的閉鎖との照応として、「blinde Stille（盲目の静寂）」が「夜の門」の属格として定義される：視覚的・聴覚的な閉鎖性が「盲目の静寂」として結合される。「In die Zweige fliegt / Der Schlaf（枝の中へと飛ぶ眠り）」──詩冒頭の「Flattert der Schlaf（眠りがはためく）」として水面を飛んでいた「眠り」が、ここでは「木の枝（Zweige）」の中へと飛び込む：第6段落の「影の木」と「眠り」の合体として、「眠り（Schlaf）」が「影の木」に取り込まれる。「kalte Schwinge（冷たい翅）」──第2段落「grünem Fittich（緑の翅）」から「kalte Schwinge（冷たい翅）」へ：詩の進行とともに「眠り」の翅が「緑（生命的）」から「冷たい（死的）」へと変質する。「mit Qualen weiß bereift（苦悩によって白く霜で覆われた）」──「Qualen（苦悩）」が霜として額を「白く（weiß）」覆う：第5段落「Stirn wird … blaß（額が蒼白くなる）」の「蒼白さ」が「白い霜（weißer Reif）」として固体化・物質化される。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり、霊の苦悩である）」という「afflictio spiritus（霊の苦悩）」がここでは「Qualen（苦悩）が霜として刻まれる」という物質的afflictionとして現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Er singt. Ein Ton von krankem Violett\nStößt an dem Raum. Der Tod geht. Manches Haar\nStreicht er zurück. Ein Kreuz, Asche und Fett,\nSo malt er seine Frucht im welken Jahr.",
+      "body": "「眠りは歌う。病んだ紫のひとつの音が（Er singt. Ein Ton von krankem Violett）」──詩全体の終結命題として、「眠り（Schlaf）」が「歌う（singt）」という音楽的行為の主体となる：「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」・「Styx」第4連「höllischer Choral（地獄の讃美歌）」・「Wolken」第7連「Auf Schädeln trommeln laut die Musikanten（頭蓋骨の上で太鼓を叩く）」という「死の音楽」の最後の形象として「眠りの歌」が来る。「Ein Ton von krankem Violett（病んだ紫のひとつの音）」──共感覚的形象（Synästhesie）：「音（Ton）」が「紫（Violett）」という色彩として提示される。「krankem Violett（病んだ紫）」──第3段落「lila Hauch（薄紫のひと吐息）」として夢の色として登場した「紫（lila/Violett）」が、ここでは「krank（病んだ）」という形容詞で終末的に変質する。「Der Tod geht（死が行く）」──「Wolken」第10連「Es kam der Tod mit ungeheuren Schwingen（死が途方もない翅とともに来た）」との対比：「Wolken」では死が「来る（kam）」のに対し、ここでは死が「行く（geht）」──死の「通過（Passage）」として提示される。「Ein Kreuz, Asche und Fett（十字架、灰と脂）」──「Kreuz（十字架）」という宗教的形象に「Asche（灰）」と「Fett（脂）」という燃焼的・腐朽的物質が並置される：「Wolken」第9段落「Kruzifixus（キリスト磔刑像）」・「Styx」第II部「Trinität（三位一体）」と連動する宗教的権威の脱神聖化の最終形象。「So malt er seine Frucht im welken Jahr（こうして死は枯れた年の中にその実を描く）」──「malen（描く）」という動詞が死の主体的「創造行為」として機能する：「眠り」が「歌い」「死」が「描く」という芸術的行為の担い手として終結する。「welken Jahr（枯れた年）」──「Der ewige Tag（永遠の日）」という詩集名に対する最後の逆転として、「枯れた（welk）」年が詩集全体の時間として閉じられる。",
+      "targetId": "heym_wolken",
+      "targetParagraphId": 9
+    }
+  ]
+}
