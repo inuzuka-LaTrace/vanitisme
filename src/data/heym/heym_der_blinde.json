@@ -1,0 +1,122 @@
+{
+  "id": "heym_der_blinde",
+  "title": "Der Blinde",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Der Blinde. In: Der ewige Tag. S. 18. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Der_Blinde_(Heym)",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "中級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Der Blinde（盲目の男）」は6連24行、全篇ABBA抱擁韻（Umarmungsreim）。詩集の他作品──死体・水死女・冥府の行列──が物質的・腐敗的な死の形象を展開するのに対し、「Der Blinde」は「盲目（Blindheit）」という生者の affliction を主題とする詩集中の例外的な作品として位置づけられる。三部構成：第1連（外部的視点──盲目の男を庭の垣根の後ろに置く第三者の行為）、第2〜4連（盲目の男の内的独白──引用符によって括られる──「色」への問いかけと「決して見えない」ものの列挙）、第5〜6連（再び外部的視点──盲目の男の身体描写と「白い空が鉛色の眼に映る」終結）。引用符構造が詩の根幹をなす：v.3の「Sieh Dir den Himmel an!（空を見ろ！）」という第三者の命令形が、v.5以降の長い盲人の独白（„O, wo ist er, wie / Ist denn der Himmel?」）を引き出す──見ることのできない者への「見ろ」という命令の残酷な逆説。詩篇21篇v.18「dinumeraverunt omnia ossa mea. Ipsi vero consideraverunt et inspexerunt me（骨をすべて数え上げた。彼らは考え、私を眺めた）」というafflictionにおける「まなざしの暴力」の詩的変奏として、ここでは「見られる者」が「見えない者」として更なる疎外の極点に置かれる。ヴェイユ「affliction」論の「afflicted person is treated as a thing（afflictionを受けた者は物として扱われる）」が「Man setzt ihn（人は彼を置く）」という非人称的行為として冒頭に提示される。",
+  "keywords": [
+    "盲目",
+    "Der Blinde",
+    "色の不在",
+    "Grabesnacht",
+    "Karenz",
+    "tote Augen",
+    "bleiernen Opal",
+    "affliction",
+    "引用符構造",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_ophelia",
+    "heym_schwarze_visionen",
+    "hieronymus_psalmi_21",
+    "weil_la_violence",
+    "weil_accepter_le_vide",
+    "baudelaire_spleen",
+    "trakl_de_profundis",
+    "rossetti_dead_before_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Man setzt ihn hinter einen Gartenzaun.\nDa stört er nicht mit seinen Quälerein.\n„Sieh Dir den Himmel an!“ Er ist allein.\nUnd seine Augen fangen an zu schaun.",
+      "provisionalTranslation": "人は彼を庭の垣根の後ろに置く。\nそこなら彼の悩み苦しみで迷惑をかけない。\n「空を見ろ!」彼は一人だ。\nそして彼の眼が見始める。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Die toten Augen. „O, wo ist er, wie\nIst denn der Himmel? Und wo ist sein Blau?\nO Blau, was bist Du? Stets nur weich und rauh\nFühlt meine Hand, doch eine Farbe nie.“",
+      "provisionalTranslation": "死んだ眼が。「ああ、それはどこにあるのか、どんなものなのか、\n空とはいったいどんなものなのか。そしてその青はどこにあるのか。\nああ青よ、お前とは何か。いつも柔らかく、また粗く\n私の手は感じる、しかし色は決して感じない。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "„Nie Purpurrot der Meere. Nie das Gold\nDes Mittags auf den Feldern, nie den Schein\nDer Flamme, nie den Glanz im edlen Stein,\nNie langes Haar, das durch die Kämme rollt.“",
+      "provisionalTranslation": "「海の深紅は決して。野原の真昼の\n黄金も決して、炎の輝きも決して、\n宝石の光沢も決して、\n櫛を滑り落ちる長い髪も決して。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "„Niemals die Sterne. Wälder nie, nie Lenz\nUnd seine Rosen. Stets durch Grabesnacht\nUnd rote Dunkelheit werd' ich gebracht\nIn grauenvollem Fasten und Karenz.“",
+      "provisionalTranslation": "「星々は決して。森も決して、春も決して\nとその薔薇も。いつも墓の夜と\n赤い暗闇を通して私は運ばれる\n恐ろしい断食と禁欲の中を。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Sein bleicher Kopf steigt wie ein Lilienschaft\nAus magrem Hals. Auf seinem dürren Schlund\nRollt wie ein Ball des Adamsapfels Rund.\nDie Augen quellen aus der engen Haft,",
+      "provisionalTranslation": "彼の蒼白い頭が百合の茎のように\n痩せた首から持ち上がる。その乾いた喉の上で\n喉仏の丸みがボールのように転がる。\n眼が窮屈な監禁から溢れ出る、"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Ein Paar von weißen Knöpfen. Denn der Strahl\nDes weißen Mittags schreckt die Toten nicht.\nDer Himmel taucht in das erloschene Licht\nUnd spiegelt in dem bleiernen Opal.",
+      "provisionalTranslation": "一対の白いボタンとして。なぜなら白い\n真昼の光は死者たちを怯えさせないから。\n空は消えた光の中に沈み込み\n鉛色のオパールの中に映る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Man setzt ihn hinter einen Gartenzaun.\nDa stört er nicht mit seinen Quälerein.\n„Sieh Dir den Himmel an!“ Er ist allein.",
+      "body": "「人は彼を庭の垣根の後ろに置く（Man setzt ihn hinter einen Gartenzaun）」──詩の冒頭の非人称主語「Man（人は）」がafflictionの構造的分析として機能する。「Man（人は）」という主語──特定の誰かではなく「世間・社会一般」が盲目の男を「置く（setzt）」という行為の主体として非人称化される：ヴェイユ「La Violence（暴力）」章の「afflicted person is treated as a thing（afflictionを受けた者は物として扱われる）」という命題が「Man setzt（人は置く）」という受動的・物体的扱いとして冒頭に刻まれる。「Quälerein（悩み苦しみ・迷惑）」──「苦悩（Qual）」の口語的・軽蔑的派生形として、盲目の男の訴えや嘆きが「迷惑（Störung）」として周囲に定義される：afflictionが「不快なもの」として社会的に排除される構造。「Sieh Dir den Himmel an!（空を見ろ!）」──引用符で括られた命令形が詩の中枢的逆説を定義する：見ることのできない者への「見る」という命令。「Er ist allein（彼は一人だ）」──第三者の非情な命令の後に残る「孤独（allein）」が詩篇21篇v.12「ne discesseris a me, quoniam tribulatio proxima est, quoniam non est qui adjuvet（私から離れないでください──苦難が近いから、助ける者がいないから）」という孤立した苦悩者の状況と照応する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Die toten Augen. „O, wo ist er, wie\nIst denn der Himmel? Und wo ist sein Blau?\nO Blau, was bist Du? Stets nur weich und rauh\nFühlt meine Hand, doch eine Farbe nie.“",
+      "body": "「死んだ眼（Die toten Augen）」──詩の第2連冒頭でふたたび外的叙述として「死んだ眼（tote Augen）」が確認される：「Ophelia」第4連「Die toten Augen starren groß und blind（死の眼は大きく虚ろに凝視する）」・「Gruft」第1連「Des Todes Auge schaut（死の眼が見つめる）」と連動する「tote Augen（死の眼）」の形象がここでは「生きているが見えない眼」として逆説的に現れる──死者の「虚ろに凝視する眼」と盲目の生者の「見えない眼」が「tote Augen」という同一語で定義される。「O Blau, was bist Du?（ああ青よ、お前とは何か）」──「色（Farbe）」という視覚的経験への問いかけとして際立つ。ハイム詩集の色彩体系（「gelb・schwarz・weiß・rot・grün・blau」という色彩の精密な使用）が、この詩では「色が何であるかを知らない者の問い」として反照的に提示される。「weich und rauh（柔らかく、また粗く）」──触覚的経験のみを持つ盲目の男が「weich（柔らかい）」・「rauh（粗い）」という触覚語しか持たない：視覚的情報のすべてが「手の感触（meine Hand）」に還元される。「eine Farbe nie（色は決して）」──詩全体の否定定型句「nie（決して）」が第2〜4連を貫く反復レトリックの初出。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "„Nie Purpurrot der Meere. Nie das Gold\nDes Mittags auf den Feldern, nie den Schein\nDer Flamme, nie den Glanz im edlen Stein,\nNie langes Haar, das durch die Kämme rollt.“",
+      "body": "「海の深紅（Purpurrot der Meere）・野原の黄金（Gold des Mittags）・炎の輝き（Schein der Flamme）・宝石の光沢（Glanz im edlen Stein）・長い髪（langes Haar）」──第3連は「nie（決して〜ない）」という否定語によって連結される「見えないものの目録（Katalog des Unsichtbaren）」として機能する。名詞的列挙の構造──「Schwarze Visionen」第3連「Nie Purpurrot der Meere. Nie das Gold」というフレーズが完全に一致する：「Schwarze Visionen」第III連の盲人の独白が「Schwarze Visionen」の「imaginary Geliebte」への眼差しと照応的に機能する。「Purpurrot der Meere（海の深紅）」──「Styx」第7連「im heißen Purpurpfühl（熱い紫の官能）」・「Schwarze Visionen」の「riesiger Lagunen rotes Feuer（赤い炎）」という「紫・赤」の色彩がここでは「決して見えないもの」として否定形で出現する。ABBA韻律（Gold—rollt, Schein—Stein）における「Gold（黄金）」と「rollt（転がる）」の不完全韻（Halbreim）：「Gold（黄金）」の開かれた長母音と「rollt（転がる）」の短い転がるような音響が「見えない黄金が転がっていく」という音的模倣として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "„Niemals die Sterne. Wälder nie, nie Lenz\nUnd seine Rosen. Stets durch Grabesnacht\nUnd rote Dunkelheit werd' ich gebracht\nIn grauenvollem Fasten und Karenz.“",
+      "body": "「墓の夜と赤い暗闇を通して（Stets durch Grabesnacht / Und rote Dunkelheit）」──第4連の「Grabesnacht（墓の夜）」という複合名詞が詩の転換点として機能する：第2〜3連では「色の不在」として外的な世界が否定されていたのに対し、第4連では「Grabesnacht（墓の夜）」・「rote Dunkelheit（赤い暗闇）」という盲目の内的経験の色彩が出現する──盲目の者が「見える」のは「赤い暗闇（rote Dunkelheit）」だけという逆説的「内的色彩」。「rote Dunkelheit（赤い暗闇）」──「暗闇」が「赤い（rot）」という形容詞を持つ矛盾語法：光のない眼が感じる「暗闇の赤み」は眼球への光の圧力による生理学的現象（光視症）として医学的に根拠を持つ。ハイムの精密な身体的観察が生理学的真実として詩に組み込まれる。「grauenvollem Fasten und Karenz（恐ろしい断食と禁欲）」──「Karenz（禁欲・欠如）」はラテン語「carere（欠くこと）」に由来する：視覚的経験の「欠如（Karenz）」が宗教的苦行（Fasten）として定義される。「Schwarze Visionen」第1段落「trauriger Askesen（悲しい禁欲）」における「棺の中の禁欲」が、ここでは「視覚的禁欲（Karenz）」として現れる。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という「目の不飽和性」が、ここでは「目が飽くことすらできない」という盲目の絶対的逆転として照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Sein bleicher Kopf steigt wie ein Lilienschaft\nAus magrem Hals. Auf seinem dürren Schlund\nRollt wie ein Ball des Adamsapfels Rund.\nDie Augen quellen aus der engen Haft,",
+      "body": "「彼の蒼白い頭が百合の茎のように（Sein bleicher Kopf steigt wie ein Lilienschaft）」──第5連は外部的視点への回帰として身体の精密な描写を展開する。「Lilienschaft（百合の茎）」という植物的比喩──「Die Heimat der Toten」第8段落「eine Lilie stehn, die euch beweint（あなたたちを泣く百合）」・「Der Tod der Liebenden」最終段落「meiner Küsse blasse Lilie（私の口づけの蒼白い百合）」と連動する「百合」の形象がここでは生者の「蒼白い頭（bleicher Kopf）」に適用される：「百合」が死・蒼白さ・細さの象徴としてハイム全作品を横断する。「dürren Schlund（乾いた喉）」──「Nach der Schlacht」第2連「weißlich quillt der toten Pferde Bauch（死んだ馬の腹が白みがかって膨れ上がる）」という戦死の身体描写に対して、ここでは「乾いた喉（dürren Schlund）」という生者の affliction の身体的形象が詩篇21篇v.16「Aruit tamquam testa virtus mea（私の力は陶器の破片のように乾いた）」と照応する。「Die Augen quellen aus der engen Haft（眼が窮屈な監禁から溢れ出る）」──「Haft（監禁・拘禁）」という法的語彙が眼窩（Augenhöhle）に適用される：眼が眼窩という「監獄（Haft）」から「溢れ出る（quellen）」という誇張表現が白目の突出を描く。第1連「Da stört er nicht（そこなら迷惑をかけない）」という社会的排除と、「engen Haft（窮屈な監禁）」という身体的閉じ込めが二重の「閉じ込め」として照応する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ein Paar von weißen Knöpfen. Denn der Strahl\nDes weißen Mittags schreckt die Toten nicht.\nDer Himmel taucht in das erloschene Licht\nUnd spiegelt in dem bleiernen Opal.",
+      "body": "「一対の白いボタン（Ein Paar von weißen Knöpfen）」──第5連末「Die Augen quellen aus der engen Haft（眼が監禁から溢れ出る）」の跨行的続きとして「白いボタン」という眼の比喩が来る：眼が「白いボタン（Knöpfe）」として物体化される。「Wolken」第5連「Die Schatten folgen schreiend dem stummen Boten（影たちが沈黙した使者に従う）」の「stumm（沈黙）」という affliction に対して、ここでは「tote Augen（死の眼）」が「白いボタン」という無機的・縫製的物体として定義される。「weißen Mittags schreckt die Toten nicht（白い真昼の光は死者たちを怯えさせない）」──「die Toten（死者たち）」という語が盲目の生者に適用される：生きているが「死者たち（Toten）」と同一視されることで、afflictionが「生の死（Leben-als-Tod）」として定義される。「Der Himmel taucht in das erloschene Licht（空は消えた光の中に沈み込む）」──v.3の「Sieh Dir den Himmel an!（空を見ろ!）」という命令への最終的な答え：「空（Himmel）」が「消えた光（erloschenes Licht）」の中に「沈み込む（taucht）」という形象が、盲目の眼の中では空が「消滅した光」として経験されることを示す。「bleiernen Opal（鉛色のオパール）」──「Opal（オパール）」という宝石が「bleiern（鉛色の）」という重く不透明な形容詞で否定される：オパールは遊色効果（色の変化する光沢）で知られる宝石であるが、それが「鉛色（bleiern）」として色彩を失う──「色を見ることのできない眼の中で、色彩豊かな空がすべての色を失った鉛色の宝石として映る」という詩全体の「色の不在」というテーマの視覚的・宝石学的定着。詩の冒頭「空を見ろ」という命令から「空が鉛色のオパールに映る」という終結へ：見ることと見えないことの間の絶対的な距離として詩は閉じられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    }
+  ]
+}
