@@ -141,7 +141,7 @@ export const CAT_SHORT = {
 };
 
 export const AUTHOR_COLOR_MAP = {
-  default:          { dark: 'bg-zinc-800 text-zinc-300',       light: 'bg-stone-100 text-stone-700' }
+  default:          { dark: 'bg-zinc-800 text-[#8a7a5a]',       light: 'bg-stone-100 text-stone-700' }
 };
 
 export const SPEAKER_COLORS = [
