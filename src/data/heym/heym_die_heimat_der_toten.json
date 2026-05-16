@@ -1,0 +1,166 @@
+{
+  "id": "heym_die_heimat_der_toten",
+  "title": "Die Heimat der Toten",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Die Heimat der Toten. In: Der ewige Tag. S. 35–37. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Die_Heimat_der_Toten",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。二部構成（第I部v.1–56、第II部v.57–72）、全18連72行、全篇ABAB交互韻。詩集中最長格の作品であり、「Gruft」「Die Tote im Wasser」「Der Schläfer im Walde」「Ophelia」「Bist Du nun tot?」「Styx」と並ぶ「死の詩群」の頂点として位置づけられる。「Die Heimat der Toten（死者たちの故郷）」というタイトルが示すように、本作は「死者の故郷への帰還」という旅の叙事的描写として展開する。第I部は「冬の夜明けの死の行列」という壮大な文脈において展開する：「死神（der Tod、Schifferknecht＝船頭＝カロン）」が率いる行列は老婆と子どもの死体・首なし死体という個的afflictionの担い手たちを含み、朝から夕へと時間が経過する中で金色の橋・黄昏の炎・死者の森・吸血鬼・墓地の門を経て、頭蓋骨の噴出と死者の墓への転落という圧倒的なグロテスクな終局を迎える。第II部（v.57–72）は一転して「ihr（あなたたち）」という二人称複数への語りかけに転換し、埋葬された死者たちへの哀歌的な「結語」として機能する：「tote Ewigkeit（死んだ永遠）」・「百合（Lilie）」・「Weltentod（世界の死）」という語彙が「永遠の夜明け」としての死を詩的に定着させる。「Styx」第II部の「Verdammten selbst wir uns（我々自身が呪われた者として）」という自己選択的地獄に対して、「Die Heimat der Toten」は「故郷（Heimat）」という帰属的温かさを死の領域に投射するという詩的戦略において際立つ。",
+  "keywords": [
+    "死者の故郷",
+    "Heimat",
+    "死の行列",
+    "Tod der Schifferknecht",
+    "Knochenarm",
+    "Schädel",
+    "Vampyre",
+    "Weltentod",
+    "tote Ewigkeit",
+    "Lilie",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_die_tote_im_wasser",
+    "heym_der_schlafer_im_walde",
+    "heym_ophelia",
+    "heym_styx",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_5",
+    "baudelaire_danse_macabre",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalmi_21",
+    "trakl_helian",
+    "rodenbach_devant_tete_de_mort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Der Wintermorgen dämmert spät herauf.\nSein gelber Turban hebt sich auf den Rand\nDurch dünne Pappeln, die im schnellen Lauf\nVor seinem Haupte ziehn ein schwarzes Band.\nDas Rohr der Seen saust. Der Winde Pfad\nDurchwühlt es mit dem ersten Lichte grell.\nDer Nordsturm steht im Feld wie ein Soldat\nUnd wirbelt laut auf seinem Trommelfell.",
+      "provisionalTranslation": "冬の朝が遅く薄明るくなってくる。\n黄色いターバンが地平の縁へと持ち上がる\n細いポプラを通して、速い走りの中で\nその頭部の前に黒い帯を引く。\n湖の葦がざわめく。風の道が\n最初の光でけたたましくそれをかき乱す。\n北の嵐が野原に兵士のように立ち\n太鼓の皮の上で高らかに渦巻く。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "Ein Knochenarm schwingt eine Glocke laut.\nDie Straße kommt der Tod, der Schifferknecht.\nUm seine gelben Pferdezähne staut\nDes weißen Bartes spärliches Geflecht.\nEin altes totes Weib mit starkem Bauch,\nDas einen kleinen Kinderleichnam trägt.\nEr zieht die Brust wie einen Gummischlauch,\nDie ohne Milch und welk herunterschlägt.",
+      "provisionalTranslation": "骸骨の腕が大きく鐘を振る。\n道を来る、死神、船頭として。\n黄色い馬の歯の周りに詰まっている\n白い顎髭の乏しい編み目が。\n大きな腹を持つひとりの老いた死んだ女、\n小さな子どもの死体を抱えている。\n彼はゴムの管のように胸を引っ張る、\nミルクなく萎れて垂れ下がる胸を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "Ein paar Geköpfte, die vom kalten Stein\nIm Dunkel er aus ihren Ketten las.\nDen Kopf im Arm. Im Eis den Morgenschein,\nDas ihren Hals befror mit rotem Glas.\nDurch klaren Morgen und den Wintertag\nMit seiner Bläue, wo wie Rosenduft\nVon gelben Rosen, über Feld und Hag\nDie Sonne wiegt in träumerischer Luft.",
+      "provisionalTranslation": "数人の首なし死体たち、冷たい石から\n暗闇の中で彼が鎖から解き放ったもの。\n腕の中に頭を抱えて。氷の中の朝の光が\n赤いガラスで彼らの首を凍らせた。\n澄んだ朝と冬の日を通って\nその青さの中を、野原と生垣の上を\n黄色い薔薇の薔薇の香りのように\n太陽が夢見るような空気の中を漂う。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–32",
+      "original": "Des goldenen Tages Brücke spannt sich weit\nUnd tönt wie einer großen Leier Ton.\nDie Pappeln rauschen mit dem Trauerkleid\nDie Straße fort, wo weit der Abend schon\nMit Silberbächen überschwemmt das Land,\nUnd grenzenlos die ferne Weite brennt.\nDie Dämmerung steigt wie ein dunkler Brand\nDen Zug entlang, der in die Himmel rennt.",
+      "provisionalTranslation": "黄金の日の橋が広く架け渡され\n大きな竪琴の音のように鳴り響く。\nポプラたちが喪服とともにざわめく\n道をずっと、夕暮れがすでに遠くで\n銀の小川で大地を氾濫させ、\n果てしなく遠い広がりが燃えるところへ。\n薄明りが暗い炎のように立ち昇る\n天へと走る行列に沿って。"
+    },
+    {
+      "id": 5,
+      "verses": "v.33–40",
+      "original": "Ein Totenhain, und Lorbeer, Baum an Baum,\nWie grüne Flammen, die der Wind bewegt.\nSie flackern riesig in den Himmelsraum,\nWo schon ein blasser Stern die Flügel schlägt.\nWie große Gänse auf dem Säulenschaft\nSitzt der Vampyre Volk und friert im Frost.\nSie prüfen ihrer Eisenkrallen Kraft\nUnd ihre Schnäbel an der Kreuze Rost.",
+      "provisionalTranslation": "死者の森、そして月桂樹、木から木へ、\n風が動かす緑の炎のように。\nそれらは巨大に天上の空間にちらめく、\nそこではすでに青白い星が翅を打っている。\n柱の幹の上に大きな鵞鳥のように\n吸血鬼の民が座り、霜の中で凍えている。\n彼らは氷の爪の力を試す\nそして十字架の錆に嘴を研ぐ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.41–48",
+      "original": "Der Epheu grüßt die Toten an dem Tor,\nDie bunten Kränze winken von der Wand.\nDer Tod schließt auf. Sie treten schüchtern vor,\nVerlegen drehend die Köpfe in der Hand.\nDer Tod tritt an ein Grab und bläst hinein.\nDa fliegen Schädel aus der Erde Schoß\nWie große Wolken aus dem Leichenschrein,\nDie Bärte tragen rund von grünem Moos.",
+      "provisionalTranslation": "蔦が門で死者たちに挨拶する、\n色とりどりの花輪が壁から手招きする。\n死神が開ける。彼らは内気に踏み出る、\n手に持った頭を当惑げに回しながら。\n死神がひとつの墓の傍らに立ちその中へと吹く。\nすると頭蓋骨が大地の胎から飛び出す\n棺の箱から大きな雲のように、\n周りに緑の苔の顎鬚をつけて。"
+    },
+    {
+      "id": 7,
+      "verses": "v.49–56",
+      "original": "Ein alter Schädel flattert aus der Gruft,\nMit einem feuerroten Haar beschwingt,\nDas um sein Kinn, hoch oben in der Luft,\nDer Wind zu feuriger Krawatte schlingt.\nDie leere Grube lacht aus schwarzem Mund\nSie freundlich an. Die Leichen fallen um\nUnd stürzen in den aufgerissenen Schlund.\nDes Grabes Platte überschließt sie stumm.",
+      "provisionalTranslation": "ひとりの老いた頭蓋骨が地下墓から舞い上がる、\n炎のように赤い髪で翅を与えられて、\nそれが顎の周り、高く空中で\n風によって炎の蝶ネクタイへと結ばれる。\n空の穴が黒い口から彼らに\n愛想よく笑いかける。死体たちは倒れ\n引き裂かれた喉へと落ち込む。\n墓の石板が彼らを黙って閉じ込める。"
+    },
+    {
+      "id": 8,
+      "verses": "v.57–64",
+      "original": "Die Lider übereist, das Ohr verstopft\nVom Staub der Jahre, ruht ihr eure Zeit.\nNur manchmal ruft euch noch ein Traum, der klopft\nVon fern an eure tote Ewigkeit,\nIn einem Himmel, der wie Schnee so fahl\nUnd von dem Zug der Jahre schon versteint.\nAuf eurem eingefallenen Totenmal\nWird eine Lilie stehn, die euch beweint.",
+      "provisionalTranslation": "まぶたは氷で覆われ、耳は塞がれている\n歳月の塵で、あなたたちは時を休んでいる。\nただときに夢がまだあなたたちを呼ぶ、遠くから\nあなたたちの死んだ永遠に叩きかける夢が、\n雪のように褪せた、そして\n歳月の流れですでに石化した天空の中で。\nあなたたちの崩れ落ちた墓標の上に\n一輪の百合が立ち、あなたたちを泣くだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.65–72",
+      "original": "Der Märznacht Sturm wird euren Schlaf betaun.\nDer große Mond, der in dem Osten dampft,\nWird tief in eure leeren Augen schaun,\nDarin ein großer, weißer Wurm sich krampft.\nSo schlaft ihr fort, vom Flötenspiel gewiegt\nDer Einsamkeit, im späten Weltentod,\nDa über euch ein großer Vogel fliegt\nMit schwarzem Flug ins gelbe Abendrot.",
+      "provisionalTranslation": "三月の夜の嵐があなたたちの眠りを露で濡らすだろう。\n東の空で蒸気を上げる大きな月が\nあなたたちの空洞の眼の中を深く覗き込むだろう、\nそこで大きな白い虫が痙攣する。\nこうしてあなたたちは眠り続ける、孤独の\n笛の調べに揺り動かされ、遅い世界の死の中で、\nあなたたちの上を大きな鳥が飛ぶ\n黒い飛翔で黄色い夕焼けの中へと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Der Wintermorgen dämmert spät herauf.\nSein gelber Turban hebt sich auf den Rand\nDurch dünne Pappeln, die im schnellen Lauf\nVor seinem Haupte ziehn ein schwarzes Band.",
+      "body": "「冬の朝が遅く薄明るくなってくる（Der Wintermorgen dämmert spät herauf）」──詩全体の時間的枠組みを設定する開口部。「spät（遅く）」という副詞が「herauf（上へと）」という方向の遅滞として冬の夜明けの鈍重さを定義する。「gelber Turban（黄色いターバン）」──太陽が「ターバン（Turban）」として東洋的に擬人化される：「Ophelia」第2連「Hirnes Schrein（脳の厨子）」と同様に、自然現象が人工的・装飾的な器物へと変換される。「gelb（黄色）」という色彩が「Ophelia」第3連「Verirrt sich gelb des Winterabends Schein（冬の夕べの光が黄色く迷い込む）」・「Styx」第1連「wie eines Totenkopfes Auge fahl（頭蓋骨の眼のように褪せた色）」と連動：黄色と褪せた色が死の朝の色彩体系を形成する。「ein schwarzes Band（黒い帯）」──ポプラが太陽の前に「喪の帯（schwarzes Band）」として配置される：第I部全体を貫く「喪の行列（Trauerkleid）」の視覚的先取り。コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の無常的循環が、ここでは「喪服を着た太陽の登場」として具現化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Die Straße kommt der Tod, der Schifferknecht.\nUm seine gelben Pferdezähne staut\nDes weißen Bartes spärliches Geflecht.",
+      "body": "「死神、船頭として（der Tod, der Schifferknecht）」──「Schifferknecht（船頭・水夫の従者）」という語が死神に適用される。「Schiffer（船頭）」はギリシア神話の冥府の渡し守カロン（Charon）への暗示：「Styx」第2連「Phlegeton（フレゲトン）」・ダンテ「地獄篇」第3歌のカロンと連動する冥府的死神像。しかし「Schifferknecht（船頭の下働き）」という「Knecht（召使・下男）」の付加が死神を「高貴な存在」ではなく「下僕」として貶める：ハイムにおける神話的存在の脱神話化の典型的手法。「gelben Pferdezähne（黄色い馬の歯）」──死神の「馬の歯（Pferdezähne）」という動物的・卑俗な身体描写が「Styx」第5連「fetten Greise（太った老人）」・「Die Tote im Wasser」第6連「feisten Kraken（太った蛸）」と同様に、神話的・崇高なものの物質的・卑俗な身体化として機能する。「Knochenarm（骸骨の腕）」──「Gruft」第4連「die schmale Hand / Von einem Kind（子どもの細い手）」・「Bist Du nun tot?」第3連「Silberkamm（銀の櫛）」と連動する「腕・手」の形象系列がここでは「骸骨（Knochen）」として死神自体の身体に帰属される。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ein paar Geköpfte, die vom kalten Stein\nIm Dunkel er aus ihren Ketten las.\nDen Kopf im Arm. Im Eis den Morgenschein,\nDas ihren Hals befror mit rotem Glas.",
+      "body": "「数人の首なし死体たち（Ein paar Geköpfte）、腕の中に頭を抱えて（Den Kopf im Arm）」──「Geköpfte（首を切られた者たち）」という過去分詞形の名詞が、「Bist Du nun tot?」第2連「Würgemale（絞殺痕）」に続くハイムにおける「首・喉への暴力」の主題を継続する。「Kopf im Arm（腕の中に頭）」という形象──ボードレール「骸骨の踊り（Danse Macabre）」の「各人の持ち物として頭蓋骨」という死舞踏（Totentanz）的伝統との照応：死者が自らの身体部位を「携帯品（Arm）」として抱える戯画的グロテスク。「Im Eis den Morgenschein, / Das ihren Hals befror mit rotem Glas（赤いガラスで首を凍らせた朝の光）」──「rotem Glas（赤いガラス）」という形象：切断された首の創傷部が氷に凍り「赤いガラス」として具現化される。これがv.21–24の「klaren Morgen（澄んだ朝）」・「Rosenduft / Von gelben Rosen（黄色い薔薇の薔薇の香り）」という対照的な美的情景と直接的に並置される：首なし死体と黄金の朝の光景という「グロテスクと崇高の同時提示」がハイムの表現主義的弁証法の最も鮮明な例として機能する。",
+      "targetId": "baudelaire_danse_macabre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Des goldenen Tages Brücke spannt sich weit\nUnd tönt wie einer großen Leier Ton.\nDie Pappeln rauschen mit dem Trauerkleid\nDie Straße fort, wo weit der Abend schon\nMit Silberbächen überschwemmt das Land,\nUnd grenzenlos die ferne Weite brennt.\nDie Dämmerung steigt wie ein dunkler Brand\nDen Zug entlang, der in die Himmel rennt.",
+      "body": "「黄金の日の橋（Des goldenen Tages Brücke）」──太陽の光が「橋（Brücke）」として空間的に架け渡される：「Ophelia」第9連「Wie Ketten auf dem Strom（流れの上の鎖のように）」という「橋の鎖」という拘束的比喩とは対照的に、ここでは「橋」が「竪琴の音（Leier Ton）」として音楽的・開放的な形象として機能する。「wie einer großen Leier Ton（大きな竪琴の音のように）」──「Styx」第I部「höllischer Choral（地獄の讃美歌）」に続く音楽的形象：地獄の咆哮が冥府の「Choral」であるのに対し、「Die Heimat der Toten」では黄金の橋が「Leier（竪琴）」の音として昇華される。連7と連8が意味的に跨行（Enjambement）する：「weit der Abend schon（夕暮れがすでに遠くで）」というv.28末尾の句が連8冒頭「Mit Silberbächen überschwemmt das Land（銀の小川で大地を氾濫させ）」と意味的に接続される──この跨行が「行列の進行」という運動の継続性を詩形式的に実演する。「Die Dämmerung steigt wie ein dunkler Brand（薄明りが暗い炎のように立ち昇る）」──「Ophelia」第12連「Davon der Horizont wie Feuer raucht（地平が炎のように煙る）」・「Bist Du nun tot?」第9連「schwarzer Flamme（黒い炎）」・「Styx」第9連「dunkler Brand」との照応：ハイム全作品を貫く「燃焼する終結」の形象が第I部の行列の進行として中間的に出現する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ein Totenhain, und Lorbeer, Baum an Baum,\nWie grüne Flammen, die der Wind bewegt.\nSie flackern riesig in den Himmelsraum,\nWo schon ein blasser Stern die Flügel schlägt.\nWie große Gänse auf dem Säulenschaft\nSitzt der Vampyre Volk und friert im Frost.\nSie prüfen ihrer Eisenkrallen Kraft\nUnd ihre Schnäbel an der Kreuze Rost.",
+      "body": "「死者の森（Totenhain）」──「Hain（木立・聖なる森）」という語がギリシア・ローマ神話の「聖なる森（nemus sacrum）」を想起させる：死者の聖域として、「Der Schläfer im Walde」の「大いなる森（großen Urwald）」と「Ophelia」の「Urwald（原始林）」に続くハイムの「森の死の聖域」系列の最も明示的な形態。「Wie grüne Flammen（緑の炎のように）」──月桂樹の「緑（grün）」が「炎（Flammen）」として変換される：「grüne Flammen（緑の炎）」という矛盾語法が「Die Tote im Wasser」第7連「zur grünen Tiefe（緑の深みへ）」・「Bist Du nun tot?」第9連「schwarzer Flamme（黒い炎）」と連動する炎と色彩の逆説的結合として機能する。「der Vampyre Volk（吸血鬼の民）」──「Vampyre（ヴァンパイア）」という語が詩篇21篇v.17「canes multi（多くの犬）」・「Styx」第5連「Verdammten Schaar（呪われた者たちの群れ）」と同様の包囲的敵対的集団として機能する：「十字架の錆に嘴を研ぐ（Schnäbel an der Kreuze Rost）」という行動が宗教的象徴（十字架）への攻撃として反キリスト教的次元を開く。「Eisenkrallen（氷の爪）」──「Styx」第2連「Entsetzlich wälzt sich hin der Phlegeton（フレゲトンが恐ろしく転がる）」の氷的・金属的世界の継続として機能する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Der Tod schließt auf. Sie treten schüchtern vor,\nVerlegen drehend die Köpfe in der Hand.\nDer Tod tritt an ein Grab und bläst hinein.\nDa fliegen Schädel aus der Erde Schoß\nWie große Wolken aus dem Leichenschrein,\nDie Bärte tragen rund von grünem Moos.",
+      "body": "「死神が開ける。彼らは内気に踏み出る、手に持った頭を当惑げに回しながら（verlegen drehend die Köpfe in der Hand）」──第6段落は詩全体の「到着と入場」の場面として機能する。「schüchtern（内気に・怯えて）」という形容詞が死者たちに適用される逆説：「死者が内気」という感情語の適用が第3連「Geköpfte（首なし死体）」のグロテスクに「人間的な」心理的表現を与える──ハイムの死者たちは「stumm（沈黙）」でありながら「schüchtern（内気）」でもある。「verlegen drehend die Köpfe in der Hand（手に持った頭を当惑げに回す）」──首なし死体が「当惑（verlegen）」して「頭を回す」という形象が極度のグロテスクと心理的真実の融合として機能する：切断された頭を手で持ちながらそれを「当惑げに」回すという行動が喜劇的でありながら深い affliction の表現として機能する。「Da fliegen Schädel aus der Erde Schoß（頭蓋骨が大地の胎から飛び出す）」──「Der Schläfer im Walde」第2連「des Schädels Höhle（頭蓋の空洞）」・「Styx」第1連「Totenkopfes Auge fahl（頭蓋骨の褪せた眼）」と連動する「頭蓋骨（Schädel/Totenkopf）」の形象がここでは地面から「飛び出す（fliegen）」という運動として動態化される。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ein alter Schädel flattert aus der Gruft,\nMit einem feuerroten Haar beschwingt,\nDas um sein Kinn, hoch oben in der Luft,\nDer Wind zu feuriger Krawatte schlingt.\nDie leere Grube lacht aus schwarzem Mund\nSie freundlich an. Die Leichen fallen um\nUnd stürzen in den aufgerissenen Schlund.\nDes Grabes Platte überschließt sie stumm.",
+      "body": "「ひとりの老いた頭蓋骨が地下墓から舞い上がる、炎のように赤い髪で翅を与えられて（Ein alter Schädel flattert aus der Gruft, / Mit einem feuerroten Haar beschwingt）」──第7段落は詩全体のグロテスク的頂点。「feuerroten Haar（炎のように赤い髪）」──「Der Schläfer im Walde」第7連「dunkel glüht（暗く燃える）」・「Ophelia」第12連「wie Feuer raucht（炎のように煙る）」・「Styx」第4連「höllischer Choral（地獄の讃美歌）」と連動する「炎」の形象がここでは「炎のように赤い髪（feuerrotes Haar）」として頭蓋骨に具現化される。「feurige Krawatte（炎の蝶ネクタイ）」──「Krawatte（蝶ネクタイ）」という日常的・紳士的装身具が飛翔する頭蓋骨に「風が結ぶ（schlingt）」という行為によって付与される：「Bist Du nun tot?」第2連「letzten Schmuck（最後の装飾品）」としての絞殺痕と同様に、死の形象に生の装身具を適用するハイムの一貫した逆説的装飾法の最高点。「Die leere Grube lacht aus schwarzem Mund / Sie freundlich an（空の穴が黒い口から彼らに愛想よく笑いかける）」──「lachen（笑う）」という表情語が墓穴に適用される：ヴァニタス絵画における頭蓋骨の「笑い」（toothless grin）が「墓穴（Grube）」そのものへと移し替えられる。「des Grabes Platte überschließt sie stumm（墓の石板が彼らを黙って閉じ込める）」──「stumm（沈黙）」という語が「Ophelia」第4連「stumme Qual（沈黙した苦悩）」・「Bist Du nun tot?」第8連「stumm geschehn（黙ったまま起きる）」と連動して詩全体を閉じる：死者の帰還が「沈黙」として完結する。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Nur manchmal ruft euch noch ein Traum, der klopft\nVon fern an eure tote Ewigkeit,\nIn einem Himmel, der wie Schnee so fahl\nUnd von dem Zug der Jahre schon versteint.\nAuf eurem eingefallenen Totenmal\nWird eine Lilie stehn, die euch beweint.",
+      "body": "「あなたたちの死んだ永遠（eure tote Ewigkeit）」──第II部冒頭の最も重要な語彙的発明。「tote Ewigkeit（死んだ永遠）」という形容詞＋名詞の組み合わせが詩全体の時間論的核心を定義する：「永遠（Ewigkeit）」は生命的・神的な概念であるが、「tote（死んだ）」という形容詞によって否定される──「Styx」第9連「bis zum Ende aller Ewigkeit（すべての永遠の終わりまで）」・「Der Schläfer im Walde」第2連「ewigen Vergessen（永遠の忘却）」・「Ophelia」第6連「ewigen Traum（永遠の夢）」と連動するハイムの「永遠」の反転的使用の最終形。「In einem Himmel, der wie Schnee so fahl / Und von dem Zug der Jahre schon versteint（雪のように褪せた、歳月の流れですでに石化した天空）」──「Himmel（天・天国）」が「Schnee（雪）」のように「fahl（褪せた）」かつ「versteint（石化した）」として定義される：「Styx」第II部での「天国の倦怠（Schläfrigkeit）」と照応して、死者の頭上の空が「死んだ」ものとして提示される。「eine Lilie stehn, die euch beweint（あなたたちを泣く百合）」──「百合（Lilie）」という植物が「泣く（beweinen）」という擬人的動作の主体となる：「Ophelia」第4連「eine Weide weint / Das Laub auf sie（柳が葉を泣く）」という「植物が泣く」という擬人法の反復。ランボー「Ophélie」の花的美化とは異なり、ハイムの「Lilie」は「崩れ落ちた墓標（eingefallenen Totenmal）」の上に立つ孤独な哀悼者として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "So schlaft ihr fort, vom Flötenspiel gewiegt\nDer Einsamkeit, im späten Weltentod,\nDa über euch ein großer Vogel fliegt\nMit schwarzem Flug ins gelbe Abendrot.",
+      "body": "「孤独の笛の調べに揺り動かされ、遅い世界の死の中で（vom Flötenspiel gewiegt / Der Einsamkeit, im späten Weltentod）」──詩全体の最終的な時間的・宇宙的命題。「Weltentod（世界の死）」──「Welt（世界）」と「Tod（死）」の複合名詞：個的な死（「Gruft」の死体・「Die Tote im Wasser」の水死女・「Der Schläfer im Walde」の森の死体）が「世界の死（Weltentod）」という宇宙的スケールへと拡張される。「spät（遅い）」という形容詞──詩の冒頭「Der Wintermorgen dämmert spät herauf（冬の朝が遅く薄明るくなってくる）」の「spät」が最終連で「späten Weltentod（遅い世界の死）」として回帰する：「遅い夜明け」から「遅い世界の死」への、詩全体を貫く時間的弛緩として閉じられる。「vom Flötenspiel gewiegt（笛の調べに揺り動かされ）」──「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」・「Styx」第4連「höllischer Choral（地獄の讃美歌）」と連動する音楽的終結：「Flötenspiel（笛の演奏）」という牧歌的・孤独な音楽が「Einsamkeit（孤独）」の属格に従属することで、死の音楽が「孤独の笛」として静謐に定義される。「Mit schwarzem Flug ins gelbe Abendrot（黒い飛翔で黄色い夕焼けの中へ）」──「schwarz（黒）」と「gelb（黄色）」の対比が詩冒頭「schwarzes Band（黒い帯）」・「gelber Turban（黄色いターバン）」として登場した色彩対が最終行で「黒い飛翔」と「黄色い夕焼け」として回帰する：詩の冒頭と末尾が同じ色彩対によって環状に閉じられるという構造的円環。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性の命題が、「黒と黄」の色彩の反復として詩形式的に実現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    }
+  ]
+}
