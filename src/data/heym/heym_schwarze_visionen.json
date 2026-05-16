@@ -1,0 +1,250 @@
+{
+  "id": "heym_schwarze_visionen",
+  "title": "Schwarze Visionen",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Schwarze Visionen. In: Der ewige Tag. S. 65–70. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Schwarze_Visionen",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。副題「An eine imaginäre Geliebte（想像上の恋人へ）」を持つ、詩集中最長の作品（6部29連116行）。全篇ABAB交互韻。第I部（v.1–16）：腐敗する遺体の描写──「想像上の恋人」が棺の中で虫に食われる姿の精密な走査。第II部（v.17–64）：死者たちの群衆が都市を追放されて冥府の「銀の都市（Silberstädte）」へと向かう宏壮な叙事的行列──「Schwarze Visionen」の中核をなす最長部。第III部（v.65–84）：冥府の死者たちが恋人の棺を訪れ香を注ぎ松明を振る場面。第IV部（v.85–100）：太陽・船・聖職者という宇宙的祭儀の場面。第V部（v.101–108）：月の光と死者の行列。第VI部（v.109–116）：「私」が恋人の後を追い、永遠が天の壁を押し流すという宇宙的閉幕。「Gruft」「Ophelia」「Die Heimat der Toten」「Wolken」という詩集の死の詩群が達成してきた「腐朽の詩学」「死の行列」「冥府の宏壮な空間」という主題をすべて包含しながら、「想像上の恋人（imaginäre Geliebte）」への愛の詩という個人的・抒情的枠組みに収めるという稀有な構造を持つ。「Der Tod der Liebenden（恋人たちの死）」の「Der Tod ist sanft（死は穏やかだ）」という命題の逆面──「Schwarze Visionen（黒い幻視）」というタイトルが示す通り、死の「甘美さ」ではなく「黒さ」として愛と死が結ばれる。",
+  "keywords": [
+    "Schwarze Visionen",
+    "想像上の恋人",
+    "imaginäre Geliebte",
+    "Silberstädte",
+    "Hermes",
+    "Amethyst",
+    "Morgenröten",
+    "Pyramiden",
+    "Ewigkeiten",
+    "腐朽と愛",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_die_heimat_der_toten",
+    "heym_wolken",
+    "heym_styx",
+    "heym_ophelia",
+    "heym_der_tod_der_liebenden",
+    "baudelaire_une_charogne",
+    "baudelaire_spleen",
+    "rossetti_dead_before_death",
+    "hieronymus_psalmi_21",
+    "hieronymus_ecclesiastes_1",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Du ruhst im Dunkel trauriger Askesen\nIn deinem weißen Tuch, ein Eremit,\nUnd deine Locken, die in Nacht verwesen,\nBedecken tief dein eingesunknes Lid.\nAuf deinen Lippen gruben sich die Male\nDer toten Küsse schon in Trichtern ein.\nDie ersten Würmer tanzen um das fahle\nVom Grubenwasser bleiche Schläfenbein.",
+      "provisionalTranslation": "お前は悲しい禁欲の暗がりの中で休む\n白い布の中に、一人の隠者として、\nそしてお前の巻き毛は夜の中で腐敗しながら\n深くお前の落ち窪んだ瞼を覆う。\nお前の唇の上には死んだ口づけの痕が\n漏斗の形にすでに刻み込まれている。\n最初の蛆虫たちが踊る、褪せた\n坑道の水で蒼白くなった側頭骨の周りを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "Wie Ärzte stechen lang sie die Pinzette\nDer Rüssel, die im Fleische Wurzel schlägt.\nDu jagst sie nicht von deinem Totenbette,\nDu bist verflucht, zu leiden unbewegt.\nDes schwarzen Himmels große Grabesglocke\nDreht trüb sich rund um deine Winterzeit.\nUnd es erstickt der Schneefall, dicke Flocke,\nWas unten in den Gräbern weint und schreit.",
+      "provisionalTranslation": "医者のように彼らは長く突き刺す、ピンセットのような\n吻を、肉の中に根を張って。\nお前は彼らを死の寝床から追い払わない、\nお前は呪われている、身動きせず苦しみ続けることを。\n黒い空の大きな墓の鐘が\n濁ってお前の冬の時間の周りを回る。\nそして雪降りが窒息させる、厚い雪片が、\n下の墓の中で泣き叫ぶものを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "Der großen Städte nächtliche Emporen\nStehn rings am Rand, wie gelbe Brände weit.\nUnd mit der Fackel scheucht aus ihren Toren\nDer Tod die Toten in die Dunkelheit.\nSie fahren aus wie großer Rauch und schwirren\nMit leisen Klagen durch das Distelfeld.\nAm Kreuzweg hocken sie zu hauf und irren\nDen Heimatlosen gleich in schwarzer Welt.",
+      "provisionalTranslation": "大きな都市の夜の桟敷席が\n遠く黄色い炎のように周囲の縁に立っている。\nそして松明を持って死神が都市の門から\n死者たちを暗闇へと追い立てる。\n彼らは大きな煙のように飛び出し、ざわめく\n静かな嘆きとともにアザミの野を通り。\n十字路で彼らは群れをなしてうずくまり、さまよう\n故郷なき者たちのように黒い世界の中を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–32",
+      "original": "Sie schaun zurück von einem kahlen Baume,\nAuf den der Wind sie warf. Doch ihre Stadt\nIst zu für sie. Und in dem leeren Raume\nTreibt Sturm sie um den Baum, wie Vögel matt.\nWo ist die Totenstadt? Sie wollen schlafen.\nDa tut sich auf im ernsten Abendrot\nDie Unterwelt, der stillen Städte Hafen,\nWo schwarze Segel ziehen, Boot an Boot.",
+      "provisionalTranslation": "彼らは葉のない木の上から振り返って見る、\n風が彼らを投げつけた木から。しかし彼らの都市は\n彼らには閉じられている。そして空虚な空間の中で\n嵐が彼らを木の周りに駆り立てる、疲れた鳥のように。\n死者の都市はどこにあるのか。彼らは眠りたい。\nすると厳粛な夕焼けの中で開く、\n冥府が、静かな都市の港が、\n黒い帆が船から船へと連なるところが。"
+    },
+    {
+      "id": 5,
+      "verses": "v.33–40",
+      "original": "Und schwarze Fahnen wehn die langen Gassen\nDer ausgestorbnen Städte, die verstummt\nIm Fluch von weißen Himmeln und verlassen,\nWo ewig eine stumpfe Glocke brummt.\nDie schwarzen Brücken werfen ungeheuer\nDie Abendschatten auf den dunklen Strom.\nUnd riesiger Lagunen rotes Feuer\nVerbrennt die Luft mit purpurnem Arom.",
+      "provisionalTranslation": "そして黒い旗が翻る、死に絶えた都市の\n長い小路を、白い空の呪いの中で沈黙し\n見捨てられた都市を、\nそこで永遠に鈍い鐘がうなる。\n黒い橋が途方もなく\n夕べの影を暗い流れの上に投げかける。\nそして巨大なラグーンの赤い炎が\n紫のアロマで大気を燃やす。"
+    },
+    {
+      "id": 6,
+      "verses": "v.41–48",
+      "original": "Kanäle alle, die die Stadt durchschwimmen,\nSind von den Lilienwäldern sanft umsäumt.\nAm Bug der Kähne, wo die Lampen glimmen,\nStehn groß die Schiffer, und der Abend träumt\nWie zarte goldene Kronen um die Stirnen.\nDer tiefen Augen dunkler Edelstein\nUmschließt des hohen Himmels blasse Firnen,\nWo weidet schon der Mond im grünen Schein.",
+      "provisionalTranslation": "都市を泳ぎ抜けるすべての運河は\n百合の森に柔らかく縁取られている。\n燈籠がくすぶる小舟の舳先に\n船頭たちが大きく立ち、夕暮れが夢を見る\n繊細な黄金の冠のように額の周りに。\n深い眼の暗い宝石が\n高い空の蒼白い万年雪を閉じ込める、\nそこで月がすでに緑の光の中を放牧する。"
+    },
+    {
+      "id": 7,
+      "verses": "v.49–56",
+      "original": "Die Toten schaun aus ihrem Winterbaume\nDen Schläfern zu in ihrem sanften Reich.\nUnd das Verlangen faßt sie nach dem Saume\nDes roten Himmels und dem Abend weich.\nDa stürzt sie Hermes, der die Nacht erschüttert\nMit starkem Flug, ein bläulicher Komet,\nDen Grund herab, der meilentief erzittert,\nDa singend ihn der Toten Zug durchweht.",
+      "provisionalTranslation": "死者たちは冬の木の上から眺める\n穏やかな王国の眠れる者たちを。\nそして憧れが彼らを捉える、赤い空の縁と\n柔らかな夕暮れへの憧れが。\nするとヘルメスが彼らを墜落させる、夜を揺さぶりながら\n力強い飛翔で、蒼みがかった彗星として、\n地の底まで、何マイルにもわたって震わす地へ、\n死者たちの行列が歌いながらそこを吹き抜ける。"
+    },
+    {
+      "id": 8,
+      "verses": "v.57–64",
+      "original": "Sie nahn den Städten, da sie wohnen sollen,\nDraus goldne Winde gehn im Abendflug.\nDer Tore Amethyst im tiefen Stollen\nKüßt ihrer Reiherschwingen langer Zug.\nDie Silberstädte, die im Monde glühen,\nUmarmen sie mit ihres Sommers Pracht,\nWo schon im Ost wie große Rosen blühen\nDie Morgenröten in die Mitternacht.",
+      "provisionalTranslation": "彼らは都市に近づく、そこに住むことになる都市に、\nそこから黄金の風が夕べの飛翔の中を行く。\n深い坑道の中の門のアメジストが\n彼らの鷺の翅の長い列を口づけする。\n月の中で燃える銀の都市たちが\n夏の壮麗さで彼らを抱きしめる、\nそこではすでに東の空に大きな薔薇のように咲く\n夜明けの紅が夜半へと向かって。"
+    },
+    {
+      "id": 9,
+      "verses": "v.65–72",
+      "original": "Sie grüßen dich in deinem schwarzen Sarge\nUnd flattern über dich wie Frühlingswind.\nWie Nachtigallen rühren sie das karge,\nWachsbleiche Haupt mit ihren Klagen lind.\nMit Sammethänden wollen sie dich grüßen\nVon meiner Qual. Und wie ein Weinblatt rot,\nSo taumeln ihre Küsse dir zu Füßen,\nUnd ziehn wie Tauben sanft um deinen Tod.",
+      "provisionalTranslation": "彼らはお前の黒い棺の中でお前に挨拶し\n春風のようにお前の上をひらひらと舞う。\nナイチンゲールのように彼らは乏しい、\n蝋のように蒼白い頭を柔らかな嘆きで打つ。\nビロードの手でお前に挨拶しようとする\n私の苦悩から。そして赤いブドウの葉のように、\n彼らの口づけはお前の足元によろめき、\n鳩のようにお前の死の周りを柔らかく回る。"
+    },
+    {
+      "id": 10,
+      "verses": "v.73–80",
+      "original": "Sie schwingen über dir die Fackelbrände,\nDie furchtbar wecken auf die schwarze Nacht.\nSie geben dir in deine weißen Hände\nTränen von Stein, die ich dir dargebracht.\nSie laden Düfte aus den Duft-Amphoren\nUnd überschütten dich mit Ambra ganz.\nDein schwarzes Haar steht auf, an Himmels Toren,\nWie eines Sterngewölkes dünner Glanz.",
+      "provisionalTranslation": "彼らはお前の上で松明の炎を振る、\n恐ろしく黒い夜を目覚めさせる炎を。\n彼らはお前の白い手に与える\n石の涙を、私がお前に贈ったものを。\n彼らは香りの両耳壺から香りを積み込み\nお前をすっかり琥珀で覆い尽くす。\nお前の黒い髪は立ち上がる、天の門で、\n星の雲の薄い輝きのように。"
+    },
+    {
+      "id": 11,
+      "verses": "v.81–84",
+      "original": "Sie werden große Pyramiden bauen,\nDarauf sie türmen deinen schwarzen Schrein.\nDann wirst du in die wilde Sonne schauen,\nDie in dein Blut stürzt wie ein dunkler Wein.",
+      "provisionalTranslation": "彼らは大きなピラミッドを建てるだろう、\nその上にお前の黒い厨子を積み上げて。\nそのときお前は荒々しい太陽を見つめるだろう、\n暗いワインのようにお前の血へと墜ち込む太陽を。"
+    },
+    {
+      "id": 12,
+      "verses": "v.85–92",
+      "original": "Die Sonne, die mit Blumen sich beleuchtet,\nStößt wie ein Aar zu deinen Häupten weit,\nUnd ihrer Purpurlippen Traum befeuchtet\nMit Tränentau dein weißes Totenkleid.\nDann nimmst dein Herz du aus den weißen Brüsten\nUnd zeigst es rings dem stillen Heiligtum.\nUnd deine stolze Flamme rührt die Küsten\nDes Himmels an, die werfen deinen Ruhm",
+      "provisionalTranslation": "花で自らを照らす太陽が\n鷲のようにお前の頭へと遠く突き刺さり、\n紫の唇の夢が\n涙の露でお前の白い死の衣を濡らす。\nそのときお前は白い胸から心臓を取り出し\n静かな聖所の周囲に向けて見せる。\nそしてお前の誇り高い炎は天の岸辺に\n触れる、そこからお前の栄光を投げ出す"
+    },
+    {
+      "id": 13,
+      "verses": "v.93–100",
+      "original": "Ins Meer der Toten aus wie starke Wellen.\nDie großen Schiffe schwimmen um dich her,\nUm deinen Turm, und ihre Lieder schwellen\nWie Abendwolken sanft vom großen Meer.\nUnd was ich dir in meinen Träumen sage,\nDas schrein die Priester aus mit Tuba–Ton.\nDer Meere dunkle Buchten füllt die Klage\nUm dich wie Schilfrohr sanft und schwarzer Mohn.",
+      "provisionalTranslation": "強い波のように死者たちの海へと。\n大きな船たちがお前の周りを泳ぐ、\nお前の塔の周りを、そして船の歌は膨らむ\n夕べの雲のように大きな海から柔らかく。\n私が夢の中でお前に語ることを、\n聖職者たちがトゥバの音で叫び出す。\n海の暗い入り江が嘆きを満たす\nお前の周りを葦のように柔らかく、黒いケシのように。"
+    },
+    {
+      "id": 14,
+      "verses": "v.101–108",
+      "original": "Getrübt bescheint der Mond die stumme Fläche,\nWie ein Korund, der tief im Grunde glüht.\nIn deiner Locken dunkle Flammenbäche\nVerliebt, verweilt er auf den Städten müd.\nDann kommen alle Toten aus den Grüften\nUnd ziehn um dich in langer Prozession.\nVon rosa Glase flattern in den Lüften\nDie Schatten, die von innern Flammen lohn.",
+      "provisionalTranslation": "曇った月が沈黙した平面を照らす、\n底の深みで燃えるコランダムのように。\nお前の巻き毛の暗い炎の川に\n恋して、月は都市の上に疲れてとどまる。\nそのとき死者たちが皆地下墓から来て\n長い行列の中でお前の周りを進む。\n薔薇色のガラスから空中にひらひらと舞う\n影たちが、内なる炎から報いられて。"
+    },
+    {
+      "id": 15,
+      "verses": "v.109–116",
+      "original": "Du zogst voraus nach dem geheimen Reiche.\nIch folge dir dereinst, du Trauerbild,\nUnd halte ewig deine Hand, die bleiche,\nDie meiner Küsse blasse Lilie füllt.\nDann überschwemmen lange Ewigkeiten\nDer Himmel Mauern und das tote Land,\nDie, große Schatten, in den Westen schreiten,\nWo ehern ruht der Horizonte Wand.",
+      "provisionalTranslation": "お前は秘めやかな王国へと先に進んでいった。\n私もいつかお前に続く、お前、悲嘆の映像よ、\nそして永遠にお前の手を握り続ける、その蒼白い手を、\n私の口づけの蒼白い百合を満たす手を。\nそのとき長い永遠たちが天の壁と\n死んだ大地を氾濫させ、\nそれらは大きな影として西へと歩み進み、\n地平線の壁が青銅のように静まるところへ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Du ruhst im Dunkel trauriger Askesen\nIn deinem weißen Tuch, ein Eremit,",
+      "body": "副題「An eine imaginäre Geliebte（想像上の恋人へ）」──詩全体の枠組みを設定する副題。「imaginär（想像上の）」という形容詞が詩の「Du（お前）」という二人称の対象を現実の死体ではなく「想像された恋人」として定義する：これが「Bist Du nun tot?」の「現実の被殺者」・「Ophelia」の「現実の水死女」との根本的差異。「imaginäre Geliebte（想像上の恋人）」という詩的対象の定義は、ボードレール「悪の華」の「ideal（理想）」という不在の美との照応を開く。「ein Eremit（一人の隠者）」──死者が「隠者（Eremit）」として定義される：「trauriger Askesen（悲しい禁欲）」という修辞が棺の中の独房性をキリスト教的苦行として比喩化する。ヴェイユ「脱創造（Décréation）」の「自己消去（s'effacer）」という禁欲的実践との照応。「Locken, die in Nacht verwesen（夜の中で腐敗する巻き毛）」──「verwesen（腐敗する）」という動詞が「Nacht（夜）」という形而上的空間の中で起きる：物質的腐敗が夜の象徴的空間と重なる。「Bist Du nun tot?」第3連「Silberkamm（銀の櫛）」が髪から落ちる形象と対置される：そこでは「失われる」髪飾りが、ここでは「腐敗する」巻き毛として描かれる。",
+      "targetId": "heym_bist_du_nun_tot",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wie Ärzte stechen lang sie die Pinzette\nDer Rüssel, die im Fleische Wurzel schlägt.\nDu jagst sie nicht von deinem Totenbette,\nDu bist verflucht, zu leiden unbewegt.",
+      "body": "「医者のように彼らは長く突き刺す、ピンセットのような吻を（Wie Ärzte stechen lang sie die Pinzette / Der Rüssel）」──蛆虫の「吻（Rüssel）」が「医師のピンセット（Pinzette）」として比喩化される表現主義的直喩。「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」という音楽化・「Wolken」第7連「Auf Schädeln trommeln laut die Musikanten（頭蓋骨の上で太鼓を叩く）」という楽器化に対して、ここでは「医療行為（医師・ピンセット）」としての蛆虫の擬人化。「Du bist verflucht, zu leiden unbewegt（お前は呪われている、身動きせず苦しみ続けることを）」──「unbewegt（身動きせず）」という形容詞が詩篇21篇v.15「Sicut aqua effusus sum, et dispersa sunt omnia ossa mea（水のように流し出され、骨はすべて離れ離れになった）」の身体崩壊の受動性との照応として機能する：死者は苦しみを受けながら「unbewegt（身動きができない）」。「verflucht（呪われた）」──「Styx」第9連「Verdammten selbst wir uns（我々自身が呪われた者として）」の「Verdammten」と連動する「呪い（Fluch）」の主題。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Der großen Städte nächtliche Emporen\nStehn rings am Rand, wie gelbe Brände weit.\nUnd mit der Fackel scheucht aus ihren Toren\nDer Tod die Toten in die Dunkelheit.",
+      "body": "「大きな都市の夜の桟敷席（nächtliche Emporen）」──「Emporen（桟敷席・回廊）」という建築語が夜の都市の高層建物の描写に適用される：「Ophelia」第8連「blinde Scheiben（盲目の窓ガラス）」・「Styx」第9連の都市批判語彙と連動する産業都市の夜景。「Wolken」第1連「Kahn der Wesenlosen（実体なき者たちの小舟）・Der Bote führt（使者が導く）」と連動する「死神が追い立てる」行列の起点として機能する。「wie gelbe Brände weit（遠く黄色い炎のように）」──「gelb（黄色）」の色彩が「Die Heimat der Toten」第1連「gelber Turban（黄色いターバン）」・「Ophelia」第3連「gelb des Winterabends Schein（黄色い光）」と連動：都市の炎的・病的な黄色が死者追放の場として機能する。「Dunkelheit（暗闇）」への追放──詩篇21篇v.2「quare me dereliquisti（なぜ見捨てたのか）」という神的遺棄が、ここでは「死神による都市からの追放」という物語的形象として展開される。",
+      "targetId": "heym_wolken",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wo ist die Totenstadt? Sie wollen schlafen.\nDa tut sich auf im ernsten Abendrot\nDie Unterwelt, der stillen Städte Hafen,\nWo schwarze Segel ziehen, Boot an Boot.",
+      "body": "「死者の都市はどこにあるのか（Wo ist die Totenstadt?）」──詩全体の転換点として機能する問いかけ。「Die Heimat der Toten」というタイトルの「Heimat（故郷）」が「Totenstadt（死者の都市）」として問われる：「Der Tod der Liebenden」第6連「Er gibt uns Heimat（死が故郷を与える）」という「死の故郷」の命題がここでは「問い（Wo ist?）」として開かれたまま提示される。「stillen Städte Hafen（静かな都市の港）」──「Der Tod der Liebenden」第4連「珊瑚の木々・孤独・静寂」という死後の穏やかな世界が「港（Hafen）」という帰港の形象として召喚される。「schwarze Segel（黒い帆）」──「Wolken」第7連「weißen Segeln blähn und knattern（白い帆が膨らむ）」との対比：白い帆が死者の行列の讃美歌を担うのに対し、ここでは「黒い帆（schwarze Segel）」が冥府の港を定義する。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へ）」という方向性の逆転として、死者たちが「港（Hafen）」へと帰還する。",
+      "targetId": "heym_der_tod_der_liebenden",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Und schwarze Fahnen wehn die langen Gassen\nDer ausgestorbnen Städte, die verstummt\nIm Fluch von weißen Himmeln und verlassen,\nWo ewig eine stumpfe Glocke brummt.",
+      "body": "「死に絶えた都市（ausgestorbnen Städte）、白い空の呪いの中で沈黙し（verstummt / Im Fluch von weißen Himmeln）」──「Wolken」第5連「ewig eine stumpfe Glocke brummt（永遠に鈍い鐘がうなる）」と一致するフレーズの反復：「Schwarze Visionen」が「Wolken」の詩的語彙を再利用していることが確認される。「stumpfe Glocke（鈍い鐘）」という音響的形象が冥府の都市の時間的永続性を定義する──「ewig（永遠）」という副詞とともに、鐘の「鈍さ（Stumpfheit）」が永遠の倦怠として機能する。「weißen Himmeln（白い空）」──「黒い旗・黒い都市」と「白い空」の色彩対比：「Styx」第I部「グロテスクな黒と白」・「Ophelia」の「白と黒」という色彩構造がここでは「死者の追放都市」の空間として再現される。ABAB韻律（Gassen—Himmeln: nicht rein / verstummt—brummt）における「verstummt（沈黙した）—brummt（うなる）」という音響的照応：「沈黙」と「うなり」の対置が聴覚的に詩行を引き締める。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Kanäle alle, die die Stadt durchschwimmen,\nSind von den Lilienwäldern sanft umsäumt.\nAm Bug der Kähne, wo die Lampen glimmen,\nStehn groß die Schiffer, und der Abend träumt\nWie zarte goldene Kronen um die Stirnen.\nDer tiefen Augen dunkler Edelstein\nUmschließt des hohen Himmels blasse Firnen,\nWo weidet schon der Mond im grünen Schein.",
+      "body": "「百合の森に縁取られた運河（Lilienwäldern sanft umsäumt）」──第6段落は詩全体で最も「美的」な冥府都市の描写として際立つ。「Der Tod der Liebenden」第4連「Korallenbäumen（珊瑚の木々）」と同様に、植物的生命が死の空間に配置される──百合は聖なる純潔の象徴でありながら冥府の水路に茂る。「wie zarte goldene Kronen（繊細な黄金の冠のように）」──「Die Heimat der Toten」第1連「goldne Wolkensäulen（黄金の雲の柱）」・「Der Tod der Liebenden」第1連「Wolkensäulen（雲の柱）」と連動する「黄金」の語彙：「Schwarze Visionen」というタイトルの「黒」に対して、冥府の豊かな都市は「黄金・アメジスト・銀（Silberstädte）」という宝石的・貴金属的色彩で描かれる逆説的コントラスト。「Edelstein（宝石）」・「Firnen（万年雪）」・「Mond im grünen Schein（緑の光の中の月）」──宝石学・地質学・天文学的語彙の三重の積み重ねが冥府都市の「知的・美的な豊かさ」を定義する：「Styx」第II部の「天国の倦怠」への諷刺とは対照的に、ここでは死の空間がこれ以上なく豊かに描かれる。",
+      "targetId": "heym_der_tod_der_liebenden",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Da stürzt sie Hermes, der die Nacht erschüttert\nMit starkem Flug, ein bläulicher Komet,\nDen Grund herab, der meilentief erzittert,\nDa singend ihn der Toten Zug durchweht.",
+      "body": "「ヘルメスが彼らを墜落させる（Da stürzt sie Hermes）、蒼みがかった彗星として（ein bläulicher Komet）」──第7段落の第II部における最重要な形象。「Hermes（ヘルメス）」──ギリシア神話の「霊魂の案内者（Psychopomp）」として冥府への導き手となる神：「Wolken」第1連「Der Bote（使者）」・「Die Heimat der Toten」第2連「der Schifferknecht（船頭）」という死の案内者系列がここでは「Hermes」という固有名で明示される。「ein bläulicher Komet（蒼みがかった彗星）」──「bläulich（蒼みがかった）」という特定の青の色調：「Bist Du nun tot?」第7連「blauen Ampellicht（青い燈籠の光）」・「Der Tod der Liebenden」第9連「blaue Schwinge（青い翅）」と連動する「青」系列の最も宇宙的な形象として、ヘルメスが「彗星」として夜を貫く。「Den Grund herab, der meilentief erzittert（何マイルにもわたって震わす地の底まで）」──スケールの宇宙的拡大：「Ophelia」第12連「Durch Ewigkeiten fort（永遠を通って果てしなく）」・「Die Heimat der Toten」最終連「Weltentod（世界の死）」という宇宙的時間概念がここでは「地の深さ（meilentief）」として空間的に展開される。",
+      "targetId": "heym_wolken",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Sie nahn den Städten, da sie wohnen sollen,\nDraus goldne Winde gehn im Abendflug.\nDer Tore Amethyst im tiefen Stollen\nKüßt ihrer Reiherschwingen langer Zug.",
+      "body": "「門のアメジスト（Der Tore Amethyst）」──「Amethyst（アメジスト）」という宝石名が冥府都市の「門（Tor）」の材質として使用される。アメジスト（紫水晶）は古代ギリシア・ローマにおいて「酔いを防ぐ石」として知られ、「a-methystos（酔っていない）」というギリシア語に由来する：「Styx」第7連「im heißen Purpurpfühl（熱い紫の官能）」の「紫（Purpur）」と音的・色的に連動する宝石的「紫（Amethyst）」が冥府の門を定義する。「im tiefen Stollen（深い坑道の中）」──「Stollen（鉱山の坑道・トンネル）」という鉱山語彙が宝石（Amethyst）と組み合わされる：地下採掘の場として冥府が再定義される。「Reiherschwingen（鷺の翅）」──「Der Tod der Liebenden」第8連「Kormoran（鵜）」に続くハイムの「水鳥の翅」シリーズ：鵜→鷺という水辺の鳥の変奏が冥府への到来を翅の音として表す。「Reiherschwingen langer Zug（鷺の翅の長い列）」がアメジストの門に「口づけされる（küßt）」という美的極大点として機能する。",
+      "targetId": "heym_der_tod_der_liebenden",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Die Silberstädte, die im Monde glühen,\nUmarmen sie mit ihres Sommers Pracht,\nWo schon im Ost wie große Rosen blühen\nDie Morgenröten in die Mitternacht.",
+      "body": "「月の中で燃える銀の都市たち（Die Silberstädte, die im Monde glühen）」──第II部の最終連にして詩全体の最大の宏壮な形象。「Silberstädte（銀の都市たち）」──「黒い都市（追放元）→黒い旗・橋の都市（冥府の入口）→百合・運河の都市（第6段落）→銀の都市」という都市の変容系列の最終局面。「glühen（燃える）」という動詞──ハイム全作品を貫く「燃焼する終結」の形象（「Bist Du nun tot?」「schwarzer Flamme」・「Ophelia」「wie Feuer raucht」）がここでは「Silber（銀）」という貴金属的輝きとして最も昇華的な形で現れる。「Sommers Pracht（夏の壮麗さ）」──詩集全体の「冬（Winter）」という季節的死の時間に対して、「銀の都市」は「夏（Sommer）」を持つ：死の季節（冬）から冥府の豊かさ（夏）への移行。「Die Morgenröten in die Mitternacht（夜半へと向かう夜明けの紅）」──「夜明け（Morgenröte）」が「真夜中（Mitternacht）」へ向かうという時間的逆説：「Wolken」最終連「Dem Orkus zu, den ungeheuren Grüften（冥府へと）」という下降的終結に対して、ここでは「夜明け」が「真夜中」という完全な夜の中で「咲く（blühen）」という逆説的な光として閉じられる。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性が、「夜明けが真夜中へと」という時間の逆転として詩的に実現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sie grüßen dich in deinem schwarzen Sarge\nUnd flattern über dich wie Frühlingswind.\nWie Nachtigallen rühren sie das karge,\nWachsbleiche Haupt mit ihren Klagen lind.",
+      "body": "「彼らはお前の黒い棺の中でお前に挨拶し（Sie grüßen dich in deinem schwarzen Sarge）」──第III部の開始。「銀の都市」に到達した死者たちが再び第I部の「棺の中の恋人」へと戻ってくる：詩の空間的円環として第II部（死者の行列・冥府の都市）が第III部で個的な「Du（お前）」への帰還として収束される。「Sammethänden（ビロードの手）」──「Gruft」第4連「Sammetband（ビロードの紐）」・「Bist Du nun tot?」第3連「Silberkamm（銀の櫛）」と連動する「触れる手」と「ビロード」の形象。「Nachtigallen（ナイチンゲール）」──「Wolken」第5連「stummen Boten（沈黙した使者）」の対極として、冥府から来た死者たちがナイチンゲールの歌声によって恋人の棺を訪れる：沈黙から歌へ、追放から帰還へという転換。「wachsbleiche Haupt（蝋のように蒼白い頭）」──「Gruft」第4連「wie Wachs so weiß und kalt（蝋のように白く冷たい）」・「Die Heimat der Toten」第2連の蝋形象と連動：ハイム全作品を貫く「蝋（Wachs）」が死体の蒼白さの定標準比喩として機能する。",
+      "targetId": "heym_gruft",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Sie geben dir in deine weißen Hände\nTränen von Stein, die ich dir dargebracht.\nDein schwarzes Haar steht auf, an Himmels Toren,\nWie eines Sterngewölkes dünner Glanz.",
+      "body": "「石の涙（Tränen von Stein）、私がお前に贈ったもの（die ich dir dargebracht）」──初めて詩の「ich（私）」が明示的に現れる：詩全体が「私」から「Du（お前）」への呼びかけとして語られる抒情的構造が「Tränen von Stein, die ich dir dargebracht（石の涙、私がお前に贈ったもの）」において確認される。「Tränen von Stein（石の涙）」──「涙」という感情的液体が「石（Stein）」という固体として定義される矛盾語法：「Bist Du nun tot?」第1連「Würgemale … als letzten Schmuck（絞殺痕を最後の装飾品として）」と同様に、苦痛の痕跡が装飾的・宝石的な形象として変換される。「Dein schwarzes Haar steht auf, an Himmels Toren（黒い髪が天の門で立ち上がる）」──「第II部」の「銀の都市・アメジストの門」に続く「Himmels Toren（天の門）」：地下の「冥府の門（Tor）」と「天の門（Himmels Toren）」が対称的に配置される。「Sterngewölkes（星の雲）」──「Silberstädte（銀の都市）」・「Mond（月）」という天体的語彙の継続：「黒い髪」が「星雲の薄い輝き」として天文学的スケールに拡大される。",
+      "targetId": "heym_bist_du_nun_tot",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Sie werden große Pyramiden bauen,\nDarauf sie türmen deinen schwarzen Schrein.\nDann wirst du in die wilde Sonne schauen,\nDie in dein Blut stürzt wie ein dunkler Wein.",
+      "body": "「大きなピラミッドを建てる（große Pyramiden bauen）」──「ピラミッド（Pyramide）」という古代エジプトの墓建築が登場する：「Schwarze Visionen」が「Gruft（地下墓）」というドイツ的・西洋的墓空間から「ピラミッド」という古代エジプト的・宇宙的墓建築へと空間的スケールを拡大する。エジプトの王墓として「ピラミッド」が「お前の黒い厨子（schwarzen Schrein）」を支える台座として機能する：詩の「想像上の恋人」が「王（Pharao）」的存在として埋葬される。「wilde Sonne（荒々しい太陽）」──第IV部の「Sonne（太陽）」の先取りとして：「荒々しい（wild）」という形容詞が第1連の「trauriger Askesen（悲しい禁欲）」という内向的形容詞との対極として、太陽の暴力的・外向的性格を定義する。「Die in dein Blut stürzt wie ein dunkler Wein（暗いワインのように血へと墜ち込む太陽）」──「Styx」第7連「im heißen Purpurpfühl（熱い紫の官能）」・「Bist Du nun tot?」第4連「trank wie Traubensaft（葡萄の汁のように飲んだ）」と連動する「飲む・墜ちる」の液体的形象。太陽が「血に墜ちる」という形象が死の循環的融合として機能する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Dann nimmst dein Herz du aus den weißen Brüsten\nUnd zeigst es rings dem stillen Heiligtum.\nUnd deine stolze Flamme rührt die Küsten\nDes Himmels an, die werfen deinen Ruhm",
+      "body": "「お前の白い胸から心臓を取り出し（nimmst dein Herz du aus den weißen Brüsten）」──死体が「心臓を取り出す（nimmst Herz）」という能動的行為の主体となる：「Du bist verflucht, zu leiden unbewegt（身動きせず苦しむことを呪われた）」という第2段落の受動性が、第IV部では「心臓を取り出す・見せる・炎が天の岸辺に触れる」という能動的行為へと転換される。「dem stillen Heiligtum（静かな聖所）」──「Der Tod der Liebenden」第6連「stillen Reich（静かな王国）」と連動する「stille（静寂）」の宗教的語彙：死の「静かな」空間が「聖所（Heiligtum）」として神聖化される。連IV-2（v.89–92）末尾「die werfen deinen Ruhm（お前の栄光を投げ出す）」が跨行によって連IV-3（v.93–96）冒頭「Ins Meer der Toten aus（死者たちの海へと）」へと継続する──詩集全体の中でも最も意味的に跨行が機能する箇所として、「栄光（Ruhm）→海へと投げ出される」という運動が連をまたぐことで視覚的・音響的に実演される。ABAB韻律（Brüsten—Küsten, Heiligtum—Ruhm）が第13段落の二連でそれぞれ整然と機能する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Und was ich dir in meinen Träumen sage,\nDas schrein die Priester aus mit Tuba–Ton.\nDer Meere dunkle Buchten füllt die Klage\nUm dich wie Schilfrohr sanft und schwarzer Mohn.",
+      "body": "「聖職者たちがトゥバの音で叫び出す（schrein die Priester aus mit Tuba–Ton）」──「Tuba（トゥバ）」はローマの金管楽器：「Wolken」第7連「Auf Schädeln trommeln laut die Musikanten（頭蓋骨の上で太鼓を叩く）」・「Styx」第4連「höllischer Choral（地獄の讃美歌）」という「死の音楽」系列に、ここでは「Priester（聖職者）」による「Tuba（金管楽器）」が加わる。「Styx」第II部「Trinität（三位一体）がソファで眠る」という諷刺的宗教語彙と対比的に、ここでは「Priester（聖職者）」が「私の夢の言葉」を「叫ぶ」積極的な声として機能する。「wie Schilfrohr sanft und schwarzer Mohn（葦のように柔らかく、黒いケシのように）」──「Schilfrohr（葦）」が「Ophelia」第3連「Im dichten Röhricht（密生した葦）」と連動：葦が水辺・死の境界の植物として機能する。「schwarzer Mohn（黒いケシ）」──ケシは「眠りの神モルペウス（Morpheus）」に捧げられた花として、死と眠りの植物的象徴。「黒いケシ」という形象が「Schwarze Visionen」というタイトルの「黒」と「眠り（ケシ）」の結合として詩全体を象徴的に定義する。",
+      "targetId": "heym_wolken",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Du zogst voraus nach dem geheimen Reiche.\nIch folge dir dereinst, du Trauerbild,\nUnd halte ewig deine Hand, die bleiche,\nDie meiner Küsse blasse Lilie füllt.\nDann überschwemmen lange Ewigkeiten\nDer Himmel Mauern und das tote Land,\nDie, große Schatten, in den Westen schreiten,\nWo ehern ruht der Horizonte Wand.",
+      "body": "「お前は秘めやかな王国へと先に進んでいった（Du zogst voraus nach dem geheimen Reiche）」──詩全体の「I（私）」と「Du（お前）」の関係の最終的定義。「Der Tod der Liebenden」第5連「Wir werden immer bei einander bleiben（私たちはいつも互いのそばに留まる）」という「共に」に対して、ここでは「お前が先に行き、私が後から続く（Ich folge dir dereinst）」という「追跡・後続」として死後の結合が定義される。「du Trauerbild（お前、悲嘆の映像よ）」──「imaginäre Geliebte（想像上の恋人）」という副題の「imaginär（想像上の）」が「Trauerbild（悲嘆の映像）」として最終的に定義される：死した恋人は「映像（Bild）」として「悲嘆（Trauer）」の中にのみ存在する。「blasse Lilie（蒼白い百合）」──「Die Heimat der Toten」第8段落「eine Lilie stehn, die euch beweint（あなたたちを泣く百合）」との照応：「百合」が墓標の上の哀悼者として機能するのに対し、ここでは「私の口づけの百合（meiner Küsse blasse Lilie）」として愛の象徴として機能する。「lange Ewigkeiten（長い永遠たち）」──「Ophelia」第12連「Durch Ewigkeiten fort（永遠を通って）」・「Die Heimat der Toten」第8段落「tote Ewigkeit（死んだ永遠）」と連動する「永遠（Ewigkeit）複数形」の最終的使用。「Ewigkeiten」が「天の壁と死んだ大地を氾濫させ（überschwemmen）」という洪水的形象で詩全体を閉じる：「長い永遠たちが世界を氾濫させ、大きな影として西へと歩み、地平線の壁が青銅のように静まる」という最終句が、コヘレト第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」という永続する地の命題を「ehern ruht der Horizonte Wand（地平線の壁が青銅のように静まる）」として詩的に継承する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
