@@ -1,0 +1,162 @@
+{
+  "id": "heym_styx",
+  "title": "Styx",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Styx. In: Der ewige Tag. S. 30–31. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Styx_(Heym)",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "上級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。二部構成（第I部v.1–28、第II部v.29–42）。第I部は7連28行のABAB/ABBA混合韻律による整然とした連形式、第II部は与格の連鎖による長い接続法的構文（自由詩形式）14行。タイトル「Styx（ステュクス）」はギリシア神話における冥府の川の固有名詞であるが、詩中に「Styx」の語は出現せず、代わりに「Phlegeton（フレゲトン）」──ギリシア神話のもうひとつの冥府の川、「燃える川」──が第2連で中心的形象として登場する。第I部は冥府の懲罰的空間における集団的苦悩と欲望の描写として展開する：プレゲトンの轟音・石のように落下する魂・互いにまたがり合う亡者たち・「höllischer Choral（地獄の讃美歌）」という宗教語彙の転倒的使用。第II部はダッシュを転換点として構造が反転し、「天国（Himmel）」の倦怠・蜘蛛の巣・ケルビムの鼻・「温和な平和（milden Frieden）」・三位一体（Trinität）という天上的なものへの諷刺的列挙から「我々自身が呪われた者として（Verdammten selbst wir uns）」この場所へと来た、という「自発的地獄選択」の命題で閉じられる。ダンテ『神曲』「地獄篇」の受苦者的世界に対してハイムは「天国の倦怠を逃れて地獄を選ぶ」という根本的倒錯を提示する。ボードレール「悪の華」の「反-天上」的美学の表現主義的急進化として、またVANITISMEのaffliction詩の系譜における「天上への否定」として位置づけられる。",
+  "keywords": [
+    "Styx",
+    "Phlegeton",
+    "冥府",
+    "Verdammten",
+    "höllischer Choral",
+    "天国の倦怠",
+    "Trinität",
+    "自発的地獄選択",
+    "表現主義",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_gruft",
+    "heym_die_tote_im_wasser",
+    "heym_ophelia",
+    "heym_bist_du_nun_tot",
+    "dante_inferno_canto_3",
+    "dante_inferno_canto_5",
+    "baudelaire_femmes_damnees",
+    "baudelaire_litanies_satan",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_psalmi_21",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Die Nebel graun, die keinem Winde weichen.\nDie giftigen Dünste schwängern weit das Tal.\nEin blasses Licht scheint in der Toten Reichen,\nWie eines Totenkopfes Auge fahl.",
+      "provisionalTranslation": "霧が灰色に広がる、どんな風にも退かない。\n毒性の蒸気が谷を広く汚染する。\n蒼白い光が死者たちの王国に差している、\n頭蓋骨の眼のように褪せた色で。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Entsetzlich wälzt sich hin der Phlegeton.\nWie tausend Niagaras hallt sein Brüllen.\nDie Klüfte wanken von dem Schreien schon,\nDie im Orkan die Feuerfluten füllen.",
+      "provisionalTranslation": "恐ろしくフレゲトン川が転がっていく。\nその咆哮は千のナイアガラのように響き渡る。\n峡谷は叫び声ですでに揺れ動く、\n竜巻の中で火の洪水が満たす叫び声で。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Sie glühn von Qualen weiß. Wie Steine rollen\nDen Fluß herab sie in der trüben Glut,\nWie des geborstenen Eises Riesenschollen\nSo schmettert ihre Leiber hin die Flut.",
+      "provisionalTranslation": "彼らは苦悩で白く燃えている。石のように転がる、\n濁った炎の中を川を下って、\n砕け割れた氷の巨大な塊のように\n洪水が彼らの体を打ち砕いていく。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Sie reiten auf einander nackt und wild,\nVon Zorn und Wollust aufgebläht wie Schwämme.\nEin höllischer Choral im Takte schwillt\nVom Grunde auf bis zu dem Kamm der Dämme.",
+      "provisionalTranslation": "裸で野蛮に彼らは互いの上にまたがる、\n怒りと肉欲でスポンジのように膨れ上がって。\nひとつの地獄の讃美歌が拍子を刻んで高まる\n底から堤防の頂まで。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Auf einem fetten Greise rittlings reitet\nEin nacktes Weib mit schwarzem Flatterhaar.\nUnd ihren Schoß und ihre Brüste breitet\nSie lüstern aus vor der Verdammten Schaar.",
+      "provisionalTranslation": "太った老人の上に跨って乗っている、\n黒いはためく髪を持つひとりの裸の女が。\nそして彼女は腿と胸を広げる、\n淫らに、呪われた者たちの群れの前に。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Da brüllt der Chor in aufgepeitschter Lust.\nDas Echo rollt im roten Katarakt.\nEin riesiger Neger steigt herauf und packt\nDen weißen Leib an seine schwarze Brust.",
+      "provisionalTranslation": "そこで合唱が鞭打たれた欲望の中で咆哮する。\nこだまが赤い滝の中を転がっていく。\n一人の巨大な黒人が上ってきてつかむ、\n白い体を自らの黒い胸へと。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Unzählige Augen sehn den Kampf und trinken\nDen Rausch der Gier. Er braust durch das Gewühl,\nDa in dem Strom die Liebenden versinken,\nDen Göttern gleich im heißen Purpurpfühl.",
+      "provisionalTranslation": "無数の眼が戦いを見て、貪欲の陶酔を\n飲み干す。それは混乱の中を激しく吹き荒れる、\n流れの中で愛する者たちが沈んでいく、\n熱い紫の官能の中で神々に等しく。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–37",
+      "original": "Des Himmels ewiger Schläfrigkeit entflohen,\nDen Spinneweben, die der Cherubim\nErhobene Nasen schon wie Efeu decken,\nDem milden Frieden, der wie Öl so fett,\nEin Bettler, lungert in den Ecken faul,\nDem Tabaksdunst aus den Pastorenpfeifen,\nDer Trinität, die bei den Lobgesängen\nVon alten Tanten auf dem Sofa schläft,\nDem ganzen großen Armenhospital,",
+      "provisionalTranslation": "天国の永遠の眠気から逃れて、\nケルビムの高く上げた鼻をすでに\n蔦のように覆う蜘蛛の巣から、\n油のように脂ぎった温和な平和から、\n物乞いのようにぶらぶらと隅に怠惰に屯する平和から、\n牧師のパイプのタバコの煙から、\n讃美歌の中でソファの上で\n老婆たちとともに眠る三位一体から、\nその大きな貧民救済院全体から、"
+    },
+    {
+      "id": 9,
+      "verses": "v.38–42",
+      "original": "– Verdammten selbst wir uns und kamen her\nAuf dieser Insel weite Ödigkeit,\nDie wie ein Bootskiel in den Wellen steht,\nUm bis zum Ende aller Ewigkeit\nDem ungeheuren Strome zuzuschaun.",
+      "provisionalTranslation": "──我々自身が呪われた者として、こちらへやってきた\nこの島の広い荒涼へと、\n波の中に船の竜骨のように立つ島へと、\nすべての永遠の終わりまで\nこの途方もない流れを眺め続けるために。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ein blasses Licht scheint in der Toten Reichen,\nWie eines Totenkopfes Auge fahl.",
+      "body": "「死者たちの王国に差す蒼白い光（Ein blasses Licht scheint in der Toten Reichen）」──冥府の視覚的設定。「blass（蒼白）」という色彩が「Ophelia」第7連「blassen Schein（蒼白い輝き）」・「Gruft」第5連「blassem Staub（蒼白い塵）」と連動：ハイム全作品を貫く蒼白色が、ここでは冥府の光として最も原初的な場所に配置される。「Wie eines Totenkopfes Auge fahl（頭蓋骨の眼のように褪せた色）」──「Totenkopf（頭蓋骨）」という語がハイム五作品の共通形象として機能する：「Gruft」第1連「schwarzem Marmorhaupte（黒い大理石の頭部）」・「Der Schläfer im Walde」第2連「des Schädels Höhle（頭蓋の空洞）」・同第6連「des Schädels Leere（頭蓋の虚ろ）」の系列がここでは「Totenkopf（頭蓋骨）」の「眼（Auge）」として冥府の光源となる。「fahl（褪せた・黄ばんだ）」──「Ophelia」第3連「gelb des Winterabends Schein（冬の夕べの黄色い光）」と同系の死の色彩として、ただし「黄色（gelb）」よりも一層失色した「fahl」として定義される。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo quo laborat sub sole?（太陽の下での労苦から人は何を得るのか）」の「sub sole（太陽の下）」が否定された世界──太陽のない死者の王国の蒼白い光──として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Entsetzlich wälzt sich hin der Phlegeton.\nWie tausend Niagaras hallt sein Brüllen.",
+      "body": "「フレゲトン（Phlegeton）」──ギリシア神話の冥府の五つの川のひとつ。「φλεγέθων（phlegethōn）」は「燃える川」を意味するギリシア語分詞形。ホメロス『オデュッセイア』第10・11歌、ダンテ『神曲』「地獄篇」第12〜14歌（暴力者の罰の場として「血の川フレゲトン」が登場）に由来。タイトルの「Styx（ステュクス）」と「Phlegeton」という二つの冥府の川の使用：「Styx」は神々の誓いの川・魂が渡る川として知られる一方、「Phlegeton」は「燃える川」として懲罰の流体を象徴する。ハイムがタイトルを「Styx」としながら詩中では「Phlegeton」を使う──この命名のずらしが詩の構造的逆説として機能する：読者は「死の川（Styx）」を期待するが、実際に現れるのは「燃える懲罰の川（Phlegeton）」。ダンテ「地獄篇」第3歌「Caron dimonio, con occhi di bragia（炭火の眼を持つ悪魔カロン）」という渡し守との照応。「Wie tausend Niagaras（千のナイアガラのように）」──古典的冥府の「Styx」に「ナイアガラ」という近代的・地理的固有名詞を対置させるハイムの表現主義的語彙選択：神話的空間に現実的スケールの衝撃が導入される。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Sie glühn von Qualen weiß. Wie Steine rollen\nDen Fluß herab sie in der trüben Glut,\nWie des geborstenen Eises Riesenschollen\nSo schmettert ihre Leiber hin die Flut.",
+      "body": "「苦悩で白く燃えている（glühn von Qualen weiß）」──「glühen（燃えること・白熱すること）」と「weiß（白い）」の結合が「Gruft」第3連「schwimmt das Glänzen（光沢が揺蕩う）」と同様に、燃焼・発光と崩壊の同時性を示す。「weiß（白）」という色彩が地獄の魂に適用される：「Ophelia」第5連「Schwäne Fittich überdacht sie weiß（白鳥の翅が白く覆う）」・「Die Tote im Wasser」第4連「weißes Schiff（白い船）」と連動する白色が、ここでは「苦悩による白熱（Glühen）」として最も暴力的な形で現れる。「Wie Steine rollen … Wie des geborstenen Eises Riesenschollen（石のように転がる……砕け割れた氷の巨大な塊のように）」──二重の直喩（Gleichnis）が人体を「石」と「砕けた氷塊」として非人格化する：詩篇21篇v.15「Sicut aqua effusus sum, et dispersa sunt omnia ossa mea（水のように流し出され、骨はすべて離れ離れになった）」の身体崩壊の形象が、ここでは「石」と「氷」という固体の粉砕として変奏される。ABAB韻律（rollen—Schollen, Glut—Flut）が第3連で最も音響的効果を発揮する：「rollen（転がる）」と「Schollen（塊）」の半韻が転落の反復運動を模倣する。",
+      "targetId": "hieronymus_psalmi_21",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ein höllischer Choral im Takte schwillt\nVom Grunde auf bis zu dem Kamm der Dämme.",
+      "body": "「地獄の讃美歌（höllischer Choral）」──「Choral（讃美歌・コラール）」という宗教音楽の語が「höllisch（地獄の）」という形容詞と結合する逆説的複合。「Der Schläfer im Walde」第2連「Würmer singen（蛆虫が歌う）」・「Bist Du nun tot?」第2連「Würgemale … als letzten Schmuck（絞殺痕を最後の装飾品として）」と同様に、宗教的・美的形式語が死と苦悩の文脈に転用される：讃美歌が「地獄的」として定義されることで、礼拝の形式そのものが懲罰の音楽として機能する。ダンテ「地獄篇」第3歌「Bestemmïavano Dio e lor parenti（神と祖先を罵倒していた）」という地獄における「反-讃美」の形象との照応：ダンテでは呪詛がハイムでは「Choral（讃美歌）」という形式をとって逆説的に持続する。「Im Takte schwillt（拍子を刻んで高まる）」──「schwillt（膨らむ・高まる）」という動詞が第5連「aufgebläht wie Schwämme（スポンジのように膨れ上がって）」と連動する：身体的膨張と音楽的高揚が同一動詞群として冥府の「増殖」を示す。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Auf einem fetten Greise rittlings reitet\nEin nacktes Weib mit schwarzem Flatterhaar.\nUnd ihren Schoß und ihre Brüste breitet\nSie lüstern aus vor der Verdammten Schaar.",
+      "body": "「太った老人の上に跨って乗る裸の女（Auf einem fetten Greise rittlings reitet / Ein nacktes Weib）」──第5連はハイムの冥府描写の最も直接的な性的表現。「fett（太った・脂ぎった）」という形容詞が「Die Tote im Wasser」第6連「feisten Kraken（太った蛸）」・「Styx」第II部「der wie Öl so fett（油のように脂ぎった）」と連動：「fett」という語がハイムにおいて嫌悪感を喚起する物質性の指標として機能する。「Schaar der Verdammten（呪われた者たちの群れ）」──ダンテ「地獄篇」の「dannati（断罪された者たち）」の語彙的照応。「Die Tote im Wasser」の「stolz von dannen treibt（誇らしげに流れる）」と同様に、「Verdammten（呪われた者たち）」が観客・証人として配置される：冥府が懲罰の場であると同時に観劇の場として機能する。ボードレール「呪われた女たち（Femmes Damnées）」の「damnées（呪われた者たち）」という語との直接的照応──ボードレールが女性同性愛を「呪われた」美として昇華するのに対し、ハイムの「Verdammten Schaar」はより無差別・集団的な欲望の群衆として提示される。",
+      "targetId": "baudelaire_femmes_damnees",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Da brüllt der Chor in aufgepeitschter Lust.\nDas Echo rollt im roten Katarakt.\nEin riesiger Neger steigt herauf und packt\nDen weißen Leib an seine schwarze Brust.",
+      "body": "「白い体を自らの黒い胸へ（Den weißen Leib an seine schwarze Brust）」──第6連の最終行が「weiß（白）」と「schwarz（黒）」という色彩対立を身体的接触として提示する。「白と黒」の対立はハイムの全作品を貫く色彩体系の最も直接的な表現：「Gruft」の「schwarzem Marmorhaupte」対「白い手」・「Die Tote im Wasser」の「weißes Tanzkleid」対「schwarzer Felle」・「Ophelia」の「weiße Schiff」対「schwarzem Flatterhaar」という色彩の拮抗が、ここでは身体的融合として最終化される。「roten Katarakt（赤い滝）」──「Phlegeton（燃える川）」の「赤い」光景が「Katarakt（滝・白内障）」という語によって視覚的にも聴覚的にも拡張される：「Katarakt」は医学的には「白内障」（視覚の喪失）を意味するが、ここでは「激流・滝」として冥府の川の轟音を具現化する。詩篇21篇v.15「Sicut aqua effusus sum（水のように流し出された）」・v.17「circumdederunt me canes multi（多くの犬が私を取り囲んだ）」という身体的afflictionの包囲との照応。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Unzählige Augen sehn den Kampf und trinken\nDen Rausch der Gier. Er braust durch das Gewühl,\nDa in dem Strom die Liebenden versinken,\nDen Göttern gleich im heißen Purpurpfühl.",
+      "body": "「無数の眼（Unzählige Augen）」──詩篇21篇v.18「dinumeraverunt omnia ossa mea. Ipsi vero consideraverunt et inspexerunt me（骨をすべて数え上げた。彼らは考え、私を眺めた）」という「まなざしの暴力」の冥府的拡大として読める：「unzählig（無数の）」という形容詞が「dinumeraverunt（数え上げた）」という詩篇の計数行為と逆説的に照応する──数えられない眼たちが数え上げる眼の群れとして機能する。「Den Göttern gleich im heißen Purpurpfühl（熱い紫の官能の中で神々に等しく）」──「Den Göttern gleich（神々に等しく）」という讃美的比較が冥府の愛欲者に適用される：「Bist Du nun tot?」第5連「Wie einer Höllenfackel Göttlichkeit（地獄の松明の神性のように）」・「Der Schläfer im Walde」第6連「Er schläft, ein Gott（彼は神として眠る）」と連動するハイムの「神化（Vergöttlichung）」の逆説的転用。「Purpurpfühl（紫の官能）」──「Purpur（紫）」という色彩が「Bist Du nun tot?」第2連「Kehlkopf blau（喉仏が青い）」・第7連「blauen Ampellicht（青い吊り燈籠）」と対置される：青と紫という近接色が死と欲望の色彩として冥府と室内を結ぶ。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Des Himmels ewiger Schläfrigkeit entflohen,\nDen Spinneweben, die der Cherubim\nErhobene Nasen schon wie Efeu decken,\nDem milden Frieden, der wie Öl so fett,\nEin Bettler, lungert in den Ecken faul,\nDem Tabaksdunst aus den Pastorenpfeifen,\nDer Trinität, die bei den Lobgesängen\nVon alten Tanten auf dem Sofa schläft,\nDem ganzen großen Armenhospital,",
+      "body": "「天国の永遠の眠気から逃れて（Des Himmels ewiger Schläfrigkeit entflohen）」──第II部の開始。「entflohen（逃れた）」という過去分詞が第I部（冥府描写）と第II部（天国批判）の接続部として機能する：詩の語り手たちは冥府を「逃亡した先」ではなく「逃亡した目的地」として選んだことが第II部で明らかになる。与格の連鎖（Dem/Den/Dem/Dem/Der/Dem＋「Dem ganzen großen Armenhospital」）が九行にわたって「逃れるべき天国的なもの」を列挙する統語的構造：ドイツ語文法における与格の繰り返しが呪詛的・列挙的詩法として機能する。「Cherubim（ケルビム）」──旧約聖書における神の玉座の傍に仕える天使。ハイムはケルビムの「鼻（Nasen）」という身体的細部を強調し、その鼻が「蜘蛛の巣（Spinneweben）」で蔦のように覆われているという滑稽な形象で天国的存在を失墜させる。「Trinität（三位一体）」──キリスト教神学の中核的教義が「老婆たちとともにソファで眠る（Von alten Tanten auf dem Sofa schläft）」という場面として戯画化される：神学的権威の完全な脱神聖化。ボードレール「サタンへの連祷（Litanies de Satan）」の「天国への反旗」という美学的命題がハイムでは「天国の倦怠（Schläfrigkeit）」という諷刺的描写として置き換えられる。",
+      "targetId": "baudelaire_litanies_satan",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "– Verdammten selbst wir uns und kamen her\nAuf dieser Insel weite Ödigkeit,\nDie wie ein Bootskiel in den Wellen steht,\nUm bis zum Ende aller Ewigkeit\nDem ungeheuren Strome zuzuschaun.",
+      "body": "「我々自身が呪われた者として、こちらへやってきた（Verdammten selbst wir uns und kamen her）」──詩全体の哲学的核心命題。「selbst wir uns（我々自身が）」という再帰的・強調的代名詞の使用：呪い（Verdammnis）が他者から与えられたのではなく「自分たちで自分たちを呪った（verdammten selbst wir uns）」という自発的断罪。ダンテ「地獄篇」の神によって定められた懲罰としての地獄に対して、ハイムは「自ら選択した地獄」という意志的転倒を提示する：これが詩集名『永遠の日（Der ewige Tag）』における「永遠（ewig）」の最も皮肉な用法として機能する──「天国の永遠の眠気（ewiger Schläfrigkeit）」から逃れ「すべての永遠の終わり（bis zum Ende aller Ewigkeit）」まで地獄の川を眺め続けるという「自己選択された永遠の観察者」。「Insel weite Ödigkeit（島の広い荒涼）」──「Ophelia」第11連「Des fernen Abends zarte Müdigkeit（遠い夕暮れの繊細な疲れ）」の「疲れ」が、ここでは「Ödigkeit（荒涼）」という大地的虚無として拡張される。「Dem ungeheuren Strome zuzuschaun（この途方もない流れを眺め続けるために）」──詩全体の最終命題としての「観察（Zuschauen）」。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という視覚の不飽和性がここでは「永遠の観察者」として意志的に自己選択される：決して満たされない目が「永遠の終わりまで」眺め続けるという詩的形象でStyxは閉じられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    }
+  ]
+}
