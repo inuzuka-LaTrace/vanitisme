@@ -1,0 +1,164 @@
+{
+  "id": "heym_der_tod_der_liebenden",
+  "title": "Der Tod der Liebenden",
+  "author": "Georg Heym",
+  "source": "Georg Heym: Der Tod der Liebenden. In: Der ewige Tag. S. 54–55. 1. Auflage. Rowohlt, Leipzig 1911. Wikisource: https://de.wikisource.org/wiki/Der_Tod_der_Liebenden_(Heym)",
+  "year": "1911",
+  "firstPublication": "Der ewige Tag, Rowohlt, Leipzig, 1911",
+  "difficulty": "中級",
+  "category": "heym",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・ハイム（Georg Heym, 1887–1912）の詩集『永遠の日（Der ewige Tag）』（1911）所収。「Der Tod der Liebenden（恋人たちの死）」は9連36行、全篇ABAB交互韻。同タイトルを持つボードレール「恋人たちの死（La Mort des amants）」（『悪の華』所収）への明示的な照応詩として位置づけられる。詩集中の他作品──「Gruft」「Die Tote im Wasser」「Styx」など──がグロテスクな物質的描写によって死を提示するのに対し、「Der Tod der Liebenden」はハイム詩集中で最も「甘美な」死の誘惑を描く異例の作品として際立つ。三部構成を持つ：第1連（海と黄昏の宏壮な序景）、第2〜6連（ドイツ語引用符「…"」で括られた「海の声」による死への誘惑の語りかけ──悲しみを忘れよ・死者の国で永遠に眠ろう・孤独が瞼を閉じる・珊瑚の木に風が吹く・「死は穏やかだ（Der Tod ist sanft）」という死の定義）、第7〜9連（引用符外・小舟の漂流・鵜の飛翔・死者たちの沈降という客観的叙述）。「Der Tod ist sanft. Und die uns niemand gab, / Er gibt uns Heimat（死は穏やかだ。誰も私たちに与えなかったものを、死が私たちに故郷を与える）」という第6連の命題が詩全体の哲学的核心であり、「Styx」の「Verdammten selbst wir uns（我々自身が呪われた者として）」という自己選択的地獄とは異なる、死の「温かい受容」としての「Heimat（故郷）」論として機能する。「Die Heimat der Toten（死者たちの故郷）」というタイトルとの照応も際立つ。",
+  "keywords": [
+    "恋人たちの死",
+    "Schattenlande",
+    "Korallenbäume",
+    "Der Tod ist sanft",
+    "Heimat",
+    "Kormoran",
+    "引用符構造",
+    "海の誘惑",
+    "ボードレール照応",
+    "Der ewige Tag"
+  ],
+  "relatedTexts": [
+    "heym_die_heimat_der_toten",
+    "heym_styx",
+    "heym_ophelia",
+    "heym_der_schlafer_im_walde",
+    "baudelaire_invitation_voyage",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_de_profundis_clamavi",
+    "dowson_a_last_word",
+    "dowson_beata_solitudo",
+    "hieronymus_ecclesiastes_1",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Durch hohe Tore wird das Meer gezogen\nUnd goldne Wolkensäulen, wo noch säumt\nDer späte Tag am hellen Himmelsbogen\nUnd fern hinab des Meeres Weite träumt.",
+      "provisionalTranslation": "高い門を通して海が引き込まれる\nそして黄金の雲の柱が、そこでまだ留まる\n遅い日が明るい天の弧に\nそして遠く下方に海の広さが夢を見る。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "„Vergiß der Traurigkeit, die sich verlor\nIns ferne Spiel der Wasser, und der Zeit\nVersunkner Tage. Singt der Wind ins Ohr\nDir seine Schwermut, höre nicht sein Leid.",
+      "provisionalTranslation": "「悲しみを忘れよ、それは遠く消えていった\n水の遠い戯れの中へと、そして時の\n沈んでいった日々の中へと。風がお前の耳に歌う\nその憂愁を、その嘆きを聴くな。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Laß ab von Weinen. Bei den Toten unten\nIm Schattenlande werden bald wir wohnen\nUnd ewig schlafen in den Tiefen drunten,\nIn den verborgenen Städten der Dämonen.",
+      "provisionalTranslation": "泣くのをやめよ。下の死者たちのもとで\n影の国に私たちはやがて住むだろう\nそして下方の深みで永遠に眠るだろう、\n悪魔たちの隠れた都市の中で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Dort wird uns Einsamkeit die Lider schließen.\nWir hören nichts in unserer Hallen Räumen,\nDie Fische nur, die durch die Fenster schießen,\nUnd leisen Wind in den Korallenbäumen.",
+      "provisionalTranslation": "そこでは孤独が私たちの瞼を閉じるだろう。\n私たちは自分たちの広間の空間の中で何も聴かない、\n窓から飛び出す魚たちだけ、\nそして珊瑚の木々の中の静かな風だけを。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Wir werden immer bei einander bleiben\nIm schattenhaften Walde auf dem Grunde.\nDie gleiche Woge wird uns dunkel treiben,\nUnd gleiche Träume trinkt der Kuß vom Munde.",
+      "provisionalTranslation": "私たちはいつも互いのそばに留まるだろう\n底の影のような森の中で。\n同じ波が私たちを暗く駆り立てるだろう、\nそして同じ夢を口からの口づけが飲み干す。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Der Tod ist sanft. Und die uns niemand gab,\nEr gibt uns Heimat. Und er trägt uns weich\nIn seinem Mantel in das dunkle Grab,\nWo viele schlafen schon im stillen Reich."",
+      "provisionalTranslation": "死は穏やかだ。そして誰も私たちに与えなかったものを、\n死が私たちに故郷を与える。そして死は私たちを柔らかく\nそのマントの中に、暗い墓へと運ぶ、\nそこではすでに多くの者が静かな王国で眠っている。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "Des Meeres Seele singt am leeren Kahn.\nEr treibt davon, ein Spiel den tauben Winden\nIn Meeres Einsamkeit. Der Ozean\nTürmt fern sich auf zu schwarzer Nacht, der Blinden.",
+      "provisionalTranslation": "海の魂が空の小舟のそばで歌う。\nそれは流れ去る、耳聞こえぬ風の玩具として\n海の孤独の中を。大洋は\n遠くに黒い夜へと、盲目な夜へと聳え上がる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "In hohen Wogen schweift ein Kormoran\nMit grünen Fittichs dunkler Träumerei.\nDarunter ziehn die Toten ihre Bahn.\nWie blasse Blumen treiben sie vorbei.",
+      "provisionalTranslation": "高い波の中を一羽の鵜が漂う\n緑の翅の暗い夢想とともに。\nその下を死者たちが道を進んでいく。\n青白い花のように彼らは流れ過ぎる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Sie sinken tief. Das Meer schließt seinen Mund\nUnd schillert weiß. Der Horizont nur bebt\nWie eines Adlers Flug, der von dem Sund\nIns Abendmeer die blaue Schwinge hebt.",
+      "provisionalTranslation": "彼らは深く沈んでいく。海はその口を閉じる\nそして白く玉虫色に輝く。地平線だけが揺れている\n海峡から夕べの海へと\n青い翅を持ち上げる鷲の飛翔のように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Durch hohe Tore wird das Meer gezogen\nUnd goldne Wolkensäulen, wo noch säumt\nDer späte Tag am hellen Himmelsbogen\nUnd fern hinab des Meeres Weite träumt.",
+      "body": "「高い門を通して海が引き込まれる（Durch hohe Tore wird das Meer gezogen）」──詩の額縁的序連。「hohe Tore（高い門）」という建築的形象が海の水平線を「門」として枠組みする：詩集の他作品（「Wolken」第2連「Die mit dem Saum die Horizonte schlagen（縁で地平線を打つ旗）」・「Die Heimat der Toten」第1連「schwarzes Band（黒い帯）」）における地平線の「打たれる」形象に対して、ここでは「門（Tore）」として空間的に開かれる。「goldne Wolkensäulen（黄金の雲の柱）」──ボードレール「旅への誘い（L'Invitation au voyage）」の「là tout n'est qu'ordre et beauté, / Luxe, calme et volupté（そこではすべてが秩序と美、豪華さ、静けさと官能）」という黄金的・官能的理想郷の語彙との照応：ボードレールの「旅への誘い」が憧れの「彼方」として機能するのに対し、ハイムの「黄金の雲の柱」は引用符内の「死への誘惑」の外枠として機能する。「Der späte Tag（遅い日）」──「Nach der Schlacht」第3連「flüchtige Aurore（はかない暁）」との時間的対比：「Aurore（暁）」が夜明けを示すのに対して「späte Tag（遅い日）」は夕暮れ──本作は「夕暮れの死の誘惑」として時間的に設定される。「träumt（夢を見る）」──海が「夢を見る」という擬人法が引用符内（連2〜6）の「死の夢（Träume）」の外的な自然的先取りとして機能する。",
+      "targetId": "baudelaire_invitation_voyage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "„Vergiß der Traurigkeit, die sich verlor\nIns ferne Spiel der Wasser, und der Zeit\nVersunkner Tage. Singt der Wind ins Ohr\nDir seine Schwermut, höre nicht sein Leid.",
+      "body": "「引用符（„…"）」──ドイツ語の引用符「„（下引用符）」で開かれる連2は第6連末の「"（上引用符）」まで続く：詩の「声（Stimme）」が第1連の外的叙述から、内的な「語りかけの声」へと移行する。語り手は「海の声」「死の誘惑」あるいは「水死した恋人の声」として読める。「Vergiß（忘れよ）」という命令形──詩の第2連冒頭の命令形が「忘却（Vergessen）」の主題化として機能する：「Der Schläfer im Walde」第2連「ewigen Vergessen（永遠の忘却）」・コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という「忘却」の系列が、ここでは「忘れよ」という積極的勧告として提示される。「Traurigkeit（悲しみ）」・「Schwermut（憂愁）」・「Leid（嘆き）」──三つの感情語が連2に集中する：ボードレール「夕べの調和（Harmonie du soir）」の「mélancolie（憂鬱）」・「douleur（苦悩）」との照応。「die sich verlor / Ins ferne Spiel der Wasser（水の遠い戯れの中へと消えていった悲しみ）」──「悲しみ」が水の中に「消えていく（verlor）」という形象が、引用符内の「死への沈降」の主題を先取りする。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Laß ab von Weinen. Bei den Toten unten\nIm Schattenlande werden bald wir wohnen\nUnd ewig schlafen in den Tiefen drunten,\nIn den verborgenen Städten der Dämonen.",
+      "body": "「影の国（Schattenlande）」・「悪魔たちの隠れた都市（verborgenen Städten der Dämonen）」──第3連は死後の世界の具体的空間を描写する。「Schattenlande（影の国）」──ホメロス的冥府「影の国（Nekyia）」への直接的参照：「Wolken」第1連「Kahn der Wesenlosen（実体なき者たちの小舟）」・「Styx」「Orkus（冥府）」という冥府語彙の系列に連なる。しかし「Der Tod der Liebenden」ではこれらが「恐ろしい（entsetzlich）」空間ではなく「永遠の眠り（ewig schlafen）」の場所として描かれる──詩集中における「死の空間」の最も「穏やかな」変奏として際立つ。「verborgenen Städten der Dämonen（悪魔たちの隠れた都市）」──「Dämonen（悪魔）」という語彙が連3唯一の「暗い」要素として機能するが、「verborgen（隠れた）」という形容詞が「安全な隠れ場所」としての含意を持つ：「隠された」ことが危険ではなく秘密の庇護として定義される。「Der Schläfer im Walde」第4連「Zum Reich der Schläfer. Zu den Hetairieen / Der Toten unten（眠り人たちの王国へ。地下の死者たちの友誼団へ）」という死者の王国の親密さとの照応：どちらも死後の世界を「共同体的」な場所として描く。",
+      "targetId": "heym_der_schlafer_im_walde",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dort wird uns Einsamkeit die Lider schließen.\nWir hören nichts in unserer Hallen Räumen,\nDie Fische nur, die durch die Fenster schießen,\nUnd leisen Wind in den Korallenbäumen.",
+      "body": "「孤独が私たちの瞼を閉じるだろう（Einsamkeit die Lider schließen）」──「Einsamkeit（孤独）」が瞼を閉じる主体として擬人化される：「Die Heimat der Toten」最終連「vom Flötenspiel gewiegt / Der Einsamkeit（孤独の笛の調べに揺り動かされ）」と連動する「孤独」の擬人的行為。「palpebras（瞼）」の閉鎖が「眠りへの移行」として死の「穏やかさ（Sanftheit）」を具現化する。「Die Fische nur, die durch die Fenster schießen（窓から飛び出す魚たちだけ）」──「窓（Fenster）」という語が「Gruft」第5連「Durch kleine Fenster hoch im Dunkel oben（上方の闇の中、小さな窓から）」・「Bist Du nun tot?」第8連「blinde Scheiben（盲目の窓ガラス）」と連動：「窓」が死の空間の内外を隔てる境界として機能するが、ここでは海底の「窓」から魚が通過するという幻想的な逆転として提示される。「Korallenbäumen（珊瑚の木々）」──「Baum（木）」という陸上的語彙が海底空間に適用される：「Ophelia」第1連「großen Urwalds, der im Wasser ruht（水の中に眠る大いなる原始林）」・「Die Tote im Wasser」の水中世界との照応。陸上の「森」が水中の「珊瑚の木々」として変換される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Wir werden immer bei einander bleiben\nIm schattenhaften Walde auf dem Grunde.\nDie gleiche Woge wird uns dunkel treiben,\nUnd gleiche Träume trinkt der Kuß vom Munde.",
+      "body": "「私たちはいつも互いのそばに留まるだろう（Wir werden immer bei einander bleiben）」──第5連は引用符内の「恋人たちへの語りかけ」の感情的中心として機能する。「immer（いつも）」という副詞──「Ophelia」第6連「Den ewigen Traum in ihrem ewigen Grab（永遠の墓の中で永遠の夢）」の「ewig（永遠）」と意味的に連動する：死後の永続的共存という命題。「gleiche Woge（同じ波）」・「gleiche Träume（同じ夢）」──「gleich（同じ）」という形容詞の二重使用が第5連を一音節的反復として構成する：同じ波・同じ夢という「統一性（Gleichheit）」が死後の「恋人の合一」を定義する。「gleiche Träume trinkt der Kuß vom Munde（同じ夢を口からの口づけが飲み干す）」──「trinken（飲む）」という動詞が「口づけ」の主体として擬人化される：「Bist Du nun tot?」第4連「Deine Brüste trank wie Traubensaft（胸を葡萄の汁のように飲んだ）」という愛の「飲む」行為の変奏として、ここでは「口づけ」が「夢を飲む」という合一的行為として提示される。ABAB韻律（bleiben—treiben, Grunde—Munde）が第5連で最も感情的に機能する：「bleiben（留まる）」と「treiben（駆り立てる）」・「Grunde（底）」と「Munde（口）」という対応が死後の愛の静止と運動を同時に定義する。",
+      "targetId": "heym_bist_du_nun_tot",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Der Tod ist sanft. Und die uns niemand gab,\nEr gibt uns Heimat. Und er trägt uns weich\nIn seinem Mantel in das dunkle Grab,\nWo viele schlafen schon im stillen Reich."",
+      "body": "「死は穏やかだ（Der Tod ist sanft）」──詩全体の核心命題にして、ハイムの詩集において最も「柔和な」死の定義として際立つ。「Styx」の冥府の轟音・「Die Tote im Wasser」のグロテスクな腐敗・「Wolken」の宏壮な死の行列に対して、ここでは死が「sanft（穏やか）」という単純な形容詞によって定義される。「Die uns niemand gab, / Er gibt uns Heimat（誰も私たちに与えなかったものを、死が故郷を与える）」──詩全体の哲学的命題の最凝縮点。生における疎外・孤独・帰属の欠如（niemand gab）が死によって「Heimat（故郷）」として回復される：「Die Heimat der Toten（死者たちの故郷）」というタイトルとの直接的照応。ヴェイユ「Décréation（脱創造）」の「被造物から非被造物への移行」という自己消去の神学的欲望が、ハイムでは「Heimat（故郷）」という帰属的・感情的語彙として世俗化・詩的変容される。「In seinem Mantel（そのマントの中に）」──「Die Heimat der Toten」第2連「Death, der Schifferknecht（死神）」の「外套（Mantel）」との照応：死神の衣が保護的・柔らかな包み込みとして定義される。「stillen Reich（静かな王国）」──「Der Schläfer im Walde」第4連「Zum Reich der Schläfer（眠り人たちの王国）」の「Reich（王国）」の変奏：「stille（静か）」という形容詞が「reich（王国）」を「静寂の王国」として温かく定義する。",
+      "targetId": "heym_die_heimat_der_toten",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Des Meeres Seele singt am leeren Kahn.\nEr treibt davon, ein Spiel den tauben Winden\nIn Meeres Einsamkeit. Der Ozean\nTürmt fern sich auf zu schwarzer Nacht, der Blinden.",
+      "body": "「海の魂が空の小舟のそばで歌う（Des Meeres Seele singt am leeren Kahn）」──引用符が閉じた第7連は外的叙述へと回帰する。「leeren Kahn（空の小舟）」──引用符内の「海の声・死の誘惑」が語られた後、小舟は「空（leer）」である：語りかけた声の主体が去り、小舟だけが残るという「不在の形象」。「Wolken」第1連「Kahn der Wesenlosen（実体なき者たちの小舟）」との照応：冥府への船が満員だったのに対し、ここでは「空の小舟」として死者の旅立ちの後が提示される。「tauben Winden（耳聞こえぬ風）」──「Wolken」第5連「dem stummen Boten（沈黙した使者）」との照応：「stumm（沈黙した）」と「taub（聾の）」という感覚的障害が冥府的無感覚の属性として連動する。「schwarzer Nacht, der Blinden（黒い夜、盲目な夜）」──「Ophelia」第8連「blinde Scheiben（盲目の窓ガラス）」・「Wolken」第4連「Ertrunkene kommen（溺死者たちが来る）」と連動する「盲目（blind）」の形象。大洋が「盲目な夜」へと「聳え上がる（türmt sich auf）」という形象が死の最終的な視覚的遮断として機能する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "In hohen Wogen schweift ein Kormoran\nMit grünen Fittichs dunkler Träumerei.\nDarunter ziehn die Toten ihre Bahn.\nWie blasse Blumen treiben sie vorbei.",
+      "body": "「一羽の鵜が漂う、緑の翅の暗い夢想とともに（ein Kormoran / Mit grünen Fittichs dunkler Träumerei）」──第8連の「Kormoran（鵜）」はハイムの詩集中で最も詩的に洗練された孤独な観察者として機能する。「Träumerei（夢想）」という語──詩集全体を貫く「Traum（夢）」の派生形として、「鵜の翅の夢想」という「飛翔する夢」の形象。「grünen Fittichs（緑の翅の）」──「Ophelia」第3連「Mit dunklem Fittich（暗い翅で）」のコウモリ・「Die Tote im Wasser」第7連「grünen Tiefe（緑の深み）」と連動：「Fittich（翅）」という詩的語彙がハイムの全作品を横断する一方、「grün（緑）」という色彩が海底の死の色として再現される。「Wie blasse Blumen treiben sie vorbei（青白い花のように彼らは流れ過ぎる）」──「Ophelia」第4連「Und eine Weide weint / Das Laub auf sie（一本の柳が葉を彼女の上に泣く）」・ランボー「Ophélie」「grand lys（大きな百合）」という水面の花的形象との照応：しかし「blasse Blumen（青白い花）」という弱々しく青白い花は「白い百合」の美化を排し、蒼白化した死体の「花」として機能する。「vorbei（過ぎ去る）」──「Ophelia」第7・11連の「Vorbei, vorbei（過ぎ去る、過ぎ去る）」の反復と連動：死者の「通過」という運動の最終的静止前の最後の「流れ」として。",
+      "targetId": "heym_ophelia",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sie sinken tief. Das Meer schließt seinen Mund\nUnd schillert weiß. Der Horizont nur bebt\nWie eines Adlers Flug, der von dem Sund\nIns Abendmeer die blaue Schwinge hebt.",
+      "body": "「彼らは深く沈んでいく。海はその口を閉じる（Sie sinken tief. Das Meer schließt seinen Mund）」──詩全体の最終的な「沈降と閉鎖」の命題。「sinken tief（深く沈む）」──「Die Tote im Wasser」第7連「zur grünen Tiefe sinkt（緑の深みへと沈む）」・「Ophelia」第12連「die untertaucht（水に沈んだ）」と連動：ハイムの水死詩群を貫く「沈降（sinken）」の動詞が詩全体の最終動作として確認される。「Das Meer schließt seinen Mund（海がその口を閉じる）」──第1連の「Durch hohe Tore wird das Meer gezogen（門を通して海が引き込まれる）」という「開口」に対する「閉口」として詩を円環的に閉じる：門が開いて海が入ってきた冒頭に対し、末尾で海が「口を閉じる」という開閉の円環。「schillert weiß（白く玉虫色に輝く）」──「weiß（白）」という色彩が海の表面に残る：死者たちが沈降した後に残るのは「白い輝き」のみ──「Die Tote im Wasser」の「weißes Tanzkleid」・「Ophelia」の「weiße Schiff」という白い形象が海面の「白い輝き」として最終化される。「Wie eines Adlers Flug … die blaue Schwinge hebt（鷲の飛翔のように……青い翅を持ち上げる）」──詩全体の最後の形象として「青い翅（blaue Schwinge）」の鷲が上昇する：死者が沈んでいく方向（下）に対して、鷲が翅を「持ち上げる（hebt）」という逆方向の運動が対置される。「blaue（青い）」──詩集の終始を貫く「黒・灰・白・赤」の死の色彩体系に対して、「blaue Schwinge（青い翅）」という清澄な青が最後に置かれる：詩集中でハイムが最も明るい色彩で詩を閉じるという例外的な終結。コヘレト第1章v.6「in circulos suos revertitur（その巡回へと戻っていく）」という循環的運動が、「沈む死者」と「上昇する鷲」という対照的な二つの運動として最終化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    }
+  ]
+}
