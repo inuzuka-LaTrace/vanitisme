@@ -1,0 +1,139 @@
+{
+  "id": "negri_fantasmi",
+  "title": "Fantasmi",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Fantasmi",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Fantasmi（幻影・亡霊）」は夜の海辺における幻視体験を語る詩であり、自殺者・溺死者・難破者の亡霊たちとの対話という形式をとる。全33行、アスタリスク（＊）による三部構造：第一部（v.1–4、4行）幻視の導入、第二部（v.5–29、25行、5連×5行）亡霊との対話、第三部（v.30–33、4行）結語として対称的な枠構造をなす。第一部と第三部が「Io mirai（わたしは見た）」「Un letto per dormire（眠るための床）」という視覚から静止への運動で照応する閉じた円環構造。第二部の亡霊たちは「Eran fracidi corpi d'annegati（溺死者の腐った屍）」「Suicidi gettati（狂った意志で波と運命に投げ込まれた自殺者）」「Vittime con un ferro in mezzo al petto（胸に鉄を刺した犠牲者）」と多様な死の形を持つが、「sol nel nulla è pace（虚無の中にのみ平和がある）」「qui v'è la fine（ここに終わりがある）」という一致した誘惑の言葉で語り手を死へと招く。語り手は「Si piange（人は泣く）。偽善が勝ち、憎しみが噴き出す」と地上の苦悩を証言しつつ、最終的に静かな海を「Un letto per dormire（眠るための床）」と見なす曖昧な結語で終わる──これは死への誘惑の受容として読める詩的含意を持つ。「Fatalità」「Autopsia」と並ぶ詩集の核心詩群として、ヴァニタスの死への傾斜・「nulla（虚無）」への引力を最も詩的に体現する。",
+  "keywords": [
+    "幻影",
+    "亡霊",
+    "溺死",
+    "自殺",
+    "虚無と平和",
+    "海",
+    "死への誘惑",
+    "larve",
+    "nulla",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "negri_autopsia",
+    "rodenbach_du_silence",
+    "rodenbach_coeur_de_leau",
+    "poe_ulalume",
+    "trakl_de_profundis",
+    "hieronymus_ecclesiastes_1",
+    "heym_die_tote_im_wasser"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Io mirai l'onda che rompeasi al lido;\n                    E di veder mi parve\nRasentar leggermente il flutto infido\n                    Una schiera di larve.",
+      "provisionalTranslation": "わたしは波が岸に砕けるのを見ていた；\n                    そして見えるような気がした、\n背信の波をかすめるように漂う\n                    亡霊の群れが。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–9",
+      "original": "Eran vestite d'alighe spioventi\n                    Avean sciolti i capelli,\nDisfatti i volti, occhi stravolti o spenti.\nSotto ai lor piè l'acqua turbata avea\n                    Balenii di coltelli.",
+      "provisionalTranslation": "彼らは垂れ下がる海藻を纏っていた、\n                    髪は解き放たれ、\n顔は崩れ、瞳は虚ろか消えていた。\n彼らの足元、乱れた水は\n                    ナイフのきらめきを宿していた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–14",
+      "original": "Da quelle labbra scolorate uscìa\n                    Bava e un gemito rôco.\nMisto al rombo del mare esso venìa\nA parlarmi nel core. — Sui ginocchi\n                    Io caddi a poco a poco.",
+      "provisionalTranslation": "あの色褪せた唇からは\n                    泡としわがれた呻き声が出ていた。\n海のどよめきに混じってそれは\n                    わたしの心に語りかけてきた。——膝の上に\nわたしはゆっくりと崩れ落ちた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.15–19",
+      "original": "Eran fracidi corpi d'annegati;\n                    Suicïdi gettati\nDa volontà demente ai flutti e ai fati;\nVittime con un ferro in mezzo al petto,\n                    Naufraghi scarmigliati.",
+      "provisionalTranslation": "彼らは溺死者の腐った屍だった；\n                    狂った意志によって\n波と運命へと投げ込まれた自殺者；\n胸の真ん中に鉄を刺された犠牲者たち、\n                    髪を乱した難破者たち。"
+    },
+    {
+      "id": 5,
+      "verses": "v.20–24",
+      "original": "Mi disser: \"Che si fa sopra la terra?\"\n                    Io risposi: \"Si piange.\nIpocrisia trionfa, odio si sferra,\nOh, più felici voi su gl'irti scogli\n                    Ove l'acqua si frange!...\"",
+      "provisionalTranslation": "彼らはわたしに言った。「地上では何が起きているか？」\n                    わたしは答えた。「人は泣く。\n偽善が勝ち、憎しみが噴き出す、\nああ、お前たちのほうが幸せだ、あの険しい岩礁の上で\n                    水が砕けるあそこで！……」"
+    },
+    {
+      "id": 6,
+      "verses": "v.25–29",
+      "original": "Mi disser: \"Scendi ai placidi riposi\n                    Fra l'alghe serpentine.\nNascondigli d'amor sono i marosi\nInesplorati, e sol nel nulla è pace.\n                    Scendi; — qui v'è la fine.\"",
+      "provisionalTranslation": "彼らはわたしに言った。「蛇のような海藻のあいだ、\n                    穏やかな休息へと降りておいで。\n荒波の中には未踏の\n愛の隠れ家がある、そして虚無の中にのみ平和がある。\n                    降りておいで；——ここに終わりがある。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.30–33",
+      "original": ".... Ed io mirai su le verdastre larve\n                    Il tramonto morire;\nNe la penombra il queto mar mi parve\n                    Un letto per dormire.",
+      "provisionalTranslation": "……そしてわたしは緑がかった亡霊たちの上で\n                    夕暮れが死んでいくのを見た；\n薄暮の中で、静かな海がわたしには\n                    眠るための床のように思えた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Io mirai l'onda che rompeasi al lido;",
+      "body": "「わたしは波が岸に砕けるのを見ていた」──詩の開口部に置かれた観察の姿勢。「mirai（見た）」という過去遠称（passato remoto）が幻視体験を完結した過去の出来事として額縁づける：詩全体が回想としての幻視報告として語られる。「rompeasi（砕けていた）」という反過去（imperfetto）が進行的・反復的な波の砕けを示し、詩の終結部「il tramonto morire（夕暮れが死んでいく）」の死の動詞と照応する──砕ける波と死にゆく夕暮れが詩的閉環をなす。「flutto infido（背信の波）」という形容が波に人格的属性を与える：自然の「背信性（infido）」というロマン主義的自然観が、後続する亡霊たちの誘惑的な「inesplorati（未踏の）」空間への呼び込みと連動する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Una schiera di larve.",
+      "body": "「亡霊の群れ（Una schiera di larve）」──「larva」はラテン語「larva（幽霊・仮面・亡骸）」に由来し、イタリア語では「亡霊・幻影」を意味する詩的語彙。ローマの宗教では「larva（ラルウァ）」は不成仏の死者の霊として、「lar（ラル）」（保護的な先祖霊）と対置された。「schiera（群れ・隊列）」という集合名詞が個々の死者を匿名の集合体として括る：「Autopsia」の「senza nome（名もなく）」の無名性が集団的に体現される。詩末「le verdastre larve（緑がかった亡霊たち）」で再び「larve」が用いられ、第一部と第三部の対称的照応を形成する。ハイム「Die Tote im Wasser（水中の死者）」のオフェリア的溺死者像との詩的共鳴。",
+      "targetId": "heym_die_tote_im_wasser",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Balenii di coltelli.",
+      "body": "v.5–9──5行連（quintetto）形式。奇数行（長行）と偶数行（インデントされた短行）が交互する「Fatalità」「Autopsia」共通のフォーマットだが、第2連のみ3行目（v.7「Disfatti i volti, occhi stravolti o spenti」）が長行として配置され、2行のインデント短行に挟まれる変形がある。「Balenii di coltelli（ナイフのきらめき）」という結語短行がインデント位置に置かれることで、視覚的・音響的衝撃が強調される：「balenio（きらめき・閃光）」という語が瞬間的な光の刃を示し、亡霊の足元の水の不吉な輝きを定式化する。「Autopsia」v.1の「Con fredda, acuta lama（冷たい、鋭い刃で）」との語彙的照応──刃・切断のイメージが詩集を貫く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Da quelle labbra scolorate uscìa",
+      "body": "「あの色褪せた唇から（Da quelle labbra scolorate）」──「Autopsia」末尾の「Rauco gorgoglia un rantolo affannato（しわがれた喉を鳴らす喘鳴）」の死者の声との直接的照応。両詩において死者の「唇・口」から発せられる声が詩的コミュニケーションの起点となる：「Autopsia」の死者が一人称で医師に語りかけるのに対し、「Fantasmi」の死者たちは「gemito rôco（しわがれた呻き）」を「Misto al rombo del mare（海のどよめきに混じって）」発する──個人の告発から集団的呻吟への変容。「Sui ginocchi Io caddi a poco a poco（膝の上にゆっくりと崩れ落ちた）」──語り手の身体的崩落が霊的感応の身体的表現として機能する：「ヨブ記」第1章v.20「corruens in terram adoravit（地に倒れ伏して礼拝した）」の悲嘆の身体姿勢との照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Eran fracidi corpi d'annegati;",
+      "body": "「溺死者の腐った屍だった（Eran fracidi corpi d'annegati）」──亡霊の正体の分類的列挙。「fracidi（腐った）」という形容詞が水による腐敗の物質的事実を直裁に提示する：「Autopsia」の解剖台上の身体との対比として──解剖台の身体は医学的処置の対象として「保存」されるのに対し、溺死者の身体は自然的腐敗に委ねられる。「Suicidi gettati / Da volontà demente（狂った意志によって投げ込まれた自殺者）」──「volontà demente（狂った意志）」という語が、第6連の亡霊の誘惑「Scendi（降りておいで）」の招待と対置される：自殺はすでに「demente（狂気の）」意志の産物として否定的に規定されているが、その死者たちが「sol nel nulla è pace（虚無の中にのみ平和がある）」と語り手を誘う逆説が詩全体の緊張を生む。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Si piange.",
+      "body": "「人は泣く（Si piange）」──詩中で最も簡潔かつ凝縮された地上の規定。不定主語の受動的構文「si piange」が、泣く主体を特定せずに地上的存在一般の状態として「泣くこと」を定義する。コヘレト第1章v.8「Cunctae res difficiles（すべての事柄は困難であり）」の「困難（difficiles）」が、ここでは「Si piange（泣く）」という一語の感情的圧縮として変奏される。「Ipocrisia trionfa, odio si sferra（偽善が勝ち、憎しみが噴き出す）」──社会批評の二命題が簡潔に並置される。「più felici voi（お前たちのほうが幸せだ）」──死者を「幸福（felici）」と呼ぶことで死への羨望が明示される：コヘレト第4章v.2「Laudavi magis mortuos quam viventes（わたしは生者よりも死者を称えた）」の命題の詩的変奏。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "sol nel nulla è pace.",
+      "body": "「虚無の中にのみ平和がある（sol nel nulla è pace）」──詩全体の哲学的核心命題。「nulla（虚無）」と「pace（平和）」の同一視がVANITISMEの詩的核心命題の一つを凝縮する：虚無は苦悩の不在として「平和」と定義される──コヘレト第9章v.5「Mortui vero nescunt amplius quiddam（死者はもはや何も知らない）」の「知らないこと」の平和が、ここでは「nulla（虚無）」の積極的規定として変奏される。「Nascondigli d'amor sono i marosi Inesplorati（荒波の中には未踏の愛の隠れ家がある）」──「inesplorati（未踏の）」という形容が死後世界を未知の「愛の隠れ家」として詩的に美化する逆説的修辞。「Scendi; — qui v'è la fine（降りておいで；ここに終わりがある）」──「fine（終わり）」がコヘレト的「終末・完結」の語彙として機能する：第12章v.13「hoc est enim omnis homo（これが人間のすべて）」の「終結」への照応。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Un letto per dormire.",
+      "body": "「眠るための床（Un letto per dormire）」──詩全体の結語であり、最も詩的に曖昧な行。「letto per dormire（眠るための床）」という表現が死の婉曲表現として機能する：「眠り（dormire）」は詩的伝統において死の比喩であり（「長い眠り」）、「queto mar（静かな海）」という穏やかな描写が死の水面を「床（letto）」として──休息の場として──再定義する。第一部の「onda che rompeasi（砕ける波）」という動的・暴力的な海が、「il queto mar（静かな海）」という静止・穏やかさへと変容することで、詩全体の感情的弧が完結する。「Il tramonto morire（夕暮れが死んでいく）」──「morire（死ぬ）」という動詞が夕暮れの擬人化的「死」として使われ、語り手自身の死への接近を自然現象の中に投影する。この結語はローデンバック「Du Silence」の静水のイメージ・詩的沈黙の誘惑と構造的に照応する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    }
+  ]
+}
