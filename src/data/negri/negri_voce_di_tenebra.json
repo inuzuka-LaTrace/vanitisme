@@ -1,0 +1,157 @@
+{
+  "id": "negri_voce_di_tenebra",
+  "title": "Voce di tenebra",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Voce_di_tenebra",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Voce di tenebra（闇の声）」は詩集中最も詩学的・自伝的な宣言詩であり、ジャーナリスト・文学評論家ラッファエッロ・バルビエーラ（Raffaello Barbiera）への献辞を持つ。8連×6行（48行）＋序文（"A Raffaello Barbiera."）。冬の森で「tenèbra（闇）」に捕らわれた語り手が「aura fredda del vespro（夕暮れの冷たい風）」に語りかけ、その「arcane Voci de la boscaglia（森の神秘の声）」が応答するという詩的対話の形式をとる。第2〜7連（v.7–42）が「tenèbra」の語り（引用符内）として展開される：語り手を「zingara selvaggia（野生のジプシー）」と呼び、その根源的使命──「太陽の下での闘争」「苦悩の中での愛の讃美」「汚泥に足を置きつつ光を見る」──を予言的に定式化する。第5連の「Fatalità su la tua testa grava / E sei ribelle e schiava（宿命がお前の頭上に重くのしかかる／お前は反逆者にして奴隷だ）」は詩集表題詩「Fatalità」との直接的照応として詩集全体の自己解釈として機能する。第7連末「Più grande ancor se vinta（たとえ敗れても一層偉大だ）」の後に印刷上の省略行（........）が置かれ、第8連で「tenèbra」の声が終わり語り手の受容「Sento aleggiarmi in seno（胸の中に漂うのを感じる）」で閉じる。詩集全体のプログラム詩・詩学的宣言として、ネグリの「苦悩する創造者」というアイデンティティを最も明示的に定式化した作品。",
+  "keywords": [
+    "闇の声",
+    "zingara selvaggia",
+    "宿命と反逆",
+    "苦悩の中の愛の讃美",
+    "詩人の使命",
+    "反逆者にして奴隷",
+    "森",
+    "夕暮れの風",
+    "予言的独白",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "negri_tu_vuoi_saper",
+    "negri_viaggio_notturno",
+    "baudelaire_elevation",
+    "george_entrueckung",
+    "trakl_de_profundis",
+    "hieronymus_ecclesiastes_1",
+    "weil_dressage"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "A Raffaello Barbiera.",
+      "provisionalTranslation": "ラッファエッロ・バルビエーラへ。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Solitudin di gelo. — La tenèbra\n                    Qui nel bosco m'ha côlta.\nInfoscansi le nubi, ed io com'ebra\nSto, ma non temo. — O fredda aura sconvolta;\nAura fredda del vespro in agonia,\n                    Parla all'anima mia!",
+      "provisionalTranslation": "氷の孤独。——闇が\n                    ここ森の中でわたしを捉えた。\n雲は暗く濃くなり、わたしは酩酊したように\n立つ、しかし恐れない。——おお、乱れた冷たい風よ；\n苦悶の中の夕暮れの冷たい風よ、\n                    わたしの魂に語りかけよ！"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": ".... Ed essa parla. Parla con le arcane\n                    Voci de la boscaglia,\nRumoreggianti per la selva immane\nCome ululìo di spiriti in battaglia:\nE mi dice: \"Che fai su l'ardua spiaggia,\n                    O zingara selvaggia?",
+      "provisionalTranslation": "……そして彼女は語る。森の\n                    神秘の声で語る、\n広大な森の中をざわめきながら\n戦闘中の霊たちの遠吠えのように：\nそして言う：「険しい岸の上で何をしている、\n                    野生のジプシーよ？"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Cerchi forse l'oblìo? Cerchi il glaciale\n                    Rude schiaffo dei venti?\nNulla qui, nulla a soggiogarti vale?\nChe temi tu, se al buio ti cimenti?\nDi che razza sei tu, se non t'adombra\n                    Il velame dell'ombra?",
+      "provisionalTranslation": "おそらく忘却を探しているのか？ 氷のような\n                    風の荒い平手打ちを？\nここに何も、お前を制圧できるものは何もないのか？\n暗闇に挑むお前は何を恐れているのか？\nお前はいかなる種族の者か、影の\n                    ヴェールすらお前を覆わないなら？"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Nata alle aurore fiammeggianti e ai voli\n                    Dell'aquila fuggente,\nNata a le vampe dei bollenti soli\nSovra gli aurei deserti d'Orïente,\nFra ciniche bestemmie e stanche fedi\n                    Un ideal tu chiedi!",
+      "provisionalTranslation": "燃える暁と逃げていく\n                    鷲の飛翔に生まれ、\n東方の黄金の砂漠の上の\n灼熱の太陽の炎に生まれ、\n冷笑的な冒涜と疲れた信仰のあいだで\n                    お前は理想を求める！"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Ma t'annoda pei polsi una catena.\n                    Ti circonda la bruma,\nE la vita ti rode e t'avvelena\nL'inutile desìo che ti consuma.\nFatalità su la tua testa grava,\n                    E sei ribelle e schiava.",
+      "provisionalTranslation": "しかし手首に鎖が縛る。\n                    霧がお前を囲む、\n生はお前を侵食し毒する、\nお前を消耗させる無益な欲望が。\n宿命がお前の頭上に重くのしかかる、\n                    お前は反逆者にして奴隷だ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–36",
+      "original": "Pur tu combatterai, gagliarda figlia\n                    Di lutto e di disdetta:\nSenza freno irrompente e senza briglia\nLa tua strofe sarà grido e saetta.\nAndrai fra gl'irti aculei del dolore\n                    Inneggiando all'amore;",
+      "provisionalTranslation": "それでもお前は戦うだろう、喪と失意の\n                    力強い娘として：\n手綱なく突進し、轡なく\nお前の詩句は叫びと矢になるだろう。\n苦悩の険しい棘のあいだを行くだろう\n                    愛を讃えながら；"
+    },
+    {
+      "id": 7,
+      "verses": "v.37–42",
+      "original": "Andrai coi piè nel fango e l'occhio altero\n                    Nella luce rapito,\nLe magnifiche larve del pensiero\nCercando per le vie dell'infinito:\nDa una possa virile andrai sospinta,\n                    Più grande ancor se vinta.\"\n. . . . . . . . . . . . . . . . . . . . . . . . . . .\n. . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "provisionalTranslation": "泥の中に足を置き、高慢な眼を\n                    光の中に連れ去られながら、\n思考の壮大な幻影を\n無限の道をたどりながら探して：\n雄々しい力によって押し進められながら行くだろう、\n                    たとえ敗れても一層偉大だ。」\n…………………………………………\n…………………………………………"
+    },
+    {
+      "id": 8,
+      "verses": "v.43–48",
+      "original": "Così mi parla la tenèbra — ascolta\n               L'anima mia pensosa.\nSon pianti e lampi ne la notte folta,\nTetri misteri ne la selva ombrosa:\nMa il respiro d'un Dio forte e sereno\n                    Sento aleggiarmi in seno.",
+      "provisionalTranslation": "このようにして闇はわたしに語る——聞いている\n               わたしの物思いにふける魂が。\n密な夜の中に泣き声と稲妻があり、\n影の森に暗い神秘がある：\nしかし力強く穏やかな神の息吹を\n                    胸の中に漂うのを感じる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Solitudin di gelo.",
+      "body": "「氷の孤独（Solitudin di gelo）」──詩の開口部に置かれた二語の凝縮的定式。「Solitudin」はラテン語的語形（「solitudine」の詩的短縮）であり、古典的響きを持つ。「di gelo（氷の）」という属格が孤独を温度的・感触的に規定する：霊的孤独の「冷たさ」。「Viaggio notturno」の「è mezzanotte（真夜中だ）」・「Rosa appassita」の「Batte un rintocco: — è l'Ave（アヴェ・マリアの鐘が鳴る）」と同様の詩的開口時刻の宣言として機能する。「La tenèbra / Qui nel bosco m'ha côlta（闇がここ森の中でわたしを捉えた）」──「côlta（捉えた）」という動詞が「Mistica」の「La colse（彼女を捉えた）」と語根的に連動：愛の一瞥が「Mistica」の女性を捉えたように、「闇（tenèbra）」が詩人を捉える。「Aura fredda del vespro in agonia（苦悶の中の夕暮れの冷たい風）」──「vespro in agonia（苦悶する夕暮れ）」という時間の擬人化的苦悶が、「Rosa appassita」の「agonia de l'ora（時の苦悶）」と照応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Parla all'anima mia!",
+      "body": "8連×6行のsextet形式。各連の韻律：第1・3・4行が11音節（エンデカシラボ）、第2・6行がインデントされた短行（セッテナリオ）、第5行が長行として第6行の韻脚に接続する。韻構造は各連でababcc（抱擁韻＋対句）を基調とする：第1連「tenèbra/ebra(a)・côlta/sconvolta(b)・agonia(c)・mia(c)」。詩全体は三部構造：第1連（語り手の設定・呼びかけ）→第2〜7連（「tenèbra」の声による予言的独白、引用符内）→第8連（語り手の応答・閉結）。詩集内で最も長い引用形式の内部独白を含む詩として、「Autopsia」の死者の自己語り・「Fantasmi」の亡霊との対話とともに詩集の「他者の声」モチーフの集大成をなす。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "O zingara selvaggia?",
+      "body": "「野生のジプシーよ（O zingara selvaggia）」──詩集全体を通じて最も凝縮されたネグリの自己形象化。「zingara（ジプシー）」という語が19世紀末においてロマ民族の流浪性・外部者性・社会的排除のイメージを担う：「Autopsia」の「senza nome（名もなく）」の無名性・「Fantasmi」の「Come un cane perduto（迷子の犬のように）」の追放されたイメージと連動する社会的逸脱の形象。「selvaggia（野生の）」という形容詞が「Tu vuoi saper」の「augello dall'ali possenti（力強い翼を持つ鳥）」の野性的自由と照応する：鳥とジプシーは詩集内での詩人の自己表象の二形態として対をなす。「Rumoreggianti per la selva immane / Come ululìo di spiriti in battaglia（戦闘中の霊たちの遠吠えのように広大な森の中をざわめく）」──森が「spiriti（霊たち）」の戦場として擬人化される：「Fantasmi」の海辺の亡霊群の森版変奏。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Cerchi forse l'oblìo?",
+      "body": "「おそらく忘却を探しているのか？（Cerchi forse l'oblìo?）」──「闇の声」による詩人への問い。「oblìo（忘却）」という語がローデンバック「L'Oubli（忘却）」・コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「忘却」の主題と連動する。「Rude schiaffo dei venti（風の荒い平手打ち）」──苦悩の物理的・感覚的形象として。「Nulla qui, nulla a soggiogarti vale?（ここに何も、お前を制圧できるものは何もないのか？）」──「nulla（何もない・虚無）」の二重使用が「Fantasmi」の「sol nel nulla è pace（虚無の中にのみ平和がある）」の「nulla」と照応する：「Fantasmi」では虚無が平和として誘惑されたのに対し、「Voce di tenebra」では虚無がお前を「制圧できない」ものとして詩人の抵抗力の証として提示される。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Un ideal tu chiedi!",
+      "body": "「お前は理想を求める（Un ideal tu chiedi）」──詩集の詩学的核心命題の一つ。「ideal（理想）」という語が「Viaggio notturno」の「La fossa e l'ideal（墓穴と理想）」の「ideal」と直接照応する：墓穴と理想を同時にかすめる詩人の飛翔が、ここでは「冷笑的な冒涜と疲れた信仰（Fra ciniche bestemmie e stanche fedi）」のあいだで理想を求めるという対立として定式化される。「Nata alle aurore fiammeggianti（燃える暁に生まれ）」「Nata a le vampe dei bollenti soli（灼熱の太陽の炎に生まれ）」──「Nata」の二重反復による出自の定義が、「Tu vuoi saper」の「Io sono augello dall'ali possenti（わたしは力強い翼を持つ鳥だ）」の自己定義の変奏として機能する：炎・太陽・鷲という熱と飛翔の語彙群が詩人のアイデンティティを構成する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Fatalità su la tua testa grava,",
+      "body": "「宿命がお前の頭上に重くのしかかる（Fatalità su la tua testa grava）」──詩集表題詩「Fatalità」との最も直接的な照応。「Fatalità」という語が詩中に登場する唯一の箇所として、詩集全体の主題的キーワードが「闇の声」による預言として外部から名指しされる：詩集冒頭詩で「Sventura（不運）」として内面化された宿命が、本詩では「闇の声」として外部化・客観化される対称的な構造。「E sei ribelle e schiava（お前は反逆者にして奴隷だ）」──「ribelle（反逆者）」と「schiava（奴隷）」という相反する二規定の同時帰属が詩集全体の弁証法的緊張を凝縮する：「Fatalità」の「Resta（残れ）」による受容と「Tu vuoi saper」の「O libertade, o morte（自由か死か）」の二項対立が、ここでは一個の主体の内部矛盾として統合される。ヴェイユ「La Violence」の「力に支配された者はついに力そのものへと変換される」という逆説との照応。",
+      "targetId": "negri_fatalita",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La tua strofe sarà grido e saetta.",
+      "body": "「お前の詩句は叫びと矢になるだろう（La tua strofe sarà grido e saetta）」──詩集中最も明示的な詩学的宣言。「strofe（詩句・連）」という詩技術的語彙が詩の素材として直接言及されることで、「Voce di tenebra」全体が詩人の詩学の宣言として額縁づけられる。「grido（叫び）」と「saetta（矢）」の対：声の詩学（叫び）と行為の詩学（矢）の二重性。「Senza freno irrompente e senza briglia（手綱なく突進し、轡なく）」という馬の比喩が「Viaggio notturno」の「Su, frusta, o carrettier（さあ、鞭を打て、馭者よ）」の馬車から「轡を持たない（senza briglia）」解放された馬への変容として詩集内の移動の詩学を完結させる。「Andrai fra gl'irti aculei del dolore / Inneggiando all'amore（苦悩の険しい棘のあいだを行くだろう愛を讃えながら）」──「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」の命題の詩的実践として定式化される。",
+      "targetId": "negri_fatalita",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Più grande ancor se vinta.",
+      "body": "「たとえ敗れても一層偉大だ（Più grande ancor se vinta）」──詩集全体の最も逆説的な命題。「se vinta（もし敗れても）」という仮定が「Più grande（一層偉大）」という比較級で結ばれる：敗北が偉大さの条件として定義される逆説。「Fatalità」の「Per chi strenuo combatte è la vittoria（力強く戦う者にこそ勝利がある）」が「勝利」を最終地点として提示するのに対し、「Voce di tenebra」は「vinta（敗れた状態）」においても偉大であるという、より根本的な抵抗の倫理を宣言する。「Andrai coi piè nel fango e l'occhio altero / Nella luce rapito（泥の中に足を置き、高慢な眼を光の中に連れ去られながら）」──「piè nel fango（泥の中の足）」と「occhio nella luce（光の中の眼）」の垂直的二元性が「La fossa e l'ideal（墓穴と理想）」のイメージを身体的に具体化する。「Le magnifiche larve del pensiero（思考の壮大な幻影）」──「larve（幻影・亡霊）」という語が「Fantasmi」の「schiera di larve（亡霊の群れ）」と語彙的に連動する：死の亡霊が「思考の幻影」へと昇華される転換。",
+      "targetId": "negri_viaggio_notturno",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Sento aleggiarmi in seno.",
+      "body": "「胸の中に漂うのを感じる（Sento aleggiarmi in seno）」──詩全体の結語。「il respiro d'un Dio forte e sereno（力強く穏やかな神の息吹）」という結語が詩集『Fatalità』全体の中で最も明示的に神学的次元を開く：「Fatalità」の「Sventura（不運）」・「Fantasmi」の「nulla（虚無）」・「Viaggio notturno」の「destino（運命）」という非人格的力の系列が、ここでは「Dio（神）」という人格的・肯定的超越として最後に姿を現す。「forte e sereno（力強く穏やかな）」という形容が「Tu vuoi saper」の「augello dall'ali possenti（力強い翼の鳥）」の「possenti（力強い）」・「Viaggio notturno」の「il queto mar（静かな海）」の「queto（穏やかな）」と語彙的に照応する：力と平穏の統合がネグリの詩学的神学の終点として提示される。「Aleggiarmi（漂う）」という動詞が「Mistica」の「Aleggiare la sento（漂うのを感じる）」・「Rosa appassita」の「Aleggiare la sento / Come un bacio nel vuoto（虚空の中の口づけのように漂うのを感じる）」と完全に同一の感覚的動詞として反復される：詩集全体の「漂い（aleggiare）」の感覚的系譜が神の息吹による最終的充足として完結する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    }
+  ]
+}
