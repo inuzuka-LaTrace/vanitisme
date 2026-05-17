@@ -1,0 +1,117 @@
+{
+  "id": "negri_tu_vuoi_saper",
+  "title": "Tu vuoi saper?...",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Tu_vuoi_saper%3F...",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★☆☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Tu vuoi saper?...（お前は知りたいか？……）」は「Biondo fanciullo（金髪の少年）」に向けられた対話詩であり、語り手が自己の詩的・精神的本質を語る詩学的自己規定の詩として機能する。4連×6行（sextet）、各連の末行がインデントされた短詩行として締め括られる──「Biondo fanciullo, senti（金髪の少年よ、聞け）」「Raggi, procelle e fiori（光と嵐と花）」「E il mondo non mi sente!（世界はわたしの声を聞かない！）」「O libertade, o morte（おお、自由か、さもなくば死か）」──という4つのリフレイン的末行が詩の主題を段階的に凝縮する。中心イメージは「augello（鳥）」の比喩：語り手は「deserta prigion（荒涼とした牢獄）」に閉じ込められた「augello dall'ali possenti（力強い翼を持つ鳥）」として自己を提示し、太陽への渇望・嵐への飛翔という自由の詩学を展開する。「Viaggio notturno」の「Vola, o pensier, com'angelo immortal（飛べ、思考よ、不死の天使のように）」との直接的照応として、詩集内部での「飛翔（volo）」の詩的系譜を形成する。結語「O libertade, o morte（おお、自由か、さもなくば死か）」は古典的政治的スローガン（リソルジメント的伝統）を詩学的・実存的次元で再使用した定式。",
+  "keywords": [
+    "鳥の比喩",
+    "牢獄",
+    "自由",
+    "飛翔",
+    "太陽",
+    "孤独",
+    "libertade o morte",
+    "詩人の自己規定",
+    "世紀末イタリア詩",
+    "リソルジメント"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "negri_viaggio_notturno",
+    "baudelaire_elevation",
+    "george_entrueckung",
+    "rilke_der_panther",
+    "hoelderlin_an_die_parzen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Tu vuoi saper chi io sia?... Fanciullo, senti.\nIn deserta prigion chiuso e dannato\nIo sono augello dall'ali possenti;\nE chiedo il folgorar dei firmamenti,\nE qui m'agito e soffro incatenato.\n          Biondo fanciullo, senti.",
+      "provisionalTranslation": "お前はわたしが何者か知りたいか？……少年よ、聞け。\n荒涼とした牢獄に閉じ込められ、呪われて、\nわたしは力強い翼を持つ鳥だ；\n天空の稲妻を求め、\nここでもがき、鎖につながれて苦しんでいる。\n          金髪の少年よ、聞け。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Io sogno nozze di silvestri fiori\nNe l'ombra secolar de la foresta,\nE de le belve i deliranti amori\nSu le sabbie del tropico; e gli ardori\nDel sole e il turbinar de la tempesta,\n          Raggi, procelle e fiori.",
+      "provisionalTranslation": "わたしは夢見る、森の野花の婚礼を\n森の樹齢を重ねた影の中で、\nそして熱帯の砂浜での\n野獣たちの狂おしい愛を；そして太陽の\n灼熱と嵐の渦巻きを、\n          光と嵐と花を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "E qualche volta, vedi, audacemente\nIo mi dibatto, maledico, piango;\nMa passa il mondo e ride o non mi sente,\nEd io, testardo prigionier furente,\nContro i ferri l'aperte ali m'infrango,\n          E il mondo non mi sente!...",
+      "provisionalTranslation": "そして時には、見よ、大胆にも\nわたしはもがき、呪い、泣く；\nしかし世界は通り過ぎ、笑うか、わたしの声を聞かない、\nそしてわたしは、頑固で怒り狂った囚人として、\n開いた翼を鉄格子に打ち砕く、\n          そして世界はわたしを聞かない！……"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Oh, chi mi spèzza le ferree ritorte,\nChi mi dona la luce e l'infinito.\nChi mi dischiude le tenaci porte?\nIo voglio, io voglio errar, garrulo e forte,\nNel delirio del sole ebbro e rapito....\n          O libertade, o morte.",
+      "provisionalTranslation": "ああ、誰がわたしの鉄の縛りを砕いてくれるのか、\n誰がわたしに光と無限を与えてくれるのか。\n誰がこの頑固な扉を開いてくれるのか？\nわたしは望む、望む、さえずりながら、力強くさまよいたい、\n太陽の狂乱の中で酩酊し、連れ去られながら……\n          おお、自由か、さもなくば死か。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tu vuoi saper chi io sia?",
+      "body": "「お前はわたしが何者か知りたいか？（Tu vuoi saper chi io sia?）」──詩タイトルをそのまま開口部に置く自己問答の形式。「Fanciullo（少年）」への問いかけという構造が、「Autobiografia」詩篇の伝統（詩人が若者に自己を語る）を引き継ぎながら、詩人の本質を「定義する」という詩学的行為として機能する。「Autopsia」の医師への告発・「Fantasmi」の死者との対話・「Viaggio notturno」の馭者への命令とは異なる、より内省的・説明的な対話構造。「Biondo fanciullo（金髪の少年）」という具体的形容詞──「Biondo（金髪の）」が少年を天使的・無垢的存在として理想化する：苦悩する詩人の告白を聞く「無垢の耳」として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Io sono augello dall'ali possenti;",
+      "body": "「わたしは力強い翼を持つ鳥だ（augello dall'ali possenti）」──詩人の自己規定の中心比喩。「augello（鳥）」はイタリア語詩の古典的語彙（「uccello」の詩語形）であり、詩人・精神・魂の比喩として機能する。「ali possenti（力強い翼）」──力強さを強調することで、「deserta prigion（荒涼とした牢獄）」という制約との対比が際立つ：潜在的力と現実の束縛の逆説。リルケ「Der Panther」の「Der weiche Gang geschmeidig starker Schritte（しなやかで強い歩みの柔らかな動き）」という力ある生物の閉じ込められた姿との詩的照応──両詩において、力ある存在が檻・牢獄に閉じ込められることで生まれる緊張が中心的主題となる。「Viaggio notturno」の「Vola, o pensier, com'angelo immortal（飛べ、思考よ、不死の天使のように）」の飛翔の詩学との詩集内照応。",
+      "targetId": "rilke_der_panther",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Biondo fanciullo, senti.",
+      "body": "4連×6行のsextet形式。各連の末行がインデントされた短詩行（リフレイン的）として配置される：第1連「Biondo fanciullo, senti」、第2連「Raggi, procelle e fiori」、第3連「E il mondo non mi sente!」、第4連「O libertade, o morte」。この末行短詩行が詩の主題を段階的に圧縮・凝縮する構造は「Fatalità」（5連×5行）・「Autopsia」（14連×4行）・「Fantasmi」（各連末短行）・「Viaggio notturno」（各部末リフレイン）と一貫した詩集全体の形式的特徴。各末行の語彙的連鎖：「senti（聞け）」→「fiori（花）」→「sente（聞く）」→「morte（死）」──「senti／sente」の反復が第1連の呼びかけと第3連の「聞かれなさ」を照応させ、「花」から「死」への主題的推移が詩全体の感情的弧を形成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Io sogno nozze di silvestri fiori",
+      "body": "「わたしは夢見る、森の野花の婚礼を（Io sogno nozze di silvestri fiori）」──詩集『Fatalità』においてほぼ唯一の自然の豊穣・生の喜びの夢想。「nozze（婚礼）」「deliranti amori（狂おしい愛）」「ardori del sole（太陽の灼熱）」という生の充溢の語彙群が、「deserta prigion（荒涼とした牢獄）」の現実と対置される。「ombra secolar de la foresta（森の樹齢を重ねた影）」──「secolar（世紀を経た）」という形容詞が森を歴史的・永続的空間として定義する：コヘレト「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り……大地は永遠に立ち続ける）」の「terra（大地）」の永続性が「foresta（森）」として具体化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Raggi, procelle e fiori.",
+      "body": "「光と嵐と花（Raggi, procelle e fiori）」──第2連の末行短詩行として配置された三語の列挙。「raggi（光線・光）」「procelle（嵐・暴風）」「fiori（花）」という三語が宇宙的・自然的スペクトルの極端な両端（光と嵐）と中間的美（花）を一行に圧縮する。「Viaggio notturno」の「La fossa e l'ideal（墓穴と理想）」と同様の対極的二語圧縮の詩的技法の変奏。「procelle（嵐）」という語がイタリア詩の政治的伝統（リソルジメントの嵐のイメージ）とロマン主義的崇高（嵐の感性的威力）の双方を引き継ぐ。ボードレール「Élévation」の「Et comme une vigoureuse abeille / Elle plane sur la vie, et comprend sans effort / Le langage des fleurs et des choses muettes（蜜蜂のように力強く／それは生の上を旋回し、苦もなく理解する／花々と沈黙した物の言葉を）」の自由飛翔の詩学との照応。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Io mi dibatto, maledico, piango;",
+      "body": "「わたしはもがき、呪い、泣く（Io mi dibatto, maledico, piango）」──詩人の抵抗の三動詞。「dibattersi（もがく）」「maledire（呪う）」「piangere（泣く）」という三つの動作が身体的・言語的・感情的抵抗の全形式を網羅する。「Fatalità」の「Io voglio（わたしは望む）」の三重反復・「Autopsia」の「taglia, dilania, incidi e strazia（切れ、引き裂け、切開し、苛め）」の動詞連鎖と同様の、反復的・累積的動詞列挙のレトリック。「Contro i ferri l'aperte ali m'infrango（開いた翼を鉄格子に打ち砕く）」──「ali（翼）」が「possenti（力強い）」から「aperte（開かれた）」へと変容することで、力の顕現ではなく飛翔の意志が鉄格子によって傷つけられる逆説的イメージが形成される。リルケ「Der Panther」の「Nur manchmal schiebt der Vorhang der Pupille / sich lautlos auf（ときおり、瞳の帷が音もなく開く）」という閉じ込められた生の瞬間的開放との詩的照応。",
+      "targetId": "rilke_der_panther",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "E il mondo non mi sente!...",
+      "body": "「世界はわたしを聞かない（E il mondo non mi sente）」──詩人の孤立の定式。「non mi sente（わたしを聞かない）」という聴覚的不在が、「Autopsia」の「Nè tu mi scorderai（お前はわたしを忘れないだろう）」という記憶への執着・「Fantasmi」の「Io non vi temo（わたしはお前たちを恐れない）」という抵抗宣言と対照をなす：「聞かれないこと」という詩人の根本的な疎外の宣言。「passa il mondo e ride o non mi sente（世界は通り過ぎ、笑うか、聞かない）」──「ride o non sente（笑うか聞かない）」という二択が無関心の二形式──能動的嘲笑と受動的無視──として提示される。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」が、ここでは現在の「聴取の不在」として変奏される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O libertade, o morte.",
+      "body": "「おお、自由か、さもなくば死か（O libertade, o morte）」──詩全体の結語であり最も簡潔な二項対立の定式。「libertade」はイタリア語古形（「libertà」の詩語形・南部形）であり、政治的・詩的双方の響きを持つ：リソルジメント期のスローガン「O libertà o morte（自由か死か）」を直接的に引き継ぐ政治的典故として、ネグリの社会主義的背景と詩学的解放の二重の含意を担う。「Io voglio, io voglio errar, garrulo e forte（わたしは望む、望む、さえずりながら力強くさまよいたい）」──「voglio」の二重反復が「Fatalità」第4連「Io voglio la speranza... Voglio d'amor... Voglio il bacio」の三重反復の変奏として、詩集全体の意志の反復レトリックを完結させる。「Nel delirio del sole ebbro e rapito（太陽の狂乱の中で酩酊し、連れ去られながら）」──「ebbro e rapito（酩酊し、連れ去られた）」という恍惚の語彙がゲオルゲ「Entrückung（恍惚）」の「entrückt（連れ去られた）」との詩的共鳴を持つ。詩集四詩の結語の変奏：「Resta（残れ）」（Fatalità）・「maledizione（呪い）」（Autopsia）・「Un letto per dormire（眠るための床）」（Fantasmi）・「Vola（飛べ）」（Viaggio notturno）に続く「O libertade, o morte」は、詩集内部での死と自由の同一視として位置づけられる。",
+      "targetId": "george_entrueckung",
+      "targetParagraphId": null
+    }
+  ]
+}
