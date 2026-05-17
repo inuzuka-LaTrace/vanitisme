@@ -35,6 +35,7 @@ import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
 import gozzanoData from './data/gozzano';
 import corazziniData from './data/corazzini';
+import negriData from './data/negri';
 import bryusovData from './data/bryusov';
 import sologubData from './data/sologub';
 import blokData from './data/blok';
@@ -262,6 +263,7 @@ export default function App() {
       ...pascoliData,
       ...gozzanoData,
       ...corazziniData,
+      ...negriData,
       ...bryusovData,
       ...sologubData,
       ...blokData,
