@@ -1,0 +1,131 @@
+{
+  "id": "negri_malinconia",
+  "title": "Malinconia",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Malinconia",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「Malinconia（憂鬱）」は「piccola donna stanca（疲れた小さな女）」に向けられた独白詩であり、初白髪・最初の皺・青春の喪失・老いへの恐怖・死への静かな誘惑という主題を6連×8行（48行）で展開する。各連の韻律構造は二重のABBA包囲韻：前半4行（ABBA）と後半4行（CDDC）が組み合わさる八行詩（ottava）変形。各連の第1行と第5行が同語または同主題で反復される内部リフレイン構造：第1連「Malinconia dei primi／Malinconia dei primi」、第3連「Piccola donna stanca／piccola donna stanca」、第6連「Piccola donna, forse／Piccola donna, forse」──この内部エコーが詩全体に呪文的・反芻的な音楽性を与える。詩は三段階の時間的移行を示す：第1–2連（白髪・皺・青春の死の認識）→第3–4連（春の日差しの下で頭を垂れる現在）→第5–6連（若さへの告別と「meglio è morire（死ぬほうがよい）」という逆説的生の完結）。コッラッツィーニ「Desolazione」・パスコリ「Melanconia」など同時代イタリア世紀末詩の「malinconia（憂鬱）」詩学との照応として、クレプスコラリズモ的黄昏の美学をより直接的な女性的身体の経験から接近する点でネグリの独自性が際立つ。ボードレール「Le Spleen」の宇宙的憂鬱とは対照的な、内面化・身体化・時間化された憂鬱の詩として位置づけられる。",
+  "keywords": [
+    "憂鬱",
+    "初白髪",
+    "piccola donna stanca",
+    "青春の死",
+    "meglio è morire",
+    "Primavera",
+    "老いへの恐怖",
+    "内部リフレイン",
+    "女性の時間",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_rosa_appassita",
+    "negri_la_pieta",
+    "corazzini_desolazione",
+    "pascoli_melanconia",
+    "baudelaire_spleen",
+    "verlaine_chanson_dautomne",
+    "rodenbach_les_femmes_tristes",
+    "hofmannsthal_terzinen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Malinconia dei primi\ncapelli bianchi, che timidamente\nspuntano tra il vigor della fluente\nfeminea chioma, intorno al dolce viso!....\nMalinconia dei primi\nsolchi di ruga, oh, lievi, che al sorriso\ndanno una tenue grazia d'appassita\nrosa, e allo sguardo il tuo mistero, o Vita!...",
+      "provisionalTranslation": "最初の白髪の\n憂鬱よ、ひかえめに\n流れる豊かな女の髪のあいだに\n甘い顔のまわりで芽吹く！……\n最初の皺の\n憂鬱よ、ああ、かすかな、笑顔に\n萎れた薔薇の繊細な優雅さを与え、\n瞳にお前の神秘を与える、おお、命よ！……"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "Lenta e sottil tortura\ndella tristezza che non si può dire,\nquando la gioventù sa di morire,\nsa di morire tutti i giorni un poco:\nombra su fronte pura,\nsordo spavento di colei che al foco\nd'amore arse la bianca leggiadria,\ne visse di carezze e di follia!...",
+      "provisionalTranslation": "言葉にできない悲しみの\n遅くて細い拷問、\n青春が死ぬことを知るとき、\n毎日少しずつ死ぬことを知るとき：\n純粋な額の上の影、\n愛の炎に白い優美さを焼き尽くし、\n愛撫と狂気の中に生きた\nあの女の鈍い恐怖！……"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "Piccola donna stanca\nche al tuo balcone guardi Primavera\nrisorgere fra timida e leggera,\nfiori e nidi portando al tuo giardino;\npiccola donna stanca,\nperchè tieni sul petto il capo chino,\nmentre il riso dei cieli ed il tepore\nha una dolcezza che ti rompe il cuore?...",
+      "provisionalTranslation": "疲れた小さな女よ、\nバルコニーから春が\nひかえめに軽やかによみがえるのを眺め、\n花と巣を庭に運んでくる；\n疲れた小さな女よ、\nなぜ胸の上に頭を垂れているのか、\n空の笑いと温もりが\n心を砕くほどの甘さを持つのに？……"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–32",
+      "original": "Tu sai la vita. Sai\ndi tutti i baci la delizia lenta,\nquando amore ti culla e t'addormenta\nabbandonata come cosa morta.\nE la malia tu sai\ndella tua faccia, ove la bocca smorta\nsorride sempre, mentre gli occhi sono\ntristi, quasi chiedessero perdono.",
+      "provisionalTranslation": "お前は命を知っている。知っている\nすべての口づけの緩やかな喜びを、\n愛がお前を揺り籠に乗せ眠らせるとき\n死んだもののように身を委ねて。\nそしてお前は魔法を知っている\nお前の顔の、血の気のない口が\nいつも微笑むのに眼は\n悲しく、まるで許しを乞うかのような。"
+    },
+    {
+      "id": 5,
+      "verses": "v.33–40",
+      "original": "E tu l'ami, l'amore:\ne pensi: Che farò, domani?... — Oh, nulla\nal mondo vale un riso di fanciulla\nche insegua, a Maggio, lucciole nel prato.\nO amore, o folle amore\ndi giovinezza, o efèbo incoronato\ndi rose, o calda onda del sangue, o lieve\npasso, o chiara bellezza, o gioja breve!...",
+      "provisionalTranslation": "そしてお前は愛する、愛を：\nそして思う：明日、わたしは何をするのか？……──ああ、何も\n世界には匹敵しない、五月の野で\n蛍を追いかける少女の笑いに。\nおお、愛よ、狂おしい愛よ\n青春の、薔薇を冠に戴いた\nエフェボスよ、血の温かな波よ、軽い\n歩みよ、清らかな美よ、つかの間の喜びよ！……"
+    },
+    {
+      "id": 6,
+      "verses": "v.41–48",
+      "original": "....Piccola donna, forse\nmeglio è morire in questa Primavera\nmolle, pria che ti renda a te straniera\nquello che temi più della tua morte.\nPiccola donna, forse\nti è dolce chiuder dietro a te le porte\ndel silenzio e dell'ombra — ora che in viso\nt'arde di gioventù l'ultimo riso.",
+      "provisionalTranslation": "……疲れた小さな女よ、おそらく\nこの柔らかな春に死ぬほうが\nよい、お前の死よりも恐れるものが\nお前をお前自身に疎遠にする前に。\n小さな女よ、おそらく\n沈黙と影の扉を\n後ろに閉めることが甘い──今、顔に\n青春の最後の笑いが燃えている間に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Malinconia dei primi",
+      "body": "6連×8行（ottava変形）の二重ABBA包囲韻：各連が前半4行（ABBA）と後半4行（CDDC）の二つの包囲韻ブロックで構成される。第1連：「primi(A)・timidamente(B)・fluente(B)・viso(A)／primi(C)・sorriso(C)・appassita(D)・Vita(D)」──「primi」が前半・後半の両A位置に配置される内部エコーが詩全体の骨格的特徴。第3連「stanca／stanca」・第6連「forse／forse」でも同様の内部反復が機能する：前半4行の末尾語が後半の冒頭に回帰するこの構造が詩に呪文的・反芻的な音楽性を付与する。行数から見るとコッラッツィーニ「Desolazione」・「L'anima（魂）」の短行八行詩との対比として、ネグリのottavaは長行（エンデカシラボ）と短行（セッテナリオ）の混合で重みのある抒情を構築する。",
+      "targetId": "corazzini_desolazione",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "rosa, e allo sguardo il tuo mistero, o Vita!...",
+      "body": "「萎れた薔薇の繊細な優雅さ（grazia d'appassita rosa）」──詩集内の詩「Rosa appassita（萎れた薔薇）」への直接的語彙照応。皺を「萎れた薔薇の優雅さ」として美化する視線が「Rosa appassita」の薔薇への推量的語りかけと鏡像をなす：両詩において「萎れること（appassire）」が美の消滅ではなく別種の美の開花として提示される。「allo sguardo il tuo mistero, o Vita（瞳にお前の神秘を与える、おお命よ）」──「Autopsia」の「Mistero della fame・Mistero del dolore（飢えの神秘・苦悩の神秘）」・「Rosa appassita」の「Mister di luce e d'ombra（光と影の神秘）」に連動する詩集横断的「神秘（mistero）」の語彙圏に接続される：老いた眼が「命の神秘」を体現するというパラドクス。「capelli bianchi（白髪）」──「La Pietà」の「sudate chiome（汗ばんだ髪）」と対照的に、「Malinconia」では白髪が美的変容の徴として提示される。",
+      "targetId": "negri_rosa_appassita",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sa di morire tutti i giorni un poco:",
+      "body": "「毎日少しずつ死ぬことを知る（sa di morire tutti i giorni un poco）」──詩全体の哲学的核心命題。「tutti i giorni un poco（毎日少しずつ）」という副詞的量化が死を単一の出来事でなく連続的過程として定義する：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の時間的消耗の詩的内面化として。「Lenta e sottil tortura（遅くて細い拷問）」──「lenta（遅い）・sottil（細い）」という二つの形容詞が青春の喪失を拷問の感覚的形象として定義する：「Fatalità」の「Sventura（不運）」の急速な出現とは対照的な、老いの静かな浸透。「sordo spavento（鈍い恐怖）」──「sordo（耳の聞こえない・鈍い）」という形容詞が恐怖の内部化・意識化されない状態を示す：コヘレト第1章v.8「Cunctae res difficiles（すべての事柄は困難であり）」の「言葉で説明できない」困難の変奏として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ha una dolcezza che ti rompe il cuore?...",
+      "body": "「心を砕くほどの甘さを持つ（ha una dolcezza che ti rompe il cuore）」──春の美しさが「苦痛をもたらす甘さ」として提示される詩的逆説。「riso dei cieli（空の笑い）」という自然の擬人化が「Viaggio notturno」の「sogghignando, la luna（せせら笑う月）」の不吉な擬人化から遠ざかり、より中立的・美的な方向へと移行する：ネグリの詩集間での自然の語りかけの変容。「Primavera（春）」が本詩全体の主題的対極として機能する：老い・衰え・死への誘惑という人間的時間に対して、自然の「再生（risorgere）」という循環的時間が対置される。この対比がホフマンスタール「Terzinen（テルツィーネ）」の「われわれはすでに他の時間からやってきた（wir kamen aus dem anderen）」という過ぎ去った青春のイメージと詩的に共鳴する。",
+      "targetId": "hofmannsthal_terzinen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "abbandonata come cosa morta.",
+      "body": "「死んだもののように身を委ねて（abbandonata come cosa morta）」──愛の恍惚を「死の身振り」として描写する詩的比喩。「cosa morta（死んだもの）」という語が「Un fratello」の「Sono rimasta zingara（わたしはジプシーのままだ）」・「La Pietà」の「abbandònati a me（わたしに身を委ねよ）」の「abbandono（放棄・委ね）」系列に接続される：愛の中での自己放棄が死の前段として示される。「la bocca smorta / sorride sempre, mentre gli occhi sono / tristi, quasi chiedessero perdono（血の気のない口がいつも微笑むのに眼は悲しく、まるで許しを乞うかのような）」──笑顔と悲しみの同時的共存が「Fatalità」の「e fingere il sorriso, anche nell'ore / dello strazio（苦悩の時間にも微笑みを装い）」と詩集間で照応する：社会的笑顔と内的悲しみの乖離というネグリの反復的主題。",
+      "targetId": "negri_un_fratello",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "O amore, o folle amore",
+      "body": "「おお、愛よ、狂おしい愛よ（O amore, o folle amore）」──詩中最も修辞的に高揚した行。「folle amore（狂おしい愛）」という語がダンテ「神曲・地獄篇」第5歌フランチェスカの「amor ch'a nullo amato amar perdona（愛された者に愛することを許さない愛）」の典故を背後に持つ。「efèbo incoronato / di rose（薔薇を冠に戴いたエフェボス）」──「エフェボス（efebo）」はギリシア語「ἔφηβος（少年）」で若い男性の美を指す：「Autopsia」の「Come vergine e bianco（処女のように白い）」という身体の美の系列に接続される。「o gioja breve（つかの間の喜びよ）」という結語がヴァニタス的「brevitas（短さ）」の定式として機能する：コヘレト第1章v.4「Generatio praeterit（世代は過ぎ去り）」の速さが「gioja breve（つかの間の喜び）」として個人的・感情的に変奏される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "meglio è morire in questa Primavera",
+      "body": "「この柔らかな春に死ぬほうがよい（meglio è morire in questa Primavera molle）」──詩全体の結語的命題。「meglio è morire（死ぬほうがよい）」という比較的評価がコヘレト第4章v.2「Laudavi magis mortuos quam viventes（わたしは生者よりも死者を称えた）」の命題の直接的詩的変奏として機能する：青春の最後の光の中での死が、衰退という「quello che temi più della tua morte（お前の死よりも恐れるもの）」よりも望ましいという逆説。「Primavera molle（柔らかな春）」という形容が死の季節としての春という反常識的イメージを創る：「Fantasmi」の「Il queto mar mi parve / Un letto per dormire（静かな海が眠るための床のように思えた）」の死への傾斜と同型の、美しい自然の中への消滅としての死の誘惑。「t'arde di gioventù l'ultimo riso（顔に青春の最後の笑いが燃えている）」──「ardere（燃える）」という動詞が「Voce di tenebra」の「aurore fiammeggianti（燃える暁）」の炎の語彙の最後の反響として、若さの消える瞬間を火の消滅として形象化する結語となる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    }
+  ]
+}
