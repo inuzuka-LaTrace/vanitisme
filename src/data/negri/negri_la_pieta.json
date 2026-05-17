@@ -1,0 +1,201 @@
+{
+  "id": "negri_la_pieta",
+  "title": "La Pietà",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/La_Piet%C3%A0",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「La Pietà（慈悲・哀れみ）」は病床の無名の女性に「Fata Dolcezza（慈悲の妖精）」が語りかけるという擬人的独白詩であり、12連×4行（48行）のABBAの包囲韻（rima incrociata）で統一された厳格な形式を持つ。「Fata Dolcezza（優しさの妖精）」という語り手は、キリスト教的慈悲（Pietà）・臨死介護・マリア的庇護の三者が融合した存在として機能する。「Pietà」という表題はミケランジェロの「ピエタ」（聖母マリアが死後のキリストを抱く彫刻群）への直接的典故を含み、詩全体が「慈悲ある者が死にゆく者を抱く」という神学的・彫刻的図像を言語的に実現する。詩は三部に分かれる：第1部（v.1–16）語り手の自己紹介と病者への呼びかけ、第2部（v.17–36）病者の身体的苦悩の詳述と「Non ricordare（思い出すな）」という忘却の恩寵、第3部（v.37–48）死の美化・魂の開花・「morte bella（美しき死）」への招待。結語「o Innominata / che nel nome di Dio mi sei sorella（神の名において私の姉妹であるあなた、名なき者よ）」が「Un fratello」の「zingara（ジプシー）」との対照として、身分を超えた人間的連帯を宗教的枠組みで定式化する。クリスティーナ・ロセッティ「Sweet Death」・「Dead before Death」の臨死詩学との深い照応。",
+  "keywords": [
+    "慈悲",
+    "Fata Dolcezza",
+    "病床",
+    "臨死介護",
+    "Innominata",
+    "morte bella",
+    "Non ricordare",
+    "忘却の恩寵",
+    "ピエタ",
+    "ABBA韻"
+  ],
+  "relatedTexts": [
+    "negri_un_fratello",
+    "negri_mistica",
+    "rossetti_c_sweet_death",
+    "rossetti_c_dead_before_death",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "hieronymus_iob_1",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Non domandarmi perchè son venuta.\nLascia ch'io sieda qui, presso il tuo letto.\nSei stanca, è vero?... Ti fa male il petto.\nOh, non celarti fra le coltri, muta!...",
+      "provisionalTranslation": "なぜ来たか聞かないで。\nここに、お前のベッドのそばに座らせておくれ。\n疲れているね、そうでしょう？……胸が痛む。\nああ、黙ったまま布団に隠れないで！……"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Dio mi donò le mie piccole mani\nperchè soavi fossero ai dolenti:\nperchè con gesti di blandizia, lenti,\nmolcesser l'ansie degli spasmi vani.",
+      "provisionalTranslation": "神はわたしの小さな手を与えてくださった\n苦しむ者に優しくあるように：\n宥めるような緩やかな仕草で、\n空虚な痙攣の苦しみを和らげるように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Io son Fata Dolcezza. — Se parlare\nm'ascolti un poco, in te tutto si queta:\nio la posseggo, la malia secreta\nche può tutte le pene consolare.",
+      "provisionalTranslation": "わたしは慈悲の妖精。──わたしが話すのを\n少し聞いていれば、あなたの中のすべてが静まる：\nわたしはそれを持っている、すべての苦しみを\n慰めることのできる秘密の魔法を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Io non so donde venga alla mia voce\ntanta soavità che il cor ne trema.\nO sconosciuta, in questa ora suprema\nabbandònati a me con la tua croce!",
+      "provisionalTranslation": "わたしの声にこれほどの優しさがどこから来るのか\n心が震えるほどの──わたしにもわからない。\nああ、見知らぬ方よ、この至高の時に\nお前の十字架ともどもわたしに身を委ねよ！"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Corpo disfatto dalle febbri, cuore\nconvulso, aridi labbri vïolastri,\nsudate chiome, tese al par di nastri\nneri intorno al terribile pallore;",
+      "provisionalTranslation": "熱に崩れた身体、痙攣する\n心臓、乾いた青紫の唇、\n汗ばんだ髪、黒いリボンのように\n恐ろしい蒼白を縁取って張りつめた；"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "vita che lotti nel disfacimento,\nio ti penetro tutta, io ti fo mia:\nchiudi gli occhi, raccogli in una pia\nrete di sogni il tuo lungo tormento!...",
+      "provisionalTranslation": "崩壊の中で格闘している命よ、\nわたしはお前全体に染み込む、わたしはお前を我がものにする：\n瞼を閉じよ、長い苦悩を\n敬虔な夢の網の中に集めよ！……"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "— Non ricordare. — Hai singhiozzato, nelle\nnotti eterne, anche tu?... — Non ricordare.\nIl passato è lontano, è morto, è un mare\ndi nebbia ove si spengono le stelle",
+      "provisionalTranslation": "──思い出すな。──永遠のような夜々に\nお前も泣き叫んだか？……──思い出すな。\n過去は遠く、死に、星々が\n消えていく霧の海だ"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "e tutto affonda: la tua pena oscura\ndi carne schiava, e le dolcezze troppo\nbrevi, e il giogo dei sensi avidi, ah, troppo\nper te pesante — e l'ultima tortura,",
+      "provisionalTranslation": "そしてすべてが沈む：奴隷の肉体の\n暗い苦しみ、あまりに短すぎた\n甘美さ、そして貪欲な感覚の軛、ああ、あまりに\nお前には重すぎる──そして最後の責め苦、"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "sai, quella che ti assilla insino al fondo,\nl'inconfessato orror della vecchiezza\nsola, senza una casa, una carezza,\nun bambino, un perchè d'essere al mondo....",
+      "provisionalTranslation": "知っているね、底まで苦しめるあの苦悩を、\n告白されぬ恐怖、年老いる恐怖を\nひとりで、家も愛撫も\n子供も、この世に在る理由もなく……"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": ".... Or tu sei pura come il fil di luna\nche di silenzio il tuo lettuccio fascia:\ntu sbocci dalla vita che ti lascia\nsiccome fronda dalla scorza bruna:",
+      "provisionalTranslation": "……今、お前は純粋だ、沈黙でお前の\n小さな床を包む月の糸のように：\nお前はお前を手放す命から咲き出る\n褐色の樹皮から葉が萌えるように："
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "i tuoi occhi socchiusi hanno tra i cigli\nun sogno d'alba che per vie di cielo\nsalga, spargendo rose senza stelo\nframmiste a nivei calici di gigli:",
+      "provisionalTranslation": "半ば閉じたお前の瞳は睫毛のあいだに\n夜明けの夢を持つ、天の道を\n昇りながら、茎のない薔薇を散らし\n白い百合の萼と混ざり合いながら："
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "e in pace arridi alla tua morte bella,\ntu fra le braccia mie, tu consolata\ndalla mia passïone, o Innominata\nche nel nome di Dio mi sei sorella.",
+      "provisionalTranslation": "そして平和に、美しい死に微笑む、\nわたしの腕の中で、慰められて\nわたしの情熱によって、おお、名なき方よ、\n神の名においてわたしの姉妹であるあなたよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Non domandarmi perchè son venuta.",
+      "body": "12連×4行（48行）、ABBA包囲韻（rima incrociata）で統一された厳格な形式。各連の韻構造：第1行(A)・第2行(B)・第3行(B)・第4行(A)の包囲韻が詩全体を通じて一貫する。例：第1連「venuta(A)・letto(B)・petto(B)・muta(A)」、第12連「bella(A)・consolata(B)・Innominata(B)・sorella(A)」。「Un fratello」の versi sciolti（無韻白詩）との対比として、同一詩集内での詩的形式の幅を示す：ネグリは厳格な韻律形式と自由詩の両極を操る。「Io son Fata Dolcezza（わたしは慈悲の妖精）」（v.9）という語り手の自己命名が詩全体を擬人的独白として額縁づける：「Fata（妖精）」というイタリア民俗的語彙とキリスト教的「Pietà」の融合。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Oh, non celarti fra le coltri, muta!...",
+      "body": "「黙ったまま布団に隠れないで（non celarti fra le coltri, muta）」──「muta（黙った）」という形容詞が病者の沈黙を強調する：詩全体が一方的な語りかけとして展開され、病者の声は直接的に表れない。「Lascia ch'io sieda qui, presso il tuo letto（ここに、お前のベッドのそばに座らせておくれ）」という許可を求める動詞「lascia（許して）」が、語り手の慈悲を押しつけでなく申し出として定位する：ヴェイユ「Nécessité」章の「神は強制せず、必然性を通じて間接的に働く」という命題の詩的具体化として読める。「Non domandarmi perchè son venuta（なぜ来たか聞かないで）」──問いを先取りして禁じる冒頭の命令形が、語り手の超自然的・不条理的来訪を暗示する：「なぜ」という問いの棄却がコヘレト第1章v.3「Quid habet amplius homo（人は何を得るのか）」という根本的な問いの棄却としても機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dio mi donò le mie piccole mani",
+      "body": "「神はわたしの小さな手を与えてくださった（Dio mi donò le mie piccole mani）」──神の賦与という神学的定式が慈悲の身体的道具としての「手（mani）」に適用される。「piccole mani（小さな手）」という具体的形象が「Fata Dolcezza」の超自然性を人間的・物質的次元に接地させる：「Mistica」の「Dio mi donò le mie piccole mani」という定式は聖テレサ的神秘主義──神が人間の身体を道具として用いる──の詩的変奏として機能する。「molcesser l'ansie degli spasmi vani（空虚な痙攣の苦しみを和らげる）」──「vani（空虚な）」という形容詞がコヘレト的「vanitas」として苦悩の徒労性を示す：苦悩は「vani（虚無）」でありながら、「mani（手）」による慰撫の対象となる。ヨブ記第1章v.20の身体的苦悩の礼拝的受容との照応。",
+      "targetId": "teresa_vivo_sin_vivir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Io son Fata Dolcezza.",
+      "body": "「わたしは慈悲の妖精（Io son Fata Dolcezza）」──語り手の自己命名の核心。「Fata（妖精）」はイタリア語で妖精・魔女・運命の女神の三義を持つ（ラテン語「Fata」から）：「Fatalità（宿命）」との語根的連動が意図的かどうかは不明だが、「宿命（Fatalità）」の詩集から「慈悲の妖精（Fata Dolcezza）」の詩集への移行として読める。「Dolcezza（優しさ・甘美さ）」──「Rosa appassita」の「dolcezze troppo brevi（あまりに短すぎた甘美さ）」（v.30）との語彙的照応：病者の過去の「dolcezze」が短すぎたのに対し、「Fata Dolcezza」としての語り手は死の床において「dolcezza」を永続的に与える存在として提示される。クリスティーナ・ロセッティ「Sweet Death」の「甘美な死」概念との詩的共鳴：甘美さ（dolcezza・sweetness）が死の接近と結びつく。",
+      "targetId": "rossetti_c_sweet_death",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "abbandònati a me con la tua croce!",
+      "body": "「お前の十字架ともどもわたしに身を委ねよ（abbandònati a me con la tua croce）」──詩全体の第一部の結語命題。「croce（十字架）」がキリスト教的受難の象徴として病者の苦悩を神学的に定義する：「Voce di tenebra」の「Da una possa virile andrai sospinta（雄々しい力によって押し進められながら）」という戦闘的言語から「abbandònati（身を委ねよ）」という完全な降伏・明け渡しへの詩的転換。「O sconosciuta（ああ、見知らぬ方よ）」──「Un fratello」の「Col mistero di sè（自分の神秘を持ちながら）」の無名性が「sconosciuta（見知らぬ者）」として臨死の文脈に回帰する：個人の固有名が剥ぎ取られた普遍的「他者」への呼びかけ。ヴェイユ「Accepter le vide」の「真空を受け入れること」──自己の放棄が恩寵の空間を開くという命題が「abbandònati」という動詞の神学的含意として機能する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Corpo disfatto dalle febbri, cuore",
+      "body": "「熱に崩れた身体（Corpo disfatto dalle febbri）」──詩の中心部における病者の身体描写の転換。第1–4連の対話的呼びかけから、第5連でカメラが引いて病者の身体を客観的・視覚的に描写するモードへとシフトする。「Corpo disfatto（崩れた身体）」──「Autopsia」の「fracidi corpi d'annegati（腐った溺死者の屍）」の水による腐敗に対し、「febbri（熱）」による消耗という陸上的・病理的崩壊。「aridi labbri vïolastri（乾いた青紫の唇）」──「Autopsia」の「Da quelle labbra scolorate（あの色褪せた唇）」との語彙的照応：両詩において唇の色変化が死の臨界の視覚的標識として機能する。「tese al par di nastri / neri（黒いリボンのように張りつめた）」──喪の色「neri（黒）」が病者の身体を囲む：ヴァニタス画の黒い枠の詩的変奏。",
+      "targetId": "negri_autopsia",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "rete di sogni il tuo lungo tormento!...",
+      "body": "「長い苦悩を敬虔な夢の網の中に集めよ（raccogli in una pia / rete di sogni il tuo lungo tormento）」──詩全体の感情的頂点命題の一つ。「rete di sogni（夢の網）」という形象が苦悩を捕捉し変容させる詩的手段として機能する：「rete（網・織物）」という語が詩作と苦悩の変容のメタファーとして機能する。「pia（敬虔な）」という形容詞が「rete di sogni」に宗教的性格を与える：敬虔さが苦悩の受容の形式として定義される。「io ti penetro tutta, io ti fo mia（わたしはお前全体に染み込む、わたしはお前を我がものにする）」──「Autopsia」の「io ti penetro（わたしは染み込む）」との動詞的照応：「Autopsia」では死者の身体に医師のメスが侵入するのに対し、「La Pietà」では慈悲の存在が生ける病者に浸透する──侵入の動詞が暴力から慰撫へと変換される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Il passato è lontano, è morto, è un mare",
+      "body": "「過去は遠く、死に、霧の海だ（Il passato è lontano, è morto, è un mare / di nebbia）」──詩の中核に置かれた忘却の命題。「è lontano, è morto（遠く、死んでいる）」という二重の過去の消去が、コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」を積極的な慈悲として再定義する：コヘレトにおける記憶の不在は虚無の告発であるのに対し、「La Pietà」では忘却が救済の形式となる。「Non ricordare（思い出すな）」のリフレイン的反復が詩の中間部を構成する：「Rosa appassita」の「Forse（おそらく）」の反復と同様に、短い反復句が連をまたいで詩の音楽的・主題的骨格をなす。ローデンバック「L'Oubli（忘却）」との主題的直接照応：忘却が詩的恩寵として詠まれる伝統。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "l'inconfessato orror della vecchiezza",
+      "body": "「告白されぬ恐怖、年老いる恐怖（l'inconfessato orror della vecchiezza）」──詩の社会的・実存的核心命題。「inconfessato（告白されぬ）」という形容詞が秘密の恐怖という内面の深部を指示する：「Un fratello」の「Sono rimasta zingara, nel fondo / del cuore（心の奥底でジプシーのままだ）」の内面の隠された真実と同型の「告白されない」真実。「sola, senza una casa, una carezza, / un bambino, un perchè d'essere al mondo（ひとりで、家も愛撫も子供も、世界に在る理由もなく）」──「Autopsia」の「senza casa, senza nome（家も名もなく）」の剥奪の系列が「La Pietà」では病者の実存的孤独として内面化される。「un perchè d'essere al mondo（この世に在る理由）」という語が詩集全体の実存的問いの中心として機能する：コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人は何を得るのか）」の問いの個人的・感情的変奏。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "tu sbocci dalla vita che ti lascia",
+      "body": "「お前はお前を手放す命から咲き出る（tu sbocci dalla vita che ti lascia）」──詩の第三部への転換、死の美化の開始。「sbocci（咲き出る）」という植物的生命の動詞が死の過程に適用される逆説：命の終わりが「咲き出ること（sbocciare）」として定義される。「siccome fronda dalla scorza bruna（褐色の樹皮から葉が萌えるように）」──木の樹皮から新芽が出るという自然の「脱皮」の形象が魂の身体からの解放を示す：ヴェイユ「Décréation（脱創造）」の「被造物から非被造物へ」という魂の変容論の詩的等価として読める。「Or tu sei pura come il fil di luna / che di silenzio il tuo lettuccio fascia（お前は純粋だ、沈黙でお前の小さな床を包む月の糸のように）」──月の光の「fil（糸）」という細い繊細さが、死の敷居を超えた純粋性の感覚的定式をなす。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "i tuoi occhi socchiusi hanno tra i cigli",
+      "body": "「半ば閉じたお前の瞳は睫毛のあいだに（i tuoi occhi socchiusi hanno tra i cigli）」──臨死の視覚的形象の頂点。「occhi socchiusi（半ば閉じた瞳）」が「Autopsia」の「vitree pupille（ガラスのような瞳）」と対照的に機能する：「Autopsia」の死後の硝子化した眼が生者への告発として機能するのに対し、「La Pietà」の半ば閉じた瞳は「sogno d'alba（夜明けの夢）」を内包する開放的な閾として機能する。「spargendo rose senza stelo / frammiste a nivei calici di gigli（茎のない薔薇を散らし白い百合の萼と混ざり合いながら）」──「rosa（薔薇）」と「giglio（百合）」の花の二重言語：薔薇は愛・情熱・生の象徴、百合は純潔・聖母・死の象徴として西洋的花言語に定着する。「senza stelo（茎のない）」──茎から切り離された薔薇が切断された生の比喩として機能する：「Rosa appassita（萎れた薔薇）」の薔薇との詩集内照応。",
+      "targetId": "negri_rosa_appassita",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "o Innominata",
+      "body": "「名なき方よ（o Innominata）」──詩全体の結語命題として機能する呼格。「Innominata（名なき者・名付けられぬ者）」はクリスティーナ・ロセッティ「Monna Innominata」（「名も知られぬ婦人」）という連作ソネットへの直接的典故：ロセッティが「Beatrice（ダンテの永遠の恋人）」や「Laura（ペトラルカの恋人）」の陰に隠れた無名の女性詩人を主体として想定した詩学的プロジェクトが、ネグリでは死床の無名女性への呼びかけとして変容する。「che nel nome di Dio mi sei sorella（神の名においてわたしの姉妹である）」──「Un fratello」の「Non io, che son della tua razza（わたしはお前の種族の者）」という階級的・血族的連帯が、「La Pietà」では「nel nome di Dio（神の名において）」という宗教的連帯に昇華される：人間的同一性（razza）から神的包括性（sorella nel nome di Dio）への移行。「e in pace arridi alla tua morte bella（そして平和に、美しい死に微笑む）」──「morte bella（美しき死）」というイタリア語定式がミケランジェロのピエタ彫刻群に回帰する：語り手の腕に抱かれて微笑む死者の形象がピエタの言語的実現として詩を閉じる。",
+      "targetId": "rossetti_c_sweet_death",
+      "targetParagraphId": null
+    }
+  ]
+}
