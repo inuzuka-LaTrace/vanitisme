@@ -1,0 +1,119 @@
+{
+  "id": "negri_mistica",
+  "title": "Mistica",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Mistica",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Mistica（神秘主義者・女性の信者）」は孤独な教会に通う敬虔な若い女性が愛の一瞥によって「征服」される物語詩であり、詩集中最も抒情的・叙事的な作品の一つ。5連×5行（25行）、各連が独自の二重インデント構造をなす：第1行（無インデント）・第2行（インデント1）・第3行（無インデント）・第4行（インデント1）・第5行（最深インデント、単語一語または短句）。各連の第5行末行が韻語として独立する：「Rosari（ロザリオ）」「Parea（見えた）」「La colse（彼女を捉えた）」「Conquiso（征服された）」「S'infranse（砕けた）」──この五語の縦断的連鎖が宗教的信心から愛の征服・ランプの破壊という物語的推移を凝縮する。「神秘（Mistica）」という題名は三重の意味を担う：（1）女性の信仰実践の「神秘主義」、（2）愛の「神秘」、（3）「inferno e il paradiso（地獄と天国）」という宗教的語彙が世俗的愛の文脈に転用される「神秘化」。「Un angelo dall'alto la compianse（天使が上から彼女を憐れんだ）」という行が天上の証人としての天使を導入し、直後の「Sull'altare una lampada S'infranse（祭壇のランプが砕けた）」という終結が神聖な空間の破壊として愛の侵入を象徴的に確認する。詩集内では「Fatalità」「Autopsia」「Fantasmi」「Viaggio notturno」「Tu vuoi saper」の苦悩・社会告発の詩群と対照的な、繊細で室内的・霊的な抒情を示す。",
+  "keywords": [
+    "信仰",
+    "愛の一瞥",
+    "教会",
+    "天使",
+    "ランプの破壊",
+    "inferno e paradiso",
+    "神秘主義",
+    "女性の信者",
+    "征服",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "rossetti_c_soeur_louise",
+    "verlaine_parsifal",
+    "juan_de_la_cruz_llama_de_amor_viva",
+    "teresa_vivo_sin_vivir",
+    "dannunzio_beata_beatrice"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Ella amava le gotiche navate\n          Dei templi solitari;\nI ceri agonizzanti sugli altari,\n          Il biascicar dei mistici\n                              Rosari.",
+      "provisionalTranslation": "彼女は好んでいた、ゴシックの身廊を\n          孤独な聖堂の；\n祭壇の上でろうそくが苦しみながら燃え、\n          神秘の念仏のような\n                              ロザリオを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Ella pregava sempre, pei dolori\n          Che ancor non conoscea:\nCome un giglio era bella e nol sapea;\n          Non di carne, ma d'etere\n                              Parea.",
+      "provisionalTranslation": "彼女はいつも祈っていた、まだ知らない\n          苦しみのために：\n百合のように美しかったが自分では知らなかった；\n          肉でなく、エーテルでできているように\n                              見えた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Una sera, nell'ombra d'un'arcata,\n          Uno sguardo l'avvolse.\nElla chinò la testa e non si volse,\n          Ma nelle fibre un tremito\n                              La colse.",
+      "provisionalTranslation": "ある夕べ、アーチの影の中で、\n          一つの眼差しが彼女を包んだ。\n彼女は頭を垂れ、振り返らなかった、\n          しかし身体の芯に震えが\n                              彼女を捉えた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Un'altra sera ancor, nel tempio vuoto,\n          Ella incontrò quel viso.\nPrometteva l'inferno e il paradiso....\n          Il cor le battè rapido,\n                              Conquiso.",
+      "provisionalTranslation": "また別の夕べ、空の聖堂で、\n          彼女はあの顔と出会った。\nそれは地獄と天国を約束していた……\n          心臓が速く打った、\n                              征服されて。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Ed una voce su la bocca: Io t'amo,\n          Le disse, ed ella pianse....\nUn angelo dall'alto la compianse;\n          Sull'altare una lampada\n                              S'infranse.",
+      "provisionalTranslation": "そして口元に声が：わたしはお前を愛している、\n          と言い、彼女は泣いた……\n天使が上から彼女を憐れんだ；\n          祭壇の上のランプが\n                              砕けた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ella amava le gotiche navate",
+      "body": "5連×5行のsextet変形。各連の韻律構造：第1・3行が11音節（エンデカシラボ）、第2・4行が7音節（セッテナリオ）、第5行が3〜4音節（トロンカート）の最深インデント行として配置される三段インデント形式──このような視覚的・音響的段階配置はイタリア詩の伝統的canzoneの残響を持ちながら、世紀末詩特有の視覚詩学（ヴェルレーヌ的「音楽としての詩」の視覚的等価）を体現する。5連の末行縦断：「Rosari（ロザリオ）」→「Parea（見えた）」→「La colse（彼女を捉えた）」→「Conquiso（征服された）」→「S'infranse（砕けた）」──この五語の連鎖が詩全体の物語的推移（宗教的信心→美→接触→征服→破壊）を最小単位で縦断する。ヴェルレーヌ「Parsifal」の聖杯と純潔の接触・解体という構造との詩的照応。",
+      "targetId": "verlaine_parsifal",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Il biascicar dei mistici",
+      "body": "「神秘の念仏のような（Il biascicar dei mistici）」──「biascicare（もぐもぐと唱える・食べる）」という語が、ロザリオ祈祷の反復的・半自動的な口の動きを「もぐもぐ」という口語的動詞で描写する：典礼の神聖さと機械的反復の無意識性を同時に示す両義的表現。「Ceri agonizzanti sugli altari（祭壇の上でろうそくが苦しみながら燃え）」──「agonizzanti（瀕死の・苦しみながら）」という分詞が蝋燭の光の揺らぎを「苦悶」として擬人化する：「Autopsia」の「rantolo affannato（苦しい喘鳴）」と同様の、消えゆく生の呼吸的イメージ。「gotiche navate（ゴシックの身廊）」──高く細長い空間の垂直性が、後続する「dall'alto（上から）」（v.23）の天使の視点と照応する：建築的垂直性が神学的垂直性（天上と地上）の空間的形象として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Come un giglio era bella e nol sapea;",
+      "body": "「百合のように美しかったが自分では知らなかった（Come un giglio era bella e nol sapea）」──無知の美という逆説的定式。「giglio（百合）」は聖母マリア・純潔・受胎告知の伝統的象徴：雅歌「Ego flos campi et lilium convallium（わたしは野の花、谷間の百合）」（2:1）の系譜上に位置する。「nol sapea（自分では知らなかった）」という無知が美の純粋性の保証として機能する：知ることと美の損なわれの同一視──「Autopsia」の「senza nome（名もなく）」・「Fantasmi」の「senza casa（家なく）」と対称的に、この女性は美を「持ちながら知らない」。「Non di carne, ma d'etere Parea（肉でなく、エーテルでできているように見えた）」──「etere（エーテル）」という科学的・哲学的語彙が肉体の非物質化を示す：クリスティーナ・ロセッティ「Dead before Death」の「living dead（生きながら死んでいる）」の精神化と同型の、肉体の透明化・霊化。",
+      "targetId": "rossetti_c_soeur_louise",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ella pregava sempre, pei dolori\n          Che ancor non conoscea:",
+      "body": "「まだ知らない苦しみのために祈っていた（pregava pei dolori Che ancor non conoscea）」──「まだ知らない苦しみ」のための先取り的祈りという逆説。「Fatalità」の「Sventura（不運）」が語り手を「いかなるときも追いかける」という宿命的苦悩の確定性に対し、「Mistica」の女性の苦悩は「未知（non conoscea）」のまま予祷される：苦悩の予感としての宗教的実践。「Fatalità」のヨブ記第1章v.5との照応：ヨブが子供たちの「かもしれない罪」のために予防的燔祭を献げるのと同様に、「Mistica」の女性は「まだ知らない苦しみ」のために予防的祈りを捧げる──苦悩への先行的感受性が敬虔さの形として定義される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Una sera, nell'ombra d'un'arcata,",
+      "body": "「ある夕べ、アーチの影の中で（Una sera, nell'ombra d'un'arcata）」──詩の物語的転換点。「Una sera（ある夕べ）」という不定冠詞が特定の日時を匿名化し、普遍的な「一瞥の瞬間」として提示する：「Uno sguardo（一つの眼差し）」の「Uno」と対応する二つの「Una / Uno」が「初めての出会い」の唯一性を強調する。「nell'ombra（影の中で）」──教会の光と影の空間が、「Autopsia」の「orrida stanza sepolcrale（恐ろしい埋葬の間）」・「Fantasmi」の「penombra（薄暗がり）」・「Viaggio notturno」の「tenebror（闇）」と連動する詩集全体の「影の詩学」の系譜上に位置する。「Ella chinò la testa e non si volse（彼女は頭を垂れ、振り返らなかった）」──信仰的謙虚さの身振り（俯くこと）が感情的回避の身振りと重なる：宗教的身体と恋愛的身体の区別の溶解。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Prometteva l'inferno e il paradiso....",
+      "body": "「それは地獄と天国を約束していた（Prometteva l'inferno e il paradiso）」──詩全体の神学的・感情的核心命題。「l'inferno e il paradiso（地獄と天国）」というキリスト教的終末論の対立項が、愛する者の「顔（viso）」が持つ危険と恍惚の二重性を描写するために転用される：宗教的語彙の世俗的愛への転置が詩タイトル「Mistica（神秘主義）」の核心をなす。「inferno（地獄）」が「paradiso（天国）」に先行して置かれる語順が意味を持つ：愛の苦悩（危険性）が至福（恍惚）に先行する詩的直観。ダンテ的文脈では「inferno」→「paradiso」への旅が魂の浄化の道程を示す──「Mistica」では一人の男の顔がその道程全体の予告として機能する逆説。「Il cor le battè rapido, Conquiso（心臓が速く打った、征服されて）」──「Conquiso（征服された）」という末行単語が詩の転換の完結を一語で示す。",
+      "targetId": "dante_paradiso_canto_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Sull'altare una lampada\n                              S'infranse.",
+      "body": "「祭壇の上のランプが砕けた（Sull'altare una lampada S'infranse）」──詩全体の結語であり最も凝縮された象徴的行為。「lampada（ランプ・常灯）」は教会において聖体の存在を示す「聖体ランプ（lampada del Santissimo）」──神の現前の永続的象徴。その「S'infranse（砕けた）」という突然の破壊が、愛の侵入による聖なる空間の変容・神聖の世俗的愛による置換として読める。「Un angelo dall'alto la compianse（天使が上から彼女を憐れんだ）」という行が天上の証人を導入し、天使の「compianse（憐れんだ）」という動詞が女性の「pianse（泣いた）」と語根的に連動する：人間の泣きと天使の憐れみの二重の「泣き」として結語が用意される。ランプの破壊という結語は、ダヌンツィオ「Beata Beatrice」の聖化されたエロスの詩学・クリスティーナ・ロセッティ「Soeur Louise」の聖女と世俗の境界の詩学と構造的に照応する。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": null
+    }
+  ]
+}
