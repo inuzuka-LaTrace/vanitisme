@@ -1,0 +1,124 @@
+{
+  "id": "negri_rosa_appassita",
+  "title": "Rosa appassita",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Rosa_appassita",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Rosa appassita（萎れた薔薇）」は一輪の萎れた薔薇を詩的対話の相手として、語り手が生・愛・死・欲望を瞑想する内省詩。6連×6行（36行）、均質なhextet形式。詩は三部に分かれる：第1部（v.1–12、第1–2連）萎れた薔薇への推量的観察「Forse（おそらく）」の反復的問いかけ、第2部（v.13–30、第3–5連）薔薇の芳香がもたらす幻視──「L'anima d'un ignoto（見知らぬ者の魂）」の現前・欲望の覚醒、第3部（v.31–36、第6連）夕べの鐘（l'Ave）の打刻を契機とした薔薇への宣言「non vo' morire / Prima d'avere amato（愛する前に死にたくない）」。「Forse（おそらく）」という認識論的不確かさの反復（v.1・v.3・v.7・v.12）が詩前半の特徴であり、他者の人生史を「読もうとする」試みの限界を示す──その不確かさが「Non so（わからない）」（v.13）への転換によって明示される。「Come un bacio nel vuoto（虚空の中の口づけのように）」という定式がヴァニタス的「虚無（vuoto）」を欲望の対象として逆説的に提示する点に詩集全体との主題的接続がある。ヴァニタス絵画において薔薇は腐朽と美の二重のシンボルとして頻出する──アドリアーン・ファン・ユトレヒト「静物」の萎れた花束と本詩の「sfiorita rosa（散った薔薇）」の照応。",
+  "keywords": [
+    "萎れた薔薇",
+    "Forse",
+    "認識の限界",
+    "愛する前に死にたくない",
+    "虚空の口づけ",
+    "夕べの鐘",
+    "欲望の覚醒",
+    "ヴァニタス",
+    "芳香",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_mistica",
+    "negri_fatalita",
+    "gautier_la_rose_the",
+    "gautier_coquetterie_posthume",
+    "rodenbach_du_silence",
+    "rossetti_c_sweet_death",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Forse ella ha troppo amato;\nOra è stanca e riposa.\nForse ha sofferto molto:\nSul gambo ripiegato\nOr china con un tremito\nLa testa dolorosa.",
+      "provisionalTranslation": "おそらく彼女は愛しすぎた；\n今は疲れて休んでいる。\nおそらくひどく苦しんだ：\n折れた茎の上で\n震えながら今は垂れる\n痛ましい頭を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Forse ella soffre ancora:\nLa nausea de la vita,\nL'ebbrezza de la morte\nNell'agonia de l'ora\nParlan fra i vizzi petali....\nForse ella fu tradita.",
+      "provisionalTranslation": "おそらく彼女はまだ苦しんでいる：\n生の嫌悪、\n死の恍惚が\nこの時の苦悶の中で\n萎れた花弁のあいだで語り合っている……\nおそらく彼女は裏切られた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Non so che storia ascosa\nMi narri il dì che cade,\nIl penetrante balsamo\nDe la sfiorita rosa,\nLa stanza solitaria\nChe la penombra invade.",
+      "provisionalTranslation": "どんな隠された物語を\n沈みゆく日が、\n散った薔薇の\n鋭く染み込む香りが、\n薄暗がりに侵される\n孤独な部屋が語るのか、わからない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "L'anima d'un ignoto\nPresso la mia respira:\nAleggiare la sento\nCome un bacio nel vuoto,\nMister di luce e d'ombra\nChe tutta a sè m'attira.",
+      "provisionalTranslation": "見知らぬ者の魂が\nわたしのそばで息をする：\nそれが漂うのを感じる\n虚空の中の口づけのように、\n光と影の神秘として\nわたし全体を引き寄せる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–30",
+      "original": "Ed un desìo mi nasce:\nEssere morsa al cuore,\nEsser baciata in bocca,\nProvar gioie ed ambasce,\nLa follìa del trionfo,\nLa follìa del dolore.",
+      "provisionalTranslation": "そしてある欲望が生まれる：\n心臓を噛みつかれること、\n口に口づけされること、\n喜びと苦悩を味わうこと、\n勝利の狂気を、\n苦悩の狂気を。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–36",
+      "original": "Batte un rintocco: — è l'Ave.\nO triste fior sfogliato\nConsunto di passione,\nO fior mite e soave,\nSenti: non vo' morire\nPrima d'avere amato.",
+      "provisionalTranslation": "一打ちが鳴る：——アヴェ・マリアだ。\nおお、悲しい花よ、散り散りになった\n情熱に尽き果てた、\nおお、穏やかで優しい花よ、\n聞け：わたしは死にたくない\n愛する前に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Forse ella ha troppo amato;",
+      "body": "6連×6行のhextet形式。韻律：各行おおむね7音節（セッテナリオ）を基調とし、軽い変形を含む。韻構造：各連が abcabc または abccba の交差韻・包囲韻の混合パターンを持つ──第1連「amato／molto／ripiegato／tremito／dolorosa／riposa」は a(amato)b(riposa)c(molto)a(ripiegato)c(tremito)b(dolorosa)のabcacb。「Forse（おそらく）」という認識論的不確かさの副詞が詩前半の特徴的反復要素として機能する：v.1「Forse ella ha troppo amato」・v.3「Forse ha sofferto molto」・v.7「Forse ella soffre ancora」・v.12「Forse ella fu tradita」という四回の「Forse」が薔薇の人生史への推量的アクセスの限界を示す。「Sul gambo ripiegato / Or china con un tremito / La testa dolorosa（折れた茎の上で震えながら頭を垂れる）」という擬人化が薔薇に女性の身体的疲弊を投影する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "L'ebbrezza de la morte",
+      "body": "「死の恍惚（L'ebbrezza de la morte）」──「ebbrezza（恍惚・陶酔・酩酊）」という語が死を感覚的陶酔として提示する：「Viaggio notturno」の「Nel delirio del sole ebbro（太陽の狂乱の中で酩酊し）」の「ebbro」と語根的連動。「La nausea de la vita（生の嫌悪）」と「L'ebbrezza de la morte（死の恍惚）」の対句が、生と死を嫌悪と陶酔の逆転として提示する：コヘレト第4章v.2「Laudavi magis mortuos quam viventes（わたしは生者よりも死者を称えた）」の死の称揚の詩的変奏。「Nell'agonia de l'ora / Parlan fra i vizzi petali（この時の苦悶の中で萎れた花弁のあいだで語り合う）」──「agonia（苦悶）」が「時間（l'ora）」に適用されることで、時間そのものが臨死的苦悶として定義される：コヘレト的「afflictio spiritus（霊の苦悩）」の時間的・物質的形象。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Forse ella fu tradita.",
+      "body": "「おそらく彼女は裏切られた（Forse ella fu tradita）」──詩前半の「Forse」連鎖の最後にして最も強烈な推量。過去遠称「fu tradita（裏切られた）」が完結した行為として提示されることで、他の「Forse」（苦悩・疲労）との差異が生まれる：裏切りだけが具体的・人格的な原因として示唆される。「Mistica」の「Prometteva l'inferno e il paradiso（地獄と天国を約束した）」という愛の二重性と照応する：「Mistica」では愛が聖なる空間に侵入し、「Rosa appassita」では愛が（推量的に）裏切りによって終わる。詩集内で「Mistica」の女性と「Rosa appassita」の薔薇が「愛に傷つく女性の二形象」として対をなす。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Non so che storia ascosa",
+      "body": "「どんな隠された物語かわからない（Non so che storia ascosa）」──詩の認識論的転換点。「Forse」の推量から「Non so（わからない）」という無知の明示的宣言への転換が詩の中間点（v.13）に置かれる：薔薇の物語を「読もうとする」試みの限界を正直に認めることで、第4連以降の感覚的・霊的経験へとシフトする。「storia ascosa（隠された物語）」という語が薔薇の過去を不可読なテキストとして定義する──詩集全体における「語られない死者の物語」（「Autopsia」の無名死体・「Fantasmi」の溺死者）のモチーフと連動する。「Il penetrante balsamo / De la sfiorita rosa（散った薔薇の鋭く染み込む香り）」──香りが物語の伝達媒体として機能する：言語ではなく嗅覚による「物語の読み取り」。ゴーティエ「Affinités secrètes」・ボードレール「Correspondances」の香りによる霊的交信の詩学との照応。",
+      "targetId": "gautier_coquetterie_posthume",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Come un bacio nel vuoto,",
+      "body": "「虚空の中の口づけのように（Come un bacio nel vuoto）」──詩全体の哲学的核心イメージ。「vuoto（虚空・空虚）」というヴァニタス的語彙が欲望と接触の媒体として逆説的に提示される：虚空の中の口づけは感触なき接触、存在なき現前として、愛の不可能性と可能性の同時的形象をなす。「Mister di luce e d'ombra（光と影の神秘）」──「Mister」は「Mistero」の詩的短縮形で、「Autopsia」の「Mistero della fame / Mistero del dolore」との語彙的連動：飢え・苦悩の神秘に続く「光と影の神秘」として、薔薇の芳香がもたらす霊的体験が詩集の「神秘」の語彙圏に接続される。「L'anima d'un ignoto / Presso la mia respira（見知らぬ者の魂がわたしのそばで息をする）」──「ignoto（見知らぬ者）」という語が「Autopsia」の「senza nome（名もなく）」・「Fantasmi」の匿名の亡霊群と連動する：無名性が詩集全体の亡者の共通属性として反復される。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La follìa del dolore.",
+      "body": "「苦悩の狂気（La follìa del dolore）」──第5連の結語として、欲望の列挙（噛みつき・口づけ・喜び・苦悩・勝利の狂気）を「苦悩の狂気」で締め括る。「follìa（狂気）」という語の二重使用──「La follìa del trionfo（勝利の狂気）」「La follìa del dolore（苦悩の狂気）」──が勝利と苦悩を同一の「狂気」として括る：「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」の昇華的苦悩論とは対照的に、ここでは苦悩は「狂気（follìa）」として欲望の対象となる。「Essere morsa al cuore / Esser baciata in bocca（心臓を噛みつかれること・口に口づけされること）」という二つの不定詞が能動態を持たない受動的欲望として提示される：「Autopsia」の受動的解剖の身体から、欲望される受動性へとシフトする詩集内の身体表現の変奏。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Senti: non vo' morire",
+      "body": "「聞け：わたしは死にたくない（Senti: non vo' morire）」──詩全体の結語命題。「Senti（聞け）」という命令形が「Tu vuoi saper」の「Biondo fanciullo, senti（金髪の少年よ、聞け）」・「Mistica」の「Fanciullo, senti（少年よ、聞け）」と語彙的に連動する──詩集内での「聞け」という呼びかけの反復として、語り手の宣言への承認を要求する身振りが詩集横断的に機能する。「Batte un rintocco: — è l'Ave（一打ちが鳴る：アヴェ・マリアだ）」──夕べの鐘（アンジェラスの鐘）が詩の外部から時間を刻む：「Viaggio notturno」の「è mezzanotte（真夜中だ）」・「Mistica」の「Una sera（ある夕べ）」と同様の時間的定点として「l'Ave（アヴェ・マリアの鐘：夕六時）」が置かれる。「Prima d'avere amato（愛する前に）」という結語が「Mistica」の女性の「まだ知らない苦しみのための祈り」と対称的に照応する：「Mistica」では苦悩を先取りして祈り、「Rosa appassita」では愛を先取りして死を拒む。",
+      "targetId": "rossetti_c_sweet_death",
+      "targetParagraphId": null
+    }
+  ]
+}
