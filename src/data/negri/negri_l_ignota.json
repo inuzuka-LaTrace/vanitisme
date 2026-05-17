@@ -1,0 +1,203 @@
+{
+  "id": "negri_l_ignota",
+  "title": "L'Ignota",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/L%27Ignota",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "上級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「L'Ignota（名も知らぬ者）」は5部構成・50行のテルツァ・リーマ（terza rima：ABA BCB CDC...）詩であり、変死体として発見された娼婦の無名の女性への追悼詩・告発詩として書かれた。各部は10行（3行×3連＋1行コーダ）で構成され、部と部の間はアスタリスク（✽）で区切られる。「L'Ignota」という表題は「La Pietà」の「o Sconosciuta（ああ、見知らぬ方よ）」・「o Innominata（名なき方よ）」の系列の完結として機能する：詩集内の「無名の女性」形象──「La Pietà」（臨死）・「Il segreto」（死後秘密を持ったまま逝く女）・「L'Ignota」（切断された遺体）──が「Sconosciuta→Innominata→Ignota」の三変奏をなす。テルツァ・リーマはダンテ「神曲」の形式として有名であり、ネグリが本詩に採用することで、無名の娼婦の遺体という最も「低い」主題を「神曲」の最も崇高な形式で包むという逆説的選択が詩の倫理的核心をなす。5部の主題的推移：第1部（遺体の発見・描写）→第2部（生前の記憶：街娼としての姿）→第3部（誰かに殺され・切断される）→第4部（語り手の祈り・死後の安息への希求）→第5部（純化された死・無名性の聖化・星々の下での最終的安息）。「Non ti ricorderai del tuo dolore（お前はお前の苦悩を覚えていないだろう）」という結語近くの命題が「La Pietà」の「Non ricordare（思い出すな）」と照応し、忘却が詩集全体の救済の形式として最終的に確立される。",
+  "keywords": [
+    "L'Ignota",
+    "無名の娼婦",
+    "テルツァ・リーマ",
+    "切断された遺体",
+    "名の聖化",
+    "Sconosciuta",
+    "死後の純化",
+    "Non ricordare",
+    "星々",
+    "ダンテの形式"
+  ],
+  "relatedTexts": [
+    "negri_la_pieta",
+    "negri_il_segreto",
+    "negri_autopsia",
+    "negri_un_fratello",
+    "weil_la_violence",
+    "dante_inferno_canto_5",
+    "rossetti_c_dead_before_death",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "L'uomo del camposanto, o Creatura,\ndistesa ti trovò sull'erba diaccia,\nsquallida salma senza sepoltura.",
+      "provisionalTranslation": "墓地の男が、おお被造物よ、\n霜の草の上に横たわるお前を見つけた、\n埋葬なき荒んだ遺骸を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "E non avevi più capo nè braccia:\nsolo il ventre mostravi allo stupore\ndei cippi: — altra di te non era traccia.",
+      "provisionalTranslation": "そしてもう頭も腕もなかった：\nただ腹だけを墓石の驚きに\n晒していた：──お前の痕跡はそれしかなかった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–10",
+      "original": "Non avevi più labbra per l'amore\nbugiardo, per la voluttà venduta:\nnulla, più nulla: un torso: un arso cuore:\n\nun eterno silenzio, o Sconosciuta.",
+      "provisionalTranslation": "もう唇はなかった、嘘の愛のための、\n売られた官能のための：\n何もない、もう何もない：胴体：焼けた心臓：\n\n永遠の沈黙、おお、見知らぬ者よ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.11–13",
+      "original": "Io lo so, chi tu fosti. — In un oscuro\ncrepuscolo, alla fiamma d'un fanale,\nio ti vidi passar rasente un muro,",
+      "provisionalTranslation": "わたしはわかっている、お前が誰だったか。──暗い\n黄昏の中で、街灯の炎に照らされて、\nわたしはお前が壁をかすめるように通り過ぎるのを見た、"
+    },
+    {
+      "id": 5,
+      "verses": "v.14–16",
+      "original": "con lenti occhi mal desti e viso male\nimbellettato e tutto il corpo sfatto\nda una stanchezza che parea mortale.",
+      "provisionalTranslation": "眠そうな鈍い眼と、うまく塗られていない顔と\n身体全体が崩れていた\n死のように見える疲労で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.17–20",
+      "original": "Tentavi con la bocca di scarlatto\nun riso di lusinga e di menzogna.\nEd io tremai, dentro il mio cor contratto,\n\nper te, soffrendo della tua vergogna.",
+      "provisionalTranslation": "お前は真紅の口で試みていた\n誘惑と嘘の微笑みを。\nそしてわたしは震えた、縮んだ心の中で、\n\nお前のために、お前の恥辱に苦しみながら。"
+    },
+    {
+      "id": 7,
+      "verses": "v.21–23",
+      "original": "Mai ti raggiunse, o sempre ignuda e sola\nfra turpi amplessi e fiati acri di vino,\nla pietà d'una tenera parola.",
+      "provisionalTranslation": "決して届かなかった、おお、恥ずべき抱擁と\nワインの酸っぱい息のあいだで常に裸でひとりのお前に、\n優しい言葉の慈悲が。"
+    },
+    {
+      "id": 8,
+      "verses": "v.24–26",
+      "original": "Vile sino al torpore, affranta sino\na non distinguer più morte da vita!...\nMa venne uno, nell'ombra, a te vicino.",
+      "provisionalTranslation": "無気力なまでに卑しく、生と死を\nもはや区別できないまでに打ちひしがれていた！……\nしかし一人の者が来た、闇の中で、お前のそばに。"
+    },
+    {
+      "id": 9,
+      "verses": "v.27–30",
+      "original": "La tua preghiera egli avea forse udita.\nEbbe pietà. Ti soffocò con braccia\ndi ferro — e la tua forma irrigidita\n\nmutilò, fino a sperderne ogni traccia.",
+      "provisionalTranslation": "お前の祈りを彼はおそらく聞いていた。\n慈悲を持った。鉄の腕で\nお前を窒息させ──そして硬直したお前の形を\n\n切断した、すべての痕跡を消し去るまで。"
+    },
+    {
+      "id": 10,
+      "verses": "v.31–33",
+      "original": "Ora, o Ignota, pregando io vo che il sozzo\nurlo de la plebea folla loquace\ns'acqueti intorno al tuo bel corpo mozzo;",
+      "provisionalTranslation": "今、おお名も知らぬ者よ、わたしは祈りながら願う\nお前の美しい切断された身体の周りで\n卑俗な饒舌な群衆の汚い叫びが静まるように；"
+    },
+    {
+      "id": 11,
+      "verses": "v.34–36",
+      "original": "ora che dormi finalmente in pace,\ne il cieco infurïar della tormenta\nche turbinando ti travolse, tace;",
+      "provisionalTranslation": "今、お前がついに平和に眠り、\nお前を渦巻きながら飲み込んだ嵐の\n盲目の激怒が、沈黙している今；"
+    },
+    {
+      "id": 12,
+      "verses": "v.37–40",
+      "original": ".... e perchè più non gema e più non menta\nle divoranti fiamme arser l'impura\nbocca — e degli occhi la lusinga lenta\n\ne le lacrime occulte, o Creatura!...",
+      "provisionalTranslation": "……そしてもはや呻かずもはや嘘をつかないために\n貪る炎が不純な\n口を焼いた──そして眼の緩やかな誘惑と\n\n隠れた涙を、おお被造物よ！……"
+    },
+    {
+      "id": 13,
+      "verses": "v.41–43",
+      "original": "Riposa. — Oh, forse mai, nell'errabonda\ntua vita, il sonno a te venne con veli\nsì casti e santità così profonda.",
+      "provisionalTranslation": "休め。──ああ、おそらく一度も来なかっただろう、さすらいの\nお前の生において、眠りがこれほど\n純潔なヴェールとこれほど深い神聖さとともに。"
+    },
+    {
+      "id": 14,
+      "verses": "v.44–46",
+      "original": "Senza nome sarai come gli steli\nnati domani dal tuo morto cuore\ne puri sotto il puro arco dei cieli.",
+      "provisionalTranslation": "名なく在るだろう、お前の死んだ心臓から\n明日生まれる茎のように\n純粋な天の弧の下に純粋に。"
+    },
+    {
+      "id": 15,
+      "verses": "v.47–50",
+      "original": "Non ti ricorderai del tuo dolore\nche per fissar con iridi novelle\nil sol che schiude in ogni boccio un fiore,\n\nl'ombra che in alto palpita di stelle.",
+      "provisionalTranslation": "お前はお前の苦悩を覚えていないだろう\n新しい虹彩で見つめる時以外は\n蕾のすべてに花を開かせる太陽を、\n\n高くに星々で鼓動する影を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "L'uomo del camposanto, o Creatura,",
+      "body": "テルツァ・リーマ（terza rima：ABA BCB CDC DED...）形式、50行（10行×5部）。各部は3行×3連（terza）＋1行コーダの構成：コーダ行が前連の末韻と連結しながら詩全体を連鎖させる。ダンテ「神曲」がテルツァ・リーマを発明・確立した形式であり、ネグリがこの形式を「L'Ignota（名も知らぬ者）」──最も社会的に排除された無名の娼婦の遺体──のために用いることが詩の根本的倫理的選択をなす：ダンテが魂の上昇（地獄→煉獄→天国）を語るために発明した形式が、最も低い社会的地点に置かれた存在への「下降と再上昇」のために転用される。「La Pietà」の「o Innominata（名なき方よ）」・「Il segreto」の「Sconosciuta（見知らぬ者）」・「Un fratello」の「Col mistero di sè（自分の神秘を持ちながら）」という詩集内の無名性テーマの最終的・最も過激な展開として。",
+      "targetId": "dante_inferno_canto_5",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "squallida salma senza sepoltura.",
+      "body": "「埋葬なき荒んだ遺骸（squallida salma senza sepoltura）」──古代ローマの埋葬の倫理：ソポクレス「アンティゴネー」・ウェルギリウス「アエネイス」において、埋葬なき死者は最も大きな不名誉・苦悩として描かれる。「senza sepoltura（埋葬なき）」という語がフォスコロ「Dei Sepolcri（墓について）」の中心命題──埋葬が人間の尊厳の最後の保障をなす──に照応する：娼婦の遺体が「埋葬なき」状態で発見されるという事実が詩の道徳的告発の起点として機能する。「o Creatura（おお被造物よ）」──「La Pietà」の「o Creatura（おお被造物よ）」との完全な語彙的照応：詩集内で「Creatura」という呼格が臨死の女性（La Pietà）と切断された遺体（L'Ignota）に使用されることで、詩集の「他者への呼びかけ」の最初と最後が神学的・普遍的「被造物」という枠組みで結ばれる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "nulla, più nulla: un torso: un arso cuore:",
+      "body": "「何もない、もう何もない：胴体：焼けた心臓（nulla, più nulla: un torso: un arso cuore）」──詩集最も過激な行の一つ。コロン（：）の三重使用が切断の連続を句読点的に模倣する：身体の部位が切り離されて列挙されるように、文も切断されて接続される。「nulla, più nulla（何もない、もう何もない）」の反復がコヘレト的「omnia vanitas（すべては虚無）」の最も物質的・身体的な具体化として機能する：思想的虚無でなく身体的虚無──存在の文字通りの消去。「arso cuore（焼けた心臓）」──「Rose rosse」の「divelti cuori（引き裂かれた心）」・「Il segreto」の「cercalo nel mio cor（心の中を探せ）」と連動する詩集横断的「心臓」の語彙圏の最も暴力的な変奏として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "un eterno silenzio, o Sconosciuta.",
+      "body": "「永遠の沈黙、おお、見知らぬ者よ（un eterno silenzio, o Sconosciuta）」──詩集「沈黙三部作」の結語的照応。「Il segreto」の「tace in eterno（永遠に沈黙する）」が「un eterno silenzio」として反復される：「Il segreto」では死者の口に封印された「言われなかった言葉」が永遠に沈黙するのに対し、「L'Ignota」では口そのものが存在しない（「Non avevi più labbra」）──沈黙は言語の不在でなく言語器官の物理的消去として定義される。「Sconosciuta（見知らぬ者）」──「La Pietà」の「o sconosciuta, in questa ora suprema（この至高の時に、ああ、見知らぬ方よ）」と完全に照応する：臨死で語りかけられた「Sconosciuta」が死後の「永遠の沈黙」の名として反復される。",
+      "targetId": "negri_il_segreto",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "per te, soffrendo della tua vergogna.",
+      "body": "「お前のために、お前の恥辱に苦しみながら（per te, soffrendo della tua vergogna）」──第2部のコーダ行。語り手の「Ed io tremai（そしてわたしは震えた）」という感情的反応が詩全体の倫理的立場を確立する：観察者としての語り手が「vergogna（恥辱）」を「お前の」ものとしてでなく、社会全体が強制した「恥辱」として内面化する。「Autopsia」の「corpo venduto（売られた身体）」・「Un fratello」の「Non io, che son della tua razza（わたしはお前の種族の者）」という連帯の感覚の最も感情的に強烈な表現として機能する。「cor contratto（縮んだ心）」という身体的反応の語彙が「La Pietà」の「vi sfiorisci（萎れていく）」・「Il silenzio」の「s'aggrappan con terrore（恐怖でしがみつく）」と連動する詩集の身体的感情語彙圏に接続される。",
+      "targetId": "negri_un_fratello",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "La tua preghiera egli avea forse udita.",
+      "body": "「お前の祈りを彼はおそらく聞いていた（La tua preghiera egli avea forse udita）」──詩全体で最も逆説的な行。「preghiera（祈り）」という語が殺人者への適用として機能する：殺人者が「慈悲を持った（Ebbe pietà）」という倒錯した慈悲の定義が詩の最も衝撃的な逆説をなす。「Ebbe pietà. Ti soffocò（慈悲を持った。窒息させた）」──「La Pietà（慈悲）」という詩集内の核心概念が「窒息させること」として変容する：臨死の女性に寄り添う「Fata Dolcezza（慈悲の妖精）」の慈悲から、娼婦を殺す者の「慈悲」という倒置。「ferree morse del silenzio（鉄の顎で挟む沈黙）」が「Il silenzio」の「nodo del silenzio（沈黙の結び目）」から「braccia di ferro（鉄の腕）」として物質化される。ヴェイユ「La Violence」の「力は人間を物へと変換する」という命題の最も直接的な詩的具体化として。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "s'acqueti intorno al tuo bel corpo mozzo;",
+      "body": "「お前の美しい切断された身体の周りで叫びが静まるように（s'acqueti intorno al tuo bel corpo mozzo）」──第4部の語り手の祈りの核心。「bel corpo mozzo（美しい切断された身体）」というABの矛盾配置──「bello（美しい）」と「mozzo（切断された）」──が「L'Ignota」の美学的核心をなす：「Autopsia」の「Come vergine e bianco il flessuoso / Mio corpo（なんと処女のように白く、しなやかな）」という死体美学の系列で、切断された遺体が「bel（美しい）」と形容されることが詩的倫理の最も過激な宣言として機能する。「sozzo / urlo de la plebea folla loquace（卑俗な饒舌な群衆の汚い叫び）」──「Autopsia」の医師への「Suvvia, taglia（さあ、切れ）」という命令が群衆の「urlo（叫び）」として変奏される：個人的な医学的暴力から集合的な社会的暴力へ。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Riposa. — Oh, forse mai, nell'errabonda",
+      "body": "「休め（Riposa）」──詩集「Dal profondo」の「他者への語りかけ」詩の締め括り命令形。「La Pietà」の「abbandònati a me（わたしに身を委ねよ）」・「Il silenzio」の「Non tremare（震えないで）」から「Riposa（休め）」へという命令形の変化が詩集内での語り手の姿勢の変容を示す：介入・支援から静かな解放への移行。「forse mai, nell'errabonda / tua vita, il sonno（おそらく一度も来なかった、さすらいのお前の生において、眠りが）」──「Un fratello」の「errabonda」（さすらう）という形容詞が「Un fratello」の浮浪者の男性的自由から、娼婦の女性的強制的さすらいとして反転される：同じ語彙が詩集内で自由と強制の二つの意味として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Senza nome sarai come gli steli",
+      "body": "「名なく在るだろう（Senza nome sarai）」──詩集内の「無名性」テーマの最終的肯定的転換。「Autopsia」の「senza nome（名もなく）」が社会的剥奪として告発されたのに対し、「L'Ignota」の結末では「senza nome（名なく）」が植物の純粋さ──「gli steli / nati domani dal tuo morto cuore（お前の死んだ心臓から明日生まれる茎）」──として聖化される。「e puri sotto il puro arco dei cieli（純粋な天の弧の下に純粋に）」──「puri...puro」の反復が純粋性の二重強調として機能する：地上の「impura bocca（不純な口）」（v.38）に対する天上の「puro（純粋な）」の最終的対置。「La Pietà」の「o Innominata / che nel nome di Dio mi sei sorella（神の名においてわたしの姉妹）」という宗教的な無名性の肯定から、自然的・宇宙的な無名性の肯定への移行として詩集内の「名なき者」の詩学を完結させる。",
+      "targetId": "negri_la_pieta",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "l'ombra che in alto palpita di stelle.",
+      "body": "「高くに星々で鼓動する影（l'ombra che in alto palpita di stelle）」──詩全体の結語であり詩集『Dal profondo』の最終的ヴィジョン。「palpita（鼓動する）」という動詞が星々に生命的リズムを与える：死んだ娼婦の「心臓（cuore）」が地上では「arso（焼けた）」として消滅したが、星々の「palpitare（鼓動）」として宇宙的規模で反響する。「Non ti ricorderai del tuo dolore / che per fissar...il sol...l'ombra（苦悩を覚えていないだろう、太陽と影を見つめる時以外は）」──「La Pietà」の「Non ricordare（思い出すな）」という忘却の恩寵が、「L'Ignota」では太陽（光）と影（星々）という宇宙的二元性への変容として実現される：苦悩の記憶が消えるのでなく、宇宙的な光と影の知覚へと変換される昇華として。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」が、ここでは最高の慈悲として詩的に受容される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
