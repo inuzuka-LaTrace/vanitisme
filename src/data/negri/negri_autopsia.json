@@ -1,0 +1,210 @@
+{
+  "id": "negri_autopsia",
+  "title": "Autopsia",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Autopsia",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Autopsia（解剖）」は詩集中でも最も過激かつ告発的な詩であり、死後に解剖台に横たわる無名の貧困女性が、メスを振るう医師（「Magro dottore」）に向かって語りかける劇詩的モノローグの形式をとる。4行×14連（56行）、奇数行（長行）と偶数行（インデントされた短行）が交互に配置されるalternating quatrain形式。語り手は「Sui sassi de le vie crebbi（石畳の上で育った）」、「casa o parenti」を持たず、「Scalza, discinta e senza nome（裸足で、乱れた格好で、名もなく）」さまよった無産階級の女性であり、病院の寝台で「un negro augello dal ricurvo artiglio（曲がった鉤爪の黒い鳥）」──死の使い──に連れ去られた。詩の前半（v.1–28）が社会的告発──「i giorni senza pane（パンなき日々）」「Io son letame（わたしは堆肥だ）」「corpo venduto（売られた身体）」──として機能するのに対し、後半（v.29–56）は死した身体の美と苦悩の残存を同時に提示する二重の視線を展開する。特に第11–12連の「Cerca l'orrendo Mistero della fame（飢えの恐ろしい神秘を探せ）」と「cerca il sublime Mistero del dolore（苦悩の崇高な神秘を探せ）」という対句的命題は、「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」と応答しつつ、貧困・飢え・身体的苦悩を社会批評から詩学の問題へと昇華させる。最終連の「rantolo affannato di maledizïone（呪いの苦しい喘鳴）」という結語は、コヘレト的虚無と区別される、生者に向けられた死者の告発として詩全体を締め括る。",
+  "keywords": [
+    "解剖",
+    "貧困",
+    "無名の死",
+    "飢えの神秘",
+    "苦悩の神秘",
+    "死後の身体",
+    "社会告発",
+    "モノローグ",
+    "呪い",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "weil_la_violence",
+    "weil_accepter_le_vide",
+    "baudelaire_une_charogne",
+    "baudelaire_danse_macabre",
+    "corazzini_desolazione",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Magro dottore, che con occhi intenti\n          Per cruda, intensa brama,\nLe nude carni mie tagli e tormenti\n          Con fredda, acuta lama,",
+      "provisionalTranslation": "痩せた医師よ、貪欲な、強烈な\n          渇望をもって、じっと目を凝らし、\nわたしの裸の肉を切り刻み、苦しめる者よ、\n          冷たい、鋭い刃で、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Odi. Sai tu chi io fui?... Del tuo pugnale\n          Sfido il morso spietato;\nQui ne l'orrida stanza sepolcrale\n          Ti narro il mio passato.",
+      "provisionalTranslation": "聞け。お前はわたしが何者だったか知っているか？……お前の短剣の\n          容赦なき噛みつきに挑む；\nここ、この恐ろしい埋葬の間で\n          わたしは自分の過去を語ろう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Sui sassi de le vie crebbi. Non mai\n          Ebbi casa o parenti;\nScalza, discinta e senza nome errai\n          Dietro le nubi e i venti.",
+      "provisionalTranslation": "通りの石畳の上でわたしは育った。一度も\n          家も親族も持たなかった；\n裸足で、乱れた格好で、名もなくさまよった\n          雲と風を追いかけながら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Seppi le notti insonni e l'inquieto\n          Pensier della dimane,\nL'inutil prece e il disperar segreto,\n          E i giorni senza pane.",
+      "provisionalTranslation": "眠れぬ夜々と、翌日への落ち着かぬ\n          思いを知った、\n無駄な祈りと、ひそかな絶望を、\n          そしてパンなき日々を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Tutte conobbi l'improbe fatiche\n          E le miserie oscure,\nPassai fra genti squallide e nemiche,\n          Fra lagrime e paure:",
+      "provisionalTranslation": "あらゆる過酷な労苦と\n          暗い惨苦を知り尽くした、\n荒んだ敵意ある人々のあいだを通り過ぎた、\n          涙と恐怖のあいだを："
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "E finalmente un dì, sovra un giaciglio\n          Nitido d'ospedale,\nUn negro augello dal ricurvo artiglio\n          Su me raccolse l'ale.",
+      "provisionalTranslation": "そしてとうとうある日、病院の\n          清潔な寝台の上で、\n曲がった鉤爪を持つ黒い鳥が\n          わたしの上に翼を畳んだ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "E son morta così, capisci, sola,\n          Come un cane perduto,\nCosì son morta senza udir parola\n          Di speme o di saluto!...",
+      "provisionalTranslation": "そうしてわたしはこのように死んだ、分かるか、ひとりで、\n          迷子の犬のように、\nこうして死んだ、一言も聞かずに\n          希望や別れの言葉を！……"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Come lucida e nera e come folta,\n          La mia chioma fluente!...\nSenza un bacio d'amor verrà sepolta\n          Sotto la terra algente.",
+      "provisionalTranslation": "なんと光沢があり、黒く、なんと豊かな\n          わたしの流れる髪！……\n愛の口づけひとつなく埋められるだろう\n          冷たい大地の下に。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Come vergine e bianco il flessuoso\n          Mio corpo, e come snello!\nOr lo disfiora il cupido, bramoso\n          Bacio del tuo coltello.",
+      "provisionalTranslation": "なんと処女のように白く、しなやかな\n          わたしの身体、なんとほっそりとした！\n今それを散らすのは、渇望した、貪欲な\n          お前のメスの口づけだ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Suvvia, taglia, dilania, incidi e strazia,\n          Instancabile e muto.\nDelle viscere mie godi, e ti sazia\n          Sul mio corpo venduto!...",
+      "provisionalTranslation": "さあ、切れ、引き裂け、切開し、苛め、\n          疲れ知らずに、黙って。\nわたしの臓腑を楽しみ、満足せよ\n          売られたわたしの身体で！……"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Fruga, sinistramente sorridendo.\n          Che importa?... Io son letame.\nCerca nel ventre mio, cerca l'orrendo\n          Mistero della fame!...",
+      "provisionalTranslation": "探れ、不吉に微笑みながら。\n          どうでもいい？……わたしは堆肥だ。\nわたしの腹の中を探せ、あの恐ろしい\n          飢えの神秘を探せ！……"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "Scendi col tuo pugnale insino all'ime\n          Viscere, e strappa il cuore.\nCercalo nel mio cor, cerca il sublime\n          Mistero del dolore!...",
+      "provisionalTranslation": "お前の短剣で最も深い\n          臓腑まで降りていけ、そして心臓を引き抜け。\nわたしの心の中で探せ、あの崇高な\n          苦悩の神秘を探せ！……"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Tutta nuda così sotto il tuo sguardo,\n          Ancor soffro; lo sai?...\nColle vitree pupille ancor ti guardo,\n          Nè tu mi scorderai:",
+      "provisionalTranslation": "こうしてお前の視線の下に全裸で、\n          わたしはまだ苦しんでいる；知っているか？……\nガラスのような瞳でわたしはまだお前を見ている、\n          お前はわたしを忘れないだろう："
+    },
+    {
+      "id": 14,
+      "verses": "v.53–56",
+      "original": "Poi che sul labbro mio, quale conato\n          Ultimo di passione,\nRauco gorgoglia un rantolo affannato\n          Di maledizïone.",
+      "provisionalTranslation": "なぜならわたしの唇の上に、最後の\n          情熱の衝動として、\nしわがれた、苦しい喘鳴が喉を鳴らしているから\n          呪いの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Magro dottore, che con occhi intenti",
+      "body": "「痩せた医師よ、じっと目を凝らし」──詩全体を貫く劇的二元構造の設定。「Magro dottore（痩せた医師）」は科学的・社会的権威の代表として機能すると同時に、「cruda, intensa brama（生々しい、強烈な渇望）」という非科学的欲動を持つ存在として内部から批判される。「cruda（生の・残酷な）」という形容詞が科学的解剖という行為の暴力性を露呈させる。解剖台上の女性が医師に語りかけるという倒錯した語りの構図──死者が生者を問い詰める──は、ボードレール「Une Charogne（腐肉）」が愛する者に語りかける「あなたもこうなる」という未来の語りを、現在時制の直接対話へと変換したものとして読める。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Odi. Sai tu chi io fui?",
+      "body": "「聞け。お前はわたしが何者だったか知っているか？」──命令形「Odi（聞け）」による詩的コントロールの奪取。死者が生者に命令するというレトリック的逆転が詩の語りの権威を確立する。「chi io fui（わたしが何者だったか）」──過去形「fui」が現在の無名性と対置される：生前の「存在」が死後に初めて語られるという逆説。「ne l'orrida stanza sepolcrale（恐ろしい埋葬の間で）」──解剖室を「stanza sepolcrale（埋葬の間）」と命名することで、科学的空間を葬儀的・宗教的空間として再定義する視点の転換。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sui sassi de le vie crebbi. Non mai",
+      "body": "「通りの石畳の上でわたしは育った」──無産階級の生の最も凝縮されたイメージ。「sassi de le vie（通りの石畳）」は「家（casa）」の不在の対立項として機能する：床・屋根という基本的な庇護の欠如を「石畳」という野外性によって示す。「Scalza, discinta e senza nome（裸足で、乱れた格好で、名もなく）」の三重の剥奪──履物・衣服の締め・名前──が階級的排除の視覚的定式をなす。「senza nome（名もなく）」が詩タイトル「Autopsia」と連動する：解剖台上の無名死体は、生前も名前を持たなかった存在の延長として提示される。トラークル「De Profundis」の「名もなき者（Namenlosen）」のイメージとの共鳴。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "E i giorni senza pane.",
+      "body": "「パンなき日々（i giorni senza pane）」──貧困の最も直接的な物質的表現。「senza pane（パンなし）」という語が第4連の末行短詩行（インデント行）として配置されることで、詩形式的強調が社会的告発と重なる。「L'inutil prece（無駄な祈り）」──宗教的救済の不在。「disperar segreto（ひそかな絶望）」──公的に表明できない内面的絶望。この三者（祈り・絶望・飢え）の連鎖が、第11連「Mistero della fame（飢えの神秘）」の伏線として機能する──生前の飢えが死後の身体の「神秘」として解剖される対象となる逆説。ヴェイユ「La Violence」章の「力（la force）は人間から人格を剥奪する」という分析が、この連の貧困描写の哲学的対応として機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Un negro augello dal ricurvo artiglio",
+      "body": "「曲がった鉤爪を持つ黒い鳥（Un negro augello dal ricurvo artiglio）」──死の擬人化として機能する鳥のイメージ。「negro augello（黒い鳥）」はカラス・禿鷹・不吉な鳥の伝統的アレゴリーを引き継ぐ。「ricurvo artiglio（曲がった鉤爪）」という視覚的細部が捕食の暴力性を具体化する。「Su me raccolse l'ale（わたしの上に翼を畳んだ）」──「raccolse l'ale」という表現は翼を「収める・畳む」という静止の動作であり、死の瞬間の「静止」を翼の収束として形象化する。ポー「The Raven」の黒い鳥の不吉な存在との詩的共鳴、およびボードレール「Danse Macabre」の死の擬人化との照応。",
+      "targetId": "poe_the_raven",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Come un cane perduto",
+      "body": "「迷子の犬のように（Come un cane perduto）」──社会的孤立の動物的比喩による最大の格下げ。「cane perduto（迷子の犬）」という語が人間としての尊厳の否定を示す：主人のない動物と同等の孤独死として自己の死を規定する。「senza udir parola / Di speme o di saluto（希望や別れの言葉を一言も聞かずに）」──臨終における「言葉」の不在が、「senza nome（名もなく）」（v.11）・「senza un bacio d'amor（愛の口づけひとつなく）」（v.31）と連動する「剥奪の連鎖」を形成する。コヘレト第11章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「忘却」が、ここでは社会的・人間的「記憶」の拒絶として具体化される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Come lucida e nera e come folta,",
+      "body": "v.29–36（第8・9連）──死体の美の描写への転換点。「Come lucida e nera e come folta（なんと光沢があり、黒く、なんと豊かな）」・「Come vergine e bianco il flessuoso（なんと処女のように白く、しなやかな）」という「Come...（なんと……）」の感嘆的反復が、逆説的な死体美学（corps mort magnifié）の修辞を形成する。黒い髪（v.29）と白い身体（v.33）の色彩的対比が視覚的緊張を生む。死後の身体が最大の美的客体として提示されるこの構造は、ロセッティ「Proserpina」・ダヌンツィオ「Psiche giacente」の死体美学の系譜に連なると同時に、ボードレール「Les Bijoux」の官能的身体描写を社会的文脈へと転置したものとして読める。",
+      "targetId": "baudelaire_danse_macabre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Sul mio corpo venduto!...",
+      "body": "「売られたわたしの身体で（Sul mio corpo venduto）」──詩中で最も明示的な商品化の告発。「corpo venduto（売られた身体）」という語が、貧困女性の身体が生前から「売却」されていたことを暗示する──労働・売春・あるいは社会的使役という複数の読みを許容する戦略的曖昧性。「Suvvia, taglia, dilania, incidi e strazia（さあ、切れ、引き裂け、切開し、苛め）」という五つの動詞の連続的命令が、死後も継続する身体の搾取を言語的に模倣する：解剖が生前の搾取の延長として告発される。ヴェイユ「La Violence」§1の「力は人間を物（res）へと変換する」という命題の、身体的・詩的実践として機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Cerca nel ventre mio, cerca l'orrendo",
+      "body": "「飢えの恐ろしい神秘を探せ（Cerca l'orrendo Mistero della fame）」──詩の哲学的転換点。「Mistero（神秘）」という語の導入が、社会告発の言語を形而上学的・神学的言語へと昇華させる第一段階。「fame（飢え）」が「orrendo（恐ろしい）」神秘として規定されることで、貧困の物質的事実が存在論的次元へと押し上げられる：飢えは単なる欠乏ではなく、人間存在の底部に潜む「神秘」として再定義される。「Io son letame（わたしは堆肥だ）」という自己規定──「letame」は肥料・堆肥・糞尿の意──が直前に置かれることで、最も低い自己定義と最も高い「神秘」への問いが連続する逆説的配置となる。次連の「sublime Mistero del dolore」との対比："
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "cerca il sublime\n          Mistero del dolore!...",
+      "body": "「苦悩の崇高な神秘を探せ（cerca il sublime Mistero del dolore）」──「Mistero della fame（飢えの神秘）」（v.44）の対句的応答。「orrendo（恐ろしい）」と「sublime（崇高な）」というバーク的崇高論の二極が「飢え」と「苦悩」にそれぞれ割り当てられる：物質的欠乏（飢え）と精神的苦悩（dolore）の間の弁証法的緊張。「Strappa il cuore（心臓を引き抜け）」という命令が解剖行為と「苦悩の神秘」の探求を重ねる：心臓は医学的に検査される器官であると同時に、「dolore（苦悩）」の詩的・文化的中心である。「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」の命題が、ここでは外部からの問いとして変奏される──生前に苦悩を内面化していた語り手が、死後の身体の中に「苦悩の神秘」として物質化されるという論理。",
+      "targetId": "negri_fatalita",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Colle vitree pupille ancor ti guardo,",
+      "body": "「ガラスのような瞳でわたしはまだお前を見ている（Colle vitree pupille ancor ti guardo）」──詩的・存在論的逆転の極致。「vitree pupille（ガラスのような瞳）」──死後の硝子体変性した眼球が「見ること」の主体として蘇る。「Ancor soffro（まだ苦しんでいる）」・「ancor ti guardo（まだ見ている）」のaltera反復が、死後の苦悩と知覚の持続を主張する：解剖台上で苦しみ・見ていることが「現在進行形」として語られる非合理な確信。「Nè tu mi scorderai（お前はわたしを忘れないだろう）」──「Fatalità」の「Ti seguirò costante ovunque andrai（お前がどこへ行こうとも絶えずついてゆく）」の「追跡の宿命」が、死者から生者への追跡として反転される。コヘレト第1章v.11「Non est priorum memoria」の「記憶の不在」命題への詩的反論として機能する：この詩全体が「忘れられないこと」の要求として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Rauco gorgoglia un rantolo affannato\n          Di maledizïone.",
+      "body": "「しわがれた、苦しい喘鳴が喉を鳴らしている呪いの（Rauco gorgoglia un rantolo affannato di maledizïone）」──詩全体の結語であり、最も音響的に密度の高い行。「Rauco（しわがれた）」「gorgoglia（喉を鳴らす）」「rantolo（喘鳴）」「affannato（苦しい・息切れした）」という四つの声の語が連鎖し、臨終・死の喉音の音響的模倣（onomatopée）を形成する。「maledizïone（呪い）」のディアレシス（ë）は詩的韻律のための古典的表記法。「Fatalità」が「Resta（残れ）」という受容で終わるのに対し、「Autopsia」は「maledizione（呪い）」で終わる：詩集内部での二つの結語──受容と呪い──が、苦悩に対する二つの応答態度として対置される。「qual conato Ultimo di passione（最後の情熱の衝動として）」という括弧が、呪いを「情熱の残骸」として詩学的に昇華させる：呪いは感情的爆発ではなく、最後の「情熱（passione）」の形式として提示される。"
+    }
+  ]
+}
