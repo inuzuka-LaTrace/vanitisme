@@ -1,0 +1,127 @@
+{
+  "id": "negri_il_silenzio",
+  "title": "Il silenzio",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Il_silenzio",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「Il silenzio（沈黙）」は「沈黙の塔に閉じこもる」若い女性に語りかける独白詩であり、第三詩集の中でも心理的・詩学的深度において際立つ作品。6連×7行（42行）、各連の第3行が短行（トリメトロ）として設置される独自の形式構造：長行・長行・短行（breathless pause）・長行・長行・長行・長行のパターンが各連で反復され、短行が呼吸の停滞・言葉の途切れとして詩的沈黙を形式的に模倣する。「La Pietà」の病者・「Malinconia」の疲れた小さな女に続く第三の「他者への語りかけ」詩として、詩集内の「慰撫と対話」の系譜をなす。詩は三部構造：第1–2連（沈黙する女への問いかけと「苦悩の恍惚（ebbrezza indicibile）」への驚き）、第3連（窓から身を投げかねない極限状態の描写と「a non morire（死なないために）」という介入の申し出）、第4–5連（燕の比喩による魂の自由と神への開放性の提示）、第6連（沈黙のまま涙だけで寄り添うという語り手の最終的姿勢）。「il nodo del silenzio（沈黙の結び目）」・「torre di tristezza（悲しみの塔）」・「la rondinella del Signore（主の燕）」という三つの中心的形象が詩の構造を貫く。ローデンバック「Du Silence（沈黙について）」との詩的主題の直接照応。",
+  "keywords": [
+    "沈黙",
+    "torre di tristezza",
+    "cilicio",
+    "苦悩の恍惚",
+    "燕",
+    "自由",
+    "rondinella del Signore",
+    "涙と沈黙",
+    "自殺の縁",
+    "Dal profondo"
+  ],
+  "relatedTexts": [
+    "negri_la_pieta",
+    "negri_malinconia",
+    "negri_fantasmi",
+    "rodenbach_du_silence",
+    "rodenbach_les_femmes_tristes",
+    "weil_accepter_le_vide",
+    "trakl_de_profundis",
+    "verlaine_calme_orphelin"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "original": "Tu che sussulti a un batter d'ali, ed hai\nil nodo del silenzio sulle labbra\ncolor di cenere!...\nPerchè taci, e tremando te ne stai\nrinchiusa in una torre di tristezza?...\nE pure sei così giovine ancora,\ncosì soave è ancor la tua bellezza!...",
+      "provisionalTranslation": "翼のはばたきに震えながら、唇に\n沈黙の結び目を持つあなたよ\n灰色の！……\nなぜ黙り、震えながら\n悲しみの塔に閉じこもっているのか？……\nそれでもあなたはまだこんなに若く、\nまだこんなに優しい、あなたの美しさは！……"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–14",
+      "original": "Non so il tuo male. — Tu mi sembri oppressa\nda un cilicio nascosto, che flagelli\nla carne fragile,\nperdutamente al suo poter sommessa;\ne un'ebbrezza indicibile ti è data\nforse dal tuo soffrir senza parola,\nse al lamento la bocca è sigillata;",
+      "provisionalTranslation": "あなたの苦しみはわからない。──あなたは\n隠された苦行衣に押しつぶされているように見える、それが\n弱い肉体を鞭打ち、\nその力に狂おしく服従させている；\nそして言葉にできない恍惚があなたに与えられているのかもしれない\n言葉なく苦しむあなたの苦悩から、\n嘆き声に口が封じられているから；"
+    },
+    {
+      "id": 3,
+      "verses": "v.15–21",
+      "original": "se le mani s'aggrappan con terrore\na un mobile, ad un muro, a un davanzale,\nper trattenerti\ndi scagliare il tuo corpo e il tuo dolore\ndalla finestra!... — Ma perchè patire\nsenza rivolta?... Io non lo so, il tuo male;\nma t'insegnerei, forse, a non morire. —",
+      "provisionalTranslation": "手が恐怖でしがみつくから\n家具に、壁に、窓枠に、\nとどめるために\nあなたの身体と苦悩を\n窓から投げ出すのを！……──でもなぜ\n反抗なしに苦しむのか？……あなたの苦しみはわからない；\nでも死なないことを、おそらく、教えることができる。──"
+    },
+    {
+      "id": 4,
+      "verses": "v.22–28",
+      "original": "Senti come garriscono le rondini\nbianche e nere, nell'ora del tramonto.\nPel ciel s'inseguono\nstridendo, in cerchi rapidi e giocondi.\nNon hai pensato mai che forse un giorno\nfosti la rondin che a Novembre fugge\nverso il sole, e nel Marzo fa ritorno?...",
+      "provisionalTranslation": "夕暮れの時、燕がさえずるのを聞け\n白と黒の。\n空を追いかけ合いながら\n鋭く鳴きながら、素早く楽しげな輪を描く。\n一度でも思ったことはないか、おそらくある日\nあなたは十一月に太陽に向かって\n飛び去り、三月に戻る燕だったと？……"
+    },
+    {
+      "id": 5,
+      "verses": "v.29–35",
+      "original": "Non ti senti quelle ali dentro il cuore\nbatter, folli d'azzurro?... non lo senti\nche tu sei libera\ncome la rondinella del Signore,\ne che sol per gioirne Iddio ti diede\nl'anima tua piena di raggi, ardente\ndi sogni, aperta ad ogni pura fede?...",
+      "provisionalTranslation": "心の中にあの翼を感じないか\n蒼空に狂おしく打ちながら？……感じないか\nあなたが自由だということを\n主の燕のように、\nそしてただそれを喜ばせるために神があなたに与えたのだということを\n光線に満ちた、燃える\n夢の、あらゆる純粋な信仰に開かれたあなたの魂を？……"
+    },
+    {
+      "id": 6,
+      "verses": "v.36–42",
+      "original": "Vuoi ch'io ti regga al volo?... Oh, non tremare\nforte così. — Non ti dirò più nulla. —\nLagrime e lagrime\nio verserò su te senza parlare:\nsu te, che in una torre di tristezza\nti chiudi, e in fondo l'ami, il tuo martirio,\ne vi sfiorisci con la tua bellezza.",
+      "provisionalTranslation": "飛ぶとき支えましょうか？……ああ、そんなに\n強く震えないで。──もう何も言わない。──\n涙を、涙を\n黙ってあなたの上に注ごう：\n悲しみの塔に\n閉じこもり、そして心の底でそれを愛しているあなたの上に、あなたの殉教を、\nそしてそこであなたの美しさとともに萎れていくあなたの上に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tu che sussulti a un batter d'ali, ed hai",
+      "body": "6連×7行（42行）、各連の第3行が短行（トリメトロ：3音節〜5音節）として配置される独自の韻律構造。長行（エンデカシラボ）2行→短行→長行4行という「呼吸の停止」パターンが各連で反復される：短行「color di cenere」「la carne fragile」「per trattenerti」「Pel ciel s'inseguono」「che tu sei libera」「Lagrime e lagrime」がそれぞれの連の主題的核心を一語〜数語で凝縮する。詩形式が「沈黙（silenzio）」という主題を模倣する：長い詩行の流れの中に突然現れる短行が、言語の途切れ・息継ぎの停止として詩的沈黙を身体的に体現する。「Malinconia」の二重ABBA韻構造から「Il silenzio」の不規則な韻律（ABABCDC変形）への移行が、詩集内での形式的多様性を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "il nodo del silenzio sulle labbra",
+      "body": "「唇の上の沈黙の結び目（il nodo del silenzio sulle labbra）」──詩全体の中心的形象。「nodo（結び目・絆）」という語が「silenzio（沈黙）」を物理的な縛り・閉塞として具体化する：「La Pietà」の「bocca è sigillata（口が封じられた）」と語彙的に連動する──沈黙は意志的でなく強制的な封印として提示される。「color di cenere（灰色の）」──唇の灰色が死の接近・生命力の枯渇の視覚的標識として機能する：「Autopsia」の「labbra scolorate（色褪せた唇）」・「La Pietà」の「bocca smorta（血の気のない口）」と連動する詩集横断的な「死の唇」系列。ローデンバック「Du Silence」の沈黙の詩学──水・鉛・石としての沈黙の物質的形象──がここでは「nodo（結び目）」という触覚的形象として変奏される。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "da un cilicio nascosto, che flagelli",
+      "body": "「隠された苦行衣（da un cilicio nascosto）」──修道的苦行の実践として用いられた粗い布・針金などを身体に巻く自己苦行の衣（cilicio）への言及。「nascosto（隠された）」という形容詞が苦行の秘密性・私的性格を示す：「Malinconia」の「sordo spavento（鈍い恐怖）」・「La Pietà」の「l'inconfessato orror（告白されぬ恐怖）」と連動する「言語化されない内的苦悩」の系列。「e un'ebbrezza indicibile ti è data / forse dal tuo soffrir senza parola（言葉にできない恍惚があなたに与えられているのかもしれない、言葉なく苦しむあなたの苦悩から）」──「苦悩の恍惚」という逆説的命題が詩の哲学的核心をなす：十字架の聖ヨハネ「Noche Oscura」の神秘主義的「暗夜」における苦悩と歓喜の同一性の世俗的・心理的変奏として読める。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "di scagliare il tuo corpo e il tuo dolore",
+      "body": "「身体と苦悩を窓から投げ出す（di scagliare il tuo corpo e il tuo dolore / dalla finestra）」──詩集『Dal profondo』中で最も直接的に自殺への衝動を描写する行。「finestra（窓）」という具体的な場所が死への衝動の物質的焦点として機能する：「Fantasmi」の「Scendi; — qui v'è la fine（降りておいで；ここに終わりがある）」という亡霊の誘惑が、「Il silenzio」では身体的衝動として内面化される。「ma t'insegnerei, forse, a non morire（でも死なないことを、おそらく、教えることができる）」──語り手の「教える（insegnerei）」という条件法が断言でなく申し出として提示される謙虚さ：「La Pietà」の「abbandònati a me（わたしに身を委ねよ）」という抱擁への招待から、より不確かで控えめな介入へと詩集内での語り手のトーンが変化する。「senza rivolta（反抗なしに）」──「Voce di tenebra」の「ribelle（反逆者）」・「Tu vuoi saper」の「O libertade, o morte」の闘争的語彙と対照的に、「Il silenzio」の女性は「反抗なしに（senza rivolta）」苦しむことへの驚きが表明される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Senti come garriscono le rondini",
+      "body": "「燕がさえずるのを聞け（Senti come garriscono le rondini）」──詩の転換点に置かれた自然の呼びかけ。「Senti（聞け）」という命令形が「Mistica」「Tu vuoi saper」「Rosa appassita」の詩集横断的「Senti」のネットワークに加わる。「bianche e nere（白と黒）」──燕の色彩が詩集のヴァニタス的白黒対比（「Autopsia」の「neri nastri・terribile pallore」）と照応しながら、自然的・生命的文脈に転置される。「Non hai pensato mai che forse un giorno / fosti la rondin che a Novembre fugge / verso il sole（ある日燕だったと思ったことはないか）」──輪廻的・前世的想像が導入される：「Fatalità」の「Forse eterno è il viaggio（おそらく旅は永遠だ）」の永遠の旅の概念が、燕の南北回帰という自然の循環として詩的に変奏される。コヘレト第1章v.6「spiritus...in circulos suos revertitur（風は巡回へと戻る）」の循環運動の詩的具体化として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "come la rondinella del Signore,",
+      "body": "「主の燕のように（come la rondinella del Signore）」──詩篇84（ヴルガータ83）v.4「Etenim passer invenit sibi domum / et turtur nidum sibi（すずめが家を見つけ、つばめが巣を見つける）」への典故。聖書的燕の「Signore（主）」への帰属が、詩の神学的枠組みを確立する：「Mistica」の「Dio mi donò（神は与えた）」・「La Pietà」の「nel nome di Dio（神の名において）」に続く詩集の宗教的言語圏への接続。「e che sol per gioirne Iddio ti diede / l'anima tua piena di raggi, ardente / di sogni, aperta ad ogni pura fede（ただそれを喜ばせるために神があなたに与えた光線に満ちた燃える魂を）」──「Voce di tenebra」の「il respiro d'un Dio forte e sereno / Sento aleggiarmi in seno（力強く穏やかな神の息吹が胸に漂う）」の神の息吹が、ここでは「anima tua（あなたの魂）」への神の贈与として変奏される：魂の自由が神からの贈り物として定義される点で「Tu vuoi saper」の「augello dall'ali possenti（力強い翼の鳥）」に通じながら、より明示的に神学的基盤を持つ。",
+      "targetId": "negri_voce_di_tenebra",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "su te, che in una torre di tristezza",
+      "body": "「悲しみの塔に閉じこもるあなたの上に（su te, che in una torre di tristezza / ti chiudi）」──第1連「rinchiusa in una torre di tristezza（悲しみの塔に閉じこもる）」の反復によって詩が閉じた円環構造をなす：同一のフレーズが冒頭（問いかけの対象）と結末（涙の対象）として反復されることで、詩人の語りかけが女性を変えることなく終わることが示される。「e in fondo l'ami, il tuo martirio（心の底で愛しているあなたの殉教を）」──「苦悩を愛する」という逆説が第2連の「ebbrezza indicibile（言葉にできない恍惚）」の心理的説明として機能する：苦悩への愛着が自発的な沈黙の根拠として提示される。「e vi sfiorisci con la tua bellezza（そこであなたの美しさとともに萎れていく）」──「sfiorire（萎れる）」という動詞が「Rosa appassita（萎れた薔薇）」・「Malinconia」の「grazia d'appassita rosa（萎れた薔薇の優雅さ）」と語根的に連動する：萎れることが詩集全体の時間的・美的モティーフとして完成される。「Vuoi ch'io ti regga al volo?... Oh, non tremare（飛ぶとき支えましょうか）」からの「Lagrime e lagrime / io verserò su te senza parlare（涙を涙を黙ってあなたの上に注ごう）」への転換が、言語の断念と沈黙による共感の表明として詩を閉じる：詩人が「沈黙（silenzio）」という主題をついに自らの語り手の姿勢として引き受ける詩的・倫理的完結。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    }
+  ]
+}
