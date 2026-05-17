@@ -1,0 +1,138 @@
+{
+  "id": "negri_un_fratello",
+  "title": "Un fratello",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Un_fratello",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）冒頭詩。「Un fratello（一人の兄弟）」は路上の浮浪者に向けられた対話詩であり、詩集『Fatalità』（1895）から15年を経た成熟したネグリの詩的語法を示す。51行のversi sciolti（無韻白詩）、連区切りなし。語り手は自らを「Forse ti sembro / più bella adesso（今のわたしはおそらくお前より美しく見える）」「sottil guaina di velluto fulvo / che mi fa somigliare a una pantera（豹に似た細い黄褐色のビロードの鞘）」と描写し、社交的外見の下に「Sono rimasta zingara（わたしはジプシーのままだ）」という根源的同一性を保持することを告白する。浮浪者の男を「Non io, che son della tua razza（わたしはそうでない、わたしはお前の種族の者だから）」として認識する階級横断的連帯の宣言でありながら、「E t'invidio（そしてわたしはお前をうらやむ）」という逆説的裏羨望が詩の核心に置かれる：社会的成功を手に入れた詩人が、「父もなく母もなく兄弟もなく」「Asilo Notturno（夜間収容施設）に泊まり」「世界全体を家とする」浮浪者の自由を羨む。「Domani puoi senza rimorso ucciderti（明日悔いなく自殺することもできる）」という語句が死の選択肢を浮浪者の自由の極限として提示し、「col mistero di sè, fino alla morte（それぞれ自分の神秘を持ちながら、死に至るまで）」という結語で孤立の普遍性として閉じる。『Fatalità』の「zingara selvaggia」が成熟した詩人の「Sono rimasta zingara」として回帰する詩集間の自伝的連続性を示す詩として、ネグリの詩的アイデンティティの長期的一貫性を示す重要テキスト。",
+  "keywords": [
+    "兄弟",
+    "浮浪者",
+    "zingara",
+    "羨望と自由",
+    "パンテラ",
+    "Asilo Notturno",
+    "階級横断的連帯",
+    "金のブレスレット",
+    "首縄",
+    "versi sciolti"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "negri_voce_di_tenebra",
+    "negri_autopsia",
+    "baudelaire_danse_macabre",
+    "rilke_der_panther",
+    "weil_la_violence",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Ti fui compagna per le ignote strade\ndel mondo e all'ombra dei crocicchi, in una\nvita lontana che fu mia, fu mia\ncome questa non già che s'attorciglia\nal mio collo e al mio cor, segni imprimendo\ndi ferro e corda nelle nude carni.",
+      "provisionalTranslation": "わたしはお前の仲間だった、世界の\n知られざる道々と、十字路の影で、\n遠い日々のある生において、それはわたしのものだった、わたしのものだった、\n今のこの生のようにではなく、首と心に巻きつき、\n裸の肉に\n鉄と縄の跡を刻み込むような。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Avevi, come adesso, una giacchetta\nlogora, un viso a lama di coltello,\nuna bocca di fame e di sarcasmo;\ne andavi senza meta, e andavi senza\ndolore, solo con la tua miseria,\ne gran signore della libertà.",
+      "provisionalTranslation": "お前は今と同じように、すり切れた\n上着を着て、ナイフの刃のような顔をして、\n飢えと皮肉の口をして；\n目的もなく歩き、苦しみもなく歩いた、\nただ自分の惨めさだけを持ちながら、\n自由の偉大な主として。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Lo so. — Per te non c'era e non c'è posto\nnel mondo disegnato a quadratini\nben distinti, con cifre di classifica\nben chiare. — V'è qualcuno che ti crede\nun barbaro — e ti esecra — ed ha paura\ndi te. — Non io, che son della tua razza.",
+      "provisionalTranslation": "わかっている。──お前のための場所はなかったし、今もない\n細かい四角で整然と区画され、\n分類の数字が明瞭な\nあの世界には。──お前を野蛮人と思い\n呪い──恐れている者がいる。──わたしはそうでない、\nわたしはお前の種族の者だから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–29",
+      "original": "Non mi conosci più?... Forse ti sembro\npiù bella adesso, flessuosa nella\nsottil guaina di velluto fulvo\nche mi fa somigliare a una pantera.\nSo pettinarmi a onde, con la grazia\ndelle dame che passano in carrozza;\ne fingere il sorriso, anche nell'ore\ndello strazio, e mentire una promessa,\ne offrir la mano e il thè, soavemente,\na chi, se volga il dorso alla mia soglia,\nfa la mia vita ed il mio nome a brani.",
+      "provisionalTranslation": "もうわたしがわからないか？……今のわたしはおそらく\nより美しく見える、豹に似た\n細い黄褐色のビロードの鞘の中にししなやかに身を包んで。\n馬車で通り過ぎる令嬢たちの優雅さで\n波打つように髪を梳かすことができる；\nそして苦悩の時間にも微笑みを\n装い、約束を偽り、\n優しく手とお茶を差し出すことができる、\nわたしの玄関に背を向ければ\nわたしの生と名前をずたずたにする者にも。"
+    },
+    {
+      "id": 5,
+      "verses": "v.30–36",
+      "original": "Ho braccialetti d'oro; ma mi pesano\nai polsi. Ho una collana di rubini,\nma non la metto, chè mi par la riga\nvermiglia incisa dal capestro al collo\nd'un \"sospettato\" del Novantatrè.\nSono rimasta zingara, nel fondo\ndel cuore. — Non si mente al proprio sangue.",
+      "provisionalTranslation": "金のブレスレットを持っている；しかし手首に重い。\nルビーの首飾りを持っている、\nしかも身につけない、九三年の\n「容疑者」の首に\n絞首縄が刻んだ赤い線のように見えるから。\nわたしはジプシーのままだ、心の\n奥底で。──自分の血に嘘はつけない。"
+    },
+    {
+      "id": 6,
+      "verses": "v.37–42",
+      "original": "E t'invidio.... Tu sei libero e forte:\nnon hai padre, nè madre, nè fratelli\nche vivano di te, che al tuo destino\ns'aggrappino: il tuo letto è nell'Asilo\nNotturno: la tua casa è tutto il mondo.\nDomani puoi senza rimorso ucciderti,",
+      "provisionalTranslation": "そしてわたしはお前をうらやむ……お前は自由で力強い：\n父もなく、母もなく、兄弟もいない、\nお前に依存し、お前の運命に\nしがみつく者が：お前の寝床は夜間収容施設にある：\nお前の家は世界全体だ。\n明日、悔いなく自殺することもできる、"
+    },
+    {
+      "id": 7,
+      "verses": "v.43–51",
+      "original": "per compiere una tua vendetta oscura\ncontro la vita. — Amare anche tu puoi,\nuna donna o un'idea perdutamente\namare; e viver per l'amor tuo grande,\npoi che intatto ti resta il tempo e il sogno.\nForte e libero tu fra tanti schiavi,\naddio. Colei che passa è tua sorella;\nma la folla l'inghiotte — e ognun va solo\ncol mistero di sè, fino alla morte.",
+      "provisionalTranslation": "生に対するお前の暗い復讐を\n遂げるために。──愛することもできる、\n一人の女か一つの思想を狂おしく\n愛し；そして偉大な愛のために生きることができる、\n時間と夢がそっくりお前に残るのだから。\n多くの奴隷のあいだで力強く自由なお前よ、\nさようなら。通り過ぎるその女はお前の姉妹だ；\nしかし群衆が彼女を飲み込む──そして誰もが一人で行く\nそれぞれ自分の神秘を持ちながら、死に至るまで。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ti fui compagna per le ignote strade",
+      "body": "「わたしはお前の仲間だった、知られざる道々で（Ti fui compagna per le ignote strade）」──詩の開口部に置かれた過去の共同体の記憶。「Ti fui compagna（お前の仲間だった）」という過去遠称が「Una vita lontana（遠い日々の生）」として現在と切断された過去を設定する：「Fatalità」詩集の「Sventura」が「Ti seguirò costante ovunque andrai（お前がどこへ行っても絶えずついてゆく）」と語りかけたのとは対照的に、「Un fratello」では語り手が過去の道を「仲間」として語りかける逆転した構造。「s'attorciglia / al mio collo e al mio cor（首と心に巻きつく）」──「attorciglia（絞る・巻きつく）」という動詞が「di ferro e corda nelle nude carni（裸の肉に鉄と縄の跡）」と連動し、現在の社会的地位を拘束の身体的形象として提示する：「Autopsia」の「braccialetti d'oro（金のブレスレット）」が手首に重くのしかかるのと同型の、物質的豊かさを鎖として感じる詩的感性の一貫性。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "di ferro e corda nelle nude carni.",
+      "body": "versi sciolti（無韻白詩）形式。11音節（エンデカシラボ）を基調とする連区切りのない51行詩。『Fatalità』（1895）の規則的連形式・末行リフレイン・三段インデントといった形式的緊張から離れ、散文に近い流動的な語りの詩法へと移行した『Dal profondo』（1910）の文体的成熟を示す。リルケ「Duineser Elegien」の長い無韻詩行との詩的親近性：内面の独白・思考の流れを形式的拘束なく詩的言語として定着させる試み。「segni imprimendo / di ferro e corda nelle nude carni（裸の肉に鉄と縄の跡を刻み込む）」──「imprimendo（刻み込みながら）」という現在分詞が継続的行為を示す：拘束は過去完了ではなく現在進行形として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "una bocca di fame e di sarcasmo;",
+      "body": "「飢えと皮肉の口（una bocca di fame e di sarcasmo）」──『Fatalità』「Autopsia」の「Cerca nel ventre mio, cerca l'orrendo Mistero della fame（飢えの恐ろしい神秘を探せ）」との直接的語彙照応。「fame（飢え）」が「Autopsia」では解剖台上の死者の腹に宿る「神秘」として、「Un fratello」では浮浪者の生ける口の属性として、同一語彙が貧困の二つの形象──死後の身体と生ける存在──を連結する。「e gran signore della libertà（自由の偉大な主として）」──「gran signore（偉大な主）」という貴族的称号が貧困者に適用される修辞的逆転。「senza meta（目的なく）・senza dolore（苦しみなく）」という二重の「senza（なし）」が「Autopsia」の「senza nome・senza casa・senza bacio」の剥奪の系列を逆転させる：ここでの「なさ」は剥奪でなく自由として提示される。",
+      "targetId": "negri_autopsia",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Non io, che son della tua razza.",
+      "body": "「わたしはそうでない、わたしはお前の種族の者だから（Non io, che son della tua razza）」──詩全体の中核宣言。「razza（種族・血統）」という語が階級的・生物的カテゴリーを超えた精神的・気質的共同性として定義される。「V'è qualcuno che ti crede / un barbaro（お前を野蛮人と思う者がいる）」──「barbaro」という語の二重性：ローマ的文明観における「野蛮」と、ゴーティエ・ボードレール的ダンディズムにおける「野性の美の肯定」。「Voce di tenebra」で「闇の声」が語りかけた「O zingara selvaggia（野生のジプシーよ）」が、ここでは浮浪者に向けられる「della tua razza（お前の種族）」の相互承認として変奏される：詩集間の自己同一性の確認。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の「世代」が「razza（種族）」として詩人のアイデンティティの垂直的連続性へと変換される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "che mi fa somigliare a una pantera.",
+      "body": "「豹に似た（che mi fa somigliare a una pantera）」──詩集内で最も強烈な動物的自己形象化。リルケ「Der Panther」の閉じ込められた豹が「力強い柔らかな歩み」で檻の中を巡るのとは対照的に、ネグリの「pantera」は社交的外見を「guaina（鞘）」として豹の肉体を包んだ形象として機能する：檻に閉じ込められた豹（リルケ）vs. 皮として豹の形をまとった詩人（ネグリ）という二つの豹の比喩の対比的照応。「e fingere il sorriso, anche nell'ore / dello strazio（苦悩の時間にも微笑みを装い）」──社会的な「偽り（fingere・mentire）」の連鎖が「Autopsia」の「corpo venduto（売られた身体）」の商品化の延長として機能する。「a chi…fa la mia vita ed il mio nome a brani（わたしの生と名前をずたずたにする者にも）」──社交的服従の暴力性の暴露。",
+      "targetId": "rilke_der_panther",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "vermiglia incisa dal capestro al collo",
+      "body": "「絞首縄が刻んだ赤い線（vermiglia incisa dal capestro al collo）」──詩集内最も政治的に明示的な行。「d'un sospettato del Novantatrè（九三年の容疑者）」──「Novantatrè（九三年）」はフランス革命恐怖政治の1793年への直接的典故：ギロチン・絞首縄による革命的処刑の記憶が「collana di rubini（ルビーの首飾り）」の「vermiglia（赤い）」色に投影される。ヴィクトル・ユゴー「Quatrevingt-treize（九三年）」（1874）への文学的照応として、ネグリの社会主義的背景が詩的イメージに刻印される。「Sono rimasta zingara, nel fondo / del cuore（わたしはジプシーのままだ、心の奥底で）」──「Voce di tenebra」の「O zingara selvaggia（野生のジプシーよ）」（1895）が15年後に「rimasta（残った）」という完了の語で再確認される：外的変容の下での内的同一性の持続。",
+      "targetId": "negri_voce_di_tenebra",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "il tuo letto è nell'Asilo",
+      "body": "「お前の寝床は夜間収容施設にある（il tuo letto è nell'Asilo Notturno）」──具体的な社会制度名の詩への導入。「Asilo Notturno（夜間収容施設）」はイタリア近代化の中で設立された貧困者・浮浪者のための無料宿泊施設：固有名詞の導入が詩の言語を社会的リアリズムへと引き寄せる。「la tua casa è tutto il mondo（お前の家は世界全体だ）」──「Fantasmi」の「E t'invidio（お前をうらやむ）」の前段として、境界のなさが自由として提示される。「Domani puoi senza rimorso ucciderti（明日、悔いなく自殺することもできる）」──「Fantasmi」の亡霊たちの「sol nel nulla è pace（虚無の中にのみ平和がある）」という誘惑が、ここでは「rimorse（悔い）なき」自由の極限形として提示される：死の選択肢が恐怖でなく羨望の対象となる詩人の複雑な心理。ヴェイユ「La Violence」の「力から解放された者のみが真に選択できる」という命題との照応。",
+      "targetId": "negri_fantasmi",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "col mistero di sè, fino alla morte.",
+      "body": "「それぞれ自分の神秘を持ちながら、死に至るまで（col mistero di sè, fino alla morte）」──詩全体の結語であり詩集『Dal profondo』の冒頭詩にふさわしい存在論的命題。「mistero di sè（自分の神秘）」という語が「Autopsia」の「Mistero della fame / Mistero del dolore（飢えの神秘・苦悩の神秘）」の外部化された神秘から、各人が「自分の（di sè）」内部に保持する神秘の内面化へと移行することを示す：詩集間での「神秘（mistero）」概念の深化。「Colei che passa è tua sorella（通り過ぎるその女はお前の姉妹だ）」──語り手の自己を三人称「Colei（その女）」として距離化することで、詩の「わたし」が客体として群衆に飲み込まれる瞬間が詩的に実現される。「ognun va solo（誰もが一人で行く）」──コヘレト第4章v.10「Vae soli（一人の者は哀れ）」の孤独が、ここでは普遍的条件として中立的に宣言される。「fino alla morte（死に至るまで）」という結語が「Voce di tenebra」の「Più grande ancor se vinta（たとえ敗れても一層偉大だ）」の戦闘的肯定から、存在論的に静かな死の受容へと詩人の位相の変容を示す。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
