@@ -1,0 +1,135 @@
+{
+  "id": "negri_il_segreto",
+  "title": "Il segreto",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Il_segreto",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「Il segreto（秘密）」は「Il silenzio」の直後に配置された姉妹詩であり、ひと言も語らずに死んだ無名の女性の遺体を詩的観察の対象とした28行（4行×7連）の作品。「La Pietà」が臨死の女性への慰撫として書かれたのに対し、「Il segreto」は死後の観察として書かれる：語り手は生きていた存在の沈黙の謎──「言われなかった言葉（la parola che non fu mai detta）」・「明かされなかった夢（il sogno che non fu svelato）」──を詩的探索の対象とする。ABBA包囲韻（quatrain）を基本とする7連の形式。詩は三部に分かれる：第1–2連（遺体の情景描写・薔薇・白髪・腐敗の始まり）、第3–5連（閉じた口の「suprema accusa（至高の告発）」への推測と「il mister（神秘）」の永続）、第6–7連（「la parola che non fu mai detta（決して言われなかった言葉）」が「tace in eterno（永遠に沈黙し）、ed in eterno aspetta（永遠に待つ）」という二重の永続として閉じる）。「Autopsia」が死者を告発の主体として語らせたのに対し、「Il segreto」では死者は永遠に沈黙し、秘密は永遠に開かれない：詩集『Fatalità』から『Dal profondo』への詩的成熟において、告発的・直接的な声から、不可知な内面への敬虔な注視へと詩の倫理が移行したことを示す詩として位置づけられる。",
+  "keywords": [
+    "秘密",
+    "言われなかった言葉",
+    "永遠の沈黙",
+    "遺体",
+    "告発の口",
+    "mister",
+    "腐敗",
+    "薔薇と死",
+    "ABBA韻",
+    "Dal profondo"
+  ],
+  "relatedTexts": [
+    "negri_il_silenzio",
+    "negri_autopsia",
+    "negri_la_pieta",
+    "rodenbach_du_silence",
+    "rodenbach_douceur_du_souvenir",
+    "rossetti_c_dead_before_death",
+    "hieronymus_ecclesiastes_1",
+    "mallarme_sonnet_yx"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Spirò stanotte, senza dir parola.\nChi su lei pianse la coprì di rose\nbianche, e i capelli in fronte le compose,\npoi la lasciò nel gran silenzio sola.",
+      "provisionalTranslation": "今夜、ひと言も言わずに息絶えた。\n彼女の上に泣いた者が薔薇で覆った\n白い薔薇で、そして額の前で髪を整え、\nそして大いなる沈黙の中にひとりにして立ち去った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Già intorno agli occhi e a le mascelle forti\nsi decompone il glacïal pallore.\nOdor d'ambra e di ceri: odor di fiore\nsfatto — e la calma estatica dei morti.",
+      "provisionalTranslation": "もう眼の周りと強い顎のまわりで\n氷のような蒼白が分解し始めている。\n琥珀と蝋燭の香り：散った花の\n香り──そして死者の恍惚の静けさ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ma la bocca che tace è però chiusa\nsinistramente, un po' contratta, come\npietrificata su un lamento, un nome\ncaro, un comando, una suprema accusa.",
+      "provisionalTranslation": "しかし黙っている口はそれでも閉じている\n不吉に、少し引き攣れて、まるで\n嘆き声の上に、愛しい\n名前の上に、命令の上に、至高の告発の上に石化したかのように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Chi sa?... Volea la moribonda, forse,\nd'un pesante segreto finalmente\npurificarsi l'anima, languente\nda tanto tempo tra le ferree morse",
+      "provisionalTranslation": "誰が知ろうか？……瀕死の者はおそらく、\n重い秘密からついに\n魂を浄化したかったのだ、ずっと前から\n鉄の顎で挟まれ弱っていた魂を"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "del silenzio: volea per la sua pace\nultima, forse, chiedere perdono,\no dir, chiudendo gli occhi: \"Io ti perdono....\"\n....Ma in cor per sempre il suo mister le giace.",
+      "provisionalTranslation": "沈黙の：おそらく最後の平和のために\n許しを求めたかったのかもしれない、\nまたは瞳を閉じながら言いたかったのかもしれない：「わたしは許す……」\n……しかし心の中に、永遠に、彼女の神秘が横たわる。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Sta fra i neri capelli il sigillato\nvolto sì dolce un giorno, e par che dorma,\ne par che avvolga la marmorea forma\nl'ombra del sogno che non fu svelato:",
+      "provisionalTranslation": "黒い髪のあいだに封印された\nある日とても甘かったあの顔がある、眠っているように見え、\nそして大理石の形を包んでいるように見える\n明かされなかった夢の影が："
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "sta la parola che non fu mai detta\nsulla bocca di spasimo e di pietra:\ndura, solenne, appassionata, tetra,\ntace in eterno, ed in eterno aspetta.",
+      "provisionalTranslation": "決して言われなかった言葉がある\n苦悶と石の口の上に：\n硬く、荘厳に、情熱的に、暗く、\n永遠に沈黙し、永遠に待ち続ける。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Spirò stanotte, senza dir parola.",
+      "body": "7連×4行（28行）、ABBA包囲韻を基調とする quatrain 形式。第1連「parola(A)・rose(B)・compose(B)・sola(A)」、第7連「detta(A)・pietra(B)・tetra(B)・aspetta(A)」──冒頭「parola（言葉）」と結末「detta（言われた）」「aspetta（待つ）」という「言葉」の語彙が詩の開閉を支配する。「Il silenzio」との直接的連続性：両詩がともに「沈黙（silenzio）」を主題とし、「Il silenzio」では生きている女性の沈黙が、「Il segreto」では死者の沈黙が扱われる。形式的対比：「Il silenzio」の6連×7行（短行を含む不規則形式）から「Il segreto」の7連×4行（均質な四行詩）への転換が、生者の乱れた呼吸から死者の整然とした静止へという主題的移行を形式的に体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "poi la lasciò nel gran silenzio sola.",
+      "body": "「大いなる沈黙の中にひとりにして立ち去った（poi la lasciò nel gran silenzio sola）」──詩全体の主題語「silenzio（沈黙）」が第1連末行に置かれることで、詩の主題が冒頭から確立される。「gran silenzio（大いなる沈黙）」──「il silenzio」の定冠詞から「gran silenzio」への転換が、死の沈黙を個人的・特定的な沈黙の超越として定義する。「Spirò stanotte（今夜息絶えた）」──「spirare」は「息をする・絶命する」の二義を持つイタリア語動詞：「senza dir parola（ひと言も言わずに）」との組み合わせが「最後の息」と「言葉の不在」を重ねる。「rose bianche（白い薔薇）」──「Rosa appassita（萎れた薔薇）」・「La Pietà」の「rose senza stelo（茎のない薔薇）」に続く詩集の薔薇系譜の最終形として、死者に捧げられた白い薔薇が置かれる。",
+      "targetId": "negri_rosa_appassita",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "e la calma estatica dei morti.",
+      "body": "「死者の恍惚の静けさ（la calma estatica dei morti）」──「estatica（恍惚的）」という形容詞が死の静寂に宗教的・神秘的次元を付与する。「Odor d'ambra e di ceri: odor di fiore / sfatto（琥珀と蝋燭の香り：散った花の香り）」──嗅覚による死の描写が「Rosa appassita」の「Il penetrante balsamo / De la sfiorita rosa（散った薔薇の鋭く染み込む香り）」と直接照応する：死の香りの詩集横断的系列として機能する。「si decompone il glacïal pallore（氷のような蒼白が分解し始めている）」──腐敗の過程の直接的描写が「Autopsia」の「fracidi corpi（腐った屍）」のより早い段階として機能する：「Autopsia」は腐敗の完了を、「Il segreto」は腐敗の開始を描写する。「glacïal（氷のような）」──「Fantasmi」の「l'algida luna（冷たい月）」と連動する詩集横断的「冷たさ」の語彙圏。",
+      "targetId": "negri_autopsia",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "pietrificata su un lamento, un nome",
+      "body": "「嘆き声の上に石化した（pietrificata su un lamento）」──口の石化という形象が詩全体の核心的視覚的定式。「bocca...pietrificata（石化した口）」がマラルメ的「意味の凝固・凍結」の詩的変奏として機能する：言われなかった言葉が「石」として口の内部で固化するという形象。「un lamento, un nome / caro, un comando, una suprema accusa（嘆き・愛しい名前・命令・至高の告発）」──四つの可能性の列挙が「chi sa（誰が知ろうか）」という不可知性の宣言を先取りする：これらは相互排他的でなく、沈黙の中に同時に含まれる複数の言葉の可能性として提示される。「suprema accusa（至高の告発）」──「Autopsia」の「rantolo affannato / Di maledizïone（呪いの苦しい喘鳴）」という死の告発と語義的に照応しながら、ここでは「accusa」が石化された可能性として言語化されない形で留まる点で対照的。",
+      "targetId": "negri_autopsia",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "....Ma in cor per sempre il suo mister le giace.",
+      "body": "「心の中に永遠に彼女の神秘が横たわる（in cor per sempre il suo mister le giace）」──詩全体の哲学的核心命題。「mister（神秘）」はMASTERの詩的短縮形ではなくMISTERO（神秘）の詩的省略形：「Autopsia」の「Mistero della fame・Mistero del dolore」・「Rosa appassita」の「Mister di luce e d'ombra」・「Un fratello」の「col mistero di sè（自分の神秘を持ちながら）」と連動する詩集横断的「神秘」語彙圏の最後の反響。「per sempre（永遠に）」という副詞が「Chi sa（誰が知ろうか）」という認識論的問いへの答えとして機能する：神秘は永遠に解けない。「o dir, chiudendo gli occhi: Io ti perdono（瞳を閉じながら言いたかった：わたしは許す）」──「perdono（許し・許す）」という語が「Il silenzio」の「tristi, quasi chiedessero perdono（まるで許しを乞うかのような）」と直接照応する：生者の眼が許しを乞うのに対し、死者の口は許しを言えないまま閉じる。",
+      "targetId": "negri_il_silenzio",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "l'ombra del sogno che non fu svelato:",
+      "body": "「明かされなかった夢の影（l'ombra del sogno che non fu svelato）」──詩の第三部（v.21–28）における「不在」の詩学の確立。「non fu svelato（明かされなかった）」・直後の「non fu mai detta（決して言われなかった）」という二つの否定の過去が詩の結語部全体を支配する：あったかもしれないが言語化されなかった「夢」と「言葉」の永続的不在。「la marmorea forma（大理石の形）」──遺体が大理石彫刻として定義されることで、ミケランジェロのピエタ彫刻への再照応が生まれる：「La Pietà」の臨死女性の抱擁が「La Pietà」のピエタ的形象として、「Il segreto」の死者は大理石として──両者がミケランジェロ的石の詩学を共有する。マラルメ「Sonnet en yx」の「sépulcre（墓）」・「ptyx」の不在の物質化という詩的空間との照応：言語化されない謎がある形式的空間の中に永続する。",
+      "targetId": "mallarme_sonnet_yx",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "tace in eterno, ed in eterno aspetta.",
+      "body": "「永遠に沈黙し、永遠に待ち続ける（tace in eterno, ed in eterno aspetta）」──詩全体の結語であり詩集『Dal profondo』の「沈黙」テーマの最も完結した定式。「in eterno...in eterno」の反復が「永遠性」という時間的次元の二重強調として機能する：「Il silenzio」の「Lagrime e lagrime（涙を涙を）」の感情的反復から、「Il segreto」の「in eterno...in eterno」の哲学的反復への移行が詩集内での主題の深化を示す。「tace（沈黙する）」と「aspetta（待つ）」という二動詞の対置──沈黙は「能動的」な待機として定義される：コヘレト第3章v.1「Omnia tempus habent（すべての事に時がある）」の時間的秩序への照応として、言われなかった言葉がその「時」を永遠に待ち続けるという詩的論理。「dura, solenne, appassionata, tetra（硬く、荘厳に、情熱的に、暗く）」という四形容詞が末行直前の第3行（v.27）を満たす：ヴェルレーヌ「Chanson d'automne」の形容詞の音楽的列挙の変奏として、「言われなかった言葉」の性質を四次元で定義する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    }
+  ]
+}
