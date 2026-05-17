@@ -1,0 +1,117 @@
+{
+  "id": "negri_rose_rosse",
+  "title": "Rose rosse",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Rose_rosse",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）所収。「Rose rosse（赤い薔薇）」は49行、4部構成の詩であり、血の色の薔薇を媒介として愛・喪失・時間の不可逆性を瞑想する。詩は二つの薔薇を中心に展開する：庭に咲く「Rose color di sangue（血の色の薔薇）」（第1–2部）と語り手の「cuore（心臓）」に同一化された内面の薔薇（第3–4部）。各部が内部リフレイン構造を持つ：第1部「Rose color di sangue / fioriscono in giardino（血の色の薔薇が庭に咲く）」が冒頭と末尾に、第2部「tragiche come divelti cuori（引き裂かれた心のように悲劇的）」が冒頭と末尾に、第3部「solo / ove il verde è più folto（緑が最も繁る所にひとりで）」が冒頭と末尾に反復されることで各部が閉環する。第4部は「è tardi, è troppo tardi（遅い、あまりに遅すぎる）」という孤立した結語行で時間の不可逆性が宣告される。韻律は七音節（settenario）を基調とする短行の連続であり、『Fatalità』の長行詩から離れた凝縮・精緻な語法を示す。「Malinconia」の「o gioja breve（つかの間の喜びよ）」・「Il silenzio」の「rondinella del Signore」の燕と同じ五月の生命感が、本詩では「Sbocciò fra un raggio e un battito / d'ali e un ronzìo di maggio-lino（光の一筋と翼のはばたきと五月鳥のさえずりのあいだに咲いた）」として詩的頂点をなす。",
+  "keywords": [
+    "赤い薔薇",
+    "血の色",
+    "引き裂かれた心",
+    "è tardi",
+    "心臓の再生",
+    "五月",
+    "内部リフレイン",
+    "時間の不可逆",
+    "愛の喪失",
+    "Dal profondo"
+  ],
+  "relatedTexts": [
+    "negri_rosa_appassita",
+    "negri_malinconia",
+    "negri_il_segreto",
+    "gautier_la_rose_the",
+    "rilke_das_roseninnere",
+    "rodenbach_du_silence",
+    "hieronymus_ecclesiastes_1",
+    "valery_le_vin_perdu"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "original": "Rose color di sangue\nfioriscono in giardino.\n....Il sole a tratti sfolgora\ndalle nubi — e si cela: —\nun'afa ardente vela\nla purità dell'aria\nche vibra di fermenti\nacuti e d'echi spenti,\ne attossica il silenzio\nd'un languore felino.\n.... Rose color di sangue\nfioriscono in giardino.",
+      "provisionalTranslation": "血の色の薔薇が\n庭に咲く。\n……太陽が雲の間から\nところどころ輝き──そして隠れる：──\n燃えるような蒸し暑さが\n空気の純粋さを\n覆う、鋭い発酵と\n消えたこだまで振動し、\n沈黙を毒する\n猫のような倦怠感で。\n……血の色の薔薇が\n庭に咲く。"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–24",
+      "original": "Purpuree sono, e tragiche\ncome divelti cuori.\nOh, perchè mai non gocciola\nsulle foglie e sull'erba\nil flusso dell'acerba\nferita?... O forse l'aria\nlo beve avidamente,\ne per esso è vivente,\ne per esso t'inebria\ncol ricordo di amori\nperduti?... — O rose, tragiche\ncome divelti cuori!...",
+      "provisionalTranslation": "紫紅色で、悲劇的だ\n引き裂かれた心のように。\nああ、なぜ葉と草の上に\n滴らないのか\n辛い傷の\n流れが？……あるいはおそらく空気が\n貪欲に飲み込み、\nそれによって生き生きとして、\nそれによってお前を陶酔させる\n失われた愛の\n記憶で？……──おお薔薇よ、悲劇的な\n引き裂かれた心のように！……"
+    },
+    {
+      "id": 3,
+      "verses": "v.25–36",
+      "original": "V'è il mio fra essi. — È solo\nove il verde è più folto.\nSbocciò fra un raggio e un battito\nd'ali e un ronzìo di maggio-\n-lino, in questo bel Maggio\nd'amor, senza saperlo.\nDi novella prestanza,\ndi novella baldanza\nsi avviva — e del disìo\nd'esser côlto — e travolto. —\n.... Rinato è il cuore — solo,\nove il verde è più folto.",
+      "provisionalTranslation": "わたしの心がそこにある。──ひとりで\n緑が最も繁る所に。\n光の一筋と翼の\nはばたきとマヨリーノ鳥の\nさえずりのあいだに咲いた、この美しい\n愛の五月に、知らぬまに。\n新たな強さで、\n新たな大胆さで\n生き生きとよみがえる──そして摘まれ──\n押し流されたいという欲望で。──\n……心臓は再び生まれた──ひとりで、\n緑が最も繁る所に。"
+    },
+    {
+      "id": 4,
+      "verses": "v.37–49",
+      "original": ".... Rosa d'ebbrezza, flammea\nrosa del sogno, è tardi.\nPerchè non puoi rinascere\nogni giorno, ogni giorno\ncon grazie fresche — e intorno\na te fiori sbocciare,\ne rondini garrire,\ne le frasche stormire,\ne la vita rinfonderti\ni suoi succhi gagliardi\neternamente?...\nO cuore,\nè tardi, è troppo tardi....",
+      "provisionalTranslation": "……恍惚の薔薇よ、炎のような\n夢の薔薇よ、遅い。\nなぜ再び生まれることができないのか\n毎日、毎日\n新鮮な優雅さで──そして周りに\n花が咲き、\n燕がさえずり、\n木の葉がざわめき、\n命がお前に注ぎ込む\n力強い液汁を\n永遠に？……\nおお心臓よ、\n遅い、あまりに遅すぎる……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Rose color di sangue",
+      "body": "49行、7音節（settenario）を基調とする短行の連続。4部構成、各部が内部リフレイン（冒頭行と末尾行の反復・変奏）で閉環する：第1部「Rose color di sangue / fioriscono in giardino」が冒頭(v.1–2)と末尾(v.11–12)に、第2部「tragiche / come divelti cuori」が冒頭(v.13–14)と末尾(v.23–24)に、第3部「solo / ove il verde è più folto」が冒頭(v.25–26)と末尾(v.35–36)に反復される。この内部閉環構造は「Malinconia」の各連内部リフレイン（「Malinconia dei primi」・「Piccola donna stanca」等）と同型の詩集全体のレトリック的一貫性を示す。第4部のみリフレインを持たず「è tardi, è troppo tardi（遅い、あまりに遅すぎる）」という孤立した2行コーダで終わる：前3部の美的閉環が第4部で崩れることで、時間の不可逆性という主題が形式的に体現される。韻律：リルケ「Das Roseninnere（薔薇の内部）」の薔薇の内奥への視線との詩的親近性。",
+      "targetId": "rilke_das_roseninnere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "d'un languore felino.",
+      "body": "「猫のような倦怠感（languore felino）」──「felino（猫のような・猫科の）」という形容詞が官能的・捕食的な怠惰さを示す：「Un fratello」の「pantera（豹）」に続く詩集内の猫科動物の系列。「e attossica il silenzio（沈黙を毒する）」──「attossica（毒する）」という動詞が「Il segreto」の「il gran silenzio（大いなる沈黙）」・「Il silenzio」の「nodo del silenzio（沈黙の結び目）」と連動する詩集横断的「沈黙」語彙圏を「毒」という新たな次元で拡張する。「Il sole a tratti sfolgora / dalle nubi — e si cela（太陽が雲の間からところどころ輝き、そして隠れる）」──「Viaggio notturno」の「la luna（月）」の不吉な覗き見とは対照的な、隠れる太陽のイメージ：コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へ戻る）」の循環的太陽が本詩では雲に隠れる間欠的姿として変奏される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "il flusso dell'acerba",
+      "body": "「辛い傷の流れ（il flusso dell'acerba / ferita）」──「acerba ferita（辛い傷）」という詩的表現が血の流れとして薔薇の赤色を傷口の血として定義する：「Rose color di sangue（血の色の薔薇）」という冒頭行の比喩が第2部で「divelti cuori（引き裂かれた心）」の傷の血として展開される。「Purpuree sono, e tragiche / come divelti cuori（紫紅色で、悲劇的だ、引き裂かれた心のように）」──「divelti（引き抜かれた・引き裂かれた）」という分詞が薔薇と心臓の二重の「引き裂き」として機能する：「Il segreto」の「pietrificata su un lamento（嘆きの上に石化した）」の凍結と対照的な、流血・溢出の形象。「e per esso t'inebria / col ricordo di amori / perduti（それによってお前を陶酔させる、失われた愛の記憶で）」──「ebbrezza（恍惚）」の語彙が「Tu vuoi saper」の「Nel delirio del sole ebbro（太陽の狂乱の中で酩酊し）」・「Malinconia」の「L'ebbrezza de la morte（死の恍惚）」と連動する詩集横断的「陶酔」系列に接続される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sbocciò fra un raggio e un battito",
+      "body": "「光の一筋と翼のはばたきのあいだに咲いた（Sbocciò fra un raggio e un battito / d'ali）」──詩集『Dal profondo』中で最も軽やかな生命誕生の形象。「raggio（光の一筋）」・「battito d'ali（翼のはばたき）」・「ronzìo di maggio-lino（五月鳥のさえずり）」という三つの感覚的細部が心臓の再生の瞬間を視聴覚的に定着させる。「maggio-lino」──ハイフンが行をまたいで切断される詩的切断（spezzatura）：「d'ali e un ronzìo di maggio- / -lino」という語の中断が視覚的・音響的に鳥のさえずりの断続性を模倣する。「Di novella prestanza / di novella baldanza（新たな強さで、新たな大胆さで）」──「novella（新しい）」の二重反復が心臓の再生の新鮮さを強調する：「Malinconia」の「meglio è morire（死ぬほうがよい）」の死への傾斜とは対照的な、生の再生への希望。しかしこの希望は第4部の「è tardi（遅い）」によって直ちに否定される。",
+      "targetId": "negri_malinconia",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": ".... Rinato è il cuore — solo,",
+      "body": "「心臓は再び生まれた──ひとりで（Rinato è il cuore — solo）」──第3部の閉じるリフレイン。「Rinato（再生した）」という過去分詞が希望の宣言として機能しながら、「solo（ひとりで）」という孤立の修飾によって直ちに制限される：再生は孤独の中での再生として定義される。「V'è il mio fra essi（わたしの心がそこにある）」──「il mio（わたしの心臓）」という省略形が、詩の突然の一人称的転換として機能する：第1–2部では観察者として薔薇を外側から語っていた語り手が、第3部で「わたしの」薔薇として心臓と薔薇を同一化する。「d'esser côlto — e travolto（摘まれ、押し流されたいという欲望）」──「côlto（摘まれた）」という受動分詞が愛の客体としての薔薇の運命を示す：「Rosa appassita」の「prima d'avere amato（愛する前に）」という愛への渇望の変奏として、摘まれ・押し流されることへの能動的欲望として。",
+      "targetId": "negri_rosa_appassita",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "eternamente?...",
+      "body": "「永遠に（eternamente）」──詩の感情的頂点。第4部は一つの長い疑問文（v.39–47）として展開される：「なぜ毎日再び生まれることができないのか」という問いに「花が咲き・燕がさえずり・木の葉がざわめき・命が注ぎ込む」という理想的自然の連鎖が続く。「eternamente（永遠に）」というインフィニティブ副詞が疑問文を閉じることで、「永遠の再生」への渇望とその不可能性が同時に示される。「e rondini garrire（燕がさえずる）」──「Il silenzio」の「rondinella del Signore（主の燕）」・「Malinconia」の第3部で望まれた「春の再生」の燕が、ここでは「毎日の再生」の条件として列挙される：詩集内の燕系譜の最終的集約として機能する。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的同一性への反論として──ネグリは「毎日新しい（ogni giorno con grazie fresche）」という循環でなく成長を渇望するが、「è tardi」によってその渇望の不可能性が宣告される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "è tardi, è troppo tardi....",
+      "body": "「遅い、あまりに遅すぎる（è tardi, è troppo tardi）」──詩全体の結語であり詩集『Dal profondo』の時間論の最も簡潔な定式。「è tardi」の単純宣言から「è troppo tardi」の強調への二段階が、コヘレト的「afflictio spiritus（霊の苦悩）」の詩的凝縮として機能する。「O cuore（おお心臓よ）」という直前の呼格が第3部の「Rinato è il cuore（心臓は再び生まれた）」への直接的回帰として機能する：再生した心臓への「遅すぎる」という宣告が詩集全体の「時間の残酷さ」のテーマを最も簡潔に体現する。「Rosa d'ebbrezza, flammea / rosa del sogno, è tardi（恍惚の薔薇よ、炎のような夢の薔薇よ、遅い）」──「ebbrezza（恍惚）・flammea（炎のような）・sogno（夢）」という強烈な形容詞群の後に「è tardi」という平叙が置かれる落差が詩的衝撃をなす。「Malinconia」の「è tardi, è troppo tardi」との語彙的照応：両詩において「遅すぎること」が女性的時間感覚の核心命題として反復される。",
+      "targetId": "negri_malinconia",
+      "targetParagraphId": 6
+    }
+  ]
+}
