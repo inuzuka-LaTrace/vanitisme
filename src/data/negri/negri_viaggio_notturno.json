@@ -1,0 +1,182 @@
+{
+  "id": "negri_viaggio_notturno",
+  "title": "Viaggio notturno",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Viaggio_notturno",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）所収。「Viaggio notturno（夜の旅）」は真夜中の馬車旅行を枠組みとする詩であり、月光・霊火（fatue fiammelle）・骸骨のような木々・墓地という夜の景観を通過しながら「destino（運命）」を探求する旅として語られる。全35行、5部構造：各部は3行×2連＋リフレイン1行（合計7行）からなるが、最終部のみ3行×2連＋リフレイン1行（最終行「Vola, o pensier...」が独立）として閉じる。5つのリフレイン行が詩の骨格をなす：「Su, frusta, o carrettier!（さあ、鞭を打て、馭者よ！）」（v.7・v.27）、「Fuor da una nube l'algida luna spïando va（雲から冷たい月が覗いて行く）」（v.14）、「Tassan sospiri e brividi traverso al tenebror!（闇の中をため息と身震いが通り過ぎる！）」（v.21）、「Io non vi temo, fatui spirti del cimiter（お前たちを恐れない、墓地の愚かな霊よ）」（v.28）、「Vola, o pensier, sui ruderi, com'angelo immortal!（飛べ、思考よ、廃墟の上を、不死の天使のように！）」（v.35）。「Fatalità」の宿命への受容・「Fantasmi」の死への誘惑と対照的に、本詩は旅という運動の形象を通じて「Ho coraggio（わたしには勇気がある）」という能動的抵抗を中核に据える。結語「pensiero umano（人間の思考）」の「Com'angelo immortal（不死の天使のように）」飛翔という締め括りは、詩集『Fatalità』三詩の中で唯一の昇華・超越の肯定的定式として機能する。",
+  "keywords": [
+    "夜の旅",
+    "月",
+    "骸骨",
+    "墓地",
+    "霊火",
+    "運命探求",
+    "思考の飛翔",
+    "リフレイン",
+    "勇気",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "negri_fatalita",
+    "negri_fantasmi",
+    "baudelaire_elevation",
+    "trakl_de_profundis",
+    "hofmannsthal_reiselied",
+    "poe_ulalume",
+    "george_entrueckung"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Si parte: è mezzanotte. — È pigra la cavalla,\nSu le malferme rôte il veicol traballa\n                    Su, frusta, o carrettier!...",
+      "provisionalTranslation": "出発する：真夜中だ。——牝馬は重い足取り、\nぐらつく車輪の上で馬車は揺れる——\n                    さあ、鞭を打て、馭者よ！……"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–7",
+      "original": "Per noi, dell'avventura lieti e securi figli,\nNon ha minaccie il bosco, l'ombra non ha perigli,\n                    Sassi non ha il sentier.\nTutto si cela e dorme — su, frusta, o carrettier!...",
+      "provisionalTranslation": "わたしたちにとって、冒険を喜び安らかに受け入れる子らよ、\n森に脅威はなく、闇に危険はなく、\n                    小道に石もない。\nすべてが隠れ、眠る——さあ、鞭を打て、馭者よ！……"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–10",
+      "original": "Fuor da una nube occhieggia, sogghignando, la luna;\nVegliarda maliziosa, per la pianura bruna\n                    Ella spïando va.",
+      "provisionalTranslation": "雲の外から月が覗いて、せせら笑う；\n悪賢い老婆のように、褐色の平野を\n                    彼女は覗き見ながら行く。"
+    },
+    {
+      "id": 4,
+      "verses": "v.11–14",
+      "original": "Al ciel velato gli alberi tendono i rami storti,\nCome preganti braccia di scheletri contorti;\n                    Che narri, o immensità?...\n.... Fuor da una nube l'algida luna spïando va.",
+      "provisionalTranslation": "曇った空に向かって木々は曲がった枝を伸ばす、\n捻れた骸骨の祈る腕のように；\n                    何を語るのか、おお、大いなる無限よ？……\n……雲の外から冷たい月が覗きながら行く。"
+    },
+    {
+      "id": 5,
+      "verses": "v.15–17",
+      "original": "Ritta, commossa e pallida, l'occhio smarrito e fisso.\nIo, coi capelli al vento, interrogo l'abisso.\n                    Inghiotte il tenebror",
+      "provisionalTranslation": "立ち尽くして、動揺し、蒼白で、眼は迷いながら凝視する。\nわたしは、風に髪をなびかせ、深淵に問いかける。\n                    闇が飲み込む——"
+    },
+    {
+      "id": 6,
+      "verses": "v.18–21",
+      "original": "Preci e rancori d'anime, baci di labbra amanti,\nSogni, delitti e lacrime, carezze deliranti\n                    D'avvelenati amor.\nTassan sospiri e brividi traverso al tenebror!...",
+      "provisionalTranslation": "魂の祈りと恨み、愛する唇の口づけを、\n夢と罪と涙、毒された愛の\n                    狂おしい愛撫を。\n闇の中をため息と身震いが通り過ぎる！……"
+    },
+    {
+      "id": 7,
+      "verses": "v.22–24",
+      "original": "\"Che fai? che vuoi?...\" mi chiedono, sôrte da fossa impura\nFatue fiammelle erranti presso le basse mura\n                    D'un âtro cimiter.",
+      "provisionalTranslation": "「何をしている？何を望む？……」とわたしに問いかける、不浄な墓穴から生まれた\n荒れた墓地の低い壁のそばをさまよう\n                    鬼火が。"
+    },
+    {
+      "id": 8,
+      "verses": "v.25–28",
+      "original": "Non so; cerco il destino. Forse eterno è il viaggio.\nForse eterna è la notte; non importa. Ho coraggio.\n                    Su, frusta, o carrettier!...\nIo non vi temo, fatui spirti del cimiter.",
+      "provisionalTranslation": "知らない；運命を探している。おそらく旅は永遠だ。\nおそらく夜は永遠だ；どうでもいい。わたしには勇気がある。\n                    さあ、鞭を打て、馭者よ！……\nお前たちを恐れない、墓地の愚かな霊よ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.29–31",
+      "original": "Nel silenzio tranquillo de l'assopito vano,\nMisterïosa scôlta, veglia il pensiero umano,\n                    Com'angelo immortal.",
+      "provisionalTranslation": "まどろんだ空虚の静かな沈黙の中で、\n神秘の歩哨として、人間の思考は目覚めている、\n                    不死の天使のように。"
+    },
+    {
+      "id": 10,
+      "verses": "v.32–34",
+      "original": "Veglia, e coll'ali fatte di sogno e d'ardimento,\nSfiora la cieca terra, le nuvole d'argento.\n                    La fossa e l'ideal.",
+      "provisionalTranslation": "目覚め、夢と大胆さで作られた翼をもって、\n盲目の大地を、銀の雲をかすめる。\n                    墓穴と理想を。"
+    },
+    {
+      "id": 11,
+      "verses": "v.35",
+      "original": "Vola, o pensier, sui ruderi, com'angelo immortal!...",
+      "provisionalTranslation": "飛べ、思考よ、廃墟の上を、不死の天使のように！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Si parte: è mezzanotte.",
+      "body": "「出発する：真夜中だ（Si parte: è mezzanotte）」──詩の開口部に置かれた時刻の宣言。「mezzanotte（真夜中）」は西洋詩における「死の時刻」の伝統的定点：ポー「Ulalume」・「The Raven」の「十二月の真夜中」・ゲーテ「Faust」の魔女の夜への照応。「Si parte（出発する）」の不定主語構文が旅の主体を一般化し、詩的「わたし」と普遍的「人間」を重ねる。「È pigra la cavalla（牝馬は重い足取り）」──「pigra（重い・怠惰な）」という形容詞が夜の疲労感・前進への抵抗を示す：「Fatalità」の「Sventura（不運）」の重さと同じ実存的重力。「il veicol traballa（馬車は揺れる）」という不安定な乗り物のイメージが旅全体の不確かさを予告する。",
+      "targetId": "poe_ulalume",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Tutto si cela e dorme — su, frusta, o carrettier!...",
+      "body": "v.4–7──詩の形式的骨格を示す最初の「リフレイン付き連」。本詩は各部が「3行×2連＋リフレイン1行」の7行単位で構成される：リフレイン「Su, frusta, o carrettier!（さあ、鞭を打て、馭者よ！）」（v.7・v.27）が「出発の命令」として各部の推進力を体現する。「Tutto si cela e dorme（すべてが隠れ、眠る）」という全面的な静止が、リフレインの命令形「Su（さあ）」の動的推進と対置される：静止の世界と運動する馬車という二項対立が詩全体の緊張軸をなす。「dell'avventura lieti e securi figli（冒険を喜び安らかに受け入れる子ら）」──「Per noi（わたしたちにとって）」という複数形が「Autopsia」「Fantasmi」の孤独な語り手と対比される連帯の感覚を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Vegliarda maliziosa, per la pianura bruna",
+      "body": "「悪賢い老婆（Vegliarda maliziosa）」──月の擬人化。「Vegliarda（老婆・老いた女）」という語がイタリア語詩における月の伝統的女性的人格化を反転させ、レオパルディ的な月の冷たい観察者性を受け継ぎながら、「maliziosa（悪意ある・悪賢い）」という否定的形容詞によって脅威的存在へと変換する。「occhieggia, sogghignando（覗いて、せせら笑う）」という二つの動作が月を覗き見する傍観者・あざ笑う存在として規定する：月は自然現象でなく、語り手の旅を監視する不吉な審判者として機能する。「Fantasmi」の「flutto infido（背信の波）」と同様に、自然の擬人化的「背信性」が示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Come preganti braccia di scheletri contorti;",
+      "body": "「捻れた骸骨の祈る腕のように（Come preganti braccia di scheletri contorti）」──詩中最も密度の高いメメント・モリのイメージ。木々の枝が「scheletri（骸骨）」の腕として視覚化されることで、生の植物的世界が死の骨格的世界と重なる。「preganti（祈る）」という現在分詞が骸骨に宗教的身振りを与える：「Autopsia」のヨブ的身体崩落「Io caddi a poco a poco」（「Fantasmi」v.14）と同じ伏臥・祈願の身体的記憶が木の形象に投影される。「Che narri, o immensità?（何を語るのか、おお、大いなる無限よ？）」──「immensità（無限・大いなるもの）」への問いかけがコヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人は何を得るのか）」の問いの詩的変奏として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Io, coi capelli al vento, interrogo l'abisso.",
+      "body": "「わたしは、風に髪をなびかせ、深淵に問いかける（interrogo l'abisso）」──詩の自伝的・詩学的中心命題。「abisso（深淵）」はドイツ語「Abgrund」のイタリア語的等価物であり、ニーチェ的「深淵を覗く者には深淵が覗き返す」の語彙を先取りする詩的姿勢。「coi capelli al vento（風に髪をなびかせ）」という視覚的定式が「Fatalità」の「timida fanciulla（臆病な少女）」から「嵐の中に立つ詩人」への変容を示す：「Autopsia」の解剖台・「Fantasmi」の海辺に続く第三の定位点として、馬車上の開放的な問いかけの姿勢がある。「Inghiotte il tenebror（闇が飲み込む）」の動詞「inghiotte（飲み込む）」が次連の列挙（祈り・恨み・夢・罪・涙）の主語として機能する：深淵が問いへの答えではなく「飲み込み」として応答する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tassan sospiri e brividi traverso al tenebror!...",
+      "body": "「闇の中をため息と身震いが通り過ぎる（Tassan sospiri e brividi traverso al tenebror）」──第三リフレイン。「Tassan（通り過ぎる）」という動詞（方言的・詩的用法）が「闇（tenebror）」を横断する運動を示す：馬車の物理的移動が「ため息と身震い」という感情的運動へと変換される。v.18–20の列挙──「Preci e rancori（祈りと恨み）・baci di labbra amanti（愛する唇の口づけ）・Sogni, delitti e lacrime（夢と罪と涙）・carezze deliranti D'avvelenati amor（毒された愛の狂おしい愛撫）」──が「tenebror（闇）」の「飲み込む」内容として提示される：人間的経験の全スペクトル（愛・罪・夢・涙）が虚無の闇に呑まれる。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり霊の苦悩である）」の詩的変奏として読める。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Fatue fiammelle erranti presso le basse mura",
+      "body": "「荒れた墓地の低い壁のそばをさまよう鬼火（Fatue fiammelle erranti）」──「fuoco fatuo（鬼火・人魂）」のイタリア語詩的表現。「fatuo（愚かな・鬼火の）」という語が、詩末行「fatui spirti del cimiter（墓地の愚かな霊）」の「fatui」と語根的に連動する：鬼火と亡霊が同一の形容詞によって「愚かさ」として規定される。「fossa impura（不浄な墓穴）」という語が「Autopsia」の「stanza sepolcrale（埋葬の間）」・「Fantasmi」の「corpi d'annegati（溺死者の屍）」と連動する詩集全体の墓的空間の語彙群に加わる。「Che fai? che vuoi?（何をしている？何を望む？）」という問いかけが、生者から死者への問いの反転として機能する：詩人が「深淵に問いかける」のに対し、霊が詩人に問い返す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Non so; cerco il destino. Forse eterno è il viaggio.",
+      "body": "「知らない；運命を探している。おそらく旅は永遠だ（Forse eterno è il viaggio）」──詩全体の哲学的核心命題。「Non so（知らない）」という無知の告白がコヘレト第1章v.17「agnovi quod in his quoque esset labor et afflictio spiritus（これらの中にも労苦と霊の苦悩がある）」という認識論的限界の確認と照応する。「cerco il destino（運命を探している）」──「destino」が「Fatalità」の「Sventura（不運）」と同一の形而上学的力の別名として機能する：詩集内部での宿命概念の変奏。「Forse eterno è il viaggio（おそらく旅は永遠だ）」という不確かな仮定が、コヘレト的「Nihil sub sole novum（太陽の下に新しいものはない）」の循環的反復を「永遠の旅」として詩的形象化する。「Ho coraggio（わたしには勇気がある）」という短い宣言が「Fatalità」の「Resta（残れ）」・「Fantasmi」の曖昧な「Un letto per dormire」と対照的な積極的応答として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Misterïosa scôlta, veglia il pensiero umano,",
+      "body": "「神秘の歩哨として、人間の思考は目覚めている（Misteriosa scôlta, veglia il pensiero umano）」──詩の転換点。「scôlta（歩哨・見張り）」という軍事的語彙が「人間の思考（pensiero umano）」に与えられることで、夜の恐怖に対する能動的な守護者としての思考が提示される：「Fantasmi」の死者の「gemito rôco（しわがれた呻き）」・「Autopsia」の解剖のメスによる受動的身体とは対極的な、思考の主体的防衛の宣言。「Nel silenzio tranquillo de l'assopito vano（まどろんだ空虚の静かな沈黙の中で）」──「vano（空虚・虚しい）」という語がコヘレト的「vanitas」を呼び起こしながら、その空虚の中で「pensiero umano（人間の思考）」が目覚めているという逆説的配置を示す。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "La fossa e l'ideal.",
+      "body": "「墓穴と理想（La fossa e l'ideal）」──詩集『Fatalità』全体の主題的両極をこの最も簡潔な二語対に凝縮した命題。「fossa（墓穴）」は「Autopsia」の解剖台・「Fantasmi」の溺死者・「Viaggio notturno」の墓地という詩集全体の死の形象の集約点であり、「ideal（理想）」は「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」の「idea（思想・理想）」の変奏として機能する。「pensiero umano（人間の思考）」の翼が「La fossa e l'ideal」を同時にかすめる──墓穴と理想の間を飛翔することが詩人・思考者の定義として提示される。ボードレール「Élévation」の「Au-dessus des étangs, au-dessus des vallées（湖の上を、谷の上を）」という上昇の飛翔との詩的照応。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Vola, o pensier, sui ruderi, com'angelo immortal!...",
+      "body": "「飛べ、思考よ、廃墟の上を、不死の天使のように！（Vola, o pensier, sui ruderi, com'angelo immortal）」──詩全体の結語であり、詩集『Fatalità』三詩の中で唯一の昇華・超越の定式。「Vola（飛べ）」という命令形がリフレイン「Su, frusta, o carrettier!（さあ、鞭を打て）」の地上的推進力を垂直的飛翔へと転換する：水平の旅から垂直の上昇へ。「sui ruderi（廃墟の上を）」──「ruderi（廃墟・遺跡）」という語がコヘレト的「Nihil sub sole novum」の「歴史の倦怠」・バロック的ヴァニタス絵画の廃墟モチーフを引き継ぐ。「com'angelo immortal（不死の天使のように）」──「immortal（不死の）」という語が詩集全体の「死・虚無・運命」という主題系に対する詩的回答として提示される。「Autopsia」の「maledizione（呪い）」・「Fantasmi」の「Un letto per dormire（眠るための床）」という死への傾斜に対し、「Vola（飛べ）」という上昇の意志が詩集の結語的ヴィジョンを形成する。ゲオルゲ「Entrückung（恍惚）」の「Ich löse mich in tönen（わたしは音楽の中に溶ける）」という昇華の詩的ヴィジョンとの照応。",
+      "targetId": "george_entrueckung",
+      "targetParagraphId": null
+    }
+  ]
+}
