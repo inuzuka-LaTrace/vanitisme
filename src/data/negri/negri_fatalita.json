@@ -1,0 +1,123 @@
+{
+  "id": "negri_fatalita",
+  "title": "Fatalità",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Fatalità. Milano, Fratelli Treves Editori, 1895. Wikisource: https://it.wikisource.org/wiki/Falit%C3%A0_(1895)/Falit%C3%A0",
+  "year": "1895",
+  "firstPublication": "Fatalità, Fratelli Treves Editori, Milano, 1895",
+  "difficulty": "初級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★☆",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の処女詩集『Fatalità』（1895）の表題詩。ネグリはロンバルディア州ローディ近郊の貧困家庭に生まれ、小学校教師として働きながら詩を書き始めた。本詩集は労働者階級の苦難と社会主義的連帯を歌うと同時に、宿命・苦悩・創造の三位一体という個人的・形而上学的主題を前面に出しており、イタリア語圏における世紀末詩学の重要な一角をなす。「Fatalità」は詩集全体のプログラム詩であり、夜の幻影として現れた「Sventura（不運・苦難）」という擬人化された運命の女が語りかける劇詩的モノローグの形式をとる。5連×5行（clochards quintet）構造で、各連末行がインデントされた短詩行として締め括られる視覚的・リズム的対称が一貫する。「sino alla morte e al nulla（死と虚無まで）」「fior di cipresso（糸杉の花）」「fior di tomba（墓の花）」というヴァニタス的イメージ連鎖が本詩集の中心主題を凝縮する。第4連で語り手が「希望・愛・天才・光」を叫んで抵抗を試みるが、第5連のSventuraの応答「苦悩こそが翼を与える（Vol sublime il dolor scioglie all'idea）」を受けて「Resta（残れ）」という逆説的受容で結ぶ。苦悩の能動的受け入れによる昇華という構造は、シモーヌ・ヴェイユ「Accepter le vide」の「苦難を通じた恩寵」論、ヨブ記第1章の受難と賛美の逆説と深く共鳴する。コッラッツィーニやゴッツァーノらクレプスコラリズモの世代より先行し、ダヌンツィオの超人主義とは対極的な「苦悩する民衆の詩人」の立場から書かれた、イタリア世紀末詩のもう一つの相貌を示す。",
+  "keywords": [
+    "Sventura",
+    "Fatalità",
+    "宿命",
+    "苦悩",
+    "死と虚無",
+    "糸杉",
+    "ヴァニタス",
+    "創造と苦悩",
+    "逆説的受容",
+    "世紀末イタリア詩"
+  ],
+  "relatedTexts": [
+    "weil_accepter_le_vide",
+    "weil_dressage",
+    "hieronymus_iob_1",
+    "corazzini_desolazione",
+    "pascoli_melanconia",
+    "dannunzio_cavaliere_della_morte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Questa notte m'apparve al capezzale\n          Una bieca figura.\nNe l'occhio un lampo ed al fianco un pugnale,\nMi ghignò sulla faccia. — Ebbi paura. —\n          Disse: \"Son la Sventura.\"",
+      "provisionalTranslation": "今夜、枕元に現れた\n          一つの陰険な影が。\n瞳に稲妻を宿し、腰には短剣を帯びて、\n私の顔にせせら笑った。——恐ろしかった。——\n          「わたしは不運だ」と言った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "\"Ch'io t'abbandoni, timida fanciulla,\n          Non avverrà giammai.\nFra sterpi e fior, sino alla morte e al nulla,\nTi seguirò costante ovunque andrai.\"\n          — Scostati!... singhiozzai.",
+      "provisionalTranslation": "「わたしがお前を捨てることなど、\n          けっして起こらない。\n茨と花のあいだを、死と虚無に至るまで、\nお前がどこへ行こうとも、絶えずついてゆく。」\n          ——離れて！……と私はすすり泣いた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Ella ferma rimase a me dappresso.\n          Disse: \"Lassù sta scritto.\nSquallido fior tu sei, fior di cipresso,\nFior di neve, di tomba e di delitto.\n          Lassù, lassù sta scritto.\"",
+      "provisionalTranslation": "彼女はわたしのかたわらに動かぬまま留まった。\n          「天上に書かれているのだ。\nお前は薄暗い花、糸杉の花、\n雪の花、墓の花、罪の花。\n          天上に、天上に書かれているのだ。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Sorsi gridando: — Io voglio la speranza\n          Che ai vent'anni riluce,\nVoglio d'amor la trepida esultanza,\nVoglio il bacio del genio e della luce!...\n          T'allontana, o funesta. —",
+      "provisionalTranslation": "私は叫びながら起き上がった。——わたしは希望が欲しい、\n          二十歳に輝くあの希望が、\n愛の震えるような歓喜が欲しい、\n天才と光の口づけが欲しい！……\n          離れろ、不吉なものよ。——"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Disse: \"A chi soffre e sanguinando crea,\n          Sola splende la gloria.\nVol sublime il dolor scioglie all'idea,\nPer chi strenuo combatte è la vittoria.\"\n          Io le risposi: — Resta. —",
+      "provisionalTranslation": "「苦しみ、血を流しながら創る者にこそ、\n          栄光だけが輝く。\n崇高な飛翔を苦悩は思想へと解き放つ、\n力強く戦う者にこそ勝利がある。」\n          私は答えた。——残れ。——"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Questa notte m'apparve al capezzale",
+      "body": "「今夜、枕元に現れた」──詩の開口部に置かれた夜の幻影という設定。夢と覚醒の境界に出現する「bieca figura（陰険な影）」は、バロック的なメメント・モリの擬人像──ヴァニタス画における髑髏・砂時計・剣の束──を人格化した存在として機能する。「capezzale（枕元）」という語が、臥床の病者・瀕死者のイメージを喚起し、詩全体を「死の床における啓示」として額縁づける。ダウスン「Vanitas」やロセッティ「Dead before Death」に見られる死の擬人化との構造的照応。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Son la Sventura",
+      "body": "「わたしは不運だ（Son la Sventura）」──「Sventura」はイタリア語で「不運・災難・苦難」を意味するが、詩全体を通じて「宿命（Fatalità）」そのものの擬人化として機能する。大文字で書かれることで抽象的概念の固有名詞化が明示される──バロック的アレゴリー技法。表題詩「Fatalità」とこの「Sventura」は同一の形而上学的力の二つの名前として作用する：宿命（Fatalità）は外的・超越的であり、不運（Sventura）はより内的・個人的な苦難の体験として対比される。詩集全体の主題語彙の凝縮。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sino alla morte e al nulla",
+      "body": "「死と虚無まで（sino alla morte e al nulla）」──ヴァニタスの二極を直裁に定式化するこの句が詩全体の哲学的底流を露呈する。「morte（死）」と「nulla（虚無）」の並置は、コヘレト第1章「omnia vanitas」の二段階的展開──存在の消滅（morte）と意味の消滅（nulla）──として読める。「sterpi e fior（茨と花）」というアンチテーゼを経由して「morte e al nulla」へと向かう道程は、ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」の「空虚（vide）」へと至る苦難の道程と構造的に照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "fior di cipresso",
+      "body": "「糸杉の花（fior di cipresso）」──糸杉（cipresso）は地中海文化圏において古来墓地・哀悼・死の象徴。イタリア詩においてはレオパルディ「A Silvia」・フォスコロ「Dei Sepolcri」以来の哀悼詩の定番的イメージ。「Squallido fior（薄暗い花）・fior di cipresso・fior di neve・fior di tomba・fior di delitto」と五つの「fior（花）」が列挙される連鎖が、語り手を死・雪・墓・罪というヴァニタス的要素すべてと同一化する修辞。ゴッツァーノ「Suprema Quies」やパスコリ「Nebbia」に見られる秋・墓・朽葉のイメージ連鎖との詩的共鳴。",
+      "targetId": "gozzano_suprema_quies",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Lassù sta scritto",
+      "body": "「天上に書かれている（Lassù sta scritto）」──v.12とv.15に反復される定型句。「Lassù（天上に・あそこ上に）」という副詞が「書かれた宿命」の超越的所在を指示する。5連構成の第3連中央に配置されたこの反復は詩の重心として機能する：第1–2連（出現と宣告）→第3連（宿命の確認）→第4–5連（抵抗と受容）という三部構造の蝶番。各連の末行がインデントされた短行となる形式的特徴が、ここでは宿命の宣告「Lassù, lassù sta scritto」の反復強調として最大限に活用される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Io voglio la speranza",
+      "body": "「わたしは希望が欲しい（Io voglio la speranza）」──詩全体の転換点にして、唯一の直接的な「反抗の叫び」。「Io voglio」の一人称意志動詞が三度反復（la speranza・d'amor la trepida esultanza・il bacio del genio e della luce）することで、抵抗のレトリック的高揚が構築される。「vent'anni（二十歳）」という語がネグリの自伝的位置を暗示する：詩集刊行時1895年、ネグリ26歳。青春・愛・天才・光というロマンティックな価値群が「T'allontana, o funesta（離れろ、不吉なものよ）」という命令形で括られることで、次連のSventuraの反論への伏線となる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Vol sublime il dolor scioglie all'idea",
+      "body": "「崇高な飛翔を苦悩は思想へと解き放つ（Vol sublime il dolor scioglie all'idea）」──詩全体の哲学的頂点命題。「Vol sublime（崇高な飛翔）」とはダンテ的・ロマン主義的崇高の翼隠喩であり、「dolor（苦悩）」がその推進力として定義される。この命題はヴェイユ「Dressage」の「神は苦難を通じて人間を精錬する」・ヨブ記第1章v.21「Dominus dedit, Dominus abstulit」の受難による昇華の論理の美的変奏として読める。「A chi soffre e sanguinando crea（苦しみ、血を流しながら創る者）」という定式は、詩人・創造者の定義として機能する──苦悩と創造の不可分性という19世紀末詩学の中心テーゼの凝縮。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Io le risposi: — Resta. —",
+      "body": "「わたしは答えた。——残れ。——（Io le risposi: — Resta. —）」──詩全体の逆説的結語。第2連「Scostati!（離れて！）」という拒絶から第5連「Resta（残れ）」という受容への反転が、詩の劇的運動の完結をなす。「Resta」は受動的諦念ではなく、Sventuraの論理（苦悩が創造の翼をなす）を理解した上での能動的受容として機能する。ヨブ記第1章のヨブが「Dominus dedit, Dominus abstulit; sicut Domino placuit, ita factum est（主の御心のままになった）」と宣言するのと同様に、苦悩の受容が神学的・詩学的肯定へと転換する逆説構造。コヘレト的「afflictio spiritus（霊の苦悩）」を「Vol sublime（崇高な飛翔）」へと変換するこの最終行は、VANITISMEの詩的核心──虚無の美学的・精神的昇華──を最も簡潔に体現した詩行として位置づけられる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
