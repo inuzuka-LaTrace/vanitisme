@@ -108,13 +108,13 @@
       "id": 13,
       "verses": "v.49–52",
       "original": "Tutta nuda così sotto il tuo sguardo,\n          Ancor soffro; lo sai?...\nColle vitree pupille ancor ti guardo,\n          Nè tu mi scorderai:",
-      "provisionalTranslation": "こうしてお前の視線の下に全裸で、\n          わたしはまだ苦しんでいる；知っているか？……\nガラスのような瞳でわたしはまだお前を見ている、\n          お前はわたしを忘れないだろう："
+      "provisionalTranslation": "こうしてお前の視線の下に裸で、\n          わたしはまだ苦しんでいる；知っているか？……\n硝子のような瞳でわたしはまだお前を見ている、\n          お前はわたしを忘れないだろう："
     },
     {
       "id": 14,
       "verses": "v.53–56",
       "original": "Poi che sul labbro mio, quale conato\n          Ultimo di passione,\nRauco gorgoglia un rantolo affannato\n          Di maledizïone.",
-      "provisionalTranslation": "なぜならわたしの唇の上に、最後の\n          情熱の衝動として、\nしわがれた、苦しい喘鳴が喉を鳴らしているから\n          呪いの。"
+      "provisionalTranslation": "なぜならわたしの唇の上に、最後の\n          情熱の衝動として、\nしわがれた、苦しい喘鳴が喉を鳴らしているから\n          ──呪いの。"
     }
   ],
   "annotations": [
@@ -196,7 +196,7 @@
       "paragraphId": 13,
       "type": "commentary",
       "anchor": "Colle vitree pupille ancor ti guardo,",
-      "body": "「ガラスのような瞳でわたしはまだお前を見ている（Colle vitree pupille ancor ti guardo）」──詩的・存在論的逆転の極致。「vitree pupille（ガラスのような瞳）」──死後の硝子体変性した眼球が「見ること」の主体として蘇る。「Ancor soffro（まだ苦しんでいる）」・「ancor ti guardo（まだ見ている）」のaltera反復が、死後の苦悩と知覚の持続を主張する：解剖台上で苦しみ・見ていることが「現在進行形」として語られる非合理な確信。「Nè tu mi scorderai（お前はわたしを忘れないだろう）」──「Fatalità」の「Ti seguirò costante ovunque andrai（お前がどこへ行こうとも絶えずついてゆく）」の「追跡の宿命」が、死者から生者への追跡として反転される。コヘレト第1章v.11「Non est priorum memoria」の「記憶の不在」命題への詩的反論として機能する：この詩全体が「忘れられないこと」の要求として読める。",
+      "body": "「硝子のような瞳でわたしはまだお前を見ている（Colle vitree pupille ancor ti guardo）」──詩的・存在論的逆転の極致。「vitree pupille（硝子のような瞳）」──死後の硝子体変性した眼球が「見ること」の主体として蘇る。「Ancor soffro（まだ苦しんでいる）」・「ancor ti guardo（まだ見ている）」のaltera反復が、死後の苦悩と知覚の持続を主張する：解剖台上で苦しみ・見ていることが「現在進行形」として語られる非合理な確信。「Nè tu mi scorderai（お前はわたしを忘れないだろう）」──「Fatalità」の「Ti seguirò costante ovunque andrai（お前がどこへ行こうとも絶えずついてゆく）」の「追跡の宿命」が、死者から生者への追跡として反転される。コヘレト第1章v.11「Non est priorum memoria」の「記憶の不在」命題への詩的反論として機能する：この詩全体が「忘れられないこと」の要求として読める。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 11
     },
