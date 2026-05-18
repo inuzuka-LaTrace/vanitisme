@@ -1,0 +1,177 @@
+{
+  "id": "negri_dal_profondo",
+  "title": "Dal profondo",
+  "author": "Ada Negri",
+  "source": "Ada Negri, Dal profondo. Milano, Fratelli Treves Editori, 1910. Wikisource: https://it.wikisource.org/wiki/Dal_profondo/Dal_profondo",
+  "year": "1910",
+  "firstPublication": "Dal profondo, Fratelli Treves Editori, Milano, 1910",
+  "difficulty": "中級",
+  "category": "negri",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "アダ・ネグリ（Ada Negri, 1868–1945）の第三詩集『Dal profondo』（1910）の表題詩かつ最終詩。「Dal profondo（深みから）」は詩集全体のプログラム詩として、ネグリが「自分の」社会的地位（中産階級的環境）を捨て、労働者の世界へと「下降・帰還」する詩的・実存的宣言を表す。12連×4行（48行）、各連が2行の長行（エンデカシラボ）＋2行のインデントされた短行という「Fatalità」時代の形式への回帰的変奏。「Nostalgia（ノスタルジア）」という第一語が詩全体の動因として機能する：中産階級の「nitida casa（清潔な家）」から「guarnello d'operaja（作業着）」への着替えが、単なる社会的選択でなく本来の帰属への回帰として定義される。詩は二部に分かれる：第1–7連（労働者たちへの呼びかけ──機屋・鍛冶屋・大工・建設作業者・大理石職人・皮革職人）と第8–12連（詩人の実存的宣言──「名を落とした」自由・「ditirambo della forza pura（純粋な力のディティランボス）」の詩学・「morte è necessaria（死は必然）」・太陽の讃歌）。「Voce di tenebra」の「zingara selvaggia（野生のジプシー）」・「Un fratello」の「Sono rimasta zingara（ジプシーのままだ）」という詩集内の自己同一性が、本詩では「il nome io l'ho nel viso / e nell'ardor del mio selvaggio riso（顔と野生の笑いの中に名前がある）」として具体化される。詩集全体の締め括りとして、「Un fratello」の「col mistero di sè, fino alla morte（それぞれ自分の神秘を持ちながら死に至るまで）」という孤立の宣言から、「piccolo sia pel mio peana il mondo（世界が小さすぎるほどの讃歌）」という膨張的・肯定的な閉結へと詩集の感情的弧が完結する。",
+  "keywords": [
+    "深みから",
+    "Nostalgia",
+    "労働者への帰還",
+    "ditirambo",
+    "名の放棄",
+    "selvaggio riso",
+    "morte è necessaria",
+    "太陽の讃歌",
+    "paena",
+    "Dal profondo"
+  ],
+  "relatedTexts": [
+    "negri_un_fratello",
+    "negri_voce_di_tenebra",
+    "negri_fatalita",
+    "negri_tu_vuoi_saper",
+    "weil_dressage",
+    "baudelaire_elevation",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Nostalgia mi cacciò dalla mia nitida\ncasa, ove i fiori in snelle coppe odorano.\n          Ed un guarnello d'operaja indosso\n          mi mise, e al collo un fazzoletto rosso.",
+      "provisionalTranslation": "ノスタルジアがわたしを清潔な\n家から追い出した、そこでは花が細い花瓶に香る。\n          そして作業着を身に着け\n          首に赤いスカーフを巻いた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "E son venuta ove le basse fabbriche\nserpi di fumo snodan dai comignoli;\n          e di cordami e di carbone e d'assi\n          ingombri son gli spiazzi irti di sassi.",
+      "provisionalTranslation": "そして低い工場が\n煙突から煙の蛇をくねらせるところへ来た；\n          そして縄と石炭と板で\n          石のごつごつした広場は塞がれている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ecco, e respiro il noto odor di polvere\ne di tintura, odo la danza ritmica\n          dei telaj dietro alle finestre nere,\n          e canti uguali a bibliche preghiere.",
+      "provisionalTranslation": "ほら、懐かしい埃と\n染料の香りを吸う、黒い窓の向こうで\n          機織り機のリズミカルな踊りを聴く、\n          聖書の祈りのような一様な歌を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Fratello, che t'affacci sulla soglia\ne assomigli nel sajo a un prence barbaro,\n          dammi una spola che tra bianchi fili\n          passi e ripassi con guizzi sottili:",
+      "provisionalTranslation": "兄弟よ、敷居に顔を出し\n粗衣を着た野蛮な王子のようなお前よ、\n          白い糸のあいだを細く素早く\n          往き来する杼（ひ）をわたしに渡せ："
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "e tu, fabbro, che il maglio sull'incudine\nbatti in cadenza, a domar ferro e bronzo,\n          e tu, artiere del legno, che la grezza\n          pianta ti foggi in forme di bellezza:",
+      "provisionalTranslation": "そしてお前、鍛冶屋よ、鉄床の上で\n鉄とブロンズを制しながらリズムよく槌を打つ者よ、\n          そしてお前、木の職人よ、粗い\n          板を美の形に作り上げる者よ："
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "e voi che in alto, sovra palchi aerei,\ncon acciajo e cemento enormi gabbie\n          costruite, ove un giorno i ricchi schiavi\n          si chiuderan con sapïenti chiavi:",
+      "provisionalTranslation": "そしてお前たち、高い空の足場の上で\n鉄とセメントで巨大な檻を\n          建てる者たちよ、そこにいつか金持ちの奴隷たちが\n          賢い鍵で閉じ込められるだろう："
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "e voi del marmo, e voi del fulvo cuojo\nmastri, ch'io viva nel compatto fremito\n          del vostro sforzo, fra di voi perduta,\n          o asservitori di materia bruta.",
+      "provisionalTranslation": "そしてお前たち大理石の職人よ、そしてお前たち黄褐色の皮革の\n親方たちよ、わたしがお前たちの努力の\n          凝縮した震えの中に生き、お前たちの中に消えられるように、\n          おお、粗い物質の征服者たちよ。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "Nè mi chiedete il nome mio: sui ciottoli\ndella strada mi cadde, ed a raccoglierlo\n          io non mi volsi: il nome io l'ho nel viso,\n          e nell'ardor del mio selvaggio riso.",
+      "provisionalTranslation": "わたしの名前を聞かないでくれ：路上の\n石畳の上に落ちた、そして拾うために\n          わたしは振り返らなかった：名前はわたしの顔の中に、\n          わたしの野生の笑いの熱狂の中にある。"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Camminerò con voi, presa nell'impeto\ndella corrente rapinosa, in gaudio:\n          canterò per la vostra anima oscura\n          il ditirambo della forza pura.",
+      "provisionalTranslation": "わたしはお前たちとともに歩くだろう、奔流の\n勢いに捕らわれて、喜びのうちに：\n          お前たちの暗い魂のために歌うだろう\n          純粋な力のディティランボスを。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "E se materia sull'artier si vendica,\ncanto che la morte è necessaria:\n          l'opera all'uomo e l'uomo all'opra sia\n          come l'anima al corpo. — E così sia. —",
+      "provisionalTranslation": "そして物質が職人に復讐するなら、\nわたしは歌う、死は必然だと：\n          仕事が人に、人が仕事に\n          魂が体に合うように。──そのようになれ。──"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Basti alla nostra sete un sorso d'acqua,\ned alla fame un pane, e al sangue un palpito\n          di giovinezza; e dai possenti amori\n          balzino razze di dominatori.",
+      "provisionalTranslation": "わたしたちの渇きには一口の水で足り、\n飢えには一切れのパンで、血には一打の\n          若さの鼓動で足りる；そして力強い愛から\n          支配者の種族が飛び出してくるように。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "E il Sol su noi, dentro di noi, magnifico\ndator di grazia, che pei Puri sfolgori:\n          e se gioja ne investa dal profondo,\n          piccolo sia pel mio peana il mondo.",
+      "provisionalTranslation": "そして太陽がわたしたちの上に、わたしたちの中に、壮大な\n恩寵の与え手として、純粋な者たちに輝くように：\n          そして喜びが深みからわたしたちを包むなら、\n          わたしの讃歌には世界が小さすぎるように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Nostalgia mi cacciò dalla mia nitida",
+      "body": "12連×4行（48行）、各連が2行の長行（エンデカシラボ基調）と2行のインデントされた短行（セッテナリオ）で構成される。この形式は『Fatalità』（1895）の「Fatalità」・「Tu vuoi saper」などの末行インデント形式に回帰しながら、詩集『Dal profondo』（1910）の表題詩として詩的キャリア全体の形式的総括を示す。韻構造：長行同士（v.1・v.2）とインデント短行同士（v.3・v.4）が対韻（AA BB）をなす連鎖韻──「nitida/indosso / odorano/rosso」（第1連）・「fabbriche/assi / comignoli/sassi」（第2連）──各連のインデント短行の対韻が一貫する。詩集の表題詩として、詩集全体のテーマ（「Dal profondo」：深みから）を最終的に肯定として定義する：「深み（profondo）」が苦悩・無名性・貧困の「深み」（詩集前半）から、喜びが「dal profondo（深みから）」湧き上がる生命的肯定（最終行）へと転換される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "mi mise, e al collo un fazzoletto rosso.",
+      "body": "「首に赤いスカーフを巻いた（al collo un fazzoletto rosso）」──「赤（rosso）」という色の政治的・社会的含意。19世紀末〜20世紀初頭の社会主義・労働者運動において赤いスカーフ・赤旗は連帯の象徴として機能する：「Un fratello」の「d'un sospettato del Novantatrè（九三年の容疑者）」・「collana di rubini（ルビーの首飾り）」の「vermiglia incisa dal capestro（絞首縄の赤い線）」という首の「赤」系列が、本詩では連帯の「赤いスカーフ」として最終的に肯定的に回収される。「guarnello d'operaja（作業着）」──中産階級的「nitida casa（清潔な家）」から労働者の服装への変容が、詩集内の「zingara（ジプシー）」というアイデンティティの社会的・物質的形象として機能する。「Nostalgia」という動因──家からの追放でなく「帰還への渇望」が詩の駆動力として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "e canti uguali a bibliche preghiere.",
+      "body": "「聖書の祈りのような一様な歌（canti uguali a bibliche preghiere）」──工場の機械音が「bibliche（聖書的）」な賛美歌として定義される逆説。「uguali（一様な）」という形容詞が工場の単調な反復を聖書の詩篇の反復的なリフレインと同等化する：ヴェイユ「Dressage（訓練）」章の「肉体的苦悩を通じた精神的純化」が、工場の単調な労働の聖書的神聖化として詩的に先取りされる。「danza ritmica（リズミカルな踊り）」──機織り機の「danza（踊り）」という人格化が工場の機械運動を美的・芸術的行為として昇華させる：「Voce di tenebra」の「La tua strofe sarà grido e saetta（お前の詩句は叫びと矢になるだろう）」の詩学的力の工場的変奏として。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Fratello, che t'affacci sulla soglia",
+      "body": "「兄弟よ（Fratello）」──詩集表題詩「Un fratello」の「Non io, che son della tua razza（わたしはお前の種族の者）」という連帯宣言の、本詩での最終的実践として機能する。「Un fratello」では浮浪者の男への対話として間接的だった「種族の連帯」が、「Dal profondo」では機屋（「Fratello」）・鍛冶屋（「tu, fabbro」）・大工（「tu, artiere del legno」）・建設作業者（「voi che in alto」）・大理石・皮革職人（「voi del marmo...del cuojo」）という具体的な複数の労働者への直接的呼びかけとして展開される。「nel sajo a un prence barbaro（粗衣を着た野蛮な王子）」──「Voce di tenebra」の「O zingara selvaggia（野生のジプシー）」という野性的貴族性の修辞が、ここでは労働者への「野蛮な王子」という称号として転位される。",
+      "targetId": "negri_un_fratello",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "si chiuderan con sapïenti chiavi:",
+      "body": "「賢い鍵で閉じ込められるだろう（si chiuderan con sapïenti chiavi）」──詩集内最も明示的な社会批評。「i ricchi schiavi（金持ちの奴隷たち）」という「奴隷」への逆転的命名が「Voce di tenebra」の「E sei ribelle e schiava（お前は反逆者にして奴隷だ）」の「schiava」概念を階級的に反転させる：詩人は「奴隷（schiava）」として自己規定するが、「ricchi（金持ち）」もまた「schiavi（奴隷）」として──資本の「賢い鍵（sapïenti chiavi）」によって閉じ込められた奴隷として──定義される。「enormi gabbie（巨大な檻）」──「Tu vuoi saper」の「deserta prigion（荒涼とした牢獄）」に閉じ込められた詩人の形象が、本詩では労働者が建設する「巨大な檻」として外部化・社会化される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "il nome io l'ho nel viso,",
+      "body": "「名前はわたしの顔の中にある（il nome io l'ho nel viso）」──詩集内「名の放棄三部作」の完結。「Il segreto」の「Senza nome（名なく）」・「L'Ignota」の「o Ignota（名も知らぬ者よ）」という他者への「無名性」の倫理的賦与が、本詩では語り手自身の「名の放棄」として自伝的に実践される。「Nè mi chiedete il nome mio（わたしの名前を聞かないでくれ）」──「Voce di tenebra」の「O zingara selvaggia」・「Un fratello」の「Sono rimasta zingara（ジプシーのままだ）」という本名を超えた自己同一性が、「名前は顔と笑いの中にある」という身体的定義として完結する。「nell'ardor del mio selvaggio riso（野生の笑いの熱狂）」──「selvaggio（野生の）」という形容詞が詩集全体の「zingara selvaggia」アイデンティティの最終的肯定として機能する。",
+      "targetId": "negri_l_ignota",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "il ditirambo della forza pura.",
+      "body": "「純粋な力のディティランボス（il ditirambo della forza pura）」──詩集全体の詩学的宣言の集約。「ditirambo（ディティランボス）」はギリシア語「διθύραμβος」に由来する古代ギリシアの合唱詩・神への讃歌の形式：特にディオニュソス（酒神）への熱狂的賛歌として、古代悲劇の起源とされる。「forza pura（純粋な力）」──「Fatalità」の「Vol sublime il dolor scioglie all'idea（苦悩は思想へと崇高な飛翔を解き放つ）」の「苦悩による昇華」から、「forza pura（純粋な力）」への移行が詩集間での詩学の深化を示す：苦悩を媒介とした昇華（Fatalità）から、労働者の力そのものへの直接的讃美（Dal profondo）へ。「per la vostra anima oscura（お前たちの暗い魂のために）」──「L'Ignota」の「anima oscura」への同情と照応しながら、「Dal profondo」では労働者の「oscura（暗い）」魂を詩によって照らすという詩人の使命として定義される。",
+      "targetId": "negri_fatalita",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "come l'anima al corpo. — E così sia. —",
+      "body": "「魂が体に合うように。──そのようになれ。──（come l'anima al corpo. — E così sia. —）」──詩全体の倫理的核心命題。「E così sia（そのようになれ）」はラテン語「Amen（アーメン）」・ヘブライ語「אָמֵן（アーメン）」の祈願的意味を持つイタリア語：詩が祈りの形式として閉じる。「la morte è necessaria（死は必然）」という命題がヨブ記第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で母の胎から出た、裸で戻ろう）」の死の受容・「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」という主権的必然性と照応する。「l'opera all'uomo e l'uomo all'opra sia / come l'anima al corpo（仕事が人に、人が仕事に、魂が体に合うように）」──「Autopsia」の「Mistero del dolore（苦悩の神秘）」が創造的な力学として再定義される：苦悩・死・労働が魂と体の関係として統合される存在論的命題。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "piccolo sia pel mio peana il mondo.",
+      "body": "「わたしの讃歌には世界が小さすぎるように（piccolo sia pel mio peana il mondo）」──詩集『Dal profondo』全体の結語。「peana（パイアン）」はギリシア語「παιάν」に由来する勝利の讃歌・治癒の歌：第9連の「ditirambo（ディティランボス）」と同様に、古代ギリシアの詩的形式名が本詩の詩学的自己定義の語彙として機能する。「Dal profondo（深みから）」という詩集表題の最終的解釈：「苦悩の深み（Un fratello・La Pietà・L'Ignota）」から「喜びの深み（gioja dal profondo）」への転換が最終連で宣言される──「e se gioja ne investa dal profondo（そして喜びが深みからわたしたちを包むなら）」。「E il Sol su noi, dentro di noi, magnifico / dator di grazia（太陽がわたしたちの上に、わたしたちの中に、壮大な恩寵の与え手として）」──ヨブ記の神・コヘレトの「太陽の下（sub sole）」・「Voce di tenebra」の「un Dio forte e sereno（力強く穏やかな神）」が、本詩では太陽という自然的・内在的な「恩寵の与え手（dator di grazia）」として統合される：詩集全体のキリスト教的・神秘的・社会主義的語彙の最終的統合として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    }
+  ]
+}
