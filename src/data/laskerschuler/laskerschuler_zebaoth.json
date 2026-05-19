@@ -1,0 +1,115 @@
+{
+  "id": "laskerschuler_zebaoth",
+  "title": "Zebaoth",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Zebaoth",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 23, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による神への愛の詩。「Zebaoth（ツェバオート）」はヘブライ語「צְבָאוֹת（Ṣebā'ôt）」すなわち「万軍（の主）」の音写であり、旧約聖書において神の称号として頻用される（「万軍の主（JHWH Ṣebā'ôt）」）。この好戦的・威厳的な神の名を冠しながら、ラスカー＝シューラーは「Rosenkleide（薔薇の衣）」「Gärten（庭々）」「Gottjüngling（神の若者）」「Dichter（詩人）」「Düfte（香り）」「Gespiele（遊び友達）」という親密・柔和・エロス的語彙群によって神を形象化する──威厳の神と愛の神の逆説的融合。「Du Dichter（あなたは詩人）」という呼格は、神を詩人として規定するという大胆な神学的宣言であり、詩人としてのラスカー＝シューラー自身の自己同一化の鏡像でもある。「Meine erste Blüte Blut（私の最初の花・血）」という語の複合が、少女期の初潮・初恋・信仰の覚醒を多義的に指示する。献辞「Dem Franz Jung」はダダイスト・無政府主義者のフランツ・ユング（1888–1963）への捧辞。VANITISMEにおいては、十字架の聖ヨハネ「霊の歌（Cántico Espiritual）」やテレサ「私は自分なしに生きる（Vivo sin vivir en mí）」との比較において、神秘的エロスとしての神への渇望という主題の横断的読解を可能にする。",
+  "keywords": [
+    "Zebaoth",
+    "万軍の主",
+    "Rosenkleide",
+    "Gottjüngling",
+    "Dichter",
+    "Sehnsucht",
+    "Düfte",
+    "Gespiele",
+    "神秘主義",
+    "エロス",
+    "ユダヤ神秘主義"
+  ],
+  "relatedTexts": [
+    "juan_de_la_cruz_cantico_espiritual",
+    "teresa_vivo_sin_vivir",
+    "laskerschuler_versoehnung",
+    "laskerschuler_abel",
+    "trakl_verklaerung",
+    "weil_celui_quil_faut_aimer"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(Dem Franz Jung)",
+      "provisionalTranslation": "（フランツ・ユングへ）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Gott, ich liebe dich in deinem Rosenkleide,\nWenn du aus deinen Gärten trittst, Zebaoth.\nO, du Gottjüngling,\nDu Dichter,\nIch trinke einsam von deinen Düften.",
+      "provisionalTranslation": "神よ、私はあなたを薔薇の衣の中に愛する、\nあなたが庭々から踏み出るとき、ツェバオート。\nああ、あなた神の若者よ、\nあなた詩人よ、\n私はひとり、あなたの香りを飲む。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Meine erste Blüte Blut sehnte sich nach dir,\nSo komme doch,\nDu süßer Gott,\nDu Gespiele Gott,\nDeines Tores Gold schmilzt an meiner Sehnsucht.",
+      "provisionalTranslation": "私の最初の花・血はあなたを切望した、\nだからどうか来てほしい、\nあなた甘い神よ、\nあなた遊び友達の神よ、\nあなたの門の黄金は私の憧憬の中で溶ける。"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "(Dem Franz Jung)",
+      "body": "献辞「フランツ・ユングへ（Dem Franz Jung）」──フランツ・ユング（Franz Jung, 1888–1963）はドイツのダダイスト・無政府主義者・作家。ラスカー＝シューラーとベルリン表現主義の同時代的文脈を共有する。ユングへの献辞が「神への愛の詩」に付されるという取り合わせが、この詩の神秘的エロスを「同時代の人間への贈り物」として位置づける：超越的なものへの詩的アドレスが、同時に地上の人間への贈与として機能する二重性。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Zebaoth",
+      "body": "ヘブライ語「צְבָאוֹת（Ṣebā'ôt）」の音写。「軍勢・万軍」を意味し、「JHWH Ṣebā'ôt（万軍の主）」という神の称号として旧約聖書に270回以上登場する（イザヤ書・エレミヤ書・詩篇等）。ヒエロニムス訳ウルガータでは「Dominus exercituum（軍勢の主）」と訳されることが多いが、「Sabaoth」という音写形も保存される（ローマ書9:29等）。好戦的・威厳的な神の称号をこの詩に用いながら、ラスカー＝シューラーは「Rosenkleide（薔薇の衣）」「Gottjüngling（神の若者）」という全く対照的な柔和・エロス的語彙で神を形象化する──戦いの神が薔薇の庭から踏み出るという逆説的形象。詩題としての「Zebaoth」が詩本文の「愛の神」と緊張関係を保つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Gott, ich liebe dich in deinem Rosenkleide,\nWenn du aus deinen Gärten trittst, Zebaoth.",
+      "body": "「神よ、私はあなたを薔薇の衣の中に愛する、あなたが庭々から踏み出るとき」──神の顕現（テオファニー）の場面として機能するが、旧約聖書的テオファニー（嵐・雷・荒野）と全く異なる「薔薇の庭」という顕現空間。「Rosenkleide（薔薇の衣）」はマリア崇敬の「薔薇の聖母」の図像と、雅歌「私は野の薔薇（Ego flos campi）」（ヒエロニムス訳雅歌2:1）の両方の残響を持つ。「Gärten（庭々）」の複数形が神の空間の豊穣性を強調する──「エデンの園（Paradeisos）」の複数化として。十字架の聖ヨハネ「霊の歌（Cántico Espiritual）」第1連「Adónde te escondiste,／Amado...（愛する方よ、どこに隠れたのか）」と構造的に照応：詩人が庭から踏み出る神に向かって語りかける。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Du Dichter,",
+      "body": "「あなたは詩人」──神を「詩人（Dichter）」として直接呼格で名指す。神学的に大胆な等式：神＝詩人。ラスカー＝シューラー自身が詩人であることを踏まえると、「神＝詩人」という宣言は「詩人＝神の同類・同業者」という自己神格化の鏡像として機能する。「Abel」v.4「Immer singt Abel so hell（アベルはいつもそんなに明るく歌う）」でアベル（詩人の象徴）が「歌う者」として提示されたのに対し、ここでは神自身が「Dichter（詩人）」として召喚される：アベル＝詩人＝神という同一性の連鎖。ヴァレリー「詩学講義（Première leçon du cours de poétique）」での「詩的創造の神的な性格」という命題と照応する詩人神学。",
+      "targetId": "laskerschuler_abel",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ich trinke einsam von deinen Düften.",
+      "body": "「私はひとり、あなたの香りを飲む」──「trinken（飲む）」という摂取の動詞が「Düfte（香り）」という嗅覚的・非実体的なものに向けられる：香りを「飲む」という共感覚的表現。「einsam（ひとり・孤独に）」という副詞が第1連の閉幕語として機能し、神への渇望が孤独の中での秘儀的経験であることを示す。ヴェイユ「愛すべき方（Celui qu'il faut aimer）」の「神を渇望する魂の孤独」というモチーフとの照応。「Düfte（香り）」──雅歌1:3「ヒエロニムス訳：odor unguentorum tuorum super omnia aromata（あなたの軟膏の香りはすべての香料にまさる）」の「香り」の神学的伝統。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Meine erste Blüte Blut sehnte sich nach dir,",
+      "body": "「私の最初の花・血はあなたを切望した」──「Blüte Blut（花・血）」という二語の並置（名詞の複合・同格）が多義的。「Blüte（花・開花・盛り）」と「Blut（血）」は韻的・音的に近接し（Blüte／Blut）、意味的に重なり合う：少女期の最初の開花＝初潮の血、あるいは信仰の最初の目覚め。「erste（最初の）」という形容詞が「原初的・根源的」な渇望として「神への愛」の起源を幼少期・少女期に位置づける。「sehnte sich nach dir（あなたへの憧憬）」──「Sehnsucht（憧憬）」はドイツ・ロマン主義の中心概念であり、充足されることなく対象へと向かい続ける欲望の名称。詩末「meiner Sehnsucht（私の憧憬）」への反復的接続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Du süßer Gott,\nDu Gespiele Gott,",
+      "body": "「甘い神よ、遊び友達の神よ」──「süß（甘い）」は「Abel」のアベル形象（「Süßvögel」）・「Versöhnung」（「müdesüß」）と連動するラスカー＝シューラーの詩語の核心形容詞。「Gespiele（遊び友達・幼い遊び仲間）」という語が神と詩人の関係を「幼児期の親密さ」として規定する──成熟した神学的関係ではなく、「遊び（Spiel）」という無目的な喜びの関係として。テレサ「私は自分なしに生きる（Vivo sin vivir en mí）」における神への渇望の「子供のような」純粋性との照応。十字架の聖ヨハネ「霊の歌」における「愛する方（Amado）」への呼びかけの反復構造と同型の「呼格の積み重ね」：Du Gottjüngling / Du Dichter / Du süßer Gott / Du Gespiele Gott──四重の呼格が神の形象を多面的に構築する。",
+      "targetId": "teresa_vivo_sin_vivir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Deines Tores Gold schmilzt an meiner Sehnsucht.",
+      "body": "「あなたの門の黄金は私の憧憬の中で溶ける」──詩の結語的形象。「Tores Gold（門の黄金）」：神の宮・天上のエルサレムの「黄金の門」（黙示録21:21「12の門は12の真珠…」、ヒエロニムス訳）の伝統的図像。「schmilzt（溶ける）」──固体の黄金が「Sehnsucht（憧憬）」という無形の感情の熱によって液化する：物質が精神に屈服するという逆説。「Abel」v.2「Abels Angesicht ist ein goldener Garten（アベルの顔は黄金の庭）」の「黄金」と「Versöhnung」v.10「Deines Tores Gold」との金色モチーフの連鎖。詩全体の運動：神が「庭から踏み出る（v.2）」→詩人が「孤独に香りを飲む（v.5）」→「憧憬が門の黄金を溶かす（v.10）」──接近と融合への三段階。",
+      "targetId": "laskerschuler_abel",
+      "targetParagraphId": 1
+    }
+  ]
+}
