@@ -1,0 +1,98 @@
+{
+  "id": "laskerschuler_schwarze_sterne",
+  "title": "Schwarze Sterne",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Schwarze_Sterne",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 44, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による9行詩。「Schwarze Sterne（黒い星々）」という題名は「Versöhnung」の「großer Stern（大きな星）」・「Zebaoth」の神的充満と対極をなす──「星」が「黒い（schwarz）」ことで光と神的現前の象徴が否定・反転される。詩は「Du（あなた）」への語りかけとして展開し、「なぜ夜に私を探すのか」という冒頭の問いから、幽霊・禿鷹の翼・氷の風という暗黒・荒廃のイメージを経て、「Todestrübe（死の陰鬱）」への凝視と「Not（苦難）」の背後への迷走という閉幕へと向かう。第2連の「Geyerschwingen（禿鷹の翼）」「Wildlandfernen（荒野の遠方）」「Eiswinde（氷の風）」「Lenzessingen（春の歌）」という語の造語的複合はラスカー＝シューラーの詩語の典型であり、暗黒と生命・冬と春の拮抗を凝縮する。「Laß mich allein mit den Geistern fechten（霊たちと戦うのは私一人にさせてほしい）」という第1連末行は詩人の孤独な霊的闘争の宣言として機能し、「Eva」「Styx」における孤独（einsam）のモチーフと連動する。",
+  "keywords": [
+    "Schwarze Sterne",
+    "Nacht",
+    "Hass",
+    "Geister",
+    "Geyerschwingen",
+    "Wildland",
+    "Eiswinde",
+    "Todestrübe",
+    "Not",
+    "孤独",
+    "霊的闘争"
+  ],
+  "relatedTexts": [
+    "laskerschuler_versoehnung",
+    "laskerschuler_styx",
+    "laskerschuler_eva",
+    "trakl_de_profundis",
+    "trakl_ein_winterabend",
+    "rodenbach_nocturne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Warum suchst du mich in unseren Nächten,\nIn Wolken des Hasses auf bösen Sternen!\nLaß mich allein mit den Geistern fechten.",
+      "provisionalTranslation": "なぜあなたは私たちの夜に私を探すのか、\n悪い星々の上の憎しみの雲の中で！\n霊たちと戦うのは私一人にさせてほしい。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Sie schnellen vorbei auf Geyerschwingen\nAus längst vergessenen Wildlandfernen.\nEiswinde durch Lenzessingen.",
+      "provisionalTranslation": "彼らは禿鷹の翼で通り過ぎる\nはるか昔に忘れられた荒野の遠方から。\n春の歌の中を吹く氷の風。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "Und du vergißt die Gärten der Sonne\nUnd blickst gebannt in die Todestrübe.\nAch was irrst du hinter meiner Not.",
+      "provisionalTranslation": "そしてあなたは太陽の庭々を忘れ\n死の陰鬱の中に魅入られたように見つめる。\nああ、なぜあなたは私の苦難の後をさまようのか。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Warum suchst du mich in unseren Nächten,\nIn Wolken des Hasses auf bösen Sternen!",
+      "body": "「なぜ私たちの夜に私を探すのか、悪い星々の上の憎しみの雲の中で」──「unseren Nächten（私たちの夜）」の所有格複数形が詩人と「Du」の共有された夜の時間を示す。「bösen Sternen（悪い星々）」──「Versöhnung」の「großer Stern（大きな星）」が愛と和解の到来を象徴するのと対照的に、「schwarze（黒い）・böse（悪い）」星は光と祝福の反転として機能する。「Wolken des Hasses（憎しみの雲）」という属格複合──「Abel」での「Kains Augen sind nicht gottwohlgefällig」に込められた神の不承認・憎しみのモチーフとの連動。感嘆符「！」が第2行末に置かれ、告発・嘆きの強度を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Laß mich allein mit den Geistern fechten.",
+      "body": "「霊たちと戦うのは私一人にさせてほしい」──命令法「Laß（させてほしい）」による拒絶の宣言。「allein（一人で）」──「Styx」v.5「Ich trinke einsam（私はひとり飲む）」・「Eva」の孤独な記憶の重みと連動するラスカー＝シューラーの詩語における孤独のモチーフ。「Geistern fechten（霊たちと戦う）」──「fechten（剣で戦う・フェンシングする）」という動詞が「霊（Geister）」との格闘を身体的・武闘的なものとして提示する：詩人の霊的闘争が具体的な戦闘の形象として現れる。韻律：v.1「Nächten」──v.3「fechten」の脚韻（-echten）、v.2「Sternen」──v.5「Wildlandfernen」の連（strophe）をまたぐ脚韻（-ernen）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Sie schnellen vorbei auf Geyerschwingen\nAus längst vergessenen Wildlandfernen.",
+      "body": "「彼らは禿鷹の翼で通り過ぎる／はるか昔に忘れられた荒野の遠方から」──「Geyerschwingen（禿鷹の翼）」・「Wildlandfernen（荒野の遠方）」はいずれもラスカー＝シューラーによる造語的複合名詞。「Geyer（禿鷹）」は死肉食性の鳥であり、戦場・荒廃・死のイメージを担う：第一次世界大戦（1914–18）の文脈で「Geyer」は戦死者の上を飛ぶ鳥として読める。「längst vergessenen Wildlandfernen（はるか昔に忘れられた荒野の遠方）」──「vergessen（忘れられた）」という過去分詞が「Eva」の「tausendstämmige Erinnerung（一千の幹の記憶）」と逆向きの方向性を持つ：「Eva」が記憶の重みを詩語にするのに対し、「Schwarze Sterne」は「忘却された遠方」からの侵入を語る。トラークル「De Profundis」の荒廃した風景との照応。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Eiswinde durch Lenzessingen.",
+      "body": "「春の歌の中を吹く氷の風」──第2連の閉幕行にして詩全体の最も凝縮されたイメージ。「Eiswinde（氷の風）」と「Lenzessingen（春の歌）」という季節的対立の複合：冬の暴力が春の生命の中を貫通する。動詞が省略された名詞句のみの構文──主述構造を持たない「裸の形象（nacktes Bild）」として行が自立する。「Lenzessingen」──「Lenzhaar（春の髪）」（「Eva」v.2）との語根「Lenz（春）」の共有：ラスカー＝シューラーにおける「春」は生命・愛・エデン的純粋性の象徴であり、その「歌（Singen）」の中を「氷の風」が貫くという対位法的構造が第2連全体の暗黒と生命の拮抗を一行に凝縮する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Und du vergißt die Gärten der Sonne\nUnd blickst gebannt in die Todestrübe.",
+      "body": "「あなたは太陽の庭々を忘れ、死の陰鬱の中に魅入られたように見つめる」──「Gärten der Sonne（太陽の庭々）」は「Zebaoth」v.2「Wenn du aus deinen Gärten trittst（あなたが庭々から踏み出るとき）」・「Eva」v.4「Bäume Edens（エデンの木々）」との庭・楽園モチーフの連鎖。「vergißt（忘れる）」──コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「忘却」と照応：光の庭を忘れ死の陰鬱へと向かう運動。「gebannt（魅入られた・呪縛された）」という形容詞副詞──「binden（縛る）」の変容として「Todestrübe（死の陰鬱）」への視線が呪縛・強制として提示される。「Todestrübe」はラスカー＝シューラーの造語：「Tod（死）」＋「Trübe（陰鬱・濁り・曇り）」。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Ach was irrst du hinter meiner Not.",
+      "body": "「ああ、なぜあなたは私の苦難の後をさまようのか」──詩の結語。「irren（さまよう・迷う）」という動詞が「hinter meiner Not（私の苦難の後ろで）」という空間的表現と結びつく：「Du（あなた）」が詩人の「Not（苦難）」を理解せず、その「後ろ」をさまよっているという形象。「Not（苦難・困窮）」──ヒエロニムス訳ヨブ記第7章「Numquid non militia est vita hominis super terram?（人間の地上の生は苦役ではないか？）」というヨブの嘆きとの照応：詩人の「Not」が聖書的苦悩の系譜に接続される。冒頭の「Warum（なぜ）」と末行の「was（何・なぜ）」という疑問詞の環状対応──問いで始まり問いで閉じる構造が「Abel」末行の問いによる閉幕、コヘレト第1章v.3の問いの閉幕と同型をなす。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    }
+  ]
+}
