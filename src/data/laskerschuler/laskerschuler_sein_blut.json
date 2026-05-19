@@ -1,0 +1,92 @@
+{
+  "id": "laskerschuler_sein_blut",
+  "title": "Sein Blut",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Sein_Blut",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 47, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による11行詩。「Sein Blut plagt ihn（彼の血が彼を苦しめる）」という refrain句が第1連末（v.4）と第3連末（v.11）に置かれ、詩全体を括る。「彼（Er）」という三人称単数の男性が詩の全行を通じて「私（ich）」の幸福・魂・心を破壊しようとする者として描かれるが、その破壊衝動の原因として「Sein Blut（彼の血）」が提示される──破壊は「彼」の意志ではなく「血」という生得的・肉体的強制力に帰される。「Am liebsten（最も好んで）」という副詞句の三連反復が各連の統辞的骨格を形成し、「pflückte…würfe（摘んで…投げ捨てる）」「lockte…（誘い込む）」「griff…hing（つかんで…吊るす）」という接続法II式または過去形の動詞連鎖が「実際には起きていない・あるいは繰り返し起きる」行為として提示される。「Letzte Rose im Maien（五月の最後の薔薇）」「Zitternden Sonnenstrahl（震える太陽の光線）」「spielendes Herz（遊ぶ心）」「wiegender Lenzhauch（揺れる春の息吹）」という生命・春・光のモチーフが、「Rinnstein（排水溝）」「düstre Nächtequal（暗い夜の苦悶）」「Dornstrauch（茨の茂み）」という破壊・暗黒・棘のイメージによって系統的に侵害される構造。「Dornstrauch（茨）」はキリスト教的受難（茨の冠）を暗示し、「Abel」のアベル＝殉教者との連動を可能にする。",
+  "keywords": [
+    "Sein Blut",
+    "Am liebsten",
+    "Rose",
+    "Seele",
+    "Herz",
+    "Dornstrauch",
+    "Nächtequal",
+    "Lenzhauch",
+    "Rinnstein",
+    "refrain",
+    "血の強制"
+  ],
+  "relatedTexts": [
+    "laskerschuler_abel",
+    "laskerschuler_schwarze_sterne",
+    "laskerschuler_versoehnung",
+    "laskerschuler_eva",
+    "baudelaire_spleen",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Am liebsten pflückte er meines Glückes\nLetzte Rose im Maien\nUnd würfe sie in den Rinnstein.\nSein Blut plagt ihn.",
+      "provisionalTranslation": "彼は最も好んで私の幸福の\n五月の最後の薔薇を摘み取り\nそれを排水溝に投げ捨てようとする。\n彼の血が彼を苦しめる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–7",
+      "original": "Am liebsten lockte er meiner Seele\nZitternden Sonnenstrahl\nIn seine düstre Nächtequal.",
+      "provisionalTranslation": "彼は最も好んで私の魂の\n震える太陽の光線を\n彼の暗い夜の苦悶の中に誘い込もうとする。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–11",
+      "original": "Am liebsten griff er mein spielendes Herz\nAus wiegendem Lenzhauch\nUnd hing es auf wo an einem Dornstrauch\n.... Sein Blut plagt ihn.",
+      "provisionalTranslation": "彼は最も好んで私の遊ぶ心を\n揺れる春の息吹から引き抜き\nどこかの茨の茂みに吊るそうとする\n……彼の血が彼を苦しめる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Am liebsten pflückte er meines Glückes\nLetzte Rose im Maien\nUnd würfe sie in den Rinnstein.",
+      "body": "「Am liebsten（最も好んで）」──三連にわたる反復句（v.1・v.5・v.8）による統辞的骨格。接続法II式「pflückte（摘み取るだろう）」「würfe（投げ捨てるだろう）」が「実際には起きていない仮定」あるいは「繰り返しへの衝動」として行為を提示する：確定した事実ではなく「最も好む行為」の反復的衝動として。「Letzte Rose im Maien（五月の最後の薔薇）」──「Maien（五月）」はドイツ語の詩的・古語的形式で「Wonnemonat（喜びの月）」としての五月を指す。「Letzte（最後の）」という形容詞が「最後の」薔薇──すでに残り少ない幸福の極限点──を摘む行為の残酷さを強調。「Rinnstein（排水溝・側溝）」──路傍の汚水溝：最も美しいものが最も卑賎な場所へと投棄されるという落差の最大化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Sein Blut plagt ihn.",
+      "body": "「彼の血が彼を苦しめる」──詩の refrain句。「Blut（血）」が行為主体として機能する：「彼（Er）」は破壊を欲するのではなく、「彼の血（Sein Blut）」が彼を「苦しめる（plagt）」という強制構造。「plagen（苦しめる・悩ます）」はヘブライ語・ギリシア語聖書の「afflictio（苦悩）」に対応するドイツ語の対応語。ラスカー＝シューラーの詩語における「Blut（血）」の系譜：「Versöhnung」v.12「dein Blut färbt meine Wangen rot」・「Abel」v.8「dein Blut färbt den Himmel tief」・「Eva」v.11「blutjung」──「血」が愛・殉教・若さの象徴として機能してきたのに対し、「Sein Blut plagt ihn」では「血」が破壊衝動の根源・生得的強制力として内面化される。",
+      "targetId": "laskerschuler_abel",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Am liebsten lockte er meiner Seele\nZitternden Sonnenstrahl\nIn seine düstre Nächtequal.",
+      "body": "「私の魂の震える太陽の光線を彼の暗い夜の苦悶の中に誘い込もうとする」──第2連は光の誘引・暗黒への捕囚という運動を描く。「Seele（魂）」から放出される「Zitternden Sonnenstrahl（震える太陽の光線）」という形象：魂が光として提示され、その光が「düstre Nächtequal（暗い夜の苦悶）」の中に「locken（誘い込む・おびき寄せる）」という動詞によって罠にかけられる。「Nächtequal」はラスカー＝シューラーの造語：「Nächte（夜々）」＋「Qual（苦悶・苦痛）」。「Schwarze Sterne」の「bösen Sternen（悪い星々）」・「Todestrübe（死の陰鬱）」と同系列の夜・死・苦悶の造語群。ボードレール「憂鬱（Spleen）」における「理想（Idéal）」の光が「憂鬱」の暗黒に捕囚される構造との照応。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Am liebsten griff er mein spielendes Herz\nAus wiegendem Lenzhauch\nUnd hing es auf wo an einem Dornstrauch",
+      "body": "「私の遊ぶ心を揺れる春の息吹から引き抜き、どこかの茨の茂みに吊るそうとする」──第3連は最も身体的・暴力的な形象。「spielendes Herz（遊ぶ心）」──「Eva」v.2「Lenzhaaren（春の髪）」・「Zebaoth」v.1「Rosenkleide（薔薇の衣）」との生命・春モチーフの連鎖が、ここで「Lenzhauch（春の息吹）」として集約される：「Lenz（春）」語根の詩群全体への反復。「Dornstrauch（茨の茂み）」──キリスト教的受難の象徴：イエスの茨の冠（ヒエロニムス訳ヨハネ19:2「Et milites plectentes coronam de spinis）」への暗示。「Abel」でアベル（詩人・殉教者）の血が天を染めたように、ここでは詩人の「心（Herz）」が茨に吊るされる──磔刑的形象。「hing es auf wo an einem Dornstrauch（どこかの茨の茂みに吊るす）」の「wo（どこかの）」という不定性が残酷さを宙吊りにする：特定の場所ではなく「どこか」という不確定性が恐怖を増幅する。",
+      "targetId": "laskerschuler_abel",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": ".... Sein Blut plagt ihn.",
+      "body": "「……彼の血が彼を苦しめる」──refrain句の第2回、かつ詩の閉幕。第1連末（v.4）では「Sein Blut plagt ihn.」と直接提示されたのに対し、末行では「....（四点リーダー）」が前置される──三点リーダーではなく四点という点がWikisource原典に忠実。この四点が「Dornstrauch」に心を吊るす行為と refrain句の間の沈黙・中断・言語の停止を示す：「Eva」末行の「–.」と同様の「言語が尽きる地点」の図像化。refrain の反復が「第1連→第3連」という間隔で配置されることで、第2連（v.5–7）が refrain なき中間部として機能する：苦悩の反復の中に refrain なき連が挟まれる非対称性が詩の呼吸を不均衡にする。"
+    }
+  ]
+}
