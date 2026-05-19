@@ -1,0 +1,122 @@
+{
+  "id": "laskerschuler_eva",
+  "title": "Eva",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Eva_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 25, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による旧約聖書「エヴァ」をめぐる詩。献辞「Dem Hans Ehrenbaum-Degele」はラスカー＝シューラーと深い関係にあった若い詩人・作曲家ハンス・エーレンバウム＝デゲレ（1889–1915）への捧辞──彼は第一次世界大戦で戦死しており、この詩はその死への哀悼と読むこともできる。「エヴァ（Eva）」という題名は創世記の「ハヴァ（Ḥawwāh）」、すなわち「生きているもの・生命の母」を指す。詩は一人称話者が「エヴァ」の立場から語るのか、あるいは語り手がエヴァを「一千の幹の記憶（tausendstämmige Erinnerung）」として自らの内に持つ存在として語るのか──発話主体が意図的に曖昧化されている。「Lenzhaar（春の髪）」「Blüten der Bäume Edens（エデンの木の花々）」「keimende Liebe（萌芽する愛）」という開花・生命のモチーフと、「vertriebenes Sehnen（追放された憧憬）」「tausendstämmige Erinnerung（一千の幹の記憶）」という喪失・重みのモチーフが拮抗する。冒頭行と末行の環状反復（「Du hast deinen Kopf tief über mich gesenkt」）がこの詩にも「Versöhnung」と同型の閉幕構造を与えるが、末行では「–.」という複合句読点（ダッシュ＋ピリオド）が付加され、反復が完結ではなく中断・沈黙として閉じられる。ヒエロニムス訳創世記のエヴァ──アダムの「骨の骨、肉の肉（os ex ossibus meis, caro de carne mea）」として生まれた者が「楽園追放（expulsio）」の原因として歴史全体の記憶を背負う──というモチーフが「tausendstämmige Erinnerung」と「adamjung」に凝縮されている。",
+  "keywords": [
+    "Eva",
+    "Eden",
+    "Erinnerung",
+    "Seele",
+    "Sehnsucht",
+    "adamjung",
+    "tausendstämmig",
+    "Lenzhaar",
+    "創世記",
+    "楽園追放",
+    "表現主義"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_1",
+    "hieronymus_genesis_4",
+    "laskerschuler_versoehnung",
+    "laskerschuler_abel",
+    "laskerschuler_zebaoth",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(Dem Hans Ehrenbaum-Degele)",
+      "provisionalTranslation": "（ハンス・エーレンバウム＝デゲレへ）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Du hast deinen Kopf tief über mich gesenkt,\nDeinen Kopf mit den goldenen Lenzhaaren,\nUnd deine Lippen sind von rosiger Seidenweichheit,\nWie die Blüten der Bäume Edens waren.",
+      "provisionalTranslation": "あなたは頭を深く私の上に傾けた、\n黄金の春の髪をもつその頭を、\nそしてあなたの唇は薔薇色の絹の柔らかさ、\nエデンの木々の花々がそうであったように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Und die keimende Liebe ist meine Seele.\nO, meine Seele ist das vertriebene Sehnen,\nDu zitterst vor Ahnungen,\nWeißt nicht, warum deine Träume stöhnen.",
+      "provisionalTranslation": "そして萌芽する愛が私の魂だ。\nああ、私の魂は追放された憧憬、\nあなたは予感に震え、\nなぜ夢がうめくのか知らない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Und ich liege schwer auf deinem Leben,\nEine tausendstämmige Erinnerung,\nUnd du bist so blutjung, so adamjung …\nDu hast deinen Kopf tief über mich gesenkt –.",
+      "provisionalTranslation": "そして私はあなたの生の上に重く横たわる、\n一千の幹を持つ記憶として、\nそしてあなたはこんなに血のように若く、アダムのように若い……\nあなたは頭を深く私の上に傾けた──。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "(Dem Hans Ehrenbaum-Degele)",
+      "body": "献辞「ハンス・エーレンバウム＝デゲレへ（Dem Hans Ehrenbaum-Degele）」──ハンス・エーレンバウム＝デゲレ（Hans Ehrenbaum-Degele, 1889–1915）はドイツの詩人・作曲家。ラスカー＝シューラーと深い親交を持ったが、第一次世界大戦中の1915年にリトアニアで戦死した。この詩が収録される*Gesammelte Gedichte*（1917年）は彼の死後2年の出版であり、献辞は哀悼の刻印として機能する。詩中の「Du（あなた）」が彼を指示する可能性──「頭を深く私の上に傾けた」「血のように若い（blutjung）」「アダムのように若い（adamjung）」という若さの形象が、戦死した若者への追悼として読める。「Zebaoth」献辞のフランツ・ユング（無政府主義者・生存者）と対照的に、「Eva」献辞の受取人は詩の出版時点で既に死者である。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Wie die Blüten der Bäume Edens waren.",
+      "body": "「エデンの木々の花々がそうであったように」──過去形「waren（であった）」の使用が決定的：エデンは現在ではなく喪失された過去として召喚される。ヒエロニムス訳創世記第2章v.9「produxitque Dominus Deus de humo omne lignum pulchrum visu et ad vescendum suave（主なる神はすべての木を大地から芽吹かせた、見るに美しく、食べるに甘い）」──エデンの木々の「美しさ（pulchrum visu）」と「甘さ（suave）」が「Lenzhaaren（春の髪）」「rosiger Seidenweichheit（薔薇色の絹の柔らかさ）」という感覚語彙に転写される。「Blüten（花々）」──「Abel」v.1「Abels Angesicht ist ein goldener Garten（アベルの顔は黄金の庭）」・「Zebaoth」v.1「in deinem Rosenkleide（薔薇の衣の中に）」との花・庭モチーフの連鎖。「Eden（エデン）」という固有名詞の直接使用が、詩の発語空間を神話的・聖書的時間として確定させる。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Du hast deinen Kopf tief über mich gesenkt,",
+      "body": "冒頭行と末行（v.12）を結ぶ環状構造の起点。「tief（深く）」という副詞が傾きの深度を強調し、「über mich gesenkt（私の上に傾けた）」という動詞句が包み込みの身体的形象を提示する。「Versöhnung」の環状構造（冒頭・末行の反復）と同型だが、本詩末行では「–.」（ダッシュ＋ピリオド）が付加される──反復が「完結」ではなく「中断・沈黙への落下」として閉じられる。この句読点の差異：「Versöhnung」末行の確定的反復（省略符なし）に対し、「Eva」末行の「–.」は言葉が尽きる地点を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Und die keimende Liebe ist meine Seele.\nO, meine Seele ist das vertriebene Sehnen,",
+      "body": "「萌芽する愛が私の魂──私の魂は追放された憧憬」──二行が「Seele（魂）」を媒介として等式連鎖を形成する：keimende Liebe ＝ Seele ＝ vertriebenes Sehnen。「keimend（萌芽する・発芽する）」という現在分詞が生命の始まりを、「vertrieben（追放された）」という過去分詞が喪失・楽園追放を指示する：愛の誕生と追放が魂において同一であるという逆説。「vertrieben（追放された）」──ヒエロニムス訳創世記第3章v.24「ejecitque Adam（アダムを追い出した）」の「追放（eicere / expellere）」の変奏。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──「vertriebenes Sehnen（追放された憧憬）」という空虚化された魂が恩寵の受容空間として機能するという読解が可能。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Du zitterst vor Ahnungen,\nWeißt nicht, warum deine Träume stöhnen.",
+      "body": "「あなたは予感に震え、なぜ夢がうめくのか知らない」──「Du（あなた）」への語りかけが第2連で初めて「あなた」の内面（予感・夢・うめき）へと向かう。「Ahnung（予感）」はドイツ・ロマン主義の中心概念：未だ言語化されない感知・予兆。「Träume stöhnen（夢がうめく）」──夢を行為主体として擬人化し、「うめく（stöhnen）」という苦悶の動詞を付与する。コヘレト第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明することができない）」──「Weißt nicht, warum（なぜか知らない）」という認識の不能が、コヘレトの「言語化不可能性」の詩的変奏として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Eine tausendstämmige Erinnerung,",
+      "body": "「一千の幹を持つ記憶」──「tausendstämmig（一千の幹の・千幹の）」という複合形容詞はラスカー＝シューラーの詩語における最も独自な造語の一つ。「Stamm（幹・部族・起源）」の複数形「Stämme」を「tausend（一千）」と複合させることで、「記憶」が単一の木ではなく「一千の部族・系譜・根」を持つ森として形象化される。エヴァ＝すべての人類の「母（Mutter aller Lebendigen）」（創世記3:20）という神話的役割──「一千の幹の記憶」とは人類全体の系譜的記憶としてのエヴァの重みを指す。「liege schwer（重く横たわる）」という動詞が、この記憶の重さを「あなたの生（Leben）の上に」物理的重力として描く：ヴェイユ「重力と恩寵（pesanteur et grâce）」における「重力（pesanteur）」としての過去・記憶の圧力との照応。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Und du bist so blutjung, so adamjung …",
+      "body": "「あなたはこんなに血のように若く、アダムのように若い」──「blutjung（血のように若い）」は「血（Blut）＋若い（jung）」の複合語でドイツ語慣用句として存在するが、「Abel」「Versöhnung」における「Blut（血）」モチーフの文脈でより鮮烈に機能する。「adamjung（アダムのように若い）」はラスカー＝シューラーによる造語──「Adam（アダム）」を形容詞化したもの。ヒエロニムス訳創世記第2章v.7「formavit igitur Dominus Deus hominem de limo terrae（主なる神は人を大地の塵から形作った）」──創られたばかりのアダムの「原初の若さ」。「adamjung」という造語が「Eden」（v.4）と呼応し、詩の時間を「楽園の始まり」へと引き戻す。「…」という省略符が「adamjung」の後に置かれ、言葉が止まる──「blutjung」が戦死した献辞受取人（エーレンバウム＝デゲレ）の若さへの哀惜として読める。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Du hast deinen Kopf tief über mich gesenkt –.",
+      "body": "冒頭行（v.1）の反復による環状閉幕。ただし末行には「–.」（ダッシュ＋ピリオド）が付加される──冒頭の「,（コンマ）」が持っていた「続き・開口性」が、末行では「–.」によって「中断・沈黙・閉幕」へと転換される。「Versöhnung」の環状反復（省略符「…」の脱落による確定的閉幕）と対照的：「Eva」の「–.」は言語が到達できない地点への落下、沈黙の図像化として機能する。リルケ「第一ドゥイノ悲歌」末行「Und wir, die an steigendes Glück denken（そして私たちは上昇する幸福を思う）」の未完結的閉幕との照応──詩が完結を拒否し、余白へと開く。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    }
+  ]
+}
