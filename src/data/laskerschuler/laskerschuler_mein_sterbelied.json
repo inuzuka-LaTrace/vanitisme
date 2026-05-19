@@ -1,0 +1,103 @@
+{
+  "id": "laskerschuler_mein_sterbelied",
+  "title": "Mein Sterbelied",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Mein_Sterbelied",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 66, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による15行の「死の歌（Sterbelied）」。「Sterbelied（死にゆく歌・臨終の歌）」という複合名詞──「sterben（死ぬ）＋Lied（歌）」──が詩を「死の床の歌」として定位する。しかしこの詩は死への恐怖や嘆きではなく、死への柔らかな移行・変容の詩として展開する。「Die Nacht ist weich von Rosensanftmut（夜は薔薇の柔らかさで柔らかい）」という冒頭が「Versöhnung」の「Wir wollen wachen die Nacht（私たちは夜を起きていよう）」とは対照的に「柔らかい夜」として死の訪れを迎える。第1連では「最後の夜（letzte Nacht）」が「海のように遠く永遠（so weit und ewig wie ein Meer）」に向かって歩む。第2連では「Du（あなた）」への最後の求め──「Jubelndste（最も喜びに満ちた）もの」と「雲に翳らない黄金」──が愛する者からの贈り物として要求される。第3連では「Paradiessterne（楽園の星々）」が「最初の人間たちを揺り籠で揺らす」という創世記的・終末論的ヴィジョンの中で、詩人が「Leben（生命）」そのものとなって「Leben mich an Leben schmiegen（生命が生命に寄り添う）」という生命の溶融として死後の状態を描く。「Der letzte Stern」の「Blindnis（盲目）」への収縮と対照的に、「Mein Sterbelied」は死を「Paradiessterne」への上昇・帰還として提示する──詩集内でもっとも「開かれた」閉幕を持つ詩。",
+  "keywords": [
+    "Sterbelied",
+    "Nacht",
+    "Herz",
+    "Blut",
+    "Meer",
+    "Gold",
+    "Harmonien",
+    "Paradiessterne",
+    "Leben",
+    "死",
+    "変容",
+    "楽園"
+  ],
+  "relatedTexts": [
+    "laskerschuler_versoehnung",
+    "laskerschuler_der_letzte_stern",
+    "laskerschuler_zebaoth",
+    "laskerschuler_eva",
+    "hieronymus_genesis_1",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Die Nacht ist weich von Rosensanftmut;\nKomm, gib mir deine beiden Hände her,\nMein Herz pocht spät\nUnd durch mein Blut\nWandert die letzte Nacht und geht\nUnd naht so weit und ewig wie ein Meer.",
+      "provisionalTranslation": "夜は薔薇の柔らかさで柔らかい。\n来て、あなたの両手を私に差し出してほしい、\n私の心は遅く鼓動し\n私の血を通って\n最後の夜が歩み、去っていく\nそして海のように遠く永遠へと近づいてくる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–9",
+      "original": "Und hast du mich so sehr geliebt,\nSo nimm das Jubelndste von deinem Tag,\nGib mir das Gold, das keine Wolke trübt.",
+      "provisionalTranslation": "そしてあなたが私をこんなに愛してくれたなら、\nあなたの一日から最も喜びに満ちたものを取り、\n雲が翳らせることのない黄金を私に与えてほしい。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–15",
+      "original": "Es wallen Harmonien aus der Nachtlandferne –\nIch ziehe ein\nUnd werde Leben sein\nUnd Leben mich an Leben schmiegen,\nWenn über mir Paradiessterne\nIhre ersten Menschen wiegen.",
+      "provisionalTranslation": "夜の地の遠方から調和が揺れ渡る──\n私は入っていく\nそして生命となるだろう\nそして生命が生命に寄り添い、\n私の上で楽園の星々が\n最初の人間たちを揺り籠で揺らすとき。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Die Nacht ist weich von Rosensanftmut;",
+      "body": "「夜は薔薇の柔らかさで柔らかい」──「Rosensanftmut（薔薇の柔らかさ・薔薇の温和）」はラスカー＝シューラーの造語：「Rose（薔薇）＋Sanftmut（温和・柔らかさ）」。「Versöhnung」v.1「Es wird ein großer Stern in meinen Schoß fallen」が宇宙的到来としての夜であったのに対し、「Mein Sterbelied」の夜は「weich（柔らかい）」という触覚的形容詞によって受容的・包容的なものとして提示される。「Rose（薔薇）」──「Zebaoth」v.1「in deinem Rosenkleide（薔薇の衣の中に）」・「Sein Blut」v.2「Letzte Rose im Maien（五月の最後の薔薇）」との薔薇モチーフの連鎖：詩群全体を通じて薔薇は神・愛・生命の象徴であり、「Sterbelied」ではその柔らかさが死の夜を包む。セミコロン「；」による行末の停止：完全な閉幕でなく「次への接続」として機能する句読点。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mein Herz pocht spät\nUnd durch mein Blut\nWandert die letzte Nacht und geht",
+      "body": "「私の心は遅く鼓動し、私の血を通って最後の夜が歩み、去っていく」──「pocht spät（遅く鼓動する）」：心臓の鼓動の遅延が死の近接を身体的に示す。「durch mein Blut（私の血を通って）」──「Abel」v.8「dein Blut färbt den Himmel tief」・「Versöhnung」v.12「färbt dein Blut meine Wangen rot」・「Sein Blut plagt ihn」と連動するラスカー＝シューラーの「Blut（血）」モチーフ：ここでは血が「最後の夜の通路（durch）」として機能する。「Wandert（歩む・さまよう）」──「Styx」の「Flösse mit seinen Wassern（その水とともに流れる）」と同様の流れ・移行の動詞。「die letzte Nacht（最後の夜）」が「geht（去っていく）」という動詞と結びつく：夜が「去る」ことが死の到来の逆説的表現。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Und naht so weit und ewig wie ein Meer.",
+      "body": "「海のように遠く永遠へと近づいてくる」──「naht（近づく）」と「so weit（こんなに遠く）」の逆説：「近づきながら遠い」という矛盾が死の接近の感覚を捉える。「so weit und ewig wie ein Meer（海のように遠く永遠）」という比喩──「Styx」の「wie mein Leben so tief（私の生のように深い）」と同型の「wie（〜のように）」による比較構文。「Meer（海）」はコヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」の「充足しない海」と異なり、ここでは「永遠（ewig）」の象徴として肯定的に機能する：死が「海」という広大な永遠へと開かれる。韻律：v.2「her」──v.6「Meer」の脚韻、v.3「spät」──v.5「geht」の脚韻、v.4「Blut」が孤立──詩の心臓（Herz・Blut）の部分が韻律の外に置かれる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Und hast du mich so sehr geliebt,\nSo nimm das Jubelndste von deinem Tag,\nGib mir das Gold, das keine Wolke trübt.",
+      "body": "「あなたが私をこんなに愛してくれたなら──最も喜びに満ちたものを、雲が翳らせることのない黄金を与えてほしい」──第2連は死の床における「Du（あなた）」への最後の要求として機能する。「Jubelndste（最も喜びに満ちた）」という最上級──「Abel」v.4「Immer singt Abel so hell（アベルはいつもそんなに明るく歌う）」のアベルの歌の喜びと連動する。「Gold, das keine Wolke trübt（雲が翳らせることのない黄金）」──「Zebaoth」v.10「Deines Tores Gold schmilzt（あなたの門の黄金が溶ける）」・「Abel」v.2「goldener Garten（黄金の庭）」・「Eva」v.2「goldenen Lenzhaaren（黄金の春の髪）」との黄金モチーフの連鎖：詩群全体を流れる黄金が「曇らない（keine Wolke trübt）」完全な形で臨終の贈り物として求められる。条件構文「Und hast du…So nimm」が愛の確認と要求を結ぶ：愛があるなら贈れ、という条件的要求。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Es wallen Harmonien aus der Nachtlandferne –",
+      "body": "「夜の地の遠方から調和が揺れ渡る」──「wallen（揺れ渡る・波打つ）」という動詞が「Harmonien（調和・和声）」の流動的・波状的運動を示す。「Nachtlandferne（夜の地の遠方）」──「Schwarze Sterne」v.5「Wildlandfernen（荒野の遠方）」と同型の造語：「Nachtland（夜の地）＋Ferne（遠方）」。「Harmonien（調和・和声）」──詩の終末において「Schwarze Sterne」「Sein Blut」の不和・苦悶・暴力と対極的な「調和」が到来する：死の閾における和解。「Abel」の「Immer singt Abel so hell / Zu den Saiten seiner Seele（アベルはいつもそんなに明るく歌う、魂の弦に合わせて）」とのモチーフ連動：詩人の死の床で「Abel」の音楽的魂が「Harmonien」として帰還する読解が可能。「–（ダッシュ）」が「Harmonien」の宣言と「Ich ziehe ein（私は入っていく）」の間を区切る：臨界点の図像。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ich ziehe ein\nUnd werde Leben sein\nUnd Leben mich an Leben schmiegen,",
+      "body": "「私は入っていく──そして生命となるだろう──そして生命が生命に寄り添う」──「einziehen（入っていく・引っ越す）」という動詞が死を「移住・転入」として形象化する：死が消滅ではなく「別の場所への移動」として提示される。「werde Leben sein（生命となるだろう）」──「Ich（私）」が「Leben（生命）」として変容する：個体の死が生命一般への溶融として。「Leben mich an Leben schmiegen（生命が生命に寄り添う）」──「schmiegen（寄り添う・しなやかに密着する）」という動詞の官能性：「Versöhnung」の「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」の死への抵抗が、ここでは死後における「生命と生命の寄り添い」として昇華される。「Leben」の三回反復（werde Leben sein / Leben mich an Leben）が「生命」の無限増殖を音楽的に実演する。",
+      "targetId": "laskerschuler_versoehnung",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Wenn über mir Paradiessterne\nIhre ersten Menschen wiegen.",
+      "body": "「私の上で楽園の星々が最初の人間たちを揺り籠で揺らすとき」──詩の結語的ヴィジョン。「Paradiessterne（楽園の星々）」──「Versöhnung」の「großer Stern」・「Schwarze Sterne」の「schwarze／böse Sterne」・「Der letzte Stern」の収縮する「letzter Stern」という詩群の星モチーフが「Paradiessterne」として楽園化・複数化・祝福化される：詩集の星モチーフの最終的変容。「Ihre ersten Menschen wiegen（最初の人間たちを揺り籠で揺らす）」──「ersten Menschen（最初の人間たち）」はアダムとエヴァ（ヒエロニムス訳創世記第1章・第2章）への参照：詩人の死後に「楽園の星々」が「最初の人間たち」を「揺り籠で揺らす（wiegen）」というヴィジョンが、死を創世の時間への帰還として提示する。「Eva」の「adamjung（アダムのように若い）」・「Bäume Edens（エデンの木々）」との創世記的モチーフの閉環。「Der letzte Stern」末行の「In der Blindnis（盲目の中で）」という閉幕と対照的に、「Mein Sterbelied」は「Paradiessterne」という光の開口部で閉じる：詩集内における最も「開かれた」閉幕。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    }
+  ]
+}
