@@ -9,7 +9,7 @@
   "category": "laskerschuler",
   "originalLang": "de-DE",
   "modernRelevance": "★★★★★",
-  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による極度に凝縮された3行詩。「Styx（スティクス）」はギリシア神話において冥界を九重に囲む河であり、死者がカロンの渡し船で渡る境界の水。この神話的固有名詞を詩題とし、「wunschlos（願いなく）」眠ること──すなわち欲望の完全な消滅としての死──への願望が、「私の生のように深い（wie mein Leben so tief）」河の形象とともに提示される。「Wüßt ich einen Strom（ある河を知っていれば）」という接続法II式（非現実話法）が詩全体を「ありえない仮定」として提示する：そのような河は存在しない、ゆえに「wunschlos」の眠りも到来しない、という二重の不可能性。後記「Die Gedichte des Styx schenke ich Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin」はルートヴィヒ・フォン・フィッカー（Ludwig von Ficker, 1880–1967）への捧辞──フィッカーはインスブルック発行の文芸誌『Der Brenner』の編集者・発行人であり、ゲオルク・トラークルの最大の支援者として知られる。「dem Landvogt von Tyrol（チロルの総督）」というふざけた敬称と「seiner schönen Schwedin（彼の美しいスウェーデン女性）」という添え書きが、深刻な詩本体と親密・軽妙な後記の対比を生む。トラークルがフィッカーの支援を受けていたという事実が、この詩をトラークル詩篇との横断的読解の文脈に置く。",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による極度に凝縮された3行詩。「Styx（ステュクス）」はギリシア神話において冥界を九重に囲む河であり、死者がカロンの渡し船で渡る境界の水。この神話的固有名詞を詩題とし、「wunschlos（願いなく）」眠ること──すなわち欲望の完全な消滅としての死──への願望が、「私の生のように深い（wie mein Leben so tief）」河の形象とともに提示される。「Wüßt ich einen Strom（ある河を知っていれば）」という接続法II式（非現実話法）が詩全体を「ありえない仮定」として提示する：そのような河は存在しない、ゆえに「wunschlos」の眠りも到来しない、という二重の不可能性。後記「Die Gedichte des Styx schenke ich Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin」はルートヴィヒ・フォン・フィッカー（Ludwig von Ficker, 1880–1967）への捧辞──フィッカーはインスブルック発行の文芸誌『Der Brenner』の編集者・発行人であり、ゲオルク・トラークルの最大の支援者として知られる。「dem Landvogt von Tyrol（チロルの総督）」というふざけた敬称と「seiner schönen Schwedin（彼の美しいスウェーデン女性）」という添え書きが、深刻な詩本体と親密・軽妙な後記の対比を生む。トラークルがフィッカーの支援を受けていたという事実が、この詩をトラークル詩篇との横断的読解の文脈に置く。",
   "keywords": [
     "Styx",
     "wunschlos",
@@ -42,7 +42,7 @@
       "id": 2,
       "verses": "postface",
       "original": "(Die Gedichte des Styx schenke ich Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin)",
-      "provisionalTranslation": "（スティクスの詩篇を私はルートヴィヒ・フォン・フィッカー、チロルの総督と彼の美しいスウェーデン女性に贈る）"
+      "provisionalTranslation": "（ステュクスの詩篇を私はルートヴィヒ・フォン・フィッカー、チロルの総督と彼の美しいスウェーデン女性に贈る）"
     }
   ],
   "annotations": [
@@ -66,7 +66,7 @@
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "Die Gedichte des Styx",
-      "body": "「スティクスの詩篇（Die Gedichte des Styx）」──後記においてラスカー＝シューラーは本詩を単独作品ではなく「スティクスの詩篇」という詩群の一つとして位置づける。ギリシア神話における「Styx（スティクス）」はギリシア語「στυγεῖν（stygein：憎む・嫌う）」に由来し、「憎悪の河」を意味する。冥界を九重に囲む河であり、神々が誓いを立てる際の最高の証人として機能する──スティクスへの誓いは神々にとっても破れない。死者はカロン（Charon）の渡し船でスティクスを渡る：これが詩本体「Flösse mit seinen Wassern（その水とともに流れていく）」という動詞の神話的背景。ゲオルク・ハイム「スティクス（Styx）」との語彙的照応──ハイムも同名詩でこの冥界の河を詩語に召喚している。",
+      "body": "「ステュクスの詩篇（Die Gedichte des Styx）」──後記においてラスカー＝シューラーは本詩を単独作品ではなく「ステュクスの詩篇」という詩群の一つとして位置づける。ギリシア神話における「Styx（ステュクス）」はギリシア語「στυγεῖν（stygein：憎む・嫌う）」に由来し、「憎悪の河」を意味する。冥界を九重に囲む河であり、神々が誓いを立てる際の最高の証人として機能する──ステュクスへの誓いは神々にとっても破れない。死者はカロン（Charon）の渡し船でステュクスを渡る：これが詩本体「Flösse mit seinen Wassern（その水とともに流れていく）」という動詞の神話的背景。ゲオルク・ハイム「ステュクス（Styx）」との語彙的照応──ハイムも同名詩でこの冥界の河を詩語に召喚している。",
       "targetId": "heym_styx",
       "targetParagraphId": null
     },
