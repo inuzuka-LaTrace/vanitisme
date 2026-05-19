@@ -1,0 +1,105 @@
+{
+  "id": "laskerschuler_versoehnung",
+  "title": "Versöhnung",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Vers%C3%B6hnung_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Der Sturm, Nr. 125/126（初出）; Gesammelte Gedichte, S. 10, Verlag der Weißen Bücher, Leipzig, 1917（書籍初収録）",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）はドイツ表現主義の最重要詩人の一人であり、ユダヤ系ドイツ人女性詩人として独自の神秘的・聖書的イマジネーションを詩語に融合させた。「Versöhnung（和解・贖罪）」はその代表作の一つ。「大きな星が私の膝に落ちてくる」という冒頭と末行による環状構造、「夜」「神」「祈り」「ハープ」「血」という聖書的・エロス的語彙の混交が、表現主義特有の強烈な映像言語を形成する。ヘブライ語「יוֹם כִּפּוּר（Yom Kippur）」すなわち「贖罪の日（大贖罪日）」を背景に持つ「Versöhnung」という題名は、単なる男女の和解を超えた宇宙的・神学的次元の「和解」を示唆する。「In den Sprachen beten（諸々の言語で祈る）」というモチーフは、ユダヤ・キリスト教・イスラームの多言語的祈りへの参照であると同時に、詩語そのものが「ハープのように刻まれた言語」であるという詩学的自己言及でもある。フランツ・マルクの木版画（Der Sturm誌掲載）が詩の視覚的等価物を提供する。VANITISMEにおいては、夜・死・抱擁・星という語彙群がトラークル、ローデンバック、ホフマンスタールとの横断的読解を可能にする。",
+  "keywords": [
+    "Versöhnung",
+    "Stern",
+    "Nacht",
+    "Gebet",
+    "Harfen",
+    "Sprachen",
+    "Herz",
+    "Blut",
+    "Tod",
+    "表現主義",
+    "ユダヤ神秘主義"
+  ],
+  "relatedTexts": [
+    "trakl_ein_winterabend",
+    "trakl_verklaerung",
+    "hofmannsthal_erlebnis",
+    "rodenbach_nocturne",
+    "george_wir_schreiten"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Es wird ein großer Stern in meinen Schoß fallen …\nWir wollen wachen die Nacht,\n\nIn den Sprachen beten,\nDie wie Harfen eingeschnitten sind.",
+      "provisionalTranslation": "大きな星が私の膝に落ちてくる……\n私たちは夜を共に起きていよう、\n\n諸々の言語で祈ろう、\nハープのように刻まれたあの言語たちで。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Wir wollen uns versöhnen die Nacht –\nSo viel Gott strömt über.\n\nKinder sind unsere Herzen,\nDie möchten ruhen müdesüß.",
+      "provisionalTranslation": "私たちは夜、和解しよう──\nこれほど多くの神が溢れ流れるのだから。\n\n子供のような私たちの心、\n甘い疲れの中で休みたがっている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Und unsere Lippen wollen sich küssen,\nWas zagst du?\n\nGrenzt nicht mein Herz an deins –\nImmer färbt dein Blut meine Wangen rot.",
+      "provisionalTranslation": "そして私たちの唇はキスしたがっている、\nなぜ躊躇うのか？\n\n私の心はあなたの心に隣り合っているのではないか──\nいつもあなたの血が私の頬を赤く染める。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–15",
+      "original": "Wir wollen uns versöhnen die Nacht,\nWenn wir uns herzen, sterben wir nicht.\n\nEs wird ein großer Stern in meinen Schoß fallen.",
+      "provisionalTranslation": "私たちは夜、和解しよう、\n抱き合えば、私たちは死なない。\n\n大きな星が私の膝に落ちてくる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Es wird ein großer Stern in meinen Schoß fallen",
+      "body": "詩の冒頭と末行（v.15）を結ぶ環状構造の起点。「großer Stern（大きな星）」はユダヤ教的・メシア的文脈における「星」（民数記24:17「ヤコブから星が出る」）と、表現主義的な宇宙的崩壊のイメージの二重性を持つ。「Schoß（膝・胎）」は母性的・性的含意を同時に持つドイツ語で、神的なものの「受肉」と愛の成就が重なる。動詞「fallen（落ちる）」が未来形（wird fallen）で提示されることで、詩全体がこの到来する「星の落下」への予期として展開する構造になっている。末行（v.15）では同一の文から「…」が消え、省略符が取り除かれた確定形として反復される──予期が成就へと変容する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "In den Sprachen beten,\nDie wie Harfen eingeschnitten sind.",
+      "body": "「諸々の言語で祈る」──「Sprachen（言語・諸言語）」の複数形がユダヤ・キリスト教・イスラームの多言語的祈りへの参照として機能する。ラスカー＝シューラーはヘブライ語・ドイツ語・アラビア語が混交する文化的文脈の中に生きた詩人であった。「wie Harfen eingeschnitten（ハープのように刻まれた）」──言語（祈りの語）がハープの弦のように「彫り込まれ・刻まれた」ものとして比喩される。ヘブライ語聖書において「ハープ（キナー）」はダヴィデ王の詩篇の楽器であり、詩・祈り・神への讃美の象徴。詩語そのものが「刻まれた楽器」であるという詩学的自己言及として読める。ヒエロニムス訳詩篇の「canticum（歌）」と照応する詩的祈りの概念。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Wir wollen uns versöhnen die Nacht –",
+      "body": "ドイツ語「versöhnen（和解する・贖罪する）」はヘブライ語「כָּפַר（kapar：覆う・贖う）」に由来する宗教概念「贖罪（Sühne）」を内包する。「Yom Kippur（贖罪の日）」は「kapar」から派生する。詩の題名「Versöhnung」が単なる男女の「仲直り」ではなく、ユダヤ神学における「神との和解」「罪の赦し」という垂直的次元を持つことをこの語彙的背景が示す。「So viel Gott strömt über（これほど多くの神が溢れ流れる）」という表現と結びついて、「和解」の主体が人間的エロスと神的な恩寵の両次元にまたがることが示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "So viel Gott strömt über.",
+      "body": "「これほど多くの神が溢れ流れる」──「strömt über（溢れ流れる）」という動詞が神の豊溢・充満のイメージを提示する。ヴェイユ「Accepter le vide（真空を受容する）」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」と対称的──ヴェイユが「空虚」を恩寵の前提とするのに対し、ラスカー＝シューラーは「溢れ流れる神」の過剰を詩的現実として提示する。トラークル「Verklaerung（変容）」の「Gott（神）」が夜と苦悩の文脈で召喚されるのと対照的に、ここでの神は「strömend（流れる）」動的なものとして現れる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Grenzt nicht mein Herz an deins –\nImmer färbt dein Blut meine Wangen rot.",
+      "body": "「私の心はあなたの心に隣り合っているのではないか」──「grenzen an（〜に接する・隣り合う）」という地理的・空間的動詞が「Herz（心）」の内的空間に適用される。心が「接する（angrenzen）」という身体的・地図的イメージは表現主義の具体性の典型。「Immer färbt dein Blut meine Wangen rot（いつもあなたの血が私の頬を赤く染める）」──「Blut（血）」は愛のエロス的シンボルであると同時に、ユダヤ・キリスト教的文脈における「契約の血」・受難の血の連想を帯びる。「färbt…rot（赤く染める）」という色彩動詞が視覚的イメージを強烈に定着させる──ラスカー＝シューラーの詩語における色彩の官能性はトラークルの「rotes Gold（赤い金）」「blaue Seele（青い魂）」と並ぶドイツ表現主義の色彩詩学の実例。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wenn wir uns herzen, sterben wir nicht.",
+      "body": "「抱き合えば、私たちは死なない」──詩の神学的核心命題。「herzen（抱擁する）」という動詞は「Herz（心）」から派生する──「心から抱く」という語義。愛の行為と死の否定が条件構文（wenn…nicht）で結ばれる：エロスがタナトスを無効化するという宣言。ヴァニタス的文脈では「sterben wir nicht」という死の否定は逆説的──VANITISME収録のほとんどの詩が死・虚無の肯定に向かうのに対し、この詩は「夜の和解」という具体的な愛の行為によって死を退けようとする。ただしこの命題は「wollen（〜したい）」「wenn（もし〜ならば）」という意志と条件の文法的形式のもとに置かれており、確実な事実ではなく願望・賭けとして提示される点が重要。ヨブ記第1章v.21「Nudus egressus sum…nudus revertar（裸で出た、裸で戻ろう）」という剥奪の受容と対称的に、ラスカー＝シューラーは抱擁という充填によって死に抗おうとする。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Es wird ein großer Stern in meinen Schoß fallen.",
+      "body": "冒頭行（v.1）の厳密な反復による環状閉幕。ただし冒頭の「…（省略符）」が消えている──開幕時の「…」が持っていた「予期・余白・続き」のニュアンスが、末行では省略符なしの確定形として解消される。この省略符の脱落が「予期された到来の成就」を詩形的に示す：詩全体が星の落下という出来事の「間（あいだ）」として展開し、末行でその到来が確定する。マラルメ「骰子一擲」の「偶然の廃棄不可能性」と対称的な詩的戦略──ラスカー＝シューラーは「星の到来」を愛と祈りによって確定させようとする。環状構造はコヘレト第1章v.5–7の太陽・川・風の循環とは異なり、「反復」ではなく「成就への到達」として機能する。"
+    }
+  ]
+}
