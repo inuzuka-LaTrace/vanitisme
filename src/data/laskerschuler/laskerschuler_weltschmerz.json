@@ -1,0 +1,86 @@
+{
+  "id": "laskerschuler_weltschmerz",
+  "title": "Weltschmerz",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Weltschmerz_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 77, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による6行の極度に凝縮された詩。「Weltschmerz（世界苦）」はドイツ・ロマン主義以来の概念──ジャン・パウル（Jean Paul）が命名し、バイロン・ハイネ・レーナウらが体現した「世界の苦悩への感受性」「現実と理想の断絶から生じる根源的苦痛」を指す。ラスカー＝シューラーはこの概念を「Ich, der brennende Wüstenwind（私、燃える砂漠の風）」という自己定義から始め、「Erkaltete und nahm Gestalt an（冷えて形を取った）」という固化・物質化のプロセスとして提示する：「Weltschmerz」の経験が「風→石」への変容として身体化される。「Wo ist die Sonne, die mich auflösen kann（私を溶かすことのできる太陽はどこか）」「Oder der Blitz, der mich zerschmettern kann（私を粉砕することのできる雷はどこか）」という二重の問いが、固化した「Weltschmerz」の解放不可能性を宣言する。末連「steinernes Sphinxhaupt（石のスフィンクスの頭）」という自己形象化は、エジプト的・神話的・永遠的存在への変容を示す：「Styx」の「wunschlos（願いなく）」眠りへの希求や「Der letzte Stern」の「Blindnis（盲目）」への収縮と異なり、「Weltschmerz」は怒り（zürnend）をもって「すべての天（allen Himmeln）」を見上げる──抵抗の姿勢で凝固した存在として。コヘレト第1章の「afflictio spiritus（霊の苦悩）」・ヨブ記第1章のヨブの苦難との聖書的照応。",
+  "keywords": [
+    "Weltschmerz",
+    "Wüstenwind",
+    "Gestalt",
+    "Sonne",
+    "Blitz",
+    "Sphinxhaupt",
+    "zürnend",
+    "Himmel",
+    "固化",
+    "世界苦",
+    "変容"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "laskerschuler_schwarze_sterne",
+    "laskerschuler_styx",
+    "laskerschuler_der_letzte_stern",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Ich, der brennende Wüstenwind,\nErkaltete und nahm Gestalt an.",
+      "provisionalTranslation": "私、燃える砂漠の風が、\n冷えて形を取った。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Wo ist die Sonne, die mich auflösen kann,\nOder der Blitz, der mich zerschmettern kann!",
+      "provisionalTranslation": "私を溶かすことのできる太陽はどこか、\nあるいは私を粉砕することのできる雷は！"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "Blick nun, ein steinernes Sphinxhaupt,\nZürnend zu allen Himmeln auf.",
+      "provisionalTranslation": "今や、石のスフィンクスの頭となって、\n怒りながらすべての天を見上げる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ich, der brennende Wüstenwind,\nErkaltete und nahm Gestalt an.",
+      "body": "「私、燃える砂漠の風が、冷えて形を取った」──詩の自己定義の二段階。「brennende Wüstenwind（燃える砂漠の風）」：熱・運動・非形体性という三つの属性を持つ原初状態。「Wüste（砂漠）」はヘブライ語聖書において「荒野（מִדְבָּר, midbar）」として試練・神との遭遇の場であり、イスラエルの40年の放浪・エリヤの逃避・ヨハネの洗礼の場。「Erkaltete（冷えた）」──「brennend（燃える）」から「erkalt（冷えた）」への温度的反転が「Weltschmerz」の経験を物理的プロセスとして提示する。「nahm Gestalt an（形を取った）」──ヒエロニムス訳創世記第1章v.2「terra autem erat inanis et vacua（大地は形なく虚ろであった）」の「形なき状態」から「形を取る」創造のプロセスの逆用：神の創造が「虚無→形」であるのに対し、ラスカー＝シューラーの「Weltschmerz」は「燃える自由→冷えた形」という固化として──創造ではなく凝固として自己提示する。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wo ist die Sonne, die mich auflösen kann,\nOder der Blitz, der mich zerschmettern kann!",
+      "body": "「私を溶かすことのできる太陽はどこか、あるいは私を粉砕することのできる雷は」──固化した「Weltschmerz」からの解放を求める二重の問い。「auflösen（溶かす・解消する）」と「zerschmettern（粉砕する・打ち砕く）」という二つの動詞が、固化した苦悩の解放手段として「溶融」と「破砕」の二択を提示する：どちらの方法でも「固体（Gestalt）」としての存在を終わらせることを求める。「Wo ist（どこか）」という問いの構文──コヘレト第1章v.3「Quid habet amplius homo（人は何を得るのか？）」・「Abel」v.9「Wo ist Kain（カインはどこにいるか）」との問いの閉幕構造と同型。感嘆符「！」が第2行末に置かれ、単なる問いではなく叫び・告発として機能する──「Schwarze Sterne」§1末の感嘆符と同型の激情的句読点。ボードレール「Spleen」の「憂鬱（Spleen）」が現実から逃れられない閉塞として提示されるのと同型の「解放不可能性」の宣言。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Blick nun, ein steinernes Sphinxhaupt,\nZürnend zu allen Himmeln auf.",
+      "body": "「今や、石のスフィンクスの頭となって、怒りながらすべての天を見上げる」──詩の閉幕形象にして自己変容の完成。「steinernes Sphinxhaupt（石のスフィンクスの頭）」という自己形象化：「Erkaltete und nahm Gestalt an（冷えて形を取った）」という固化が「石のスフィンクス」として具体化される。「Sphinx」はギリシア神話の怪物──人間の顔と獅子の体──として謎を問い、解けない者を殺す：「Weltschmerz」が「謎を問う者」として自己定義する。エジプト的・砂漠的文脈：「Wüstenwind（砂漠の風）」から「steinernes Sphinxhaupt（石のスフィンクスの頭）」への変容が砂漠という地理的空間で完結する。「Zürnend（怒りながら）」──ヒエロニムス訳コヘレト第1章v.18「in multa sapientia multa sit indignatio（多くの知恵には多くの憤りがある）」の「indignatio（憤り）」の詩的変奏：知恵・苦悩の蓄積が「Zorn（怒り）」として結晶する。「zu allen Himmeln auf（すべての天を見上げて）」──ヨブ記のヨブが神への問いを天に向けて発するように、固化した詩人が怒りを持って天全体を見上げる：抵抗の姿勢による凝固。「Mein Sterbelied」の「Paradiessterne（楽園の星々）への視線」と対照的な「怒りをもって天を見上げる」という同じ上昇的視線の極的差異。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Blick nun, ein steinernes Sphinxhaupt,",
+      "body": "「今や、石のスフィンクスの頭となって」──「Blick（見る）」という動詞の命令形的用法：「Blicken」ではなく「Blick」という短縮形が詩の語り手の自己命令として機能する。主語「Ich」が省略され、動詞「Blick」が文頭に立つことで、「私は今や〜として見る」という行為が命令・決意として提示される。「nun（今や）」という副詞が第1連「かつて燃える風だった」から第3連「今や石のスフィンクス」への時間的転換を示す：「Erkaltete（過去）」→「Blick nun（現在）」。詩全体の統辞的構造：第1連（過去の自己定義）→第2連（現在の問い・叫び）→第3連（現在の自己完成）という三段の時制移行が6行に凝縮される。"
+    }
+  ]
+}
