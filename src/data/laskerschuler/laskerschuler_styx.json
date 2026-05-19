@@ -1,0 +1,82 @@
+{
+  "id": "laskerschuler_styx",
+  "title": "Styx",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Styx_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 37, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による極度に凝縮された3行詩。「Styx（スティクス）」はギリシア神話において冥界を九重に囲む河であり、死者がカロンの渡し船で渡る境界の水。この神話的固有名詞を詩題とし、「wunschlos（願いなく）」眠ること──すなわち欲望の完全な消滅としての死──への願望が、「私の生のように深い（wie mein Leben so tief）」河の形象とともに提示される。「Wüßt ich einen Strom（ある河を知っていれば）」という接続法II式（非現実話法）が詩全体を「ありえない仮定」として提示する：そのような河は存在しない、ゆえに「wunschlos」の眠りも到来しない、という二重の不可能性。後記「Die Gedichte des Styx schenke ich Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin」はルートヴィヒ・フォン・フィッカー（Ludwig von Ficker, 1880–1967）への捧辞──フィッカーはインスブルック発行の文芸誌『Der Brenner』の編集者・発行人であり、ゲオルク・トラークルの最大の支援者として知られる。「dem Landvogt von Tyrol（チロルの総督）」というふざけた敬称と「seiner schönen Schwedin（彼の美しいスウェーデン女性）」という添え書きが、深刻な詩本体と親密・軽妙な後記の対比を生む。トラークルがフィッカーの支援を受けていたという事実が、この詩をトラークル詩篇との横断的読解の文脈に置く。",
+  "keywords": [
+    "Styx",
+    "wunschlos",
+    "Strom",
+    "Leben",
+    "Tiefe",
+    "Schlaf",
+    "Tod",
+    "冥界",
+    "ギリシア神話",
+    "非現実話法",
+    "Ludwig von Ficker"
+  ],
+  "relatedTexts": [
+    "trakl_de_profundis",
+    "trakl_helian",
+    "laskerschuler_versoehnung",
+    "laskerschuler_eva",
+    "rodenbach_coeur_de_leau",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "O, ich wollte, daß ich wunschlos schlief,\nWüßt ich einen Strom, wie mein Leben so tief,\nFlösse mit seinen Wassern.",
+      "provisionalTranslation": "ああ、私は願いなく眠れたらと思う、\n私の生のように深い河を知っていれば、\nその水とともに流れていくのに。"
+    },
+    {
+      "id": 2,
+      "verses": "postface",
+      "original": "(Die Gedichte des Styx schenke ich Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin)",
+      "provisionalTranslation": "（スティクスの詩篇を私はルートヴィヒ・フォン・フィッカー、チロルの総督と彼の美しいスウェーデン女性に贈る）"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "wunschlos schlief,",
+      "body": "「願いなく眠る（wunschlos schlafen）」──「wunschlos（願いのない・欲望なき）」という形容詞副詞が詩の核心概念。「Wunsch（願い・欲望）」の完全な消滅としての眠り──これは死の婉曲表現ではなく、欲望そのものの廃棄としての状態への渇望。逆説：「wunschlos（願いなく）」を「wollen（望む）」という──「wunschなき状態」を「wollen（欲する）」こと自体が欲望の行為であり、詩はその自己矛盾を「O（ああ）」という感嘆詞とともに提示する。コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされることがない）」──充足されない欲望の宇宙的形象に対し、ラスカー＝シューラーはその反対──欲望の完全な消滅──を願う。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Wüßt ich einen Strom, wie mein Leben so tief,\nFlösse mit seinen Wassern.",
+      "body": "接続法II式（Konjunktiv II）の二重使用：「Wüßt（知っていれば）」・「Flösse（流れていくのに）」がともに非現実の仮定法。「そのような深い河は存在しない」という不在が文法的形式によって示される。「wie mein Leben so tief（私の生のように深い）」──「私の生」が「深さ（Tiefe）」の比較基準として機能する：生の深さを持つ河を知らない、ゆえにその水とともに流れることができない。韻律：v.1「schlief」──v.2「tief」の脚韻（-ief）が対をなし、v.3「Wassern」が脚韻の外に置かれる。この三行目の「はみ出し」が詩的閉幕を開口部として残す：流れは止まらない。ローデンバック「水の心臓（Coeur de l'eau）」の静水イメージとの対照──ローデンバックの水は静止するが、ラスカー＝シューラーの水は「流れる（flössen）」という運動を持つ。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Die Gedichte des Styx",
+      "body": "「スティクスの詩篇（Die Gedichte des Styx）」──後記においてラスカー＝シューラーは本詩を単独作品ではなく「スティクスの詩篇」という詩群の一つとして位置づける。ギリシア神話における「Styx（スティクス）」はギリシア語「στυγεῖν（stygein：憎む・嫌う）」に由来し、「憎悪の河」を意味する。冥界を九重に囲む河であり、神々が誓いを立てる際の最高の証人として機能する──スティクスへの誓いは神々にとっても破れない。死者はカロン（Charon）の渡し船でスティクスを渡る：これが詩本体「Flösse mit seinen Wassern（その水とともに流れていく）」という動詞の神話的背景。ゲオルク・ハイム「スティクス（Styx）」との語彙的照応──ハイムも同名詩でこの冥界の河を詩語に召喚している。",
+      "targetId": "heym_styx",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ludwig von Ficker, dem Landvogt von Tyrol und seiner schönen Schwedin",
+      "body": "ルートヴィヒ・フォン・フィッカー（Ludwig von Ficker, 1880–1967）はインスブルックの文芸誌『Der Brenner』（1910–1954）の編集者・発行人。ゲオルク・トラークルの最大の支援者として知られ、トラークルの詩篇の多くを『Der Brenner』誌に掲載し、生活支援も行った。ヴィトゲンシュタインが『論考』の印税をトラークルとリルケに贈ったのもフィッカーを通じてである。「dem Landvogt von Tyrol（チロルの総督）」という誇張的・戯れ的な敬称──フィッカーは総督ではなく編集者だが、この冗談めいた尊称がラスカー＝シューラーの私的・親密な文体を示す。「seiner schönen Schwedin（彼の美しいスウェーデン女性）」はフィッカーの妻または愛人への私的言及。詩本体の「wunschlos・Styx・tief」という深刻な語彙群と後記の「schenke ich・schönen Schwedin」という軽妙・親密な語調の対比が本詩の発表文脈の特異性を示す。フィッカーとトラークルの関係を通じて、この後記はトラークル詩篇との隠れた接続点を形成する。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    }
+  ]
+}
