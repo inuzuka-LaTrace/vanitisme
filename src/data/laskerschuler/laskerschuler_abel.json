@@ -1,0 +1,117 @@
+{
+  "id": "laskerschuler_abel",
+  "title": "Abel",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Abel_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 16, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による旧約聖書「カインとアベル」（創世記第4章）の詩的変奏。わずか11行の短詩に、光と闇・歌と暴力・神の眼差しと都市の溝渠という対立の全体を凝縮させる。原典（創世記4:1–16）ではカインがアベルを殺す動機として「神がカインの供え物を顧みなかった」という「神への不承認」が機能するが、ラスカー＝シューラーはこれを「Kains Augen sind nicht gottwohlgefällig（カインの目は神にとって喜ばしくない）」という視覚的・美的判断として詩の冒頭に据える。「アベルの目はナイチンゲール」という表現主義的変容によって、アベルは詩人・歌者・光の象徴として再形象化される。「Abel, Abel, dein Blut färbt den Himmel tief（アベル、アベル、あなたの血は空を深く染める）」という頂点句は、ヒエロニムス訳創世記第4章v.10「vox sanguinis fratris tui clamat ad me de terra（あなたの兄弟の血の声が大地から私に向かって叫んでいる）」の詩的変奏であり、血が「大地」から「天（Himmel）」へと向かうという垂直的反転がラスカー＝シューラーの神学的想像力を示す。ボードレール「カインとアベル（Abel et Caïn）」との比較においては、ボードレールがカインの「種族（race）」に対して歴史・社会的共感を向けるのに対し、ラスカー＝シューラーはアベルを「黄金の庭」「ナイチンゲール」として美的に選択し、詩人的魂の殺害という主題を個人的・神秘的次元で展開する。ユダヤ系詩人としての自己同一化──迫害される者・歌う者としてのアベル──が詩の発語構造を規定している。",
+  "keywords": [
+    "Abel",
+    "Kain",
+    "Blut",
+    "Himmel",
+    "Nachtigallen",
+    "gottwohlgefällig",
+    "Seele",
+    "Süßvögel",
+    "創世記",
+    "表現主義",
+    "兄弟殺し"
+  ],
+  "relatedTexts": [
+    "hieronymus_genesis_4",
+    "baudelaire_abel_et_cain",
+    "laskerschuler_versoehnung",
+    "trakl_de_profundis",
+    "trakl_helian"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Kains Augen sind nicht gottwohlgefällig,\nAbels Angesicht ist ein goldener Garten,\nAbels Augen sind Nachtigallen.",
+      "provisionalTranslation": "カインの目は神にとって喜ばしくない、\nアベルの顔は黄金の庭、\nアベルの目はナイチンゲール。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Immer singt Abel so hell\nZu den Saiten seiner Seele,\nAber durch Kains Leib führen die Gräben der Stadt.",
+      "provisionalTranslation": "アベルはいつもそんなに明るく歌う\n魂の弦に合わせて、\nしかしカインの体を貫いて都市の溝渠が走っている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–8",
+      "original": "Und er wird seinen Bruder erschlagen –\nAbel, Abel, dein Blut färbt den Himmel tief.",
+      "provisionalTranslation": "そして彼は兄弟を殺すだろう──\nアベル、アベル、あなたの血は空を深く染める。"
+    },
+    {
+      "id": 4,
+      "verses": "v.9–11",
+      "original": "Wo ist Kain, da ich ihn stürmen will:\nHast du die Süßvögel erschlagen\nIn deines Bruders Angesicht?",
+      "provisionalTranslation": "カインはどこにいる、私は彼に嵐の如く問い糺したい。\nお前は甘い鳥たちを殺したのか\n兄弟の顔の中で？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Kains Augen sind nicht gottwohlgefällig,",
+      "body": "「カインの目は神にとって喜ばしくない」──ヒエロニムス訳創世記第4章v.5「Cain autem et munera illius non respexit（カインとその供え物を神は顧みなかった）」の詩的変容。原典では「供え物（munera）」への神の不承認が殺意の動因となるが、ラスカー＝シューラーはこれを「目（Augen）」の美的・霊的価値判断へと転換する：供え物ではなく眼差しそのものが「神に喜ばしくない」という形象。「gottwohlgefällig（神にとって喜ばしい）」はルター訳聖書の語彙でもあり、ドイツ語の敬虔主義的文脈を帯びる複合語。対句的に続く「Abels Angesicht ist ein goldener Garten（アベルの顔は黄金の庭）」との対比──「目（Augen）」対「顔（Angesicht）」、不承認対黄金という極の設定が第1連の構造。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Abels Augen sind Nachtigallen.",
+      "body": "「アベルの目はナイチンゲール」──表現主義的比喩による感覚の横断：視覚器官（Augen）が聴覚的・音楽的存在（Nachtigallen）として同一視される。共感覚的変容はv.4「Immer singt Abel so hell（アベルはいつもそんなに明るく歌う）」へと接続され、アベルは「歌う者・詩人」として形象化される。ナイチンゲールはロマン主義以来「詩人の魂」の象徴（ジョン・キーツ「ナイチンゲールへのオード」等）であり、ラスカー＝シューラーはこの伝統を引き継ぎながら、アベル＝詩人という等式を確立する。ボードレール「カインとアベル」では「アベルの種族（race d'Abel）」が神に愛された者の系譜として歴史的・集合的に設定されるのに対し、ラスカー＝シューラーのアベルは個人的・神秘的な美の象徴として提示される。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Aber durch Kains Leib führen die Gräben der Stadt.",
+      "body": "「カインの体を貫いて都市の溝渠が走っている」──詩の転換点。「Gräben der Stadt（都市の溝渠・塹壕）」という都市的・文明的イメージが、アベルの「黄金の庭」と「魂の弦」という神話的・田園的世界と衝突する。「Graben（溝・塹壕）」は第一次世界大戦（1914–18）の塹壕戦（Grabenkrieg）の語彙とも響き合う──1917年出版という時代背景において、この「溝渠」は近代戦争の暴力性を含意する可能性がある。「Leib（体・肉体）」という語がカインを「魂（Seele）」ではなく「肉体」として規定する：アベル＝魂、カイン＝肉体という二元論的対立。ヒエロニムス訳創世記第4章v.12「vagus et profugus eris super terram（あなたは地の上で流浪し放浪する者となる）」──神に呪われたカインの「地上の放浪」が、都市の溝渠を体内に持つ者の形象として詩的に先取りされる。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Abel, Abel, dein Blut färbt den Himmel tief.",
+      "body": "詩の頂点命題。ヒエロニムス訳創世記第4章v.10「vox sanguinis fratris tui clamat ad me de terra（あなたの兄弟の血の声が大地から私に向かって叫んでいる）」の詩的変奏──原典では血が「大地（terra）」から「神へ」と向かって叫ぶのに対し、ラスカー＝シューラーでは血が「天（Himmel）」を「深く染める（färbt…tief）」。この垂直的反転：原典の大地→神という上昇ではなく、血が空そのものを染めるという視覚的拡張。「Abel, Abel」という呼格の二重反復が詩的哀歌（エレギー）の発語として機能する：名前の反復が「呼びかけ」から「嘆き」へと転じる閾。「färbt…tief（深く染める）」──「Versöhnung」v.12「Immer färbt dein Blut meine Wangen rot」と同じ動詞「färben（染める）」の使用：ラスカー＝シューラーの詩語における血と色彩の一貫したモチーフ連関。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Und er wird seinen Bruder erschlagen –",
+      "body": "「そして彼は兄弟を殺すだろう」──未来形（wird erschlagen）の使用が詩の時制構造において決定的。創世記第4章では既に起きた出来事として語られる（過去形）のに対し、ラスカー＝シューラーは予言的未来形で殺害を提示する──詩人が殺害の「前（vor）」に立つ目撃者として語る。ボードレール「カインとアベル」最終連「Race de Caïn, au ciel monte / Et sur la terre jette Dieu（カインの種族よ、天に登れ／そして地上に神を投げ捨てよ）」という革命的逆転──ボードレールがカインを反逆の英雄として転倒させるのに対し、ラスカー＝シューラーはアベルへの哀惜を維持し、殺害を予言的・悲劇的なものとして提示する。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wo ist Kain, da ich ihn stürmen will:",
+      "body": "「カインはどこにいる、私は彼に嵐の如く問い糺したい」──詩の語り手（抒情的自我）が初めて「私（ich）」として登場し、観察者から行動者へと転換する。「stürmen（突進する・嵐のように攻める）」という動詞──「Sturm（嵐）」はドイツ表現主義の雑誌名（Der Sturm）でもあり、「Versöhnung」がDer Sturm誌に掲載された文脈と響き合う。ヒエロニムス訳創世記第4章v.9「Dixit autem Dominus ad Cain: Ubi est Abel frater tuus?（主はカインに言った、あなたの兄弟アベルはどこにいるか？）」──神がカインに問う「アベルはどこにいるか？」という問いが、ラスカー＝シューラーでは反転される：詩人が「カインはどこにいるか？」と問う。問いの主客が逆転し、詩人が神の問責の代行者として立つ。",
+      "targetId": "hieronymus_genesis_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Hast du die Süßvögel erschlagen\nIn deines Bruders Angesicht?",
+      "body": "「お前は甘い鳥たちを殺したのか／兄弟の顔の中で？」──詩の結語的問い。「Süßvögel（甘い鳥）」はv.3「Nachtigallen（ナイチンゲール）」の変奏的言い換え：「甘い（süß）」という形容詞がアベルの本質を「müdesüß（甘い疲れ）」（「Versöhnung」v.8）とも連動させ、二作品間のモチーフ連関を形成する。「In deines Bruders Angesicht（兄弟の顔の中で）」という前置詞句の非凡な用法──「Angesicht（顔・御顔）」の「中で（in）」鳥が殺されるという空間的倒置：顔が「場所（Ort）」として機能する。詩は問いで閉じる──答えのない問い（アポリア）として。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo?（太陽の下で人は何を得るのか？）」と同型の問いの閉幕構造：答えを持たない問いが審判として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    }
+  ]
+}
