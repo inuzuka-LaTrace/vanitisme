@@ -1,0 +1,163 @@
+{
+  "id": "laskerschuler_der_letzte_stern",
+  "title": "Der letzte Stern",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Der_letzte_Stern",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 62–63, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "上級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による31行の大詩。「最後の星（Der letzte Stern）」という題名のもとに、詩の語り手は「星」の視点から宇宙・時間・生命・終末を俯瞰する。冒頭の「Mein silbernes Blicken（私の銀色の眼差し）」から末行の「In der Blindnis（盲目の中で）」への運動が、光から暗黒・視覚から盲目という詩全体の下降的弧を形成する。「die Leere（空虚）」「hohl（虚ろ）」という虚無のモチーフが冒頭から宣言され、コヘレト第1章「Vanitas vanitatum」の宇宙論的等価物として機能する。「Die Zeit rundauf, kugelab（時間は丸く回り、球状に下降する）」「über die Lende der Zeit（時間の腰の上で）」「Im Schoß der Zeitlosen（時なき者の胎の中で）」という時間の身体化・物質化がラスカー＝シューラーの詩語の独自性を示す。「Es naht der siebente Tag – / Und noch ist das Ende nicht erschaffen（第七の日が近づく──しかしまだ終わりは創造されていない）」という創世記的参照が詩の中心にあり、神の創造の「休息の日（安息日）」が「終わりの未創造」という逆説として提示される。「Tropfen an Tropfen erlöschen（滴が滴を消す）」から「Ins letzte Bewegen（最後の動きへ）」「Und ein Punkt wird mein Tanz / In der Blindnis（そして一点が私の踊りになる／盲目の中で）」への収縮が、宇宙的規模から点への終末論的縮減として詩を閉じる。献辞「John Hertz und Alice Behrend」はラスカー＝シューラーの交友圏の人物への捧辞。",
+  "keywords": [
+    "Stern",
+    "Leere",
+    "Zeit",
+    "Blindnis",
+    "Bewegen",
+    "Tropfen",
+    "siebente Tag",
+    "Zeitlose",
+    "創世記",
+    "終末論",
+    "虚無",
+    "宇宙論"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_genesis_1",
+    "laskerschuler_versoehnung",
+    "laskerschuler_styx",
+    "mallarme_coup_de_des",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(John Hertz und Alice Behrend)",
+      "provisionalTranslation": "（ジョン・ヘルツとアリス・ベーレントへ）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Mein silbernes Blicken rieselt durch die Leere,\nNie ahnte ich, daß das Leben hohl sei.\nAuf meinem leichtesten Strahl\nGleite ich wie über Gewebe von Luft\nDie Zeit rundauf, kugelab,\nUnermüdlicher tanzte nie der Tanz.",
+      "provisionalTranslation": "私の銀色の眼差しは空虚の中に滴り落ちる、\n私はかつて、生が虚ろであると予感したことがなかった。\n私の最も軽い光線の上に\n私は空気の織物の上を滑るように\n時間を丸く回り、球状に下降し、\n踊りはかくも疲れを知らず踊られたことはなかった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–9",
+      "original": "Schlangenkühl schnellt der Atem der Winde,\nWie Säulen aus blassen Ringen sich auf\nUnd zerfallen wieder.",
+      "provisionalTranslation": "蛇のように冷たく、風の息吹は跳ね上がる、\n青白い輪から柱のように立ち上がり\nそしてまた崩れ落ちる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–12",
+      "original": "Was soll das klanglose Luftgelüste,\nDieses Schwanken unter mir,\nWenn ich über die Lende der Zeit mich drehe.",
+      "provisionalTranslation": "この音なき空気の欲動は何のためか、\nこの私の下での揺らめきは、\n私が時間の腰の上で回転するとき。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–15",
+      "original": "Eine sanfte Farbe ist mein Bewegen\nUnd doch küßte nie das frische Auftagen,\nNicht das jubelnde Blühen eines Morgen mich.",
+      "provisionalTranslation": "穏やかな色が私の動きだ、\nしかし新鮮な夜明けも、\n朝の喜びに満ちた花開きも私を一度も口づけしたことがなかった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.16–17",
+      "original": "Es naht der siebente Tag –\nUnd noch ist das Ende nicht erschaffen.",
+      "provisionalTranslation": "第七の日が近づく──\nしかしまだ終わりは創造されていない。"
+    },
+    {
+      "id": 6,
+      "verses": "v.18–24",
+      "original": "Tropfen an Tropfen erlöschen\nUnd reiben sich wieder,\nIn den Tiefen taumeln die Wasser\nUnd drängen hin und stürzen erdenab.\nWilde, schimmernde Rauscharme\nSchäumen auf und verlieren sich,\nUnd wie alles drängt und sich engt\nIns letzte Bewegen.",
+      "provisionalTranslation": "滴が滴を消し\nそしてまた擦れ合う、\n深みの中で水は千鳥足で揺れ\n押し寄せ、大地へと墜落する。\n荒々しく、きらめく轟音の腕が\n泡立ち、消えていく、\nそしてすべてが押し寄せ、収縮して\n最後の動きへと。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–31",
+      "original": "Kürzer atmet die Zeit\nIm Schoß der Zeitlosen.\nHohle Lüfte schleichen\nUnd erreichen das Ende nicht\nUnd ein Punkt wird mein Tanz\nIn der Blindnis.",
+      "provisionalTranslation": "時間はより短く息をする\n時なき者の胎の中で。\n虚ろな風は忍び歩き\n終わりに届かない、\nそして一点が私の踊りになる\n盲目の中で。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Mein silbernes Blicken rieselt durch die Leere,\nNie ahnte ich, daß das Leben hohl sei.",
+      "body": "「私の銀色の眼差しは空虚の中に滴り落ちる──私はかつて、生が虚ろであると予感したことがなかった」──詩の発語主体「最後の星」の自己定義。「silbernes Blicken（銀色の眼差し）」という感覚の物質化：視覚が「銀色」の物質として空虚に「rieseln（滴り落ちる）」という動詞により流体として描かれる。「die Leere（空虚・虚無）」──コヘレト第1章「Vanitas vanitatum」の宇宙論的等価物：詩の冒頭に「空虚」が宣言される。「hohl（虚ろ・空洞）」は「Styx」の「wunschlos（願いなく）」・「Schwarze Sterne」の「Todestrübe」と連動する詩群の虚無のモチーフ。「Nie ahnte ich（かつて予感したことがなかった）」──「最後の星」が生の空虚さを「知っていた」のではなく「知らなかった」という認識の遅れ：知識の獲得としての詩的経験。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Die Zeit rundauf, kugelab,\nUnermüdlicher tanzte nie der Tanz.",
+      "body": "「時間は丸く回り、球状に下降する──踊りはかくも疲れを知らず踊られたことはなかった」──「rundauf（丸く上方へ）」「kugelab（球状に下方へ）」という造語的副詞複合：ラスカー＝シューラーによる語の発明。「rund（丸い）＋auf（上へ）」「Kugel（球）＋ab（下へ）」という方向の複合が時間の球状循環運動を一語に凝縮する。コヘレト第1章v.5–6の太陽・風の循環「in circulos suos revertitur（巡回へと戻る）」との構造的照応：宇宙的循環運動の詩的変奏。「Tanz（踊り）」──末行「ein Punkt wird mein Tanz（一点が私の踊りになる）」への伏線：詩冒頭の宇宙的・無限の踊りが詩末で「一点」へと収縮する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Schlangenkühl schnellt der Atem der Winde,\nWie Säulen aus blassen Ringen sich auf\nUnd zerfallen wieder.",
+      "body": "「蛇のように冷たく、風の息吹は跳ね上がる──青白い輪から柱のように立ち上がり、そしてまた崩れ落ちる」──「Schlangenkühl（蛇のように冷たい）」という造語複合：「蛇（Schlange）」の冷血・危険性と「冷たさ（Kühl）」が合成される。創世記第3章のエデンの蛇（serpens）の暗示──「Eva」で展開されたエデンの主題が「蛇」の形象として再帰する。「Wie Säulen aus blassen Ringen sich auf / Und zerfallen wieder（青白い輪から柱のように立ち上がり、また崩れ落ちる）」──生成と崩壊の循環：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の視覚的変奏。「blassen（青白い）」という色彩語がラスカー＝シューラーの「Schwarze Sterne」の黒・「silbernes（銀色）」の白銀と連動する色彩詩学。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Was soll das klanglose Luftgelüste,\nDieses Schwanken unter mir,\nWenn ich über die Lende der Zeit mich drehe.",
+      "body": "「この音なき空気の欲動は何のためか──私が時間の腰の上で回転するとき」──「klanglose Luftgelüste（音なき空気の欲動）」という複合：「klanglos（音のない・無音の）」＋「Luft（空気）」＋「Gelüste（欲動・欲望）」。「Lende der Zeit（時間の腰）」──「Lende（腰・腰部）」という身体語彙が「Zeit（時間）」という抽象概念に適用される：時間の身体化。「Zebaoth」「Schwarze Sterne」での神・星の人格化と同様の擬人化戦略。「Was soll（何のためか）」という問いの構文──コヘレト第1章v.3「Quid habet amplius homo de universo labore suo?（人は何を得るのか？）」の問いの構文と同型：答えを持たない問いとして機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Eine sanfte Farbe ist mein Bewegen\nUnd doch küßte nie das frische Auftagen,\nNicht das jubelnde Blühen eines Morgen mich.",
+      "body": "「穏やかな色が私の動きだ──しかし新鮮な夜明けも、朝の喜びに満ちた花開きも私を口づけしたことがなかった」──「sanfte Farbe（穏やかな色）」という共感覚的定義：動き（Bewegen）が「色」として提示される。「Auftagen（夜明け・払暁）」──「auftagen」は「夜明けになる」を意味する動詞の名詞化：新鮮な始まりの形象。「jubelnde Blühen eines Morgen（朝の喜びに満ちた花開き）」──「Zebaoth」「Eva」「Schwarze Sterne」の春・花・朝のモチーフが「最後の星」には一度も与えられなかったことの告白。「küßte…mich（口づけした）」という動詞が「Versöhnung」v.9「unsere Lippen wollen sich küssen（私たちの唇はキスしたがっている）」と逆向きの否定として響く──愛の接触の不在。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Es naht der siebente Tag –\nUnd noch ist das Ende nicht erschaffen.",
+      "body": "「第七の日が近づく──しかしまだ終わりは創造されていない」──詩の神学的核心。ヒエロニムス訳創世記第2章v.2「Complevitque Deus die septimo opus suum quod fecerat: et requievit die septimo（神は第七の日に御自分の業を完成され、第七の日に休まれた）」──神の安息日（Sabbat）としての「第七の日」。ラスカー＝シューラーの「Und noch ist das Ende nicht erschaffen（しかしまだ終わりは創造されていない）」という逆説：創世記では「第七の日」に創造が完成・休息するが、詩では「終わり（Ende）」が未だ「erschaffen（創造されていない）」──創造が未完のまま終末に向かうという終末論的反転。「–（ダッシュ）」が第七の日の宣言と未創造の終わりの間を区切る：沈黙・停止の図像。マラルメ「骰子一擲」の「偶然の廃棄不可能性」との照応：終わりが創造されていないゆえに偶然性は廃棄できない。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tropfen an Tropfen erlöschen\nUnd reiben sich wieder,\nIn den Tiefen taumeln die Wasser\nUnd drängen hin und stürzen erdenab.",
+      "body": "「滴が滴を消し、そしてまた擦れ合う──深みの中で水は千鳥足で揺れ、押し寄せ、大地へと墜落する」──コヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」の詩的変奏。「Tropfen（滴）」の微小化と「Tiefen（深み）」の巨大化：スケールの対比。「erlöschen（消える・消滅する）」──「Styx」の「wunschlos schlief（願いなく眠る）」と同様の消滅願望が宇宙的スケールで展開される。「stürzen erdenab（大地へと墜落する）」──「erdenab」は「erde（大地）＋ab（下へ）」の造語複合：コヘレトの「sub sole（太陽の下）」への下降を「大地への墜落」として形象化。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Wilde, schimmernde Rauscharme\nSchäumen auf und verlieren sich,\nUnd wie alles drängt und sich engt\nIns letzte Bewegen.",
+      "body": "「荒々しく、きらめく轟音の腕が泡立ち、消えていく──そしてすべてが押し寄せ、収縮して最後の動きへと」──「Rauscharme（轟音の腕）」という造語：「Rauschen（轟音・水音）＋Arme（腕）」。水が「腕」として擬人化され、「schimmern（きらめく）」という光の動詞が加わる。「sich engt（収縮する・狭まる）」──「sich engen」という動詞が詩全体の主題的縮減運動（宇宙規模→点）を文法的に実演する。「Ins letzte Bewegen（最後の動きへと）」──「Bewegen」（動き）が§4「sanfte Farbe ist mein Bewegen」に続く二度目の使用：詩の「動き」が「穏やかな色」から「最後の」収縮点へと変質する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Kürzer atmet die Zeit\nIm Schoß der Zeitlosen.",
+      "body": "「時間はより短く息をする──時なき者の胎の中で」──「Kürzer atmet die Zeit（時間はより短く息をする）」：時間が「呼吸する」生き物として擬人化され、その呼吸が「より短く（kürzer）」なる──終息への接近を呼吸の短縮として表現する。「Im Schoß der Zeitlosen（時なき者の胎の中で）」──「Zeitlose（時なき者）」という語：「Zeit（時間）＋los（なき）」。「Schoß（胎・膝）」は「Versöhnung」v.1「in meinen Schoß fallen（私の膝に落ちてくる）」の反復：詩集を通じた「Schoß」モチーフ。「Zeitlosen」は時間の外部に存在する者──神・永遠・虚無──として読める。コヘレト第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」の「永遠」の詩的変容。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Und ein Punkt wird mein Tanz\nIn der Blindnis.",
+      "body": "「そして一点が私の踊りになる──盲目の中で」──詩の閉幕命題。「ein Punkt（一点）」──宇宙的規模の循環・球状運動・滝・泡から、最終的に「点」という数学的・幾何学的最小単位へと縮減される：無限から零への収束。「Blindnis（盲目）」はラスカー＝シューラーの造語：「blind（盲目）＋nis（状態を示す接尾辞）」。詩の冒頭「silbernes Blicken（銀色の眼差し）」──「視覚の星」として始まった詩が「Blindnis（盲目）」という視覚の消滅で閉じる：詩全体が光から盲目への下降弧を完成させる。マラルメ「骰子一擲」の「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」──思考が点（骰子の目）として収束する最終命題との照応。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    }
+  ]
+}
