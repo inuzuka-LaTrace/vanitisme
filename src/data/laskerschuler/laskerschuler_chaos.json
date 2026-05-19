@@ -1,0 +1,124 @@
+{
+  "id": "laskerschuler_chaos",
+  "title": "Chaos",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Chaos",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 87, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による19行詩。「Chaos（カオス）」はギリシア語「χάος（kháos）」すなわち「口を開けた虚空・原初の無秩序」を指し、ヘシオドス『神統記』における宇宙生成以前の状態。詩はこの神話的「Chaos」を自己の内的解体・自己喪失の名として用いる：「Ich finde mich nicht wieder（私は自分をもはや見つけられない）」という自己消失の命題が詩の核心。「Todverlassenheit（死に見捨てられた状態）」「weltenweit von mir（自分自身から世界の果てほど遠い）」「Urangst（根源的恐怖）」という造語群がラスカー＝シューラーの詩語の中でも最も強度の高い存在論的語彙を形成する。第3連の「Schöpferlust（創造の喜び）」による「Mutterbrust（母の胸）」への帰還願望と、第4連の「Mutterheimat ist seeleleer（母の故郷は魂空虚）」という現実の対比が詩の中心的逆説を形成する：帰るべき場所が既に失われているという二重の喪失。末行「Möcht einen Herzallerliebsten haben! / Und mich in seinem Fleisch vergraben（心から愛する者を持ちたい！そしてその肉の中に自分を埋めたい）」という結語的叫びは、「Versöhnung」の「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」の希求を最も生に根ざした形で反復しながら、同時に「Sein Blut」「Schwarze Sterne」の他者による侵害の記憶と緊張関係を持つ。",
+  "keywords": [
+    "Chaos",
+    "Einsamkeit",
+    "Todverlassenheit",
+    "Urangst",
+    "Schöpferlust",
+    "Mutterbrust",
+    "Mutterheimat",
+    "Herzallerliebster",
+    "自己喪失",
+    "帰還",
+    "身体"
+  ],
+  "relatedTexts": [
+    "laskerschuler_versoehnung",
+    "laskerschuler_eva",
+    "laskerschuler_weltschmerz",
+    "laskerschuler_schwarze_sterne",
+    "hieronymus_genesis_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(Dem Heinz Simon in Frankfurt zur Freundschaft)",
+      "provisionalTranslation": "（友情のしるしとして、フランクフルトのハインツ・ジモンへ）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Die Sterne fliehen schreckensbleich\nVom Himmel meiner Einsamkeit,\nUnd das schwarze Auge der Mitternacht\nStarrt näher und näher.",
+      "provisionalTranslation": "星々は恐怖で青ざめて逃げ去る\n私の孤独の空から、\nそして真夜中の黒い瞳が\nより近く、より近くと凝視する。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ich finde mich nicht wieder\nIn dieser Todverlassenheit,\nMir ist, ich lieg von mir weltenweit\nZwischen grauer Nacht der Urangst.",
+      "provisionalTranslation": "私はもはや自分を見つけられない\nこの死に見捨てられた状態の中で、\n私には、自分自身から世界の果てほど遠くに横たわっているように感じられる\n根源的恐怖の灰色の夜の間に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–14",
+      "original": "Ich wollte, ein Schmerzen rege sich\nUnd stürze mich grausam nieder\nUnd riß mich jäh an mich;\nUnd es lege eine Schöpferlust\nMich wieder in meine Heimat\nUnter der Mutterbrust.",
+      "provisionalTranslation": "私は望む、ある苦痛が動き出して\n私を残酷に打ち倒し\n突然私を私自身へと引き裂いてほしいと。\nそして創造の喜びが\n私を再び故郷へと置いてほしいと\n母の胸の下に。"
+    },
+    {
+      "id": 4,
+      "verses": "v.15–19",
+      "original": "Meine Mutterheimat ist seeleleer,\nEs blühen dort keine Rosen\nIm warmen Odem mehr. –\n.... Möcht einen Herzallerliebsten haben!\nUnd mich in seinem Fleisch vergraben.",
+      "provisionalTranslation": "私の母の故郷は魂空虚だ、\nそこにはもはや薔薇が咲かない\n温かい息吹の中に。──\n……心から愛する者を持ちたい！\nそしてその肉の中に自分を埋めたい。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "(Dem Heinz Simon in Frankfurt zur Freundschaft)",
+      "body": "献辞「友情のしるしとして、フランクフルトのハインツ・ジモンへ（Dem Heinz Simon in Frankfurt zur Freundschaft）」──「zur Freundschaft（友情のために）」という目的格が他の詩の献辞と異なり「友情」を明示する：「Zebaoth」「Abel」「Der letzte Stern」等の献辞が名前のみであるのに対し、「Chaos」の献辞は関係の性質（Freundschaft）を言語化する。「Chaos」という詩の極度の孤独・自己喪失と「Freundschaft（友情）」という贈り先の対比：最も孤独な詩が最も明示的に「友情」へと向けられる。ハインツ・ジモンはフランクフルトのラスカー＝シューラーの交友圏の人物。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Die Sterne fliehen schreckensbleich\nVom Himmel meiner Einsamkeit,",
+      "body": "「星々は恐怖で青ざめて逃げ去る──私の孤独の空から」──「schreckensbleich（恐怖で青ざめた）」という複合形容詞：「Schrecken（恐怖）＋bleich（青白い）」。「Versöhnung」の「großer Stern（大きな星）」・「Schwarze Sterne」の「böse Sterne」・「Mein Sterbelied」の「Paradiessterne」と連動する詩群の星モチーフが、「Chaos」では「逃げ去る（fliehen）」星として──詩人の孤独から退散する光として──反転する。「Vom Himmel meiner Einsamkeit（私の孤独の空から）」──「meine Einsamkeit（私の孤独）」が「Himmel（空・天）」を所有する：孤独が宇宙的空間として外在化される。「Styx」の「Ich trinke einsam（私はひとり飲む）」・「Eva」の自己孤立と連動する孤独のモチーフが、ここで星々が逃げ去る宇宙的孤独へと拡張される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Und das schwarze Auge der Mitternacht\nStarrt näher und näher.",
+      "body": "「真夜中の黒い瞳がより近く、より近くと凝視する」──「schwarze Auge der Mitternacht（真夜中の黒い瞳）」という擬人化：「Mitternacht（真夜中）」が「瞳（Auge）」を持ち、それが「schwarze（黒い）」という修飾を受ける。「Schwarze Sterne」の「schwarze Sterne（黒い星々）」と語彙的連動：黒い天体的イメージが「黒い瞳」として収縮・内面化される。「Starrt näher und näher（より近く、より近くと凝視する）」──「starren（じっと見つめる・凝視する）」という動詞が「näher und näher（より近く）」という副詞の反復で強調される：接近の加速感。リルケ「第一ドゥイノ悲歌」の「美とは恐ろしいものの始まりにほかならない」という「恐ろしい美」の凝視と照応する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ich finde mich nicht wieder\nIn dieser Todverlassenheit,\nMir ist, ich lieg von mir weltenweit\nZwischen grauer Nacht der Urangst.",
+      "body": "詩の核心命題群。「Todverlassenheit（死に見捨てられた状態）」──ラスカー＝シューラーの造語：「Tod（死）＋Verlassenheit（見捨てられた状態・孤立）」。「Weltschmerz」の「steinernes Sphinxhaupt（石のスフィンクスの頭）」が「怒り」で凝固する状態と対照的に、「Chaos」の自我は「見つからない（finde mich nicht wieder）」という解体として提示される。「weltenweit von mir（自分自身から世界の果てほど遠く）」──自己の内部における無限の距離：「Weltschmerz」の空間的自己疎外。「Urangst（根源的恐怖）」──「ur-（原初の・根源の）＋Angst（恐怖・不安）」という複合：キルケゴール的な「不安（Angst）」の前言語的・前意識的根源形として。ヨブ記第1章v.19–20のヨブが全てを失った後の「地に倒れ伏す」という崩壊と構造的照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ich wollte, ein Schmerzen rege sich\nUnd stürze mich grausam nieder\nUnd riß mich jäh an mich;",
+      "body": "「ある苦痛が動き出して私を残酷に打ち倒し、突然私を私自身へと引き裂いてほしい」──接続法II式「wollte…rege sich…stürze…riß」による「望まれる苦痛」の非現実的提示。「Styx」の「wunschlos（願いなく）」眠りへの希求と逆向き：「Styx」が苦悩からの脱出（眠り）を望むのに対し、「Chaos」は苦痛による自己への復帰を望む。「Schmerzen（苦痛・痛み）」が「sich regen（動き出す）」という生物的・主体的動詞の主語になる：苦痛が行為者として自我を「打ち倒す（stürze nieder）」「引き裂く（riß…an mich）」。「riß mich jäh an mich（突然私を私自身へと引き裂く）」──「an sich reißen（自分へと引き付ける）」の自己再帰的用法：自己から乖離した「Ich」を「mich（私自身）」へと暴力的に引き戻す行為としての苦痛。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Und es lege eine Schöpferlust\nMich wieder in meine Heimat\nUnter der Mutterbrust.",
+      "body": "「創造の喜びが私を再び故郷へと、母の胸の下に置いてほしい」──「Schöpferlust（創造の喜び）」はヒエロニムス訳創世記第1章の神の創造行為「vidit Deus quod esset bonum（神は良しと見た）」という創造の肯定的喜びの詩的変奏。「Mich…legen（置く）」という動詞が「母の胸の下に（Unter der Mutterbrust）」という身体的・子宮的場所との結合により、「創造＝子宮への帰還」という退行的・再誕的願望を形成する。「Eva」の「adamjung（アダムのように若い）」・「tausendstämmige Erinnerung（一千の幹の記憶）」という人類の記憶の重みと対照的に、「Chaos」は記憶の前──母胎──への帰還を願う。「Heimat（故郷・ホーム）」という語が第4連「Mutterheimat（母の故郷）」として反復・変容される。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Meine Mutterheimat ist seeleleer,\nEs blühen dort keine Rosen\nIm warmen Odem mehr. –",
+      "body": "「私の母の故郷は魂空虚だ──そこにはもはや薔薇が咲かない、温かい息吹の中に」──第3連の帰還願望への現実の応答としての第4連冒頭：帰るべき「Mutterbrust（母の胸）」は既に「seeleleer（魂空虚）」である。「seeleleer」──「Seele（魂）＋leer（空）」の造語：「Der letzte Stern」の「die Leere（空虚）」・「Styx」の「wunschlos（願いなく）」と連動する詩群の空虚モチーフ。「keine Rosen…mehr（もはや薔薇がない）」──「Versöhnung」「Zebaoth」「Mein Sterbelied」の薔薇モチーフが「Chaos」では全面的否定として現れる：薔薇の完全な消失。「Im warmen Odem（温かい息吹の中に）」──「Odem（息吹・気息）」はヒエロニムス訳創世記第2章v.7「inspiravit in faciem eius spiraculum vitae（命の息吹を顔に吹き込んだ）」の「spiraculum（息吹）」の変奏：神の創造の「命の息吹」が冷えて消えた状態。「–（ダッシュ）」が詩の調子を転換し「....（四点リーダー）」への移行を準備する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": ".... Möcht einen Herzallerliebsten haben!\nUnd mich in seinem Fleisch vergraben.",
+      "body": "「……心から愛する者を持ちたい！そしてその肉の中に自分を埋めたい」──詩の結語的叫び。「....（四点リーダー）」が「Sein Blut」末行「.... Sein Blut plagt ihn」と同型の沈黙・中断の図像。「Herzallerliebsten（心から最も愛する者）」はドイツ語の最上級複合：「Herz（心）＋aller（全ての中で）＋liebsten（最も愛する）」。感嘆符「！」が叫びの強度を示す。「mich in seinem Fleisch vergraben（その肉の中に自分を埋める）」──「Fleisch（肉）」という語が「Sein Blut」の「Blut（血）」と同様の肉体的・エロス的次元：しかし「Sein Blut plagt ihn」では他者の「Blut」が破壊衝動として機能するのに対し、「Chaos」では「Fleisch」が庇護・帰還の場所として求められる逆転。「vergraben（埋める）」──「Mein Sterbelied」の「einziehen（入っていく）」と同型の死＝溶融的帰還の動詞。「Versöhnung」「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」の最も肉体的な反復として詩集を閉じる。",
+      "targetId": "laskerschuler_versoehnung",
+      "targetParagraphId": 4
+    }
+  ]
+}
