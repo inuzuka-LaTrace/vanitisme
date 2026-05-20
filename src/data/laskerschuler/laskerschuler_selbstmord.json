@@ -1,0 +1,122 @@
+{
+  "id": "laskerschuler_selbstmord",
+  "title": "Selbstmord",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Selbstmord_(Lasker-Sch%C3%BCler)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 89, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "上級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による15行の詩。「Selbstmord（自殺）」という題名はラスカー＝シューラーの詩集中で最も衝撃的な語の一つであるが、詩はその題名に反して死への抵抗・死の逆転・死への嘲笑という方向へと展開する。3行×5連の整然たる均等形式が、内容の混沌・グロテスク・変容と対位法的緊張を形成する。第1連「Wilde Fratzen（野蛮な醜い顔）」「Sumpf（沼）」という腐敗・グロテスクのイメージから、第2連「Skarrabäenstein（スカラベの石）」──エジプト的死と復活の象徴──と「bunter Mai（色鮮やかな五月）」という逆説的生命開花、第3連「Katz（猫）」への変身願望と「vollmondblutenden Abendschein（満月に血を滲ませた夕暮れの光）」というゴシック的色彩、第4連「Nacht voll grausamer Sehnsucht（残酷な憧憬に満ちた夜）」から「Fratze（醜い顔）」への変容、第5連「Der Tod selbst fürchtet sich（死自身が恐れる）」──死が逃げ去り、詩人が死を「Tatze（爪）でつかむ」という逆転──へと展開する。全詩を通じて韻律（aab ccb / aab ccb / aab ccb pattern的な各連内の脚韻）が厳密に維持され、グロテスクな内容を形式的秩序が保持するという表現主義的張力が生まれる。「Weltschmerz」「Chaos」の苦悩・解体と異なり、「Selbstmord」は死に向けて攻撃的・笑劇的に挑む詩人像を提示する。",
+  "keywords": [
+    "Selbstmord",
+    "Fratzen",
+    "Skarrabäenstein",
+    "Katz",
+    "Tatze",
+    "Tod",
+    "Nacht",
+    "Sehnsucht",
+    "vollmondblutenend",
+    "逆転",
+    "グロテスク"
+  ],
+  "relatedTexts": [
+    "laskerschuler_chaos",
+    "laskerschuler_weltschmerz",
+    "laskerschuler_styx",
+    "laskerschuler_schwarze_sterne",
+    "hieronymus_iob_1",
+    "baudelaire_danse_macabre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Wilde Fratzen schneidet der Mond in den Sumpf\nEs kreisen alle Welten dumpf;\nHätt ich erst diese überstanden!",
+      "provisionalTranslation": "月は野蛮な醜い顔を沼に切り刻む\nすべての世界は鈍く回転する。\nこれさえまず乗り越えられれば！"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Mein Herz, ein Skarrabäenstein;\nBlüht bunter Mai aus meinem Gebein\nUnd Meere rauschen durch Guirlanden.",
+      "provisionalTranslation": "私の心はスカラベの石、\n私の骨から色鮮やかな五月が咲き、\n海々はガーランドを通って轟く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "Ich wollt, ich wär eine Katz geworden;\nDer Kater schleicht sie lustzumorden\nIm vollmondblutenden Abendschein.",
+      "provisionalTranslation": "私は望む、猫になれていたらと。\n雄猫は喜んで殺そうと彼女に忍び寄る\n満月が血を滲ませた夕暮れの光の中で。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "Wie die Nacht voll grausamer Sehnsucht keimt –\nSie hat in mir oft zart geträumt\nUnd ist entstellt zur Fratze.",
+      "provisionalTranslation": "残酷な憧憬に満ちた夜がいかに萌え出るか──\n夜は私の中でよく繊細に夢を見ていた\nそして醜い顔へと歪んでしまった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "Der Tod selbst fürchtet sich zu zwein\nUnd kriecht in seinen Erdenschrein,\n– Aber ich pack ihn mit meiner Tatze.",
+      "provisionalTranslation": "死自身が二人でいることを恐れ\n自分の地の祠の中に這い込む──\nしかし私は爪で死をつかまえる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wilde Fratzen schneidet der Mond in den Sumpf\nEs kreisen alle Welten dumpf;",
+      "body": "「月は野蛮な醜い顔を沼に切り刻む──すべての世界は鈍く回転する」──「Fratzen（醜い顔・グロテスクな顔）」という語が第1連冒頭と第4連末（v.12「Fratze」）で環状対応する：詩全体が「Fratzen」で括られる。「schneidet…in den Sumpf（沼に切り刻む）」──月光が沼の水面に映す像を「刻む（schneiden）」という彫刻的動詞で提示する：月が沼を「版画の板」として扱う形象。「Sumpf（沼）」──「Styx」の冥界の河・「Chaos」の「Todverlassenheit」と同系列の腐敗・暗黒の水イメージ。「Es kreisen alle Welten dumpf（すべての世界は鈍く回転する）」──「Der letzte Stern」の「Die Zeit rundauf, kugelab（時間は丸く球状に）」という宇宙的循環と同型だが、「dumpf（鈍い・くぐもった）」という形容詞副詞が循環の高揚ではなく停滞・重さを示す。コヘレト第1章の宇宙的循環「in circulos suos revertitur」の詩的変奏。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Hätt ich erst diese überstanden!",
+      "body": "「これさえまず乗り越えられれば！」──接続法II式「Hätt ich（持っていれば）」による非現実の願望と感嘆符「！」の組み合わせ：乗り越えられていない現在の苦悩への嘆きと同時に、乗り越えへの強い意志の宣言。「diese（これ）」という指示代名詞が具体的内容を示さない：何を「乗り越える」のかを曖昧にしたまま感情の強度だけが提示される──「Chaos」の「Urangst（根源的恐怖）」・「Weltschmerz」の石化した苦悩の総称として機能する「diese」。韻律：v.1「Sumpf」──v.2「dumpf」の脚韻（-umpf）、v.3「überstanden」が脚韻の外に置かれる──「Styx」のv.3「Wassern」と同型の「はみ出し行」による開口的閉幕。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Mein Herz, ein Skarrabäenstein;",
+      "body": "「私の心はスカラベの石」──「Skarrabäenstein（スカラベの石）」はラスカー＝シューラーの造語：「Skarabäus（スカラベ）＋Stein（石）」。古代エジプトの「スカラベ（聖甲虫）」はケプリ神（朝の太陽・再生の神）の象徴であり、死者の墓に副葬品として置かれた護符石として機能する：「死と復活・変容」の象徴。「Mein Herz（私の心）」がこの護符石と同一視される──心が死の中でも不死性を持つ存在として自己定義される。「Weltschmerz」の「steinernes Sphinxhaupt（石のスフィンクスの頭）」と同型のエジプト的・石的自己形象：「Weltschmerz」では怒りの凝固として、「Selbstmord」では死と復活の護符として石が機能する対比。ヒエロニムス訳詩篇21（22）「Non sprevit neque despexit deprecationem pauperis（貧しき者の祈りを蔑んだりしなかった）」というヨブ的苦悩の中での神への信頼との照応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Blüht bunter Mai aus meinem Gebein\nUnd Meere rauschen durch Guirlanden.",
+      "body": "「私の骨から色鮮やかな五月が咲き──海々はガーランドを通って轟く」──「Gebein（骨・骨格）」から「bunter Mai（色鮮やかな五月）」が「blühen（咲く）」という生命開花の逆説：死体の骨から春が生まれる。「Mein Sterbelied」の「Paradiessterne」への上昇・「Mein Sterbelied」の死後の生命溶融と同型の死からの再生モチーフ。「Guirlanden（ガーランド・花輪）」──祝祭・装飾・死者への供花の両義性を持つ：バロック・ヴァニタス絵画において花輪は美の儚さを示す定番モチーフ。「Sein Blut」の「Letzte Rose im Maien（五月の最後の薔薇）」が排水溝に投げ捨てられたのとは逆に、「Selbstmord」では骨から五月が咲く──喪失から生成への反転。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ich wollt, ich wär eine Katz geworden;\nDer Kater schleicht sie lustzumorden\nIm vollmondblutenden Abendschein.",
+      "body": "「猫になれていたらと──雄猫が喜んで殺そうと忍び寄る、満月が血を滲ませた夕暮れの光の中で」──「Katz（猫）」への変身願望が第3連の中心。「Ich wollt, ich wär（願う、〜であれれば）」という接続法II式が「Styx」「Chaos」等の非現実願望構文と同型。猫は表現主義詩語において官能性・夜行性・生死の境界を跨ぐ動物として機能する。「lustzumorden（喜んで殺そうと）」という不定詞複合──「Lust（喜び・欲望）＋zu＋morden（殺す）」：殺すことへの欲望が「Lust（喜び）」として提示される表現主義的グロテスク。「vollmondblutenden Abendschein（満月が血を滲ませた夕暮れの光）」──「vollmond（満月）＋blutend（血を滲ませる）＋Abendschein（夕暮れの光）」という三重複合造語：「Abel」「Versöhnung」「Sein Blut」の「Blut（血）」モチーフが「blutend」として色彩語化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wie die Nacht voll grausamer Sehnsucht keimt –\nSie hat in mir oft zart geträumt\nUnd ist entstellt zur Fratze.",
+      "body": "「残酷な憧憬に満ちた夜がいかに萌え出るか──夜は私の中でよく繊細に夢を見ていた、そして醜い顔へと歪んでしまった」──「Sehnsucht（憧憬）」と「grausam（残酷な）」の結合：「Zebaoth」の「Sehnsucht（憧憬）」が神への純粋な渇望であったのに対し、「Selbstmord」では憧憬そのものが「grausam（残酷）」として変容する。「keimt（萌え出る）」──「Eva」v.5「keimende Liebe（萌芽する愛）」と同じ動詞「keimen」：生命の発芽という語が「残酷な憧憬」の主語として機能する逆説。「zart geträumt（繊細に夢を見ていた）」──夜の繊細な夢が「entstellt（歪められた・醜くされた）」という受動的変容によって「Fratze（醜い顔）」へと転落する：美的経験の腐食・グロテスクへの滑落。第1連冒頭「Wilde Fratzen」との環状対応が完成する。",
+      "targetId": "laskerschuler_eva",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Der Tod selbst fürchtet sich zu zwein\nUnd kriecht in seinen Erdenschrein,",
+      "body": "「死自身が二人でいることを恐れ、自分の地の祠の中に這い込む」──死の擬人化と逆転：詩人が死を恐れるのではなく、「Tod（死）」が「sich fürchten（恐れる）」という自動詞の主語として提示される。「zu zwein（二人でいることを）」──「zu zwein sein（二人でいる）」という状態を「Tod」が「fürchten（恐れる）」：死が孤独を好むゆえに「二人でいること」を恐れる──死との対峙・向き合いを死が回避しようとする。「Erdenschrein（地の祠・棺）」──「Erde（地・土）＋Schrein（祠・棺）」：死が這い込む場所が「地の棺」として提示される逆説：死が自分自身の棺に隠れる。ヨブ記第1章でヨブが全てを失いながら神を讃えるという抵抗と同型の、死への超越的抵抗。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "– Aber ich pack ihn mit meiner Tatze.",
+      "body": "「しかし私は爪で死をつかまえる」──詩の結語的逆転命題。「–（ダッシュ）」が「Tod」の逃走と詩人の攻撃の間を区切る：「Eva」末行の「–.」・「Mein Sterbelied」§3冒頭の「–」と同型の転換の図像。「pack ihn（つかまえる）」──「packen（つかむ・捕まえる）」という具体的・身体的動詞が「Tod（死）」という抽象的・超越的存在に向けられる：「Weltschmerz」の「Zürnend zu allen Himmeln auf（怒りながら天を見上げる）」と同型の抵抗の身体的表現。「Tatze（爪・手）」──第3連の「Katz（猫）」への変身願望が末行で「Tatze（猫の爪）」として実現する：詩人は猫の爪で死を捕まえる。「Chaos」の「Herzallerliebsten…Fleisch（肉）」と対照的に、「Selbstmord」の末行では「Tatze（爪）」という攻撃的・捕食的身体部位が詩集の最終的結語的身体語として機能する。"
+    }
+  ]
+}
