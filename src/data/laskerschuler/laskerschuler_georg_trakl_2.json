@@ -1,0 +1,157 @@
+{
+  "id": "laskerschuler_georg_trakl_2",
+  "title": "Georg Trakl",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Georg_Trakl_(Lasker-Sch%C3%BCler_II)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 117, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）によるゲオルク・トラークルへの第二の追悼詩（「Georg Trakl I」に続くS.117）。前作（2行）の極度の簡潔さに対し、本詩は16行の肖像詩として展開し、トラークルの人物・詩・信仰・死後の影を多面的に描く。「Seine Augen standen ganz fern（彼の目はひどく遠くにあった）」という冒頭の視覚的距離から、「Er war als Knabe einmal schon im Himmel（彼は少年として一度既に天にいた）」という天的起源の宣言、「Wir stritten über Religion（私たちは宗教について言い争った）」という親密な記憶、「Im Anfang war das Wort（はじめに言葉があった）」というヨハネ福音書第1章v.1の直接引用、「Er war wohl Martin Luther（彼はおそらくマルティン・ルターだった）」というプロテスタント的詩人像、「Seine dreifaltige Seele（彼の三重の魂）」という三位一体的神学と戦争への出征、「– Dann wußte ich, er war gestorben –（そして私は知った、彼は死んだのだと）」という死の認知の孤立した一行、「Sein Schatten weilte unbegreiflich / Auf dem Abend meines Zimmers（彼の影は理解しがたく私の部屋の夕暮れにとどまっていた）」という幽霊的残像による閉幕へと展開する。「Styx」後記のフィッカーへの捧辞・「Georg Trakl I」の2行との三層的トラークル追悼の完成形。",
+  "keywords": [
+    "Georg Trakl",
+    "Augen",
+    "Himmel",
+    "Wolken",
+    "Religion",
+    "Spielgefährten",
+    "Im Anfang war das Wort",
+    "Martin Luther",
+    "dreifaltige Seele",
+    "Schatten",
+    "追悼"
+  ],
+  "relatedTexts": [
+    "laskerschuler_georg_trakl",
+    "laskerschuler_styx",
+    "laskerschuler_zebaoth",
+    "laskerschuler_abel",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "trakl_grodek"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Seine Augen standen ganz fern.\nEr war als Knabe einmal schon im Himmel.",
+      "provisionalTranslation": "彼の目はひどく遠くにあった。\n彼は少年として一度既に天にいた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Darum kamen seine Worte hervor\nAuf blauen und weißen Wolken.",
+      "provisionalTranslation": "それゆえ彼の言葉は出てきた\n青と白い雲の上に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "Wir stritten über Religion,\nAber immer wie zwei Spielgefährten,",
+      "provisionalTranslation": "私たちは宗教について言い争った、\nしかしいつも二人の遊び仲間のように、"
+    },
+    {
+      "id": 4,
+      "verses": "v.7–8",
+      "original": "Und bereiteten Gott von Mund zu Mund.\nIm Anfang war das Wort.",
+      "provisionalTranslation": "そして神を口から口へと準備した。\nはじめに言葉があった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.9–10",
+      "original": "Des Dichters Herz, eine feste Burg,\nSeine Gedichte: Singende Thesen.",
+      "provisionalTranslation": "詩人の心は堅固な砦、\n彼の詩篇は：歌うテーゼ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.11",
+      "original": "Er war wohl Martin Luther.",
+      "provisionalTranslation": "彼はおそらくマルティン・ルターだった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.12–13",
+      "original": "Seine dreifaltige Seele trug er in der Hand,\nAls er in den heiligen Krieg zog.",
+      "provisionalTranslation": "彼の三重の魂を彼は手に持ち、\n聖なる戦争へと出征したとき。"
+    },
+    {
+      "id": 8,
+      "verses": "v.14",
+      "original": "– Dann wußte ich, er war gestorben –",
+      "provisionalTranslation": "──そして私は知った、彼は死んだのだと──"
+    },
+    {
+      "id": 9,
+      "verses": "v.15–16",
+      "original": "Sein Schatten weilte unbegreiflich\nAuf dem Abend meines Zimmers.",
+      "provisionalTranslation": "彼の影は理解しがたく\n私の部屋の夕暮れにとどまっていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Seine Augen standen ganz fern.\nEr war als Knabe einmal schon im Himmel.",
+      "body": "「彼の目はひどく遠くにあった──彼は少年として一度既に天にいた」──詩の冒頭二行がトラークルの存在様式の本質を定義する。「ganz fern（ひどく遠く）」という副詞強調：目が「遠くにある（standen fern）」という静的動詞が視線の距離・超越性を示す。「Georg Trakl I」の「So einsam war es in der Welt（世界はこんなにも孤独だった）」と照応する孤立の形象。「Er war als Knabe einmal schon im Himmel（少年として一度既に天にいた）」──「schon（既に）」という副詞が「かつて一度」天にいたという過去の経験として天的状態を提示する：天が死後の場所ではなく少年期に既に経験された場所として。トラークル「Helian」の「Im sanften Schweigen des Sonntags（日曜日の穏やかな沈黙の中で）」という幼年期の神的充満との照応。",
+      "targetId": "trakl_helian",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Darum kamen seine Worte hervor\nAuf blauen und weißen Wolken.",
+      "body": "「それゆえ彼の言葉は出てきた──青と白い雲の上に」──「Darum（それゆえ）」という接続副詞が§1（天的起源）と§2（詩語の性質）を因果的に結ぶ：天にいた者の言葉が「雲の上に」出てくるのは必然。「blauen und weißen Wolken（青と白い雲）」──トラークルの詩語における「blau（青）」は最も頻繁に使われる色彩語であり、精神性・哀愁・死後の超越を指示する（「Helian」「De Profundis」「Ein Winterabend」等）。ラスカー＝シューラーがトラークルの詩の色彩的特質を「blaue Wolken（青い雲）」として的確に捉えている。「hervorkom­men（出てくる）」という動詞が言葉の自然発生的・湧出的性質を示す：詩語が「作られる」のではなく「出てくる」。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Wir stritten über Religion,\nAber immer wie zwei Spielgefährten,",
+      "body": "「私たちは宗教について言い争った──しかしいつも二人の遊び仲間のように」──詩がここで初めて「Wir（私たち）」という一人称複数を使用する：ラスカー＝シューラーとトラークルの実際の交流の記憶が挿入される。「stritten（言い争った）」という動詞の過去形──宗教的議論の活発さを示す。「wie zwei Spielgefährten（二人の遊び仲間のように）」──「Zebaoth」の「Du Gespiele Gott（遊び友達の神よ）」の「Gespiele（遊び仲間）」と同語根：神への関係と友人への関係が同型の「遊び」として提示される。「Chaos」後記「zur Freundschaft（友情のために）」の「友情」が、ここでは宗教的議論という知的友情として具体化される。「Spielgefährten」──「Georg Trakl I」の「So einsam（こんなにも孤独）」という孤独への対極として、生前の友の「遊び仲間」的近接が回想される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Und bereiteten Gott von Mund zu Mund.\nIm Anfang war das Wort.",
+      "body": "「神を口から口へと準備した──はじめに言葉があった」──二行が詩の神学的核心をなす。「bereiteten Gott von Mund zu Mund（神を口から口へと準備した）」──「bereiten（準備する・整える）」という動詞と「von Mund zu Mund（口から口へ）」という伝達句：神についての言葉が二人の詩人の間で「口から口へ」と伝えられる──「聖餐（Abendmahl）」のパンと杯の分かち合いのイメージ。「Im Anfang war das Wort（はじめに言葉があった）」──ヒエロニムス訳ヨハネ福音書第1章v.1「In principio erat Verbum」の直接引用・ドイツ語訳：VANITISMEコーパス中で聖書テキストが詩の中に直接引用される最も明確な例。「Wort（言葉）」が詩語・神の言葉・二詩人の対話の三重の意味において機能する。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Des Dichters Herz, eine feste Burg,\nSeine Gedichte: Singende Thesen.",
+      "body": "「詩人の心は堅固な砦──彼の詩篇は：歌うテーゼ」──§5・§6が連続してトラークルをルター的詩人として形象化する準備をなす。「feste Burg（堅固な砦）」はルターの賛歌「Ein feste Burg ist unser Gott（堅固な砦はわれらの神）」（1529年）の直接引用：神＝砦というルター的形象が「詩人の心（Dichters Herz）」に適用される。「Singende Thesen（歌うテーゼ）」──「Thesen」はルターの「95ヶ条の論題（Thesen）」（1517年）への照応：トラークルの詩篇が宗教改革的な「テーゼ」として、しかし「singende（歌う）」という詩的形式で提示される。「Zebaoth」の「Du Dichter（あなたは詩人）」という神＝詩人の等式が、ここではトラークル＝ルター＝詩人・神学者という等式として展開する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Er war wohl Martin Luther.",
+      "body": "「彼はおそらくマルティン・ルターだった」──詩集中で最も大胆な同一視命題の一つ：トラークル＝マルティン・ルター（1483–1546）という等式を「wohl（おそらく）」という慎重な副詞とともに提示する。この一行の孤立した配置（前後から独立した段落）が命題の重さを強調する。マルティン・ルター：ドイツ・プロテスタント宗教改革の主導者、「95ヶ条の論題」でローマ教会と対決、「良心」と「聖書のみ（Sola Scriptura）」の原則を確立。ラスカー＝シューラーが「宗教について言い争い（§3）」「神を口から口へと準備（§4）」する友人トラークルを「新たなルター」として見る視点が、ユダヤ系詩人とカトリック的詩人の宗教的友情という文脈において特異な輝きを持つ。「feste Burg（§5）」→「Martin Luther（§6）」の連鎖が逆向き展開（引用→元の人物の命名）として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Seine dreifaltige Seele trug er in der Hand,\nAls er in den heiligen Krieg zog.",
+      "body": "「彼の三重の魂を彼は手に持ち──聖なる戦争へと出征したとき」──「dreifaltige Seele（三重の魂・三位一体の魂）」はキリスト教の「三位一体（Trinität）」への照応：父・子・聖霊の三位一体をトラークルの魂が体現する。「trug…in der Hand（手に持ち）」という動詞句：魂を「手に（in der Hand）」持つという身体的・物質的形象──「Zebaoth」の「Deines Tores Gold schmilzt an meiner Sehnsucht（あなたの門の黄金が憧憬の中で溶ける）」と同様の神的なものの物質化。「heiligen Krieg（聖なる戦争）」──第一次世界大戦（1914–18）を「聖なる（heilig）」と名指すことのアイロニー：ドイツ帝国が「神と共に（Gott mit uns）」という標語のもとに戦った戦争を「heilig」と呼ぶラスカー＝シューラーの逆説的・批判的命名か、それともトラークルの信仰的純粋さへの尊称か。トラークル「Grodek」──戦場での死者への哀歌──との照応。",
+      "targetId": "trakl_grodek",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "– Dann wußte ich, er war gestorben –",
+      "body": "「──そして私は知った、彼は死んだのだと──」──詩集中で最も重い一行。前後をダッシュ「–…–」で括られた孤立した一行として全段落を占め、死の認知の瞬間が孤立・停止として形式的に実現される。「Georg Trakl I」の「Er erlag…von eigener Hand gefällt（自らの手によって倒れた）」という事実の事後的・間接的な認知として機能する。「Dann（そして・それから）」という接続詞が「聖なる戦争への出征（§7）」から「死の認知（§8）」への時間的推移を一語で示す。「wußte ich（私は知った）」という認識の過去形──「Georg Trakl I」の「Ich hatt ihn lieb（私は彼を愛していた）」と同型の告白的過去形。ダッシュによる前後の括りが発語の「中断・宙吊り」を示す：「Eva」末行「–.」・「Mein Sterbelied」§3「–」と同型の沈黙の図像化、しかし本詩では両側にダッシュが置かれることで完全な孤立が達成される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sein Schatten weilte unbegreiflich\nAuf dem Abend meines Zimmers.",
+      "body": "「彼の影は理解しがたく私の部屋の夕暮れにとどまっていた」──詩の閉幕形象。「Schatten（影・幽霊）」──死者の「影」が詩人の部屋に「weilte（とどまっていた）」という動詞の過去形：「影」がまだそこにいる現在進行ではなく、「とどまっていた」という過去形が幽霊的残像の時間的不確定性を示す。「unbegreiflich（理解しがたく）」という副詞：「Chaos」の「Todverlassenheit」・「Eva」の「adamjung…」の「…（省略符）」と同型の認識不可能性の定式。「Auf dem Abend meines Zimmers（私の部屋の夕暮れに）」──「Abend（夕暮れ・夕べ）」が「Zimmer（部屋）」に属格で結びつく：夕暮れが部屋に属する固有の時間として内面化される。トラークル「Ein Winterabend（冬の夕暮れ）」「Abendland（西洋・夕暮れの国）」における「Abend」モチーフ──夕暮れ・死・超越の結節点──が「meines Zimmers（私の部屋）」という極めて私的・室内的空間の中に封じ込められる。「Selbstmord」末行「Aber ich pack ihn mit meiner Tatze（しかし私は爪で死をつかまえる）」の攻撃的死との対照：「Georg Trakl II」は死者の影の静かな残留として閉じる。",
+      "targetId": "trakl_ein_winterabend",
+      "targetParagraphId": null
+    }
+  ]
+}
