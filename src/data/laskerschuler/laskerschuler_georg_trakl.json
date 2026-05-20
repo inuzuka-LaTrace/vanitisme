@@ -1,0 +1,67 @@
+{
+  "id": "laskerschuler_georg_trakl",
+  "title": "Georg Trakl",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Georg_Trakl_(Lasker-Sch%C3%BCler_I)",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 116, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "初級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）によるゲオルク・トラークル（Georg Trakl, 1887–1914）への追悼詩。わずか2行・26語に収められた詩集中最短の詩であり、その簡潔さゆえに最も強度の高い詩的発語のひとつをなす。トラークルは第一次世界大戦（1914–18）中の1914年11月3日、ガリツィア戦線での野戦病院勤務後にクラクフの病院でコカイン過剰摂取により死亡した──「von eigener Hand gefällt（自らの手によって倒れた）」という表現がこの死を指す。「Georg Trakl erlag im Krieg von eigener Hand gefällt（ゲオルク・トラークルは戦争の中で自らの手によって倒れて死んだ）」──「erlag（力尽きて死んだ）」と「gefällt（倒された）」という二重の動詞が受動的敗北と能動的自己消滅の両義を保つ。「So einsam war es in der Welt（世界はこんなにも孤独だった）」──死後に残る世界の孤独を「es（それ）」という非人称主語で提示する：世界が孤独であるのか、孤独がこの世界に満ちているのかという曖昧性。「Ich hatt ihn lieb（私は彼を愛していた）」という閉幕の告白が詩全体を愛の喪失の記録として確定させる。「Styx」後記でトラークルの最大の支援者フィッカーへの捧辞があったことが、この詩と「Styx」を詩集内で秘かに結ぶ。",
+  "keywords": [
+    "Georg Trakl",
+    "Krieg",
+    "Einsamkeit",
+    "Liebe",
+    "Tod",
+    "von eigener Hand",
+    "追悼",
+    "友情",
+    "表現主義",
+    "第一次世界大戦"
+  ],
+  "relatedTexts": [
+    "laskerschuler_styx",
+    "laskerschuler_eva",
+    "laskerschuler_chaos",
+    "trakl_de_profundis",
+    "trakl_grodek",
+    "trakl_helian"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Georg Trakl erlag im Krieg von eigener Hand gefällt.\nSo einsam war es in der Welt. Ich hatt ihn lieb.",
+      "provisionalTranslation": "ゲオルク・トラークルは戦争の中で自らの手によって倒れて死んだ。\n世界はこんなにも孤独だった。私は彼を愛していた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Georg Trakl erlag im Krieg von eigener Hand gefällt.",
+      "body": "「ゲオルク・トラークルは戦争の中で自らの手によって倒れて死んだ」──トラークルの死（1914年11月3日、クラクフ）の事実的報告として機能する散文的一行。「erlag（力尽きて死んだ）」は「erliegen（〜に屈して死ぬ・力尽きる）」の過去形：外部の力（戦争・Krieg）に屈した受動的死を示す。「von eigener Hand gefällt（自らの手によって倒された）」という過去分詞句が「Selbstmord（自殺）」という語を使わずにコカイン過剰摂取による死を示唆する：「gefällt（倒された）」は木材を「伐採する（fällen）」と同語根であり、「木が伐られる」という自然物の消滅形象を人間の死に用いる。「im Krieg（戦争の中で）」──直接の戦死ではなく「戦争という文脈の中で」という限定：戦争がトラークルを「倒した」媒介として位置づけられる。詩集「Gesammelte Gedichte」（1917年）の出版時点で既に死から3年が経過しており、この一行は遅れた、あるいは永続的な哀悼として機能する。",
+      "targetId": "trakl_grodek",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "So einsam war es in der Welt. Ich hatt ihn lieb.",
+      "body": "「世界はこんなにも孤独だった。私は彼を愛していた」──詩の第2行にして詩全体の感情的核心。二文に分割された構造：「So einsam war es in der Welt（世界はこんなにも孤独だった）」という宇宙的・客観的孤独の宣言と、「Ich hatt ihn lieb（私は彼を愛していた）」という個人的・主観的愛の告白の対置。「es（それ）」という非人称主語：「世界が孤独だった（es war einsam）」という非人称構文は誰の孤独かを特定しない──トラークルの孤独か、ラスカー＝シューラー自身の孤独か、世界全体の孤独か。「Chaos」の「Ich finde mich nicht wieder（私は自分を見つけられない）」・「Styx」の「Ich trinke einsam（ひとり飲む）」と連動する詩群の「Einsamkeit（孤独）」モチーフの最も簡潔な定式。「Ich hatt ihn lieb（私は彼を愛していた）」──「lieb haben（愛する・好む）」の過去形：現在形ではなく過去形「hatt」が愛の喪失・完了を示す。この過去形の選択が詩の哀悼としての機能を確定させる。トラークル「De Profundis」「Helian」等の詩的世界を深く受容したラスカー＝シューラーの「愛」が、詩集最短の詩に最大の情感密度で封印される。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Georg Trakl erlag im Krieg von eigener Hand gefällt.\nSo einsam war es in der Welt. Ich hatt ihn lieb.",
+      "body": "詩の形式的分析。わずか2行・全26語という詩集中の最短詩。韻律：v.1「gefällt」──v.2「Welt」の脚韻（-elt）：ドイツ語詩の伝統的脚韻が「倒れた（gefällt）」と「世界（Welt）」を結びつける──「世界に倒れた」という意味的連関を脚韻が強化する。「lieb」は韻を持たず、行末の孤立した語として機能する：「愛（lieb）」が韻律的孤独の中に置かれる。散文的・事実報告的な第1行と、感情的・個人的な第2行の対比：「Selbstmord」の均等5連や「Chaos」の構造と異なり、「Georg Trakl」は形式の最小化によって最大の感情的重量を実現する。「Eva」末行の「–.」・「Styx」の「wunschlos」と同様の言語の極限への到達：これ以上削れない詩。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の不在に抗う、固有名詞「Georg Trakl」の刻印としての詩。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
