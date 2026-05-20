@@ -1,0 +1,71 @@
+{
+  "id": "trakl_melancholie",
+  "title": "Melancholie",
+  "author": "Georg Trakl",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Melancholie_(Trakl)",
+  "year": "1913",
+  "firstPublication": "Gedichte, S. 27, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・トラークル（1887–1914）による8行詩。イタリア式ソネットの2クヴァルテット（第1・第2四行連句）のみから成る不完全なソネット形式──テルツェット（第3・第4三行連句）が欠落している。この形式的「未完成」あるいは「断絶」が詩の内容的主題である「頽廃・溶解・消滅」と対位法的に照応する。「Verfall（頽廃）」と並ぶトラークル初期の代表的ソネット。「bläuliche Schatten（青みがかった影）」という冒頭の色彩的提示から、「dunklen Augen（暗い目）」「Guitarrenklänge（ギターの音色）」「Herbst（秋）」「braunen Laugen（茶色の灰汁）」という感覚の連鎖が第1クヴァルテットを形成する。第2クヴァルテットでは「Des Todes ernste Düsternis（死の厳粛な暗闇）」「Nymphische Hände（水の精の手）」「roten Brüsten（赤い胸）」「Verfallne Lippen（頽廃した唇）」「schwarzen Laugen（黒い灰汁）」「Sonnenjünglings feuchte Locken（太陽の若者の湿った巻き毛）」という官能的・死的・神話的イメージが密集する。「Laugen（灰汁）」という語がv.4とv.7に反復され、包み韻（ABBA）の脚韻語として詩の閉環構造を形成する。",
+  "keywords": [
+    "Melancholie", "Schatten", "Augen", "Herbst", "Laugen", "Tod",
+    "Nymphe", "Sonnenjüngling", "色彩", "ソネット", "頽廃", "官能"
+  ],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_allerseelen",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "baudelaire_harmonie_du_soir",
+    "rodenbach_nocturne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Bläuliche Schatten. O ihr dunklen Augen,\nDie lang mich anschaun im Vorübergleiten.\nGitarrenklänge sanft den Herbst begleiten\nIm Garten, aufgelöst in braunen Laugen.",
+      "provisionalTranslation": "青みがかった影。ああ、あなたたち暗い目よ、\n通り過ぎながら長く私を見つめる。\nギターの音色が秋を柔かに伴奏する\n茶色の灰汁の中に溶け込んだ庭で。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Des Todes ernste Düsternis bereiten\nNymphische Hände, an roten Brüsten saugen\nVerfallne Lippen und in schwarzen Laugen\nDes Sonnenjünglings feuchte Locken gleiten.",
+      "provisionalTranslation": "死の厳粛な暗闇を準備するのは\n水の精の手々、赤い胸に吸いつく\n頽廃した唇、そして黒い灰汁の中を\n太陽の若者の湿った巻き毛が滑る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Bläuliche Schatten. O ihr dunklen Augen,\nDie lang mich anschaun im Vorübergleiten.",
+      "body": "「青みがかった影。ああ、あなたたち暗い目よ──通り過ぎながら長く私を見つめる」──詩の冒頭二行。「Bläuliche Schatten（青みがかった影）」という名詞句が動詞なしに提示される：「Verfall」の「An Novalis」的な冒頭の名詞句的開口と同型。「bläulich（青みがかった）」──「blau（青）」の縮小的形容詞形：完全な「blau」ではなく「青みを帯びた」という中間的・曖昧な色彩。トラークル詩語において「blau」は霊的純潔・距離・哀愁の色であり、「bläulich」はその弱化形として不確かさ・溶解を示す。「O ihr dunklen Augen（ああ、あなたたち暗い目よ）」という呼格：「Allerseelen」「O! wie sie hier voll Angst（ああ！彼らはここで恐れに満ちている）」と同型の「O!」の感嘆。ラスカー＝シューラー「Georg Trakl II」§1「Seine Augen standen ganz fern（彼の目はひどく遠くにあった）」との照応：「暗い目」が「遠い目」として詩群を横断する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Guitarrenklänge sanft den Herbst begleiten\nIm Garten, aufgelöst in braunen Laugen.",
+      "body": "「ギターの音色が秋を柔かに伴奏する──茶色の灰汁の中に溶け込んだ庭で」──「Guitarrenklänge（ギターの音色）」：「Klänge（音色・響き）」の複数形が楽器の音の散在を示す。ボードレール「夕暮れの調和（Harmonie du soir）」の「ヴァイオリンが震える」官能的・哀愁的音響詩との照応：秋の庭での楽器の音が死の気配を帯びる。「aufgelöst in braunen Laugen（茶色の灰汁の中に溶け込んだ）」──「auflösen（溶解する・解体する）」という動詞が「Garten（庭）」の主語として：庭が「溶解する」という物質的崩壊の形象。「Laugen（灰汁・苛性液）」──アルカリ性の腐食液：美しいものを溶かす化学的過程として頽廃が提示される。v.7「schwarzen Laugen（黒い灰汁）」との反復──「braunen（茶色）」→「schwarzen（黒）」という色彩的深化が詩の暗化を示す。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des Todes ernste Düsternis bereiten\nNymphische Hände, an roten Brüsten saugen\nVerfallne Lippen",
+      "body": "「死の厳粛な暗闇を準備するのは水の精の手々、赤い胸に吸いつく頽廃した唇」──第2クヴァルテットの最も密集したイメージ群。「Des Todes ernste Düsternis bereiten（死の厳粛な暗闇を準備する）」：「bereiten（準備する）」という動詞が「死の暗闇」を目的語とする──死が到来するのではなく「準備される」という能動的過程。「ラスカー＝シューラー Georg Trakl II」「Und bereiteten Gott von Mund zu Mund（神を口から口へと準備した）」と同語根：「bereiten」が神と死の準備に用いられる。「Nymphische Hände（水の精の手々）」──「Nymphe（ニンフ）」はギリシア神話の水・森の精霊：死を準備するのが神話的存在であるという超自然化。「Verfallne Lippen（頽廃した唇）」──「verfallen（頽廃した・崩壊した）」が詩題「Verfall」の形容詞形として「Melancholie」に登場する：「Verfall」と「Melancholie」の語彙的接続。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "und in schwarzen Laugen\nDes Sonnenjünglings feuchte Locken gleiten.",
+      "body": "「黒い灰汁の中を太陽の若者の湿った巻き毛が滑る」──詩の閉幕形象。「schwarzen Laugen（黒い灰汁）」：v.4「braunen Laugen（茶色の灰汁）」からの色彩的下降──茶色から黒への暗化が詩の終末論的深化を示す。包み韻（ABBA）の構造：v.1「Augen」──v.4「Laugen」──v.5「bereiten」──v.8「gleiten」が韻を形成（-augen/-augen、-eiten/-eiten）。「Sonnenjüngling（太陽の若者）」という造語：「Sonne（太陽）＋Jüngling（若者）」──光と青春の象徴的存在が「黒い灰汁」の中に「feuchte Locken（湿った巻き毛）」とともに「gleiten（滑る）」：光の存在が暗黒の液体に沈降する。「Zebaoth」の「Gottjüngling（神の若者）」・「Der letzte Stern」の「silbernes Blicken（銀色の眼差し）」と同型の神的若者の光の形象が、トラークルでは「schwarzen Laugen」への沈降として暗転される。テルツェット（第3・第4三行連句）の欠落：ソネット形式の「未完」が詩の「溶解・沈降」という主題を形式的に体現する──詩は「gleiten（滑る）」とともに切断・消滅する。",
+      "targetId": "laskerschuler_zebaoth",
+      "targetParagraphId": 1
+    }
+  ]
+}
