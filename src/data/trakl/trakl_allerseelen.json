@@ -1,0 +1,120 @@
+{
+  "id": "trakl_allerseelen",
+  "title": "Allerseelen",
+  "author": "Georg Trakl",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Allerseelen_(Trakl)",
+  "year": "1913",
+  "firstPublication": "Gedichte, S. 26, Kurt Wolff Verlag, Leipzig, 1913",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルク・トラークル（1887–1914）による16行詩。「Allerseelen（万霊節）」はカトリック典礼暦において11月2日に死者の魂を記念する祝日であり、墓地に花を供える慣習と結びつく。詩はこの祝日の墓地の情景から出発しながら、生者と死者・生と死・現実と非現実の境界を溶解させる。「Die Männlein, Weiblein, traurige Gesellen（男たちよ、女たちよ、悲しい仲間たち）」という冒頭の集合的語りかけが詩全体を「死への哀悼の集会」として定位する。第1連の「Sie tun wie arme Puppen vor dem Tod（彼らは死の前の哀れな人形のようにふるまう）」という人形的・非人格的形象、第2連の「Ungebornen Weinen（未生の者たちの泣き声）」という生まれる前の者たちの哀哭、第3連の「Das Seufzen Liebender（恋人たちのため息）」と「dort verwest die Mutter mit dem Kind（あそこで母は子と共に腐っていく）」という生と死の隣接、第4連の「Erbarm' dich Gott der Frauen Höll' und Qual（神よ、女たちの地獄と苦悩を憐れんでください）」という祈願と「Einsame wandeln still im Sternensaal（孤独な者たちが星の広間を静かに歩む）」という超越的閉幕へと展開する。トラークル初期の詩集『Gedichte』（1913年）収録。ラスカー＝シューラーによる「Georg Trakl I・II」追悼詩との横断的読解を可能にする。",
+  "keywords": [
+    "Allerseelen", "万霊節", "Grüfte", "Puppen", "Ungebornen", "Schatten",
+    "Herbstwind", "Sternensaal", "Einsamkeit", "Tod", "祈願", "墓地"
+  ],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_de_profundis",
+    "trakl_helian",
+    "laskerschuler_georg_trakl",
+    "laskerschuler_georg_trakl_2",
+    "laskerschuler_weltende",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "An Karl Hauer",
+      "provisionalTranslation": "カール・ハウアーへ"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Die Männlein, Weiblein, traurige Gesellen,\nSie streuen heute Blumen blau und rot\nAuf ihre Grüfte, die sich zag erhellen.\nSie tun wie arme Puppen vor dem Tod.",
+      "provisionalTranslation": "男たちよ、女たちよ、悲しい仲間たち、\n彼らは今日、青と赤の花を撒く\n臆病に明るくなるその墓の上に。\n彼らは死の前の哀れな人形のようにふるまう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "O! wie sie hier voll Angst und Demut scheinen,\nWie Schatten hinter schwarzen Büschen stehn.\nIm Herbstwind klagt der Ungebornen Weinen,\nAuch sieht man Lichter in der Irre gehn.",
+      "provisionalTranslation": "ああ！彼らはここで恐れと謙遜に満ちているように見える、\n黒い茂みの後ろに影のように立って。\n秋風の中に未生の者たちの泣き声が嘆き、\n迷い歩く灯りも見える。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Das Seufzen Liebender haucht in Gezweigen\nUnd dort verwest die Mutter mit dem Kind.\nUnwirklich scheinet der Lebendigen Reigen\nUnd wunderlich zerstreut im Abendwind.",
+      "provisionalTranslation": "恋人たちのため息が枝々の中に吐き出される\nそしてあそこで母は子とともに腐っていく。\n生きている者たちの輪舞は非現実のように見え\n夕べの風の中に奇妙に散り散りになる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Ihr Leben ist so wirr, voll trüber Plagen.\nErbarm' dich Gott der Frauen Höll' und Qual,\nUnd dieser hoffnungslosen Todesklagen.\nEinsame wandeln still im Sternensaal.",
+      "provisionalTranslation": "彼らの生は乱雑で、暗い苦しみに満ちている。\n神よ、女たちの地獄と苦悩を憐れんでください、\nそしてこの絶望的な死への嘆きを。\n孤独な者たちが星の広間を静かに歩む。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "An Karl Hauer",
+      "body": "献辞「カール・ハウアーへ（An Karl Hauer）」──カール・ハウアー（Karl Hauer, 1874–1913）はオーストリアの作家・文化批評家。トラークルと親交のあった人物であり、『Der Brenner』誌（ルートヴィヒ・フォン・フィッカー編集）の寄稿者でもあった。「Allerseelen（万霊節）」という死者記念の祭日を主題とする詩がカール・ハウアーへ捧げられる：ハウアーは1913年に死去しており、献辞が追悼的意味を帯びる可能性がある。ラスカー＝シューラー「Georg Trakl II」が「Styx」後記でフィッカーへ捧辞を贈ったように、フィッカー周辺の文学圏の人物が詩の受取人となる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Die Männlein, Weiblein, traurige Gesellen,\nSie streuen heute Blumen blau und rot\nAuf ihre Grüfte, die sich zag erhellen.",
+      "body": "「男たちよ、女たちよ、悲しい仲間たち──今日、青と赤の花を墓の上に撒く、臆病に明るくなるその墓に」──「Allerseelen（万霊節）」：カトリック典礼暦の11月2日、死者の魂を記念する祝日。墓地に花を供え、蝋燭を灯す慣習がある。「Männlein, Weiblein（男たち、女たち）」という縮小辞（-lein）の使用：「Mann（男）」・「Weib（女）」の縮小形が人物を「小さな・哀れな」存在として提示する。「Blumen blau und rot（青と赤の花）」──トラークル「Verfall」末行「blaue Astern neigen（青いアスターが傾く）」の「blau」と連動：万霊節の花が「Verfall」の秋のアスターと同系列の死と生命の花モチーフ。「Grüfte（墓・地下埋葬室）」の複数形──「die sich zag erhellen（臆病に明るくなる）」という動詞句が灯火によって微かに照らされる墓を描く。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sie tun wie arme Puppen vor dem Tod.",
+      "body": "「彼らは死の前の哀れな人形のようにふるまう」──第1連の閉幕行。「arme Puppen（哀れな人形）」という比喩：生者が死の前で「人形（Puppe）」として提示される──自律的意志を持たない操り人形。「Weltende」の「Das Leben liegt…Wie in Särgen（生命は棺の中のように横たわる）」と同型の「生の無力化」形象。「vor dem Tod（死の前に）」という前置詞句が「Tod」を具体的な審廷として提示する：ヒエロニムス訳ヨブ記第1章で神とサタンが天上の法廷でヨブを試練にかけるように、生者は「死の前で」人形的パフォーマンスを強いられる。「tun wie（〜のようにふるまう）」──演技・模倣の動詞が生の本質的な「非本来性」を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Im Herbstwind klagt der Ungebornen Weinen,\nAuch sieht man Lichter in der Irre gehn.",
+      "body": "「秋風の中に未生の者たちの泣き声が嘆き──迷い歩く灯りも見える」──第2連の最も強度の高い二行。「Ungebornen Weinen（未生の者たちの泣き声）」：「ungeboren（まだ生まれていない・未生の）」という形容詞の複数名詞化。生まれる前に死んだ者──流産・死産・堕胎の子──たちの泣き声が秋風の中に聞こえるという形象。生と死の間の「閾の存在」がトラークル詩語の典型的な時間論を示す。「Lichter in der Irre gehn（灯りが迷い歩く）」──「in der Irre（迷いの中で）」という慣用句：万霊節の墓地の蝋燭の灯りが「迷う」擬人的動詞とともに提示される。「Verfall」の「Lustrans universa in circuitu pergit spiritus（風はあらゆるところを照らしながら巡り続ける）」的な彷徨の形象。コヘレト第1章v.6「in circulos suos revertitur（巡回へと戻る）」の方向なき循環との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Das Seufzen Liebender haucht in Gezweigen\nUnd dort verwest die Mutter mit dem Kind.",
+      "body": "「恋人たちのため息が枝々の中に吐き出される──そしてあそこで母は子とともに腐っていく」──第3連の核心にして詩全体の最も暗く圧縮されたイメージ。「Seufzen Liebender（恋人たちのため息）」──「Versöhnung」「Wir wollen uns versöhnen die Nacht（私たちは夜、和解しよう）」の愛のため息が「Allerseelen」では墓地の枝々に「hauchen（吐き出す）」：愛の吐息が死の空間に漂う。「dort verwest die Mutter mit dem Kind（あそこで母は子とともに腐っていく）」──「verwesen（腐敗する・崩壊する）」という動詞が「Mutter（母）」と「Kind（子）」に適用される：最も根源的な生の結合（母子）が「腐敗」という死の最も物質的な過程に委ねられる。「Eva」の「tausendstämmige Erinnerung（一千の幹の記憶）」・「adamjung（アダムのように若い）」という人類の記憶の根源がここでは「腐敗」として現れる。",
+      "targetId": "laskerschuler_eva",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Unwirklich scheinet der Lebendigen Reigen\nUnd wunderlich zerstreut im Abendwind.",
+      "body": "「生きている者たちの輪舞は非現実のように見え──夕べの風の中に奇妙に散り散りになる」──第3連の閉幕二行。「Unwirklich scheinet（非現実のように見える）」──「scheinen（見える・輝く）」という動詞の曖昧性：「見える」という知覚動詞と「輝く」という光学動詞の両義。「Unwirklich（非現実の）」という形容詞が「Lebendigen Reigen（生きている者たちの輪舞）」に適用される逆転：生者の輪舞こそが「非現実」として提示され、死者の存在が現実として背後に浮かび上がる。「Abendwind（夕べの風）」──「Verfall」§1「herbalich klaren Weiten（秋の澄んだ遠方）」・「Laskerschuler Georg Trakl II」末行「Auf dem Abend meines Zimmers（私の部屋の夕暮れに）」と連動するトラークル的「Abend」モチーフ。「zerstreut（散り散りになる）」という動詞の光学的・空間的含意。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Erbarm' dich Gott der Frauen Höll' und Qual,\nUnd dieser hoffnungslosen Todesklagen.",
+      "body": "「神よ、女たちの地獄と苦悩を憐れんでください──そしてこの絶望的な死への嘆きを」──詩中唯一の直接祈願。「Erbarm' dich Gott（神よ、憐れんでください）」──「Erbarmen（憐み）」という語がヒエロニムス訳詩篇50（51）v.1「Miserere mei, Deus（神よ、私を憐れんでください）」の「Miserere」の変奏：詩篇の「Miserere」がドイツ語の「Erbarm' dich（憐れんでください）」として詩に召喚される。「der Frauen Höll' und Qual（女たちの地獄と苦悩）」──「Frauen（女たち）」への特定的指向が詩全体の「Männlein, Weiblein」から「Frauen」への収縮として機能する。「hoffnungslose Todesklagen（絶望的な死への嘆き）」──「hoffnungslos（希望のない）」という形容詞がコヘレト第1章v.18「in multa sapientia multa sit indignatio（多くの知恵には多くの憤りがある）」的な智慧と苦悩の比例に接続される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Einsame wandeln still im Sternensaal.",
+      "body": "「孤独な者たちが星の広間を静かに歩む」──詩の閉幕行にして詩集中で最も開かれた超越的空間へと向かう末行。「Einsame（孤独な者たち）」という名詞化形容詞：「Chaos」の「Einsamkeit（孤独）」・「Georg Trakl I」の「So einsam war es in der Welt（世界はこんなにも孤独）」と連動する孤独のモチーフが、「Einsame」という集合的・複数的主体として提示される。「Sternensaal（星の広間）」──ラスカー＝シューラー「Mein Sterbelied」末行「Wenn über mir Paradiessterne（楽園の星々が私の上で）」・「Versöhnung」「Es wird ein großer Stern in meinen Schoß fallen」との星モチーフの接続：トラークルの「Sternensaal」が「星の間（広間）」という建築的・宮殿的空間として死後の世界を提示する。「wandeln still（静かに歩む）」──「wandeln」は「変容する・歩む」の両義を持つ：孤独な者たちが「変容しながら・歩みながら」星の広間に向かう。詩全体の墓地・腐敗・苦悩から一転する超越的閉幕。",
+      "targetId": "laskerschuler_mein_sterbelied",
+      "targetParagraphId": 3
+    }
+  ]
+}
