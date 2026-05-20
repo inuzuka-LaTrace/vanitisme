@@ -1,0 +1,98 @@
+{
+  "id": "laskerschuler_weltende",
+  "title": "Weltende",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Weltende",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 100, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による10行詩。「Weltende（世界の終わり）」はラスカー＝シューラーの最も広く知られる詩のひとつ。「Es ist ein Weinen in der Welt（世界の中に泣き声がある）」という非人称構文による冒頭が、個人の悲しみではなく世界規模の哀愁として詩の発語空間を確立する。「Als ob der liebe Gott gestorben wär（まるで愛なる神が死んだかのように）」というニーチェ的・後キリスト教的比喩──「神の死」をドイツ表現主義の文脈に置く。「Georg Trakl II」「Und bereiteten Gott von Mund zu Mund（神を口から口へと準備した）」・「Zebaoth」の「So viel Gott strömt über（神が溢れ流れる）」という神の充満と逆向きに、「Weltende」は「神の死後の世界」の重さ・鉛色・墓場の静寂を描く。第2連では「Komm, wir wollen uns näher verbergen…（来て、私たちはもっと近くに身を隠そう）」という「Versöhnung」的な夜の共同体への誘いが、「Das Leben liegt in aller Herzen / Wie in Särgen（生命はすべての心の中に、棺の中のように横たわる）」という死の現在性によって影を落とされる。第3連「Du! wir wollen uns tief küssen（汝よ！私たちは深く口づけをしよう）」という官能的・切迫的な呼びかけが「Es pocht eine Sehnsucht an die Welt, / An der wir sterben müssen（憧憬が世界を叩く、そのために私たちは死ななければならない）」という死の必然で閉じる。「Versöhnung」「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」の希求と、「Weltende」「An der wir sterben müssen（そのために死なねばならない）」という死の確定の対立が詩集全体の緊張を凝縮する。",
+  "keywords": [
+    "Weltende",
+    "Weinen",
+    "Gott",
+    "Schatten",
+    "Särge",
+    "Sehnsucht",
+    "sterben",
+    "küssen",
+    "神の死",
+    "世界の終わり",
+    "愛と死"
+  ],
+  "relatedTexts": [
+    "laskerschuler_versoehnung",
+    "laskerschuler_styx",
+    "laskerschuler_chaos",
+    "laskerschuler_mein_sterbelied",
+    "hieronymus_ecclesiastes_1",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(H. W. Wilhelm von Kevlaar zur Erinnerung an viele Jahre)",
+      "provisionalTranslation": "（H・W・ケフラールのヴィルヘルムへ、多くの歳月の記憶として）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Es ist ein Weinen in der Welt,\nAls ob der liebe Gott gestorben wär,\nUnd der bleierne Schatten, der niederfällt,\nLastet grabeschwer.",
+      "provisionalTranslation": "世界の中に泣き声がある、\nまるで愛なる神が死んだかのように、\nそして降り落ちてくる鉛色の影が\n墓のように重くのしかかる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–7",
+      "original": "Komm, wir wollen uns näher verbergen …\nDas Leben liegt in aller Herzen\nWie in Särgen.",
+      "provisionalTranslation": "来て、私たちはもっと近くに身を隠そう……\n生命はすべての心の中に横たわっている\n棺の中のように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–10",
+      "original": "Du! wir wollen uns tief küssen –\nEs pocht eine Sehnsucht an die Welt,\nAn der wir sterben müssen.",
+      "provisionalTranslation": "汝よ！私たちは深く口づけをしよう——\n憧憬が世界を叩いている、\nその憧憬のために私たちは死ななければならない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "(H. W. Wilhelm von Kevlaar zur Erinnerung an viele Jahre)",
+      "body": "献辞「多くの歳月の記憶として、H・W・ケフラールのヴィルヘルムへ」──「zur Erinnerung an viele Jahre（多くの歳月の記憶として）」という時間的深度を持つ献辞形式：「Chaos」の「zur Freundschaft（友情として）」と同様に関係の質を言語化する。「Erinnerung（記憶）」という語──コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の不在への対抗として：詩人は「多くの歳月の記憶」を詩に封じ込める。「ケフラールのヴィルヘルム（Wilhelm von Kevlaar）」はラスカー＝シューラーの交友圏の人物。「Weltende（世界の終わり）」という終末論的題名に「多くの歳月の記憶」という時間の蓄積が対置される──終わりへの詩が長い時間の友情へと捧げられる逆説。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Als ob der liebe Gott gestorben wär,",
+      "body": "「まるで愛なる神が死んだかのように」──「Als ob（まるで〜かのように）」という比較接続法II式：「神の死」を断言ではなく「かのように」という比喩として提示する。ニーチェ「ツァラトゥストラかく語りき」の「神は死んだ（Gott ist tot）」という宣言の詩的・感情的変容：ニーチェが哲学的宣言として「神の死」を告知するのに対し、ラスカー＝シューラーは「liebe Gott（愛なる神）」という親密な呼称とともに「wär（死んだかのように見える）」という知覚的悲嘆として提示する。「liebe Gott」──「Zebaoth」「Du süßer Gott（甘い神）」・「Du Dichter（詩人の神）」という親密な神の呼称の連鎖：ラスカー＝シューラーにとって神は「愛なる・甘い・遊び仲間の」存在であり、その死の「かのような」感覚が「Weltende」という宇宙的喪失として現れる。",
+      "targetId": "laskerschuler_zebaoth",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Und der bleierne Schatten, der niederfällt,\nLastet grabeschwer.",
+      "body": "「降り落ちてくる鉛色の影が墓のように重くのしかかる」──「bleierne Schatten（鉛色の影）」：「bleiern（鉛色の・重い）」という形容詞が「Schatten（影）」に適用される。「bleiern」は「Blei（鉛）」から派生し、色彩的（灰色・銀灰）と重量的（鉛の重さ）の二重の含意を持つ。「Georg Trakl II」末行「Sein Schatten weilte unbegreiflich（彼の影は理解しがたくとどまっていた）」の軽い・霊的な影と対照的に、「Weltende」の影は「bleiern（鉛色）」の物理的重さを持つ。「grabeschwer（墓のように重い）」──「Grab（墓）＋schwer（重い）」という造語：「Chaos」の「Todverlassenheit（死に見捨てられた状態）」・「Selbstmord」の「Erdenschrein（地の棺）」と同系列の墓的語彙。韻律：v.1「Welt」──v.3「niederfällt」の脚韻、v.2「wär」──v.4「grabeschwer」の脚韻（-är/-wer）：aabb構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Komm, wir wollen uns näher verbergen …\nDas Leben liegt in aller Herzen\nWie in Särgen.",
+      "body": "「来て、私たちはもっと近くに身を隠そう……──生命はすべての心の中に、棺の中のように横たわる」──「Komm（来て）」という命令形の呼びかけが「Versöhnung」「Komm, gib mir deine beiden Hände her（来て、汝よの両手を差し出してほしい）」・「Mein Sterbelied」§1「Komm, gib mir deine beiden Hände her」と同型の「来て」の誘い。「wir wollen uns näher verbergen（もっと近くに身を隠そう）」──「Versöhnung」「Wir wollen uns versöhnen die Nacht（私たちは夜、和解しよう）」の「wollen（〜しよう）」構文と同型：しかし「Versöhnung」が「和解・抱擁」へと向かうのに対し、「Weltende」は「verbergen（身を隠す）」という逃避・隠匿へと向かう。「Das Leben liegt…Wie in Särgen（生命は…棺の中のように横たわる）」──「liegen（横たわる）」という動詞が「Eva」「Und ich liege schwer auf deinem Leben（私は汝よの生の上に重く横たわる）」と同語根：生命そのものが棺の中の死体として横たわるという逆説的形象。「…（省略符）」が§2末行「Wie in Särgen（棺の中のように）」の前に置かれ、言葉が止まる。",
+      "targetId": "laskerschuler_versoehnung",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Du! wir wollen uns tief küssen –\nEs pocht eine Sehnsucht an die Welt,\nAn der wir sterben müssen.",
+      "body": "「汝よ！私たちは深く口づけをしよう——憧憬が世界を叩く、そのために私たちは死ななければならない」──詩の閉幕にして最高度の緊張点。「Du!（汝よ！）」という感嘆符付き呼格の単独使用──「Schwarze Sterne」「Was zagst du（なぜためらうの）」と同型の切迫した「Du」への直接呼びかけ。「tief küssen（深く口づけする）」──「Versöhnung」「Und unsere Lippen wollen sich küssen（私たちの唇は口づけたがっている）」・「Laurencis」「ihre Küsse sollen Knospen bleiben（口づけは蕾のままであるべき）」との接吻のモチーフの連鎖：「Versöhnung」では願望、「Laurencis」では未充足への選択、「Weltende」では死の前の切迫した要求として提示される。「Es pocht eine Sehnsucht an die Welt（憧憬が世界を叩く）」──「pochen（叩く・鼓動する）」が「Mein Sterbelied」「Mein Herz pocht spät（私の心は遅く鼓動する）」と同語根：心臓の「pocht」が世界を叩く「Sehnsucht」として宇宙的に拡張される。「An der wir sterben müssen（そのために死ななければならない）」──「Versöhnung」「sterben wir nicht（死なない）」の否定に対する「sterben müssen（死なねばならない）」という義務の確定：詩集全体の緊張の結語的確定。",
+      "targetId": "laskerschuler_versoehnung",
+      "targetParagraphId": 3
+    }
+  ]
+}
