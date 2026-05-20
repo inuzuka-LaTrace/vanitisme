@@ -1,0 +1,155 @@
+{
+  "id": "laskerschuler_laurencis",
+  "title": "Laurencis",
+  "author": "Else Lasker-Schüler",
+  "source": "Wikisource: https://de.wikisource.org/wiki/Laurencis",
+  "year": "1917",
+  "firstPublication": "Gesammelte Gedichte, S. 212, Verlag der Weißen Bücher, Leipzig, 1917",
+  "difficulty": "中級",
+  "category": "laskerschuler",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★☆",
+  "context": "エルゼ・ラスカー＝シューラー（1869–1945）による愛の詩。献辞「Hans Siemsen dem lieben Heiligen（愛なる聖者ハンス・ジームゼンへ）」はドイツの作家・批評家ハンス・ジームゼン（Hans Siemsen, 1891–1969）への捧辞であり、「dem lieben Heiligen（愛なる聖者）」という呼称がすでに詩の宗教的エロスの調子を定める。「Laurencis」という題名はラテン語「Laurentius（ラウレンティウス）」──3世紀のキリスト教殉教者・聖ラウレンティウスの名──の変形であり、愛する者を「聖者」として名指す行為が詩全体の構造をなす。「Ich gab dir einen Namen（私はあなたに名前を贈った）」という冒頭は命名行為そのものを詩の起点とする：「Georg Trakl II」での「Im Anfang war das Wort（はじめに言葉があった）」と照応する「名前を与える」という創造的・神学的行為。「Abendherz（夕暮れの心）」「Auferstehn（復活）」「Engel（天使）」「Aster（アスター）」「Rittersporn（ラークスパー）」「Knospen（蕾）」という詩語群が霊的・植物的・夕暮れ的な愛の空間を形成する。末行「ihre Küsse sollen Knospen bleiben（その口づけは蕾のままであるべき）」という「成就しない愛」への自発的選択が詩の神学的核心：「Versöhnung」の「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」という充足的愛と対極的に、「Laurencis」は蕾のままの愛──未充足の聖性──を守ることを選ぶ。",
+  "keywords": [
+    "Laurencis",
+    "Name",
+    "Girlande",
+    "Abendherz",
+    "Auferstehn",
+    "Engel",
+    "Aster",
+    "Rittersporn",
+    "Knospen",
+    "愛",
+    "聖性",
+    "未充足"
+  ],
+  "relatedTexts": [
+    "laskerschuler_versoehnung",
+    "laskerschuler_zebaoth",
+    "laskerschuler_georg_trakl_2",
+    "laskerschuler_mein_sterbelied",
+    "juan_de_la_cruz_noche_oscura",
+    "weil_celui_quil_faut_aimer"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "(Hans Siemsen dem lieben Heiligen)",
+      "provisionalTranslation": "（愛なる聖者ハンス・ジームゼンへ）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Ich gab dir einen Namen\nWie eine fromme Girlande.",
+      "provisionalTranslation": "私はあなたに名前を贈った\n敬虔な花輪のように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–4",
+      "original": "Darum will ich ihn\nNur immer liebend rufen.",
+      "provisionalTranslation": "それゆえ私はその名を\nただ愛しながら、いつも呼び続けたい。"
+    },
+    {
+      "id": 3,
+      "verses": "v.5–6",
+      "original": "Du siehst mich golden schimmern\nDurch mein Abendherz.",
+      "provisionalTranslation": "あなたは私が黄金にきらめくのを見る\n私の夕暮れの心を通して。"
+    },
+    {
+      "id": 4,
+      "verses": "v.7–8",
+      "original": "Und nicht so trübe\nWie der Nebel es staubfällig färbt.",
+      "provisionalTranslation": "そして霧が塵のように落ちながらそれを染めるほど\n暗くはない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.9–10",
+      "original": "Meine Seele spielte Auferstehn,\nWenn Augen wie schlafende Täler lagen.",
+      "provisionalTranslation": "私の魂は復活ごっこをした、\n目が眠れる谷のように横たわっているとき。"
+    },
+    {
+      "id": 6,
+      "verses": "v.11–12",
+      "original": "Und ich kenne alle Engel,\nDenen habe ich von dir erzählt.",
+      "provisionalTranslation": "そして私はすべての天使たちを知っている、\nその天使たちにあなたのことを話した。"
+    },
+    {
+      "id": 7,
+      "verses": "v.13–14",
+      "original": "Es blüht die Aster meines Mundes\nMit deiner Lippen Rittersporn.",
+      "provisionalTranslation": "私の口のアスターが咲く\nあなたの唇のラークスパーとともに。"
+    },
+    {
+      "id": 8,
+      "verses": "v.15–16",
+      "original": "Und ich wache vor unserer Liebe\nDenn ihre Küsse sollen Knospen bleiben.",
+      "provisionalTranslation": "そして私は私たちの愛の前に目を覚まして守る\nなぜならその口づけは蕾のままであるべきだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "(Hans Siemsen dem lieben Heiligen)",
+      "body": "献辞「愛なる聖者ハンス・ジームゼンへ」──ハンス・ジームゼン（Hans Siemsen, 1891–1969）はドイツの作家・批評家・平和主義者。「dem lieben Heiligen（愛なる聖者）」という呼称が献辞の中に既に詩の主題を封じ込める：「Heiliger（聖者）」という宗教的称号が親密な「lieben（愛なる）」という形容詞と結びつく。「Zebaoth」献辞のフランツ・ユング・「Georg Trakl II」のトラークルへの神学的賛辞と同系列の「友人の聖化」。題名「Laurencis」──聖ラウレンティウス（Laurentius, 225頃–258）への照応：ローマの助祭で殉教者、灼熱の鉄格子の上で処刑された。「dem lieben Heiligen」という献辞とラウレンティウス的題名の結合が、愛する者の「聖性」を詩全体の前提として確立する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ich gab dir einen Namen\nWie eine fromme Girlande.",
+      "body": "「私はあなたに名前を贈った──敬虔な花輪のように」──命名行為を詩の起点とする。「Ich gab dir einen Namen（私はあなたに名前を贈った）」──「Georg Trakl II」§4「Im Anfang war das Wort（はじめに言葉があった）」との照応：名前を与えることが言葉による創造・愛の行為として提示される。ヒエロニムス訳創世記第2章v.19「appellavitque Adam nominibus suis cuncta animantia（アダムはすべての生き物にその名を呼んだ）」──命名がアダムの創造行為として機能するのと同様、詩人が愛する者に「Laurencis」という名を贈ることが詩全体の創造行為。「fromme Girlande（敬虔な花輪）」──「Selbstmord」§2「Meere rauschen durch Guirlanden（海々はガーランドを通って轟く）」のグロテスクな「Guirlanden」と対照的に、「Laurencis」の花輪は「fromm（敬虔な）」という宗教的形容詞によって聖化される。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Darum will ich ihn\nNur immer liebend rufen.",
+      "body": "「それゆえ私はその名をただ愛しながら、いつも呼び続けたい」──「Darum（それゆえ）」という接続副詞が「Georg Trakl II」§2「Darum kamen seine Worte hervor（それゆえ彼の言葉は出てきた）」と同型の因果的展開：命名行為（§1）がゆえに呼び続ける（§2）。「Nur immer liebend rufen（ただ愛しながら、いつも呼び続ける）」──「nur（ただ）」という副詞の制限が「呼ぶ（rufen）」行為を「愛しながら（liebend）」という現在分詞に限定する：名前を呼ぶことが愛の行為そのものとして純化される。「Styx」の「wunschlos（願いなく）」という欲望の消去と対照的に、「Laurencis」では「いつも（immer）」という永続性と「愛しながら（liebend）」という情動が名前の呼称に統合される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Du siehst mich golden schimmern\nDurch mein Abendherz.",
+      "body": "「あなたは私が黄金にきらめくのを見る──私の夕暮れの心を通して」──「golden schimmern（黄金にきらめく）」は詩群の黄金モチーフ（Abel「goldener Garten」・Zebaoth「Tores Gold」・Eva「goldenen Lenzhaaren」・Mein Sterbelied「das Gold」）の連鎖。「Abendherz（夕暮れの心）」はラスカー＝シューラーの造語：「Abend（夕暮れ）＋Herz（心）」。「Georg Trakl II」末行「Auf dem Abend meines Zimmers（私の部屋の夕暮れに）」と同型の「Abend」の内面化──トラークルへの詩ではトラークルの影が「部屋の夕暮れ」にとどまり、「Laurencis」では詩人自身が「夕暮れの心」を持つ。黄金のきらめきが「夕暮れの心を通して（durch）」見えるという透明性・内面的照射。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Und nicht so trübe\nWie der Nebel es staubfällig färbt.",
+      "body": "「そして霧が塵のように落ちながらそれを染めるほど暗くはない」──§3の「golden schimmern（黄金にきらめく）」に対する否定的対比として機能する。「trübe（暗い・濁った・陰鬱な）」──「Schwarze Sterne」の「Todestrübe（死の陰鬱）」と同語根：ラスカー＝シューラーの詩語における「Trübe」は死・暗黒・霧の語彙系列に属する。「staubfällig（塵のように落ちる）」という造語副詞：「Staub（塵・埃）＋fällig（落下する）」。「コヘレト第1章」「Nihil sub sole novum」の塵と灰への帰還とは異なり、ここでの「Staub（塵）」は「不純さ・陰鬱さ」の喩として否定される：詩人の愛の光は塵による染色を受けない。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Meine Seele spielte Auferstehn,\nWenn Augen wie schlafende Täler lagen.",
+      "body": "「私の魂は復活ごっこをした──目が眠れる谷のように横たわっているとき」──「Auferstehn（復活・蘇生）」はキリスト教神学の核心概念：「Auferstehung（復活）」の短縮形・方言的形式。「spielte Auferstehn（復活ごっこをした）」という「spielen（遊ぶ・ごっこをする）」との結合が神学的に大胆：「復活」という宗教的事件が「遊び（Spiel）」として軽やかに提示される。「Zebaoth」「Du Gespiele Gott（遊び仲間の神）」・「Georg Trakl II」「zwei Spielgefährten（二人の遊び仲間）」との「遊び」モチーフの連鎖。「Augen wie schlafende Täler（眠れる谷のような目）」──「Georg Trakl II」§1「Seine Augen standen ganz fern（彼の目はひどく遠くにあった）」との視覚的照応：トラークルの「遠い目」と「眠れる谷のような目」が共鳴する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Und ich kenne alle Engel,\nDenen habe ich von dir erzählt.",
+      "body": "「そして私はすべての天使たちを知っている──その天使たちにあなたのことを話した」──「alle Engel（すべての天使たち）」という全称複数が詩の宇宙論的スケールを示す：詩人は天使全員と親密であり、その全員に「あなた」を話して聞かせた。「Engel（天使）」──「Mein Sterbelied」「Paradiessterne（楽園の星々）」・「Zebaoth」「Gottjüngling（神の若者）」と同系列の天的存在。リルケ「第一ドゥイノ悲歌」「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen?（もし私が叫べば、天使の階層の中の誰が聞くだろうか?）」の天使が「接近不可能な恐ろしい存在」であるのと対照的に、ラスカー＝シューラーの天使は親密な「Denen habe ich von dir erzählt（その天使たちにあなたのことを話した）」という会話の相手として提示される。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Es blüht die Aster meines Mundes\nMit deiner Lippen Rittersporn.",
+      "body": "「私の口のアスターが咲く──あなたの唇のラークスパーとともに」──詩中最も凝縮された植物的・エロス的形象。「Aster meines Mundes（私の口のアスター）」：口が「アスター（菊の一種・星状の花）」として形象化される。「Aster」はギリシア語「ἀστήρ（星）」に由来し、詩群の星モチーフ（Versöhnung・Schwarze Sterne・Mein Sterbelied・Der letzte Stern）と植物的に接続する。「Rittersporn（ラークスパー・千鳥草）」──青紫色の穂状花。「あなたの唇のラークスパー（deiner Lippen Rittersporn）」：唇が細長い穂状花として形象化される。二つの花の「共咲き（mit）」が二人の唇の接触を植物的・非官能的な形で昇華する：「Versöhnung」「Und unsere Lippen wollen sich küssen（私たちの唇はキスしたがっている）」という直接的な唇の接触が、「Laurencis」では花と花の接触として美的に変容される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Und ich wache vor unserer Liebe\nDenn ihre Küsse sollen Knospen bleiben.",
+      "body": "「そして私は私たちの愛の前に目を覚まして守る──なぜならその口づけは蕾のままであるべきだから」──詩の閉幕にして神学的核心命題。「wache vor unserer Liebe（愛の前に目を覚まして守る）」──「wachen（見張る・守る）」という動詞が「Versöhnung」「Wir wollen wachen die Nacht（私たちは夜を起きていよう）」と同語根：「Versöhnung」の夜の共同覚醒が「Laurencis」では愛を守る番人的覚醒として転換される。「Küsse sollen Knospen bleiben（口づけは蕾のままであるべき）」──「sollen（〜すべき）」という義務の助動詞が「成就しない愛」への自発的選択を定式化する：「Versöhnung」「Wenn wir uns herzen, sterben wir nicht（抱き合えば死なない）」の充足的愛・「Chaos」「Herzallerliebsten…Fleisch（肉の中に埋める）」の肉体的合一と対極的に、「Laurencis」は口づけを「Knospen（蕾）」──開花前の状態──のままに留める。十字架の聖ヨハネ「霊の歌」での魂の神への充足されない渇望との照応：未充足が純粋性の条件として機能する。",
+      "targetId": "juan_de_la_cruz_cantico_espiritual",
+      "targetParagraphId": null
+    }
+  ]
+}
