@@ -1,0 +1,109 @@
+{
+  "id": "verhaeren_illusion",
+  "title": "Illusion",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 33–34. 底本: fr.wikisource.org/wiki/Illusion_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の16行詩（p.33–34）。「Tourment（苦悶）」の後、「Ressouvenir（追憶）」の前に配置される。アレクサンドラン16行、4連×4行（ソネット類似の quatrain 構成）。韻型 ABBA / CCDB / DCCE / EFFE。最大の形式的特徴は各連の末尾語が次連の冒頭で反復される「連鎖反復（concatenatio）」：「clair de lune（第1連末）→ clair de lune（第2連冒頭）」・「brune（第2連末）→ brune（第3連冒頭）」・「fortune（第3連末）→ fortune（第4連冒頭）」という三重の連鎖。タイトル「Illusion（幻想）」は詩が描くコウノトリの夢想的行為全体を指す──月光を鋏で切り取ろうとするコウノトリが、真珠母色の炎・金の星々・夢の湖・幻の服を纏う夕から、最終的に「ラグーンの岸辺のように照らされた悠然たる澄明の中を動く魂」へと収束する。「幻想」はコウノトリの滑稽な行為ではなく、詩人の魂が夢想の中で生きるという実存的な様式として肯定的に提示される。詩集内での位置──「Ressouvenir」が死者への追憶として聴覚的に展開するのに対し、「Illusion」は月夜の視覚的幻影として展開し、どちらも「夕べの魂（âme des soirs）」の経験を描く。",
+  "keywords": [
+    "幻想",
+    "コウノトリ",
+    "月光",
+    "concatenatio",
+    "連鎖反復",
+    "鋏",
+    "真珠母色",
+    "sylphes",
+    "夢",
+    "ラグーン",
+    "nonchaloir",
+    "象徴主義",
+    "夕べ",
+    "魂",
+    "chimère"
+  ],
+  "relatedTexts": [
+    "verhaeren_ressouvenir",
+    "verhaeren_les_armes_du_soir",
+    "verhaeren_attirances",
+    "mallarme_apparition",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Droite, sur le pignon, une cigogne, l'une\nPatte levée et l'autre en tige de roseaux,\nEt le bec large ouvert, ainsi que des ciseaux\nDe pâle argent, pour découper le clair de lune,",
+      "provisionalTranslation": "まっすぐに、切妻の上に、一羽のコウノトリ、一方の\n足を上げ、もう一方を葦の茎のように立て、\nそして嘴を大きく開いて、まるで鋏のように\n蒼白い銀の、月の光を切り取るために、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Pour découper le pâle argent du clair de lune\nEt ses moires et ses velours, ou bien encor\nHapper les feux de nacre et les étoiles d'or\nQui s'éveillent avec les sylphes de la brune,",
+      "provisionalTranslation": "月の光の蒼白い銀を切り取るために、\nそのモアレとビロードを、あるいはさらに、\n真珠母色の炎と金の星々をひっ捕らえるために、\n黄昏のシルフィードたちとともに目覚める。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Les feux de nacre et les feux d'or, qui dans la brune\nPeuplent, multipliés, les glauques infinis\nEt les golfes lointains et les grands lacs unis\nDe nos rêves, miroirs de gloire et de fortune ;",
+      "provisionalTranslation": "真珠母色の炎と金の炎が、黄昏の中で、\n増殖しながら、青灰色の無限を満たし、\n遠い入り江と大きな穏やかな湖を満たす、\n私たちの夢の、栄光と幸運の鏡を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Et l'on se laisse au songe aller — et la fortune\nHabille de chimère et de voiles le soir\nEt notre âme se meut en ce clair nonchaloir,\nIlluminé comme un rivage de lagune.",
+      "provisionalTranslation": "そして人は夢想にまかせて流れていく──そして幸運が\n夕べを幻想と帳で包む、\nそして私たちの魂はこの澄んだ悠然の中を動く、\nラグーンの岸辺のように照らされた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Droite, sur le pignon, une cigogne, l'une\nPatte levée et l'autre en tige de roseaux,\nEt le bec large ouvert, ainsi que des ciseaux\nDe pâle argent, pour découper le clair de lune,",
+      "body": "アレクサンドラン（12音節）4連×4行。韻型 ABBA / CCDB / DCCE / EFFE。最大の形式的特徴は連鎖反復（concatenatio）：各連末語が次連冒頭で反復される。「clair de lune（第1連末）→ clair de lune（第2連冒頭）」・「brune（第2連末）→ brune（第3連冒頭）」・「fortune（第3連末）→ fortune（第4連冒頭）」という三重の連鎖が16行を一連の流れとして縫い合わせる。ダンテ『神曲』の terza rima（ABA/BCB/CDC…）が韻で連をつなぐのに対し、本詩は語の反復によって連をつなぐ変奏として位置づけられる。「Droite（まっすぐに）」──詩の最初の語が姿勢を示す形容詞という異例の開始。コウノトリの「まっすぐな」姿態が幻想的行為の安定した土台として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et le bec large ouvert, ainsi que des ciseaux\nDe pâle argent, pour découper le clair de lune,",
+      "body": "「まるで蒼白い銀の鋏のように月の光を切り取るために（ciseaux de pâle argent, pour découper le clair de lune）」──コウノトリの嘴を鋏として月光を「切り取る（découper）」という行為の比喩。「découper」は裁断・切り抜きを意味し、月光という非物質的なものを布地のように扱う。「Les Armes du soir」の「éclair de son épée（剣の閃光）」・「Ressouvenir」の「Larmes de bronze（青銅の涙）」と並ぶ詩集内の金属光沢の系列──銀の鋏が月の光を切る動作は詩人の言語行為（詩を「切り取る」）のアレゴリーとして読める。マラルメ「出現（Apparition）」の月の精・光の切片との詩学的照応。",
+      "targetId": "mallarme_apparition",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et ses moires et ses velours, ou bien encor\nHapper les feux de nacre et les étoiles d'or\nQui s'éveillent avec les sylphes de la brune,",
+      "body": "「モアレとビロード（moires et velours）」──月光の光沢を布地の質感として描く共感覚的比喩。「moire」は波紋状の光沢を持つ絹織物。「feux de nacre（真珠母色の炎）」──「nacre」はアワビ等の貝殻の内側の虹色光沢（真珠母色）。月・星・炎を質感として描く感覚的語彙の集積。「sylphes de la brune（黄昏のシルフィードたち）」──「sylphe（シルフ）」は空気の精霊。ロマン主義・象徴主義における精霊存在がここでは黄昏（brune）と結びつく。この「brune」が第3連冒頭に連鎖反復され、「glauques infinis（青灰色の無限）」という視覚的拡張へと移行する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Peuplent, multipliés, les glauques infinis\nEt les golfes lointains et les grands lacs unis\nDe nos rêves, miroirs de gloire et de fortune ;",
+      "body": "「増殖しながら、青灰色の無限を……私たちの夢の、栄光と幸運の鏡を満たす」──炎・星が「無限（infinis）」・「遠い入り江（golfes lointains）」・「大きな穏やかな湖（grands lacs unis）」という地理的拡張へと展開し、最終的に「nos rêves（私たちの夢）」という主観的空間として内在化される。「miroirs de gloire et de fortune（栄光と幸運の鏡）」──鏡は反射・複製・幻影の装置。夢が「栄光と幸運の鏡」として機能するという命題は、現実の栄光・幸運の不在を前提とする。「Attirances」の「gloires noires et angoissées（黒く苦悶に満ちた栄光）」との対比──「Illusion」では栄光は「鏡の中の幻影」として肯定的に提示される。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et l'on se laisse au songe aller — et la fortune\nHabille de chimère et de voiles le soir",
+      "body": "「人は夢想にまかせて流れていく──そして幸運が夕べを幻想と帳で包む」──「se laisse au songe aller（夢想にまかせて流れていく）」という受動的な身を委ねる姿勢。「À Ténèbres」の「影の人々」が「Mais peur des vices nécessaires（しかし必然的な悪徳への恐れ）」から能動的行為を回避するのに対し、ここでは「流れていく（aller）」という動的受動性として提示される。「chimère（幻想・キメラ）」──ギリシア神話の怪物キメラが「実在しない幻想」を意味する語として定着したもの。「幸運が夕べを幻想で包む」という逆説──幸運は現実的成果ではなく幻想として夕べに働きかける。",
+      "targetId": "verhaeren_a_tenebres",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et notre âme se meut en ce clair nonchaloir,\nIlluminé comme un rivage de lagune.",
+      "body": "「私たちの魂はこの澄んだ悠然の中を動く、ラグーンの岸辺のように照らされた」──「nonchaloir」は中世フランス語由来の稀語で「悠然・無関心・打算のない澄明さ」を意味し、ヴェルレーヌ的な「nonchalance（怠惰・無関心）」の詩的変奏。詩全体を通じて積み重なった視覚的幻影（月光・真珠母・金の星・夢の湖）が、最終行「ラグーンの岸辺のように照らされた」という一つの静的イメージに収束する。「lagune（ラグーン）」──ヴェネツィア的な水と光の世界。ローデンバック「死都ブリュージュ」的な閉じた水の静謐と照応する。タイトル「Illusion」が詩の結末で「âme（魂）」という語とともに肯定的に解放される──幻想は魂の運動の場として機能する。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    }
+  ]
+}
