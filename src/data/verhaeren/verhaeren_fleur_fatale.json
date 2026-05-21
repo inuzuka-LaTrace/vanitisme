@@ -1,0 +1,119 @@
+{
+  "id": "verhaeren_fleur_fatale",
+  "title": "Fleur fatale",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 43–44. 底本: fr.wikisource.org/wiki/Fleur_fatale_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の16行詩（p.43–44）。「Les Chaumes（荒野）」の後、「Londres（ロンドン）」の前に配置される。アレクサンドラン16行、4連×4行、韻型 ABBA / CDDC / EFFE / GHGH（第1〜3連が包含韻 embrassée、第4連が交差韻 croisée）。タイトル「運命の花（Fleur fatale）」は「不条理（absurdité）」を植物として比喩化する──不条理は感覚・心・脳の堆肥（terreau）の中で「運命の花」として成長する。構成：第1連──不条理の繁茂と「理性（raison natale）」の沼にとどまる現状の告発。第2連──「私」が意志的に狂気（folie）とその太陽・遠くのこだま・赤い犬たちへ向かって歩もうとする宣言。第3連──狂気の王国の超現実的な光景：雪の中の薔薇の湖・風の羽毛の中に巣くう鳥・金の蟇蟆が風景を食べる。第4連──開いた嘴・光の中で静止した蠅という逆説的イメージから「狂者たちの静かな死のチクタク」という結語。詩集内で「Le Gel」が宇宙的不変性への畏怖を描くのに対し、「Fleur fatale」は「理性」からの能動的逃走として狂気を肯定する。「Insatiablement」の「苦しみを意志的に選ぶ傲慢な私」と、「Attirances」の「雲への突撃で狂気を征服しようとした者たち（Conquérir la folie à l'assaut des nuées）」を詩集内でつなぐ重要な「狂気肯定」の詩。ヴェルハーレン自身の1887–91年の神経衰弱期の経験が背景にあり、回復後の詩集において「狂気」は恥辱ではなく詩的出発点として再定義される。",
+  "keywords": [
+    "不条理",
+    "運命の花",
+    "狂気",
+    "理性",
+    "folie",
+    "absurdité",
+    "超現実",
+    "赤い犬",
+    "金の蟇蟆",
+    "静止した蠅",
+    "狂者の死",
+    "包含韻",
+    "ABBA",
+    "神経衰弱",
+    "意志",
+    "Fleur fatale"
+  ],
+  "relatedTexts": [
+    "verhaeren_insatiablement",
+    "verhaeren_attirances",
+    "verhaeren_le_gel",
+    "verhaeren_a_tenebres",
+    "mallarme_lazur",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "L'absurdité grandit comme une fleur fatale\nDans le terreau des sens, des cœurs et des cerveaux.\nPlus rien, ni des héros, ni des sauveurs nouveaux ;\nEt nous restons croupir dans la raison natale.",
+      "provisionalTranslation": "不条理は運命の花のように成長する、\n感覚・心・脳の堆肥の中で。\nもはや何もない、英雄も、新しい救済者も；\nそして私たちは生まれながらの理性の沼の中でくすぶり続ける。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Je veux marcher vers la folie et ses soleils,\nSes blancs soleils de lune au grand midi, bizarres,\nEt ses lointains échos mordus de tintamarres\nEt d'aboiements, là-bas, et pleins de chiens vermeils.",
+      "provisionalTranslation": "私は狂気とその太陽たちへと歩みたい、\nその白い真昼の月の太陽たち、奇妙な、\nそしてその遠くのこだまは喧騒と\n吠え声に噛みつかれ、あちらに、赤い犬たちで満ちている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Lacs de roses, ici, dans la neige, nuage\nOù nichent des oiseaux dans des plumes de vent ;\nGrottes de soir, avec un crapaud d'or devant,\nEt qui ne bouge et mange un coin de paysage.",
+      "provisionalTranslation": "薔薇の湖、ここに、雪の中に、雲、\nそこに鳥たちが風の羽毛の中に巣くう；\n夕べの洞窟、その前に金の蟇蟆がいて、\n動かずに風景の一角を食べている。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Becs de hérons, énormément ouverts pour rien,\nMouche, dans un rayon, qui s'agite, immobile :\nL'inconscience gaie et le tic-tac débile\nDe la tranquille mort des fous, je l'entends bien !",
+      "provisionalTranslation": "鷺の嘴、何のためでもなく途方もなく開いた、\n光の中の蠅、身動きしながら、静止した：\n陽気な無意識と衰弱したチクタク、\n狂者たちの静かな死の、私にはよく聞こえる！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "L'absurdité grandit comme une fleur fatale\nDans le terreau des sens, des cœurs et des cerveaux.\nPlus rien, ni des héros, ni des sauveurs nouveaux ;\nEt nous restons croupir dans la raison natale.",
+      "body": "アレクサンドラン（12音節）16行、4連×4行。韻型：第1–3連 ABBA（包含韻 embrassée）/ 第4連 GHGH（交差韻 croisée）という変則的構成。「comme une fleur fatale（運命の花のように）」──直喩による詩のタイトルの定式化。「fleur fatale」は象徴主義における「팜므・ファタール（femme fatale）」の植物的変奏──女性ではなく「不条理」そのものが宿命的な花として成長する。「terreau des sens, des cœurs et des cerveaux（感覚・心・脳の堆肥）」──三つの人間的機能（感覚・感情・知性）が「terreau（堆肥・腐葉土）」として比喩化される。「croupir（くすぶる・腐る）」──停滞・腐敗の動詞が「理性（raison natale）」に使われ、理性を沼に変える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Plus rien, ni des héros, ni des sauveurs nouveaux ;\nEt nous restons croupir dans la raison natale.",
+      "body": "「もはや英雄も新しい救済者も（Plus rien, ni des héros, ni des sauveurs nouveaux）」──英雄主義・救済の神話の否定。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の歴史的虚無と照応する──英雄・救済者も記憶されず、新しいものも生まれないという循環的停滞。「raison natale（生まれながらの理性）」──「natale（生まれながらの・生来の）」という形容が理性を先天的な囚獄として定義する。「Le Gel」の「ordre essentiel（本質的秩序）」が宇宙的不変性であるのに対し、「raison natale」は人間的不変性──どちらも脱出不能の秩序として詩集内で対置される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je veux marcher vers la folie et ses soleils,\nSes blancs soleils de lune au grand midi, bizarres,",
+      "body": "「私は狂気とその太陽たちへと歩みたい（Je veux marcher vers la folie）」──詩集内で最も強い能動的意志宣言の一つ。「Je veux（私は望む）」という直接的な一人称意志表明は「Insatiablement」の傲慢な意志と連続する。「blancs soleils de lune au grand midi（真昼の月の白い太陽たち）」──「月の太陽」という矛盾語法（oxymoron）。狂気の王国では昼と夜・太陽と月が同時に存在するという超現実的論理。「bizarres（奇妙な）」という形容詞がこの矛盾を肯定的に評価する──異常性の肯定。マラルメ「蒼空（L'Azur）」が詩人を追いつめる空（l'Azur）から逃げようとするのと対照的に、ヴェルハーレンは狂気へと能動的に「歩む」。",
+      "targetId": "mallarme_lazur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Et ses lointains échos mordus de tintamarres\nEt d'aboiements, là-bas, et pleins de chiens vermeils.",
+      "body": "「赤い犬たちで満ちた喧騒と吠え声に噛みつかれた遠いこだま（lointains échos mordus de tintamarres / Et d'aboiements … pleins de chiens vermeils）」──「chiens vermeils（赤い犬たち）」という超現実的イメージ。「vermeil（朱色・緋色）」は「Mourir」の「fleuves vermeils（朱色の川）」と同語根の赤の系列。「mordus（噛みつかれた）」という動詞がこだまに使われる共感覚的比喩。「Attirances」の「Conquérir la folie à l'assaut des nuées（雲への突撃で狂気を征服しようとした者たち）」が「狂気への突撃」であるのに対し、本詩の「Je veux marcher vers la folie（狂気へと歩む）」は能動的な歩行として「狂気肯定」を実践する。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Lacs de roses, ici, dans la neige, nuage\nOù nichent des oiseaux dans des plumes de vent ;\nGrottes de soir, avec un crapaud d'or devant,\nEt qui ne bouge et mange un coin de paysage.",
+      "body": "「薔薇の湖、雪の中に、雲、風の羽毛の中に巣くう鳥、金の蟇蟆が風景の一角を食べる」──第3連は狂気の王国の三つのイメージの列挙。「Lacs de roses … dans la neige（雪の中の薔薇の湖）」は「À Ténèbres」の「Sur les fumiers du monde à se nourrir de roses（糞山の上で薔薇を食べ物とすること）」と同じ不可能な美の場所設定。「crapaud d'or（金の蟇蟆）」──「crapaud（蟇蟆）」という醜悪な生物が「d'or（金の）」という形容によって逆転される。「mange un coin de paysage（風景の一角を食べる）」──抽象的な「風景」を具体的に食べるという超現実的行為。ボードレール「憂鬱（Spleen）」の超現実的な憂鬱のイメージとの詩学的系譜。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Becs de hérons, énormément ouverts pour rien,\nMouche, dans un rayon, qui s'agite, immobile :",
+      "body": "「何のためでもなく途方もなく開いた鷺の嘴、光の中の蠅、身動きしながら、静止した」──第4連の二つの逆説的イメージ。「énormément ouverts pour rien（何のためでもなく途方もなく開いた）」──「pour rien（何のためでもなく）」という無目的性が「énormément（途方もなく）」という誇張と対置される。「qui s'agite, immobile（身動きしながら、静止した）」──矛盾語法（oxymoron）。蠅が「動きながら静止している」という論理的不可能が狂気の論理として提示される。第4連の韻型が GHGH（交差韻）に変化することで、列挙から結論への転換を形式が支持する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'inconscience gaie et le tic-tac débile\nDe la tranquille mort des fous, je l'entends bien !",
+      "body": "「陽気な無意識と衰弱したチクタク、狂者たちの静かな死の、私にはよく聞こえる！」──詩の結語。「tic-tac débile（衰弱したチクタク）」──時計のチクタク音が「衰弱した（débile）」という形容で弱体化される。ボードレール「時計（L'Horloge）」の「Je suis l'Horloge（私は時計だ）」という時計と死の同一化が、ここでは「狂者の死のチクタク」として反復される。「la tranquille mort des fous（狂者たちの静かな死）」──「tranquille（静かな）」という逆説的平和性。第1連の「croupir（くすぶる）」という停滞から、第4連の「tranquille mort（静かな死）」という別の静止へ──しかし後者は「folie（狂気）」を経由した後の静止であり、詩的肯定として機能する。「je l'entends bien！（私にはよく聞こえる！）」──感嘆符による力強い結語。「Ressouvenir」の「entends les morts hurler aux morts（死者たちが死者たちに向かって絶叫するのを聴け）」という聴覚動詞の反復と照応する。",
+      "targetId": "baudelaire_horloge",
+      "targetParagraphId": null
+    }
+  ]
+}
