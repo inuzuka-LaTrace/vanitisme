@@ -1,0 +1,127 @@
+{
+  "id": "verhaeren_la_tete",
+  "title": "La Tête",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 129–130. 底本: fr.wikisource.org/wiki/La_Tête_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の20行詩（p.129–130）。「Le Meurtre（殺人）」の後、「Inconscience（無意識）」の前に配置される。アレクサンドラン20行、5連×4行、韻型 ABAB / CDCD / EFFE / GHGH / ABAB。第1連と第5連がほぼ完全一致する環状構造（épiphore）を形成するが、一箇所だけ異なる：「tu porteras ta tête（汝は汝の首を運ぶ）」→「tu porteras la tête（汝は首を運ぶ）」。所有形容詞「ta（汝の）」から定冠詞「la」への転換──断頭台で切り落とされた後、首はもはや「汝の」ものではなく「その首（la tête）」として客体化されるという一語の差が詩全体の意味的核心をなす。二人称「tu（汝）」による直接呼びかけが詩全体を通じて維持される──この「tu」は「詩人自身」・「異端者」・「傲慢な意志を持つ者」への自己呼びかけとして機能する。「crimes lyriques（叙情的犯罪）」という逆説的語結合が詩集の詩学的自己定義として機能し、詩を書くこと自体が「犯罪」として断頭台に値するという暗示。「Insatiablement」の傲慢な意志・「L'Hérésiarque」の異端が断頭台という刑罰の形象として収束する。詩集内での位置としてp.129–130という後半に配置され、詩集全体を貫く「傲慢・意志・刑罰」という弧の終点近くに位置する。",
+  "keywords": [
+    "断頭台",
+    "首",
+    "crimes lyriques",
+    "傲慢",
+    "群衆",
+    "血",
+    "金属",
+    "硫黄色の夕",
+    "記憶",
+    "短剣",
+    "環状構造",
+    "二人称",
+    "épiphore",
+    "定冠詞転換",
+    "刑罰",
+    "splendeur"
+  ],
+  "relatedTexts": [
+    "verhaeren_insatiablement",
+    "verhaeren_heresiarque",
+    "verhaeren_les_malades",
+    "verhaeren_mourir",
+    "baudelaire_une_charogne",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sur un échafaud noir, tu porteras ta tête\nEt sonneront les tours et luiront les couteaux\nEt tes muscles crîront et ce sera la fête,\nLa fête et la splendeur du sang et des métaux.",
+      "provisionalTranslation": "黒い断頭台の上に、汝は汝の首を運ぶだろう、\nそして塔が鳴り響き、刃が輝くだろう、\nそして汝の筋肉が叫ぶだろう、そしてそれが祝祭となるだろう、\n血と金属の祝祭と壮麗さ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Et les pourpres soleils et les soirs sulfuriques,\nLes soirs et les soleils, escarbouclés de feux,\nVerront le châtiment de tes crimes lyriques\nEt s'ils savent mourir ton front et tes grands yeux.",
+      "provisionalTranslation": "そして紫の太陽たちと硫黄色の夕暮れたちが、\nその夕暮れと太陽たちが、炭素の火で刻まれ、\n汝の叙情的犯罪の罰を見るだろう、\nそして汝の額と大きな目が死に方を知っているかどうかを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "La foule, en qui le mal grandiose serpente,\nTaira son océan autour de ton orgueil,\nLa foule ! — et te sera comme une mère ardente,\nQui, rouge et froid, te bercera dans ton cercueil.",
+      "provisionalTranslation": "群衆は、その中で壮大な悪が蛇行する、\n汝の傲慢のまわりにその海を黙らせるだろう、\n群衆よ！──そして汝にとって熱烈な母のようになるだろう、\n赤く冷たく、棺の中の汝を揺り籠で揺らす母に。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Et vicieuse, ainsi qu'une floraison noire,\nOù mûrissent de beaux poisons, couleur d'éclair,\nEt despotique et fière, et grande, ta mémoire,\nEt fixe et roide, ainsi qu'un poignard dans la chair.",
+      "provisionalTranslation": "そして悪徳に満ちて、黒い花盛りのように、\nそこで稲妻の色の美しい毒たちが熟す、\nそして専制的で誇り高く、偉大な、汝の記憶よ、\nそして固定され硬直して、肉の中の短剣のように。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Sur un échafaud noir, tu porteras la tête\nEt sonneront les tours et luiront les couteaux\nEt tes muscles crîront et ce sera la fête,\nLa fête et la splendeur du sang et des métaux.",
+      "provisionalTranslation": "黒い断頭台の上に、汝は首を運ぶだろう、\nそして塔が鳴り響き、刃が輝くだろう、\nそして汝の筋肉が叫ぶだろう、そしてそれが祝祭となるだろう、\n血と金属の祝祭と壮麗さ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sur un échafaud noir, tu porteras ta tête\nEt sonneront les tours et luiront les couteaux\nEt tes muscles crîront et ce sera la fête,\nLa fête et la splendeur du sang et des métaux.",
+      "body": "アレクサンドラン（12音節）20行、5連×4行、韻型 ABAB / CDCD / EFFE / GHGH / ABAB。第1連と第5連が韻型・音節数・語彙を共有する環状構造（épiphore）を形成するが、決定的な一語が異なる：v.1「tu porteras ta tête（汝は汝の首を運ぶ）」→ v.17「tu porteras la tête（汝は首を運ぶ）」。所有形容詞「ta」から定冠詞「la」への転換──断頭台で切り落とされた後、首はもはや所有されえない客体「la tête」として提示される。詩全体が「ta tête」から「la tête」へ向かう一語の喪失として読める。「Et（そして）」による三重の接続（v.2・3・4）が「Les Malades」・「Londres」のanaphora的列挙と同じ文体的手法。「La fête et la splendeur du sang et des métaux（血と金属の祝祭と壮麗さ）」──「Les Armes du soir」の「L'éclair de son épée et l'or de son armure（剣の閃光と鎧の黄金）」の金属美と照応。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sur un échafaud noir, tu porteras ta tête",
+      "body": "「黒い断頭台の上に、汝は汝の首を運ぶだろう（tu porteras ta tête）」──二人称「tu（汝）」による直接呼びかけが詩全体を通じて維持される。この「tu」は詩集内の文脈から「詩人自身」・「L'Hérésiarque」（異端者）・「Insatiablement」の「傲慢な意志を持つ者」への自己呼びかけとして機能する。「échafaud noir（黒い断頭台）」──「Les Malades」の「cage d'os（骨の檻）」・「Mourir」の「巨大すぎる花のように死ぬ」という詩集内の死のイメージ系列の収束点。断頭台は「意志による死の選択」の最終的形象。「Mourir」が秋の熟成として死を美化するのに対し、本詩は「血と金属の祝祭」として刑死を美化する。",
+      "targetId": "verhaeren_heresiarque",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et les pourpres soleils et les soirs sulfuriques,\nLes soirs et les soleils, escarbouclés de feux,\nVerront le châtiment de tes crimes lyriques",
+      "body": "「紫の太陽・硫黄色の夕暮れ（pourpres soleils … soirs sulfuriques）」──「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」の赤・紫系列の継続。「sulfuriques（硫黄色の）」は地獄的・化学的含意を持つ形容詞──夕暮れを地獄の光景として提示する。「escarbouclés de feux（炭素の火で刻まれた）」──「escarbouc」は「escarboucle（炭素・カーバンクル宝石）」の形容詞形で、炭素の赤い炎・宝石の輝きが夕の火を描く。「crimes lyriques（叙情的犯罪）」──詩集全体の詩学的自己定義として最も重要な語結合。詩を書くこと（lyriques）が犯罪（crimes）として断頭台に値するという逆説。マラルメが詩を「偶然の廃棄」として定義するのに対し、ヴェルハーレンは詩を「叙情的犯罪」として定義する。",
+      "targetId": "mallarme_toast_funebre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et s'ils savent mourir ton front et tes grands yeux.",
+      "body": "「汝の額と大きな目が死に方を知っているかどうかを（s'ils savent mourir ton front et tes grands yeux）」──「savoir mourir（死に方を知る）」という知識的動詞が死の行為に使われる。死を「技術・知識」として問う命題。「Mourir（死ぬこと）」という詩集内の同名詩への直接的な内照射──「Mourir」が「こうして死ぬことが夢だろう（Mourir ainsi serait le rêve）」と死を感覚の頂点として理想化するのに対し、本詩は「死に方を知っているかどうか」という試練として死を提示する。「ton front et tes grands yeux（汝の額と大きな目）」──身体の部位への分割が「首（tête）」という主題と連動する。",
+      "targetId": "verhaeren_mourir",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La foule, en qui le mal grandiose serpente,\nTaira son océan autour de ton orgueil,\nLa foule ! — et te sera comme une mère ardente,\nQui, rouge et froid, te bercera dans ton cercueil.",
+      "body": "「群衆は、その中で壮大な悪が蛇行する（la foule, en qui le mal grandiose serpente）」──群衆を「壮大な悪が蛇行する」存在として描く。「serpente（蛇行する）」という動詞が群衆の悪を蛇（原罪の象徴）として擬人化する。「Taira son océan autour de ton orgueil（汝の傲慢のまわりにその海を黙らせるだろう）」──群衆の沈黙が「傲慢（orgueil）」を囲む海として描かれる。「comme une mère ardente（熱烈な母のように）」という逆説的な群衆の慰め──刑死者を揺り籠で揺らす「熱烈な母」としての群衆。「rouge et froid（赤く冷たく）」という矛盾語法が群衆の二重性を示す。「Les Malades」の「la foule（群衆）」が「Londres」の「parmi ces foules（群衆の中の死）」と接続する詩集内の群衆主題の変奏。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et vicieuse, ainsi qu'une floraison noire,\nOù mûrissent de beaux poisons, couleur d'éclair,\nEt despotique et fière, et grande, ta mémoire,\nEt fixe et roide, ainsi qu'un poignard dans la chair.",
+      "body": "「悪徳に満ちた黒い花盛り、稲妻の色の美しい毒たちが熟す（floraison noire / beaux poisons, couleur d'éclair）」──「Fleur fatale（運命の花）」の「fleur fatale（運命の花）」・「À Ténèbres」の「Sur les fumiers du monde à se nourrir de roses（糞山の上で薔薇を食べ物とすること）」という詩集内の黒い花の系列の収束。「ta mémoire（汝の記憶）」が「despotique et fière, et grande（専制的で誇り高く、偉大な）」という三重の形容を受ける──詩人の記憶が死後に専制的な権力を持つという命題。「fixe et roide, ainsi qu'un poignard dans la chair（肉の中の短剣のように固定され硬直して）」──記憶が「肉に刺さった短剣」として永続化される身体的比喩。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」命題への直接的反論として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Sur un échafaud noir, tu porteras la tête\nEt sonneront les tours et luiront les couteaux\nEt tes muscles crîront et ce sera la fête,\nLa fête et la splendeur du sang et des métaux.",
+      "body": "第1連との決定的差異：「ta tête（汝の首）」→「la tête（首）」。所有形容詞から定冠詞への一語の転換が詩全体の意味的核心をなす。断頭台において首は主体の所有物でなくなる──「ta tête（汝の首）」として詩が始まり、刑死後「la tête（首）」として詩が閉じる。「Blafards et seuls … sceptiques malades（懐疑主義の病者）」→「tragiques malades（悲劇の病者）」という「Les Malades」の最終連の変奏と同じ「一語転換」の修辞法。詩集全体を貫く「所有から剥奪へ」という主題──「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」というヨブ記v.21の定式と照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
