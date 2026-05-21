@@ -1,0 +1,110 @@
+{
+  "id": "verhaeren_la_couronne",
+  "title": "La Couronne",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 135–136. 底本: fr.wikisource.org/wiki/La_Couronne_(Verhaeren)（2024年照合）",
+  "year": "1888",
+  "firstPublication": "Les Débâcles, 1888.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『Les Débâcles』（1888年）収録の24行詩（p.135–136）。「Inconscience（無意識）」の後、詩集最終セクションに配置される。アレクサンドラン24行、連の区切りなし（1ブロック）。詩集『詩篇（第二集）』の実質的な締め括り詩として機能し、詩集全体を貫く「苦悩・傲慢・意志・刑罰」という主題の総括を行う。「棘の冠（couronne d'épines）」というキリスト受難のモチーフを我有化する──「私もまた棘の冠を欲しい（je voudrais aussi ma couronne d'épines）」という冒頭の「aussi（もまた）」が重要で、キリストと同様に冠を戴きたいという自己聖化的欲望を示す。詩集内の文脈では：「La Tête（首）」で断頭台に首を運ぶ者が、この「La Couronne（冠）」で棘の冠を要求する──断頭台の刑死者が同時にキリスト的冠を求めるという逆説が詩集の思想的頂点をなす。「Et sacre-moi ton roi souffrant et ridicule（汝の苦しみ悶える滑稽な王として私を聖別せよ）」という結語は詩集全体の自己定義として機能する──「傲慢な意志」・「病者」・「狂気」・「叙情的犯罪者」という詩集内の人間類型が「苦しみ悶える滑稽な王（roi souffrant et ridicule）」として一語に収束する。",
+  "keywords": [
+    "棘の冠", "couronne d'épines", "キリスト受難", "自己聖化", "苦悩",
+    "傲慢", "棘", "黒檀の茂み", "somnambule", "hallucination",
+    "absurdité", "roi souffrant et ridicule", "連続体詩", "詩集の締め括り"
+  ],
+  "relatedTexts": [
+    "verhaeren_la_tete",
+    "verhaeren_insatiablement",
+    "verhaeren_heresiarque",
+    "verhaeren_les_malades",
+    "verhaeren_fleur_fatale",
+    "juan_de_la_cruz_noche_oscura",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "original": "Et je voudrais aussi ma couronne d'épines\nEt pour chaque pensée, une, rouge, à travers\nLe front, jusqu'au cerveau, jusqu'aux frêles racines\nOù se tordent les maux et les rêves forgés\nEn moi, par moi. Je la voudrais comme une rage,\nComme un buisson d'ébène en feu, comme des crins\nD'éclairs et de flammes, peignés de vent sauvage ;",
+      "provisionalTranslation": "そして私もまた棘の冠を欲しいと思う、\nそして思考のひとつひとつに、一本ずつ、赤く、\n額を貫いて、脳まで、か細い根まで、\nそこで病苦と、私の中で、私によって\n鍛えられた夢たちがもがく。私はそれを激情のように欲しい、\n燃える黒檀の茂みのように、炎と稲妻の\n鬣のように、野生の風に梳かれた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–12",
+      "original": "Et ce seraient mes vains et mystiques désirs,\nMa science d'ennui, mes tendresses battues\nDe flagellants remords, mes chatoyants vouloirs\nDe meurtre et de folie et mes haines têtues\nQu'avec ses dards et ses griffes, elle mordrait.",
+      "provisionalTranslation": "そしてそれは私の虚ろで神秘的な欲望であるだろう、\n私の倦怠の知識、鞭打つ悔恨に\n打ちたたかれた私の優しさ、殺意と狂気への\n私の玉虫色の意志と私の頑固な憎しみを、\nその刺と爪で、冠が噛みつくだろう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "original": "Et, plus intimement encor, mes anciens râles\nVers des ventres, mufflés de lourdes toisons d'or,\nEt mes vices de doigts et de lèvres claustrales\nEt mes derniers tressauts de nerfs et de sanglots\nEt, plus au fond, le rut même de ma torture,\nEt tout enfin ! Ô couronne de ma douleur",
+      "provisionalTranslation": "そして、さらに奥深く、重い金の羊毛に\n包まれた腹への、私の古い喘ぎ声、\n修道院的な指と唇の私の悪癖、\n神経と嗚咽の私の最後の痙攣、\nそして、さらに奥底で、私の拷問の発情そのもの、\nそしてついにすべて！ああ、私の苦悩の冠よ、"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–24",
+      "original": "Et de ma joie, ô couronne de dictature\nDebout sur mes deux yeux ma bouche et mon cerveau,\nÔ la couronne en rêve à mon front somnambule,\nHallucine-moi donc de ton absurdité ;\nEt sacre-moi ton roi souffrant et ridicule.",
+      "provisionalTranslation": "そして私の喜びの、ああ、独裁の冠よ、\n私の両の目・口・脳の上に立ちはだかる、\nああ、夢遊病者の私の額に夢の中の冠よ、\n汝の不条理で私を幻覚させよ；\nそして汝の苦しみ悶える滑稽な王として私を聖別せよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et je voudrais aussi ma couronne d'épines\nEt pour chaque pensée, une, rouge, à travers\nLe front, jusqu'au cerveau, jusqu'aux frêles racines",
+      "body": "アレクサンドラン（12音節）24行、連の区切りなし（1ブロック）。詩集『Les Débâcles』では珍しい連なし構成で、詩が一つの連続した欲望の噴出として書かれていることを形式が示す。冒頭「Et（そして）」──詩集内の多くの詩が「Et（そして）」で始まる（「Londres」・「Les Malades」等）ことと連続する接続詞的開始。「aussi（もまた）」──「私もまた（キリストと同様に）棘の冠を欲しい」という自己聖化的比較。「Et pour chaque pensée, une, rouge（思考のひとつひとつに、一本ずつ、赤く）」──「une（一本ずつ）」という単数の強調が各思考に対応する一本の棘を示す。enjambement（跨行）が「à travers / Le front, jusqu'au cerveau（額を貫いて、脳まで）」と続く身体的深化を文体的に実演する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je la voudrais comme une rage,\nComme un buisson d'ébène en feu, comme des crins\nD'éclairs et de flammes, peignés de vent sauvage ;",
+      "body": "「激情のように（comme une rage）」・「燃える黒檀の茂みのように（comme un buisson d'ébène en feu）」・「炎と稲妻の鬣のように（comme des crins / D'éclairs et de flammes）」──三重の「comme」による直喩の積み重ね（tricolon）。「buisson en feu（燃える茂み）」は旧約聖書出エジプト記の「燃える柴（buisson ardent）」──モーセに神が現れた場面のイメージを「黒檀（d'ébène）」という暗い素材で変奏する。「crins d'éclairs et de flammes, peignés de vent sauvage（野生の風に梳かれた炎と稲妻の鬣）」──棘の冠の外観を馬の鬣・稲妻として描く共感覚的比喩。「Les Malades」の「黒檀と骨の神（Dieu d'ébène et d'os）」と同語根の「黒檀」が再び現れる。",
+      "targetId": "verhaeren_les_malades",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et ce seraient mes vains et mystiques désirs,\nMa science d'ennui, mes tendresses battues\nDe flagellants remords, mes chatoyants vouloirs\nDe meurtre et de folie et mes haines têtues\nQu'avec ses dards et ses griffes, elle mordrait.",
+      "body": "「虚ろで神秘的な欲望（vains et mystiques désirs）」・「倦怠の知識（science d'ennui）」・「鞭打つ悔恨（flagellants remords）」・「玉虫色の意志（chatoyants vouloirs）」・「頑固な憎しみ（haines têtues）」──冠が刺すべき内的苦悩の五重の列挙。「vains（虚ろ）」──VANITISMEコーパス全体の vanitas 主題と接続する形容詞。「science d'ennui（倦怠の知識）」──コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の詩的変奏。「flagellants remords（鞭打つ悔恨）」──「flagellant（鞭打つ）」は中世の苦行者「フラジェラント」を示す語で、悔恨が自己鞭打ちの苦行として内面化される。「chatoyants vouloirs（玉虫色の意志）」──「chatoyer（玉虫色に輝く）」という布地・宝石の光沢を「意志」に適用する共感覚的比喩。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et, plus intimement encor, mes anciens râles\nVers des ventres, mufflés de lourdes toisons d'or,\nEt mes vices de doigts et de lèvres claustrales\nEt mes derniers tressauts de nerfs et de sanglots\nEt, plus au fond, le rut même de ma torture,\nEt tout enfin !",
+      "body": "「さらに奥深く（plus intimement encor）」・「さらに奥底で（plus au fond）」──二段階の深化が身体・感覚・官能の最奥へと向かう。「mes anciens râles（私の古い喘ぎ声）」──「Ressouvenir」の「lointains râles（遠い苦悶の息）」の「râles」が自己の過去の喘ぎとして内面化される。「lourdes toisons d'or（重い金の羊毛）」──ギリシア神話「黄金の羊毛（Toison d'Or）」の典拠。「claustrales（修道院的な）」──修道院の禁欲が逆に官能的な悪癖と結びつく。「le rut même de ma torture（私の拷問の発情そのもの）」──「rut（動物の発情期）」という動物的語が「torture（拷問）」と結合する。「Et tout enfin !（そしてついにすべて！）」──列挙を感嘆符で断ち切る。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ô couronne de ma douleur\nEt de ma joie, ô couronne de dictature\nDebout sur mes deux yeux ma bouche et mon cerveau,",
+      "body": "「私の苦悩の冠（couronne de ma douleur）」・「私の喜びの冠（couronne de ma joie）」・「独裁の冠（couronne de dictature）」──冠の三重の定義。「douleur（苦悩）」と「joie（喜び）」の対置が「Fleur fatale」の「Férocement joyeux（凶暴に喜ばしく）」・「Mourir」の「serait le rêve（夢だろう）」という詩集内の苦悩と喜びの共存と連続する。「couronne de dictature（独裁の冠）」──冠が「独裁（dictature）」として機能するという政治的比喩。「Debout sur mes deux yeux ma bouche et mon cerveau（私の両の目・口・脳の上に立ちはだかる）」──身体的部位の三重列挙が冠の支配範囲を視覚・言語・知性の全機能に及ぼす。十字架の聖ヨハネ「夜の暗い魂（Noche oscura）」の霊的感覚の超越と対照的に、ヴェルハーレンの冠は感覚器官の上に「立ちはだかる（Debout）」物質的支配として現れる。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hallucine-moi donc de ton absurdité ;\nEt sacre-moi ton roi souffrant et ridicule.",
+      "body": "「汝の不条理で私を幻覚させよ（Hallucine-moi donc de ton absurdité）」・「汝の苦しみ悶える滑稽な王として私を聖別せよ（sacre-moi ton roi souffrant et ridicule）」──詩の二つの命令文による結語。「Hallucine-moi（私を幻覚させよ）」──命令法が「冠」に向けられる。「Fleur fatale」の「absurdité（不条理）」が「幻覚」の手段として再登場する。「sacre-moi（私を聖別せよ）」──「sacrer」は「聖油を注いで王・聖職者に任じる」という典礼的動詞。棘の冠が司式者として詩人を「苦しみ悶える滑稽な王」に任じるという逆転した戴冠式。「roi souffrant et ridicule（苦しみ悶える滑稽な王）」──詩集全体の人間類型（「病者」・「異端者」・「叙情的犯罪者」・「傲慢な意志者」）が「滑稽な王」という一語に収束する。コヘレト第1章v.1「regis Jerusalem（エルサレムの王）」の「地上の王者が虚無を告発する」という逆説的王権が、ここでは「滑稽な（ridicule）」という自己卑下によって再演される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Ô la couronne en rêve à mon front somnambule,",
+      "body": "「夢遊病者の私の額に夢の中の冠（la couronne en rêve à mon front somnambule）」──「somnambule（夢遊病者）」という語がヴェルハーレンの詩集内で「Illusion」の「clair nonchaloir（澄んだ悠然）」・「Fleur fatale」の「folie（狂気）」と連続する意識の変容主題を一語で集約する。「en rêve（夢の中の）」という限定が冠の実在性を夢の次元に置く──現実の棘の冠を欲しながら、それは「夢の中の冠」でしかないという断層。ヨブ記第1章v.21「Nudus egressus sum de utero matris meae（裸で母の胎から出た）」という剥奪の命題が、ここでは「夢の中でしか戴けない冠」という形で変奏される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
