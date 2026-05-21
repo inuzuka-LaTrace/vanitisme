@@ -1,0 +1,225 @@
+{
+  "id": "verhaeren_les_malades",
+  "title": "Les Malades",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 11–14. 底本: fr.wikisource.org/wiki/Les_Malades_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の52行詩（p.11–14）。詩集の冒頭セクション「I. DÉCORS LIMINAIRES」の直前に置かれ、詩集全体の「病者」的人間類型を導入する序詩として機能する。アレクサンドラン52行、13連×4行（韻型 ABAB を基本とするが独白引用符内は変化）。構造は三層：外景描写（§1–2）→ 病者の内的独白（§3–8の引用符付き）→ 反復句による閉鎖（§9・§13）という額縁構造。特筆すべきは「Blafards et seuls, ils sont, les sceptiques malades（蒼白で孤独に、懐疑主義の病者たちはいる）」という冒頭句が詩中に三度反復される点──第1連（§1）・第9連（§9、第3連と字句一致）・第13連（§13、「tragiques malades（悲劇の病者たち）」「les feux / Mourir（炎が死んでいく）」へと変奏）。病者たちは「孤独に意志的に苦しむことへの問い（Souffrir pour soi, tout seul, mais par sa volonté ?）」・「残酷さが愛よりも人を近づける（la cruauté rapproche / Mieux que l'amour）」という倒錯した認識論に達し、最終的に「霊的に魂を廃棄したい（abolir férocement son âme）」という欲望で締め括られる。「À Ténèbres」の「影の人々（hommes d'ombre）」・「Attirances」の銀の仮面たちと並ぶ詩集内の「病者」人間類型。ヴェルハーレン自身の1887–91年の神経衰弱期の記憶が直接的に背景にある。",
+  "keywords": [
+    "病者",
+    "懐疑主義",
+    "孤独",
+    "蒼白",
+    "hiératiques",
+    "意志",
+    "苦悩",
+    "残酷さ",
+    "魂の廃棄",
+    "引用符独白",
+    "三重反復",
+    "額縁構造",
+    "省",
+    "倦怠",
+    "神経衰弱",
+    "sceptiques",
+    "Blafards et seuls"
+  ],
+  "relatedTexts": [
+    "verhaeren_a_tenebres",
+    "verhaeren_attirances",
+    "verhaeren_insatiablement",
+    "verhaeren_fleur_fatale",
+    "baudelaire_spleen",
+    "rodenbach_les_femmes_tristes",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Blafards et seuls, ils sont, les sceptiques malades,\nAigus de tous leurs maux. Ils regardent le soir\nSe faire dans leur chambre et grandir les façades.\nUne église près d'eux lève son clocher noir.",
+      "provisionalTranslation": "蒼白で孤独に、懐疑主義の病者たちはいる、\nすべての病苦に鋭く。彼らは夕が\n部屋の中に生まれ、ファサードが大きくなるのを見ている。\n彼らの傍らに一つの教会が黒い鐘楼を持ち上げる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Heure morte, là-bas, quelque part, en province,\nEn une ville éteinte, au fond d'un coin désert,\nOù s'endeuillent des murs et des porches, dont grince\nLe gond monumental, ainsi qu'un poing de fer.",
+      "provisionalTranslation": "死んだ時刻、あちらに、どこかに、地方で、\n消えた町の中に、廃れた一隅の奥に、\nそこで壁と玄関廊が喪に服し、その軋む\n巨大な蝶番は、鉄の拳のように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Blafards et seuls, les malades hiératiques,\nPareils à de vieux loups mornes, fixent la mort ;\nIls ont mâché la vie et ses jours identiques\nEt ses mois et ses ans et leur haine et leur sort.",
+      "provisionalTranslation": "蒼白で孤独に、厳粛な病者たちは、\n陰鬱な老いた狼のように、死を見つめる；\n彼らは人生とその同一の日々を噛み砕いてきた、\nその月々と年々と彼らの憎しみと運命を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Mais aujourd'hui, serrés dans le pâle cynisme\nDe leur dégoût, ils ont l'esprit inquiété :\n« Si le bonheur régnait dans ce mâle égoïsme,\n« Souffrir pour soi, tout seul, mais par sa volonté ?",
+      "provisionalTranslation": "しかし今日、自分たちの嫌悪の蒼白い冷笑主義の中に\n閉じ込められて、彼らは精神を不安に揺さぶられる：\n「もし幸福がこの男性的利己主義の中に君臨するなら、\n「自分のために、ただ一人で、しかし自らの意志によって苦しむことは？"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "« Ils ont banalement aimé comme les autres\n« Les autres ; ils ont cru benoîtement aux deuils,\n« À la souffrance, à des gestes prêcheurs d'apôtres ;\n« Imbéciles, ils ont eu peur de leurs orgueils.",
+      "provisionalTranslation": "「彼らは平凡に他の者たちのように愛してきた、\n「他の者たちを；彼らはお人よしに喪を信じてきた、\n「苦悩を、使徒的な説教の身振りを；\n「愚か者たちよ、彼らは自分たちの傲慢を恐れてきた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "« Ils discutent combien la cruauté rapproche\n« Mieux que l'amour ; combien ils se sont abusés\n« À pavoiser l'ingratitude et le reproche ;\n« Combien de pleurs, pour quelques yeux qu'ils ont baisés !",
+      "provisionalTranslation": "「彼らは議論する、残酷さがいかに愛よりも\n「よく人を近づけるかを；いかに彼らが自分を欺いてきたかを、\n「忘恩と非難を旗で飾ることで；\n「接吻したいくつかの目のために、どれほど多くの涙を！"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "« Vides, les îles d'or, là-bas, dans l'or des brumes,\n« Où les rêves assis sous leur manteau vermeil,\n« Avec de longs doigts d'or effeuillaient aux écumes,\n« Les ors silencieux qui pleuvaient du soleil.",
+      "provisionalTranslation": "「空虚だ、黄金の島々は、あちらに、霞の金の中に、\n「そこで朱色のマントのもとに座る夢たちが、\n「長い金の指で泡に向かって花びらを散らしていた、\n「太陽から降り注ぐ沈黙の金を。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "« Cassés, les mâts d'orgueil, flasques, les grandes voiles !\n« Laissez la barque aller et s'éteindre les ports ;\n« Les phares ne tendront plus vers les grandes étoiles,\n« Leurs bras immensément en feu — les feux sont morts ! »",
+      "provisionalTranslation": "「折れた、傲慢のマストたちよ、だらけた、大きな帆たちよ！\n「舟が行くままにさせ、港が消えるままにさせよ；\n「灯台はもはや大きな星々へと伸ばさないだろう、\n「果てしなく炎に燃えるその腕を──炎は死んだ！」"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Blafards et seuls, les malades hiératiques,\nPareils à de vieux loups mornes, fixent la mort ;\nIls ont mâché la vie et ses jours identiques\nEt ses mois et ses ans et leur haine et leur sort.",
+      "provisionalTranslation": "蒼白で孤独に、厳粛な病者たちは、\n陰鬱な老いた狼のように、死を見つめる；\n彼らは人生とその同一の日々を噛み砕いてきた、\nその月々と年々と彼らの憎しみと運命を。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Et maintenant, leur corps ? — cage d'os pour les fièvres\nEt leurs ongles de bois heurtant leurs fronts ardents,\nEt leur hargne des yeux et leur minceur de lèvres\nEt comme un sable amer, toujours, entre leurs dents.",
+      "provisionalTranslation": "そして今、彼らの身体は？──熱のための骨の檻、\nそして燃える額をたたく木のような爪、\nそして目の攻撃性と唇の細さ、\nそしてまるで苦い砂のように、いつも、歯の間に。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Et le regret les prend et le désir posthume :\n« De s'en aller revivre en un monde nouveau\n« Dont le couchant, pareil à un trépied qui fume,\n« Dresse le Dieu d'ébène et d'os en leur cerveau.",
+      "provisionalTranslation": "そして後悔が彼らを捕らえる、そして死後の欲望が：\n「新しい世界に行って生き直すための、\n「その夕暮れが、煙る三脚台のように、\n「黒檀と骨の神を彼らの脳の中に立てる世界に。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "« Là-bas, en des lointains d'hystérie et de flamme\n« Et d'écume livide et de rauque fureur,\n« Où l'on peut abolir férocement son âme,\n« Férocement joyeux, son âme et tout son cœur. »",
+      "provisionalTranslation": "「あちらに、ヒステリーと炎の遠方に、\n「そして青白い泡と嗄れた怒りの中に、\n「そこでは凶暴に自らの魂を廃棄できる、\n「凶暴に喜ばしく、自らの魂と心の全てを。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Blafards et seuls, ils sont les tragiques malades\nAigus de tous leurs maux. Ils regardent les feux\nMourir parmi la ville et les pâles façades\nComme de grands linceuils venir au devant d'eux.",
+      "provisionalTranslation": "蒼白で孤独に、彼らは悲劇の病者たちだ、\nすべての病苦に鋭く。彼らは炎が\n町の中と蒼白なファサードの間に死んでいくのを見ている、\n大きな屍衣のように彼らに向かってやってくるのを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Blafards et seuls, ils sont, les sceptiques malades,\nAigus de tous leurs maux. Ils regardent le soir\nSe faire dans leur chambre et grandir les façades.\nUne église près d'eux lève son clocher noir.",
+      "body": "アレクサンドラン（12音節）52行、13連×4行、韻型 ABAB を基本とする。「Blafards et seuls（蒼白で孤独に）」という句が詩中に三度現れる反復構造：第1連（§1）「Blafards et seuls, ils sont, les sceptiques malades」→ 第9連（§9）・第13連（§13）「Blafards et seuls, ils sont les tragiques malades」。「sceptiques（懐疑主義の）」→「hiératiques（厳粛な）」→「tragiques（悲劇の）」という形容詞の変化が病者の内的変容を追跡する。§3/§9の字句一致反復（refrein）と§13の変奏による額縁構造が詩全体を包む。「Aigus de tous leurs maux（すべての病苦に鋭く）」──「aigus（鋭い）」が病苦の感覚的強度を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ils regardent le soir\nSe faire dans leur chambre et grandir les façades.\nUne église près d'eux lève son clocher noir.",
+      "body": "「夕が部屋の中に生まれ、ファサードが大きくなるのを見ている」──病者たちの視線は常に外部（夕・ファサード・教会）に向く。「Se faire（生まれる・形成される）」という再帰動詞が夕を自律的な過程として描く。「Une église … lève son clocher noir（黒い鐘楼を持ち上げる）」──「Ressouvenir」の「Autour des tours et des voussoirs（塔と要石のまわりに）」・「Londres」の「clocher noir（黒い鐘楼）」との系列的照応。しかし「Ressouvenir」の鐘は追憶の媒介として鳴り響くのに対し、ここでの「clocher noir」は沈黙した病者たちの傍らにあるだけである。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Heure morte, là-bas, quelque part, en province,\nEn une ville éteinte, au fond d'un coin désert,",
+      "body": "「死んだ時刻、どこかに、地方で、消えた町の中に（Heure morte … ville éteinte）」──「Heure morte（死んだ時刻）」・「ville éteinte（消えた町）」という二重の死が外景を構築する。「en province（地方で）」という地理的特定──「Londres」の大都市と対照的な地方の廃れた町という設定。「Attirances」の「vaguent, au jour tombant, autour des vieux soleils（日の落ちるころ、古い太陽たちのまわりをさまよう）」という銀の仮面の漂いと照応する──どちらも夕暮れの廃れた空間に存在する。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Pareils à de vieux loups mornes, fixent la mort ;\nIls ont mâché la vie et ses jours identiques\nEt ses mois et ses ans et leur haine et leur sort.",
+      "body": "「陰鬱な老いた狼のように、死を見つめる（Pareils à de vieux loups mornes, fixent la mort）」──狼の比喩が病者に使われる。「vieux loups mornes（陰鬱な老いた狼）」は「À Ténèbres」の「影の人々（hommes d'ombre）」の動物的変奏。「mâché la vie（人生を噛み砕いてきた）」──「mâcher（噛む・噛み砕く）」という動詞の人生への適用。人生を食物として反復的に噛み続けてきた消化不良の疲労。「ses jours identiques / Et ses mois et ses ans（同一の日々・月々・年々）」──コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的同一性の詩的変奏。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "« Si le bonheur régnait dans ce mâle égoïsme,\n« Souffrir pour soi, tout seul, mais par sa volonté ?",
+      "body": "「もし幸福がこの男性的利己主義の中に君臨するなら、自らの意志によって苦しむことは？（Souffrir pour soi, tout seul, mais par sa volonté ?）」──病者たちの根本的な問いが疑問文として提示される。「par sa volonté（自らの意志によって）」──苦悩を意志的に選択する可能性への問い。「Insatiablement」の「苦しみを意志的に選ぶ傲慢な私」との直接的照応──ただし「Insatiablement」では肯定的宣言であるのに対し、ここでは疑問として揺れている。ヴェイユ「Accepter le vide（真空を受容する）」の「苦悩を受容することの逆説的意義」との深い照応。",
+      "targetId": "verhaeren_insatiablement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "« Ils ont banalement aimé comme les autres\n« Les autres ; ils ont cru benoîtement aux deuils,\n« À la souffrance, à des gestes prêcheurs d'apôtres ;\n« Imbéciles, ils ont eu peur de leurs orgueils.",
+      "body": "「平凡に他の者たちのように愛してきた……使徒的な説教の身振りを……愚か者たちよ、自分たちの傲慢を恐れてきた（Imbéciles, ils ont eu peur de leurs orgueils）」──引用符内の独白が「彼ら（ils）」という三人称で語られる点が重要──病者たちは自分自身を「他者として」距離を置いて批評する。「benoîtement（お人よしに）」という副詞が従来の「苦悩・喪・宗教的身振り」への信頼を軽蔑的に描く。「peur de leurs orgueils（傲慢を恐れてきた）」──「orgueil（傲慢）」への恐れが「Mourir」・「L'Hérésiarque」・詩集全体を貫く「orgueil（傲慢）」主題との逆照射として機能する。",
+      "targetId": "verhaeren_mourir",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "« Ils discutent combien la cruauté rapproche\n« Mieux que l'amour ;",
+      "body": "「残酷さがいかに愛よりもよく人を近づけるかを議論する（la cruauté rapproche / Mieux que l'amour）」──病者の認識論的倒錯の核心命題。「cruauté（残酷さ）」が「amour（愛）」より強い結合力を持つという逆説。ニーチェ的な「力への意志」の病的変奏として読める──「À Ténèbres」の「Mais peur des vices nécessaires（必然的な悪徳への恐れ）」が恐れとして記述されていた悪徳への態度が、ここでは積極的な肯定へと転換している。「pavoiser l'ingratitude et le reproche（忘恩と非難を旗で飾る）」──「pavoiser（旗で飾る）」という祝典的動詞が忘恩に使われる皮肉。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "« Vides, les îles d'or, là-bas, dans l'or des brumes,\n« Où les rêves assis sous leur manteau vermeil,\n« Avec de longs doigts d'or effeuillaient aux écumes,\n« Les ors silencieux qui pleuvaient du soleil.",
+      "body": "「空虚だ、黄金の島々は（Vides, les îles d'or）」──かつての夢想的理想郷（îles d'or）の「空虚（vides）」の告白。「rêves assis sous leur manteau vermeil（朱色のマントのもとに座る夢たち）」──夢を擬人化し朱色（vermeil）のマントをまとわせる。「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」・「Londres」の「chiens vermeils（赤い犬たち）」と同語根の朱色系列。「effeuillaient aux écumes（泡に向かって花びらを散らしていた）」──詩的黄金の王国の記憶が今は空虚であるという喪失の回顧。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "« Cassés, les mâts d'orgueil, flasques, les grandes voiles !\n« Laissez la barque aller et s'éteindre les ports ;\n« Les phares ne tendront plus vers les grandes étoiles,\n« Leurs bras immensément en feu — les feux sont morts ! »",
+      "body": "「折れた、傲慢のマストたちよ……灯台はもはや大きな星々へと伸ばさないだろう……炎は死んだ（les feux sont morts）！」──第1独白部の結語。「mâts d'orgueil（傲慢のマスト）」・「grandes voiles（大きな帆）」・「phares（灯台）」という航海比喩の連鎖が詩集の「Insatiablement」的な傲慢の積極的航海の失敗として描かれる。「Leurs bras immensément en feu（果てしなく炎に燃えるその腕）」──灯台を「腕」として擬人化する。「les feux sont morts（炎は死んだ）！」──「Londres」の「les feux / Mourir（炎が死んでいく）」の最終連（§13）への伏線。ダッシュ「—」による中断がこの宣言の突然性を強調する。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Blafards et seuls, les malades hiératiques,\nPareils à de vieux loups mornes, fixent la mort ;\nIls ont mâché la vie et ses jours identiques\nEt ses mois et ses ans et leur haine et leur sort.",
+      "body": "§3と完全一致する反復連（refrein）。独白（§4–8）を囲む二重の額縁の第二支柱として機能する。反復によって独白の激情を外部から冷却し、病者たちの根本的状況（死を見つめる・同一の日々を噛み砕く）が変化していないことを確認する。ローデンバック「夢想への囚われ（Les Femmes tristes）」のルフラン的反復構造との詩学的照応。反復そのものが「ses jours identiques（同一の日々）」という詩の主題を形式として実演する。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et maintenant, leur corps ? — cage d'os pour les fièvres\nEt leurs ongles de bois heurtant leurs fronts ardents,\nEt leur hargne des yeux et leur minceur de lèvres\nEt comme un sable amer, toujours, entre leurs dents.",
+      "body": "「今、彼らの身体は？──熱のための骨の檻（cage d'os pour les fièvres）」──修辞疑問とダッシュによる転換。「cage d'os（骨の檻）」という身体の比喩は最も強度の高い詩集内のイメージの一つ。「ongles de bois（木のような爪）」──爪の乾燥・脆弱化という身体的衰弱の細部。「hargne des yeux（目の攻撃性）」──「hargne」は「唸り声・攻撃性」で、目の表情に使われる擬人化。「comme un sable amer, toujours, entre leurs dents（まるで苦い砂のように、いつも、歯の間に）」──「sable amer（苦い砂）」という触覚・味覚の共感覚的比喩。身体の不快感の恒常性を「toujours（いつも）」が強調する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et le regret les prend et le désir posthume :\n« De s'en aller revivre en un monde nouveau\n« Dont le couchant, pareil à un trépied qui fume,\n« Dresse le Dieu d'ébène et d'os en leur cerveau.",
+      "body": "「後悔と死後の欲望（désir posthume）が彼らを捕らえる：新しい世界に行って生き直すための」──「désir posthume（死後の欲望）」という逆説的語結合──死後に欲望するという時制的不可能。「Dieu d'ébène et d'os（黒檀と骨の神）」──「煙る三脚台（trépied qui fume）」という古代の神託のイメージ（デルフォイの三脚台）と「黒檀と骨」という素材の神が病者の脳の中に立てられる。「Le Gel」の「grand Dieu soudain, glacial et splendide（突然の、氷のように美しい偉大な神）」が宇宙的な神の出現であるのに対し、ここでの神は病者が自らの脳内に「Dresse（立てる）」主観的な神。",
+      "targetId": "verhaeren_le_gel",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "« Là-bas, en des lointains d'hystérie et de flamme\n« Et d'écume livide et de rauque fureur,\n« Où l'on peut abolir férocement son âme,\n« Férocement joyeux, son âme et tout son cœur. »",
+      "body": "「凶暴に自らの魂を廃棄できる（abolir férocement son âme）、凶暴に喜ばしく（Férocement joyeux）」──「abolir（廃棄する・廃止する）」という動詞が「魂」に使われる。魂の否定・廃棄という命題はヴェイユ「Décréation（脱創造）」の「被造物から非被造物へ」の逆ベクトルとして機能する──ヴェイユでは脱創造は神への接近であるのに対し、「Les Malades」では魂の廃棄は「ヒステリーと炎」の彼方への逃走。「Férocement joyeux（凶暴に喜ばしく）」──矛盾語法。詩集内で「傲慢」・「意志」・「狂気」の三主題が凶暴な喜びとして収束する第2独白部の頂点。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Blafards et seuls, ils sont les tragiques malades\nAigus de tous leurs maux. Ils regardent les feux\nMourir parmi la ville et les pâles façades\nComme de grands linceuils venir au devant d'eux.",
+      "body": "詩の結末連。§1との三箇所の変化が三重の意味的転換を刻む：「sceptiques malades（懐疑主義の病者たち）」→「tragiques malades（悲劇の病者たち）」・「Ils regardent le soir / Se faire（夕が生まれるのを見ている）」→「Ils regardent les feux / Mourir（炎が死んでいくのを見ている）」・「grandir les façades（ファサードが大きくなる）」→「les pâles façades / Comme de grands linceuils venir au devant d'eux（蒼白なファサードが大きな屍衣のように向かってくる）」。冒頭で「夕が生まれ」たものが結末では「炎が死んでいく」に転換し、ファサードが「屍衣（linceuils）」として病者に向かってくるという死の接近で閉じる。詩全体を貫く「夕→死」という時間軸の完結。"
+    }
+  ]
+}
