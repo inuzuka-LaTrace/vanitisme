@@ -1,0 +1,130 @@
+{
+  "id": "verhaeren_priere",
+  "title": "Prière",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 89–90. 底本: fr.wikisource.org/wiki/Prière_(Verhaeren_-_Les_Débacles)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の20行詩（p.89–90）。第二セクション「LES DÉBÂCLES（崩壊たち）」所収、「Éperdument（狂おしく）」の後、「Vers l'enfance（子供時代へ）」の前に配置される。アレクサンドラン20行、5連×4行、韻型 ABBA / CDDC / EFFE / GHGH / IJIJ（第1・2・3連が包含韻、第4・5連が交差韻）。タイトル「祈り（Prière）」は神・聖母・聖者への伝統的な宗教的祈りではなく、「真夜中（Minuit）」という宇宙的・形而上的な抽象概念への呼びかけとして展開する。「Minuit」は第1連・第2連・第3連・第5連の各連に現れ、詩全体の呼格的中心を形成する。第1連：凍りつく月・鋼鉄の剣・銀の刃という武器的イメージの連鎖の後、「沈黙の刃として大気の中に屹立する真夜中」への呼びかけ。第2連：詩人は「沈黙の刃のために心を」・「屍布と墓のために熱情を」・「松明のために砕かれた大きな夢を」差し出す。第3連：空虚な腕が青銅の助言を懇願し、「魂の喪の上に剛直で冷たい真夜中」と呼びかける。第4連：かつて絶望の中で同じ真夜中を見つめた「死んだ眼差し（regards défunts）」の回想。第5連：「私の嘆きから何も残らないだろう」・「すべての人は自らの虚無に向かって働く（Et tout homme travaille à son inanité）」というコヘレト的命題の後、「真夜中よ、私の涙・声・そして私の畏怖を凍らせよ」という逆説的祈願で閉じる。詩集内で「Le Gel」の「glacial（氷のように冷たい）」神と、「Ressouvenir」の「ô mon âme des soirs」という夕べへの呼びかけが「Prière」において「真夜中」への祈りとして収束する。",
+  "keywords": [
+    "祈り",
+    "真夜中",
+    "Minuit",
+    "沈黙",
+    "剣",
+    "刃",
+    "屍布",
+    "虚無",
+    "inanité",
+    "畏怖",
+    "凍結",
+    "regards défunts",
+    "崩壊",
+    "LES DÉBÂCLES",
+    "呼格",
+    "祈願"
+  ],
+  "relatedTexts": [
+    "verhaeren_le_gel",
+    "verhaeren_ressouvenir",
+    "verhaeren_les_armes_du_soir",
+    "verhaeren_a_tenebres",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "rodenbach_la_priere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Lunes du gel dans les grottes de l'or nocturne,\nGlaives d'acier, lames d'argent, pointes de fer,\nMinuit silencieux, qui t'ériges dans l'air\nComme une volonté dardante et taciturne,",
+      "provisionalTranslation": "夜の金の洞窟の中の凍りつく月々、\n鋼鉄の剣、銀の刃、鉄の穂先、\n沈黙した真夜中よ、大気の中に屹立する、\n刺し貫き無口な意志のように、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Voici mon cœur pour les couteaux de tes silences,\nEt mes ardeurs pour tes linceuils et tes tombeaux,\nMinuit clair et lointain, voici pour tes flambeaux\nMon grand rêve brisé comme un combat de lances.",
+      "provisionalTranslation": "ここに私の心を差し出す、汝の沈黙の刃のために、\nそして私の熱情を、汝の屍布と墓のために、\n澄んで遠い真夜中よ、ここに汝の松明のために\n私の大きな夢を、槍の戦いのように砕かれた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Vers les immensités, mes yeux lèvent leur flamme,\nEt mes bras éreintés de l'enlacement vain,\nVides, sont implorants de ton conseil d'airain,\nMinuit rigide et froid sur le deuil de mon âme !",
+      "provisionalTranslation": "果てしない空へ向かって、私の目はその炎を持ち上げる、\nそして虚ろな抱擁に疲れ果てた私の腕は、\n空虚で、汝の青銅の助言を懇願する、\n私の魂の喪の上に剛直で冷たい真夜中よ！"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Que de regards défunts, que de regards, naguère,\nT'ont, eux aussi, fixé pendant leur désespoir,\nObstinément et longuement fixé, le soir,\nQuand l'hiver bâtissait sa maison mortuaire.",
+      "provisionalTranslation": "いかに多くの死んだ眼差しが、いかに多くの眼差しが、かつて、\n汝を、彼らもまた、絶望の中で見つめてきたことか、\n執拗に長く見つめてきた、夕に、\n冬がその死の家を建てていたとき。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Il ne restera rien de ce qui fut ma plainte\nEt tout homme travaille à son inanité ;\nMinuit tranquille et mort, de son éternité\nGèle, en mon cœur, mes pleurs, ma voix, et toi, ma crainte !",
+      "provisionalTranslation": "私の嘆きであったものから何も残らないだろう、\nそしてすべての人は自らの虚無に向かって働く；\n穏やかで死んだ真夜中よ、その永遠から\n凍らせよ、私の心の中に、私の涙を、私の声を、そして汝よ、私の畏怖を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Lunes du gel dans les grottes de l'or nocturne,\nGlaives d'acier, lames d'argent, pointes de fer,\nMinuit silencieux, qui t'ériges dans l'air\nComme une volonté dardante et taciturne,",
+      "body": "アレクサンドラン（12音節）20行、5連×4行。韻型：第1–3連 ABBA（包含韻 embrassée）/ 第4–5連 ABAB（交差韻 croisée）。「Minuit（真夜中）」が第1連（§1 v.3）・第2連（§2 v.7）・第3連（§3 v.12）・第5連（§5 v.19）の各連に現れ、詩全体の呼格的中心を形成する── 4回の「Minuit」呼格が「Ressouvenir」の「Appels de cloche à cloche（鐘から鐘への呼びかけ）」の4回反復と構造的に照応する。「Glaives d'acier, lames d'argent, pointes de fer（鋼鉄の剣、銀の刃、鉄の穂先）」──三種の武器金属の列挙。「Les Armes du soir」の「épée … armure（剣・鎧）」・「Le Gel」の「les astres pointent leur lance（星々は槍の穂先を向ける）」という詩集内の武器金属系列の最後の変奏。「volonté dardante et taciturne（刺し貫き無口な意志）」──「dardant（飛び去る・刺し貫く）」という現在分詞が意志の方向性を示す。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Minuit silencieux, qui t'ériges dans l'air\nComme une volonté dardante et taciturne,",
+      "body": "「沈黙した真夜中よ、大気の中に屹立する、刺し貫き無口な意志のように」──「真夜中」が「意志（volonté）」として擬人化される。「taciturne（無口な・寡黙な）」という形容が「沈黙（silencieux）」と連動し、真夜中の不応答性を定義する。「Le Gel」の「infiniment inaccessible / À la prière humaine（無限に人間の祈りには手の届かない）」という宇宙的不応答性が、「Prière」ではその不応答性へ向かって祈るという逆説として構造化される──応答しないものへの祈りという行為自体がヴェルハーレン的信仰論の核心。",
+      "targetId": "verhaeren_le_gel",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Voici mon cœur pour les couteaux de tes silences,\nEt mes ardeurs pour tes linceuils et tes tombeaux,\nMinuit clair et lointain, voici pour tes flambeaux\nMon grand rêve brisé comme un combat de lances.",
+      "body": "「ここに私の心を差し出す……屍布と墓のために熱情を……砕かれた大きな夢を」──「Voici（ここに）」という指示詞による奉納的身振りの反復。詩人は「心」・「熱情」・「砕かれた夢」という三つを真夜中に差し出す。「linceuils et tes tombeaux（屍布と墓）」──「Les Malades」の「Comme de grands linceuils venir au devant d'eux（大きな屍衣のように向かってくる）」の屍布が、ここでは自ら差し出される供物として反転される。「Mon grand rêve brisé comme un combat de lances（槍の戦いのように砕かれた大きな夢）」──「Les Malades」§8の「Cassés, les mâts d'orgueil（折れた、傲慢のマストたちよ）」という夢・傲慢の崩壊と照応する。",
+      "targetId": "verhaeren_les_malades",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et mes bras éreintés de l'enlacement vain,\nVides, sont implorants de ton conseil d'airain,\nMinuit rigide et froid sur le deuil de mon âme !",
+      "body": "「虚ろな抱擁に疲れ果てた私の腕は、空虚で、汝の青銅の助言を懇願する」──「enlacement vain（虚ろな抱擁）」は愛・連帯の失敗を示す。「vain（虚ろ・虚無）」という語がコーパス全体の vanitas 主題と接続する。「conseil d'airain（青銅の助言）」──「airain（青銅）」は古代の法律・格言を刻んだ素材。「Ressouvenir」の「Larmes de bronze（青銅の涙）」と同じ青銅が、ここでは「助言」の素材として登場する。「le deuil de mon âme（私の魂の喪）」──「À Ténèbres」の「catafalque d'or（黄金の棺台）」が宇宙的な喪であるのに対し、ここでは「魂の喪」という内面化された喪。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Que de regards défunts, que de regards, naguère,\nT'ont, eux aussi, fixé pendant leur désespoir,\nObstinément et longuement fixé, le soir,\nQuand l'hiver bâtissait sa maison mortuaire.",
+      "body": "「いかに多くの死んだ眼差しが、かつて、汝を絶望の中で見つめてきたことか（regards défunts … fixé pendant leur désespoir）」──「regards défunts（死んだ眼差し）」は「Attirances」の「yeux défunts de leur visage d'âme（魂の顔の死んだ目）」と同語。詩人を「Le Gel」・「Ressouvenir」の中で真夜中を見つめてきた無数の死者たちの系列に位置づける。「maison mortuaire（死の家）」──冬が「死の家を建てる」という擬人化。「Le Gel」の「immortel hiver（不死の冬）」が自らの家を建てる建築的存在として変奏される。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」がここでは「死んだ眼差し」の記憶として逆照射される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Et tout homme travaille à son inanité ;",
+      "body": "「すべての人は自らの虚無に向かって働く（Et tout homme travaille à son inanité）」──詩集全体で最もコヘレト的な命題の一つ。「inanité（虚無・空虚・無意味）」はラテン語 inanitas（空虚）由来。マラルメ「蒼空（L'Azur）」の「l'Idéal cruel et l'Inanité（残酷な理想と虚無）」でも同語が使われ、詩人の創造行為と虚無の対決として機能する。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」・v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という「労苦の無効性」命題の詩的変奏。「travaille à son inanité（虚無に向かって働く）」──「働く（travailler）」という動詞が「虚無（inanité）」を目的語に取る逆説。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Minuit tranquille et mort, de son éternité\nGèle, en mon cœur, mes pleurs, ma voix, et toi, ma crainte !",
+      "body": "「穏やかで死んだ真夜中よ、その永遠から凍らせよ、私の心の中に、私の涙を、私の声を、そして汝よ、私の畏怖を！（Gèle … mes pleurs, ma voix, et toi, ma crainte）」──詩の結語。「Gèle（凍らせよ）」という命令法が「Le Gel」の「geler（凍る）」・「fige（凝固させる）」という凍結動詞の系列を閉じる。「mes pleurs, ma voix, et toi, ma crainte（私の涙を、私の声を、そして汝よ、私の畏怖を）」──「ma crainte（私の畏怖）」が詩全体の最後の語。「畏怖（crainte）」もまた凍らせよという命令は、感情そのものの消滅を祈願する──「Les Malades」§12の「abolir férocement son âme（凶暴に自らの魂を廃棄する）」の主題の、凍結による静寂な変奏。「Le Gel」の「la crainte saisit d'un immortel hiver（不死の冬への畏怖が掴みかかる）」との環状照応──「Le Gel」では畏怖が詩人を捕らえ、「Prière」では詩人が畏怖の凍結を真夜中に祈願する。",
+      "targetId": "verhaeren_le_gel",
+      "targetParagraphId": 4
+    }
+  ]
+}
