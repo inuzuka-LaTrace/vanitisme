@@ -1,0 +1,111 @@
+{
+  "id": "verhaeren_le_gel",
+  "title": "Le Gel",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 37–38. 底本: fr.wikisource.org/wiki/Le_Gel_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の16行詩（p.37–38）。「Ressouvenir（追憶）」の後、「Insatiablement（飽くことなく）」の直前に配置される。アレクサンドラン16行、4連×4行、韻型 ABAB / CDCD / EFEF / GHGH。タイトル「凍結（Le Gel）」は詩のテーマを一語で収束させる──星の冷たさ・霜の支配・不変の秩序・「不死の冬（immortel hiver）」という形而上的な凍結として展開する。構成：第1連──「超自然的で抽象的な大きな澄んだ空」が現れ、永遠を鏡に映す。第2連──霜が銀と金の無限・風・浜・沈黙・平原・青い遠方を締め付ける。第3連──森・海・空の沈黙と「本質的秩序」の不変性。第4連──「完全な不変性（Immutabilité totale）」という断言から、鉄と万力が心を締め付け、「不死の冬」と「突然、氷のように美しい偉大な神（grand Dieu soudain, glacial et splendide）」への畏怖で閉じる。最終行の「grand Dieu soudain, glacial et splendide（突然、氷のように美しい偉大な神）」は詩集全体で最も神学的に問題含みな行の一つ──神が「氷のように冷たく（glacial）」かつ「壮麗で（splendide）」あるという逆説的形容は、ヴェイユの「affliction（苦悩）」論・コヘレト「nihil sub sole novum」との深い照応を持つ。「Insatiablement」の傲慢な意志とは対照的に、本詩は宇宙的秩序の前での人間の無力と畏怖として詩集内に位置する。",
+  "keywords": [
+    "凍結",
+    "霜",
+    "不変性",
+    "超自然",
+    "抽象",
+    "神",
+    "畏怖",
+    "immortel hiver",
+    "glacial",
+    "immutabilité",
+    "平原",
+    "沈黙",
+    "鉄",
+    "万力",
+    "grand Dieu",
+    "象徴主義"
+  ],
+  "relatedTexts": [
+    "verhaeren_insatiablement",
+    "verhaeren_ressouvenir",
+    "verhaeren_a_tenebres",
+    "weil_necessite",
+    "hieronymus_ecclesiastes_1",
+    "trakl_ein_winterabend"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ce soir, un grand ciel clair, surnaturel, abstrait,\nFroid d'étoiles, infiniment inaccessible\nÀ la prière humaine, un grand ciel clair paraît.\nIl fige en son miroir l'éternité visible.",
+      "provisionalTranslation": "今宵、大きな澄んだ空、超自然的で、抽象的な、\n星の冷たさ、無限に人間の祈りには\n手の届かない、大きな澄んだ空が現れる。\nそれは鏡の中に、目に見える永遠を凝固させる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Le gel étreint cet infini d'argent et d'or,\nLe gel étreint, les vents, la grève et le silence\nEt les plaines et les plaines ; le gel qui mord\nLes lointains bleus, où les astres pointent leur lance.",
+      "provisionalTranslation": "霜がこの銀と金の無限を締め付ける、\n霜が締め付ける、風を、浜を、沈黙を、\nそして平原を、平原を；かむ霜が\n青い遠方を、そこで星々は槍の穂先を向ける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Silencieux, les bois, la mer et ce grand ciel\nEt sa lueur immobile et dardante !\nEt rien qui remuera cet ordre essentiel\nEt ce règne de neige acerbe et corrodante.",
+      "provisionalTranslation": "沈黙のなかに、森、海、そしてこの大きな空、\nそしてその静止した刺すような光輝！\nそしてこの本質的な秩序を揺るがすものは何もなく、\nこの鋭く腐食する雪の支配を。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Immutabilité totale. On sent du fer\nEt des étaux serrer son cœur morne et candide ;\nEt la crainte saisit d'un immortel hiver\nEt d'un grand Dieu soudain, glacial et splendide.",
+      "provisionalTranslation": "完全な不変性。鉄と\n万力が陰鬱で純朴な心を締め付けるのを感じる；\nそして畏怖が不死の冬への、\nそして突然の、氷のように美しい偉大な神への畏怖が掴みかかる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ce soir, un grand ciel clair, surnaturel, abstrait,\nFroid d'étoiles, infiniment inaccessible\nÀ la prière humaine, un grand ciel clair paraît.\nIl fige en son miroir l'éternité visible.",
+      "body": "アレクサンドラン（12音節）16行、4連×4行、韻型 ABAB / CDCD / EFEF / GHGH（交差韻、各連独立）。「un grand ciel clair, surnaturel, abstrait（大きな澄んだ空、超自然的で、抽象的な）」──形容詞の三重列挙が空の性質を段階的に抽象化する。「grand ciel clair」という句が第1連内で2度反復（v.1・v.3）される内部 epiphora。「Il fige en son miroir l'éternité visible（鏡の中に目に見える永遠を凝固させる）」──「figer（凝固させる）」という動詞が詩全体の凍結テーマを第1連で確立する。「L'éternité visible（目に見える永遠）」という逆説──永遠は本来不可視だが、霜の鏡が永遠を「見える形」にするという形而上的命題。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Froid d'étoiles, infiniment inaccessible\nÀ la prière humaine,",
+      "body": "「無限に人間の祈りには手の届かない（infiniment inaccessible à la prière humaine）」──神・宇宙の人間的訴えへの無応答性。「inaccessible à la prière（祈りに手の届かない）」という神学的定式がヴェルハーレン初期象徴主義の神観を示す──神は存在するが、人間の祈りが届かない領域にある。コヘレト第1章v.3「Quid habet amplius homo de universo labore suo（太陽の下で人が営むすべての労苦から、人は何を得るのか）」の「労苦の無効性」がここでは「祈りの無効性」として変奏される。ヴェイユ「Nécessité（必然）」の「神は必然性を通じて間接的に働く」という命題への詩的対話として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Le gel étreint cet infini d'argent et d'or,\nLe gel étreint, les vents, la grève et le silence\nEt les plaines et les plaines ; le gel qui mord",
+      "body": "「Le gel étreint（霜が締め付ける）」の冒頭2行への反復──連内 anaphora。「Le gel étreint … / Le gel étreint … / le gel qui mord」という三重の主語反復が霜の遍在的支配を文体的に実演する。「Et les plaines et les plaines（平原を、平原を）」──同語反復（geminatio）による平原の無限の拡張感。「Ressouvenir」の「Appels de cloche à cloche（鐘から鐘への呼びかけ）」の anaphora と対照的──あちらは聴覚的呼びかけの反復、こちらは霜という力の反復。「les astres pointent leur lance（星々は槍の穂先を向ける）」──星を槍として戦闘的に描く。「Les Armes du soir」の「剣と鎧」の武器比喩系列の継続。",
+      "targetId": "verhaeren_les_armes_du_soir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et rien qui remuera cet ordre essentiel\nEt ce règne de neige acerbe et corrodante.",
+      "body": "「この本質的な秩序を揺るがすものは何もない（rien qui remuera cet ordre essentiel）」──「ordre essentiel（本質的秩序）」という哲学的概念が霜・雪の支配と重ねられる。「acerbe（鋭い・辛辣な）」と「corrodante（腐食する）」という形容詞の組み合わせ──冬の雪が「腐食する」という化学的比喩。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的不変性が、ここでは「ordre essentiel（本質的秩序）」という語で詩的に変奏される。トラークル「冬の夕べ（Ein Winterabend）」の「雪が窓に降りかかる（Wenn es Schnee ans Fenster fällt）」という冬の静謐との詩学的照応。",
+      "targetId": "trakl_ein_winterabend",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Immutabilité totale. On sent du fer\nEt des étaux serrer son cœur morne et candide ;",
+      "body": "「完全な不変性（Immutabilité totale）」──詩全体の主題を二語で断言する句読点付きの孤立文。名詞句のみによる文は詩の中で唯一の「定義的断言」として機能する。「des étaux serrer son cœur（万力が心を締め付ける）」──「étau（万力）」という工具が心に使われる身体的比喩。霜が宇宙を「締め付ける（étreint）」という第2連の動詞が、ここでは万力が「心を締め付ける（serrer）」として人間の内面へと移行する。「morne et candide（陰鬱で純朴な）」──「candide（純朴・白い）」はヴォルテール的な無垢を示すが、ここでは霜の白さと心の無防備さが重なる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Et la crainte saisit d'un immortel hiver\nEt d'un grand Dieu soudain, glacial et splendide.",
+      "body": "「不死の冬（immortel hiver）」と「突然の、氷のように美しい偉大な神（grand Dieu soudain, glacial et splendide）」──詩集全体で最も神学的に問題含みな結末行。「immortel（不死の）」は冬に適用され、季節の循環を超えた形而上的冬として永続化される。「grand Dieu soudain（突然の偉大な神）」──「soudain（突然の）」という形容が神の出現の予期せぬ性格を示す。「glacial（氷のように冷たい）」と「splendide（壮麗な）」という逆説的形容の並置──神が冷酷でありながら壮麗であるという矛盾が詩の核心。ヴェイユ「afflictio（苦悩）」論における「神の美しさと残酷さの共存」との深い照応。「Attirances」のv.9「Un départ de lumière inattendu vers Dieu（神へと向かう光の予期せぬ出発）」の神が解放的であるのに対し、「Le Gel」の神は人間を凍結させる力として現れる。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    }
+  ]
+}
