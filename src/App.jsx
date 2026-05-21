@@ -652,8 +652,8 @@ export default function App() {
       }
     };
 
-    // intertextual：対象テキスト・段落データを取得
-    const targetText = ann.type === 'intertextual' && ann.targetId ? texts[ann.targetId] : null;
+    // targetId解決：intertextual以外の注釈タイプでも targetId があれば対象テキストを取得
+    const targetText = ann.targetId ? texts[ann.targetId] : null;
     const targetParas = targetText
       ? ann.targetParagraphId
         ? targetText.paragraphs.filter(p => p.id === ann.targetParagraphId)
@@ -681,6 +681,22 @@ export default function App() {
 
         {/* 注釈本文 */}
         <p className="leading-relaxed">{ann.body}</p>
+
+        {/* intertextual以外でtargetIdがある場合：テキスト遷移リンクのみ */}
+        {ann.type !== 'intertextual' && targetText && (
+          <div className="mt-2">
+            <button
+              onClick={(e) => { e.stopPropagation(); handleTextChange(ann.targetId); }}
+              className={`flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity text-xs ${darkMode ? 'text-amber-400/80' : 'text-amber-700'}`}
+            >
+              → {targetText.title}
+              <span className="opacity-60">({targetText.author})</span>
+              {ann.targetParagraphId && (
+                <span className={`ml-1 font-mono opacity-50`}>§{ann.targetParagraphId}</span>
+              )}
+            </button>
+          </div>
+        )}
 
         {/* intertextual：展開ボタン＋インラインプレビュー */}
         {ann.type === 'intertextual' && targetText && (
@@ -2108,6 +2124,111 @@ export default function App() {
             );
           })}
         </div>}
+
+        {/* ─── 関連テキスト ──────────────────────────── */}
+        {!crossMode && currentText && (() => {
+          // relatedTexts + annotations の targetId を統合・重複排除
+          const fromRelated = (currentText.relatedTexts || []);
+          // annotations から targetId を収集し、どの注釈由来かも記録
+          const fromAnnotations = {};
+          (currentText.annotations || []).forEach(ann => {
+            if (ann.targetId && ann.targetId !== selectedText) {
+              if (!fromAnnotations[ann.targetId]) fromAnnotations[ann.targetId] = [];
+              fromAnnotations[ann.targetId].push({ paraId: ann.paragraphId, type: ann.type, anchor: ann.anchor });
+            }
+          });
+          // 全IDを重複排除（現在のテキスト自身は除外）
+          const allIds = [...new Set([
+            ...fromRelated,
+            ...Object.keys(fromAnnotations),
+          ])].filter(id => id !== selectedText && texts[id]);
+
+          if (allIds.length === 0) return null;
+
+          const d = darkMode;
+          const relBg     = d ? 'bg-zinc-900 border-zinc-800'       : 'bg-[#ede4cc] border-[#c8b480]';
+          const relHead   = d ? 'text-[#5a4a38]'                    : 'text-[#a08560]';
+          const relCard   = d ? 'bg-zinc-800/50 border-zinc-700 hover:bg-zinc-800' : 'bg-[#e8dfc0] border-[#c8b480] hover:bg-[#e0d4b0]';
+          const relTitle  = d ? 'text-[#ddd0b3]'                    : 'text-[#1a1208]';
+          const relSub    = d ? 'text-[#8a7a5a]'                    : 'text-[#6b5a3a]';
+          const relTag    = d ? 'bg-zinc-700/60 text-[#8a7a5a] border-zinc-600' : 'bg-[#d4c090]/60 text-[#6b5a3a] border-[#c8b480]';
+          const relAnnTag = d ? 'bg-amber-900/30 text-amber-400/80 border-amber-800/50' : 'bg-amber-50 text-amber-700 border-amber-200';
+
+          return (
+            <div className={`rounded-sm border px-4 pt-4 pb-5 mb-6 ${relBg}`}>
+              {/* ヘッダー */}
+              <div className="flex items-center gap-2 mb-3">
+                <span className={`text-[10px] tracking-[0.25em] uppercase select-none ${relHead}`}
+                  style={{ fontFamily: '"Cinzel", serif' }}>
+                  Related Texts
+                </span>
+                <div className={`flex-1 h-px ${d ? 'bg-zinc-800' : 'bg-[#c8b480]/60'}`} />
+                <span className={`text-[10px] font-mono ${relHead}`}>{allIds.length}</span>
+              </div>
+
+              {/* カードグリッド */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                {allIds.map(id => {
+                  const t = texts[id];
+                  const annRefs = fromAnnotations[id] || [];
+                  // 最初の段落冒頭テキスト
+                  const preview = t.paragraphs?.[0]
+                    ? getOriginalText(t.paragraphs[0]).split('\n')[0].slice(0, 52)
+                    : '';
+
+                  return (
+                    <button
+                      key={id}
+                      onClick={() => handleTextChange(id)}
+                      className={`text-left rounded-sm border px-3 py-2.5 transition-colors ${relCard}`}
+                    >
+                      {/* 著者・タイトル */}
+                      <div className="flex items-start justify-between gap-2 mb-1">
+                        <div className="min-w-0">
+                          <span className={`text-xs font-medium leading-snug block truncate ${relTitle}`}>
+                            {t.title}
+                          </span>
+                          <span className={`text-[10px] ${relSub}`}>
+                            {t.author}
+                            {t.year && <span className="ml-1.5 opacity-60">{t.year}</span>}
+                          </span>
+                        </div>
+                        {/* 言語バッジ */}
+                        <span className={`shrink-0 text-[9px] font-mono px-1.5 py-0.5 rounded border uppercase tracking-wider ${relTag}`}>
+                          {(t.originalLang || '').split('-')[0]}
+                        </span>
+                      </div>
+
+                      {/* 冒頭プレビュー */}
+                      {preview && (
+                        <p translate="no" className={`notranslate text-[10px] font-serif leading-relaxed truncate opacity-50 ${relTitle}`}>
+                          {preview}{preview.length >= 52 ? '…' : ''}
+                        </p>
+                      )}
+
+                      {/* 注釈由来タグ */}
+                      {annRefs.length > 0 && (
+                        <div className="flex flex-wrap gap-1 mt-1.5">
+                          {annRefs.slice(0, 3).map((ref, i) => (
+                            <span key={i} className={`text-[9px] px-1.5 py-0.5 rounded border ${relAnnTag}`}>
+                              §{ref.paraId} {ref.type}
+                            </span>
+                          ))}
+                          {annRefs.length > 3 && (
+                            <span className={`text-[9px] px-1.5 py-0.5 rounded border ${relAnnTag}`}>
+                              +{annRefs.length - 3}
+                            </span>
+                          )}
+                        </div>
+                      )}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })()}
+
         </>)}
 
         {/* フッター */}
@@ -2173,17 +2294,32 @@ const TocDrawer = ({
 }) => {
     const langMap = { 'fr': 'fr-FR', 'de': 'de-DE', 'en': 'en-GB', 'ru': 'ru-RU', 'it': 'it-IT', 'es': 'es-ES', 'la': 'la-LA', 'gr': 'gr-GR' };
 
-    // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文） ──────────
+    // ── フィルタリング（言語 + 検索：タイトル/作家/年/本文/カテゴリ） ──────────
     const allTextsArr = Object.values(texts);
+
+    // CATEGORIES からカテゴリID→日本語ラベルのマップを構築
+    // 配列形式 [{id, label, ...}] とオブジェクト形式 {id: label} の両方に対応
+    const catLabelMap = (() => {
+      if (!CATEGORIES) return {};
+      if (Array.isArray(CATEGORIES)) {
+        return Object.fromEntries(CATEGORIES.map(c => [c.id ?? c.key ?? c.value, c.label ?? c.name ?? '']));
+      }
+      return CATEGORIES; // すでに {id: label} 形式
+    })();
+
     const filtered = allTextsArr.filter(t => {
       if (tocLangFilter !== 'all' && t.originalLang !== langMap[tocLangFilter]) return false;
       if (!tocSearch.trim()) return true;
       const q = tocSearch.toLowerCase();
+      // カテゴリの日本語ラベルを取得
+      const catLabel = (catLabelMap[t.category] || '').toLowerCase();
       const inMeta =
         t.title?.toLowerCase().includes(q) ||
         t.author?.toLowerCase().includes(q) ||
         t.year?.toString().includes(q) ||
-        (t.keywords || []).some(k => k.toLowerCase().includes(q));
+        (t.keywords || []).some(k => k.toLowerCase().includes(q)) ||
+        t.category?.toLowerCase().includes(q) ||
+        catLabel.includes(q);
       const inBody = (t.paragraphs || []).some(p =>
         getOriginalText(p).toLowerCase().includes(q) ||
         getTranslation(p).toLowerCase().includes(q)
