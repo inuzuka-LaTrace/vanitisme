@@ -1,0 +1,117 @@
+{
+  "id": "verhaeren_ressouvenir",
+  "title": "Ressouvenir",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 35–36. 底本: fr.wikisource.org/wiki/Ressouvenir_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の20行詩（p.35–36）。「Illusion（幻想）」の後、「Le Gel（凍結）」の前に配置される。4連×5行の変則韻律：各連は12-8-8-8-12音節の組み合わせ（長短長短長、ABBABの韻型変奏）。詩全体が「Appels de cloche à cloche（鐘から鐘への呼びかけ）」という句の anaphora（冒頭反復）によって構成される──第1連・第2連・第3連・第4連それぞれの冒頭にこの句が置かれる。第1連・最終行は「ô mon âme des soirs（夕べの私の魂よ）」の呼格で開閉する環状構造。タイトル「Ressouvenir（追憶・再び蘇る記憶）」は単なる「souvenir（記憶）」でなく「re-souvenir」という再帰・強化の接頭辞を持つ。鐘の音が大聖堂・塔・地下礼拝堂に反響し、黒い路地を喪服の女性たちが巡礼的に登り、青銅の涙が死者の周忌に向けて泣き叫ぶという四場面が展開する。詩集内で「À Ténèbres」・「Les Armes du soir」・「Attirances」が夕暮れと死を視覚的・概念的に展開するのに対し、本詩は鐘という聴覚的モチーフと記憶という時間軸を軸に展開する。ローデンバック「Du silence」・「La Prière」との親縁性が高い。",
+  "keywords": [
+    "鐘",
+    "追憶",
+    "大聖堂",
+    "塔",
+    "死者",
+    "魂",
+    "anaphora",
+    "冒頭反復",
+    "喪服の女性",
+    "ex-voto",
+    "カルヴァリー",
+    "青銅の涙",
+    "周忌",
+    "mélopée",
+    "Ressouvenir",
+    "夕べの魂"
+  ],
+  "relatedTexts": [
+    "verhaeren_a_tenebres",
+    "verhaeren_les_armes_du_soir",
+    "verhaeren_attirances",
+    "rodenbach_du_silence",
+    "rodenbach_la_priere",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "Appels de cloche à cloche, ô mon âme des soirs,\nEntends baller les mélopées,\nAutour des tours et des voussoirs,\nImmensément, entrefrappées,\nAutour des grandes tours, ô mon âme des soirs.",
+      "provisionalTranslation": "鐘から鐘への呼びかけ、ああ夕べの私の魂よ、\n聴け、メロペーアが揺れるのを、\n塔と要石のまわりに、\n果てしなく、互いに打ち合いながら、\n大きな塔のまわりに、ああ夕べの私の魂よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Appels de cloche à cloche, autour des cathédrales\nEt des piliers et des claveaux,\nRépons lointains aux lointains râles\nDes chapelles et des caveaux,\nOù sont broyés des morts, sous leurs plaques murales.",
+      "provisionalTranslation": "鐘から鐘への呼びかけ、大聖堂のまわりに、\n柱と拱石のまわりに、\n礼拝堂と地下礼拝堂の\n遠い苦悶の息へ遠い応唱として、\nそこでは死者たちが、壁の銘板のもとに、押し砕かれている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "Appels de cloche à cloche, au loin, par les mémoires,\nQuand des femmes, en longs manteaux,\nMontent, par des ruelles noires.\nMettre leurs cœurs en ex-votos,\nLeurs mornes cœurs — aux calvaires expiatoires.",
+      "provisionalTranslation": "鐘から鐘への呼びかけ、遠く、記憶を通じて、\n長いマントをまとった女性たちが、\n黒い路地を登っていくとき、\n彼女たちの心を奉納物として捧げるために、\n彼女たちの陰鬱な心を──贖罪のカルヴァリーへ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "Appels de cloche à cloche et sanglots vers les morts\nEt leur prochain anniversaire,\n— Larmes de bronze et pleurs d'accords —\nCriant malheur, criant misère,\nÔ mon âme des soirs, entends les morts hurler aux morts !",
+      "provisionalTranslation": "鐘から鐘への呼びかけ、そして死者たちへの嗚咽、\nそして彼らのやがて来る周忌へ、\n──青銅の涙と和音の泣き声──\n不幸を叫び、悲惨を叫びながら、\nああ夕べの私の魂よ、聴け、死者たちが死者たちに向かって絶叫するのを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Appels de cloche à cloche, ô mon âme des soirs,",
+      "body": "4連×5行、各連が「Appels de cloche à cloche（鐘から鐘への呼びかけ）」で始まる anaphora（冒頭句反復）構造。各連の音節数は 12-8-8-8-12 という長短長短長のパターン──外側の12音節行（アレクサンドラン）が内側の3本の8音節行（オクトシラブ）を包む構造。第1連と第4連最終行が「ô mon âme des soirs（夕べの私の魂よ）」の呼格を共有する環状構造。「baller les mélopées（メロペーアが揺れる）」──「baller」は「揺れる・ぶらぶら動く」の古語的動詞。「mélopée」はギリシア語 melopoiia 由来の「朗唱・単調な詠唱」。鐘の音の単調な反復を詩の形式（anaphora）と語彙（mélopée）が二重に体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Autour des tours et des voussoirs,\nImmensément, entrefrappées,\nAutour des grandes tours, ô mon âme des soirs.",
+      "body": "「塔と要石（voussoirs）のまわりに、果てしなく、互いに打ち合いながら（entrefrappées）」──「voussoirs」はアーチを構成する楔形石（拱頂石）の複数形。「entrefrappées（互いに打ち合って）」という複合動詞が鐘たちの相互的な響き合いを示す。「Autour des tours … / Autour des grandes tours」という句の内部反復──「tours」→「grandes tours」と形容詞を加えての拡張反復が、anaphora の連間反復と並行する微細な反復技法。ローデンバック「Du Silence」の大聖堂と鐘の沈黙との対比として機能する──ローデンバックが鐘の沈黙を聴くのに対し、ヴェルハーレンは鐘の音と死の叫びを聴く。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Répons lointains aux lointains râles\nDes chapelles et des caveaux,\nOù sont broyés des morts, sous leurs plaques murales.",
+      "body": "「礼拝堂と地下礼拝堂の遠い苦悶の息への遠い応唱（Répons lointains aux lointains râles）」──「Répons（応唱）」はカトリック典礼の「交唱（responsory）」。聖職者の詠唱に会衆が応答する典礼形式が、鐘と地下礼拝堂の「râles（苦悶の息・死の喘ぎ）」という応答関係として転用される。「râles」は医学的には「肺の雑音」で、臨死の喘ぎ声を意味する──地下礼拝堂そのものが苦悶の息を上げる擬人化。「broyés des morts（押し砕かれた死者たち）」──「broyer（砕く・磨り潰す）」という動詞が死者に使われる強烈な身体的比喩。「plaques murales（壁の銘板）」はカタコンベ・地下礼拝堂の埋葬銘板。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quand des femmes, en longs manteaux,\nMontent, par des ruelles noires.\nMettre leurs cœurs en ex-votos,\nLeurs mornes cœurs — aux calvaires expiatoires.",
+      "body": "「長いマントをまとった女性たちが黒い路地を登り、心を奉納物として捧げる──贖罪のカルヴァリーへ」──詩の中で唯一具体的な人間の行為が描かれる場面。「ex-votos（奉納物）」はラテン語 ex voto（誓いによって）由来の、病気快癒・危難脱出への感謝として聖堂に奉納する物品。「leurs cœurs en ex-votos（心を奉納物として）」──心臓そのものを奉納物とする比喩。「calvaires expiatoires（贖罪のカルヴァリー）」──カルヴァリー（Calvaire）はキリストの磔刑の丘であり、転じて屋外の十字架像・苦難を指す。「ruelles noires（黒い路地）」──「Attirances」の「éphèbes chrétiens couchés aux catacombes」の暗い死の空間と連続する。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Leurs mornes cœurs — aux calvaires expiatoires.",
+      "body": "「陰鬱な心（mornes cœurs）」──ローデンバック「La Prière」の祈りの中で黙す女性たちの心との詩学的照応。ヴェルレーヌ「月の光（Clair de lune）」の「leur âme est un paysage choisi（彼らの魂は選ばれた風景）」という魂の外在化が、ここでは「心を奉納物として捧げる」という行為として逆転される──ヴェルレーヌでは魂が風景に投影されるのに対し、ヴェルハーレンでは心が宗教的物件として捧げられる。",
+      "targetId": "verlaine_clair_de_lune",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "— Larmes de bronze et pleurs d'accords —",
+      "body": "「青銅の涙と和音の泣き声（Larmes de bronze et pleurs d'accords）」──ダッシュによって括られた括弧的挿入句。「Larmes de bronze（青銅の涙）」は鐘（青銅製）の音を涙として共感覚的に転換する。「pleurs d'accords（和音の泣き声）」──「accords」は音楽の和音。鐘の音響が涙・泣き声として感情的に表象される。この行が前後の「sanglots（嗚咽）」・「Criant（叫び）」・「hurler（絶叫）」という感情動詞の系列の中心に置かれ、感情の強度が漸増する構造を形成する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ô mon âme des soirs, entends les morts hurler aux morts !",
+      "body": "「ああ夕べの私の魂よ、聴け、死者たちが死者たちに向かって絶叫するのを！」──第1連冒頭「Appels de cloche à cloche, ô mon âme des soirs」と「ô mon âme des soirs」を共有する環状構造の閉鎖。しかし第1連では「Entends baller les mélopées（メロペーアが揺れるのを聴け）」という柔らかな命令であったのに対し、最終行では「entends les morts hurler aux morts（死者たちが死者たちに向かって絶叫するのを聴け）」という暴力的な命令へと転換する。「morts hurler aux morts（死者たちが死者たちに向かって絶叫する）」──死者たちが互いに向かって叫ぶという閉じた系。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の世代の循環が、ここでは死者同士の叫び合いという閉塞した反復として詩的に変奏される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
