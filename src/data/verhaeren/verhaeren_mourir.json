@@ -9,7 +9,7 @@
   "category": "verhaeren",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の29行詩。ABBA×7連＋単独の結尾1行というアレクサンドラン構成。前半5連（v.1–20）は秋の夕暮れ──紫・朱・緑・金の色彩が充溢した腐熟する秋の夕日、リンゴ・ブドウ・イチゴ・月という果実の系列、白樺の間に映る赤く巨大な月──を感覚的に描く。後半（v.21–29）は突然の転回：「Mourir ainsi, mon corps, mourir, serait le rêve！（こうして死ぬことが夢だろう！）」という死への呼びかけが3度繰り返され（v.21・25・29）、秋のように死ぬという願望が宣言される。死を腐敗・崩壊としてでなく感覚の頂点における果実の熟成として提示する──「巨大すぎる花のように」「われらの傲慢が何も苦しまぬように」という超人的な死のヴィジョン。前詩『修道士たち』の「orgueil（傲慢）」という語が再び結末近くに現れ、詩集全体を貫く誇りの主題が継続する。",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の29行詩。ABBA×7連＋単独の結尾1行というアレクサンドラン構成。前半5連（v.1–20）は秋の夕暮れ──紫・朱・緑・金の色彩が充溢した腐熟する秋の夕日、林檎・葡萄・苺・月という果実の系列、白樺の間に映る赤く巨大な月──を感覚的に描く。後半（v.21–29）は突然の転回：「Mourir ainsi, mon corps, mourir, serait le rêve！（こうして死ぬことが夢だろう！）」という死への呼びかけが3度繰り返され（v.21・25・29）、秋のように死ぬという願望が宣言される。死を腐敗・崩壊としてでなく感覚の頂点における果実の熟成として提示する──「巨大すぎる花のように」「われらの傲慢が何も苦しまぬように」という超人的な死のヴィジョン。前詩『修道士たち』の「orgueil（傲慢）」という語が再び結末近くに現れ、詩集全体を貫く誇りの主題が継続する。",
   "keywords": [
     "死", "秋", "腐熟", "果実", "月", "傲慢", "感覚の頂点",
     "Mourir", "紫・朱・金の色彩", "アレクサンドラン", "象徴主義",
@@ -32,13 +32,13 @@
       "id": 2,
       "verses": "v.5–8",
       "original": "Saison massive ! Et comme Octobre, avec paresse\nEt nonchaloir, se gonfle et meurt dans ce décor :\nPommes ! caillots de feu ; raisins ! chapelets d'or,\nQue le doigté tremblant des lumières caresse,",
-      "provisionalTranslation": "重厚な季節！そして十月が、怠惰と\n無関心をもって、この風景の中で膨らみ死んでいくように──\nリンゴ！火の血の塊、ブドウ！黄金の数珠、\n光の震える指使いが撫でる、"
+      "provisionalTranslation": "重厚な季節！そして十月が、怠惰と\n無関心をもって、この風景の中で膨らみ死んでいくように──\n林檎！火の血の塊、葡萄！黄金の数珠、\n光の震える指使いが撫でる、"
     },
     {
       "id": 3,
       "verses": "v.9–12",
       "original": "Une dernière fois, avant l'hiver. Le vol\nDes grands corbeaux ? il vient. Mais aujourd'hui, c'est l'heure\nEncor des feuillaisons de laque — et la meilleure.\nLes pousses des fraisiers ensanglantent le sol,",
-      "provisionalTranslation": "最後にもう一度、冬の前に。大きな烏の\n群れが飛ぶ？それは来る。しかし今日は、まだ\n漆塗りの葉叢の時──最良の時。\nイチゴの芽が大地を血に染める、"
+      "provisionalTranslation": "最後にもう一度、冬の前に。大きな烏の\n群れが飛ぶ？それは来る。しかし今日は、まだ\n漆塗りの葉叢の時──最良の時。\n苺の芽が大地を血に染める、"
     },
     {
       "id": 4,
@@ -82,19 +82,19 @@
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Pommes ! caillots de feu ; raisins ! chapelets d'or,",
-      "body": "「リンゴ！火の血の塊──ブドウ！黄金の数珠」──感嘆符と点描的な名詞の列挙による視覚的・触覚的な果実の描写。「caillots de feu（火の血の塊）」──血栓を意味する「caillot」が赤いリンゴに使われ、果実と血・生命力が融合する。「chapelets d'or（黄金の数珠）」──宗教的な数珠がブドウの房の形象として現れ、秋の収穫に聖礼典的な色彩を与える。《修道士たち》の宗教語彙がここで世俗的な果実の描写に転用される。"
+      "body": "「林檎！火の血の塊──葡萄！黄金の数珠」──感嘆符と点描的な名詞の列挙による視覚的・触覚的な果実の描写。「caillots de feu（火の血の塊）」──血栓を意味する「caillot」が赤い林檎に使われ、果実と血・生命力が融合する。「chapelets d'or（黄金の数珠）」──宗教的な数珠が葡萄の房の形象として現れ、秋の収穫に聖礼典的な色彩を与える。《修道士たち》の宗教語彙がここで世俗的な果実の描写に転用される。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Encor des feuillaisons de laque — et la meilleure.\nLes pousses des fraisiers ensanglantent le sol,",
-      "body": "「漆塗りの葉叢──最良の時。イチゴの芽が大地を血に染める」──「laque（漆）」という東洋的工芸素材が紅葉の光沢を描く。「ensanglantent le sol（大地を血に染める）」──イチゴの赤い芽が大地を「血に染める」という暴力的比喩。先行の「caillots de feu（血の塊）」に続く血のイメージが、美しい秋景色に生死の緊張を埋め込む。この血の系列が後半「Mourir」の身体的死のヴィジョンへの橋渡しとなる。"
+      "body": "「漆塗りの葉叢──最良の時。苺の芽が大地を血に染める」──「laque（漆）」という東洋的工芸素材が紅葉の光沢を描く。「ensanglantent le sol（大地を血に染める）」──苺の赤い芽が大地を「血に染める」という暴力的比喩。先行の「caillots de feu（血の塊）」に続く血のイメージが、美しい秋景色に生死の緊張を埋め込む。この血の系列が後半「Mourir」の身体的死のヴィジョンへの橋渡しとなる。"
     },
     {
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "La lune, qui se lève épaisse, immense et rouge,\nEt semble un beau fruit mûr, éclos placidement.",
-      "body": "前半5連の頂点──月が「熟した果実のように穏やかに開く」という比喩で秋の景観全体が一つの「開花する果実」として集約される。「épaisse, immense et rouge（厚く、巨大で、赤い）」という三連の形容詞がリンゴ・ブドウ・イチゴ・満月という果実系列の終点として月を位置づける。「éclos placidement（穏やかに開いた）」──花が開くように昇る月。この「果実としての月」のイメージが次段落の「死ぬことが夢だ」への転換の詩的根拠となる──熟した果実は落ちる。"
+      "body": "前半5連の頂点──月が「熟した果実のように穏やかに開く」という比喩で秋の景観全体が一つの「開花する果実」として集約される。「épaisse, immense et rouge（厚く、巨大で、赤い）」という三連の形容詞が林檎・葡萄・苺・満月という果実系列の終点として月を位置づける。「éclos placidement（穏やかに開いた）」──花が開くように昇る月。この「果実としての月」のイメージが次段落の「死ぬことが夢だ」への転換の詩的根拠となる──熟した果実は落ちる。"
     },
     {
       "paragraphId": 6,
