@@ -1,0 +1,90 @@
+{
+  "id": "verhaeren_les_armes_du_soir",
+  "title": "Les Armes du soir",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 21–22. 底本: fr.wikisource.org/wiki/Les_Armes_du_soir_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の12行詩。詩集冒頭部に配置され（p.21–22）、「À Ténèbres」・「Mourir」・「Insatiablement」と同じくヴェルハーレン象徴主義期の一篇。タイトル「夕べの武器（Les Armes du soir）」は夕暮れの光景を戦士の死──剣・鎧の輝きが沼地に沈む──として描く擬人化された組曲。アレクサンドラン12行、韻型 ABBA / CDDC / EFFE の3連構成。第1連：死にゆく夕（le soir qui meurt）がその剣と鎧の光を沼地に投げかける。第2連：その光はもはや昼の輝きにかすかに触れるだけで、夜の唇──銀の手を持つ敬虔で柔らかな月──にゆっくりと口づけされる。第3連：月だけが昼を覚えており、大気の蒼白の中で「永遠に蒼白で遠い」と宣言される。「蒼白（pâle）」という語が第3連で4回反復されるépiphoraが詩全体を支配する。「À Ténèbres」の「Un catafalque d'or（黄金の棺台）」が夕空を棺台とする比喩であったのに対し、本詩は夕を落日する戦士として描き、その遺物を沼地に沈める──どちらも「夕の死」という同一主題の変奏。",
+  "keywords": [
+    "夕べ", "武器", "剣", "鎧", "沼地", "月", "蒼白", "夜", "死にゆく夕",
+    "épiphora", "アレクサンドラン", "擬人化", "象徴主義", "Poèmes IIe série"
+  ],
+  "relatedTexts": [
+    "verhaeren_a_tenebres",
+    "verhaeren_mourir",
+    "verhaeren_insatiablement",
+    "mallarme_soupir",
+    "rodenbach_nocturne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tandis que la nuit froide étage sa terrasse\nPar au-delà des bruyères et des forêts,\nLe soir qui meurt, le soir ! jette sur les marais,\nL'éclair de son épée et l'or de son armure,",
+      "provisionalTranslation": "冷たい夜がその段丘を連ねる間、\n荒野と森の彼方に、\n死にゆく夕よ、夕よ！は沼地へと投げかける、\nその剣の閃光と、その鎧の黄金を、"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Qui vont flottant au flot le flot, flottants et vains,\nÀ peine encor frôlés par la splendeur diurne,\nMais lentement baisés, par la lèvre nocturne\nDe la lune pieuse et douce, aux mains d'argent,",
+      "provisionalTranslation": "波から波へとただよいながら漂い、虚ろで、\nかろうじてまだ昼の輝きにかすかに触れるだけで、\nしかしゆっくりと口づけされる、夜の唇によって、\n銀の手を持つ、敬虔で柔らかな月の唇に、"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Seule, qui se souvient du jour, pâle évoquée,\nEt des grands ciels brandis avec de l'or au clair,\nPâle évoquée, en la pâleur pâle de l'air,\nÉternellement pâle et lointaine, la lune !",
+      "provisionalTranslation": "ただ一つ、昼を覚えている、蒼白に喚起されて、\nそして輝く金をもってかかげられた大きな空を。\n蒼白に喚起されて、大気の蒼白な蒼白の中で、\n永遠に蒼白で遠い、月よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tandis que la nuit froide étage sa terrasse\nPar au-delà des bruyères et des forêts,\nLe soir qui meurt, le soir ! jette sur les marais,\nL'éclair de son épée et l'or de son armure,",
+      "body": "アレクサンドラン（12音節）、韻型 ABBA / CDDC / EFFE の3連構成（各4行）。第1連韻型：terrasse / armure（A、女性韻）/ forêts / marais（B、男性韻）。「étage sa terrasse（段丘を連ねる）」──「étager（段状に並べる）」という動詞が「À Ténèbres」の「étageant leurs rampes（傾斜を段状に並べながら）」と同語。夜が地形として「積み重なる」という空間的擬人化。「Le soir qui meurt, le soir !」──感嘆符を伴う反復による強調。「meurt（死ぬ）」という動詞が夕を死にゆく存在として確立する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "L'éclair de son épée et l'or de son armure,",
+      "body": "「その剣の閃光とその鎧の黄金」──夕の光を落日する戦士の武器として比喩化する。「éclair（閃光）」は雷光・刃の光沢の両義。「armure（鎧）」はバロック的ヴァニタスの甲冑モチーフ──「À Ténèbres」の「catafalque d'or（黄金の棺台）」・「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」と同じく、夕景色に死の壮麗さを与える比喩系列。この剣と鎧が「沼地（marais）」に沈むという運動が詩全体の下向きの構造を定める。",
+      "targetId": "verhaeren_a_tenebres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Qui vont flottant au flot le flot, flottants et vains,",
+      "body": "「波から波へとただよい、虚ろで（flottants et vains）」──「vains（虚ろ・虚無）」という語がコーパス全体の vanitas 主題と接続する。「flottant au flot le flot」──同語反復（polyptoton）による音響的効果。「flot」が3回反復されることで波の反復運動が音として実演される。水面に浮かぶ光の「虚ろさ（vains）」が「À Ténèbres」の「Qui vont flottants et vains」と語彙的に共鳴する──同詩集内での意図的なモチーフ反復。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "la lèvre nocturne\nDe la lune pieuse et douce, aux mains d'argent,",
+      "body": "「夜の唇（lèvre nocturne）」・「銀の手を持つ敬虔で柔らかな月（lune pieuse et douce, aux mains d'argent）」──月の擬人化が4つの形容詞で多面的に描かれる。「pieuse（敬虔な）」は宗教的ニュアンスを持ち、「À Ténèbres」の「cristallisé … en des vases d'éternité（永遠の壺に結晶化）」の信仰の器意匠と連続する。「aux mains d'argent（銀の手）」──月光の色を「銀」として手の比喩に転換する共感覚的表現。ロデンバック「Nocturne」の月のイメージとの詩学的親縁性。",
+      "targetId": "rodenbach_nocturne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Seule, qui se souvient du jour, pâle évoquée,\nEt des grands ciels brandis avec de l'or au clair,\nPâle évoquée, en la pâleur pâle de l'air,\nÉternellement pâle et lointaine, la lune !",
+      "body": "第3連で「pâle（蒼白）」が4回反復される：「pâle évoquée（v.9）」→「Pâle évoquée（v.11）」→「pâleur pâle（v.11）」→「pâle et lointaine（v.12）」。この épiphora（語・句の反復）は「À Ténèbres」の「Un catafalque d'or…（第1連・第9連の環状反復）」と対照的な構造──「À Ténèbres」が詩全体を包む環状反復であるのに対し、本詩は最終連に収束する反復として月の蒼白さを漸増させる。「Éternellement pâle et lointaine, la lune !（永遠に蒼白で遠い、月よ！）」──感嘆符による宣言的締め括り。「éternellement（永遠に）」がマラルメ「蒼空（L'Azur）」の「永遠の青（l'Azur ! l'Azur ! l'Azur ! l'Azur !）」の反復的永遠性と構造的に照応する。",
+      "targetId": "mallarme_lazur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Seule, qui se souvient du jour,",
+      "body": "「ただ一つ、昼を覚えている（Seule, qui se souvient du jour）」──月だけが「昼（jour）」の記憶を保持するという命題。「Seule（ただ一つ）」という孤立が詩集全体の孤独主題と連続する──「À Ténèbres」の影の人々「rêveurs, muets, hagards et seuls（夢想家として、黙して、魂が抜けたように、孤独に）」の「seuls」が、ここでは月という宇宙的存在の孤独として反復される。「se souvient（覚えている）」──記憶の保持者としての月というモチーフはコヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」の「記憶の不在」命題への詩的応答として機能しうる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
