@@ -1,0 +1,117 @@
+{
+  "id": "verhaeren_londres",
+  "title": "Londres",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 45–46. 底本: fr.wikisource.org/wiki/Londres_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の16行詩（p.45–46）。「Fleur fatale（運命の花）」の後、「Le Moulin（風車）」の前に配置される。アレクサンドラン基調の16行、4連×4行、各連が「Et（そして）」で始まるanaphora構造。韻型 ABAB / CDCD / EFFE / GHGH（第3連のみ包含韻）。タイトル「ロンドン（Londres）」はヴェルハーレンの都市詩の代表的一篇であり、後の詩集『触手の都市（Les Villes tentaculaires）』（1895）の先行形として位置づけられる。鋳鉄と青銅・煤煙・ガス灯・ウェストミンスターの鐘・テムズ河岸の運命的な提灯・泥の花びらに溺れた水夫・酔った女たちのショール・金文字のアルコール看板という都市の断片的イメージが「Et（そして）」による列挙的接続で積み重なり、最終行「Ô mon âme du soir, ce Londres noir qui traîne en toi！（ああ夕べの私の魂よ、汝の中に引きずるこの黒いロンドンよ！）」という呼格による内面化で閉じる。外部の都市が「mon âme（私の魂）」の内部に引きずり込まれるという最終的な転換が詩全体の構造的頂点をなす。ボードレール「憂鬱（Spleen）」の都市的憂鬱の直接的継承であり、「spleens d'argent（銀の憂鬱）」という語がボードレール的語彙をそのまま使用する。「Ressouvenir」の「ô mon âme des soirs」という呼格の変奏として最終行の「Ô mon âme du soir」が機能し、詩集内での呼格の反復連鎖が確認される。",
+  "keywords": [
+    "ロンドン", "都市", "煤煙", "ガス", "憂鬱", "spleen", "ウェストミンスター",
+    "水夫", "ランタン", "Parques", "酔った女", "アルコール", "死",
+    "魂", "anaphora", "都市詩", "Les Villes tentaculaires"
+  ],
+  "relatedTexts": [
+    "verhaeren_fleur_fatale",
+    "verhaeren_ressouvenir",
+    "verhaeren_a_tenebres",
+    "baudelaire_spleen",
+    "baudelaire_danse_macabre",
+    "rodenbach_paysages_de_ville"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Et ce Londres de fonte et de bronze, mon âme,\nOù des plaques de fer claquent sous des hangars,\nOù des voiles s'en vont, sans Notre-Dame\nPour étoile, s'en vont, là-bas, vers les hasards.",
+      "provisionalTranslation": "そしてこの鋳鉄と青銅のロンドン、私の魂よ、\nそこでは鉄の板がハンガーの下でバタめく、\nそこでは帆が去っていく、ノートルダムもなく\n星として、去っていく、あちらへ、偶然へと。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Gares de suie et de fumée, où du gaz pleure\nSes spleens d'argent lointain vers des chemins d'éclair,\nOù des bêtes d'ennui bâillent à l'heure\nDolente immensément, qui tinte à Westminster.",
+      "provisionalTranslation": "煤と煙の駅、そこでガスが泣く、\n遠い銀の憂鬱を稲妻の道へと向けて、\nそこで倦怠の獣たちがあくびをする、\n果てしなく嘆かわしい時刻に、ウェストミンスターが鳴り響く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Et ces quais infinis de lanternes fatales,\nParques dont les fuseaux plongent aux profondeurs,\nEt ces marins noyés, sous des pétales\nDe fleurs de boue où la flamme met des lueurs.",
+      "provisionalTranslation": "そしてこれらの運命的な提灯の果てしない河岸、\n紡錘が深みへと沈む運命の女神たち、\nそしてこれらの溺れた水夫たち、泥の花の\n花びらの下に、そこに炎が薄明かりをともす。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Et ces châles et ces gestes de femmes soûles,\nEt ces alcools en lettres d'or jusques au toit,\nEt tout à coup la mort parmi ces foules,\nÔ mon âme du soir, ce Londres noir qui traîne en toi !",
+      "provisionalTranslation": "そしてこれらのショールと酔った女たちのこれらの身振り、\nそしてこれらのアルコール、屋根まで金の文字で、\nそして突然、群衆の中の死、\nああ夕べの私の魂よ、汝の中に引きずるこの黒いロンドンよ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et ce Londres de fonte et de bronze, mon âme,\nOù des plaques de fer claquent sous des hangars,\nOù des voiles s'en vont, sans Notre-Dame\nPour étoile, s'en vont, là-bas, vers les hasards.",
+      "body": "アレクサンドラン基調、4連×4行。韻型 ABAB / CDCD / EFFE / GHGH（第3連のみ包含韻 embrassée）。各連が「Et（そして）」で始まるanaphora構造──第1連「Et ce Londres」・第3連「Et ces quais」・第4連「Et ces châles … Et ces alcools … Et tout à coup」と「Et」が積み重なり、都市の断片的イメージが並列的に列挙される。「fonte et de bronze（鋳鉄と青銅）」──工業素材の対置が「Les Armes du soir」の「épée … armure（剣・鎧）」の武器金属と照応する都市的変奏。「Où des voiles s'en vont, sans Notre-Dame / Pour étoile」──enjambement（跨行）によりv.3の「Notre-Dame」がv.4「Pour étoile」と接続される。宗教的指標（星としてのノートルダム）を持たずに帆が去っていくという「羅針盤なき航海」の比喩。",
+      "targetId": "verhaeren_les_armes_du_soir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Où des voiles s'en vont, sans Notre-Dame\nPour étoile, s'en vont, là-bas, vers les hasards.",
+      "body": "「ノートルダムもなく星として、あちらへ、偶然へと（sans Notre-Dame / Pour étoile … vers les hasards）」──「hasards（偶然・危険）」という語がマラルメ「骰子一擲（Un Coup de Dés）」の「le Hasard（偶然）」と照応する。ノートルダムという宗教的・地理的指標（パリ象徴）の不在が、「偶然」という無秩序へと船を向かわせる──ヴェルハーレンのロンドンはパリと異なり宗教的中心を持たない都市として提示される。マラルメ「海の微風（Brise marine）」の「帆が旅立つ（Les voiles … s'en vont）」という詩的出発のモチーフとの照応。",
+      "targetId": "mallarme_brise_marine",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "où du gaz pleure\nSes spleens d'argent lointain vers des chemins d'éclair,",
+      "body": "「ガスが銀の憂鬱を泣く（du gaz pleure / Ses spleens d'argent lointain）」──ガス灯の光を「泣く」・「憂鬱（spleens）」として擬人化する。「spleens」はボードレール的語彙をそのまま引用する稀な例──ボードレール『悪の華』の「Spleen」詩群との直接的接続。「chemins d'éclair（稲妻の道）」は電灯・鉄道の電気的光景を指す可能性がある──1896年時点でロンドンでは電気鉄道が普及しつつあった。「bêtes d'ennui（倦怠の獣たち）」──「ennui（倦怠）」をボードレール的な動物として比喩化。「Dolente immensément（果てしなく嘆かわしい）」という副詞による誇張がヴェルハーレン的修辞を示す。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Où des bêtes d'ennui bâillent à l'heure\nDolente immensément, qui tinte à Westminster.",
+      "body": "「ウェストミンスターが鳴り響く果てしなく嘆かわしい時刻」──ウェストミンスター寺院・時計塔（ビッグベン）の鐘が都市の時間を刻む。「Ressouvenir」の「Appels de cloche à cloche（鐘から鐘への呼びかけ）」が宗教的建築物（大聖堂・塔）の鐘を追憶として機能させるのに対し、ここでの鐘は「倦怠の獣たちがあくびをする時刻」を告げる都市的時間装置として機能する。ボードレール「時計（L'Horloge）」の「時計は言う…」という時間の脅迫との照応。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Parques dont les fuseaux plongent aux profondeurs,",
+      "body": "「紡錘が深みへと沈む運命の女神たち（Parques dont les fuseaux plongent aux profondeurs）」──「Parques（パルカエ）」はローマ神話の運命の三女神（ギリシア神話のモイライ）。生命の糸を紡ぐ（Clotho）・長さを測る（Lachesis）・切る（Atropos）という三機能。「fuseaux（紡錘）」が「提灯（lanternes）」と重なり、河岸の提灯が生命の糸を測る運命の装置として機能する。「Attirances」の「Parmi les lys（百合のなかに）」のカタコンベ場面と対照的──「Attirances」では死が宗教的・美的に包まれるのに対し、「Londres」では死が運命論的・機械的に河底へと引き込まれる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et ces marins noyés, sous des pétales\nDe fleurs de boue où la flamme met des lueurs.",
+      "body": "「泥の花の花びらの下に溺れた水夫たち（marins noyés, sous des pétales / De fleurs de boue）」──「fleurs de boue（泥の花）」という矛盾語法。「À Ténèbres」の「Sur les fumiers du monde à se nourrir de roses（糞山の上で薔薇を食べ物とすること）」・「Fleur fatale」の「fleur fatale」という花の系列が「泥の花」として都市的に変奏される。ランボー「オフェリア（Opélie）」の水中に沈む女性と「fleurs de boue」の溺れた水夫が詩学的に照応する──どちらも水面の花の下に沈む死体。「la flamme met des lueurs（炎が薄明かりをともす）」──ガス灯・提灯の炎が泥の中の死者を照らす冷酷な光景。",
+      "targetId": "rimbaud_ophelie",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et ces châles et ces gestes de femmes soûles,\nEt ces alcools en lettres d'or jusques au toit,\nEt tout à coup la mort parmi ces foules,",
+      "body": "「酔った女たちのショールと身振り、屋根まで金の文字のアルコール、そして突然群衆の中の死」──第4連の三つの「Et」による畳み掛けが最終行の「la mort（死）」への急速な収束を準備する。「femmes soûles（酔った女たち）」──ボードレール「呪われた女たち（Femmes damnées）」の都市的な堕落した女性像との照応。「alcools en lettres d'or（金の文字のアルコール）」──酒場の看板の金文字という都市的光景。「À Ténèbres」の「信仰の壺（vases d'éternité）」が崩壊した後に残る世俗的「金（or）」として機能する。「Et tout à coup la mort（そして突然死）」──「soudain（突然）」という語が「Le Gel」の「grand Dieu soudain（突然の偉大な神）」と照応する──神の突然の出現が、ここでは群衆の中の死の突然の出現として変奏される。",
+      "targetId": "baudelaire_danse_macabre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Ô mon âme du soir, ce Londres noir qui traîne en toi !",
+      "body": "「ああ夕べの私の魂よ、汝の中に引きずるこの黒いロンドンよ！」──詩の最終行のみが呼格による内面化で閉じる。「mon âme du soir（夕べの私の魂）」は「Ressouvenir」の「ô mon âme des soirs（夕べの私の魂よ）」の変奏──「soirs（複数）」から「soir（単数）」への転換が今この瞬間への特定化を示す。「qui traîne en toi（汝の中に引きずる）」──「traîner（引きずる）」という動詞が都市を魂の内部に物理的に引き込む。外部（都市）から内部（魂）への転換が詩全体の構造的頂点をなす──「Et ce Londres … mon âme（第1連）」という呼びかけが「ce Londres noir qui traîne en toi（最終行）」という侵入として完結する。詩集内の「âme des soirs」という定式の最後の変奏として機能し、次の「Le Moulin」へと詩集の関心が都市から農村へと移行する。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 4
+    }
+  ]
+}
+
