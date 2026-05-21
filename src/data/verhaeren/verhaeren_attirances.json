@@ -1,0 +1,155 @@
+{
+  "id": "verhaeren_attirances",
+  "title": "Attirances",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 27–29. 底本: fr.wikisource.org/wiki/Attirances_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の24行詩（p.27–29）。「Lassitude（倦怠）」の後、「Tourment（苦悶）」の前に配置される。アレクサンドラン24行、8連×3行の三行連句（tercets）構成。タイトル「引力たち（Attirances）」は複数形であり、彼方の大きな銀の仮面たち──「影の人々（hommes d'ombre）」の詩的変奏──が黄昏の中で漂い、私たちの心を引き寄せる力（attirances）を指す。前半（§1–4）：銀の仮面たちが夕暮れに漂い、死んだ目で私たちの心を見つめ、沈黙・炎・神への光の出発を経て、神秘によって魅了された者が「大地には神秘的すぎる別れを黙する死者たちのようだ」と語られる。後半（§5–8）：カタコンベに眠るキリスト教の少年たちを彼らは想起させるかと問い（§5–6）、遠くから彼らが愛を求めているのを感じる（§7）、そして「古い夕暮れが突然黒く苦悶に満ちた栄光の紋章として輝く（§8）」という結語。「À Ténèbres」の「影の人々（hommes d'ombre）」・「Mourir」の「死を意志する者」と連続するヴェルハーレン象徴主義期の人間類型論の一環として位置づけられる。",
+  "keywords": [
+    "引力",
+    "銀の仮面",
+    "黄昏",
+    "沈黙",
+    "神秘",
+    "死者",
+    "カタコンベ",
+    "キリスト教少年",
+    "errance",
+    "栄光の紋章",
+    "三行連句",
+    "象徴主義",
+    "Attirances",
+    "hommes d'ombre"
+  ],
+  "relatedTexts": [
+    "verhaeren_a_tenebres",
+    "verhaeren_mourir",
+    "verhaeren_les_armes_du_soir",
+    "verhaeren_insatiablement",
+    "rodenbach_les_femmes_tristes",
+    "mallarme_toast_funebre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "Lointainement, et si étrangement pareils,\nDe grands masques d'argent que la brume recule,\nVaguent, au jour tombant, autour des vieux soleils.",
+      "provisionalTranslation": "遠く、こんなにも奇妙に似通って、\n霧が後退させる大きな銀の仮面たちが、\n日の落ちるころ、古い太陽たちのまわりをさまよう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–6",
+      "original": "Les doux lointains ! — et comme, au fond du crépuscule,\nIls nous fixent le cœur, immensément le cœur,\nAvec les yeux défunts de leur visage d'âme.",
+      "provisionalTranslation": "柔らかな遠方よ！──そして黄昏の奥底で、\nいかに彼らが私たちの心を、果てしなく心を見つめることか、\n魂の顔の、死んだ目をもって。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–9",
+      "original": "C'est toujours du silence, à moins, dans la pâleur\nDu soir, un jet de feu soudain, un cri de flamme,\nUn départ de lumière inattendu vers Dieu.",
+      "provisionalTranslation": "それはいつも沈黙、せいぜい、夕の蒼白の中で、\n突然の火の噴出、炎の叫び、\n神へと向かう光の予期せぬ出発。"
+    },
+    {
+      "id": 4,
+      "verses": "v.10–12",
+      "original": "On se laisse charmer et troubler de mystère,\nEt l'on dirait des morts qui taisent un adieu\nTrop mystique, pour être écouté par la terre !",
+      "provisionalTranslation": "人は神秘によって魅了され乱されるにまかせる、\nそして別れを黙する死者たちのようだと言われるだろう、\n大地に聴かれるには神秘的すぎる別れを！"
+    },
+    {
+      "id": 5,
+      "verses": "v.13–15",
+      "original": "Sont-ils le souvenir matériel et clair\nDes éphèbes chrétiens couchés aux catacombes\nParmi les lys ? Sont-ils leur regard et leur chair ?",
+      "provisionalTranslation": "彼らはカタコンベに百合のなかに横たわる\nキリスト教の少年たちの物質的で明確な記憶なのか？\n彼らの眼差しであり、その肉体なのか？"
+    },
+    {
+      "id": 6,
+      "verses": "v.16–18",
+      "original": "Ou seul, ce qui survit de merveilleux aux tombes\nDe ceux qui sont partis, vers leurs rêves, un soir,\nConquérir la folie à l'assaut des nuées ?",
+      "provisionalTranslation": "あるいはただ、ある夕べ夢へと旅立った者たちの、\n墓に奇跡的に生き残るもの、\n雲への突撃で狂気を征服しようとした者たちの？"
+    },
+    {
+      "id": 7,
+      "verses": "v.19–21",
+      "original": "Lointainement, combien nous les sentons vouloir\nUn peu d'amour pour leurs œuvres destituées,\nPour leur errance et leur tristesse aux horizons,",
+      "provisionalTranslation": "遠くから、いかに私たちは彼らが望んでいるのを感じることか、\n失われた作品たちへのわずかな愛を、\nその彷徨いと地平線への悲しみへの。"
+    },
+    {
+      "id": 8,
+      "verses": "v.22–24",
+      "original": "Toujours ! aux horizons du cœur et des pensées,\nAlors que les vieux soirs éclatent en blasons\nSoudains, pour les gloires noires et angoissées.",
+      "provisionalTranslation": "いつも！心と思考の地平線へ、\n古い夕暮れが突然紋章として輝くとき、\n黒く苦悶に満ちた栄光のための。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Lointainement, et si étrangement pareils,\nDe grands masques d'argent que la brume recule,\nVaguent, au jour tombant, autour des vieux soleils.",
+      "body": "アレクサンドラン（12音節）、8連×3行の三行連句（tercets）構成。韻型は ABA / BCB / CDC … と各連が前後の連の韻を受け継ぐ「連鎖韻（terza rima）」類似の構造ではなく、各tercetが独立した韻型（ABB / CCB / DDE … ）を持つ変則構成。「Lointainement（遠く）」──副詞による詩の開始。「À Ténèbres」の「Lointainement par les grands mirages tentés（遠くに大いなる蜃気楼に誘惑されながら）」と同語。「grands masques d'argent（大きな銀の仮面）」──「Les Armes du soir」の「lune … aux mains d'argent（銀の手を持つ月）」の銀の系列と連続する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "De grands masques d'argent que la brume recule,\nVaguent, au jour tombant, autour des vieux soleils.",
+      "body": "「霧が後退させる大きな銀の仮面たち」──「À Ténèbres」の「hommes d'ombre（影の人々）」の詩的変奏。仮面（masques）は顔を持ちながら死者の面（death mask）として機能する──「visage d'âme（魂の顔）」という表現がこれを支える。「vaguent（さまよう）」──「vaguer」は「さまよう・漂う」で、「À Ténèbres」の「Ils ont passé rêveurs, muets, hagards et seuls（彼らは夢想家として、黙して、魂が抜けたように、孤独に通り過ぎた）」という影の人々の運動と照応する。",
+      "targetId": "verhaeren_a_tenebres",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ils nous fixent le cœur, immensément le cœur,\nAvec les yeux défunts de leur visage d'âme.",
+      "body": "「死んだ目（yeux défunts）」──「défunts（死んだ・故人の）」という語が目に使われる擬人化。「visage d'âme（魂の顔）」という複合的概念──肉体の顔ではなく魂の顔という区別がキリスト教神学の魂論的背景を示唆し、後の§5のカタコンベの少年たちの「regard et leur chair（眼差しと肉体）」という問いへの布石となる。「immensément le cœur（果てしなく心を）」──副詞による強調の反復がヴェルハーレンの修辞的特徴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Un départ de lumière inattendu vers Dieu.",
+      "body": "「神へと向かう光の予期せぬ出発（départ de lumière inattendu vers Dieu）」──沈黙のなかで突然「神への光の出発」が起きるという瞬間的な超越体験の描写。「inattendu（予期せぬ）」という形容が恩寵の突然性を示す。ヴェイユ「Éclair（閃光）」の「思考への光の突然の訪れ」という概念との詩学的照応。マラルメ「蒼空（L'Azur）」の「空（l'Azur）」が詩人を追いつめる超越的なものの圧力として機能するのと対照的に、ここでは光が「神への出発」として能動的・解放的に描かれる。",
+      "targetId": "weil_eclair",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et l'on dirait des morts qui taisent un adieu\nTrop mystique, pour être écouté par la terre !",
+      "body": "「大地に聴かれるには神秘的すぎる別れを黙する死者たちのよう」──「À Ténèbres」の影の人々の「黙して通り過ぎる（muets）」という沈黙が、ここでは「大地には届かない神秘的な別れ（adieu trop mystique）」の沈黙として変奏される。「pour être écouté par la terre（大地に聴かれるには）」──地上的なものと神秘的なものの断絶。ローデンバック「Les Femmes tristes」の黙した女性たちの「大地を超えた」感性との詩学的親縁性。",
+      "targetId": "rodenbach_les_femmes_tristes",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Des éphèbes chrétiens couchés aux catacombes\nParmi les lys ?",
+      "body": "「カタコンベに百合のなかに横たわるキリスト教の少年たち（éphèbes chrétiens couchés aux catacombes parmi les lys）」──「éphèbes（エフェーボス）」はギリシア語由来の「青年・少年」で、古典的美の理想（アポロン的肉体美）とキリスト教的殉教者の純潔が重ねられる。ローマのカタコンベは初期キリスト教の殉教者たちの埋葬地。「parmi les lys（百合のなかに）」──百合は純潔・殉教・聖母の象徴。ロセッティ兄妹の Pre-Raphaelite 絵画・詩における百合と殉教者の結合と類似する詩学的語彙。",
+      "targetId": "d_g_rossetti_mary_magdalene",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Conquérir la folie à l'assaut des nuées ?",
+      "body": "「雲への突撃で狂気を征服しようとした者たち（Conquérir la folie à l'assaut des nuées）」──「folie（狂気）」を「征服（conquérir）」する逆説。狂気は回避されるものではなく、攻略される対象として積極的に設定される。「l'assaut des nuées（雲への突撃）」──不可能な目標への突進という「À Ténèbres」の「影の人々」とは逆の能動的な身振り。「Insatiablement」の「傲慢な飽くことなき意志」との連続性。",
+      "targetId": "verhaeren_insatiablement",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Lointainement, combien nous les sentons vouloir\nUn peu d'amour pour leurs œuvres destituées,",
+      "body": "「失われた作品たちへのわずかな愛（un peu d'amour pour leurs œuvres destituées）」──「destituées（剥奪された・廃された）」という強い語が「作品」に使われる。芸術作品が「失われた・放逐された」状態に置かれるという詩学的悲観論。第1連の「Lointainement」が再び冒頭に現れる環状回帰──詩全体を「遠さ（lointain）」という主題が囲む。「À Ténèbres」の「pour leur errance et leur tristesse（その彷徨いと悲しみへの）」──§8で実際に「leur errance et leur tristesse aux horizons（その彷徨いと地平線への悲しみ）」として引用・反復される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Alors que les vieux soirs éclatent en blasons\nSoudains, pour les gloires noires et angoissées.",
+      "body": "「古い夕暮れが突然紋章として輝く（les vieux soirs éclatent en blasons soudains）」──「blasons（紋章）」という語が詩の結末に置かれる。紋章は家系・栄光・同定の記号であるが、「noires et angoissées（黒く苦悶に満ちた）」という形容によって逆転された栄光の記号として機能する。「gloires noires（黒い栄光）」──「À Ténèbres」の「gloires médusaires（メドゥーサ的な栄光）」と照応する否定的栄光の系列。「vieux soirs（古い夕暮れ）」──第1連の「vieux soleils（古い太陽たち）」と対応する形容詞「vieux」が詩の開閉を担う。",
+      "targetId": "verhaeren_a_tenebres",
+      "targetParagraphId": 2
+    }
+  ]
+}
