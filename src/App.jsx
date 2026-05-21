@@ -2298,21 +2298,28 @@ const TocDrawer = ({
     const allTextsArr = Object.values(texts);
 
     // CATEGORIES からカテゴリID→日本語ラベルのマップを構築
-    // 配列形式 [{id, label, ...}] とオブジェクト形式 {id: label} の両方に対応
+    // 実際の形式: { id: { name: '日本語名' }, ... }
     const catLabelMap = (() => {
       if (!CATEGORIES) return {};
       if (Array.isArray(CATEGORIES)) {
-        return Object.fromEntries(CATEGORIES.map(c => [c.id ?? c.key ?? c.value, c.label ?? c.name ?? '']));
+        // 配列形式 [{id, name, ...}] への対応（将来の変更に備えて）
+        return Object.fromEntries(CATEGORIES.map(c => [c.id ?? c.key, c.name ?? c.label ?? '']));
       }
-      return CATEGORIES; // すでに {id: label} 形式
+      // オブジェクト形式 { id: { name: '...' } } → { id: '...' } に変換
+      return Object.fromEntries(
+        Object.entries(CATEGORIES).map(([id, val]) => [
+          id,
+          typeof val === 'string' ? val : (val?.name ?? val?.label ?? ''),
+        ])
+      );
     })();
 
     const filtered = allTextsArr.filter(t => {
       if (tocLangFilter !== 'all' && t.originalLang !== langMap[tocLangFilter]) return false;
       if (!tocSearch.trim()) return true;
       const q = tocSearch.toLowerCase();
-      // カテゴリの日本語ラベルを取得
-      const catLabel = (catLabelMap[t.category] || '').toLowerCase();
+      // カテゴリの日本語ラベルを取得（文字列であることを保証）
+      const catLabel = (catLabelMap[t.category] ?? '').toLowerCase();
       const inMeta =
         t.title?.toLowerCase().includes(q) ||
         t.author?.toLowerCase().includes(q) ||
