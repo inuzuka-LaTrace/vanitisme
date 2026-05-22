@@ -9,7 +9,7 @@
   "category": "verhaeren",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の28行詩（p.201–202）。「Les Livres（書物）」の後、最終篇「La Morte（死せる女）」の直前に配置される。オクトシラブ（8音節）基調の28行、4連×7行構成（第4連のみ4行）。各連末の語句が次連冒頭で反復される連鎖反復（concatenatio）：「Voici se taire les marteaux（第1連 v.3→v.5）」→「Immensément morte, la lune（第2連 v.9→v.12）」→「Reflète son voyage astral（第3連 v.18→v.21）」→第4連で「les tombeaux（墓所）」へと収束する。「Illusion」と同一の形式的手法を用い、「Ressouvenir」のanaphora的重層構造を統合する詩。タイトル「Un soir（ある夕べ）」に引用符付きの副題「sous ce funèbre ciel de pierre」を添えた表記は、同名の他詩と区別するための編者的表記であり、詩の第1行からの自己引用でもある。構成：第1連（金属の夜の天空の下でハンマーが沈黙し、満天の夜が輝く）→第2連（月が「凍氷の彫刻」のように北の階段を降りる葬礼的存在として描かれる）→第3連（月の星空的な旅が浄化の湖に映される）→第4連（月の葬礼の完結）。詩集内で「Les Armes du soir」の月が「銀の手を持つ敬虔で柔らかな月」として生ける存在であるのに対し、本詩の月は「金の大きな棺の中に飾られた、果てしなく死んでいる」存在として厳格に記述される。「La Morte」の直前に配置されることで、月の葬礼が「私の理性の死体」のテムズ川への漂流を象徴的に予告する機能を備える。"",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の28行詩（p.201–202）。「Les Livres（書物）」の後、最終篇「La Morte（死せる女）」の直前に配置される。オクトシラブ（8音節）基調の28行、4連×7行構成（第4連のみ4行）。各連末の語句が次連冒頭で反復される連鎖反復（concatenatio）：「Voici se taire les marteaux（第1連 v.3→v.5）」→「Immensément morte, la lune（第2連 v.9→v.12）」→「Reflète son voyage astral（第3連 v.18→v.21）」→第4連で「les tombeaux（墓所）」へと収束する。「Illusion」と同一の形式的手法を用い、「Ressouvenir」のanaphora的重層構造を統合する詩。タイトル「Un soir（ある夕べ）」に引用符付きの副題「sous ce funèbre ciel de pierre」を添えた表記は、同名の他詩と区別するための編者的表記であり、詩の第1行からの自己引用でもある。構成：第1連（金属の夜の天空の下でハンマーが沈黙し、満天の夜が輝く）→第2連（月が「凍氷の彫刻」のように北の階段を降りる葬礼的存在として描かれる）→第3連（月の星空的な旅が浄化の湖に映される）→第4連（月の葬礼の完結）。詩集内で「Les Armes du soir」の月が「銀の手を持つ敬虔で柔らかな月」として生ける存在であるのに対し、本詩の月は「金の大きな棺の中に飾られた、果てしなく死んでいる」存在として厳格に記述される。「La Morte」の直前に配置されることで、月の葬礼が「私の理性の死体」のテムズ川への漂流を象徴的に予告する機能を備える。",
   "keywords": [
     "夕暮","夕べ", "月", "葬礼", "凍氷", "棺", "墓所",
     "concatenatio", "連鎖反復", "湖", "浄化", "北の階段",
@@ -87,7 +87,7 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Le cortège vierge et placide\nReflète son voyage astral,\nDans les miroirs d'un lac lustral\nEt d'une plage translucide ;",
-      "body": "「処女のように平穏な列葬が、その星空的旅を映す、浄化の湖の鏡の中に（lac lustral）」──「vierge et placide（処女のように平穏）」という形容詞が月の行列に使われる。「lac lustral（浄化の湖）」──「lustral」はラテン語「lustralis（浄化の）」由来で、宗教的な浄化の儀式で使われる聖水・水を指す。月の葬礼が水の鏡による「浄化的反映」として描かれる。「plage translucide（透明な浜辺）」──「Illusion」の「rivage de lagune（ラグーンの岸辺）」と照応する水辺の光景──「Illusion」が「âme（魂）」の悠然の場として水辺を描くのに対し、本詩では月の葬礼の反映の場として機能する。",
+      "body": "「純潔で平穏な列葬が、その星空的な旅を映す、浄化の湖の鏡の中に（lac lustral）」──「vierge et placide（純潔で平穏）」という形容詞が月の行列に使われる。「lac lustral（浄化の湖）」──「lustral」はラテン語「lustralis（浄化の）」由来で、宗教的な浄化の儀式で使われる聖水・水を指す。月の葬礼が水の鏡による「浄化的反映」として描かれる。「plage translucide（透明な浜辺）」──「Illusion」の「rivage de lagune（ラグーンの岸辺）」と照応する水辺の光景──「Illusion」が「âme（魂）」の悠然の場として水辺を描くのに対し、本詩では月の葬礼の反映の場として機能する。",
       "targetId": "verhaeren_illusion",
       "targetParagraphId": 4
     },
@@ -95,7 +95,7 @@
       "paragraphId": 3,
       "type": "prosody",
       "anchor": "Reflète son voyage astral\nVers les dalles et les tombeaux\nD'une chapelle de flambeaux.",
-      "body": "「Reflète son voyage astral（その星空的旅を映す）」──第3連内で2度反復（v.16・v.21）される内部反復であり、かつ第4連冒頭への連鎖反復（concatenatio）の結節点。「Vers les dalles et les tombeaux / D'une chapelle de flambeaux（松明の礼拝堂の石版と墓所へと）」──「dalles（石版・墓石）」と「tombeaux（墓所）」という葬礼空間。「flambeaux（松明）」──「La Couronne」の「LES FLAMBEAUX NOIRS（黒い松明たち）」という詩集最終セクションのタイトルと照応する。月の葬礼が「松明の礼拝堂」という宗教的空間に向かうことで、詩集全体の「黒い松明」主題と接続される。",
+      "body": "「Reflète son voyage astral（その星空的な旅を映す）」──第3連内で2度反復（v.16・v.21）される内部反復であり、かつ第4連冒頭への連鎖反復（concatenatio）の結節点。「Vers les dalles et les tombeaux / D'une chapelle de flambeaux（松明の礼拝堂の石版と墓所へと）」──「dalles（石版・墓石）」と「tombeaux（墓所）」という葬礼空間。「flambeaux（松明）」──「La Couronne」の「LES FLAMBEAUX NOIRS（黒い松明たち）」という詩集最終セクションのタイトルと照応する。月の葬礼が「松明の礼拝堂」という宗教的空間に向かうことで、詩集全体の「黒い松明」主題と接続される。",
       "targetId": "verhaeren_la_couronne",
       "targetParagraphId": 4
     },
@@ -103,7 +103,7 @@
       "paragraphId": 4,
       "type": "prosody",
       "anchor": "Sous ce ciel fixe de lagune,\nOrné d'ébène et de flambeaux,\nVoici passer, vers les tombeaux,\nLes funérailles de la lune.",
-      "body": "第4連は7行ではなく4行のみ──詩集内の他の3連（各7行）と比較して短縮された結末連。この形式的非対称が「月の葬礼」の突然の閉幕として機能する。「Sous ce ciel fixe de lagune（このラグーンの固定した天空の下）」──第1連「Sous ce funèbre ciel de pierre（石の魔の天空の下）」との環状照応。「pierre（石）」→「lagune（ラグーン）」：天空の材質が固体（石）から水（ラグーン）へ転換し、「固定した（fixe）」という形容が加わって天空の静止を強調する。「Les funérailles de la lune（月の葬礼）」──詩全体の結語として月の葬礼を名詞化して提示。「La Morte」の「Les mortes（死せる女たち）」という最終行の名詞化・複数化の手法の先行形として機能する。コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」の太陽の循環が、本詩では月の沈下・葬礼として変奏される。",
+      "body": "第4連は7行ではなく4行のみ──詩集内の他の3連（各7行）と比較して短縮された結末連。この形式的非対称が「月の葬礼」の突然の閉幕として機能する。「Sous ce ciel fixe de lagune（このラグーンの静止した天空の下）」──第1連「Sous ce funèbre ciel de pierre（この石の陰鬱な天空の下）」との環状照応。「pierre（石）」→「lagune（ラグーン）」：天空の材質が固体（石）から水（ラグーン）へ転換し、「静止した（fixe）」という形容が加わって天空の静止を強調する。「Les funérailles de la lune（月の葬礼）」──詩全体の結語として月の葬礼を名詞化して提示。「La Morte」の「Les mortes（死せる女たち）」という最終行の名詞化・複数化の手法の先行形として機能する。コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」の太陽の循環が、本詩では月の沈下・葬礼として変奏される。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 5
     }
