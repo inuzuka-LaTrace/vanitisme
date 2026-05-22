@@ -1,0 +1,191 @@
+{
+  "id": "verhaeren_la_morte",
+  "title": "La Morte",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 205–208. 底本: fr.wikisource.org/wiki/La_Morte_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の55行詩（p.205–208）。詩集最終セクション「FINALE（終曲）」の唯一の詩篇であり、詩集全体の締め括りとして機能する。「Un soir（ある夕べ）」の後に配置され、以降はなし。自由韻律（vers libre）的な可変行長──アレクサンドラン（12音節）から短行（3〜6音節）まで混在し、詩集内の他の詩と韻律的に一線を画す。タイトル「La Morte（死せる女）」のイタリア語的女性形「morte」（フランス語では「la morte」は通常使われず「la morte」＝死者の女性形として機能）は「私の理性の死体（le cadavre de ma raison）」を指す。「私の理性」が擬人化された「死せる女（la morte）」としてテムズ川に漂うという設定が詩全体の中心的形象。構成：§1–3（外景・テムズ川の死体）→§4–6（死の原因の三重宣告：「trop savoir（知りすぎ）」・「empoisonnement（中毒）」・「délire（妄想）」・「nerfs éclatés（神経の爆発）」・「自殺」）→§7（ロンドン都市景観の展開）→§8（冒頭の環状反復・変奏）→§9（テムズから「未知の黒（l'inconnu noir）」へ、「Les mortes（死せる女たち）」という複数形で閉じる）。最終行「Les mortes（死せる女たち）」は単数「la morte（私の理性）」から複数へ拡張されることで「死せる女」が普遍化される。詩集全体を貫く「苦悩・傲慢・理性・狂気」という主題群が「理性の死」という形で総括される。",
+  "keywords": [
+    "理性の死",
+    "テムズ川",
+    "cadavre",
+    "知りすぎること",
+    "中毒",
+    "妄想",
+    "神経の爆発",
+    "自殺",
+    "ロンドン",
+    "FINALE",
+    "最終篇",
+    "自由韻律",
+    "Les mortes",
+    "環状構造",
+    "死せる女",
+    "brouillard"
+  ],
+  "relatedTexts": [
+    "verhaeren_la_couronne",
+    "verhaeren_la_tete",
+    "verhaeren_les_malades",
+    "verhaeren_londres",
+    "verhaeren_fleur_fatale",
+    "verhaeren_insatiablement",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "original": "En sa robe, couleur de feu et de poison,\nLe cadavre de ma raison\nTraîne sur la Tamise.",
+      "provisionalTranslation": "火と毒の色の衣をまとい、\n私の理性の死体が\nテムズ川に漂う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–7",
+      "original": "Des ponts de bronze, où les wagons\nEntrechoquent d'interminables bruits de gonds\nEt des voiles de bateaux sombres\nLaissent sur elle, choir leurs ombres.",
+      "provisionalTranslation": "青銅の橋では、貨車が\n果てしない蝶番の音を打ち合わせ、\n暗い船の帆が\nその上に、影を落とす。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8–11",
+      "original": "Sans qu'une aiguille, à son cadran, ne bouge,\nUn grand beffroi masqué de rouge,\nLa regarde, comme quelqu'un\nImmensément de triste et de défunt.",
+      "provisionalTranslation": "文字盤の針一本も動かぬままに、\n赤いマスクをした大きな鐘楼が、\nそれを見ている、まるで\n果てしなく悲しく、死んでいる誰かのように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–19",
+      "original": "Elle est morte de trop savoir,\nDe trop vouloir sculpter la cause,\nDans le socle de granit noir,\nDe chaque être et de chaque chose.\nElle est morte, atrocement,\nD'un savant empoisonnement,\nElle est morte aussi d'un délire\nVers un absurde et rouge empire.",
+      "provisionalTranslation": "それは知りすぎて死んだ、\n原因を彫刻しようとしすぎて、\n各々の存在と各々の事物の\n黒い花崗岩の台座に。\nそれは残酷に死んだ、\n知的な中毒によって、\nそれはまた妄想によっても死んだ、\n不条理で赤い帝国へ向かう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.20–23",
+      "original": "Ses nerfs ont éclaté,\nTel soir illuminé de fête,\nQu'elle sentait déjà le triomphe flotter\nComme des aigles, sur sa tête.",
+      "provisionalTranslation": "その神経が爆発した、\n祝祭の光に満ちたある夜、\nそれがすでに勝利が漂うのを感じていたとき、\n鷲のように、その頭上に。"
+    },
+    {
+      "id": 6,
+      "verses": "v.24–27",
+      "original": "Elle est morte n'en pouvant plus,\nL'ardeur et les vouloirs moulus,\nEt c'est elle qui s'est tuée,\nInfiniment exténuée.",
+      "provisionalTranslation": "それはもう耐えられなくて死んだ、\n熱情と意志が磨り潰されて、\nそしてそれは自ら死を選んだ、\n無限に消耗しきって。"
+    },
+    {
+      "id": 7,
+      "verses": "v.28–43",
+      "original": "Au long des funèbres murailles,\nAu long des usines de fer\nDont les marteaux tannent l'éclair,\nElle se traîne aux funérailles.\nCe sont des quais et des casernes,\nDes quais toujours et leurs lanternes,\nImmobiles et lentes filandières\nDes ors obscurs de leurs lumières ;\nCe sont des tristesses de pierres,\nMaisons de briques, donjons en noir\nDont les vitres, mornes paupières,\nS'ouvrent dans le brouillard du soir ;\nCe sont de grands chantiers d'affolement,\nPleins de barques démantelées\nEt de vergues écartelées\nSur un ciel de crucifiement.",
+      "provisionalTranslation": "陰鬱な壁に沿って、\n鉄の工場に沿って、\nそのハンマーが稲妻をなめす、\nそれは葬式へと這っていく。\nそこには埠頭と兵舎があり、\n埠頭はいつもその提灯とともに、\n不動でゆっくりとした糸紡ぎ女のように、\nその光の暗い金を紡ぐ；\nそこには石の悲しみがあり、\n煉瓦の家々、黒い城塞、\nその窓は、陰気な瞼のように、\n夕霧の中で開く；\nそこには大きな狂乱の造船所があり、\n解体された舟で満ちて、\n磔にされた帆桁で満ちて、\n磔刑の空の上に。"
+    },
+    {
+      "id": 8,
+      "verses": "v.44–47",
+      "original": "En sa robe de joyaux morts, que solennise\nL'heure de pourpre à l'horizon,\nLe cadavre de ma raison\nTraîne sur la Tamise.",
+      "provisionalTranslation": "死んだ宝石の衣をまとい、地平線の\n紫の時刻が厳かにする、\n私の理性の死体が\nテムズ川に漂う。"
+    },
+    {
+      "id": 9,
+      "verses": "v.48–59",
+      "original": "Elle s'en va vers les hasards\nAu fond de l'ombre et des brouillards,\nAu long bruit sourd des tocsins lourds,\nCassant leur aile, au coin des tours.\nDerrière elle, laissant inassouvie\nLa ville immense de la vie ;\nElle s'en va vers l'inconnu noir\nDormir en des tombeaux de soir,\nLà-bas, où les vagues lentes et fortes,\nOuvrant leurs trous illimités,\nEngloutissent à toute éternité :\nLes mortes.",
+      "provisionalTranslation": "それは偶然へと向かって去っていく、\n影と霧の奥底へ、\n塔の角で翼を折る、\n重い警鐘の鈍く長い音とともに。\nその後ろに、充たされぬまま残して、\n生の巨大な都市を；\nそれは黒い未知へと去っていく、\n夕暮れの墓の中で眠るために、\nあちらへ、ゆっくりと強い波が、\n果てしない穴を開きながら、\n永遠に飲み込む：\n死せる女たちを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "En sa robe, couleur de feu et de poison,\nLe cadavre de ma raison\nTraîne sur la Tamise.",
+      "body": "詩集『詩篇（第二集）』最終セクション「FINALE（終曲）」唯一の詩篇。自由韻律（vers libre）的な可変行長を採用──アレクサンドラン（12音節）・8音節行・6音節行・最終行の3音節「Les mortes」まで幅広く混在する。詩集内の他の詩（「Mourir」・「À Ténèbres」等のアレクサンドラン統一）と韻律的に一線を画し、「終曲」としての形式的解放を示す。「couleur de feu et de poison（火と毒の色）」──「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」・「La Tête」の「pourpres soleils（紫の太陽）」の紫・火系列の最後の変奏。「le cadavre de ma raison（私の理性の死体）」──「raison（理性）」の擬人的女性形「la morte（死せる女）」として詩全体を通じて「elle（それ・彼女）」で参照される。§8でほぼ同一の句が「En sa robe de joyaux morts（死んだ宝石の衣）」として変奏された後、詩を環状に閉じる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des ponts de bronze, où les wagons\nEntrechoquent d'interminables bruits de gonds\nEt des voiles de bateaux sombres\nLaissent sur elle, choir leurs ombres.",
+      "body": "「青銅の橋・果てしない蝶番の音・暗い船の帆・影」──「Londres」の都市的イメージ系列（「ce Londres de fonte et de bronze（鋳鉄と青銅のロンドン）」・「quais infinis de lanternes fatales（運命的な提灯の果てしない河岸）」）がここで「私の理性の死体」を取り巻く葬礼的文脈に転換される。「Entrechoquent（打ち合わせる）」──「Ressouvenir」の「entrefrappées（互いに打ち合いながら）」と同語根の相互的衝突動詞。都市の騒音が理性の死を無関心に囲む。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sans qu'une aiguille, à son cadran, ne bouge,\nUn grand beffroi masqué de rouge,\nLa regarde, comme quelqu'un\nImmensément de triste et de défunt.",
+      "body": "「文字盤の針一本も動かぬままに（Sans qu'une aiguille, à son cadran, ne bouge）」──時計の停止。ボードレール「時計（L'Horloge）」の「Je suis l'Horloge（私は時計だ）」との対照──ボードレールの時計は常に動き死を数えるが、ヴェルハーレンの鐘楼の時計は停止している。理性の死と同時に時間が止まるという形而上的同期。「beffroi masqué de rouge（赤いマスクをした鐘楼）」──「マスク」を付けた鐘楼の擬人化。「Attirances」の「grands masques d'argent（大きな銀の仮面）」の銀の仮面が赤い仮面として変奏される。「Immensément de triste et de défunt（果てしなく悲しく、死んでいる）」──「immensément」というヴェルハーレン的誇張副詞が「défunt（死んでいる）」という形容詞に使われる。",
+      "targetId": "baudelaire_horloge",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Elle est morte de trop savoir,\nDe trop vouloir sculpter la cause,\nDans le socle de granit noir,\nDe chaque être et de chaque chose.",
+      "body": "「知りすぎて死んだ（morte de trop savoir）」・「原因を彫刻しようとしすぎて（trop vouloir sculpter la cause）」──「trop（〜しすぎ）」という過剰の副詞による死因の定義。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の「知識と苦悩の比例」が「知りすぎることによる死」として詩的に極限化される。「sculpter la cause / Dans le socle de granit noir（黒い花崗岩の台座に原因を彫刻する）」──「raison（理性）」の野望を彫刻という具体的行為として描く。「Les Malades」の「trop vouloir（意志しすぎること）」と同語根の過剰意志。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Elle est morte, atrocement,\nD'un savant empoisonnement,\nElle est morte aussi d'un délire\nVers un absurde et rouge empire.",
+      "body": "死因の三段階が「Elle est morte（それは死んだ）」の三重反復で構造化される：①「trop savoir（知りすぎ）」②「savant empoisonnement（知的中毒）」③「délire vers un absurde et rouge empire（不条理で赤い帝国への妄想）」。「savant empoisonnement（知的中毒）」──「savant（知的な・博識な）」が「empoisonnement（中毒）」を修飾する矛盾語法。知識そのものが毒として機能する命題はコヘレトの「知識＝労苦」を「知識＝中毒」として過激化したもの。「absurde et rouge empire（不条理で赤い帝国）」──「Fleur fatale」の「absurdité（不条理）」・「chiens vermeils（赤い犬）」の不条理的・赤の系列との接続。「empire（帝国）」という権力的語が「absurde（不条理）」によって解体される。",
+      "targetId": "verhaeren_fleur_fatale",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ses nerfs ont éclaté,\nTel soir illuminé de fête,\nQu'elle sentait déjà le triomphe flotter\nComme des aigles, sur sa tête.",
+      "body": "「神経が爆発した（nerfs ont éclaté）」──「Les Malades」の「tic-tac débile / De la tranquille mort des fous（衰弱したチクタク・狂者たちの静かな死）」における神経衰弱的崩壊の最終形。「Tel soir illuminé de fête（祝祭の光に満ちたある夜）」──崩壊の瞬間が「祭の夜」という逆説的な状況として設定される。絶頂の瞬間に崩壊するというモチーフは「Mourir」の「suprême afflux de couleurs et de chants（色彩と歌の至高の流入）」の死のヴィジョンと呼応する。「le triomphe flotter / Comme des aigles（鷲のように漂う勝利）」──「La Tête」の「crimes lyriques（叙情的犯罪）」への刑罰直前の「勝利の幻想」として機能する。",
+      "targetId": "verhaeren_mourir",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Elle est morte n'en pouvant plus,\nL'ardeur et les vouloirs moulus,\nEt c'est elle qui s'est tuée,\nInfiniment exténuée.",
+      "body": "「それは自ら死を選んだ（c'est elle qui s'est tuée）」──自殺の明示的な宣言。「Insatiablement」の傲慢な意志・「La Couronne」の「sacre-moi ton roi souffrant et ridicule（苦しみ悶える滑稽な王）」という自己聖化を経た「raison（理性）」が最終的に自己を死に追いやる。「L'ardeur et les vouloirs moulus（熱情と意志が磨り潰されて）」──「vouloirs（意志・意欲）」が「moulus（磨り潰された・挽かれた）」という製粉的動詞によって消耗として描かれる。「Infiniment exténuée（無限に消耗しきって）」──「infiniment」という副詞がヴェルハーレン的誇張の最後の例示として、消耗の絶対性を強調する。ヴェイユ「Accepter le vide（真空を受容する）」の「空虚を満たそうとする動きを停止させること」という命題が、ここでは意志の消耗としての自滅として現れる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Ce sont des quais et des casernes,\nDes quais toujours et leurs lanternes,\nImmobiles et lentes filandières\nDes ors obscurs de leurs lumières ;",
+      "body": "「埠頭はいつもその提灯とともに、不動でゆっくりとした糸紡ぎ女のように（Immobiles et lentes filandières）」──提灯を「filandières（糸紡ぎ女）」として擬人化する。「filandières」は運命の三女神（Parques）の別称でもある──「Londres」の「Parques dont les fuseaux plongent aux profondeurs（紡錘が深みへと沈む運命の女神たち）」の「Parques（パルカエ）」との直接的照応。運命の女神たちが「生命の糸を紡ぐ」のと同様に、提灯が「暗い金の糸」を紡ぐという比喩。「Ce sont des tristesses de pierres（石の悲しみ）」──建築物の感情的擬人化。「Les Malades」の「ville éteinte（消えた町）」の地方都市と対照的な、「Londres」的な工業都市の悲しみ。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Ce sont de grands chantiers d'affolement,\nPleins de barques démantelées\nEt de vergues écartelées\nSur un ciel de crucifiement.",
+      "body": "「大きな狂乱の造船所（grands chantiers d'affolement）」・「解体された舟（barques démantelées）」・「磔にされた帆桁（vergues écartelées）」・「磔刑の空（ciel de crucifiement）」──この4行が詩集全体で最も強度の高い宗教的暗示を持つ。「écartelées（八つ裂きにされた・四分割された）」はキリスト教の受難における「四肢の引き裂き」を示す。「ciel de crucifiement（磔刑の空）」──帆桁（横桁）が十字架として空に映る。「La Couronne（棘の冠）」でキリスト受難のモチーフを「我有化」した詩が、最終篇で「ciel de crucifiement」として都市景観に投影される。詩集の自己磔刑的主題の最後の形象。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "En sa robe de joyaux morts, que solennise\nL'heure de pourpre à l'horizon,\nLe cadavre de ma raison\nTraîne sur la Tamise.",
+      "body": "§1「En sa robe, couleur de feu et de poison」→§8「En sa robe de joyaux morts, que solennise / L'heure de pourpre à l'horizon」という変奏的環状反復。「feu et de poison（火と毒）」→「joyaux morts（死んだ宝石）」：衣の描写が火・毒という危険な活力から「死んだ宝石」という宝石的美へと転換される。「L'heure de pourpre à l'horizon（地平線の紫の時刻が厳かにする）」──「que solennise」という関係節が時刻を司式者とする。「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」・「La Tête」の「pourpres soleils（紫の太陽）」の紫系列が詩集の最終的な夕として収束する。",
+      "targetId": "verhaeren_mourir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Elle s'en va vers les hasards\nAu fond de l'ombre et des brouillards,\nAu long bruit sourd des tocsins lourds,\nCassant leur aile, au coin des tours.\nDerrière elle, laissant inassouvie\nLa ville immense de la vie ;",
+      "body": "「偶然へと（vers les hasards）」──「Londres」の「vers les hasards（偶然へと）」の冒頭v.4との完全な語彙的照応。詩集内でロンドン詩が最初に「hasards」を導入し、最終篇がそれを引き継ぐ。「Au long bruit sourd des tocsins lourds, / Cassant leur aile, au coin des tours（塔の角で翼を折る重い警鐘の鈍く長い音）」──「警鐘（tocsin）」が「翼を折る（cassant leur aile）」という鳥の擬人化。「Ressouvenir」の鐘が「呼びかけ（Appels）」として機能するのに対し、ここでの警鐘は翼を失って鳴り続ける。「La ville immense de la vie（生の巨大な都市）」──理性が後ろに残していく「生」が「巨大な都市」として形象化される。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Là-bas, où les vagues lentes et fortes,\nOuvrant leurs trous illimités,\nEngloutissent à toute éternité :\nLes mortes.",
+      "body": "詩集最終4行。「Engloutissent à toute éternité :（永遠に飲み込む：）」──コロン（:）の後に置かれる最終行が「Les mortes（死せる女たち）」の3音節。詩集最短の行が詩集全体を閉じる。単数「la morte（私の理性）」が複数「Les mortes（死せる女たち）」へと拡張される──私の理性の死が「すべての死せる女たち」の普遍的死として昇華される。「à toute éternité（永遠に）」という時間的永続とコロン後の完全停止という形式的矛盾が詩集の最終命題として機能する。コヘレト第1章v.4「terra autem in aeternum stat（しかし大地は永遠に立ち続ける）」の永遠性が、ここでは波が「永遠に飲み込む」という能動的永続として変奏される。詩集全体の「虚無（vanitas）」・「理性の死」・「意志の消耗」という主題が最終行「Les mortes」の3音節に収束する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
