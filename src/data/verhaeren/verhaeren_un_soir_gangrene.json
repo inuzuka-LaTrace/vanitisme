@@ -1,0 +1,148 @@
+{
+  "id": "verhaeren_un_soir_gangrene",
+  "title": "Un soir « sur des marais de gangrène et de fiel »",
+  "author": "Émile Verhaeren",
+  "source": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896, p. 167–169. 底本: fr.wikisource.org/wiki/Un_soir_«_sur_des_marais_de_gangrène_et_de_fiel_»_(Verhaeren)（2024年照合）",
+  "year": "1896",
+  "firstPublication": "Poèmes (IIe série). Paris: Société du Mercure de France, 1896.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『詩篇（第二集）』（1896年）収録の26行詩（p.167–169）。「La Dame en noir（黒衣の貴婦人）」の後、「Les Villes（町々）」の前に配置される。自由韻律（vers libre）的な可変行長──2行の冒頭連から4行連を5つ重ね、4行の結語連で閉じる7段落構成。タイトル「Un soir（ある夕べ）」に副題的引用「sur des marais de gangrène et de fiel」を添えた表記は、同名の他詩（「Un soir《sous ce funèbre ciel de pierre》」等）と区別するための編者的表記。詩全体が「Pays de（……の国）」という反復的呼びかけ（§3・§4・§5）を軸に展開し、腐敗・壊疽・胆汁・膿下水・嫌悪・憎悪・癩病・死という病理的語彙が積み重なる。冒頭の「壊疽と胆汁の沼地で、穴の開いた星々の心臓が天の奥底で血を流す」という宇宙的形象が、最終連で「壊疽と胆汁の私の心臓、砕けた星として、天の奥底に」という自己への内面化で鏡的に反復される──宇宙的苦悩と内的苦悩の同型性が詩全体の構造的核心をなす。詩集内での位置：「Les Malades（病者たち）」の「懐疑主義の病者」・「Fleur fatale」の「不条理の繁茂」という詩集前半の病理論が、本詩で「Pays de（……の国）」という地理的・集合的規模へと拡張される。ヴェルハーレン自身の1887–91年の神経衰弱期の地方滞在の記憶が背景にある。",
+  "keywords": [
+    "壊疽",
+    "胆汁",
+    "沼地",
+    "星の心臓",
+    "廃れた国",
+    "目の巡礼",
+    "膿下水",
+    "嫌悪",
+    "憎悪の国",
+    "癩病",
+    "晩課の死",
+    "鐘楼",
+    "砕けた星",
+    "宇宙と内面の鏡的反復",
+    "Pays de",
+    "病理的語彙"
+  ],
+  "relatedTexts": [
+    "verhaeren_les_malades",
+    "verhaeren_fleur_fatale",
+    "verhaeren_un_soir_funebre",
+    "verhaeren_ressouvenir",
+    "verhaeren_a_tenebres",
+    "baudelaire_spleen",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–2",
+      "original": "Sur des marais de gangrène et de fiel\nDes cœurs d'astres troués saignent du fond du ciel.",
+      "provisionalTranslation": "壊疽と胆汁の沼地の上で、\n穴の開いた星々の心臓が天の奥底から血を流す。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3–6",
+      "original": "Horizon noir et grand bois noir\nEt nuages de désespoir\nQui circulent en longs voyages\nDu Nord au Sud de ces parages.",
+      "provisionalTranslation": "黒い地平線と大きな黒い森、\nそして絶望の雲が\n長い旅をして巡り続ける、\nこの一帯の北から南へと。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–10",
+      "original": "Pays de toits baissés et de chaumes marins\nOù sont allés mes yeux en pèlerins,\nMes yeux vaincus, mes yeux sans glaives,\nComme escortes, devant leurs rêves.",
+      "provisionalTranslation": "低く垂れた屋根と海浜の藁葺き屋根の国、\nそこへ私の目が巡礼として向かった、\n敗れた私の目、剣なき私の目が、\n夢たちの前に護衛のように。"
+    },
+    {
+      "id": 4,
+      "verses": "v.11–14",
+      "original": "Pays de plomb — et longs égouts\nEt lavasses d'arrière-goûts\nEt chante-pleure de nausées,\nSur des cadavres de pensées.",
+      "provisionalTranslation": "鉛の国──そして長い下水道、\nそして後味のする膿水、\nそして嫌悪の泣き歌、\n思想の骸の上で。"
+    },
+    {
+      "id": 5,
+      "verses": "v.15–18",
+      "original": "Pays de mémoire chue en de la vase,\nOù de la haine se transvase,\nPays de la carie et de la lèpre,\nOù c'est la mort qui sonne à vêpre ;",
+      "provisionalTranslation": "泥の中に沈んだ記憶の国、\nそこで憎悪が器から器へと注ぎ移される、\n虫歯と癩病の国、\nそこでは死が晩課の鐘を鳴らす；"
+    },
+    {
+      "id": 6,
+      "verses": "v.19–22",
+      "original": "Où c'est la mort qui sonne à mort,\nObscurément, du fond d'un port,\nAu bas d'un clocher qui s'exhume\nComme un grand mort parmi la brume ;",
+      "provisionalTranslation": "そこでは死が死の鐘を鳴らす、\n薄暗く、港の奥底から、\n霧の中で大きな死者のように\n自ら掘り起こされる鐘楼の足元で；"
+    },
+    {
+      "id": 7,
+      "verses": "v.23–26",
+      "original": "Où c'est mon cœur qui saigne aussi,\nMon cœur morne, mon cœur transi,\nMon cœur de gangrène et de fiel,\nAstre cassé, au fond du ciel.",
+      "provisionalTranslation": "そこでは私の心臓もまた血を流す、\n陰鬱な私の心臓、凍えた私の心臓、\n壊疽と胆汁の私の心臓、\n砕けた星として、天の奥底に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sur des marais de gangrène et de fiel\nDes cœurs d'astres troués saignent du fond du ciel.",
+      "body": "自由韻律（vers libre）的な可変行長──2行の冒頭連が詩全体の主題的枠組みを一気に確立する。「gangrène et de fiel（壊疽と胆汁）」という医学・生理的語彙の対が詩集内で最も強度の高い病理的開口部をなす。「gangrène（壊疽）」は組織の壊死・腐敗を、「fiel（胆汁）」は苦味・憎悪の慣用的象徴を指す。「cœurs d'astres troués（穴の開いた星々の心臓）」──星を「心臓」として擬人化し、その心臓に「穴（troués）」が空いて「血を流す（saignent）」という身体的比喩。この冒頭の「星が血を流す」という宇宙的形象が、最終連（§7）の「壊疽と胆汁の私の心臓、砕けた星として」という自己への内面化と鏡的に対応し、詩全体の宇宙と内面の同型構造を定式化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Des cœurs d'astres troués saignent du fond du ciel.",
+      "body": "「天の奥底から（du fond du ciel）」──コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」の宇宙的循環が、ここでは「天の奥底で血を流す星」という苦悩の宇宙論として変奏される。「fond（奥底）」という語が最終連「au fond du ciel（天の奥底に）」で完全反復され、「天の奥底」が詩の開閉を担う環状的キーワードとして機能する。詩集内では「Les Malades」の「fixent la mort（死を見つめる）」という凝視が、ここでは「天の奥底」という方向性として空間化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Horizon noir et grand bois noir\nEt nuages de désespoir\nQui circulent en longs voyages\nDu Nord au Sud de ces parages.",
+      "body": "「黒い地平線と大きな黒い森（Horizon noir et grand bois noir）」──「noir」の二重反復が视覚的な黒の支配を確立する。「nuages de désespoir（絶望の雲）」という直接的な感情の空間化。「Qui circulent en longs voyages / Du Nord au Sud（北から南へと長い旅をして巡り続ける）」──コヘレト第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」の風の循環が、ここでは「絶望の雲」の地理的巡回として変奏される。「Ressouvenir」の「Appels de cloche à cloche」が聴覚的反復であるのに対し、本詩の繰り返しは絶望が地理的に循環するという空間的反復。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Pays de toits baissés et de chaumes marins\nOù sont allés mes yeux en pèlerins,\nMes yeux vaincus, mes yeux sans glaives,\nComme escortes, devant leurs rêves.",
+      "body": "「低く垂れた屋根と海浜の藁葺き屋根の国（Pays de toits baissés et de chaumes marins）」──「Pays de（……の国）」という呼びかけが§3・§4・§5に反復されるanaphora。「mes yeux en pèlerins（巡礼としての私の目）」──目の巡礼的擬人化。「yeux vaincus, mes yeux sans glaives（敗れた目、剣なき目）」──「Les Malades」の「Blafards et seuls（蒼白で孤独に）」という病者の目と照応する疲弊した視覚。「Comme escortes, devant leurs rêves（夢たちの前に護衛のように）」──目が夢の護衛として機能するという逆転：通常は目が夢を見るが、ここでは目が夢に従属する。「Attirances」の「vaguent … autour des vieux soleils（古い太陽たちのまわりをさまよう）」という漂いと照応する。",
+      "targetId": "verhaeren_les_malades",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Pays de plomb — et longs égouts\nEt lavasses d'arrière-goûts\nEt chante-pleure de nausées,\nSur des cadavres de pensées.",
+      "body": "「鉛の国（Pays de plomb）」──「plomb（鉛）」は重さ・毒性・沈鬱の慣用的象徴。「lavasses d'arrière-goûts（後味のする膿水）」──「lavasse」は「薄い汚水・膿水」を意味する口語。「arrière-goûts（後味）」との結合が、不快さが喉の奥に残り続けるという感覚的持続を示す。「chante-pleure（泣き歌）」──「chanter（歌う）」と「pleurer（泣く）」の複合語で、笑いながら泣く・歌いながら嘆くという矛盾した感情状態を一語で示す稀語。「cadavres de pensées（思想の骸）」──思想を死体として比喩化する。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の知識の毒性がここでは「思想の骸」という死的帰結として現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Pays de mémoire chue en de la vase,\nOù de la haine se transvase,\nPays de la carie et de la lèpre,\nOù c'est la mort qui sonne à vêpre ;",
+      "body": "「泥の中に沈んだ記憶の国（Pays de mémoire chue en de la vase）」──「chue（沈んだ・崩れ落ちた）」という動詞の過去分詞が記憶の堕落を示す。「haine se transvase（憎悪が器から器へと注ぎ移される）」──「transvaser」は液体を別の容器に移し替えることを意味する専門的動詞。憎悪が「壊疽と胆汁」の沼から人心へと移し替えられるという比喩。「carie et de la lèpre（虫歯と癩病）」──歯の内部腐敗（虫歯）と皮膚の外部腐敗（癩病）の対置。「mort qui sonne à vêpre（死が晩課の鐘を鳴らす）」──「Ressouvenir」の「Appels de cloche à cloche」の鐘が宗教的追憶として機能するのに対し、ここでは死が「晩課（vêpre）」という夕方の聖務日課の時刻に鐘を鳴らす──宗教的時間が死に支配される。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Où c'est la mort qui sonne à mort,\nObscurément, du fond d'un port,\nAu bas d'un clocher qui s'exhume\nComme un grand mort parmi la brume ;",
+      "body": "「死が死の鐘を鳴らす（la mort qui sonne à mort）」──「sonner à mort（死の鐘を鳴らす）」という慣用句と「à vêpre（晩課に）」から「à mort（死に）」への転換。§5末尾との連鎖反復的移行。「clocher qui s'exhume / Comme un grand mort parmi la brume（霧の中で大きな死者のように自ら掘り起こされる鐘楼）」──「s'exhumer（掘り起こされる）」という動詞が鐘楼に使われる大胆な擬人化。「Ressouvenir」の鐘楼が「鐘から鐘への呼びかけ」として追憶の媒介であるのに対し、本詩の鐘楼は「霧の中の死者」として自ら墓から起き上がる不気味な存在として現れる。「Londres」の「beffroi masqué de rouge（赤いマスクをした大きな鐘楼）」との照応：どちらも鐘楼を人格化するが、「Londres」の鐘楼は「悲しい」のに対し、本詩の鐘楼は「死者」。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Où c'est mon cœur qui saigne aussi,\nMon cœur morne, mon cœur transi,\nMon cœur de gangrène et de fiel,\nAstre cassé, au fond du ciel.",
+      "body": "「そこでは私の心臓もまた血を流す（mon cœur qui saigne aussi）」──冒頭§1「cœurs d'astres troués saignent du fond du ciel（穴の開いた星々の心臓が天の奥底から血を流す）」との完全な鏡的反復。「astres（星々）」の心臓→「mon cœur（私の心臓）」という宇宙的スケールから個人的内面への転換が詩全体の構造的核心をなす。「Mon cœur morne, mon cœur transi（陰鬱な私の心臓、凍えた私の心臓）」──「Les Malades」の「cœur morne et candide（陰鬱で純朴な心臓）」の「morne」と同語。「Astre cassé, au fond du ciel（砕けた星として、天の奥底に）」──§1の「穴の開いた星々の心臓」が「砕けた星（astre cassé）」として自己に収束する。「La Tête」の「ta tête→la tête」という一語の所有格喪失と同様に、本詩は宇宙的苦悩が「私の心臓」という個的苦悩へと転換することで閉じる。",
+      "targetId": "verhaeren_la_tete",
+      "targetParagraphId": 5
+    }
+  ]
+}
