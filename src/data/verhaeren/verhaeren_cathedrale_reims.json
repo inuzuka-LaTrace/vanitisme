@@ -1,0 +1,198 @@
+{
+  "id": "verhaeren_cathedrale_reims",
+  "title": "La Cathédrale de Reims",
+  "author": "Émile Verhaeren",
+  "source": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916 (16e éd.), p. 35–41. 底本: fr.wikisource.org/wiki/La_Cathédrale_de_Reims_(Verhaeren)（2024年照合）",
+  "year": "1916",
+  "firstPublication": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『戦争の赤い翼（Les Ailes rouges de la guerre）』（1916年）収録の長詩（p.35–41）。『詩篇（第二集）』（1896年）から20年後の作品であり、ヴェルハーレンの詩業の最晩年に位置する。1914年9月19日のドイツ軍によるランス大聖堂砲撃・炎上という歴史的事件への詩的応答として書かれた。構成は三部：第一部（§1–4）は大聖堂の平和時の壮麗さ──シャンパーニュの平原から「山として近づく」大聖堂・千年の美と祈り・クロヴィス洗礼・シャルルマーニュの声・内部の蝋燭と群衆の祈り。第二部（§5–9）は戦争の到来と破壊──マルヌ会戦の展開・ドイツ軍による砲撃・塔の包囲・「Alors（そして）」による破壊物の列挙・嘆きと火の描写。第三部（§10–11）は大聖堂の死と環状反復による閉幕──「焼けた腕で死んでいく大聖堂」・「Hélas !」と冒頭句の変奏による環状構造。タイトル「ランスの大聖堂（La Cathédrale de Reims）」はフランス王統の戴冠式が行われてきた歴史的聖地であり、ドイツ軍による破壊はフランス文明そのものへの攻撃として詩で告発される。詩集『詩篇（第二集）』の「La Couronne（棘の冠）」・「La Tête（首）」・「Insatiablement」等の自己的苦悩の詩学から、歴史的・集合的苦悩の詩学へのヴェルハーレンの転換を示す。",
+  "keywords": [
+    "ランス大聖堂",
+    "シャンパーニュ",
+    "砲撃",
+    "戦争",
+    "1914年",
+    "クロヴィス",
+    "シャルルマーニュ",
+    "マルヌ会戦",
+    "ドイツ軍",
+    "冒涜",
+    "環状構造",
+    "蝋燭",
+    "ステンドグラス",
+    "破壊",
+    "大聖堂の死",
+    "Les Ailes rouges de la guerre",
+    "戦争詩"
+  ],
+  "relatedTexts": [
+    "verhaeren_ressouvenir",
+    "verhaeren_les_armes_du_soir",
+    "verhaeren_heresiarque",
+    "verhaeren_la_couronne",
+    "mallarme_toast_funebre",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Qui parcourait l'espace d'or, dans la Champagne,\nEn ces midis d'automne où le pampre reluit\nLa regardait venir à lui\nComme une impérieuse et tranquille montagne.",
+      "provisionalTranslation": "シャンパーニュの黄金の空間を行き来する者は、\n野ブドウの葉が輝く秋の正午に、\nそれが自分へと近づいてくるのを見た、\n威風堂々として穏やかな山のように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–13",
+      "original": "Depuis le matin clair jusqu'au tomber du jour\nElle avançait et s'approchait\nDe celui qui marchait ;\nEt sitôt qu'il sentait l'ombre des grandes tours\nQui barraient la contrée\nLe gagner à leur tour,\nIl entrait dans la pierre\nCreusée immensément et pénétrée\nPar mille ans de beauté et mille ans de prière.",
+      "provisionalTranslation": "夜明けの明るさから日の落ちるまで、\nそれは前進し、近づいてきた、\n歩む者へと；\nそして大きな塔の影が\n一帯を遮りながら\n自分へと迫るのを感じた途端に、\n彼は石の内部に入った、\n果てしなく彫り抜かれ、\n千年の美と千年の祈りによって浸透した石の内部に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.14–21",
+      "original": "Ô vieux temple français, gardé par tes cent rois,\nDont l'image apaisée illustre tes murailles,\nDis-moi quel chant de gloire ou quel cri de bataille,\nVictorieusement, n'a retenti en toi !\nTu as connu Clovis, le Franc et sa compagne\nDont la main a guidé la main de saint Rémy\nEt peut-être un écho sous ta voûte endormi,\nJadis, a entendu la voix de Charlemagne.",
+      "provisionalTranslation": "ああ、古き французの聖堂よ、汝の百人の王たちに守られた、\nその安らかな像が汝の壁を飾る、\nいかなる栄光の歌いかなる戦の叫びが、\n勝利のうちに汝の中で響かなかったか！\n汝はクロヴィス、フランク人とその妃を知った、\nその手が聖レミの手を導いた、\nそしてかつて、汝の眠った穹窿の下に宿った木霊が、\nシャルルマーニュの声を聴いたかもしれない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.22–32",
+      "original": "Temple, tu es sacré, de ton faîte à tes pieds ;\nAu soir tombant, se joue à travers tes verrières\nComme un soleil infiniment multiplié ;\nSur tes grands murs, les ténèbres et les lumières —\nJoie et deuil — font leur voyage silencieux.\nAutour de tes piliers qui fusent jusqu'aux cieux,\nLes petits cierges blancs, de leurs clartés pointues,\nIlluminent le front penché de tes statues\nEt dressent des buissons de flammes dans la nuit.\nUne immense ferveur se dégage sans bruit\nDes foules à genoux, qui contiennent leurs larmes,\nMais qui savent pourtant qu'au long du Rhin, là-bas,\n— Canons, chevaux, drapeaux, soldats —\nRôde et se meut sans cesse un immense bruit d'armes.",
+      "provisionalTranslation": "聖堂よ、汝は頂きから足元まで聖なるものだ；\n夕暮れに、汝のステンドグラスを通して遊ぶ、\n無限に増殖した太陽のように；\n汝の大きな壁の上で、暗闇と光明が──\n喜びと喪──沈黙の旅をする。\n天へと噴き上がる汝の柱のまわりに、\n小さな白い蝋燭が、その尖った明かりで、\n汝の像たちのうつむいた額を照らし、\n夜の中に炎の茂みを立てる。\n巨大な熱情が物音もなく漂う、\n膝まずく群衆から、涙をこらえながら、\nしかし彼方のライン川沿いに、\n──大砲、馬、旗、兵士──\n果てしない武器の響きが徘徊し動き続けることを知っている群衆から。"
+    },
+    {
+      "id": 5,
+      "verses": "v.33–36",
+      "original": "Soudain la guerre est là qui monte et envahit.\nLe tocsin sonne et sonne et Reims en retentit.\nLes cieux sont sillonnés d'une foudre lointaine.\nL'orage des canons tonne de plaine en plaine.",
+      "provisionalTranslation": "突然、戦争がそこに現れ、増し、侵略する。\n警鐘が鳴り鳴り、ランスに響き渡る。\n天は遠くの稲妻で引き裂かれる。\n大砲の嵐が平原から平原へと雷鳴する。"
+    },
+    {
+      "id": 6,
+      "verses": "v.37–43",
+      "original": "Un choc ; et le combat décide du pays.\nLes bataillons teutons descendus vers Paris\nSont rejetés et poursuivis jusqu'en Champagne.\nOr, puisqu'il fait accueil à tout homme lassé,\nLe grand temple de gloire et d'amour traversé\nS'en vient aussi vers eux du fond de la campagne.",
+      "provisionalTranslation": "衝突；そして戦闘が国の命運を決する。\nパリへと南下したドイツ軍の大隊が\n撃退されシャンパーニュまで追撃される。\nさて、疲れた者すべてを迎え入れるからには、\n栄光と愛に貫かれたあの大きな聖堂が、\n田園の奥底から彼らのもとへとやってくる。"
+    },
+    {
+      "id": 7,
+      "verses": "v.44–52",
+      "original": "Mais eux\nPrenant ses rosaces pour cibles\nBraquent vers lui leur feu terrible.\nIl n'est sainte ni saint, il n'est Vierge ni Dieu,\nIl n'est pignon, il n'est muraille,\nQu'ils n'atteignent des éclats noirs de leur mitraille.\nLes tours, les grandes tours,\nEt l'abside brillante et l'obscur baptistère\nSont cernés à leur tour,\nD'une ceinture de tonnerres :\nPartout le crime ordonne et prodigue la mort.",
+      "provisionalTranslation": "しかし彼らは、\n薔薇窓を標的として、\nその恐ろしい砲火をそちらへ向ける。\n聖女も聖人もなく、聖母もなく神もなく、\n切妻もなく、壁もない、\n彼らが黒い砲弾の破片で届かないものは。\n塔、大きな塔、\nそして輝く後陣と暗い洗礼堂が、\n今度は包囲される、\n雷鳴の帯によって：\nいたるところで罪が命じ、死を惜しみなく振りまく。"
+    },
+    {
+      "id": 8,
+      "verses": "v.53–62",
+      "original": "Alors,\nCe qui fut la splendeur des choses baptisées :\nOgives vers leur voûte immobile élancées,\nVerrières d'ombre et d'or, transepts, piliers géants,\nOrgues faisant un bruit d'orage et d'océan,\nCryptes dont les grands morts hantaient les labyrinthes,\nDouces mains de la Vierge, et regards purs des saintes,\nTout, jusqu'aux bras du Christ, immense et pardonnant,\nEst brusquement broyé sous le piétinement\nDu plus rageur des sacrilèges.",
+      "provisionalTranslation": "そして、\n聖別されたものたちの壮麗さであったもの──\n静止した穹窿へ向かって噴き上がる尖頭アーチ、\n影と金のステンドグラス、翼廊、巨大な柱、\n嵐と大洋の音を立てるオルガン、\n偉大な死者たちが迷宮を漂う地下納骨堂、\n聖母の柔らかな手と、聖女たちの清純な眼差し、\nすべてが、果てしなく赦す磔刑のキリストの腕に至るまで、\n最も凶暴な冒涜の踏みにじりによって\n突然打ち砕かれる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.63–72",
+      "original": "Ô merveille tuée ! Ô beauté prise au piège !\nÔ murs de la croyance atrocement fendus !\nAinsi qu'un rampement de rapides couleuvres,\nLe feu mordait la chair divine des chefs-d'œuvre :\nOn entendait souffrir de beaux gestes tendus\n— Depuis quel temps — vers la pitié et la justice.\nDe pauvres voix sortaient du marbre et du granit ;\nLes ostensoirs d'argent par les papes bénis,\nLes chandeliers, et les crosses, et les calices\nÉtaient mordus par les flammes et s'y tordaient ;\nL'horreur était partout propagée et brandie ;\nLes vieux saints du portail priaient dans l'incendie,\nMais leurs cris vers le ciel dans leur mort se perdaient.",
+      "provisionalTranslation": "ああ、殺された驚異よ！ああ、罠にかけられた美よ！\nああ、信仰の壁よ、残酷に引き裂かれた！\n素早い蛇の這いのように、\n火は傑作の神聖な肉を噛んでいた；\n──いつからか──憐れみと正義へと向けられた、\n美しい身振りが苦しむのが聞こえた。\n大理石と花崗岩から哀れな声が出てきた；\n法王たちが祝別した銀の聖体顕示台、\n燭台、司教杖、聖杯が、\n炎に噛まれてその中でよじれた；\n恐怖はいたるところに広がり、振りかざされた；\n正面玄関の古い聖人たちは炎の中で祈ったが、\n彼らの叫びは天へ向かって死の中に消えた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.73–74",
+      "original": "Et maintenant avec ses pauvres bras brûlés\nLa cathédrale meurt sous les astres voilés.",
+      "provisionalTranslation": "そして今、焼けた哀れな腕で、\n大聖堂は曇った星々の下で死んでいく。"
+    },
+    {
+      "id": 11,
+      "verses": "v.75–78",
+      "original": "Hélas ! où sont les plaines d'or de la Champagne\nEt les mois de l'automne où le pampre reluit,\nQuand on venait vers elle et le jour et la nuit\nComme vers une sainte et tranquille montagne ?",
+      "provisionalTranslation": "ああ！シャンパーニュの黄金の平原はどこにあるか、\nそして野ブドウが輝く秋の月々は、\n昼も夜も、それへ向かって来たあの頃、\n聖なる穏やかな山へと向かうように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Qui parcourait l'espace d'or, dans la Champagne,\nEn ces midis d'automne où le pampre reluit\nLa regardait venir à lui\nComme une impérieuse et tranquille montagne.",
+      "body": "詩集『戦争の赤い翼』（1916年）収録。『詩篇（第二集）』（1896年）の自由韻律から、本詩は可変行長の混合韻律を用いる──アレクサンドラン（12音節）・デカシラブ（10音節）・短行（4〜8音節）が混在し、戦争の到来（§5）と破壊（§8）の場面で行が短くなる緊張構造。冒頭連と最終連（§11）が「Champagne / pampre reluit / montagne」という三韻を共有する環状構造（épiphore）を形成する──しかし§1「impérieuse et tranquille montagne（威風堂々として穏やかな山）」が§11「sainte et tranquille montagne（聖なる穏やかな山）」へと変化する：破壊後の大聖堂は「権威ある（impérieuse）」ものから「聖なる（sainte）」ものへと変容する。「pampre（野ブドウ）」はシャンパーニュ地方の象徴的植物であり、葡萄・ワイン・聖体式の連想を持つ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Il entrait dans la pierre\nCreusée immensément et pénétrée\nPar mille ans de beauté et mille ans de prière.",
+      "body": "「千年の美と千年の祈りによって浸透した石（Par mille ans de beauté et mille ans de prière）」──「mille ans（千年）」の二重反復が大聖堂の歴史的深度を定式化する。ランス大聖堂はゴシック建築として13世紀初頭（1211年）に着工され、約800年の歴史を持つ。「Creusée immensément（果てしなく彫り抜かれた）」──「immensément」というヴェルハーレン的誇張副詞が大聖堂の空間的深さを表す。「pénétrée par … la prière（祈りによって浸透した）」──石が物質的に存在しながら精神的な祈りによって「浸透」されるという逆説が、大聖堂の物質と精神の統合を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ô vieux temple français, gardé par tes cent rois,\nDont l'image apaisée illustre tes murailles,\nDis-moi quel chant de gloire ou quel cri de bataille,\nVictorieusement, n'a retenti en toi !",
+      "body": "「汝の百人の王たちに守られた（gardé par tes cent rois）」──ランス大聖堂の西正面にはフランス王たちの像が並ぶ「王の画廊（galerie des rois）」がある。「Dis-moi quel chant de gloire ou quel cri de bataille … n'a retenti en toi」という反語的修辞疑問──「いかなる栄光の歌・戦の叫びが汝の中で響かなかったことがあろうか」という全面的肯定の婉曲表現。クロヴィス（496年、ランスでのフランク族のキリスト教洗礼）・シャルルマーニュ（742–814）という二大カロリング朝の歴史的参照が大聖堂の政治的聖性を確立する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Au soir tombant, se joue à travers tes verrières\nComme un soleil infiniment multiplié ;\nSur tes grands murs, les ténèbres et les lumières —\nJoie et deuil — font leur voyage silencieux.",
+      "body": "「無限に増殖した太陽のようにステンドグラスを通して遊ぶ（comme un soleil infiniment multiplié）」──ゴシック大聖堂のステンドグラス（verrières）が光を複数に分割・増殖させる光学的効果の詩的表現。「ténèbres et les lumières / Joie et deuil」という二項対立の「沈黙の旅（voyage silencieux）」──大聖堂が喜びと喪という対立する人間的感情を同時に受け入れる空間として機能する。「Ressouvenir」の「鐘から鐘への呼びかけ」が聴覚的であるのに対し、ここでは光と影という視覚的対比が「沈黙の旅」として展開する。「buissons de flammes（炎の茂み）」──旧約聖書「燃える柴（buisson ardent）」のモチーフ。「La Couronne」での「buisson d'ébène en feu（燃える黒檀の茂み）」との照応。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Soudain la guerre est là qui monte et envahit.\nLe tocsin sonne et sonne et Reims en retentit.",
+      "body": "「突然、戦争がそこに現れ（Soudain la guerre est là）」──「soudain（突然）」という副詞が詩の転換点を鋭く刻む。「Le Gel」の「grand Dieu soudain（突然の偉大な神）」・「La Morte」の「Et tout à coup la mort（そして突然の死）」という詩集内の突然性の系列と照応する。「Le tocsin sonne et sonne（警鐘が鳴り鳴り）」──「Un soir《sur des marais de gangrène》」の「Au long bruit sourd des tocsins lourds（重い警鐘の鈍く長い音）」と同語。「Ressouvenir」の祈りの鐘と「La Morte」・本詩の警鐘という詩集横断的な「鐘の変容」──平和の鐘から戦争の鐘への転換として機能する。",
+      "targetId": "verhaeren_un_soir_gangrene",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Or, puisqu'il fait accueil à tout homme lassé,\nLe grand temple de gloire et d'amour traversé\nS'en vient aussi vers eux du fond de la campagne.",
+      "body": "「疲れた者すべてを迎え入れるからには、大きな聖堂が……田園の奥底からやってくる」──大聖堂が撤退するドイツ軍を「出迎える」という逆説的擬人化。§1の「大聖堂が歩む者へと近づく山として現れる」という平和時の擬人化（受動的な接近）が、ここでは砲撃を受けるために「やってくる」という能動的かつ受難的な接近として反転される。「temple de gloire et d'amour（栄光と愛の聖堂）」──§3の「quel chant de gloire」を受けて「gloire（栄光）」が繰り返される。ヨブ記第1章における「神の試練への開放」という受動的受難との照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mais eux\nPrenant ses rosaces pour cibles\nBraquent vers lui leur feu terrible.\nIl n'est sainte ni saint, il n'est Vierge ni Dieu,\nIl n'est pignon, il n'est muraille,\nQu'ils n'atteignent des éclats noirs de leur mitraille.",
+      "body": "「Mais eux（しかし彼らは）」──「À Ténèbres」の影の人々の描写で始まる「Ils ont passé…」という「ils（彼ら）」の冷徹な三人称視点と同じ手法で砲撃者を描く。「rosaces pour cibles（薔薇窓を標的として）」──ゴシック大聖堂の薔薇窓（rosace）はその精緻な石組みと彩色ガラスで最も高価かつ脆弱な建築要素。これを「cibles（標的）」として選ぶという行為が文化的破壊の意図性を告発する。「Il n'est sainte ni saint … Vierge … Dieu … pignon … muraille」という否定の列挙──§8の「Ce qui fut … Ogives … Verrières … Orgues … Cryptes … Vierge … Christ … Tout」という肯定的列挙の破壊的鏡として機能する。",
+      "targetId": "verhaeren_a_tenebres",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Alors,\nCe qui fut la splendeur des choses baptisées :\nOgives vers leur voûte immobile élancées,\nVerrières d'ombre et d'or, transepts, piliers géants,\nOrgues faisant un bruit d'orage et d'océan,\nCryptes dont les grands morts hantaient les labyrinthes,\nDouces mains de la Vierge, et regards purs des saintes,\nTout, jusqu'aux bras du Christ, immense et pardonnant,\nEst brusquement broyé sous le piétinement\nDu plus rageur des sacrilèges.",
+      "body": "「Alors（そして）」という一語の独立行が破壊の宣告として機能する。「Ce qui fut la splendeur … ：」というコロン後の列挙が8項目に及ぶ──尖頭アーチ・ステンドグラス・翼廊・柱・オルガン・地下納骨堂・聖母の手・聖女の眼差し──から「Tout（すべて）・jusqu'aux bras du Christ（磔刑のキリストの腕に至るまで）」という極限的総括へ。「Tout（すべて）」という一語が列挙全体を飲み込む。「Est brusquement broyé（突然打ち砕かれる）」──「Les Malades」の「cage d'os（骨の檻）」・「London」の「bruits de gonds（蝶番の音）」と同語根の「broyer（打ち砕く）」が大聖堂全体の破壊として拡張される。マラルメ「Toast funèbre」の死者の詩的記念への問いが、ここでは美の物理的破壊への告発として変奏される。",
+      "targetId": "mallarme_toast_funebre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ô merveille tuée ! Ô beauté prise au piège !\nÔ murs de la croyance atrocement fendus !\nAinsi qu'un rampement de rapides couleuvres,\nLe feu mordait la chair divine des chefs-d'œuvre :",
+      "body": "「Ô merveille tuée ! Ô beauté prise au piège ! Ô murs de la croyance atrocement fendus !」──三重の「Ô」による嘆きの呼格。「La Couronne」の「Ô couronne de ma douleur / Et de ma joie」という三重の「Ô」呼格と詩学的に照応するが、個人的苦悩から建築的・文明的苦悩へと規模が拡大される。「chair divine des chefs-d'œuvre（傑作の神聖な肉）」──建築・彫刻・芸術作品が「肉（chair）」を持つものとして擬人化され、「火が噛む（mordait）」という身体的暴力を受ける。「La Tête」の「Et tes muscles crîront（汝の筋肉が叫ぶだろう）」という身体的処刑の語彙が、大聖堂という集合的身体の破壊として拡張される。",
+      "targetId": "verhaeren_la_couronne",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Les vieux saints du portail priaient dans l'incendie,\nMais leurs cris vers le ciel dans leur mort se perdaient.",
+      "body": "「正面玄関の古い聖人たちは炎の中で祈ったが、彼らの叫びは天へ向かって死の中に消えた」──石の聖人像が「祈り（priaient）」・「叫ぶ（cris）」という能動的行為をする擬人化。しかし彼らの叫びは「天へ向かって死の中に消える（dans leur mort se perdaient）」──神への訴えが届かないという命題。ヨブ記第1章v.21「Sit nomen Domini benedictum」という苦難の中での神賛美が、ここでは「叫びが消える」という沈黙として逆転される。「Un soir《sur des marais》」の「leurs cris vers le ciel dans leur mort se perdaient」と同型の構造──砕けた星の苦悩が大聖堂の聖人たちの苦悩として集合的に反復される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et maintenant avec ses pauvres bras brûlés\nLa cathédrale meurt sous les astres voilés.",
+      "body": "「焼けた哀れな腕で（avec ses pauvres bras brûlés）」──大聖堂が「腕（bras）」を持つ擬人的身体として最終的に描かれる。「La Morte」の「Et maintenant avec ses pauvres bras brûlés」という詩集内の「Et maintenant（そして今）」という時制の転換句との照応。「meurt sous les astres voilés（曇った星々の下で死んでいく）」──「astres voilés（曇った星）」は§1の「espace d'or（黄金の空間）」という晴れた秋の空との最終的な対比。平和時の金色の天空が砲煙で曇った星空へと変容したことで、詩の環状構造が閉じる。",
+      "targetId": "verhaeren_la_morte",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Hélas ! où sont les plaines d'or de la Champagne\nEt les mois de l'automne où le pampre reluit,\nQuand on venait vers elle et le jour et la nuit\nComme vers une sainte et tranquille montagne ?",
+      "body": "詩の最終連。§1との三箇所の変化が変奏的環状構造を定義する。「Champagne / pampre reluit / montagne」という三韻は保存されるが、①「Qui parcourait l'espace d'or（黄金の空間を行き来する者）」→「Hélas !（ああ！）」という感嘆句への転換；②「la regardait venir à lui（それが自分へ近づくのを見た）」→「où sont les plaines d'or（黄金の平原はどこにあるか）」という喪失の疑問；③「impérieuse et tranquille montagne（威風堂々として穏やかな山）」→「sainte et tranquille montagne（聖なる穏やかな山）」：形容詞「impérieuse（権威ある）」が「sainte（聖なる）」へ変容する──破壊を経て大聖堂は権力的存在から純粋に聖なる存在へと昇華されるという詩学的結論。疑問文「？」で閉じることで、喪失が問いとして永続する。"
+    }
+  ]
+}
