@@ -1,0 +1,126 @@
+{
+  "id": "verhaeren_mort_chretienne",
+  "title": "Mort chrétienne",
+  "author": "Émile Verhaeren",
+  "source": "Les Moines. Paris: Société du Mercure de France, 1895, p. 265–266. 底本: fr.wikisource.org/wiki/Les_Moines_(Recueil)/Mort_chrétienne（2024年照合）",
+  "year": "1895",
+  "firstPublication": "Les Moines. Paris: Société du Mercure de France, 1895.",
+  "difficulty": "中級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『修道士たち（Les Moines）』（1895年）収録の24行詩（p.265–266）。詩集内セクション「AGONIE DE MOINE（修道士の臨終）」の後、「LE CIMETIÈRE（墓地）」の前に配置される。アレクサンドラン（12音節）24行、6連×4行、韻型ABAB統一。詩集『詩篇（第二集）』（1896年）の前年の作品であり、ヴェルハーレンの詩業の転換期に位置する。「修道士たち」はベルギーのグリムベルゲン修道院での滞在体験（1884–86年頃）から生まれた詩集で、カトリック修道生活の内側から死・祈り・沈黙を詩的に探求した。本詩は修道士的死の賛歌（「Qu'il te soit fait hommage et gloire（汝に讃えと栄光あれ）」という典礼的呼格の三重anaphora）として構成され、「キリスト教的死」を「時の財のうち唯一の現実（seule réalité）」・「霊的なパン（pain spirituel）」・「永遠への誇り（orgueil d'éternité）」として定義する。「黒い百合の刈り入れ（moisson des lys noirs）」・「黒の愛（noir amour）」・「黒檀の祭壇（autel d'ébène）」という語彙が詩集『詩篇（第二集）』の「ébène（黒檀）」系列（「La Couronne」・「Un soir《funèbre》」等）への橋渡しとして機能する。最終連の「Que sont les ans ? Une ombre errant après une ombre（年月とは何か？影の後を彷徨う影）」はコヘレト第1章の「虚無の虚無」命題の修道士的変奏として位置づけられる。",
+  "keywords": [
+    "キリスト教的死",
+    "修道士",
+    "賛歌",
+    "anaphora",
+    "典礼的呼格",
+    "黒い百合",
+    "黒檀の祭壇",
+    "永遠の誇り",
+    "霊的なパン",
+    "殉教者",
+    "処女",
+    "聖人",
+    "影の後の影",
+    "Les Moines",
+    "ABAB"
+  ],
+  "relatedTexts": [
+    "verhaeren_heresiarque",
+    "verhaeren_mourir",
+    "verhaeren_ressouvenir",
+    "verhaeren_la_couronne",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "juan_de_la_cruz_noche_oscura",
+    "liturgy_requiem_aeternam"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Qu'il te soit fait hommage et gloire, ô mort chrétienne !\nParmi les biens du temps seule réalité,\nSeul pain spirituel dont le cœur entretienne,\nSur la terre, son fixe orgueil d'éternité ;",
+      "provisionalTranslation": "汝に讃えと栄光あれ、ああキリスト教の死よ！\n時の財のうち唯一の現実、\n心が地上で養う唯一の霊的なパン、\nその不動の永遠への誇りを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Qu'il te soit fait hommage et gloire, ô mort austère,\nÀ toute heure qui vient et passe, à tout moment,\nToi, dont l'autel d'ébène appuyé sur la terre\nMêle sa flamme à la pâleur du firmament.",
+      "provisionalTranslation": "汝に讃えと栄光あれ、ああ厳格なる死よ、\n来ては過ぎていくすべての時刻に、あらゆる瞬間に、\n汝、大地の上に立てられた黒檀の祭壇が、\nその炎を天空の蒼白さに混ぜ合わせる汝に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Qu'il te soit fait hommage à travers les années,\nGrave ensevelisseuse ! Ô mort ! Ô noir amour !\nQui dans tes maigres mains détiens les destinées\nEt qui remplis de ciel les yeux défunts au jour ;",
+      "provisionalTranslation": "汝に年月を越えて讃えあれ、\n厳かなる埋葬者よ！ああ死よ！ああ黒の愛よ！\nやせた手の中に運命を握る者、\n日に死んだ目を天で満たす者。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Qu'on te louange ! Ô mort pieuse et baptisée !\nMort, qui portes en toi la tristesse des soirs,\nMort sereine, gerbant au fond de la pensée,\nDans les vallons du cœur, la moisson des lys noirs.",
+      "provisionalTranslation": "汝を讃えよ！ああ信心深く洗礼を受けた死よ！\n夕べの悲しみを汝の内に持つ死よ、\n平穏な死よ、思考の奥底に刈り束ね、\n心の谷間に、黒い百合の収穫を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "Mort des moines, mort des martyrs et mort des vierges,\nHosannas traversant d'un vol les cieux hautains,\nÔ mort, ceinte de feux, de prière et de cierges,\nÔ mort qui fais la vie ! Ô mort qui fais les saints !",
+      "provisionalTranslation": "修道士の死、殉教者の死と処女の死よ、\n高い天を一飛びに横切るホザンナよ、\nああ死よ、炎と祈りと蝋燭に囲まれた、\nああ命を作る死よ！ああ聖人を作る死よ！"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Le juste ne craint pas ta fidélité sombre,\nIl regarde au delà des horizons flottants :\nQue sont les ans ? Une ombre errant après une ombre\nDans le brouillard trompeur de l'espace et du temps.",
+      "provisionalTranslation": "義人は汝の暗い誠実さを恐れない、\n彼は漂う地平線の彼方を見る：\n年月とは何か？影の後を彷徨う影、\n空間と時間の欺く霧の中で。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Qu'il te soit fait hommage et gloire, ô mort chrétienne !\nParmi les biens du temps seule réalité,\nSeul pain spirituel dont le cœur entretienne,\nSur la terre, son fixe orgueil d'éternité ;",
+      "body": "アレクサンドラン（12音節）24行、6連×4行、韻型ABAB統一。「Qu'il te soit fait hommage（汝に讃えあれ）」という接続法現在による典礼的祈願文が§1（mort chrétienne）・§2（mort austère）・§3（à travers les années）と三連で反復されるanaphora構造を形成し、第4連（§4）で「Qu'on te louange（汝を讃えよ）」という変奏で締め括られる。典礼的賛歌（hymne）の形式──カトリック典礼の「Te Deum laudamus（神よ、我らは汝を讃える）」・「Requiem aeternam（永遠の安息を）」という賛歌形式を「死」への賛歌として転用する。「fixe orgueil d'éternité（不動の永遠への誇り）」──「orgueil（誇り・傲慢）」という詩集『詩篇（第二集）』全体の主題語が、ここでは宗教的・積極的な意味として使われる：「Mourir」・「Les Malades」・「La Tête」の個人的傲慢でなく、永遠への信仰的誇りとして。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Toi, dont l'autel d'ébène appuyé sur la terre\nMêle sa flamme à la pâleur du firmament.",
+      "body": "「大地の上に立てられた黒檀の祭壇（autel d'ébène appuyé sur la terre）」──「ébène（黒檀）」という詩集全体を貫く語が修道士的死の祭壇の材質として現れる。「La Couronne」の「buisson d'ébène en feu（燃える黒檀の茂み）」・「Les Malades」の「Dieu d'ébène et d'os（黒檀と骨の神）」・「Un soir《funèbre》」の「Voûté d'ébène et de métaux（黒檀と金属に穹窿造りになった）」という「ébène」系列の起源として、本詩（1895年）が機能する。「Mêle sa flamme à la pâleur du firmament（その炎を天空の蒼白さに混ぜ合わせる）」──地上の黒い祭壇の炎と天空の「pâleur（蒼白さ）」の融合という垂直的宇宙論。「Les Armes du soir」の「銀の月」・「À Ténèbres」の「catafalque d'or」という死の光景と詩集横断的な照応を持つ。",
+      "targetId": "verhaeren_la_couronne",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Grave ensevelisseuse ! Ô mort ! Ô noir amour !\nQui dans tes maigres mains détiens les destinées\nEt qui remplis de ciel les yeux défunts au jour ;",
+      "body": "「厳かなる埋葬者（Grave ensevelisseuse）」・「黒の愛（noir amour）」という二重の呼格による死の人格化。「ensevelisseuse（埋葬者）」──女性形の「埋葬する者」という職業的擬人化。「noir amour（黒の愛）」──愛（amour）と死の結合はロマン主義的「愛の死（Liebestod）」の系譜だが、ここでは「noir（黒）」という形容が修道服・喪服の色として宗教的意味を持つ。「remplis de ciel les yeux défunts au jour（日に死んだ目を天で満たす）」──「yeux défunts（死んだ目）」という「Attirances」の「yeux défunts de leur visage d'âme（魂の顔の死んだ目）」との照応：「Attirances」では地上を彷徨う影の人々の目であるのに対し、本詩では死の瞬間に閉じられる目が「天で満たされる」という昇天のビジョン。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mort, qui portes en toi la tristesse des soirs,\nMort sereine, gerbant au fond de la pensée,\nDans les vallons du cœur, la moisson des lys noirs.",
+      "body": "「夕べの悲しみを汝の内に持つ死（mort, qui portes en toi la tristesse des soirs）」──「tristesse des soirs（夕べの悲しみ）」は詩集『詩篇（第二集）』全体を貫く「soir（夕べ）」主題の宗教的変奏。「Ressouvenir」の「ô mon âme des soirs（夕べの私の魂よ）」・「Londres」の「Ô mon âme du soir（夕べの私の魂よ）」という呼格との照応：どちらも「夕べ」に死の感覚が結びつく。「moisson des lys noirs（黒い百合の収穫）」──「lys（百合）」はキリスト教的純潔・殉教の象徴、「noirs（黒）」という形容が修道院的死の色を加える。「gerbant（刈り束ね）」という農業的動詞が「Les Exodes」の難民が失う麦の山と対照的な霊的刈り入れとして機能する。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mort des moines, mort des martyrs et mort des vierges,\nHosannas traversant d'un vol les cieux hautains,\nÔ mort, ceinte de feux, de prière et de cierges,\nÔ mort qui fais la vie ! Ô mort qui fais les saints !",
+      "body": "「修道士の死・殉教者の死・処女の死（Mort des moines, mort des martyrs et mort des vierges）」──三種の神聖な死の列挙。カトリック聖人論の三カテゴリー：修道士（修道聖人）・殉教者・乙女（処女殉教者）。「Hosannas traversant d'un vol les cieux hautains（高い天を一飛びに横切るホザンナ）」──「Hosanna」はヘブライ語「הוֹשַׁע נָא（hosanna）」＝「どうか救ってください」の転訛で、典礼的賛美の叫びとして機能する。「Ô mort qui fais la vie ! Ô mort qui fais les saints !」──「死が命を作る（mort qui fais la vie）」という矛盾語法。キリスト教神学における死の逆説的意義──十字架の死による救済・殉教による聖性という命題。十字架の聖ヨハネ「Noche oscura（夜の暗い魂）」の「死」が新生への道として機能する神学的構造との照応。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Le juste ne craint pas ta fidélité sombre,\nIl regarde au delà des horizons flottants :\nQue sont les ans ? Une ombre errant après une ombre\nDans le brouillard trompeur de l'espace et du temps.",
+      "body": "「義人は汝の暗い誠実さを恐れない（Le juste ne craint pas ta fidélité sombre）」──「juste（義人）」はヨブ記第1章v.1「vir ille simplex et rectus（純朴で正しい人）」のラテン語の「rectus」と照応する「義人」概念。ヨブは試練の前で「神の誠実さを恐れず」信仰を保つという命題との構造的照応。「Que sont les ans ? Une ombre errant après une ombre（年月とは何か？影の後を彷徨う影）」──コヘレト第1章v.2「Vanitas vanitatum（虚無の虚無）」の修道士的変奏。「les ans（年月）」という時間が「影の後の影（ombre errant après une ombre）」として虚無化される──しかしコヘレトの虚無論と異なり、詩全体の「キリスト教的死」への賛歌という文脈に置かれることで、年月の虚無は「永遠への誇り（orgueil d'éternité）」§1への逆説的肯定として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    }
+  ]
+}
