@@ -1,0 +1,217 @@
+{
+  "id": "verhaeren_les_zeppelins_sur_paris",
+  "title": "Les Zeppelins sur Paris",
+  "author": "Émile Verhaeren",
+  "source": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916 (16e éd.), p. 113–118. 底本: fr.wikisource.org/wiki/Les_Zeppelins_sur_Paris_(Verhaeren)（2024年照合）",
+  "year": "1916",
+  "firstPublication": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『戦争の赤い翼（Les Ailes rouges de la guerre）』（1916年）収録の52行詩（p.113–118）。冒頭に「21 Mars 1915（1915年3月21日）」という日付を持つ。アレクサンドラン52行、13連×4行、韻型ABAB統一という規則的構成。「YPRES」の後、「LE PRINTEMPS DE 1915（1915年の春）」の前に配置される。1915年3月21日、ドイツの飛行船ツェッペリンが初めてパリ上空に到達した歴史的事件への詩的応答。構成は三部：第一部（§1–4）はツェッペリンの飛行の描写──夜空を滑る金属の船体・電信による警報・探照灯がパリの夜空を照らす。第二部（§5–9）は操縦者の視点──星座とルーヴルとノートルダムを見下ろすツェッペリン乗員の傲慢と自己神格化。第三部（§10–13）は撃退と結語──ツェッペリンたちはパリに到達せず撤退し、最終連でナポレオンの石棺（パンテオン）と、ルード作「ラ・マルセイエーズ」の彫刻がツェッペリンを撃退した者として暗示される。「La Cathédrale de Reims（ランスの大聖堂）」の破壊詩と対をなす「撃退詩」として、詩集内での思想的対話を形成する。傲慢（orgueil）というヴェルハーレン詩集全体の主題が、「Insatiablement」・「La Tête」・「Les Malades」の個人的傲慢から、敵の戦争的傲慢として外在化される。",
+  "keywords": [
+    "ツェッペリン",
+    "パリ",
+    "1915年3月21日",
+    "飛行船",
+    "探照灯",
+    "星座",
+    "ルーヴル",
+    "ノートルダム",
+    "ナポレオン",
+    "ルード",
+    "ラ・マルセイエーズ",
+    "傲慢",
+    "撃退",
+    "戦争詩",
+    "証言詩",
+    "Les Ailes rouges de la guerre"
+  ],
+  "relatedTexts": [
+    "verhaeren_cathedrale_reims",
+    "verhaeren_insatiablement",
+    "verhaeren_la_tete",
+    "verhaeren_les_malades",
+    "verhaeren_le_gel",
+    "baudelaire_elevation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Sous les étoiles d'or d'un ciel ornemental\nGlissent les Zeppelins dans la clarté hardie\nEt le vent assaillant leurs parois de métal\nEn fait luire et siffler l'armature arrondie.",
+      "provisionalTranslation": "装飾的な空の金の星々の下を、\nツェッペリンたちが大胆な明るさの中を滑る、\nそして金属の壁を攻撃する風が、\n丸い骨格を輝かせ、口笛を吹かせる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Un but sûr, mais lointain, les hèle et les conduit ;\nEt tandis qu'ils ne sont encor qu'ombre et mystère\nLeur vol énorme et lourd s'avance dans la nuit,\nEt passe on ne sait où, au-dessus de la terre.",
+      "provisionalTranslation": "確かだが遠い目標が彼らに叫び、導く；\nそして彼らがまだ影と謎に過ぎない間に、\n巨大で重い彼らの飛行は夜の中を前進し、\n大地の上のどこかを、人の知らないまま通過する。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Les plaines et les bois se dérobent sous eux\nEt les coteaux avec leurs fermes suspendues\nEt le bourg et la ville aux étages nombreux\nD'où leur présence proche est soudain entendue.",
+      "provisionalTranslation": "平原と森が彼らの下に身を隠す、\nそして宙に浮かぶような農場を持つ丘も、\nそして多くの階を持つ町や都市も、\nそこから彼らの近づく気配が突然聞こえる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Aussitôt jusqu'au Sud, et de l'Est et du Nord,\nS'émeut et retentit le télégraphe immense ;\nLa menace est criée et la vie et la mort\nOrganisent partout l'attaque ou la défense.",
+      "provisionalTranslation": "たちまち南まで、東から北から、\n巨大な電信が動揺し鳴り響く；\n脅威が叫ばれ、生と死が、\nいたるところで攻撃か防御かを組織する。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–20",
+      "original": "De toutes parts est perforé l'espace gris ;\nDes foyers de lumière en tous coins se dévoilent\nEt leurs barres de feu vont ramant sur Paris\nAvant de remonter se cogner aux étoiles.",
+      "provisionalTranslation": "四方八方から灰色の空が穿たれる；\n光の焦点があらゆる角から現れ、\nその火の棒がパリの上を漕ぎ進む、\n再び上昇して星々に衝突する前に。"
+    },
+    {
+      "id": 6,
+      "verses": "v.21–24",
+      "original": "Ceux qui guident le vol des navires, là-haut,\nVoient luire à leurs côtés la grande Ourse et les flammes\nD'Hercule et d'Orion, d'Hélène et des Gémeaux,\nEt s'estomper au loin le Louvre et Notre-Dame.",
+      "provisionalTranslation": "あの上で船の飛行を導く者たちは、\n横に輝く大熊座と、ヘルクレスとオリオンの、\nヘレナと双子座の炎を見る、\nそして遠くにルーヴルとノートルダムがかすんでいくのを。"
+    },
+    {
+      "id": 7,
+      "verses": "v.25–28",
+      "original": "La ville est à leurs pieds et se tasse en sa nuit\nEt se range et s'allonge aux deux bords de la Seine ;\nVoici ses palais d'or et ses quais de granit\nEt sa gloire pareille à la gloire romaine.",
+      "provisionalTranslation": "街は彼らの足下に広がり、夜の中に縮まる、\nそしてセーヌ川の両岸に沿って整列し延びる；\nここにその金の宮殿と花崗岩の河岸がある、\nそしてローマの栄光に似た、その栄光が。"
+    },
+    {
+      "id": 8,
+      "verses": "v.29–32",
+      "original": "L'ivresse monte en eux et leur orgueil est tel\nQue rien jusqu'à leur mort ne le pourra dissoudre.\nNe sont-ils pas à cet instant les rois du ciel\nEt les dieux orageux qui promènent la foudre ?",
+      "provisionalTranslation": "陶酔が彼らの中に昇り、その傲慢は凄まじく、\n死に至るまで何もそれを溶かすことができないほどだ。\n彼らはこの瞬間、天の王たちでないか、\nそして雷を散歩させる嵐の神々でないか？"
+    },
+    {
+      "id": 9,
+      "verses": "v.33–36",
+      "original": "Ils bondissent dans l'air lucide ; ils vont et vont,\nÉvoquant on ne sait quel mythe en leur mémoire\nEt creusent plus avant un chemin plus profond,\nDites, vers quel destin de chute ou de victoire.",
+      "provisionalTranslation": "彼らは澄んだ空気の中に跳び上がる；行く行く、\n記憶の中で何かよくわからない神話を呼び起こしながら、\nそしてさらに深く前に道を掘り進む、\n言ってほしい、いかなる墜落か勝利の運命へと。"
+    },
+    {
+      "id": 10,
+      "verses": "v.37–40",
+      "original": "Les projecteurs géants croisent si fort leurs feux\nQu'on dirait une lutte immense entre les astres\nEt que les Zeppelins se décident entre eux\nÀ déclancher soudain la mort et les désastres.",
+      "provisionalTranslation": "巨大な探照灯がその火をこれほど強く交差させるので、\n星々の間の巨大な戦いのように見える、\nそしてツェッペリンたちが互いに決断を下すかのように、\n突然、死と惨禍を解き放つことを。"
+    },
+    {
+      "id": 11,
+      "verses": "v.41–44",
+      "original": "Pourtant jusqu'à Paris aucun n'est parvenu.\nAvant qu'un monument ne devienne ruine\nIls s'en sont allés tous, comme ils étaient venus\nAvec le coup de l'échec dur en leur poitrine.",
+      "provisionalTranslation": "それでもパリまで到達したものは一機もなかった。\nいかなる記念碑も廃墟になる前に、\n彼らは皆去っていった、来たときのように、\n胸の中に失敗の手痛い一撃を持って。"
+    },
+    {
+      "id": 12,
+      "verses": "v.45–48",
+      "original": "Ils n'ont semé que ci et là, de coins en coins,\nLa mitraille qu'ils destinaient au dôme unique\nOù dort celui qui les ployait sous ses deux poings\nEt les dominait tous, de son front titanique.",
+      "provisionalTranslation": "彼らがまき散らしたのは、あちこちそこかしこに、\n唯一のドームへと向けていたはずの砲弾だけだった、\nそこに眠る者は、両の拳で彼らを屈服させ、\nその巨人的な額で、彼らすべてを支配した者が。"
+    },
+    {
+      "id": 13,
+      "verses": "v.49–52",
+      "original": "Et, peut-être, est-ce lui qui les a rejetés\nDu côté des chemins où la fuite s'accoude,\nRien qu'à se soulever, lentement, sur son coude\nTel que pour le réveil Rude l'avait sculpté.",
+      "provisionalTranslation": "そして、おそらくは、彼らを退けたのは彼だろう、\n逃走が肘をつく道の方へ、\nゆっくりと、その肘の上に身を起こすだけで、\nリュードが目覚めのために彫刻したような姿で。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sous les étoiles d'or d'un ciel ornemental\nGlissent les Zeppelins dans la clarté hardie\nEt le vent assaillant leurs parois de métal\nEn fait luire et siffler l'armature arrondie.",
+      "body": "アレクサンドラン（12音節）52行、13連×4行、韻型ABAB統一という規則的構成。詩集『戦争の赤い翼』内で最も整然とした形式を持つ詩の一つ。冒頭に「21 Mars 1915（1915年3月21日）」という日付──詩を歴史的証言として位置づける。「ciel ornemental（装飾的な空）」──「Un soir《sous ce funèbre ciel de pierre》」の「funèbre ciel de pierre（石の陰鬱な天空）」・「Le Gel」の「grand ciel clair, surnaturel, abstrait（超自然的で抽象的な大きな澄んだ空）」と並ぶ詩集内の天空描写だが、「ornemental（装飾的な）」という非情緒的・人工的形容が戦時下の皮肉として機能する。「Glissent les Zeppelins（ツェッペリンたちが滑る）」──動詞倒置が「滑る」という動作を前景化する。「armature arrondie（丸い骨格）」──飛行船の楕円形の金属骨格を「armature（骨格・鎧）」として描く。「Les Armes du soir」の「épée … armure（剣・鎧）」という武器系列の現代的変奏。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Un but sûr, mais lointain, les hèle et les conduit ;\nEt tandis qu'ils ne sont encor qu'ombre et mystère\nLeur vol énorme et lourd s'avance dans la nuit,",
+      "body": "「確かだが遠い目標が彼らに叫び、導く（Un but sûr, mais lointain, les hèle et les conduit）」──目標が「hèle（大声で呼びかける）」という行為主として擬人化され、ツェッペリンを引き寄せる。「Attirances」のタイトル「引力たち（Attirances）」が示す引き寄せる力として読める。「ombre et mystère（影と謎）」──「Attirances」の「grands masques d'argent que la brume recule（霧が後退させる大きな銀の仮面たち）」という霧の中の存在との照応：どちらも夜と霧の中で正体不明の巨大な存在として現れる。「vol énorme et lourd（巨大で重い飛行）」──ツェッペリンの重力的特性の強調。ボードレール「高揚（Élévation）」の霊的・軽やかな上昇運動との対照として機能する。",
+      "targetId": "verhaeren_attirances",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Les plaines et les bois se dérobent sous eux\nEt les coteaux avec leurs fermes suspendues\nEt le bourg et la ville aux étages nombreux\nD'où leur présence proche est soudain entendue.",
+      "body": "「平原・森・丘・農場・町・都市が下に身を隠す（se dérobent sous eux）」──「se dérober（身を隠す）」という動詞が地形と人間の居住地に使われる。空から見下ろす視点と地上から見上げる視点が交互に切り替わる叙述構造。「La Cathédrale de Reims」§1の「それが歩む者へと近づく山として現れる」という地上からの視点と対照的に、本詩は上空からの俯瞰視点を主軸とする。「leur présence proche est soudain entendue（彼らの近づく気配が突然聞こえる）」──飛行船の接近が聴覚によって感知されるという具体的描写。1915年の技術的現実の詩的記録。",
+      "targetId": "verhaeren_cathedrale_reims",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Aussitôt jusqu'au Sud, et de l'Est et du Nord,\nS'émeut et retentit le télégraphe immense ;\nLa menace est criée et la vie et la mort\nOrganisent partout l'attaque ou la défense.",
+      "body": "「巨大な電信が動揺し鳴り響く（le télégraphe immense）」──近代通信技術が詩的語彙として登場する。「Ressouvenir」の「Appels de cloche à cloche（鐘から鐘への呼びかけ）」という宗教的・聴覚的な信号伝達が、ここでは電信という現代的・速度的な信号網として変奏される。「la vie et la mort / Organisent partout l'attaque ou la défense（生と死がいたるところで攻撃か防御かを組織する）」──生と死という形而上的概念が軍事的組織行動の主語として使われる大胆な擬人化。「Le Gel」の「Et la crainte saisit（畏怖が掴みかかる）」という抽象概念の能動的行為と同形の修辞。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "De toutes parts est perforé l'espace gris ;\nDes foyers de lumière en tous coins se dévoilent\nEt leurs barres de feu vont ramant sur Paris\nAvant de remonter se cogner aux étoiles.",
+      "body": "「その火の棒がパリの上を漕ぎ進む（leurs barres de feu vont ramant sur Paris）」──探照灯（projecteur）の光線を「火の棒（barres de feu）」として描き、「ramant（漕ぎ進む）」という水泳・ボートの動詞を光に適用する共感覚的比喩。「se cogner aux étoiles（星々に衝突する）」──「Un soir《sous ce funèbre ciel de pierre》」の「Descend les escaliers du Nord（北の階段を降りていく）」という月の下降と対照的に、探照灯の光は星まで「衝突」しながら上昇する。詩集内の上昇・下降の運動主題の変奏。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Ceux qui guident le vol des navires, là-haut,\nVoient luire à leurs côtés la grande Ourse et les flammes\nD'Hercule et d'Orion, d'Hélène et des Gémeaux,\nEt s'estomper au loin le Louvre et Notre-Dame.",
+      "body": "「大熊座・ヘルクレス・オリオン・ヘレナ・双子座」──ツェッペリン乗員が見る星座の列挙。「大熊座（grande Ourse）」は北斗七星を含む北天の星座、「ヘルクレス（Hercule）」・「オリオン（Orion）」はギリシア神話の英雄の星座、「ヘレナ（Hélène）」はトロイア戦争の原因となったヘレネーの星座名（カストルとポルクスを含む「双子座（Gémeaux）」周辺）。神話的英雄の星座とツェッペリン乗員の「rois du ciel（天の王）」自己神格化（§8）が対応する。「s'estomper au loin le Louvre et Notre-Dame（遠くにルーヴルとノートルダムがかすむ）」──フランス文明の二大象徴が「かすむ（s'estomper）」という視覚的消滅として描かれる。「La Cathédrale de Reims」のノートルダムとの対比：あちらでは破壊されるが、本詩ではツェッペリンに「見下ろされる」という別種の暴力にさらされる。",
+      "targetId": "verhaeren_cathedrale_reims",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "La ville est à leurs pieds et se tasse en sa nuit\nEt se range et s'allonge aux deux bords de la Seine ;\nVoici ses palais d'or et ses quais de granit\nEt sa gloire pareille à la gloire romaine.",
+      "body": "「街は彼らの足下に広がる（La ville est à leurs pieds）」──§9「直下の視点」の最高点。「se tasse en sa nuit（夜の中に縮まる）」・「se range et s'allonge（整列し延びる）」という都市の自律的身体的動作の擬人化。「Londres」の「ce Londres de fonte et de bronze」が街路レベルから描かれるのに対し、本詩のパリは空から俯瞰される。「sa gloire pareille à la gloire romaine（ローマの栄光に似た栄光）」──パリのローマ的帝都としての自己理解。§8の「rois du ciel（天の王）」・§12の「front titanique（巨人的な額）」というナポレオン的帝国主義との反響。",
+      "targetId": "verhaeren_londres",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "L'ivresse monte en eux et leur orgueil est tel\nQue rien jusqu'à leur mort ne le pourra dissoudre.\nNe sont-ils pas à cet instant les rois du ciel\nEt les dieux orageux qui promènent la foudre ?",
+      "body": "「陶酔が昇り、傲慢は凄まじく、死に至るまで溶かせない（orgueil … rien … ne le pourra dissoudre）」──「orgueil（傲慢）」は詩集『詩篇（第二集）』全体を貫く主題語：「Mourir」の「notre immense orgueil（われらの果てしない傲慢）」・「Les Malades」の「peur de leurs orgueils（傲慢への恐れ）」・「La Tête」の「ton orgueil（汝の傲慢）」の系列が、ここでは敵の傲慢として外在化される。「Ne sont-ils pas … les rois du ciel / Et les dieux orageux qui promènent la foudre」──「天の王・雷を散歩させる嵐の神々」という修辞疑問。「Le Gel」の「grand Dieu soudain, glacial etsplendide（突然の、氷のように美しい偉大な神）」という神の形象が、ここでは自己神格化した敵として現れる。",
+      "targetId": "verhaeren_mourir",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ils bondissent dans l'air lucide ; ils vont et vont,\nÉvoquant on ne sait quel mythe en leur mémoire\nEt creusent plus avant un chemin plus profond,\nDites, vers quel destin de chute ou de victoire.",
+      "body": "「ils vont et vont（行く行く）」──同語反復による飛行の際限なき進行感。「on ne sait quel mythe en leur mémoire（記憶の中で何かよくわからない神話を呼び起こしながら）」──§6の星座（ヘルクレス・オリオン等の英雄神話）と連動する。「Dites, vers quel destin de chute ou de victoire（言ってほしい、いかなる墜落か勝利の運命へと）」──読者への直接の呼びかけ「Dites（言ってほしい）」が詩の中に現れる唯一の命令形。§11で「Pourtant jusqu'à Paris aucun n'est parvenu（それでもパリまで到達したものは一機もなかった）」という事実的答えとして解消される──詩が「chute（墜落）」の側の運命を先取りする構造。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Les projecteurs géants croisent si fort leurs feux\nQu'on dirait une lutte immense entre les astres\nEt que les Zeppelins se décident entre eux\nÀ déclancher soudain la mort et les désastres.",
+      "body": "「星々の間の巨大な戦い（une lutte immense entre les astres）」──探照灯の交差が宇宙的スケールの星の戦いとして比喩化される。「Un soir《sur des marais de gangrène》」の「cœurs d'astres troués saignent（穴の開いた星の心臓が血を流す）」という星の苦悩が、ここでは星の戦争として変奏される。「déclancher soudain la mort et les désastres（突然、死と惨禍を解き放つ）」──「soudain（突然）」という副詞が「La Cathédrale de Reims」§5「Soudain la guerre est là」と同様に詩の転換点として機能する──しかし§11でツェッペリンは「解き放つ」前に撤退する。",
+      "targetId": "verhaeren_un_soir_gangrene",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Pourtant jusqu'à Paris aucun n'est parvenu.\nAvant qu'un monument ne devienne ruine\nIls s'en sont allés tous, comme ils étaient venus\nAvec le coup de l'échec dur en leur poitrine.",
+      "body": "「それでもパリまで到達したものは一機もなかった（aucun n'est parvenu）」──§8の「rois du ciel（天の王）」という自己神格化への歴史的な否定。「La Cathédrale de Reims」ではランスが破壊されたのに対し、本詩ではパリは「いかなる記念碑も廃墟にならなかった」──二詩の歴史的対比が詩集内の思想的対話を構成する。「le coup de l'échec dur en leur poitrine（胸の中に失敗の手痛い一撃）」──「La Tête」の「Et tes muscles crîront（汝の筋肉が叫ぶだろう）」という身体的刑罰の語彙が、敵の失敗の身体的痛みとして反転される。",
+      "targetId": "verhaeren_cathedrale_reims",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "Ils n'ont semé que ci et là, de coins en coins,\nLa mitraille qu'ils destinaient au dôme unique\nOù dort celui qui les ployait sous ses deux poings\nEt les dominait tous, de son front titanique.",
+      "body": "「唯一のドーム（au dôme unique）」──パンテオン（Panthéon de Paris）のドームを指す。「そこに眠る者（celui qui dort）」はナポレオン一世（1769–1821）──アンヴァリッド（軍事博物館）の納骨堂に眠るナポレオンを指すという解釈も成立するが、「dôme」という語はパンテオンのドームとも読める。ドイツ軍がナポレオンの墓所を標的にしていたという皮肉な事実の指摘。「les ployait sous ses deux poings（両の拳で屈服させた）」──ナポレオンがドイツ諸邦（プロイセン・ライン同盟等）を征服した歴史的事実の詩的表現。「front titanique（巨人的な額）」──「Les Malades」の「cœur morne, mon cœur transi」という内的苦悩の身体部位（心臓）に対し、ナポレオンの支配は「額（front）」という知性・権力の部位に帰される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et, peut-être, est-ce lui qui les a rejetés\nDu côté des chemins où la fuite s'accoude,\nRien qu'à se soulever, lentement, sur son coude\nTel que pour le réveil Rude l'avait sculpté.",
+      "body": "詩の最終連。「Rude l'avait sculpté（リュードがそれを彫刻したような）」──フランソワ・リュード（François Rude, 1784–1855）による「ラ・マルセイエーズ（出征（La Marseillaise）」の浮き彫り（凱旋門、1836年）を指す。浮き彫りの中心には翼を持つ女性（アルジャンソナ、または「自由」の擬人化）と、その下で「肘の上に身を起こす（se soulever sur son coude）」兵士が描かれる。「peut-être（おそらく）」という不確かさが詩の結語に置かれる──確証ではなく「おそらく」としてナポレオン／フランス精神による撃退を提示することで、詩は歴史的証言と神話的想像の間に置かれる。「La Couronne」の「sacre-moi ton roi souffrant et ridicule（苦しみ悶える滑稽な王として聖別せよ）」という個人的自己聖化が、ここでは彫刻として固定されたフランスの英雄的記憶へと転換される。",
+      "targetId": "verhaeren_la_couronne",
+      "targetParagraphId": 4
+    }
+  ]
+}
