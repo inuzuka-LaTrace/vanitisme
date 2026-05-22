@@ -1,0 +1,191 @@
+{
+  "id": "verhaeren_les_exodes",
+  "title": "Les Exodes",
+  "author": "Émile Verhaeren",
+  "source": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916 (16e éd.), p. 49–56. 底本: fr.wikisource.org/wiki/Les_Exodes_(Verhaeren)（2024年照合）",
+  "year": "1916",
+  "firstPublication": "Les Ailes rouges de la guerre. Paris: Mercure de France, 1916.",
+  "difficulty": "上級",
+  "category": "verhaeren",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルハーレン（Émile Verhaeren, 1855–1916）の詩集『戦争の赤い翼（Les Ailes rouges de la guerre）』（1916年）収録の84行詩（p.49–56）。「MA CHAMBRE（私の部屋）」の後、「MON ÂME ELLE EST LÀ-BAS（私の魂はあちらに）」の前に配置される。自由韻律（vers libre）──行長が2音節（「Les foules」）から14音節以上まで可変で、詩集『Les Soirs』『『Les Débâcles』等の整然としたアレクサンドラン構成と決定的に異なる。タイトル「Les Exodes（脱出たち）」は旧約聖書「出エジプト記（Exode）」への暗示であり、ベルギー・フランス北部の農民・住民が1914年のドイツ軍侵攻によって故郷を追われた集団的難民の流れを指す。複数形「Exodes」は個別の逃走ではなく反復的・集合的な脱出を示す。構造は三部：第一部（§1–5）は逃走の開始──昔の日常的な歩みが今の無限の逃走に変わり、農場が炎上し、難民が家財・家畜とともに逃げる。第二部（§6–9）は炎の逆転──最初は炎が背後にあったが（§4）、やがて炎が群衆を追い越して前方にも広がる（§9）。第三部（§10–11）は「世界の終わりの予感」と結語のルフラン──「Et las de leur cœur triste et las de leurs pas lourds（心の悲しさに疲れ、重い足に疲れ）」という第7連末尾の句（§7）が最終連（§11）で反復・変奏されて詩を環状に閉じる。「La Cathédrale de Reims」・「Les Zeppelins sur Paris」が特定の歴史的事件への詩的応答であるのに対し、「Les Exodes」は無名の難民の集合的苦悩を描く叙事詩として詩集内で際立つ。",
+  "keywords": [
+    "難民",
+    "脱出",
+    "農場の炎上",
+    "家畜",
+    "逃走",
+    "ベルギー侵攻",
+    "炎の逆転",
+    "世界の終わり",
+    "ルフラン",
+    "自由韻律",
+    "農民",
+    "集合的苦悩",
+    "出エジプト記",
+    "警鐘",
+    "Les Exodes"
+  ],
+  "relatedTexts": [
+    "verhaeren_cathedrale_reims",
+    "verhaeren_les_zeppelins_sur_paris",
+    "verhaeren_les_malades",
+    "verhaeren_ressouvenir",
+    "verhaeren_a_tenebres",
+    "hieronymus_iob_1",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Les pas qui s'en allaient jadis\nEt du champ à la grange et de l'étable au puits,\nLes pas qui s'en allaient par la sente sauvage,\nLe dimanche matin, à la messe, au village,\nFuient aujourd'hui\nDe route en route, à l'infini.",
+      "provisionalTranslation": "かつて去っていった足音、\n畑から納屋へ、厩から井戸へ、\n荒れた小径を去っていった足音、\n日曜の朝、ミサへ、村へ、\nそれが今日は逃げる、\n道から道へ、果てしなく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–16",
+      "original": "Une à une, les fermes brûlent\nSur les plaines, au crépuscule ;\nOn croirait voir, là-bas, de larges fumiers noirs\nQui fument dans le soir,\nAvec un brusque éclat de feu tout à coup rouge.\nLa flamme passe et court des fermes jusqu'aux bouges\nEt mord déjà l'église et le vitrail ardent\nOù Jésus accueillait, dites, depuis quels temps\nL'hommage\nDes jaunes chameliers et des pourpres rois mages.",
+      "provisionalTranslation": "一つひとつ、農場が燃える、\n黄昏時の平原で；\nあちらに大きな黒い堆肥の山が見えるかと思うほど、\n夕暮れの中で煙を上げ、\n突然真っ赤な火の閃光とともに。\n炎は農場から安酒場まで走り広がり、\nもう教会と燃え盛るステンドグラスを噛む、\nそこでイエスは迎えていた、いつからか言ってほしい、\n捧げ物を、\n黄のラクダ使いと深紅の東方三博士の。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–26",
+      "original": "De toutes parts\nLes gens partent vers les hasards :\nIl en est qui s'en vont poussant sur leur charrette\nLe lit, le matelas, le banc, la chaufferette,\nEt la cage déserte où mourut le pinson ;\nD'autres chargent leur dos de vieilles salaisons\nQu'un voile épais et gris défend contre les mouches.\nJ'en ai vu qui tenaient une fleur à la bouche\nEt qui pleuraient, sans rien se dire, atrocement.\nDes vieux passent, serrant leur deuil et leur tourment,\nEt les mères sont là, pauvres, mornes, livides,\nLaissant mordre l'enfant à leur poitrine vide.",
+      "provisionalTranslation": "四方八方から、\n人々が偶然へと向かって旅立つ：\n荷車に押し積む者もいる、\nベッド、マットレス、腰掛け、懐炉、\nそしてアトリが死んだ空の籠を；\n他の者は古い塩漬け肉を背に積む、\n厚く灰色のヴェールが蠅から守る。\n口に花を一輪くわえながら、\n何も言わずに、ひどく泣いている者を私は見た。\n老いた者たちが過ぎていく、喪と苦悩を抱きしめながら、\n母親たちがそこにいる、哀れで、暗く、青白く、\n子供に空の胸を噛ませながら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.27–34",
+      "original": "D'abord c'est derrière eux,\nQue la flamme grandit et saute et tangue et houle :\nSon oblique lueur atteint et suit la foule\nQu'on croit voir osciller et marcher dans du feu ;\nLes crêtes des pignons croulent dans les fumées,\nLes meules aux flancs d'or sont partout allumées,\nLe bois flambe à l'orée et crépite et se tord\nEt le proche horizon est ligné d'arbres morts.",
+      "provisionalTranslation": "最初は彼らの背後で、\n炎が大きくなり、跳び、揺れ、うねる：\nその斜めの光が群衆に追いつき追いかけ、\n火の中で揺れながら歩いているかのように見える；\n切妻の頂部が煙の中に崩れ落ち、\n金色の側面を持つ干し草の山はいたるところで火がつき、\n森の端で炎が上がり、爆ぜ、よじれ、\n近くの地平線は枯れ木で縁取られる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.35–44",
+      "original": "Les gens qui vont et fuient\nPoussent devant leurs pas et leur porc et leur truie,\nEt leur chèvre et leur vache au corps lourd et ballant ;\nParfois les suit encore un long troupeau bêlant\nDont la plainte s'enfonce immensément dans l'ombre.\nDes chevaux harassés traînent des chars sans nombre\nEt les bêtes et les hommes ainsi s'en vont\nVers l'affreuse détresse et le malheur profond,\nSe rapprochant et se parlant comme naguère,\nAvec des mots qu'entend la terre\nDepuis toujours.",
+      "provisionalTranslation": "行き逃げる人々は、\n足の前に豚と雌豚を追い進める、\nそして重くぶらぶらした体の山羊と牛を；\n時に鳴き叫ぶ長い群れがまだ後に続き、\nその嘆きが影の中に果てしなく沈んでいく。\nへとへとの馬が無数の荷車を引き、\n動物と人間がこのように去っていく、\nひどい困窮と深い不幸へと、\n以前のように近づき語り合いながら、\n大地がいつも聴いてきた言葉で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.45–52",
+      "original": "Et tout à coup, voici les tours,\nLes grandes tours qui s'éclairent de bourgs en bourgs\nEt qui tendent jusqu'à la mer la tragédie\nHaletante de l'incendie.\nLa plaine et la forêt s'illuminent au loin.\nMares, fleuves, étangs et lacs sont les témoins\nDe la terreur qui dans les eaux se réverbère ;\nLes étoiles là-haut regardent sur la terre\nDe rougeoyants brasiers écheveler la nuit.",
+      "provisionalTranslation": "そして突然、見よ、塔が、\n村から村へと明かりをともす大きな塔が、\n荒々しく喘ぐ炎の悲劇を\n海まで伸ばしていく。\n平原と森が遠くに明るく照らされる。\n沼、川、池、湖が証人となる、\n水の中に反響する恐怖の；\n上の星々が地上を見下ろす、\n紅く燃える篝火が夜を乱す。"
+    },
+    {
+      "id": 7,
+      "verses": "v.53–63",
+      "original": "Tout est silence ou tout est bruit,\nTout est surprise et peur ; tout se plaint et frissonne ;\nEt dans les clochers noirs les derniers tocsins sonnent.\nEt les foules s'en vont toujours\nEt las de leur cœur triste et las de leurs pas lourds,\nN'ayant plus sous le front que la seule pensée\nD'avancer tout au long des routes défoncées\nPar le passage brusque et volant des canons.\nUne ville parfois et ses larges maisons\nEt ses gares de fer accueillent leurs détresses ;\nEn des fourgons partants quelques femmes se pressent,\nTandis qu'avec leurs fils, d'autres, obstinément,\n— Dites vers quelle horreur, ou vers quel dénuement ? —\nContinuent à marcher, tragiques et muettes.",
+      "provisionalTranslation": "すべては沈黙かすべては騒音、\nすべては驚きと恐れ；すべてが嘆き、震える；\n黒い鐘楼の中で最後の警鐘が鳴り響く。\nそして群衆はいつも去っていく、\n心の悲しさに疲れ、重い足に疲れ、\n額の下にもはやただ一つの思いしかなく、\n大砲の突然の飛ぶような通過で\nえぐられた道を、ひたすら進むという。\n時に町と広い家々が、\nそして鉄の駅が彼らの苦難を受け入れる；\n出発する貨車に何人かの女性が急ぎ込む、\nいっぽう、息子たちとともに、他の者は、頑固に、\n──どんな恐怖へ、どんな困窮へと言ってほしい？──\n悲劇的に、無言で歩き続ける。"
+    },
+    {
+      "id": 8,
+      "verses": "v.64–68",
+      "original": "Le feu bondit et rebondit partout :\nSes flammes violettes\nDevancent, à cette heure ardente, les remous\nDe ces foules qui vont et vont, Dieu sait vers où.",
+      "provisionalTranslation": "炎はいたるところで跳び、跳ね返る：\nその紫の炎が、\nこの燃え盛る時刻に、前へと出る、\n神のみぞ知るどこへと行く行くこの群衆の渦巻きより先に。"
+    },
+    {
+      "id": 9,
+      "verses": "v.69–75",
+      "original": "Car cette fois, c'est devant eux, que l'incendie\nPropage et sa terreur et sa rage brandies ;\nLe ciel est angoissé par l'immense lueur\nQui monte et perce et fouille et mord ses profondeurs.\nSoudain le brusque autan s'étend de plaine en plaine,\nIl ronfle et siffle et crie et part sans perdre haleine\nRallumer sous leur cendre et la flamme et le feu.",
+      "provisionalTranslation": "というのも今度は彼らの前で、炎が、\nその恐怖とその振りかざす怒りを広げるから；\n天は、その深みに昇り刺し探り噛みつく、\n果てしない光輝に苦悶する。\n突然、激しい南風が平原から平原へと広がり、\n息を切らさずに唸り口笛を吹き叫び出発し、\n灰の下の炎と火を再び燃やす。"
+    },
+    {
+      "id": 10,
+      "verses": "v.76–80",
+      "original": "Le pays tout entier s'épouvante de Dieu\nSi bien que tous croient voir planer dans l'étendue\nComme une fin de monde aux grands vents suspendue.",
+      "provisionalTranslation": "国全体が神の前に震え上がる、\nあまりにも皆が大きな風に吊り下げられた\n世界の終わりのようなものが広がりの中を漂うのを見ると信じるほど。"
+    },
+    {
+      "id": 11,
+      "verses": "v.81–84",
+      "original": "Et las de leur cœur triste et las de leurs pas lourds,\nLongues et fatales comme des houles\nLes foules\nPassent toujours.",
+      "provisionalTranslation": "そして心の悲しさに疲れ、重い足に疲れ、\nうねりのように長く宿命的に、\n群衆が、\nいつも通り過ぎていく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Les pas qui s'en allaient jadis\nEt du champ à la grange et de l'étable au puits,\nLes pas qui s'en allaient par la sente sauvage,\nLe dimanche matin, à la messe, au village,\nFuient aujourd'hui\nDe route en route, à l'infini.",
+      "body": "自由韻律（vers libre）──行長が2音節（§11「Les foules」）から14音節以上まで可変。詩集『戦争の赤い翼』内でも最も自由な韻律構成を持つ詩であり、『詩篇（第二集）』の整然たるアレクサンドラン構成との決定的な形式的転換を示す。冒頭連の構造：「Les pas qui s'en allaient jadis（かつて去っていった足音）」という過去時制の回想──「Et du champ à la grange et de l'étable au puits（畑から納屋へ、厩から井戸へ）」という日常の往復運動が「Fuient aujourd'hui / De route en route, à l'infini（今日は道から道へ、果てしなく逃げる）」という難民の逃走に転換される。「jadis（かつて）」vs「aujourd'hui（今日）」という時間の対比が詩全体の歴史的対立軸を一気に定式化する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La flamme passe et court des fermes jusqu'aux bouges\nEt mord déjà l'église et le vitrail ardent\nOù Jésus accueillait, dites, depuis quels temps\nL'hommage\nDes jaunes chameliers et des pourpres rois mages.",
+      "body": "「炎が農場から安酒場まで走り、教会と燃え盛るステンドグラスを噛む」──「La Cathédrale de Reims」の砲撃によるステンドグラスの破壊と同一の構造的場面。「Où Jésus accueillait, dites, depuis quels temps（そこでイエスは迎えていた、いつからか言ってほしい）」──「dites（言ってほしい）」という読者への直接の呼びかけは「Les Zeppelins」§9「Dites, vers quel destin」・§7「Dites vers quelle horreur」（本詩§7）と連動する詩集内の修辞的特徴。「des jaunes chameliers et des pourpres rois mages（黄のラクダ使いと深紅の東方三博士）」──東方三博士の礼拝を描いたステンドグラスの描写として、その色彩（黄・深紅）が炎の色と視覚的に重なる。",
+      "targetId": "verhaeren_cathedrale_reims",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "J'en ai vu qui tenaient une fleur à la bouche\nEt qui pleuraient, sans rien se dire, atrocement.\nDes vieux passent, serrant leur deuil et leur tourment,\nEt les mères sont là, pauvres, mornes, livides,\nLaissant mordre l'enfant à leur poitrine vide.",
+      "body": "「口に花を一輪くわえながら、何も言わずに、ひどく泣いている者を私は見た（J'en ai vu）」──「J'en ai vu（私は見た）」という一人称の証言が詩の中で唯一の直接的な目撃者の宣言として機能する。「La cage déserte où mourut le pinson（アトリが死んだ空の籠）」──難民が運ぶ空の鳥籠という細部が家庭的生活の完全な喪失を象徴する。「Les Malades」の「bêtes d'ennui（倦怠の獣たち）」という都市的・抽象的な動物と対照的な、農村的・具体的な動物の死。「Laissant mordre l'enfant à leur poitrine vide（子供に空の胸を噛ませながら）」──母乳の涸れた母親という極限的苦悩の細部描写。ヨブ記第1章の子供の喪失と同型の最も聖書的・普遍的な苦悩の形象。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 19
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "D'abord c'est derrière eux,\nQue la flamme grandit et saute et tangue et houle :\nSon oblique lueur atteint et suit la foule\nQu'on croit voir osciller et marcher dans du feu ;",
+      "body": "「D'abord c'est derrière eux（最初は彼らの背後で）」──「d'abord（最初は）」という副詞が§9「Car cette fois, c'est devant eux（今度は彼らの前で）」という炎の逆転と対になる詩全体の構造的軸。背後→前方という炎の包囲運動が詩の緊張の核心をなす。「grandit et saute et tangue et houle（大きくなり、跳び、揺れ、うねる）」──四動詞の連続が炎の多方向的な動作を実演するリズム。「Un soir《sous ce funèbre ciel de pierre》」の月が「降りていく」静止的運動と対照的な炎の爆発的動的描写。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et les bêtes et les hommes ainsi s'en vont\nVers l'affreuse détresse et le malheur profond,\nSe rapprochant et se parlant comme naguère,\nAvec des mots qu'entend la terre\nDepuis toujours.",
+      "body": "「動物と人間がこのように去っていく（les bêtes et les hommes ainsi s'en vont）」──ノアの方舟的な動物と人間の共同の逃走という旧約聖書的形象。「Se rapprochant et se parlant comme naguère（以前のように近づき語り合いながら）」──「comme naguère（以前のように）」という平時の日常性の残照。「Avec des mots qu'entend la terre / Depuis toujours（大地がいつも聴いてきた言葉で）」──コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の永続する大地が、ここでは「いつも人の言葉を聴いてきた大地」として変奏される。苦悩の普遍性・時間的深さの命題。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et tout à coup, voici les tours,\nLes grandes tours qui s'éclairent de bourgs en bourgs\nEt qui tendent jusqu'à la mer la tragédie\nHaletante de l'incendie.",
+      "body": "「突然、見よ、塔が──村から村へと明かりをともす大きな塔が（voici les tours, / Les grandes toursqui s'éclairent de bourgs en bourgs）」──「Ressouvenir」の「Appels de cloche à cloche, autour des cathédrales / Et des piliers et des claveaux」という鐘楼の宗教的参照が、ここでは炎に照らされた警鐘として変奏される。「qui tendent jusqu'à la mer la tragédie（悲劇を海まで伸ばす）」──炎が海岸線まで達するという地理的拡張が「La Cathédrale de Reims」の砲撃の局所的破壊と対照的な面的・全国的規模の破壊を示す。",
+      "targetId": "verhaeren_ressouvenir",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Et las de leur cœur triste et las de leurs pas lourds,\nN'ayant plus sous le front que la seule pensée\nD'avancer tout au long des routes défoncées\nPar le passage brusque et volant des canons.",
+      "body": "「心の悲しさに疲れ、重い足に疲れ（Et las de leur cœur triste et las de leurs pas lourds）」──この句が§7（v.56）と§11（v.81）に反復されるルフラン（refrain）。「Les Malades」の「Blafards et seuls, les malades hiératiques（第3・第9連の完全反復）」と同じ反復連の手法だが、病者の個人的停滞に対し、こちらは難民の集合的行進が主題。「N'ayant plus sous le front que la seule pensée（額の下にもはやただ一つの思いしかなく）」──人間の精神が一点の思考に収束する極限的集中。「routes défoncées / Par le passage brusque et volant des canons（大砲の突然の飛ぶような通過でえぐられた道）」──砲車によって破壊された道路という具体的な戦場の細部描写。",
+      "targetId": "verhaeren_les_malades",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Le feu bondit et rebondit partout :\nSes flammes violettes\nDevancent, à cette heure ardente, les remous\nDe ces foules qui vont et vont, Dieu sait vers où.",
+      "body": "「紫の炎（flammes violettes）」──炎の色が「赤・橙」の通常色から「紫（violettes）」へと変化する。「Mourir」の「pourpres et fleuves vermeils（紫と朱の川）」・「La Tête」の「pourpres soleils（紫の太陽）」という詩集全体の紫・赤系列の継続だが、難民を包む炎の色として機能する。「Dieu sait vers où（神のみぞ知るどこへと）」──「神（Dieu）」という語が詩集の中で唯一難民の行方の不確かさを語る存在として現れる。§10の「s'épouvante de Dieu（神の前に震え上がる）」という神への恐怖への橋渡しとして機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Car cette fois, c'est devant eux, que l'incendie\nPropage et sa terreur et sa rage brandies ;\nLe ciel est angoissé par l'immense lueur\nQui monte et perce et fouille et mord ses profondeurs.",
+      "body": "「今度は彼らの前で（Car cette fois, c'est devant eux）」──§4の「D'abord c'est derrière eux（最初は彼らの背後で）」との対比的転換。炎が後方から前方へと包囲を完成させる構造的頂点。「Le ciel est angoissé par l'immense lueur（天は果てしない光輝に苦悩する）」──天が「angoissé（苦悩する）」という人間的感情を持つ擬人化。「Un soir《sur des marais de gangrène》」の「cœurs d'astres troués saignent du fond du ciel（穴の開いた星の心臓が天の奥底で血を流す）」という天の苦悩と同型の宇宙的感情移入。「Soudain le brusque autan（突然激しい南風）」──「autan」は南西風・熱風を指す詩語。炎が南風によって再燃するという自然現象の詩的記録。",
+      "targetId": "verhaeren_un_soir_gangrene",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le pays tout entier s'épouvante de Dieu\nSi bien que tous croient voir planer dans l'étendue\nComme une fin de monde aux grands vents suspendue.",
+      "body": "「国全体が神の前に震え上がる（Le pays tout entier s'épouvante de Dieu）」──「s'épouvanter de Dieu（神の前に恐れおののく）」という動詞句。「Le Gel」の「Et la crainte saisit d'un immortel hiver / Et d'un grand Dieu soudain,glacial et splendide（不死の冬への、突然の氷のように美しい偉大な神への畏怖）」という個人的な神への畏怖が、「Les Exodes」では集合的な（「tous（皆）」・「le pays tout entier（国全体）」）神への畏怖として拡張される。「une fin de monde aux grands vents suspendue（大きな風に吊り下げられた世界の終わり）」──「fin de monde（世界の終わり）」という黙示録的イメージが「suspendue（吊り下げられた）」という宙づり状態として提示される──まだ落ちていない、しかし迫っているという緊張。",
+      "targetId": "verhaeren_le_gel",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Et las de leur cœur triste et las de leurs pas lourds,\nLongues et fatales comme des houles\nLes foules\nPassent toujours.",
+      "body": "詩の結語。§7のルフラン「Et las de leur cœur triste et las de leurs pas lourds」が反復された後、「Longues et fatales comme des houles / Les foules / Passent toujours（うねりのように長く宿命的に、群衆が、いつも通り過ぎていく）」という新しい要素が加わる。「comme des houles（うねりのように）」──海のうねりという波の比喩が群衆に適用される。「La Morte」の最終行「Les mortes（死せる女たち）」・本詩の「Les foules（群衆）」という名詞句のみを独立した行として置く手法の連続。「Passent toujours（いつも通り過ぎていく）」──コヘレト第1章v.4「Generatio praeterit（世代は過ぎ去り）」の「praeterit（過ぎ去る）」が「Passent（通り過ぎる）」として変奏される。難民の「通過」は歴史の循環的消滅として普遍化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
