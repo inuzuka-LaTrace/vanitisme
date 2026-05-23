@@ -42,6 +42,7 @@ import sologubData from './data/sologub';
 import blokData from './data/blok';
 import balmontData from './data/balmont';
 import tsvetaevaData from './data/tsvetaeva';
+import baltrusaitisData from './data/baltrusaitis';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
 import dowsonData from './data/dowson';
@@ -270,6 +271,7 @@ export default function App() {
       ...blokData,
       ...balmontData,
       ...tsvetaevaData,
+      ...baltrusaitisData,
       ...poeData,
       ...wildeData,
       ...dowsonData,
