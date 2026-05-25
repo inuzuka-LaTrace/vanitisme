@@ -1,0 +1,99 @@
+{
+  "id": "florez_astro_del_alma",
+  "title": "Astro del alma",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Astro_del_alma",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）はコロンビア・モデルニスモの代表的詩人。詩集「Cardos y lirios（1905）」所収。「Astro del alma（魂の星）」は亡き母の眼窩に静止した最後の涙を凝視する追悼詩であり、フローレスの詩業のうちで最も広く愛唱された作品のひとつ。構成は3連：第1連（6行）では死んだ母の瞼を縁どる隈に残された一滴の涙が描かれる。第2連（8行）ではその涙の滴が鏡となり、蝋燭の明かりのもとに眠る母の部屋を映す。第3連（5行）では詩的主体が唇をその滴に触れてそれを飲み干し、「今日その滴は私の魂の中で星となった（Hoy esa gota en mi alma es una estrella）」という昇華の一行で締め括られる。涙という「水」が「星（astro）」という「光」へと変容するこの図式は、モデルニスモにおける物質の精神化・象徴化の実践であり、ローデンバック的な静止した水面のヴァニタス美学、ロセッティの追悼ソネットの伝統、そしてネルヴォの星のイメージ群と広い射程で共鳴する。コロンビア現代詩において「母の死」と「涙の星化」というテーマはフローレスによって定型化されたと言ってよく、「Astro del alma」はVANITISMEのヴァニタス的詩学──消えゆく物質が精神的形象として永続する逆説──の南米的変奏として位置づけられる。",
+  "keywords": [
+    "亡き母",
+    "涙",
+    "lágrima",
+    "星",
+    "astro",
+    "鏡",
+    "espejo",
+    "蝋燭",
+    "cirio",
+    "モデルニスモ",
+    "コロンビア",
+    "昇華",
+    "ヴァニタス",
+    "追悼",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "nervo_apocaliptica",
+    "nervo_azrael",
+    "rossetti_remember",
+    "rodenbach_douceur_du_souvenir",
+    "rodenbach_coeur_de_leau",
+    "baudelaire_harmonie_du_soir",
+    "silva_ofrenda_a_la_muerte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1–6)",
+      "original": "En la ojera profunda,\nfría y amoratada,\nque de mi muerta madre idolatrada\nel ya rígido párpado circunda,\nla postrimera lágrima estancada\nvive y la yerta cavidad inunda.",
+      "provisionalTranslation": "深く、\n冷たく青紫に変色した隈の中に──\n私の愛してやまない亡き母の\nもはや硬直した瞼が縁どる──\n最後の涙が淀んで\n生き、冷え固まったその空洞を満たしている。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.7–14)",
+      "original": "Y esa lágrima quieta\nallí, sola y brillante,\ncomo un vivo diamante\nentre un cáliz marchito de violeta,\ncopia, como un espejo,\nlos confusos contornos de la alcoba\nde la muerta, que duerme ante el reflejo\nde un cirio, sobre un lecho de caoba.",
+      "provisionalTranslation": "そしてその静かな涙は\nそこに、ひとり輝きながら、\n枯れたスミレの花萼の中で\n生きたダイヤモンドのように、\n鏡のように写し取る──\n死者の部屋の\n朧げな輪郭を、蝋燭の反射の前で\nマホガニーの寝台に眠る彼女を。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.15–19)",
+      "original": "Estoy solo... con ella;\nun deseo tenaz mi mente azota:\npongo mis labios en la gota aquélla\ny me bebo la gota.\nHoy esa gota en mi alma es una estrella.",
+      "provisionalTranslation": "私はひとり……彼女とともに。\nひとつの執拗な欲望が私の心を打ちたたく：\n私はその滴に唇を触れ、\nその滴を飲み干す。\n今日その滴は私の魂の中で星となった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "En la ojera profunda,\nfría y amoratada,",
+      "body": "「深く、冷たく青紫に変色した隈（ojera profunda, fría y amoratada）」──詩の開口部が死の身体的痕跡の精密な観察として始まる。「ojera（目の下の隈・眼窩）」は本来「疲労・悲嘆のしるし」だが、ここでは死者の眼窩の変色として死後変化（屍班・死蝋）を指す。「amoratada（青紫に変色した）」はモレタ色（morado）からの形容詞で、死体が変色した皮膚の色調を詩的語彙のうちに取り込む──フローレスのモデルニスモ美学における「死の身体の審美化」の実践。ヴァニタス絵画の伝統において頭蓋骨・花・蝋燭とともに描かれる「消えゆく肉体の形象」が、ここでは一人の詩人の母親の眼窩という極めて私的な場所に凝縮される。ダヌンツィオ「Donna al sarcofago（棺の女）」における女性の死体の精密な描写との比較においても、世紀末の死体美学の文脈でフローレスの第1連は位置づけられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "la postrimera lágrima estancada\nvive y la yerta cavidad inunda.",
+      "body": "「最後の涙が淀んで生き、冷え固まった空洞を満たす（la postrimera lágrima estancada / vive y la yerta cavidad inunda）」──「postrimera（最後の・末の）」はスペイン語神学・典礼語彙で「四終（postrimeras：死・審判・天国・地獄）」の形容詞形。単なる「última（最後）」ではなく「終末論的な最後」というニュアンスをこの語は帯びる。「estancada（淀んだ・せき止められた）」という動詞形容詞が、涙が「流れ去らずに静止している」ことを強調する──ローデンバック「Cœur de l'eau（水の心）」の「止まった水（eau dormante）」の形象との照応：動かない水が死と記憶の貯蔵庫として機能する。第1連の韻律はロマンス語の assonance（母音韻）と consonance を交えた変形カルテッタ（cuarteta）の拡張：abba cc 様の包含韻（rima abrazada）が「閉じこめる」という内容を形式的に実演する。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "como un vivo diamante\nentre un cáliz marchito de violeta,\ncopia, como un espejo,",
+      "body": "「枯れたスミレの花萼の中の生きたダイヤモンド・鏡として写し取る（como un vivo diamante / entre un cáliz marchito de violeta / copia, como un espejo）」──三重の比喩の連鎖：涙＝ダイヤモンド（光の結晶化）・涙＝スミレの花萼の中の宝石（儚さと輝きの対比）・涙＝鏡（反映・コピー）。「cáliz marchito de violeta（枯れたスミレの花萼）」がヴァニタス的形象として機能する：かつて咲き誇ったスミレが萎れた花萼として死者の眼窩を比喩化する。「vivo diamante（生きたダイヤモンド）」の逆説──死者の眼窩に「生きて（vivo）」いる涙という矛盾が詩の中心的逆説。ローデンバック「Douceur du souvenir（思い出の甘さ）」の「涙が鏡となり過去を映す」という形象との直接的照応：静止した涙が死者の空間を「映す（copia）」ことで、喪失した現実を不完全に保存・反復するという構造。ボードレール「Harmonie du soir（夕べの調和）」の「思い出は別の告示台の中で輝く（le souvenir en moi luit comme un ostensoir）」──記憶が光として内面に保存されるという命題がフローレスにおいては「涙＝鏡＝記憶の保存器」として具体化される。",
+      "targetId": "rodenbach_douceur_du_souvenir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "los confusos contornos de la alcoba\nde la muerta, que duerme ante el reflejo\nde un cirio, sobre un lecho de caoba.",
+      "body": "「死者の部屋の朧げな輪郭を……蝋燭の反射の前でマホガニーの寝台に眠る彼女を（los confusos contornos de la alcoba / de la muerta, que duerme ante el reflejo / de un cirio）」──「duerme（眠る）」という現在形が「muerta（死者）」に使われる：死が「眠り（sueño）」の婉曲として用いられる西洋的慣習の詩的実践。「cirio（典礼用蝋燭）」はカトリック葬儀の枕元に置かれる蝋燭であり、「lecho de caoba（マホガニーの寝台）」は棺を暗示する──しかしこの詩は棺を直接言わず「寝台」という言葉を使うことで、死と眠りの境界を曖昧に保つ。ロセッティ「Remember（覚えていてほしい）」の「When you can no more hold me by the hand（あなたがもはや私の手を握れないとき）」における死の間接的提示との比較：どちらも死者の部屋・空間を直接的でない語彙で描写することで、喪失の事実を詩的に猶予させる。ローデンバック「Bruges-la-morte」的な「死者の部屋の静止した空間」──キャンドルと反射と静寂が死者の不在を逆説的に満たす空間として機能する。",
+      "targetId": "rossetti_remember",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "pongo mis labios en la gota aquélla\ny me bebo la gota.\nHoy esa gota en mi alma es una estrella.",
+      "body": "「その滴に唇を触れ、その滴を飲み干す。今日その滴は私の魂の中で星となった（pongo mis labios en la gota aquélla / y me bebo la gota / Hoy esa gota en mi alma es una estrella）」──詩の結語的昇華。「me bebo la gota（滴を飲み干す）」という行為が礼拝行為の身体的核心をなす：母の最後の涙を唇で受け取り体内に取り込む──カトリック的「聖体拝領（comunión）」の構造を帯びた行為として、死者との最後の身体的接触が「摂取（ingestion）」として実現される。「Hoy（今日）」という現在副詞が詩全体の時制を過去（観察）から現在（変容）へと転換させる結語として機能する。「gota → estrella（滴→星）」：物質（水）から光（星）への変容がこの詩の中心的詩的論理。ネルヴォ「Apocalíptica」では「死者の涙＝夜空の星（cada estrella del negro manto / es una gota de nuestro lloro）」という等式が提示されたが、フローレスはその逆：「一滴の涙が飲み込まれることで内面の星となる」──外部宇宙（ネルヴォ）と内部宇宙（フローレス）という対称的な「涙の星化」の論理。ネルヴォ「Azraël」の「en lo infinito de mi noche」との照応：どちらも「夜・無限・星」を内面化する動作を詩的主体が行う。シルバ「Ofrenda a la muerte（死への捧げ物）」との比較においても、死者の肉体的痕跡を詩的主体が自己内部に取り込む行為がコロンビア・モデルニスモの追悼詩の共通文法として確認される。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 2
+    }
+  ]
+}
