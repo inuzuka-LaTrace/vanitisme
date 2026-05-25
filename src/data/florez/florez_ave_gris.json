@@ -1,0 +1,206 @@
+{
+  "id": "florez_ave_gris",
+  "title": "Ave gris",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Ave_gris",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Ave gris（灰色の鳥）」は、梯子・月・梟という三つの象徴的形象を軸に、過去の逢引の記憶と現在の忘却・裏切りを対置する恋愛詩である。詩は13の不等連からなり、三つの時間的位相が交叉する：過去（梯子・青い空間・薔薇の花弁）→ 転換点（巨大な梟の出現と叫び）→ 現在（「今日すべては変わった」以降の皮肉的独白）。タイトルの「Ave gris（灰色の鳥）」は詩本文には直接登場せず、第7連・第10連の「巨大な梟（enorme lechuza）」・「陰鬱な鳥（pájaro lúgubre）」として変奏されながら、記憶の中に舞い込む不吉な証人として機能する。最終連の「鸚鵡は喋る、しかし梟は喋らない（hablan los loros / ¡pero no las lechuzas!）」という反転は、詩全体の構造的皮肉の結語として機能する──詩人は沈黙する梟として、女性の秘密を墓まで持っていくと宣言しつつ、まさにその詩においてその秘密を詩的形象として記録してしまうという逆説。モデルニスモ的な月・夜・無限の象徴語彙とロマン派的な恋愛の哀歌が交差するフローレスの代表的様式を示す一篇。",
+  "keywords": [
+    "Ave gris",
+    "lechuza",
+    "梟",
+    "梯子",
+    "escala",
+    "忘却",
+    "olvido",
+    "月",
+    "luna",
+    "無限",
+    "infinito",
+    "秘密",
+    "secreto",
+    "皮肉",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "verlaine_colloque_sentimental",
+    "rodenbach_loubli",
+    "rodenbach_nocturne",
+    "nervo_obsesion",
+    "baudelaire_harmonie_du_soir",
+    "dowson_a_last_word"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1–2)",
+      "original": "¿De la pared la escala suspendida?\n¡y al pie de la pared... tú y yo, mi vida!",
+      "provisionalTranslation": "壁に掛けられた梯子？\n壁の足もとに……君と私、わが命よ！"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.3–6)",
+      "original": "En la triste y desierta\nsoledad de los ámbitos azules,\ncomo una novia muerta,\nla blanca luna entre nevados tules.",
+      "provisionalTranslation": "悲しく荒涼とした\n青い空間の孤独の中に、\n死んだ花嫁のように、\n雪のようなチュールの間に白い月。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.7–8)",
+      "original": "¡Silencio, ni un ruido,\nmudo el viento en los árboles, dormido!",
+      "provisionalTranslation": "静寂、物音ひとつなく、\n木々の中で風は眠り、黙している！"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.9–11)",
+      "original": "Tú, mustia y temblorosa,\ncomo el pétalo casi desprendido\ndel cáliz de una rosa.",
+      "provisionalTranslation": "君は、萎れて震えながら、\n薔薇の花萼から\nほとんど散りかけた花弁のように。"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.12–14)",
+      "original": "¿Después? las explosiones\ndel amor, tanto tiempo comprimido,\n¡en nuestros anhelantes corazones!",
+      "provisionalTranslation": "その後は？ 長い時間押し込められていた\n愛の爆発が、\n私たちの熱望する心の中で！"
+    },
+    {
+      "id": 6,
+      "verses": "VI (v.15–16)",
+      "original": "¡El vértigo!... ¡Los éxtasis profundos!...\ndebajo de la noche y de los mundos!",
+      "provisionalTranslation": "眩暈！……深い恍惚……！\n夜と世界の下で！"
+    },
+    {
+      "id": 7,
+      "verses": "VII (v.17–20)",
+      "original": "Luego... un ave cruza\nel aire, que nos mira y lanza un grito:\nuna enorme lechuza,\nque se pierde en el lóbrego infinito.",
+      "provisionalTranslation": "それから……一羽の鳥が\n空気を横切り、私たちを見て叫び声を上げる：\n巨大な梟が、\n陰鬱な無限の中へと消えていく。"
+    },
+    {
+      "id": 8,
+      "verses": "VIII (v.21–22)",
+      "original": "Tú, que huyes asustada;\nyo, ¿qué subo la escala y luego? ¡nada!",
+      "provisionalTranslation": "君は怯えて逃げ去り、\n私は？ 梯子を上り、それから？ 何もない！"
+    },
+    {
+      "id": 9,
+      "verses": "IX (v.23–24)",
+      "original": "Hoy ha cambiado todo,\n¡oh niña, y de qué modo!",
+      "provisionalTranslation": "今日すべては変わってしまった、\nああ少女よ、いかに激しく！"
+    },
+    {
+      "id": 10,
+      "verses": "X (v.25–27)",
+      "original": "El espantoso olvido\ncomo pájaro lúgubre e inquieto,\nen la noche de tu alma se ha cernido.",
+      "provisionalTranslation": "恐ろしい忘却が\n陰鬱で落ち着きない鳥のように、\n君の魂の夜の中に舞い降りた。"
+    },
+    {
+      "id": 11,
+      "verses": "XI (v.28–29)",
+      "original": "¡Sabes que soy discreto\ny que nunca hablaré de tu secreto!",
+      "provisionalTranslation": "私が慎み深いことを、\nそして君の秘密について決して語らないことを君は知っている！"
+    },
+    {
+      "id": 12,
+      "verses": "XII (v.30–33)",
+      "original": "Más, no sabes, ignoras,\n¡cuán amargas y tristes son mis horas!\n¡No sabes que me río\ny que me estoy muriendo, á pesar mío!",
+      "provisionalTranslation": "しかし、君は知らない、わからない、\n私の時間がどれほど苦く悲しいかを！\n私が笑っていることを、\nそして自分の意志に反して死にかけていることを！"
+    },
+    {
+      "id": 13,
+      "verses": "XIII (v.34–39)",
+      "original": "Más no importa; que cante\nde alegría tú nuevo y dulce amante.\nDe tu honor ostentando los tesoros\nhoy por la senda de tu amado cruzas,\nporque sabes muy bien... que hablan los loros,\n¡pero no las lechuzas!",
+      "provisionalTranslation": "しかしもうどうでもいい。君の新しく甘い恋人が\n喜びを歌えばいい。\n名誉の宝を誇示しながら\n今日君は愛する人の道を歩く、\nなぜなら君はよく知っているから……鸚鵡は喋ると、\nしかし梟は喋らない！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¿De la pared la escala suspendida?\n¡y al pie de la pared... tú y yo, mi vida!",
+      "body": "「壁に掛けられた梯子・壁の足もとに君と私（De la pared la escala suspendida / al pie de la pared... tú y yo）」──詩の開口部が疑問文と感嘆文の対として提示される。「escala（梯子）」は逢引のための手段として暗示される──窓辺への梯子という恋愛詩の古典的道具立て（ロミオとジュリエット的コンベンション）が疑問形によって追憶的・不確かなものとして導入される。「¿De la pared...?（壁の？）」という疑問形が、梯子がすでにそこにないことを示唆する：現在の視点から過去の逢引の場を再構成しようとする記憶の不確かさ。「mi vida（わが命）」は呼格としてスペイン語圏の恋愛詩の慣用的呼びかけだが、詩の後半の「死にかけている（me estoy muriendo）」という告白に照らすと、「命（vida）」という語が皮肉的な反転を予告する。ヴェルレーヌ「Colloque sentimental（感傷的対話）」との比較：廃園の中を歩く二人の亡霊の会話として提示される失われた愛の回想が、フローレスでは梯子・壁という具体的建築的形象によって引き出される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "como una novia muerta,\nla blanca luna entre nevados tules.",
+      "body": "「死んだ花嫁のように、雪のようなチュールの間に白い月（como una novia muerta / la blanca luna entre nevados tules）」──月を「死んだ花嫁」に喩えるフローレスの中心的詩的形象。「novia muerta（死んだ花嫁）」：花嫁という生の絶頂にあるべき存在が「死んだ」状態として提示される逆説──ヴァニタス的な「生の絶頂と死の共存」の形象。「nevados tules（雪のようなチュール）」：チュールは花嫁のヴェールの素材であり、「雪のような（nevados）」という形容が白さ・冷たさ・死を重ねる。ローデンバック「Nocturne（夜想曲）」の「月が白い尼僧のように運河の上を歩く」という月の女性化・宗教化との照応：どちらも月に死と花嫁・修道女という女性的形象を重ねる世紀末詩学の共通文法を示す。「ámbitos azules（青い空間）」──マラルメ「L'Azur（天青）」の「l'Azur（青天）」の強迫的遍在との照応：青という色が逃れられない空間的広がりとして詩的主体を包囲する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "¡Silencio, ni un ruido,\nmudo el viento en los árboles, dormido!",
+      "body": "「静寂、物音ひとつなく、木々の中で風は眠り黙している（Silencio, ni un ruido / mudo el viento en los árboles, dormido）」──感嘆詞「¡Silencio!」による直接的命令的静寂の召喚。「mudo（黙した）」・「dormido（眠っている）」という二つの形容詞が風に適用される擬人化：風の沈黙が逢引の場の緊張した静止を体現する。「dormido（眠っている）」という語が第2連「novia muerta（死んだ花嫁）」の死のイメージを「眠り」として引き継ぐ：死・眠り・静寂という三項が詩全体の情調的基底をなす。ローデンバック「Du silence（沈黙について）」の「静寂が物事の本質を明かす」という沈黙の詩学との照応：フローレスの「¡Silencio!」は単なる音響的描写ではなく、逢引の秘密性・神聖性を保護する詩的実践として機能する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tú, mustia y temblorosa,\ncomo el pétalo casi desprendido\ndel cáliz de una rosa.",
+      "body": "「萎れて震えながら、薔薇の花萼からほとんど散りかけた花弁のように（mustia y temblorosa / como el pétalo casi desprendido / del cáliz de una rosa）」──「Astro del alma」第1連の「枯れたスミレの花萼（cáliz marchito de violeta）」と同じ「花萼（cáliz）」・「散りかけた花弁」という形象がフローレスの詩的語彙として反復される。「casi desprendido（ほとんど散りかけた）」という「ほとんど」の副詞が重要：完全に散ってはいないが今にも散りそうという「閾の状態」が女性の震えの感情的等価として提示される。「mustia（萎れた）」はスペイン語で花が萎れる状態を指す語で、「temblorosa（震えている）」という動的な震えと組み合わさることで、萎れた花が風に揺れるという複合的形象をなす。ガウティエ「Symphonie en blanc majeur（白長調のシンフォニー）」の「白い百合・純潔の象徴としての女性」という女性の植物的形象化との比較においても、世紀末における「花弁としての女性」という詩的慣習の文脈でこの連は位置づけられる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "¡El vértigo!... ¡Los éxtasis profundos!...\ndebajo de la noche y de los mundos!",
+      "body": "「眩暈！……深い恍惚……！夜と世界の下で（El vértigo! Los éxtasis profundos! / debajo de la noche y de los mundos）」──感嘆符と省略符号（...）の連続が表現の極限での言語の崩壊を示す：官能的絶頂の経験がそれ自体語り得ないものとして省略によって提示される。「vértigo（眩暈）」はモデルニスモ詩学における官能的・形而上学的な「目眩」の定型語：ダヌンツィオの官能詩群が同じ語彙を用いる。「debajo de la noche y de los mundos（夜と世界の下で）」──「mundos（世界たち）」の複数形が恍惚の宇宙的規模を暗示する。ボードレール「Harmonie du soir（夕べの調和）」の「天蓋が回転する（le ciel est triste et beau / comme un grand reposoir）」という感覚的眩暈との照応：どちらも逢引の場における感覚の宇宙化・拡張を示す。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Luego... un ave cruza\nel aire, que nos mira y lanza un grito:\nuna enorme lechuza,\nque se pierde en el lóbrego infinito.",
+      "body": "「それから一羽の鳥が空気を横切り、私たちを見て叫び声を上げる：巨大な梟が、陰鬱な無限の中へと消えていく（un ave cruza / una enorme lechuza / que se pierde en el lóbrego infinito）」──詩の転換点。「Luego...（それから……）」という副詞と省略符号が恍惚（第6連）から不吉な介入への突然の移行を示す。「lechuza（梟）」は西洋・ラテンアメリカ文化において死・不吉・夜の使者としての象徴的意味を持つ：スペイン語圏では「lechuza」の鳴き声は死の予兆とされる民間信仰がある。「que nos mira（私たちを見る）」──梟が証人として逢引を目撃する：のちの「¡pero no las lechuzas!（しかし梟は喋らない！）」という結語の伏線として、梟は「見る・知る・しかし語らない」という沈黙の目撃者として機能する。「lóbrego infinito（陰鬱な無限）」──ネルヴォ「Apocalíptica」の「lóbrego infinito」と全く同一の表現が使われる：詩集「Cardos y lirios」とネルヴォの「Místicas」（1898）は同時代のスペイン語圏モデルニスモの共通語彙を示す。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "yo, ¿qué subo la escala y luego? ¡nada!",
+      "body": "「私は？ 梯子を上り、それから？ 何もない！（yo, ¿qué subo la escala y luego? ¡nada!）」──第1連の「¿De la pared la escala suspendida?（壁に掛けられた梯子？）」との構造的対応：詩の冒頭の梯子が詩の中盤で「上った結果が無（nada）」という虚無の結語として回収される。「nada（何もない）」──コヘレト「Vanitas vanitatum」のラテン語的虚無がスペイン語で最も端的に表現された語：梯子を上るという行為の徒労性が一語で決着する。問いの連鎖「¿qué...y luego?（それから？）」が答えとして「¡nada!」という感嘆的否定を生む構造：コヘレト第3章「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」という問いと同型の問いがフローレスの恋愛詩の文脈で現れる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Hoy ha cambiado todo,\n¡oh niña, y de qué modo!",
+      "body": "「今日すべては変わってしまった、ああ少女よ、いかに激しく（Hoy ha cambiado todo / oh niña, y de qué modo）」──「Hoy（今日）」という時制の転換語が「Astro del alma」最終行の「Hoy esa gota en mi alma es una estrella（今日その滴は私の魂の中で星となった）」と構造的に対応する：「Astro del alma」では「Hoy」が昇華・変容の完成を告げるのに対し、「Ave gris」では「Hoy」が喪失・変質の確認を告げる。「¡oh niña...!（ああ少女よ！）」という呼格が、回想の中の親密な「tú（君）」から現在の「niña（少女）」への距離化を示す：「mi vida（わが命）」という第1連の親密な呼格が「niña（少女）」という客体化された呼格へと格下げされる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "El espantoso olvido\ncomo pájaro lúgubre e inquieto,\nen la noche de tu alma se ha cernido.",
+      "body": "「恐ろしい忘却が陰鬱で落ち着きない鳥のように、君の魂の夜の中に舞い降りた（El espantoso olvido / como pájaro lúgubre e inquieto / en la noche de tu alma se ha cernido）」──「olvido（忘却）」の擬鳥化。忘却が「鳥（pájaro）」として「舞い降りる（cernirse）」という形象は、タイトル「Ave gris（灰色の鳥）」の主題的核心：「灰色の鳥」＝忘却の鳥という等式がここで明示される。「en la noche de tu alma（君の魂の夜の中に）」──「魂の夜」という内面的暗闇の形象が十字架の聖ヨハネ「Noche oscura del alma（魂の暗夜）」の神秘主義的語彙を世俗的恋愛詩の文脈で転用する：神秘主義的「魂の暗夜」が「忘却の鳥が棲みつく夜」として愛の喪失に適用される。ローデンバック「L'Oubli（忘却）」の「忘却が静かに降り積もる・記憶の消去」という忘却の詩的主題との直接的照応：ローデンバックにとって忘却が「水・霧・静寂」の形象で描かれるのに対し、フローレスは「陰鬱な鳥」という動的・不吉な形象を選択する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "¡Sabes que soy discreto\ny que nunca hablaré de tu secreto!",
+      "body": "「私が慎み深く、決して君の秘密について語らないことを君は知っている（Sabes que soy discreto / nunca hablaré de tu secreto）」──「discreto（慎み深い・秘密を守る）」という語がスペイン語で持つ社会的・道徳的意味：単なる「静かな」ではなく「秘密保持者」としての社会的役割の宣言。「secreto（秘密）」が具体的には何であるかは詩中で明示されない：逢引の事実そのものか、女性が誰かに語ったか否かかは不明のまま残される。ダウスン「A Last Word（最後の言葉）」の「Let us go hence, my songs; she will not hear」──愛する者への最後の沈黙の宣言との比較：どちらも語ることを断念しながら、まさにその詩において語り続けるという逆説的構造をとる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "¡No sabes que me río\ny que me estoy muriendo, á pesar mío!",
+      "body": "「私が笑っていること、そして自分の意志に反して死にかけていることを君は知らない（No sabes que me río / y que me estoy muriendo, á pesar mío）」──笑いと死の共存という逆説的告白。「me río（私は笑う）」と「me estoy muriendo（私は死にかけている）」の現在形の並置が「公的な笑顔と内的な死」の分裂を示す：仮面としての笑いとその下の自壊という詩的主体の二重性。「á pesar mío（自分の意志に反して）」という付加句が重要：死を望んで死んでいくのではなく、意図せずして死にかけているという、抵抗不可能な感情的衰弱の表明。ローデンバック的な「外見上の平静と内部の死」──「Seul（孤独）」・「Nocturne」における沈黙の下の疼痛という感情的構造との照応：フローレスの「笑いながら死ぬ」という表現は世紀末詩人の公的仮面と私的苦悩の典型的な表出形式。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "porque sabes muy bien... que hablan los loros,\n¡pero no las lechuzas!",
+      "body": "「鸚鵡は喋る、しかし梟は喋らない（hablan los loros / ¡pero no las lechuzas!）」──詩全体の構造的結語にして最大の修辞的転換。「loros（鸚鵡）」と「lechuzas（梟）」の対置：鸚鵡は「意味なく反復する・秘密を漏らす」鳥として、梟は「沈黙の目撃者・秘密保持者」として機能する。詩人は梟として自らを提示する──第7連で逢引を目撃した梟が、詩の結末で詩人の分身として確定される。しかしこの宣言自体が逆説をはらむ：「梟は喋らない」と宣言するこの詩そのものが、秘密の記録・公表であるからである。詩の言語行為（écriture）が「沈黙の宣言」の裏切りとして機能するというメタ詩学的逆説。ダウスン「A Last Word」の「そして我々はしずかに別れを告げる」という沈黙の宣言が詩として存在することの逆説と同型。ロセッティ「Remember（覚えていてほしい）」の「Better by far you should forget and smile / Than that you should remember and be sad（忘れて微笑む方が、覚えていて悲しむよりも遥かによい）」──忘れることへの承認がフローレスの「Hoy ha cambiado todo（今日すべては変わった）」という忘却の確認と対称的照応をなす。",
+      "targetId": "rossetti_remember",
+      "targetParagraphId": null
+    }
+  ]
+}
+
