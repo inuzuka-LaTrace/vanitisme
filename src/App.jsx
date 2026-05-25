@@ -59,6 +59,7 @@ import borjaData from './data/borja';
 import noboaData from './data/noboa';
 import darioData from './data/dario';
 import nervoData from './data/nervo';
+import florezData from './data/florez';
 import hieronymusData from './data/hieronymus';
 import liturgyData from './data/liturgy';
 import horatiusData from './data/horatius';
@@ -295,6 +296,7 @@ export default function App() {
       ...noboaData,
       ...darioData,
       ...nervoData,
+      ...florezData,
       ...hieronymusData,
       ...liturgyData,
       ...horatiusData,
