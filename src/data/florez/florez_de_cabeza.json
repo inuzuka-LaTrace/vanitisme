@@ -1,0 +1,114 @@
+{
+  "id": "florez_de_cabeza",
+  "title": "De cabeza",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/De_cabeza",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「De cabeza（逆さまに・頭から）」は、堕天使（ángel reo）が終わりなき夜の深淵へと落下し続けるさまを描いた6連24行の詩。タイトル「De cabeza」は「頭から〔落ちる〕」という慣用表現で、逆さまの落下という身体的形象と精神的転落の二重の意味をもつ。詩の構造は規則的なカルテッタ（cuarteta）6連──ABAB韻律を保ちながら、堕天使の落下の不可逆性を反復するリズムが形式的に体現する。堕天使のモチーフはミルトン『失楽園』・ランボー・ボードレール・トラークルを通じて世紀末詩学に広く流通したが、フローレスの独自性は「落下が永遠に継続する現在進行形（va cayendo）」として描かれる点にある：到達点のない永続的落下が、コヘレト的な循環・反復の虚無と接続する。第6連の結語「con la cabeza formidable, horada / ¡la silenciosa paz del infinito!（その強大な頭で、無限の静寂の平和を穿つ）」は、堕天使の落下が「無限の静寂を破壊する能動的行為」として提示される逆説的結語：虚無を穿つ頭という形象がマラルメ「骰子一擲」の宇宙的虚無への詩的介入と共鳴する。",
+  "keywords": [
+    "堕天使", "ángel reo", "落下", "abismo", "深淵",
+    "無限", "infinito", "虚無", "nada", "サタン",
+    "反乱", "rebelión", "永続的落下", "モデルニスモ", "コロンビア", "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma", "florez_ave_gris",
+    "trakl_de_profundis", "mallarme_coup_de_des",
+    "nervo_azrael", "nervo_apocaliptica",
+    "baudelaire_litanies_satan", "laskerschuler_abel", "george_widerchrist"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Va cayendo, cayendo en el abismo\nde la noche sin fin, el ángel reo;\ndel espacio profundo en el mutismo\nse escucha su satánico aleteo.",
+      "provisionalTranslation": "落ちていく、落ちていく深淵へと\n終わりなき夜の中へ、罪ある天使が。\n深い空間の沈黙の中で\nその悪魔的な羽ばたきが聞こえる。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "Nada detiene al trágico querube\nen su descenso del eterno día;\n¡nada!... ¡nada!... ¡ni un astro, ni una nube!\n¡Sola siempre la bóveda vacía!",
+      "provisionalTranslation": "何も止めない悲劇的なケルビムを\n永遠の昼からの降下において。\n何もない……何もない……星ひとつ、雲ひとつ！\n常にただひとり、空虚な天蓋！"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-12)",
+      "original": "Los siglos al pasar, y los milenios\nsecaron en su mente el fuego sacro;\nmas, lleva de su cráneo entre los senos,\nde su vil rebelión, el simulacro.",
+      "provisionalTranslation": "過ぎ去る世紀と千年が\nその心の中の聖なる火を乾かした。\nしかし彼は頭蓋の奥深くに携える、\nその卑劣な反乱の、模造品を。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.13-16)",
+      "original": "Por eso, al traspasar los universos,\ncomo agotado por feroz instinto,\ncon el torvo mirar de los perversos,\ntorna los ojos al edén extinto.",
+      "provisionalTranslation": "それゆえ、宇宙を横切りながら、\n凶暴な本能に疲弊したかのように、\n邪悪な者たちの歪んだ眼差しで、\n消えたエデンへと目を向ける。"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.17-20)",
+      "original": "Y amenaza los cielos y los mundos\nsu recia mano que la rabia crispa,\ny salta de sus ojos furibundos\ndel odio insano, la incendiaria chispa.",
+      "provisionalTranslation": "そして天と世界を脅かす\n怒りに震える強靭な手が、\nそして憤怒の目から飛び散る\n狂気の憎悪の、焼き尽くす火花が。"
+    },
+    {
+      "id": 6,
+      "verses": "VI (v.21-24)",
+      "original": "¡Mas, nada altera su caída, nada!\nY en medio de la sombra, el gran proscrito,\ncon la cabeza formidable, horada\n¡la silenciosa paz del infinito!",
+      "provisionalTranslation": "しかし、何も変えない、その落下を、何も！\n闇の中で、偉大な追放者は、\nその強大な頭で、穿つ\n無限の静寂の平和を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Va cayendo, cayendo en el abismo\nde la noche sin fin, el ángel reo;",
+      "body": "「落ちていく、落ちていく深淵へと、終わりなき夜の中へ、罪ある天使が（Va cayendo, cayendo en el abismo / de la noche sin fin, el ángel reo）」──「Va cayendo（落ちていく）」という現在進行形の反復（cayendo, cayendo）が詩の開口部にして詩全体の運動的核心：落下が完了した過去でも予告された未来でもなく「今まさに継続する現在」として提示される。「abismo de la noche sin fin（終わりなき夜の深淵）」──「abismo」はヘブライ語「תְּהוֹם（tehom）」のギリシア語訳「ἄβυσσος（abyssos）」のラテン語経由のスペイン語：聖書的「混沌の深淵」の語彙が堕天使の落下する空間に適用される。「ángel reo（罪ある天使）」──「reo」は法律用語で「被告・有罪の者」：天上法廷における判決済みの「被告」としての天使像。ミルトン『失楽園（Paradise Lost）』第1巻のサタンの反乱と追放との直接的照応：しかしフローレスはミルトン的な到達点（地獄）を与えず、落下を永続させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "¡nada!... ¡nada!... ¡ni un astro, ni una nube!\n¡Sola siempre la bóveda vacía!",
+      "body": "「何もない……何もない……星ひとつ、雲ひとつ！常にただひとり、空虚な天蓋！（¡nada!... ¡nada!... ¡ni un astro, ni una nube! / ¡Sola siempre la bóveda vacía!）」──「¡nada!... ¡nada!...」の二重反復が「Ave gris」第8連「yo, ¿qué subo la escala y luego? ¡nada!」の「nada」と連動するフローレスの詩的語彙の核心：「nada（無・何もない）」がスペイン語圏モデルニスモにおける「虚無」の定型語として機能する。「ni un astro, ni una nube（星ひとつ、雲ひとつ〔ない〕）」──「Astro del alma」のタイトルの「astro（星）」が、ここでは「存在しない星」として否定形で現れる：詩集内部での星のイメージの変奏。「bóveda vacía（空虚な天蓋）」──マラルメ「骰子一擲」の「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」という虚無の空間との照応：天蓋という宇宙的「場所」だけが残り、落下する天使以外何もない。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Los siglos al pasar, y los milenios\nsecaron en su mente el fuego sacro;\nmas, lleva de su cráneo entre los senos,\nde su vil rebelión, el simulacro.",
+      "body": "「過ぎ去る世紀と千年が聖なる火を乾かした・頭蓋の奥に反乱の模造品を携える（Los siglos al pasar, y los milenios / secaron en su mente el fuego sacro / de su vil rebelión, el simulacro）」──「Los siglos al pasar（世紀が過ぎ去るにつれ）」はコヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の時間の循環と照応する：しかしコヘレトの「大地は永遠に立ち続ける」のに対し、フローレスの堕天使は時間の中で衰弱していく。「fuego sacro（聖なる火）」の消失──神的な存在であったことの痕跡が「乾く（secar）」という語で示される：「Astro del alma」の「涙が星となる」という上昇的変容に対し、「De cabeza」では「聖なる火が乾く」という下降的消耗が対置される。「simulacro（模造品・幻影）」──プラトン的「イデアの模倣」としての「simulacrum」：堕天使が頭蓋に携えるのは反乱の「実体」ではなくその「模造品」という逆説が、天使的本質の喪失と記憶の虚偽性を同時に示す。ゲオルゲ「Widerchrist（反キリスト）」との比較：どちらも神的秩序への反乱者像を詩的主体に設定しながら、その力が消耗・形骸化する過程を描く。",
+      "targetId": "george_widerchrist",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "torna los ojos al edén extinto.",
+      "body": "「消えたエデンへと目を向ける（torna los ojos al edén extinto）」──「edén extinto（消えたエデン）」：永遠に失われた楽園への回顧として詩全体の感情的焦点をなす。「extinto（消えた・絶滅した）」は「vivo（生きている）」と対立する語──「Astro del alma」第3連の「vivo diamante（生きたダイヤモンド）」に対し「edén extinto（消えたエデン）」は復活不可能な消滅を示す。ボードレール「Élévation（上昇）」の地上的拘束を超えた天上への憧憬が、フローレスでは逆転する：天上から追放された者が失われた天上（edén）を振り返るという「反転した上昇への憧憬」。ボードレール「Litanies de Satan（サタンの祈り）」の「ô Toi qui mis tes desseins profonds / Dans les cœurs de l'exilé（追放者の心の中に深い意図を置いた者よ）」におけるサタンへの詩的共感とフローレスの堕天使への倫理的中立な視座との比較においても、世紀末の「反逆者としての天使」詩学の文脈でこの連は位置づけられる。",
+      "targetId": "baudelaire_litanies_satan",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "y salta de sus ojos furibundos\ndel odio insano, la incendiaria chispa.",
+      "body": "「憤怒の目から飛び散る狂気の憎悪の焼き尽くす火花（salta de sus ojos furibundos / del odio insano, la incendiaria chispa）」──「chispa（火花）」がネルヴォ「Apocalíptica」第6連「chispas de fraguas del viejo cosmos（古いコスモスの炉の火花）」と語彙的に連動する：「火花」が宇宙的規模の破壊力の形象としてスペイン語圏モデルニスモで共有される。「odio insano（狂気の憎悪）」──「insano（狂気の）」という語が「fuego sacro（聖なる火）」が「乾いた」後に残った感情の質を定義する：神的エネルギーが消滅した後、残るのは「狂気（insanidad）」として規定された破壊的衝動のみ。「incendiaria（焼き尽くす・放火的な）」──火の形象が第3連「fuego sacro（聖なる火）」から第5連「incendiaria chispa（放火的な火花）」へと変質する：神聖な火が破壊的な火花として堕落する変容の弧。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "con la cabeza formidable, horada\n¡la silenciosa paz del infinito!",
+      "body": "「その強大な頭で、無限の静寂の平和を穿つ（con la cabeza formidable, horada / ¡la silenciosa paz del infinito!）」──詩の結語にして最大の逆説的形象。「horada（穿つ・孔を開ける）」という動詞が「De cabeza（頭から）」というタイトルの行為を詩的絶頂で実現する：頭を下にして落下し続ける天使がついに「無限の静寂」を「穿つ」という能動的行為へと到達する。「silenciosa paz del infinito（無限の静寂の平和）」──マラルメ「骰子一擲」の「infinito（無限）」と静寂との結合：静寂と無限という二つのモデルニスモ的絶対概念を「穿つ（horar）」という破壊的動詞が貫く。「nada altera su caída, nada（何も変えない、その落下を、何も）」と「horada（穿つ）」の対比：落下は止まらないが、落下する天使の頭は無限を穿つという能動性を持つ──完全な無力と局所的な能動の共存という逆説。ネルヴォ「Apocalíptica」最終連「estremecieron / el Infinito（無限を震わせた）」との照応：どちらも「無限」に対する詩的形象の衝撃・介入を描く。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    }
+  ]
+}
+
+
+
+
