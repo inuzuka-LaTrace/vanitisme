@@ -1,0 +1,83 @@
+{
+  "id": "florez_mi_tumba",
+  "title": "Mi tumba",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Mi_tumba",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "初級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Mi tumba（私の墓）」は4連16行のカルテッタ（cuarteta：ABAB韻律）形式の遺言詩であり、詩人が自らの死後の埋葬を想像・指示するという構造をとる。「地の下ではなく地の上に、山頂に埋めよ（no lo arrojéis debajo de la tierra / sino encima）」という冒頭の指示が詩全体の垂直的対立軸を設定する：地下（腐敗・虫・嫉妬）と天上（太陽・星・鷲・雲）の二項対立が詩の構造的骨格をなす。第2連の「deprofundis（深みから）」という典礼的語彙が風の歌として転用され、第3連では「astro（星）」が葬儀用蝋燭（cirio funeral）として・「nube（雲）」が神秘の香として機能する──「Astro del alma」の「astro（星）」・「cirio（蝋燭）」という語彙の詩集内反復。第4連の「buitres y águilas（禿鷹と鷲）」が虫の代わりに詩人の遺体を食らうことへの肯定は、腐敗の「格上げ（ennoblissement）」として機能する：禽に食われることが蛆に食われるよりも崇高であるというロマン派・モデルニスモ的な「高貴な死の美学」の表明。詩集の鳥のモチーフ（Ave gris の lechuza・La gran tristeza の garza）が、「Mi tumba」では「buitres y águilas（禿鷹と鷲）」という捕食する天空の鳥として完成する。",
+  "keywords": [
+    "墓", "tumba", "遺言", "山頂", "cumbre", "星", "astro",
+    "雲", "nube", "deprofundis", "鷲", "águila", "禿鷹", "buitre",
+    "蛆虫", "gusano", "高貴な死", "モデルニスモ", "コロンビア", "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma", "florez_la_gran_tristeza",
+    "florez_de_cabeza", "dowson_a_requiem",
+    "rossetti_remember", "trakl_de_profundis",
+    "johnson_de_profundis", "baudelaire_de_profundis_clamavi",
+    "hieronymus_psalm_129"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Cuando yo expire, a la empinada sierra\ntransportad mi cadáver y en la cumbre,\nno lo arrojéis debajo de la tierra,\nsino encima... del sol bajo la lumbre.",
+      "provisionalTranslation": "私が息絶えたとき、険しい山へ\n私の遺体を運び、山頂に、\n土の下に投げ込むのではなく、\n上に……太陽の光の下に。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "Donde me cante el impetuoso viento\nsus largos deprofundis y mi caja\nmortuoria sea un risco, el firmamento\nmi capilla y la nieve mi mortaja.",
+      "provisionalTranslation": "そこで激しい風が\n長い深淵からの歌を私に歌い、\n棺は岩肌であり、大空が\n私の礼拝堂で、雪が私の経帷子となる。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-12)",
+      "original": "En donde para honrar el mustio rastro\nde lo que fui, cuando en la vida estuve,\ntenga por cirio funeral, un astro\ny por incienso místico, una nube.",
+      "provisionalTranslation": "そこで、生きていたときの\n私だったものの萎れた痕跡を讃えるために、\n葬儀の蝋燭として、星を持ち、\n神秘の香として、雲を持つ。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.13-16)",
+      "original": "Donde para que rabien los humanos\nque arrastran sus envidias por el suelo,\nme devoren, en vez de los gusanos,\nlos buitres y las águilas del cielo.",
+      "provisionalTranslation": "そこで、地面に嫉妬を引きずる\n人間どもを怒らせるために、\n蛆虫の代わりに、\n天の禿鷹と鷲が私を貪り食う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "no lo arrojéis debajo de la tierra,\nsino encima... del sol bajo la lumbre.",
+      "body": "「土の下に投げ込むのではなく、上に……太陽の光の下に（no lo arrojéis debajo de la tierra / sino encima... del sol bajo la lumbre）」──詩全体の構造的対立軸の宣言。「debajo（下）」と「encima（上）」という空間的反対語が埋葬の慣習への拒否として提示される：キリスト教的土葬（「塵から来て塵に帰る」）への正面からの反逆。「del sol bajo la lumbre（太陽の光の下に）」──「Astro del alma」の「cirio（蝋燭）」・「astro（星）」という人工的・夜の光に対し、「lumbre del sol（太陽の光）」は昼の自然光：フローレスの詩集において光の質が「亡き母への室内的追悼（蝋燭）」から「自己の死への宇宙的配置（太陽）」へと拡張される。「Cuando yo expire（私が息絶えたとき）」──「expire」はラテン語「expirare（息を吐き出す）」に由来：「De cabeza」の堕天使・「La gran tristeza」の太陽の死という詩集内部の「死の語彙」の系列に加わる。ヨブ記第21章「彼らは山頂で安らかに眠り」という高所での休息への聖書的照応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Donde me cante el impetuoso viento\nsus largos deprofundis",
+      "body": "「激しい風が長い深淵からの歌を私に歌う（el impetuoso viento / sus largos deprofundis）」──「deprofundis」はラテン語詩篇129（130）篇「De profundis clamavi ad te Domine（深みから、主よ、あなたに叫ぶ）」の冒頭句：カトリック典礼において死者のための祈りとして用いられる「De profundis」が、ここでは「風（viento）が歌う」という自然現象として転用される。典礼的・宗教的な哀歌が「風（viento）」という自然の声に委ねられる：人間の司祭・聖歌隊ではなく「impetuoso（激しい）」風が死者への賛歌を歌うという脱宗教化・自然化。トラークル「De profundis」・ジョンソン「De profundis」・ボードレール「De profundis clamavi」・クリスティーナ・ロセッティ「De profundis」というVANITISMEコーパス内の「De profundis」テキスト群との照応：フローレスは典礼句を詩の語彙として取り込む同一の伝統の中にある。「firmamento（大空）・risco（岩肌）・nieve（雪）」：棺・礼拝堂・経帷子という葬儀の三要素が自然物によって代替される体系的な等置。",
+      "targetId": "trakl_de_profundis",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "tenga por cirio funeral, un astro\ny por incienso místico, una nube.",
+      "body": "「葬儀の蝋燭として、星を持ち、神秘の香として、雲を持つ（tenga por cirio funeral, un astro / y por incienso místico, una nube）」──「Astro del alma」の語彙の直接的な回帰。「astro（星）」：「Astro del alma」では涙の滴が昇華した「魂の星（astro del alma）」であったが、「Mi tumba」では死者の遺体を照らす「葬儀の蝋燭（cirio funeral）」として宇宙的スケールの葬儀に組み込まれる。「cirio（蝋燭）」：「Astro del alma」第2連「de un cirio, sobre un lecho de caoba（蝋燭の反射の前で、マホガニーの寝台に）」の室内的蝋燭が、「Mi tumba」では「星（astro）」という宇宙的蝋燭へと拡張される：母の葬儀（Astro del alma）→ 自己の葬儀（Mi tumba）という詩集内部の弔いの拡張。「incienso místico（神秘の香）」──「místico（神秘の）」という形容詞がダウスン「A Requiem（鎮魂歌）」の「mystic」との照応：カトリック典礼の「薫香（incensus）」が「雲（nube）」として自然化される。典礼語彙（cirio・incienso）の自然物（astro・nube）への等置という詩的操作が詩全体の「自然の礼拝堂」主題を完成させる。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "me devoren, en vez de los gusanos,\nlos buitres y las águilas del cielo.",
+      "body": "「蛆虫の代わりに、天の禿鷹と鷲が私を貪り食う（me devoren, en vez de los gusanos / los buitres y las águilas del cielo）」──詩の結語にして最大の修辞的転換。「gusanos（蛆虫）」：地下埋葬における腐敗の代名詞──ボードレール「Une Charogne（腐肉）」の「los verres（虫）」が跋扈する屍体描写との照応：どちらも死体が食われることを詩的主題として正面から扱う。「buitres y águilas（禿鷹と鷲）」：蛆虫（地）の代わりに禿鷹と鷲（天）という「天空の捕食者」が詩人の遺体を食らう──この等置が「格上げ（ennoblissement）」の構造をなす：腐敗の主体が地の虫から天の鳥へと垂直的に上昇する。「Las águilas del cielo（天の鷲）」──「La gran tristeza」の「garza（鷺）」・「Ave gris」の「lechuza（フクロウ）」に続く詩集内の鳥のモチーフの最終形として、「buitres y águilas」は捕食・天空・力という属性において「garza（静止・孤独・悲嘆）」と対置される。「para que rabien los humanos（人間どもを怒らせるために）」という逆説的な葬儀の動機：詩人の死が死後においても人間への反抗として継続するという皮肉的な遺言。ダウスン「A Requiem」の「Under the wide and starry sky（広い星の空の下に）」──スティーヴンソン（引用）的な「自然の中の死」への願望との照応：どちらも慣習的な墓地埋葬を拒否し、宇宙的な空間での死を求める。",
+      "targetId": "baudelaire_une_charogne",
+      "targetParagraphId": None
+    }
+  ]
+}
