@@ -1,0 +1,97 @@
+{
+  "id": "florez_aun",
+  "title": "Aún",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/A%C3%BAn",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Aún（いまだ・まだ）」は4-4-3-3行のソネット形式。タイトルの「Aún（いまだ）」が詩全体の感情的テーゼをなす：千回の裏切り・嫉妬の苦杯・嘘の愛にもかかわらず「いまだ（aún）」情熱は消えない、という逆説。「Resurrecciones」と同じソネット形式をとりながら、「Resurrecciones」が時間による自己解体を主題とするのに対し、「Aún」は時間の経過（Los tiempos han pasado）にもかかわらず消えない情熱という「残存」を主題とする──二作は時間と感情の逆方向の関係として対をなす。詩の構造は三段階：第1・2連（過去の苦悩の列挙）→ 第3連（現在の状況：もはや彼女の接吻はない）→ 第4連（逆接の「y sin embargo（それにもかかわらず）」による情熱の残存の告白と、沈黙・うつむき・悲しみという身体的結語）。「¡me alejo mudo, cabizbajo y triste!（私は黙って、うつむいて、悲しみながら遠ざかる）」という最終行の三重の身体的形容詞が詩全体の感情的重力を一行に集約する。",
+  "keywords": [
+    "Aún",
+    "いまだ",
+    "情熱の残存",
+    "嫉妬",
+    "celos",
+    "裏切り",
+    "engaño",
+    "ソネット",
+    "soneto",
+    "沈黙",
+    "mudo",
+    "cabizbajo",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_ave_gris",
+    "florez_dulce_veneno",
+    "florez_resurrecciones",
+    "verlaine_colloque_sentimental",
+    "dowson_a_last_word",
+    "baudelaire_harmonie_du_soir",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Mil veces me engañó; más de mil veces\nabrió en mi corazón sangrienta herida;\nde los celos, la copa desabrida,\nme hizo beber hasta agotar las heces.",
+      "provisionalTranslation": "千回、彼女は私を欺いた。千回以上、\n私の心に血の滲む傷を開いた。\n嫉妬という苦い杯を\n澱まで飲み干させた。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "Fue en mi vida, con todos sus dobleces,\nla causa de mi angustia –no extinguida–\naunque, ¡pobre de mí! toda la vida\nsu mentiroso amor... pagué con creces.",
+      "provisionalTranslation": "彼女はその二枚舌のすべてをもって、\n私の苦悩の原因だった──消えていない苦悩の。\nたとえ、哀れな私！ 生涯をかけて\n彼女の嘘の愛を……余りあるほど支払ったとしても。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "Los tiempos han pasado; ya su boca\nno me da sus caricias, no me abrasa\nel fuego de sus ósculos de loca;",
+      "provisionalTranslation": "時は過ぎた。もはや彼女の口は\n私に愛撫を与えず、私を燃やさない\n狂女の接吻の炎で。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "y sin embargo mi pasión persiste...\npues, cuando a veces por mi senda pasa,\n¡me alejo mudo, cabizbajo y triste!",
+      "provisionalTranslation": "それにもかかわらず、私の情熱はいまだに続く……\nなぜなら、ときに彼女が私の道を通り過ぎると、\n私は黙って、うつむいて、悲しみながら遠ざかる！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mil veces me engañó; más de mil veces\nabrió en mi corazón sangrienta herida;",
+      "body": "「千回、彼女は私を欺いた。千回以上、私の心に血の滲む傷を開いた（Mil veces me engañó; más de mil veces / abrió en mi corazón sangrienta herida）」──「Mil veces（千回）・más de mil veces（千回以上）」という数の漸進的誇張（hyperbole）が第1連の修辞的動力：量の増大が裏切りの絶対的反復性を示す。「sangrienta herida（血の滲む傷）」：心理的苦痛が身体的外傷として形象化される──「心（corazón）」に「傷（herida）」が「開く（abrir）」という動詞の選択が、愛の裏切りを外科的切開として提示する。「de los celos, la copa desabrida（嫉妬という苦い杯）」──「copa（杯）」という典礼的語彙：聖書的「苦い杯（calix amarus）」の伝統──ゲツセマネの「この杯を取り去ってください（Pater, transfer calicem istum a me）」（マルコ14:36）の語彙を恋愛詩の嫉妬に転用。「hasta agotar las heces（澱まで飲み干す）」：「heces（澱・かす）」まで完全に飲み干すという全的消耗の形象。「Dulce veneno」の「miel（蜜）」と「veneno（毒）」の対置が、「Aún」では「copa desabrida（苦い杯）」・「heces（澱）」という極限的苦さとして変奏される。",
+      "targetId": "florez_dulce_veneno",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "la causa de mi angustia –no extinguida–\naunque, ¡pobre de mí! toda la vida\nsu mentiroso amor... pagué con creces.",
+      "body": "「私の苦悩の原因だった──消えていない苦悩の（la causa de mi angustia –no extinguida–）」──ダッシュによる挿入句「–no extinguida–（消えていない）」が詩全体の主題「Aún（いまだ）」を括弧内に先取りする：苦悩が「消えていない」という挿入が、第4連「mi pasión persiste（私の情熱はいまだに続く）」の結語的宣言の伏線として機能する。「dobleces（二枚舌・折り目）」：スペイン語「doblez」は「布の折り目」と「二面性・欺瞞」の二義を持つ語。「¡pobre de mí!（哀れな私！）」という自己憐憫の感嘆符挿入がソネット第2四行連の韻律的強調点として機能する。「pagué con creces（余りあるほど支払った）」：「con creces（余りあるほど・たっぷりと）」という副詞句が「creces（成長・利息）」という経済的語彙を含む──「Dulce veneno」の「pago de la miel（蜜の支払い）」・「Oro en polvo」の蜜と黄金の交換と連動するフローレスの愛の「経済的語彙」の系列。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Los tiempos han pasado; ya su boca\nno me da sus caricias, no me abrasa\nel fuego de sus ósculos de loca;",
+      "body": "「時は過ぎた。もはや彼女の口は私に愛撫を与えず、私を燃やさない、狂女の接吻の炎で（Los tiempos han pasado / ya su boca / no me da sus caricias / el fuego de sus ósculos de loca）」──ソネット第1テルセッタが過去から現在への時制転換点をなす。「Los tiempos han pasado（時は過ぎた）」：「Resurrecciones」第1連「del tiempo en la insonora catarata（時間の音なき滝の中で）」との照応──どちらも時間の経過が感情・存在の変質をもたらすという詩的前提をとる。「ya（もはや）」という副詞の三重の否定連続：「ya... no me da（もはや与えない）」・「no me abrasa（燃やさない）」──「ya no（もはや〜ない）」という否定形が現在の剥奪状態を強調する。「ósculos de loca（狂女の接吻）」：「ósculo（接吻）」はラテン語「osculum」由来の詩的語彙・「loca（狂女）」という形容が「Ave gris」の「yo, ¿qué subo la escala y luego? ¡nada!」における女性への感情的評価と連動する：フローレスの恋愛詩における女性像が「mustia y temblorosa（萎れて震える）」→「inconsolable, viuda（慰めのない未亡人）」→「loca（狂女）」と詩集内で変奏される。",
+      "targetId": "florez_resurrecciones",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "y sin embargo mi pasión persiste...\npues, cuando a veces por mi senda pasa,\n¡me alejo mudo, cabizbajo y triste!",
+      "body": "「それにもかかわらず、私の情熱はいまだに続く……なぜなら、ときに彼女が私の道を通り過ぎると、私は黙って、うつむいて、悲しみながら遠ざかる（y sin embargo mi pasión persiste / me alejo mudo, cabizbajo y triste）」──詩全体の逆接的結語。「y sin embargo（それにもかかわらず）」：ソネット第2テルセッタの冒頭に置かれた強い逆接接続詞が「Aún（いまだ）」というタイトルの感情的内容を実現する。「mi pasión persiste（私の情熱はいまだに続く）」──「Resurrecciones」の「Algo se muere en mí todos los días（毎日、何かが私の中で死んでいく）」という消耗に対する逆方向の「残存（persistencia）」：どちらも時間と感情の関係を主題とするが、一方は消耗・他方は残存として対称的な詩的命題をなす。「¡me alejo mudo, cabizbajo y triste!（私は黙って、うつむいて、悲しみながら遠ざかる）」──三重の身体的形容詞「mudo（黙した）・cabizbajo（うつむいた）・triste（悲しい）」が詩全体の感情的重力を最終行に凝縮する：「Ave gris」の「me alejo mudo（黙って遠ざかる）」という沈黙のフクロウの身振りとの直接的照応──「Ave gris」では「フクロウ（詩人）は喋らない」と宣言し、「Aún」では「黙って（mudo）遠ざかる」という同一の沈黙の身振りが情熱の残存の証明として提示される。",
+      "targetId": "florez_ave_gris",
+      "targetParagraphId": 13
+    }
+  ]
+}
