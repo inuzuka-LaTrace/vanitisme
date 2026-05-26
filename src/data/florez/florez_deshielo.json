@@ -1,0 +1,102 @@
+{
+  "id": "florez_deshielo",
+  "title": "Deshielo",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Deshielo",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Deshielo（雪解け）」は4-4-3-3行のソネット形式の追悼詩であり、「Castigo」の暴力的幻想から一転して「Astro del alma」と同じく死者（今度は恋人）との最後の身体的接触を主題とする。「Astro del alma」では亡き母の眼窩に残った涙を唇で飲み干す場面が「今日その滴は魂の中で星となった」という昇華で締め括られたが、「Deshielo」では臨終に間に合わなかった詩的主体が死後に遺体の手（mano）を取り、唇と目に当て、その手が「私の口の温もりで溶けていった（de mi boca al calor...se derretía）」という「雪解け（deshielo）」の形象で結ばれる。タイトル「Deshielo（雪解け）」：「雪（nieve）」という語が第4連「aquella mano, hecha de nieve（雪でできたあの手）」に現れ、「私の口の温もり（de mi boca al calor）」によって「溶ける（derretirse）」という変容が最終行で起きる。冷たい死（nieve）が生者の体温（calor）によって液体（涙・雪解け水）へと変容する──「Astro del alma」の涙が星へ上昇するのとは逆に、「Deshielo」では固体（雪）が液体（水）へと下降する変容として死者との接触が詩化される。詩集「Cardos y lirios」における二大追悼詩（Astro del alma・Deshielo）の対照的変奏。",
+  "keywords": [
+    "雪解け",
+    "Deshielo",
+    "追悼",
+    "臨終",
+    "mano",
+    "手",
+    "nieve",
+    "雪",
+    "calor",
+    "温もり",
+    "溶ける",
+    "derretirse",
+    "不在",
+    "arcano",
+    "秘儀",
+    "ソネット",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "florez_la_gran_tristeza",
+    "florez_mi_tumba",
+    "rossetti_remember",
+    "rodenbach_douceur_du_souvenir",
+    "verlaine_colloque_sentimental",
+    "hieronymus_iob_1",
+    "dowson_a_requiem"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Nunca mayor quietud se vio en la muerte;\nni frio más glacial que el de esa mano\nque tú alargaste al expirar, en vano\n¡y que cayó en las sabanas, inerte!",
+      "provisionalTranslation": "死においてこれほどの静寂は見られなかった。\nまたこれほど氷のような冷たさも──その手の冷たさも──\n君が息絶えるときに差し伸べたあの手の、\n空しく、シーツの上に力なく落ちた！"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "¡Ah... yo no estaba allí! Mi aciaga suerte,\nno quiso que en el trance soberano,\ncuando tú entrabas en el hondo arcano,\n¡Yo pudiera estrecharte... y retenerte!",
+      "provisionalTranslation": "ああ……私はそこにいなかった！ 私の不吉な運命が\n許さなかった、あの至高の瞬間に、\n君が深い秘儀の中へと入っていくとき、\n私が君を抱きしめ……引き留めることを！"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "Al llegar, me atrajeron tus despojos;\ncogí esa mano espiritual y breve\n¡y la junte á mis labios y á mis ojos!...",
+      "provisionalTranslation": "到着すると、君の亡骸が私を引き寄せた。\n私はその霊的で小さな手を取り、\n唇と目に当てた！……"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "Y en ella, al ver, mi llanto que corría,\npensé que aquella mano, hecha de nieve,\n¡de mi boca al calor...se derretía!",
+      "provisionalTranslation": "そしてその上で、流れる私の涙を見て、\n私は思った──雪でできたあの手が、\n私の口の温もりで……溶けていくと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Nunca mayor quietud se vio en la muerte;\nni frio más glacial que el de esa mano\nque tú alargaste al expirar, en vano\n¡y que cayó en las sabanas, inerte!",
+      "body": "「死においてこれほどの静寂は見られなかった。またこれほど氷のような冷たさも──君が息絶えるときに差し伸べたあの手の、空しく、シーツの上に力なく落ちた（Nunca mayor quietud / ni frio más glacial que el de esa mano / que tú alargaste al expirar, en vano / y que cayó en las sabanas, inerte）」──詩の開口部が比較最上級（Nunca mayor / ni más glacial）の連鎖によって死の静寂と冷たさを極限として定義する。「mano（手）」：詩全体の中心的形象として反復される──第1連「esa mano（あの手）」・第3連「esa mano espiritual y breve（霊的で小さな手）」・第4連「aquella mano, hecha de nieve（雪でできたあの手）」と変容する弧。「en vano（空しく）」という副詞：差し伸べられた手が誰にも届かなかったという「不在（ausencia）」の確認──詩的主体がそこにいなかったために「en vano（空しく）」終わった最後の接触への意志が第1連の核心をなす。ヨブ記第1章v.20「Tunc surrexit Job, et scidit vestimenta sua（ヨブは立ち上がり、衣を裂いた）」という悲嘆の身体的行為との照応：どちらも喪失に対する身体的反応として詩が展開する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¡Ah... yo no estaba allí! Mi aciaga suerte,\nno quiso que en el trance soberano,\ncuando tú entrabas en el hondo arcano,\n¡Yo pudiera estrecharte... y retenerte!",
+      "body": "「ああ……私はそこにいなかった！（¡Ah... yo no estaba allí!）」──詩全体の感情的核心となる不在の告白。感嘆符・省略符号・感嘆符という三重の句読点が「不在」の衝撃を強調する。「trance soberano（至高の瞬間）」：「trance」はスペイン語で「臨終の瞬間・恍惚状態・トランス」を指す語──臨終の「至高性（soberano）」が「Dulce veneno」の「éxtasis profundos（深い恍惚）」と同じ語彙的射程をもつ：愛の絶頂と死の絶頂が同一の「至高の瞬間」として語られる。「el hondo arcano（深い秘儀）」：「arcano（秘儀・神秘）」はラテン語「arcanum（秘密・奥義）」由来──死が「hondo（深い）」「arcano（秘儀）」として定義されることで、「De cabeza」の「abismo（深淵）」・「La gran tristeza」の「bóveda infinita（無限の天蓋）への問いかけ」という詩集内の垂直的深淵の系列に加わる。「¡Yo pudiera estrecharte... y retenerte!（私が君を抱きしめ……引き留めることを）」──接続法過去による不可能な欲望：「Castigo」の「yo quisiera clavarte（突き刺したい）」・「La gran tristeza」の「¡Ah, sí acortar pudiera a jornada!（旅路を短くできれば）」と同型の「接続法の欲望形」がここでは「引き留める（retener）」という生への固執として現れる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "cogí esa mano espiritual y breve\n¡y la junte á mis labios y á mis ojos!...",
+      "body": "「その霊的で小さな手を取り、唇と目に当てた（cogí esa mano espiritual y breve / y la junte á mis labios y á mis ojos）」──「Astro del alma」との直接的構造的照応。「Astro del alma」第3連「pongo mis labios en la gota aquélla（私はその滴に唇を触れ）」では亡き母の涙に「唇（labios）」を触れる行為が「摂取（飲む）」として実現されたが、「Deshielo」では死者の「手（mano）」を「唇（labios）」と「目（ojos）」に当てる行為として変奏される：どちらも死者の身体の一部との最後の身体的接触が「唇（labios）」を通じて行われる。「espiritual y breve（霊的で小さな）」：「espiritual（霊的な）」という形容詞が死者の手の非物質化を示す──「breve（小さな・短い）」という語は「Oro en polvo」の「existencia temblorosa（震える存在）」・「fugitiva（逃げゆく）」という儚さの語彙と連動する。ロセッティ「Remember（覚えていてほしい）」の「When you can no more hold me by the hand（あなたがもはや私の手を握れないとき）」との照応：ロセッティでは「手を握れない」という未来の喪失が予告されるのに対し、フローレスでは「間に合わなかった」という過去の喪失が回顧される──時制の逆転。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "pensé que aquella mano, hecha de nieve,\n¡de mi boca al calor...se derretía!",
+      "body": "「私は思った──雪でできたあの手が、私の口の温もりで……溶けていくと（pensé que aquella mano, hecha de nieve / de mi boca al calor...se derretía）」──詩全体の結語的形象にしてタイトル「Deshielo（雪解け）」の実現。「hecha de nieve（雪でできた）」：「Mi tumba」第3連「la nieve mi mortaja（雪が私の経帷子）」・「Oro en polvo」の「plumón de raso y nieve（サテンと雪の羽毛）」というフローレスの詩集における「nieve（雪）」の語彙──死・純白・冷たさの三属性が「雪」に凝縮される。「de mi boca al calor...se derretía（私の口の温もりで溶けていく）」：「calor（温もり・熱）」と「nieve（雪）」の対置が詩全体の温度的対立（冷たい死者の手vs温かい生者の口）を解決する──「雪解け（Deshielo）」という物理的変化が「生者の体温による死者の復温」という感情的形象として詩化される。「Astro del alma」では「涙（水）→星（光）」という上昇的変容、「Deshielo」では「雪（固体）→水（液体）」という下降的変容：両詩の変容の方向性が上昇（Astro）と下降（Deshielo）として対称をなす。詩の主体がそこにいなかった（¡yo no estaba allí!）という「不在」が、到着後に死者の手を唇で「溶かす」という「遅れた接触（接触の補填）」として埋め合わされる：詩全体が「不在の後悔」から「遅れた愛の行為」への感情的弧として完結する。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 3
+    }
+  ]
+}
