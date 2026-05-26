@@ -1,0 +1,105 @@
+{
+  "id": "florez_lejos",
+  "title": "Lejos",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Lejos_(Cardos_y_l%C3%ADrios)",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Lejos（遠く）」は4-4-3-3行のソネット形式であり、詩集中で最も完成度の高いソネットのひとつとして位置づけられる。詩の主題は「死んだ接吻の魂（el alma de aquel... beso difunto）」という最終行の逆説的定式に集約される：遠く離れた恋人の最後の接吻が「火の息吹き（hálito de fuego）」として詩的主体のもとに届き続けるという形象。詩の構造：第1連（時折、火の息吹きが届いて心を燃やし、唇を香りのように通り過ぎる）→ 第2連（魂が平静を失い、恋人の家の門まで飛んでいく──別れの際に聞いた「捨てないで！」という最後の懇願を聞くために）→ 第3連（その「捨てないで！（¡No me abandones!）」という言葉の記憶──唇を口に押し当てて言った、最後に会った朝の言葉）→ 第4連（痛みに満ちて悟る：「その熱い息吹きは、あの死んだ接吻の魂だ」）。「beso difunto（死んだ接吻）」という最終の逆説的定式が詩集の核心テーマ群（「Dulce veneno」のエロスと死・「Deshielo」の死者の体温・「Astro del alma」の涙の昇華）を一語に凝縮する：接吻が「死んだ（difunto）」のにその「魂（alma）」は息吹きとして生き続けるという逆説がフローレスの詩的哲学の結晶。",
+  "keywords": [
+    "遠く",
+    "Lejos",
+    "死んだ接吻",
+    "beso difunto",
+    "息吹き",
+    "hálito",
+    "魂",
+    "alma",
+    "別れ",
+    "¡No me abandones!",
+    "捨てないで",
+    "ソネット",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_dulce_veneno",
+    "florez_deshielo",
+    "florez_aun",
+    "florez_astro_del_alma",
+    "florez_ave_gris",
+    "verlaine_colloque_sentimental",
+    "rodenbach_douceur_du_souvenir",
+    "dowson_a_last_word",
+    "baudelaire_harmonie_du_soir"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "De cuando en cuando, un hálito de fuego,\nllega hasta mí y el corazón me abrasa;\nquema mi frente pensativa y pasa\ncomo un aroma por mis labios, luego.",
+      "provisionalTranslation": "時折、火の息吹きが\n私のもとへ届き、心を燃やす。\n物思いにふける私の額を焦がし、それから\n香りのように私の唇を通り過ぎる。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "¿Pierde entonces mi espíritu el sosiego\ny huye de mí? los ámbitos traspasa\ny llega hasta la verja de tu casa\ndonde escuche al partir... t´último ruego!",
+      "provisionalTranslation": "するとそのとき私の魂は平静を失い、\n私から逃げ去るのか？ 空間を横切り、\n君の家の門まで届く、\n別れの際に聞いた……君の最後の懇願を！"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "Aquel, «¡No me abandones!» que dijiste\ncon tus labios pegados á mi boca,\nla postrera mañana en que me viste.",
+      "provisionalTranslation": "あの「捨てないで！」という言葉を、君は言った\n唇を私の口に押し当てながら、\n私を見た最後の朝に。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "Y lleno de dolor, comprendo al punto,\nque aquel hálito ardiente que me toca,\nes el alma de aquel... beso difunto!",
+      "provisionalTranslation": "そして痛みに満ちて、私はたちまち悟る、\n私に触れるあの熱い息吹きが、\nあの死んだ接吻の魂なのだと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "De cuando en cuando, un hálito de fuego,\nllega hasta mí y el corazón me abrasa;",
+      "body": "「時折、火の息吹きが私のもとへ届き、心を燃やす（De cuando en cuando, un hálito de fuego / llega hasta mí y el corazón me abrasa）」──「hálito（息吹き・そよ風）」という語がこの詩の中心的形象をなす：第1連「hálito de fuego（火の息吹き）」・第4連「hálito ardiente（熱い息吹き）」として反復され、詩全体を通じて「息吹き＝接吻の残滓」という等式が形成される。「Resurrecciones」第2連「la misma vida con su soplo mata（生はその息吹きで殺す）」の「soplo（息吹き）」と「Lejos」の「hálito（息吹き）」は同義語として連動する：生の「息吹き」が自己を消去するのに対し、「Lejos」の「hálito」は死んだ接吻を蘇らせるという逆方向の力として機能する。「el corazón me abrasa（心を燃やす）」──「Aún」第1連「abrió en mi corazón sangrienta herida（心に血の滲む傷を開いた）」の「心（corazón）」への侵入と照応：「Aún」では裏切りが「傷」として、「Lejos」では別れが「火」として心に到達する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "quema mi frente pensativa y pasa\ncomo un aroma por mis labios, luego.",
+      "body": "「物思いにふける私の額を焦がし、それから香りのように私の唇を通り過ぎる（quema mi frente pensativa y pasa / como un aroma por mis labios, luego）」──「labios（唇）」という語が「Dulce veneno」第5連「pongo mis labios en la gota aquélla（その滴に唇を触れ）」・「Deshielo」第3連「y la junte á mis labios y á mis ojos（唇と目に当てた）」というフローレスの詩集の「唇による接触」語彙として連動する。「como un aroma（香りのように）」：息吹きが「香り（aroma）」として「唇を通り過ぎる（pasa por mis labios）」──接吻の感覚的残滓が「香り・熱・息」という複数の感覚的形象として詩化される。「frente pensativa（物思いにふける額）」という形容：「Aún」最終行「¡me alejo mudo, cabizbajo y triste!（うつむいて、悲しみながら）」の身体的形容が、「Lejos」では「frente pensativa（物思いにふける額）」として変奏される──フローレスの詩集において悲嘆は常に身体の特定部位（額・こめかみ・唇・目）として表出される。ボードレール「Harmonie du soir」の「le souvenir en moi luit comme un ostensoir（記憶は私の中で聖体顕示台のように輝く）」という記憶の感覚的残存との照応。",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "y llega hasta la verja de tu casa\ndonde escuche al partir... t´último ruego!",
+      "body": "「君の家の門まで届く、別れの際に聞いた……君の最後の懇願を（y llega hasta la verja de tu casa / donde escuche al partir... t´último ruego）」──「Ave gris」第1連「¡y al pie de la pared... tú y yo, mi vida!（壁の足もとに……君と私）」の「壁・門」という建築的境界の形象との照応：「Ave gris」では詩的主体が壁の外から「梯子（escala）」を使って接近したのに対し、「Lejos」では魂が「家の門（verja de tu casa）」まで飛んでいく。「t´último ruego（君の最後の懇願）」の「t'（te の縮約）」：Wikisource版では「t´último」という縮約形が使われる──アポストロフィが音声的・音律的縮約として機能し、「tú último」の「tú」が「t'」へと溶け込む詩的省略。「al partir（別れの際に）」という副詞句が詩全体の時制を設定する：「Lejos（遠く）」というタイトルが指す距離は空間的のみならず時間的な「遠さ（別れという過去からの距離）」として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Aquel, «¡No me abandones!» que dijiste\ncon tus labios pegados á mi boca,\nla postrera mañana en que me viste.",
+      "body": "「『捨てないで！』という言葉を、君は言った、唇を私の口に押し当てながら、私を見た最後の朝に（¡No me abandones! / con tus labios pegados á mi boca / la postrera mañana en que me viste）」──「Dulce veneno」第4連「cuando en mi boca están tus labios presos（私の口の中に君の唇が囚われているとき）」の「唇と口の接触」という形象の反復：「Dulce veneno」では接吻が「深淵の口（boca de un abismo）」として現在形で提示されたが、「Lejos」では接吻が「最後の朝（la postrera mañana）」の過去として回顧される。「¡No me abandones!（捨てないで！）」という直接引用：詩中に「」付きで引用される唯一の台詞が詩の感情的核心を担う。「pegados（押し当てた）」という過去分詞：「Deshielo」の「la junte á mis labios（唇に当てた）」・「Astro del alma」の「pongo mis labios（唇を触れる）」というフローレスの「唇を当てる」動詞系列の変奏。「la postrera mañana（最後の朝）」──「Astro del alma」の「postrimera lágrima（最後の涙）」の「postrimera（最後の・終末の）」と同語根の形容詞が反復される：フローレスの詩集において「postrero/postrimero（最後の）」という語は常に取り返しのつかない喪失の前触れとして機能する。",
+      "targetId": "florez_dulce_veneno",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "que aquel hálito ardiente que me toca,\nes el alma de aquel... beso difunto!",
+      "body": "「私に触れるあの熱い息吹きが、あの死んだ接吻の魂なのだと（aquel hálito ardiente que me toca / es el alma de aquel... beso difunto）」──詩全体の結語的定式にして「Cardos y lirios」詩集中の最も独創的な比喩的定義のひとつ。「beso difunto（死んだ接吻）」：「difunto（死者・故人）」という語が「接吻（beso）」という行為に適用される──行為が死者として擬人化される逆説。「beso difunto」の「魂（alma）」が「息吹き（hálito）」として生き続けるという形象：「Resurrecciones（復活たち）」の「生の中で何度も死んだ（muchas veces en la vida... he muerto）」という自己の複数の死と照応する──「Lejos」では接吻が「死に（difunto）」ながらその魂（alma）が息吹きとして「復活（resurrección）」し続ける。「el alma de aquel... beso difunto」という定式の省略記号（...）：「Astro del alma（魂の星）」のタイトルの「alma（魂）」・「Deshielo」の「mano espiritual（霊的な手）」というフローレスの「物質の魂化」語彙の系列が、「死んだ接吻の魂」という最終的な逆説へと収斂する。ローデンバック「Douceur du souvenir（思い出の甘さ）」の「記憶が感覚として蘇る」という形象との照応：どちらも過去の愛の痕跡が身体的感覚（息吹き・香り・温もり）として現在に侵入する構造をとる。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 3
+    }
+  ]
+}
