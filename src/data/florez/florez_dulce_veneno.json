@@ -1,0 +1,121 @@
+{
+  "id": "florez_dulce_veneno",
+  "title": "Dulce veneno",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Dulce_veneno",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Dulce veneno（甘い毒）」は6連30行のキンティリャ（quintilla：AABBA / ABAB等5行連）形式の対話詩。詩は二つの声から構成される：第1〜4連は女性の語り（「彼女は言った」という過去時制に置かれた独白）、第5連は詩的主体（男性）の応答、第6連は二人の和解・結合の叙述。詩のタイトル「Dulce veneno（甘い毒）」は愛が「毒」でありながら「甘い」という逆説的定義であり、第4連「tu boca está en la boca de un abismo（君の口は深淵の口の中にある）」・第5連「mátame con la miel que hay en tu boca（君の口の中の蜜で私を殺せ）」という絶頂的逆説へと収斂する。愛の毒・エロスと死の結合というテーマはボードレール的な「悪の甘美さ」の伝統をモデルニスモ詩学に移植したものであり、ダウスン「Seraphita」・ヴェルレーヌ的な官能と哀愁の詩学と連続する。「De cabeza」の宇宙的・形而上学的落下に対し、「Dulce veneno」は同じ「abismo（深淵）」・「veneno（毒）」・「morir（死）」の語彙を二人の人間の親密な対話へと凝縮させる。",
+  "keywords": [
+    "甘い毒",
+    "Dulce veneno",
+    "愛の毒",
+    "abismo",
+    "深淵",
+    "beso",
+    "接吻",
+    "morir",
+    "死への欲望",
+    "対話詩",
+    "quintilla",
+    "エロスと死",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "florez_ave_gris",
+    "florez_de_cabeza",
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_les_bijoux",
+    "dowson_seraphita",
+    "verlaine_spleen",
+    "silva_ofrenda_a_la_muerte",
+    "nervo_el_beso_fantasma"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "¿Luego me dijo:? Aun cuando mi alma anhele\nla virtud y odie la maldad y el vicio,\nya ves, mi triste corazón se duele,\nal contemplar el hondo precipicio\ná donde el hado sin cesar me impele.",
+      "provisionalTranslation": "それから彼女は私に言った。「たとえ私の魂が\n徳を求め、悪と罪悪を憎んでいても、\nご覧、私の悲しい心は痛む、\n深い断崖を見つめながら\n運命が絶え間なく私を押し進める先を。」"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.6-10)",
+      "original": "Con mi carga de amor y desconsuelo\nvoy á un próximo fin, paso entre paso,\nrueda mi llanto hasta mojar el suelo\ny miro dulcemente hacía mi ocaso\nal ver la muda impavidez del cielo.",
+      "provisionalTranslation": "「愛と慰めのなさの重荷を背負いながら\n私は一歩一歩、近い終わりへと向かう、\n涙が転がり落ちて地を濡らし、\n私は優しく自分の夕暮れへと目を向ける\n天の黙した冷淡さを見て。」"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.11-15)",
+      "original": "¡Ah, sí acortar pudiera a jornada!\nEs tan dura y tan grande mi fatiga,\nmi senda tan oscura y desolada,\n¡que quisiera morir!... Hoy nada, nada\nfuera de ti, mi corazón mitiga!",
+      "provisionalTranslation": "「ああ、その旅路を短くできれば！\nこれほど辛く大きな私の疲れ、\nこれほど暗く荒涼とした私の道は、\n死にたいと思うほど……今、何も、何も\n君以外に、私の心を和らげない！」"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.16-20)",
+      "original": "¡Y yo te estoy matando!... ¡Oh, sí! mis besos\n¿te envenenan? en largo paroxismo\nquedas tras tus eróticos excesos;\ncuando en mi boca están tus labios presos,\n¡tu boca está en la boca de un abismo!»",
+      "provisionalTranslation": "「そして私は君を殺しているのだ！……ああ、そう！ 私の接吻は\n君を毒するのか？ 長い痙攣のうちに\n君は情欲の過剰の後に横たわる。\n私の口の中に君の唇が囚われているとき、\n君の口は深淵の口の中にある！」"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.21-25)",
+      "original": "¿Yo exclamé: «Morir quieres? En el seno\ntú, mi cabeza, al espirar, coloca;\n¿y después? si es verdad que es un veneno\nde tu boca la miel, yo también peno,\n¡mátame con la miel que hay en tu boca!»",
+      "provisionalTranslation": "私は叫んだ。「死にたいのか？ 君の胸に\n私の頭を、息絶える時に、置いてほしい。\nそれから？ もし本当に毒なら\n君の口の中の蜜が、私も苦しむ、\n君の口の中にある蜜で私を殺してほしい！」"
+    },
+    {
+      "id": 6,
+      "verses": "VI (v.26-30)",
+      "original": "Colgóse entonces de mi cuello, hermosa,\ntransfigurada, y llena de ternura\npuso en mi labio el suyo, hecho de rosa,\ny en una tregua larga y silenciosa,\n¡lloramos de dolor y de ventura!",
+      "provisionalTranslation": "それから彼女は美しく、変容して、\n優しさに満ちて私の首にすがりつき、\nバラでできた唇を私の唇に触れさせた。\nそして長く静寂な休戦の中で、\n私たちは苦しみと幸福から泣いた！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "al contemplar el hondo precipicio\ná donde el hado sin cesar me impele.",
+      "body": "「深い断崖を見つめながら、運命が絶え間なく私を押し進める先を（al contemplar el hondo precipicio / á donde el hado sin cesar me impele）」──「precipicio（断崖・絶壁）」が「De cabeza」の「abismo（深淵）」と連動するフローレスの垂直的落下のイメージ群：宇宙的堕天使の落下（De cabeza）が、ここでは一人の女性が自分の人生の崩落として語る「hondo precipicio（深い断崖）」へと縮尺を変えて再現される。「hado（運命・宿命）」はスペイン語で「運命」を指すラテン語的語彙（fatum）：「sin cesar（絶え間なく）」という副詞が運命の強制性・不可逆性を強調する。コヘレト「Hanc occupationem pessimam dedit Deus filiis hominum（神は人の子らにこの最も過酷な営みを与えた）」という神が課す不可避の労苦との照応：フローレスの女性は「hado（宿命）」に「impeler（押し進める）」という受動性の中に置かれ、その受動性が第3連の「quisiera morir（死にたい）」という逃避への欲望へと繋がる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "y miro dulcemente hacía mi ocaso\nal ver la muda impavidez del cielo.",
+      "body": "「私は優しく自分の夕暮れへと目を向ける、天の黙した冷淡さを見て（y miro dulcemente hacía mi ocaso / al ver la muda impavidez del cielo）」──「ocaso（夕暮れ・西・没落）」：スペイン語で「日没」と「終わり・死」の二重の意味を持つ語。「dulcemente（優しく・甘く）」という副詞がタイトル「Dulce veneno（甘い毒）」の「dulce（甘い）」を先取りする：死への向かいが「甘く」行われるという逆説が詩の感情的基調を設定する。「muda impavidez del cielo（天の黙した冷淡さ）」──「Ave gris」第2連「la blanca luna（白い月）」・「Astro del alma」の死後の母の眼窩が空間を映すように、フローレスの詩において天・空は人間の苦悩に無関心な「冷淡な（impávido）」背景として繰り返し現れる。ヴェイユ「Nécessité」の「神は必然性という壁を通じて間接的に働く」──天の「黙した冷淡さ」が神の不在ではなく「必然性の沈黙」として機能するという読みも可能。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "¡que quisiera morir!... Hoy nada, nada\nfuera de ti, mi corazón mitiga!",
+      "body": "「死にたいと思うほど……今、何も、何も、君以外に、私の心を和らげない（que quisiera morir!... Hoy nada, nada / fuera de ti, mi corazón mitiga）」──「nada, nada（何も、何も）」の二重反復が「De cabeza」第2連「¡nada!... ¡nada!...」・「Ave gris」第8連「¡nada!」というフローレスの詩集を貫く「nada」の反復語彙として機能する：「Dulce veneno」においては宇宙的虚無が愛の文脈で再現される。「Hoy（今日）」という時制副詞が「Astro del alma」最終行「Hoy esa gota en mi alma es una estrella（今日その滴は魂の中で星となった）」・「Ave gris」第9連「Hoy ha cambiado todo（今日すべては変わった）」と連動するフローレスの現在の転換点を告げる語として機能する：3作品を通じて「Hoy」が昇華・喪失・死への欲望という異なる感情的転換を告げる。「quisiera morir（死にたい）」の接続法過去形が「希望としての死」という非断定的欲望を示す──断定ではなく「もし死ねたら」という仮定法として死への欲望が表現される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "cuando en mi boca están tus labios presos,\n¡tu boca está en la boca de un abismo!»",
+      "body": "「私の口の中に君の唇が囚われているとき、君の口は深淵の口の中にある（cuando en mi boca están tus labios presos / ¡tu boca está en la boca de un abismo!）」──詩全体の感情的・形而上学的絶頂。「abismo（深淵）」が「De cabeza」第1連「Va cayendo, cayendo en el abismo」の堕天使の落下する宇宙的空間から、二人の接吻という極めて親密な空間へと縮尺を変えて再現される：フローレスの詩集において「abismo」は宇宙的・形而上学的・恋愛的の三つの次元で使用される。「boca de un abismo（深淵の口）」という「口（boca）」の二重化──女性の「boca（口）」が「abismo（深淵）の boca（口）」として定義される：唇・口が「飲み込む開口部・虚無への入口」として機能するという形象。ボードレール「Les Bijoux（宝石）」の「ses yeux fixés sur moi, comme un tigre dompté（飼い慣らされた虎のように私に目を向けながら）」という官能と危険の結合──ボードレール的エロスの女性が持つ「危険な魅力」がフローレスでは「口＝深淵の口」という形象として表現される。ダウスン「Seraphita」との比較においても、愛する者の接吻が「毒（veneno）」として作用するという逆説的エロス詩学の系譜で位置づけられる。",
+      "targetId": "dowson_seraphita",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "¡mátame con la miel que hay en tu boca!»",
+      "body": "「君の口の中にある蜜で私を殺してほしい（¡mátame con la miel que hay en tu boca!）」──詩的主体の応答の絶頂的一行。「miel（蜜）」と「veneno（毒）」の等式：第4連で女性が「私の接吻は毒だ」と告白し、詩的主体はその「毒（veneno）」を「蜜（miel）」と言い換えることで、毒と蜜の完全な同一化を宣言する。「mátame（私を殺せ）」という命令形が「quisiera morir（死にたい）」という仮定法（第3連）から「殺してくれ」という直接的命令形への移行を示す：女性の死への消極的欲望が、男性の積極的命令形による「愛の死（Liebestod）」の欲求として応答される。雅歌（Canticum Canticorum）「Fulcite me floribus, stipate me malis, quia amore langueo（花で私を支えよ、林檎で私を強めよ、愛に病んでいるから）」──聖書的エロスにおける「蜜・愛の甘さ・死への倦怠」という語彙群がフローレスの「miel」・「mátame」・「veneno」という定式の深層にある。ネルヴォ「El beso fantasma（幻の接吻）」との照応：どちらも「接吻」が生と死の境界として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "y en una tregua larga y silenciosa,\n¡lloramos de dolor y de ventura!",
+      "body": "「そして長く静寂な休戦の中で、私たちは苦しみと幸福から泣いた（y en una tregua larga y silenciosa / ¡lloramos de dolor y de ventura!）」──詩の結語にして感情的解決。「tregua（休戦・停戦）」という軍事的語彙が愛の激情の「一時的停止」として適用される：愛が「戦争」の形象系で理解されるスペイン語バロック詩（ケベド等）の伝統を引き継ぐ。「lloramos de dolor y de ventura（苦しみと幸福から泣いた）」──「dolor（苦しみ）」と「ventura（幸福・運）」という対立語が「y（と）」で接続される：涙が苦しみのものか幸福のものかが分離不能として提示される。「Astro del alma」の「Hoy esa gota en mi alma es una estrella（今日その滴は私の魂の中で星となった）」における涙の昇華に対し、「Dulce veneno」は「lloramos（泣いた）」という複数形の共同の涙として結ばれる：個人の涙（Astro del alma）から二人の涙（Dulce veneno）への拡張がフローレスの涙の詩学の射程を示す。ローデンバック「Nocturne（夜想曲）」の「沈黙の中の二人の存在」という静寂の親密さとの照応。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 3
+    }
+  ]
+}
