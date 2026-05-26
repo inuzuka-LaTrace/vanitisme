@@ -1,0 +1,108 @@
+{
+  "id": "florez_castigo",
+  "title": "Castigo",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Castigo",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "上級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Castigo（罰・懲らしめ）」は8-8-8-4行の4段落28行からなる自由詩形式の詩であり、「Aún」で表明された消えない情熱の暗い裏面として、裏切った恋人の「目（ojos）」への呪詛と暴力的幻想を展開する。詩の構造は三段の「欲望（quisiera・quiero）」の連鎖として組織される：第1段落「刃を目に突き刺したい（yo quisiera clavarte en los ojos）」→ 第2段落「目の奥の虚無を見たい（Ver los abismos helados y negros）」→ 第3段落「目を罰したい（Quiero castigarlos）」→ 第4段落「それより目そのものを刃として突き刺したい（más quisiera clavarte esos ojos / puñales de fuego）」という逆転。「目（ojos）」が詩全体の焦点として反復される──冒頭では「青く広大な天の隅（rincones del cielo）」として天的美の形象だった目が、第2段落では「凍った暗い深淵（abismos helados y negros）」・第3段落では「青い隅が孔（agujeros）へと変わる」・最終段落では「天の蝕（eclipse de cielo）」として変容する弧が詩の構造をなす。フローレスの詩集において「Aún」の沈黙・うつむき・悲しみという抑制された表現が、「Castigo」では暴力的幻想として爆発する──「Ave gris」の沈黙するフクロウが「Castigo」では叫ぶ者として反転する。",
+  "keywords": [
+    "罰",
+    "Castigo",
+    "目",
+    "ojos",
+    "刃",
+    "puñal",
+    "深淵",
+    "abismo",
+    "蝕",
+    "eclipse",
+    "呪詛",
+    "暴力的幻想",
+    "天",
+    "cielo",
+    "孔",
+    "agujero",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_aun",
+    "florez_ave_gris",
+    "florez_dulce_veneno",
+    "baudelaire_les_bijoux",
+    "baudelaire_de_profundis_clamavi",
+    "trakl_de_profundis",
+    "nervo_obsesion",
+    "silva_ofrenda_a_la_muerte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-8)",
+      "original": "Dos puñales agudos\ntemplados al fuego,\nyo quisiera clavarte en los ojos,\nazules y grandes rincones del cielo;\nsacar los puñales\n¿después, los terribles puñales de acero,\ny ver en tus cuencas vacías y oscuras\nresbalar dos raudales sangrientos?",
+      "provisionalTranslation": "二本の鋭い短剣を\n炎で焼き鍛えたものを、\n私は君の目に突き刺したい、\n青く広大な天の隅に。\n刃を引き抜いた後で、\nあの恐ろしい鋼の短剣を、\n君の空ろになった暗い眼窩に\n二筋の血の奔流が滑り落ちるのを見たい？"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.9-16)",
+      "original": "Y ver los abismos\nhelados y negros,\nque á través del cristal de esos ojos\n(extintos á tiempo)\nvolcaron desdenes y rayos de ira\n¡en estos los míos de lágrimas llenos!...\nVentanas obscuras en donde se asoma\nMi espíritu enfermo.",
+      "provisionalTranslation": "そして見たい、深淵を──\n凍り、黒く、\nあの目のガラスを通して\n（折よく消えた目の）\n私の目に──涙で満たされた私の目に──\n侮蔑と怒りの光線を投げかけた深淵を！……\n暗い窓、そこから覗く\n私の病んだ魂を。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.17-24)",
+      "original": "Quiero castigarlos\ncon castigo eterno,\nsólo por haberle negado á mi noche\n¡su luz, siendo limpios y ardientes luceros!\nQuiero ver tu alma\nEntonces en esos\nrincones azules, de pronto trocados\n¡en dos agujeros!",
+      "provisionalTranslation": "私はあの目を罰したい\n永遠の罰で、\nただ私の夜にその光を拒んだために──\n清く燃える明星でありながら！\n私は君の魂を見たい\nそのとき、あの\n青い隅に、突然変わった\n二つの孔の中に！"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.25-28)",
+      "original": "Pero más quisiera clavarte esos ojos\npuñales de fuego\npor ver un eclipse,\n¡¿qué trágico eclipse? un eclipse de cielo!",
+      "provisionalTranslation": "しかしそれより私は、あの目そのものを──\n火の短剣として──君に突き刺したい、\n蝕を見るために、\nなんと悲劇的な蝕を？ 天の蝕を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "yo quisiera clavarte en los ojos,\nazules y grandes rincones del cielo;",
+      "body": "「私は君の目に突き刺したい、青く広大な天の隅に（yo quisiera clavarte en los ojos / azules y grandes rincones del cielo）」──詩の開口部が即座に暴力的幻想として提示される。「quisiera（したい）」：接続法過去による「実現不可能な欲望」の定型──「Dulce veneno」の「¡mátame con la miel que hay en tu boca!」・「La gran tristeza」の「¡Ah, sí acortar pudiera a jornada!」と同様の「接続法の欲望形」がフローレスの感情語彙の核心をなす。「azules y grandes rincones del cielo（青く広大な天の隅）」：「Aún」での「目」は不在のまま詩の外に位置していたが、「Castigo」では目が「天の隅（rincones del cielo）」として宇宙的な美の形象として開口部に置かれる──この美の形象が詩の進行とともに「abismos（深淵）」・「cuencas vacías（空ろな眼窩）」・「agujeros（孔）」・「eclipse de cielo（天の蝕）」へと変容する弧を設定する。「rincones（隅）」という語が第3段落「rincones azules, de pronto trocados / ¡en dos agujeros!（青い隅が突然孔に変わる）」で回収される：詩の構造的な「語の反復・変容」の核心。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "sacar los puñales\n¿después, los terribles puñales de acero,\ny ver en tus cuencas vacías y oscuras\nresbalar dos raudales sangrientos?",
+      "body": "「刃を引き抜いた後で、あの恐ろしい鋼の短剣を、君の空ろになった暗い眼窩に二筋の血の奔流が滑り落ちるのを見たい（sacar los puñales / ¿después, los terribles puñales de acero / y ver en tus cuencas vacías y oscuras / resbalar dos raudales sangrientos）」──詩の最初の疑問形構造。第1段落全体が「quisiera（したい）〜（ものを）見たい？（¿...ver...?）」という欲望＋視覚的確認の欲求の二重構造をなす。「puñales（短剣）」の三重反復（v.1「puñales agudos」・v.6「puñales de acero」・v.25「clavarte esos ojos / puñales de fuego」）：詩を通じて「短剣」の属性が「鋭い（agudos）」→「鋼の（de acero）」→「火の（de fuego）」へと変容する弧が詩集内の元素変容（アストロ・デ・ルマの水→星・デ・カベサの神聖な火→放火の火花）の系列に加わる。「cuencas vacías（空ろな眼窩）」──「La gran tristeza」の「bóveda vacía（空虚な天蓋）」・「De cabeza」の「bóveda vacía」と連動するフローレスの「空虚（vacío）」の形象系列：この詩では「眼窩（cuencas）」という身体の空洞が「虚無（vacío）」の局所的形象として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Y ver los abismos\nhelados y negros,\nque á través del cristal de esos ojos\n(extintos á tiempo)\nvolcaron desdenes y rayos de ira\n¡en estos los míos de lágrimas llenos!...\nVentanas obscuras en donde se asoma\nMi espíritu enfermo.",
+      "body": "「凍り、黒い深淵を……あの目のガラスを通して侮蔑と怒りの光線を投げかけた……暗い窓、そこから覗く私の病んだ魂（los abismos / helados y negros / á través del cristal de esos ojos / volcaron desdenes y rayos de ira / Ventanas obscuras / Mi espíritu enfermo）」──「Dulce veneno」第4連「tu boca está en la boca de un abismo（君の口は深淵の口の中にある）」・「De cabeza」第1連「abismo de la noche sin fin（終わりなき夜の深淵）」というフローレスの「abismo」語彙の「目（ojos）」への適用。「cristal de esos ojos（あの目のガラス）」：目を「ガラス（cristal）」として定義する──「Astro del alma」の涙が鏡として部屋を映した「espejo（鏡）」と同様の光学的形象として目が機能する。「(extintos á tiempo)（折よく消えた）」という括弧内挿入句：「extinto」は「Mi tumba」の「edén extinto（消えたエデン）」・「De cabeza」の「edén extinto」と連動するフローレスの「消滅（extinción）」の語彙。「Ventanas obscuras / Mi espíritu enfermo（暗い窓、そこから覗く私の病んだ魂）」──ローデンバック「La vie des chambres（部屋の生）」の「窓が魂を外部に接続する」という窓の詩学との照応：フローレスの「暗い窓」は外部（恋人の目）から内部（病んだ魂）への視線の逆転を示す。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sólo por haberle negado á mi noche\n¡su luz, siendo limpios y ardientes luceros!",
+      "body": "「ただ私の夜にその光を拒んだために──清く燃える明星でありながら！（sólo por haberle negado á mi noche / ¡su luz, siendo limpios y ardientes luceros!）」──「罰（castigo）」の原因の定式化。「negado á mi noche（私の夜に拒んだ）」：目が「limpios y ardientes luceros（清く燃える明星）」でありながら詩人の「夜（noche）」を照らすことを拒んだという形象。「luceros（明星・宵の明星）」──「Mi tumba」の「cirio funeral, un astro（葬儀の蝋燭として、星）」・「Astro del alma」の「astro（星）」というフローレスの星の語彙系列に「luceros（明星）」が加わる：「目＝星」という等置が「Castigo」では「光を拒んだ星」という否定的形象として機能する。「rincones azules, de pronto trocados / ¡en dos agujeros!（青い隅が突然孔に変わる）」：第1段落の「azules y grandes rincones del cielo（青く広大な天の隅）」の「rincones（隅）」が第3段落末尾で「agujeros（孔）」へと変容する構造的回収。天的美（青い隅）から虚無（孔）への変容がフローレスの詩集全体を貫く物質の変容の詩学の最も激烈な形象。",
+      "targetId": "florez_mi_tumba",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Pero más quisiera clavarte esos ojos\npuñales de fuego\npor ver un eclipse,\n¡¿qué trágico eclipse? un eclipse de cielo!",
+      "body": "「それより私は、あの目そのものを火の短剣として君に突き刺したい、天の蝕を見るために（más quisiera clavarte esos ojos / puñales de fuego / un eclipse de cielo）」──詩全体の逆転的結語。冒頭「刃を目に突き刺す」から最終行「目そのものを刃として突き刺す」への転倒：主体（刃）と客体（目）の交換が詩の最大の修辞的転換をなす。「esos ojos / puñales de fuego（あの目、火の短剣として）」：詩の冒頭「Dos puñales agudos / templados al fuego（炎で焼き鍛えた二本の鋭い短剣）」の「短剣＋炎」の形象が「目」そのものへと収斂する：外部の道具（短剣）が内部の形象（目）として同化される。「eclipse de cielo（天の蝕）」：「azules y grandes rincones del cielo（青く広大な天の隅）」として開いた目のイメージが「eclipse（蝕）」として閉じる──「蝕」は光が遮られる天文現象であり、「目が光を拒んだ（negado á mi noche / su luz）」という第3段落の「罰の原因」が、「蝕」という天的現象として宇宙化される。「¡¿qué trágico eclipse?（なんと悲劇的な蝕を？）」という問いが感嘆と疑問を同時に発する二重句読点（¡¿）として提示される：スペイン語の二重括弧句読点の感情的強度の最大活用。ネルヴォ「Apocalíptica」の「estrellasが水を胆汁に変える」という宇宙的破滅の形象と「Castigo」の「天の蝕」という宇宙的消滅の形象が、両者ともラテンアメリカ・モデルニスモの「宇宙的破局」詩学の中で共鳴する。",
+      "targetId": "nervo_apocaliptica",
+      "targetParagraphId": 6
+    }
+  ]
+}
