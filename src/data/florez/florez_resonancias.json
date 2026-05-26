@@ -1,0 +1,152 @@
+{
+  "id": "florez_resonancias",
+  "title": "Resonancias",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Resonancias",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "上級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Resonancias（共鳴・残響）」は8段落43行の自由詩形式の頌詩（ode）であり、詩集中で唯一「宇宙的雷鳴（trueno）」への賛歌として展開する異色作。詩集の大半が喪失・死・孤独・虚無を主題とするのに対し、「Resonancias」は雷鳴という破壊的自然現象への肯定的・歓喜的な応答として際立つ。詩の構造は雷への直接呼格による頌詩として展開する：第1連（雷の外見的記述──漆黒の叫び・無限の球体に染みをつける）→ 第2連（稲妻の子として──詩的主体を我を忘れさせる）→ 第3連（「どの深淵の洞窟から来るのか？どの星座の隅へ向かうのか？」）→ 第4連（恐怖ではなく欲望を与える──山から山へと転げ落ちる雷鳴の戦車を見たい）→ 第5連（「天と海の暗い青の大いなる黒い戦いの鼓（atambor soberano）」──雷鳴を鼓として定義）→ 第6連（鉛色の雲・灰・稲妻の赤い閃光の中で雷を聞く快楽）→ 第7連（「君の声は順風のしるし。希望の灯台が輝く限り、破壊は何でもない」）→ 第8連（「君の声は呆然とさせ恐怖させる──しかし私はそうでない。雨の後に小麦はより黄金色になる。そして人間は？地上でより良いものになる！」）という楽観的肯定の結語。「Resonancias」は詩集「Cardos y lirios」の「cardos（薊：棘・苦悩）」と「lirios（百合：純潔・昇華）」の対立において、破壊的な自然（雷・嵐）の肯定という第三の立場を示す。",
+  "keywords": [
+    "雷",
+    "trueno",
+    "共鳴",
+    "resonancias",
+    "稲妻",
+    "rayo",
+    "嵐",
+    "鼓",
+    "atambor",
+    "深淵",
+    "abismo",
+    "希望",
+    "esperanza",
+    "破壊の肯定",
+    "頌詩",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_de_cabeza",
+    "florez_himno_a_la_aurora",
+    "florez_la_gran_tristeza",
+    "nervo_apocaliptica",
+    "verhaeren_heresiarque",
+    "trakl_grodek",
+    "baudelaire_elevation",
+    "hieronymus_iob_1",
+    "george_templer"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "¡Trueno!... Enorme alarido\nde la negrura desgarrada, fiera\nvoz del gran nubarrón, que, suspendido\nde azul, mancha la infinita esfera:\n¡yo aplaudo tu estallido!",
+      "provisionalTranslation": "雷よ！……引き裂かれた暗黒の巨大な叫び、\n荒々しい声、青から吊り下がり\n無限の球体に染みをつける\n巨大な雨雲の声よ：\n私は君の爆発を讃える！"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.6-10)",
+      "original": "Hijo del rayo torvo, d´ese inicuo\ndevastador que ciegamente mata\ncon su visaje lúgubre y oblicuo\ncuando el ciclón su cólera desata:\n¡tu fragor me enajena y me arrebata!",
+      "provisionalTranslation": "歪んだ稲妻の子よ、その邪悪な\n破壊者──陰鬱で斜めの顔で\n盲目的に殺す──\nサイクロンがその怒りを解き放つとき：\n君のとどろきが私を我を忘れさせ、奪い去る！"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.11-14)",
+      "original": "¿De qué caverna del abismo sales?\nDe qué confín remoto\nvienes y á que rincones siderales\n¿llevas tu inmensa voz de terremoto?",
+      "provisionalTranslation": "どの深淵の洞窟から出てくるのか？\nどの遠い果てから\n来て、どの星座の隅へ\n君の巨大な地震の声を運ぶのか？"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.15-19)",
+      "original": "Tu largo y poderoso tableteo,\nque asorda el horizonte,\nno me infunde pavor, sino deseo\nde ver tu carro bronco y giganteo\n¡despeñarse y rodar de monte en monte!",
+      "provisionalTranslation": "地平線を聾にする\n君の長く力強い轟音は、\n私に恐怖ではなく欲望を与える──\n君の荒く巨大な戦車が\n山から山へと転げ落ちるのを見たいという！"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.20-24)",
+      "original": "Atambor soberano\ndel gran combate negro\nde los hondos azules:\nde cielo y océano:\n¡cuando te oigo, me alegro!",
+      "provisionalTranslation": "天と海の\n深い青の\n大いなる黒い戦いの\n主権的な鼓よ：\n君を聞くとき、私は喜ぶ！"
+    },
+    {
+      "id": 6,
+      "verses": "VI (v.25-34)",
+      "original": "Cuando atraviesas los rugosos tules\nde las nubes plomizas,\nsemejantes á lívidos montones\nde apretadas cenizas,\nrotos por los soberbios aquilones\ndel rayo entre las ráfagas rojizas,\ngozo tanto al oírte,\ncomo la ola que la espuma esmalta\ny muge y corre y se encabrita y salta\n¡sin que le importe la traidora sirte!",
+      "provisionalTranslation": "鉛色の雲の\nざらざらしたチュールを横切るとき──\n蒼白い山積みの\n固まった灰に似た──\n赤い閃光の中の稲妻の\n傲慢な北風によって引き裂かれた──\n君を聞く喜びはかくも大きく、\n白波で飾られ、\n唸り、走り、棒立ちになり、跳ね上がる波のように──\n裏切る岩礁などまるで気にせずに！"
+    },
+    {
+      "id": 7,
+      "verses": "VII (v.35-38)",
+      "original": "Al escucharte gozo,\nporque tu voz es signo de bonanza;\nnada importa el destrozo\n¡mientras brille el fanal de la esperanza!",
+      "provisionalTranslation": "君を聞いて喜ぶ、\nなぜなら君の声は順風のしるしだから。\n破壊は何でもない、\n希望の灯台が輝く限り！"
+    },
+    {
+      "id": 8,
+      "verses": "VIII (v.39-43)",
+      "original": "Tu voz, pasma y aterra,\n¡pero á mi no!... ¿Pues sé que tras la lluvia,\ncomo tras los estruendos de la guerra,\nla dulce mies del pan? será más rubia\n¿Y el hombre? ¡algo mejor sobre la tierra!",
+      "provisionalTranslation": "君の声は呆然とさせ、恐怖させる、\nしかし私はそうでない！……なぜなら私は知っているから、雨の後には、\n戦争の轟音の後のように、\n甘い小麦の穂がより黄金色になると。\n人間は？ 地上でより良いものになる！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¡Trueno!... Enorme alarido\nde la negrura desgarrada, fiera\nvoz del gran nubarrón, que, suspendido\nde azul, mancha la infinita esfera:\n¡yo aplaudo tu estallido!",
+      "body": "「雷よ！……引き裂かれた暗黒の巨大な叫び（¡Trueno!... Enorme alarido / de la negrura desgarrada）」──詩の開口部が「¡Trueno!（雷よ！）」という単語の感嘆符による直接呼格として始まる：「Himno a la aurora」の「¡Celestial mariposa!（天の蝶よ！）」・「En el cementerio」の「¡Muerte despiadada!（憐れみなき死よ！）」と同型の直接呼格頌詩形式。「Enorme alarido / de la negrura desgarrada（引き裂かれた暗黒の巨大な叫び）」──「De cabeza」の「satánico aleteo（悪魔的な羽ばたき）」・ネルヴォ「Apocalíptica」の「los Siete Truenos（七つの雷）」という詩集内外の「天的な音響」の形象との照応：フローレスの詩では雷は「negrura（暗黒）」と結びついて宇宙的暴力として提示される。「mancha la infinita esfera（無限の球体に染みをつける）」：「La gran tristeza」の「bóveda infinita（無限の天蓋）」・「De cabeza」の「bóveda vacía（空虚な天蓋）」という詩集内の「天蓋（bóveda）」が、ここでは「infinita esfera（無限の球体）」として言い換えられ、それに「mancha（染み）」をつける雨雲の存在が提示される。「¡yo aplaudo tu estallido!（私は君の爆発を讃える！）」──詩集の基調である「喪失・悲嘆・虚無」への肯定的反転：詩的主体が破壊的自然現象に「拍手（aplaudir）」するという姿勢が詩全体の感情的基調として宣言される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Hijo del rayo torvo, d´ese inicuo\ndevastador que ciegamente mata\ncon su visaje lúgubre y oblicuo\ncuando el ciclón su cólera desata:\n¡tu fragor me enajena y me arrebata!",
+      "body": "「歪んだ稲妻の子よ、その邪悪な破壊者──盲目的に殺す──サイクロンがその怒りを解き放つとき：君のとどろきが私を我を忘れさせ、奪い去る（Hijo del rayo torvo / devastador que ciegamente mata / tu fragor me enajena y me arrebata）」──雷を「稲妻の子（Hijo del rayo）」として系譜的に定義する。「torvo（歪んだ・陰険な）」という形容詞が「De cabeza」第4連「con el torvo mirar de los perversos（邪悪な者たちの歪んだ眼差しで）」と同一語として反復される：堕天使の「歪んだ眼差し（torvo mirar）」と稲妻の「歪んだ（torvo）」性格が同一語彙によって結ばれる──「De cabeza」の堕天使と「Resonancias」の雷が同型の破壊的力として詩集内で響き合う。「visaje lúgubre y oblicuo（陰鬱で斜めの顔）」：「lúgubre（陰鬱な）」が「Ave gris」の「pájaro lúgubre（陰鬱な鳥）」・ネルヴォ「Apocalíptica」の「lóbrego infinito（陰鬱な無限）」と連動するスペイン語圏モデルニスモの共通語彙として機能する。「¡tu fragor me enajena y me arrebata!（君のとどろきが私を我を忘れさせ、奪い去る）」──「enajenar（我を忘れさせる・疎外する）」という語が「Resurrecciones」の「Soy un extraño ante mis propios ojos（私は自分自身の目の前の見知らぬ者）」という自己疎外と同語根：しかし「Resurrecciones」の疎外が苦痛として経験されるのに対し、「Resonancias」では雷鳴による疎外が「arrebatar（奪い去る・陶酔させる）」という歓喜として経験される対照をなす。",
+      "targetId": "florez_de_cabeza",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¿De qué caverna del abismo sales?\nDe qué confín remoto\nvienes y á que rincones siderales\n¿llevas tu inmensa voz de terremoto?",
+      "body": "「どの深淵の洞窟から出てくるのか？（¿De qué caverna del abismo sales?）」──「La gran tristeza」第3連「y allí parece un vivo interrogante / que interroga a la bóveda infinita（無限の天蓋に問いかける生きた疑問符）」の問いかけの構造との照応：「La gran tristeza」では詩的主体が鷺と天に向けて問いを発したが、「Resonancias」では雷そのものが「どこから来るのか？」と問われる。「caverna del abismo（深淵の洞窟）」──「Castigo」の「los abismos / helados y negros（凍り、黒い深淵）」・「De cabeza」の「abismo de la noche sin fin（終わりなき夜の深淵）」というフローレスの「abismo」語彙系列：「Resonancias」では深淵が雷の起源・住処として定義される。「rincones siderales（星座の隅）」──「Castigo」の「azules y grandes rincones del cielo（青く広大な天の隅）」・「Himno a la aurora」の「en qué sidéreo broche（どの星座の留め金で）」という詩集内の「天の隅・星座」語彙の反復。「voz de terremoto（地震の声）」：「rayo（稲妻）」の子である「trueno（雷）」が「地震」の声として定義される──天上の音（雷）と地下の音（地震）の混交がフローレスの宇宙的音響の詩学。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Tu largo y poderoso tableteo,\nque asorda el horizonte,\nno me infunde pavor, sino deseo\nde ver tu carro bronco y giganteo\n¡despeñarse y rodar de monte en monte!",
+      "body": "「地平線を聾にする君の長く力強い轟音は、私に恐怖ではなく欲望を与える──君の荒く巨大な戦車が山から山へと転げ落ちるのを見たいという（no me infunde pavor, sino deseo / de ver tu carro bronco y giganteo / ¡despeñarse y rodar de monte en monte!）」──「pavor（恐怖）ではなくdeseo（欲望）」という対置が詩全体の感情的論理の核心を明示する。「no me infunde pavor, sino deseo（私に恐怖ではなく欲望を与える）」：詩集「Cardos y lirios」において恐怖と欲望は通常「Dulce veneno」的な恋愛の文脈・「Castigo」的な暴力的幻想として現れるが、「Resonancias」では自然現象の破壊力への「欲望」として現れる──「欲望（deseo）」の対象が恋人から雷の戦車へと転換する。「carro bronco y giganteo（荒く巨大な戦車）」：「carro（戦車）」はギリシア・ローマの神話的語彙──ゼウス・ユピテルが雷霆を投げながら天空を疾走する「神の戦車（carro del dios）」の古典的形象の変奏。「¡despeñarse y rodar de monte en monte!（山から山へと転げ落ちる）」──「De cabeza」の「Va cayendo, cayendo en el abismo（落ちていく、落ちていく深淵へと）」という堕天使の永続的落下の形象との照応：「De cabeza」では落下が不可逆的な呪いとして提示されたのに対し、「Resonancias」では「転げ落ちる（despeñarse）」という同型の落下運動が歓喜の対象として提示される──詩集内の落下の感情的評価の正反対の極。ヴェルハーレン「Hérésiarque」の嵐・破壊への讃美と並ぶ世紀末詩学の「崇高（lo sublime）」の系譜：フローレスはカントの「崇高論」的な破壊力への恐怖と快楽の混合を詩化する。",
+      "targetId": "florez_de_cabeza",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Atambor soberano\ndel gran combate negro\nde los hondos azules:\nde cielo y océano:\n¡cuando te oigo, me alegro!",
+      "body": "「天と海の深い青の大いなる黒い戦いの主権的な鼓（Atambor soberano / del gran combate negro / de los hondos azules / de cielo y océano）」──「Resonancias」の中心的定義。「atambor（鼓・太鼓）」：雷鳴を「鼓」として定義する音楽的形象。「gran combate negro（大いなる黒い戦い）」：嵐を「戦い（combate）」として擬人化するが「negro（黒い）」という形容が詩集全体の「暗黒」語彙に接続する。「hondos azules（深い青）」──「Castigo」の「azules y grandes rincones del cielo（青く広大な天の隅）」・「Ave gris」の「ámbitos azules（青い空間）」というフローレスの「青（azul）」の語彙：詩集において「青」は天の色彩として反復されるが「hondos（深い）」という形容詞が加わることで「深海」と「天空」の二重の深さを示す。「¡cuando te oigo, me alegro!（君を聞くとき、私は喜ぶ！）」：「En el cementerio」の「¡nada!... ¡nada!（何もない！）」という虚無の結語と正反対の感情的極として「me alegro（喜ぶ）」が提示される──詩集内の感情的対極をなす二つの結語。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "gozo tanto al oírte,\ncomo la ola que la espuma esmalta\ny muge y corre y se encabrita y salta\n¡sin que le importe la traidora sirte!",
+      "body": "「君を聞く喜びはかくも大きく、白波で飾られ、唸り、走り、棒立ちになり、跳ね上がる波のように──裏切る岩礁などまるで気にせずに！（gozo tanto al oírte / como la ola / y muge y corre y se encabrita y salta / ¡sin que le importe la traidora sirte!）」──第6連の最後の4行が詩全体で最も動的な描写をなす。「y muge y corre y se encabrita y salta（唸り、走り、棒立ちになり、跳ね上がる）」：4つの動詞の接続詞「y（と）」による連鎖（ポリシンデトン）が波の連続的運動を言語的に実演する。「la traidora sirte（裏切る岩礁）」：「sirte」はギリシア語「Σύρτις（シュルティス）」由来のスペイン語で「砂洲・岩礁」を指す古典的地中海の危険水域の名──「traidora（裏切る）」という形容詞が岩礁の擬人化として機能する。「¡sin que le importe la traidora sirte!（裏切る岩礁などまるで気にせずに）」：危険を無視して跳ねる波という形象が第7・8連の「破壊は何でもない（nada importa el destrozo）・恐怖させない（pero á mi no!）」という楽観的態度の詩的先行形として機能する。ヴェルハーレン「Hérésiarque（異端者）」の嵐・破壊への讃美との照応：どちらも破壊的自然現象への肯定的・歓喜的な応答として展開する。",
+      "targetId": "verhaeren_heresiarque",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Al escucharte gozo,\nporque tu voz es signo de bonanza;\nnada importa el destrozo\n¡mientras brille el fanal de la esperanza!",
+      "body": "「君を聞いて喜ぶ、なぜなら君の声は順風のしるしだから。希望の灯台が輝く限り、破壊は何でもない（tu voz es signo de bonanza / nada importa el destrozo / mientras brille el fanal de la esperanza）」──「Resonancias」の感情的核心の言語化。「signo de bonanza（順風のしるし）」：「bonanza」は航海用語で「穏やかな海・順風」を意味する──雷鳴という「嵐の音」が「順風（bonanza）のしるし」として逆説的に定義される：嵐の後に穏やかな海が来るという逆接の論理。「nada importa el destrozo（破壊は何でもない）」：詩集全体の「nada（何もない・虚無）」という語彙がここでは「何でもない・問題ない」という軽蔑的最小化として使われる──「En el cementerio」の「¡nada!... ¡nada!（何もない！）」という虚無の慟哭が、「Resonancias」では「nada importa（何でもない）」という積極的否定として転倒する。「fanal de la esperanza（希望の灯台）」：「fanal（灯台・灯明）」という航海語彙が「esperanza（希望）」の比喩として使われる──「Mi tumba」の「astro（星）」・「Astro del alma」の「astro・cirio（蝋燭）」・「Himno a la aurora」の「antorcha（松明）」というフローレスの光の語彙系列が「fanal（灯台）」として変奏される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "¿Pues sé que tras la lluvia,\ncomo tras los estruendos de la guerra,\nla dulce mies del pan? será más rubia\n¿Y el hombre? ¡algo mejor sobre la tierra!",
+      "body": "「雨の後には戦争の轟音の後のように、甘い小麦の穂がより黄金色になる。人間は？ 地上でより良いものになる！（tras la lluvia / la dulce mies del pan será más rubia / ¿Y el hombre? ¡algo mejor sobre la tierra!）」──詩集「Cardos y lirios」全体の基調である「虚無・喪失・悲嘆」への唯一の反証として機能する楽観的結語。「la dulce mies del pan（甘い小麦の穂）」：嵐の後の豊作という農業的・自然の循環的論理──コヘレト「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という循環の中に「破壊の後の豊穣」という積極的可能性を見出す視座。「¿Y el hombre? ¡algo mejor sobre la tierra!（人間は？ 地上でより良いものになる！）」：詩集を通じて「homo（人間）」が苦悩・孤独・死に曝される存在として描かれてきたのに対し、「Resonancias」結語では「algo mejor（より良いもの）」へと変容する可能性が宣言される。ヨブ記第1章のヨブが「苦難を通じて精錬される」という神学的構造との照応：フローレスの「嵐の後に人間はより良くなる」という命題がヨブ記的な「苦難による浄化」の世俗的・自然主義的変奏として読める。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
