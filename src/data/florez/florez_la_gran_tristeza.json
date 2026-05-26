@@ -1,0 +1,161 @@
+{
+  "id": "florez_la_gran_tristeza",
+  "title": "La gran tristeza",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/La_gran_tristeza",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「La gran tristeza（大いなる悲しみ）」は9連44行の詩であり、コロンビア・モデルニスモ詩学の最高傑作のひとつとして位置づけられる。詩の構造は二つの層の対話として構成される：第1〜3連では広大な灰色の水面に独り佇む白い鷺（garza）が描写され、第4〜7連では詩的主体が鷺に向かって「君はなぜ悲しいのか」を問う四つの仮説的問いを連ねる（伴侶が射殺された？ 嵐に飛ばされた？ 捨てられた？ 雛が死んだ？）。第8連で詩的主体は「いかに私たちは孤独か！（¡Oh, cuán solos estamos!）」という告白とともに鷺との同一化を宣言し、第9連で「私は孤児だ（¡huérfano soy...!）」という核心の告白の後、「鷺は動かない……太陽は赤い炉の中で死んだ」という叙述で閉じる。詩全体を通じて、鷺は詩的主体の孤独・喪失・悲嘆の投影としての「象徴的な鳥（Ave gris の lechuza と対照的な、白く静止した鷺）」として機能し、第3連の「bóveda infinita（無限の天蓋）に問いかける生きた疑問符（vivo interrogante）」という表現がこの鷺の詩的・形而上学的な射程を示す。「Astro del alma」「Ave gris」と並ぶフローレスの鳥・水・孤独の詩学の完成形。",
+  "keywords": [
+    "大いなる悲しみ",
+    "garza",
+    "鷺",
+    "孤独",
+    "soledad",
+    "孤児",
+    "huérfano",
+    "agua gris",
+    "灰色の水",
+    "無限",
+    "bóveda infinita",
+    "問い",
+    "interrogante",
+    "喪失",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "florez_ave_gris",
+    "rodenbach_coeur_de_leau",
+    "rodenbach_les_jardins",
+    "verlaine_chanson_dautomne",
+    "verlaine_colloque_sentimental",
+    "heym_die_tote_im_wasser",
+    "baudelaire_spleen",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "Una inmensa agua gris, inmóvil, muerta,\nsobre un lúgubre páramo tendida;\na trechos, de algas lívidas cubierta,\nni un árbol, ni una flor, todo sin vida,\ntodo sin alma en la extensión desierta.",
+      "provisionalTranslation": "広大な灰色の水が、静止し、死んで、\n陰鬱な荒地に広がっている。\nところどころ、蒼白い藻に覆われ、\n木も一本もなく、花も一輪もなく、すべてが命なく、\n荒涼とした広がりの中に、すべてが魂なく。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.6-10)",
+      "original": "Un punto blanco sobre el agua muda,\nsobre aquella agua de esplendor desnuda\nse ve brillar en el confín lejano:\nes una garza inconsolable, viuda,\nque emerge como un lirio del pantano.",
+      "provisionalTranslation": "沈黙した水の上の白い一点が、\n輝きを剥ぎ取られたあの水の上で\n遠い地平線に輝くのが見える：\n慰めのない、未亡人の鷺が、\n沼から百合のように浮かび上がる。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.11-15)",
+      "original": "¿Entre aquella agua, y en lo más distante,\nesa ave taciturna en qué medita?\nNo ha sacudido el ala un solo instante,\ny allí parece un vivo interrogante\nque interroga a la bóveda infinita.",
+      "provisionalTranslation": "あの水の中で、最も遠い場所で、\nあの無口な鳥は何を思索しているのか？\n一瞬も翼を動かさず、\nそこで生きた疑問符のように見える──\n無限の天蓋に問いかけている。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.16-20)",
+      "original": "Ave triste, responde: ¿Alguna tarde\nen que rasgabas el azul de Enero\ncon tu amante feliz, haciendo alarde\nde tu blancura, el cazador cobarde\nhirió de muerte al dulce compañero?",
+      "provisionalTranslation": "悲しい鳥よ、答えてほしい。ある夕方に\n幸せな恋人とともに一月の青空を切り裂きながら\n君の白さを誇示していたとき、\n臆病な猟師が\n甘い伴侶を死ぬほど傷つけたのか？"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.21-25)",
+      "original": "¿O fue que al pie del saucedal frondoso,\ndonde con él soñabas y dormías,\nal recio empuje de huracán furioso,\nrodó en las sombras el alado esposo\nsobre las secas hojarascas frías?",
+      "provisionalTranslation": "あるいは、葉の茂った柳並木の根もとで、\n彼とともに夢を見て眠っていた場所で、\n猛烈なハリケーンの激しい突進に、\n翼ある夫が影の中へと転がり落ちたのか\n冷たく乾いた落ち葉の上へと？"
+    },
+    {
+      "id": 6,
+      "verses": "VI (v.26-30)",
+      "original": "¿O fue que huyó el ingrato, abandonando\nnido y amor, por otras compañeras,\ny tú, cansada de buscarlo, amando\ncomo siempre, lo esperas sollozando,\no perdida la fe... ya no lo esperas?",
+      "provisionalTranslation": "あるいは、恩知らずが逃げ去ったのか、\n巣と愛を捨てて、他の伴侶のために？\nそして君は、彼を探し疲れながら、\nいつものように愛しながら、すすり泣きながら彼を待っているのか、\nそれとも信仰を失って……もはや待っていないのか？"
+    },
+    {
+      "id": 7,
+      "verses": "VII (v.31-35)",
+      "original": "Dime: ¿Bajo la nada de los cielos,\nalguna noche la tormenta impía\ncayó sobre el juncal, y entre los velos\nde la niebla, sin vida tus polluelos\nflotaron sobre el agua... al otro día?",
+      "provisionalTranslation": "教えてほしい。天の虚無の下で、\nある夜、不敬な嵐が\n葦原に降り注ぎ、霧の\n幕の中で、命なき君の雛たちが\n水の上を漂っていたのか……翌日に？"
+    },
+    {
+      "id": 8,
+      "verses": "VIII (v.36-40)",
+      "original": "¿Por qué ocultas ahora la cabeza\nen el rincón del ala entumecida?\n¡Oh, cuán solos estamos! Ves, ya empieza\na anochecer: Qué iguales nuestras vidas...\nNuestra desolación... Nuestra tristeza.",
+      "provisionalTranslation": "なぜ今、頭を\n痺れた翼の隅に隠しているのか？\nああ、いかに私たちは孤独か！ ご覧、もう夜が始まる。\n私たちの生はなんと似ていることか……\n私たちの荒廃……私たちの悲しみ。"
+    },
+    {
+      "id": 9,
+      "verses": "IX (v.41-46)",
+      "original": "¿Por qué callas? La tarde expira, llueve,\ny la lluvia tenaz deslustra y moja\ntu acolchado plumón de raso y nieve,\n¡huérfano soy...!\nLa garza no se mueve...\ny el sol, ha muerto entre su fragua roja.",
+      "provisionalTranslation": "なぜ黙っているのか？ 夕方が息絶え、雨が降り、\n執拗な雨が君の\nサテンと雪でできた羽毛を曇らせ濡らす。\n私は孤児だ……！\n鷺は動かない……\nそして太陽は、赤い炉の中で死んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Una inmensa agua gris, inmóvil, muerta,\nsobre un lúgubre páramo tendida;",
+      "body": "「広大な灰色の水が、静止し、死んで、陰鬱な荒地に広がっている（Una inmensa agua gris, inmóvil, muerta / sobre un lúgubre páramo tendida）」──詩の開口部が三つの形容詞の連続（inmensa / inmóvil / muerta）によって水を描く：広大さ・静止・死が一行に凝縮される。「agua gris（灰色の水）」──「Ave gris（灰色の鳥）」のタイトルの「gris（灰色）」と連動するフローレスの詩集内部の色彩語彙：灰色は喪失・死・無彩という感情的基底色としてフローレスの詩学全体を染める。「lúgubre（陰鬱な）」──「Ave gris」第7連「el lóbrego infinito」・ネルヴォ「Apocalíptica」同じ語との連動：スペイン語圏モデルニスモにおける「陰鬱さ」の定型語として機能する。「todo sin alma en la extensión desierta（荒涼とした広がりの中に、すべてが魂なく）」──コヘレト第1章「Vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus（太陽の下でなされるすべてを見た、すべては虚無であり霊の苦悩である）」の「afflictio spiritus（霊の苦悩）」が、フローレスでは「sin alma（魂なく）」という否定として大地に投影される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "es una garza inconsolable, viuda,\nque emerge como un lirio del pantano.",
+      "body": "「慰めのない、未亡人の鷺が、沼から百合のように浮かび上がる（es una garza inconsolable, viuda / que emerge como un lirio del pantano）」──詩の中心的形象の最初の提示。「garza（鷺）」：白く孤高で水辺に佇む鳥として、詩的主体の孤独の外的投影として機能する──「Ave gris」の「lechuza（フクロウ）」が暗黒・不吉の証人であったのに対し、「garza（鷺）」は白・静止・悲嘆の形象として対置される。「inconsolable, viuda（慰めのない、未亡人）」：二つの形容詞が鷺に人間的悲嘆の属性を与える──「viuda（未亡人）」という語が喪失した伴侶の存在を暗示し、詩の第4〜7連の問いへの伏線として機能する。「como un lirio del pantano（沼から百合のように）」：「lirio（百合）」は純潔・昇華の象徴だが「pantano（沼）」という汚濁した場所から浮かび上がる逆説──「Astro del alma」の「涙が星となる」という汚濁からの昇華の構造と同型。ローデンバック「Cœur de l'eau（水の心）」の「静止した水の上に浮かぶ孤独な形象」との直接的照応。",
+      "targetId": "rodenbach_coeur_de_leau",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "y allí parece un vivo interrogante\nque interroga a la bóveda infinita.",
+      "body": "「そこで生きた疑問符のように見える──無限の天蓋に問いかけている（y allí parece un vivo interrogante / que interroga a la bóveda infinita）」──詩全体の哲学的核心の定式化。「vivo interrogante（生きた疑問符）」：鷺の形姿が文字通り「?」の形（首を曲げた白い鳥）として疑問符に比喩化され、その疑問符が「bóveda infinita（無限の天蓋）」に向けられる──修辞的疑問が宇宙的問いへと拡張される。「bóveda infinita（無限の天蓋）」──「Ave gris」第8連「yo, ¿qué subo la escala y luego? ¡nada!」の虚無・「De cabeza」第2連「¡Sola siempre la bóveda vacía!（常にただひとり、空虚な天蓋）」の「bóveda（天蓋）」が、ここでは「infinita（無限の）」という形容詞と結合する：フローレスの詩集において「天蓋」は常に沈黙・空虚・無限という属性を帯びる一貫したイメージ系をなす。ヨブ記第7章の「天に向かって問いを投げる」ヨブの孤独な問いかけとの照応：どちらも天の沈黙に向けて問いを発する者の孤立を描く。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Ave triste, responde: ¿Alguna tarde\nen que rasgabas el azul de Enero\ncon tu amante feliz, haciendo alarde\nde tu blancura, el cazador cobarde\nhirió de muerte al dulce compañero?",
+      "body": "「悲しい鳥よ、答えてほしい（Ave triste, responde）」──「Ave triste（悲しい鳥）」という呼格が詩の視点を観察から対話へと転換させる：第1〜3連の叙述的距離が第4連の直接呼格によって消滅し、詩的主体と鷺の間に擬似的な対話空間が開かれる。第4〜7連の「問いの連鎖」構造：「¿Alguna tarde...?（ある夕方に？）」→「¿O fue que...?（あるいは…？）」×2→「Dime: ¿Bajo la nada...?（教えてほしい…？）」という四つの仮説的問いが鷺の悲嘆の原因を列挙する──この問いは答えられず、鷺は沈黙し続けることで問い自体が宙吊りにされる。韻律：ABABB のキンティリャ形式が詩全体を統一する──「De cabeza」「Dulce veneno」と同じキンティリャ形式がフローレスの詩集の構造的基盤をなす。「rasgabas el azul de Enero（一月の青空を切り裂く）」という過去の幸福な飛翔がここで提示され、現在の静止との対比をなす。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "¿O fue que huyó el ingrato, abandonando\nnido y amor, por otras compañeras,",
+      "body": "「恩知らずが逃げ去ったのか、巣と愛を捨てて、他の伴侶のために（huyó el ingrato, abandonando / nido y amor, por otras compañeras）」──第4連（伴侶の死）・第5連（嵐による死）に続く第三の仮説：「捨てられた」という生者による放棄。「ingrato（恩知らず）」という道徳的形容詞が飛び去った伴侶に適用される：死ではなく「裏切り」という生者の選択的放棄が三番目の悲嘆の原因として提示される。「Ave gris」の「¿O fue que huyó el ingrato...」との語彙的連動は直接的：「Ave gris」では詩的主体（男性）が女性に捨てられ、「La gran tristeza」では鷺が伴侶に捨てられる──「捨てられた恋人」というモチーフがフローレスの詩集を通じて人間（Ave gris）から動物（La gran tristeza）へと変奏される。「o perdida la fe... ya no lo esperas?（信仰を失って……もはや待っていないのか？）」──「perdida la fe（信仰を失って）」という語が宗教的語彙を恋愛の文脈で使用する：「fe（信仰）」が神への信仰ではなく「待ち続けることへの信仰」として機能する。",
+      "targetId": "florez_ave_gris",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Dime: ¿Bajo la nada de los cielos,\nalguna noche la tormenta impía\ncayó sobre el juncal, y entre los velos\nde la niebla, sin vida tus polluelos\nflotaron sobre el agua... al otro día?",
+      "body": "「天の虚無の下で、ある夜、不敬な嵐が葦原に降り注ぎ、霧の幕の中で、命なき君の雛たちが水の上を漂っていたのか……翌日に（Bajo la nada de los cielos / la tormenta impía / cayó sobre el juncal / sin vida tus polluelos / flotaron sobre el agua... al otro día）」──第7連が四つの問いの連鎖の最後にして最も悲惨な仮説：子の死。「Bajo la nada de los cielos（天の虚無の下で）」──「nada de los cielos（天の虚無）」という表現が詩集内部の「nada（虚無）」の系列の最大化：「De cabeza」第2連「¡nada!... ¡nada!...」・「Ave gris」第8連「¡nada!」というフローレスの「nada」が、ここでは宇宙的スケールの「天の虚無」として現れる。「sin vida tus polluelos / flotaron sobre el agua（命なき君の雛たちが水の上を漂っていた）」──ゲオルク・ハイム「Die tote im Wasser（水の中の死者）」の「水面に浮かぶ死体」の形象との照応：どちらも「水上に浮かぶ命なき存在」という表現主義的・象徴主義的な死の形象をとる。ローデンバック「Coeur de l'eau」の静止した水が死を保存する形象と連動する。",
+      "targetId": "heym_die_tote_im_wasser",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "¡Oh, cuán solos estamos! Ves, ya empieza\na anochecer: Qué iguales nuestras vidas...\nNuestra desolación... Nuestra tristeza.",
+      "body": "「ああ、いかに私たちは孤独か！……私たちの生はなんと似ていることか……私たちの荒廃……私たちの悲しみ（¡Oh, cuán solos estamos! / Qué iguales nuestras vidas... / Nuestra desolación... Nuestra tristeza）」──詩の感情的絶頂にして詩的主体と鷺の完全な同一化の宣言。「¡Oh, cuán solos estamos!（ああ、いかに私たちは孤独か！）」──「nosotros（私たち）」という複数一人称が詩的主体と鷺を統合する：鳥への問いかけの連鎖が「私たち」という合一によって解決される。「Qué iguales nuestras vidas（私たちの生はなんと似ていることか）」──「iguales（等しい）」という形容詞が人間と鷺の喪失・孤独・悲嘆の同質性を宣言する。「Nuestra desolación... Nuestra tristeza（私たちの荒廃……私たちの悲しみ）」──省略記号（...）が「荒廃」と「悲しみ」の間に言語が届かない感情的余剰を示す。ヴェルレーヌ「Chanson d'automne（秋の歌）」の「長い흐느낌（longs sanglots）」という感情の音楽化との照応：どちらも語り得ない悲嘆を音調・リズムによって表現する。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "¡huérfano soy...!\nLa garza no se mueve...\ny el sol, ha muerto entre su fragua roja.",
+      "body": "「私は孤児だ……！鷺は動かない……そして太陽は、赤い炉の中で死んだ（¡huérfano soy...! / La garza no se mueve... / y el sol, ha muerto entre su fragua roja）」──詩全体の結語として三つの断言が連続する。「¡huérfano soy...!（私は孤児だ）」──詩全体で唯一、詩的主体が鷺への問いを完全に離れて自己自身を語る行：「Astro del alma」の「亡き母」への追悼が、「La gran tristeza」では「huérfano（孤児）」という自己規定として現れる──母の死が「孤児」という状態を生んだという詩集内部の伝記的連絡。「La garza no se mueve...（鷺は動かない）」──詩全体にわたる問いへの答えとしての「沈黙（無応答）」：四つの問いは無回答のまま、鷺は動かないことで応答する──その沈黙が詩的主体の孤独を確証する。「y el sol, ha muerto entre su fragua roja（太陽は赤い炉の中で死んだ）」──「De cabeza」第5連「incendiaria chispa（放火的な火花）」・「fragua（炉・鍛冶場）」の語彙がここで太陽の死として回収される：フローレスの詩集において「fragua（炉）」は宇宙的燃焼・消滅の形象として「De cabeza」から「La gran tristeza」へと変奏される。ボードレール「Spleen（憂鬱）」の「太陽は死んだ（le soleil s'est noyé）」という夕暮れの終末論的形象との照応。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 1
+    }
+  ]
+}
