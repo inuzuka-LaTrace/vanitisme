@@ -1,0 +1,87 @@
+ython3 << 'EOF'
+import json
+
+data = {
+  "id": "florez_en_el_cementerio",
+  "title": "En el cementerio",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/En_el_cementerio",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「En el cementerio（墓地で）」は4-6-4-3行の自由詩形式の追悼詩。詩は「Astro del alma」・「Deshielo」と並ぶ詩集の第三の大きな追悼詩であり、この三篇が「Cardos y lirios」の追悼詩三連作をなす。「Astro del alma」は母の眼窩の涙の凝視（室内）、「Deshielo」は臨終に間に合わなかった後に遺体の手に唇を当てる（死の床）、そして「En el cementerio」は葬儀後に墓地でひとり残された詩的主体の叫び（墓地）という空間的移動の弧を形成する。詩の構造は三つの位相：第1連（葬儀の参列者が去った後、白い墓の前でひとり残される）→ 第2連（死者の美が永遠に自分の生から切り離されたことの確認）→ 第3連（「死よ、彼女の美は塵になるのか？この悲劇的な旅の果てに何が残るのか？」という叫び）→ 第4連（「しかし誰も答えなかった。エコーだけが答えた：¡nada!... ¡nada!... ¡nada! ¡nada!」という虚無の四重反復）。「¡nada!」の四重反復が詩集全体の「nada（虚無）」語彙の最大的爆発として機能する：「Ave gris」「De cabeza」「La gran tristeza」の「nada」が、ここで墓地の問いへの答えとして凝縮する。コヘレト「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」という問いに対する詩的答えがここに見られる。",
+  "keywords": [
+    "墓地", "cementerio", "白い墓", "blanca tumba", "虚無",
+    "nada", "エコー", "eco", "塵", "polvo", "美の消滅",
+    "叫び", "問い", "沈黙", "追悼", "モデルニスモ", "コロンビア", "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma", "florez_deshielo", "florez_mi_tumba",
+    "florez_la_gran_tristeza", "florez_de_cabeza",
+    "hieronymus_ecclesiastes_1", "baudelaire_une_charogne",
+    "rodenbach_devant_tete_de_mort", "dowson_a_requiem"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Cuando todos se alejaron de la blanca tumba aquella,\ndonde sola, muda y fría\nse quedaba ella... ¡ella!\n¡La adorada muerta mía!",
+      "provisionalTranslation": "皆があの白い墓から遠ざかったとき、\nひとり、黙し、冷たく\nそこに残っていた、彼女が……あの彼女が！\n私の愛してやまない亡き彼女が！"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-10)",
+      "original": "Al ver toda su hermosura\npara siempre desligada\nde mi vida\ny escondida\nen la callada\nsepultura,",
+      "provisionalTranslation": "その美しさのすべてが\n永遠に切り離されているのを見て、\n私の生から、\n隠されて、\n静かな\n墓の中に。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.11-14)",
+      "original": "con terrible voz, que aún oigo, grité: «¡Muerte despiadada!,\ndime, ¿toda su belleza tornárase en polvo? Dime,\npara el ser que implora y gime,\nal final ¡qué queda entonces de esta trágica jornada!».",
+      "provisionalTranslation": "今なお聞こえるあの恐ろしい声で、私は叫んだ。「憐れみなき死よ！\n教えてくれ、彼女の美しさのすべては塵になるのか？ 教えてくれ、\n訴え、うめく者のために、\nこの悲劇的な旅の果てに、いったい何が残るというのか！」"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.15-17)",
+      "original": "Pero nadie respondía;\nsólo el eco repetía\nel final de aquella frase: ¡nada!... ¡nada!... ¡nada! ¡nada!",
+      "provisionalTranslation": "しかし誰も答えなかった。\nエコーだけが繰り返した\nあの言葉の最後を：何もない！……何もない！……何もない！ 何もない！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Cuando todos se alejaron de la blanca tumba aquella,\ndonde sola, muda y fría\nse quedaba ella... ¡ella!\n¡La adorada muerta mía!",
+      "body": "「皆があの白い墓から遠ざかったとき、ひとり、黙し、冷たく、そこに残っていた──彼女が……あの彼女が！（Cuando todos se alejaron / donde sola, muda y fría / se quedaba ella... ¡ella! / ¡La adorada muerta mía!）」──「Aún」の最終行「¡me alejo mudo, cabizbajo y triste!（私は黙って、うつむいて、悲しみながら遠ざかる）」の「alejarse（遠ざかる）」が、ここでは「todos se alejaron（皆が遠ざかった）」として反転する：「Aún」では詩的主体が遠ざかる者であったが、「En el cementerio」では詩的主体だけが残り、他の全員が遠ざかる。「blanca tumba（白い墓）」──「La gran tristeza」の「agua gris（灰色の水）」に対する「blanca（白）」：孤独の色彩が灰色から白へと変わる。「sola, muda y fría（ひとり、黙し、冷たく）」という三重の形容詞が「Deshielo」の「quietud（静寂）・frio glacial（氷のような冷たさ）」の静止した死の形象を反復する。「ella... ¡ella!（彼女……あの彼女！）」という同語反復の感嘆──「Aún」で名前なく「ella（彼女）」として存在した女性が、ここでは死者として「ella」の反復によってのみ同定される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Al ver toda su hermosura\npara siempre desligada\nde mi vida\ny escondida\nen la callada\nsepultura,",
+      "body": "「その美しさのすべてが永遠に切り離されているのを見て、私の生から、隠されて、静かな墓の中に（toda su hermosura / para siempre desligada / de mi vida / y escondida / en la callada / sepultura）」──6行の視覚的逓減構造。「hermosura（美）→desligada（切り離された）→de mi vida（私の生から）→y escondida（隠されて）→en la callada（静かな）→sepultura（墓）」という語の下降が行の短縮とともに墓の深さへの視覚的沈降を実現する：最長行（hermosura）から最短行（sepultura）への漸縮が詩の印刷的形象として「埋葬」を模倣する。「callada sepultura（静かな墓）」──「La gran tristeza」の「silencio（静寂）」・「Deshielo」の「quietud（静寂）」というフローレスの死の静寂語彙の系列に加わる。「para siempre desligada（永遠に切り離された）」：「desligar（解き放つ・切り離す）」という語が「Deshielo」の「¡Yo pudiera estrecharte... y retenerte!（抱きしめ……引き留めることを）」という「繋ぎ留める」欲求の失敗と照応する：引き留めようとした命が「永遠に切り離された（para siempre desligada）」として確認される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "con terrible voz, que aún oigo, grité: «¡Muerte despiadada!,\ndime, ¿toda su belleza tornárase en polvo? Dime,\npara el ser que implora y gime,\nal final ¡qué queda entonces de esta trágica jornada!».",
+      "body": "「今なお聞こえるあの恐ろしい声で、私は叫んだ。憐れみなき死よ！ 彼女の美しさのすべては塵になるのか？（con terrible voz, que aún oigo, grité / ¡Muerte despiadada! / ¿toda su belleza tornárase en polvo?）」──「La gran tristeza」第3連「y allí parece un vivo interrogante / que interroga a la bóveda infinita（無限の天蓋に問いかける生きた疑問符）」の問いかけが、ここでは「叫び（grité）」という発声の暴力性をもって実現される。「con terrible voz, que aún oigo（今なお聞こえるあの恐ろしい声）」：詩的主体が過去の自分の叫びを現在においても「まだ聞こえる（aún oigo）」と語る──「Aún（いまだ）」というタイトルの「aún」と同一の副詞が、ここでは消えない叫びの残響として機能する。「¿toda su belleza tornárase en polvo?（彼女の美しさのすべては塵になるのか？）」──「Mi tumba」の「el mustio rastro / de lo que fui（私だったものの萎れた痕跡）」・ボードレール「Une Charogne（腐肉）」の「Et pourtant vous serez semblable à cette ordure（それでもあなたはこの腐肉のようになるだろう）」という美の腐敗への問いと照応する。「esta trágica jornada（この悲劇的な旅）」──「Dulce veneno」第3連「¡Ah, sí acortar pudiera a jornada!（その旅路を短くできれば）」の「jornada」が、ここでは「trágica（悲劇的な）」という形容詞を得て詩集内で完結する。",
+      "targetId": "florez_mi_tumba",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Pero nadie respondía;\nsólo el eco repetía\nel final de aquella frase: ¡nada!... ¡nada!... ¡nada! ¡nada!",
+      "body": "「しかし誰も答えなかった。エコーだけが繰り返した──あの言葉の最後を：何もない！……何もない！……何もない！ 何もない！（Pero nadie respondía / sólo el eco repetía / el final de aquella frase: ¡nada!... ¡nada!... ¡nada! ¡nada!）」──詩集「Cardos y lirios」全体の「nada（虚無）」語彙の最大的爆発にして詩的結語。「¡nada!」の四重反復：「De cabeza」「¡nada!... ¡nada!...」（二重）→「Ave gris」「¡nada!」（一重）→「La gran tristeza」「¡nada, nada!」（二重）→「En el cementerio」「¡nada!... ¡nada!... ¡nada! ¡nada!」（四重）という詩集を通じた「nada」の反復回数の増大が頂点に達する。「sólo el eco repetía（エコーだけが繰り返した）」：「大いなる問い」への答えが「エコー（反響）」のみであるという形象──コヘレト「Non est priorum memoria（先のことどもの記憶はない）」という問いへの「記憶の不在」としての答えと構造的に同型：問いに対して意味ある答えは返らず、問い自体が反響するだけという虚無。「La gran tristeza」第3連「y allí parece un vivo interrogante / que interroga a la bóveda infinita（無限の天蓋に問いかける生きた疑問符）」の「bóveda（天蓋）」が沈黙していたのと同様に、「En el cementerio」では「Muerte（死）」への問いが「nadie respondía（誰も答えなかった）」という沈黙として完結する──フローレスの詩集における問いへの答えは常に「nada（虚無）」か「沈黙」である。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    }
+  ]
+}
+
+
+
+
