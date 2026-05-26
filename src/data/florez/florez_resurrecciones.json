@@ -1,0 +1,101 @@
+{
+  "id": "florez_resurrecciones",
+  "title": "Resurrecciones",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Resurrecciones",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Resurrecciones（復活たち）」は4-4-3-3行のソネット形式（soneto：二つの四行連＋二つの三行連）をとる詩であり、詩集中でフローレスがソネット形式を使用した数少ない例のひとつ。タイトルの複数形「Resurrecciones（復活たち）」が逆説的核心をなす：「死」が複数の「復活」として語られるのではなく、「私は生の中で何度も死んだ（muchas veces en la vida... he muerto）」という結語によって「復活」が「反復する死」の婉曲として機能することが明かされる。詩の構造は二重の時間論的逆説をなす：第1連「毎日何かが私の中で死ぬ（Algo se muere en mí todos los días）」という現在進行形の消耗→第2連「もはや私は私ではない（¡Yo, no soy yo!）」という自己同一性の喪失→第3連「見知らぬ者としての自己（un extraño ante mis propios ojos）」という自己疎外→第4連「生の中で何度も死んだ（muchas veces en la vida... he muerto）」という複数の死の遡及的確認。「Resurrecciones」というタイトルは詩の内容とは逆方向──死後の復活ではなく「次の自己への死」の反復として、近代的な「自己の断片化・多重性」を告発する。コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」の循環的反復がフローレスにおいては「自己」の消耗・変容の連続として内面化されている。",
+  "keywords": [
+    "復活",
+    "resurrecciones",
+    "自己同一性",
+    "自己疎外",
+    "毎日の死",
+    "反復する死",
+    "ソネット",
+    "soneto",
+    "時間",
+    "消耗",
+    "peregrino",
+    "巡礼者",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "florez_la_gran_tristeza",
+    "florez_mi_tumba",
+    "baudelaire_spleen",
+    "baudelaire_horloge",
+    "verlaine_colloque_sentimental",
+    "rodenbach_loubli",
+    "hieronymus_ecclesiastes_1",
+    "dowson_vanitas"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Algo se muere en mí todos los días;\ndel tiempo en la insonora catarata,\nla hora que se aleja, me arrebata\nsalud, amor, ensueños y alegrías.",
+      "provisionalTranslation": "毎日、何かが私の中で死んでいく。\n時間の音なき滝の中で、\n遠ざかる時が私から奪っていく\n健康、愛、夢、そして喜びを。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "Al evocar las ilusiones mías,\npienso: «¡Yo, no soy yo!» ¿Por qué, insensata,\nla misma vida con su soplo mata\nmi antiguo ser, tras lentas agonías?",
+      "provisionalTranslation": "私の幻想を呼び起こすと、\n「私はもはや私ではない！」と思う。なぜ、愚かにも、\n生それ自体が、その息吹きで殺すのか\n私のかつての存在を、ゆっくりとした苦悶の果てに？"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "Soy un extraño ante mis propios ojos,\nun nuevo soñador, un peregrino\nque ayer pisaba flores y hoy... abrojos.",
+      "provisionalTranslation": "私は自分自身の目の前の見知らぬ者、\n新しい夢想家、巡礼者──\n昨日は花を踏み、今日は……茨を。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "Y en todo instante, es tal mi desconcierto,\nque ante mi muerte próxima, imagino\nque muchas veces en la vida... he muerto.",
+      "provisionalTranslation": "そしてあらゆる瞬間、私の混乱はかくも大きく、\n迫りくる自分の死を前にして、私は想像する──\n生の中で何度も……私はすでに死んでいたと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Algo se muere en mí todos los días;\ndel tiempo en la insonora catarata,",
+      "body": "「毎日、何かが私の中で死んでいく。時間の音なき滝の中で（Algo se muere en mí todos los días / del tiempo en la insonora catarata）」──詩の開口部にして詩集「Cardos y lirios」全体の感情的核心の定式化。「Algo（何か）」という不定代名詞が「死ぬもの」の不特定性を強調する：特定の感情・能力・関係ではなく「何か（algo）」という漠然とした存在の消耗が毎日繰り返される。「todos los días（毎日）」──ボードレール「L'Horloge（時計）」の「Chaque instant te dévore（各瞬間が君を食い尽くす）」という時間の消費的性格との照応：どちらも時間が人間の存在を日々・瞬間ごとに削り取る形象をとる。「insonora catarata（音なき滝）」──「catarata（滝・白内障）」という語の二重性：流れ落ちる水という時間の形象と、視力を奪う眼病（白内障）という認識の喪失の形象が重なる。「insonora（音なき）」は感覚矛盾（瀧は轟音を伴うはず）として、時間の消費が気づかれないまま進行することを示す。",
+      "targetId": "baudelaire_horloge",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "pienso: «¡Yo, no soy yo!» ¿Por qué, insensata,\nla misma vida con su soplo mata\nmi antiguo ser, tras lentas agonías?",
+      "body": "「『私はもはや私ではない！』と思う。なぜ、生それ自体が、その息吹きで殺すのか、私のかつての存在を（¡Yo, no soy yo! / la misma vida con su soplo mata / mi antiguo ser）」──詩全体の哲学的核心。「¡Yo, no soy yo!（私はもはや私ではない！）」：自己同一性の崩壊の直接的宣言。デカルト的「cogito ergo sum（我思う、ゆえに我あり）」が前提とする「自己の一貫性」への正面からの異議申し立て。「la misma vida（生それ自体）」が主語として「私のかつての存在（mi antiguo ser）」を殺す：生が自己を形成すると同時に消去するという逆説──「生の息吹き（soplo）」が創造と破壊の同一の力として機能する。「soplo（息吹き・一吹き）」──コヘレト原語「הֶבֶל（hevel：息）」との照応：「Vanitas vanitatum」のヘブライ語的虚無の「息」がフローレスにおいては「生の息吹きが自己を殺す」という逆説的力として内面化される。「tras lentas agonías（ゆっくりとした苦悶の果てに）」──「lentas（ゆっくりとした）」という副詞が消耗の緩慢さを強調する：一瞬の死ではなく「ゆっくりとした苦悶（agonías）」としての連続的自己解体。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Soy un extraño ante mis propios ojos,\nun nuevo soñador, un peregrino\nque ayer pisaba flores y hoy... abrojos.",
+      "body": "「私は自分自身の目の前の見知らぬ者、新しい夢想家、巡礼者──昨日は花を踏み、今日は……茨を（Soy un extraño ante mis propios ojos / un nuevo soñador, un peregrino / que ayer pisaba flores y hoy... abrojos）」──ソネット第1テルセッタ（三行連）の凝縮的形象。「un extraño ante mis propios ojos（自分自身の目の前の見知らぬ者）」：第2連「¡Yo, no soy yo!」の哲学的宣言が「見知らぬ者（extraño）」という具体的社会的形象として実現される。「peregrino（巡礼者）」：中世キリスト教的な「地上の巡礼（peregrinatio mundi）」という語彙が世俗的・実存的な「自己の変容の旅」として転用される──ダウスン「Seraphita」・ジョンソン「De profundis」との照応において、世紀末詩人の「peregrino」像が共鳴する。「flores y hoy... abrojos（花と今日は……茨）」──詩集タイトル「Cardos（薊）y lirios（百合）」の「薊（棘）と百合（花）」という対立が、「flores（花）y abrojos（茨）」として反転する：詩集の表題が詩の末尾に「昨日の花・今日の茨」という時間的逆転として回収される。省略記号（...）が「hoy（今日）」と「abrojos（茨）」の間に一瞬の沈黙を挿入し、転落の感情的重みを増幅させる。",
+      "targetId": "florez_oro_en_polvo",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "que ante mi muerte próxima, imagino\nque muchas veces en la vida... he muerto.",
+      "body": "「迫りくる自分の死を前にして、私は想像する──生の中で何度も……私はすでに死んでいたと（ante mi muerte próxima, imagino / que muchas veces en la vida... he muerto）」──ソネットの結語的コンクルシオ（conclusio）にして詩全体の逆説的転倒。「mi muerte próxima（迫りくる自分の死）」：単数の「死（muerte）」が「近い将来の確実な出来事」として提示されるが、「muchas veces... he muerto（何度も……死んだ）」という現在完了形の複数過去によって、「真の死」がすでに複数回起きていたことが遡及的に明かされる。「Resurrecciones（復活たち）」というタイトルの逆説がここで完成する：「復活」とは「次の死のために生き返ること」の反復であり、生そのものが「複数の死と復活の連続（Resurrecciones）」として定義される。「muchas veces en la vida... he muerto（生の中で何度も……死んだ）」──ダウスン「Vanitas」の「I have forgot much, Cynara!」という反復的喪失の告白との照応：どちらも過去の複数の喪失を現在の時点から回顧する現在完了形の告白詩として構造的に同型。コヘレト「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性の命題が、フローレスにおいては「生の中で何度も死んだ」という自己の反復的消滅として内面化される。",
+      "targetId": "dowson_vanitas",
+      "targetParagraphId": null
+    }
+  ]
+}
