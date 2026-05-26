@@ -1,0 +1,116 @@
+{
+  "id": "florez_himno_a_la_aurora",
+  "title": "Himno a la aurora",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Himno_a_la_aurora",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Himno a la aurora（暁への讃歌）」は6-6-4-4-6行の5段落26行の頌詩（himno）形式をとり、「Oro en polvo」の蝶のモチーフを宇宙的スケールへと拡張した詩である。「Oro en polvo」では詩的主体が「蝶になりたい（¡Quién fuera mariposa!）」と羨望を語ったが、「Himno a la aurora」では「天の蝶（Celestial mariposa）」である暁そのものへの直接的呼びかけ（讃歌）として展開する。詩の構造：第1連（暁を「天の蝶」として描写──アンデスの山脈を超えて飛翔する）→ 第2連（「どの庭から来たのか？ 夜の庭で翅を打ったのか？」という起源への問い）→ 第3連（「どの無限の花々で欲望を満たしたのか？」という問いの継続）→ 第4連（「なぜ地平線・海・谷・山に翅の黄金の粉を撒き散らすのか？」──「Oro en polvo」の「polvo de oro（黄金の粉）」が暁の光として宇宙化される）→ 第5連（「天の蝶よ、来たれ、翅を私のこめかみに当てよ……天の松明で焼け焦げる前に！」という懇願と警告）。「Oro en polvo」での「蝶が薔薇に黄金の粉を残す」という小さな交換が、「Himno a la aurora」では「暁が全世界に黄金の粉を撒き散らす」という宇宙的交換へと昇華される──詩集内のスケールの変容の弧。最終行「¡te quemes en la antorcha de los cielos!（天の松明で焼け焦げる）」はイカロスの神話的構造との照応：太陽に近づきすぎて翅が焼ける暁という形象が詩の警告的結語をなす。",
+  "keywords": [
+    "暁",
+    "aurora",
+    "天の蝶",
+    "mariposa celestial",
+    "黄金の粉",
+    "polvo de oro",
+    "アンデス",
+    "Andes",
+    "夜の庭",
+    "jardines de la noche",
+    "頌詩",
+    "himno",
+    "イカロス",
+    "antorcha",
+    "松明",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_oro_en_polvo",
+    "florez_mi_tumba",
+    "florez_de_cabeza",
+    "florez_astro_del_alma",
+    "florez_la_gran_tristeza",
+    "baudelaire_elevation",
+    "valery_orphee",
+    "nervo_azrael",
+    "silva_aparicion"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-6)",
+      "original": "Celestial mariposa\nde alas tenues y grandes\nteñidas de oro y rosas:\ntú, que en el amplio cielo,\ntras del enorme boa de los Andes\n¡alzas el blando y luminoso vuelo!",
+      "provisionalTranslation": "天の蝶よ、\n薄く大きな翅を持ち、\n金と薔薇色に染まった。\n広い天の中で、\n巨大なアンデスの蛇を越えて\n柔らかく輝かしい飛翔を上げる！"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.7-12)",
+      "original": "¿De qué jardín sublime\nvienes, divina mariposa? Dime,\n¿en qué sidéreo broche\nlibas la miel que te alimenta? ¿Acaso\ntus luengas alas de luciente raso,\nbatiste en los jardines de la noche?",
+      "provisionalTranslation": "どの崇高な庭から\n来るのか、神聖な蝶よ？ 教えてほしい、\nどの星座の留め金で\n君を養う蜜を吸うのか？ もしかして\n輝くサテンの長い翅を、\n夜の庭で打ったのか？"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.13-16)",
+      "original": "¿En qué flores de luces infinitas\nSaciaste tus anhelos?\n¿Tal vez en las radiantes margaritas\nque se abren en los surcos de los cielos?",
+      "provisionalTranslation": "どの無限の光の花々で\n君の欲望を満たしたのか？\nもしかして輝くヒナギクで、\n天の畝に咲く？"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.17-20)",
+      "original": "¿Ya que los horizontes\nllenos de luz y galas\ny derramas en mar, valles y montes\ntodo el dorado polvo de tus alas?",
+      "provisionalTranslation": "すでに地平線を\n光と華やかさで満たし、\n海に、谷に、山に撒き散らすのか\n君の翅のすべての黄金の粉を？"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.21-26)",
+      "original": "¡Celestial mariposa!\nVén, y tus remos en mis sienes posa;\ndesciende al pobre mundo\nde tu verjel profundo,\nantes de que en los giros de tus vuelos,\n¡te quemes en la antorcha de los cielos!",
+      "provisionalTranslation": "天の蝶よ！\n来たれ、翅を私のこめかみに当てよ。\n貧しい世界へと降りてきてほしい\n君の深い楽園から、\n飛翔の旋回の中で\n天の松明で焼け焦げる前に！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Celestial mariposa\nde alas tenues y grandes\nteñidas de oro y rosas:",
+      "body": "「天の蝶よ、薄く大きな翅を持ち、金と薔薇色に染まった（Celestial mariposa / de alas tenues y grandes / teñidas de oro y rosas）」──「Oro en polvo」冒頭「¡Quién fuera mariposa!（蝶になれたなら！）」の「mariposa（蝶）」への羨望が、「Himno a la aurora」では「Celestial mariposa（天の蝶）」への讃歌として実現される：「Oro en polvo」では詩的主体が蝶を羨望する者であったが、「Himno a la aurora」では蝶（暁）へ直接呼びかける讃歌形式へと転換する。「teñidas de oro y rosas（金と薔薇色に染まった）」：暁の空の色彩──「金（oro）」と「薔薇色（rosas）」という暁の二色が翅の染色として提示される。「alas tenues y grandes（薄く大きな翅）」：「Oro en polvo」の「existencia temblorosa（震える存在）」・「fugitiva（逃げゆく）」という儚さの形容が「tenues（薄い・儚い）」として翅に移される。「Himno（讃歌）」形式：スペイン語詩における「himno」はキリスト教典礼の讃歌からモデルニスモ的頌詩まで広い射程を持つが、フローレスの「Himno a la aurora」は呼格（¡Celestial mariposa!）・問いかけ・懇願という三段構造において古典的頌詩（ode）の形式を踏む。",
+      "targetId": "florez_oro_en_polvo",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "tú, que en el amplio cielo,\ntras del enorme boa de los Andes\n¡alzas el blando y luminoso vuelo!",
+      "body": "「広い天の中で、巨大なアンデスの蛇を越えて、柔らかく輝かしい飛翔を上げる（tú, que en el amplio cielo / tras del enorme boa de los Andes / ¡alzas el blando y luminoso vuelo!）」──コロンビア詩人フローレスの地理的自己同定。「el enorme boa de los Andes（巨大なアンデスの蛇）」：アンデス山脈を「巨大な蛇（boa）」として形象化する──「De cabeza」の堕天使が宇宙を落下するのとは逆に、暁の蝶はアンデスを超えて上昇する。「Andes」という固有名詞の登場がフローレスの詩集全体で唯一の地名的自己同定として機能する：「Ave gris」・「La gran tristeza」・「Astro del alma」等の詩が場所を特定しない普遍的空間で展開するのに対し、「Himno a la aurora」はアンデスという南米の地理的実体を詩の宇宙的背景として組み込む。「blando y luminoso vuelo（柔らかく輝かしい飛翔）」──「De cabeza」の「satánico aleteo（悪魔的な羽ばたき）」との対照：堕天使の羽ばたきが「悪魔的（satánico）」であったのに対し、暁の飛翔は「柔らかく（blando）・輝かしい（luminoso）」として対置される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¿en qué sidéreo broche\nlibas la miel que te alimenta? ¿Acaso\ntus luengas alas de luciente raso,\nbatiste en los jardines de la noche?",
+      "body": "「どの星座の留め金で蜜を吸うのか？ もしかして輝くサテンの長い翅を、夜の庭で打ったのか？（en qué sidéreo broche / libas la miel que te alimenta / tus luengas alas / batiste en los jardines de la noche）」──暁の「起源」への問いが詩の第2連を構成する。「sidéreo broche（星座の留め金）」：「sidéreo（星の・恒星の）」という天文語彙が「broche（留め金・ブローチ）」という装身具語彙と結合する──星座が蝶の蜜源として定義されるという天文・博物学的混交の形象。「jardines de la noche（夜の庭）」：暁が「夜の庭」から来るという逆説──暁は夜の終わりに生まれるため、その起源は「夜の庭」にあるという時間的・論理的矛盾が詩的形象として活用される。「Oro en polvo」の「que siempre en pago de la miel que liba（吸い取った蜜の代わりに）」の「liba（吸う）」という動詞が「Himno a la aurora」第2連「libas la miel（蜜を吸う）」に同一動詞として反復される：詩集内の蝶の「蜜を吸う」行為の反復。ボードレール「Élévation（上昇）」の「Derrière les ennuis et les vastes chagrins / Qui chargent de leur poids l'existence brumeuse」における詩的精神の上昇・天的空間への飛翔との照応。",
+      "targetId": "florez_oro_en_polvo",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "y derramas en mar, valles y montes\ntodo el dorado polvo de tus alas?",
+      "body": "「海に、谷に、山に撒き散らすのか、君の翅のすべての黄金の粉を（derramas en mar, valles y montes / todo el dorado polvo de tus alas）」──「Oro en polvo」との直接的語彙的照応の頂点。「Oro en polvo」の「deja un polvo de oro en cada rosa（毎つの薔薇に黄金の粉を残す）」という蝶が薔薇に残す「黄金の粉（polvo de oro）」が、「Himno a la aurora」では「dorado polvo de tus alas（翅の黄金の粉）」として暁が「海・谷・山」全体に撒き散らすという宇宙的スケールへと拡張される。「Oro en polvo」ではひとつの蝶・ひとつの薔薇という最小単位の交換が、「Himno a la aurora」では暁という宇宙的蝶・全世界という最大単位の交換へと変容する：詩集内の「スケールの詩学」の実践として両詩は対をなす。「derramas（撒き散らす）」：「derramar（撒く・こぼす）」という動詞が「Astro del alma」の涙・「Deshielo」の涙・「En el cementerio」の涙（llanto）というフローレスの「液体を撒く」動詞群に接続する：黄金の粉が「涙のように撒かれる」という詩的等価が成立する。",
+      "targetId": "florez_oro_en_polvo",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Vén, y tus remos en mis sienes posa;\ndesciende al pobre mundo\nde tu verjel profundo,\nantes de que en los giros de tus vuelos,\n¡te quemes en la antorcha de los cielos!",
+      "body": "「来たれ、翅を私のこめかみに当てよ。貧しい世界へと降りてきてほしい、君の深い楽園から、天の松明で焼け焦げる前に！（Vén, y tus remos en mis sienes posa / desciende al pobre mundo / antes de que / ¡te quemes en la antorcha de los cielos!）」──讃歌の懇願的結語にして「Himno a la aurora」の詩的核心。「tus remos en mis sienes posa（翅を私のこめかみに当てよ）」：「remos（翅・オール）」という語が蝶の翅と舟のオールの二義を持つ──暁が詩的主体のこめかみに翅を当てるという親密な接触の要求が「Deshielo」の「cogí esa mano espiritual y breve / y la junte á mis labios y á mis ojos」という死者の手を唇と目に当てる行為と同型の「聖なる接触」として機能する。「desciende al pobre mundo（貧しい世界へと降りてきてほしい）」──ボードレール「Élévation」の地上から天への上昇の逆方向：フローレスの詩的主体は天上の存在（暁の蝶）に「降下（descenso）」を求める。「¡te quemes en la antorcha de los cielos!（天の松明で焼け焦げる）」：イカロス神話の構造──太陽（antorcha de los cielos）に近づきすぎて翅が溶けるイカロスとして暁の蝶の宿命が警告される。「De cabeza」の「fuego sacro（聖なる火）」が「incendiaria chispa（放火的な火花）」へと変質したように、「Himno a la aurora」では「luminoso vuelo（輝かしい飛翔）」が「antorcha（松明）」という破壊的な火へと収斂する：フローレスの詩集における「光・火」の二重性（昇華と焼却）の最終的形象。",
+      "targetId": "florez_de_cabeza",
+      "targetParagraphId": 5
+    }
+  ]
+}
