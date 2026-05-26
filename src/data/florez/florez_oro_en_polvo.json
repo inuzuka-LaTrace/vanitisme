@@ -1,0 +1,65 @@
+{
+  "id": "florez_oro_en_polvo",
+  "title": "Oro en polvo",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Oro_en_polvo",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "初級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★☆☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Oro en polvo（金の粉）」は5行1連のキンティリャ（quintilla：AABAB韻律）形式の短詩であり、「Cardos y lirios」詩集の中で最も凝縮された作品のひとつ。詩的主体が「蝶になりたい（¡Quién fuera mariposa!）」という羨望の叫びから始まり、「蝶が吸った蜜の代わりに薔薇に黄金の粉を残す（deja un polvo de oro en cada rosa）」という交換の形象で結ばれる。「polvo de oro（黄金の粉）」は蝶の翅の鱗粉を指すが、詩的には「儚い存在が残す美の痕跡」という昇華の形象として機能する──「Astro del alma」の涙が星となる変容・「Mi tumba」の蛆虫が鷲に置き換えられる格上げと並ぶ、フローレスの「物質の詩的昇華」の論理の最も簡潔な実例。「temblorosa（震える）」という形容詞が「Dulce veneno」の「temblorosa（震えながら）」と連動し、また「fugitiva（逃げゆく）」という語がフローレスの詩集全体に流れる「つかの間の存在への執着」の定型語として機能する。5行という極小形式の中に「羨望・儚さ・美の残滓」という詩的哲学が圧縮された、詩集の中の宝石的短篇。",
+  "keywords": [
+    "蝶",
+    "mariposa",
+    "黄金の粉",
+    "oro en polvo",
+    "鱗粉",
+    "薔薇",
+    "rosa",
+    "蜜",
+    "miel",
+    "fugitiva",
+    "儚さ",
+    "昇華",
+    "短詩",
+    "キンティリャ",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_astro_del_alma",
+    "florez_mi_tumba",
+    "florez_dulce_veneno",
+    "gautier_carmen",
+    "valery_le_sylphe",
+    "hofmannsthal_vorfruehling",
+    "balmont_tsvetok"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "¡Quién fuera mariposa!\nFlor del aire, luciente y fugitiva;\nenvidio esa existencia temblorosa,\nque siempre en pago de la miel que liba,\ndeja un polvo de oro en cada rosa.",
+      "provisionalTranslation": "蝶になれたなら！\n空気の花、輝き、逃げゆくもの。\n私はその震える存在を羨む、\n吸い取った蜜の代わりに、いつも\nそれぞれの薔薇に黄金の粉を残す。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "¡Quién fuera mariposa!\nFlor del aire, luciente y fugitiva;",
+      "body": "「蝶になれたなら！ 空気の花、輝き、逃げゆくもの（¡Quién fuera mariposa! / Flor del aire, luciente y fugitiva）」──「¡Quién fuera...!（〜になれたなら！）」は接続法過去形による願望・不可能な欲求の定型表現：現実には蝶ではない詩的主体が蝶という「他者の存在様式」を羨む構造。「Flor del aire（空気の花）」──蝶を「花」として定義するアポジション：花という植物的形象が空気という非物質的媒体に接続されることで、蝶の軽さ・一時性・美が一語に凝縮される。「fugitiva（逃げゆく）」──フローレスの詩集全体に流れる「つかの間の存在（existencia fugitiva）」への執着の定型語：「Ave gris」の「tú, que huyes asustada（怯えて逃げ去る君）」・「De cabeza」の落下の不可逆性と連動する。コヘレト「Vanitas vanitatum」のヘブライ語原語「הֶבֶל（hevel：息・蒸気）」が指す「つかの間の実体のなさ」が、フローレスでは「fugitiva（逃げゆく）」・「temblorosa（震える）」という身体的形象として詩化される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "que siempre en pago de la miel que liba,\ndeja un polvo de oro en cada rosa.",
+      "body": "「吸い取った蜜の代わりに、いつもそれぞれの薔薇に黄金の粉を残す（que siempre en pago de la miel que liba / deja un polvo de oro en cada rosa）」──詩の主題的核心にして最も美しい形象。「en pago de la miel（蜜の代わりに）」：「pago（支払い・代価）」という経済的語彙が自然の交換関係を「取引」として定義する──蝶は蜜を「受け取り」、黄金の粉を「支払う」。この交換の形象が詩集内部の複数の交換と照応する：「Astro del alma」では涙を「飲み干す」代わりに「魂の星」を得る・「Dulce veneno」では「蜜（miel）」が「毒（veneno）」として等置される。「polvo de oro（黄金の粉）」：蝶の翅の鱗粉という生物学的事実が詩的金属語彙「oro（金）」によって価値化される──「Mi tumba」の「astro（星）」が「cirio funeral（葬儀の蝋燭）」に等置されるのと同様の「自然物の典礼的・宝石的価値化」の詩的操作。キンティリャの最終行として「oro en cada rosa（それぞれの薔薇に金）」という黄金と花の結合が詩集のタイトル「Cardos y lirios（薊と百合）」の棘と清純の対の美的解決として機能する。",
+      "targetId": "florez_astro_del_alma",
+      "targetParagraphId": 3
+    }
+  ]
+}
