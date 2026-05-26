@@ -1,7 +1,4 @@
-ython3 << 'EOF'
-import json
-
-data = {
+{
   "id": "florez_en_el_cementerio",
   "title": "En el cementerio",
   "author": "Julio Flórez",
