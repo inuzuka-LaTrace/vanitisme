@@ -61,7 +61,7 @@
       "anchor": "Donde me cante el impetuoso viento\nsus largos deprofundis",
       "body": "「激しい風が長い深淵からの歌を私に歌う（el impetuoso viento / sus largos deprofundis）」──「deprofundis」はラテン語詩篇129（130）篇「De profundis clamavi ad te Domine（深みから、主よ、あなたに叫ぶ）」の冒頭句：カトリック典礼において死者のための祈りとして用いられる「De profundis」が、ここでは「風（viento）が歌う」という自然現象として転用される。典礼的・宗教的な哀歌が「風（viento）」という自然の声に委ねられる：人間の司祭・聖歌隊ではなく「impetuoso（激しい）」風が死者への賛歌を歌うという脱宗教化・自然化。トラークル「De profundis」・ジョンソン「De profundis」・ボードレール「De profundis clamavi」・クリスティーナ・ロセッティ「De profundis」というVANITISMEコーパス内の「De profundis」テキスト群との照応：フローレスは典礼句を詩の語彙として取り込む同一の伝統の中にある。「firmamento（大空）・risco（岩肌）・nieve（雪）」：棺・礼拝堂・経帷子という葬儀の三要素が自然物によって代替される体系的な等置。",
       "targetId": "trakl_de_profundis",
-      "targetParagraphId": None
+      "targetParagraphId": null
     },
     {
       "paragraphId": 3,
@@ -77,7 +77,7 @@
       "anchor": "me devoren, en vez de los gusanos,\nlos buitres y las águilas del cielo.",
       "body": "「蛆虫の代わりに、天の禿鷹と鷲が私を貪り食う（me devoren, en vez de los gusanos / los buitres y las águilas del cielo）」──詩の結語にして最大の修辞的転換。「gusanos（蛆虫）」：地下埋葬における腐敗の代名詞──ボードレール「Une Charogne（腐肉）」の「los verres（虫）」が跋扈する屍体描写との照応：どちらも死体が食われることを詩的主題として正面から扱う。「buitres y águilas（禿鷹と鷲）」：蛆虫（地）の代わりに禿鷹と鷲（天）という「天空の捕食者」が詩人の遺体を食らう──この等置が「格上げ（ennoblissement）」の構造をなす：腐敗の主体が地の虫から天の鳥へと垂直的に上昇する。「Las águilas del cielo（天の鷲）」──「La gran tristeza」の「garza（鷺）」・「Ave gris」の「lechuza（フクロウ）」に続く詩集内の鳥のモチーフの最終形として、「buitres y águilas」は捕食・天空・力という属性において「garza（静止・孤独・悲嘆）」と対置される。「para que rabien los humanos（人間どもを怒らせるために）」という逆説的な葬儀の動機：詩人の死が死後においても人間への反抗として継続するという皮肉的な遺言。ダウスン「A Requiem」の「Under the wide and starry sky（広い星の空の下に）」──スティーヴンソン（引用）的な「自然の中の死」への願望との照応：どちらも慣習的な墓地埋葬を拒否し、宇宙的な空間での死を求める。",
       "targetId": "baudelaire_une_charogne",
-      "targetParagraphId": None
+      "targetParagraphId": null
     }
   ]
 }
