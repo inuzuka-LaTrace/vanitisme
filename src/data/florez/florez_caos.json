@@ -1,0 +1,101 @@
+{
+  "id": "florez_caos",
+  "title": "Caos",
+  "author": "Julio Flórez",
+  "source": "Manojo de zarsas (1906). Wikisource: https://es.wikisource.org/wiki/Manojo_de_zarsas/Caos",
+  "year": "1906",
+  "firstPublication": "Manojo de zarsas, Bogotá, 1906",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）第二詩集「Manojo de zarsas（茨の束、1906）」所収。「Caos（混沌）」は4-4-3-3行のソネット形式であり、詩集「Cardos y lirios」の詩学的到達点を引き継ぎつつ、より凝縮された哲学的宣言として展開する。タイトル「Caos（混沌）」は詩本文には直接登場せず、詩が描く「強い人間（el hombre fuerte）」の実存的状態──恐怖なき世界認識・無の前での平静・叫びへのエコーだけの応答──として暗示される。第1連：「強い人間」の定義（断崖を瞬きせず見る者・罪悪の潰瘍を知る者・死の前でも震えない者）→ 第2連：同じ人間の追加的定義（生の果てにすべての犠牲の不条理を見る者・運命の蔑みを受け続けた者）→ 第3連：「そのような人間が何を恐れることができるか？ 足跡に血を残した者が」→ 第4連（詩の核心）：「自分の叫びのエコーの前に、星々の不動性のみを見る……無限の眠気の中で！」。「Silencio santo」でキリストが「No dijo nada（何も言わなかった）」と沈黙したのに対し、「Caos」では人間の「叫び（grito）」が「エコー（eco）だけに返ってくる」という構造の反復──詩集内・詩集間の「叫びと沈黙」の連鎖。コヘレト「Vanitas vanitatum・Nihil sub sole novum」という虚無の定式が、「星々の不動性（inmutabilidad de las estrellas）」という詩的形象として現れる。",
+  "keywords": [
+    "混沌",
+    "Caos",
+    "強い人間",
+    "hombre fuerte",
+    "恐怖なき",
+    "星々の不動性",
+    "inmutabilidad de las estrellas",
+    "無限",
+    "infinito",
+    "叫び",
+    "grito",
+    "エコー",
+    "eco",
+    "不条理",
+    "sinrazón",
+    "ソネット",
+    "Manojo de zarsas",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_silencio_santo",
+    "florez_en_el_cementerio",
+    "florez_resurrecciones",
+    "florez_la_gran_tristeza",
+    "florez_de_cabeza",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "baudelaire_de_profundis_clamavi",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "No hay miedo en sombra para el hombre\nfuerte\nque ve, sin pestañar, el precipicio;\nque conoce las úlceras del vicio\ny no tiembla jamás, ni ante la muerte.",
+      "provisionalTranslation": "影の中にも恐怖はない、強い\n人間のためには──\n断崖を瞬きせず見る者、\n罪悪の潰瘍を知りながら\n死の前でも決して震えない者のために。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "Para el que al cabo de la vida, advierte\nla sinrazón de todo sacrificio;\npara el que nunca halló nada propicio\ny fué siempre vejamen de la suerte.",
+      "provisionalTranslation": "生の果てに、すべての犠牲の\n不条理を見出す者のために。\n何も好都合なものを見つけられず、\n常に運命の蔑みであり続けた者のために。"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "Ah! qué puede temer el que por huellas\nde los pies dejó sangre. El que, contrito,\npide alivio á sus múltiples querellas.",
+      "provisionalTranslation": "ああ！ 足跡に血を残した者が\n何を恐れることができるのか。苦悩して、\n数多くの嘆きへの慰めを求める者が。"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "Y ve sólo, ante el eco de su grito,\nla inmutabilidad de las estrellas...\nen medio del sopor del infinito!",
+      "provisionalTranslation": "そして自分の叫びのエコーの前に\n星々の不動性だけを見る……\n無限の眠気の真っただ中で！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "No hay miedo en sombra para el hombre\nfuerte\nque ve, sin pestañar, el precipicio;",
+      "body": "「影の中にも恐怖はない、強い人間のために──断崖を瞬きせず見る者（No hay miedo en sombra para el hombre fuerte / que ve, sin pestañar, el precipicio）」──詩の開口部が「hombre fuerte（強い人間）」という倫理的典型の定義として始まる。「sin pestañar（瞬きせず）」という副詞句：断崖を直視する視覚的強靭さが「強さ」の第一の指標として提示される。「precipicio（断崖・絶壁）」──「Dulce veneno」第1連「al contemplar el hondo precipicio（深い断崖を見つめながら）」の同一語の反復：「Dulce veneno」では「precipicio」が運命に押し進められる恐怖の場として現れたが、「Caos」では「瞬きせず見る」対象として恐怖の克服として提示される。「úlceras del vicio（罪悪の潰瘍）」：「úlcera（潰瘍）」という医学的語彙が「罪悪（vicio）」の身体的形象として使われる──「Cardos y lirios」詩集のタイトル「cardos（薊）」という棘・苦悩の語彙が「潰瘍」という腐食的形象として変奏される。「ni ante la muerte（死の前でも〔震えない〕）」：詩集全体を通じて死が恐怖・追悼・問いとして現れてきたが、「Caos」では死が恐怖の対象から排除される──「Mi tumba」の「死の格上げ（鷲に食われる）」という態度の哲学的徹底。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la sinrazón de todo sacrificio;\npara el que nunca halló nada propicio\ny fué siempre vejamen de la suerte.",
+      "body": "「すべての犠牲の不条理を見出す者・何も好都合なものを見つけられず、常に運命の蔑みであり続けた者（la sinrazón de todo sacrificio / nunca halló nada propicio / fué siempre vejamen de la suerte）」──第2連が「強い人間」の経歴的定義として機能する。「sinrazón（不条理・不合理）」：「razón（理性・理由）」の否定接頭辞「sin-」による「不条理」──カミュ的な不条理哲学の語彙をモデルニスモの文脈で先取りする形象。「todo sacrificio（すべての犠牲）」：コヘレト第1章「Quid habet amplius homo de universo labore suo（人はすべての労苦から何を得るのか）」との照応──すべての犠牲・労苦が「不条理（sinrazón）」として定義される。「nada propicio（何も好都合なものがない）」：「nada（何もない）」という詩集の反復語が「propicio（好都合な）」という形容詞と結合し、「何も好都合なものがなかった」という存在論的不遇として現れる。「vejamen de la suerte（運命の蔑み）」：「vejamen（蔑み・辱め）」という法律的・社会的語彙が「suerte（運命・くじ）」に適用される──「Dulce veneno」第2連「Mi aciaga suerte（私の不吉な運命）」・「Deshielo」第2連「Mi aciaga suerte（私の不吉な運命）」という「aciaga suerte」の系列が「vejamen de la suerte」として変奏される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Ah! qué puede temer el que por huellas\nde los pies dejó sangre. El que, contrito,\npide alivio á sus múltiples querellas.",
+      "body": "「ああ！ 足跡に血を残した者が何を恐れることができるのか。苦悩して、数多くの嘆きへの慰めを求める者が（Ah! qué puede temer el que por huellas / de los pies dejó sangre / pide alivio á sus múltiples querellas）」──第3連（第1テルセッタ）がソネットの転換点として「問い」の形式をとる。「qué puede temer（何を恐れることができるのか）」：第1・2連で定義された「強い人間」への修辞的問い──答えは「何も恐れない（nada）」という暗黙の前提として機能する。「por huellas / de los pies dejó sangre（足跡に血を残した）」：「huellas（足跡）」という語が「Resurrecciones」第3連「que ayer pisaba flores y hoy... abrojos（昨日は花を踏み、今日は茨を）」の「pisar（踏む）」という動詞と連動する：フローレスの詩集において「歩く・踏む・足跡」という身体的移動の形象が「生の旅程」の比喩として反復される。「contrito（苦悩して・悔恨して）」：カトリック神学用語「contrición（痛悔）」からの形容詞──「Silencio santo」のキリストへの祈願・「En el cementerio」の「para el ser que implora y gime（訴え、うめく者のために）」という宗教的哀願の語彙系列に加わる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Y ve sólo, ante el eco de su grito,\nla inmutabilidad de las estrellas...\nen medio del sopor del infinito!",
+      "body": "「そして自分の叫びのエコーの前に、星々の不動性だけを見る……無限の眠気の真っただ中で！（Y ve sólo, ante el eco de su grito / la inmutabilidad de las estrellas / en medio del sopor del infinito!）」──詩全体の結語にして詩集フローレス全体の哲学的到達点。「el eco de su grito（自分の叫びのエコー）」──「En el cementerio」の「sólo el eco repetía / el final de aquella frase: ¡nada!...（エコーだけが繰り返した──何もない！）」・「La gran tristeza」の「bóveda infinita（無限の天蓋）」への問いかけという詩集内の「叫びとエコー」の系列の最終変奏：「Silencio santo」でキリストが「No dijo nada（何も言わなかった）」と沈黙したことと対照して、「Caos」では人間の「叫び（grito）」が「エコー（eco）」だけを返される。「la inmutabilidad de las estrellas（星々の不動性）」：コヘレト第1章「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り……大地は永遠に立ち続ける）」の「不変の大地」が、フローレスでは「星々の不動性（inmutabilidad de las estrellas）」として宇宙的スケールで現れる──人間の叫びに対し星々は不動のまま応答しない。「Astro del alma」では涙が「魂の星（astro del alma）」へと昇華されたが、「Caos」では星々は「不動（inmutabilidad）」であり人間の叫びに無関心なまま存在する──フローレスの詩集における星の形象の感情的評価の最大の振れ幅として、「救済としての星（Astro del alma）」と「無関心な星（Caos）」が対極をなす。「sopor del infinito（無限の眠気）」：「sopor（眠気・昏睡）」という語が「無限（infinito）」に適用される──「De cabeza」・「La gran tristeza」・「Himno a la aurora」で反復された「infinito（無限）」が「眠気（sopor）」として定義される最終的形象。無限が「叫び（grito）」に応じない「眠気（sopor）」として定義されることで、「Resonancias」の「希望の灯台（fanal de la esperanza）」への楽観も・「Silencio santo」のキリストへの問いも・「En el cementerio」の慟哭も、宇宙的無関心（sopor）の前では等しく無効化される──詩集全体の虚無の哲学的完結点。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
