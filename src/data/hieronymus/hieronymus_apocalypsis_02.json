@@ -1,0 +1,285 @@
+{
+  "id": "hieronymus_apocalypsis_2",
+  "title": "Apocalypsis, Caput II",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput II. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+2&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★",
+  "context": "ヨハネの黙示録第2章。七つの教会のうち最初の四つ──エフェソ（v.1–7）・スミルナ（v.8–11）・ペルガモン（v.12–17）・ティアティラ（v.18–29）──への書簡群。各書簡は「Haec dicit（こう言われる）」という定式的開口部・「Scio / Novi opera tua（あなたの行いを知っている）」という全知の宣言・賞賛と叱責の交互構造・「Qui habet aurem, audiat quid Spiritus dicat ecclesiis（耳ある者は霊が教会に言うことを聞け）」という定型的結語・勝利者への約束、という五部構造を持つ。VANITISMEにおける思想的位置づけ：第1章の宇宙論的・終末論的壮大さとは対照的に、第2章は具体的な共同体への倫理的診断・勧告の書簡として機能する。しかし各書簡に埋め込まれた約束の表象──「lignum vitae（命の木）」（v.7）・「corona vitae（命の冠）」（v.10）・「manna absconditum（隠されたマンナ）と calculus candidus（白い石）」（v.17）・「stella matutina（明けの明星）」（v.28）──は、コヘレトが否定した「sub sole」の報酬の不在に対する終末論的応答として機能する。「Qui habet aurem, audiat（耳ある者は聞け）」という繰り返しの命法は、Ecclesiastes第1章v.8「nec auris auditu impletur（耳は聴くことで満たされることがない）」という人間の知覚的不飽和性への応答として読める──黙示録は耳が聞くべき確定的な言葉の存在を宣言することで、コヘレトの懐疑を神学的に反転させる。",
+  "keywords": [
+    "七つの教会",
+    "エフェソ",
+    "スミルナ",
+    "ペルガモン",
+    "ティアティラ",
+    "Qui habet aurem audiat",
+    "lignum vitae",
+    "corona vitae",
+    "manna absconditum",
+    "stella matutina"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_1",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "weil_dressage"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Angelo Ephesi ecclesiae scribe: Haec dicit, qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum:",
+      "provisionalTranslation": "エフェソの教会の御使いに書き記せ。「七つの星を右手に持ち、七つの金の燭台の中を歩む方がこう言われる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Scio opera tua, et laborem, et patientiam tuam, et quia non potes sustinere malos: et tentasti eos, qui se dicunt apostolos esse, et non sunt: et invenisti eos mendaces:",
+      "provisionalTranslation": "「私はあなたの行いと労苦と忍耐を知っている。また悪い者たちを容認できないこと、また使徒と称するが実はそうでない者たちを試して偽り者であると見抜いたことも知っている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et patientiam habes, et sustinuisti propter nomen meum, et non defecisti.",
+      "provisionalTranslation": "「あなたは忍耐を持ち、私の名のために耐え忍び、疲れを知らなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Sed habeo adversum te, quod caritatem tuam primam reliquisti.",
+      "provisionalTranslation": "「しかしあなたに対してこれを言わなければならない。あなたは最初の愛を失ってしまった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Memor esto itaque unde excideris: et age poenitentiam, et prima opera fac: sin autem, venio tibi, et movebo candelabrum tuum de loco suo, nisi poenitentiam egeris.",
+      "provisionalTranslation": "「それゆえ、あなたはどこから落ちたかを思い起こし、悔い改めて最初の行いをせよ。もしそうしなければ、私はあなたのところに来て、悔い改めない限り、あなたの燭台をその場所から取り除く。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Sed hoc habes, quia odisti facta Nicolaitarum, quae et ego odi.",
+      "provisionalTranslation": "「しかしあなたにはこのよいことがある。あなたはニコライ派の行いを憎んでいる。私もそれを憎む。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis: Vincenti dabo edere de ligno vitae, quod est in paradiso Dei mei.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。勝利を得る者には、神の楽園にある命の木の実を食べさせよう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et angelo Smyrnae ecclesiae scribe: Haec dicit primus, et novissimus, qui fuit mortuus, et vivit:",
+      "provisionalTranslation": "スミルナの教会の御使いに書き記せ。「最初の者であり最後の者であり、死んだが生きている方がこう言われる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Scio tribulationem tuam, et paupertatem tuam, sed dives es: et blasphemaris ab his, qui se dicunt Judaeos esse, et non sunt, sed sunt synagoga Satanae.",
+      "provisionalTranslation": "「私はあなたの患難と貧しさを知っている。しかしあなたは富んでいる。またユダヤ人と称するが実はそうでなく、サタンの会堂である者たちの冒瀆も知っている。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Nihil horum timeas quae passurus es. Ecce missurus est diabolus aliquos ex vobis in carcerem ut tentemini: et habebitis tribulationem diebus decem. Esto fidelis usque ad mortem, et dabo tibi coronam vitae.",
+      "provisionalTranslation": "「これから受けようとしている苦しみを何も恐れるな。見よ、悪魔はあなたがたの中のある者たちを試みるために獄に入れようとしている。あなたがたは十日間、患難を受けるであろう。死に至るまで忠実であれ。そうすれば命の冠を与えよう。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis: Qui vicerit, non laedetur a morte secunda.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。勝利を得る者は、第二の死によって何の害も受けない。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et angelo Pergami ecclesiae scribe: Haec dicit qui habet rhomphaeam utraque parte acutam:",
+      "provisionalTranslation": "ペルガモンの教会の御使いに書き記せ。「両刃の鋭い剣を持つ方がこう言われる。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Scio ubi habitas, ubi sedes est Satanae: et tenes nomen meum, et non negasti fidem meam. Et in diebus illis Antipas testis meus fidelis, qui occisus est apud vos ubi Satanas habitat.",
+      "provisionalTranslation": "「私はあなたの住むところを知っている、そこにサタンの座がある。しかしあなたは私の名を堅く持ち、私への信仰を否まなかった。サタンの住む所であるあなたがたのところで、私の忠実な証人アンティパスが殺された日々においてさえも。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Sed habeo adversus te pauca: quia habes illic tenentes doctrinam Balaam, qui docebat Balac mittere scandalum coram filiis Israel, edere, et fornicari:",
+      "provisionalTranslation": "「しかしあなたに対してこれを言わなければならない。あなたのところには、バラクにイスラエルの子らの前に躓きを置くことを教えたバラムの教えを持つ者たちがいる。偶像に献げた物を食べ、また淫行を行うことを。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "ita habes et tu tenentes doctrinam Nicolaitarum.",
+      "provisionalTranslation": "「そのようにあなたのところにも、ニコライ派の教えを持つ者たちがいる。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Similiter poenitentiam age: si quominus veniam tibi cito, et pugnabo cum illis in gladio oris mei.",
+      "provisionalTranslation": "「同様に悔い改めよ。もしそうしなければ、私はあなたのところにすぐ来て、私の口の剣をもって彼らと戦う。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis: Vincenti dabo manna absconditum, et dabo illi calculum candidum: et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。勝利を得る者には、隠されたマンナを与え、また白い石を与えよう。その石には新しい名が記されており、それを受ける者の他は誰も知らない。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et angelo Thyatirae ecclesiae scribe: Haec dicit Filius Dei, qui habet oculos tamquam flammam ignis, et pedes ejus similes auricalco:",
+      "provisionalTranslation": "ティアティラの教会の御使いに書き記せ。「炎の火のような目を持ち、その足が精錬された真鍮のような神の子がこう言われる。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Novi opera tua, et fidem, et caritatem tuam, et ministerium, et patientiam tuam, et opera tua novissima plura prioribus.",
+      "provisionalTranslation": "「私はあなたの行いと、信仰と、愛と、奉仕と、忍耐を知っている。また後の行いが最初よりも多いことも知っている。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Sed habeo adversus te pauca: quia permittis mulierem Jezabel, quae se dicit propheten, docere, et seducere servos meos, fornicari, et manducare de idolothytis.",
+      "provisionalTranslation": "「しかしあなたに対してこれを言わなければならない。あなたは自称預言者のイザベルという女を容認している。彼女は私の僕たちを教え、惑わして、淫行を行い、偶像に献げた物を食べさせている。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Et dedi illi tempus ut poenitentiam ageret: et non vult poenitere a fornicatione sua.",
+      "provisionalTranslation": "「私は彼女に悔い改めの時を与えた。しかし彼女はその淫行から悔い改めようとしない。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Ecce mittam eam in lectum: et qui moechantur cum ea, in tribulatione maxima erunt, nisi poenitentiam ab operibus suis egerint.",
+      "provisionalTranslation": "「見よ、私は彼女を病の床に投げ込み、彼女と姦淫を行う者たちも、自分たちの行いから悔い改めなければ、大きな患難の中に置く。"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "Et filios ejus interficiam in morte, et scient omnes ecclesiae, quia ego sum scrutans renes, et corda: et dabo unicuique vestrum secundum opera sua. Vobis autem dico,",
+      "provisionalTranslation": "「また彼女の子らを死によって滅ぼす。そうすれば諸教会は皆、私が腎と心を探る者であることを知るであろう。そして私はあなたがたの一人一人にその行いに従って報いる。あなたがた──"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "et ceteris qui Thyatirae estis: quicumque non habent doctrinam hanc, et qui non cognoverunt altitudines Satanae, quemadmodum dicunt, non mittam super vos aliud pondus:",
+      "provisionalTranslation": "「──およびティアティラにいるその他の者たち、すなわちこの教えを持たず、彼らの言うようなサタンの深みを知らない者たちすべてに言う。あなたがたにはほかに重荷を負わせない。"
+    },
+    {
+      "id": 25,
+      "verses": "v.25",
+      "original": "tamen id quod habetis, tenete donec veniam.",
+      "provisionalTranslation": "「ただ、あなたがたの持っているものを、私が来るまで堅く持っていなさい。"
+    },
+    {
+      "id": 26,
+      "verses": "v.26",
+      "original": "Et qui vicerit, et custodierit usque in finem opera mea, dabo illi potestatem super gentes,",
+      "provisionalTranslation": "「勝利を得て、終わりまで私の行いを守る者には、諸国の民の上に権威を与えよう。"
+    },
+    {
+      "id": 27,
+      "verses": "v.27",
+      "original": "et reget eas in virga ferrea, et tamquam vas figuli confringentur,",
+      "provisionalTranslation": "「その者は鉄の杖をもって彼らを牧し、陶器師の器のように彼らは砕かれるであろう。"
+    },
+    {
+      "id": 28,
+      "verses": "v.28",
+      "original": "sicut et ego accepi a Patre meo: et dabo illi stellam matutinam.",
+      "provisionalTranslation": "「ちょうど私が父から受けたように。また彼に明けの明星を与えよう。"
+    },
+    {
+      "id": 29,
+      "verses": "v.29",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Scio opera tua, et laborem, et patientiam tuam",
+      "body": "「私はあなたの行いと労苦と忍耐を知っている（Scio opera tua, et laborem, et patientiam tuam）」──第2章全体を貫く「全知の宣言（Scio / Novi）」定式の最初の例。「Scio（私は知っている）」という動詞が七つの書簡各々に置かれ、超越的観察者としての主体が地上の共同体を透明に見通すという認識論的構造を確立する。「laborem（労苦）」という語がEcclesiastes第1章v.3「de universo labore suo quo laborat sub sole（太陽の下での労苦）」のライトモチーフと共鳴する：コヘレトが「labor sub sole」を虚無の証拠として定式化するのに対し、黙示録は「laborem」を神が「知り」・認め・報いるものとして積極的に肯定する。「patientiam（忍耐）」はv.3「sustinuisti propter nomen meum（私の名のために耐え忍んだ）」と照応し、第2章全体の中心的な徳として繰り返される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sed habeo adversum te, quod caritatem tuam primam reliquisti.",
+      "body": "「しかしあなたは最初の愛を失ってしまった（caritatem tuam primam reliquisti）」──書簡構造における叱責の核心。賞賛（v.2–3）から叱責（v.4）への転換を導く「Sed（しかし）」という逆説の接続詞が第2章全体の書簡構造を形成する定型として機能する：各教会への書簡はこの「賞賛→Sed→叱責」の弁証法的構造を持つ。「caritatem primam（最初の愛）」──「prima（最初の）」という語が時間的後退の診断として機能する：現在の義しい行いにもかかわらず、根源的な動機（愛）が喪失しているという二重性の告発。ヴェイユ「Accepter le vide」の「真の空虚と偽の空虚」──外見上の良き行いが内的な愛なしに遂行される状態──との照応として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Memor esto itaque unde excideris: et age poenitentiam, et prima opera fac",
+      "body": "「どこから落ちたかを思い起こし、悔い改めて最初の行いをせよ（Memor esto unde excideris）」──記憶・悔改め・行為の三段命法。「Memor esto（思い起こせ）」という記憶の命令がEcclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」というコヘレトの記憶の不在の命題に対する応答として機能する：コヘレトが記憶の根本的不可能性を叙述するのに対し、黙示録は記憶を倫理的・神学的な命令として要求する。「unde excideris（どこから落ちたか）」──「落下（excidere）」という垂直的な空間メタファーが起源的状態からの下降を定式化する。「movebo candelabrum tuum de loco suo（燭台をその場所から取り除く）」──燭台＝教会共同体の象徴が「場所（locus）」から取り除かれることによって共同体の消滅が脅かされる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Vincenti dabo edere de ligno vitae, quod est in paradiso Dei mei.",
+      "body": "「勝利を得る者には命の木の実を食べさせよう（lignum vitae quod est in paradiso）」──第2章における最初の「勝利者への約束（promissio vincenti）」。「lignum vitae（命の木）」：創世記第2章v.9「lignum etiam vitae in medio paradisi（楽園の中央にある命の木）」の反響──楽園追放によって失われた命の木へのアクセスが「vincenti（勝利者に）」という条件付きで回復される終末論的約束。「paradisus（楽園）」──ペルシア語「pairi-daēza（囲まれた園）」のギリシア語経由のラテン語転写。Ecclesiastes的な「sub sole」の有限な世界の外部にある根源的な「場所（locus）」として機能する。コヘレトの「omnia vanitas」が「太陽の下」の物的世界の総体的虚無を定式化するのに対し、「lignum vitae in paradiso」は「太陽の外」の充足的な場所の存在を予告する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Esto fidelis usque ad mortem, et dabo tibi coronam vitae.",
+      "body": "「死に至るまで忠実であれ。そうすれば命の冠を与えよう（coronam vitae）」──スミルナ教会への核心命題。「usque ad mortem（死に至るまで）」という時間的限定が「fidelis（忠実）」という状態の持続の極限として機能する。「coronam vitae（命の冠）」：「corona（冠）」はヘレニズム世界における競技の優勝者の冠・殉教者の栄誉の二重の意味を持つ。バロック期のヴァニタス絵画における「王冠」が死の前での空虚さを示すモチーフであるのに対し（Ecclesiastes第1章v.1「regis Jerusalem（エルサレムの王）」注釈参照）、「corona vitae」は死を超える冠として地上的権力の冠の「vanitas」を終末論的に廃棄する。ヨブ第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」という剥奪の論理の逆転：黙示録では死への忠実さが冠の付与として報いられる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Qui vicerit, non laedetur a morte secunda.",
+      "body": "「勝利を得る者は、第二の死によって何の害も受けない（morte secunda）」──「第二の死（mors secunda）」：黙示録固有の概念（Apoc. 20:14「第二の死とは火の池である」）。肉体的死（mors prima）と終末論的断絶（mors secunda）という二段階の死の概念。Ecclesiastes的な文脈では、コヘレトが「一度死ねばすべて終わり」という一元的死の観念の地平で「太陽の下での労苦」の無意味さを論証するのに対し、黙示録は死を「prima / secunda」に分割することで死の地平線を二重化し、第一の死を超えた実存の可能性を開く。ヴェイユ「Décréation」の「被造物から非被造物へ」という移行が、この「第一の死→第二の死の免除」という黙示録的構造の哲学的アナロジーとして読める。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "Vincenti dabo manna absconditum, et dabo illi calculum candidum: et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit.",
+      "body": "「隠されたマンナ（manna absconditum）」・「白い石（calculum candidum）」・「新しい名（nomen novum）」──ペルガモン教会への約束の三重の秘義的表象。「manna absconditum」：出エジプトのマンナ（食物の奇蹟）の終末論的変容──「隠された（absconditum）」という形容詞が現時点では不可視・不可触の充足を示す。「calculum candidum（白い石）」：ローマ法廷における無罪の証拠としての白石・競技の勝者への入場券という二重の歴史的意味を持つ。「nomen novum（新しい名）」──「quod nemo scit, nisi qui accipit（受ける者の他は誰も知らない）」という排他的秘義性が言語の私秘性の極限を定式化する。Ecclesiastes第1章v.11「Non est priorum memoria（記憶はない）」という名の消去の命題に対し、「nomen novum」は新たな固有名としての記憶の約束として応答する。マラルメ「謎（Mystère）」での詩の秘義性──解読不可能な言葉が読者に対して保持する根源的な不透明性──と、「quod nemo scit nisi qui accipit」の排他的秘義性が詩的に照応する。",
+      "targetId": "mallarme_mystere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Haec dicit Filius Dei, qui habet oculos tamquam flammam ignis, et pedes ejus similes auricalco",
+      "body": "「炎の火のような目を持ち、その足が精錬された真鍮のような神の子」──Apocalypsis第1章v.14–15の幻視描写の反復的引用。「oculos tamquam flammam ignis（炎の火のような目）」・「pedes similes auricalco（真鍮のような足）」が第1章の幻視的キリスト像から書簡的文脈へと転用される。この引用によって、第2章の書簡群全体が第1章の幻視という権威的基盤に接続され、各書簡の発信者が幻視において現れた存在と同一であることが確認される。「Filius Dei（神の子）」という自己称呼──第1章では「Filius hominis（人の子）」という受肉的謙虚さが前景化されていたのに対し、ティアティラへの書簡では「Filius Dei（神の子）」という神性が強調される。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "ego sum scrutans renes, et corda",
+      "body": "「私は腎と心を探る者（scrutans renes, et corda）」──旧約聖書的な神の全知の定式。「renes（腎臓）」と「cor（心臓）」はヘブライ的人間理解における感情・意志・動機の座として機能する：腎臓は深い感情（詩篇第73篇v.21「私の腎臓は刺された」）、心臓は思考と意志の中枢として。この二つの内臓器官の探査という表現が「Scio opera tua（行いを知っている）」という外的観察を超えた内的・動機論的全知を定式化する。エレミヤ書第17章v.10「主は心を探り腎臓を試みる（Ego Dominus scrutans cor et probans renes）」の引用。Ecclesiastes第1章v.13「Hanc occupationem pessimam dedit Deus filiis hominum（最も過酷な営みを与えた）」での神の意図の不透明性に対し、黙示録は神の全知による人間の内面の完全な透明化として応答する。"
+    },
+    {
+      "paragraphId": 28,
+      "type": "glossary",
+      "anchor": "et dabo illi stellam matutinam.",
+      "body": "「彼に明けの明星を与えよう（stellam matutinam）」──第2章の最後の「勝利者への約束」定式。「stella matutina（明けの明星）」：金星の夜明け前の出現。Apocalypsis第22章v.16「Ego sum radix et genus David, stella splendida et matutina（私はダヴィデの根・子孫、輝く明けの明星）」において自己同定されるキリスト自身のシンボル──「約束されるもの」がキリスト自身と同一であるという逆説的な自己贈与。「夜の終わりに現れる星」という時間的形象が終末論的希望の詩的表現として機能する。トラークル「Abendländisches Lied（西洋の歌）」の黄昏・星のイメージ、ランボー「Barbare」の「夜明け（aurore）」の表象との照応。Ecclesiastes第1章v.5「oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環から、「stella matutina」という夜の終わりに固定した一点として現れる星への移行──循環から終末論的目標点への時間論の転換として読める。",
+      "targetId": "trakl_abendlaendisches_lied",
+      "targetParagraphId": null
+    }
+  ]
+}
