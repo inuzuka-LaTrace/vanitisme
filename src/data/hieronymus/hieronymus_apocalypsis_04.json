@@ -1,0 +1,183 @@
+{
+  "id": "hieronymus_apocalypsis_4",
+  "title": "Apocalypsis, Caput IV",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput IV. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+4&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第4章。七つの書簡（第2–3章）から天上の幻視へと場面が転換する第4章は、Apocalypsis全体の宇宙論的・典礼的中心として機能する。「天に開かれた門（ostium apertum in caelo）」を通じたヨハネの天上昇拝、「御座（sedes / thronus）」に座る者の碧玉・赤瑪瑙・翡翠の虹という宝石的光景、二十四人の長老、七つの燭台（七つの霊）、玻璃の海（mare vitreum）、四つの生き物（quatuor animalia）による「聖なるかな（Sanctus, Sanctus, Sanctus）」の三聖頌──これら全要素が重層的に積み重なり、言語を極限まで駆使した「不可視なるものの可視化」の試みを構成する。VANITISMEにおける位置づけ：Ecclesiastes第1章が「太陽の下（sub sole）」の閉じた循環的世界を定式化したのに対し、第4章はその「sub sole」的時間・空間の外部に存在する天上的秩序を展開する。四つの生き物による「Sanctus, Sanctus, Sanctus（聖なるかな、聖なるかな、聖なるかな）」の永遠の反復は、コヘレトの「Nihil sub sole novum（太陽の下に新しいものは何もない）」という地上的反復と対称的だが、その質において根本的に異なる：コヘレトの反復は倦怠と虚無の反復であるのに対し、天上的反復は充満と賛美の反復である。マラルメ・リルケ・ヴェイユとの豊かな照応がある章であり、「不可視なるものを言語化する」という詩的課題の極限的な場として機能する。",
+  "keywords": [
+    "ostium apertum in caelo",
+    "sedes in caelo",
+    "viginti quatuor seniores",
+    "mare vitreum",
+    "quatuor animalia",
+    "Sanctus Sanctus Sanctus",
+    "qui erat et qui est et qui venturus est",
+    "coronae aureae",
+    "iris smaragdina",
+    "天上の礼拝"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_1",
+    "hieronymus_apocalypsis_3",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "mallarme_coup_de_des",
+    "rilke_duineser_elegien_01",
+    "liturgy_sanctus"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Post haec vidi: et ecce ostium apertum in caelo, et vox prima, quam audivi tamquam tubae loquentis mecum, dicens: Ascende huc, et ostendam tibi quae oportet fieri post haec.",
+      "provisionalTranslation": "この後、私は見た。すると天に開かれた門があった。そして私が最初に聞いたラッパのように語りかける声が言った。「ここに上って来い。この後起こらなければならないことを、あなたに示そう。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et statim fui in spiritu: et ecce sedes posita erat in caelo, et supra sedem sedens.",
+      "provisionalTranslation": "すると私はただちに御霊に感じた。すると天に御座が置かれており、その御座に座っている者がいた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et qui sedebat similis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinae.",
+      "provisionalTranslation": "座っている者は、碧玉と赤瑪瑙のように見えた。また御座の周囲には、翡翠のように見える虹があった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et in circuitu sedis sedilia viginti quatuor: et super thronos viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronae aureae.",
+      "provisionalTranslation": "御座の周囲に二十四の座があり、その座に白い衣をまとい、頭に金の冠をかぶった二十四人の長老たちが座っていた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+      "provisionalTranslation": "御座から稲妻と声と雷鳴が出ていた。また御座の前に七つの燃えるランプがあり、それらは神の七つの霊である。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et in conspectu sedis tamquam mare vitreum simile crystallo: et in medio sedis, et in circuitu sedis quatuor animalia plena oculis ante et retro.",
+      "provisionalTranslation": "御座の前には、水晶のような玻璃の海があった。また御座の中央と御座の周囲に、前も後ろも目で覆われた四つの生き物がいた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilae volanti.",
+      "provisionalTranslation": "第一の生き物は獅子のようであり、第二の生き物は子牛のようであり、第三の生き物は人間のような顔を持ち、第四の生き物は飛ぶ鷲のようであった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et quatuor animalia, singula eorum habebant alas senas: et in circuitu, et intus plena sunt oculis: et requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+      "provisionalTranslation": "四つの生き物は、それぞれ六つの翼を持ち、周囲も内側も目で覆われていた。そして昼も夜も休むことなく言い続けていた。「聖なるかな、聖なるかな、聖なるかな、全能者にして主なる神、在った者、在る者、来たる者よ。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in saecula saeculorum,",
+      "provisionalTranslation": "また四つの生き物が、世々限りなく生きておられる御座に座る方に、栄光と誉れと感謝をささげるとき、"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "procidebant viginti quatuor seniores ante sedentem in throno, et adorabant viventem in saecula saeculorum, et mittebant coronas suas ante thronum, dicentes:",
+      "provisionalTranslation": "二十四人の長老たちは御座に座る方の前にひれ伏し、世々限りなく生きておられる方を礼拝し、自分たちの冠を御座の前に投げ出して言った。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+      "provisionalTranslation": "「私たちの主なる神よ、あなたは栄光と誉れと力を受けるにふさわしい方です。あなたはすべてのものを創造され、御心によってそれらは存在し、また創造されたのですから。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Post haec vidi: et ecce ostium apertum in caelo",
+      "body": "「この後、私は見た。すると天に開かれた門があった（ostium apertum in caelo）」──第3章v.8「ostium apertum（開かれた門）」のフィラデルフィア教会への約束が、ヨハネ自身の天上への通路として実現する場面転換。「Post haec（この後）」という時間標識が書簡群（第2–3章）から幻視群（第4章以降）への構造的転換を告示する。「vidi（私は見た）」という一人称完了形が幻視テキストの証言的な語りの様態を確立する。「et ecce（すると）」という強調的提示詞がv.2「et ecce sedes posita erat in caelo（天に御座が置かれていた）」・v.6「et ecce mare vitreum（玻璃の海）」と連鎖し、驚きを積み重ねる視覚的語りの動力となる。「Ascende huc（ここに上って来い）」：上昇命令が第1章v.10「fui in spiritu（御霊に感じた）」の水平的・内的な霊的変容から、垂直的・空間的な天上への移動へと様態を変化させる。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という「太陽の下での」循環的昇降と対称的に、「Ascende（上れ）」という命令は循環を突き破る一方向的な垂直上昇を要求する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et statim fui in spiritu: et ecce sedes posita erat in caelo, et supra sedem sedens.",
+      "body": "「すると私はただちに御霊に感じた（statim fui in spiritu）」──第1章v.10「fui in spiritu in Dominica die（主の日に御霊に感じた）」の反復。「statim（ただちに）」という時間副詞が「Ascende huc」という命令と幻視状態への突入の間の時間的無媒介性を強調する。「sedes posita erat in caelo（天に御座が置かれていた）」：過去完了形「posita erat」が御座の先行的・永遠的な設置を示す──幻視者が到達する以前からすでに存在していた秩序として。「supra sedem sedens（御座に座っている者）」：座っている者は名指しされない──何者であるかは直接には言及されず、v.3の宝石的光景とv.8の「Sanctus」頌歌の文脈から暗示されるのみ。この意図的な匿名性が第4章全体の神学的核心：表現不可能な超越者を宝石・光・音の連鎖によって周辺から描写するという「負の神学（via negativa）」的言語戦略。マラルメの「骰子一擲」における不在の中心──「RIEN（無）」という語を核として展開するテキスト──と黙示録第4章の「名指されない御座の者」という不在的中心が、詩的言語と啓示的言語における共通の問題として照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "similis erat aspectui lapidis jaspidis, et sardinis: et iris erat in circuitu sedis similis visioni smaragdinae.",
+      "body": "「碧玉（jaspis）と赤瑪瑙（sardinus）のように見えた──翡翠（smaragdus）のように見える虹（iris）が御座の周囲に」──宝石的光景の三重の比喩。「jaspis（碧玉）」：不透明な緑・赤・黄色等の混色石。「sardinus（赤瑪瑙）」：深紅色の石。「smaragdus（翡翠・エメラルド）」：鮮緑色の石。三種の宝石が色彩の対比として機能する：赤（sardinus）と緑（smaragdus）の補色的対置。「iris（虹）」：旧約的文脈ではノアの洪水後の契約の印（創世記9:13）。「similis visioni smaragdinae（翡翠のように見える）」：虹の本来の多色性が「smaragdina（翡翠色）」という単色に収斂されるという記述の逆説──天上的な虹は地上の多色の虹とは異なる単一の「緑」として現れる。ヒエロニムスによる比較形（similis：〜のように）の使用が第1章の「tamquam（〜のように）」という類比的記述法の継続として機能する：言語は超越的実在を直接指示できず、常に比喩の連鎖によって接近するのみ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "viginti quatuor seniores sedentes, circumamicti vestimentis albis, et in capitibus eorum coronae aureae.",
+      "body": "「二十四人の長老たちが白い衣をまとい、頭に金の冠をかぶって座っていた（viginti quatuor seniores）」──天上の礼拝共同体の最初の登場。「viginti quatuor（二十四）」：旧約の十二部族と新約の十二使徒の合計として解釈される伝統的釈義──旧約・新約の完全な教会の象徴。「seniores（長老たち）」：「πρεσβύτεροι（presbyteroi）」のラテン語訳。「vestimenta alba（白い衣）」：Apocalypsis第3章v.4–5「ambulabunt mecum in albis（白い衣を着て私とともに歩む）」・「vestietur vestimentis albis（白い衣を着る）」という勝利者への約束が天上において実現した状態。「coronae aureae（金の冠）」：v.10「mittebant coronas suas ante thronum（冠を御座の前に投げ出した）」において自発的に脱冠・捧呈される──冠の授与（vincenti：勝利者への約束）と冠の自発的放棄（礼拝の行為）という弁証法がこの二節に凝縮される。Apocalypsis第2章v.10「coronam vitae（命の冠）」の約束が第4章において具体的に実現し、さらに即座に神へと返還される円環。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Et de throno procedebant fulgura, et voces, et tonitrua: et septem lampades ardentes ante thronum, qui sunt septem spiritus Dei.",
+      "body": "「御座から稲妻と声と雷鳴が出ていた（fulgura, et voces, et tonitrua）」──御座の周辺に展開する聴覚的・視覚的現象の三重列挙。「fulgura（稲妻）」・「voces（声）」・「tonitrua（雷鳴）」：シナイ山での神の顕現（出エジプト記19:16「fuerunt tonitrua, ac fulgura、et nubes densa」）の終末論的再現として。出エジプト記の地上的・一時的な神顕現が、黙示録では天上的・永続的な御座の現象として定式化される。「septem lampades ardentes（七つの燃えるランプ）」：第1章v.12「septem candelabra aurea（七つの金の燭台）」が地上の教会の象徴であったのに対し、「septem lampades ante thronum（御座の前の七つのランプ）」は天上の「七つの霊（septem spiritus Dei）」の象徴として天上秩序の中枢に置かれる。「fulgura – voces – tonitrua」という三項は第8章v.5・第11章v.19・第16章v.18にも反復され、黙示録の宇宙的事変の定型句として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et in conspectu sedis tamquam mare vitreum simile crystallo",
+      "body": "「御座の前には、水晶のような玻璃の海があった（mare vitreum simile crystallo）」──天上の御座の前に広がる「固定された海」の形象。「mare vitreum（玻璃の海）」：「vitreum（ガラス状の・透明な）」という形容詞が通常の「海（mare）」の流動性・不透明性と対比される。「simile crystallo（水晶のように）」：透明性の二重強調。Ecclesiastes第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」というコヘレトの「あふれない海」の循環的イメージと対比的に、天上の「mare vitreum」は流動しない・循環しない・固定された「海」として地上の海の循環的不飽和性を超越する。マラルメ「骰子一擲」における「深淵（gouffre）」・「深み（fond）」のイメージとの照応：テキストの白い紙面に広がる沈黙の「海」が「mare vitreum」の詩的等価物として位置づけられる。リルケ「ドゥイノの悲歌第1歌」における「美の底知れない（Schöne ist nichts als des Schrecklichen Anfang）」という深みのイメージとも共鳴する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Et animal primum simile leoni, et secundum animal simile vitulo, et tertium animal habens faciem quasi hominis, et quartum animal simile aquilae volanti.",
+      "body": "「四つの生き物（quatuor animalia）」──獅子・子牛・人間の顔・飛ぶ鷲の四形象。エゼキエル書第1章v.10「顔の形は、四つとも人間の顔であり、右は獅子の顔、左は牛の顔、四つとも鷲の顔」という「ヘルボトの幻視」の終末論的変容。ケルブ（熾天使）のエゼキエル的形象が黙示録において四分化・個別化される。キリスト教伝統的な四福音書のシンボル解釈：獅子＝マルコ（荒野の使者）、子牛＝ルカ（祭司的犠牲）、人間＝マタイ（人間としての系図）、鷲＝ヨハネ（天上的視座）。「singula（それぞれ）」という形容が四者の個別性を強調しながら、v.8の「plena sunt oculis（目で覆われている）」・「requiem non habebant（休むことがない）」という共通の属性によって統一される。四という数：東西南北の四方位・四大元素（土・水・火・風）・四季という宇宙論的完全性の数として機能し、天上の礼拝が宇宙的・全方向的であることを示す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "requiem non habebant die ac nocte, dicentia: Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat, et qui est, et qui venturus est.",
+      "body": "「昼も夜も休むことなく言い続けていた（requiem non habebant die ac nocte）──聖なるかな、聖なるかな、聖なるかな（Sanctus, Sanctus, Sanctus）」──第4章の神学的頂点であり、典礼的中心。「requiem non habebant（休まない）」という四つの生き物の永続的活動が、Ecclesiastes第1章の太陽・風・川の循環という地上的反復と対称的に配置される：コヘレトの循環は「虚無の反復」であるのに対し、「Sanctus」の頌歌は「充満の反復」として質的に異なる。「Sanctus, Sanctus, Sanctus」：イザヤ書第6章v.3「Sanctus, Sanctus, Sanctus Dominus exercituum（万軍の主、聖なるかな、聖なるかな、聖なるかな）」のセラフィムの頌歌の反響。三重の「Sanctus」が三位一体論的に解釈される伝統がある一方、ヘブライ的最上級構文（同語の三反復による強意）としても機能する──Ecclesiastes第1章v.2「vanitas vanitatum（虚無の虚無）」と同型の反復的最上級。「qui erat, et qui est, et qui venturus est」：第1章v.4・v.8の「在った者・在る者・来たる者」の三時制定式の反復が「Sanctus」頌歌の直後に置かれ、聖性と永遠性が同一の存在の属性として接合される。ヴェイユ「Accepter le vide」の「神を待つことの永続性」という主題が、この「requiem non habebant（休まない）」という天上的礼拝の永続性の地上的・実践的アナロジーとして位置づけられる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Et cum darent illa animalia gloriam, et honorem, et benedictionem sedenti super thronum, viventi in saecula saeculorum,",
+      "body": "「四つの生き物が栄光と誉れと感謝をささげるとき（gloriam, et honorem, et benedictionem）」──v.9–11は従属節（cum darent）から主節（procidebant seniores → mittebant coronas → dicentes）へという時間的連鎖構造を持つ。「gloriam, et honorem, et benedictionem（栄光と誉れと感謝）」という三重の献呈語が、v.11「gloriam, et honorem, et virtutem（栄光と誉れと力）」の二十四人の長老の讃美と語彙的に対応しながら「benedictio（感謝）」と「virtus（力）」という異なる第三項によって変奏される。「viventi in saecula saeculorum（世々限りなく生きておられる方）」：Apocalypsis第1章v.18「sum vivens in saecula saeculorum（世々限りなく生きている）」の復活のキリストの宣言と同型の属格的定義。「saecula saeculorum（世々限りなく）」というヘブライ的最上級が永遠性を定式化する──Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」の「in aeternum」と並べて読むとき、地上的「永遠性（大地の永続）」と天上的「永遠性（神の生命）」の質的差異が浮き上がる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "mittebant coronas suas ante thronum, dicentes:",
+      "body": "「自分たちの冠を御座の前に投げ出した（mittebant coronas suas ante thronum）」──第4章における礼拝の絶頂的身体行為。「procidebant（ひれ伏した）」という完全な伏臥の礼拝に加えて、「mittebant coronas（冠を投げ出した）」という自己放棄の行為が礼拝の身体的表現を二重化する。「coronas aureae（金の冠）」：v.4において授与された冠が、v.10において即座に御座の前に返還される──冠の受容と放棄の弁証法が礼拝の構造として機能する。この「冠の放棄」はIob第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」というヨブの自発的な剥奪の受諾と照応する：ヨブが強制的剥奪を自発的受容へと変換したように、長老たちは授与された冠を自発的に返還する。ヴェイユ「Décréation」§1「被造物から非被造物へ」という脱創造の動力が、この「授与された冠の自発的返還」という礼拝行為の構造に最も具体的に体現される──被造物的栄誉（冠）を創造者（神）へと差し戻すという動き。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Dignus es Domine Deus noster accipere gloriam, et honorem, et virtutem: quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt.",
+      "body": "「あなたはすべてのものを創造された。御心によってそれらは存在し、また創造された（quia tu creasti omnia, et propter voluntatem tuam erant, et creata sunt）」──第4章の、さらにはApocalypsis全体の神学的根拠命題。「tu creasti omnia（あなたはすべてのものを創造した）」：創造者と被造物の根本的区別を確立する宣言。「propter voluntatem tuam erant, et creata sunt（御心によってそれらは存在し、また創造された）」：「erant（存在していた：未完了過去）」と「creata sunt（創造された：完了）」の二時制の並置が創造の「永続的意志による先行的存在」と「時間内的な創造行為」の両面を同時に定式化する。この創造論がEcclesiastes第1章の虚無論と正面から対峙する：コヘレトは「Nihil sub sole novum（太陽の下に新しいものは何もない）」として被造物世界の循環的閉鎖性を定式化したのに対し、「tu creasti omnia, et propter voluntatem tuam erant（御心によってすべては存在した）」は被造物の存在根拠を創造者の意志に定位することで「sub sole」的閉鎖を根底から問い直す。ヴェイユ「Nécessité（必然）」章の「神は必然性を通じて間接的に働く」という命題が、この「propter voluntatem tuam（御心によって）」という直接的意志論との緊張関係において位置づけられる。「Dignus es（あなたはふさわしい）」：Apocalypsis第5章において七つの封印の書物を開く「小羊（Agnus）」の資格をも「Dignus（ふさわしい）」として反復される語彙的前奏として機能する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    }
+  ]
+}
