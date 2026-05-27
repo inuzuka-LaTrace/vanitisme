@@ -1,0 +1,247 @@
+{
+  "id": "hieronymus_apocalypsis_1",
+  "title": "Apocalypsis, Caput I",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi (Liber Apocalypsis / Revelatio Joannis), Caput I. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+1&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録（Apocalypsis Jesu Christi / Revelatio Joannis）第1章。黙示録は新約聖書の終末論的頂点であり、ヒエロニムスのウルガータ訳（c. 382–405 AD）においてラテン語世界の想像力に決定的な刻印を残した。著者ヨハネはパトモス島に流刑されるなか「主の日（Dominica die）」に幻視を受け、七つの教会へと書き送ることを命じられる。第1章は啓示の構造を定式化する序章であり、三つの核心的な命題が提示される。第一に「Alpha et Omega, principium et finis（αとΩ、始まりと終わり）」——コヘレト「Nihil sub sole novum（太陽の下に新しいものは何もない）」が循環という形で時間の脱出不可能性を定式化するのに対し、こちらは時間の外に立つ存在者の宣言として歴史全体を括弧に入れる終末論的反転として機能する。第二に「qui est, et qui erat, et qui venturus est（在る者、在った者、来たる者）」——過去・現在・未来を一人称において統括するこの時制構造は、ヨブ第1章のサタンの「circuivi terram（地を巡り歩いた）」という時間内的な巡回と対称をなす。第三に幻視の中のキリスト像——「oculi ejus tamquam flamma ignis（その眼は炎の火のようであった）」・「vox illius tamquam vox aquarum multarum（その声は多くの水の声のようであった）」という比喩の連鎖は、記述不可能なものを連続するアナロジーによって描写しようとするテキストの欲動を示す。この第1章はVANITISMEコーパス全体において、Ecclesiastesが定式化した「循環と虚無」の詩学の終末論的・神学的応答として位置づけられる——「もはや新しいものはない」という閉塞した時間から、「Alpha et Omega」という時間の外に立つ声への転換。トラークル・ブリューソフ・ランボー・マラルメ・ヴェイユ等の収録作家が各自の詩的文脈において参照した黙示録的想像力の源泉テキスト。",
+  "keywords": [
+    "Alpha et Omega",
+    "principium et finis",
+    "qui est et qui erat et qui venturus est",
+    "黙示録",
+    "幻視",
+    "パトモス島",
+    "七つの教会",
+    "終末論",
+    "ヨハネ",
+    "Vulgata"
+  ],
+  "relatedTexts": [
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "mallarme_coup_de_des",
+    "trakl_de_profundis",
+    "trakl_abendlaendisches_lied",
+    "bryusov_kon_bled",
+    "rimbaud_barbare",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quae oportet fieri cito: et significavit, mittens per angelum suum servo suo Joanni,",
+      "provisionalTranslation": "イエス・キリストの黙示。神が、すぐに起こらなければならないことを、その僕たちに示すために彼に与えられたもの。そして彼は、御使いを遣わして、その僕ヨハネにそれを示した。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit.",
+      "provisionalTranslation": "ヨハネは神の言葉と、イエス・キリストの証し、すなわち自分が見たすべてのことを証言した。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Beatus qui legit, et audit verba prophetiae hujus, et servat ea, quae in ea scripta sunt: tempus enim prope est.",
+      "provisionalTranslation": "この預言の言葉を読む者、またそれを聴き、書き記されたことを守る者は幸いである。時は近い。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Joannes septem ecclesiis, quae sunt in Asia. Gratia vobis, et pax ab eo, qui est, et qui erat, et qui venturus est: et a septem spiritibus qui in conspectu throni ejus sunt:",
+      "provisionalTranslation": "ヨハネよりアジアにある七つの教会へ。在る者、在った者、来たる者から、またその御座の前にある七つの霊から、恵みと平和があなたがたにあるように。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et a Jesu Christo, qui est testis fidelis, primogenitus mortuorum, et princeps regum terrae, qui dilexit nos, et lavit nos a peccatis nostris in sanguine suo,",
+      "provisionalTranslation": "また、忠実な証人、死者の中から最初に生まれた者、地の王たちの支配者であるイエス・キリストから。彼は私たちを愛し、その血によって私たちの罪から私たちを洗い清めた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "et fecit nos regnum, et sacerdotes Deo et Patri suo: ipsi gloria et imperium in saecula saeculorum. Amen.",
+      "provisionalTranslation": "そして彼は私たちを、その父なる神のための王国、祭司とされた。栄光と支配は世々限りなく彼のものである。アーメン。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Ecce venit cum nubibus, et videbit eum omnis oculus, et qui eum pupugerunt. Et plangent se super eum omnes tribus terrae. Etiam: amen.",
+      "provisionalTranslation": "見よ、彼は雲とともに来る。すべての目が彼を見るであろう、彼を刺した者たちも。地のすべての部族は彼のゆえに胸を打って嘆くであろう。然り、アーメン。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Ego sum alpha et omega, principium et finis, dicit Dominus Deus: qui est, et qui erat, et qui venturus est, omnipotens.",
+      "provisionalTranslation": "「私はアルファであり、オメガである、始まりであり終わりである」と、在る者、在った者、来たる者、全能者なる主なる神は言われる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ego Joannes frater vester, et particeps in tribulatione, et regno, et patientia in Christo Jesu: fui in insula, quae appellatur Patmos, propter verbum Dei, et testimonium Jesu:",
+      "provisionalTranslation": "私、あなたがたの兄弟ヨハネは、イエス・キリストにあって、患難と御国と忍耐をともに分かち合う者として、神の言葉とイエスの証しのゆえに、パトモスと呼ばれる島にいた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "fui in spiritu in Dominica die, et audivi post me vocem magnam tamquam tubae,",
+      "provisionalTranslation": "私は主の日に御霊に感じ、私の後ろでラッパのような大きな声を聞いた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "dicentis: Quod vides, scribe in libro: et mitte septem ecclesiis, quae sunt in Asia, Epheso, et Smyrnae, et Pergamo, et Thyatirae, et Sardis, et Philadelphiae, et Laodiciae.",
+      "provisionalTranslation": "その声は言った。「あなたの見ることを書物に書き記し、アジアにある七つの教会、エフェソ、スミルナ、ペルガモン、ティアティラ、サルデス、フィラデルフィア、ラオディキアに送れ。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et conversus sum ut viderem vocem, quae loquebatur mecum: et conversus vidi septem candelabra aurea:",
+      "provisionalTranslation": "私は私に語りかけてくる声を見ようとして振り向いた。振り向くと、七つの金の燭台が見えた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et in medio septem candelabrorum aureorum, similem Filio hominis vestitum podere, et praecinctum ad mamillas zona aurea:",
+      "provisionalTranslation": "七つの燭台の中に、足まで垂れた衣をまとい、胸のところで金の帯を締めた、人の子に似た者がいた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "caput autem ejus, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi ejus tamquam flamma ignis:",
+      "provisionalTranslation": "その頭と髪は、白い羊毛のように、また雪のように白く、その目は炎の火のようであった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "et pedes ejus similes auricalco, sicut in camino ardenti, et vox illius tamquam vox aquarum multarum:",
+      "provisionalTranslation": "その足は、炉で精錬された真鍮のようであり、その声は多くの水の声のようであった。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "et habebat in dextera sua stellas septem: et de ore ejus gladius utraque parte acutus exibat: et facies ejus sicut sol lucet in virtute sua.",
+      "provisionalTranslation": "その右手に七つの星を持ち、その口から両刃の鋭い剣が出ており、その顔は強烈に輝く太陽のようであった。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et cum vidissem eum, cecidi ad pedes ejus tamquam mortuus. Et posuit dexteram suam super me, dicens: Noli timere: ego sum primus, et novissimus,",
+      "provisionalTranslation": "私は彼を見たとき、死人のように彼の足元に倒れた。すると彼は右手を私の上に置いて言った。「恐れるな。私は最初の者であり、最後の者であり、"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "et vivus, et fui mortuus, et ecce sum vivens in saecula saeculorum: et habeo claves mortis, et inferni.",
+      "provisionalTranslation": "また生きている者である。私は死んでいたが、見よ、世々限りなく生きている。そして私は死と黄泉の鍵を持っている。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec.",
+      "provisionalTranslation": "それゆえ、あなたの見たこと、今あること、これから後に起こることを書き記せ。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea: septem stellae, angeli sunt septem ecclesiarum: et candelabra septem, septem ecclesiae sunt.",
+      "provisionalTranslation": "私の右手に見た七つの星の秘義と、七つの金の燭台について。七つの星は七つの教会の御使いたちであり、七つの燭台は七つの教会である。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis",
+      "body": "「イエス・キリストの黙示（Apocalypsis）」──ギリシア語「ἀποκάλυψις（apokalypsis）」のラテン語音写。「apo（〜から）+ kalyptein（覆う）」の合成語で「覆いを取り除くこと・啓示・開示」を意味する。ヒエロニムスは音訳を選択し、「Revelatio（開示）」とは訳さなかった──これによってギリシア語の音が西洋語に固定された。「palam facere（明らかにすること）」という目的語節が「Apocalypsis」の定義として機能する：隠されていたものが開示される事態そのものが「黙示」の内容。「servo suo Joanni（その僕ヨハネに）」──著者の位置づけ：神→キリスト→御使い→ヨハネという啓示の連鎖構造が第1節で定式化される。この「仲介の連鎖」がEcclesiastes第1章「regis Jerusalem（エルサレムの王）」という権威の一人称的宣言と対照的な、間接的・委任的な権威構造をなす。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Beatus qui legit, et audit verba prophetiae hujus, et servat ea, quae in ea scripta sunt: tempus enim prope est.",
+      "body": "「この預言の言葉を読む者は幸いである（Beatus qui legit）」──黙示録中に七回現れる「至福句（macarism）」の最初。「Beatus」はラテン語詩学において詩節の冒頭定式として機能する。「legit（読む）」・「audit（聴く）」・「servat（守る）」の三動詞の連鎖が読書という行為を知的・身体的・倫理的次元に渡って定義する。「tempus enim prope est（時は近い）」──Ecclesiastes的な時間論の逆転：コヘレトが「Nihil sub sole novum（新しいものは何もない）」として時間の閉鎖を定式化するのに対し、黙示録は「prope est（近い）」という終末の切迫を時間論の核心とする。しかし両者は共通の前提を持つ：現在の秩序の根本的不十分性。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "qui est, et qui erat, et qui venturus est",
+      "body": "「在る者、在った者、来たる者（qui est, et qui erat, et qui venturus est）」──第1章のライトモチーフとして三回反復される時制の三一構造（v.4・v.8・v.17–18に変奏）。「Ego sum qui sum（私はある者である）」という出エジプト記のヤハウェの自己定義（Ex. 3:14）のギリシア語的展開。過去（erat）・現在（est）・未来（venturus est）が神の自己存在に同時に内属するという時制の超越。マラルメ「骰子一擲」が時間の偶然性に対峙するのに対し、この定式は時間の三次元を神の存在において統合することで偶然を原理的に廃棄する──二つのテキストは「時間と偶然」という問題への正反対の応答として読める。ヴェイユ「Nécessité」章の「必然性は時間を通じて永遠を模倣する」という命題が、この三時制の神の定式に対する現象論的応答として位置づけられる。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Ego sum alpha et omega, principium et finis",
+      "body": "「私はアルファであり、オメガである、始まりであり終わりである（Alpha et Omega, principium et finis）」──黙示録全体の中心定式。ギリシア語アルファベットの最初と最後の文字を用いた包括的な自己定義。「principium et finis」はアルファ・オメガのラテン語的敷衍であり、空間的・記号的（文字）・時間的（始まりと終わり）の三重の意味で神の全体性を定式化する。Ecclesiastes「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性と対照的に、「principium et finis」は直線的な時間軸の両端を占有することで時間の「外部」に立つ視座を宣言する。マラルメ「骰子一擲」が「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」として偶然の廃棄不可能性を認めるのに対し、「Alpha et Omega」は始まりと終わりの掌握によって偶然を超越する──虚無論と終末論の対称的な対話として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "fui in insula, quae appellatur Patmos, propter verbum Dei, et testimonium Jesu",
+      "body": "「神の言葉とイエスの証しのゆえに、パトモスと呼ばれる島にいた」──ヨハネの地理的・実存的状況の設定。パトモス島はエーゲ海の小島（現在のギリシア領）で、ローマ時代の流刑地として使われた。「propter verbum Dei（神の言葉のゆえに）」という迫害の原因が流刑地という場所を証言の文脈として定義する：孤立・追放という状況が啓示受容の条件として機能する。Iosb第1章のサタンが「地を巡り歩く」という遍在的な偵察者として登場するのに対し、ヨハネは孤島への強制的な囲い込みによって啓示を受ける──拘束が開示の条件となるという逆説。ヴェイユ「Décréation」の「神が入ることのできる空虚を作ること」という命題が、島という隔絶空間における啓示受容の構造と照応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "fui in spiritu in Dominica die, et audivi post me vocem magnam tamquam tubae",
+      "body": "「私は主の日に御霊に感じ、私の後ろでラッパのような大きな声を聞いた（fui in spiritu in Dominica die）」──幻視受容の様態の定式化。「in spiritu（霊において）」という状態語が通常の知覚と区別された啓示的知覚の様態を指定する。「Dominica die（主の日）」──日曜日（resurrectio Christi の曜日）という典礼的時間が啓示の時間として指定される。「post me（私の後ろで）」──予期せぬ後方からの声という方向性が幻視の驚愕性を演出する。「tamquam tubae（ラッパのように）」という比喩：声を音の形として比較するという「類比的記述法」の最初の例──v.14「tamquam flamma ignis（炎の火のように）」・v.15「tamquam vox aquarum multarum（多くの水の声のように）」と続く連続的アナロジーの開始。記述不可能なものを「tamquam（〜のように）」の連鎖によって周辺から描写するこの修辞法がApocalypsis第1章の文体的特徴。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "similem Filio hominis vestitum podere, et praecinctum ad mamillas zona aurea",
+      "body": "v.12–16は幻視のキリスト像を七つの要素によって描写する、視覚的な「積み重ね（accumulation）」の修辞構造をなす。七つの要素：①七つの燭台の中（v.12）②足まで垂れた衣（v.13）③金の帯（v.13）④白い頭髪（v.14）⑤炎の目（v.14）⑥精錬された真鍮の足と水の声（v.15）⑦右手の七つの星・口の剣・太陽のような顔（v.16）。各要素は「比喩（tamquam）」または「色彩」によって修飾され、視覚的・聴覚的・動的な感覚が層をなす。ダニエル書（Dan. 7:13「人の子のような者」・10:5–6「亜麻布をまとった人」）の幻視描写の語彙的引用であり、旧約的幻視文学のヴァリアントとして機能する。「septem（七）」という数が全体を貫く構造的数として：七つの燭台・七つの星・七つの教会・七つの霊──七という数の繰り返しが章全体の秘義的秩序を形成する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "caput autem ejus, et capilli erant candidi tamquam lana alba, et tamquam nix, et oculi ejus tamquam flamma ignis",
+      "body": "「その頭と髪は白い羊毛のように、また雪のように白く、その目は炎の火のようであった」──二重の「tamquam」による視覚的比喩の極点。「candidi tamquam lana alba, et tamquam nix（白い羊毛のように、また雪のように白く）」──白さの極限を二段階の比喩で表現する：羊毛の白という素材的・身近な白さから、雪の白という自然的・絶対的な白さへの上昇。この二重比喩は単独の比喩では記述できない絶対的白さを「複数の類比」によって近似する試み。「oculi ejus tamquam flamma ignis（その目は炎の火のように）」──白さ（冷たい光）から炎（熱い光）へのコントラスト。トラークル「Abendländisches Lied（西洋の歌）」の「炎のような目（flammendes Aug）」的なイメージとの共鳴。ランボー「Barbare」の「古い炎の旗ざお（vieilles flammes, de vieilles fumées）」が黙示録的な炎のイメージの詩的変容として読める。",
+      "targetId": "trakl_abendlaendisches_lied",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "cecidi ad pedes ejus tamquam mortuus",
+      "body": "「私は死人のように彼の足元に倒れた（cecidi ad pedes ejus tamquam mortuus）」──幻視者の完全な崩壊という身体的反応。「tamquam mortuus（死人のように）」は比喩的死──幻視受容による自我の一時的廃絶。Iob第1章v.20「corruens in terram adoravit（地に倒れ伏して礼拝した）」と同型の伏臥の身体的形象であるが、ヨブの場合は悲嘆の意図的行為（scidit vestimenta / tonso capite）であるのに対し、ヨハネの場合は圧倒的な幻視による非意図的な崩壊（cecidi）として区別される。ヴェイユ「Décréation」§20での「自己を無にすること」という脱創造の身体的表現と照応する。この「死のような崩壊」に続く右手による接触（v.17「posuit dexteram suam super me」）と「Noli timere（恐れるな）」という命令が、崩壊から回復・証言への転換を構造化する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "glossary",
+      "anchor": "et vivus, et fui mortuus, et ecce sum vivens in saecula saeculorum: et habeo claves mortis, et inferni.",
+      "body": "「私は死んでいたが、見よ、世々限りなく生きている。そして私は死と黄泉の鍵を持っている（habeo claves mortis, et inferni）」──黙示録第1章の神学的核心命題。「fui mortuus（私は死んでいた）」と「sum vivens（生きている）」──過去完了と現在の対立が死と復活の転換を定式化する。「in saecula saeculorum（世々限りなく）」──Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」における大地の永続性が人間の世代交代の背景として機能したのに対し、ここでは復活した者の生命の永続性として機能する。「claves mortis, et inferni（死と黄泉の鍵）」──鍵の所持という権能の象徴が「死（mors）」と「黄泉（infernus）」という二つの死後的領域への支配を意味する。コヘレト的文脈では、「太陽の下での労苦（labor sub sole）」が「sub sole」という地上的限定に縛られるのに対し、「claves mortis et inferni」は地上と地下（死の領域）の両方に跨る超越的権能として位置づけられる。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec.",
+      "body": "「あなたの見たこと、今あること、これから後に起こることを書き記せ（Scribe ergo quae vidisti, et quae sunt, et quae oportet fieri post haec）」──証言の命令。「quae vidisti（見たこと：過去）」・「quae sunt（今あること：現在）」・「quae oportet fieri post haec（これから起こること：未来）」という三時制の構造が、v.4の「qui est, et qui erat, et qui venturus est」という神の自己定義の三時制と対応する：神の存在の三時制が証言の内容の三時制として鏡像的に反映される。「scribe（書き記せ）」という命令動詞が著述行為そのものを神学的使命として定義する。マラルメ「骰子一擲」最終行「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」──書く行為が偶然性の放出であるという命題の神学的反転として：「Scribe」は偶然ではなく神の命令によって正当化される書字行為を定式化する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Sacramentum septem stellarum, quas vidisti in dextera mea, et septem candelabra aurea",
+      "body": "「七つの星の秘義（Sacramentum septem stellarum）と七つの金の燭台について」──幻視の解読・解義（allegoresis）の提示。「Sacramentum」──ヒエロニムスのラテン語訳における「μυστήριον（mysterion）」の訳語として：単なる「秘密（secretum）」ではなく「聖なる印し・典礼的象徴」のニュアンスを帯びる。七つの星＝七つの教会の御使い、七つの燭台＝七つの教会、という解読が幻視言語と教会論的現実の対応として提示される。この「幻視の自己解読（Sacramentum … angeli sunt … ecclesiae sunt）」という構造は、幻視テキストが同時に自身の解釈鍵を内包するという重層的テキスト性を定義する。マラルメ「謎（Mystère）」での詩の「秘義性」という概念──詩は自身の解釈を保留したまま読者に啓示する──が黙示録の「Sacramentum」と詩的に照応する。この第1章全体がApocalypsis全22章の読解鍵を提供する序章として、VANITISMEコーパスにおける終末論的テキスト群の出発点となる。",
+      "targetId": "mallarme_mystere",
+      "targetParagraphId": null
+    }
+  ]
+}
