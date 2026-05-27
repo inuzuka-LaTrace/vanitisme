@@ -1,0 +1,226 @@
+{
+  "id": "hieronymus_apocalypsis_5",
+  "title": "Apocalypsis, Caput V",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput V. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+5&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第5章。第4章の天上の御座の幻視に続き、七つの封印で封じられた書物（liber signatus sigillis septem）とそれを開くに「ふさわしい者（dignus）」を巡る宇宙的探索が展開される。「Quis est dignus（誰がふさわしいか）」という問いに対し、天上・地上・地下のいかなる者も答えられず、ヨハネが泣く（flebam multum）という感情的絶頂の後、「ユダ族の獅子・ダヴィデの根（leo de tribu Juda, radix David）」として小羊（Agnus）が登場する。しかしその小羊は「屠られたように立っている（stantem tamquam occisum）」という逆説的な姿で現れる──勝利と死、強さと弱さが一体をなす形象。小羊が書物を受け取ることで四つの生き物と二十四人の長老が竪琴と香の器を持って新しい歌（canticum novum）を歌い、万の天使たちが「ふさわしい（Dignus est Agnus）」と声を合わせ、最終的にあらゆる被造物が「御座に座る方と小羊へ」の頌歌を歌う──という宇宙的礼拝の同心円的拡大が第5章を構成する。VANITISMEにおける位置づけ：「Quis est dignus（誰がふさわしいか）」という問いは、Ecclesiastes第1章v.3「Quid habet amplius homo（人は何を得るのか）」という人間の労苦の無意味さへの問いと対称をなす──コヘレトは問いに答えない（あるいは「虚無」と答える）のに対し、黙示録は「屠られた小羊（Agnus occisus）」という逆説的な存在を答えとして提示する。「canticum novum（新しい歌）」はEcclesiastes第1章v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」への直接的な応答として機能する──「新しいもの」は地上には存在しないが、天上においては新しい歌が歌われる。マラルメの詩学との深い照応がある章でもある。",
+  "keywords": [
+    "liber signatus sigillis septem",
+    "Quis est dignus",
+    "leo de tribu Juda",
+    "Agnus tamquam occisus",
+    "canticum novum",
+    "Dignus est Agnus",
+    "omnis creatura",
+    "七つの封印",
+    "小羊",
+    "宇宙的礼拝"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_4",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_la_violence",
+    "mallarme_coup_de_des",
+    "mallarme_livre_instrument",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi in dextera sedentis supra thronum, librum scriptum intus et foris, signatum sigillis septem.",
+      "provisionalTranslation": "私は御座に座る方の右手に、内側にも外側にも書き記され、七つの封印で封じられた書物を見た。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et vidi angelum fortem, praedicantem voce magna: Quis est dignus aperire librum, et solvere signacula ejus?",
+      "provisionalTranslation": "また私は、力ある天使が大声で叫んでいるのを見た。「誰がその書物を開き、その封印を解くにふさわしいか。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et nemo poterat neque in caelo, neque in terra, neque subtus terram aperire librum, neque respicere illum.",
+      "provisionalTranslation": "しかし天においても、地においても、地の下においても、その書物を開き、それを見ることのできる者は誰もいなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et ego flebam multum, quoniam nemo dignus inventus est aperire librum, nec videre eum.",
+      "provisionalTranslation": "書物を開くにも、それを見るにもふさわしい者が誰も見出されなかったので、私はひどく泣いた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et unus de senioribus dixit mihi: Ne fleveris: ecce vicit leo de tribu Juda, radix David, aperire librum, et solvere septem signacula ejus.",
+      "provisionalTranslation": "すると長老の一人が私に言った。「泣くな。見よ、ユダ族の獅子、ダヴィデの根が勝利を得た。その書物を開き、その七つの封印を解くために。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et vidi: et ecce in medio throni et quatuor animalium, et in medio seniorum, Agnum stantem tamquam occisum, habentem cornua septem, et oculos septem: qui sunt septem spiritus Dei, missi in omnem terram.",
+      "provisionalTranslation": "私は見た。すると御座と四つの生き物の間に、また長老たちの間に、屠られたかのように立っている小羊がいた。七つの角と七つの目を持っており、その目は全地に遣わされた神の七つの霊である。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et venit: et accepit de dextera sedentis in throno librum.",
+      "provisionalTranslation": "小羊は来て、御座に座る方の右手から書物を受け取った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et cum aperuisset librum, quatuor animalia, et viginti quatuor seniores ceciderunt coram Agno, habentes singuli citharas, et phialas aureas plenas odoramentorum, quae sunt orationes sanctorum:",
+      "provisionalTranslation": "小羊が書物を受け取ったとき、四つの生き物と二十四人の長老たちは小羊の前にひれ伏した。それぞれが竪琴と、聖徒たちの祈りである香の満ちた金の器を持っていた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "et cantabant canticum novum, dicentes: Dignus es, Domine, accipere librum, et aperire signacula ejus: quoniam occisus es, et redemisti nos Deo in sanguine tuo ex omni tribu, et lingua, et populo, et natione:",
+      "provisionalTranslation": "そして彼らは新しい歌を歌って言った。「あなたは書物を受け取り、その封印を解くにふさわしい方です。なぜなら、あなたは屠られ、あらゆる部族、言語、民族、国民の中から、その血によって人々を神のために贖われたからです。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et fecisti nos Deo nostro regnum, et sacerdotes: et regnabimus super terram.",
+      "provisionalTranslation": "「そしてあなたは彼らを、私たちの神のための王国と祭司とされた。彼らは地上を治めるであろう。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et vidi, et audivi vocem angelorum multorum in circuitu throni, et animalium, et seniorum: et erat numerus eorum millia millium,",
+      "provisionalTranslation": "私はまた、御座と生き物たちと長老たちの周囲にいる多くの天使たちの声を聞いた。その数は万の万倍、千の千倍であった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "dicentium voce magna: Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.",
+      "provisionalTranslation": "彼らは大声で言った。「屠られた小羊は、力と富と知恵と強さと誉れと栄光と賛美を受けるにふさわしい方である。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et omnem creaturam, quae in caelo est, et super terram, et sub terra, et quae sunt in mari, et quae in eo: omnes audivi dicentes: Sedenti in throno, et Agno, benedictio et honor, et gloria, et potestas in saecula saeculorum.",
+      "provisionalTranslation": "また天と地と地の下と海にいるすべての被造物、それらすべてのものが言うのを私は聞いた。「御座に座る方と小羊に、賛美と誉れと栄光と力が世々限りなくあるように。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et quatuor animalia dicebant: Amen. Et viginti quatuor seniores ceciderunt in facies suas: et adoraverunt viventem in saecula saeculorum.",
+      "provisionalTranslation": "四つの生き物は「アーメン」と言った。そして二十四人の長老たちはひれ伏し、世々限りなく生きておられる方を礼拝した。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "librum scriptum intus et foris, signatum sigillis septem.",
+      "body": "「内側にも外側にも書き記され、七つの封印で封じられた書物（librum scriptum intus et foris, signatum sigillis septem）」──第5章全体の主題的核心をなす書物の定義。「intus et foris（内側にも外側にも）」：ローマ法においては遺言書（testamentum）が内外両面に記され封印されるという法的形式を反映する──第5章の書物が歴史の「遺言」あるいは「神の意志の書」として機能することを示唆する。「sigillis septem（七つの封印）」：七という数の黙示録的充満性が封じることの完全性を定式化する。マラルメ「詩的文書（Livre）」の構想──読まれるべきにして読まれえない書物、開示されることを待つ書物という概念──が「librum signatum sigillis septem」という黙示録的書物と詩的に共鳴する。「書物を開く」という行為がApocalypsis全体の動力となる：第6章以降の七つの封印の開封が宇宙的事変の連鎖を引き起こす。Ecclesiastes第1章v.8「non potest eas homo explicare sermone（人はそれを言葉で説明することができない）」という言語的不可能性の命題が、「librum signatum（封印された書物）」という不可視・不可読の書物の形象として物語的に具象化されたものとして読める。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quis est dignus aperire librum, et solvere signacula ejus?",
+      "body": "「誰がその書物を開き、その封印を解くにふさわしいか（Quis est dignus）」──第5章の哲学的核心問いであり、Apocalypsis全体の神学的問いの定式化。「dignus（ふさわしい）」という語がApocalypsis第4章v.11「Dignus es Domine Deus noster（私たちの主なる神よ、あなたはふさわしい）」・第5章v.9「Dignus es, Domine（あなたはふさわしい）」・v.12「Dignus est Agnus（小羊はふさわしい）」と連鎖する章全体のライトモチーフ。「Quis（誰が）」という問いの宇宙的射程：v.3「neque in caelo, neque in terra, neque subtus terram（天においても地においても地の下においても）」という三重の否定が問いの答えの不在を宇宙的スケールで確認する。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という問いとの対称：コヘレトの問いが答えなく宙吊りにされるのに対し、黙示録の問いはv.5「ecce vicit leo de tribu Juda（見よ、ユダ族の獅子が勝利を得た）」という答えへと向かう。しかしその答えは問いの論理（「力ある者・偉大な者」）を裏切る逆説的な形で到来する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et nemo poterat neque in caelo, neque in terra, neque subtus terram aperire librum, neque respicere illum.",
+      "body": "「天においても、地においても、地の下においても、その書物を開き、それを見ることのできる者は誰もいなかった（nemo poterat）」──宇宙的不可能性の三重定式。「neque in caelo, neque in terra, neque subtus terram（天・地・地の下）」：古代の三層宇宙論（天上・地上・地下）が網羅的に否定に服する。「respicere illum（それを見ることもできない）」：開くことだけでなく、見ることの不可能性まで拡張される──「書物」は視覚的アクセスさえも拒む完全な封じとして定義される。この宇宙的「nemo（誰もいない）」という空虚がv.4のヨハネの涙の感情的文脈を準備する。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」という何も起きない宇宙的空虚との照応：封印された書物の前での「何も起きない」という宇宙的沈黙が、小羊の登場によって破られる転換点の直前の極限的緊張として機能する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et ego flebam multum, quoniam nemo dignus inventus est aperire librum, nec videre eum.",
+      "body": "「ふさわしい者が誰も見出されなかったので、私はひどく泣いた（flebam multum）」──黙示録においてヨハネの感情が直接記述される数少ない箇所。「flebam multum（ひどく泣いた）」という未完了過去形が継続的・持続的な泣きを示す。Iob第1章v.20「Tunc surrexit Job, et scidit vestimenta sua（するとヨブは立ち上がり、衣を裂いた）」というヨブの悲嘆の身体的表現と比較すると、ヨハネの「泣き」は儀礼的行為ではなく純粋な感情的崩壊として現れる。「nemo dignus inventus est（ふさわしい者が誰も見出されなかった）」：「inventus est（見出された）」という受動態が宇宙的探索の失敗を記録する。この「泣き（flebam）」が直後の「Ne fleveris（泣くな）」という長老の慰めの言葉によって反転される──悲嘆から希望への転換の瞬間として。ヴェイユ「Accepter le vide」の「真の空虚を耐え忍ぶこと」：ヨハネの泣きは「答えのない宇宙的空虚」に直面したときの存在論的悲嘆として、空虚を正直に経験する姿勢の表現として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "ecce vicit leo de tribu Juda, radix David, aperire librum, et solvere septem signacula ejus.",
+      "body": "「見よ、ユダ族の獅子、ダヴィデの根が勝利を得た（vicit leo de tribu Juda, radix David）」──v.6の「Agnus tamquam occisus（屠られたかのような小羊）」の登場を準備する告知。「leo（獅子）」という強大さ・勝利のシンボルと、v.6の「Agnus（小羊）」という犠牲・弱さのシンボルの根本的な対比が、第5章の中心的逆説をなす：力ある者（獅子）として告知されたものが弱い者（小羊）として現れるという告知と現実の落差。「radix David（ダヴィデの根）」：イザヤ書第11章v.1「ダヴィデの切り株から新芽が出る（egredietur virga de radice Jesse）」の終末論的引用。「aperire librum（書物を開く）」という不定詞が「勝利を得た（vicit）」という完了形の目的として：勝利の内容が「書物を開くこと」として定義される──武力的征服ではなく「開封」という知的・啓示的行為が勝利の実質。Ecclesiastes第1章v.1「regis Jerusalem（エルサレムの王）」という地上の王権との対比：「radix David（ダヴィデの根）」は同じ王的系譜に属しながら、地上的王権を超越した終末論的権能として登場する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Agnum stantem tamquam occisum, habentem cornua septem, et oculos septem",
+      "body": "「屠られたかのように立っている小羊（Agnum stantem tamquam occisum）」──第5章の、さらにはApocalypsis全体の中心的形象。「stantem（立っている）」と「tamquam occisum（屠られたかのように）」の逆説的共存：死の痕跡を持ちながら立っている存在、すなわち死と復活の両面を同時に体現する形象。「Agnus（小羊）」：旧約の過越の小羊（出エジプト記12章）・イザヤ書第53章v.7「dolebat in se ipsum et non aperuit os suum: sicut ovis ad occisionem ducetur（口を開かず、屠りに連れられる羊のように）」の受難の僕の終末論的同定。「cornua septem（七つの角）」：角は権能・力の象徴（旧約的）であり、七つの完全な権能を示す。「oculos septem（七つの目）」：「七つの霊（septem spiritus Dei）」として敷衍され、全知の視座を示す。「stantem tamquam occisum」という形象はリルケ「ドゥイノの悲歌第1歌」の「Schönen ist nichts als des Schrecklichen Anfang（美は恐ろしいものの始まりに過ぎない）」という美と恐怖の逆説的共存と詩的に照応する。ヴェイユ「La Violence（力）」章での「力によって傷つけられた者の尊厳」という命題が、「屠られた」痕跡を持ちながら立つ小羊の形象において集約的に体現される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Et venit: et accepit de dextera sedentis in throno librum.",
+      "body": "「小羊は来て、御座に座る方の右手から書物を受け取った（venit: et accepit librum）」──第5章の行為的頂点を形成する二動詞の簡潔な節。「Et venit（そして来た）: et accepit（そして受け取った）」という接続詞「et」による二動詞の連結が、壮大な宇宙的探索（v.2–5）の末の行為をあえて極度に簡潔に記述する。この簡潔さが緊張を一気に解放するレトリック的機能を持つ。「de dextera sedentis in throno（御座に座る方の右手から）」：第4章v.2「supra sedem sedens（御座に座っている者）」の匿名的存在が、ここで「右手（dextera）」という具体的な接触点として初めて触れられる。第1章v.16「habebat in dextera sua stellas septem（右手に七つの星を持っていた）」・v.17「posuit dexteram suam super me（右手を私の上に置いた）」と連鎖する「右手（dextera）」のライトモチーフ：右手は権能の付与・接触・委譲の器官として機能する。マラルメ詩学的観点から：「Et venit: et accepit」の極限的な簡潔さは、長い準備と期待の後に行為が起きるという詩的構造における「転回点（tournant）」の技法として読める。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "habentes singuli citharas, et phialas aureas plenas odoramentorum, quae sunt orationes sanctorum:",
+      "body": "「それぞれが竪琴と、聖徒たちの祈りである香の満ちた金の器を持っていた（citharas, et phialas aureas plenas odoramentorum, quae sunt orationes sanctorum）」──礼拝の二つの要素の典礼的定式。「citharas（竪琴）」：詩篇における礼拝の楽器。「phialas aureas plenas odoramentorum（香の満ちた金の器）」：旧約の神殿典礼における香の奉献。「quae sunt orationes sanctorum（それらは聖徒たちの祈りである）」：香が「祈り」の物質的象徴として解釈される──物質（香の煙）と精神（祈り）の同定。詩篇第141篇v.2「dirige oratio mea sicut incensum in conspectu tuo（私の祈りを御前でのお香のように）」の典礼的引用。第4章v.10「mittebant coronas suas ante thronum（冠を御座の前に投げ出した）」における「冠」の放棄という視覚的礼拝に対し、第5章v.8の「竪琴と香の器」は聴覚・嗅覚を加えた多感覚的礼拝の展開として機能する。ヴェイユ「Décréation」の「自我の放棄」という命題が、「竪琴（音楽的自己表現）」と「香（祈りとしての自己奉献）」という二つの典礼的身体行為において具象化される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "cantabant canticum novum, dicentes: Dignus es, Domine, accipere librum",
+      "body": "「新しい歌を歌って言った（cantabant canticum novum）──あなたは書物を受け取るにふさわしい（Dignus es, Domine）」──「canticum novum（新しい歌）」という語がEcclesiastes第1章v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」への直接的な神学的応答として機能する。コヘレトが地上において「新しいもの」の不可能性を宣言するのに対し、黙示録は天上において「canticum novum（新しい歌）」という事態の発生を宣言する。「novum（新しい）」という語の対称的使用が両テキストを鏡的に対立させる。詩篇第96篇v.1「Cantate Domino canticum novum（主に新しい歌を歌え）」・詩篇第98篇v.1の同語句の終末論的実現として。「Dignus es, Domine（あなたはふさわしい）」：第4章v.11と同型の「ふさわしい（dignus）」の宣言が、今度は「書物を受け取ること（accipere librum）」という具体的な行為への適格性として語られる。「quoniam occisus es, et redemisti nos（なぜなら、あなたは屠られ、贖われたから）」：「ふさわしさ（dignitas）」の根拠が力でも知恵でもなく「屠られたこと（occisus es）」であるという逆説。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "et fecisti nos Deo nostro regnum, et sacerdotes: et regnabimus super terram.",
+      "body": "「あなたは彼らを王国と祭司とされた──彼らは地上を治めるであろう（regnabimus super terram）」──「canticum novum」の内容として歌われる終末論的変容の宣言。「regnum et sacerdotes（王国と祭司）」：Apocalypsis第1章v.6「fecit nos regnum, et sacerdotes Deo et Patri suo（私たちを神のための王国・祭司とされた）」の反復。この同定が小羊の「書物を開く行為（v.7）」の結果として今や歌われる：書物の開封が「王国・祭司」という共同体的変容の根拠として位置づけられる。「regnabimus super terram（地上を治めるであろう）」：未来形が終末論的約束として機能する。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の無限の流動と対比的に、「regnabimus（治めるであろう）」という確定的未来が世代の流動を超えた永続的な統治の確立を予告する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Et vidi, et audivi vocem angelorum multorum in circuitu throni, et animalium, et seniorum: et erat numerus eorum millia millium,",
+      "body": "「その数は万の万倍、千の千倍であった（millia millium）」──礼拝の同心円的拡大の第三段階の登場。第5章における礼拝の構造的拡大：①四つの生き物と二十四人の長老（v.8–10）→②「万の万倍・千の千倍」の天使たち（v.11–12）→③あらゆる被造物全体（v.13）という三段階の同心円的拡大。「millia millium（万の万倍）」：具体的数値ではなく「数え切れない無限の量」を示すヘブライ的誇張法。ダニエル書第7章v.10「millia millium ministrabant ei（万の万倍の者たちが彼に仕えた）」の引用。「in circuitu throni（御座の周囲に）」：第4章から一貫する「御座を中心とした同心円的空間」という礼拝の空間構造が天使の声によって最大化される。Ecclesiastes第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」という地上的循環の「circuitus（巡回）」と対称的に、天上的「in circuitu throni（御座の周囲の）」という循環は礼拝的・求心的な動きとして機能する。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.",
+      "body": "「屠られた小羊は力と富と知恵と強さと誉れと栄光と賛美を受けるにふさわしい（Dignus est Agnus, qui occisus est）」──七重の賛美定式。七万の天使による「Dignus est Agnus」の七重の宣言は第4章v.11「gloriam, et honorem, et virtutem（栄光と誉れと力）」の三重・第5章v.13「benedictio et honor, et gloria, et potestas（賛美と誉れと栄光と力）」の四重と段階的に拡大する。七項目：「virtutem（力）・divinitatem（富/神性）・sapientiam（知恵）・fortitudinem（強さ）・honorem（誉れ）・gloriam（栄光）・benedictionem（賛美）」──「sapientia（知恵）」という項目がEcclesiastes第1章v.16–18の「知恵の探求が苦悩を加える」という命題と照応的に対置される：コヘレトでは知恵が「afflictio spiritus（霊の苦悩）」を生む虚無的営みとして経験されるのに対し、黙示録では「sapientia（知恵）」が小羊の属性として礼拝の対象となる。「qui occisus est（屠られた者）」という関係節が「Dignus（ふさわしい）」の格律として繰り返される：屠られたことが「ふさわしさ」の根拠であるという逆説が第5章全体の神学的核心を形成する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et omnem creaturam, quae in caelo est, et super terram, et sub terra, et quae sunt in mari, et quae in eo: omnes audivi dicentes",
+      "body": "「天と地と地の下と海にいるすべての被造物（omnem creaturam）──それらすべてのものが言うのを私は聞いた」──礼拝の宇宙的完結。v.3「neque in caelo, neque in terra, neque subtus terram（天においても地においても地の下においても）」という三重の否定によって「書物を開く者がいない」ことが宣言されたのと同じ三層宇宙論が、v.13では「すべての被造物が礼拝する」という肯定的な宇宙的充満として反転される。「et quae sunt in mari（海にいるもの）」：v.3にない「海（mare）」という第四の場所が付加されることで宇宙的網羅性が完全化される。第4章v.6「mare vitreum simile crystallo（玻璃の海）」の「固定された海」が、ここでは礼拝の声の発生地としての「海」として動的に機能する転換。「Sedenti in throno, et Agno（御座に座る方と小羊に）」：御座の存在（第4章）と小羊（第5章）が並列的に礼拝の対象として同定されるApocalypsis第4–5章の神学的統合。ヴェイユ「Nécessité（必然）」章の「すべての被造物は必然性の秩序に従う」という命題の終末論的反転として：必然性に縛られた被造物が自由な礼拝の主体として顕現する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et quatuor animalia dicebant: Amen. Et viginti quatuor seniores ceciderunt in facies suas: et adoraverunt viventem in saecula saeculorum.",
+      "body": "「四つの生き物は『アーメン』と言った。そして二十四人の長老たちはひれ伏し、礼拝した（ceciderunt in facies suas: et adoraverunt）」──第5章の閉幕と第4章との照応。「Amen（アーメン）」：ヘブライ語「אָמֵן（āmēn）」の音写、「真実・確かに・そのようにあれ」を意味する。四つの生き物の「Amen」という単語が宇宙規模の礼拝の合唱（v.13）を確証する封印として機能する。「ceciderunt in facies suas（顔を地に伏した）」：第4章v.10「procidebant viginti quatuor seniores（ひれ伏した）」の反復的照応。しかし第4章では「mittebant coronas suas ante thronum（冠を投げ出した）」という付加的行為があったのに対し、第5章ではひれ伏すのみ──「canticum novum（新しい歌）」を歌った後の完全な沈黙・伏臥として。「viventem in saecula saeculorum（世々限りなく生きておられる方）」：第4章v.9–10の同語句の反復が第4–5章を一つの礼拝的単元として括る。Apocalypsis第4–5章全体の構造：問い（Quis est dignus?）→探索と失敗と涙→小羊の登場→書物の受取→歌→宇宙的礼拝→アーメン・ひれ伏しという礼拝劇の完全な弧。Iob第1章v.20–21の「悲嘆（scidit vestimenta）→礼拝（adoravit）→讃美（Sit nomen Domini benedictum）」という弧と構造的に照応しながら、その宇宙的スケールにおいて絶対的に超越する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    }
+  ]
+}
