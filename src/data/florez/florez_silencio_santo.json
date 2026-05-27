@@ -1,0 +1,111 @@
+{
+  "id": "florez_silencio_santo",
+  "title": "Silencio santo",
+  "author": "Julio Flórez",
+  "source": "Cardos y lirios (1905). Wikisource: https://es.wikisource.org/wiki/Cardos_y_lirios/Silencio_santo",
+  "year": "1905",
+  "firstPublication": "Cardos y lirios, Bogotá, 1905",
+  "difficulty": "上級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）「Cardos y lirios（1905）」所収。「Silencio santo（聖なる沈黙）」は5-9-6-4行の4段落24行の自由詩であり、詩集中で最も神学的・哲学的射程を持つ作品。詩の場面はゴルゴタへの磔刑への道行き：十字架の重荷に喘ぐキリストに、誰かが接吻し（おそらくユダの接吻の変奏的引用）、「神の子であるなら、なぜ苦痛を癒さないのか？雷を放って悪人を打たないのか？」という神義論的問いを投げかける。そしてキリストは──「死者のように黙った（como un muerto calló）」、「何も言わなかった（No dijo nada augusto）」という二行の沈黙で応答する。タイトル「Silencio santo（聖なる沈黙）」はこの神の沈黙を「聖なる（santo）」として肯定的に定義する：神が悪と苦痛への問いに答えないという沈黙が「聖なる」ものとして提示される逆説がこの詩の神学的核心。「Resonancias」の「雷と稲妻」への讃歌が直前の詩として置かれ、「Silencio santo」では「¿En donde están tus rayos y tus truenos?（君の雷と稲妻はどこにあるのか？）」という問いとして反響する：詩集の隣接する二詩が「雷の存在」と「雷の不在」という対立する命題として呼応する。「nada（何もない）」という詩集の反復語が最終行「No dijo nada（何も言わなかった）」として神の応答の不在の定式として現れる：詩集全体の「nada」語彙の神学的頂点。",
+  "keywords": [
+    "聖なる沈黙",
+    "Silencio santo",
+    "キリスト",
+    "ゴルゴタ",
+    "神義論",
+    "teodicea",
+    "神の沈黙",
+    "十字架",
+    "cruz",
+    "接吻",
+    "beso",
+    "悪",
+    "苦痛",
+    "雷",
+    "trueno",
+    "nada",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_resonancias",
+    "florez_en_el_cementerio",
+    "florez_la_gran_tristeza",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "verlaine_parsifal",
+    "johnson_dark_angel",
+    "baudelaire_de_profundis_clamavi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "Trepaba el dulce Redentor, la cumbre\ndel Gólgota, agobiado por el peso\nde la infamante cruz.\nLa muchedumbre\nle cercaba.",
+      "provisionalTranslation": "甘き贖い主が、ゴルゴタの頂へと\n辱めの十字架の重さに\n喘ぎながら登っていた。\n群衆が\n彼を取り囲んでいた。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.6-14)",
+      "original": "De pronto, sonó un beso\nen el semblante lívido del justo,\ny el que le dio aquel beso, así le dijo\nal Nazareno: «augusto\nSeñor, si está en tu mano,\n(pues eres de dios hijo)\nsecar el océano\ny convertir la tierra en humo vano\n¿por qué no calmas tu pesar prolijo?",
+      "provisionalTranslation": "突然、接吻の音がした\n義人の蒼白い顔に。\nその接吻を与えた者は、こうナザレの人に\n語りかけた。「崇高なる\n主よ、もしあなたの手に\n（神の子であるのだから）\n海を乾かし、\n大地を空しい煙に変える力があるなら、\nなぜあなたの長い苦しみを癒さないのですか？」"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.15-20)",
+      "original": "¿En donde están tus rayos y tus truenos,\nque sobre tántos míseros sayones\nno arrojas? Sus malvados corazones\nmás que de ira, de ignorancia llenos,\n¿por qué no arrancas ó los tornas buenos?\n¿A qué el dolor que enerva y asesina?»",
+      "provisionalTranslation": "「あなたの雷と稲妻はどこにあるのですか、\nあれほど多くの哀れな処刑人たちの上に\n放たないのですか？ 怒りよりも無知に満ちた\n彼らの悪い心を、\nなぜ引き抜かないか、あるいは善く変えないのですか？\n力を奪い殺す苦痛に何の意味があるのですか？」"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.21-24)",
+      "original": "Y el Cristo, esa blancura ensangrentada,\nque todas nuestras almas ilumina,\ncomo un muerto calló:\nNo dijo nada augusto",
+      "provisionalTranslation": "そしてキリストは、その血に染まった白さ、\n私たちすべての魂を照らす者は、\n死者のように黙った：\n何も崇高なことを言わなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Trepaba el dulce Redentor, la cumbre\ndel Gólgota, agobiado por el peso\nde la infamante cruz.",
+      "body": "「甘き贖い主が、ゴルゴタの頂へと、辱めの十字架の重さに喘ぎながら登っていた（Trepaba el dulce Redentor, la cumbre / del Gólgota, agobiado por el peso / de la infamante cruz）」──詩の開口部がキリストの受難の場面（エッケ・ホモ的場面）の描写として始まる。「dulce Redentor（甘き贖い主）」：「dulce（甘い）」という形容詞が「Dulce veneno（甘い毒）」のタイトル語と共鳴する──詩集において「dulce」は愛の甘さ・苦さの逆説として機能するが、ここでは「贖い主（Redentor）」の「甘さ」として宗教的文脈で使用される。「agobiado por el peso / de la infamante cruz（辱めの十字架の重さに喘ぎながら）」：「infamante（辱めの・汚辱をもたらす）」という形容詞が十字架処刑の当時の社会的文脈──十字架刑は最も屈辱的な刑罰として奴隷・強盗に適用された──を示す。ヴェイユ「Nécessité（必然）」の「神は必然性という壁を通じて間接的に働く」という命題との照応：十字架の「重さ（peso）」が物理的必然性として神に課される形象として読める。「Mi tumba」の「la cumbre（山頂）」との連動：フローレスの詩集において「cumbre（頂）」は「Mi tumba」では詩人の墓地として・「Silencio santo」ではゴルゴタの処刑場として、高所という場所が死と結びついて反復される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "De pronto, sonó un beso\nen el semblante lívido del justo,",
+      "body": "「突然、接吻の音がした、義人の蒼白い顔に（De pronto, sonó un beso / en el semblante lívido del justo）」──「beso（接吻）」という語がこの詩を詩集内の「接吻」の語彙系列に接続する：「Dulce veneno」の「mis besos / ¿te envenenan?（私の接吻は君を毒するのか？）」・「Lejos」の「es el alma de aquel... beso difunto（あの死んだ接吻の魂）」・「Deshielo」の「la junte á mis labios（唇に当てた）」という接吻の系列が、「Silencio santo」では受難のキリストへの接吻として宗教的文脈に置かれる。「sonó un beso（接吻の音がした）」：「sonar（音がする）」という動詞が接吻を聴覚的事象として定義する。「semblante lívido del justo（義人の蒼白い顔）」：「lívido（蒼白い・青みがかった）」という形容詞が「Astro del alma」の「ojera profunda, fría y amoratada（深く、冷たく青紫に変色した隈）」・「La gran tristeza」の「de algas lívidas cubierta（蒼白い藻に覆われ）」と連動するフローレスの死の色彩語彙：「lívido」は死体変色の色として詩集全体に反復される。「接吻を与えた者（el que le dio aquel beso）」：ユダの裏切りの接吻（マタイ26:49「Rab¡, ¡rabbi! y lo besó」）の暗示的引用──しかしフローレスは誰が接吻したかを明示せず、問いを発する者の正体を曖昧にする。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "¿En donde están tus rayos y tus truenos,\nque sobre tántos míseros sayones\nno arrojas?",
+      "body": "「あなたの雷と稲妻はどこにあるのですか、あれほど多くの哀れな処刑人たちの上に放たないのですか？（¿En donde están tus rayos y tus truenos / que sobre tántos míseros sayones / no arrojas?）」──「Resonancias」との直接的・意図的照応。「Resonancias」では「¡Trueno!... Enorme alarido（雷よ！……巨大な叫び）」として雷が賛美されたが、「Silencio santo」ではその同じ「rayos y truenos（雷と稲妻）」が「どこにあるのか？（¿En donde están?）」という不在の問いとして反響する：詩集の隣接する二詩が「雷の存在（Resonancias）」と「雷の不在（Silencio santo）」という対立する命題として呼応する──「Resonancias」で「¡yo aplaudo tu estallido!（私は君の爆発を讃える！）」と讃えた雷がキリストの手元にないという神義論的問いとして変奏される。ヨブ記第1章のサタンの「ヨブは理由なく神を畏れているのですか（Numquid Job frustra timet Deum?）」という問いとの照応：「Silencio santo」の「なぜ雷を放たないのか？」という問いは、神の力と苦悩の共存という神義論的矛盾への問いとして同型の構造をとる。",
+      "targetId": "florez_resonancias",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "¿A qué el dolor que enerva y asesina?»",
+      "body": "「力を奪い殺す苦痛に何の意味があるのですか？（¿A qué el dolor que enerva y asesina?）」──詩集全体の中心的問いの神学的形式化。「¿A qué...?（何の意味があるのか？）」という問いがコヘレト第1章「Quid habet amplius homo de universo labore suo quo laborat sub sole?（太陽の下で人が営むすべての労苦から、人は何を得るのか？）」という問いと同型：どちらも苦悩・労苦の「意味」・「利益」への根本的疑問として機能する。「dolor que enerva y asesina（力を奪い殺す苦痛）」：「enervar（力を奪う・神経を弱める）」という動詞がヴェイユ「Pesanteur et beauté（重力と美）」の「pesanteur（重力）」──地上の力学的法則による人間的努力の消耗──との照応：苦痛が「力を奪う（enerva）」という描写がヴェイユ的な「重力による下降・消耗」の形象として読める。「Resonancias」の楽観的結語「¿Y el hombre? ¡algo mejor sobre la tierra!（人間は？地上でより良いものになる！）」への直接的反論として機能する：「Silencio santo」の問い「苦痛に何の意味があるのか？」は「Resonancias」の「嵐の後に人間はより良くなる」という命題を否定的に問い直す。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Y el Cristo, esa blancura ensangrentada,\nque todas nuestras almas ilumina,\ncomo un muerto calló:\nNo dijo nada augusto",
+      "body": "「そしてキリストは、その血に染まった白さ、私たちすべての魂を照らす者は、死者のように黙った：何も崇高なことを言わなかった（Y el Cristo, esa blancura ensangrentada / que todas nuestras almas ilumina / como un muerto calló: / No dijo nada augusto）」──詩全体の神学的・詩的頂点にして最も圧縮された形象。「blancura ensangrentada（血に染まった白さ）」：「blancura（白さ）」と「ensangrentada（血に染まった）」という対立する色彩の結合──「La gran tristeza」の「garza（鷺）」の「blancura（白さ）」・「Deshielo」の「mano hecha de nieve（雪でできた手）」という白の系列に「血（sangre）」が混入する。「que todas nuestras almas ilumina（私たちすべての魂を照らす）」：キリストを光源として定義する──「Astro del alma」の「astro（星）」・「Mi tumba」の「cirio funeral（葬儀の蝋燭）」・「Himno a la aurora」の「antorcha（松明）」というフローレスの光の語彙系列の宗教的頂点として「キリストの光」が現れる。「como un muerto calló（死者のように黙った）」──「Aún」の「¡me alejo mudo, cabizbajo y triste!（黙って、うつむいて、悲しみながら）」・「Lejos」の「beso difunto（死んだ接吻）」というフローレスの詩集の「黙（mudo）」・「死（difunto/muerto）」の系列が、ここで神の沈黙として宗教的次元で実現される。「No dijo nada augusto（何も崇高なことを言わなかった）」──詩集全体の「nada」語彙の神学的頂点：「En el cementerio」の「¡nada!... ¡nada!... ¡nada! ¡nada!（何もない！）」という虚無の慟哭が「No dijo nada（何も言わなかった）」という神の沈黙の定式として神学的に昇華される。「augusto（崇高な）」：第2連の「«augusto / Señor（崇高なる主よ）」という呼格の「augusto」が最終行「No dijo nada augusto（何も崇高なことを言わなかった）」に反復される──呼格の「崇高さ」が沈黙の「崇高さ」として回収される詩的構造。ヴェイユ「Accepter le vide（真空を受容する）」の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」という命題との照応：キリストの「No dijo nada（何も言わなかった）」という沈黙・虚無が「聖なる空虚（vide saint）」として恩寵の場として機能する可能性を「Silencio santo（聖なる沈黙）」というタイトルが示唆する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    }
+  ]
+}
