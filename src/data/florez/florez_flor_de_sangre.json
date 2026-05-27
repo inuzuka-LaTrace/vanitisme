@@ -1,0 +1,77 @@
+{
+  "id": "florez_flor_de_sangre",
+  "title": "Flor de sangre",
+  "author": "Julio Flórez",
+  "source": "Manojo de zarsas (1906). Wikisource: https://es.wikisource.org/wiki/Manojo_de_zarsas/Flor_de_sangre",
+  "year": "1906",
+  "firstPublication": "Manojo de zarsas, Bogotá, 1906",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）第二詩集「Manojo de zarsas（茨の束、1906）」所収。「Flor de sangre（血の花）」は5-5行の2連10行の詩であり、キンティリャ（quintilla：AABBA / AABBA）形式をとる。愛の「接吻」が「赤いつぼみ（el rojo capullo de los besos）」として花の形象で詩化され、その官能的な「血の花」の開花が「純潔な花々（flores castas）──優しさ・打ち明け話──」を萎れさせるという構造をとる。詩全体が庭という比喩的空間の中で「官能（血の花）」と「純潔（白い花）」の対立として展開する：第1連では詩的主体が新しい愛の庭の迷路の中で接吻の赤いつぼみが開くのを描写し、第2連では「純潔な花々」が「血の花（flor sangrienta）」の前で白さを失い花冠を閉じる。「Oro en polvo」の「蝶がバラに黄金の粉を残す」という清潔な交換・「Dulce veneno」の「甘い毒」という官能の逆説・「El gran crimen」の「貞潔な肉の白さ（blancura de aquella carne casta）」というフローレスの詩集内の「白さと血」・「官能と純潔」という対立が、「Flor de sangre」では庭の花の比喩として最もコンパクトに結晶化している。",
+  "keywords": [
+    "血の花",
+    "Flor de sangre",
+    "接吻",
+    "beso",
+    "赤いつぼみ",
+    "capullo",
+    "官能",
+    "純潔",
+    "casta",
+    "白さ",
+    "blancura",
+    "花冠",
+    "corola",
+    "庭",
+    "jardín",
+    "キンティリャ",
+    "Manojo de zarsas",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_oro_en_polvo",
+    "florez_dulce_veneno",
+    "florez_el_gran_crimen",
+    "florez_astro_del_alma",
+    "florez_himno_a_la_aurora",
+    "baudelaire_harmonie_du_soir",
+    "gautier_carmen",
+    "rossetti_dead_before_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-5)",
+      "original": "En el nuevo jardín de mis amores\ny entre sus laberintos más espesos,\nenojos dando á pudibundas flores,\ncon vivos y purpúreos resplandores,\nse abrió el rojo capullo de los besos.",
+      "provisionalTranslation": "私の愛の新しい庭の中で、\nその最も深い迷路の中に、\n内気な花々を怒らせながら、\n鮮やかな紫の輝きとともに、\n接吻の赤いつぼみが開いた。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.6-10)",
+      "original": "Y aquellas flores castas: las ternuras,\nlas confidencias, al sentirse solas\npor mi abandono, avergonzadas, puras,\nante la flor sangrienta, sus blancuras\nperdieron y cerraron sus corolas.",
+      "provisionalTranslation": "そしてあの純潔な花々──優しさ、\n打ち明け話──は、私に捨てられ\nひとりになったと感じて、恥じ入り、清らかなまま、\n血の花の前でその白さを\n失い、花冠を閉じた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "enojos dando á pudibundas flores,\ncon vivos y purpúreos resplandores,\nse abrió el rojo capullo de los besos.",
+      "body": "「内気な花々を怒らせながら、鮮やかな紫の輝きとともに、接吻の赤いつぼみが開いた（enojos dando á pudibundas flores / con vivos y purpúreos resplandores / se abrió el rojo capullo de los besos）」──詩の中心的形象の提示。「pudibundas flores（内気な花々）」：「pudibundo（内気な・恥じらいのある）」はラテン語「pudibundus」由来の語で、「純潔・羞恥」を体現する花として定義される──これが第2連の「flores castas（純潔な花々）」への伏線。「rojo capullo de los besos（接吻の赤いつぼみ）」：「capullo（つぼみ・繭）」という開花前の形象が「besos（接吻）」の等価として提示される──「Dulce veneno」第4連「¡tu boca está en la boca de un abismo!（君の口は深淵の口の中にある）」の接吻の危険な形象が、「Flor de sangre」では「血の赤いつぼみ」という植物的形象として変奏される。「purpúreos resplandores（紫の輝き）」：「purpúreo（紫・緋色）」という色彩が「El gran crimen」の「carmines de una aurora（暁の緋色）」・「Castigo」の「ráfagas rojizas（赤い閃光）」という詩集の「赤・紫」の色彩語彙系列に加わる。「laberintos（迷路）」：「Himno a la aurora」の「¿De qué jardín sublime / vienes, divina mariposa?（どの崇高な庭から来るのか？）」の「jardín（庭）」が詩集内の反復語として現れるが、「Flor de sangre」では「laberintos más espesos（最も深い迷路）」という危険な迷路を持つ庭として変奏される。",
+      "targetId": "florez_dulce_veneno",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ante la flor sangrienta, sus blancuras\nperdieron y cerraron sus corolas.",
+      "body": "「血の花の前でその白さを失い、花冠を閉じた（ante la flor sangrienta, sus blancuras / perdieron y cerraron sus corolas）」──詩の結語的形象にして「Flor de sangre」のタイトル的形象の確定。「flor sangrienta（血の花）」：タイトル「Flor de sangre（血の花）」が詩末に初めて「花（flor）＋血（sangrienta）」という形容詞的形象として言語化される──詩全体がこの形象に向けて構築されていた。「sus blancuras / perdieron（その白さを失った）」：「blancura（白さ）」という語がフローレスの詩集全体で反復する核心的語彙として機能する──「Astro del alma」の「hecha de nieve（雪でできた）」・「El gran crimen」の「blancura de aquella carne casta（あの貞潔な肉の白さ）」・「Silencio santo」の「blancura ensangrentada（血に染まった白さ）」という「白さ」の系列において、「Flor de sangre」では「白さを失う（blancuras perdieron）」という消失として提示される。「cerraron sus corolas（花冠を閉じた）」：「Oro en polvo」の「deja un polvo de oro en cada rosa（每つのバラに黄金の粉を残す）」という開花した花との対比──「Oro en polvo」では蝶が花を開かせたのに対し、「Flor de sangre」では「血の花」が純潔な花々の花冠を「閉じさせる（cerrar）」という反転をなす。「corola（花冠）」という植物学的語彙が「confidencias（打ち明け話）」・「ternuras（優しさ）」という感情の植物的形象化を完成させる：人間の感情が花として具体化され、その「閉じる（cerrar）」動作が感情の引きこもり・喪失として詩化される。",
+      "targetId": "florez_oro_en_polvo",
+      "targetParagraphId": 1
+    }
+  ]
+}
