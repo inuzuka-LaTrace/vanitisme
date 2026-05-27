@@ -1,0 +1,117 @@
+{
+  "id": "florez_el_gran_crimen",
+  "title": "El gran crimen",
+  "author": "Julio Flórez",
+  "source": "Manojo de zarsas (1906). Wikisource: https://es.wikisource.org/wiki/Manojo_de_zarsas/El_gran_crimen",
+  "year": "1906",
+  "firstPublication": "Manojo de zarsas, Bogotá, 1906",
+  "difficulty": "上級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★☆",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）第二詩集「Manojo de zarsas（茨の束、1906）」所収。「El gran crimen（大いなる罪）」は5段落35行の自由詩であり、シェイクスピア「オセロ（Othello）」の殺害場面を詩的に再演する劇詩（poema dramático）である。詩の構造は映画的な視点の転換として組織される：第1・2段落（デスデモーナの描写──光を放つ星・月の光の中のアネモネ・アスフォデロス・「デスデモーナ！」という劇的認定）→ 第3段落（オセロの描写──嫉妬の王・憎しみと愛の神聖な悪魔・黒い目が恋人の体を眺める・顔に稲妻が走る）→ 第4段落（殺害行為──「私は愛するところを最も傷つける神のようだ」という呟き・短剣の突刺）→ 第5段落（殺害後──血が流れ・オセロが泣く・死者が氷山として暁の緋色の中に浮かぶ・「より大きな罪があるか？」・「彼女は無実だった。そして君は？──見よ：君は生きている！」）。最終行「Era inocente. Y tú? –Ya ves: tú vives!（彼女は無実だった。そして君は？──見よ：君は生きている！）」は読者への突然の二人称の転換によって、詩的主体が読者を「生き残っているオセロ」として告発する逆説的結語をなす。詩集「Cardos y lirios」の「Castigo」（目への短剣の幻想）が「Manojo de zarsas」では「El gran crimen」（実際の殺害）として実現される形象的対応。",
+  "keywords": [
+    "大いなる罪",
+    "El gran crimen",
+    "オセロ",
+    "Otelo",
+    "デスデモーナ",
+    "Desdémona",
+    "嫉妬",
+    "celos",
+    "短剣",
+    "puñal",
+    "白さ",
+    "blancura",
+    "無実",
+    "inocente",
+    "劇詩",
+    "シェイクスピア",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_castigo",
+    "florez_aun",
+    "florez_dulce_veneno",
+    "florez_deshielo",
+    "florez_silencio_santo",
+    "baudelaire_les_bijoux",
+    "trakl_de_profundis",
+    "rossetti_dead_before_death",
+    "silva_ofrenda_a_la_muerte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-6)",
+      "original": "Su pupila brilló como una brasa\nen la tiniebla de su rostro.\nElla,\ncomo tras de una nube nívea estrella,\nparecía irradiar bajo la gasa\nde su túnica grácil:",
+      "provisionalTranslation": "彼の瞳が炭火のように輝いた\n顔の暗闇の中で。\n彼女は、\n雪のような雲の後ろの星のように、\n優雅な衣のガーゼの下で\n光を放つように見えた。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.7-13)",
+      "original": "Era una\nmelancólica anémona\nentre una malla de fulgor de luna:\nun lánguido asfódelo\nque empezaba á dormir... era...\n¡Desdémona?!\nFrágil y blanca, ante la noche: ¡Otelo!",
+      "provisionalTranslation": "彼女は\n月の輝きの網の目の中の\n憂鬱なアネモネだった。\n眠り始めようとしている\n物憂いアスフォデロスだった……それは……\nデスデモーナ！？\n夜の前に、か弱く白く：オセロ！"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.14-22)",
+      "original": "El sultán de los celos implacables,\nel demonio divino\ndel odio y del amor, sus formidables\nojos negros pasea\npor el inmóvil cuerpo venusino\nde su amada?\n¡Su faz relampaguea\ncomo un carbonizado torbellino,\ncomo una tempestad sorda y oscura!",
+      "provisionalTranslation": "容赦なき嫉妬の王、\n憎しみと愛の\n神聖な悪魔が、その強大な\n黒い目を動かす\n愛する者の静止したヴィーナスの体に。\n彼の顔に稲妻が走る、\n炭に焼けた旋風のように、\n重苦しく暗い嵐のように！"
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.23-28)",
+      "original": "–Ah, yo soy como Dios, que siempre hiere\ndonde más ama! con dolor murmura–\ny acerca su puñal a la blancura\nde aquella carne casta, y grita ¡Muere!\n¡Y hunde, hasta la dorada empuñadura,\nla fina hoja que a su mano adhiere!",
+      "provisionalTranslation": "「ああ、私は神のようだ、最も愛するところを\n常に傷つける！」と苦悩して呟く。\nそして短剣をあの貞潔な肉の\n白さに近づけ、叫ぶ──死ね！\nそして金の柄まで、\n手に張り付いた細い刃を突き刺す！"
+    },
+    {
+      "id": 5,
+      "verses": "V (v.29-35)",
+      "original": "¡Ni un ay! La sangre corre. Otelo llora:\ny parece ante Otelo\naquella muerta, un témpano de hielo\nque nada en los carmines de una aurora\n¿Mayor crimen concibes?\n¡Oh, que execrable hora!\nEra inocente. Y tú? –Ya ves: tú vives!",
+      "provisionalTranslation": "一声の嘆きもない！ 血が流れる。オセロが泣く。\nそしてオセロの前にあの死者は\n氷山のように見える、\n暁の緋色の中に漂う。\nより大きな罪が思い浮かぶか？\nああ、なんと忌まわしい時よ！\n彼女は無実だった。そして君は？──見よ：君は生きている！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Su pupila brilló como una brasa\nen la tiniebla de su rostro.",
+      "body": "「彼の瞳が炭火のように輝いた、顔の暗闇の中で（Su pupila brilló como una brasa / en la tiniebla de su rostro）」──詩の開口部が三人称の視点で「彼の瞳（Su pupila）」から始まる：読者はまだ「彼」が誰なのかを知らない。「brasa（炭火・熾火）」：「Resonancias」の「rayo（稲妻）」・「Castigo」の「incendiaria chispa（放火的な火花）」・「Himno a la aurora」の「antorcha（松明）」というフローレスの「火」の語彙系列が、ここでは「オセロの目の中の炭火」として人体内部に局所化される。「tiniebla（暗闇・暗黒）」：「Resonancias」の「negrura（暗黒）」・「De cabeza」の「noche sin fin（終わりなき夜）」という詩集の「暗黒」語彙がオセロの顔の形象として凝縮される。「Castigo」では詩的主体が恋人の「目に短剣を突き刺したい」という幻想を語ったが、「El gran crimen」では逆転する：今度は「目（pupila）が炭火のように輝く」殺害者（オセロ）の視点から詩が始まる──「Castigo」の暴力的幻想が「El gran crimen」では文学的現実（シェイクスピア劇）として実現される。",
+      "targetId": "florez_castigo",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Era una\nmelancólica anémona\nentre una malla de fulgor de luna:\nun lánguido asfódelo\nque empezaba á dormir... era...\n¡Desdémona?!",
+      "body": "「月の輝きの網の目の中の憂鬱なアネモネ……物憂いアスフォデロスだった……デスデモーナ！？（melancólica anémona / entre una malla de fulgor de luna / un lánguido asfódelo / ¡Desdémona?!）」──デスデモーナを二つの花として比喩化した後、「デスデモーナ！？」という感嘆疑問符によって正体を明かす詩的構造。「anémona（アネモネ）」：ギリシア語「ἄνεμος（風）」由来の花──「Himno a la aurora」の「mariposa（蝶）」が風に飛ぶ存在であったように、アネモネも風の花として儚さを体現する。「asfódelo（アスフォデロス・水仙）」：ギリシア神話においてアスフォデロスは死者の国（冥府のアスフォデロスの野）に咲く花──「que empezaba á dormir（眠り始めようとしている）」という形容とともに死への移行を先取りする。「La gran tristeza」の「garza inconsolable（慰めのない鷺）」・「Ave gris」の「mustia y temblorosa（萎れて震える）」・「Astro del alma」の「cáliz marchito de violeta（枯れたスミレの花萼）」というフローレスの「萎れる女性＝花」の形象系列が、「El gran crimen」では「melancolica anémona」・「lánguido asfódelo」として変奏される。「¡Desdémona?!」の感嘆疑問符（¡?）：シェイクスピアの固有名詞が詩の中で感嘆符と疑問符の二重括弧を持って現れる──詩的主体が「そうか、デスデモーナなのか！？」という認識の衝撃を読者に共有させる修辞的装置。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "El sultán de los celos implacables,\nel demonio divino\ndel odio y del amor,",
+      "body": "「容赦なき嫉妬の王、憎しみと愛の神聖な悪魔（El sultán de los celos implacables / el demonio divino / del odio y del amor）」──オセロの二重の定義：「sultán（王・スルタン）」という東洋的・専制的権力の形象と「demonio divino（神聖な悪魔）」という逆説的修辞の組み合わせ。「celos implacables（容赦なき嫉妬）」：「Aún」第1連「de los celos, la copa desabrida（嫉妬という苦い杯）」の「celos（嫉妬）」が詩集を通じて反復する語彙として、「El gran crimen」ではシェイクスピア的嫉妬の最大化として現れる。「demonio divino del odio y del amor（憎しみと愛の神聖な悪魔）」：「De cabeza」の「ángel reo（罪ある天使）」・「Castigo」の嫉妬の暴力的幻想と連動するフローレスの「神聖と悪魔の混合」の形象系列。「¡Su faz relampaguea / como un carbonizado torbellino / como una tempestad sorda y oscura!（顔に稲妻が走る……）」──「Resonancias」第1連「¡Trueno!... Enorme alarido / de la negrura desgarrada（雷よ！……引き裂かれた暗黒の巨大な叫び）」の嵐の形象がオセロの顔の表情として内面化される：「Resonancias」では宇宙的規模の嵐が人間の顔に縮小して再現される。",
+      "targetId": "florez_resonancias",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "–Ah, yo soy como Dios, que siempre hiere\ndonde más ama! con dolor murmura–\ny acerca su puñal a la blancura\nde aquella carne casta, y grita ¡Muere!",
+      "body": "「私は神のようだ、最も愛するところを常に傷つける！（yo soy como Dios, que siempre hiere / donde más ama!）・短剣をあの貞潔な肉の白さに近づける（acerca su puñal a la blancura / de aquella carne casta）」──詩全体の神学的・感情的頂点。「yo soy como Dios, que siempre hiere donde más ama（私は神のようだ、最も愛するところを常に傷つける）」：「Silencio santo」の神義論的問い「¿A qué el dolor que enerva y asesina?（苦痛に何の意味があるのか？）」と「Caos」の「la sinrazón de todo sacrificio（すべての犠牲の不条理）」という詩集の神義論的主題が、オセロの独白として内面化される──「神が愛するところを傷つける」という命題がオセロ自身の殺害行為の神学的正当化として機能する逆説。「la blancura / de aquella carne casta（あの貞潔な肉の白さ）」：「Deshielo」の「mano hecha de nieve（雪でできた手）」・「Silencio santo」の「blancura ensangrentada（血に染まった白さ）」というフローレスの「白さ（blancura）」語彙が、ここでは殺害の対象の純潔さとして提示される──「blancura」が詩集全体を通じて純潔・死・昇華の三属性を帯びる核心的色彩語彙として機能する。「puñal（短剣）」：「Castigo」で「Dos puñales agudos（二本の鋭い短剣）」として詩的主体の幻想に現れた刃が、「El gran crimen」では文学的殺害道具として現実化する。",
+      "targetId": "florez_silencio_santo",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "aquella muerta, un témpano de hielo\nque nada en los carmines de una aurora\n¿Mayor crimen concibes?\n¡Oh, que execrable hora!\nEra inocente. Y tú? –Ya ves: tú vives!",
+      "body": "「死者が氷山のように暁の緋色の中に漂う……彼女は無実だった。そして君は？──見よ：君は生きている！（aquella muerta, un témpano de hielo / que nada en los carmines de una aurora / Era inocente. Y tú? –Ya ves: tú vives!）」──詩の結語的三重の形象。「un témpano de hielo / que nada en los carmines de una aurora（氷山が暁の緋色の中に漂う）」：「Deshielo」の「aquella mano, hecha de nieve（雪でできたあの手）」・「Silencio santo」の「blancura ensangrentada（血に染まった白さ）」というフローレスの「白さと血の混合」語彙の最大的形象──デスデモーナの死体（白い氷山）が血の色（carmines）の中に浮かぶ形象が詩集内の「白と赤の対置」の頂点をなす。「carmines de una aurora（暁の緋色）」：「Himno a la aurora」の「teñidas de oro y rosas（金とバラ色に染まった）」という暁の色彩語彙が、「El gran crimen」では「carmines（緋色）」──血の色としての暁──として変容する。「Era inocente. Y tú? –Ya ves: tú vives!（彼女は無実だった。そして君は？──見よ：君は生きている！）」：詩の最終行による突然の二人称転換（「tú：君」）──詩的主体が読者を「君」として呼び、「君は生きている（tú vives）」という告発的結語として終わる。「Resurrecciones」の「muchas veces en la vida... he muerto（生の中で何度も死んだ）」という「生きながらの死」の逆として「tú vives（君は生きている）」が逆説的告発として機能する：生き続けることが「大いなる罪（el gran crimen）」として暗示される。",
+      "targetId": "florez_deshielo",
+      "targetParagraphId": 4
+    }
+  ]
+}
