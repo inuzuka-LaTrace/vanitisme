@@ -1,0 +1,250 @@
+{
+  "id": "hieronymus_apocalypsis_3",
+  "title": "Apocalypsis, Caput III",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput III. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+3&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★",
+  "context": "ヨハネの黙示録第3章。七つの教会書簡の後半三つ──サルデス（v.1–6）・フィラデルフィア（v.7–13）・ラオディキア（v.14–22）──への書簡群。第2章との連続において七つの書簡全体が完結する。三つの書簡はそれぞれ異なる神学的問題を提示する。サルデスへの書簡（v.1–6）は「名前は生きているが実は死んでいる（nomen habes quod vivas, et mortuus es）」という外見と実質の乖離を告発する──Ecclesiastes的な「虚名（vanitas nominis）」の告発として位置づけられる。フィラデルフィアへの書簡（v.7–13）は七書簡中唯一の叱責なき純粋な励ましの書簡であり、「開かれた門（ostium apertum）」・「クライ・ダヴィデの鍵（clavem David）」という空間的・権能的形象を中心とする。ラオディキアへの書簡（v.14–22）は第3章の、さらには七書簡全体の神学的頂点として機能する。「neque frigidus es, neque calidus（冷たくも熱くもない）」という霊的中庸への厳しい叱責、「aurum ignitum probatum（火で精錬された金）」という試練の錬金術的形象、「Ecce sto ad ostium, et pulso（見よ、私は戸口に立って叩く）」という神の求愛的訪問の形象、そして「dabo ei sedere mecum in throno meo（私の御座に共に座らせよう）」という最終的な約束。この最後の書簡はVANITISMEコーパスにおいて、Iob第1章の試練論・Ecclesiastesの虚無論・Simone Weilの「脱創造（Décréation）」論が終末論的・神学的に統合される場として機能する。",
+  "keywords": [
+    "nomen habes quod vivas et mortuus es",
+    "liber vitae",
+    "clavis David",
+    "ostium apertum",
+    "neque frigidus neque calidus",
+    "aurum ignitum probatum",
+    "Ecce sto ad ostium",
+    "thronus",
+    "サルデス",
+    "フィラデルフィア",
+    "ラオディキア"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_1",
+    "hieronymus_apocalypsis_2",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_dressage",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et angelo ecclesiae Sardis scribe: Haec dicit qui habet septem spiritus Dei, et septem stellas: Scio opera tua, quia nomen habes quod vivas, et mortuus es.",
+      "provisionalTranslation": "サルデスの教会の御使いに書き記せ。「神の七つの霊と七つの星を持つ方がこう言われる。私はあなたの行いを知っている。あなたは生きているという名を持っているが、実は死んでいる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Esto vigilans, et confirma cetera, quae moritura erant. Non enim invenio opera tua plena coram Deo meo.",
+      "provisionalTranslation": "「目を覚まし、残りのものを──死にかけているものを──強めなさい。私は神の前であなたの行いが完全であると認めない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "In mente ergo habe qualiter acceperis, et audieris, et serva, et poenitentiam age. Si ergo non vigilaveris, veniam ad te tamquam fur et nescies qua hora veniam ad te.",
+      "provisionalTranslation": "「それゆえ、あなたがどのように受け取り、聴いたかを心に留めて守り、悔い改めなさい。もし目を覚まさなければ、私は盗人のようにあなたのところに来る。あなたは私がどの時刻に来るかを知らないであろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Sed habes pauca nomina in Sardis qui non inquinaverunt vestimenta sua: et ambulabunt mecum in albis, quia digni sunt.",
+      "provisionalTranslation": "「しかしサルデスには、その衣を汚さなかった者たちの名がいくつかある。彼らはふさわしい者たちであるから、白い衣を着て私とともに歩む。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Qui vicerit, sic vestietur vestimentis albis, et non delebo nomen ejus de libro vitae, et confitebor nomen ejus coram Patre meo, et coram angelis ejus.",
+      "provisionalTranslation": "「勝利を得る者は、このように白い衣を着る。また私は彼の名を命の書から消すことなく、私の父の前で、また御使いたちの前で彼の名を告白する。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et angelo Philadelphiae ecclesiae scribe: Haec dicit Sanctus et Verus, qui habet clavem David: qui aperit, et nemo claudit: claudit, et nemo aperit:",
+      "provisionalTranslation": "フィラデルフィアの教会の御使いに書き記せ。「聖にして真なる者、ダヴィデの鍵を持つ者──開けば誰も閉じることができず、閉じれば誰も開くことができない者がこう言われる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Scio opera tua. Ecce dedi coram te ostium apertum, quod nemo potest claudere: quia modicam habes virtutem, et servasti verbum meum, et non negasti nomen meum.",
+      "provisionalTranslation": "「私はあなたの行いを知っている。見よ、私はあなたの前に開かれた門を置いた。誰もそれを閉じることができない。あなたは少しの力しか持っていないが、私の言葉を守り、私の名を否まなかった。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Ecce dabo de synagoga Satanae, qui dicunt se Judaeos esse, et non sunt, sed mentiuntur: ecce faciam illos ut veniant, et adorent ante pedes tuos: et scient quia ego dilexi te,",
+      "provisionalTranslation": "「見よ、ユダヤ人と称するが実はそうでなく偽りを言う、サタンの会堂の者たちを──見よ、私は彼らをして来させ、あなたの足もとに礼拝させよう。そして私があなたを愛したことを彼らは知るであろう。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "quoniam servasti verbum patientiae meae, et ego servabo te ab hora tentationis, quae ventura est in orbem universum tentare habitantes in terra.",
+      "provisionalTranslation": "「あなたが私の忍耐の言葉を守ったので、地に住む者たちを試みるために全世界に来ようとしている試みの時から、私もあなたを守る。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Ecce venio cito: tene quod habes, ut nemo accipiat coronam tuam.",
+      "provisionalTranslation": "「見よ、私はすぐに来る。誰もあなたの冠を奪えないように、あなたの持っているものを堅く保持していなさい。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Qui vicerit, faciam illum columnam in templo Dei mei, et foras non egredietur amplius: et scribam super eum nomen Dei mei, et nomen civitatis Dei mei novae Jerusalem, quae descendit de caelo a Deo meo, et nomen meum novum.",
+      "provisionalTranslation": "「勝利を得る者を、私は私の神の神殿の柱とする。彼はもはや決して外に出ることがない。また私は彼の上に、私の神の名と、天から神のもとを出て下ってくる私の神の都、新しいエルサレムの名と、私の新しい名を書き記す。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et angelo Laodiciae ecclesiae scribe: Haec dicit: Amen, testis fidelis et verus, qui est principium creaturae Dei.",
+      "provisionalTranslation": "ラオディキアの教会の御使いに書き記せ。「アーメン、真実で誠実な証人、神の創造の始まりである方がこう言われる。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Scio opera tua: quia neque frigidus es, neque calidus: utinam frigidus esses, aut calidus:",
+      "provisionalTranslation": "「私はあなたの行いを知っている。あなたは冷たくも熱くもない。あなたが冷たいか熱いかであればよいのだが。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "sed quia tepidus es, et nec frigidus, nec calidus, incipiam te evomere ex ore meo:",
+      "provisionalTranslation": "「しかし、あなたは生温く、冷たくも熱くもないので、私はあなたを口から吐き出そうとしている。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "quia dicis: Quod dives sum, et locupletatus, et nullius egeo: et nescis quia tu es miser, et miserabilis, et pauper, et caecus, et nudus.",
+      "provisionalTranslation": "「あなたは『私は富んでおり、豊かになった。何も必要としない』と言っているが、あなたは自分が惨めで、哀れで、貧しく、盲目で、裸であることを知らない。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Suadeo tibi emere a me aurum ignitum probatum, ut locuples fias, et vestimentis albis induaris, et non appareat confusio nuditatis tuae, et collyrio inunge oculos tuos ut videas.",
+      "provisionalTranslation": "「私はあなたに勧める。富もうとするなら、私から火で精錬された金を買いなさい。また白い衣を買って着なさい。裸の恥が現れないように。また目が見えるようになるために目薬を目に塗りなさい。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Ego quos amo, arguo, et castigo. AEmulare ergo, et poenitentiam age.",
+      "provisionalTranslation": "「私は愛する者を叱責し、訓練する。それゆえ熱心になり、悔い改めなさい。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Ecce sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi januam, intrabo ad illum, et coenabo cum illo, et ipse mecum.",
+      "provisionalTranslation": "「見よ、私は戸口に立って叩いている。誰でも私の声を聞いて戸を開ける者があれば、私は彼のところに入って彼とともに食事をし、彼も私とともに食事をするであろう。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Qui vicerit, dabo ei sedere mecum in throno meo: sicut et ego vici, et sedi cum Patre meo in throno ejus.",
+      "provisionalTranslation": "「勝利を得る者には、私とともに私の御座に座ることを許そう。ちょうど私も勝利を得て、父とともに父の御座に座ったように。"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Qui habet aurem, audiat quid Spiritus dicat ecclesiis.",
+      "provisionalTranslation": "「耳ある者は、霊が諸教会に言うことを聞け。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "nomen habes quod vivas, et mortuus es.",
+      "body": "「生きているという名を持っているが、実は死んでいる（nomen habes quod vivas, et mortuus es）」──サルデスへの書簡の核心命題。「名前（nomen）」と「実質（existentia）」の根本的乖離の告発。七書簡中で最も厳しい叱責の一つ：賞賛の要素が全くなく、叱責のみが先行する。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」との照応：コヘレトが名前（記憶）の消滅を叙述するのに対し、黙示録は名前の継続的存在がその内実（生命）の消滅を覆い隠す偽りの存在様態として批判する。「mortuus es（死んでいる）」という現在形は霊的死亡という診断であり、Iob第1章の肉体的試練の死とは異なる内面的消滅を示す。ヴェイユ「Décréation」での「自我という幻想の脱落」という命題が、この「名前だけが残り生命が消えた」という状態の逆転として位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "veniam ad te tamquam fur et nescies qua hora veniam ad te.",
+      "body": "「私は盗人のようにあなたのところに来る（veniam ad te tamquam fur）」──終末論的来臨の不意打ちという形象。「tamquam fur（盗人のように）」：来臨の時刻の不知（nescies qua hora）と組み合わさって、準備なき者への突然の審判を定式化する。イエスの終末論的語録（Matth. 24:43「家の主人は盗人がどの時刻に来るかを知っていたなら」）の引用。Apocalypsis第1章v.10「fui in spiritu in Dominica die（主の日に御霊に感じ）」における啓示受容の時間的特定と対称的：ヨハネは「主の日」に備えて（または突然に）啓示を受けたのに対し、目を覚まさない者は「盗人」の侵入という形で来臨を経験する。「tamquam fur」という比喩がApocalypsis第2章v.5の「movebo candelabrum tuum de loco suo（燭台をその場所から取り除く）」という段階的な警告から、より急進的な脅威の形象へと移行していることを示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "non delebo nomen ejus de libro vitae, et confitebor nomen ejus coram Patre meo",
+      "body": "「命の書（liber vitae）」──黙示録における核心的概念（Apoc. 13:8・17:8・20:12・21:27にも登場）。「命の書から消すことなく（non delebo de libro vitae）」：二重否定による永続的な記名の約束。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という人間的記憶の消滅の命題に対し、「liber vitae」は神的記憶における名の永続として応答する。「confitebor nomen ejus coram Patre meo（父の前で彼の名を告白する）」：「名の告白（confessio nominis）」という行為が終末論的法廷における弁護として機能する。v.1「nomen habes quod vivas, et mortuus es（名前は生きているが死んでいる）」という空洞化した名と、「liber vitae（命の書）」に記された名との対比が章全体の名を巡る神学を形成する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "qui habet clavem David: qui aperit, et nemo claudit: claudit, et nemo aperit",
+      "body": "「ダヴィデの鍵を持つ者──開けば誰も閉じることができず、閉じれば誰も開くことができない（clavem David: qui aperit, et nemo claudit）」──Apocalypsis第1章v.18「habeo claves mortis, et inferni（死と黄泉の鍵を持っている）」との照応。「clavis David（ダヴィデの鍵）」：イザヤ書第22章v.22「ダヴィデの家の鍵を彼の肩に置く（clavem domus David ponam super humerum ejus）」の終末論的引用。「開く」と「閉じる」という二つの行為が同一の主体（qui）によって排他的に掌握される絶対的権能の定式。「aperit, et nemo claudit: claudit, et nemo aperit」という逆並列構造（chiasm）が権能の完全性を文体的に実演する。Apocalypsis第3章v.8「ostium apertum（開かれた門）」はこの「clavis David」の権能の具体的な行使として位置づけられる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "faciam illum columnam in templo Dei mei, et foras non egredietur amplius",
+      "body": "「勝利を得る者を神殿の柱とする（columnam in templo Dei mei）」──フィラデルフィア教会への約束の空間的形象。「columna（柱）」：建築的支柱としての柱が共同体的・神学的安定の象徴として機能する。「foras non egredietur amplius（もはや決して外に出ることがない）」：流刑・迫害・追放という地上的状況（Apocalypsis第1章v.9「fui in insula quae appellatur Patmos（パトモス島にいた）」）の終末論的逆転──外への排除が内への永続的定着として反転される。「nomen Dei mei」・「nomen civitatis Dei mei novae Jerusalem」・「nomen meum novum」という三つの名が書き記される約束：名の三重の付与がApocalypsis第2章v.17「nomen novum scriptum（新しい名が記されている）」の単一の名の約束を超える拡張として機能する。「nova Jerusalem（新しいエルサレム）」：Apocalypsis第21章への先行的言及として、書簡群の末尾がすでに第21–22章の新天新地のヴィジョンを予告する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "neque frigidus es, neque calidus: utinam frigidus esses, aut calidus",
+      "body": "「冷たくも熱くもない（neque frigidus es, neque calidus）──あなたが冷たいか熱いかであればよいのだが」──七書簡中最も厳しい叱責の形象。「tepidus（生温い）」という中間状態が冷たさ・熱さという明確な極性よりも劣るという逆説的価値評価。神学的文脈では：「冷たさ（frigidus）」は信仰を持たないことを知っている状態、「熱さ（calidus）」は積極的な信仰の状態、「生温さ（tepidus）」は自己満足した虚偽の宗教的充足の状態として解釈される。Ecclesiastes第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という不飽和性──コヘレトでは否定的に捉えられた渇望が──黙示録では「熱さ（calidus）」という積極的な信仰の姿勢として肯定される。ヴェイユ「Accepter le vide」での「偽の充足（faux bien）」という概念：ラオディキア的な「自己充足した虚偽の豊かさ」が「偽の充足」の典型例として読める。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "nescis quia tu es miser, et miserabilis, et pauper, et caecus, et nudus.",
+      "body": "「あなたは自分が惨めで、哀れで、貧しく、盲目で、裸であることを知らない（miser, et miserabilis, et pauper, et caecus, et nudus）」──五重の否定的自己認識の告発。「nescis（知らない）」という無知の診断が全五項目の前提として機能する：ラオディキアの問題は欠如そのものではなく、欠如の不認識にある。「nudus（裸）」という語がIob第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で母の胎から出た、裸で戻ろう）」のヨブの「裸の認識」と対称的に照応する：ヨブは剥奪を通じて「裸」を認識したのに対し、ラオディキアは豊かさの幻想の中で「裸」を認識できない。「caecus（盲目）」という語が「collyrio inunge oculos tuos ut videas（目薬を目に塗り、見えるようになるために）」（v.18）の命令の前提として機能する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 18,
+      "type": "glossary",
+      "anchor": "Suadeo tibi emere a me aurum ignitum probatum",
+      "body": "「私から火で精錬された金を買いなさい（aurum ignitum probatum）」──ラオディキアへの書簡における錬金術的・試練論的形象の核心。「aurum ignitum probatum（火で精錬され試されたた金）」：火による精錬という試練のイメージがIob第1章のサタンによる試練、Ecclesiastes第1章v.13「occupationem pessimam（最も過酷な営み）」の知的試練と照応する──試練が純化の手段として機能するという共通の神学的構造。「a me emere（私から買う）」という商業的メタファー：神が売り主であり、買い主（信者）は代価として何を支払うのかは明示されない──暗示される代価は「tepiditas（生温さ）」の放棄、すなわち自己満足の放棄。ヴェイユ「Dressage（訓練）」章の「神は苦難を通じて人間を精錬する」という命題が、「aurum ignitum probatum」という黙示録的形象の哲学的反響として位置づけられる。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Ego quos amo, arguo, et castigo.",
+      "body": "「私は愛する者を叱責し、訓練する（Ego quos amo, arguo, et castigo）」──第3章の、さらには七書簡全体の神学的要約命題。「arguo（叱責する）」・「castigo（訓練・懲らしめる）」という二動詞が「quos amo（愛する者たちを）」という関係節によって「愛」の結果として定義される：叱責と訓練が愛の行為であるという逆説。箴言第3章v.12「主は愛する者を叱責する（quem enim diligit Dominus corripit）」の引用。Iob第1章全体の試練論の神学的定式化：ヨブへの試練が「神の愛の行為」であるという解釈の聖書的根拠。ヴェイユ「Dressage（訓練）」章の「神は苦難を通じて人間を精錬する」という命題が、この「arguo et castigo」の哲学的展開として読める。第2章v.4「caritatem tuam primam reliquisti（最初の愛を失った）」という告発が、ここでは「Ego quos amo（私が愛する者たちを）」という神の側の愛の確言によって神学的に完結する。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Ecce sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi januam, intrabo ad illum, et coenabo cum illo, et ipse mecum.",
+      "body": "「見よ、私は戸口に立って叩いている（Ecce sto ad ostium, et pulso）」──七書簡全体の感情的頂点をなす、黙示録第3章の最も広く引用される節。「Ecce（見よ）」という提示の命令が緊張感を高める：「sto（立っている）」という現在形が今まさに起きている行為の継続的現在として機能する。「pulso（叩く）」──ノックするという日常的・親密な行為が神の求愛的訪問の形象として使われることの逆説。「si quis audierit vocem meam（誰でも私の声を聞くなら）」という仮定節：義務・命令ではなく、聴く者への条件付き招待として定式化される。「coenabo cum illo（彼と食事をする）」：食卓の共有という極めて親密な共同性の約束。Apocalypsis第2章v.7「Vincenti dabo edere de ligno vitae（命の木の実を食べさせよう）」の食べることの約束と、ここでの「ともに食事をする」という相互的交わりの約束が七書簡の食の神学を完成させる。フィラデルフィアへの書簡v.8「ostium apertum（開かれた門）」が神の側から開く門であるのに対し、ラオディキアへの「ostium（戸口）」は人間の側から開かれるべき戸口として対称をなす。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Qui vicerit, dabo ei sedere mecum in throno meo: sicut et ego vici, et sedi cum Patre meo in throno ejus.",
+      "body": "「勝利を得る者には、私とともに私の御座に座ることを許そう（dabo ei sedere mecum in throno meo）」──七書簡全体の最後の「勝利者への約束」定式にして最大の約束。七書簡における約束の段階的上昇が完結する：命の木の実（Apoc. 2:7）→命の冠（2:10）→隠されたマンナ・白い石（2:17）→明けの明星（2:28）→白い衣・命の書（3:5）→神殿の柱・三重の名（3:12）→御座に共に座る（3:21）。「sicut et ego vici, et sedi cum Patre meo in throno ejus（私も勝利を得て、父の御座に座ったように）」という類比：約束されることがキリスト自身の「勝利と即位」の先例に基づく、つまり人間の終末論的参与がキリストの先行例によって保証される構造。Ecclesiastes第1章v.1「regis Jerusalem（エルサレムの王）」というダヴィデの子の地上的王権が、「in throno meo（私の御座に）」という終末論的王権によって超越的に反転される：地上の王冠の「vanitas」が御座への参与という「non-vanitas」として応答される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
