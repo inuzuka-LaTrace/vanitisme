@@ -1,0 +1,107 @@
+{
+  "id": "florez_oh_muerte",
+  "title": "¡Oh muerte!",
+  "author": "Julio Flórez",
+  "source": "Manojo de zarsas (1906). Wikisource: https://es.wikisource.org/wiki/Manojo_de_zarsas/%C2%A1Oh_muerte!",
+  "year": "1906",
+  "firstPublication": "Manojo de zarsas, Bogotá, 1906",
+  "difficulty": "中級",
+  "category": "florez",
+  "originalLang": "es-ES",
+  "modernRelevance": "★★★★★",
+  "context": "フリオ・フローレス（Julio Flórez, 1867–1923）第二詩集「Manojo de zarsas（茨の束、1906）」所収。「¡Oh muerte!（ああ、死よ！）」は4-4-3-3行のソネット形式であり、詩集「Cardos y lirios」・「Manojo de zarsas」全体を通じてフローレスが死に対して示してきた態度の哲学的総括として機能する。詩は死への「愛せよ（Amad la muerte, amadla...）」という命令形の呼びかけで始まる──「Cardos y lirios」の「Mi tumba」の「地下ではなく地上に埋めよ」という遺言詩・「Caos」の「死の前でも震えない強い人間」という定義から一歩進んで、「¡Oh muerte!」では死を積極的に「愛せよ」という命令として発せられる。詩の構造：第1連（死への愛の命令──沈黙の道への案内・苦さを殺す）→ 第2連（「なぜ皆は死を不敬と呼ぶのか？ 臨終に接吻し、墓に閨を与えるのに」）→ 第3連（「死は炎の灰・振動するものの非存在・快楽にも不幸にも黙して愛する」）→ 第4連（「痛みを殺す眠り・害から守る静けさ・花の母なる大地」）。「La Muerte es la ceniza de la llama（死は炎の灰）」・「el 'no ser' de lo que vibra（振動するものの非存在）」・「la tierra qu'es madre de las flores（花の母なる大地）」という三つの定義が詩集全体の死の形象群──「Astro del alma」の涙の昇華・「Mi tumba」の自然の礼拝堂・「En el cementerio」の「¡nada!」──を哲学的に統合する。",
+  "keywords": [
+    "死よ",
+    "Oh muerte",
+    "死への愛",
+    "沈黙",
+    "臨終",
+    "agonía",
+    "墓",
+    "sepultura",
+    "炎の灰",
+    "ceniza de la llama",
+    "非存在",
+    "no ser",
+    "眠り",
+    "sueño",
+    "大地",
+    "tierra",
+    "ソネット",
+    "Manojo de zarsas",
+    "モデルニスモ",
+    "コロンビア",
+    "フローレス"
+  ],
+  "relatedTexts": [
+    "florez_mi_tumba",
+    "florez_caos",
+    "florez_silencio_santo",
+    "florez_en_el_cementerio",
+    "florez_deshielo",
+    "florez_astro_del_alma",
+    "florez_la_gran_tristeza",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "dowson_a_requiem",
+    "rossetti_sweet_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I (v.1-4)",
+      "original": "Amad la muerte, amadla... Ella procura\nel supremo descanso, ella nos guía\nen el camino del silencio, es fría\npero buena;...ella mata l'amargura.",
+      "provisionalTranslation": "死を愛せよ、愛せよ……彼女は\n至高の安息をもたらし、私たちを導く\n沈黙の道へと。冷たいが\n善い……彼女は苦さを殺す。"
+    },
+    {
+      "id": 2,
+      "verses": "II (v.5-8)",
+      "original": "¡Ella es la maga de la sombra... es pura\ny eterna... y todos la llamaís impía.\n¿Por qué? ¿por qué nos besa en l'agonía,\ny un tálamo nos da en la sepultura?",
+      "provisionalTranslation": "彼女は闇の魔法使い……純粋で\n永遠……しかし皆は彼女を不敬と呼ぶ。\nなぜ？ なぜ臨終に接吻し、\n墓の中に閨を与えるのに？"
+    },
+    {
+      "id": 3,
+      "verses": "III (v.9-11)",
+      "original": "La Muerte es la ceniza de la llama;\nes el «no ser» de lo que vibra; muda\nante el placer o el infortunio, ama:",
+      "provisionalTranslation": "死は炎の灰である。\nそれは振動するものの「非存在」。黙して\n快楽にも不幸にも、愛する："
+    },
+    {
+      "id": 4,
+      "verses": "IV (v.12-14)",
+      "original": "El sueño, matador de los dolores;\nla calma, que del daño nos escuda,\ny la tierra qu'es madre de las flores.",
+      "provisionalTranslation": "痛みを殺す眠りを。\n害から私たちを守る静けさを。\nそして花の母なる大地を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Amad la muerte, amadla... Ella procura\nel supremo descanso, ella nos guía\nen el camino del silencio,",
+      "body": "「死を愛せよ、愛せよ……至高の安息をもたらし、沈黙の道へと導く（Amad la muerte, amadla / el supremo descanso / en el camino del silencio）」──詩の開口部が「amadla（愛せよ）」という命令形の二重反復で始まる：フローレスの詩集において死は「恐怖（De cabeza）」・「追悼（Astro del alma・Deshielo）」・「問い（La gran tristeza・En el cementerio・Silencio santo）」・「格上げ（Mi tumba）」・「恐怖の克服（Caos）」という多様な形象で現れてきたが、「¡Oh muerte!」では「愛の対象」として正面から命令される。「ella mata l'amargura（彼女は苦さを殺す）」：「l'amargura（苦さ）」の縮約形「l'」が詩のモデルニスモ的音楽性を示す。「Dulce veneno」の「miel（蜜）」と「veneno（毒）」・「heces（澱）」という味覚語彙の系列が、「¡Oh muerte!」では「amargura（苦さ）を死が殺す」という逆転として変奏される。「el camino del silencio（沈黙の道）」：「Silencio santo（聖なる沈黙）」・「Aún」の「me alejo mudo（黙って遠ざかる）」・「La gran tristeza」の「¡Silencio, ni un ruido!」というフローレスの沈黙の語彙系列が、ここでは死が案内する「道（camino）」として定義される。",
+      "targetId": "florez_silencio_santo",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "¿Por qué? ¿por qué nos besa en l'agonía,\ny un tálamo nos da en la sepultura?",
+      "body": "「なぜ臨終に接吻し、墓の中に閨を与えるのに？（¿por qué nos besa en l'agonía / y un tálamo nos da en la sepultura?）」──「besa（接吻する）」という動詞が詩集の「接吻」語彙系列に接続する：「Dulce veneno」の官能的接吻・「Lejos」の「beso difunto（死んだ接吻）」・「Deshielo」の死者の手への接吻・「Silencio santo」のユダ的接吻という系列において、「¡Oh muerte!」では「死（la Muerte）」が臨終に接吻する擬人的存在として提示される。「tálamo（閨・花嫁の寝台）」：婚礼の寝台を意味するギリシア語由来の詩語が「sepultura（墓）」と結合する──墓が「死との婚礼の閨」として定義される：「Mi tumba」の「lecho de caoba（マホガニーの寝台）」として棺を暗示した語彙が、「¡Oh muerte!」では「tálamo（婚礼の寝台）」として明示的に婚姻の形象として提示される。「¡Ella es la maga de la sombra（彼女は闇の魔法使い）」：「maga（魔法使い・女魔法師）」という語が死を女性として擬人化する──詩集全体を通じて死が女性として現れる系列（死んだ花嫁・デスデモーナ・未亡人の鷺）の哲学的抽象化。",
+      "targetId": "florez_deshielo",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "La Muerte es la ceniza de la llama;\nes el «no ser» de lo que vibra; muda\nante el placer o el infortunio, ama:",
+      "body": "「死は炎の灰・振動するものの非存在・黙して愛する（La Muerte es la ceniza de la llama / es el 'no ser' de lo que vibra / muda / ante el placer o el infortunio, ama）」──詩全体の哲学的核心をなす三重の死の定義。「ceniza de la llama（炎の灰）」：「Himno a la aurora」の「¡te quemes en la antorcha de los cielos!（天の松明で焼け焦げる）」・「Resonancias」の「chispa（火花）」・「El gran crimen」の「brasa（炭火）」というフローレスの「火」語彙系列において、「ceniza（灰）」は燃焼の終点として定義される：「炎の灰」という定義が「炎（llama）＝生」→「灰（ceniza）＝死」という変容の弧を一語に凝縮する。「el 'no ser' de lo que vibra（振動するものの非存在）」：「'no ser'（非存在）」という哲学的語彙──ハイデガー的な「無（Nichts）」・コヘレト「Vanitas（虚無）」の哲学的等価として機能する。「lo que vibra（振動するもの）」という生の定義：生を「振動（vibración）」として定義し、死をその「非存在（no ser）」として定義する──「Lejos」の「hálito ardiente（熱い息吹き）」・「Flor de sangre」の「lo que vibra」という生の動的形象の消滅として死が定義される。「muda / ante el placer o el infortunio（快楽にも不幸にも黙して）」：「Caos」の「la inmutabilidad de las estrellas（星々の不動性）」という宇宙的無関心が、「¡Oh muerte!」では死の「黙した愛（muda... ama）」として再定義される──無関心（Caos）から愛する沈黙（¡Oh muerte!）へという死の形象の感情的転換。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "El sueño, matador de los dolores;\nla calma, que del daño nos escuda,\ny la tierra qu'es madre de las flores.",
+      "body": "「痛みを殺す眠り・害から守る静けさ・花の母なる大地（El sueño, matador de los dolores / la calma, que del daño nos escuda / y la tierra qu'es madre de las flores）」──詩の結語的三連の形象。「El sueño, matador de los dolores（痛みを殺す眠り）」：「sueño（眠り）」が「死」の婉曲として機能する──「Astro del alma」の「duerme（眠る）」・「La gran tristeza」の「que empezaba á dormir（眠り始めようとしている）」・「Caos」の「sopor del infinito（無限の眠気）」という詩集の「眠り＝死」の語彙系列の哲学的整理として「¡Oh muerte!」は機能する。「la tierra qu'es madre de las flores（花の母なる大地）」：縮約形「qu'es（que es）」の音楽的省略が詩末のリズムを整える。「madre de las flores（花の母）」：コヘレト第1章「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り、世代は来る──しかし大地は永遠に立ち続ける）」の「大地の永続性」がフローレスでは「花の母なる大地」として生命の循環的肯定として変奏される。「Himno a la aurora」で暁の蝶が「全世界に黄金の粉を撒き散らす」という花への恩賜と対称的に、「¡Oh muerte!」では「大地が花を産む母」として死が生の循環的根拠として定義される──フローレスの詩集における死と花の最終的等置。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
