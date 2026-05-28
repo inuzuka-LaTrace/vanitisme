@@ -1,0 +1,270 @@
+{
+  "id": "hieronymus_apocalypsis_6",
+  "title": "Apocalypsis, Caput VI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput VI. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+6&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第6章。第5章で小羊（Agnus）が受け取った書物の封印が順次に開封され、それに応じて地上に定められた禍の展開が記述される。第1封印（v.1–2）白馬の騎者「弓と冠（arcus et corona）を持ち勝利を得た者」。第2封印（v.3–4）赤馬の騎者「地から平和を奪い、大いなる剣（gladius magnus）を与えられた者」。第3封印（v.5–6）黒馬の騎者「天秤（statera）を持つ者」と小麦・大麦の価格言語。第4封印（v.7–8）青白馬（equus pallidus）の騎者「その名は死（Mors）」と黄泉の国（infernus）の追随。第5封印（v.9–11）祭壇の下の殉教者たちの魂とその訴え声。第6封印（v.12–17）大地震・黒い太陽・血の月・天の星の落下・天の巻き収まり・山と島の移動・山と岩への逃避と終わる大禍の冒頭。VANITISMEコーパスにおける位置づけ：第6章はApocalypsis全体の地上的灰滅の展開の第一段として機能する。四騎士（quatuor equites）は西洋絵画・文学・哲学における黙示録的想像力の最も広く共有された象徴体系であり、ブリューソフ「白馬（Kon Bled）」との直接的なintertextual連結を持つ。Ecclesiastes第1章の「循環と虚無」は第6章の「封印開封による破局の連鎖」と対照的に位置づけられる。第6封印v.17「quis poterit stare（誰が立っていられるか）」という問いは、Ecclesiastes第1章v.3「Quid habet amplius homo（人は何を得るのか）」との対称として読める：宇宙的彼岸への問いの終わりに答えなきまま第6章は閉じる。",
+  "keywords": [
+    "quatuor equites",
+    "equus albus",
+    "equus rufus",
+    "equus niger",
+    "equus pallidus",
+    "Mors et infernus",
+    "dies magnus irae",
+    "quis poterit stare",
+    "四騎士",
+    "封印開封"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_5",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "bryusov_kon_bled",
+    "weil_la_violence",
+    "weil_necessite",
+    "trakl_abendlaendisches_lied",
+    "trakl_grodek",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi quod aperuisset Agnus unum de septem sigillis, et audivi unum de quatuor animalibus, dicens tamquam vocem tonitrui: Veni, et vide.",
+      "provisionalTranslation": "小羊が七つの封印のうちの一つを開いたのを私は見た。すると四つの生き物のうちの一つが雷鳴のような声で言うのを聞いた。「来て、見よ。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et vidi: et ecce equus albus, et qui sedebat super illum, habebat arcum, et data est ei corona, et exivit vincens ut vinceret.",
+      "provisionalTranslation": "私は見た。すると白い馬がいた。それに乗る者は弓を持ち、冠を与えられて、勝利を得てさらに勝利を得るために出て行った。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et cum aperuisset sigillum secundum, audivi secundum animal, dicens: Veni, et vide.",
+      "provisionalTranslation": "小羊が第二の封印を開いたとき、第二の生き物が言うのを私は聞いた。「来て、見よ。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et exivit alius equus rufus: et qui sedebat super illum, datum est ei ut sumeret pacem de terra, et ut invicem se interficiant, et datus est ei gladius magnus.",
+      "provisionalTranslation": "別の赤い馬が出て行った。それに乗る者は地から平和を奪い、人々が互いに殺し合うようにすることを許され、大いなる剣を与えられた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et cum aperuisset sigillum tertium, audivi tertium animal, dicens: Veni, et vide. Et ecce equus niger: et qui sedebat super illum, habebat stateram in manu sua.",
+      "provisionalTranslation": "小羊が第三の封印を開いたとき、第三の生き物が言うのを私は聞いた。「来て、見よ。」すると黒い馬がいた。それに乗る者は手に平切りを持っていた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et audivi tamquam vocem in medio quatuor animalium dicentium: Bilibris tritici denario et tres bilibres hordei denario, et vinum, et oleum ne laeseris.",
+      "provisionalTranslation": "そして私は四つの生き物の中から声のようなものを聞いた。「小麦一リトルは一デナリウス、大麦三リトルは一デナリウス。ワインとオリーブ油を傷つけるな。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et cum aperuisset sigillum quartum, audivi vocem quarti animalis dicentis: Veni, et vide.",
+      "provisionalTranslation": "小羊が第四の封印を開いたとき、第四の生き物の声が言うのを私は聞いた。「来て、見よ。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et ecce equus pallidus: et qui sedebat super eum, nomen illi Mors, et infernus sequebatur eum, et data est illi potestas super quatuor partes terrae, interficere gladio, fame, et morte, et bestiis terrae.",
+      "provisionalTranslation": "すると青白い馬がいた。それに乗る者の名は「死」であり、黄泉の国が後に従っていた。剣と飢えと死と地の野獣によって地の四分の一の人々を殺す権能を与えられた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et cum aperuisset sigillum quintum, vidi subtus altare animas interfectorum propter verbum Dei, et propter testimonium, quod habebant:",
+      "provisionalTranslation": "小羊が第五の封印を開いたとき、私は祭壇の下に、神の言葉と自分たちの持っていた証しのために殺された人々の魂を見た。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et clamabant voce magna, dicentes: Usquequo Domine (sanctus et verus), non judicas, et non vindicas sanguinem nostrum de iis qui habitant in terra?",
+      "provisionalTranslation": "彼らは大声で叫んで言った。「聖にして真実なる主よ、いつまであなたは裁きを行わず、地に住む者たちに対して私たちの血の仇を返さないのですか。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et datae sunt illis singulae stolae albae: et dictum est illis ut requiescerent adhuc tempus modicum donec compleantur conservi eorum, et fratres eorum, qui interficiendi sunt sicut et illi.",
+      "provisionalTranslation": "彼らの一人一人に白い衣を与えられ、彼らの代わりの者たちと兄弟たち——彼らと同じように殺されるべき者たちの数が満ちるまで、もうしばらく安息するようにと言われた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et vidi cum aperuisset sigillum sextum: et ecce terraemotus magnus factus est, et sol factus est niger tamquam saccus cilicinus: et luna tota facta est sicut sanguis:",
+      "provisionalTranslation": "小羊が第六の封印を開いたのを私は見た。すると大地震が起き、太陽は毛織りの袋布のように黒くなり、月は血のようになった。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et stellae de caelo ceciderunt super terram, sicut ficus emittit grossos suos cum a vento magno movetur:",
+      "provisionalTranslation": "天の星たちは地に落ちた。大風に揺られたときのいちじくの未熟果のように。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "et caelum recessit sicut liber involutus: et omnis mons, et insulae de locis suis motae sunt:",
+      "provisionalTranslation": "天は巻き物のように巻き収められ、すべての山と島はその場所から移動した。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "et reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis, et in petris montium:",
+      "provisionalTranslation": "地の王たち、権力者たち、将軍たち、富者たち、力ある者たち、すべての奴隷と自由人は、洞穴や山の岩に隠れた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "et dicunt montibus, et petris: Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni:",
+      "provisionalTranslation": "彼らは山と岩に言った。「私たちの上に崩れ、御座に座る方の顔と小羊の怒りから私たちを隠してくれ。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "quoniam venit dies magnus irae ipsorum: et quis poterit stare?",
+      "provisionalTranslation": "「なぜなら、彼らの怒りの大いなる日が来たから。誰が立っていられるか。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et vidi quod aperuisset Agnus unum de septem sigillis",
+      "body": "「小羊が七つの封印のうちの一つを開いた（aperuisset Agnus unum de septem sigillis）」──第5章の天上的礼拝から地上的展開への転換点。「aperuisset（開いた）」という過去完了接続法が小羊の行為の先行性を示す。「tamquam vocem tonitrui（雷鳴のような声）」：第4章v.5「de throno procedebant fulgura, et voces, et tonitrua（御座から稲妻と声と雷鳴が出ていた）」と同型の聴覚的形象が天上から地上へと波及する。「Veni, et vide（来て、見よ）」という命令が第1から第4の封印で各四つの生き物から発される定型句として機能する──封印を開くことが「見ること」の命令を帯びるという黙示録的な認識論的機構。Apocalypsis第1章v.19「Scribe ergo quae vidisti（見たことを書き記せ）」と第6章の「Veni, et vide（来て、見よ）」は対称する：書くことの命令と見ることの命令という証言者の二重の使命が封印開封の概念において結合する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "equus albus, et qui sedebat super illum, habebat arcum, et data est ei corona, et exivit vincens ut vinceret.",
+      "body": "「白馬の騎者（equus albus）」──四騎士の第一。封印開封がもたらす現況を最初に提示する場面。「白（albus）」という色が第4章の長老たちの「vestimenta alba（白い衣）」と反響する一方で、武力的征服者としての白という両義性が解釈上の論争を生む。「arcum（弓）」：力の象徴であるが矢は言及されず、主に遠距離からの支配を示す。「data est ei corona（冠を与えられた）」：受動態「冠を与えられた（data est）」が騎者の自律性を制限する──他の者から付与された権能であり、自律的な力ではない。「vincens ut vinceret（勝利を得てさらに勝利を得る）」：現在分詞と不定詞の目的構文が勝利の継続性を強調する。注釈的論争：白馬の騎者をApocalypsis第19章の勝利のキリストと同定する説と、征服者としてのローマ帝国または疫病の当事者とする説が対立する。ブリューソフ「白馬（Kon Bled）」は黒馬の寄寓であり、「白馬」モチーフの黙示録的受容として位置づけられる。",
+      "targetId": "bryusov_kon_bled",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Et cum aperuisset sigillum secundum, audivi secundum animal, dicens: Veni, et vide.",
+      "body": "「第二の封印（sigillum secundum）」──「Veni, et vide」定型句の二回目。v.1（第一）・v.3（第二）・v.5（第三）・v.7（第四）と四回反復される構造の第二節として機能する。「audivi secundum animal, dicens（第二の生き物が言うのを聞いた）」：各生き物が各封印に対応するという四重の対応構造が確立される。「Veni, et vide（来て、見よ）」という命令の単純さが、その後に続く各騎者の描写の複雑さと対比をなす：極度に簡潔な命令が壮大な展開を引き起こすという構造的非対称。Ecclesiastes第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という視覚的不飽和性の命題に対し、「Veni, et vide」の命令は「見ること」を積極的に要求する──コヘレトの「見ても飽かない目」が黙示録では「見ることを命じられた目」として再定義される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "exivit alius equus rufus: et qui sedebat super illum, datum est ei ut sumeret pacem de terra",
+      "body": "「赤馬の騎者（equus rufus）──地から平和を奪う者（sumeret pacem de terra）」──第二の騎者の赤という色が、流血・戦争の象徴として機能する。「sumeret pacem de terra（地から平和を奪う）」：平和の剥奪という負の行為が騎者の本質的な行為として定義される。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代交代の永続的循環が、第6章では「invicem se interficiant（互いに殺し合う）」という循環的殺戮として性格を変える。「gladius magnus（大いなる剣）」：第1章v.16「de ore ejus gladius utraque parte acutus exibat（口から両刃の鋭い剣が出ていた）」の天上的な剣から地上的な剣への対称として。トラークル「Grodek」の進軍と血のイメージが赤馬の騎者の色彩と韻音的に共鳴する。",
+      "targetId": "trakl_grodek",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "equus niger: et qui sedebat super illum, habebat stateram in manu sua.",
+      "body": "「黒馬の騎者（equus niger）──天秤を持つ者（stateram in manu sua）」──第三の騎者は戦争・殺戮ではなく飢饉──経済的窮境が及ぼす欠乏の形象として表現される。「statera（天秤）」：古代の商業・法的取引の用具であり、損壊した世界における分配の象徴として機能する。v.6の小麦・大麦の高騰した価格と結合することで「飢饉の形象」が構築される。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という問いが、第6章では飢饉という形で現実として展開している。「statera（天秤）」はApocalypsis第6章の文脈で最も具体的・日常的なモチーフとして機能し、宇宙論的な破局の語りの中で地上的・経済的現実を際立たせる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Bilibris tritici denario et tres bilibres hordei denario, et vinum, et oleum ne laeseris.",
+      "body": "「小麦一リトルは一デナリウス、大麦三リトルは一デナリウス（Bilibris tritici denario et tres bilibres hordei denario）」──第6章の中で最も峻厳なリアリズムを発揮する節の挿入。「bilibris（二リトル量）」：ローマ時代の重さの単位。一日の賃金（denarius）で小麦一リトルまたは大麦三リトルに等価されるという価格は通常の10倍程度の高騰を示す：飢饉の深刻さが数字によって具体化される。「vinum, et oleum ne laeseris（ワインとオリーブ油を傷つけるな）」：被害から除外される貴重品（ワイン・オリーブ油）と貧窮する日常食（麦）の分離は、わずかに残る特権的富裕と蔓延する飢饉の対比を示す。第6章における峻厳なリアリズム：黙示録のコスモロジー的語りがこの一節だけ極めて具体的な算術的言語に下降する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Et cum aperuisset sigillum quartum, audivi vocem quarti animalis dicentis: Veni, et vide.",
+      "body": "「第四の封印（sigillum quartum）」──「Veni, et vide」定型句の四回目にして最後の命令。v.1（第一の封印）・v.3（第二）・v.5（第三）・v.7（第四）と四回反復された定型句がここで完結する。第五（v.9）・第六（v.12）の封印では定型句がなくなり、死者の魂・大崩壊という事態においては定型句を引き受ける主体が消えるという構造変化が起きる。Ecclesiastes第1章の風・川・太陽の循環的反復は倦怠の反復であり、第6章の「Veni, et vide」の四回の反復は命令的・啓示的な反復であり、同型の反復構造が質的に分かれる場所として注目される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "equus pallidus: et qui sedebat super eum, nomen illi Mors, et infernus sequebatur eum",
+      "body": "「青白馬の騎者（equus pallidus）──その名は死（nomen illi Mors）」──四騎士の第四かつ最後。「pallidus（青白い）」：ギリシア語原典「χλωρός（緑・青白・蒼白）」のラテン語訳。青白は死者の肌の色彩に結びつく。「nomen illi Mors（その名は死）」：他の騎者が具体的な行為や属性によって定義されるのとは対照的に、騎者自体が抽象的概念（Mors）の名を持つことで人格化される：死そのものが騎乗する者として描かれる。「infernus sequebatur eum（黄泉の国が後に従っていた）」：小羊が第1章v.18で「habeo claves mortis, et inferni（死と黄泉の鍵を持っている）」と宣言していた死と黄泉が、第6章では騎者とその従者として地上を行進するという対称的逆転として。「gladio, fame, et morte, et bestiis terrae（剣・飢え・死・地の野獣）」──四要因による地の四分の一への権能の付与。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "vidi subtus altare animas interfectorum propter verbum Dei, et propter testimonium, quod habebant:",
+      "body": "「祭壇の下に殺された人々の魂を見た（vidi subtus altare animas interfectorum）」──第五封印における殉教者の魂たちの登場。第一から第四封印では地上的支配を得た騎者たちの展開であったのに対し、第五封印は天上に転じ、祭壇の底部に殺された者たちの魂を示す。「subtus altare（祭壇の下に）」：旧約の祭儀において祭壇の血が祭壇の底に流される祭儀学的慣行（Lev. 4:7）に基づく形象──殉教者の魂が祭壇の血と同定されることでその神学的役割が確立される。Iob第1章v.9「Numquid Job frustra timet Deum（ヨブは理由なく神を畏れているのか）」というサタンの問いが、「神の言葉とその証しのために殺された（propter verbum Dei et testimonium）」殉教者たちの存在の理由と呼応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Usquequo Domine (sanctus et verus), non judicas, et non vindicas sanguinem nostrum de iis qui habitant in terra?",
+      "body": "「聖にして真実なる主よ、いつまであなたは裁きを行わないのですか（Usquequo Domine, non judicas）」──第6章の神学的核心問題が殺された者たちの魂から発される。「Usquequo（いつまで）」：待期の問いを導く副詞で、詩篇第12篇v.2「Usquequo, Domine, oblivisceris me（主よ、いつまであなたは私を忘れるのですか）」と同型の嘆願の声として機能する。「non judicas, et non vindicas（裁きも復讐もしない）」：二重の否定が神の不作為を強調する。Iob第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」と対照的に、ヨブは試練を受け入れるのに対して、黙示録の殉教者たちは裁きと復讐を要求する──同じ神学的問いへの二つの異なる応答として。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et datae sunt illis singulae stolae albae: et dictum est illis ut requiescerent adhuc tempus modicum",
+      "body": "「白い衣を与えられ、もうしばらく安息するように言われた（datae sunt singulae stolae albae: requiescerent tempus modicum）」──殉教者たちの訴え声への神の応答が二つの行為によって表される。「stolae albae（白い衣）」：第3章v.4「ambulabunt mecum in albis（白い衣を着て一緒に歩む）」・v.5「vestietur vestimentis albis（白い衣を着る）」という勝利者への約束が、神学的な証言死だけでなく実際に殺された者たちにも等しく与えられる実現として。「tempus modicum（しばらく）」：殉教者たちの訴え声への神の答えが「審判の時間的繰り延べ（tempus modicum）」であるという逆説的な事態。「donec compleantur conservi eorum（他の同じように殺されるべき者たちの数が満ちるまで）」：歴史の全体的完成が「殉教者の数の充満（compleantur）」という密義的条件に委ねられるという、黙示録的審判論の具体的一例。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "terraemotus magnus factus est, et sol factus est niger tamquam saccus cilicinus: et luna tota facta est sicut sanguis:",
+      "body": "「大地震（terraemotus magnus）──黒い太陽（sol niger）──血の月（luna sicut sanguis）」──第六封印における宇宙的破局の開始。「tamquam saccus cilicinus（毛織りの袋布のように）」：粗く織った喪服用の袋布が太陽の暗黒化の比喩として使われる。「sol factus est niger（太陽が黒くなった）」：これはイザヤ書・ヨエル書の預言的警告の終末論的成就として機能する。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的安定が、第6章では「sol factus est niger（太陽が黒くなる）」という宇宙的破局として反転される：宇宙的秩序の最も安定した局面が崩壊することで地上的循環の根底的破綻が示される。イザヤ書第13章v.10・ヨエル書第2章v.31の引用として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "stellae de caelo ceciderunt super terram, sicut ficus emittit grossos suos cum a vento magno movetur:",
+      "body": "「天の星たちは地に落ちた──大風に揺られたときのいちじくの未熟果のように（sicut ficus emittit grossos suos）」──星の落下と未熟果の落下という二重の、鋭さを帯びた比喩構造。「grossos（未熟果）」：完熟する前に落ちる果実──時機を得ずに落ちる星の形象として。「a vento magno movetur（大風に揺られる）」：外部的力（風）が大きな変動を引き起こすという因果関係。Ecclesiastes第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」という風の循環的運動が、第6章では旋回ではなく一方向的な破壊力として機能する。トラークル「Abendländisches Lied（西洋の歌）」の星・夕暮れのイメージがこの黙示録的破局の星の表象と詩的に響き合う。",
+      "targetId": "trakl_abendlaendisches_lied",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "caelum recessit sicut liber involutus: et omnis mons, et insulae de locis suis motae sunt:",
+      "body": "「天は巻き物のように巻き収められた（caelum recessit sicut liber involutus）」──第6章の最も印象的な形象。「liber involutus（巻き物・巻き収められた書物）」：「liber（書物）」が巻き収められる天空の比喩として使われる逆説──封印された書物を小羊が開いた（第5章）後、今度は「書物」としての天空が巻き収められる。マラルメ「骰子一擲（Coup de Dés）」の白い紙面──語が印刷される圧倒的な空白としてのページ──が「liber involutus（巻き収められた書物）」という天空の巻き収まりと詩的に対応する：言語の展開と言語の巻き収まりという対称的構造が終末論的破局と詩的沈黙の両場面で展開する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber absconderunt se in speluncis",
+      "body": "「地の王たち、権力者たち、将軍たち、富者たち、力ある者たち、すべての奴隷と自由人が洞穴や山の岩に隠れた（absconderunt se in speluncis）」──社会的階層の包括的列挙とその共同の崩壊。「reges（王）・principes（権力者）・tribuni（将軍）・divites（富者）・fortes（力強い者）・servus（奴隷）・liber（自由人）」──第1章v.1「regis Jerusalem（エルサレムの王）」という王的権威・Ecclesiastes第1章v.1の同じ構図が、最後の日に山の岩に隠れるという崩壊的展開で反転される。「omnis servus, et liber（すべての奴隷と自由人）」：社会的平等化──王から奴隷までが同一の逃走路へと向かうという皮肉な逆説。バロック期ヴァニタス絵画における王笏・冠・剣の平等な並置と、山岩の下に隠れる王たちの廉恥（vanitas）の一致。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Cadite super nos, et abscondite nos a facie sedentis super thronum, et ab ira Agni:",
+      "body": "「御座に座る方の顔と小羊の怒りから私たちを隠してくれ（abscondite nos a facie sedentis super thronum, et ab ira Agni）」──第6章の最も逆説的な場面。「ira Agni（小羊の怒り）」──黙示録的逆転の機能。小羊（Agnus）は第5章で「屠られたもの」として柔和さ・犠牲の象徴として登場したのと対称的に、第6章では「怒り（ira）」の主体として人々が恐れる存在となる──柔和さの逆説的極致。「a facie sedentis（御座に座る方の顔から）」：第4章で天上の御座を囲む礼拝者たちが第6章では同じ御座から逃げる者たちであるという視点の全面的転倒。ヴェイユ「La Violence（力）」章の「力は常に動き回る」という命題が、御座から発する「ira（怒り）」という力の作用として位置づけられる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "quoniam venit dies magnus irae ipsorum: et quis poterit stare?",
+      "body": "「彼らの怒りの大いなる日が来た。誰が立っていられるか（dies magnus irae ipsorum: et quis poterit stare）」──第6章の終結問いであり、Apocalypsis第7章以降へ持ち越される答えなき問いとして残る。「dies magnus irae（怒りの大いなる日）」：Dies Irae（ディエス・イラエ）の淵源となる終末論的定式。「celano_dies_irae（序唱歌ディエス・イラエ）」の直接の語源として。「quis poterit stare（誰が立っていられるか）」：第5章v.2「Quis est dignus aperire librum（誰がふさわしいか）」と同型の問いの形式──ただし第5章の問いは「小羊」という答えを得たのに対し、第6章の問いは第7章以降へ持ち越されたまま閉じる。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は何を得るのか）」と同型の宇宙的答えなき問いの対称として。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU」──最後の問いの後の宇宙的空白が「quis poterit stare」の答えなき余韻と詩的に呼応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    }
+  ]
+}
