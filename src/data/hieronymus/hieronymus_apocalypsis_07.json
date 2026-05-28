@@ -1,0 +1,229 @@
+{
+  "id": "hieronymus_apocalypsis_7",
+  "title": "Apocalypsis, Caput VII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput VII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+7&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの默示録第7章。第6章の封印開封による宇宙的破局の連鎖と「quis poterit stare（誰が立っていられるか）」という答えなき問いの後に当てられた第7章は、第7封印開封前の「間曲（intermezzo）」として機能する。地の四つの隅に立つ四人の天使が四つの風を止める（v.1–3）部分、イスラエル十二部族各から十二千人、計十四万四千人が印を押される（v.4–8）、計えきれない大群衆が小羊の前に立って「救い（Salus）」を宣言する（v.9–12）、続いて「大きな患難（tribulatio magna）から出て来た者たち」という比定と彼らへの終末論的約束（v.13–17）という三部構造を持つ。VANITISMEコーパスにおける位置づけ：Ecclesiastes第1章で封じた循環的艹無の読評が第7章で終末論的に反転される箇所が集中する：v.8「Non saturatur oculus visu（目は飽くない）」→v.16「non esurient, neque sitient（食えず、淡かず）」、Ecclesiastes v.7「Omnia flumina intrant in mare（川は海へ）」→v.17「vitae fontes aquarum（いのちの水の泉へ）」という反転。またv.17結語「absterget Deus omnem lacrimam ab oculis eorum（神はすべての涙を謙い去られる）」はApocalypsis第21章の同十尊的受結の先行的予告であり、第5章v.4「flebam multum（ひどく泣いた）」というヨハネの涙の感情的応答としても機能する。",
+  "keywords": [
+    "quatuor venti terrae",
+    "signum Dei vivi",
+    "centum quadraginta quatuor millia",
+    "turba magna",
+    "stolae albae",
+    "Salus Deo nostro",
+    "tribulatione magna",
+    "sanguine Agni",
+    "vitae fontes aquarum",
+    "omnem lacrimam"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_6",
+    "hieronymus_apocalypsis_4",
+    "hieronymus_apocalypsis_5",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "rilke_duineser_elegien_01",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Post haec vidi quatuor angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae, ne flarent super terram, neque super mare, neque in ullam arborem.",
+      "provisionalTranslation": "この後、私は地の四つの隅に立つ四人の天使が、地の四つの風を押さえて、地にも海にも、いかなる木にも吹きつけないようにしているのを見た。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et vidi alterum angelum ascendentem ab ortu solis, habentem signum Dei vivi: et clamavit voce magna quatuor angelis, quibus datum est nocere terrae et mari,",
+      "provisionalTranslation": "また私は、別の天使が太陽の昇る方から上って来るのを見た。その天使は生ける神の印を持っており、地と海を損なうことを許された四人の天使たちに大声で叫んだ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "dicens: Nolite nocere terrae, et mari, neque arboribus, quoadusque signemus servos Dei nostri in frontibus eorum.",
+      "provisionalTranslation": "「私たちが神の僕たちの額に印を押すまでは、地にも海にも木にも損害を与えてはならない。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et audivi numerum signatorum, centum quadraginta quatuor millia signati, ex omni tribu filiorum Israel.",
+      "provisionalTranslation": "私は印を押された者たちの数を聞いた。イスラエルの子らのすべての部族から印を押された者、十四万四千人であった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Ex tribu Juda duodecim millia signati: ex tribu Ruben duodecim millia signati: ex tribu Gad duodecim millia signati:",
+      "provisionalTranslation": "ユダ族から十二千人が印を押された。ルベン族から十二千人。ガド族から十二千人。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "ex tribu Aser duodecim millia signati: ex tribu Nephthali duodecim millia signati: ex tribu Manasse duodecim millia signati:",
+      "provisionalTranslation": "アセル族から十二千人。ナフタリ族から十二千人。マナセ族から十二千人。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "ex tribu Simeon duodecim millia signati: ex tribu Levi duodecim millia signati: ex tribu Issachar duodecim millia signati:",
+      "provisionalTranslation": "シメオン族から十二千人。レビ族から十二千人。イッサカル族から十二千人。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "ex tribu Zabulon duodecim millia signati: ex tribu Joseph duodecim millia signati: ex tribu Benjamin duodecim millia signati.",
+      "provisionalTranslation": "ゼブルン族から十二千人。ヨセフ族から十二千人。ベニヤミン族から十二千人が印を押された。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Post haec vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus, et populis, et linguis: stantes ante thronum, et in conspectu Agni, amicti stolis albis, et palmae in manibus eorum:",
+      "provisionalTranslation": "この後、私はあらゆる国民、部族、民族、言語から成る、誰も数えることのできない大群衆が、御座の前と小羊の前に立っているのを見た。彼らは白い衣をまとい、手にはなつめ椰子の葉を持っていた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et clamabant voce magna, dicentes: Salus Deo nostro, qui sedet super thronum, et Agno.",
+      "provisionalTranslation": "そして彼らは大声で叫んで言った。「救いは、御座に座る私たちの神と、小羊のものである。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et omnes angeli stabant in circuitu throni, et seniorum, et quatuor animalium: et ceciderunt in conspectu throni in facies suas, et adoraverunt Deum,",
+      "provisionalTranslation": "すべての天使たちは御座と長老たちと四つの生き物の周囲に立っていた。そして彼らは御座の前に顔を地に伏して礼拝し、"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "dicentes: Amen. Benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo Deo nostro in saecula saeculorum. Amen.",
+      "provisionalTranslation": "言った。「アーメン。賛美と栄光と知恵と感謝と誉れと力と強さが、世々限りなく私たちの神にあるように。アーメン。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et respondit unus de senioribus et dixit mihi: Hi, qui amicti sunt stolis albis, qui sunt? et unde venerunt?",
+      "provisionalTranslation": "長老の一人が私に語りかけて言った。「白い衣をまとっているこの者たちは誰ですか。どこから来たのですか。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et dixi illi: Domine mi, tu scis. Et dixit mihi: Hi sunt, qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni.",
+      "provisionalTranslation": "私は彼に言った。「主よ、あなたがご存じです。」すると彼は私に言った。「この者たちは大きな患難から出て来た者たちであり、その衣を洗って小羊の血で白くした者たちです。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus: et qui sedet in throno, habitabit super illos:",
+      "provisionalTranslation": "「それゆえ、彼らは神の御座の前にいて、その神殿で昼も夜も神に仕えている。そして御座に座る方が彼らの上に幕屋を張られるであろう。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus aestus:",
+      "provisionalTranslation": "「彼らはもはや飢えることなく、渇くこともない。太陽も、いかなる熱も、彼らの上に落ちることはない。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "quoniam Agnus, qui in medio throni est, reget illos et deducet eos ad vitae fontes aquarum, et absterget Deus omnem lacrimam ab oculis eorum.",
+      "provisionalTranslation": "「なぜなら、御座の中央におられる小羊が彼らを牧し、いのちの水の泉へと導くからである。また神は彼らの目からすべての涙をぬぐい去られる。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Post haec vidi quatuor angelos stantes super quatuor angulos terrae, tenentes quatuor ventos terrae",
+      "body": "「地の四つの隅に立つ四人の天使が四つの風を押さえている（tenentes quatuor ventos terrae）」──第6章v.17「quis poterit stare（誰が立っていられるか）」という問いへの応答として機能する第7章の開口部。第6章が破局の展開で閉じたのに対し、第7章はその破局の「中断（interruptio）」として始まる。「quatuor anguli terrae（地の四つの隅）」：四方位の網羅性が封印され保護された宇宙的空間を定義する。「ne flarent super terram, neque super mare, neque in ullam arborem（地にも海にも木にも吹きつけないように）」：第6章v.13「stellae de caelo ceciderunt（星たちは地に落ちた）」という宇宙的崩壊が、ここでは風の停止という静寂の出来事として一時中断される。Ecclesiastes第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」という風の循環的運動が、第7章では天使たちに「押さえられた（tenentes）」風として停止させられる：地上的循環の一時的凍結。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "alterum angelum ascendentem ab ortu solis, habentem signum Dei vivi",
+      "body": "「太陽の昇る方から上って来る天使──生ける神の印を持つ（signum Dei vivi）」──東から来る天使という方向性と「生ける神の印（signum Dei vivi）」という所持物の二重の定義。「ab ortu solis（太陽の昇る方から）」：東という方向が希望・光の源泉の象徴として機能する。「signum Dei vivi（生ける神の印）」：「Dei vivi（生ける神）」という属格が第4章v.9「viventi in saecula saeculorum（世々限りなく生きておられる方）」・第1章v.18「sum vivens in saecula saeculorum（世々限りなく生きている）」と連鎖する生命の主題の継続として。「signum（印・印章）」：第5章の「sigillis septem（七つの封印）」が閉じる機能を持つのに対し、「signum（印）」は保護・帰属の表象として開く機能を持つ──同じ「印」概念の正負の二重性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Nolite nocere terrae, et mari, neque arboribus, quoadusque signemus servos Dei nostri in frontibus eorum.",
+      "body": "「私たちが神の僕たちの額に印を押すまでは（signemus servos Dei nostri in frontibus eorum）」──「印を押すこと（signare）」と「損害を与えること（nocere）」の時間的先後関係が神の保護の順序として定式化される。「in frontibus eorum（額に）」：額という身体の最も公的・可視的な部位への印付けが、帰属の公的宣言として機能する。エゼキエル書第9章v.4「額に印（タウ）を付けよ」の終末論的反復。「quoadusque（〜するまでは）」：保護の一時性──印付けが完了するまでという時間的条件が破局の延期の根拠として機能する。Iob第1章v.12「Ecce universa quae habet in manu tua sunt: tantum in eum ne extendas manum tuam（ただし彼自身には手を伸ばすな）」という神の制限的許可との照応：破局への制限が神の保護的介入によって課される構造。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "centum quadraginta quatuor millia signati, ex omni tribu filiorum Israel.",
+      "body": "「十四万四千人（centum quadraginta quatuor millia）」──黙示録の数論的象徴体系における最も有名な数の一つ。12（イスラエルの部族数）× 12（使徒数）× 1000（充満の係数）＝144,000という構造的計算。釈義的論争として、文字通りの民族的イスラエル（各部族から正確に12,000）と、霊的イスラエル（信仰者の共同体全体）の象徴という二説が対立する。v.9「turbam magnam, quam dinumerare nemo poterat（誰も数えることのできない大群衆）」との対比が重要：144,000という具体的・限定的数と「dinumerare nemo poterat（誰も数えることができない）」という無限性が同一章に並置されることで、保護された特定の者たちと普遍的な救済の群衆という二つの共同体が構造的に対置される。Ecclesiastes第1章v.15「stultorum infinitus est numerus（愚か者の数は無限である）」という負の無限数と対称的に、ここでは印を押された者の具体的数が算定される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Ex tribu Juda duodecim millia signati: ex tribu Ruben duodecim millia signati: ex tribu Gad duodecim millia signati:",
+      "body": "v.5–v.8は十二部族の名と「duodecim millia signati（十二千人が印を押された）」という定型句を十二回反復する連続節。この連続的列挙は黙示録の文体において特異な「カタログ的散文（prose catalogique）」として機能する。「Ex tribu … duodecim millia signati」の定型句が十二回反復されることで、各部族の平等な保護が律儀な算術的規則性によって確認される。ただし十二部族のリストがヤコブの子らの伝統的順序と一致しない点（ダン族が欠落しヨセフとマナセが替わりに入る）が注釈者の論点となってきた。「duodecim millia signati」の十二回反復という単調な定型句の連続が、詩的な「意味の圧縮」ではなく「意味の展開」として機能する──同型の反復が個々の部族の独自性ではなく全体としての網羅性を語る点で、Ecclesiastes第1章の風・川・太陽の循環的反復と同型でありながら、倦怠ではなく充足の反復として質的に異なる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Post haec vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus, et populis, et linguis",
+      "body": "「誰も数えることのできない大群衆（turbam magnam, quam dinumerare nemo poterat）」──v.4の「centum quadraginta quatuor millia（144,000）」という具体的数から「dinumerare nemo poterat（誰も数えることができない）」という無限性への転換。「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民、部族、民族、言語から）」：第5章v.9「ex omni tribu, et lingua, et populo, et natione（あらゆる部族、言語、民族、国民の中から）」という小羊の贖いの対象の反復的確認として。v.4–8のイスラエル十二部族という民族的特殊性から、v.9の普遍的多民族性への拡張が第7章の構造的弧をなす。「amicti stolis albis, et palmae in manibus eorum（白い衣をまとい、手にはなつめ椰子の葉を持っていた）」：第3章v.4–5の白い衣の約束の実現として、また「palmae（なつめ椰子）」が勝利・祝祭の古代的象徴として機能する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Salus Deo nostro, qui sedet super thronum, et Agno.",
+      "body": "「救いは御座に座る私たちの神と小羊のものである（Salus Deo nostro qui sedet super thronum, et Agno）」──第7章の礼拝的宣言の核心。「Salus（救い）」：ヘブライ語「יְשׁוּעָה（yeshuah）」のラテン語訳──「イエス（Iesus）」という名の語源でもある。「Deo nostro（私たちの神）」という一人称複数の所有格が礼拝者の共同体的帰属を表す。「qui sedet super thronum, et Agno（御座に座る方と小羊）」：第4–5章を通じて確立された「御座の者＋小羊」という二重の礼拝対象が大群衆の宣言によって普遍的に承認される。第6章v.16「abscondite nos a facie sedentis super thronum, et ab ira Agni（御座に座る方の顔と小羊の怒りから隠してくれ）」と完全に対称する：第6章で「顔から逃げる者たち」が唱えた同じ「御座の者と小羊」への言及が、第7章では「救いを宣言する者たち」の礼拝の対象として反転される。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Amen. Benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo Deo nostro in saecula saeculorum. Amen.",
+      "body": "「アーメン。賛美と栄光と知恵と感謝と誉れと力と強さが（Benedictio, et claritas, et sapientia, et gratiarum actio, honor, et virtus, et fortitudo）」──七重の賛美定式。第5章v.12「Dignus est Agnus accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem（力と富と知恵と強さと誉れと栄光と賛美）」という七重定式と語彙的に対応しながら変奏される：「sapientia（知恵）」・「honor（誉れ）」・「virtus（力）」・「fortitudo（強さ）」・「benedictio（賛美）」が共通しながら、「claritas（栄光）」・「gratiarum actio（感謝）」という異なる語が加わる。「Amen … Amen」という二重の「アーメン」が七重の賛美を枠として囲む対称構造。第5章の万の天使による七重定式が、第7章では天使たち・長老・四つの生き物の合唱によって変奏的に再演される。",
+      "targetId": "hieronymus_apocalypsis_5",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Hi, qui amicti sunt stolis albis, qui sunt? et unde venerunt?",
+      "body": "「白い衣をまとっているこの者たちは誰ですか。どこから来たのですか（qui sunt? et unde venerunt）」──長老による問いかけというソクラテス的・問答法的構造の挿入。「qui sunt（誰か）」と「unde venerunt（どこから来たか）」という存在と起源の二重の問い。長老自身が答えを知りながら問いを発する（v.14「tu scis（あなたがご存じです）」というヨハネの応答）という対話法的構造が、v.14–17の白い衣の意味の解釈を引き出す装置として機能する。リルケ「ドゥイノの悲歌第1歌」冒頭「Wer, wenn ich schriee, hörte mich（誰が、私が叫んでも、聞いてくれるのか）」という問いかけの形式と、この「Hi qui sunt（この者たちは誰か）」という天上的問いかけが、存在の問いとして詩的に照応する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Hi sunt, qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni.",
+      "body": "「この者たちは大きな患難から出て来た者たちであり、その衣を洗って小羊の血で白くした者たちです（laverunt stolas suas, et dealbaverunt eas in sanguine Agni）」──第7章の神学的核心命題。「tribulatione magna（大きな患難）」：第6章の四騎士・殉者の魂・宇宙的崩壊という患難を経た者たちとして同定される。「laverunt stolas suas（衣を洗った）」：「洗う（lavare）」という行為が「血で白くする（dealbaverunt in sanguine）」という逆説的な浄化の手段と組み合わされる──血で洗うことによって白くなるという逆説。「sanguine Agni（小羊の血）」：第5章v.9「redemisti nos Deo in sanguine tuo（あなたの血によって贖われた）」という贖いの血が、ここでは衣を白くする浄化の手段として再登場する。Iob第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で出た、裸で戻ろう）」という剥奪の受諾と対比的に：ヨブが「裸」を受け入れるのに対し、黙示録の群衆は「白い衣」を獲得する──共にある種の純粋性の回復として。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "non esurient, neque sitient amplius, nec cadet super illos sol, neque ullus aestus:",
+      "body": "「彼らはもはや飢えることなく、渇くこともない。太陽も、いかなる熱も彼らの上に落ちることはない（non esurient, neque sitient amplius）」──否定の連鎖による終末論的完全性の定式。「non esurient（飢えない）」・「neque sitient（渇かない）」・「nec cadet sol（太陽が落ちない）」・「neque ullus aestus（熱もない）」という四重の否定が「もはや〜ない」という終末的充足を定式化する。Ecclesiastes第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は飽くことなく、耳は満たされない）」という人間的不飽和性の命題への直接的応答として機能する：コヘレトが定式化した感覚の根本的不飽和性が「non esurient, neque sitient amplius（もはや飢えず渇かない）」という永続的充足によって終末論的に廃棄される。「nec cadet super illos sol（太陽が落ちない）」：Ecclesiastes第1章v.5の「太陽は昇り、沈む」という地上的太陽の循環からの解放として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "quoniam Agnus, qui in medio throni est, reget illos et deducet eos ad vitae fontes aquarum, et absterget Deus omnem lacrimam ab oculis eorum.",
+      "body": "「小羊が彼らを牧し、いのちの水の泉へと導く。また神は彼らの目からすべての涙をぬぐい去られる（absterget Deus omnem lacrimam ab oculis eorum）」──第7章の、さらには第1–7章全体の感情的頂点をなす結語。「Agnus, qui in medio throni est（御座の中央におられる小羊）」：第5章v.6「Agnum stantem tamquam occisum（屠られたかのように立っている小羊）」が御座の中央に立つ存在として確認される。「deducet eos ad vitae fontes aquarum（いのちの水の泉へと導く）」：イザヤ書第49章v.10「彼は水の湧く所へ彼らを導く」の終末論的引用。Ecclesiastes第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」という水の不飽和的循環が、「vitae fontes aquarum（いのちの水の泉）」という溢れ出る源泉として終末論的に反転される。「absterget Deus omnem lacrimam ab oculis eorum（神は彼らの目からすべての涙をぬぐい去られる）」：Apocalypsis第21章v.4への先行的予告として機能するこの結語は、第5章v.4「flebam multum（私はひどく泣いた）」というヨハネの涙の感情的応答として位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    }
+  ]
+}
