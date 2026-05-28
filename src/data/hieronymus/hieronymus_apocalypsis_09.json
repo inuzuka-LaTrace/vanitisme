@@ -1,0 +1,312 @@
+{
+  "id": "hieronymus_apocalypsis_9",
+  "title": "Apocalypsis, Caput IX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput IX. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+9&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第9章。第五のラッパ（v.1–12）と第六のラッパ（v.13–21）を含み、第8章の自然的宇宙的破局（地・海・川・天体）から、深淵・悪霊的存在との直接的対決へと転進する第9章は、Apocalypsis全体で最も密度の高い怪物誌的・悪魔的局面を展開する。第五のラッパ（v.1–12）：深淵の穴から出てくるイナゴの大群――女の髪・獅子の歯・鰄の鸽・鉄の鹾という混成的形象――が五か月間、印を持たない人々を殺さず苦しめる。その王はアバドン（アポリュオン・エクステルミナンス）。第六のラッパ（v.13–21）：ユーフラテスに縛られていた四人の天使が解き放たれ、二億の騎兵――火と煙と硫黄を口から吐く馬――が人類の三分の一を殺す。しかし死を免れた残りの人々は尚悔改せず――この第9章の結語が第9章全体の最大の逆説を形成する。VANITISMECorpusにおける位置づけ：第9章はApocalypsisの深淵的、悪魔的濃度が最も高まる章であり、イナゴの突形象（v.7–10）は言語が単一の比喩では捕捉できない超自然的存在を複数の類比の連鎖で輪郭づけようとする試みとして、第1章のキリスト像の「tamquam」連鎖と同型の描写戦略が反キリスト的存在に適用される局面として読める。v.6「desiderabunt mori, et fugiet mors ab eis（死を望んでも、死は逃げ去る）」はIob第3章の死への渇望と対照され、Ecclesiastes第1章v.15「Perversi difficile corriguntur（曲がったものは正すことが難しい）」という人間観がv.21の「惾改しない」という結語で終末論的に確認される。",
+  "keywords": [
+    "puteus abyssi",
+    "locustae",
+    "cruciatus mensibus quinque",
+    "quaerent mortem et non invenient",
+    "Abaddon Apollyon Exterminans",
+    "Euphrates",
+    "vicies millies dena millia",
+    "ignis et fumus et sulphur",
+    "tertia pars hominum",
+    "neque poenitentiam egerunt"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_8",
+    "hieronymus_apocalypsis_1",
+    "hieronymus_apocalypsis_2",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_accepter_le_vide",
+    "trakl_de_profundis",
+    "baudelaire_beaute"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et quintus angelus tuba cecinit: et vidi stellam de caelo cecidisse in terram, et data est ei clavis putei abyssi.",
+      "provisionalTranslation": "第五の天使がラッパを吹いた。私は一つの星が天から地に落ちているのを見た。その星に深淵の穴の鍵が与えられた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et aperuit puteum abyssi: et ascendit fumus putei, sicut fumus fornacis magnae: et obscuratus est sol, et aer de fumo putei:",
+      "provisionalTranslation": "その星は深淵の穴を開けた。すると大きな炉の煙のように深淵の穴から煙が立ち昇り、太陽と空気が深淵の穴の煙によって暗くなった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et de fumo putei exierunt locustae in terram, et data est illis potestas, sicut habent potestatem scorpiones terrae:",
+      "provisionalTranslation": "深淵の穴の煙の中からいなごが地に出てきた。地のさそりが持つような力が彼らに与えられた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "et praeceptum est illis ne laederent foenum terrae, neque omne viride, neque omnem arborem: nisi tantum homines, qui non habent signum Dei in frontibus suis:",
+      "provisionalTranslation": "彼らは地の草も、緑のものも、木も何も損なってはならないと命じられた。ただし、額に神の印を持たない人々だけは別であった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et datum est illis ne occiderent eos: sed ut cruciarent mensibus quinque: et cruciatus eorum, ut cruciatus scorpii cum percutit hominem.",
+      "provisionalTranslation": "彼らは人々を殺すことは許されなかった。ただし五か月間苦しめることは許された。その苦しみは、さそりが人を刺したときの苦しみのようであった。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et in diebus illis quaerent homines mortem, et non invenient eam: et desiderabunt mori, et fugiet mors ab eis.",
+      "provisionalTranslation": "その日々に、人々は死を求めるが死を見出せないであろう。死を望んでも、死は彼らから逃げ去るであろう。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et similitudines locustarum, similes equis paratis in praelium: et super capita earum tamquam coronae similes auro: et facies earum tamquam facies hominum.",
+      "provisionalTranslation": "いなごの姿は、戦いの備えをした馬のようであった。その頭の上には金に似た冠のようなものがあり、その顔は人間の顔のようであった。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et habebant capillos sicut capillos mulierum. Et dentes earum, sicut dentes leonum erant:",
+      "provisionalTranslation": "その髪は女の髪のようであり、その歯は獅子の歯のようであった。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "et habebant loricas sicut loricas ferreas, et vox alarum earum sicut vox curruum equorum multorum currentium in bellum:",
+      "provisionalTranslation": "また鉄の鎧のような胸当てを持ち、その翼の音は多くの馬の引く戦車が戦いへと駆け行く音のようであった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et habebant caudas similes scorpionum, et aculei erant in caudis earum: et potestas earum nocere hominibus mensibus quinque:",
+      "provisionalTranslation": "さそりのような尾を持ち、その尾には刺があった。五か月間人々を傷つける力は、その尾の中にあった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et habebant super se regem angelum abyssi cui nomen hebraice Abaddon, graece autem Apollyon, latine habens nomen Exterminans.",
+      "provisionalTranslation": "彼らの上に王として深淵の使いがいた。その名はヘブライ語でアバドン、ギリシア語ではアポリュオン、ラテン語ではエクステルミナンス（滅ぼす者）という。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Vae unum abiit, et ecce veniunt adhuc duo vae post haec.",
+      "provisionalTranslation": "第一の災いは過ぎ去った。見よ、この後さらに二つの災いが来ようとしている。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et sextus angelus tuba cecinit: et audivi vocem unam ex quatuor cornibus altaris aurei, quod est ante oculos Dei,",
+      "provisionalTranslation": "第六の天使がラッパを吹いた。私は神の御前にある金の祭壇の四つの角の一つから声を聞いた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "dicentem sexto angelo, qui habebat tubam: Solve quatuor angelos, qui alligati sunt in flumine magno Euphrate.",
+      "provisionalTranslation": "その声は、ラッパを持つ第六の天使に言った。「大きな川ユーフラテスのほとりに縛られている四人の天使たちを解き放て。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et soluti sunt quatuor angeli, qui parati erant in horam, et diem, et mensem, et annum, ut occiderent tertiam partem hominum.",
+      "provisionalTranslation": "人々の三分の一を殺すために、その時、その日、その月、その年のために備えられていた四人の天使たちが解き放たれた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et numerus equestris exercitus vicies millies dena millia. Et audivi numerum eorum.",
+      "provisionalTranslation": "騎兵の軍勢の数は二億であった。私はその数を聞いた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et ita vidi equos in visione: et qui sedebant super eos, habebant loricas igneas, et hyacinthinas, et sulphureas, et capita equorum erant tamquam capita leonum: et de ore eorum procedit ignis, et fumus, et sulphur.",
+      "provisionalTranslation": "私は幻の中で馬を見た。それに乗る者たちは火のような、青みがかった、硫黄色の鎧を身に着けていた。馬の頭は獅子の頭のようであり、その口から火と煙と硫黄が出ていた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et ab his tribus plagis occisa est tertia pars hominum de igne, et de fumo, et sulphure, quae procedebant de ore ipsorum.",
+      "provisionalTranslation": "これら三つの災い、すなわち彼らの口から出る火と煙と硫黄によって、人の三分の一が殺された。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Potestas enim equorum in ore eorum est, et in caudis eorum, nam caudae eorum similes serpentibus, habentes capita: et in his nocent.",
+      "provisionalTranslation": "馬の力はその口と尾の中にある。その尾は頭を持つ蛇のようであり、それによって害を与える。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et ceteri homines, qui non sunt occisi in his plagis, neque poenitentiam egerunt de operibus manuum suarum, ut non adorarent daemonia, et simulacra aurea, et argentea, et aerea, et lapidea, et lignea, quae neque videre possunt, neque audire, neque ambulare,",
+      "provisionalTranslation": "これらの災いで殺されなかった残りの人々は、自分たちの手の業を悔い改めず、悪霊どもや、見ることも聞くことも歩くこともできない金・銀・銅・石・木の偶像を礼拝することをやめなかった。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "et non egerunt poenitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis.",
+      "provisionalTranslation": "また彼らは殺人も、呪術も、淫行も、盗みも悔い改めなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Et quintus angelus tuba cecinit: et vidi stellam de caelo cecidisse in terram, et data est ei clavis putei abyssi.",
+      "body": "「第五の天使がラッパを吹いた──天から地に落ちた星に深淵の穴の鍵が与えられた（clavis putei abyssi）」──第五のラッパは第一から第四の自然的破局（地・海・川・天）から内的・霊的領域への転換をなす。「stellam de caelo cecidisse（天から落ちた星）」：第8章v.10「cecidit de caelo stella magna（大きな星が天から落ちた）」との照応だが、第9章の星は「data est ei clavis（鍵が与えられた）」という権能の付与によって単なる天体ではなく人格的存在として機能する。「clavis putei abyssi（深淵の穴の鍵）」：第1章v.18「habeo claves mortis, et inferni（死と黄泉の鍵を持っている）」で小羊が保持していた鍵が、ここでは天から落ちた星に付与される──鍵の権能の委譲という構造。「puteus abyssi（深淵の穴）」：「abyssus（深淵）」はヘブライ語「תְּהוֹם（tehom）」の訳語で、創世記第1章v.2「tenebrae erant super faciem abyssi（深淵の面の上に暗闇があった）」という原初的深淵の終末論的再現として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et aperuit puteum abyssi: et ascendit fumus putei, sicut fumus fornacis magnae: et obscuratus est sol, et aer de fumo putei:",
+      "body": "「深淵の穴を開けた──大きな炉の煙のように煙が立ち昇り、太陽と空気が暗くなった（obscuratus est sol, et aer）」──深淵の開封がもたらす第一の効果として光の消滅が記述される。「sicut fumus fornacis magnae（大きな炉の煙のように）」：創世記第19章v.28「ascendebat fumus de terra quasi fornacis fumus（炉の煙のように地から煙が立ち昇った）」というソドム滅亡の場面の終末論的引用。「ascendit fumus（煙が立ち昇った）」：第8章v.4「ascendit fumus incensorum de orationibus sanctorum（香の煙が祈りとともに立ち昇った）」という聖なる上昇の煙と、この「fumus putei abyssi（深淵の穴の煙）」という汚れた上昇の煙が対称をなす──同じ「煙の立ち昇り」という垂直的動作が聖と汚の両極として展開される。「obscuratus est sol（太陽が暗くなった）」：第8章v.12「percussa est tertia pars solis（太陽の三分の一が打たれた）」の部分的暗黒化に対し、深淵の煙は太陽そのものを「obscuratus（暗くした）」という全体的暗黒化として提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "et de fumo putei exierunt locustae in terram, et data est illis potestas, sicut habent potestatem scorpiones terrae:",
+      "body": "「深淵の穴の煙の中からいなごが地に出てきた（exierunt locustae in terram）──さそりのような力が与えられた」──「locustae（いなご）」という形象の二重性：旧約的・自然的ないなごの大群と、深淵から出てくる超自然的生物という二層の意味。出エジプト記第10章v.4「inducam cras locustam in fines tuos（明日いなごをあなたの地に持ち込む）」というエジプトへの第八の災いの終末論的変容として。「sicut habent potestatem scorpiones terrae（地のさそりが持つような力）」：いなごがさそりの毒の力を持つという混成的形象が第9章の怪物誌（bestiarium）的性格を定義する──v.7–10の詳細な形態描写の前奏として。「data est illis potestas（力が与えられた）」：第6章の騎者への「data est（与えられた）」という受動態の反復として、この力もまた上位の意志による委譲であることが示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "et praeceptum est illis ne laederent foenum terrae, neque omne viride, neque omnem arborem: nisi tantum homines, qui non habent signum Dei in frontibus suis:",
+      "body": "「草も緑のものも木も損なってはならない──ただし額に神の印を持たない人々は別（nisi tantum homines, qui non habent signum Dei in frontibus suis）」──第七章v.3「signemus servos Dei nostri in frontibus eorum（神の僕たちの額に印を押す）」という保護の印が、ここで効力を発揮する場面として機能する。「ne laederent foenum terrae, neque omne viride, neque omnem arborem（草も緑のものも木も）」：第8章v.7「tertia pars arborum concremata est, et omne foenum viride combustum est（木の三分の一と青草がすべて焼かれた）」という第一のラッパの被害が逆に参照される──ラッパの災いでは草木が焼かれたのに対し、第五のラッパのいなごは草木を損なうことを禁じられ、印を持たない人間だけを標的とする。この逆転が第9章の特異な残酷さを際立たせる：自然ではなく人間そのものが標的とされる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "et datum est illis ne occiderent eos: sed ut cruciarent mensibus quinque: et cruciatus eorum, ut cruciatus scorpii cum percutit hominem.",
+      "body": "「殺すことは許されなかった──ただし五か月間苦しめることは許された（cruciarent mensibus quinque）」──苦しめるが殺せないという制限的な拷問の構造。「ne occiderent（殺してはならない）」という禁止が「cruciarent（苦しめることは）」という許可と対置される。「mensibus quinque（五か月間）」：ヘブライ語伝統でいなごの活動期間が約五か月とされることの反映。「cruciatus scorpii cum percutit hominem（さそりが人を刺したときの苦しみのように）」：v.3の「さそりのような力」という比較が、ここでは苦痛の質の比較として展開される。Iob第2章（第二の試練）でサタンがヨブの皮膚と肉体を苦しめることを許される「tantum animam illius serva（命だけは奪うな）」という制限と同型の構造：神の許可による境界付きの苦悩という神学的枠組み。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et in diebus illis quaerent homines mortem, et non invenient eam: et desiderabunt mori, et fugiet mors ab eis.",
+      "body": "「人々は死を求めるが死を見出せないであろう──死を望んでも、死は彼らから逃げ去る（fugiet mors ab eis）」──第9章の哲学的核心命題。「quaerent mortem, et non invenient（死を求めるが見出せない）」：死そのものが逃走するという形象の逆説──第六・第四の騎者「その名は死（Mors）」として地を行進した死（第6章v.8）が、ここでは求めても得られないものとして反転される。Ecclesiastes第9章v.5「viventes enim sciunt se esse morturos, mortui vero nescient quidquam（生きている者は死ぬことを知っているが、死んだ者は何も知らない）」というコヘレトの死の確実性の命題が、第9章では「死の拒絶」という逆説として裏返される。Iob第3章「Pereat dies in qua natus sum（私が生まれた日は消えてしまえ）」というヨブの死への渇望が、黙示録ではその渇望すら叶わない極限的苦悩として超えられる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Et similitudines locustarum, similes equis paratis in praelium: et super capita earum tamquam coronae similes auro: et facies earum tamquam facies hominum.",
+      "body": "「いなごの姿は戦いの馬のようであった（similes equis paratis in praelium）──金に似た冠──人間の顔のように」──v.7–10はいなごの外形の詳細な描写として、黙示録中最も密度の高い「怪物誌（bestiarium）」を形成する。比喩の連鎖：「similes equis（馬のように）」・「tamquam coronae similes auro（金に似た冠のように）」・「tamquam facies hominum（人間の顔のように）」・v.8「sicut capillos mulierum（女の髪のように）」・「sicut dentes leonum（獅子の歯のように）」・v.9「sicut loricas ferreas（鉄の鎧のように）」・「sicut vox curruum（戦車の音のように）」──七つの「sicut / tamquam（〜のように）」が畳み掛けられる。この複数の動物・人間・金属の特徴を持つ混成的形象は、言語が単一の比喩では捉えられない超自然的存在を複数の類比の連鎖によって輪郭づけようとする試みとして機能する。第1章のキリスト像の「tamquam」連鎖（v.14–16）と同型の描写戦略が、ここでは反キリスト的存在の描写に適用される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Et habebant capillos sicut capillos mulierum. Et dentes earum, sicut dentes leonum erant:",
+      "body": "「女の髪のような髪──獅子の歯のような歯（sicut capillos mulierum … sicut dentes leonum）」──いなごの形態描写の続き。「capillos mulierum（女の髪）」：誘惑・柔軟性・美の象徴としての女性的属性と、獅子の歯という荒々しい男性的（leonine）な属性の同一存在への混在が形象の奇異さを強化する。この性的・動物的属性の混成はヨハネ書14章v.7のエゼキエル的幻視の伝統に属する。ボードレール「悪の華」における「美の詩」──「Je trône dans l'azur comme un sphinx incompris（理解されぬスフィンクスのように天空に君臨する）」というスフィンクス的美の形象が、黒い混成的怪物の形象と逆方向から照応する：美と恐怖の混成という詩的主題がここでは徹底的に醜悪・破壊的なものとして展開される。",
+      "targetId": "baudelaire_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "et habebant loricas sicut loricas ferreas, et vox alarum earum sicut vox curruum equorum multorum currentium in bellum:",
+      "body": "「鉄の鎧のような胸当て──多くの馬の引く戦車が戦いへと駆け行く音のような翼の音（sicut vox curruum equorum multorum currentium in bellum）」──いなごの形態描写の聴覚的頂点。「vox alarum earum（その翼の音）」：視覚的描写が聴覚へと転換される。「sicut vox curruum equorum multorum currentium in bellum（多くの馬の引く戦車が戦いへと駆け行く音のように）」：「curruum equorum multorum（多くの馬の戦車）」という複数・多量の強調が聴覚的圧倒感を生む。エゼキエル書第1章v.24「sicut sonum aquarum multarum（多くの水の音のように）」という第1章の幻視のキリスト描写「vox illius tamquam vox aquarum multarum（その声は多くの水の声のように）」との聴覚的照応──神的な「多くの水の声」と怪物的な「多くの馬の戦車の音」が対称的な聴覚的充満として機能する。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "et habebant caudas similes scorpionum, et aculei erant in caudis earum: et potestas earum nocere hominibus mensibus quinque:",
+      "body": "「さそりのような尾──その尾には刺があった──五か月間人々を傷つける力（potestas earum nocere hominibus mensibus quinque）」──v.3の「さそりの力」という先行的予告がここで構造的に完結する。「aculei erant in caudis earum（尾には刺があった）」：刺という攻撃の器官が尾（後方）にあるという形象が、前方（「facies tamquam facies hominum（人間のような顔）」という誘惑）と後方（毒の刺）という前後の欺瞞的構造を形成する。「mensibus quinque（五か月間）」：v.5の同語句の反復によって、いなごの怪物誌（v.7–10）全体が「五か月間」という時間的制限の枠内に括られる構造的機能を果たす。ヴェイユ「La Violence（力）」章の「力は人を物にする」という命題が、この「potestas nocere（傷つける力）」という制限付きの権能の行使において体現される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "et habebant super se regem angelum abyssi cui nomen hebraice Abaddon, graece autem Apollyon, latine habens nomen Exterminans.",
+      "body": "「深淵の使い──ヘブライ語でアバドン、ギリシア語でアポリュオン、ラテン語でエクステルミナンス（Exterminans：滅ぼす者）」──第9章における唯一の「三言語の名（trilingual name）」の提示。「Abaddon（アバドン）」：ヘブライ語「אֲבַדּוֹן」は「滅亡・破壊の場所」を原義とし、ヨブ記第26章v.6・詩篇第88篇v.12では「黄泉の深淵」を指す語として機能する。「Apollyon（アポリュオン）」：ギリシア語「ἀπολλύων」は「滅ぼす者」の現在分詞形で、アポロ神との音声的接近が意図されているとする解釈もある。「Exterminans（エクステルミナンス）」：「ex + terminus（境界の外へ）」を語根とするラテン語で、「駆逐する者・根絶する者」。三言語による名の提示は第2章v.17「nomen novum scriptum quod nemo scit nisi qui accipit（誰も知らない新しい名）」という秘された名の約束と対照的に、この王の名を三言語で公示するという反転として機能する。",
+      "targetId": "hieronymus_apocalypsis_2",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Vae unum abiit, et ecce veniunt adhuc duo vae post haec.",
+      "body": "「第一の災いは過ぎ去った──この後さらに二つの災いが来ようとしている（veniunt adhuc duo vae post haec）」──第8章v.13の鷲による「Vae, vae, vae（災いあれ、災いあれ、災いあれ）」という三重の予告のうち第一の「Vae」の完了と残り二つへの橋渡し。「Vae unum abiit（第一の災いは過ぎ去った）」という確認が、叙事的語りの構造的経過報告として機能する。「ecce veniunt adhuc duo vae（この後さらに二つの災いが来ようとしている）」：「ecce（見よ）」という提示詞が再び緊張を高める。この節はApocalypsis全体の「数え上げ（numeratio）」という構造的技法の典型として：封印・ラッパ・鉢という三系列の各段階の完了と継続が確認されながら進行する。Ecclesiastes第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性に対し、第9章の「duo vae（二つの災い）」という累積的・非循環的な禍の進行が対置される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et sextus angelus tuba cecinit: et audivi vocem unam ex quatuor cornibus altaris aurei, quod est ante oculos Dei,",
+      "body": "「第六の天使がラッパを吹いた──神の御前にある金の祭壇の四つの角の一つから声を聞いた（ex quatuor cornibus altaris aurei）」──第六のラッパが第五のラッパと異なる起動機構を持つ点に注目。第五では深淵の鍵が星に与えられたのに対し、第六では「金の祭壇の角からの声」という典礼的位置からの命令として。「quatuor cornibus altaris aurei（金の祭壇の四つの角）」：旧約の神殿祭儀において「角（cornua）」は祭壇の最も聖なる部分であり、贖罪の血が塗られる場所（出エジプト記30:10）。第8章v.3「altare aureum quod est ante thronum Dei（神の御座の前にある金の祭壇）」の反復──祈りの上昇と審判命令の下降が同一の祭壇から発されるという構造。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "dicentem sexto angelo, qui habebat tubam: Solve quatuor angelos, qui alligati sunt in flumine magno Euphrate.",
+      "body": "「大きな川ユーフラテスのほとりに縛られている四人の天使たちを解き放て（Solve quatuor angelos, qui alligati sunt in flumine magno Euphrate）」──地理的固有名詞「Euphrates（ユーフラテス）」の登場がApocalypsis第9章に歴史的・地政学的な次元を付与する。「Euphrate（ユーフラテス）」：メソポタミアを貫く大河で、古代ローマ帝国の東方の境界線として機能した。「パルティア」という東方からの軍事的脅威の象徴として機能する。「alligati sunt（縛られている）」：天使たちが縛られていたという先行的拘束の状態が、解放の瞬間まで維持されてきたことを示す──第6章v.11「requiescerent adhuc tempus modicum（もうしばらく安息せよ）」という殉教者たちへの時間的猶予と同型の「縛られた時間」として。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et soluti sunt quatuor angeli, qui parati erant in horam, et diem, et mensem, et annum, ut occiderent tertiam partem hominum.",
+      "body": "「その時、その日、その月、その年のために備えられていた四人の天使（parati erant in horam, et diem, et mensem, et annum）」──時間的精密性の極限的定式。「in horam, et diem, et mensem, et annum（その時・その日・その月・その年のために）」：時間の四単位（時・日・月・年）による特定がこの出来事の宇宙的計画性を定式化する。Ecclesiastes第3章v.1「Omnia tempus habent（すべてのことには定められた時がある）」というコヘレトの時の定義が、ここでは審判の時の精密な定めとして終末論的に展開される。「ut occiderent tertiam partem hominum（人の三分の一を殺すために）」：第8章の「tertia pars（三分の一）」という分率が、ここでは最も重大な対象（「hominum：人間」）への適用として提示される──自然（地・海・川・天体）の三分の一への被害から、人類の三分の一への被害へと対象が転換する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et numerus equestris exercitus vicies millies dena millia. Et audivi numerum eorum.",
+      "body": "「騎兵の軍勢の数は二億であった（vicies millies dena millia）──私はその数を聞いた」──第7章v.4「centum quadraginta quatuor millia（十四万四千人）」という保護された者たちの数と対称的な巨大数の提示。「vicies millies dena millia（二万の万倍）」：ラテン語の数詞が積み重なる「二億（200,000,000）」という途方もない数。「Et audivi numerum eorum（私はその数を聞いた）」：「見た」ではなく「聞いた（audivi）」という動詞が選ばれることで、視覚的に把握不能な規模を聴覚的に受け取った事実が示される。第5章v.11「erat numerus eorum millia millium（その数は万の万倍）」という天使の数の反響として──天上の礼拝の無数の天使と地上の審判の軍勢の無数の騎兵が「数えられない大数」という形式において対称をなす。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "et qui sedebant super eos, habebant loricas igneas, et hyacinthinas, et sulphureas, et capita equorum erant tamquam capita leonum: et de ore eorum procedit ignis, et fumus, et sulphur.",
+      "body": "「火のような、青みがかった、硫黄色の鎧──馬の頭は獅子の頭のようであり──その口から火と煙と硫黄が出た（ignis, et fumus, et sulphur）」──第六のラッパの騎兵軍の三色描写。「igneas, et hyacinthinas, et sulphureas（火のような・青みがかった・硫黄色の）」：三色の鎧が「ignis（火）・fumus（煙）・sulphur（硫黄）」という三つの攻撃的要素（v.18）の予告的色彩として機能する：赤（火）・青（煙）・黄（硫黄）という色彩的対応。「hyacinthinas（ヒヤシンス色・青みがかった）」：ヒヤシンスの花の青紫色を指すラテン語で、煙の青みとの照応。「de ore eorum procedit ignis, et fumus, et sulphur（その口から火と煙と硫黄が出た）」：第1章v.16「de ore ejus gladius utraque parte acutus exibat（口から両刃の鋭い剣が出ていた）」というキリストの口からの剣と対称的に、ここでは馬の口から三種の破壊物が出る。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Et ab his tribus plagis occisa est tertia pars hominum de igne, et de fumo, et sulphure, quae procedebant de ore ipsorum.",
+      "body": "「これら三つの災い──火と煙と硫黄によって人の三分の一が殺された（occisa est tertia pars hominum）」──第9章における最大の死の数値の確定。「tribus plagis（三つの災い）」：「ignis（火）・fumus（煙）・sulphur（硫黄）」という三要素が「tres plagae（三つの災い）」として明示的に命名される。「tertia pars hominum（人の三分の一）」：第8章が自然的対象の「三分の一」への被害を列挙したのに対し、第9章の第六のラッパは「人類の三分の一（tertia pars hominum）」という人的被害の頂点として機能する。「quae procedebant de ore ipsorum（彼らの口から出るもの）」という関係節が「tribus plagis」を「口からの放出」として定義する──「口（os）」という同一の器官から神的言語（キリストの剣、第1章）と破壊的物質（馬の火・煙・硫黄）が出るという対称が徹底される。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 19,
+      "type": "prosody",
+      "anchor": "Potestas enim equorum in ore eorum est, et in caudis eorum, nam caudae eorum similes serpentibus, habentes capita: et in his nocent.",
+      "body": "「馬の力はその口と尾の中にある（Potestas enim equorum in ore eorum est, et in caudis eorum）──尾は頭を持つ蛇のようであり」──口（前方）と尾（後方）という馬の両端に危険が宿るという形象の完結。「in ore … et in caudis（口に……尾に）」：前後双方の危険という包囲的脅威の定式。「caudae eorum similes serpentibus, habentes capita（尾は頭を持つ蛇のようであり）」：v.7–10のいなごの「尾はさそりのよう」に続き、今度の馬の「尾は頭を持つ蛇のよう」という二段階の怪物誌が連鎖する。「头を持つ蛇（serpentes habentes capita）」は通常の蛇と異なる特異な混成物として提示される。Ecclesiastes第1章v.6「in circulos suos revertitur（巡回へと戻る）」という風の循環的動きが、この「口と尾の両方向の攻撃」という循環的包囲として黙示録的に歪められた形で反響する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Et ceteri homines, qui non sunt occisi in his plagis, neque poenitentiam egerunt de operibus manuum suarum, ut non adorarent daemonia, et simulacra aurea, et argentea, et aerea, et lapidea, et lignea, quae neque videre possunt, neque audire, neque ambulare,",
+      "body": "「殺されなかった残りの人々は……悔い改めなかった（neque poenitentiam egerunt）──金・銀・銅・石・木の偶像を礼拝することをやめなかった（simulacra aurea, et argentea, et aerea, et lapidea, et lignea）」──第9章の神学的核心命題。大規模な審判を経ても人間が悔い改めないという「悔い改めなき心の頑なさ（impoenitentia）」の診断。「simulacra aurea, et argentea, et aerea, et lapidea, et lignea（金・銀・銅・石・木の偶像）」：五素材の偶像の列挙がダニエル書第5章の宴会の場面（金・銀・銅・鉄・木・石の神々）の反響として。「quae neque videre possunt, neque audire, neque ambulare（見ることも聞くことも歩くこともできない）」：詩篇第115篇v.5–7「os habent et non loquentur … oculos habent et non videbunt（口はあるが語らず、目はあるが見えない）」という偶像批判の定式の変奏として。Ecclesiastes第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は飽くことなく、耳は満たされない）」という人間の不飽和的知覚と対照的に、偶像は「見ることも聞くこともできない（neque videre possunt, neque audire）」という知覚の完全な欠如として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "et non egerunt poenitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis.",
+      "body": "「殺人も、呪術も、淫行も、盗みも悔い改めなかった（non egerunt poenitentiam ab homicidiis suis, neque a veneficiis suis, neque a fornicatione sua, neque a furtis suis）」──第9章の結語であり、第10章以降への問いとして残される。「homicidiis（殺人）・veneficiis（呪術）・fornicatione（淫行）・furtis（盗み）」という四項目の罪の列挙が「neque … neque … neque（も……も……も）」という連続否定で括られる。この「non egerunt poenitentiam（悔い改めなかった）」という結語は第9章全体の最大の逆説を形成する：これほどの壊滅的な審判（第五・第六のラッパ）を経てもなお「悔い改め（poenitentia）」が生じないという人間の心の頑なさ。Ecclesiastes第1章v.15「Perversi difficile corriguntur, et stultorum infinitus est numerus（曲がったものは正すことが難しく、愚か者の数は無限である）」というコヘレトの人間観がここで黙示録的に確認される：第9章全体の壊滅を経ても「perversi（曲がった者）」は改めない。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    }
+  ]
+}
