@@ -1,0 +1,213 @@
+{
+  "id": "hieronymus_apocalypsis_8",
+  "title": "Apocalypsis, Caput VIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput VIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+8&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの默示録第8章。第7封印の開封による「天の半時間の沈黙（silentium quasi media hora）」から始まり、かの香の店立的泡たの後、七人の天使がラッパの吹奏を初める第一段として第8章が機能する。第一のラッパ（v.7）血の混じった雹と火で地の三分の一と木々が焦される。第二のラッパ（v.8–9）炎の山のようなものが海に投げ込まれ、海の三分の一が血となこる。第三のラッパ（v.10–11）アブシンティウムという名の星が水源を汚すサ。第四のラッパ（v.12）太陽・月・星の三分の一が暗くなる。そして第8章は天中を飛ぶ鷹の三重の「Vae, vae, vae（災いあれ）」という予告で閉じる。VANITISMEコーパスにおける位置づけ：第8章は構造的に第1封印（第4–5章）の天上的礼拝と第6章の封印開封による破局とを結びつける機能を持つ。第一封印の沈黙（silentium quasi media hora）はApocalypsis全体の中最も印象的な沈黙であり、マラルメ詩学における沈黙の中心性との最も濃密な照応を担う箇所となる。香の岗立（v.3–4）は第6章の殉者たちの訴え声への応答として位置づけられ、香溺の地への投下（v.5）が七つのラッパによる破局の連鎖を引き起こす。Ecclesiastes第1章の「太陽は昇り沈む」という循環的安定性、「川は海へ流れ込む」という永続的循環、「大地は永遠に立ち続ける」という地の永続性が、第8章ではそれぞれ占第一・第二・第四のラッパによって次々に搏履される。",
+  "keywords": [
+    "silentium quasi media hora",
+    "septem tubae",
+    "thuribulum aureum",
+    "orationes sanctorum",
+    "grando et ignis",
+    "tertia pars",
+    "mons magnus igne ardens",
+    "Absinthium",
+    "aquae amarae",
+    "Vae vae vae"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_7",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_apocalypsis_4",
+    "hieronymus_apocalypsis_5",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "mallarme_coup_de_des",
+    "trakl_abendlaendisches_lied"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et cum aperuisset sigillum septimum, factum est silentium in caelo, quasi media hora.",
+      "provisionalTranslation": "小羊が第七の封印を開いたとき、天に約半時間の沈黙が生じた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et vidi septem angelos stantes in conspectu Dei: et datae sunt illis septem tubae.",
+      "provisionalTranslation": "私は神の御前に立つ七人の天使を見た。彼らに七つのラッパが与えられた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et alius angelus venit, et stetit ante altare habens thuribulum aureum: et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum Dei.",
+      "provisionalTranslation": "また別の天使が来て、金の香炉を持って祭壇の前に立った。神の御座の前にある金の祭壇の上で、すべての聖徒たちの祈りに添えて多くの香を献げるために、多くの香が与えられた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo.",
+      "provisionalTranslation": "香の煙が、聖徒たちの祈りとともに、天使の手から神の御前に立ち昇った。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram: et facta sunt tonitrua, et voces, et fulgura, et terraemotus magnus.",
+      "provisionalTranslation": "それから天使は香炉を取り、祭壇の火でそれを満たして地に投げた。すると雷鳴と声と稲妻と大地震が起きた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et septem angeli, qui habebant septem tubas, praeparaverunt se ut tuba canerent.",
+      "provisionalTranslation": "七つのラッパを持つ七人の天使たちは、ラッパを吹く備えをした。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terrae combusta est, et tertia pars arborum concremata est, et omne foenum viride combustum est.",
+      "provisionalTranslation": "第一の天使がラッパを吹いた。すると血の混じった雹と火が生じて地に投げられ、地の三分の一が焼かれ、木の三分の一が焼け、青草もすべて焼き尽くされた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et secundus angelus tuba cecinit: et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis,",
+      "provisionalTranslation": "第二の天使がラッパを吹いた。すると火の燃える大きな山のようなものが海に投げ込まれ、海の三分の一が血となった。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "et mortua est tertia pars creaturae eorum, quae habebant animas in mari, et tertia pars navium interiit.",
+      "provisionalTranslation": "また海の中にいて命を持つ被造物の三分の一が死に、船の三分の一が滅びた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et tertius angelus tuba cecinit: et cecidit de caelo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum:",
+      "provisionalTranslation": "第三の天使がラッパを吹いた。すると松明のように燃えている大きな星が天から落ちて、川の三分の一と水の源の上に落ちた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et nomen stellae dicitur Absinthium, et facta est tertia pars aquarum in absinthium; et multi hominum mortui sunt de aquis, quia amarae factae sunt.",
+      "provisionalTranslation": "その星の名は苦艾(アブシンティウム)と言われる。水の三分の一がニガヨモギのようになり、水が苦くなったために多くの人々が死んだ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et quartus angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter.",
+      "provisionalTranslation": "第四の天使がラッパを吹いた。すると太陽の三分の一と月の三分の一と星の三分の一が打たれて、それらの三分の一が暗くなり、昼の三分の一は光らず、夜も同様であった。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et vidi, et audivi vocem unius aquilae volantis per medium caeli dicentis voce magna: Vae, vae, vae habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.",
+      "provisionalTranslation": "私はまた、天の真ん中を飛ぶ一羽の鷲が大声で言うのを見聞きした。「地に住む者たちに災いあれ、災いあれ、災いあれ。まだラッパを吹こうとしている三人の天使たちの残りの声のゆえに。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et cum aperuisset sigillum septimum, factum est silentium in caelo, quasi media hora.",
+      "body": "「第七の封印が開かれたとき、天に約半時間の沈黙が生じた（factum est silentium in caelo, quasi media hora）」──Apocalypsis全体の最も衝撃的な場面転換の一つ。七つの封印という長大な緊張の連鎖（第5–7章）が「silentium（沈黙）」という零度の出来事によって解かれる。「quasi media hora（約半時間）」という日常的な時間の具体性が宇宙的文脈の中で際立つ：第4章の「生き物たちは昼も夜も休まない」という永続的な「Sanctus」の頌歌が沈黙によって中断される。「silentium（沈黙）」：ソフォニヤ書第1章v.7「Silete a facie Domini（主の御前で静まれ）」・ハバクク書第2章v.20「sileat omnis terra（全地よ沈黙せよ）」という預言的沈黙の命令の終末論的実現として。マラルメ詩学における「沈黙（silence）」──詩の言語はその周囲の空白・沈黙によって意味を得るという命題──が、この半時間の沈黙と詩的に照応する：七つのラッパという音響的展開の前の絶対的な沈黙として。ヴェイユ「Accepter le vide」の「神を待つ沈黙」という主題が、この「silentium quasi media hora」という待期の空白に最も凝縮された形で体現される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et vidi septem angelos stantes in conspectu Dei: et datae sunt illis septem tubae.",
+      "body": "「神の御前に立つ七人の天使（septem angelos stantes in conspectu Dei）──七つのラッパ（septem tubae）」──沈黙の後の第一の動きとして七人の天使とラッパの付与が提示される。「stantes in conspectu Dei（神の御前に立つ）」：第7章v.1「quatuor angelos stantes super quatuor angulos terrae（地の四つの隅に立つ四人の天使）」という地上的位置と対称的に、「神の御前（in conspectu Dei）」という天上的位置に立つ天使たちが今度は地上的破局の執行者となる。「septem tubae（七つのラッパ）」：「datae sunt illis（彼らに与えられた）」という受動態が、ラッパが上位の意志によって付与された道具であることを示す──第6章の騎者への「data est（与えられた）」という受動態の繰り返しと同型。ラッパ（tuba）は古代ローマの軍用ラッパ・旧約の祭儀的角笛（šôpār）・裁きの召喚という三重の意味系を持ち、第8–11章全体の構造的骨格となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et alius angelus venit, et stetit ante altare habens thuribulum aureum: et data sunt illi incensa multa, ut daret de orationibus sanctorum omnium super altare aureum, quod est ante thronum Dei.",
+      "body": "「金の香炉を持ってすべての聖徒たちの祈りに添えて香を献げる（de orationibus sanctorum omnium）」──七人の天使によるラッパの吹奏に先行する典礼的場面の挿入。「alius angelus（別の天使）」：七人の天使とは区別された第八の存在として、典礼的仲介者の役割を担う。「thuribulum aureum（金の香炉）」：第5章v.8「phialas aureas plenas odoramentorum, quae sunt orationes sanctorum（聖徒たちの祈りである香の満ちた金の器）」の反復として──祈りと香の同定という典礼的象徴が再確認される。「de orationibus sanctorum omnium（すべての聖徒たちの祈りに添えて）」：第6章v.10「Usquequo Domine non judicas（いつまで裁きを行わないのですか）」という殉教者たちの訴えの祈りが、香の煙として神の御前に届けられる過程の視覚化として。「altare aureum quod est ante thronum Dei（神の御座の前にある金の祭壇）」：第6章の「subtus altare（祭壇の下）」という殉教者たちの魂の場所と、「ante thronum Dei（御座の前）」という天上的祭壇が上下の軸として対応する。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo.",
+      "body": "「香の煙が、聖徒たちの祈りとともに、天使の手から神の御前に立ち昇った（ascendit fumus incensorum de orationibus sanctorum）」──v.3の典礼的場面の動的完結。「ascendit（立ち昇った）」という上昇の動詞が祈りの天上への移動を視覚的に定式化する。「fumus incensorum（香の煙）」：詩篇第141篇v.2「Dirigatur oratio mea sicut incensum in conspectu tuo（私の祈りをあなたの御前での香のように）」という典礼的比喩の終末論的実現。「de manu angeli coram Deo（天使の手から神の御前に）」：仲介の連鎖──聖徒の祈り→天使の手→香炉の煙→神の御前──という上昇的媒介構造が、第1章v.1「Apocalypsis Jesu Christi, quam dedit illi Deus … servo suo Joanni（神→キリスト→天使→ヨハネ）」という啓示の下降的連鎖と対称をなす：啓示は上から下へ、祈りは下から上へと流れる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et accepit angelus thuribulum, et implevit illud de igne altaris, et misit in terram: et facta sunt tonitrua, et voces, et fulgura, et terraemotus magnus.",
+      "body": "「天使は祭壇の火で香炉を満たして地に投げた（misit in terram）──すると雷鳴と声と稲妻と大地震が起きた」──典礼的上昇（v.4の祈りの煙）から地上への下降（火の投下）という劇的な方向転換。「implevit illud de igne altaris（祭壇の火でそれを満たして）」：祈りを受け取った同じ香炉が今度は「祭壇の火（ignis altaris）」を地に投げる器となる──聖なる火が審判の火として転用される逆説。「misit in terram（地に投げた）」：第6章v.13「stellae de caelo ceciderunt super terram（星たちは地に落ちた）」という下降の反復として、天上から地上への投下という動きがラッパの吹奏前に先行的に実演される。「tonitrua, et voces, et fulgura, et terraemotus magnus」：第4章v.5「de throno procedebant fulgura, et voces, et tonitrua（御座から稲妻と声と雷鳴が出ていた）」の定型句の反復──天上的現象が地上的破局の開始として反響する。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Et septem angeli, qui habebant septem tubas, praeparaverunt se ut tuba canerent.",
+      "body": "「七人の天使たちは、ラッパを吹く備えをした（praeparaverunt se ut tuba canerent）」──第8章における構造的枢軸節。「praeparaverunt se（備えをした）」という完了形が沈黙（v.1）→香の典礼（v.3–5）→準備（v.6）という段階的緊張の高まりの頂点として機能する。v.7以降の「Et primus angelus tuba cecinit（第一の天使がラッパを吹いた）」・「Et secundus angelus tuba cecinit（第二の天使が）」・「Et tertius（第三）」・「Et quartus（第四）」という反復的構文の起点として。この「praeparaverunt se（備えをした）」という節はApocalypsis第8–11章全体の四ラッパ・七ラッパの演奏という長大な展開の前の最後の準備宣言として、沈黙と音響の対比を最大化する。Ecclesiastes第1章v.6「gyrat per meridiem（南を旋回する）」という風の循環的反復と対称的に、ラッパの吹奏は一方向的・累積的な破局の音響として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et primus angelus tuba cecinit, et facta est grando, et ignis, mista in sanguine, et missum est in terram, et tertia pars terrae combusta est",
+      "body": "「第一のラッパ──血の混じった雹と火（grando, et ignis, mista in sanguine）──地の三分の一が焼かれた」──七つのラッパの第一。「grando, et ignis, mista in sanguine（血の混じった雹と火）」：出エジプト記第9章v.24「grando, et ignis permixta（雹と混じり合った火）」というエジプトへの第七の災いの終末論的引用と変容──「in sanguine（血が混じった）」という追加が黙示録的強化として機能する。「tertia pars（三分の一）」：第6章の破局が地の「四分の一（quatuor partes）」への権能であったのに対し、ラッパ系列では「三分の一（tertia pars）」という分率が反復される（v.8・v.9・v.10・v.11・v.12）。三分の一という部分的破局は全体の完全な破壊ではなく、段階的・警告的な審判として機能する。「tertia pars arborum concremata est, et omne foenum viride combustum est（木の三分の一と青草すべてが焼かれた）」：Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」という大地の永続性への直接的打撃として──黙示録では大地そのものが燃やされる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et secundus angelus tuba cecinit: et tamquam mons magnus igne ardens missus est in mare, et facta est tertia pars maris sanguis,",
+      "body": "「第二のラッパ──火の燃える大きな山のようなものが海に投げ込まれた（tamquam mons magnus igne ardens missus est in mare）」──「山（mons）」という形象の終末論的変容。「tamquam mons magnus igne ardens（火の燃える大きな山のように）」：「tamquam（〜のように）」という類比的言語が第1章以来継続する比喩連鎖の一環として、言語では直接指示できない現象を周辺から描写する。「missus est in mare（海に投げ込まれた）」：v.5「misit in terram（地に投げた）」という天使の投下動作の反復として──投げ込まれるものが香炉の火から山へと規模が拡大する。「facta est tertia pars maris sanguis（海の三分の一が血となった）」：出エジプト記第7章v.20「conversus est … fluvius in sanguinem（ナイル川が血に変わった）」というエジプトへの第一の災いの宇宙的スケールへの拡大。Ecclesiastes第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という海の恒常性が「tertia pars maris sanguis（海の三分の一が血）」という変質によって侵食される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "et mortua est tertia pars creaturae eorum, quae habebant animas in mari, et tertia pars navium interiit.",
+      "body": "「海の中にいて命を持つ被造物の三分の一が死に、船の三分の一が滅びた（tertia pars creaturae … tertia pars navium）」──v.8に続く第二のラッパの二次的被害として「三分の一」という分率が三回繰り返される（海の血・海の生物・船）。「creaturae eorum, quae habebant animas in mari（海の中にいて命を持つ被造物）」という長い関係節が生命の条件（命を持つ）を明示することで、命の喪失という事態の重みを強調する。「tertia pars navium interiit（船の三分の一が滅びた）」：船という人間の文明的産物への被害が生物的被害に続けて列挙されることで、自然と文明の両方が同時に損なわれることが示される。第5章v.13「omnem creaturam, quae in caelo est, et super terram, et sub terra, et quae sunt in mari（天と地と地の下と海のすべての被造物）」という礼拝の普遍的射程が、第8章では同じ「被造物（creaturae）」が破壊の対象として反転的に再登場する。",
+      "targetId": "hieronymus_apocalypsis_5",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et tertius angelus tuba cecinit: et cecidit de caelo stella magna, ardens tamquam facula, et cecidit in tertiam partem fluminum, et in fontes aquarum:",
+      "body": "「第三のラッパ──松明のように燃えている大きな星が天から落ちた（cecidit de caelo stella magna, ardens tamquam facula）」──第6章v.13「stellae de caelo ceciderunt super terram（天の星たちは地に落ちた）」という星の落下の反復と変奏。「cecidit（落ちた）」の反復（v.10に二回）が落下の動作を強調する。「ardens tamquam facula（松明のように燃えている）」：第1章v.14「oculi ejus tamquam flamma ignis（その目は炎の火のように）」の「tamquam（〜のように）」による類比的描写の継続として。「in tertiam partem fluminum, et in fontes aquarum（川の三分の一と水の源に）」：「fontes aquarum（水の源）」という語が第7章v.17「deducet eos ad vitae fontes aquarum（いのちの水の泉へと導く）」の「命の泉」と対称をなす──命の泉が毒の源へと反転される破局として。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "et nomen stellae dicitur Absinthium, et facta est tertia pars aquarum in absinthium; et multi hominum mortui sunt de aquis, quia amarae factae sunt.",
+      "body": "「その星の名はアブシンティウム（苦艾）──水が苦くなったために多くの人々が死んだ（amarae factae sunt）」──第8章で唯一名前を与えられた星・第8章の言語的焦点。「Absinthium（アブシンティウム）」：ヘブライ語「לַעֲנָה（la'anah）」のラテン語訳。ヨモギ属の植物で極めて苦く毒性を持つ。ギリシア語「ἄψινθος（apsinthos）」の音訳から現代語「absinthe（アブサン）」が派生した。「amarae factae sunt（苦くなった）」：「amarus（苦い）」という形容詞が水の変質を定義する──第7章v.17「vitae fontes aquarum（いのちの水の泉）」という甘美な水の源と正反対の事態。Ecclesiastes第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、言葉で説明できない）」という言語的不可能性の前に、「苦い水（aquae amarae）」という身体的・感覚的な苦悩の極限が置かれる：語りえない世界の苦さが水の味として具象化される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et quartus angelus tuba cecinit: et percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum, ita ut obscuraretur tertia pars eorum, et diei non luceret pars tertia, et noctis similiter.",
+      "body": "「第四のラッパ──太陽・月・星の三分の一が打たれて暗くなった（percussa est tertia pars solis, et tertia pars lunae, et tertia pars stellarum）」──第一から第四のラッパがそれぞれ地・海・川・天（光）という四元素的秩序を順次に損なう構造として完結する。「percussa est（打たれた）」という受動態の主語が太陽・月・星という三つの天体に等しく適用される。「ita ut obscuraretur tertia pars eorum（それらの三分の一が暗くなるように）」：第6章v.12「sol factus est niger tamquam saccus cilicinus（太陽は袋布のように黒くなった）」という完全な暗黒化に対し、第8章では三分の一という部分的な暗黒化として段階が抑制されている。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的規則性が、「percussa est tertia pars solis（太陽の三分の一が打たれた）」という不規則な損傷によって侵食される。「diei non luceret pars tertia, et noctis similiter（昼の三分の一は光らず、夜も同様）」：昼と夜の平行的暗黒化が「similiter（同様に）」という副詞によって締めくくられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et vidi, et audivi vocem unius aquilae volantis per medium caeli dicentis voce magna: Vae, vae, vae habitantibus in terra de ceteris vocibus trium angelorum, qui erant tuba canituri.",
+      "body": "「天の真ん中を飛ぶ一羽の鷲が大声で言った──災いあれ、災いあれ、災いあれ（Vae, vae, vae）」──第8章の終結にして第9–11章への予告的橋渡し。「aquila volantis per medium caeli（天の真ん中を飛ぶ鷲）」：第4章v.7「quartum animal simile aquilae volanti（第四の生き物は飛ぶ鷲のようであった）」という御座の周囲の生き物の一つとして鷲が登場したことの反響として──礼拝的文脈の鷲が今度は預言的警告者として天の中央を飛ぶ。「Vae, vae, vae（災いあれ、災いあれ、災いあれ）」：三重の「Vae（ワイ）」が第4章の「Sanctus, Sanctus, Sanctus（聖なるかな）」という三重の聖性宣言と対称をなす──礼拝の三聖頌が警告の三禍宣言として反転される。「de ceteris vocibus trium angelorum（残りの三人の天使たちの声のゆえに）」：第8章の四ラッパが第一段階であり、残る三つのラッパ（第9–11章）がより大きな禍をもたらすことが予告される。Ecclesiastes第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という累積的苦悩の増大が、「Vae, vae, vae」という三重の禍の累積的予告として黙示録的に体現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    }
+  ]
+}
