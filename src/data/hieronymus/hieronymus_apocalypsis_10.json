@@ -1,0 +1,188 @@
+{
+  "id": "hieronymus_apocalypsis_10",
+  "title": "Apocalypsis, Caput X",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput X. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+10&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの默示録第10章。第9章の患難的かつ神魔的な第六のラッパの展開と「惾改しなかった」という結語の後に繪しこまれる第10章は、第7章と同様に第七のラッパ（第11章）偶の「間曲（intermezzo）」として機能する。鷩をまとい、頭に虹を截き、顔は太陽のようで、足は火の柱のような力ある天使が降下し、開かれた小さな書物を持って海と地を踏まえる。第10章は三つの核心的出来事を含む。第一に「七つの雷（septem tonitrua）」が声を発するが、天からの声によって「永遠に封印される」――Apocalypsis中唯一の「語られたが書かれなかった」啊示の断片。第二に天使が「tempus non erit amplius（もはや時は終わった）」と誓い――時間の廃絶と「神の奎義の成就（consummabitur mysterium Dei）」の予告。第三によハネが天使の手から小さな書物を受け取り「連べる（devora）」よう命じられる――口の中では蜜のように甘く、腹では苦くなるという捻盾的啊示受容の形象。VANITISMECorpusにおける位置づけ：第10章はApocalypsis全体の言語論的核心として機能する。「書き記すな（noli scribere）」という封印された七つの雷は、言語の可能性と不可能性の境界そのものを描写する――マラルメ詩学の最も深い啊示との対話。「tempus non erit amplius（時は終わった）」はEcclesiastes第1章の循環的時間論への最も直接的な終末論的応答である。「書物を食べる」という形象（v.9–10）はEcclesiastes第1章v.18「知識を加える者は労苦をも加える」という知識論的苦悩の定式が身体的㛅喜的に具象化された形象として読める。",
+  "keywords": [
+    "angelus fortis",
+    "libellum apertum",
+    "septem tonitrua",
+    "noli ea scribere",
+    "tempus non erit amplius",
+    "consummabitur mysterium Dei",
+    "devora librum",
+    "dulce tamquam mel",
+    "amaricatus est venter",
+    "iterum prophetare"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_9",
+    "hieronymus_apocalypsis_5",
+    "hieronymus_apocalypsis_1",
+    "hieronymus_apocalypsis_4",
+    "hieronymus_ecclesiastes_1",
+    "weil_pesanteur_beaute",
+    "mallarme_livre_instrument",
+    "mallarme_coup_de_des",
+    "mallarme_mystere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi alium angelum fortem descendentem de caelo amictum nube, et iris in capite ejus, et facies ejus erat ut sol, et pedes ejus tamquam columnae ignis:",
+      "provisionalTranslation": "私はまた、別の力ある天使が雲をまとって天から下って来るのを見た。その頭の上には虹があり、その顔は太陽のようであり、その足は火の柱のようであった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:",
+      "provisionalTranslation": "その手に開かれた小さな書物を持っていた。その天使は右足を海の上に、左足を地の上に置いた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.",
+      "provisionalTranslation": "そして獅子が咆哮するように大声で叫んだ。その天使が叫ぶと、七つの雷がその声を発した。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et cum locuta fuissent septem tonitrua voces suas, ego scripturus eram: et audivi vocem de caelo dicentem mihi: Signa quae locuta sunt septem tonitrua: et noli ea scribere.",
+      "provisionalTranslation": "七つの雷がその声を発したとき、私は書き記そうとした。すると天から私に語りかける声が聞こえた。「七つの雷が語ったことを封じ、それを書き記してはならない。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et angelus, quem vidi stantem super mare et super terram, levavit manum suam ad caelum:",
+      "provisionalTranslation": "海と地の上に立っているのを私が見た天使は、右手を天に向けて上げ、"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "et juravit per viventem in saecula saeculorum, qui creavit caelum, et ea quae in eo sunt: et terram, et ea quae in ea sunt: et mare, et ea quae in eo sunt: Quia tempus non erit amplius:",
+      "provisionalTranslation": "天とそこにあるもの、地とそこにあるもの、海とそこにあるものを創造された、世々限りなく生きておられる方にかけて誓った。「もはや時は終わった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "sed in diebus vocis septimi angeli, cum coeperit tuba canere, consummabitur mysterium Dei sicut evangelizavit per servos suos prophetas.",
+      "provisionalTranslation": "「しかし第七の天使が声を発してラッパを吹き始める日には、神の奥義が成就する。神がご自分の僕たる預言者たちに告げ知らせたとおりに。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et audivi vocem de caelo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.",
+      "provisionalTranslation": "天から私に語りかける声を再び聞いた。「行って、海と地の上に立っている天使の手から開かれた書物を受け取れ。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.",
+      "provisionalTranslation": "私はその天使のところに行って、書物を私に与えるよう頼んだ。天使は私に言った。「書物を受け取り、それを食べ尽くせ。それはあなたの腹を苦くするだろうが、口の中では蜜のように甘いであろう。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce, et cum devorassem eum, amaricatus est venter meus:",
+      "provisionalTranslation": "私は天使の手から書物を受け取り、それを食べ尽くした。それは口の中では蜜のように甘かったが、食べ尽くすとその腹は苦くなった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et dixit mihi: Oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.",
+      "provisionalTranslation": "すると天使は私に言った。「あなたは再び多くの民族、国民、言語、王たちについて預言しなければならない。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et vidi alium angelum fortem descendentem de caelo amictum nube, et iris in capite ejus, et facies ejus erat ut sol, et pedes ejus tamquam columnae ignis:",
+      "body": "「雲をまとい、頭に虹を戴き、顔は太陽のよう、足は火の柱のような力ある天使（angelum fortem descendentem de caelo）」──第10章の開口部にして第9章の破局的展開からの転換。第9章の深淵・いなご・騎兵軍という暗黒の形象の連続を経て、第10章は輝く天的存在の降下として始まる。「amictum nube（雲をまとって）」：出エジプト記第14章v.19「angelus Dei … praecedebat castra Israel in columna nubis（雲の柱の中にいる神の使い）」という神的臨在の形象。「iris in capite ejus（頭に虹）」：第4章v.3「iris erat in circuitu sedis similis visioni smaragdinae（御座の周囲に翡翠のような虹）」の反響──御座の周囲の虹が天使の頭に移動することで、御座の天的権威がこの天使に凝縮される。「facies ejus erat ut sol（顔は太陽のよう）」：第1章v.16「facies ejus sicut sol lucet in virtute sua（顔は強烈に輝く太陽のよう）」という復活のキリスト像との照応──この天使がキリストその人であるか、あるいはキリストの権威を帯びた存在であるかという釈義的論争がある。「pedes ejus tamquam columnae ignis（足は火の柱のよう）」：第1章v.15「pedes ejus similes auricalco（足は精錬された真鍮のよう）」のキリスト像との比較として。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "et habebat in manu sua libellum apertum: et posuit pedem suum dextrum super mare, sinistrum autem super terram:",
+      "body": "「開かれた小さな書物（libellum apertum）──右足を海の上に、左足を地の上に置いた（posuit pedem suum dextrum super mare, sinistrum autem super terram）」──第10章の二つの中心的形象の提示。「libellum（小さな書物）」：第5章の「librum（書物）」と対応するが、縮小辞「-ellum」によって意図的に区別される──七つの封印の大きな書物に対する「小さな書物」。「apertum（開かれた）」：第5章の封印された書物（signatum sigillis）が開封されたことの結果として「開かれた」状態にある。「posuit pedem dextrum super mare, sinistrum super terram（右足を海に、左足を地に）」：天使の身体が海と地を同時に踏む巨大な空間的形象。海（変動・混沌）と地（安定・秩序）の両方を掌握するという全域支配を身体的に表現する。マラルメ「書（Livre）」の構想──詩は世界全体を内包する書物でなければならないという理念──が「libellum apertum」という開かれた書物の形象と詩的に照応する。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "et clamavit voce magna, quemadmodum cum leo rugit. Et cum clamasset, locuta sunt septem tonitrua voces suas.",
+      "body": "「獅子が咆哮するように大声で叫んだ（quemadmodum cum leo rugit）──七つの雷がその声を発した」──叫び声と七つの雷という連鎖的音響現象。「quemadmodum cum leo rugit（獅子が咆哮するように）」：第5章v.5「vicit leo de tribu Juda（ユダ族の獅子が勝利を得た）」という小羊の別名としての「獅子」との照応──「獅子の咆哮」が天使の声の比喩として機能することで、この天使とキリストの同定が示唆される。「locuta sunt septem tonitrua voces suas（七つの雷がその声を発した）」：「septem tonitrua（七つの雷）」という新たな「七」の系列が突然登場する──しかしv.4で「書き記してはならない」と命じられ、封印されたまま終わる。これはApocalypsis中で唯一「語られたが記録されなかった」啓示の断片として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Signa quae locuta sunt septem tonitrua: et noli ea scribere.",
+      "body": "「七つの雷が語ったことを封じ、それを書き記してはならない（Signa … et noli ea scribere）」──Apocalypsis全体の最も逆説的な命令。「Scribe（書き記せ）」という命令が第1章v.11・v.19・第2–3章の各書簡冒頭に反復されてきたのに対し、第10章v.4では「noli ea scribere（書き記してはならない）」という正反対の命令が与えられる。「Signa（封じよ）」：ダニエル書第8章v.26「tu ergo signa visionem（あなたはその幻を封じよ）」という封印の命令の反響。七つの雷の内容がApocalypsisの唯一の「書かれなかった啓示」として機能する：テキストに空白を作る命令、言語によって沈黙を記述する試み。マラルメの詩学における「沈黙（silence）」・「白（blanc）」──語られなかったものが詩の余白を形成するという命題──と、この「封じられた七つの雷」が最も深いところで照応する：言語が言い得ないものの存在を「書き記すな」という命令によって示す。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Et angelus, quem vidi stantem super mare et super terram, levavit manum suam ad caelum:",
+      "body": "「海と地の上に立っている天使は、右手を天に向けて上げた（levavit manum suam ad caelum）」──誓いの身体的動作の定式。「levavit manum suam ad caelum（手を天に向けて上げた）」：申命記第32章v.40「levabo ad caelum manum meam（私は天に向けて手を上げる）」というモーセの歌における神の誓いの形象の反響。「stantem super mare et super terram（海と地の上に立って）」：v.2の「右足を海に、左足を地に」という配置の反復的確認──誓いの文脈で再度その超越的な位置が強調される。v.5からv.7が一つの誓いの文として構成される：「levavit manum（手を上げた）」→「juravit（誓った）」→「Quia tempus non erit amplius（もはや時は終わった）」という三段階の誓約構造。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "et juravit per viventem in saecula saeculorum, qui creavit caelum, et ea quae in eo sunt: et terram, et ea quae in ea sunt: et mare, et ea quae in eo sunt: Quia tempus non erit amplius:",
+      "body": "「世々限りなく生きておられる方にかけて誓った──もはや時は終わった（tempus non erit amplius）」──第10章の神学的核心命題。「per viventem in saecula saeculorum, qui creavit caelum … et terram … et mare（天と地と海を創造された、世々限りなく生きておられる方）」：第4章v.11「tu creasti omnia（あなたはすべてのものを創造した）」という礼拝の宣言の反復として、創造者の全域支配が誓いの根拠として機能する。「caelum … terram … mare（天・地・海）」という三域列挙が天使の「右足：海、左足：地」という空間的支配と対応する。「tempus non erit amplius（もはや時は終わった）」：Ecclesiastes第1章の循環的時間論への最も直接的な終末論的応答として機能する──コヘレトが「Nihil sub sole novum（太陽の下に新しいものは何もない）」として定式化した時間の閉じた循環が、「tempus non erit amplius」という時間の廃絶によって終焉を迎える。「χρόνος οὐκέτι ἔσται（時間はもはやない）」というギリシア語原典を直訳するヒエロニムスの「tempus non erit amplius」は、カントやヘーゲルの時間哲学への先行的挑戦として、また永遠が時間を飲み込む瞬間の定式として西洋思想全体に刻印を残した。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "sed in diebus vocis septimi angeli, cum coeperit tuba canere, consummabitur mysterium Dei sicut evangelizavit per servos suos prophetas.",
+      "body": "「第七の天使がラッパを吹き始める日には、神の奥義が成就する（consummabitur mysterium Dei）──神がご自分の僕たる預言者たちに告げ知らせたとおりに」──第10章の予告的頂点。「consummabitur mysterium Dei（神の奥義が成就する）」：「consummari（成就する・完成する）」という動詞が第5章の書物・第1–9章の展開全体の目的としての「完成」を予告する。「mysterium Dei（神の奥義）」：第1章v.20「Sacramentum septem stellarum（七つの星の秘義）」の「sacramentum」に続く「mysterium」という語──秘された神的計画の全体が第七のラッパによって「成就」される。「sicut evangelizavit per servos suos prophetas（神がご自分の僕たる預言者たちに告げ知らせたとおりに）」：旧約預言の全体が「mysterium Dei」の先行的告知として位置づけられ、Apocalypsisがその成就として自己定義する。アモス書第3章v.7「non faciet Dominus Deus verbum nisi revelaverit secretum suum ad servos suos prophetas（主なる神は僕である預言者たちに秘密を明かさないで事を行われることはない）」の引用として。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et audivi vocem de caelo iterum loquentem mecum, et dicentem: Vade, et accipe librum apertum de manu angeli stantis super mare, et super terram.",
+      "body": "「天からの声が再び私に語りかけた──行って開かれた書物を受け取れ（Vade, et accipe librum apertum）」──v.4の「書き記してはならない」という封じの命令の後に来る「行け・受け取れ」という正反対の行動命令。「iterum loquentem mecum（再び私に語りかけた）」：「iterum（再び）」という副詞がv.4の沈黙命令からの転換を示す。「Vade, et accipe（行って、受け取れ）」：第1章v.11「Quod vides, scribe（見ることを書け）」以来の命令形の連鎖に加わる新たな命令──「見る・書く」から「行く・受け取る・食べる」という身体的・行動的命令への展開。「librum apertum（開かれた書物）」：v.2の「libellum apertum」の反復として、「開かれた」という状態が強調される──第5章の封印された書物の開封が前提として。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Accipe librum, et devora illum: et faciet amaricari ventrem tuum, sed in ore tuo erit dulce tamquam mel.",
+      "body": "「書物を受け取り、それを食べ尽くせ（devora illum）──腹は苦くなるが、口の中では蜜のように甘い（dulce tamquam mel）」──第10章の最も鮮烈な形象。「devora illum（それを食べ尽くせ）」：エゼキエル書第3章v.1「fili hominis, comede quod invenis, comede volumen istud（人の子よ、あなたが見つけたものを食べよ、この巻物を食べよ）」の直接的引用。書物を「食べる」という行為が預言者的使命の受容の身体的メタファーとして機能する。「amaricari ventrem tuum（腹を苦くする）」・「dulce tamquam mel（蜜のように甘い）」：甘さと苦さの逆説的共存が啓示の二重性を表現する。詩篇第19篇v.10「iudicia Domini … dulciora melle et favo（主の審きは蜜よりも甘い）」の反響として。Ecclesiastes第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という知識の苦悩論が、「口では甘く、腹では苦い」という書物摂取の身体的逆説として黙示録的に具象化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et accepi librum de manu angeli, et devoravi illum: et erat in ore meo tamquam mel dulce, et cum devorassem eum, amaricatus est venter meus:",
+      "body": "「私は書物を受け取り、それを食べ尽くした──口の中では蜜のように甘かったが、食べ尽くすと腹は苦くなった（amaricatus est venter meus）」──v.9の命令が即座に実行される場面。「accepi … et devoravi（受け取り……食べ尽くした）」：二動詞の完了形の連鎖が行為の迅速な完了を示す。「erat in ore meo tamquam mel dulce（口の中では蜜のように甘かった）」と「amaricatus est venter meus（腹は苦くなった）」：口腔（先行的・官能的な甘さ）と胃腹（後続的・内的な苦さ）という身体の異なる部位が啓示の異なる側面を体験する。ヴェイユ「Beauté（美）」章の「美は欲望を刺激するが、与えるものは何もない──この欲望のなかに何か別のものがある」という命題が、「口では甘く腹では苦い」という書物摂取の逆説的経験と構造的に照応する。",
+      "targetId": "weil_pesanteur_beaute",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "et dixit mihi: Oportet te iterum prophetare gentibus, et populis, et linguis, et regibus multis.",
+      "body": "「あなたは再び多くの民族、国民、言語、王たちについて預言しなければならない（Oportet te iterum prophetare）」──第10章の結語であり、第11章以降への転換命令。「Oportet te iterum（あなたは再び……しなければならない）」：「oportet（必要である・しなければならない）」という義務の動詞が「iterum（再び）」という繰り返しの副詞と組み合わさる──預言という使命の更新・継続の命令として。「prophetare gentibus, et populis, et linguis, et regibus multis（多くの民族、国民、言語、王たちについて）」：第7章v.9「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民、部族、民族、言語から）」という大群衆の普遍的包括性と同型の網羅的列挙が、預言の対象として再提示される。書物を「食べる」という内的受容から「預言する」という外的発信へ：啓示の受容（v.9–10）が使命の発信（v.11）へと転換するApocalypsis第10章の構造的弧が完結する。第1章v.19「Scribe ergo quae vidisti（見たことを書き記せ）」という最初の命令が、ここでは「Oportet te prophetare（預言せよ）」という更新された使命として反響する。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 19
+    }
+  ]
+}
