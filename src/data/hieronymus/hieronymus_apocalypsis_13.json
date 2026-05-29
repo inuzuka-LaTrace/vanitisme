@@ -1,0 +1,276 @@
+{
+  "id": "hieronymus_apocalypsis_13",
+  "title": "Apocalypsis, Caput XIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+13&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第13章。第12章の結語「竜は海の砂の上に立った」から直接展開し、海から上って来る第一の獣（v.1–10）と地から上って来る第二の獣（v.11–18）の登場を記述する。第一の獣は七つの頭と十の角を持ち、各頭に冒瀆の名を帯びる。竜から権能を委譲された獣は全地に神的権力を僭称し、四十二か月間にわたって神の名と幕屋を冒瀆し、聖徒たちを迫害する。第二の獣は小羊のような外見を持ちながら竜のように語る偽預言者であり、第一の獣への礼拝を強制し、獣の刻印（caracter）を持たない者は売買できない制度を確立し、「六百六十六（sexcenti sexaginta sex）」という謎の数字で章は閉じる。VANITISMEコーパスにおける位置づけ：第13章はApocalypsis全体の「偶像と礼拝」という主題の集中的な展開として機能する。第4–5章の天上的礼拝（神と小羊への自発的礼拝）が、第13章では竜と獣への強制的礼拝として正反対の形で展開される。「Quis similis bestiae（誰が獣と同じか）」（v.4）という問いは、出エジプト記の「Quis similis tui in diis（誰があなたに似ているか）」という神への礼拝的問いを冒瀆的に転用したものである。第11章の二人の証人が持つ正統な奇跡的権能（口からの火・雨を止める力）が、第13章では偽預言者の偽の奇跡（天からの火・獣の像を語らせる）として模倣・転倒される。結語の「Hic sapientia est（ここに知恵がある）」（v.18）は、Ecclesiastes第1章の「多くの知恵には多くの憤りがある」というコヘレトの知恵論への終末論的応答として、知恵を獣を解読するための実践的能力として再定義する。",
+  "keywords": [
+    "bestia de mari",
+    "draco magnus rufus",
+    "nomina blasphemiae",
+    "plaga mortis curata",
+    "Quis similis bestiae",
+    "libro vitae Agni ab origine mundi",
+    "altera bestia de terra",
+    "caracter bestiae",
+    "imago bestiae",
+    "sexcenti sexaginta sex"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_12",
+    "hieronymus_apocalypsis_11",
+    "hieronymus_apocalypsis_9",
+    "hieronymus_apocalypsis_7",
+    "hieronymus_apocalypsis_2",
+    "hieronymus_ecclesiastes_1",
+    "weil_dressage",
+    "weil_la_violence",
+    "mallarme_mystere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi de mari bestiam ascendentem habentem capita septem, et cornua decem, et super cornua ejus decem diademata, et super capita ejus nomina blasphemiae.",
+      "provisionalTranslation": "私は海から獣が上って来るのを見た。七つの頭と十の角を持ち、その角に十の王冠をつけ、その頭には冒瀆の名が記されていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et bestia, quam vidi, similis erat pardo, et pedes ejus sicut pedes ursi, et os ejus sicut os leonis. Et dedit illi draco virtutem suam, et potestatem magnam.",
+      "provisionalTranslation": "私が見た獣は豹のようであり、その足は熊の足のようであり、その口は獅子の口のようであった。竜は自分の力と大きな権能を獣に与えた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et vidi unum de capitibus suis quasi occisum in mortem: et plaga mortis ejus curata est. Et admirata est universa terra post bestiam.",
+      "provisionalTranslation": "私はその頭の一つが致命傷を受けたかのように見えたが、その死の傷は癒された。全地は獣に驚嘆し、獣の後に従った。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et adoraverunt draconem, qui dedit potestatem bestiae: et adoraverunt bestiam, dicentes: Quis similis bestiae? et quis poterit pugnare cum ea?",
+      "provisionalTranslation": "人々は竜を礼拝した。竜が獣に権能を与えたからである。また人々は獣を礼拝して言った。「誰が獣と同じだろうか。誰が獣と戦うことができようか。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et datum est ei os loquens magna et blasphemias: et data est ei potestas facere menses quadraginta duos.",
+      "provisionalTranslation": "獣には傲慢なことと冒瀆を語る口が与えられた。また四十二か月間行動する権能が与えられた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et aperuit os suum in blasphemias ad Deum, blasphemare nomen ejus, et tabernaculum ejus, et eos qui in caelo habitant.",
+      "provisionalTranslation": "獣は神を冒瀆するためにその口を開き、神の名と神の幕屋と天に住む者たちを冒瀆した。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et est datum illi bellum facere cum sanctis, et vincere eos. Et data est illi potestas in omnem tribum, et populum, et linguam, et gentem,",
+      "provisionalTranslation": "獣には聖徒たちと戦って打ち勝つことが許された。またあらゆる部族、民族、言語、国民の上に権能が与えられた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "et adoraverunt eam omnes, qui inhabitant terram: quorum non sunt scripta nomina in libro vitae Agni, qui occisus est ab origine mundi.",
+      "provisionalTranslation": "地に住む者たちは皆、獣を礼拝するであろう。ただし、世の初めから屠られた小羊の命の書に名が書き記されていない者たちが。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Si quis habet aurem, audiat.",
+      "provisionalTranslation": "耳ある者は聞け。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Qui in captivitatem duxerit, in captivitatem vadet: qui in gladio occiderit, oportet eum gladio occidi. Hic est patientia, et fides sanctorum.",
+      "provisionalTranslation": "捕らわれに行くべき者は捕らわれに行く。剣で殺す者は剣で殺されなければならない。ここに聖徒たちの忍耐と信仰がある。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et vidi aliam bestiam ascendentem de terra, et habebat cornua duo similia Agni, et loquebatur sicut draco.",
+      "provisionalTranslation": "私はまた別の獣が地から上って来るのを見た。小羊のような二つの角を持っていたが、竜のように語った。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et potestatem prioris bestiae omnem faciebat in conspectu ejus: et fecit terram, et habitantes in ea, adorare bestiam primam, cujus curata est plaga mortis.",
+      "provisionalTranslation": "この獣は前の獣の全権能をその前で行使し、地とそこに住む者たちに、死の傷が癒された前の獣を礼拝させた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et fecit signa magna, ut etiam ignem faceret de caelo descendere in terram in conspectu hominum.",
+      "provisionalTranslation": "この獣は大きなしるしを行い、人々の前で天から地に火を降らせさえした。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et seduxit habitantes in terra propter signa, quae data sunt illi facere in conspectu bestiae, dicens habitantibus in terra, ut faciant imaginem bestiae, quae habet plagam gladii, et vixit.",
+      "provisionalTranslation": "この獣は獣の前で行うことを許されたしるしによって地に住む者たちを惑わし、剣の傷を受けながらも生き返った獣の像を作るよう地に住む者たちに言った。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et datum est illi ut daret spiritum imagini bestiae, et ut loquatur imago bestiae: et faciat ut quicumque non adoraverint imaginem bestiae, occidantur.",
+      "provisionalTranslation": "また獣の像に霊を与えて、獣の像が語れるようにし、獣の像を礼拝しない者はみな殺されるようにする権能が与えられた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et faciet omnes pusillos, et magnos, et divites, et pauperes, et liberos, et servos habere caracterem in dextera manu sua, aut in frontibus suis:",
+      "provisionalTranslation": "この獣は、小さな者も大きな者も、富む者も貧しい者も、自由人も奴隷も、すべての者に右手か額に刻印を受けさせた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "et nequis possit emere, aut vendere, nisi qui habet caracterem, aut nomen bestiae, aut numerum nominis ejus.",
+      "provisionalTranslation": "そして、獣の刻印、すなわち獣の名かその名の数字を持つ者でなければ、誰も買うことも売ることもできないようにした。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Hic sapientia est. Qui habet intellectum, computet numerum bestiae. Numerus enim hominis est: et numerus ejus sexcenti sexaginta sex.",
+      "provisionalTranslation": "ここに知恵がある。知性のある者は獣の数字を計算せよ。その数字は人間の数字であり、その数字は六百六十六である。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Et vidi de mari bestiam ascendentem habentem capita septem, et cornua decem, et super cornua ejus decem diademata, et super capita ejus nomina blasphemiae.",
+      "body": "「海から獣が上って来た（de mari bestiam ascendentem）──七つの頭と十の角──頭には冒瀆の名（nomina blasphemiae）」──第12章v.18「竜は海の砂の上に立った」という結語から直接展開する第13章の開口部。「de mari（海から）」：第12章の竜の立ち位置（海の砂）から第13章では獣が「海から」上って来るという直接的な連続として。ダニエル書第7章v.3「quatuor bestiae grandes ascendebant de mari（四匹の大きな獣が海から上って来た）」の終末論的引用として。「capita septem, et cornua decem（七つの頭と十の角）」：第12章v.3の竜の「capita septem, et cornua decem」と完全に同型であることで、獣が竜の地上的代理として機能することが視覚的に定式化される──ただし「diademata（王冠）」の位置が第12章では頭にあったのに対し、第13章では角に移動する微妙な差異がある。「nomina blasphemiae（冒瀆の名）」：「blasphemia（冒瀆）」という語が以後の章全体のキーワードとして機能する：v.5・v.6に繰り返される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et bestia, quam vidi, similis erat pardo, et pedes ejus sicut pedes ursi, et os ejus sicut os leonis. Et dedit illi draco virtutem suam, et potestatem magnam.",
+      "body": "「豹のようであり、熊の足のようであり、獅子の口のような（similis erat pardo … sicut pedes ursi … sicut os leonis）──竜は自分の力と大きな権能を獣に与えた（dedit illi draco virtutem suam）」──三動物の混成という怪物誌的定義と権能の委譲。「similis erat pardo（豹のよう）」・「sicut pedes ursi（熊の足のよう）」・「sicut os leonis（獅子の口のよう）」：三種の猛獣の特徴を一身に集めた混成的形象。ダニエル書第7章の四匹の獣（獅子・熊・豹・第四の獣）の統合された変容として──ダニエルの四帝国が黙示録では一匹の獣に凝縮される。第9章v.7–10のいなごの怪物誌と同型の「tamquam / sicut」による複数の類比連鎖が、第13章では三動物という形で適用される。「dedit illi draco virtutem suam（竜は自分の力を獣に与えた）」：第12章での追放の後、竜が地上における代理として獣に権能を委譲するという組織的な悪の構造。",
+      "targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et vidi unum de capitibus suis quasi occisum in mortem: et plaga mortis ejus curata est. Et admirata est universa terra post bestiam.",
+      "body": "「頭の一つが致命傷を受けたかのように見えたが、その死の傷は癒された（plaga mortis ejus curata est）──全地は獣に驚嘆した（admirata est universa terra）」──第13章の神学的核心的逆説。「quasi occisum in mortem（致命傷を受けたかのように）」：第5章v.6「Agnum stantem tamquam occisum（屠られたかのように立っている小羊）」の「tamquam occisum（屠られたかのように）」と同型の「quasi occisum（傷を受けたかのように）」という類比形──小羊の真の死と復活を模倣する獣の偽の「死と回復」として。「plaga mortis ejus curata est（死の傷は癒された）」：「curata est（癒された）」という受動形が誰によって癒されたかを不明確にすることで、奇跡的癒しという外観の欺瞞性を強調する。「admirata est universa terra（全地は驚嘆した）」：第7章v.9の大群衆が御座の前で礼拝したのに対し、この「驚嘆（admiratio）」は礼拝（adoratio）への前段階として機能する。",
+      "targetId": "hieronymus_apocalypsis_5",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et adoraverunt draconem, qui dedit potestatem bestiae: et adoraverunt bestiam, dicentes: Quis similis bestiae? et quis poterit pugnare cum ea?",
+      "body": "「竜を礼拝した──獣を礼拝して言った：誰が獣と同じだろうか（Quis similis bestiae?）──誰が獣と戦うことができようか」──礼拝の倒錯的転用。「adoraverunt draconem … et adoraverunt bestiam（竜を礼拝した……獣を礼拝した）」：「adorare（礼拝する）」という動詞が第4–5章・第7章・第11章の神への礼拝場面で繰り返されてきた動詞が、ここでは竜と獣への礼拝として倒錯的に転用される。「Quis similis bestiae?（誰が獣と同じだろうか）」：出エジプト記第15章v.11「Quis similis tui in diis, Domine?（主よ、神々の中で誰があなたに似ているでしょうか）」というモーセの海の歌の冒瀆的パロディとして──神への問いかけの定式が獣への問いかけとして転用される。「quis poterit pugnare cum ea?（誰が獣と戦うことができようか）」：第6章v.17「quis poterit stare?（誰が立っていられるか）」という問いが獣への恐怖として反響する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et datum est ei os loquens magna et blasphemias: et data est ei potestas facere menses quadraginta duos.",
+      "body": "「傲慢なことと冒瀆を語る口が与えられた（os loquens magna et blasphemias）──四十二か月間行動する権能が与えられた（menses quadraginta duos）」──獣の二つの権能の定式化。「datum est ei os loquens magna et blasphemias（傲慢なことと冒瀆を語る口が与えられた）」：「datum est（与えられた）」という受動形が獣の権能の上位からの委譲性を示す。「os（口）」という器官が第13章の中心的主題として機能する：v.2「os ejus sicut os leonis（獅子の口のよう）」・v.5「os loquens magna et blasphemias（傲慢と冒瀆を語る口）」・v.6「aperuit os suum in blasphemias（口を開いて冒瀆した）」という三段階の展開として。第11章v.5「ignis exiet de ore eorum（彼らの口から火が出る）」という証人たちの防衛的な口と対称的に、獣の口は攻撃的・冒瀆的な語りの器官として機能する。「menses quadraginta duos（四十二か月）」：第11章v.2と同一の期間──獣の行動期間が聖なる都の踏み荒らし期間と同期する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et aperuit os suum in blasphemias ad Deum, blasphemare nomen ejus, et tabernaculum ejus, et eos qui in caelo habitant.",
+      "body": "「神の名と神の幕屋と天に住む者たちを冒瀆した（blasphemare nomen ejus, et tabernaculum ejus, et eos qui in caelo habitant）」──冒瀆の三重の対象。「nomen ejus（神の名）」：第2章v.17「nomen novum scriptum（新しい名が記されている）」・第3章v.12「scribam super eum nomen Dei mei（神の名を書き記す）」という名の神聖性を冒瀆する行為として。「tabernaculum ejus（神の幕屋）」：第7章v.15「qui sedet in throno, habitabit super illos（御座に座る方が彼らの上に幕屋を張る）」という保護的幕屋への攻撃として。「eos qui in caelo habitant（天に住む者たち）」：第12章で追放された竜による天への逆恨みとして。冒瀆の三対象──名・幕屋・天の住人──が第11章v.18の「servis tuis prophetis, et sanctis, et timentibus nomen tuum（預言者たち・聖徒たち・御名を畏れる者たち）」という三区分と対称的に機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et est datum illi bellum facere cum sanctis, et vincere eos. Et data est illi potestas in omnem tribum, et populum, et linguam, et gentem,",
+      "body": "「聖徒たちと戦って打ち勝つことが許された（datum illi bellum facere cum sanctis, et vincere eos）──あらゆる部族、民族、言語、国民の上に権能が与えられた」──獣の普遍的支配の付与。「datum illi bellum facere cum sanctis, et vincere eos（聖徒たちと戦って打ち勝つことが許された）」：第11章v.7「bestia … vincet illos, et occidet eos（獣は彼らを打ち勝ち、殺す）」という二人の証人への攻撃が普遍的に拡大されたものとして。「in omnem tribum, et populum, et linguam, et gentem（あらゆる部族、民族、言語、国民の上に）」：第7章v.9「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民、部族、民族、言語から）」という救済の普遍的包括性と同型の四要素列挙が、ここでは獣の支配の普遍的包括性として転用される──救済と支配が同一の言語形式によって表現されるという逆説。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "et adoraverunt eam omnes, qui inhabitant terram: quorum non sunt scripta nomina in libro vitae Agni, qui occisus est ab origine mundi.",
+      "body": "「世の初めから屠られた小羊の命の書に名が書き記されていない者たち（quorum non sunt scripta nomina in libro vitae Agni, qui occisus est ab origine mundi）」──第13章の最も深い神学的命題。「ab origine mundi（世の初めから）」：小羊が屠られたことが「世の初め（ab origine mundi）」から存在していたという時間論的逆説──歴史内の出来事であると同時に「世の初め」から定まっていた出来事として。「libro vitae Agni（小羊の命の書）」：第3章v.5「non delebo nomen ejus de libro vitae（命の書から消すことなく）」という約束が「小羊の命の書」という属格的定義によってより具体的に提示される。第3章の「libro vitae」が名の保護として機能したのに対し、第13章では「書に名がない者」という否定的定義が獣への礼拝者を区別する。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消滅の命題に対し、「libro vitae（命の書）」は創造から終末まで持続する神的記憶の定式として応答する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Si quis habet aurem, audiat.",
+      "body": "「耳ある者は聞け（Si quis habet aurem, audiat）」──第13章のほぼ中間に置かれた七書簡の定型句の突然の再登場。第2章v.7・v.11・v.17・v.29・第3章v.6・v.13・v.22の七書簡の結語定型句「Qui habet aurem, audiat quid Spiritus dicat ecclesiis（霊が諸教会に言うことを聞け）」の短縮形として。第13章という破局的な文脈での「耳ある者は聞け」という挿入は、教会への書簡の定型句を野獣の支配の文脈の中に孤立させることで、七書簡の警告が第13章の現実として今や成就しているという構造的照応を示す。「Si quis（もし誰かが）」という仮定的表現が七書簡の「Qui habet（〜を持つ者）」という関係節と微妙に異なる──書簡では定型句として機能していたものが、第13章では実存的な問いかけとして機能する。Ecclesiastes第1章v.8「nec auris auditu impletur（耳は聴くことで満たされることがない）」という人間の聴覚的不飽和性への応答として、「耳ある者は聞け」という命令が獣の時代に特別な緊急性を持つ。",
+      "targetId": "hieronymus_apocalypsis_2",
+      "targetParagraphId": 29
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Qui in captivitatem duxerit, in captivitatem vadet: qui in gladio occiderit, oportet eum gladio occidi. Hic est patientia, et fides sanctorum.",
+      "body": "「捕らわれに行くべき者は捕らわれに行く──剣で殺す者は剣で殺されなければならない──ここに聖徒たちの忍耐と信仰がある（Hic est patientia, et fides sanctorum）」──第13章における応報の定式と聖徒への慰め。「Qui in captivitatem duxerit, in captivitatem vadet（捕らわれに行くべき者は捕らわれに行く）」：エレミヤ書第15章v.2の「アシリアの剣に渡される者」という応報的確認の反響として。この節は二通りの解釈が可能：聖徒たちへの「抵抗せずに受け入れよ」という勧告として、あるいは獣への「あなたがたも同様の応報を受ける」という警告として。「Hic est patientia, et fides sanctorum（ここに聖徒たちの忍耐と信仰がある）」：第2章v.2–3「patientiam tuam（あなたの忍耐）」・第3章v.10「verbum patientiae meae（私の忍耐の言葉）」という七書簡の「忍耐（patientia）」の主題が、第13章において獣の迫害の文脈で再確認される。ヴェイユ「Dressage（訓練）」章の「苦難を通じた神の精錬」という命題が「patientia et fides（忍耐と信仰）」という双項として体現される。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Et vidi aliam bestiam ascendentem de terra, et habebat cornua duo similia Agni, et loquebatur sicut draco.",
+      "body": "「別の獣が地から上って来た──小羊のような二つの角を持っていたが、竜のように語った（habebat cornua duo similia Agni, et loquebatur sicut draco）」──第二の獣（後に「偽預言者」と呼ばれる）の登場とその定義的逆説。「de terra（地から）」：第一の獣が「de mari（海から）」上ってきたのに対し、第二の獣は「de terra（地から）」上ってくる──海と地という対称的出所が二匹の獣を区別する。「cornua duo similia Agni（小羊のような二つの角）」：第5章の屠られた小羊「cornua septem（七つの角）」との対比として──二対七という数の対比と、外見（小羊のような）と実質（竜のように語る）の乖離が定義の核心。「loquebatur sicut draco（竜のように語った）」：外見は小羊に似ているが語りは竜という外見と内実の根本的乖離が、偽預言者の本質的特徴として定式化される。マタイ福音書第7章v.15「qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces（羊の衣をまとってやってくるが、その内側は強欲な狼）」という偽預言者の警告の終末論的具体化として。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et potestatem prioris bestiae omnem faciebat in conspectu ejus: et fecit terram, et habitantes in ea, adorare bestiam primam, cujus curata est plaga mortis.",
+      "body": "「前の獣の全権能をその前で行使し──地とそこに住む者たちに前の獣を礼拝させた（fecit terram … adorare bestiam primam）」──第二の獣の機能的定義：礼拝の強制者として。「potestatem prioris bestiae omnem faciebat in conspectu ejus（前の獣の全権能をその前で行使した）」：第二の獣が第一の獣の「代理執行者」として機能する構造──第三者的権能行使という組織的支配の形式。「fecit terram … adorare bestiam primam（地とそこに住む者たちに前の獣を礼拝させた）」：「fecit adorare（礼拝させた）」という使役形が礼拝の強制を定式化する──自発的礼拝（第4–5章の天上的礼拝）と強制的礼拝の対比として。「cujus curata est plaga mortis（死の傷が癒された）」：v.3の「plaga mortis … curata est」の反復が第一の獣の本質的特徴として括弧的に確認される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et fecit signa magna, ut etiam ignem faceret de caelo descendere in terram in conspectu hominum.",
+      "body": "「大きなしるしを行い、人々の前で天から地に火を降らせさえした（ignem faceret de caelo descendere in terram）」──偽預言者の奇跡模倣の核心。「ignem faceret de caelo descendere in terram（天から地に火を降らせた）」：第11章v.5「ignis exiet de ore eorum（二人の証人の口から火が出る）」という真の預言者的権能の模倣として、また列王記上第18章のエリヤと偽預言者バアルの祭司たちの競争（天からの火）の終末論的反復として。「signa magna（大きなしるし）」：第12章v.1・v.3の「signum magnum（大きなしるし）」という天上的しるしの言語が地上的偽りのしるしとして転用される──真の「signum（しるし）」と偽の「signum」の識別不能性が第13章の中心的脅威として機能する。「in conspectu hominum（人々の前で）」：目撃という公的文脈が偽のしるしの説得力の条件として強調される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et seduxit habitantes in terra propter signa, quae data sunt illi facere in conspectu bestiae, dicens habitantibus in terra, ut faciant imaginem bestiae, quae habet plagam gladii, et vixit.",
+      "body": "「しるしによって地に住む者たちを惑わし──獣の像を作るよう言った（dicens … ut faciant imaginem bestiae）」──偽のしるしから偶像製作への連鎖。「seduxit habitantes in terra（地に住む者たちを惑わした）」：第12章v.9「qui seducit universum orbem（全世界を惑わす者）」という竜の本質的行為が、第13章では第二の獣の「しるし」によって実行される具体的な惑わしの方法として。「imaginem bestiae（獣の像）」：旧約的「偶像（simulacrum）」禁止の終末論的実現として。第9章v.20「simulacra aurea, et argentea（金・銀の偶像）」への礼拝を悔い改めなかった者たちへの審判の文脈と連続する。「quae habet plagam gladii, et vixit（剣の傷を受けながらも生き返った）」：v.3の「plaga mortis ejus curata est（死の傷は癒された）」の反復的確認が偶像製作の根拠として機能する。",
+      "targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et datum est illi ut daret spiritum imagini bestiae, et ut loquatur imago bestiae: et faciat ut quicumque non adoraverint imaginem bestiae, occidantur.",
+      "body": "「獣の像に霊を与えて語れるようにした（daret spiritum imagini bestiae, et ut loquatur imago bestiae）──礼拝しない者はみな殺されるようにした（occidantur）」──生きた偶像という極限的形象。「daret spiritum imagini bestiae（獣の像に霊を与えた）」：創世記第2章v.7「inspiravit in faciem ejus spiraculum vitae（命の息を吹き込んだ）」という神の創造行為の冒瀆的模倣として──神が人間の形像に命の息を吹き込んだように、偽預言者が獣の像に「霊（spiritus）」を与えて語らせる。第11章v.11「spiritus vitae a Deo intravit in eos（神からのいのちの霊が彼らの中に入った）」という二人の証人の復活的形象の倒錯的模倣として。「ut loquatur imago bestiae（獣の像が語れるように）」：第9章v.20の「simulacra … quae neque videre possunt, neque audire, neque ambulare（見ることも聞くことも歩くこともできない偶像）」という偶像の無能性への直接的対比として──通常の偶像は語れないが、この像は「語る（loquatur）」。「occidantur（殺されるように）」：礼拝拒否への死罰という強制の頂点。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et faciet omnes pusillos, et magnos, et divites, et pauperes, et liberos, et servos habere caracterem in dextera manu sua, aut in frontibus suis:",
+      "body": "「小さな者も大きな者も、富む者も貧しい者も、自由人も奴隷も、すべての者に右手か額に刻印を受けさせた（habere caracterem in dextera manu sua, aut in frontibus suis）」──刻印（caracter）による普遍的支配の定式。「pusillos, et magnos, et divites, et pauperes, et liberos, et servos（小さな者・大きな者・富む者・貧しい者・自由人・奴隷）」：第6章v.15「reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber（地の王たち……すべての奴隷と自由人）」という第六封印の社会的平等化の形象が、第13章では刻印による強制的平等化として反復される。「caracterem in dextera manu, aut in frontibus（右手か額に刻印）」：第7章v.3「signemus servos Dei nostri in frontibus eorum（神の僕たちの額に印を押す）」という神の保護的印と対称的に、獣の刻印は「右手か額」という二か所への強制として提示される──神の印（額のみ）と獣の刻印（右手か額）という対比。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "et nequis possit emere, aut vendere, nisi qui habet caracterem, aut nomen bestiae, aut numerum nominis ejus.",
+      "body": "「獣の刻印・獣の名・その名の数字を持つ者でなければ、誰も買うことも売ることもできない（nequis possit emere, aut vendere）」──経済的支配という手段による全体的統制の定式化。「emere, aut vendere（買うことも売ることも）」：売買という最も日常的な経済行為への条件付けが、信仰の問題を生存の問題と不可分に結びつける。「caracterem, aut nomen bestiae, aut numerum nominis ejus（刻印・名・数字）」：三つの代替的所持条件が刻印制度の複層的構造を示す──「caracter（刻印）」という身体的印・「nomen（名）」という言語的帰属・「numerus nominis（名の数字）」という数値的換算という三種の識別手段。Ecclesiastes第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は飽くことなく、耳は満たされない）」という欲望の不飽和性が、「emere aut vendere（買うことも売ることも）」という欲望の充足の条件付けとして経済的次元で体現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 18,
+      "type": "glossary",
+      "anchor": "Hic sapientia est. Qui habet intellectum, computet numerum bestiae. Numerus enim hominis est: et numerus ejus sexcenti sexaginta sex.",
+      "body": "「ここに知恵がある（Hic sapientia est）──知性のある者は獣の数字を計算せよ──その数字は人間の数字であり、六百六十六（sexcenti sexaginta sex）」──Apocalypsis全体の中で最も広く議論されてきた謎の命題。「Hic sapientia est（ここに知恵がある）」：Ecclesiastes第1章v.16–18「mens mea contemplata est multa sapienter（私の心は多くのことを知恵をもって観照した）」・v.18「in multa sapientia multa sit indignatio（多くの知恵には多くの憤りがある）」というコヘレトの知恵論への終末論的応答として──コヘレトの「知恵」が世界の虚無を確認するものであったのに対し、第13章の「知恵（sapientia）」は獣を解読するための実践的・解釈学的能力として機能する。「Qui habet intellectum（知性のある者は）」：「intellectus（知性・理解力）」という語の選択が「sapientia（知恵）」とは異なる「計算する・解読する」という能動的認識能力を指定する。「sexcenti sexaginta sex（六百六十六）」：ゲマトリア（文字数値変換）による人名の数値化。ネロ皇帝・ドミティアヌス皇帝などの名がヘブライ語・ギリシア語のゲマトリアで666になるという多数の解釈が並立し、未解決のまま。「Numerus enim hominis est（その数字は人間の数字である）」：「人間の数字」という規定が666を神的完全数「777」に対する不完全性の数として位置づける解釈がある。Ecclesiastes第1章v.15「stultorum infinitus est numerus（愚か者の数は無限である）」という否定的数の対称として、「六百六十六」という具体的・有限の数が謎の中心として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 17
+    }
+  ]
+}
