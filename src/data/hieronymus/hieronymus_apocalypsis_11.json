@@ -1,0 +1,290 @@
+{
+  "id": "hieronymus_apocalypsis_11",
+  "title": "Apocalypsis, Caput XI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XI. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+11&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第11章。第10章の「書物を食べる」と「再び預言せよ」という命令を受け、第七のラッパを最終的に包含する第二の間曲（intermezzo）として機能する。三部構造を持つ。第一部（v.1–6）：神殿の測量と二人の証人（duobus testibus）の導入。地の主の御前に立つ二本のオリーブの木と二つの燭台として定義された二人の証人が、荒布をまとって千二百六十日間預言する。第二部（v.7–13）：証人たちの殺害・死体の公道への放置・三日半後の復活と天への昇天・大地震と残された者たちの改心。第三部（v.14–19）：第二の災いの完了宣言・第七のラッパによる「Factum est regnum hujus mundi（この世の王国は私たちの主とそのキリストのものとなった）」という宇宙的宣言・二十四人の長老たちの感謝の頌歌・天の神殿の開示と契約の箱の顕現。VANITISMEコーパスにおける位置づけ：第11章はApocalypsis第1–11章という第一大段の構造的頂点として機能する。v.15「Factum est regnum hujus mundi」という宣言は、Ecclesiastes第1章の「sub sole（太陽の下）」という閉じた世界に対する最も確定的な終末論的応答である。二人の証人の殺害・死体の放置・復活・昇天という小さな黙示録的弧の構造（v.7–12）は、Iob第1章の試練と解放の構造と照応する。また、Ecclesiastes第1章v.15「Perversi difficile corriguntur（曲がったものは正すことが難しい）」という人間観が、v.13の「残りの者たちは天の神に栄光を帰した」という改心によって部分的に反転される点も第11章の神学的要所をなしている。",
+  "keywords": [
+    "calamus mensurationis",
+    "duobus testibus",
+    "mille ducentis sexaginta",
+    "duae olivae duo candelabra",
+    "bestia de abysso",
+    "spiritus vitae",
+    "Ascendite huc",
+    "Factum est regnum hujus mundi",
+    "arca testamenti",
+    "tempus mortuorum judicari"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_10",
+    "hieronymus_apocalypsis_9",
+    "hieronymus_apocalypsis_4",
+    "hieronymus_apocalypsis_5",
+    "hieronymus_apocalypsis_7",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_decreation",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et datus est mihi calamus similis virgae, et dictum est mihi: Surge, et metire templum Dei, et altare, et adorantes in eo:",
+      "provisionalTranslation": "私に杖のような葦の茎が与えられて、こう言われた。「立ち上がって、神の神殿と祭壇と、そこで礼拝する者たちを測れ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "atrium autem, quod est foris templum, ejice foras, et ne metiaris illud: quoniam datum est gentibus, et civitatem sanctam calcabunt mensibus quadraginta duobus:",
+      "provisionalTranslation": "「しかし神殿の外の庭は除いて、測ってはならない。それは異邦人たちに与えられており、彼らは聖なる都を四十二か月踏み荒らすであろう。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et dabo duobus testibus meis, et prophetabunt diebus mille ducentis sexaginta, amicti saccis.",
+      "provisionalTranslation": "「私は私の二人の証人に与える。彼らは荒布をまとって千二百六十日間預言するであろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Hi sunt duae olivae et duo candelabra in conspectu Domini terrae stantes.",
+      "provisionalTranslation": "この者たちは地の主の御前に立つ二本のオリーブの木と二つの燭台である。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et si quis voluerit eos nocere, ignis exiet de ore eorum, et devorabit inimicos eorum: et si quis voluerit eos laedere, sic oportet eum occidi.",
+      "provisionalTranslation": "もし誰かが彼らを傷つけようとするなら、彼らの口から火が出て敵を焼き尽くす。もし誰かが彼らを害しようとするなら、必ずそのように殺されるであろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Hi habent potestatem claudendi caelum, ne pluat diebus prophetiae ipsorum: et potestatem habent super aquas convertendi eas in sanguinem, et percutere terram omni plaga quotiescumque voluerint.",
+      "provisionalTranslation": "この者たちは預言の日々の間、雨が降らないよう天を閉じる力を持っている。また水を血に変え、いつでも望むときに地をあらゆる災いで打つ力を持っている。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et cum finierint testimonium suum, bestia, quae ascendit de abysso, faciet adversum eos bellum, et vincet illos, et occidet eos.",
+      "provisionalTranslation": "彼らが証言を終えると、深淵から上って来る獣が彼らに対して戦いを挑み、彼らを打ち勝ち、殺すであろう。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et corpora eorum jacebunt in plateis civitatis magnae, quae vocatur spiritualiter Sodoma, et AEgyptus, ubi et Dominus eorum crucifixus est.",
+      "provisionalTranslation": "彼らの死体は、霊的にソドマ・エジプトと呼ばれる大いなる都の大通りに横たわるであろう。彼らの主もそこで十字架にかけられた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et videbunt de tribubus, et populis, et linguis, et gentibus corpora eorum per tres dies et dimidium: et corpora eorum non sinent poni in monumentis:",
+      "provisionalTranslation": "あらゆる部族、民族、言語、国民から、人々が三日半の間その死体を眺めるであろう。その死体を墓に葬ることを許さないであろう。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et inhabitantes terram gaudebunt super illos, et jucundabuntur: et munera mittent invicem, quoniam hi duo prophetae cruciaverunt eos, qui habitabant super terram.",
+      "provisionalTranslation": "地に住む者たちは彼らのことで喜び楽しむであろう。互いに贈り物を贈るであろう。この二人の預言者たちが地に住む者たちを苦しめていたからである。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et post dies tres et dimidium, spiritus vitae a Deo intravit in eos. Et steterunt super pedes suos, et timor magnus cecidit super eos qui viderunt eos.",
+      "provisionalTranslation": "しかし三日半の後、神からのいのちの霊が彼らの中に入った。彼らは自分たちの足で立ち上がった。彼らを見た者たちに大きな恐怖が襲いかかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et audierunt vocem magnam de caelo, dicentem eis: Ascendite huc. Et ascenderunt in caelum in nube: et viderunt illos inimici eorum.",
+      "provisionalTranslation": "彼らは天から大きな声が「ここに上って来い」と言うのを聞いた。彼らは雲の中を天に昇った。敵たちは彼らを見た。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et in illa hora factus est terraemotus magnus, et decima pars civitatis cecidit: et occisa sunt in terraemotu nomina hominum septem millia: et reliqui in timorem sunt missi, et dederunt gloriam Deo caeli.",
+      "provisionalTranslation": "その時、大地震が起きて都の十分の一が倒れ、地震で七千人の名がある者が殺された。残りの者たちは恐れに打たれ、天の神に栄光を帰した。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Vae secundum abiit: et ecce vae tertium veniet cito.",
+      "provisionalTranslation": "第二の災いは過ぎ去った。見よ、第三の災いがすぐに来ようとしている。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et septimus angelus tuba cecinit: et factae sunt voces magnae in caelo dicentes: Factum est regnum hujus mundi, Domini nostri et Christi ejus, et regnabit in saecula saeculorum. Amen.",
+      "provisionalTranslation": "第七の天使がラッパを吹いた。すると天に大きな声々が起きて言った。「この世の王国は私たちの主とそのキリストのものとなった。主は世々限りなく支配される。アーメン。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et viginti quatuor seniores, qui in conspectu Dei sedent in sedibus suis, ceciderunt in facies suas, et adoraverunt Deum, dicentes:",
+      "provisionalTranslation": "神の御前に自分たちの座に座っていた二十四人の長老たちは、顔を地に伏して神を礼拝し、こう言った。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Gratias agimus tibi, Domine Deus omnipotens, qui es, et qui eras, et qui venturus es: quia accepisti virtutem tuam magnam, et regnasti.",
+      "provisionalTranslation": "「全能者にして主なる神よ、在る者、在った者、来たる者よ、あなたに感謝します。あなたは大いなる力を持ち、支配されたからです。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et iratae sunt gentes, et advenit ira tua et tempus mortuorum judicari, et reddere mercedem servis tuis prophetis, et sanctis, et timentibus nomen tuum pusillis et magnis, et exterminandi eos qui corruperunt terram.",
+      "provisionalTranslation": "「諸国の民は怒っていました。しかしあなたの怒りが来て、死者たちが裁かれる時が来ました。あなたの僕である預言者たち、聖徒たち、あなたの御名を畏れる者たち、小さな者も大きな者も、その報いを受ける時が。また地を滅ぼした者たちを滅ぼす時が。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et apertum est templum Dei in caelo: et visa est arca testamenti ejus in templo ejus, et facta sunt fulgura, et voces, et terraemotus, et grando magna.",
+      "provisionalTranslation": "天にある神の神殿が開かれて、その神殿の中に神の契約の箱が見えた。稲妻と声と雷鳴と地震と大きな雹が生じた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et datus est mihi calamus similis virgae, et dictum est mihi: Surge, et metire templum Dei, et altare, et adorantes in eo:",
+      "body": "「杖のような葦の茎が与えられた──立ち上がって神の神殿と祭壇と礼拝する者たちを測れ（metire templum Dei）」──第10章で「書物を食べた」ヨハネに新たな使命として「測る（metire）」という命令が与えられる。「calamus similis virgae（杖のような葦の茎）」：エゼキエル書第40章v.3「et in manu ejus funiculus lineus, et calamus mensurationis（その手に麻の縄と測量の葦の茎）」という神殿測量の幻視の終末論的反復。「測る（metire）」という行為が保護・画定という神学的機能を持つ：神殿を測ることが神殿を守ることとして機能する。「templum Dei, et altare, et adorantes in eo（神の神殿と祭壇と礼拝する者たち）」：測量の対象が空間（神殿）・器物（祭壇）・人格（礼拝者）という三次元に及ぶ。第10章の「書物を食べる」という内的受容から、第11章の「神殿を測る」という外的行為への展開が、預言者的使命の二段階として連続する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "atrium autem, quod est foris templum, ejice foras, et ne metiaris illud: quoniam datum est gentibus, et civitatem sanctam calcabunt mensibus quadraginta duobus:",
+      "body": "「神殿の外の庭は除いて測るな──異邦人たちに与えられており、聖なる都を四十二か月踏み荒らすであろう（mensibus quadraginta duobus）」──測量の「外部」の設定。「ejice foras, et ne metiaris illud（除いて、測るな）」：測量による保護から除外された領域が異邦人の侵略に委ねられる。「mensibus quadraginta duobus（四十二か月）」：三年半に相当し、ダニエル書第7章v.25「usque ad tempus, et tempora, et dimidium temporis（一時と二時と半時）」という「三年半」の終末論的期間の反復。v.3の「千二百六十日（1,260日）」も同じく三年半であり、預言的期間の定式として機能する。「civitatem sanctam calcabunt（聖なる都を踏み荒らす）」：ルカ書第21章v.24「Jerusalem calcabitur a gentibus（エルサレムは異邦人に踏み荒らされる）」の終末論的成就として。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という歴史的循環が、「四十二か月」という明確に区切られた時間として終末論的に制限される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "et dabo duobus testibus meis, et prophetabunt diebus mille ducentis sexaginta, amicti saccis.",
+      "body": "「私の二人の証人に与える──千二百六十日間預言する──荒布をまとって（amicti saccis）」──第11章の主人公的存在として二人の証人が導入される。「duobus testibus（二人の証人）」：旧約律法の「二人の証人の証言が有効（申命記19:15）」という法的原則の終末論的適用として。誰を指すかについては、モーセとエリヤ・エノクとエリヤ・二人の使徒など多くの解釈が並立する。「diebus mille ducentis sexaginta（千二百六十日）」：v.2の「四十二か月」と同じく三年半に相当する──しかし「月（menses）」から「日（dies）」への単位変換によって同一期間の異なる側面が強調される。「amicti saccis（荒布をまとって）」：悲嘆・悔い改め・断食の象徴。ヨナ書第3章v.5「induerunt se ciliciis（荒布をまとった）」というニネベの悔い改めの反響として。Iob第1章v.20「tonso capite corruens in terram（頭を剃り、地に倒れ伏した）」という悲嘆の身体的形象と照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Hi sunt duae olivae et duo candelabra in conspectu Domini terrae stantes.",
+      "body": "「この者たちは地の主の御前に立つ二本のオリーブの木と二つの燭台（duae olivae et duo candelabra）」──二人の証人の象徴的定義。「duae olivae（二本のオリーブの木）」：ゼカリヤ書第4章v.3「duae olivae super illud（その上に二本のオリーブ）」という二本のオリーブの木の幻視の引用。ゼカリヤの文脈では大祭司ヨシュアと総督ゼルバベルが「注がれた二人の者」として同定される。「duo candelabra（二つの燭台）」：第1章v.12「septem candelabra aurea（七つの金の燭台）」という七つの燭台が教会の象徴であったのに対し、ここでは二つの燭台が二人の証人の象徴として機能する。「in conspectu Domini terrae（地の主の御前に立つ）」：「stantes（立つ）」という動詞が礼拝的・証言的な姿勢を示す。「オリーブの木と燭台」という植物的・器物的二重の象徴が、証人たちの有機的な生命力と典礼的な証言機能を重ねて定義する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et si quis voluerit eos nocere, ignis exiet de ore eorum, et devorabit inimicos eorum:",
+      "body": "「もし誰かが彼らを傷つけようとするなら、彼らの口から火が出て敵を焼き尽くす（ignis exiet de ore eorum）」──証人たちの防衛的権能。「ignis exiet de ore eorum（口から火が出る）」：列王記下第1章v.10「descendit ignis de caelo（天から火が降った）」というエリヤの奇跡的防衛の反響として。第9章v.17–18「de ore eorum procedit ignis, et fumus, et sulphur（その口から火と煙と硫黄が出た）」という第六のラッパの騎兵軍の口からの破壊物と対称的に、ここでは証人たちの口からの火が保護的・防衛的機能として機能する：「口（os）」から何が出るかによって善悪が分かれる。「sic oportet eum occidi（必ずそのように殺されるであろう）」：創世記第9章v.6「qui effuderit humanum sanguinem, fundetur sanguis illius（人の血を流す者は、その血を人によって流される）」という応報の原則の終末論的適用として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Hi habent potestatem claudendi caelum, ne pluat diebus prophetiae ipsorum: et potestatem habent super aquas convertendi eas in sanguinem, et percutere terram omni plaga quotiescumque voluerint.",
+      "body": "「天を閉じる力──水を血に変える力──地をあらゆる災いで打つ力（percutere terram omni plaga quotiescumque voluerint）」──二人の証人の奇跡的権能の三重列挙。「potestatem claudendi caelum, ne pluat（天を閉じて雨を降らせない力）」：列王記上第17章v.1「non erit ros et pluvia（露も雨もないであろう）」というエリヤの宣言の反響──第一の証人がエリヤ的存在として同定される根拠。「convertendi eas in sanguinem（水を血に変える力）」：出エジプト記第7章v.17「percutiam virga quae in manu mea est aquam fluminis, et convertetur in sanguinem（川の水を打ち、血に変える）」というモーセのエジプト第一の災いの反響──第二の証人がモーセ的存在として同定される根拠。「quotiescumque voluerint（いつでも望むときに）」：時間的制約なしの自由な行使権能として提示される。第9章のいなごや騎兵軍が「与えられた（datum est）」権能として受動的に行動したのと対比的に、証人たちは能動的意志（voluerint）によって権能を行使する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et cum finierint testimonium suum, bestia, quae ascendit de abysso, faciet adversum eos bellum, et vincet illos, et occidet eos.",
+      "body": "「彼らが証言を終えると、深淵から上って来る獣（bestia quae ascendit de abysso）が彼らを打ち勝ち、殺す」──第11章の劇的転換点。「cum finierint testimonium suum（証言を終えると）」：証言の期間（千二百六十日）の完了という時間的条件が獣の攻撃を可能にする──証言の完了が保護の終了として機能するという逆説。「bestia, quae ascendit de abysso（深淵から上って来る獣）」：第9章v.1–2の深淵（puteus abyssi）から出てきたいなごと同じ「深淵（abyssus）」からの存在として登場する。「faciet adversum eos bellum, et vincet illos, et occidet eos（戦いを挑み、打ち勝ち、殺す）」：三動詞の連鎖が戦闘・勝利・殺害という段階的な展開を圧縮する。Iob第1章のサタンによる試練において「証言期間」の後に破局が訪れるという構造との照応：ヨブが「神を畏れる」期間の後にサタンの試練が許可されるように、証人たちは「証言期間」の後に獣に許可が与えられる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et corpora eorum jacebunt in plateis civitatis magnae, quae vocatur spiritualiter Sodoma, et AEgyptus, ubi et Dominus eorum crucifixus est.",
+      "body": "「彼らの死体は、霊的にソドマ・エジプトと呼ばれる大いなる都の大通りに横たわるであろう（jacebunt in plateis civitatis magnae）──彼らの主もそこで十字架にかけられた」──第11章最も密度の高い解釈的節。「civitas magna（大いなる都）」：Apocalypsis全体で「civitas magna（大いなる都）」として繰り返し言及される都市が、ここで「spiritualiter（霊的に）」ソドマ・エジプトと呼ばれると同時に「ubi Dominus crucifixus est（主が十字架にかけられた場所）」つまりエルサレムとして同定される：地理的エルサレム・霊的ソドム・歴史的エジプトの三重の重層的解釈が一都市に凝縮される。「corpora eorum jacebunt in plateis（死体が大通りに横たわる）」：埋葬なき死体という古代における最大の屈辱の形象。詩篇第79篇v.2「posuerunt morticina servorum tuorum escas volatilibus caeli（あなたの僕たちの死体を空の鳥の餌とした）」の反響として。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Et videbunt de tribubus, et populis, et linguis, et gentibus corpora eorum per tres dies et dimidium: et corpora eorum non sinent poni in monumentis:",
+      "body": "「あらゆる部族、民族、言語、国民から（de tribubus, et populis, et linguis, et gentibus）──三日半の間その死体を眺めるであろう」──第7章v.9「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民、部族、民族、言語から）」という大群衆の救済的包括性と同型の四要素列挙が、ここでは死体を「眺める」という屈辱的行為の主体として反復される。列挙の形式的同一性と文脈的逆転が強調される：第7章では「礼拝する群衆」の普遍性を示した同じ列挙形式が第11章では「死体を見物する群衆」の普遍性を示す。「per tres dies et dimidium（三日半の間）」：v.3・v.2の「千二百六十日・四十二か月」という三年半の証言期間と照応しながら、その期間の最小単位「三日半」として死の期間が圧縮される。「non sinent poni in monumentis（墓に葬ることを許さないであろう）」：埋葬の拒絶は古代における最大の不名誉。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "et inhabitantes terram gaudebunt super illos, et jucundabuntur: et munera mittent invicem, quoniam hi duo prophetae cruciaverunt eos, qui habitabant super terram.",
+      "body": "「地に住む者たちは彼らのことで喜び楽しむであろう──互いに贈り物を贈るであろう（munera mittent invicem）」──第11章の最も皮肉な場面。「gaudebunt super illos, et jucundabuntur（彼らのことで喜び楽しむ）」：証人たちの死を「喜ぶ（gaudere）」・「楽しむ（jucundari）」という動詞が、第7章v.9–10の大群衆の救済的喜びと鋭く対比される。「munera mittent invicem（互いに贈り物を贈る）」：祝祭的な贈与交換という共同体的行為が、証人の死への祝賀として描かれる逆説。エステル記第9章v.19「mitterent sibi invicem ciborum partes（互いに食べ物を贈り合った）」というプリムの祝祭的贈与との対比的照応：救済の祝祭的贈与が、ここでは预言者の死の祝祭的贈与として反転される。「cruciaverunt eos（苦しめていた）」：v.5–6の証人たちの火と水の権能が、地に住む者たちを苦しめていたと回顧される。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et post dies tres et dimidium, spiritus vitae a Deo intravit in eos. Et steterunt super pedes suos, et timor magnus cecidit super eos qui viderunt eos.",
+      "body": "「三日半の後、神からのいのちの霊が彼らの中に入った──彼らは足で立ち上がった（steterunt super pedes suos）」──第11章の神学的頂点。「spiritus vitae a Deo intravit in eos（神からのいのちの霊が彼らの中に入った）」：創世記第2章v.7「inspiravit in faciem ejus spiraculum vitae（命の息を吹き込んだ）」という人間創造の息吹の終末論的反復として。「steterunt super pedes suos（足で立ち上がった）」：エゼキエル書第37章v.10「steterunt super pedes suos exercitus grandis nimis（彼らは足で立ち上がり、非常に大きな軍勢となった）」という「枯れた骨の幻視」の引用──死んだ骨が命の霊によって復活する場面の終末論的実現として。「timor magnus cecidit super eos qui viderunt eos（彼らを見た者たちに大きな恐怖が襲いかかった）」：v.10の「喜び楽しむ」地の住人の態度が「大きな恐怖」へと逆転する──祝賀から恐怖への感情的急転換。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et audierunt vocem magnam de caelo, dicentem eis: Ascendite huc. Et ascenderunt in caelum in nube: et viderunt illos inimici eorum.",
+      "body": "「『ここに上って来い』──彼らは雲の中を天に昇った（ascenderunt in caelum in nube）──敵たちは彼らを見た」──二人の証人の天上昇拝。「Ascendite huc（ここに上って来い）」：第4章v.1「Ascende huc（ここに上って来い）」というヨハネへの呼びかけの反復として、証人たちが同じ命令によって天に召される。「ascenderunt in caelum in nube（雲の中を天に昇った）」：使徒行伝第1章v.9「elevatus est, et nubes suscepit eum（天に昇り、雲が彼を受け取った）」というキリストの昇天の反響として、証人たちの昇天がキリストの昇天の模倣（imitatio Christi）として提示される。「viderunt illos inimici eorum（敵たちは彼らを見た）」：昇天が敵たちの前で公に目撃されることが強調される──証人の死の公的な目撃（v.9）と昇天の公的な目撃が対称として機能する。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et in illa hora factus est terraemotus magnus, et decima pars civitatis cecidit: et occisa sunt in terraemotu nomina hominum septem millia: et reliqui in timorem sunt missi, et dederunt gloriam Deo caeli.",
+      "body": "「その時、大地震が起きて都の十分の一が倒れ──七千人の名がある者が殺された──残りの者たちは天の神に栄光を帰した（dederunt gloriam Deo caeli）」──第11章の転換的結節。「decima pars civitatis cecidit（都の十分の一が倒れた）」：第8–9章の「三分の一（tertia pars）」という分率から「十分の一（decima pars）」へという数値的変化。「nomina hominum septem millia（七千人の名がある者）」：「nomina（名）」という語の使用が注目される──単なる「人数」ではなく「名のある人」という表現が個人的同定を示す。「reliqui … dederunt gloriam Deo caeli（残りの者たちは……天の神に栄光を帰した）」：第9章v.21「non egerunt poenitentiam（悔い改めなかった）」という頑固な非悔改めの結語と対照的に、ここでは「栄光を帰した」という応答が記録される──第9章の「非悔改め」が第11章で部分的に逆転する転換として。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Vae secundum abiit: et ecce vae tertium veniet cito.",
+      "body": "「第二の災いは過ぎ去った──第三の災いがすぐに来ようとしている（vae tertium veniet cito）」──第9章v.12「Vae unum abiit, et ecce veniunt adhuc duo vae（第一の災いは過ぎ去った、この後さらに二つの災いが来る）」の進行的反復。第8章v.13の鷲による「Vae, vae, vae（三重の災い）」予告が、第9章v.12（第一完了）・第11章v.14（第二完了）という段階的確認によって消化される。「cito（すぐに）」という副詞が差し迫った到来を強調する。しかし「第三の災い」は第11章v.15以降の第七のラッパに対応すると解されるが、通常の「災い（Vae）」的展開ではなく「Factum est regnum hujus mundi（この世の王国は……のものとなった）」という天的宣言として提示される逆説的転換が続く。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という歴史的記憶の消滅に対し、「Vae unum abiit … Vae secundum abiit」という記録的進行が各段階を確実に数え上げる。",
+      "targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et septimus angelus tuba cecinit: et factae sunt voces magnae in caelo dicentes: Factum est regnum hujus mundi, Domini nostri et Christi ejus, et regnabit in saecula saeculorum. Amen.",
+      "body": "「第七の天使がラッパを吹いた──この世の王国は私たちの主とそのキリストのものとなった（Factum est regnum hujus mundi, Domini nostri et Christi ejus）──世々限りなく支配される」──Apocalypsis第1–11章の最大の宣言。第7のラッパは第8–11章の長大な展開の終点として、宇宙的主権の宣言をもたらす。「Factum est（〜となった）」：完了形が宣言の確実性と既成事実性を示す──まだ実現していない将来の事態が、天的視座からはすでに「完了した（factum est）」として宣言される。「regnum hujus mundi（この世の王国）」：Ecclesiastes第1章v.3の「太陽の下（sub sole）」の世界全体が「hujus mundi（この世）」として括られ、その支配者の交代が宣言される。「et regnabit in saecula saeculorum（世々限りなく支配される）」：第3章v.21「dabo ei sedere mecum in throno meo（私の御座に座らせよう）」という勝利者への約束の宇宙的成就として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et viginti quatuor seniores, qui in conspectu Dei sedent in sedibus suis, ceciderunt in facies suas, et adoraverunt Deum, dicentes:",
+      "body": "「二十四人の長老たちは顔を地に伏して神を礼拝した（ceciderunt in facies suas, et adoraverunt Deum）」──第4章v.10・第5章v.14の礼拝的伏臥の第三の反復。「qui in conspectu Dei sedent in sedibus suis（神の御前に自分たちの座に座っていた）」：第4章v.4「viginti quatuor seniores sedentes（二十四人の長老たちが座っていた）」という天上的定位置から立ち上がって伏臥する動作が、「Factum est regnum（王国はのものとなった）」という宣言への礼拝的応答として機能する。第4章の長老たちの伏臥が「創造者への礼拝」として、第5章の伏臥が「小羊への礼拝」として機能したのに対し、第11章の伏臥は「王国の完成への礼拝」として機能する──三度の伏臥が Apocalypsis第4–11章の礼拝的骨格を形成する。",
+      "targetId": "hieronymus_apocalypsis_5",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Gratias agimus tibi, Domine Deus omnipotens, qui es, et qui eras, et qui venturus es: quia accepisti virtutem tuam magnam, et regnasti.",
+      "body": "「全能者にして主なる神よ、在る者、在った者、来たる者よ──あなたに感謝します（Gratias agimus tibi）──あなたは大いなる力を持ち、支配されたからです」──第11章における二十四人の長老の感謝の頌歌。「qui es, et qui eras, et qui venturus es（在る者、在った者、来たる者）」：第1章v.4・v.8・第4章v.8と繰り返された三時制の神の自己定義が、ここでは感謝の対象として二十四人の長老によって礼拝的に引用される。ただし「et qui venturus es（来たる者）」の代わりに第16章v.5では「et qui eras, Sancte（在った者よ、聖なる方）」として「来たる者」が脱落する──王国の完成によって「来たる者」が「来た者」として完了するという時制の移行。「accepisti virtutem tuam magnam, et regnasti（大いなる力を持ち、支配された）」：神の権能の行使を過去完了形で確認する──天的視座からの歴史の完了的記述。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Et iratae sunt gentes, et advenit ira tua et tempus mortuorum judicari, et reddere mercedem servis tuis prophetis, et sanctis, et timentibus nomen tuum pusillis et magnis, et exterminandi eos qui corruperunt terram.",
+      "body": "「諸国の民は怒っていました──しかしあなたの怒りが来た──死者たちが裁かれる時が来た（tempus mortuorum judicari）」──第11章の神学的総括命題。「iratae sunt gentes, et advenit ira tua（諸国の民は怒っていた、しかしあなたの怒りが来た）」：人間の怒りと神の怒りの対置が「et（しかし）」という逆接によって接続される。「tempus mortuorum judicari（死者たちが裁かれる時）」：第6章v.10「Usquequo Domine non judicas（いつまで裁かないのですか）」という殉教者の訴えへの応答として、「裁きの時（tempus judicari）」の到来が宣言される。「reddere mercedem servis tuis prophetis, et sanctis, et timentibus nomen tuum pusillis et magnis（あなたの僕である預言者たち、聖徒たち、御名を畏れる者たち、小さな者も大きな者も、その報いを受ける時）」：「pusilli et magni（小さな者も大きな者も）」という包括的表現が報いの普遍性を示す。「exterminandi eos qui corruperunt terram（地を滅ぼした者たちを滅ぼす）」：因果応報の神学的定式。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Et apertum est templum Dei in caelo: et visa est arca testamenti ejus in templo ejus, et facta sunt fulgura, et voces, et terraemotus, et grando magna.",
+      "body": "「天にある神の神殿が開かれて、その神殿の中に神の契約の箱が見えた（visa est arca testamenti ejus）──稲妻と声と雷鳴と地震と大きな雹が生じた」──第11章の結語であり第12章以降への移行を準備する閉幕。「apertum est templum Dei in caelo（天にある神の神殿が開かれた）」：v.1で「神の神殿を測れ」という命令で始まった第11章が、「天の神殿が開かれた」という神殿の開示で終わる──地上的測量から天上的顕示への完結的弧。「visa est arca testamenti ejus（神の契約の箱が見えた）」：「契約の箱（arca testamenti）」──旧約の神殿における「神の臨在の場所」が天上の神殿に存在することが明かされる。第4章v.6「mare vitreum simile crystallo（玻璃の海）」という御座の幻視と対称的に、第11章の結語では「契約の箱」という歴史的・神学的象徴が天上に開示される。「fulgura, et voces, et terraemotus, et grando magna」：第4章v.5・第8章v.5と同型の天的現象の定型句が第11章末に反復され、第12章以降への接続として機能する。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 5
+    }
+  ]
+}
