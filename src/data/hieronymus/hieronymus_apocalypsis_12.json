@@ -1,0 +1,278 @@
+{
+  "id": "hieronymus_apocalypsis_12",
+  "title": "Apocalypsis, Caput XII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+12&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第12章。第11章までの「封印・ラッパ」系列を経て、新たな第二大段を開始する章。天に二つの大きなしるしが現れる：太陽をまとい、月を足の下に置き、十二の星の冠をかぶった女（mulier amicta sole）と、七つの頭と十の角を持つ大きな赤い竜（draco magnus rufus）。女は男の子を産むが、子は即座に神のもとへ引き上げられ、女は荒野に逃げる（v.1–6）。天上ではミカエルとその天使たちが竜と戦い、竜は地に投げ落とされる（v.7–9）。竜の追放を受けて天では頌歌が響き（v.10–12）、地に落ちた竜は女を追いかけるが、女は大きな鷲の翼を与えられて荒野へと逃れる（v.13–16）。竜は女の代わりに彼女の残りの子孫たちと戦おうとして海の砂の上に立つ（v.17–18）。VANITISMEコーパスにおける位置づけ：第12章はApocalypsis全体の宇宙論的展開の中核として機能する。「古い蛇（serpens antiquus）」という竜の同定（v.9）は創世記第3章のエデンの蛇との結びつきを確立し、創世から終末へと至る堕落の宇宙的弧を描き出す。Ecclesiastes第1章の「太陽の下（sub sole）」的な循環的世界観が第12章で終末論的に反転される箇所が複数ある：v.1の女が「太陽をまとう（amicta sole）」ことで地上的循環を超越し、v.10の「Nunc facta est salus（今や救いが実現した）」という宣言が時間の終焉を告げる。またIob第1章においてサタンが「神の御前に立って告発する」という天上的位置を占めていたのに対し、第12章v.9での地への追放によってその位置が剥奪されるという対応は、ヒエロニムスのコーパス全体の神学的連続性を強化する。v.11「non dilexerunt animas suas usque ad mortem（死に至るまでも自分の命を惜しまなかった）」という殉教者的自己放棄の定式は、ヴェイユ「Décréation（脱創造）」の「自我の放棄」という命題と最も直接的に照応する。",
+  "keywords": [
+    "mulier amicta sole",
+    "draco magnus rufus",
+    "serpens antiquus",
+    "Michael et angeli ejus",
+    "projectus est in terram",
+    "accusator fratrum nostrorum",
+    "sanguinem Agni",
+    "alae aquilae magnae",
+    "tempus et tempora dimidium temporis",
+    "arena maris"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_11",
+    "hieronymus_apocalypsis_9",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "mallarme_coup_de_des",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et signum magnum apparuit in caelo: mulier amicta sole, et luna sub pedibus ejus, et in capite ejus corona stellarum duodecim:",
+      "provisionalTranslation": "天に大きなしるしが現れた。太陽をまとい、足の下に月を置き、頭に十二の星の冠をかぶった女がいた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "et in utero habens, clamabat parturiens, et cruciabatur ut pariat.",
+      "provisionalTranslation": "彼女は身ごもっており、産みの苦しみで叫び、産もうとして悶えていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et visum est aliud signum in caelo: et ecce draco magnus rufus habens capita septem, et cornua decem: et in capitibus ejus diademata septem,",
+      "provisionalTranslation": "天にまた別のしるしが現れた。見よ、七つの頭と十の角を持ち、その頭に七つの王冠をつけた大きな赤い竜がいた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "et cauda ejus trahebat tertiam partem stellarum caeli, et misit eas in terram: et draco stetit ante mulierem, quae erat paritura, ut cum peperisset, filium ejus devoraret.",
+      "provisionalTranslation": "その尾は天の星の三分の一を引き裂いて地に投げた。そして竜は、産もうとしている女の前に立ち、生まれたなら子を飲み込もうとしていた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et peperit filium masculum, qui recturus erat omnes gentes in virga ferrea: et raptus est filius ejus ad Deum, et ad thronum ejus,",
+      "provisionalTranslation": "彼女は男の子を産んだ。その子は鉄の杖をもってすべての国を治めるはずの者であった。その子は神のもとへ、御座のもとへと引き上げられた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "et mulier fugit in solitudinem ubi habebat locum paratum a Deo, ut ibi pascant eam diebus mille ducentis sexaginta.",
+      "provisionalTranslation": "女は荒野に逃げた。そこには神によって備えられた場所があり、千二百六十日間、彼女はそこで養われるはずであった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et factum est praelium magnum in caelo: Michael et angeli ejus praeliabantur cum dracone, et draco pugnabat, et angeli ejus:",
+      "provisionalTranslation": "天で大きな戦いが起きた。ミカエルとその天使たちが竜と戦った。竜もその使いたちと戦ったが、"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "et non valuerunt, neque locus inventus est eorum amplius in caelo.",
+      "provisionalTranslation": "彼らは勝てず、天にはもはや彼らの場所がなくなった。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et projectus est draco ille magnus, serpens antiquus, qui vocatur diabolus, et Satanas, qui seducit universum orbem: et projectus est in terram, et angeli ejus cum illo missi sunt.",
+      "provisionalTranslation": "かの大きな竜、全世界を惑わす者、悪魔またサタンと呼ばれる古い蛇が投げ落とされた。地に投げ落とされ、その使いたちも彼とともに投げ落とされた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et audivi vocem magnam in caelo dicentem: Nunc facta est salus, et virtus, et regnum Dei nostri, et potestas Christi ejus: quia projectus est accusator fratrum nostrorum, qui accusabat illos ante conspectum Dei nostri die ac nocte.",
+      "provisionalTranslation": "私は天で大きな声が言うのを聞いた。「今や、私たちの神の救いと力と御国、そのキリストの権威が実現した。私たちの兄弟たちを告発する者、昼も夜も私たちの神の御前で彼らを告発していた者が投げ落とされたからである。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et ipsi vicerunt eum propter sanguinem Agni, et propter verbum testimonii sui, et non dilexerunt animas suas usque ad mortem.",
+      "provisionalTranslation": "「彼らは小羊の血と自分たちの証しの言葉によって彼に打ち勝った。死に至るまでも自分の命を惜しまなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Propterea laetamini caeli, et qui habitatis in eis. Vae terrae, et mari, quia descendit diabolus ad vos habens iram magnam, sciens quod modicum tempus habet.",
+      "provisionalTranslation": "「それゆえ、天とそこに住む者たちよ、喜べ。しかし地と海よ、わざわいあれ。悪魔は大きな怒りをもってあなたがたのところに下って来た。自分の時が短いことを知っているからである。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et postquam vidit draco quod projectus esset in terram, persecutus est mulierem, quae peperit masculum:",
+      "provisionalTranslation": "竜は自分が地に投げ落とされたことを見ると、男の子を産んだ女を追いかけた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "et datae sunt mulieri alae duae aquilae magnae ut volaret in desertum in locum suum, ubi alitur per tempus et tempora, et dimidium temporis a facie serpentis.",
+      "provisionalTranslation": "女には大きな鷲の翼が二枚与えられた。蛇から逃れて、荒野の自分の場所へ飛んで行き、そこで一時と二時と半時の間、養われるためであった。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et misit serpens ex ore suo post mulierem, aquam tamquam flumen, ut eam faceret trahi a flumine.",
+      "provisionalTranslation": "蛇は女を洪水で押し流そうとして、川のような水を口から女の後に吐き出した。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et adjuvit terra mulierem, et aperuit terra os suum, et absorbuit flumen, quod misit draco de ore suo.",
+      "provisionalTranslation": "しかし地が女を助け、地はその口を開いて、竜が口から吐き出した川を飲み込んだ。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et iratus est draco in mulierem: et abiit facere praelium cum reliquis de semine ejus, qui custodiunt mandata Dei, et habent testimonium Jesu Christi.",
+      "provisionalTranslation": "竜は女に対して怒り、神の戒めを守り、イエス・キリストの証しを持つ者たちである彼女の残りの子孫と戦おうとして去って行った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et stetit supra arenam maris.",
+      "provisionalTranslation": "そして竜は海の砂の上に立った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Et signum magnum apparuit in caelo: mulier amicta sole, et luna sub pedibus ejus, et in capite ejus corona stellarum duodecim:",
+      "body": "「天に大きなしるしが現れた（signum magnum apparuit in caelo）──太陽をまとい、足の下に月を置き、頭に十二の星の冠をかぶった女」──第12章の開口部にして、Apocalypsis全体で最も豊かな象徴的形象。「signum magnum（大きなしるし）」という語が第12章と第13章（v.3「aliud signum：別のしるし」）を接続する構造的標識として機能する。「mulier amicta sole（太陽をまとった女）」：女の形象の解釈は多岐にわたる──イスラエル共同体（創世記第37章v.9のヨセフの夢での太陽・月・十一の星の象徴を反転）・教会・マリアという三つの主要釈義の並立。「luna sub pedibus ejus（足の下に月を置く）」：月の踏み台化が地上的時間性（月の満ち欠け）への超越を示す。「corona stellarum duodecim（十二の星の冠）」：十二使徒・十二部族という教会の基盤的数としての十二。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という地上的太陽の循環を、この女は「まとう（amicta）」ことで身にまとい超越する──太陽に飲み込まれるのではなく太陽を衣とする逆転として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "et in utero habens, clamabat parturiens, et cruciabatur ut pariat.",
+      "body": "「産みの苦しみで叫び、産もうとして悶えていた（clamabat parturiens, et cruciabatur ut pariat）」──誕生の苦しみという身体的形象の導入。「parturiens（産みの苦しみ）」：ギリシア語原典「ὠδίνουσα（ōdinousa）」の訳語で、産みの陣痛という身体的苦悩を指す。イザヤ書第66章v.7「antequam parturiret, peperit（陣痛が来る前に産んだ）」というイスラエルの奇跡的出産の反響。「cruciabatur（悶えていた）」：「cruciatus（苦悩・十字架刑）」と同語根で、産みの苦しみに受難的な含意が重ねられる。ヨハネ福音書第16章v.21「mulier cum parit, tristitiam habet（女は産む時、悲しむ）」との照応として。Iob第1章v.21「Nudus egressus sum de utero matris meae（裸で母の胎から出た）」というヨブの剥奪の表現が「胎（uterus）」という語を共有することで、誕生という起源的体験が苦悩と剥奪の原型として照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Et visum est aliud signum in caelo: et ecce draco magnus rufus habens capita septem, et cornua decem: et in capitibus ejus diademata septem,",
+      "body": "「天にまた別のしるし──大きな赤い竜（draco magnus rufus）──七つの頭と十の角──頭に七つの王冠（diademata septem）」──第12章の対抗的主人公としての竜の定義的描写。「draco magnus rufus（大きな赤い竜）」：「rufus（赤い）」という色が第6章v.4の赤馬の騎者の血と暴力の象徴と連続する。「capita septem, et cornua decem（七つの頭と十の角）」：完全な統治力（七）と強大な権能（十）の組み合わせが、v.9で「diabolus et Satanas（悪魔またサタン）」として同定される存在の政治的・宇宙的権能を定式化する。「diademata septem（七つの王冠）」：「diadema（ディアデマ）」はヘレニズムの王冠を指す語で、第19章v.12「in capite ejus diademata multa（その頭に多くの王冠）」の小羊の王冠と対比される。女の「corona stellarum（星の冠）」と竜の「diademata（王冠）」という冠の対照が第12章の視覚的対立軸を形成する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "et cauda ejus trahebat tertiam partem stellarum caeli, et misit eas in terram: et draco stetit ante mulierem, quae erat paritura, ut cum peperisset, filium ejus devoraret.",
+      "body": "「その尾は天の星の三分の一を引き裂いて地に投げた（trahebat tertiam partem stellarum caeli）──子を飲み込もうとしていた（devoraret）」──竜の宇宙的破壊力と捕食的意図の連続的描写。「tertiam partem stellarum caeli（天の星の三分の一）」：第8章のラッパ系列での「tertia pars（三分の一）」という破壊の分率が竜の尾の動作として再現される──第8章の自然的破局が第12章では竜という人格的主体の行為として反復される。「trahebat（引き裂いた）」という引く動作が「misit eas in terram（地に投げた）」という投げる動作へと連続し、第6章v.13「stellae de caelo ceciderunt（星たちは地に落ちた）」の先行的原因として機能する。「filium ejus devoraret（子を飲み込もうとした）」：「devorare（飲み込む）」は第10章v.9「devora illum（それを食べ尽くせ）」という書物の摂取と同一の動詞──神的命令による「食べる」と竜的捕食による「食べる」の対称として。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et peperit filium masculum, qui recturus erat omnes gentes in virga ferrea: et raptus est filius ejus ad Deum, et ad thronum ejus,",
+      "body": "「鉄の杖をもってすべての国を治める男の子（filium masculum, qui recturus erat omnes gentes in virga ferrea）──御座のもとへと引き上げられた（raptus est filius ejus ad Deum）」──第12章の劇的核心。「filium masculum（男の子）」：詩篇第2篇v.9「reges eos in virga ferrea（鉄の杖で彼らを砕く）」というメシア詩篇の引用として。「raptus est … ad Deum, et ad thronum ejus（神のもとへ、御座のもとへと引き上げられた）」：「raptus est（引き上げられた）」という受動形が神的行為による迅速な「引き上げ（raptura）」を示す。第11章v.12「ascenderunt in caelum in nube（雲の中を天に昇った）」という二人の証人の昇天との対応として──しかし証人の昇天が「声による招待（Ascendite huc）」に応じる過程であるのに対し、子の昇天は「竜による捕食の前に」という緊迫した救出として提示される。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の永続的循環が、この「男の子の誕生と引き上げ」という一回性の出来事によって中断される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "et mulier fugit in solitudinem ubi habebat locum paratum a Deo, ut ibi pascant eam diebus mille ducentis sexaginta.",
+      "body": "「女は荒野に逃げた──神によって備えられた場所（locum paratum a Deo）──千二百六十日間養われる」──女の保護的隠遁。「fugit in solitudinem（荒野に逃げた）」：出エジプト記の荒野の放浪・エリヤの荒野への逃走（列王記上第19章）という聖書的「荒野」の終末論的反復として。「locum paratum a Deo（神によって備えられた場所）」：ヨハネ福音書第14章v.2「vado parare vobis locum（あなたがたのために場所を備えるために行く）」というキリストの言葉の反響として、神的保護の空間が「備えられた（paratum）」という受動形で表現される。「diebus mille ducentis sexaginta（千二百六十日間）」：第11章v.3と同一の期間──二人の証人の預言期間と女の保護期間が同じ三年半として同期する。ヴェイユ「Accepter le vide（真空を受容する）」章の「荒野における神の養い」という主題が、この「荒野での養い（pascant eam）」と照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et factum est praelium magnum in caelo: Michael et angeli ejus praeliabantur cum dracone, et draco pugnabat, et angeli ejus:",
+      "body": "「天で大きな戦いが起きた──ミカエルとその天使たちが竜と戦った（Michael et angeli ejus praeliabantur cum dracone）」──天上での天使的戦争の開示。「praelium magnum in caelo（天での大きな戦い）」：Apocalypsis全体で唯一、天上における天使間の武力的衝突が記述される場面。「Michael（ミカエル）」：ヘブライ語「מִיכָאֵל（Mîkhā'ēl）：神に似た者は誰か」を意味する天使の固有名。ダニエル書第12章v.1「surget Michael princeps magnus（大いなる君主ミカエルが立ち上がる）」の終末論的役割の実現として。「praeliabantur（戦った）」という未完了過去形が戦闘の継続的性格を示す──「praeliabantur … pugnabat（戦った……戦ったが）」という対称的動詞の反復が両陣営の戦闘を文体的に実演する。第9章の「abyssus（深淵）」という地下的領域からの悪の出現に対し、第12章では天上における悪の存在と追放という垂直的宇宙論が展開される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "et non valuerunt, neque locus inventus est eorum amplius in caelo.",
+      "body": "「彼らは勝てず、天にはもはや彼らの場所がなくなった（neque locus inventus est eorum amplius in caelo）」──竜の敗北の二重の定式。「non valuerunt（勝てなかった）」という単純な否定が戦闘の結果を簡潔に記す。「neque locus inventus est eorum amplius in caelo（天にはもはや彼らの場所がなくなった）」：「場所（locus）」という語が第3章v.5「movebo candelabrum tuum de loco suo（燭台をその場所から取り除く）」という教会への脅しと照応する──教会の「場所」を失わせると脅した者が、天における自らの「場所」を失う逆転として。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」という「場所（lieu）」の絶対化と、「neque locus inventus est（場所がなくなった）」という「場所の廃絶」が対称的に照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Et projectus est draco ille magnus, serpens antiquus, qui vocatur diabolus, et Satanas, qui seducit universum orbem: et projectus est in terram, et angeli ejus cum illo missi sunt.",
+      "body": "「かの大きな竜、古い蛇、悪魔またサタンと呼ばれる全世界を惑わす者が投げ落とされた（projectus est in terram）」──v.3以来の竜の最終的同定と四重の名の提示。「draco ille magnus（かの大きな竜）」・「serpens antiquus（古い蛇）」・「diabolus（悪魔）」・「Satanas（サタン）」：四つの名の連鎖による多層的同定。「serpens antiquus（古い蛇）」：創世記第3章v.1「serpens erat callidior cunctis animantibus（蛇はすべての野の生き物の中で最も賢かった）」というエデンの蛇の終末論的同定として。「qui seducit universum orbem（全世界を惑わす者）」：第9章v.20「adorarent daemonia（悪霊どもを礼拝した）」という惑わされた人類の状態の根本的原因として。「projectus est（投げ落とされた）」という動詞の三回反復（v.9・v.10・v.13の「projectus esset」）がこの追放の決定的性格を強調する。Iob第1章のサタンが「神の御前に立つ」という位置から第12章では「地に投げ落とされる」という位置への転落として。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et audivi vocem magnam in caelo dicentem: Nunc facta est salus, et virtus, et regnum Dei nostri, et potestas Christi ejus: quia projectus est accusator fratrum nostrorum, qui accusabat illos ante conspectum Dei nostri die ac nocte.",
+      "body": "「今や、私たちの神の救いと力と御国、そのキリストの権威が実現した（Nunc facta est salus）──昼も夜も告発していた者が投げ落とされたからである」──第12章の神学的中心宣言。「Nunc（今や）」という副詞が決定的な時間的転換を示す：竜の追放という出来事が「今（nunc）」という現在において神の支配の実現として経験される。「salus, et virtus, et regnum Dei nostri, et potestas Christi ejus（救いと力と御国とキリストの権威）」：第11章v.15「Factum est regnum hujus mundi, Domini nostri et Christi ejus（この世の王国は……のものとなった）」の宣言に対応する第12章の天的礼拝頌歌として。「accusator fratrum nostrorum, qui accusabat illos ante conspectum Dei nostri die ac nocte（昼も夜も神の御前で兄弟たちを告発していた者）」：Iob第1章v.6–9でサタンが「神の御前に立って」ヨブを告発する場面の終末論的完結として──「die ac nocte（昼も夜も）」の持続的告発が今や終止される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et ipsi vicerunt eum propter sanguinem Agni, et propter verbum testimonii sui, et non dilexerunt animas suas usque ad mortem.",
+      "body": "「彼らは小羊の血と自分たちの証しの言葉によって彼に打ち勝った（vicerunt eum propter sanguinem Agni）──死に至るまでも自分の命を惜しまなかった（non dilexerunt animas suas usque ad mortem）」──第12章の勝利の定式。「propter sanguinem Agni（小羊の血によって）」：第7章v.14「dealbaverunt eas in sanguine Agni（小羊の血で白くした）」という浄化の血が、ここでは「勝利の根拠（propter）」として機能する。「propter verbum testimonii sui（証しの言葉によって）」：第1章v.2「testimonium Jesu Christi（イエス・キリストの証し）」という書全体の証言的使命との連続として。「non dilexerunt animas suas usque ad mortem（死に至るまでも自分の命を惜しまなかった）」：「anima（魂・命）」を「dilexerunt（愛した）」という愛の動詞で表現することで、命への執着の放棄が自己愛の否定として定式化される。ヴェイユ「Décréation」の「自我の放棄」という命題が「non dilexerunt animas suas（命を惜しまなかった）」という殉教的自己放棄に最も具体的に体現される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Propterea laetamini caeli, et qui habitatis in eis. Vae terrae, et mari, quia descendit diabolus ad vos habens iram magnam, sciens quod modicum tempus habet.",
+      "body": "「天とそこに住む者たちよ、喜べ（laetamini caeli）──しかし地と海よ、わざわいあれ──悪魔は大きな怒りをもって下って来た、自分の時が短いことを知っているからである（sciens quod modicum tempus habet）」──天と地の対称的宣言。「laetamini caeli（天よ、喜べ）」と「Vae terrae, et mari（地と海よ、わざわいあれ）」：天での喜びと地上での禍の同時的宣言が、天上的救済と地上的苦難の同時性を定式化する。「descendit diabolus（悪魔は下って来た）」：v.9「projectus est in terram（地に投げ落とされた）」の反復的確認として、竜の地への「降下」が「大きな怒り（iram magnam）」とともに提示される。「sciens quod modicum tempus habet（自分の時が短いことを知っているからである）」：「modicum tempus（短い時）」という時間的切迫性が竜の怒りの原因として提示される。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という永続的時間論に対し、「modicum tempus（短い時）」という時間的有限性が竜に課される逆説。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Et postquam vidit draco quod projectus esset in terram, persecutus est mulierem, quae peperit masculum:",
+      "body": "「竜は自分が地に投げ落とされたことを見ると、女を追いかけた（persecutus est mulierem）」──天上から地上への転換に伴う迫害の開始。「postquam vidit draco quod projectus esset in terram（地に投げ落とされたことを見ると）」：竜が自分の状況を「見る（vidit）」という認識の動詞が行動の動機として機能する──自らの敗北の認識が迫害行動を引き起こす因果連鎖。「persecutus est mulierem（女を追いかけた）」：v.4で「filium ejus devoraret（子を飲み込もうとした）」という子への攻撃が失敗した後、今度は女へと攻撃対象が転移する。v.7–12の天上的追放劇（v.7–9）・天的頌歌（v.10–12）からv.13–18の地上的迫害劇への構造的転換点として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "et datae sunt mulieri alae duae aquilae magnae ut volaret in desertum in locum suum, ubi alitur per tempus et tempora, et dimidium temporis a facie serpentis.",
+      "body": "「女には大きな鷲の翼が二枚与えられた（alae duae aquilae magnae）──一時と二時と半時の間、養われる（per tempus et tempora, et dimidium temporis）」──女の翼による逃走と保護期間の再定式化。「alae duae aquilae magnae（大きな鷲の翼が二枚）」：出エジプト記第19章v.4「portavi vos super alas aquilarum（わしの翼の上にあなたがたを担って）」というシナイへの神的輸送の終末論的反復として。第4章v.7「quartum animal simile aquilae volanti（飛ぶ鷲のような第四の生き物）」・第8章v.13「aquilae volantis per medium caeli（天の真ん中を飛ぶ鷲）」という鷲のモチーフの第12章での展開として。「per tempus et tempora, et dimidium temporis（一時と二時と半時の間）」：ダニエル書第7章v.25の「usque ad tempus, et tempora, et dimidium temporis」の直接引用として──v.6の「千二百六十日」・v.2の「四十二か月」と同じ三年半の第三の表現形式。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et misit serpens ex ore suo post mulierem, aquam tamquam flumen, ut eam faceret trahi a flumine.",
+      "body": "「蛇は川のような水を口から女の後に吐き出した（misit serpens ex ore suo … aquam tamquam flumen）」──蛇の口からの攻撃の形象転換。「ex ore suo（口から）」：第9章v.17「de ore eorum procedit ignis, et fumus, et sulphur（口から火と煙と硫黄が出た）」という騎兵軍の口からの破壊物と同型の「口からの放出」として。しかし火・煙・硫黄という乾燥した破壊物に対し、ここでは「aquam tamquam flumen（川のような水）」という液体的破壊物が用いられる対称として。「ut eam faceret trahi a flumine（川で押し流そうとして）」：洪水による溺死という別の死の形象。Ecclesiastes第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という川の循環的運動が、第12章では「蛇の口から出た川」という目的指向的・破壊的な流れとして歪められた形で再登場する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et adjuvit terra mulierem, et aperuit terra os suum, et absorbuit flumen, quod misit draco de ore suo.",
+      "body": "「地が女を助け、地はその口を開いて川を飲み込んだ（aperuit terra os suum, et absorbuit flumen）」──第12章の最も鮮烈な逆転の形象。「adjuvit terra mulierem（地が女を助けた）」：第12章全体で唯一の「地（terra）」の積極的・保護的行動として。第6章の「地」が竜の追放先として迫害の場であったのに対し、第12章では「地」が女を助ける存在として機能する逆転。「aperuit terra os suum（地はその口を開いた）」：「os（口）」という器官が竜の「口（os）」から水を吐く行為と対称的な「口を開いて飲み込む」行為として地に適用される。Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」という大地の永続的安定性が、ここでは能動的な「開く・飲み込む」という動的行為として顕現する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et iratus est draco in mulierem: et abiit facere praelium cum reliquis de semine ejus, qui custodiunt mandata Dei, et habent testimonium Jesu Christi.",
+      "body": "「竜は女に対して怒り、神の戒めを守り、イエス・キリストの証しを持つ者たちである彼女の残りの子孫と戦おうとして去って行った（abiit facere praelium cum reliquis de semine ejus）」──第12章の行動的結語。「iratus est draco（竜は怒った）」：v.12「iram magnam（大きな怒り）」という怒りが今度は「iratus est（怒った）」という動詞として竜の感情状態に帰属される。「reliquis de semine ejus（彼女の残りの子孫）」：「semen ejus（彼女の子孫）」という語が創世記第3章v.15「inimicitias ponam inter te et mulierem, et semen tuum et semen illius（あなたと女の間に、またあなたの子孫と彼女の子孫の間に敵意を置く）」というエデンの予告の終末論的実現として──蛇と女の子孫の敵意が第12章において具体的に展開される。「qui custodiunt mandata Dei, et habent testimonium Jesu Christi（神の戒めを守り、イエス・キリストの証しを持つ者たち）」：第12章の信者の二重の定義として、次の第13–14章の患難の対象として同定される。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Et stetit supra arenam maris.",
+      "body": "「竜は海の砂の上に立った（Et stetit supra arenam maris）」──第12章の結語、わずか六語の簡潔な節。「supra arenam maris（海の砂の上に）」：第13章の獣の登場への橋渡しとして──第13章v.1「Et vidi de mari bestiam ascendentem（海から獣が上って来るのを見た）」という獣の海からの出現が、竜が「海の砂の上に立つ」という場所的準備によって予告される。「arena maris（海の砂）」：創世記第22章v.17「multiplicabo semen tuum sicut stellas caeli, et velut arenam, quae est in litore maris（天の星のように、また海辺の砂のようにあなたの子孫を増やす）」というアブラハムへの祝福の「arena（砂）」の反語的反響として──祝福の「砂」が竜の立つ「砂」として危険の場所として転用される。「Et stetit（立った）」という完了形の単純な一動詞が、第12章全体の宇宙的戦争・追放・迫害の劇を無言で引き継ぐ次章への接続点として機能する。マラルメ「骰子一擲」の終結部での沈黙的帰結と同型の、語りが極限まで収縮する結語として。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    }
+  ]
+}
