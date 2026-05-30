@@ -1,0 +1,296 @@
+{
+  "id": "hieronymus_apocalypsis_17",
+  "title": "Apocalypsis, Caput XVII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XVII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+17&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第17章。第16章のバビロン審判の予告（v.19）を受け、第17章は「大いなる淫婦（meretrix magna）」としてのバビロンの詳細な描写と解釈的解説に充てられる。七つの鉢の一つの天使がヨハネを霊の中で荒野に連れて行き（v.3）、緋色の獣に乗り、金の杯を持ち、紫と緋色の衣をまとった女を示す。額に「神秘：大バビロン、淫行と地の忌まわしいものの母（Mysterium: Babylon magna, mater fornicationum, et abominationum terrae）」という名が書かれている（v.5）。天使はその「神秘（sacramentum）」を解説する：獣の「あった・ない・深淵から上る（fuit, et non est, et ascensura est de abysso）」という三時制的存在論的定式（v.8）、七つの頭＝七つの丘＝七人の王の系列（v.9–11）、十の角＝十人の王の一時的権能と小羊への最終的敗北（v.12–14）、多くの水＝多くの民族（v.15）、そして十の角による淫婦自身の破壊という逆転（v.16–17）、淫婦＝地の王たちの上に君臨する大都市（v.18）。VANITISMEコーパスにおける位置づけ：第17章はApocalypsis全体の解釈的・寓意的言語が最も凝縮された章として機能する。第12章の「女と竜」という天上的しるしの地上的・政治的等価物として「淫婦バビロンと獣」が提示される。v.8の「fuit, et non est, et ascensura est（あった・ない・上るだろう）」という三時制的存在論がEcclesiastes第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性の命題と対照的に機能する──コヘレトの循環的同一性に対して、第17章の獣は「非存在（non est）」という中断を持つ不連続な時間性として提示される。",
+  "keywords": [
+    "meretrix magna",
+    "aquas multas",
+    "bestia coccinea",
+    "purpura et coccinum",
+    "poculum aureum",
+    "Mysterium Babylon magna",
+    "mater fornicationum",
+    "ebria de sanguine sanctorum",
+    "fuit et non est et ascensura est",
+    "Rex regum Dominus dominorum",
+    "vocati electi et fideles",
+    "civitas magna"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_16",
+    "hieronymus_apocalypsis_13",
+    "hieronymus_apocalypsis_12",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_necessite",
+    "mallarme_mystere",
+    "mallarme_herodiade_scene",
+    "baudelaire_femmes_damnees"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et venit unus de septem angelis, qui habebant septem phialas, et locutus est mecum, dicens: Veni, ostendam tibi damnationem meretricis magnae, quae sedet super aquas multas,",
+      "provisionalTranslation": "七つの鉢を持つ七人の天使のうちの一人が来て、私に話しかけて言った。「来い、多くの水の上に座る大いなる淫婦の断罪を見せよう。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "cum qua fornicati sunt reges terrae, et inebriati sunt qui inhabitant terram de vino prostitutionis ejus.",
+      "provisionalTranslation": "「地の王たちはこの女と淫行を行い、地に住む者たちはこの女の淫行のぶどう酒で酔った。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et abstulit me in spiritu in desertum. Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiae, habentem capita septem, et cornua decem.",
+      "provisionalTranslation": "天使は霊の中で私を荒野に連れて行った。私は緋色の獣の上に座っている女を見た。獣は冒瀆の名で満ちており、七つの頭と十の角を持っていた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et mulier erat circumdata purpura, et coccino, et inaurata auro, et lapide pretioso, et margaritis, habens poculum aureum in manu sua, plenum abominatione, et immunditia fornicationis ejus.",
+      "provisionalTranslation": "女は紫と緋色の衣をまとい、金と宝石と真珠で飾られていた。手には忌まわしいものと淫行の汚れで満ちた金の杯を持っていた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et in fronte ejus nomen scriptum: Mysterium: Babylon magna, mater fornicationum, et abominationum terrae.",
+      "provisionalTranslation": "その額には名が書かれていた。「神秘：大バビロン、淫行と地の忌まわしいものの母。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et vidi mulierem ebriam de sanguine sanctorum, et de sanguine martyrum Jesu. Et miratus sum cum vidissem illam admiratione magna.",
+      "provisionalTranslation": "私は女が聖徒たちの血とイエスの証人たちの血に酔っているのを見た。私はこの女を見て大いに驚いた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et dixit mihi angelus: Quare miraris? ego dicam tibi sacramentum mulieris, et bestiae, quae portat eam, quae habet capita septem, et cornua decem.",
+      "provisionalTranslation": "天使は私に言った。「なぜ驚くのか。女の秘義と、七つの頭と十の角を持ち女を運ぶ獣の秘義を告げよう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Bestia, quam vidisti, fuit, et non est, et ascensura est de abysso, et in interitum ibit: et mirabuntur inhabitantes terram (quorum non sunt scripta nomina in libro vitae a constitutione mundi) videntes bestiam, quae erat, et non est.",
+      "provisionalTranslation": "「あなたが見た獣は、あった・ない・深淵から上るだろう、そして滅びに行く。世の初めから命の書に名が書き記されていない地に住む者たちは、かつてあって今はない獣を見て驚くだろう。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et hic est sensus, qui habet sapientiam. Septem capita, septem montes sunt, super quos mulier sedet, et reges septem sunt.",
+      "provisionalTranslation": "「ここに知恵のある者の理解がある。七つの頭は、女が座る七つの丘であり、また七人の王である。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Quinque ceciderunt, unus est, et alius nondum venit: et cum venerit, oportet illum breve tempus manere.",
+      "provisionalTranslation": "「五人は倒れ、一人は今おり、もう一人はまだ来ていない。来るときには、しばらくの間とどまらなければならない。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et bestia, quae erat, et non est: et ipsa octava est: et de septem est, et in interitum vadit.",
+      "provisionalTranslation": "「かつてあって今はない獣は第八の者であり、七人のうちの一人であり、滅びに行く。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et decem cornua, quae vidisti, decem reges sunt: qui regnum nondum acceperunt, sed potestatem tamquam reges una hora accipient post bestiam.",
+      "provisionalTranslation": "「あなたが見た十の角は十人の王である。彼らはまだ王権を受けていないが、獣とともに一時の間、王としての権能を受ける。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Hi unum consilium habent, et virtutem, et potestatem suam bestiae tradent.",
+      "provisionalTranslation": "「彼らは一つの意図を持ち、自分たちの力と権能を獣に引き渡す。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Hi cum Agno pugnabunt, et Agnus vincet illos: quoniam Dominus dominorum est, et Rex regum, et qui cum illo sunt, vocati, electi, et fideles.",
+      "provisionalTranslation": "「彼らは小羊と戦うが、小羊は彼らに打ち勝つ。小羊は主の主、王の王であるからだ。小羊とともにいる者たちは、召された者、選ばれた者、真実な者である。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et dixit mihi: Aquae, quas vidisti ubi meretrix sedet, populi sunt, et gentes, et linguae.",
+      "provisionalTranslation": "天使は私に言った。「淫婦が座っているのを見た水は、民族、国民、言語である。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et decem cornua, quae vidisti in bestia: hi odient fornicariam, et desolatam facient illam, et nudam, et carnes ejus manducabunt, et ipsam igni concremabunt.",
+      "provisionalTranslation": "「あなたが獣の上に見た十の角は、淫婦を憎み、荒廃させ、裸にし、その肉を食べ、火で焼き尽くすだろう。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Deus enim dedit in corda eorum ut faciant quod placitum est illi: ut dent regnum suum bestiae donec consummentur verba Dei.",
+      "provisionalTranslation": "「神が神の御心に適うことをするよう彼らの心の中に与えたからである。神の言葉が成し遂げられるまで、彼らが王権を獣に与えるように。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et mulier, quam vidisti, est civitas magna, quae habet regnum super reges terrae.",
+      "provisionalTranslation": "「あなたが見た女は、地の王たちの上に君臨する大きな都である。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Veni, ostendam tibi damnationem meretricis magnae, quae sedet super aquas multas,",
+      "body": "「来い、大いなる淫婦の断罪を見せよう（ostendam tibi damnationem meretricis magnae）──多くの水の上に座る（quae sedet super aquas multas）」──第17章の開口部にして章全体の「啓示的提示（ostensio）」の構造の導入。「Veni, ostendam tibi（来い、見せよう）」：第21章v.9「Veni, et ostendam tibi sponsam uxorem Agni（来い、小羊の妻である花嫁を見せよう）」という新しい都エルサレムの啓示との完全な対称として──同一の天使的招待定式が「淫婦バビロン」と「小羊の花嫁エルサレム」の両方の啓示に適用される。「damnationem meretricis magnae（大いなる淫婦の断罪）」：「damnatio（断罪・有罪判決）」という法廷的用語が啓示の目的として提示される──見せることが断罪の確認として機能する。「meretrix magna（大いなる淫婦）」：旧約において「淫行（fornicatio）」はバアル崇拝・偶像礼拝の比喩的定式として用いられた（ホセア書・エレミヤ書・エゼキエル書）。「quae sedet super aquas multas（多くの水の上に座る）」：v.15で「Aquae … populi sunt, et gentes, et linguae（水は民族・国民・言語）」と解釈されるこの「多くの水」が、淫婦の普遍的・地球的支配の形象として機能する。",
+      "targetId": "hieronymus_apocalypsis_21",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "cum qua fornicati sunt reges terrae, et inebriati sunt qui inhabitant terram de vino prostitutionis ejus.",
+      "body": "「地の王たちはこの女と淫行を行い（fornicati sunt reges terrae）──地に住む者たちはこの女の淫行のぶどう酒で酔った（inebriati sunt … de vino prostitutionis ejus）」──第17章の二重の関係者定式。「fornicati sunt reges terrae（地の王たちは淫行を行った）」：第16章v.14「reges totius terrae（全地の王たち）」がアルマゲドンに集められた政治的文脈から、第17章では「淫行（fornicatio）」という性的・礼拝的比喩による関係として再定式化される。「inebriati sunt … de vino prostitutionis ejus（淫行のぶどう酒で酔った）」：第14章v.8「Cecidit Babylon … quae a vino irae fornicationis suae potavit omnes gentes（バビロンは…淫行の怒りのぶどう酒を国民に飲ませた）」の反復として、「vinum prostitutionis（淫行のぶどう酒）」が地の住民全体への強制的酩酊の形象として展開される。「inebriati sunt（酔った）」：v.6「mulierem ebriam de sanguine sanctorum（聖徒たちの血に酔った女）」の「ebria（酔った）」と同根の動詞として、第17章全体が「酩酊」という比喩的次元で構造化されることを予告する。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et abstulit me in spiritu in desertum. Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiae, habentem capita septem, et cornua decem.",
+      "body": "「霊の中で荒野に連れて行った（abstulit me in spiritu in desertum）──緋色の獣の上に座っている女（mulierem sedentem super bestiam coccineam）──冒瀆の名で満ち、七つの頭と十の角（plenam nominibus blasphemiae, habentem capita septem, et cornua decem）」──啓示の場所転換と女の初出描写。「in spiritu in desertum（霊の中で荒野に）」：第12章v.6「mulier fugit in solitudinem（女は荒野に逃げた）」という太陽をまとった女の荒野への逃避と対称的に、第17章では「荒野（desertum）」が淫婦を「見る」場所として提示される──救済的隠れ家としての荒野が、啓示的暴露の場所としての荒野として反転する。「bestiam coccineam（緋色の獣）」：第13章では「bestia de mari（海から上る獣）」として「豹のような・熊の足・獅子の口」という複合的形象で描かれた獣が、第17章では「coccineam（緋色の）」という単一の色彩によって定義される──緋色が血・王権・淫行の色として収束する。「plenam nominibus blasphemiae（冒瀆の名で満ちた）」：第13章v.1「nomina blasphemiae（冒瀆の名）」の反復として、七つの頭が冒瀆の名を「帯びる」から獣全体が冒瀆の名で「満ちている（plena）」へと強度が高まる。",
+      "targetId": "hieronymus_apocalypsis_12",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et mulier erat circumdata purpura, et coccino, et inaurata auro, et lapide pretioso, et margaritis, habens poculum aureum in manu sua, plenum abominatione, et immunditia fornicationis ejus.",
+      "body": "「紫と緋色（purpura, et coccinum）──金と宝石と真珠（auro, et lapide pretioso, et margaritis）──金の杯（poculum aureum）──忌まわしいものと淫行の汚れで満ちた（plenum abominatione, et immunditia fornicationis ejus）」──淫婦の外観描写における詳細な列挙の詩学。「circumdata purpura, et coccino（紫と緋色の衣をまとい）」：第18章v.16「purpura et byssus（紫と亜麻布）」というバビロン崩壊の嘆きの反響として──ここでの豪奢な衣装が、第18章での喪失を際立たせる対照として機能する。「et … et … et … et … et」という五つの接続詞「et」による列挙の累積が、豪奢の際限ない集積を文体的に実演する。「poculum aureum in manu sua（手に金の杯を持つ）」：バロック期ヴァニタス絵画における「頭蓋骨・腐敗する果物・金の杯」という象徴的三角形の一要素として、豪奢と空虚の並置をもたらす。Ecclesiastes第1章v.2「Vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無）」という定式が、「purpura et coccinum・auro et margaritis」という地上的豪奢の列挙に対して、「plenum abominatione（忌まわしいもので満ちた）」という内容の暴露として適用される──外見の豪奢と内容の腐敗という「vana gloria」の定式。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Et in fronte ejus nomen scriptum: Mysterium: Babylon magna, mater fornicationum, et abominationum terrae.",
+      "body": "「額に名が書かれていた（in fronte ejus nomen scriptum）：神秘（Mysterium）：大バビロン（Babylon magna）、淫行と地の忌まわしいものの母（mater fornicationum, et abominationum terrae）」──第17章の最も凝縮された形象・Apocalypsis全体の「秘義（mysterium）」の焦点。「in fronte ejus nomen scriptum（額に名が書かれていた）」：第13章v.16の「characterem in frontibus（額に刻印）」・第14章v.1の「nomen Patris ejus scriptum in frontibus suis（額に父の名が書かれていた）」という「額への書き込み」の反複として──贖われた者の額に「父の名」が書かれるのに対し、淫婦の額には「Mysterium: Babylon magna」という自己規定の名が書かれる。「Mysterium（神秘）」：第1章v.20「sacramentum septem stellarum（七つの星の秘義）」という書全体の「sacramentum（秘義）」の語と並行する「Mysterium」が、淫婦の名の定式に組み込まれることで、啓示と謎が同一の名の内に共存する逆説が生まれる。「mater fornicationum, et abominationum terrae（淫行と地の忌まわしいものの母）」：「mater（母）」という語が第12章の「産む女（mulier parturiens）」の終末論的悪の等価物として機能する──天上的母が神の民を産んだのに対し、「大バビロン」は「淫行と忌まわしいもの」の母として提示される。マラルメ「神秘（Mystère）」というテキストが扱う「神秘の言語・意味の蔽い」という主題が、「Mysterium: Babylon」という謎めいた名の書き込みと詩的に照応する。",
+      "targetId": "mallarme_mystere",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Et vidi mulierem ebriam de sanguine sanctorum, et de sanguine martyrum Jesu. Et miratus sum cum vidissem illam admiratione magna.",
+      "body": "「聖徒たちの血とイエスの証人たちの血に酔った女（mulierem ebriam de sanguine sanctorum, et de sanguine martyrum Jesu）──私は大いに驚いた（miratus sum … admiratione magna）」──第17章の視覚的・感情的頂点。「ebriam de sanguine（血に酔った）」：v.2の「inebriati sunt … de vino prostitutionis（淫行のぶどう酒で酔った）」という関係者の酩酊に対し、v.6では淫婦自身が「de sanguine（血に）」酔っているという倒錯的逆転が提示される──飲ませる者が飲む者として、淫行のぶどう酒が聖徒の血として反転する。「sanguinem martyrum Jesu（イエスの証人たちの血）」：「martyrum（殉教者・証人）」というギリシア語「μάρτυς」のラテン語音訳が、第6章v.9「animas interfectorum propter verbum Dei（神の言葉のために殺された者たちの魂）」という祭壇の下の殉教者たちの血の最終的行方として機能する──聖徒の血が淫婦を「酔わせる」という倒錯的吸収として。「Et miratus sum … admiratione magna（私は大いに驚いた）」：「miratus sum（驚いた）」という観者ヨハネの感情的応答が挿入されることで、淫婦の形象がその衝撃的性格を超えた何かを持つことが示唆される──この「大いなる驚き（admiratio magna）」がv.7の天使の「Quare miraris?（なぜ驚くのか）」という問いを引き起こす。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quare miraris? ego dicam tibi sacramentum mulieris, et bestiae, quae portat eam, quae habet capita septem, et cornua decem.",
+      "body": "「なぜ驚くのか（Quare miraris）──女の秘義と獣の秘義を告げよう（ego dicam tibi sacramentum mulieris, et bestiae）」──解釈の開始宣言、第17章後半部への転換点。「Quare miraris（なぜ驚くのか）」：第10章v.4「signa septem tonitrua, et noli ea scribere（七つの雷鳴が語ったことを書き記すな）」という啓示の保留・第22章v.10「Noli signare verba prophetiae（預言の言葉を封印するな）」という封印の解除と連続する「啓示の制御」の構造の一環として、天使がヨハネの感情的反応（驚き）を啓示的理解の動機として転換する。「sacramentum mulieris, et bestiae（女と獣の秘義）」：「sacramentum（秘義・秘跡）」という語が「Mysterium（神秘）」（v.5）と並行して使用されることで、第17章が「神秘の解釈（sacramentum explicare）」という啓示的解説の章として定式化される。「quae portat eam（女を運ぶ獣）」：「portare（運ぶ・担う）」という動詞が女と獣の関係を「乗騎（riding）」から「担架（bearing）」へと微妙にずらす──獣が女を「運ぶ」という能動的担架として、女の獣への依存性が強調される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Bestia, quam vidisti, fuit, et non est, et ascensura est de abysso, et in interitum ibit: et mirabuntur inhabitantes terram (quorum non sunt scripta nomina in libro vitae a constitutione mundi) videntes bestiam, quae erat, et non est.",
+      "body": "「獣はあった・ない・深淵から上るだろう・滅びに行く（fuit, et non est, et ascensura est de abysso, et in interitum ibit）──命の書に名が書き記されていない地に住む者たちは驚く（mirabuntur inhabitantes terram quorum non sunt scripta nomina in libro vitae）──かつてあって今はない獣（bestiam, quae erat, et non est）」──第17章の存在論的核心命題。「fuit, et non est, et ascensura est（あった・ない・上るだろう）」という三時制の定式が「anti-Trinity（反三位一体）」的構造を形成する：第1章v.4「qui est, et qui erat, et qui venturus est（おられる方・かつておられた方・来られる方）」という神の三時制的永続性のパロディとして──「est（ある）・erat（あった）・venturus est（来られる）」に対し「non est（ない）・fuit（あった）・ascensura est（上るだろう）」という非存在を中心に据えた時制の転倒。「de abysso（深淵から）」：第9章v.1–2「aperuit puteum abyssi（深淵の穴を開いた）」という深淵のイメージの第17章での再登場として、獣の存在起源が深淵に位置づけられる。Ecclesiastes第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」という循環的同一性の命題と対照的に、獣の「fuit, et non est」という非存在の挿入が循環ではなく断絶・消滅を本質とする逆コヘレト的時間性として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Et hic est sensus, qui habet sapientiam. Septem capita, septem montes sunt, super quos mulier sedet, et reges septem sunt.",
+      "body": "「ここに知恵のある者の理解がある（hic est sensus, qui habet sapientiam）──七つの頭は七つの丘（septem montes）であり、また七人の王（reges septem）」──第17章の解釈的核心の開始。「Et hic est sensus, qui habet sapientiam（ここに知恵のある者の理解がある）」：第13章v.18「Hic sapientia est. Qui habet intellectum, computet numerum bestiae（ここに知恵がある。知性ある者は獣の数字を計算せよ）」の直接的反響として──666の計算を要求した「知恵」が、第17章では七つの頭の解釈を要求する「知恵」として反復される。「septem montes（七つの丘）」：七つの丘に囲まれた都市ローマへの歴史的・地政学的参照として伝統的に解釈される──「urbs septem montium（七つの丘の都）」というローマの別名との照応。ただし「七つの丘」はその後直ちに「七人の王（reges septem）」へと意味が移行することで、特定の都市への還元を超えた王権の系列という象徴的次元が開かれる。ヴェイユ「Nécessité（必然）」章の「力は常に社会的・歴史的な必然性として現れる」という命題が、「七つの丘・七人の王」という政治的具体性の読解として照応する。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Quinque ceciderunt, unus est, et alius nondum venit: et cum venerit, oportet illum breve tempus manere.",
+      "body": "「五人は倒れ、一人は今おり、もう一人はまだ来ていない（Quinque ceciderunt, unus est, et alius nondum venit）──来るときには、しばらくの間とどまらなければならない（oportet illum breve tempus manere）」──王の系列の時間的配置。「Quinque ceciderunt, unus est, et alius nondum venit」：過去・現在・未来という三つの時制にわたる王の系列が「倒れた（ceciderunt）・おり（est）・来ていない（nondum venit）」という三動詞によって定式化される。「oportet illum breve tempus manere（しばらくの間とどまらなければならない）」：「oportet（〜しなければならない）」という義務的副詞が王の在位期間の神的必然性を示す──「breve tempus（短い時）」という時間的切迫性が第12章v.12「modicum tempus habet（短い時しかない）」という竜の時間的有限性と照応する。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の循環的交代が、第17章では「Quinque ceciderunt, unus est, et alius nondum venit」という終末論的・非循環的な王の系列として再定式化される──コヘレト的循環が終末論的完結へと収斂する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Et bestia, quae erat, et non est: et ipsa octava est: et de septem est, et in interitum vadit.",
+      "body": "「かつてあって今はない獣は第八の者（ipsa octava est）であり、七人のうちの一人（de septem est）であり、滅びに行く（in interitum vadit）」──第17章の数論的・存在論的謎の頂点。「ipsa octava est（自身は第八の者）」：七人の王の系列の外に立ちながら「七人のうちの一人（de septem est）」でもあるという矛盾した定式が、獣の超-歴史的・反復的性格を示す。「八（octo）」：七という完全数の外に立つ「超過（超余）」の数として、七の完全性を破る終末論的数として解釈される──週の七日を超えた「第八日（octavo die）」がキリスト教的復活・永遠の象徴として用いられたのに対し、第17章の「第八」は獣の超-歴史的性格の暗い等価物として機能する。「in interitum vadit（滅びに行く）」：v.8「in interitum ibit（滅びに行く）」の反復として、「第八」という超過的存在が最終的に「interitum（滅び・廃滅）」へと向かうという方向性が確認される。",
+      "targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et decem cornua, quae vidisti, decem reges sunt: qui regnum nondum acceperunt, sed potestatem tamquam reges una hora accipient post bestiam.",
+      "body": "「十の角は十人の王（decem reges sunt）──まだ王権を受けていない（regnum nondum acceperunt）──獣とともに一時の間、権能を受ける（potestatem tamquam reges una hora accipient post bestiam）」──十の角の解釈とその時間的限定。「decem cornua, quae vidisti, decem reges sunt（十の角は十人の王）」：第13章v.1「cornua decem（十の角）」という視覚的形象が「decem reges（十人の王）」という権力的現実として解読される──黙示録的解釈学の典型的構造として、「見た（vidisti）」という視覚が「〜である（sunt）」という解釈的同定へと変換される。「una hora accipient（一時の間受ける）」：「una hora（一時）」という極端に短い時間的限定が王権の脆弱性を際立たせる。第18章v.10「in una hora venit judicium tuum（一時のうちにあなたへの裁きが来た）」・v.17「in una hora desolata est tanta divitia（一時のうちに大きな富が廃れた）」という「一時（una hora）」の反復的モチーフの先行的導入として。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という記憶の消滅の命題が、「una hora（一時）」という極小の在位期間と照応する──在位が短すぎて記憶に残らない王権の虚無性として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Hi unum consilium habent, et virtutem, et potestatem suam bestiae tradent.",
+      "body": "「彼らは一つの意図を持ち（Hi unum consilium habent）──力と権能を獣に引き渡す（virtutem, et potestatem suam bestiae tradent）」──第17章の最も簡潔な節の一つ、悪の連帯の定式。「Hi unum consilium habent（彼らは一つの意図を持つ）」：「unum（一つ）」という数詞の強調が、十人の王たちの連帯の根拠として機能する。第13章v.4「adoraverunt draconem … et adoraverunt bestiam（竜を礼拝した……獣を礼拝した）」という二段階の礼拝的連帯が、第17章では「unum consilium（一つの意図）」という意志的統一として深化される。「et virtutem, et potestatem suam bestiae tradent（力と権能を獣に引き渡す）」：「tradent（引き渡す）」という動詞が自発的な権能委譲を示す──外部からの強制ではなく内発的な「引き渡し（traditio）」として悪の連帯が定式化される。ヴェイユ「La Violence」章の「力（la force）は他の力を引き寄せ合体する」という命題が、「unum consilium … potestatem tradent」という力の自発的集中として体現される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Hi cum Agno pugnabunt, et Agnus vincet illos: quoniam Dominus dominorum est, et Rex regum, et qui cum illo sunt, vocati, electi, et fideles.",
+      "body": "「彼らは小羊と戦うが、小羊は彼らに打ち勝つ（Agnus vincet illos）──主の主、王の王（Dominus dominorum est, et Rex regum）──召された者、選ばれた者、真実な者（vocati, electi, et fideles）」──第17章の神学的頂点・小羊の最終的勝利の宣言。「Agnus vincet illos（小羊は彼らに打ち勝つ）」：「vincet（打ち勝つ）」という動詞が第15章v.2「qui vicerunt bestiam（獣に打ち勝った者たち）」という贖われた者たちの過去的勝利と、第17章では小羊自身の未来的勝利として接続される。「Dominus dominorum est, et Rex regum（主の主、王の王）」：第19章v.16での「Rex regum, et Dominus dominantium（王の王、主の主）」の先行的宣言として。申命記第10章v.17「Dominus Deus vester ipse est Deus deorum, et Dominus dominorum（あなたがたの神、主は神々の神、主の主）」という旧約的定式の小羊への適用として。「vocati, electi, et fideles（召された者、選ばれた者、真実な者）」：三重の修飾語が贖われた者の共同体を定義する──「vocati（召された）」という神の側からの呼び出し・「electi（選ばれた）」という神の側からの選択・「fideles（真実な）」という人間の側からの応答という神的先行と人間的応答の三位一体的定式。",
+      "targetId": "hieronymus_apocalypsis_15",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Aquae, quas vidisti ubi meretrix sedet, populi sunt, et gentes, et linguae.",
+      "body": "「淫婦が座っているのを見た水は、民族、国民、言語（populi sunt, et gentes, et linguae）」──v.1の「多くの水の上に座る（quae sedet super aquas multas）」の解釈的解決。「Aquae … populi sunt, et gentes, et linguae（水は……民族・国民・言語）」：第7章v.9「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民・部族・民族・言語から）」という救済の普遍的包括性の四要素列挙が、第17章では「民族・国民・言語」という三要素として淫婦の支配対象として転用される──救済の普遍性が支配の普遍性として反転される形象。「Et dixit mihi（天使は私に言った）」という導入句がv.7の解釈宣言と対称して第17章の解釈構造の第二段を開く：v.7「ego dicam tibi sacramentum（秘義を告げよう）」→v.8–14（獣と角の解釈）→v.15「Et dixit mihi（また言った）」→v.15–18（水・角・女の最終的解釈）という二段階解釈構造。ヴェイユ「Nécessité」章の「必然は社会の全体を統治する」という命題が、「populi et gentes et linguae（民族・国民・言語）」という言語的・民族的普遍性として淫婦の支配の射程に照応する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et decem cornua, quae vidisti in bestia: hi odient fornicariam, et desolatam facient illam, et nudam, et carnes ejus manducabunt, et ipsam igni concremabunt.",
+      "body": "「十の角は淫婦を憎み（hi odient fornicariam）──荒廃させ、裸にし（desolatam facient illam, et nudam）──肉を食べ、火で焼き尽くす（carnes ejus manducabunt, et ipsam igni concremabunt）」──第17章最大の逆転：協力者による破壊。「hi odient fornicariam（彼らは淫婦を憎む）」：v.13「Hi unum consilium habent（彼らは一つの意図を持つ）」という連帯が、同一の「Hi（彼ら）」によって今度は「淫婦への憎しみ（odient fornicariam）」として反転される──獣への協力者たちが淫婦の破壊者として転換するという逆説的連鎖。「desolatam facient illam, et nudam（荒廃させ、裸にする）」：第12章v.1の「太陽をまとった女（mulier amicta sole）」・第17章v.4の「紫と緋色の衣をまとった女（circumdata purpura, et coccino）」という衣装の充満が「nudam（裸に）」という剥奪によって反転される。「carnes ejus manducabunt（その肉を食べる）」：列王記下第9章v.36「canes comedent carnem Jezabel（犬がイゼベルの肉を食う）」というイゼベルの審判的最後の終末論的反響として。Iob第1章v.21「Nudus egressus sum … nudus revertar（裸で出た……裸で戻る）」というヨブの剥奪的帰還の定式が、「nudam（裸に）」という淫婦の最終的剥奪として反響する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Deus enim dedit in corda eorum ut faciant quod placitum est illi: ut dent regnum suum bestiae donec consummentur verba Dei.",
+      "body": "「神が神の御心に適うことをするよう彼らの心の中に与えた（Deus enim dedit in corda eorum ut faciant quod placitum est illi）──神の言葉が成し遂げられるまで（donec consummentur verba Dei）」──第17章の神学的最深部：悪の連帯を神的섭理の道具として提示する命題。「Deus enim dedit in corda eorum（神が彼らの心の中に与えた）」：十の角と獣の協力・そして淫婦の破壊という一連の動きが、神の秘義的섭理の道具として機能することを宣言する──悪の連帯が神の意志の実現として位置づけられるという、Apocalypsis全体の最も深い神学的逆説の一つ。「ut faciant quod placitum est illi（神の御心に適うことをするように）」：「placitum est illi（神の御心に適う）」という表現が悪の行為者たちの主観的意図（淫婦への憎しみ）が客観的には神の意図として機能することを示す。「donec consummentur verba Dei（神の言葉が成し遂げられるまで）」：「consummentur（成し遂げられる）」という動詞が第16章v.17「Factum est（成し遂げられた）」という审判完成の宣言と同根として、神の言葉の完成という目的論的枠組みの中に悪の歴史が置かれる。ヴェイユ「Nécessité」章の「必然は神の間接的な語りかけ」という命題が、「Deus enim dedit in corda eorum（神が彼らの心の中に与えた）」という神的섭理の間接的な働きとして最も具体的に体現される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "glossary",
+      "anchor": "Et mulier, quam vidisti, est civitas magna, quae habet regnum super reges terrae.",
+      "body": "「あなたが見た女は地の王たちの上に君臨する大きな都（civitas magna, quae habet regnum super reges terrae）」──第17章の最終的解釈：女＝都市の同定。「Et mulier … est civitas magna（女は……大きな都）」：章全体を通じた「女（mulier）」という個人的形象が「civitas magna（大きな都）」という集合的・政治的実体として解釈的に同定される。この最終的転換が第17章の解釈学的構造全体を完結させる──「多くの水（aquae multae）＝民族・国民・言語」・「七つの頭＝七つの丘・七人の王」・「十の角＝十人の王」・「女＝大きな都」という四段階の解釈的同定として。「quae habet regnum super reges terrae（地の王たちの上に君臨する）」：第1章v.1「regis Jerusalem（エルサレムの王）」というEcclesiastes的王権の対称として、コヘレトの王が「太陽の下での虚無」を確認したのに対し、「大いなる都」は「地の王たちの上に君臨する」という第17章の最後の確認として提示される。第21章の「新しいエルサレム（Jerusalem nova）」との対称として、「civitas magna（大きな都）」バビロンが「civitas sancta（聖なる都）」エルサレムの暗のイメージとして機能する──第17–18章のバビロンの崩壊が第21章の新しいエルサレムの顕現のための空間的・終末論的前提となる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
