@@ -1,0 +1,309 @@
+{
+  "id": "hieronymus_apocalypsis_14",
+  "title": "Apocalypsis, Caput XIV",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XIV. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+14&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第14章。第13章の獣と偽預言者による地上的迫害体制の確立に続き、第14章はその対極として天上的・終末論的応答を提示する。章全体は三つの主要場面から構成される。第一の場面（v.1–5）：シオン山に立つ小羊と十四万四千人の贖われた者たちによる「新しい歌（canticum novum）」。彼らは額に小羊と父の名を持ち、地から贖われた初穂（primitiae）として純潔・真実・無垢（sine macula）の四重の定式によって定義される。第二の場面（v.6–13）：三人の天使による連続的な宣言──第一の天使の「永遠の福音（Evangelium aeternum）」と創造主への礼拝命令（v.6–7）、第二の天使の「バビロン陥落（Cecidit Babylon）」の先取り的宣言（v.8）、第三の天使の獣礼拝者への神の怒り（vinum irae Dei）と終わりなき苦悩の宣言（v.9–11）、そして挿入的な幸いの宣言「主にあって死ぬ者は幸い（Beati mortui qui in Domino moriuntur）」（v.12–13）。第三の場面（v.14–20）：人の子に似た者（similis Filio hominis）による白い雲の上からの刈り入れの鎌（falx）と、ぶどうの収穫・踏み場の血の川。VANITISMEコーパスにおける位置づけ：第14章は第13章の獣・刻印・強制礼拝体制に対する天上からの応答として、贖罪・審判・終末的収穫という三主題を密度高く提示する。Ecclesiastes第1章の「太陽の下でのすべての労苦（labor sub sole）」に対して、「opera enim illorum sequuntur illos（彼らの業は彼らについていく）」（v.13）という終末論的労苦の意味転換が行われる──死後に消えるコヘレト的労苦が、キリスト者の業においては死を超えて持続する逆説として。「Beati mortui（幸いな死者たち）」（v.13）というヴァニタス・モルタリスの転倒は、バロック期ヴァニタス美術における骸骨・砂時計・枯れ花の死の確認とは全く逆の方向で死を位置づける。",
+  "keywords": [
+    "Agnus supra montem Sion",
+    "centum quadraginta quatuor millia",
+    "canticum novum",
+    "primitiae Deo et Agno",
+    "Evangelium aeternum",
+    "Cecidit Babylon",
+    "vinum irae Dei",
+    "Beati mortui qui in Domino moriuntur",
+    "similis Filio hominis",
+    "falx acuta",
+    "lacus irae Dei",
+    "sanguis usque ad frenos equorum"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_13",
+    "hieronymus_apocalypsis_12",
+    "hieronymus_apocalypsis_7",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_la_violence",
+    "mallarme_coup_de_des",
+    "trakl_de_profundis",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi: et ecce Agnus stabat supra montem Sion, et cum eo centum quadraginta quatuor millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.",
+      "provisionalTranslation": "私は見た。見よ、小羊がシオン山の上に立っており、その小羊とともに十四万四千人がいた。彼らの額には小羊の名と父の名が書き記されていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et audivi vocem de caelo, tamquam vocem aquarum multarum, et tamquam vocem tonitrui magni: et vocem, quam audivi, sicut citharoedorum citharizantium in citharis suis.",
+      "provisionalTranslation": "私は天からの声を聞いた。それは多くの水の音のようであり、大きな雷鳴のようでもあった。私が聞いたその声は、竪琴を弾く竪琴弾きたちの声のようであった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et cantabant quasi canticum novum ante sedem, et ante quatuor animalia, et seniores: et nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti sunt de terra.",
+      "provisionalTranslation": "彼らは御座の前、四つの生き物と長老たちの前で、新しい歌のようなものを歌った。その歌を歌うことができた者は誰もなく、ただ地から贖われた十四万四千人だけが歌うことができた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Hi sunt, qui cum mulieribus non sunt coinquinati: virgines enim sunt. Hi sequuntur Agnum quocumque ierit. Hi empti sunt ex hominibus primitiae Deo, et Agno:",
+      "provisionalTranslation": "この者たちは女たちと交わって身を汚したことがない。彼らは処女（童貞）である。この者たちは小羊がどこへ行こうとも従う。この者たちは人々の中から神と小羊への初穂として贖われた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "et in ore eorum non est inventum mendacium: sine macula enim sunt ante thronum Dei.",
+      "provisionalTranslation": "その口には偽りは見出されなかった。彼らは神の御座の前に傷のない者たちである。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et vidi alterum angelum volantem per medium caeli, habentem Evangelium aeternum, ut evangelizaret sedentibus super terram, et super omnem gentem, et tribum, et linguam, et populum:",
+      "provisionalTranslation": "私はまた、天の真ん中を飛ぶ別の天使を見た。地に座す者たちへ、あらゆる国民、部族、言語、民族に永遠の福音を宣べ伝えるために、永遠の福音を持っていた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "dicens magna voce: Timete Dominum, et date illi honorem, quia venit hora judicii ejus: et adorate eum, qui fecit caelum, et terram, mare, et fontes aquarum.",
+      "provisionalTranslation": "大声で言った。「神を畏れよ、神に栄光を帰せよ。神の裁きの時が来たからである。天と地と海と水の源を造られた方を礼拝せよ。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et alius angelus secutus est dicens: Cecidit, cecidit Babylon illa magna: quae a vino irae fornicationis suae potavit omnes gentes.",
+      "provisionalTranslation": "別の天使が続いて言った。「倒れた、倒れたあの大バビロンは。あらゆる国民に自分の淫行の怒りのぶどう酒を飲ませた者が。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et tertius angelus secutus est illos, dicens voce magna: Si quis adoraverit bestiam, et imaginem ejus, et acceperit caracterem in fronte sua, aut in manu sua:",
+      "provisionalTranslation": "第三の天使が彼らに続いて大声で言った。「もし誰かが獣とその像を礼拝し、自分の額や手に刻印を受けるならば、"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et hic bibet de vino irae Dei, quod mistum est mero in calice irae ipsius, et cruciabitur igne, et sulphure in conspectu angelorum sanctorum, et ante conspectum Agni:",
+      "provisionalTranslation": "その者は神の怒りのぶどう酒を飲む──それは神の怒りの杯に希釈されずに注がれたものである。その者は聖なる天使たちの前で、また小羊の御前で、火と硫黄によって責め苦を受ける。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et fumus tormentorum eorum ascendet in saecula saeculorum: nec habent requiem die ac nocte, qui adoraverunt bestiam, et imaginem ejus, et si quis acceperit caracterem nominis ejus.",
+      "provisionalTranslation": "その責め苦の煙は永遠に永遠に昇り続ける。獣とその像を礼拝した者たちは、また獣の名の刻印を受けた者は誰も、昼も夜も安息を得ない。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Hic patientia sanctorum est, qui custodiunt mandata Dei, et fidem Jesu.",
+      "provisionalTranslation": "ここに神の戒めとイエスへの信仰を守る聖徒たちの忍耐がある。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et audivi vocem de caelo, dicentem mihi: Scribe: Beati mortui qui in Domino moriuntur. Amodo jam dicit Spiritus, ut requiescant a laboribus suis: opera enim illorum sequuntur illos.",
+      "provisionalTranslation": "私は天からの声が私に言うのを聞いた。「書き記せ。今から後、主にあって死ぬ者たちは幸いである。」霊は言う。「そうだ、彼らはその労苦から安らぐことができる。彼らの業は彼らについていくからである。」"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et vidi: et ecce nubem candidam, et super nubem sedentem similem Filio hominis, habentem in capite suo coronam auream, et in manu sua falcem acutam.",
+      "provisionalTranslation": "私は見た。見よ、白い雲があり、その雲の上に人の子に似た者が座っていた。頭には金の冠をつけ、手には鋭い鎌を持っていた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et alius angelus exivit de templo, clamans voce magna ad sedentem super nubem: Mitte falcem tuam, et mete, quia venit hora ut metatur, quoniam aruit messis terrae.",
+      "provisionalTranslation": "また別の天使が神殿から出てきて、雲の上に座っている者に大声で叫んだ。「あなたの鎌を入れて刈り取ってください。刈り取りの時が来ました。地の穀物は熟したからです。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et misit qui sedebat super nubem, falcem suam in terram, et demessa est terra.",
+      "provisionalTranslation": "雲の上に座っている者は地に鎌を入れた。こうして地は刈り取られた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et alius angelus exivit de templo, quod est in caelo, habens et ipse falcem acutam.",
+      "provisionalTranslation": "また別の天使が、天にある神殿から出てきた。この天使も鋭い鎌を持っていた。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et alius angelus exivit de altari, qui habebat potestatem supra ignem: et clamavit voce magna ad eum qui habebat falcem acutam, dicens: Mitte falcem tuam acutam, et vindemia botros vineae terrae: quoniam maturae sunt uvae ejus.",
+      "provisionalTranslation": "また別の天使が祭壇から出てきた。この天使は火を支配する権能を持っていた。この天使は鋭い鎌を持つ者に大声で叫んだ。「あなたの鋭い鎌を入れて、地のぶどうの木の房を収穫してください。そのぶどうはすっかり熟したからです。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et misit angelus falcem suam acutam in terram, et vindemiavit vineam terrae, et misit in lacum irae Dei magnum:",
+      "provisionalTranslation": "天使は地に鋭い鎌を入れて、地のぶどうの木を収穫し、神の大きな怒りの踏み場に投げ入れた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "et calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta.",
+      "provisionalTranslation": "踏み場は都の外で踏まれ、踏み場から血が流れ出て、馬の轡に届くほどに千六百スタディオンに及んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Et vidi: et ecce Agnus stabat supra montem Sion, et cum eo centum quadraginta quatuor millia, habentes nomen ejus, et nomen Patris ejus scriptum in frontibus suis.",
+      "body": "「小羊がシオン山の上に立っており（Agnus stabat supra montem Sion）──十四万四千人──額に小羊の名と父の名（nomen ejus, et nomen Patris ejus scriptum in frontibus suis）」──第13章の獣と偽預言者による刻印の体制への直接的対位として第14章は開かれる。「montem Sion（シオン山）」：第12章の「荒野（solitudo）」への隠遁から、第14章では神の聖山への回帰として──詩篇第2篇v.6「constitutus sum rex ab eo super Sion montem sanctum ejus（わたしは彼の聖なる山シオンの上に王として立てられた）」というメシア的王権の場。「centum quadraginta quatuor millia（十四万四千人）」：第7章v.4の印された者たちの数の再登場──第7章では印を受ける「前に」列挙されていた者たちが、今や小羊とともに「シオン山に立つ」という完成した姿として提示される。「nomen Patris ejus scriptum in frontibus suis（額に父の名が書き記されていた）」：第13章v.16の「characterem in dextera manu sua, aut in frontibus（右手か額に刻印）」という獣の刻印と直接対置される──獣の刻印が「characterem（刻印・印章）」であるのに対し、贖われた者たちの額には「nomen（名）」が書かれる：支配の標識に対する帰属の標識、強制に対する自発的同定。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "tamquam vocem aquarum multarum, et tamquam vocem tonitrui magni",
+      "body": "「多くの水の音のようであり（tamquam vocem aquarum multarum）、大きな雷鳴のようでもあった（tamquam vocem tonitrui magni）──竪琴弾きたちの声のように（sicut citharoedorum citharizantium）」──三重の聴覚的比喩による声の描写。「tamquam … tamquam … sicut」という三段の類比連鎖がApocalypsis全体の「類比的言語（tamquam / sicut）」の一典型として機能する：言語では直接指示できない天上的音響を、自然現象（水・雷）と人工的音楽（竪琴）という二極から挟み撃ちにする記述戦略。第1章v.15「vox ejus tamquam vox aquarum multarum（その声は多くの水の音のよう）」・第4章v.5「de throno procedebant fulgura, et voces, et tonitrua（御座から雷鳴が出ていた）」という反復句の第14章での凝縮として。「citharoedorum citharizantium in citharis suis（竪琴を弾く竪琴弾きたち）」：ポリュプトトン（同語根の語を重ねる修辞）──「citharoedorum citharizantium」という名詞形と動詞形の連続が、演奏行為の強調として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "canticum novum ante sedem",
+      "body": "「新しい歌（canticum novum）──その歌を歌えた者は誰もなく、ただ地から贖われた十四万四千人だけが（nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia）」──第14章の音楽的・共同体的核心。「canticum novum（新しい歌）」：第5章v.9「cantabant canticum novum（新しい歌を歌っていた）」という小羊への礼拝頌歌の反復として──第5章では四つの生き物と長老たちが歌ったのに対し、第14章では地から贖われた十四万四千人が歌う。Ecclesiastes第1章v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」というコヘレトの「新しいもの」否定の命題に対し、「canticum novum（新しい歌）」という終末論的「新しさ」が正面から応答する──地上の循環的反復によっては生まれえない「新しさ」が天上において実現する逆説。「nemo poterat dicere canticum, nisi（誰も歌えなかった、〜だけを除いて）」：歌の排他的学習可能性が共同体の定義として機能する──この歌を歌えることそのものが贖われた者たちの同一性の標識。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Hi sequuntur Agnum quocumque ierit. Hi empti sunt ex hominibus primitiae Deo, et Agno:",
+      "body": "「小羊がどこへ行こうとも従う（sequuntur Agnum quocumque ierit）──神と小羊への初穂（primitiae Deo, et Agno）」──十四万四千人の三つの定義的行為の第二・第三。「sequuntur Agnum quocumque ierit（小羊がどこへ行こうとも従う）」：「quocumque（どこへでも）」という不定関係副詞が追従の無条件性・普遍性を示す──第13章の「獣に従う（secundum bestiam）」地に住む者たちとの対照として。「primitiae（初穂）」：旧約祭儀の「初穂（bikkûrîm）」の終末論的転用。農業的初穂献納（レビ記第23章）が人格的・終末論的次元に適用される──人々の中から最初に収穫された者として贖われた共同体。ヤコブ書第1章v.18「primitias quasdam creaturae ejus（被造物の初穂のような者）」との照応として。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という問いへの答えとして──地上の労苦の中から「初穂（primitiae）」として神に捧げられることが地上的労苦の意味として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "et in ore eorum non est inventum mendacium: sine macula enim sunt ante thronum Dei.",
+      "body": "「その口には偽りは見出されなかった（in ore eorum non est inventum mendacium）──神の御座の前に傷のない者（sine macula enim sunt ante thronum Dei）」──十四万四千人の定義の完結的二命題。「in ore eorum non est inventum mendacium（口には偽りが見出されなかった）」：第13章v.5–6の獣が「冒瀆を語る口（os loquens magna et blasphemias）」を持つことと正反対の「口の純潔」として機能する。「非発見（non est inventum）」という受動的・法廷的表現が、裁きの文脈における審査の通過として機能する。「sine macula（傷なし）」：旧約の犠牲祭儀において「欠点なき（immaculatum）」動物が神に献げられるという祭儀的要件の終末論的実現──十四万四千人自身が小羊への捧げ物として「傷のない（sine macula）」者たちである。第4章v.7の四つの生き物に続く「前に（ante thronum Dei）」という位置が、贖われた者たちの最終的状態として確認される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "habentem Evangelium aeternum, ut evangelizaret sedentibus super terram, et super omnem gentem, et tribum, et linguam, et populum:",
+      "body": "「永遠の福音を持つ（habentem Evangelium aeternum）──あらゆる国民、部族、言語、民族に宣べ伝える（omnem gentem, et tribum, et linguam, et populum）」──第一の天使の規定と使命の定義。「Evangelium aeternum（永遠の福音）」：「aeternum（永遠）」という形容詞が「Evangelium（福音）」に付されることで、時間的・歴史的福音の宣教とは区別された終末論的・超歴史的な宣言として位置づけられる──審判の直前に宣言される最後の福音として。「omnem gentem, et tribum, et linguam, et populum（あらゆる国民、部族、言語、民族）」：第7章v.9の「ex omnibus gentibus, et tribubus, et populis, et linguis（あらゆる国民・部族・民族・言語から）」という救済の普遍的包括性と同型の四要素列挙が、ここでは審判直前の宣教の普遍的射程として繰り返される。第13章v.7「potestas in omnem tribum, et populum, et linguam, et gentem（あらゆる部族・民族・言語・国民の上に権能）」という獣の普遍的支配と同語の列挙が、第14章では天使の宣教の普遍的到達として対称的に転用される。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Timete Dominum, et date illi honorem, quia venit hora judicii ejus: et adorate eum, qui fecit caelum, et terram, mare, et fontes aquarum.",
+      "body": "「神を畏れよ（Timete Dominum）──神の裁きの時が来た（venit hora judicii ejus）──天と地と海と水の源を造られた方を礼拝せよ（adorate eum, qui fecit caelum, et terram, mare, et fontes aquarum）」──永遠の福音の内容を構成する三つの命令。「Timete Dominum（神を畏れよ）」：Ecclesiastes第12章v.13「Deum time, et mandata ejus observa（神を畏れ、戒めを守れ）」というコヘレトの結語的命令の終末論的反復として、「神を畏れること（timor Domini）」がコヘレト的知恵論と黙示録的終末論の合流点として機能する。「venit hora judicii ejus（神の裁きの時が来た）」：「hora（時）」という語が第3章v.3「nescies qua hora veniam（いつ来るかわからないだろう）」という書簡的警告を経て、第14章で「来た（venit）」という現在完了的到来として告知される。「qui fecit caelum, et terram, mare, et fontes aquarum（天と地と海と水の源を造られた方）」：創造主規定が礼拝の根拠として提示される──第13章が獣の「力（potestas）」への礼拝強制を記したのに対し、第14章は創造的行為に基づく自発的礼拝を命じる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Cecidit, cecidit Babylon illa magna: quae a vino irae fornicationis suae potavit omnes gentes.",
+      "body": "「倒れた、倒れた（Cecidit, cecidit）あの大バビロンは──自分の淫行の怒りのぶどう酒を飲ませた（potavit omnes gentes）」──第二の天使の宣言。「Cecidit, cecidit（倒れた、倒れた）」：動詞の二重反復がヘブライ的強調法として機能する──「倒れた」が二回言われることで確実性・完全性が強調される。イザヤ書第21章v.9「Cecidit, cecidit Babylon（倒れた、倒れたバビロン）」の直接引用として──旧約の歴史的バビロン陥落の予言が終末論的次元に移植される。「Babylon illa magna（あの大バビロン）」：Apocalypsis全体で「大バビロン」は第17–18章で詳細に展開される中心的象徴であり、第14章ではその陥落がまだ起きていない時点で先取り的に（予言的完了時制として）宣言される。「a vino irae fornicationis suae potavit omnes gentes（淫行の怒りのぶどう酒を飲ませた）」：v.10の「vinum irae Dei（神の怒りのぶどう酒）」との対照として──バビロンが国民に飲ませる「淫行の怒りのぶどう酒（vinum irae fornicationis）」が、第14章ではバビロンへの「神の怒りのぶどう酒（vinum irae Dei）」として応報的に返される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Si quis adoraverit bestiam, et imaginem ejus, et acceperit caracterem in fronte sua, aut in manu sua:",
+      "body": "「獣とその像を礼拝し、刻印を受けるならば（Si quis adoraverit bestiam, et imaginem ejus, et acceperit caracterem）」──第三の天使の宣言の条件節。「Si quis（もし誰かが）」：第13章v.9「Si quis habet aurem, audiat（耳ある者は聞け）」という挿入的呼びかけと同型の「Si quis」構文が、ここでは審判の条件命題として機能する──「聞け」という認識への招待が「礼拝するなら」という行為への警告に転換される。「adoraverit bestiam, et imaginem ejus（獣とその像を礼拝した）」：第13章v.15「quicumque non adoraverint imaginem bestiae, occidantur（礼拝しない者はみな殺される）」という強制の裏面として──第13章の「礼拝しなければ死刑」が第14章では「礼拝するなら永遠の審判」という対称的脅しとして提示される。「characterem in fronte sua, aut in manu sua（額か手に刻印）」：第13章v.16の語句の逐語的反復として、刻印の受容行為が引用されることで審判の条件が明確に指定される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "hic bibet de vino irae Dei, quod mistum est mero in calice irae ipsius, et cruciabitur igne, et sulphure",
+      "body": "「神の怒りのぶどう酒を飲む（bibet de vino irae Dei）──希釈されずに注がれた（quod mistum est mero）──火と硫黄によって責め苦を受ける（cruciabitur igne, et sulphure）」──第14章の審判描写の神学的核心。「vinum irae Dei（神の怒りのぶどう酒）」：「vinum（ぶどう酒）」という語がv.8の「vino irae fornicationis（淫行の怒りのぶどう酒）」と連動する──バビロンが国民に飲ませたぶどう酒が、神の怒りのぶどう酒によって応報される鏡像的構造。「quod mistum est mero（希釈されずに注がれた）」：古代において酒は通常水で薄めて飲まれたため、「mero（ストレート・希釈なし）」という語が神の怒りの純粋さ・妥協なき強度を強調する逆説的表現（ぶどう酒に他の何も混じらない）。「cruciabitur igne, et sulphure（火と硫黄によって責め苦を受ける）」：創世記第19章v.24「pluit Dominus super Sodomam et Gomorram sulphur et ignem（主はソドムとゴモラに硫黄と火を降らせた）」という審判の古典的形象の終末論的反復として。ヴェイユ「La Violence（力）」章の「力によって歪められた人間の苦悩」という分析に対し、第14章では「神の怒りの力」が究極的応報として位置づけられる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "fumus tormentorum eorum ascendet in saecula saeculorum: nec habent requiem die ac nocte, qui adoraverunt bestiam, et imaginem ejus, et si quis acceperit caracterem nominis ejus.",
+      "body": "「責め苦の煙は永遠に永遠に昇り続ける（fumus tormentorum eorum ascendet in saecula saeculorum）──昼も夜も安息を得ない（nec habent requiem die ac nocte）」──第14章の最も酷烈な審判宣言。「fumus tormentorum eorum ascendet in saecula saeculorum（責め苦の煙は永遠に永遠に昇り続ける）」：第8章v.4「ascendit fumus incensorum de orationibus sanctorum（聖徒たちの祈りとともに香の煙が立ち昇った）」という礼拝的上昇と対称的に、審判における苦悩の煙が永遠に上昇する。「in saecula saeculorum（永遠に永遠に）」：典礼的頌栄「世々に至るまで」という永遠性の定式が、ここでは審判の永続性として転用される──賛美の永遠性と苦悩の永遠性が同一の言語形式によって表現されるという逆説。「nec habent requiem die ac nocte（昼も夜も安息を得ない）」：第12章v.10「qui accusabat illos ante conspectum Dei nostri die ac nocte（昼も夜も告発していた者）」というサタンの「die ac nocte（昼も夜も）」の反響として──告発する者の不眠的告発が、審判される者の不眠的苦悩として転移される。Ecclesiastes第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は飽くことなく、耳は満たされない）」という欲望の不飽和性が、第14章では審判の苦悩の不飽和性として終末論的に変容する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Hic patientia sanctorum est, qui custodiunt mandata Dei, et fidem Jesu.",
+      "body": "「ここに神の戒めとイエスへの信仰を守る聖徒たちの忍耐がある（Hic patientia sanctorum est）」──v.9–11の酷烈な審判宣言とv.13の「Beati mortui」との間に置かれた一節の挿入的転換点。「Hic（ここに）」という指示副詞：第13章v.18「Hic sapientia est（ここに知恵がある）」という獣の数字の解読を要求した「Hic」の直接的反響として──獣の章での「知恵（sapientia）」が贖われた者たちの章での「忍耐（patientia）」として応答される：知的解読より実存的持続が求められる。「patientia sanctorum（聖徒たちの忍耐）」：第13章v.10「Hic est patientia, et fides sanctorum（ここに聖徒たちの忍耐と信仰がある）」と事実上同一の定式の反復──迫害の文脈での「忍耐」の命令が審判宣言の後に再提示されることで、審判の知識が忍耐の根拠として強化される。ヴェイユ「Dressage（訓練）」章の「神が苦難を通じて人間を精錬する」という命題が、「patientia（忍耐）」という聖徒たちの実践的応答として体現される。",
+      "targetId": "weil_dressage",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Beati mortui qui in Domino moriuntur. Amodo jam dicit Spiritus, ut requiescant a laboribus suis: opera enim illorum sequuntur illos.",
+      "body": "「主にあって死ぬ者たちは幸い（Beati mortui qui in Domino moriuntur）──彼らの業は彼らについていく（opera enim illorum sequuntur illos）」──第14章の神学的頂点。「Scribe（書き記せ）」：Apocalypsis全体で「Scribe」という命令は重要な神的宣言に先行する：第1章v.19・第2–3章の七書簡への「書け」という命令の反復として。「Beati mortui（幸いな死者たち）」：Apocalypsis全体に散在する七つの「幸い（Beati）」宣言の第二として。Ecclesiastes第4章v.2「Laudavi magis mortuos quam viventes（生者よりも死者を讃えた）」というコヘレトの死者礼賛との連続と断絶が同時に存在する──コヘレトは地上的労苦からの解放として死を讃えるのに対し、第14章の「Beati mortui」は「主にあって（in Domino）」という条件付きであり、単なる死の礼賛ではない。「opera enim illorum sequuntur illos（彼らの業は彼らについていく）」：Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」というコヘレト的問いへの終末論的応答として──地上的労苦は残らないというコヘレトの命題に対し、「主にあって死ぬ者」の「業（opera）」は死の後にも「ついていく（sequuntur）」という逆転が提示される。ヴェイユ「Décréation（脱創造）」の「自我の放棄」という命題が「in Domino moriuntur（主にあって死ぬ）」という死の方向性として体現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "nubem candidam, et super nubem sedentem similem Filio hominis, habentem in capite suo coronam auream, et in manu sua falcem acutam.",
+      "body": "「白い雲（nubem candidam）──人の子に似た者（similem Filio hominis）──金の冠（coronam auream）──鋭い鎌（falcem acutam）」──第14章後半部の最も印象的な形象。「nubem candidam（白い雲）」：ダニエル書第7章v.13「ecce cum nubibus caeli quasi Filius hominis veniebat（天の雲とともに人の子のような者が来た）」のヴルガータ翻訳の直接的引用として。「similem Filio hominis（人の子に似た者）」：第1章v.13「similem Filio hominis（人の子に似た者）」の完全な反復──第1章でパトモス島でヨハネに現れた者と同一の形象が、第14章では審判執行のために雲の上に座る者として再現される。「coronam auream（金の冠）」：第6章の四騎士が持つ「corona（冠）」が様々な素材・文脈で登場してきたのに対し、「auream（金の）」という修飾が王的権威の頂点を示す。「falcem acutam（鋭い鎌）」：第14章後半部全体（v.14–20）を構成する「鎌」主題の導入。農業的収穫の道具が審判の道具として転用される終末論的形象。ヨエル書第3章v.13「mittite falces, quoniam maturavit messis（鎌を入れよ、穀物が熟したから）」の直接的引用。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Mitte falcem tuam, et mete, quia venit hora ut metatur, quoniam aruit messis terrae.",
+      "body": "「あなたの鎌を入れて刈り取ってください（Mitte falcem tuam, et mete）──地の穀物は熟した（aruit messis terrae）」──天使から雲上の者への審判執行命令。「Mitte falcem tuam, et mete（鎌を入れて刈り取れ）」：ヨエル書第3章v.13「mittite falces（鎌を入れよ）」の終末論的実現として、「mete（刈り取れ）」という命令が審判の執行命令として機能する。「quia venit hora ut metatur（刈り取りの時が来た）」：「hora（時）」という語がv.7「venit hora judicii ejus（神の裁きの時が来た）」の反復として、審判の時間的到来の確認として機能する。「aruit messis terrae（地の穀物は熟した）」：「aruit（熟した・乾いた）」という語が過去完了的完了を示す──熟しすぎて刈り入れを待てない状態としての終末的成熟。マタイ福音書第13章v.30「sinite utraque crescere usque ad messem（刈り入れまで共に育てよ）」という麦と毒麦の比喩の収穫が、第14章で実現する終末論的場面として。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "prosody",
+      "anchor": "Et misit qui sedebat super nubem, falcem suam in terram, et demessa est terra.",
+      "body": "「雲の上に座っている者は地に鎌を入れた（misit … falcem suam in terram）──地は刈り取られた（demessa est terra）」──第14章で最も簡潔な節として、審判執行の無言的完了を記す。「Et misit（入れた）」：v.15の「Mitte falcem（鎌を入れよ）」という命令が「misit（入れた）」という実行として直ちに応答される──命令と実行の間の遅延なき連続が審判の確実性を文体的に実演する。「demessa est terra（地は刈り取られた）」：受動形が行為の完了と普遍的適用を同時に示す──「地全体が」刈り取られたという宇宙的スケール。この一節はApocalypsis全体の中で最も簡潔な審判執行の記述であり、第8章v.1「factum est silentium in caelo, quasi media hora（天に半時間の沈黙が生じた）」と同様の圧縮的・沈黙的な語りとして機能する。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という世代の永続的循環が、「demessa est terra（地は刈り取られた）」という最終的一回性の収穫によって閉じられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et alius angelus exivit de templo, quod est in caelo, habens et ipse falcem acutam.",
+      "body": "「天にある神殿から出てきた（exivit de templo, quod est in caelo）──この天使も鋭い鎌を持っていた（habens et ipse falcem acutam）」──第二の鎌を持つ天使の登場による収穫場面の二重化。「de templo, quod est in caelo（天にある神殿から）」：v.15では単に「de templo（神殿から）」と記されたのに対し、v.17では「quod est in caelo（天にある）」という関係節が追加される──天上的神殿の起源を明示することで、審判の権威の天上的源泉が強調される。「habens et ipse falcem acutam（この天使も鋭い鎌を持っていた）」：「et ipse（この者もまた）」という接続詞が二番目の鎌持ちの天使を先行者と並列する──v.14の「人の子に似た者の鎌」とv.17の「天使の鎌」という二つの鎌が、それぞれ穀物収穫（v.14–16）とぶどうの収穫（v.17–20）という異なる終末論的刈り入れに対応する構造的対称として。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Mitte falcem tuam acutam, et vindemia botros vineae terrae: quoniam maturae sunt uvae ejus.",
+      "body": "「鋭い鎌を入れて、地のぶどうの木の房を収穫してください（vindemia botros vineae terrae）──そのぶどうはすっかり熟した（maturae sunt uvae ejus）」──祭壇の天使から鎌持ちの天使への第二の収穫命令。「vindemia（ぶどうの収穫）」：v.15の「mete（刈り取れ）」という穀物収穫の命令に対し、「vindemia（ぶどう収穫）」という語の選択がぶどう栽培的・収穫祭的文脈を開く。「botros vineae terrae（地のぶどうの木の房）」：「botrus（ぶどうの房）」という語が複数形「botros」として用いられることで、無数の房の収穫という視覚的豊穰さが強調される。「maturae sunt uvae ejus（そのぶどうはすっかり熟した）」：v.15の「aruit messis terrae（地の穀物は熟した）」と対応する熟成の完了宣言として。ただし穀物の「熟した（aruit）」と異なり、ぶどうの「maturae（熟した）」はより豊穰的・充満的な完熟を示す──穀物の枯れによる熟成に対し、ぶどうの充満による熟成という対比。イザヤ書第63章v.1–3の「ぼろを着てぶどう踏み場から来る者」という審判者の形象との照応として。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "vindemiavit vineam terrae, et misit in lacum irae Dei magnum:",
+      "body": "「地のぶどうの木を収穫し（vindemiavit vineam terrae）、神の大きな怒りの踏み場に投げ入れた（misit in lacum irae Dei magnum）」──ぶどう収穫とその投入による審判場面の実行。「vindemiavit vineam terrae（地のぶどうの木を収穫した）」：v.18の「vindemia」命令が「vindemiavit」という完了として実行される──命令から実行への間の遅延なき連続がv.15–16（穀物収穫）の構造を反復する。「lacus irae Dei magnum（神の大きな怒りの踏み場）」：「lacus（踏み場・大桶）」はぶどうを踏んで搾るための大きな石槽を指す──v.10の「calice irae ipsius（怒りの杯）」という飲酒的容器から、v.19–20の「lacus（踏み場）」という搾汁的容器へと「怒りのぶどう酒」の容器が巨大化する対応として。イザヤ書第63章v.3「calcavi eos in furore meo（私は彼らを怒りをもって踏み砕いた）」という神の踏み場のイメージの終末論的実現として。ヴェイユ「La Violence」章の「力は人間を物のように踏み砕く」という命題が、「lacus（踏み場）」という踏み砕きの形象と逆説的に照応する──人間が物として踏まれるのではなく、神の怒りによって審判的に踏まれる逆転として。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "calcatus est lacus extra civitatem, et exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta.",
+      "body": "「踏み場は都の外で踏まれた（calcatus est lacus extra civitatem）──血は馬の轡に届くほど千六百スタディオンに及んだ（exivit sanguis de lacu usque ad frenos equorum per stadia mille sexcenta）」──第14章の終結であり、Apocalypsis全体で最も衝撃的な視覚的形象の一つ。「calcatus est lacus extra civitatem（踏み場は都の外で踏まれた）」：ヘブライ書第13章v.12「Jesus … extra portam passus est（イエスは……門の外で苦しまれた）」という「都の外」の受難的含意と終末論的審判の「都の外」という場所が重なる──聖なる都エルサレムの外部が、かつては十字架の場として、今や審判の踏み場として機能する。「usque ad frenos equorum（馬の轡に届くほど）」：馬の轡（freni）の高さは地上から約1.5メートル──血が1.5メートルの深さで溢れるという超越的視覚的形象が審判の規模の絶対的スケールを示す。「per stadia mille sexcenta（千六百スタディオン）」：一スタディオンは約185メートル、千六百スタディオンは約296キロメートル──パレスチナの南北の全長とほぼ一致するという解釈が聖地全体を覆う血の川として読む。4×4×100という数的構造（千六百＝4の二乗×100）が「四方」という地の普遍的完全性を示す数論として解される。Ecclesiastes第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」というコヘレト的水の循環が、第14章では「de lacu exivit sanguis（踏み場から血が流れ出た）」という血の川として終末論的に転位される。マラルメ「骰子一擲」の白い紙面の沈黙と全く対極の、言語が意味の最大圧力を受ける場としてのこの終結節は、Apocalypsis第14章全体の刈り入れ・踏み潰し・流出という連動的運動の絶対的終止として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    }
+  ]
+}
