@@ -1,0 +1,339 @@
+{
+  "id": "hieronymus_apocalypsis_19",
+  "title": "Apocalypsis, Caput XIX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XIX. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+19&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第19章。第18章のバビロン崩壊の哀歌から一転、第19章は四重のアレルヤ頌歌（v.1–8）・小羊の婚宴の予告（v.7–9）・天から白馬で来る「忠実で真実な者（Fidelis et Verax）」の出現（v.11–16）・大いなる晩餐（coena magna Dei）への鳥たちの集結（v.17–18）・獣と偽預言者の捕縛と火の池への投入（v.20）・剣による敵軍の殲滅（v.21）という三部構造で展開する。第19章はApocalypsis全体の感情的・礼拝的転換点として、第17–18章の嘆き（Vae, vae）から第19章の喜び（Alleluja・Gaudeamus）へという極的な転換を形成する。四重の「Alleluja（ハレルヤ）」（v.1・v.3・v.4・v.6）はApocalypsis全体でこの章にのみ登場し、詩篇の「ハレルヤ詩篇」（詩篇113–118篇・145–150篇）の終末論的実現として機能する。VANITISMEコーパスにおける位置づけ：第19章は「小羊の花嫁（uxor Agni）」という婚姻的形象を通じて、Ecclesiastes第1章の「afflictio spiritus（霊の苦悩）」という虚無の世界が終末論的「喜び（Gaudeamus）」へと根底から転換される逆説的完結の場を提供する。v.13「vocatur nomen ejus: Verbum Dei（その名はDei Verbum）」という「言葉（Verbum）」としてのキリストの規定は、マラルメ・ヴァレリー的な「詩的言語の沈黙と到来」という主題と最も深く照応する。",
+  "keywords": [
+    "Alleluja",
+    "salus et gloria et virtus",
+    "fumus ejus in saecula saeculorum",
+    "nuptiae Agni",
+    "byssinum justificationes sanctorum",
+    "Beati qui ad coenam nuptiarum vocati",
+    "Fidelis et Verax",
+    "Verbum Dei",
+    "Rex regum Dominus dominantium",
+    "coena magna Dei",
+    "stagnum ignis ardentis sulphure",
+    "gladius de ore ejus"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_18",
+    "hieronymus_apocalypsis_17",
+    "hieronymus_apocalypsis_15",
+    "hieronymus_apocalypsis_14",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "mallarme_coup_de_des",
+    "mallarme_crise_de_vers",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Post haec audivi quasi vocem turbarum multarum in caelo dicentium: Alleluja: salus, et gloria, et virtus Deo nostro est:",
+      "provisionalTranslation": "この後、私は天で大群衆のような声が言うのを聞いた。「ハレルヤ。救いと栄光と力は我らの神のものである。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "quia vera et justa judicia sunt ejus, qui judicavit de meretrice magna, quae corrupit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus ejus.",
+      "provisionalTranslation": "「神の裁きは真実で正しいからである。神は淫行によって地を腐敗させた大いなる淫婦を裁かれ、ご自分のしもべたちの血の仇を神の手によって果たされた。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et iterum dixerunt: Alleluja. Et fumus ejus ascendit in saecula saeculorum.",
+      "provisionalTranslation": "再び彼らは言った。「ハレルヤ。バビロンの煙は永遠に永遠に昇り続ける。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et ceciderunt seniores viginti quatuor, et quatuor animalia, et adoraverunt Deum sedentem super thronum, dicentes: Amen: alleluja.",
+      "provisionalTranslation": "二十四人の長老と四つの生き物は平伏して、御座に座っておられる神を礼拝して言った。「アーメン、ハレルヤ。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et vox de throno exivit, dicens: Laudem dicite Deo nostro omnes servi ejus: et qui timetis eum pusilli et magni.",
+      "provisionalTranslation": "御座から声が出て言った。「神のしもべたちよ、すべての者、神を畏れる者よ、小さな者も大きな者も、我らの神を賛美せよ。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Et audivi quasi vocem turbae magnae, et sicut vocem aquarum multarum, et sicut vocem tonitruorum magnorum, dicentium: Alleluja: quoniam regnavit Dominus Deus noster omnipotens.",
+      "provisionalTranslation": "私はまた大群衆のような声、多くの水の音のような声、大きな雷鳴のような声が言うのを聞いた。「ハレルヤ。全能の主なる我らの神が王として治められた。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Gaudeamus, et exsultemus: et demus gloriam ei: quia venerunt nuptiae Agni, et uxor ejus praeparavit se.",
+      "provisionalTranslation": "「喜び歌い、大いに喜ぼう。神に栄光を帰そう。小羊の婚宴の時が来たからである。花嫁は自分を整えた。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et datum est illi ut cooperiat se byssino splendenti et candido. Byssinum enim justificationes sunt sanctorum.",
+      "provisionalTranslation": "「花嫁には輝いて清い亜麻布をまとうことが与えられた。亜麻布とは聖徒たちの義なる行いである。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et dixit mihi: Scribe: Beati qui ad coenam nuptiarum Agni vocati sunt; et dixit mihi: Haec verba Dei vera sunt.",
+      "provisionalTranslation": "天使は私に言った。「書き記せ。小羊の婚宴の晩餐に招かれた者たちは幸いである。」また言った。「これらは神の真実の言葉である。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et cecidi ante pedes ejus, ut adorarem eum. Et dicit mihi: Vide ne feceris: conservus tuus sum, et fratrum tuorum habentium testimonium Jesu. Deum adora. Testimonium enim Jesu est spiritus prophetiae.",
+      "provisionalTranslation": "私は天使を礼拝しようとしてその足元に倒れた。すると天使は言った。「そのようなことをしてはいけない。私はあなたとイエスの証しを持つあなたの兄弟たちと同じしもべである。神を礼拝せよ。イエスの証しは預言の霊であるからだ。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et vidi caelum apertum, et ecce equus albus, et qui sedebat super eum, vocabatur Fidelis, et Verax, et cum justitia judicat et pugnat.",
+      "provisionalTranslation": "私は天が開かれているのを見た。見よ、白い馬がいた。それに乗っている者は「忠実で真実な者」と呼ばれ、正義をもって裁き戦う。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Oculi autem ejus sicut flamma ignis, et in capite ejus diademata multa, habens nomen scriptum, quod nemo novit nisi ipse.",
+      "provisionalTranslation": "その目は炎の火のようであり、頭には多くの王冠をつけ、自分以外は誰も知らない名が書かれていた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et vestitus erat veste aspersa sanguine: et vocatur nomen ejus: Verbum Dei.",
+      "provisionalTranslation": "この者は血に染まった衣をまとっており、その名は「神の言葉」と呼ばれる。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et exercitus qui sunt in caelo, sequebantur eum in equis albis, vestiti byssino albo et mundo.",
+      "provisionalTranslation": "天の軍勢は白い馬に乗り、清く白い亜麻布をまとってこの者に従っていた。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et de ore ejus procedit gladius ex utraque parte acutus, ut in ipso percutiat gentes. Et ipse reget eas in virga ferrea: et ipse calcat torcular vini furoris irae Dei omnipotentis.",
+      "provisionalTranslation": "その口から両刃の鋭い剣が出ており、これをもって国民を打つ。この者は鉄の杖をもって彼らを治め、全能の神の激しい怒りのぶどう酒の踏み場を踏む。"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et habet in vestimento et in femore suo scriptum: Rex regum et Dominus dominantium.",
+      "provisionalTranslation": "この者の衣と腿に名が書かれていた。「王の王、主の主。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et vidi unum angelum stantem in sole, et clamavit voce magna, dicens omnibus avibus, quae volabant per medium caeli: Venite, et congregamini ad coenam magnam Dei:",
+      "provisionalTranslation": "私はまた一人の天使が太陽の中に立っているのを見た。天使は天の真ん中を飛ぶすべての鳥に大声で叫んだ。「来て、神の大いなる晩餐に集まれ。」"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "ut manducetis carnes regum, et carnes tribunorum, et carnes fortium, et carnes equorum, et sedentium in ipsis, et carnes omnium liberorum, et servorum, et pusillorum et magnorum.",
+      "provisionalTranslation": "「王たちの肉、将軍たちの肉、力ある者たちの肉、馬とそれに乗る者たちの肉、自由人も奴隷も小さな者も大きな者も、すべての者たちの肉を食べるために。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et vidi bestiam, et reges terrae, et exercitus eorum congregatos ad faciendum praelium cum illo, qui sedebat in equo, et cum exercitu ejus.",
+      "provisionalTranslation": "私は獣と地の王たちと彼らの軍勢が、馬に乗っている者とその軍勢と戦うために集結しているのを見た。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et apprehensa est bestia, et cum ea pseudopropheta: qui fecit signa coram ipso, quibus seduxit eos, qui acceperunt caracterem bestiae, et qui adoraverunt imaginem ejus. Vivi missi sunt hi duo in stagnum ignis ardentis sulphure:",
+      "provisionalTranslation": "獣は捕らえられ、獣とともに偽預言者も捕らえられた。偽預言者は獣の前でしるしを行い、獣の刻印を受けた者たちや獣の像を礼拝した者たちを惑わした者である。この二者は生きたまま、硫黄の燃える火の池に投げ込まれた。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "et ceteri occisi sunt in gladio sedentis super equum, qui procedit de ore ipsius: et omnes aves saturatae sunt carnibus eorum.",
+      "provisionalTranslation": "残りの者たちは馬に乗っている者の口から出る剣によって殺され、すべての鳥が彼らの肉で満たされた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "quasi vocem turbarum multarum in caelo dicentium: Alleluja: salus, et gloria, et virtus Deo nostro est:",
+      "body": "「大群衆のような声（quasi vocem turbarum multarum）──ハレルヤ（Alleluja）──救いと栄光と力は我らの神のもの（salus, et gloria, et virtus Deo nostro est）」──第19章の開口部にして、Apocalypsis全体で唯一「Alleluja」が登場する章の第一声。「Alleluja」：ヘブライ語「הַלְלוּיָה（hallelûyāh）：主を賛美せよ」のギリシア語音訳「Ἁλληλούϊα」のラテン語転写。新約聖書全体でここにのみ登場する語として、詩篇113–118篇（ハレルヤ詩篇）の終末論的実現を形成する。第18章v.9–19の地上的嘆き「Vae, vae（災いあれ、災いあれ）」という三重の哀悼から、第19章v.1・v.3・v.4・v.6の四重の「Alleluja」への感情的転換が、章をまたぐApocalypsis最大の対比として機能する。「salus, et gloria, et virtus Deo nostro（救いと栄光と力は我らの神のもの）」：三重の属性宣言が第4–5章の御座の礼拝頌歌と照応する──「salvatio（救い）・gloria（栄光）・virtus（力）」という三項が第19章では「Deo nostro（我らの神のもの）」という所有の宣言として確認される。Ecclesiastes第1章の「afflictio spiritus（霊の苦悩）」という出口なき世界観に対し、「salus（救い）」という解放的肯定が正面から応答する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "vera et justa judicia sunt ejus, qui judicavit de meretrice magna, quae corrupit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus ejus.",
+      "body": "「神の裁きは真実で正しい（vera et justa judicia sunt ejus）──淫婦を裁かれ（judicavit de meretrice magna）──しもべたちの血の仇を果たされた（vindicavit sanguinem servorum suorum）」──第一のアレルヤ頌歌の内容的根拠の二命題。「vera et justa judicia（真実で正しい裁き）」：第15章v.3「justae et verae sunt viae tuae（あなたの道は正しく真実）」・第16章v.7「vera et justa judicia tua（あなたの裁きは真実で正しい）」という「vera et justa」の定型句の第三の反復として、礼拝頌歌・祭壇の証言・バビロン崩壊後の頌歌という三文脈を貫く定式が確認される。「vindicavit sanguinem servorum suorum de manibus ejus（しもべたちの血の仇を神の手によって果たされた）」：第6章v.10「non vindicas sanguinem nostrum（なぜ私たちの血の仇を果たされないのですか）」という殉教者の訴えへの終末論的応答として、「vindicare（仇を果たす）」という動詞が「vindicas（果たされない）」という未完了から「vindicavit（果たされた）」という完了へと転換される。Iob第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」というヨブの絶対的受容の神学が、第19章では「vindicavit sanguinem（血の仇を果たされた）」という正義の実現として展開される。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et iterum dixerunt: Alleluja. Et fumus ejus ascendit in saecula saeculorum.",
+      "body": "「再び彼らは言った：ハレルヤ（Alleluja）──バビロンの煙は永遠に永遠に昇り続ける（fumus ejus ascendit in saecula saeculorum）」──第二のアレルヤと「永遠の煙」の宣言。「Et iterum（再び）」：「Alleluja」の第二反復がその先行する宣言に同意的に付加される構造として、礼拝的応答（responsory）の典礼的形式を模倣する。「fumus ejus ascendit in saecula saeculorum（バビロンの煙は永遠に昇り続ける）」：第14章v.11「fumus tormentorum eorum ascendet in saecula saeculorum（責め苦の煙は永遠に昇る）」という獣礼拝者への審判の煙と同型の「in saecula saeculorum（永遠に）」定式として、第14章では「審判の継続性」として提示されたものが第19章では「バビロン崩壊の永続性」として確認される。第18章v.9「fumum incendii ejus（炎の煙）」という地上的嘆き者が見た煙が、第19章では「in saecula saeculorum（永遠に）」という形而上的継続性を持つ煙として天上的頌歌の一部に組み込まれる逆転として。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et ceciderunt seniores viginti quatuor, et quatuor animalia, et adoraverunt Deum sedentem super thronum, dicentes: Amen: alleluja.",
+      "body": "「二十四人の長老と四つの生き物は平伏して礼拝した（ceciderunt … et adoraverunt Deum sedentem super thronum）──アーメン、ハレルヤ（Amen: alleluja）」──第三のアレルヤ・Apocalypsis礼拝構造の集大成的反復。「seniores viginti quatuor, et quatuor animalia（二十四人の長老と四つの生き物）」：第4章v.4・v.6以来の御座を囲む礼拝的共同体の最終的反復として、章全体を通じて礼拝の構造的骨格を形成してきた存在たちが「Alleluja」の文脈で再登場する。「ceciderunt … et adoraverunt（平伏して礼拝した）」：「cadere（倒れる）」という動詞による礼拝の身体的表現がIob第1章v.20「corruens in terram adoravit（地に倒れ伏して礼拝した）」というヨブの悲嘆後の礼拝と同型として照応する──苦悩の中での礼拝（ヨブ）と勝利の中での礼拝（第19章）という対称的な「倒れての礼拝」として。「Amen: alleluja」：「Amen（アーメン）」という確認と「Alleluja（ハレルヤ）」という賛美の双連語が、ユダヤ教・キリスト教の典礼的応答の最小単位として機能する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Laudem dicite Deo nostro omnes servi ejus: et qui timetis eum pusilli et magni.",
+      "body": "「神のしもべたちよ、すべての者、神を畏れる者よ、小さな者も大きな者も、我らの神を賛美せよ（Laudem dicite Deo nostro omnes servi ejus: et qui timetis eum pusilli et magni）」──御座からの礼拝命令。「Laudem dicite（賛美せよ）」：詩篇第113篇v.1「Laudate pueri Dominum（主のしもべたちよ、主を賛美せよ）」というハレルヤ詩篇の開口句の終末論的反復として。「pusilli et magni（小さな者も大きな者も）」：第19章における社会的包括性の定式として──第13章v.16「pusillos, et magnos（小さな者も大きな者も）」という獣の刻印を強制した者たちへの応答として、同一の「pusilli et magni」が礼拝の普遍的包括性として提示される。「qui timetis eum（神を畏れる者）」：Ecclesiastes第12章v.13「Deum time, et mandata ejus observa（神を畏れ、戒めを守れ）」というコヘレトの結語的命令・Iob第1章v.1「timens Deum（神を畏れる）」というヨブの定義的性格が、第19章では礼拝共同体の参加条件として確認される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "quasi vocem turbae magnae, et sicut vocem aquarum multarum, et sicut vocem tonitruorum magnorum, dicentium: Alleluja: quoniam regnavit Dominus Deus noster omnipotens.",
+      "body": "「大群衆のような声（quasi vocem turbae magnae）・多くの水の音のような声（sicut vocem aquarum multarum）・大きな雷鳴のような声（sicut vocem tonitruorum magnorum）──ハレルヤ、全能の主なる我らの神が王として治められた（regnavit Dominus Deus noster omnipotens）」──第四のアレルヤ・第19章の礼拝頌歌の頂点。「quasi … et sicut … et sicut」という三重の類比連鎖：第14章v.2「tamquam vocem aquarum multarum … tamquam vocem tonitrui magni … sicut citharoedorum（多くの水の音のように・大きな雷鳴のように・竪琴弾きたちのように）」という十四万四千人の声の三重比喩の反復として、第19章では礼拝の終末論的集成として再現される。「regnavit Dominus Deus noster omnipotens（全能の主なる我らの神が王として治められた）」：第11章v.15「Factum est regnum hujus mundi, Domini nostri et Christi ejus（この世の王国は我らの主とそのキリストのものとなった）」という第七ラッパの宣言の確認的反復として、「regnavit（王として治められた）」という完了形が神の統治の確立を宣言する。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Gaudeamus, et exsultemus: et demus gloriam ei: quia venerunt nuptiae Agni, et uxor ejus praeparavit se.",
+      "body": "「喜び歌い、大いに喜ぼう（Gaudeamus, et exsultemus）──小羊の婚宴の時が来た（venerunt nuptiae Agni）──花嫁は自分を整えた（uxor ejus praeparavit se）」──第19章の神学的核心、小羊の婚宴の到来宣言。「Gaudeamus, et exsultemus（喜び歌い、大いに喜ぼう）」：第18章v.20「Exsulta super eam caelum（天よ、バビロンのことで喜び歌え）」という反転的命令の延長として、バビロンの崩壊への喜びが小羊の婚宴への喜びへと深化される。「nuptiae Agni（小羊の婚宴）」：Apocalypsis全体の婚姻的形象の頂点として。「Agni（小羊の）」という属格が第5章以来繰り返されてきた「Agnus（小羊）」というキリスト論的中心概念の婚宴的文脈への転用として機能する。第21章v.2「sponsam ornatam viro suo（花婿のために飾られた花嫁）」という新しいエルサレムの花嫁形象の先取りとして。「uxor ejus praeparavit se（花嫁は自分を整えた）」：「praeparavit se（自分を整えた）」という再帰的完了形が花嫁の能動的準備を示す──v.8「Byssinum enim justificationes sunt sanctorum（亜麻布は聖徒たちの義なる行い）」という衣装の神学的解釈への接続として。",
+      "targetId": "hieronymus_apocalypsis_21",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Et datum est illi ut cooperiat se byssino splendenti et candido. Byssinum enim justificationes sunt sanctorum.",
+      "body": "「輝いて清い亜麻布をまとうことが与えられた（datum est illi ut cooperiat se byssino splendenti et candido）──亜麻布とは聖徒たちの義なる行い（Byssinum enim justificationes sunt sanctorum）」──第19章の寓意的解釈、「衣＝義」の同定。「datum est illi（彼女に与えられた）」：受動的付与形が花嫁の義の衣が自己獲得ではなく神的贈与であることを示す。第3章v.4–5の七書簡における「白い衣（vestimenta alba）」の約束の終末論的実現として。「byssino splendenti et candido（輝いて清い亜麻布）」：第18章v.16「quae amicta erat bysso, et purpura, et cocco（亜麻布・紫・緋色の衣をまとった）」というバビロンの衣装が「purpura, et coccinum（紫・緋色）」という人工的豪奢であったのに対し、花嫁の衣は「byssinum … candido（清い亜麻布）」という純白の自然的清潔さとして対置される。「Byssinum enim justificationes sunt sanctorum（亜麻布とは聖徒たちの義なる行い）」：天使による寓意的解釈の挿入として、「byssinum（亜麻布）」という物質的素材が「justificationes sanctorum（聖徒たちの義なる行い）」という道徳的・霊的内容として解読される。ヴェイユ「Décréation」の「自我を放棄して神の義に身を委ねる」という命題が、「datum est illi ut cooperiat se（彼女に〜をまとうことが与えられた）」という受動的受容として照応する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Scribe: Beati qui ad coenam nuptiarum Agni vocati sunt; et dixit mihi: Haec verba Dei vera sunt.",
+      "body": "「書き記せ：小羊の婚宴の晩餐に招かれた者たちは幸いである（Beati qui ad coenam nuptiarum Agni vocati sunt）──これらは神の真実の言葉である（Haec verba Dei vera sunt）」──Apocalypsis第四の「幸い（Beati）」宣言・「書け（Scribe）」命令の反復。「Scribe（書き記せ）」：第1章v.19・第2–3章の七書簡の「書け（scribe）」・第14章v.13「Scribe: Beati mortui（書き記せ：幸いな死者たち）」という「書き記せ」命令の第五の反復として、書くという行為が啓示の保存・確認として構造化される。「Beati qui ad coenam nuptiarum Agni vocati sunt（小羊の婚宴の晩餐に招かれた者たちは幸いである）」：Apocalypsis全体の七つの「幸い（Beati）」宣言の第四として。マタイ福音書第22章v.2「simile est regnum caelorum homini regi, qui fecit nuptias filio suo（天国は子どものために婚宴を催した王のようなもの）」という婚宴の比喩の終末論的実現として。「Haec verba Dei vera sunt（これらは神の真実の言葉である）」：第21章v.5「Haec verba fidelissima sunt et vera（これらの言葉は真実で確かである）」の先取りとして、啓示の真実性の神的保証が挿入される。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Vide ne feceris: conservus tuus sum, et fratrum tuorum habentium testimonium Jesu. Deum adora. Testimonium enim Jesu est spiritus prophetiae.",
+      "body": "「そのようなことをしてはいけない（Vide ne feceris）──私はあなたと同じしもべ（conservus tuus sum）──神を礼拝せよ（Deum adora）──イエスの証しは預言の霊（Testimonium enim Jesu est spiritus prophetiae）」──天使礼拝の禁止と「証し（testimonium）」の定義的命題。「Vide ne feceris（そのようなことをしてはいけない）」：第22章v.9でも「Vide ne feceris（そのようなことをしてはいけない）」と全く同一の禁止が反復される──ヨハネの天使礼拝への傾向とその禁止という構造が書の終末部で二度繰り返されることで、礼拝の対象の確認（神のみ）が強調される。「conservus tuus sum（私はあなたと同じしもべ）」：天使が「しもべ（conservus）」として自己規定することで、天使と人間の間の水平的共同体が確立される──礼拝すべき神との垂直的差異の強調として。「Testimonium enim Jesu est spiritus prophetiae（イエスの証しは預言の霊）」：第19章の最も謎めいた命題として、「testimonium Jesu（イエスの証し）」と「spiritus prophetiae（預言の霊）」の同定が、Apocalypsis全体の「証し（testimonium）」という書的使命の神学的根拠として提示される。マラルメ「危機（Crise de vers）」の「詩の言語は証言する」という詩学が、「spiritus prophetiae（預言の霊）」という霊的証言の形象と照応する。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et vidi caelum apertum, et ecce equus albus, et qui sedebat super eum, vocabatur Fidelis, et Verax, et cum justitia judicat et pugnat.",
+      "body": "「天が開かれているのを見た（vidi caelum apertum）──白い馬（equus albus）──忠実で真実な者（Fidelis, et Verax）──正義をもって裁き戦う（cum justitia judicat et pugnat）」──第19章後半部・白馬の騎者の第一定義。「vidi caelum apertum（天が開かれているのを見た）」：第4章v.1「ostium apertum in caelo（天に開かれた戸があった）」・第15章v.5「apertum est templum tabernaculi（幕屋の神殿が開かれた）」という「天の開口」の最終的反復として。第6章v.2「equus albus（白馬）」の第一騎者との対照として──第6章の白馬の騎者が「弓（arcus）と冠（corona）」を持ち「vincens ut vinceret（勝利を得るために出た）」のに対し、第19章では「Fidelis et Verax（忠実で真実な）」という内的性格と「cum justitia judicat（正義をもって裁く）」という審判的機能によって定義される。「Fidelis, et Verax（忠実で真実な）」：第3章v.14「haec dicit … Fidelis et Verus testis（忠実で真実な証人）」というラオデキアへの書簡の「忠実で真実な証人（Fidelis et Verus testis）」の反復として、書簡での自己称号が第19章の白馬の騎者の名として実現する。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Oculi autem ejus sicut flamma ignis, et in capite ejus diademata multa, habens nomen scriptum, quod nemo novit nisi ipse.",
+      "body": "「その目は炎の火のようであり（Oculi autem ejus sicut flamma ignis）──多くの王冠（diademata multa）──自分以外は誰も知らない名（nomen scriptum, quod nemo novit nisi ipse）」──白馬の騎者の第二定義、神秘的名の命題。「Oculi … sicut flamma ignis（目は炎の火のよう）」：第1章v.14「oculi ejus tamquam flamma ignis（その目は炎の火のよう）」の完全な反復として、第1章での最初の顕現の形象が第19章の最終的来臨の場面で再現される。「diademata multa（多くの王冠）」：第12章v.3の竜の「diademata septem（七つの王冠）」・第13章v.1の獣の「decem diademata（十の王冠）」に対し、第19章では「diademata multa（多くの王冠）」という不定の複数として、具体的数を超えた王権の普遍性を示す。「nomen scriptum, quod nemo novit nisi ipse（自分以外は誰も知らない名が書かれていた）」：「誰も知らない名（nomen quod nemo novit）」という神秘的不可知の名が白馬の騎者に帰属される──v.13で「Verbum Dei（神の言葉）」と命名されることで部分的に開示されるが、「誰も知らない名（nisi ipse）」という根本的不可知性は保持される。マラルメ「あるいは本（le Livre）」の「書かれた名・言語の極限」という詩的主題が照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Et vestitus erat veste aspersa sanguine: et vocatur nomen ejus: Verbum Dei.",
+      "body": "「血に染まった衣をまとっており（veste aspersa sanguine）──その名は神の言葉（vocatur nomen ejus: Verbum Dei）」──第19章最大の神学的命題・「言葉（Verbum）」としての白馬の騎者の同定。「veste aspersa sanguine（血に染まった衣）」：イザヤ書第63章v.1–3「quis est iste, qui venit de Edom … quare ergo rubrum est indumentum tuum（なぜあなたの衣は赤いのか）」という踏み場から来る血染めの衣を持つ者のイメージの終末論的実現として。「Verbum Dei（神の言葉）」：ヨハネ福音書第1章v.1「In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum（初めに言葉があった、言葉は神とともにあった、言葉は神であった）」の「Verbum（言葉）」との直接的同定として。「Verbum Dei」という名がApocalypsis全体で最も完全なキリスト論的同定を提供する──「Fidelis et Verax（忠実で真実な者）」（v.11）・「誰も知らない名」（v.12）・「Verbum Dei（神の言葉）」（v.13）・「Rex regum et Dominus dominantium（王の王、主の主）」（v.16）という四つの名の段階的開示として。マラルメ「危機（Crise de vers）」の「純粋な詩的言語（parole essentielle）」という概念が、「Verbum Dei（神の言葉）」という究極的言語的存在と詩的に照応する──言語の極限としての詩と、「Verbum（言葉）」としてのキリストの神学的極限の照応として。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et exercitus qui sunt in caelo, sequebantur eum in equis albis, vestiti byssino albo et mundo.",
+      "body": "「天の軍勢は白い馬に乗り（sequebantur eum in equis albis）──清く白い亜麻布をまとって（vestiti byssino albo et mundo）この者に従っていた」──白馬の騎者に従う天の軍勢。「exercitus qui sunt in caelo（天の軍勢）」：「sequebantur eum（この者に従っていた）」という追従の動詞が、第14章v.4「Hi sequuntur Agnum quocumque ierit（この者たちは小羊がどこへ行こうとも従う）」という十四万四千人の「追従（sequuntur）」との語根的照応として機能する──地上的追従（第14章）が天上的軍事的追従（第19章）として実現する。「in equis albis（白い馬に乗り）」：天の軍勢が「白馬（equi albi）」に乗ることで、騎者の白馬とその軍勢の白馬という視覚的統一性が形成される──第6章の四騎士が「白・赤・黒・青白（albus・rufus・niger・pallidus）」という四色であったのに対し、第19章は「albus（白）」の統一的色調として。「vestiti byssino albo et mundo（清く白い亜麻布をまとって）」：v.8「byssino splendenti et candido（輝いて清い亜麻布）」という花嫁の衣装と同型の衣装が天の軍勢に付与される──花嫁と天の軍勢が同一の「byssinum（亜麻布）」の衣をまとうという共同体的同一性として。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et de ore ejus procedit gladius ex utraque parte acutus, ut in ipso percutiat gentes. Et ipse reget eas in virga ferrea: et ipse calcat torcular vini furoris irae Dei omnipotentis.",
+      "body": "「その口から両刃の鋭い剣が出る（de ore ejus procedit gladius ex utraque parte acutus）──鉄の杖をもって治める（reget eas in virga ferrea）──神の激しい怒りのぶどう酒の踏み場を踏む（calcat torcular vini furoris irae Dei omnipotentis）」──白馬の騎者の三つの審判的行為の定式化。「de ore ejus procedit gladius ex utraque parte acutus（口から両刃の鋭い剣が出る）」：第1章v.16「de ore ejus gladius utraque parte acutus exibat（口から両刃の鋭い剣が出ていた）」の完全な反復として、最初の顕現の武器形象が第19章の戦闘場面で実行的機能として再現される。「reget eas in virga ferrea（鉄の杖をもって治める）」：第12章v.5「recturus erat omnes gentes in virga ferrea（鉄の杖をもってすべての国を治めるはずの者）」という小羊の子の王権の実現として、誕生直後の約束が第19章で履行される。「calcat torcular vini furoris irae Dei omnipotentis（神の激しい怒りのぶどう酒の踏み場を踏む）」：第14章v.19–20の「lacus irae Dei（神の怒りの踏み場）・calcatus est lacus（踏み場が踏まれた）」という収穫場面の第19章での執行者の同定として機能する。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 19
+    },
+    {
+      "paragraphId": 16,
+      "type": "glossary",
+      "anchor": "Et habet in vestimento et in femore suo scriptum: Rex regum et Dominus dominantium.",
+      "body": "「衣と腿に名が書かれていた：王の王、主の主（Rex regum et Dominus dominantium）」──第19章の最後の名の開示・Apocalypsis全体のキリスト論的頂点。「in vestimento et in femore suo（衣と腿に）」：名が書かれる場所として「衣（vestimentum）」と「腿（femur）」が選ばれることで、戦士の剣を帯びる場所（腿）と王の礼服（衣）が同時に指定される──戦士的・王的二重性の一体的表現として。「Rex regum et Dominus dominantium（王の王、主の主）」：第17章v.14「Dominus dominorum est, et Rex regum（主の主、王の王）」の語順を反転した反復として、「Rex regum（王の王）」という語順が第19章では先行することで王権が強調される。申命記第10章v.17「Deus deorum, et Dominus dominorum（神々の神、主の主）」という旧約的称号の終末論的完成として。Ecclesiastes第1章v.1「regis Jerusalem（エルサレムの王）」というコヘレト的王権の最上級定式が、「Rex regum（王の王）」というApocalypsis的王権の絶対的最上級として完成される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et vidi unum angelum stantem in sole, et clamavit voce magna, dicens omnibus avibus, quae volabant per medium caeli: Venite, et congregamini ad coenam magnam Dei:",
+      "body": "「一人の天使が太陽の中に立っていた（unum angelum stantem in sole）──天の真ん中を飛ぶすべての鳥に（omnibus avibus, quae volabant per medium caeli）──神の大いなる晩餐に集まれ（congregamini ad coenam magnam Dei）」──「大いなる晩餐（coena magna Dei）」の召集。「stantem in sole（太陽の中に立つ）」：第8章v.13「aquila volantis per medium caeli（天の真ん中を飛ぶ鷲）」という三重禍を宣言した鷲のモチーフの反復として、「天の真ん中（per medium caeli）」という場所が「鷲の警告」から「天使の招集」へと機能的に転換される。「coena magnam Dei（神の大いなる晩餐）」：v.9「coenam nuptiarum Agni（小羊の婚宴の晩餐）」という花嫁への招待と対称的な「神の大いなる晩餐（coena magna Dei）」──一方は救済の晩餐、他方は審判の晩餐として同一の「coena（晩餐）」語が二つの極的な集いを定式化する。「Venite, et congregamini（来て、集まれ）」：第16章v.16「congregabit illos in locum … Armagedon（アルマゲドンに集めた）」という悪の集結に対し、第19章では鳥たちへの審判的集結命令として反転される。",
+      "targetId": "hieronymus_apocalypsis_8",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 18,
+      "type": "prosody",
+      "anchor": "ut manducetis carnes regum, et carnes tribunorum, et carnes fortium, et carnes equorum, et sedentium in ipsis, et carnes omnium liberorum, et servorum, et pusillorum et magnorum.",
+      "body": "「王たちの肉（carnes regum）・将軍たちの肉（carnes tribunorum）・力ある者たちの肉（carnes fortium）・馬の肉（carnes equorum）・乗り手の肉・自由人の肉・奴隷の肉・小さな者・大きな者の肉（pusillorum et magnorum）」──「coena magna Dei」の内容目録・第18章の商品目録の反転。「carnes（肉）」という語の七重反復が、第18章v.12–13の「merces（商品）」目録と対称する反転的目録を形成する──第18章では「商品化された人間の魂（animarum hominum）」が最末尾に置かれたのに対し、第19章では「肉（carnes）」として社会的序列が列挙される。「reges, tribunos, fortes, equi, liberi, servi, pusilli, magni」：第6章v.15「reges terrae, et principes, et tribuni, et divites, et fortes, et omnis servus, et liber（地の王たち・権力者・将軍・富者・力ある者・奴隷・自由人）」という第六封印の全社会的逃走者リストの反転的反響として──封印の前に逃げた者たちが、第19章では「晩餐の肉」として審判される。エゼキエル書第39章v.17–20のゴグへの最終審判における「神の大いなる晩餐」の直接引用として。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Et vidi bestiam, et reges terrae, et exercitus eorum congregatos ad faciendum praelium cum illo, qui sedebat in equo, et cum exercitu ejus.",
+      "body": "「獣と地の王たちと彼らの軍勢が（bestiam, et reges terrae, et exercitus eorum）──馬に乗っている者とその軍勢と戦うために集結した（congregatos ad faciendum praelium）」──アルマゲドンの戦いの開始場面。「Et vidi（私は見た）」：第19章での「Et vidi（私は見た）」の第三の反復として（v.11・v.17・v.19）、章全体が「見ること（visio）」という啓示的認識の連続として構造化されることが示される。「bestiam, et reges terrae, et exercitus eorum（獣と地の王たちと彼らの軍勢）」：第16章v.14「reges totius terrae congregare illos in praelium（全地の王たちを戦いに集める）」というアルマゲドン集結の実現として、第19章でその戦闘場面が提示される。「ad faciendum praelium（戦いを行うために）」：ラテン語「praelium（戦い・前哨戦）」は「prae + lium」の合成語で軍事的衝突を指す──第12章v.7「praelium magnum in caelo（天での大きな戦い）」という天上的戦争が、第19章では地上的・終末論的戦闘として反復される。",
+      "targetId": "hieronymus_apocalypsis_16",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 20,
+      "type": "glossary",
+      "anchor": "Et apprehensa est bestia, et cum ea pseudopropheta: qui fecit signa coram ipso, quibus seduxit eos, qui acceperunt caracterem bestiae, et qui adoraverunt imaginem ejus. Vivi missi sunt hi duo in stagnum ignis ardentis sulphure:",
+      "body": "「獣は捕らえられ、偽預言者も捕らえられた（apprehensa est bestia, et cum ea pseudopropheta）──この二者は生きたまま、硫黄の燃える火の池に投げ込まれた（Vivi missi sunt hi duo in stagnum ignis ardentis sulphure）」──獣と偽預言者の最終的処分。「apprehensa est bestia（獣は捕らえられた）」：第13章以来の獣の権威・権能・礼拝強制という長大な展開が「apprehensa est（捕らえられた）」という単純な受動的完了形によって終焉する──権能の絶頂から捕縛への転落の簡潔さが審判の確実性を示す。「pseudopropheta（偽預言者）」：第13章で「地から上る第二の獣」として登場し、第16章v.13で初めて「pseudopropheta」と命名された存在が、第19章で最終的に同一の名で捕縛される。「stagnum ignis ardentis sulphure（硫黄の燃える火の池）」：「stagnum（池・沼）」という語が第20章での「第二の死（mors secunda）」の定義場所として繰り返されることで、「火と硫黄の池（stagnum ignis et sulphuris）」という終末論的罰の場所がApocalypsis終末部の中心的審判地として確立される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "et ceteri occisi sunt in gladio sedentis super equum, qui procedit de ore ipsius: et omnes aves saturatae sunt carnibus eorum.",
+      "body": "「残りの者たちは馬に乗っている者の口から出る剣によって殺された（occisi sunt in gladio … de ore ipsius）──すべての鳥が彼らの肉で満たされた（omnes aves saturatae sunt carnibus eorum）」──第19章の終結節、「大いなる晩餐」の完結。「occisi sunt in gladio … de ore ipsius（口から出る剣によって殺された）」：v.15「de ore ejus procedit gladius ex utraque parte acutus（口から両刃の鋭い剣が出る）」という形象が、v.21では「occisi sunt（殺された）」という完了的審判として実行される──形象から実行への移行。「omnes aves saturatae sunt carnibus eorum（すべての鳥が彼らの肉で満たされた）」：v.17–18の「Venite, et congregamini ad coenam magnam Dei（神の大いなる晩餐に集まれ）」という招集と「carnes（肉）」目録が「saturatae sunt（満たされた）」という充足の完了形として結末を迎える。Ecclesiastes第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされない）」という欲望の不飽和性の命題に対し、「omnes aves saturatae sunt（すべての鳥が満たされた）」という完全な充足が、Ecclesiastes的虚無の不飽和性を終末論的飽和として反転する逆説として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    }
+  ]
+}
