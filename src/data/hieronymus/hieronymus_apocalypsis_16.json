@@ -1,0 +1,339 @@
+{
+  "id": "hieronymus_apocalypsis_16",
+  "title": "Apocalypsis, Caput XVI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XVI. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+16&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第16章。第15章で準備された七つの鉢（phialae）の注ぎが実行される章。第8章の七つのラッパが「三分の一（tertia pars）」という部分的破局をもたらしたのに対し、第16章の七鉢は全地・全海・全川・全太陽・獣の玉座・ユーフラテス川・大気と、宇宙的秩序のあらゆる次元を網羅的に破壊する。第一の鉢（v.2）獣の刻印を持つ者への悪性の腫れ物（vulnus saevum）。第二の鉢（v.3）海が死者の血となり、海の生き物が全滅。第三の鉢（v.4–7）川と水源が血となり、水の天使と祭壇が応報的正義を宣言。第四の鉢（v.8–9）太陽による灼熱と神への冒瀆・悔い改めの拒否。第五の鉢（v.10–11）獣の王国の暗闇と苦悩・冒瀆の継続。第六の鉢（v.12–16）ユーフラテス川の乾燥と東方の王たちの道の準備、三つの汚れた霊のアルマゲドンへの集結。第七の鉢（v.17–21）大気への注ぎ・「成し遂げられた（Factum est）」という神の宣言・最大の地震・バビロンの崩壊・巨大な雹。四度繰り返される「blasphemaverunt Deum（神を冒瀆した）」（v.9・v.11・v.21）と「non egerunt poenitentiam（悔い改めなかった）」（v.9・v.11）という反復が、審判の徹底的拒絶という人間の側の応答として構造化される。VANITISMEコーパスにおける位置づけ：第16章はApocalypsis全体の審判の最大密度の章として、Ecclesiastes第1章の自然的循環（太陽・川・海）がすべて神の審判の対象として侵犯される逆転の場として機能する。v.17「Factum est（成し遂げられた）」は第21章v.6「Factum est（成し遂げられた）」と照応し、審判の完成と創造の完成という二つの「完成」の対称を形成する。",
+  "keywords": [
+    "phialae irae Dei",
+    "vulnus saevum et pessimum",
+    "sanguis tamquam mortui",
+    "angelum aquarum",
+    "digni enim sunt",
+    "vera et justa judicia tua",
+    "sedem bestiae tenebrosum",
+    "Euphraten siccavit",
+    "spiritus immundi in modum ranarum",
+    "Armagedon",
+    "Factum est",
+    "terraemotus magnus",
+    "Babylon magna",
+    "grando magna sicut talentum"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_15",
+    "hieronymus_apocalypsis_14",
+    "hieronymus_apocalypsis_13",
+    "hieronymus_apocalypsis_8",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_necessite",
+    "weil_dressage",
+    "mallarme_coup_de_des",
+    "trakl_abendlaendisches_lied"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et audivi vocem magnam de templo, dicentem septem angelis: Ite, et effundite septem phialas irae Dei in terram.",
+      "provisionalTranslation": "私は神殿から大きな声が七人の天使に言うのを聞いた。「行って、神の怒りの七つの鉢を地に注ぎ出せ。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et abiit primus, et effudit phialam suam in terram, et factum est vulnus saevum et pessimum in homines, qui habebant caracterem bestiae, et in eos qui adoraverunt imaginem ejus.",
+      "provisionalTranslation": "第一の天使が行って、地に鉢を注いだ。すると獣の刻印を持つ者たちと、その像を礼拝した者たちに、悪性で激しい腫れ物が生じた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "Et secundus angelus effudit phialam suam in mare, et factus est sanguis tamquam mortui: et omnis anima vivens mortua est in mari.",
+      "provisionalTranslation": "第二の天使が海に鉢を注いだ。すると海は死者の血のようになった。海の中のすべての生き物が死んだ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et tertius effudit phialam suam super flumina, et super fontes aquarum, et factus est sanguis.",
+      "provisionalTranslation": "第三の天使が川と水の源の上に鉢を注いだ。すると血となった。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et audivi angelum aquarum dicentem: Justus es, Domine, qui es, et qui eras sanctus, qui haec judicasti:",
+      "provisionalTranslation": "私は水の天使がこう言うのを聞いた。「主よ、あなたは正しい方です。おられる方、かつておられた聖なる方よ。あなたはこのように裁かれました。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "quia sanguinem sanctorum et prophetarum effuderunt, et sanguinem eis dedisti bibere: digni enim sunt.",
+      "provisionalTranslation": "「彼らは聖徒たちと預言者たちの血を流したので、あなたは彼らに血を飲ませました。彼らはそれに値します。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et audivi alterum ab altari dicentem: Etiam Domine Deus omnipotens, vera et justa judicia tua.",
+      "provisionalTranslation": "私はまた祭壇から声が言うのを聞いた。「然り、主なる神、全能者よ。あなたの裁きは真実で正しい。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et quartus angelus effudit phialam suam in solem, et datum est illi aestu affligere homines, et igni:",
+      "provisionalTranslation": "第四の天使が太陽に鉢を注いだ。すると熱と火で人々を苦しめる権能が太陽に与えられた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "et aestuaverunt homines aestu magno, et blasphemaverunt nomen Dei habentis potestatem super has plagas, neque egerunt poenitentiam ut darent illi gloriam.",
+      "provisionalTranslation": "人々はひどい熱さで焼かれ、これらの災いを支配する権能を持つ神の名を冒瀆した。彼らは神に栄光を帰するために悔い改めなかった。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "Et quintus angelus effudit phialam suam super sedem bestiae: et factum est regnum ejus tenebrosum, et commanducaverunt linguas suas prae dolore:",
+      "provisionalTranslation": "第五の天使が獣の玉座に鉢を注いだ。すると獣の王国は暗闇となった。人々は苦しみのあまり自分の舌を噛んだ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "et blasphemaverunt Deum caeli prae doloribus, et vulneribus suis, et non egerunt poenitentiam ex operibus suis.",
+      "provisionalTranslation": "彼らは苦しみと腫れ物のゆえに天の神を冒瀆した。しかし自分たちの行いから悔い改めなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et sextus angelus effudit phialam suam in flumen illud magnum Euphraten: et siccavit aquam ejus, ut praepararetur via regibus ab ortu solis.",
+      "provisionalTranslation": "第六の天使があの大河ユーフラテスに鉢を注いだ。すると東方から来る王たちのために道が備えられるよう、その水が干上がった。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "Et vidi de ore draconis, et de ore bestiae, et de ore pseudoprophetae spiritus tres immundos in modum ranarum.",
+      "provisionalTranslation": "私は竜の口から、獣の口から、偽預言者の口から、蛙のような三つの汚れた霊が出てくるのを見た。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Sunt enim spiritus daemoniorum facientes signa, et procedunt ad reges totius terrae congregare illos in praelium ad diem magnum omnipotentis Dei.",
+      "provisionalTranslation": "それらは、しるしを行う悪霊の霊であり、全能の神の大いなる日の戦いに向けて彼らを集めるために、全地の王たちのもとに出て行く。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Ecce venio sicut fur. Beatus qui vigilat, et custodit vestimenta sua, ne nudus ambulet, et videant turpitudinem ejus.",
+      "provisionalTranslation": "「見よ、私は盗人のように来る。自分の衣を守り、裸で歩くことなく、恥を人に見られないように目を覚ましている者は幸いである。」"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "Et congregabit illos in locum qui vocatur hebraice Armagedon.",
+      "provisionalTranslation": "そして彼らをヘブライ語でアルマゲドンと呼ばれる場所に集めた。"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "Et septimus angelus effudit phialam suam in aerem, et exivit vox magna de templo a throno, dicens: Factum est.",
+      "provisionalTranslation": "第七の天使が大気に鉢を注いだ。すると神殿の御座から大きな声が出て、「成し遂げられた」と言った。"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "Et facta sunt fulgura, et voces, et tonitrua, et terraemotus factus est magnus, qualis numquam fuit ex quo homines fuerunt super terram: talis terraemotus, sic magnus.",
+      "provisionalTranslation": "稲妻と声と雷鳴が起こり、大地震が起きた。人間が地上に存在してから、かつてなかったほど大きな地震が、それほど大きかった。"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "Et facta est civitas magna in tres partes: et civitates gentium ceciderunt. Et Babylon magna venit in memoriam ante Deum, dare illi calicem vini indignationis irae ejus.",
+      "provisionalTranslation": "大きな都は三つに割れ、諸国民の都は倒れた。大バビロンは神の御前に思い起こされ、神の激しい怒りのぶどう酒の杯を受けた。"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Et omnis insula fugit, et montes non sunt inventi.",
+      "provisionalTranslation": "すべての島は逃げ去り、山々は消え去った。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Et grando magna sicut talentum descendit de caelo in homines: et blasphemaverunt Deum homines propter plagam grandinis: quoniam magna facta est vehementer.",
+      "provisionalTranslation": "一タラントほどの大きな雹が天から人々に降った。人々は雹の災いのゆえに神を冒瀆した。その災いは非常に激しかったからである。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "vocem magnam de templo, dicentem septem angelis: Ite, et effundite septem phialas irae Dei in terram.",
+      "body": "「神殿から大きな声が（vox magna de templo）──行って、神の怒りの七つの鉢を地に注ぎ出せ（Ite, et effundite septem phialas irae Dei in terram）」──第15章v.8の「nemo poterat introire in templum（誰も神殿に入れなかった）」という閉鎖された神殿から、今度は「vox magna de templo（神殿からの大きな声）」が審判命令として発せられるという構造的逆転。「Ite（行け）」という命令は、第14章v.15の神殿から出た天使が「Mitte falcem tuam（鎌を入れよ）」と命じた構造の反復として、神殿が審判命令の発信源として機能することを確立する。「effundite（注ぎ出せ）」：「effundere（注ぎ出す・流す）」という動詞が章全体の反復句「effudit phialam suam（鉢を注いだ）」の命令形として、第16章全体の語彙的骨格を導入する。「phialas irae Dei（神の怒りの鉢）」：第15章v.7で四つの生き物の一つから付与された「phialae aureae（金の鉢）」が、ここでは「irae Dei（神の怒り）」という内容の定義とともに実行命令の対象として提示される。Ecclesiastes第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、言葉で説明できない）」という言語的不可能性が、第16章では七鉢の逐次的・具体的な注ぎという行為の明確な連鎖として超克される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "factum est vulnus saevum et pessimum in homines, qui habebant caracterem bestiae, et in eos qui adoraverunt imaginem ejus.",
+      "body": "「悪性で激しい腫れ物（vulnus saevum et pessimum）──獣の刻印を持つ者たちと像を礼拝した者たちに（qui habebant caracterem bestiae, et in eos qui adoraverunt imaginem ejus）」──第一の鉢の選択的適用。「vulnus saevum et pessimum（悪性で激しい腫れ物）」：「saevum（残虐な・凶暴な）」と「pessimum（最悪の）」という二つの最高強度の形容詞の連結が、第一の鉢の苦悩の極限的性格を定式化する。出エジプト記第9章v.9「eruntque ulcera vesiculosa（沸き立つような腫れ物となる）」というエジプトへの第六の災いの終末論的反復として──ただし第一の鉢はエジプトの全住民ではなく「獣の刻印を持つ者たち（qui habebant caracterem bestiae）」という限定的対象への選択的適用として機能する。第13章v.16–17の「characterem in dextera manu, aut in frontibus（右手か額に刻印）」という強制的刻印が、第16章では「vulnus（腫れ物）」という身体的苦悩の場所として逆転される──刻印という自発的帰属の行為が、刻印という部位への災いとして応報される。Iob第2章v.7「percussit Job ulcere pessimo（ヨブを最悪の腫れ物で打った）」のサタンによる試練とほぼ同一の語「ulcus pessimum」の反響として──ヨブへの試練が神の怒りの審判として反転的に展開される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et secundus angelus effudit phialam suam in mare, et factus est sanguis tamquam mortui: et omnis anima vivens mortua est in mari.",
+      "body": "「海が死者の血のようになった（factus est sanguis tamquam mortui）──海の中のすべての生き物が死んだ（omnis anima vivens mortua est in mari）」──第二の鉢による海の完全的血化。「sanguis tamquam mortui（死者の血のように）」：第8章v.8「factus est tertia pars maris sanguis（海の三分の一が血となった）」という七ラッパ第二の部分的血化との対比として──七ラッパでは「三分の一（tertia pars）」という限定であったのに対し、七鉢では限定なき「海が（海全体が）血となった」という完全な血化。「tamquam mortui（死者のように）」：「死者の血」というイメージが新鮮な血ではなく凝固した・変質した死の血として提示される──生命の流体である血が死の象徴として逆転する形象。「omnis anima vivens mortua est in mari（海の中のすべての生き物が死んだ）」：「omnis（すべて）」という普遍的限定が、第8章v.9「tertia pars creaturae（被造物の三分の一）」という部分的死滅に対する「全滅」として七ラッパと七鉢の審判スケールの根本的差異を示す。Ecclesiastes第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」という海の永続的受容能力が、第16章では海全体が死の血となるという完全な変質として侵犯される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et tertius effudit phialam suam super flumina, et super fontes aquarum, et factus est sanguis.",
+      "body": "「川と水の源の上に鉢を注いだ（super flumina, et super fontes aquarum）──血となった（factus est sanguis）」──第三の鉢による淡水系全体の血化。第8章v.10–11「tertius angelus tuba cecinit: et cecidit … stella magna … in tertiam partem fluminum, et in fontes aquarum（第三の天使がラッパを吹いた……星が川の三分の一と水の源に落ちた）」という七ラッパ第三との直接的照応として──七ラッパでは「アブシンティウム（苦艾）」による水の苦化であったのに対し、七鉢では「血への変化（factus est sanguis）」という出エジプト的審判形象が適用される。「fontes aquarum（水の源）」：第7章v.17「vitae fontes aquarum（いのちの水の泉）」という救済的「水の源」と第14章v.7「fontes aquarum（水の源）」という創造礼拝の対象が、第16章では審判の対象として血化される──命の源泉が死の液体に転化する逆転。「factus est sanguis（血となった）」という述部の簡潔さが、第3節（海の血化）・第4節（川の血化）と平行的構文として連続することで、血化の累積的拡大を文体的に実演する。",
+      "targetId": "hieronymus_apocalypsis_8",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Justus es, Domine, qui es, et qui eras sanctus, qui haec judicasti:",
+      "body": "「主よ、あなたは正しい方です（Justus es, Domine）──おられる方、かつておられた聖なる方よ（qui es, et qui eras sanctus）──あなたはこのように裁かれました（qui haec judicasti）」──第三の鉢への水の天使（angelus aquarum）の応答的頌賛。「angelus aquarum（水の天使）」：第7章v.1「quatuor angelos stantes super quatuor angulos terrae（地の四隅に立つ四人の天使）」・v.2「angelum ascendentem ab ortu solis（東から昇る天使）」という自然的秩序を管掌する天使的存在の系列として、「水の天使」は水という自然元素の霊的管掌者として機能する。「Justus es（あなたは正しい方）」：詩篇第145篇v.17「Justus Dominus in omnibus viis suis（主はすべての道において正しい）」という詩篇的応答の終末論的実現として。「qui es, et qui eras sanctus（おられる方、かつておられた聖なる方）」：第1章v.4「qui est, et qui erat, et qui venturus est（おられる方、かつておられた方、来られる方）」という三重の時間的定式の簡略形として──第16章の審判の文脈では「venturus est（来られる方）」という未来形が省略され、審判がすでに進行中であることが示される。「qui haec judicasti（このように裁かれました）」：水を血に変えるという審判の根拠を「judicasti（裁かれた）」という完了形が確認する。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "quia sanguinem sanctorum et prophetarum effuderunt, et sanguinem eis dedisti bibere: digni enim sunt.",
+      "body": "「彼らは聖徒たちと預言者たちの血を流した（sanguinem sanctorum et prophetarum effuderunt）──あなたは彼らに血を飲ませた（sanguinem eis dedisti bibere）──彼らはそれに値する（digni enim sunt）」──応報的正義の定式。「sanguinem sanctorum et prophetarum effuderunt（聖徒たちと預言者たちの血を流した）」：第6章v.9–10「animas interfectorum propter verbum Dei（神の言葉のために殺された者たちの魂）」・「non judicas, et non vindicas sanguinem nostrum（いつまで裁きと復讐をしないのですか）」という訴えへの応答として、「血を流した者たちに血を飲ませる」という鏡像的・応報的正義が実現する。「sanguinem eis dedisti bibere（彼らに血を飲ませた）」：「effuderunt（流した）」から「bibere（飲ませた）」への動詞的転換が、流した行為と飲む罰の間の行為的照応として機能する──流出させる暴力が摂取させられる苦悩として反転される。「digni enim sunt（彼らはそれに値する）」：「digni（値する）」という語が第4章v.11「Dignus es, Domine Deus noster（主なる神よ、あなたは値する）」という神への礼拝的宣言と同根であり、ここでは審判される者の「値する（digni）」として応報的転用が行われる──礼拝の「値する」と審判の「値する」が同一語で表現されるという黙示録的語彙の二重性。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Etiam Domine Deus omnipotens, vera et justa judicia tua.",
+      "body": "「然り、主なる神、全能者よ（Etiam Domine Deus omnipotens）──あなたの裁きは真実で正しい（vera et justa judicia tua）」──祭壇からの声による応確の頌賛。「Et audivi alterum ab altari（祭壇から別の声を聞いた）」：第6章v.9「subtus altare（祭壇の下に）」という殉教者たちの魂の位置からの声として、殉教者たちの「Usquequo Domine, non judicas（いつまで裁かれないのですか）」という訴えが「vera et justa judicia tua（あなたの裁きは真実で正しい）」という肯定的確認へと転換される構造的照応。「Etiam（然り）」：v.5の水の天使の証言に続く祭壇からの同意的確認として、「Etiam（そのとおり）」という応答の副詞が二つの声による二重証言の構造を形成する。「vera et justa judicia tua（あなたの裁きは真実で正しい）」：第15章v.3「justae et verae sunt viae tuae（あなたの道は正しく真実）」のモーセと小羊の歌の語句の反復として──礼拝頌歌の「正しく真実な道」が審判実行中の「真実で正しい裁き」として確認される。Iob第1章v.22「non peccavit Job labiis suis（ヨブは口をもって罪を犯さなかった）」というヨブの口の純潔が、第16章では「祭壇からの声」という審判肯定の発話として対称的に照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 22
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et quartus angelus effudit phialam suam in solem, et datum est illi aestu affligere homines, et igni:",
+      "body": "「第四の天使が太陽に鉢を注いだ（effudit phialam suam in solem）──熱と火で人々を苦しめる権能が太陽に与えられた（datum est illi aestu affligere homines, et igni）」──第四の鉢による太陽の審判的道具化。「in solem（太陽に）」：第8章v.12「percussa est tertia pars solis（太陽の三分の一が打たれた）」という七ラッパ第四が太陽を暗くしたのに対し、第16章では太陽が「灼熱（aestu）」という逆方向の──光ではなく熱という──破壊的要素として強化される。「datum est illi aestu affligere homines（熱で人々を苦しめる権能が与えられた）」：「datum est（与えられた）」という受動態が太陽に付与された行為能力の被委譲性を示す──太陽が自律的に苦しめるのではなく、神の審判的目的のために「権能を与えられた」道具として機能する。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の永続的・規則的循環が、第16章では「aestu affligere（熱で苦しめる）」という審判的機能への転換として、コヘレト的自然秩序の根本的破綻として位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "blasphemaverunt nomen Dei habentis potestatem super has plagas, neque egerunt poenitentiam ut darent illi gloriam.",
+      "body": "「これらの災いを支配する権能を持つ神の名を冒瀆した（blasphemaverunt nomen Dei habentis potestatem super has plagas）──悔い改めなかった（neque egerunt poenitentiam）」──第16章の構造的反復句の第一回目の登場。「blasphemaverunt（冒瀆した）」：第13章v.5–6の獣の「冒瀆（blasphemia）」が、第16章では審判を受ける者たちの「神への冒瀆」として反転される──獣が「神の名を冒瀆（blasphemare nomen ejus）」したように、獣に従った者たちも「神の名を冒瀆（blasphemaverunt nomen Dei）」する。「neque egerunt poenitentiam ut darent illi gloriam（神に栄光を帰するために悔い改めなかった）」：「poenitentiam agere（悔い改める）」という表現は第2–3章の七書簡で繰り返された「悔い改めよ（poenitentiam age）」という命令の対称として、書簡時代の警告が実現しなかったことを確認する。「ut darent illi gloriam（神に栄光を帰するために）」という目的節が、「gloriam dare（栄光を帰する）」という礼拝的行為が悔い改めの本質として定義される──第14章v.7「date illi honorem（神に栄光を帰せよ）」という永遠の福音の命令への拒絶として。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et quintus angelus effudit phialam suam super sedem bestiae: et factum est regnum ejus tenebrosum, et commanducaverunt linguas suas prae dolore:",
+      "body": "「獣の玉座に鉢を注いだ（effudit phialam suam super sedem bestiae）──獣の王国は暗闇となった（factum est regnum ejus tenebrosum）──苦しみのあまり舌を噛んだ（commanducaverunt linguas suas prae dolore）」──第五の鉢による獣の支配中枢への直撃。「super sedem bestiae（獣の玉座に）」：第13章での獣の王国の確立（「potestas in omnem tribum et populum」）という全地的支配の中心である「sedem（玉座）」が直接の攻撃対象となる──これまでの鉢が地・海・川・太陽という自然次元を攻撃したのに対し、第五の鉢は「獣の玉座」という権力的・政治的中心に向けられる。「factum est regnum ejus tenebrosum（獣の王国は暗闇となった）」：「tenebrosum（暗闇の）」という形容詞が第8章v.12の太陽・月・星の暗黒化の反響として、獣の王国の暗闇化を宇宙的暗黒化の政治的次元として提示する。第9章v.2「tenebricatus est sol et aer（太陽と大気が暗くなった）」という深淵の煙との照応として。「commanducaverunt linguas suas prae dolore（苦しみのあまり舌を噛んだ）」：「commanducare（噛む）」という動詞が表す身体的痛苦の極限的自傷──v.2の腫れ物（vulnus）が継続した状態での暗闇という二重の苦悩として。",
+      "targetId": "hieronymus_apocalypsis_8",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "blasphemaverunt Deum caeli prae doloribus, et vulneribus suis, et non egerunt poenitentiam ex operibus suis.",
+      "body": "「天の神を冒瀆した（blasphemaverunt Deum caeli prae doloribus）──自分たちの行いから悔い改めなかった（non egerunt poenitentiam ex operibus suis）」──第二の冒瀆と不悔改の宣言。v.9の「blasphemaverunt … neque egerunt poenitentiam」という定型句の反復として、第四の鉢（v.9）と第五の鉢（v.11）の後に同一の人間的応答が繰り返されることで、審判の強度が増しても人間の側の拒絶が変わらないという構造的固定が提示される。「prae doloribus, et vulneribus suis（苦しみと腫れ物のゆえに）」：「vulneribus suis（自分たちの腫れ物）」という所有格が第一の鉢（v.2）の「vulnus saevum（悪性の腫れ物）」を参照する──第一の鉢の腫れ物が七鉢全体を通じて持続していることを示す。「non egerunt poenitentiam ex operibus suis（自分たちの行いから悔い改めなかった）」：「ex operibus suis（自分たちの行いから）」という出所の前置詞句が、悔い改めの対象が「行い（opera）」であることを指定する──第14章v.13「opera enim illorum sequuntur illos（彼らの業は彼らについていく）」という贖われた者たちの業と対称的に、冒瀆者たちの「opera（行い）」からの悔い改めの拒絶が確認される。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "Et sextus angelus effudit phialam suam in flumen illud magnum Euphraten: et siccavit aquam ejus, ut praepararetur via regibus ab ortu solis.",
+      "body": "「あの大河ユーフラテスに鉢を注いだ（phialam suam in flumen illud magnum Euphraten）──東方から来る王たちのために道が備えられるよう水が干上がった（siccavit aquam ejus, ut praepararetur via regibus ab ortu solis）」──第六の鉢の地政学的審判形象。「flumen illud magnum Euphraten（あの大河ユーフラテス）」：「illud（あの）」という指示詞が読者に既知の象徴的川として提示する──ユーフラテスは旧約において東方（アッシリア・バビロン）との境界を画す象徴的・地理的境界線として機能する。第9章v.14「solve quatuor angelos qui alligati sunt in flumine magno Euphraten（大河ユーフラテスに縛られている四人の天使を解き放て）」との照応として、ユーフラテスはApocalypsis内で東方的破局の発源地として一貫して機能する。「siccavit aquam ejus（水を干上がらせた）」：出エジプト記での葦の海の乾燥（Exod. 14:21）・ヨシュア記でのヨルダン川の乾燥（Josh. 3:17）という神の民のための水の乾燥が、第16章では東方の王たちのための水の乾燥として逆転される──救済的水の乾燥が審判的水の乾燥として反転する形象。「regibus ab ortu solis（東方から来る王たち）」：イザヤ書第41章v.2「Quis suscitavit ab oriente jus tum（誰が東から義人を呼び起こしたか）」という東方からの義人の召喚が、第16章では審判的集結として暗く反響する。",
+      "targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Et vidi de ore draconis, et de ore bestiae, et de ore pseudoprophetae spiritus tres immundos in modum ranarum.",
+      "body": "「竜の口から、獣の口から、偽預言者の口から（de ore draconis, et de ore bestiae, et de ore pseudoprophetae）──蛙のような三つの汚れた霊（spiritus tres immundos in modum ranarum）」──第16章の最も印象的な形象の一つ。「de ore … de ore … de ore（口から……口から……口から）」という三重の「口（os）」からの発出という並行構文が、竜・獣・偽預言者という「邪悪の三位一体」の各「口」を審判的汚染の源泉として定式化する。「spiritus tres immundos（三つの汚れた霊）」：「immundos（汚れた）」という形容詞は旧約の「汚れた動物」（レビ記第11章）と「汚れた霊」（マルコ福音書全体）の両方の用語的伝統を引き継ぐ。「in modum ranarum（蛙のような）」：出エジプト記第8章v.2–3「mittam ranas（蛙を送る）」というエジプトへの第二の災いとしての蛙の終末論的引用として──エジプトを汚染した蛙が、第16章では霊的・終末的汚染の形象として再登場する。「pseudoprophetae（偽預言者）」：第13章の「地から上って来る第二の獣」が第16章で初めて「pseudopropheta（偽預言者）」として明示的に命名される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Sunt enim spiritus daemoniorum facientes signa, et procedunt ad reges totius terrae congregare illos in praelium ad diem magnum omnipotentis Dei.",
+      "body": "「しるしを行う悪霊の霊（spiritus daemoniorum facientes signa）──全地の王たちのもとに出て行き（procedunt ad reges totius terrae）──全能の神の大いなる日の戦いに集める（congregare illos in praelium ad diem magnum omnipotentis Dei）」──三つの汚れた霊の使命の定式化。「spiritus daemoniorum facientes signa（しるしを行う悪霊の霊）」：第13章v.13「fecit signa magna（大きなしるしを行った）」という偽預言者の偽の奇跡の反復として、「しるし（signa）」を行う能力が悪霊的欺瞞の標識として確認される。「procedunt ad reges totius terrae（全地の王たちのもとに出て行く）」：第6章v.15「reges terrae … absconderunt se（地の王たちは隠れた）」という封印の審判から逃げた王たちが、第16章では汚れた霊によって「戦いに集められる（congregare in praelium）」という能動的運動へと転換される。「diem magnum omnipotentis Dei（全能の神の大いなる日）」：ヨエル書第2章v.11「magnus enim dies Domini（主の大いなる日は大きい）」という「主の日（dies Domini）」の終末論的実現として。ヴェイユ「La Violence」章の「力は人間を集め、消耗させ、破壊する」という命題が、「congregare illos in praelium（戦いに集める）」という集結の動詞として終末論的に体現される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Ecce venio sicut fur. Beatus qui vigilat, et custodit vestimenta sua, ne nudus ambulet, et videant turpitudinem ejus.",
+      "body": "「見よ、私は盗人のように来る（Ecce venio sicut fur）──目を覚ましている者は幸い（Beatus qui vigilat）──裸で歩くことなく（ne nudus ambulet）」──第16章唯一のキリスト的直接語りの挿入、Apocalypsis第二の「Beati（幸い）」宣言。「Ecce venio sicut fur（見よ、私は盗人のように来る）」：第3章v.3「veniam ad te tamquam fur（盗人のようにあなたのもとに来る）」というサルデスへの書簡の警告の反復として、七鉢の審判の只中に突然のキリスト的直接語りが挿入される。「sicut fur（盗人のように）」という比喩はマタイ福音書第24章v.43「si sciret paterfamilias qua hora fur veniret（主人が盗人がいつ来るか知っていたなら）」という来臨の時の不可知性の比喩の反響として。「Beatus qui vigilat（目を覚ましている者は幸い）」：第14章v.13の「Beati mortui（幸いな死者たち）」に続くApocalypsis第二の幸い宣言として。「ne nudus ambulet（裸で歩くことなく）」：Iob第1章v.21「Nudus egressus sum de utero matris meae, et nudus revertar（裸で母の胎から出た、裸で戻ろう）」というヨブの剥奪の定式が、第16章では「裸であること」を羞恥として避けるべき状態として逆説的に照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Et congregabit illos in locum qui vocatur hebraice Armagedon.",
+      "body": "「ヘブライ語でアルマゲドンと呼ばれる場所に集めた（congregabit illos in locum qui vocatur hebraice Armagedon）」──第16章の地名的頂点・最後の戦いの場所の命名。「Armagedon」：ヘブライ語「הַר מְגִדּוֹ（Har Megiddo：メギドの丘）」のギリシア語・ラテン語音訳。メギドはパレスチナの要衝で、旧約において多くの決戦が行われた地（士師記第5章のシセラとの戦い・列王記下第23章v.29のヨシヤ王の戦死等）。「Armagedon」はApocalypsis全体でここにのみ登場する固有名詞として、その象徴的重量が「qui vocatur hebraice（ヘブライ語で呼ばれる）」という言語的注記によって強調される。「congregabit illos in locum（その場所に集めた）」：v.14の「congregare illos in praelium（戦いに集める）」の場所的具体化として、汚れた霊の集結使命が特定の場所への集結として完結する。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という歴史の永続的循環が、「Armagedon」という一回性の最終決戦の場所によって終焉に至る。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "Et septimus angelus effudit phialam suam in aerem, et exivit vox magna de templo a throno, dicens: Factum est.",
+      "body": "「第七の天使が大気に鉢を注いだ（effudit phialam suam in aerem）──神殿の御座から大きな声が：成し遂げられた（Factum est）」──第16章・七鉢系列全体の頂点。「in aerem（大気に）」：地（v.2）・海（v.3）・川（v.4）・太陽（v.8）・獣の玉座（v.10）・ユーフラテス（v.12）という五つの自然・政治的次元に続き、第七の鉢が「aer（大気）」に注がれることで、宇宙的秩序の最後の次元が審判の対象となる。「Factum est（成し遂げられた）」：Apocalypsis全体で最も短く・最も重い宣言の一つ。第21章v.6「Factum est（成し遂げられた）」の新しい創造の完成宣言との双対を形成する──第16章の審判の完成と第21章の救済の完成が同一の「Factum est」という定式によって対称的に宣言される。ヨハネ福音書第19章v.30「consummatum est（成し遂げられた）」という十字架上のキリストの最後の言葉との共鳴として、受難の「成し遂げられた」と審判の「成し遂げられた」が照応する。マラルメ「骰子一擲（Coup de Dés）」の「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」という最終行と、「Factum est（成し遂げられた）」という一切の終焉宣言の対照として。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 18,
+      "type": "prosody",
+      "anchor": "terraemotus factus est magnus, qualis numquam fuit ex quo homines fuerunt super terram: talis terraemotus, sic magnus.",
+      "body": "「人間が地上に存在してから、かつてなかったほど大きな地震（qualis numquam fuit ex quo homines fuerunt super terram）──それほど大きかった（talis terraemotus, sic magnus）」──第16章の文体的頂点。「qualis numquam fuit ex quo homines fuerunt super terram（人間が地上に存在してから、かつてなかったほど）」：人類の存在全体を時間的地平として最上級化する構文──「ex quo homines fuerunt（人間が存在してから）」という人類史的参照が、地震の前例のない規模の根拠として機能する。「talis terraemotus, sic magnus（それほど大きな地震、かくも大きかった）」：「talis … sic（そのような……かくも）」という指示詞の重複が章の最大強度の文体的実演として機能する。第6章v.12「terraemotus magnus factus est（大地震が起きた）」という第六封印の地震・第8章v.5「terraemotus magnus（大地震）」という第一ラッパ前の地震という反復句が、第16章で「qualis numquam fuit（かつてなかったほど）」という絶対的最上級として到達される。Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」という大地の永続的安定性の命題が、「terraemotus magnus qualis numquam fuit（かつてなかったほどの大地震）」によって根底から否定される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Babylon magna venit in memoriam ante Deum, dare illi calicem vini indignationis irae ejus.",
+      "body": "「大バビロンは神の御前に思い起こされ（Babylon magna venit in memoriam ante Deum）──神の激しい怒りのぶどう酒の杯を受けた（dare illi calicem vini indignationis irae ejus）」──第16章の政治的・神学的核心：バビロンへの審判の実行。「civitas magna in tres partes（大きな都は三つに割れ）」：三分の一という分数が第8章の七ラッパ系列の標識であったのに対し、都が「三つ（tres partes）」に割れることは分割という物理的崩壊として機能する。「Babylon magna venit in memoriam ante Deum（大バビロンは神の御前に思い起こされた）」：「venit in memoriam（思い起こされた）」という記憶の動詞が、Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という人間的記憶の消滅の命題と対称をなす──人間的記憶では消えるものが、神的記憶においては確実に保持されるという逆転として。「calicem vini indignationis irae ejus（神の激しい怒りのぶどう酒の杯）」：第14章v.10「vinum irae Dei … in calice irae ipsius（神の怒りのぶどう酒……怒りの杯に）」の反復として、バビロンへの審判が怒りの杯の手渡しとして視覚的に形象化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Et omnis insula fugit, et montes non sunt inventi.",
+      "body": "「すべての島は逃げ去り（omnis insula fugit）──山々は消え去った（montes non sunt inventi）」──第16章で最も簡潔な節の一つ、宇宙的地形の消滅。「omnis insula fugit（すべての島は逃げ去った）」：第6章v.14「omnis mons, et insulae de locis suis motae sunt（すべての山と島はその場所から移動した）」という第六封印での形象が、第16章では「motae sunt（移動した）」から「fugit（逃げ去った）」という能動的・逃走的動詞へと強化される。「montes non sunt inventi（山々は消え去った・見出されなかった）」：「non inventi（見出されなかった）」という否定的受動形が山々の完全な消滅を間接的に表現する──探せど見つからないという視点的描写が消滅の絶対性を強調する。第6章v.16の「montibus et petris: Cadite super nos（山と岩に言った：私たちの上に崩れよ）」という人々の山への逃避的訴えが、第16章では「montes non sunt inventi（山々は見出されなかった）」という山の消滅として応答される──崩れてくれと頼んだ山が存在しなくなるという逆説的完結。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "grando magna sicut talentum descendit de caelo in homines: et blasphemaverunt Deum homines propter plagam grandinis: quoniam magna facta est vehementer.",
+      "body": "「一タラントほどの大きな雹が天から降った（grando magna sicut talentum descendit de caelo）──雹の災いのゆえに神を冒瀆した（blasphemaverunt Deum … propter plagam grandinis）──その災いは非常に激しかった（magna facta est vehementer）」──第16章の終結節にして第三の冒瀆の宣言。「grando magna sicut talentum（一タラントほどの大きな雹）」：一タラントは約34キログラム──ほぼ人間一人分の体重に相当する雹の形象が、第8章v.7「grando, et ignis mista in sanguine（血の混じった雹と火）」という七ラッパ第一の雹を重量的に極限まで強化した終末論的形象として機能する。「sicut talentum（タラントのように）」という計量的比喩が、「tamquam / sicut」の類比連鎖の最終的・物理的極限として、黙示録的形象における最大質量として提示される。「blasphemaverunt Deum homines propter plagam grandinis（雹の災いのゆえに神を冒瀆した）」：v.9・v.11に続く第三の冒瀆の宣言として、七鉢の審判全体を通じた不悔改・冒瀆という人間の一貫した応答が最終的に確認される。「quoniam magna facta est vehementer（その災いは非常に激しかったから）」：最後の「quoniam（なぜなら）」節が冒瀆の原因として雹の激しさを提示することで、苦悩がより大きくなるほど神への冒瀆が激しくなるという第16章全体の逆説的法則を章の末尾で確認する。Ecclesiastes第1章v.18「in multa sapientia multa sit indignatio（多くの知恵には多くの憤りがある）」という知識と憤りの比例関係が、第16章では「大きな苦悩と大きな冒瀆」という審判と反応の比例関係として終末論的に反響する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    }
+  ]
+}
