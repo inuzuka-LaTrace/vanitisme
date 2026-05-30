@@ -1,0 +1,379 @@
+{
+  "id": "hieronymus_apocalypsis_18",
+  "title": "Apocalypsis, Caput XVIII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XVIII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+18&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第18章。第17章で予告されたバビロンの崩壊が、第18章では壮大な挽歌（哀歌）と宣告の形式で展開される。章は三つの主要声部から構成される。第一の声部（v.1–8）：天から降る強力な天使によるバビロン陥落の宣言（「倒れた、倒れた」Cecidit, cecidit）・天からの別の声による神の民への「彼女から出よ（Exite de illa）」という離脱命令・罪の天への到達（peccata usque ad caelum）・応報的審判の命令（Reddite illi duplicia）。第二の声部（v.9–20）：三つの嘆き者グループによる哀歌（threnos）──地の王たちの嘆き（v.9–10）・商人たちの嘆き（v.11–16）・船乗り・海人たちの嘆き（v.17–19）。三者に共通する「Vae, vae civitas illa magna（災いあれ、災いあれあの大都市よ）」と「una hora（一時）」という定型句が反復される。第三の声部（v.20–24）：天へ向けた「喜べ（Exsulta）」の反転的宣言・強力な天使による石臼の海への投擲という視覚的終結・「non audietur amplius（もはや聞こえない）」という五重の沈黙の宣言（v.22–23）・殉教者の血の確認（v.24）。VANITISMEコーパスにおける位置づけ：第18章はApocalypsis全体で最も文学的・修辞的密度の高い章であり、「エレギア（哀歌）」的な詩的形式として機能する。エゼキエル書第26–27章（テュロスへの哀歌）の終末論的転用として、商品目録（v.12–13）という散文的・経済的具体性と「non audietur amplius（もはや聞こえない）」という詩的反復句が融合する。Ecclesiastes第1章の「afflictio spiritus（霊の苦悩）」・「Vanitas vanitatum」という虚無の定式が、第18章では「una hora desolata est（一時のうちに廃れた）」という経済的・政治的豪奢の瞬時の消滅として最も具体的に体現される。v.22–23の「non … amplius（もはや……ない）」という五重の否定的沈黙は、マラルメ「骰子一擲（Coup de Dés）」のページ上の沈黙との最も直接的な照応を担う。",
+  "keywords": [
+    "Cecidit cecidit Babylon magna",
+    "habitatio daemoniorum",
+    "Exite de illa populus meus",
+    "peccata usque ad caelum",
+    "duplicate duplicia",
+    "Sedeo regina",
+    "una hora",
+    "Vae vae civitas magna",
+    "merces animarum hominum",
+    "lapis molaris",
+    "non audietur amplius",
+    "lux lucernae non lucebit",
+    "vox sponsi et sponsae",
+    "sanguis prophetarum"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_17",
+    "hieronymus_apocalypsis_16",
+    "hieronymus_apocalypsis_14",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_necessite",
+    "weil_accepter_le_vide",
+    "mallarme_coup_de_des",
+    "rodenbach_du_silence",
+    "baudelaire_spleen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et post haec vidi alium angelum descendentem de caelo, habentem potestatem magnam: et terra illuminata est a gloria ejus.",
+      "provisionalTranslation": "この後、私は別の大きな権能を持つ天使が天から降ってくるのを見た。地は彼の栄光によって照らされた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et exclamavit in fortitudine, dicens: Cecidit, cecidit Babylon magna: et facta est habitatio daemoniorum, et custodia omnis spiritus immundi, et custodia omnis volucris immundae, et odibilis:",
+      "provisionalTranslation": "この天使は力強く叫んで言った。「倒れた、倒れた大バビロンは。悪霊どもの住処、あらゆる汚れた霊の牢獄、あらゆる汚れて忌まわしい鳥の牢獄となった。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "quia de vino irae fornicationis ejus biberunt omnes gentes: et reges terrae cum illa fornicati sunt: et mercatores terrae de virtute deliciarum ejus divites facti sunt.",
+      "provisionalTranslation": "「すべての国民がバビロンの淫行の怒りのぶどう酒を飲んだからである。地の王たちはバビロンと淫行を行い、地の商人たちはバビロンの豊かな贅沢によって富を得た。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et audivi aliam vocem de caelo, dicentem: Exite de illa populus meus: ut ne participes sitis delictorum ejus, et de plagis ejus non accipiatis.",
+      "provisionalTranslation": "私は天から別の声が言うのを聞いた。「わが民よ、彼女から出よ。彼女の罪に加わることなく、彼女の災いを受けないように。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Quoniam pervenerunt peccata ejus usque ad caelum, et recordatus est Dominus iniquitatum ejus.",
+      "provisionalTranslation": "「彼女の罪は天にまで届いており、神は彼女の不義を思い起こされた。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Reddite illi sicut et ipsa reddidit vobis: et duplicate duplicia secundum opera ejus: in poculo, quo miscuit, miscete illi duplum.",
+      "provisionalTranslation": "「彼女があなたがたにしたようにしてやれ。彼女の行いに従って二倍にして返せ。彼女が混ぜて作った杯に、二倍にして注いでやれ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Quantum glorificavit se, et in deliciis fuit, tantum date illi tormentum et luctum: quia in corde suo dicit: Sedeo regina: et vidua non sum, et luctum non videbo.",
+      "provisionalTranslation": "「彼女が自分を栄耀栄華させ、贅沢を楽しんだのと同じだけ、苦しみと嘆きを与えよ。彼女は心の中でこう言っているからである。『私は女王として座っている。やもめではなく、嘆きを見ることもない。』」"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Ideo in una die venient plagae ejus, mors, et luctus, et fames, et igne comburetur: quia fortis est Deus, qui judicabit illam.",
+      "provisionalTranslation": "「それゆえ一日のうちに彼女への災いが来る。死と嘆きと飢えが。そして彼女は火で焼かれる。彼女を裁く神は強いからである。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et flebunt, et plangent se super illam reges terrae, qui cum illa fornicati sunt, et in deliciis vixerunt, cum viderint fumum incendii ejus:",
+      "provisionalTranslation": "地の王たちは、バビロンと淫行を行い、贅沢の中に生きた者たちは、バビロンの炎の煙を見て、バビロンのことで泣き嘆くであろう。"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "longe stantes propter timorem tormentorum ejus, dicentes: Vae, vae civitas illa magna Babylon, civitas illa fortis: quoniam una hora venit judicium tuum.",
+      "provisionalTranslation": "彼らは苦しみを恐れて遠くに立ち、言う。「災いあれ、災いあれ、あの大都市バビロン、あの強い都市よ。一時のうちにあなたへの裁きが来た。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et negotiatores terrae flebunt, et lugebunt super illam: quoniam merces eorum nemo emet amplius:",
+      "provisionalTranslation": "地の商人たちはバビロンのことで泣き悲しむであろう。もう誰も彼らの商品を買う者がいないからである。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "merces auri, et argenti, et lapidis pretiosi, et margaritae, et byssi, et purpurae, et serici, et cocci (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et aeramento, et ferro, et marmore,",
+      "provisionalTranslation": "金、銀、宝石、真珠、亜麻布、紫の布、絹、緋色の布（あらゆるシタの木材、あらゆる象牙の器、あらゆる宝石・青銅・鉄・大理石の器、"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et cinnamomum) et odoramentorum, et unguenti, et thuris, et vini, et olei, et similae, et tritici, et jumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.",
+      "provisionalTranslation": "シナモン）、香料、香膏、乳香、ぶどう酒、オリーブ油、小麦粉、小麦、家畜、羊、馬、馬車、奴隷、そして人間の魂の商品。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et poma desiderii animae tuae discesserunt a te, et omnia pinguia et praeclara perierunt a te, et amplius illa jam non invenient.",
+      "provisionalTranslation": "「あなたの魂が欲したみずみずしい果実はあなたから消え去り、すべての豊かで輝かしいものはあなたから消え失せた。もう決してそれらを見出すことはない。」"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Mercatores horum, qui divites facti sunt, ab ea longe stabunt propter timorem tormentorum ejus, flentes, ac lugentes,",
+      "provisionalTranslation": "これらのものによって富を得た商人たちは、苦しみを恐れてバビロンから遠くに立ち、泣き悲しんで、"
+    },
+    {
+      "id": 16,
+      "verses": "v.16",
+      "original": "et dicentes: Vae, vae civitas illa magna, quae amicta erat bysso, et purpura, et cocco, et deaurata erat auro, et lapide pretioso, et margaritis:",
+      "provisionalTranslation": "言う。「災いあれ、災いあれ、あの大都市よ。亜麻布、紫、緋色の衣をまとい、金と宝石と真珠で飾られていたのに。」"
+    },
+    {
+      "id": 17,
+      "verses": "v.17",
+      "original": "quoniam una hora destitutae sunt tantae divitiae, et omnis gubernator, et omnis qui in lacum navigat, et nautae, et qui in mari operantur, longe steterunt,",
+      "provisionalTranslation": "「一時のうちにかくも大きな富が廃れた。」すべての船長、港に向かうすべての船乗り、水夫たち、海で働く者たちは遠くに立ち、"
+    },
+    {
+      "id": 18,
+      "verses": "v.18",
+      "original": "et clamaverunt videntes locum incendii ejus, dicentes: Quae similis civitati huic magnae?",
+      "provisionalTranslation": "炎上する場所を見て叫んだ。「この大都市のような都市がほかにあろうか。」"
+    },
+    {
+      "id": 19,
+      "verses": "v.19",
+      "original": "et miserunt pulverem super capita sua, et clamaverunt flentes, et lugentes, dicentes: Vae, vae civitas illa magna, in qua divites facti sunt omnes, qui habebant naves in mari de pretiis ejus: quoniam una hora desolata est.",
+      "provisionalTranslation": "彼らは頭に塵をかぶり、泣き嘆きながら叫んで言った。「災いあれ、災いあれ、あの大都市よ。海に船を持つすべての者がその豊かさによって富んだのに。一時のうちに荒廃してしまった。」"
+    },
+    {
+      "id": 20,
+      "verses": "v.20",
+      "original": "Exsulta super eam caelum, et sancti apostoli, et prophetae: quoniam judicavit Deus judicium vestrum de illa.",
+      "provisionalTranslation": "天よ、聖なる使徒たちよ、預言者たちよ、バビロンのことで喜び歌え。神があなたがたのためにバビロンを裁かれたからだ。"
+    },
+    {
+      "id": 21,
+      "verses": "v.21",
+      "original": "Et sustulit unus angelus fortis lapidem quasi molarem magnum, et misit in mare, dicens: Hoc impetu mittetur Babylon civitas illa magna, et ultra jam non invenietur.",
+      "provisionalTranslation": "一人の力ある天使が大きな石臼のような石を持ち上げ、海に投げ込んで言った。「大都市バビロンはこのような勢いで投げ込まれ、もう決して見出されることはないだろう。」"
+    },
+    {
+      "id": 22,
+      "verses": "v.22",
+      "original": "Et vox citharoedorum, et musicorum, et tibia canentium, et tuba non audietur in te amplius: et omnis artifex omnis artis non invenietur in te amplius: et vox molae non audietur in te amplius:",
+      "provisionalTranslation": "「竪琴弾き、音楽家、笛吹き、ラッパ吹きの声は、もはやあなたの中に聞こえることはないだろう。あらゆる職人、あらゆる技の職人はもはやあなたの中に見出されることはないだろう。臼の音はもはやあなたの中に聞こえることはないだろう。」"
+    },
+    {
+      "id": 23,
+      "verses": "v.23",
+      "original": "et lux lucernae non lucebit in te amplius: et vox sponsi et sponsae non audietur adhuc in te: quia mercatores tui erant principes terrae, quia in veneficiis tuis erraverunt omnes gentes.",
+      "provisionalTranslation": "「灯火の光はもはやあなたの中に輝くことはないだろう。花婿と花嫁の声はもはやあなたの中に聞こえることはないだろう。あなたの商人たちは地の有力者たちであったから。あなたの妖術によってすべての国民が惑わされたからである。」"
+    },
+    {
+      "id": 24,
+      "verses": "v.24",
+      "original": "Et in ea sanguis prophetarum et sanctorum inventus est: et omnium qui interfecti sunt in terra.",
+      "provisionalTranslation": "バビロンの中に預言者たちと聖徒たちの血が、また地上で殺されたすべての者たちの血が見出された。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "alium angelum descendentem de caelo, habentem potestatem magnam: et terra illuminata est a gloria ejus.",
+      "body": "「別の大きな権能を持つ天使が天から降ってくる（angelum descendentem de caelo, habentem potestatem magnam）──地は彼の栄光によって照らされた（terra illuminata est a gloria ejus）」──第18章の開口部として天使の下降と光の充満が対比的に提示される。「habentem potestatem magnam（大きな権能を持つ）」：第17章の七鉢天使とは区別された「alium（別の）」天使として、この天使の独自の権能の大きさが強調される。「terra illuminata est a gloria ejus（地は彼の栄光によって照らされた）」：エゼキエル書第43章v.2「et terra splendebat a gloria ejus（地は神の栄光によって輝いた）」という神の栄光の神殿への帰還の終末論的反響として。ただし第18章では天使の「gloria（栄光）」が地を照らすことで、神的委任を受けた天使の宣言の権威が視覚的に確立される。Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的光に対し、「terra illuminata est a gloria ejus（地は天使の栄光によって照らされた）」という一回的・終末的光の到来として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Cecidit, cecidit Babylon magna: et facta est habitatio daemoniorum, et custodia omnis spiritus immundi, et custodia omnis volucris immundae, et odibilis:",
+      "body": "「倒れた、倒れた大バビロン（Cecidit, cecidit Babylon magna）──悪霊どもの住処（habitatio daemoniorum）──汚れた霊の牢獄（custodia omnis spiritus immundi）──汚れて忌まわしい鳥の牢獄（custodia omnis volucris immundae）」──第18章の宣言部の開口。「Cecidit, cecidit（倒れた、倒れた）」：第14章v.8・第16章v.19での予告的宣言の第三の反復として、いよいよ陥落の具体的内容が展開される。イザヤ書第21章v.9の直接引用として確立されたこの定式が、ここでは陥落後の状態の叙述へと移行する。「habitatio daemoniorum（悪霊どもの住処）」・「custodia omnis spiritus immundi（汚れた霊の牢獄）」・「custodia omnis volucris immundae（汚れた鳥の牢獄）」：三重の並行定式が廃墟化したバビロンの荒廃的空虚を描写する。イザヤ書第13章v.21–22「sedebunt ibi bestiae … et daemonia saltabunt ibi（そこに野の獣が住み……悪霊どもがそこで踊る）」・同第34章v.11–14のエドムへの審判的荒廃描写の終末論的集成として。「volucris immundae et odibilis（汚れて忌まわしい鳥）」：レビ記第11章の「汚れた鳥」カテゴリーが廃墟の住人として集合的に登場する。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "de vino irae fornicationis ejus biberunt omnes gentes: et reges terrae cum illa fornicati sunt: et mercatores terrae de virtute deliciarum ejus divites facti sunt.",
+      "body": "「すべての国民がバビロンの淫行の怒りのぶどう酒を飲んだ（biberunt omnes gentes）──地の王たちはバビロンと淫行を行い（reges terrae cum illa fornicati sunt）──地の商人たちは豊かな贅沢によって富を得た（mercatores terrae de virtute deliciarum ejus divites facti sunt）」──バビロンの三種の関係者の定式。「omnes gentes・reges terrae・mercatores terrae」という三区分が、陥落宣言の根拠として提示される──第14章v.8の「Cecidit Babylon」先取り宣言から、第18章では「omnes gentes / reges / mercatores」という三重の関与性の具体化として。「mercatores terrae de virtute deliciarum ejus divites facti sunt（商人たちはバビロンの豊かな贅沢によって富を得た）」：「mercatores（商人）」という語が第18章の中心的語彙として導入される──v.11・v.15・v.23と「商人」のモチーフが章全体を貫く構造的反復として。「virtute deliciarum ejus（豊かな贅沢）」：「virtus（力・徳）」という語が「贅沢（deliciae）」の修飾語として用いられることで、豪奢の力という皮肉な組み合わせが生まれる。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Exite de illa populus meus: ut ne participes sitis delictorum ejus, et de plagis ejus non accipiatis.",
+      "body": "「わが民よ、彼女から出よ（Exite de illa populus meus）──彼女の罪に加わることなく（ut ne participes sitis delictorum ejus）──彼女の災いを受けないように（de plagis ejus non accipiatis）」──第18章唯一の「神の民への命令」。「Exite de illa（彼女から出よ）」：イザヤ書第48章v.20「Egredimini de Babylone（バビロンから出よ）」・エレミヤ書第51章v.6「Fugite de medio Babylonis（バビロンの真ん中から逃げよ）」という旧約的「バビロンからの脱出」命令の終末論的実現として。「populus meus（わが民よ）」：神が自分の民に直接語りかける呼格が、第18章の宣告の声部の中で唯一の神的一人称的語りかけとして機能する──審判の宣告の中に挿入された救済的命令として。「participes sitis delictorum ejus（彼女の罪に加わること）」：「participes（加わる者・共有者）」という語が共同責任の神学的問題を提起する──物理的離脱（Exite）が霊的・道徳的共有（participes）からの分離として定式化される。ヴェイユ「Accepter le vide」の「世界からの引き離し」という脱創造的主題が、「Exite de illa（彼女から出よ）」という離脱命令の神学的等価物として照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Quoniam pervenerunt peccata ejus usque ad caelum, et recordatus est Dominus iniquitatum ejus.",
+      "body": "「彼女の罪は天にまで届いた（pervenerunt peccata ejus usque ad caelum）──神は彼女の不義を思い起こされた（recordatus est Dominus iniquitatum ejus）」──「Exite」命令の理由節として、バビロンへの審判の二つの根拠を提示する。「pervenerunt peccata ejus usque ad caelum（罪は天にまで届いた）」：創世記第11章v.4「turrim, cujus culmen pertingat ad caelum（頂きが天に届く塔）」というバベルの塔のモチーフの終末論的反復として──人間的傲慢の象徴としてのバベル塔が、第18章では「罪（peccata）」の累積的上昇として実現する。「recordatus est Dominus iniquitatum ejus（神は彼女の不義を思い起こされた）」：第16章v.19「Babylon magna venit in memoriam ante Deum（大バビロンは神の御前に思い起こされた）」という「記憶（memoria）」の反復として──「in memoriam venit（思い起こされた）」から「recordatus est（思い起こされた）」という動詞的確認へ。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という人間的記憶の消滅の命題に対し、「recordatus est Dominus（神は思い起こされた）」という神的記憶の持続が対置される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Reddite illi sicut et ipsa reddidit vobis: et duplicate duplicia secundum opera ejus: in poculo, quo miscuit, miscete illi duplum.",
+      "body": "「彼女があなたがたにしたようにしてやれ（Reddite illi sicut et ipsa reddidit vobis）──二倍にして返せ（duplicate duplicia）──彼女が混ぜた杯に二倍を（in poculo, quo miscuit, miscete illi duplum）」──応報的命令の定式。「Reddite illi sicut … reddidit vobis（彼女がしたようにしてやれ）」：「Reddere（返す）」という動詞が応報的同等性の根拠として機能する──「sicut（〜のように）」という等価的接続が鏡像的報復の論理を確立する。「duplicate duplicia（二倍にして二倍を）」：「duplicia（二倍の）」という形容詞と「duplicate（二倍にせよ）」という命令動詞のポリュプトトンが応報の強度の二重化を文体的に実演する。「in poculo, quo miscuit, miscete illi duplum（彼女が混ぜた杯に、二倍を混ぜよ）」：第17章v.4「poculum aureum … plenum abominatione（忌まわしいもので満ちた金の杯）」という淫婦の杯が、第18章では「彼女が混ぜた（miscuit）」という過去の行為を根拠とした「二倍（duplum）」の返報として転用される。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quantum glorificavit se, et in deliciis fuit, tantum date illi tormentum et luctum: quia in corde suo dicit: Sedeo regina: et vidua non sum, et luctum non videbo.",
+      "body": "「彼女が自分を栄耀栄華させ贅沢を楽しんだのと同じだけ、苦しみと嘆きを与えよ（Quantum … tantum）──心の中でこう言っている：女王として座っている（Sedeo regina）──やもめではなく（vidua non sum）──嘆きを見ることもない（luctum non videbo）」──第18章の傲慢の定式、バビロンの自己宣言の三つの否定。「Quantum … tantum（〜だけ……〜だけ）」：比例的等価性を示す相関接続詞が応報の正確な対称性を定式化する。「Sedeo regina（私は女王として座っている）」：イザヤ書第47章v.7–8「Et dixisti: In sempiternum ero domina … ego sum, et non est praeter me amplius（私は永遠に女主人……私は私であり、私の他には誰もない）」というバビロン（第二イザヤ）の傲慢の終末論的反復として。「vidua non sum（やもめではない）」・「luctum non videbo（嘆きを見ることもない）」：この二つの否定が、v.8「mors, et luctus, et fames（死と嘆きと飢え）」という三つの審判によって直接的に反転される──「見ることもない」と言ったものが実現する逆説。Ecclesiastes第1章v.2「Vanitas vanitatum（虚無の虚無）」という最高級の虚無の定式が、「Sedeo regina（女王として座っている）」という最高級の傲慢の宣言の背後に潜む虚無として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Ideo in una die venient plagae ejus, mors, et luctus, et fames, et igne comburetur: quia fortis est Deus, qui judicabit illam.",
+      "body": "「一日のうちに彼女への災いが来る（in una die venient plagae ejus）──死と嘆きと飢えが（mors, et luctus, et fames）──彼女は火で焼かれる（igne comburetur）──彼女を裁く神は強い（fortis est Deus, qui judicabit illam）」──審判の時間的凝縮と内容の定式化。「in una die（一日のうちに）」：v.10「una hora venit judicium tuum（一時のうちに裁きが来た）」・v.17「una hora destitutae sunt tantae divitiae（一時のうちに大きな富が廃れた）」・v.19「una hora desolata est（一時のうちに荒廃した）」という「una hora（一時）」の反復的モチーフの起点として。「一日（dies）」から「一時（hora）」への時間的圧縮が章を通じて進行する。「mors, et luctus, et fames（死と嘆きと飢え）」：第6章v.8の青白馬の騎者への「gladio, fame, et morte（剣・飢え・死）」という四騎士的審判の三項への凝縮として。「quia fortis est Deus（神は強いから）」という理由節が、v.7「Sedeo regina（私は女王として座っている）」というバビロンの傲慢に対する神的権能の対置として機能する。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Et flebunt, et plangent se super illam reges terrae, qui cum illa fornicati sunt, et in deliciis vixerunt, cum viderint fumum incendii ejus:",
+      "body": "「地の王たちは泣き嘆くであろう（flebunt, et plangent se super illam reges terrae）──炎の煙を見て（cum viderint fumum incendii ejus）」──三嘆き者の第一グループ（v.9–10）の導入。「flebunt, et plangent se（泣き嘆く）」：「flebunt（泣く）」と「plangent se（胸を叩く・嘆く）」という二動詞の連結が哀悼の二重性を示す。「super illam（バビロンのことで）」という前置詞句が哀悼の対象を指定する──自分自身の損失への嘆きと区別された対象的哀悼として。「fumum incendii ejus（炎の煙）」：第14章v.11「fumus tormentorum eorum ascendet in saecula saeculorum（責め苦の煙は永遠に昇る）」という審判される者たちの煙と対称的に、第18章では「炎の煙（fumus incendii）」がバビロンの崩壊を視覚的に確認する証拠として機能する。第19章v.3でも「fumus ejus ascendit in saecula saeculorum（煙は永遠に昇り続ける）」という反復として、バビロンの煙がApocalypsis終末部の持続的視覚的形象として機能する。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "longe stantes propter timorem tormentorum ejus, dicentes: Vae, vae civitas illa magna Babylon, civitas illa fortis: quoniam una hora venit judicium tuum.",
+      "body": "「苦しみを恐れて遠くに立ち（longe stantes propter timorem tormentorum ejus）──Vae, vae civitas illa magna Babylon（災いあれ、災いあれあの大都市バビロン）──una hora venit judicium tuum（一時のうちにあなたへの裁きが来た）」──第一嘆き（地の王たち）の直接話法。「longe stantes（遠くに立ち）」：第18章の三嘆き者グループ全体に共通する「遠距離」という態度として──v.10「longe stantes」・v.15「ab ea longe stabunt」・v.17「longe steterunt」という「距離（longe）」の三重反復が、バビロン崩壊の傍観的・恐怖的性格を構造化する。「Vae, vae（災いあれ、災いあれ）」：第8章v.13の鷲による「Vae, vae, vae（三重の禍）」という三重宣言が、第18章では「二重の禍（Vae, vae）」として嘆き者たちの口から発せられる──宣告の「三重（Vae, vae, vae）」が嘆きの「二重（Vae, vae）」へと変容する。「una hora venit judicium tuum（一時のうちに裁きが来た）」：第17章v.12「una hora accipient（一時の間受ける）」という王たちの短い権能との照応として、「una hora」という極小時間が栄枯の瞬時性を定式化する。",
+      "targetId": "hieronymus_apocalypsis_8",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Et negotiatores terrae flebunt, et lugebunt super illam: quoniam merces eorum nemo emet amplius:",
+      "body": "「地の商人たちは泣き悲しむであろう（negotiatores terrae flebunt, et lugebunt super illam）──もう誰も彼らの商品を買う者がいない（merces eorum nemo emet amplius）」──第二嘆き者（商人たち）の導入。「negotiatores terrae（地の商人たち）」：v.3「mercatores terrae（地の商人たち）」の反復として「negotiatores（交渉者・商人）」という別語が導入される──「mercatores」と「negotiatores」の語彙的バリエーションが商業的世界の多層性を示す。「nemo emet amplius（もう誰も買う者がいない）」：「amplius（もはや）」という副詞が第18章後半（v.21–23）の「non … amplius（もはや……ない）」という沈黙の連鎖の先取りとして機能する。「merces eorum（彼らの商品）」：v.12–13の商品目録への導入として、「商品（merces）」という語が商業的世界全体の象徴として提示される。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という地上的労苦への問いが、「nemo emet amplius（もう誰も買わない）」という商業的虚無として終末論的に体現される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "merces auri, et argenti, et lapidis pretiosi, et margaritae, et byssi, et purpurae, et serici, et cocci",
+      "body": "「金、銀、宝石、真珠（merces auri, et argenti, et lapidis pretiosi, et margaritae）──亜麻布、紫の布、絹、緋色の布（byssi, et purpurae, et serici, et cocci）」──商品目録の第一段（貴金属・宝石・高級繊維）。第18章v.12–13の商品目録はエゼキエル書第27章のテュロスへの哀歌における商品目録（v.12–22）の終末論的転用として、古代地中海世界の交易品の包括的列挙として機能する。「auri, et argenti（金・銀）」：バロック期ヴァニタス絵画における「金貨・銀貨」の頻出モチーフとして、価値の象徴が消滅することの形象。「purpurae, et serici（紫の布・絹）」：第17章v.4「circumdata purpura, et coccino（紫と緋色の衣をまとった）」という淫婦の衣装が、第18章では商品目録の一項目として経済的次元に落とし込まれる。これら高価な布地・繊維の列挙が、第18章全体の経済的・貿易的語彙の集中として機能し、バビロンの「豪奢（deliciae）」が具体的商品として可視化される。Ecclesiastes第1章v.2「Vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無）」という定式が、この商品目録全体の上位注釈として潜在する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "et cinnamomum) et odoramentorum, et unguenti, et thuris, et vini, et olei, et similae, et tritici, et jumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.",
+      "body": "「シナモン、香料、香膏、乳香、ぶどう酒、オリーブ油、小麦粉、小麦、家畜、羊、馬、馬車（cinnamomum, odoramentorum, unguenti, thuris, vini, olei, similae, tritici, jumentorum, ovium, equorum, rhedarum）──奴隷、そして人間の魂（mancipiorum, et animarum hominum）」──商品目録の第二段・第三段（食料・香料・生き物・人間）。目録の終結に置かれた「mancipiorum, et animarum hominum（奴隷、そして人間の魂）」：「mancipia（奴隷）」という法的所有物としての人間と「animae hominum（人間の魂）」という人格的・霊的存在としての人間の並列が、第18章の最も衝撃的な一行として機能する。商品目録の最末尾に「人間の魂（animae hominum）」が置かれることで、物品の列挙が人格の商品化という究極的暴力へと収束する。エゼキエル書第27章v.13「et animas hominum et vasa aerea dederunt pro mercibus tuis（人間の魂と青銅の器をあなたへの商品として与えた）」の終末論的反復として。ヴェイユ「La Violence」章の「力は人間を物に変える」という命題が、「animarum hominum（人間の魂）」の商品化として最も具体的に体現される。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et poma desiderii animae tuae discesserunt a te, et omnia pinguia et praeclara perierunt a te, et amplius illa jam non invenient.",
+      "body": "「あなたの魂が欲したみずみずしい果実はあなたから消え去り（poma desiderii animae tuae discesserunt a te）──すべての豊かで輝かしいものはあなたから消え失せた（omnia pinguia et praeclara perierunt a te）──もう決してそれらを見出すことはない（amplius illa jam non invenient）」──商品目録からバビロンへの直接的な哀悼的呼びかけへの転換。「poma desiderii animae tuae（あなたの魂が欲した果実）」：「desiderii（欲望の）」という属格が「魂（anima）」の深い渇望を示す──「animae hominum（人間の魂）」が商品として売買された後（v.13）、「animae tuae（あなたの魂）」の欲望の果実が消滅するという逆転的照応として。「omnia pinguia et praeclara perierunt a te（すべての豊かで輝かしいものはあなたから消え失せた）」：「pinguia（豊かな・肥沃な）」と「praeclara（輝かしい・著名な）」という二形容詞の連結が、物質的豊かさと精神的名声の両方の喪失を網羅する。「amplius illa jam non invenient（もう決してそれらを見出すことはない）」：v.21–23の「non … amplius（もはや……ない）」連鎖の先取りとして、「jam non（もはや……ない）」という決定的喪失の定式が商品世界全体の消滅として宣言される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "Mercatores horum, qui divites facti sunt, ab ea longe stabunt propter timorem tormentorum ejus, flentes, ac lugentes,",
+      "body": "「これらのものによって富を得た商人たちは（Mercatores horum, qui divites facti sunt）──苦しみを恐れてバビロンから遠くに立ち（ab ea longe stabunt propter timorem tormentorum ejus）──泣き悲しんで（flentes, ac lugentes）」──第二嘆き者グループ（商人）の哀悼姿勢の描写。「ab ea longe stabunt（遠くに立つ）」：v.10「longe stantes（遠くに立ち）」という地の王たちの距離と同一の姿勢として、「longe（遠く）」という距離の形容詞が第二嘆き者グループに繰り返される。「qui divites facti sunt（富を得た者たち）」：v.3「divites facti sunt（富を得た）」の反復として、バビロンとの経済的共依存関係が「富の取得（divites facti sunt）」という同一定式で括られる。「flentes, ac lugentes（泣き悲しんで）」：v.9の「flebunt, et plangent se（泣き嘆く）」に対応する現在分詞的描写として、嘆きの継続的・現在進行的性格が強調される──王たちの「嘆き（flebunt・plangent）」が未来形であるのに対し、商人たちの「泣き悲しみ（flentes・lugentes）」は現在分詞として同時進行的に描かれる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "et dicentes: Vae, vae civitas illa magna, quae amicta erat bysso, et purpura, et cocco, et deaurata erat auro, et lapide pretioso, et margaritis:",
+      "body": "「Vae, vae civitas illa magna（災いあれ、災いあれあの大都市よ）──亜麻布、紫、緋色の衣をまとい（amicta erat bysso, et purpura, et cocco）──金と宝石と真珠で飾られていた（deaurata erat auro, et lapide pretioso, et margaritis）」──商人たちの哀悼直接話法の開始。「Vae, vae civitas illa magna（災いあれ、災いあれあの大都市よ）」：v.10の王たちの「Vae, vae civitas illa magna Babylon（災いあれ、大都市バビロン）」と同型の定型句の反復として、三嘆き者グループの「Vae, vae」という接続的定式が章全体の悲歌的骨格を形成する。「amicta erat bysso, et purpura, et cocco（亜麻布・紫・緋色の衣をまとっていた）」：第17章v.4「circumdata purpura, et coccino（紫と緋色の衣をまとった）」という淫婦の衣装の描写が、第18章では「erat（〜であった）」という過去形によって喪失の時制として語り直される──現在の描写が過去の回想へと変換される哀悼的文体として。「deaurata erat auro（金で飾られていた）」：「erat（〜であった）」という未完了過去の反復が、かつての豊かさの時間的距離を強調する。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "quoniam una hora destitutae sunt tantae divitiae, et omnis gubernator, et omnis qui in lacum navigat, et nautae, et qui in mari operantur, longe steterunt,",
+      "body": "「一時のうちにかくも大きな富が廃れた（una hora destitutae sunt tantae divitiae）──すべての船長、港に向かう船乗り、水夫たち、海で働く者たちは遠くに立ち（longe steterunt）」──「una hora」の第二反復と第三嘆き者グループ（船人たち）の導入。「una hora destitutae sunt tantae divitiae（一時のうちにかくも大きな富が廃れた）」：v.10「una hora venit judicium tuum（一時のうちに裁きが来た）」・v.8「in una die venient plagae ejus（一日のうちに災いが来る）」という時間的圧縮の第二段として。「tantae divitiae（かくも大きな富）」という感嘆的規模の強調と「una hora（一時）」という時間の極小性の対比が、ヴァニタスの文学的定式として機能する。Ecclesiastes第1章v.2「Vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無）」という定式が「una hora destitutae sunt tantae divitiae」という経済的瞬時崩壊として最も具体的に例示される。「omnis gubernator, et omnis qui in lacum navigat, et nautae（すべての船長、港に向かう者、水夫たち）」：第三の嘆き者グループを「海（mari）」に関わる三種の職業人として具体化する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "et clamaverunt videntes locum incendii ejus, dicentes: Quae similis civitati huic magnae?",
+      "body": "「炎上する場所を見て叫んだ（clamaverunt videntes locum incendii ejus）──この大都市のような都市がほかにあろうか（Quae similis civitati huic magnae）」──船人たちの哀悼の第一声。「videntes locum incendii ejus（炎上する場所を見て）」：v.9「cum viderint fumum incendii ejus（炎の煙を見た）」という王たちの「視覚（videntes）」との並行として、「見ること（visio）」が嘆きの引き金として三嘆き者グループ全体に共通する構造的要素として機能する。「Quae similis civitati huic magnae（この大都市のような都市がほかにあろうか）」：第13章v.4「Quis similis bestiae（誰が獣と同じか）」という獣への冒瀆的賛美の形式が、第18章では崩壊しつつある都市への哀惜的賛嘆として反転される──「誰が〜のようか（Quis / Quae similis）」という修辞的問いが神への賛美（出エジプト記第15章）・獣への礼拝（第13章）・バビロンへの哀悼（第18章）という三文脈で展開する。エゼキエル書第27章v.32「Quae similis Tyro（誰がテュロスのようか）」というテュロスへの哀歌の定型句の終末論的反復として。",
+      "targetId": "hieronymus_apocalypsis_15",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 19,
+      "type": "prosody",
+      "anchor": "et miserunt pulverem super capita sua, et clamaverunt flentes, et lugentes, dicentes: Vae, vae civitas illa magna, in qua divites facti sunt omnes, qui habebant naves in mari de pretiis ejus: quoniam una hora desolata est.",
+      "body": "「頭に塵をかぶり（miserunt pulverem super capita sua）──Vae, vae civitas illa magna（災いあれ、災いあれあの大都市よ）──una hora desolata est（一時のうちに荒廃した）」──第三嘆き者（船人）の哀悼の定型句的完結・「una hora」の第三反復。「miserunt pulverem super capita sua（頭に塵をかぶった）」：ヨシュア記第7章v.6「et tetenderunt super capita sua pulverem（頭の上に塵をかぶった）」・エゼキエル書第27章v.30「et mittent pulverem supra caput suum（頭の上に塵をかぶる）」というテュロスへの哀歌の直接引用として、古代近東の哀悼儀礼が終末論的哀悼として反復される。Iob第2章v.12「spreverunt pulverem super capita sua（頭に塵をかぶった）」というヨブの友人たちの哀悼儀礼との照応として。「Vae, vae civitas illa magna（災いあれ、災いあれあの大都市よ）」：v.10（王）・v.16（商人）に続く第三の「Vae, vae」として、三嘆き者グループの悲歌的定型句が完結される。「una hora desolata est（一時のうちに荒廃した）」：v.10「una hora venit judicium tuum」・v.17「una hora destitutae sunt tantae divitiae」に続く「una hora」の第三・最終反復として、章全体の「una hora」という時間的圧縮のモチーフが完結される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Exsulta super eam caelum, et sancti apostoli, et prophetae: quoniam judicavit Deus judicium vestrum de illa.",
+      "body": "「天よ、聖なる使徒たちよ、預言者たちよ、バビロンのことで喜び歌え（Exsulta super eam caelum, et sancti apostoli, et prophetae）──神があなたがたのためにバビロンを裁かれた（judicavit Deus judicium vestrum de illa）」──三嘆き者の哀悼から天上的喜びへの反転的転換点。「Exsulta（喜び歌え）」：v.9の「flebunt, et plangent se（泣き嘆く）」・v.11「flebunt, et lugebunt（泣き悲しむ）」・v.15「flentes, ac lugentes（泣き悲しんで）」という三嘆き者グループの「泣き（flebunt / flentes）」に対し、「Exsulta（喜び歌え）」という歓喜の命令が正反対の感情的応答として提示される。「caelum, et sancti apostoli, et prophetae（天・聖なる使徒たち・預言者たち）」：v.9–19の地上的嘆き者（王・商人・船人）との対称として、天上的喜び者（天・使徒・預言者）が提示される。「judicium vestrum（あなたがたのための裁き）」：第6章v.10「Usquequo Domine, non judicas, et non vindicas sanguinem nostrum（いつまで裁きと復讐をしないのですか）」という殉教者の訴えへの応答として、「judicium vestrum（あなたがたのための裁き）」という裁きの受益者規定が確認される。",
+      "targetId": "hieronymus_apocalypsis_6",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 21,
+      "type": "glossary",
+      "anchor": "Et sustulit unus angelus fortis lapidem quasi molarem magnum, et misit in mare, dicens: Hoc impetu mittetur Babylon civitas illa magna, et ultra jam non invenietur.",
+      "body": "「一人の力ある天使が大きな石臼のような石を持ち上げ、海に投げ込んだ（lapidem quasi molarem magnum, et misit in mare）──もう決して見出されることはないだろう（ultra jam non invenietur）」──第18章の視覚的・行為的クライマックス。「lapidem quasi molarem magnum（大きな石臼のような石）」：エレミヤ書第51章v.63–64「ligabis ad eam lapidem, et proijces eam in medium Euphraten（石を縛りつけてユーフラテスの中ほどに投げ込め）」という旧約的バビロン滅亡の象徴的行為の終末論的反復として。「石臼（lapis molaris）」：マタイ福音書第18章v.6「mola asinaria（ろばの臼）」という溺死刑の道具との照応として、石臼の海への投擲がバビロンの完全な沈没・消滅の視覚的形象として機能する。「ultra jam non invenietur（もう決して見出されることはないだろう）」：v.22–23の「non … amplius（もはや……ない）」連鎖の起点的宣言として、「invenietur（見出されるだろう）」という発見の可能性の完全な否定がバビロンの消滅を定式化する。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」という場所の絶対化が、「ultra jam non invenietur（もう決して見出されることはない）」というバビロンの「場所」の消滅と詩的に照応する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 22,
+      "type": "prosody",
+      "anchor": "Et vox citharoedorum, et musicorum, et tibia canentium, et tuba non audietur in te amplius: et omnis artifex omnis artis non invenietur in te amplius: et vox molae non audietur in te amplius:",
+      "body": "「竪琴弾き、音楽家、笛吹き、ラッパ吹きの声はもはや聞こえない（non audietur in te amplius）──あらゆる職人はもはや見出されない（non invenietur in te amplius）──臼の音はもはや聞こえない（non audietur in te amplius）」──v.22–23の五重の「non … amplius」沈黙の連鎖の第一・第二・第三。「non audietur in te amplius（もはやあなたの中に聞こえない）」という定型句の第一・第三反復と「non invenietur in te amplius（もはや見出されない）」という第二変形が、音楽・職人技・臼という三つの文化的・日常的音響・活動の消滅を宣言する。「citharoedorum, et musicorum, et tibia canentium, et tuba（竪琴弾き・音楽家・笛吹き・ラッパ吹き）」：四種の音楽家の列挙が第14章v.2「sicut citharoedorum citharizantium（竪琴弾きたちのように）」・第15章v.2「habentes citharas Dei（神の竪琴を持つ）」という天上的音楽と対称をなす──天上では永遠に奏でられる音楽が、地上のバビロンでは「非聴取（non audietur）」として終焉する。「vox molae（臼の音）」：日常的・生活的な穀物挽きの音が最後に置かれることで、文化的活動から生活の最基底的活動まで沈黙が浸透することが示される。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "et lux lucernae non lucebit in te amplius: et vox sponsi et sponsae non audietur adhuc in te: quia mercatores tui erant principes terrae, quia in veneficiis tuis erraverunt omnes gentes.",
+      "body": "「灯火の光はもはや輝かない（lux lucernae non lucebit in te amplius）──花婿と花嫁の声はもはや聞こえない（vox sponsi et sponsae non audietur adhuc in te）──あなたの商人たちは地の有力者（mercatores tui erant principes terrae）──あなたの妖術によってすべての国民が惑わされた（in veneficiis tuis erraverunt omnes gentes）」──「non amplius」連鎖の第四・第五、沈黙の絶対的完結。「lux lucernae non lucebit in te amplius（灯火の光はもはや輝かない）」：エレミヤ書第25章v.10「auferam ab eis vocem gaudii et vocem laetitiae, vocem sponsi et vocem sponsae, vocem molentis in mola et lumen lucernae（喜びの声・花婿花嫁の声・臼挽きの音・灯火の光を取り去る）」の終末論的反復として。「lux lucernae（灯火の光）」：第21章v.23の「non eget sole … Agnus lucerna ejus（太陽も月もいらない……小羊がその灯火）」という新しいエルサレムの光との対称として、バビロンの「灯火の消滅」が新しいエルサレムの「小羊の光」への移行の前提として機能する。「vox sponsi et sponsae（花婿と花嫁の声）」：第21章v.2の「sponsam ornatam viro suo（花婿のために飾られた花嫁）」として顕現する新しいエルサレムの花嫁形象との対称として、バビロンからの「花嫁の声の消滅」が新しいエルサレムにおける花嫁の出現として転換される。マラルメ「骰子一擲」の白い紙面の沈黙・ローデンバック「沈黙について（Du Silence）」の静寂の詩学と、「non audietur amplius（もはや聞こえない）」という絶対的聴覚的沈黙が直接的に照応する。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Et in ea sanguis prophetarum et sanctorum inventus est: et omnium qui interfecti sunt in terra.",
+      "body": "「バビロンの中に預言者たちと聖徒たちの血が見出された（in ea sanguis prophetarum et sanctorum inventus est）──地上で殺されたすべての者たちの血が（omnium qui interfecti sunt in terra）」──第18章の最終節・審判の根拠の究極的確認。「sanguis prophetarum et sanctorum（預言者たちと聖徒たちの血）」：第16章v.6「sanguinem sanctorum et prophetarum effuderunt（聖徒たちと預言者たちの血を流した）」という水の天使の証言の反復として、第18章の最末尾でバビロンへの審判の根拠が殉教者の血として確認される。「inventus est（見出された）」：v.21「ultra jam non invenietur（もう決して見出されることはないだろう）」というバビロン都市の「非発見」と対称的に、バビロン「中に（in ea）」「見出された（inventus est）」という発見の動詞が機能する──都市は消えても、その中に流された血は「見出され」続ける。「omnium qui interfecti sunt in terra（地上で殺されたすべての者たちの血）」：「omnium（すべての者たちの）」という普遍的包括が、バビロンへの審判の責任範囲を歴史的殉教の全体へと拡大する。Iob第1章v.21「Dominus dedit, Dominus abstulit（主は与え、主は取られた）」というヨブの絶対的受容の定式が、第18章では「血を流した者への審判」という正義の回復として、ヨブ記とApocalypsis全体のコーパス的連続性の確認として位置づけられる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    }
+  ]
+}
