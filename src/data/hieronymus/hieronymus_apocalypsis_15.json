@@ -1,0 +1,151 @@
+{
+  "id": "hieronymus_apocalypsis_15",
+  "title": "Apocalypsis, Caput XV",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XV. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+15&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第15章。全8節からなる最短の章の一つであり、第8章の七ラッパに続く「七つの鉢（phialae）」系列（第16章）の前奏として機能する。第14章の鎌と血の踏み場という終末論的刈り入れの後、第15章は再び天上的場面へと転換する。「天に大きく驚くべきしるし（signum in caelo magnum et mirabile）」として七人の天使が最後の七つの災い（plagae septem novissimae）を持つことが告げられ（v.1）、ガラスの海の上に獣を打ち勝った者たちが立って「モーセの歌と小羊の歌（canticum Moysi et canticum Agni）」を歌う（v.2–4）。天上の幕屋の証しの神殿が開かれ（v.5）、七人の天使が神殿から出てきて亜麻布の白い衣と金の帯をつけ（v.6）、四つの生き物の一つから七つの金の鉢を受け取る（v.7）。神殿は神の威光と力から生じる煙で満たされ、七つの災いが終わるまで誰も神殿に入れない（v.8）。VANITISMEコーパスにおける位置づけ：第15章はApocalypsis全体の「礼拝の構造」と「審判の準備」が最も緊密に結合する章として機能する。v.3–4の「モーセの歌と小羊の歌」はApocalypsis中の最長の礼拝頌歌であり、出エジプト記第15章（葦の海を渡った後のモーセの歌）の終末論的反復として、历史的救済と終末的救済の照応を確立する。Ecclesiastes第1章の「afflictio spiritus（霊の苦悩）」という閉塞的な労苦論に対し、「Magna et mirabilia sunt opera tua（あなたのみ業は偉大で驚くべきもの）」（v.3）という創造・救済の積極的肯定が応答する。v.8の「煙による神殿の閉鎖」はイザヤ書第6章の神殿充満的顕現の終末論的反復として、神の臨在の圧倒的強度が審判の前提として確立される。",
+  "keywords": [
+    "signum magnum et mirabile",
+    "plagae septem novissimae",
+    "consummata est ira Dei",
+    "mare vitreum mistum igne",
+    "canticum Moysi et Agni",
+    "Magna et mirabilia opera tua",
+    "Rex saeculorum",
+    "templum tabernaculi testimonii",
+    "phialae aureae",
+    "fumo a majestate Dei"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_14",
+    "hieronymus_apocalypsis_13",
+    "hieronymus_apocalypsis_8",
+    "hieronymus_apocalypsis_7",
+    "hieronymus_apocalypsis_4",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_necessite",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi aliud signum in caelo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira Dei.",
+      "provisionalTranslation": "私は天に別の大きく驚くべきしるしを見た。七人の天使が最後の七つの災いを持っていた。これらにおいて神の怒りは完成されるからである。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei:",
+      "provisionalTranslation": "私はまた、火が混じったガラスの海のようなものを見た。そして獣とその像とその名の数字に打ち勝った者たちが、神の竪琴を持ってガラスの海の上に立っていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna et mirabilia sunt opera tua, Domine Deus omnipotens: justae et verae sunt viae tuae, Rex saeculorum.",
+      "provisionalTranslation": "彼らは神の僕モーセの歌と小羊の歌を歌って言った。「主なる神、全能者よ、あなたのみ業は偉大で驚くべきものです。世々の王よ、あなたの道は正しく真実です。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Quis non timebit te, Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.",
+      "provisionalTranslation": "「主よ、誰があなたを畏れず、あなたの名を崇めないでしょうか。あなただけが聖なる方です。すべての国民があなたの御前に来て礼拝するでしょう。なぜなら、あなたの裁きは明らかにされたからです。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Et post haec vidi: et ecce apertum est templum tabernaculi testimonii in caelo,",
+      "provisionalTranslation": "この後、私は見た。天に証しの幕屋の神殿が開かれた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "et exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et praecincti circa pectora zonis aureis.",
+      "provisionalTranslation": "七つの災いを持つ七人の天使が神殿から出てきた。清く白い亜麻布を身にまとい、胸に金の帯を締めていた。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiae Dei viventis in saecula saeculorum.",
+      "provisionalTranslation": "四つの生き物のうちの一つが、永遠に生きておられる神の怒りで満ちた七つの金の鉢を七人の天使に与えた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et impletum est templum fumo a majestate Dei, et de virtute ejus: et nemo poterat introire in templum, donec consummarentur septem plagae septem angelorum.",
+      "provisionalTranslation": "神殿は神の威光とその力から生じる煙で満たされた。七人の天使の七つの災いが終わるまで、誰も神殿に入ることができなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "aliud signum in caelo magnum et mirabile, angelos septem, habentes plagas septem novissimas: quoniam in illis consummata est ira Dei.",
+      "body": "「天に別の大きく驚くべきしるし（signum in caelo magnum et mirabile）──最後の七つの災い（plagas septem novissimas）──これらにおいて神の怒りは完成された（consummata est ira Dei）」──第15章の開口部にして章全体の神学的命題の凝縮。「aliud signum（別のしるし）」：第12章v.1「signum magnum apparuit in caelo（天に大きなしるしが現れた）」・v.3「aliud signum in caelo（天にまた別のしるし）」という第12章の二つのしるし（女と竜）に続く「第三のしるし」として第15章が接続される。「magnum et mirabile（大きく驚くべき）」：v.3の「Magna et mirabilia sunt opera tua（あなたのみ業は偉大で驚くべき）」の同形容詞の先取りとして──天使たちが持つしるしの「大きく驚くべき」性格が、神のみ業の「大きく驚くべき」性格と語彙的に照応する。「plagas septem novissimas（最後の七つの災い）」：「novissimas（最後の・究極の）」という最上級が、第8–11章の七ラッパの災いとの区別を明確にする──ラッパの災いが「三分の一」という部分的破局であったのに対し、鉢の災いは「最後（novissimae）」という完結性を持つ。「consummata est ira Dei（神の怒りは完成された）」：「consummata est（完成された）」という受動的完了形が、神の怒りが歴史的プロセスの終点として充満することを示す──第14章v.10「vinum irae Dei（神の怒りのぶどう酒）」として予告された怒りが「consummata（完成）」という語によって頂点として確認される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum, habentes citharas Dei:",
+      "body": "「火が混じったガラスの海（mare vitreum mistum igne）──獣に打ち勝った者たちがガラスの海の上に立って（stantes super mare vitreum）──神の竪琴を持つ（habentes citharas Dei）」──第15章の最も豊かな視覚的・音楽的形象。「mare vitreum mistum igne（火が混じったガラスの海）」：第4章v.6「ante sedem tamquam mare vitreum simile crystallo（御座の前にガラスの海のようなものがあった）」の反復的変容として──第4章の静謐な「水晶のようなガラスの海」が第15章では「火が混じった（mistum igne）」と変容している。第8章の四ラッパによる地・海・川・天への破局的火の降下（v.7「grando et ignis mista in sanguine」・v.8「mons magnus igne ardens」）を経て、天上のガラスの海に「火が混じる」という変容として。「qui vicerunt bestiam, et imaginem ejus, et numerum nominis ejus（獣とその像とその名の数字に打ち勝った者たち）」：第13章v.18「numerum bestiae（獣の数字）」として提示された謎の数「666」を含む獣の三重の標識を、逆に「打ち勝った（vicerunt）」者たちの定義として提示する──第13章の問い「誰が獣と戦うことができようか」への応答として「打ち勝った者たち（vicerunt）」が存在することが確認される。「citharas Dei（神の竪琴）」：第14章v.2の「sicut citharoedorum citharizantium（竪琴弾きたちのように）」という類比的描写から、第15章では「citharas Dei（神の竪琴）」という直接的所持へと移行する──比喩が実体化される。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "canticum Moysi servi Dei, et canticum Agni, dicentes: Magna et mirabilia sunt opera tua, Domine Deus omnipotens: justae et verae sunt viae tuae, Rex saeculorum.",
+      "body": "「神の僕モーセの歌と小羊の歌（canticum Moysi servi Dei, et canticum Agni）──あなたのみ業は偉大で驚くべきもの（Magna et mirabilia sunt opera tua）──世々の王よ（Rex saeculorum）」──Apocalypsis全体で最長の礼拝頌歌の前半。「canticum Moysi（モーセの歌）」：出エジプト記第15章v.1「Cantemus Domino: gloriose enim magnificatus est（主に歌おう、神は輝かしく栄光を現された）」という葦の海を渡った後のモーセの勝利の歌の終末論的反響として。歴史的救済（出エジプト）と終末的救済（獣からの解放）が「モーセの歌」という定式によって重ね合わされる。「canticum Agni（小羊の歌）」：第14章v.3の「canticum novum（新しい歌）」の第15章での命名として──第14章で「新しい」と呼ばれた歌が第15章では「小羊の歌（canticum Agni）」として固有の定義を得る。「Magna et mirabilia sunt opera tua（あなたのみ業は偉大で驚くべきもの）」：詩篇第111篇v.2「Magna opera Domini（主のみ業は偉大だ）」の終末論的拡張として。Ecclesiastes第1章v.14「Vidi cuncta quae fiunt sub sole, et ecce universa vanitas（太陽の下でなされるすべてを見た、すべては虚無）」というコヘレトの「見た（vidi）」が地上的虚無を確認したのに対し、第15章の「opera tua（あなたのみ業）」という神的行為の肯定的確認が、地上的虚無を超えた創造・救済の偉大さとして対置される。「Rex saeculorum（世々の王）」：第14章v.7「qui fecit caelum, et terram（天と地を造られた方）」という創造主規定が「世々の王（Rex saeculorum）」という王的称号として確認される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quis non timebit te, Domine, et magnificabit nomen tuum? quia solus pius es: quoniam omnes gentes venient, et adorabunt in conspectu tuo, quoniam judicia tua manifesta sunt.",
+      "body": "「主よ、誰があなたを畏れず（Quis non timebit te, Domine）──あなただけが聖なる方（solus pius es）──すべての国民があなたの御前に来て礼拝する（omnes gentes venient, et adorabunt）──あなたの裁きは明らかにされた（judicia tua manifesta sunt）」──モーセと小羊の歌の後半・第15章の礼拝頌歌の頂点。「Quis non timebit te, Domine（誰があなたを畏れないでしょうか）」：修辞的疑問形が「すべての者があなたを畏れる」という普遍的神の畏れを意味する。出エジプト記第15章v.11「Quis similis tui in diis, Domine（主よ、神々の中で誰があなたに似ているでしょうか）」というモーセの歌の問い形式の反響として──第13章v.4「Quis similis bestiae（誰が獣と同じか）」という冒瀆的転用に対し、第15章では同型の問い形式が神への礼拝的帰還として再確立される。「solus pius es（あなただけが聖なる方）」：「solus（唯一）」という副詞が神の聖性の排他的唯一性を宣言する──第13章の獣が「全権能（omnem potestatem）」を持ちながら複数の代理者と権能を分かち合ったのに対し、神の聖性は共有不可能な「solus（唯一）」として定式化される。「judicia tua manifesta sunt（あなたの裁きは明らかにされた）」：「manifesta（明らかな・公開された）」という形容詞が終末論的文脈での神の審判の顕示性を強調する──Ecclesiastes第12章v.14「cuncta quae fiunt adducet Deus in judicium（神はすべてのなされたことを裁きに持ち出す）」というコヘレトの結語的審判論が、第15章では「judicia tua manifesta sunt（裁きは明らかにされた）」として終末論的成就として確認される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "apertum est templum tabernaculi testimonii in caelo,",
+      "body": "「天に証しの幕屋の神殿が開かれた（apertum est templum tabernaculi testimonii in caelo）」──わずか一節でありながら第15章後半部全体の場所的根拠を設定する構造的枢軸節。「templum tabernaculi testimonii（証しの幕屋の神殿）」：「tabernaculum testimonii（証しの幕屋）」は出エジプト記第38章v.21「haec sunt instrumenta tabernaculi testimonii（これは証しの幕屋の用具）」に由来するモーセ的幕屋の定式──荒野のモーセの幕屋という可動的・歴史的礼拝の場が、天上的・永続的な「神殿（templum）」として終末論的に実現する。第11章v.19「apertum est templum Dei in caelo（天に神の神殿が開かれた）」の反復として、「apertum est（開かれた）」という受動的開口が神殿の天上的・自動的開口を示す──誰かが開いたのではなく「開かれた（apertum est）」という神的受動として。「in caelo（天に）」：v.6の天使たちが「de templo（神殿から）」出てくることで、この天上の神殿が天使たちと鉢の出発地として機能することが確認される。ヴェイユ「Accepter le vide（真空を受容する）」章の「開かれた空虚（le vide ouvert）」という概念が、この神殿の「開口（apertum）」と詩的に照応する──神的臨在のための空間的開口として。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "exierunt septem angeli habentes septem plagas de templo, vestiti lino mundo et candido, et praecincti circa pectora zonis aureis.",
+      "body": "「七人の天使が神殿から出てきた（exierunt septem angeli de templo）──清く白い亜麻布（lino mundo et candido）──胸に金の帯（zonis aureis）」──七人の天使の神殿からの出現と衣装の詳細な描写。「exierunt … de templo（神殿から出てきた）」：v.5の「apertum est templum（神殿が開かれた）」という開口が、天使たちの出現によって直ちに目的的に使用される──開口と出現の因果的連続。「vestiti lino mundo et candido（清く白い亜麻布を身にまとい）」：第14章v.14の「similis Filio hominis（人の子に似た者）」が雲の上で裁きの鎌を持っていたように、審判の執行者として天使たちが神聖な衣装を身にまとう。「lino mundo et candido（清く白い亜麻布）」：第19章v.8「byssinum enim justificationes sanctorum sunt（亜麻布は聖徒たちの義なる行いである）」という亜麻布の神学的解釈の先行的提示として──純白の亜麻布が義と聖性の視覚的定式として機能する。「praecincti circa pectora zonis aureis（胸に金の帯を締めて）」：第1章v.13「praecinctos ad mamillas zona aurea（胸に金の帯を締めた）」という最初の顕現での「人の子に似た者」の衣装と同型の描写として──天使たちが同一の典礼的装束によって「人の子に似た者」と視覚的に対応する。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "unum de quatuor animalibus dedit septem angelis septem phialas aureas, plenas iracundiae Dei viventis in saecula saeculorum.",
+      "body": "「四つの生き物のうちの一つが（unum de quatuor animalibus）──七つの金の鉢（septem phialas aureas）──永遠に生きておられる神の怒りで満ちた（plenas iracundiae Dei viventis in saecula saeculorum）」──七つの鉢という道具の付与場面。「unum de quatuor animalibus（四つの生き物のうちの一つ）」：第4章以来御座を囲む四つの生き物（cherubim的存在）が、第15章で初めて実際の行為の主体として登場する──礼拝の継続的遂行者であった生き物が、審判の道具を付与するという能動的役割への転換。「phialas aureas（金の鉢）」：「phiala（鉢・浅い皿型容器）」は第5章v.8「phialas aureas plenas odoramentorum（香の満ちた金の器）」として聖徒たちの祈りを入れた容器と同型の器が、第16章以降では「iracundiae Dei（神の怒り）」を入れる器として転用される──祈りの容器が怒りの容器へという逆転。「iracundiae Dei viventis in saecula saeculorum（永遠に生きておられる神の怒り）」：「viventis in saecula saeculorum（永遠に生きておられる）」という神の永続的生命の定式が「iracundiae（怒り）」の形容詞節として付けられることで、神の怒りが一時的感情ではなく永続的生ける神の本質的正義の発露として定式化される。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "impletum est templum fumo a majestate Dei, et de virtute ejus: et nemo poterat introire in templum, donec consummarentur septem plagae septem angelorum.",
+      "body": "「神殿は神の威光とその力から生じる煙で満たされた（impletum est templum fumo a majestate Dei, et de virtute ejus）──誰も神殿に入ることができなかった（nemo poterat introire in templum）──七つの災いが終わるまで（donec consummarentur septem plagae）」──第15章の終結にして第16章以降の鉢の注ぎが始まるまでの神殿閉鎖の宣言。「fumo a majestate Dei（神の威光から生じる煙）」：イザヤ書第6章v.4「et impleta est domus fumo（神殿は煙で満たされた）」というイザヤの神殿顕現の終末論的反復として──イザヤが使命召命を受けた場面での煙が、第15章では審判開始前の最終的神的顕現として再現される。「nemo poterat introire in templum（誰も神殿に入ることができなかった）」：Exodus第40章v.35「non poterat Moses introire tabernaculum（モーセは幕屋に入ることができなかった）」という神の栄光の充満による人間の立入不能という旧約的形象の終末論的反復として。第8章v.1「factum est silentium in caelo, quasi media hora（天に約半時間の沈黙が生じた）」という七ラッパ前の沈黙と対称的に、七鉢前の「煙による神殿充満・立入禁止」が審判開始前の最終的神的準備として機能する。「donec consummarentur septem plagae（七つの災いが終わるまで）」：v.1の「consummata est ira Dei（神の怒りは完成された）」という完成の予告が、「consummarentur（終わるまで）」という接続法の時間的限定として審判の全過程を括弧に入れる──審判の完成まで神殿への立入が禁じられるという神的隔絶の宣言として。マラルメ「骰子一擲」の白い紙面の空白が「語りえぬもの」の保護的囲いとして機能するように、第15章の「煙による神殿充満」は神の絶対的威光が人間の立入を不可能にする詩的・神学的空間として機能する。",
+      "targetId": "hieronymus_apocalypsis_8",
+      "targetParagraphId": 1
+    }
+  ]
+}
