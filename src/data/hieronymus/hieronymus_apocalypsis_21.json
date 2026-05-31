@@ -1,0 +1,320 @@
+{
+  "id": "hieronymus_apocalypsis_21",
+  "title": "Apocalypsis, Caput XXI",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XXI. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+21&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第21章。第20章の最後の審判・死と黄泉の火の池への投入を経て、第21章は「新しい天と新しい地（caelum novum et terra nova）」の到来という創造論的大転換から始まる。章全体は二部構造として展開する。第一部（v.1–8）：新しい創造の宣言──「新しい天と新しい地」（v.1）・新しいエルサレムの下降（v.2）・「神が人間とともに住む（tabernaculum Dei cum hominibus）」という神の宣言（v.3）・涙・死・嘆き・苦悩の廃棄（v.4）・「すべてを新しくする（Ecce nova facio omnia）」（v.5）・「成し遂げられた（Factum est）」・「アルファとオメガ（alpha et omega）」・命の水の賦与（v.6）・勝利者への約束（v.7）・第二の死の確認（v.8）。第二部（v.9–27）：新しいエルサレムの詳細な建築的描写──七つの鉢天使による花嫁としての都市の啓示（v.9–10）・神の栄光としての光（v.11）・城壁・十二の門・十二の部族名（v.12–13）・十二の土台・十二使徒名（v.14）・金の葦による測量（v.15）・完全正方形の測量（v.16–17）・碧玉と純金（v.18）・十二の宝石で飾られた土台（v.19–20）・真珠の門と金の街路（v.21）・神殿不在（v.22）・太陽・月不要（v.23）・国民の光の中の行進（v.24）・門の永遠の開放（v.25）・栄光の集積（v.26）・汚れた者の排除（v.27）。VANITISMEコーパスにおける位置づけ：第21章はApocalypsis全体・ヒエロニムスのラテン語コーパス全体の終末論的頂点として、Ecclesiastes第1章の「Vanitas vanitatum（虚無の虚無）・afflictio spiritus（霊の苦悩）・Nihil sub sole novum（太陽の下に新しいものは何もない）」という三大命題への根本的終末論的応答を提供する。v.1「caelum novum et terra nova（新しい天と新しい地）」はEcclesiastes「Nihil sub sole novum」への直接的反転として、v.4「mors ultra non erit（死はもはやない）」はIob第1章の試練の彼方に開かれる全き解放として、v.5「Ecce nova facio omnia（見よ、すべてを新しくする）」はコヘレトの閉塞した「sub sole（太陽の下）」を超越する神的創造力の宣言として位置づけられる。",
+  "keywords": [
+    "caelum novum et terra nova",
+    "Jerusalem nova",
+    "tabernaculum Dei cum hominibus",
+    "absterget omnem lacrimam",
+    "nova facio omnia",
+    "alpha et omega initium et finis",
+    "fons aquae vitae gratis",
+    "sponsa uxor Agni",
+    "claritas Dei",
+    "duodecim portae margaritae",
+    "templum non vidi",
+    "lucerna ejus est Agnus",
+    "nox non erit",
+    "libro vitae Agni"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_20",
+    "hieronymus_apocalypsis_19",
+    "hieronymus_apocalypsis_17",
+    "hieronymus_apocalypsis_1",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "mallarme_coup_de_des",
+    "rilke_duineser_elegien_01",
+    "rodenbach_du_silence",
+    "dante_paradiso_canto_33"
+  ],
+  "paragraphs": [
+    {
+      "id": 1, 
+      "verses": "v.1", 
+      "original": "Et vidi caelum novum et terram novam. Primum enim caelum, et prima terra abiit, et mare jam non est.", 
+      "provisionalTranslation": "私は新しい天と新しい地を見た。最初の天と最初の地は消え去り、海はもはや存在しなかった。"
+    },
+    {
+      "id": 2, "verses": "v.2", "original": "Et ego Joannes vidi sanctam civitatem Jerusalem novam descendentem de caelo a Deo, paratam sicut sponsam ornatam viro suo.", "provisionalTranslation": "私ヨハネは聖なる都、新しいエルサレムが、神のもとから天下って来るのを見た。花婿のために飾られた花嫁のように整えられていた。"},
+    {
+      "id": 3, "verses": "v.3", "original": "Et audivi vocem magnam de throno dicentem: Ecce tabernaculum Dei cum hominibus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus:", "provisionalTranslation": "私は御座から大きな声が言うのを聞いた。「見よ、神の幕屋が人間とともにある。神は人間とともに住み、人間は神の民となり、神御自身が彼らとともにいて、彼らの神となる。」"},
+    {
+      "id": 4, "verses": "v.4", "original": "et absterget Deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt.", "provisionalTranslation": "「神は彼らの目から涙をすべてぬぐい取る。もはや死はなく、嘆きも叫びも苦しみもない。以前のものが過ぎ去ったからである。」"},
+    {
+      "id": 5, 
+      "verses": "v.5", "original": "Et dixit qui sedebat in throno: Ecce nova facio omnia. Et dixit mihi: Scribe, quia haec verba fidelissima sunt, et vera.", "provisionalTranslation": "御座に座っている方が言った。「見よ、すべてを新しくする。」また言った。「書き記せ。これらの言葉は真実で確かだからである。」"},
+    {
+      "id": 6, 
+      "verses": "v.6", "original": "Et dixit mihi: Factum est: ego sum alpha et omega, initium et finis. Ego sitienti dabo de fonte aquae vitae, gratis.", "provisionalTranslation": "また言った。「成し遂げられた。私はアルファであり、オメガである。始まりであり終わりである。私は渇いている者に命の水の泉から無償で与えよう。」"},
+    {
+      "id": 7, "verses": "v.7", "original": "Qui vicerit, possidebit haec: et ero illi Deus, et ille erit mihi filius.", "provisionalTranslation": "「打ち勝つ者はこれらを受け継ぐ。私はその者の神となり、その者は私の子となる。」"},
+    {
+      "id": 8, "verses": "v.8", "original": "Timidis autem, et incredulis, et execratis, et homicidis, et fornicatoribus, et veneficis, et idolatris, et omnibus mendacibus, pars illorum erit in stagno ardenti igne et sulphure: quod est mors secunda.", "provisionalTranslation": "「しかし臆病な者、不信仰な者、忌まわしい者、殺人者、淫行する者、妖術師、偶像礼拝者、すべての偽り者の受ける分は、火と硫黄の燃える池である。これが第二の死である。」"},
+    {
+      "id": 9, "verses": "v.9", "original": "Et venit unus de septem angelis habentibus phialas plenas septem plagis novissimis, et locutus est mecum, dicens: Veni, et ostendam tibi sponsam, uxorem Agni.", "provisionalTranslation": "最後の七つの災いで満ちた七つの鉢を持つ七人の天使のうちの一人が来て、私に語りかけて言った。「来い、小羊の妻である花嫁を見せよう。」"},
+    {
+      "id": 10, "verses": "v.10", "original": "Et sustulit me in spiritu in montem magnum et altum, et ostendit mihi civitatem sanctam Jerusalem descendentem de caelo a Deo,", "provisionalTranslation": "天使は霊の中で私を大きく高い山に連れて行き、神のもとから天下って来る聖なる都エルサレムを見せてくれた。"},
+    {
+      "id": 11, "verses": "v.11", "original": "habentem claritatem Dei: et lumen ejus simile lapidi pretioso tamquam lapidi jaspidis, sicut crystallum.", "provisionalTranslation": "都は神の栄光を持ち、その光は水晶のように澄んだ碧玉のような宝石に似ていた。"},
+    {
+      "id": 12, 
+      "verses": "v.12", "original": "Et habebat murum magnum, et altum, habentem portas duodecim: et in portis angelos duodecim, et nomina inscripta, quae sunt nomina duodecim tribuum filiorum Israel:", "provisionalTranslation": "都には大きく高い城壁があり、十二の門があった。門には十二人の天使がおり、イスラエルの子らの十二部族の名が刻まれていた。"},
+    {
+      "id": 13, "verses": "v.13", "original": "ab oriente portae tres, et ab aquilone portae tres, et ab austro portae tres, et ab occasu portae tres.", "provisionalTranslation": "東に三つの門、北に三つの門、南に三つの門、西に三つの門があった。"},
+    {
+      "id": 14, "verses": "v.14", "original": "Et murus civitatis habens fundamenta duodecim, et in ipsis duodecim nomina duodecim apostolorum Agni.", "provisionalTranslation": "都の城壁には十二の土台があり、それらには小羊の十二使徒の十二の名が刻まれていた。"},
+    {
+      "id": 15, "verses": "v.15", "original": "Et qui loquebatur mecum, habebat mensuram arundineam auream, ut metiretur civitatem, et portas ejus, et murum.", "provisionalTranslation": "私に語りかけていた天使は、都と門と城壁を測るために金の葦の物差しを持っていた。"},
+    {
+      "id": 16, "verses": "v.16", "original": "Et civitas in quadro posita est, et longitudo ejus tanta est quanta et latitudo: et mensus est civitatem de arundine aurea per stadia duodecim millia: et longitudo, et altitudo, et latitudo ejus aequalia sunt.", "provisionalTranslation": "都は正方形に置かれており、長さと幅が等しかった。天使は金の葦で都を測ると、十二千スタディオンであった。長さと高さと幅が等しかった。"},
+    {
+      "id": 17, "verses": "v.17", "original": "Et mensus est murum ejus centum quadraginta quatuor cubitorum, mensura hominis, quae est angeli.", "provisionalTranslation": "城壁を測ると百四十四キュビトであった。人間の単位、すなわち天使の単位による。"},
+    {
+      "id": 18, "verses": "v.18", "original": "Et erat structura muri ejus ex lapide jaspide: ipsa vero civitas aurum mundum simile vitro mundo.", "provisionalTranslation": "城壁の構造は碧玉でできており、都そのものは透明なガラスに似た純粋な金でできていた。"},
+    {
+      "id": 19, "verses": "v.19", "original": "Et fundamenta muri civitatis omni lapide pretioso ornata. Fundamentum primum, jaspis: secundum, sapphirus: tertium, calcedonius: quartum, smaragdus:", "provisionalTranslation": "都の城壁の土台はあらゆる宝石で飾られていた。第一の土台は碧玉、第二はサファイア、第三は瑪瑙、第四はエメラルド、"},
+    {
+      "id": 20, "verses": "v.20", "original": "quintum, sardonyx: sextum, sardius: septimum, chrysolithus: octavum, beryllus: nonum, topazius: decimum, chrysoprasus: undecimum, hyacinthus: duodecimum, amethystus.", "provisionalTranslation": "第五は縞瑪瑙、第六は赤縞瑪瑙、第七は貴橄欖石、第八はベリル、第九はトパズ、第十はクリソプレーズ、第十一はヒヤシンス石、第十二はアメシストであった。"},
+    {
+      "id": 21, "verses": "v.21", "original": "Et duodecim portae, duodecim margaritae sunt, per singulas: et singulae portae erant ex singulis margaritis: et platea civitatis aurum mundum, tamquam vitrum perlucidum.", "provisionalTranslation": "十二の門は十二の真珠であり、それぞれの門が一つの真珠でできていた。都の大通りは透き通ったガラスのような純金であった。"},
+    {
+      "id": 22, "verses": "v.22", "original": "Et templum non vidi in ea: Dominus enim Deus omnipotens templum illius est, et Agnus.", "provisionalTranslation": "私は都の中に神殿を見なかった。全能の主なる神と小羊が都の神殿であるからだ。"},
+    {
+      "id": 23, "verses": "v.23", "original": "Et civitas non eget sole neque luna ut luceant in ea, nam claritas Dei illuminavit eam, et lucerna ejus est Agnus.", "provisionalTranslation": "都には、照らすための太陽も月も必要としない。神の栄光が都を照らし、小羊がそのともし火であるからだ。"},
+    {
+      "id": 24, "verses": "v.24", "original": "Et ambulabunt gentes in lumine ejus: et reges terrae afferent gloriam suam et honorem in illam.", "provisionalTranslation": "国民はその光の中を歩み、地の王たちは自分たちの栄光と誉れをその中に携えてくる。"},
+    {
+      "id": 25, "verses": "v.25", "original": "Et portae ejus non claudentur per diem: nox enim non erit illic.", "provisionalTranslation": "都の門は昼の間は閉じられることがない。そこには夜がないからである。"},
+    {
+      "id": 26, "verses": "v.26", "original": "Et afferent gloriam et honorem gentium in illam.", "provisionalTranslation": "国民の栄光と誉れが都の中に運び込まれる。"},
+    {
+      "id": 27, "verses": "v.27", "original": "Non intrabit in eam aliquod coinquinatum, aut abominationem faciens et mendacium, nisi qui scripti sunt in libro vitae Agni.", "provisionalTranslation": "汚れたものは何も、また忌まわしいことや偽りを行う者は誰も、都に入ることはない。小羊の命の書に書き記されている者だけが入ることができる。"}
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Et vidi caelum novum et terram novam. Primum enim caelum, et prima terra abiit, et mare jam non est.",
+      "body": "「新しい天と新しい地（caelum novum et terra nova）──最初の天と最初の地は消え去り（prima terra abiit）──海はもはや存在しなかった（mare jam non est）」──Apocalypsis全体・ヒエロニムスのウルガータ・コーパス全体の創造論的頂点。「caelum novum et terra nova（新しい天と新しい地）」：イザヤ書第65章v.17「Ecce enim ego creo caelos novos et terram novam（見よ、私は新しい天と新しい地を創造する）」・同第66章v.22の直接引用として、旧約的新創造の約束の終末論的実現。Ecclesiastes第1章v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」というコヘレトの根本命題への最終的終末論的応答として──「sub sole（太陽の下）」という地上的次元では「新しいものは何もない」が、「caelum novum et terra nova（新しい天と新しい地）」という創造論的刷新においては「すべてが新しい（nova facio omnia）」という逆転が達成される。「prima terra abiit（最初の地は消え去った）」：第20章v.11「a cujus conspectu fugit terra, et caelum（御前から地と天は逃げ去った）」の成就として。「mare jam non est（海はもはや存在しない）」：第13章で獣が「海から上って」来た「mare（海）」の消滅として──悪の出現地が消去されることで新創造の安全性が担保される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sanctam civitatem Jerusalem novam descendentem de caelo a Deo, paratam sicut sponsam ornatam viro suo.",
+      "body": "「聖なる都、新しいエルサレムが天下って来る（sanctam civitatem Jerusalem novam descendentem de caelo a Deo）──花婿のために飾られた花嫁のように（sicut sponsam ornatam viro suo）」──第21章の視覚的・婚姻的核心、第17章の「淫婦バビロン」との正反対の対称。「Jerusalem novam（新しいエルサレム）」：第3章v.12「civitatem Dei mei, Jerusalem novam（我が神の都、新しいエルサレム）」というフィラデルフィアへの書簡での約束の終末論的実現として。第17章の「civitas magna（大きな都）」バビロンが「地の王たちの上に君臨する（habet regnum super reges terrae）」として提示されたのに対し、第21章の「Jerusalem nova（新しいエルサレム）」は「de caelo a Deo descendentem（神のもとから天下る）」として提示される──権力的上昇に対する神的下降の逆転として。「sicut sponsam ornatam viro suo（花婿のために飾られた花嫁のように）」：第19章v.7「uxor ejus praeparavit se（花嫁は自分を整えた）」の視覚的具体化として。「ornatam（飾られた）」という受動形が花嫁の美しさが自己装飾ではなく神的付与であることを示す。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ecce tabernaculum Dei cum hominibus, et habitabit cum eis. Et ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus:",
+      "body": "「見よ、神の幕屋が人間とともにある（Ecce tabernaculum Dei cum hominibus）──神は人間とともに住む（habitabit cum eis）──人間は神の民となり（ipsi populus ejus erunt）──神が彼らの神となる（ipse Deus cum eis erit eorum Deus）」──Apocalypsis全体の神学的中心命題・「神とともにある」という共在の定式。「tabernaculum Dei cum hominibus（神の幕屋が人間とともにある）」：第15章v.5「templum tabernaculi testimonii in caelo（天に証しの幕屋の神殿）」という審判前の閉鎖された天上の幕屋が、第21章では地上に降りて人間と「ともにある（cum hominibus）」という共在的幕屋として実現する。ヨハネ福音書第1章v.14「Verbum caro factum est, et habitavit in nobis（言葉は肉となり、私たちの中に住まわれた）」という受肉の「habitavit（住んだ）」と第21章の「habitabit cum eis（ともに住む）」という終末的共住の対応として。「ipsi populus ejus erunt, et ipse Deus cum eis erit eorum Deus」：エゼキエル書第37章v.27「Et erit habitaculum meum in eis（わが住まいは彼らの中にある）」・レビ記第26章v.12「et ero Deus vester（わたしはあなたがたの神となる）」という旧約的約束の終末論的集成として。ヴェイユ「Accepter le vide（真空を受容する）」の「神が入れるのは空虚がある場所だけ」という命題が、「tabernaculum Dei cum hominibus（神の幕屋が人間とともに）」という神の完全な臨在によって終末論的に完成される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "absterget Deus omnem lacrimam ab oculis eorum: et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abierunt.",
+      "body": "「神は彼らの目から涙をすべてぬぐい取る（absterget Deus omnem lacrimam ab oculis eorum）──もはや死はなく、嘆きも叫びも苦しみもない（mors ultra non erit, neque luctus, neque clamor, neque dolor）──以前のものが過ぎ去った（quia prima abierunt）」──第21章の感情的・実存的頂点。「absterget Deus omnem lacrimam ab oculis eorum（神は涙をすべてぬぐい取る）」：第7章v.17「absterget Deus omnem lacrimam ex oculis eorum（神はすべての涙を彼らの目からぬぐい取る）」という封印後の大群衆への約束の終末論的実現として。「mors ultra non erit（死はもはやない）」：Iob第1章の試練全体を貫く「死（mors）」の脅威が終末論的に廃棄される宣言として──ヨブの「Nudus revertar（裸で戻ろう）」という死への帰還が、「mors ultra non erit」という死の廃棄によって超克される。「neque luctus, neque clamor, neque dolor（嘆きも叫びも苦しみもない）」：Ecclesiastes第1章v.14「afflictio spiritus（霊の苦悩）」という書全体の主題的定式が四重否定（mors・luctus・clamor・dolor）によって完全に廃棄される──コヘレト的「afflictio（苦悩）」の根底的解消として。「quia prima abierunt（以前のものが過ぎ去った）」：v.1の「prima terra abiit（最初の地は消え去った）」と照応する「先行するもの（prima）」の廃棄の定式として。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ecce nova facio omnia. Et dixit mihi: Scribe, quia haec verba fidelissima sunt, et vera.",
+      "body": "「見よ、すべてを新しくする（Ecce nova facio omnia）──書き記せ、これらの言葉は真実で確か（Scribe, quia haec verba fidelissima sunt, et vera）」──御座からの直接的神的宣言・第21章の神学的核心命題。「Ecce nova facio omnia（見よ、すべてを新しくする）」：イザヤ書第43章v.19「Ecce ego facio nova（見よ、私は新しいことをする）」の終末論的最高度化として──イザヤでは「新しいこと（nova）」と不定複数で示されたものが、第21章では「omnia（すべて）」という普遍的包括として宣言される。Ecclesiastes第1章v.10「Nihil sub sole novum（太陽の下に新しいものは何もない）」というコヘレトの絶対的否定に対し、「nova facio omnia（すべてを新しくする）」という神の絶対的肯定が正面から応答する──「nihil（何もない）」対「omnia（すべて）」という語彙的対極として。「Scribe（書き記せ）」：第1章v.19・第14章v.13・第19章v.9に続くApocalypsis第六の「書け」命令として、啓示の記録という使命が新創造の最核心的宣言のために反復される。「fidelissima（真実で確かな）」：第19章v.11「Fidelis et Verax（忠実で真実な者）」という白馬の騎者の称号と同語根として、「書き記せ」と命じる者の誠実さが言葉の信頼性の根拠として確認される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Factum est: ego sum alpha et omega, initium et finis. Ego sitienti dabo de fonte aquae vitae, gratis.",
+      "body": "「成し遂げられた（Factum est）──私はアルファであり、オメガである、始まりであり終わりである（alpha et omega, initium et finis）──渇いている者に命の水の泉から無償で与える（sitienti dabo de fonte aquae vitae, gratis）」──第21章・Apocalypsis全体の最深部の神学的三命題。「Factum est（成し遂げられた）」：第16章v.17の審判の完成としての「Factum est」に続く第二の「Factum est」として、今度は救済・新創造の完成として宣言される──審判の完成（第16章）と救済の完成（第21章）が同一の定式によって表現されるという逆説的双対。「alpha et omega, initium et finis（アルファとオメガ、始まりと終わり）」：第1章v.8「Ego sum alpha et omega, principium et finis（私はアルファとオメガ、始まりと終わり）」という書の開口的宣言の終末論的確認として、「principium（始まり）」から「initium（始まり）」への言葉の微妙な変化と、Apocalypsis全体の「始まりから終わりへ」という弧の完結。「sitienti dabo de fonte aquae vitae, gratis（渇いている者に命の水の泉から無償で与える）」：「gratis（無償で）」という副詞が第21章の最も重要な言葉の一つとして機能する──Iob第1章v.9「Numquid Job frustra timet Deum（ヨブは理由なく神を畏れているか）」というサタンの「frustra（理由なく・無償で）」という問いへの終末論的応答として、「gratis（無償で）」という神の贈与が功利的信仰論への最終的否定として提示される。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Qui vicerit, possidebit haec: et ero illi Deus, et ille erit mihi filius.",
+      "body": "「打ち勝つ者はこれらを受け継ぐ（Qui vicerit, possidebit haec）──私はその者の神となり（ero illi Deus）──その者は私の子となる（ille erit mihi filius）」──第21章の勝利者への約束の最高定式。「Qui vicerit（打ち勝つ者）」：第2–3章の七書簡で「Qui vicerit（打ち勝つ者）」に対して約束された事柄の集積的完成として──七書簡の各末尾に置かれた「Qui vicerit」への個別的約束（命の木・第二の死への免疫・白石・朝の星・白い衣・神の都への記名・御座への着座）が、第21章v.7では「haec（これらすべて）」という一括的継承として成就する。「ero illi Deus, et ille erit mihi filius（私はその者の神となり、その者は私の子となる）」：サムエル記下第7章v.14「Ego ero ei in patrem, et ipse erit mihi in filium（わたしは彼の父となり、彼はわたしの子となる）」というダビデ王朝への約束の終末論的普遍化として──王への個別的約束が、「Qui vicerit（打ち勝つ者）」すべてへの普遍的約束として拡大される。ヴェイユ「Décréation」の「自我を神に向けて放棄する者が神に受け入れられる」という命題が、「ille erit mihi filius（その者は私の子となる）」という神的受容として終末論的に体現される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Timidis autem, et incredulis, et execratis, et homicidis, et fornicatoribus, et veneficis, et idolatris, et omnibus mendacibus, pars illorum erit in stagno ardenti igne et sulphure: quod est mors secunda.",
+      "body": "「臆病な者、不信仰な者……すべての偽り者（Timidis … omnibus mendacibus）──火と硫黄の燃える池（stagno ardenti igne et sulphure）──これが第二の死（quod est mors secunda）」──第21章の唯一の審判的節・八種の罪人の列挙。「Timidis autem（しかし臆病な者）」：「autem（しかし）」という逆接が、v.7の勝利者への約束と対称的な除外者の定義として機能する。「Timidis（臆病な者）」という語がリストの冒頭に置かれることで、恐れという消極的状態が積極的悪と同列に位置づけられる──信仰の不作為が罪として定式化される。「execratis（忌まわしい者）」・「homicidis（殺人者）」・「fornicatoribus（淫行する者）」・「veneficis（妖術師）」・「idolatris（偶像礼拝者）」・「mendacibus（偽り者）」：八種の列挙が第18章v.12–13の商品目録の倫理的対応として機能する──物品の列挙が人格的欠陥の列挙として反転される。「omnibus mendacibus（すべての偽り者）」：第14章v.5「in ore eorum non est inventum mendacium（口には偽りが見出されなかった）」という贖われた者たちの「偽りの不在」と対称的に、「mendacium（偽り）」が排除の最終的基準として置かれる。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Veni, et ostendam tibi sponsam, uxorem Agni.",
+      "body": "「来い、小羊の妻である花嫁を見せよう（Veni, et ostendam tibi sponsam, uxorem Agni）」──第17章v.1「Veni, ostendam tibi damnationem meretricis magnae（来い、大いなる淫婦の断罪を見せよう）」との完全な対称的反転。「Veni, et ostendam tibi（来い、見せよう）」：同一の「啓示的提示」定式が「淫婦バビロン」（第17章）と「花嫁エルサレム」（第21章）の両方に適用される──同一の天使的招待形式が二つの極的形象を提示する書的対称として。「sponsam, uxorem Agni（小羊の妻である花嫁）」：「sponsa（花嫁）」と「uxor（妻）」という二語の並列が、婚約（sponsa）から婚姻（uxor）への完成を示す──第19章v.7「nuptiae Agni（小羊の婚宴）」として予告された婚宴が、第21章では「uxor Agni（小羊の妻）」という完成した婚姻として提示される。「Agni（小羊の）」：Apocalypsis全体の「Agnus（小羊）」というキリスト論的中心概念が第21章の婚姻的文脈での最終的等価物として機能する。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et sustulit me in spiritu in montem magnum et altum, et ostendit mihi civitatem sanctam Jerusalem descendentem de caelo a Deo,",
+      "body": "「霊の中で大きく高い山に連れて行き（sustulit me in spiritu in montem magnum et altum）──神のもとから天下って来る聖なる都エルサレムを見せてくれた（ostendit mihi civitatem sanctam Jerusalem descendentem de caelo a Deo）」──第17章v.3との場所的対称。「in spiritu in montem magnum et altum（霊の中で大きく高い山に）」：第17章v.3「abstulit me in spiritu in desertum（霊の中で荒野に連れて行った）」という場所的対称として──「荒野（desertum）」で淫婦バビロンを見せた場所に対し、「大きく高い山（montem magnum et altum）」で花嫁エルサレムを見せる。エゼキエル書第40章v.2「in visione Dei adduxit me in terram Israel, et dimisit me super montem excelsium nimis（神の幻のうちに私をイスラエルの地に連れて行き、非常に高い山の上に降ろした）」というエゼキエルの新しいエルサレムの幻視の終末論的反復として。「descendentem de caelo a Deo（神のもとから天下る）」：v.2の反復として、新しいエルサレムの「天からの下降（descensio de caelo）」という方向性がヨハネの「上昇（in montem）」と逆向きに提示される──啓示者が上り、都市が下るという運動の対称として。",
+      "targetId": "hieronymus_apocalypsis_17",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "habentem claritatem Dei: et lumen ejus simile lapidi pretioso tamquam lapidi jaspidis, sicut crystallum.",
+      "body": "「神の栄光を持ち（habentem claritatem Dei）──その光は碧玉のような宝石に似ており、水晶のよう（lumen ejus simile lapidi pretioso tamquam lapidi jaspidis, sicut crystallum）」──新しいエルサレムの光の定式化。「claritatem Dei（神の栄光）」：「claritas（輝き・栄光）」という語がエゼキエル書第43章v.2「et terra splendebat a gloria ejus（地は神の栄光によって輝いた）」という神の栄光の神殿への帰還の反響として、新しいエルサレムが「神の栄光（claritas Dei）」を内包する都市として定義される。「lumen ejus simile lapidi pretioso tamquam lapidi jaspidis, sicut crystallum（その光は碧玉のような宝石に似ており水晶のよう）」：第4章v.6「ante sedem tamquam mare vitreum simile crystallo（御座の前にガラスの海のようなものがあった、水晶のよう）」との照応として──御座の前の「水晶のような海」が、第21章では都市の「水晶のような光」として展開される。「tamquam lapidi jaspidis（碧玉のような）」：v.18の「structura muri ejus ex lapide jaspide（城壁の構造は碧玉でできている）」との照応として、都市全体が「碧玉（jaspis）」という単一の宝石的光の形象で統一される。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et habebat murum magnum, et altum, habentem portas duodecim: et in portis angelos duodecim, et nomina inscripta, quae sunt nomina duodecim tribuum filiorum Israel:",
+      "body": "「大きく高い城壁、十二の門（portas duodecim）──門に十二人の天使（angelos duodecim）──イスラエルの十二部族の名（nomina duodecim tribuum filiorum Israel）」──新しいエルサレムの建築的描写の開始・「十二（duodecim）」の主題の導入。「murum magnum, et altum（大きく高い城壁）」：第17章v.3「bestiam coccineam … habentem capita septem, et cornua decem（七つの頭と十の角を持つ緋色の獣）」というバビロンを運ぶ獣との対称として、都市の防護的囲いが「大きく高い（magnum et altum）」という二修飾語で強調される。「portas duodecim … angelos duodecim（十二の門・十二人の天使）」：「duodecim（十二）」という数が第21章全体を貫く構造的数として反復される──十二の門・十二人の天使・十二部族（v.12）・十二の土台・十二使徒（v.14）・十二千スタディオン（v.16）・百四十四キュビト（144＝12×12：v.17）・十二の宝石（v.19–20）・十二の真珠（v.21）。「nomina duodecim tribuum filiorum Israel（イスラエルの十二部族の名）」：エゼキエル書第48章v.31–34の新しいエルサレムの十二の門の名が反響として機能する。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "ab oriente portae tres, et ab aquilone portae tres, et ab austro portae tres, et ab occasu portae tres.",
+      "body": "「東に三つの門、北に三つの門、南に三つの門、西に三つの門（ab oriente … ab aquilone … ab austro … ab occasu portae tres）」──四方向三門という測量的・宇宙論的完全性の定式。「ab oriente … ab aquilone … ab austro … ab occasu（東・北・南・西）」という四方向の列挙が第20章v.8の「super quatuor angulos terrae（地の四隅）」というゴグとマゴグの包囲的集結と対称をなす──悪の包囲（四隅から）が都市の開放的四門（四方向へ）として反転される。「portae tres（三つの門）」という数的定式が四回反復される（4×3＝12）ことで、第21章全体の「十二（duodecim）」という構造的数が四方向という空間的完全性と三という数の組み合わせとして生成される。Ecclesiastes第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」という風の循環的方向性が、第21章では「ab oriente … ab aquilone … ab austro … ab occasu」という都市の四方向的開放性として終末論的に再定式化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Et murus civitatis habens fundamenta duodecim, et in ipsis duodecim nomina duodecim apostolorum Agni.",
+      "body": "「城壁には十二の土台（fundamenta duodecim）──十二使徒の名（nomina duodecim apostolorum Agni）」──v.12の「十二部族」との対称・旧約と新約の双重的建築的基盤。「fundamenta duodecim（十二の土台）」：エフェソ書第2章v.20「superaedificati super fundamentum apostolorum et prophetarum（使徒たちと預言者たちという土台の上に建てられて）」という教会の使徒的土台の建築的具現化として。v.12の「nomina duodecim tribuum filiorum Israel（イスラエルの十二部族の名）」という旧約的土台（門）と、v.14の「nomina duodecim apostolorum Agni（十二使徒の名）」という新約的土台（城壁の土台）の双重構造が、旧新両約の統合的共存として提示される。「apostolorum Agni（小羊の使徒たち）」：「Agni（小羊の）」という属格が使徒たちをキリスト論的文脈で定義する──使徒たちが「小羊（Agnus）」への帰属によって同定される最終的定義として。",
+      "targetId": "hieronymus_apocalypsis_19",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et qui loquebatur mecum, habebat mensuram arundineam auream, ut metiretur civitatem, et portas ejus, et murum.",
+      "body": "「天使は金の葦の物差しを持っていた（habebat mensuram arundineam auream）──都と門と城壁を測るために（ut metiretur civitatem, et portas ejus, et murum）」──測量という行為の導入、第11章との対称。「mensuram arundineam auream（金の葦の物差し）」：第11章v.1「datus est mihi calamus similis virgae, et dictum est: Surge, et metire templum Dei（葦に似た物差しが私に与えられ、神の神殿を測れと言われた）」という神殿測量の命令の反復として──第11章の「葦（calamus）」が第21章では「金の葦（arundo aurea）」として素材的に高化される。「ut metiretur civitatem, et portas ejus, et murum（都と門と城壁を測るために）」：測量という行為が「知ること・定義すること・保護すること」の建築的形象として機能する──測られるものは神的確認を受けたものとして理解される。Ecclesiastes第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、言葉で説明できない）」という言語的不可能性に対し、「mensuram arundineam auream（金の葦の物差し）」による精密な測量が神的可知性として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "civitas in quadro posita est, et longitudo ejus tanta est quanta et latitudo: et mensus est civitatem de arundine aurea per stadia duodecim millia: et longitudo, et altitudo, et latitudo ejus aequalia sunt.",
+      "body": "「都は正方形に置かれており（civitas in quadro posita est）──長さと幅が等しい（longitudo ejus tanta est quanta et latitudo）──十二千スタディオン（per stadia duodecim millia）──長さと高さと幅が等しい（longitudo, et altitudo, et latitudo ejus aequalia sunt）」──都市の完全正方体的測量の定式。「in quadro posita est（正方形に置かれている）」：旧約の「至聖所（Sancta Sanctorum）」が立方体（20×20×20キュビト：列王記上第6章v.20）であったことの終末論的拡大として、新しいエルサレム全体が「完全な立方体」として提示される。「per stadia duodecim millia（十二千スタディオン）」：一スタディオン約185m×12,000≈2,220km──地球の半径に匹敵するとも解釈される規模の都市として、象徴的「完全な巨大さ」の数論的表現。「longitudo, et altitudo, et latitudo ejus aequalia sunt（長さと高さと幅が等しい）」：三次元における完全な等価性が「至聖所」の立方体的完全性の終末論的スケール化として機能する。リルケ「ドゥイネーゼル悲歌」第1番v.1「Wer, wenn ich schriee, hörte mich denn aus der Engel Ordnungen（もし私が叫んでも、天使の秩序の中の誰が私を聞くだろうか）」という存在論的問いが、第21章の「完全正方体の都市」という神的秩序の建築的実現として応答する。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 17,
+      "type": "prosody",
+      "anchor": "Et mensus est murum ejus centum quadraginta quatuor cubitorum, mensura hominis, quae est angeli.",
+      "body": "「城壁を測ると百四十四キュビト（centum quadraginta quatuor cubitorum）──人間の単位、すなわち天使の単位による（mensura hominis, quae est angeli）」──城壁の測量と「人間の単位＝天使の単位」という同定的命題。「centum quadraginta quatuor（百四十四）」：12×12という数論的構造が第7章v.4「centum quadraginta quatuor millia（十四万四千人）」という印された者の数・第14章v.1の同数の小羊とともにシオン山に立つ者たちと照応する──「144」という数がApocalypsis全体の「贖われた者たちの共同体」の数論的標識として反復される。「mensura hominis, quae est angeli（人間の単位、すなわち天使の単位）」：第21章の最も謎めいた句の一つとして──「人間の単位」と「天使の単位」が同一であるという宣言が、人間と天使の測量的次元での等価性として提示される。これは「天使もまた人間の身体的尺度によって測量する存在」であるとも、「新しい創造においては人間と天使の存在論的次元が統一される」とも解釈される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Et erat structura muri ejus ex lapide jaspide: ipsa vero civitas aurum mundum simile vitro mundo.",
+      "body": "「城壁の構造は碧玉でできており（structura muri ejus ex lapide jaspide）──都そのものは透明なガラスに似た純粋な金（civitas aurum mundum simile vitro mundo）」──城壁と都市本体の素材的定式化。「ex lapide jaspide（碧玉で）」：v.11「lumen ejus simile lapidi jaspidis（碧玉のような光）」の反復として、碧玉（jaspis）が新しいエルサレムの最外層（光・城壁）を定義する素材として確立される。「aurum mundum simile vitro mundo（透明なガラスに似た純粋な金）」：「aurum（金）」という貴金属の不透明性と「vitrum（ガラス）」という透明性が「simile（〜のよう）」という類比によって並置される逆説的形象──通常は不透明な金が「透明なガラスのよう（simile vitro mundo）」として提示されることで、物質性が霊的透明性として変容されることが示される。第18章v.12の「merces auri, et argenti（金・銀の商品）」というバビロンの経済的金が、第21章では「aurum mundum simile vitro mundo（透明なガラスのような純粋な金）」という霊的素材として転化される。",
+      "targetId": "hieronymus_apocalypsis_18",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 19,
+      "type": "glossary",
+      "anchor": "Et fundamenta muri civitatis omni lapide pretioso ornata. Fundamentum primum, jaspis: secundum, sapphirus: tertium, calcedonius: quartum, smaragdus:",
+      "body": "「都の城壁の土台はあらゆる宝石で飾られていた（omni lapide pretioso ornata）──第一：碧玉（jaspis）・第二：サファイア（sapphirus）・第三：瑪瑙（calcedonius）・第四：エメラルド（smaragdus）」──十二の宝石目録の前半。v.19–20の十二宝石目録はイザヤ書第54章v.11–12の新しいエルサレムの宝石的描写・エゼキエル書第28章v.13のエデンの宝石目録・出エジプト記第28章v.17–20の大祭司の胸当てに刻まれた十二宝石の三つの旧約的先行形の統合的終末論的実現として。「Fundamentum primum, jaspis（第一の土台は碧玉）」：序数的列挙（primum・secundum・tertium・quartum）が測量的・建築的精密性を文体的に実演する。これら宝石の色彩的多様性が新しいエルサレムの視覚的豊穰さを形成する──緑・青・白・赤・黄という色の完全な包括として、第18章の「purpura et coccinum（紫と緋色）」というバビロンの単色的豪奢に対する新しいエルサレムの多色的多様性として。",
+      "targetId": "hieronymus_apocalypsis_18",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 20,
+      "type": "glossary",
+      "anchor": "quintum, sardonyx: sextum, sardius: septimum, chrysolithus: octavum, beryllus: nonum, topazius: decimum, chrysoprasus: undecimum, hyacinthus: duodecimum, amethystus.",
+      "body": "「第五：縞瑪瑙（sardonyx）・第六：赤縞瑪瑙（sardius）・第七：貴橄欖石（chrysolithus）・第八：ベリル（beryllus）・第九：トパズ（topazius）・第十：クリソプレーズ（chrysoprasus）・第十一：ヒヤシンス石（hyacinthus）・第十二：アメシスト（amethystus）」──十二宝石目録の後半。「duodecimum, amethystus（第十二：アメシスト）」：「十二（duodecim）」という数に至る序数的完結として、アメシストの紫色が目録全体の宝石的スペクトルの終点を形成する。これら八宝石の名称の多くはギリシア語・ラテン語によるヘブライ語原典の翻訳的変容として、ヒエロニムスの語学的・鉱物学的知識が発揮される箇所。出エジプト記第28章の大祭司の胸当て十二宝石との対応は伝統的に論じられてきたが、宝石の名称の一対一対応は版本によって異なる。第18章v.12「lapidis pretiosi, et margaritae（宝石と真珠）」というバビロンの商品目録中の宝石が「商品（merces）」として列挙されたのに対し、第21章では宝石が「土台（fundamenta）」という建築的・存在論的機能として位置づけられる逆転として。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Et duodecim portae, duodecim margaritae sunt, per singulas: et singulae portae erant ex singulis margaritis: et platea civitatis aurum mundum, tamquam vitrum perlucidum.",
+      "body": "「十二の門は十二の真珠（duodecim portae, duodecim margaritae）──それぞれの門が一つの真珠でできていた（singulae portae erant ex singulis margaritis）──大通りは透き通ったガラスのような純金（platea civitatis aurum mundum, tamquam vitrum perlucidum）」──都市の入口と通路の素材的定式化。「singulae portae erant ex singulis margaritis（それぞれの門が一つの真珠でできていた）」：「singulae … singulis（それぞれ……一つずつ）」という分配的一致の強調が、十二の門の各々が「一つの巨大な真珠（margarita singula）」から成ることを示す──宝石の「集積」ではなく宝石の「一体性」として提示される単一性の強調。「platea civitatis aurum mundum, tamquam vitrum perlucidum（大通りは透き通ったガラスのような純金）」：v.18の「civitas aurum mundum simile vitro mundo（都そのものは透明なガラスに似た純粋な金）」の反復として、「大通り（platea）」という都市内部の最も日常的空間が「aurum mundum（純金）」で覆われることで、都市の最外層（城壁）から最内部（大通り）まで同質の素材で統一されることが示される。第18章v.11の「merces eorum（彼らの商品）」という商品的流通の場としての「都市」が、第21章では「platea aurum mundum（純金の大通り）」という礼拝的通行の場として変容される。",
+      "targetId": "hieronymus_apocalypsis_18",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Et templum non vidi in ea: Dominus enim Deus omnipotens templum illius est, et Agnus.",
+      "body": "「私は都の中に神殿を見なかった（templum non vidi in ea）──全能の主なる神と小羊が都の神殿である（Dominus enim Deus omnipotens templum illius est, et Agnus）」──第21章の最も逆説的命題・神殿の不在と神殿的遍在の同定。「templum non vidi in ea（神殿を見なかった）」：Apocalypsis全体を通じて「神殿（templum）」は第7章・第11章・第14章・第15章・第16章と繰り返し登場してきた礼拝的中心として機能してきた。第21章でその「神殿の不在」が宣言されることで、礼拝の場という概念自体が解体される。「Dominus enim Deus omnipotens templum illius est, et Agnus（全能の主なる神と小羊が都の神殿）」：神・小羊が「神殿（templum）」そのものであるという逆説的同定が、礼拝の「場所（locus）」から礼拝の「対象（Dominus Deus et Agnus）」への根本的転換として提示される。第8章v.1の「半時間の沈黙」・第15章v.8の「煙による神殿の閉鎖」という神殿の機能的限定が、第21章では「神殿の廃棄・神的同定」として解消される。マラルメ「骰子一擲」の「場所（lieu）」の絶対化と、「templum non vidi（神殿を見なかった）」という場所的礼拝の廃棄が逆説的照応として機能する。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Et civitas non eget sole neque luna ut luceant in ea, nam claritas Dei illuminavit eam, et lucerna ejus est Agnus.",
+      "body": "「都には太陽も月も必要としない（civitas non eget sole neque luna）──神の栄光が都を照らし（claritas Dei illuminavit eam）──小羊がそのともし火（lucerna ejus est Agnus）」──第21章の宇宙論的・光学的核心命題。「civitas non eget sole neque luna（太陽も月も必要としない）」：Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的支配が、「non eget sole（太陽を必要としない）」という太陽的時間秩序からの超越として廃棄される。イザヤ書第60章v.19「Non erit tibi amplius sol ad lucendum per diem, nec splendor lunae illuminabit te（太陽はもはやあなたの昼の光とならず、月の輝きもあなたを照らさない）」の終末論的実現として。「claritas Dei illuminavit eam（神の栄光が都を照らした）」：第18章v.1「terra illuminata est a gloria ejus（地は天使の栄光によって照らされた）」という天使の栄光による一時的照明から、第21章では「claritas Dei（神の栄光）」による永続的照明への移行として。「lucerna ejus est Agnus（小羊がそのともし火）」：第18章v.23「lux lucernae non lucebit in te amplius（ともし火の光はもはや輝かない）」というバビロンの「ともし火の消滅」と対称的に、第21章では「lucerna ejus est Agnus（小羊がともし火）」という永続的ともし火の確立として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Et ambulabunt gentes in lumine ejus: et reges terrae afferent gloriam suam et honorem in illam.",
+      "body": "「国民はその光の中を歩み（ambulabunt gentes in lumine ejus）──地の王たちは自分たちの栄光と誉れをその中に携えてくる（reges terrae afferent gloriam suam et honorem in illam）」──国民と王たちの新しいエルサレムへの参入。「ambulabunt gentes in lumine ejus（国民はその光の中を歩む）」：イザヤ書第60章v.3「Et ambulabunt gentes in lumine tuo（国民はあなたの光の中を歩む）」の直接引用として。「gentes（国民）」が第14章v.6「evangelizaret … super omnem gentem（あらゆる国民に宣べ伝える）」という永遠の福音の宣教対象であった者たちが、第21章では「in lumine ejus ambulabunt（その光の中を歩む）」という信仰の共同体として統合される。「reges terrae afferent gloriam suam et honorem in illam（地の王たちは栄光と誉れをその中に携えてくる）」：第18章で「バビロンと淫行を行った地の王たち（reges terrae fornicati sunt cum illa）」が、第21章では「新しいエルサレムに栄光と誉れをもたらす地の王たち（reges terrae afferent gloriam … in illam）」として変容されることで、「地の王たち（reges terrae）」というカテゴリー自体の審判的更新が示される。",
+      "targetId": "hieronymus_apocalypsis_18",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Et portae ejus non claudentur per diem: nox enim non erit illic.",
+      "body": "「都の門は昼の間は閉じられることがない（portae ejus non claudentur per diem）──そこには夜がないからである（nox enim non erit illic）」──開放の永続性と夜の廃棄という二重の宣言。「portae ejus non claudentur per diem（門は昼の間は閉じられることがない）」：イザヤ書第60章v.11「Et aperientur portae tuae jugiter（あなたの門は絶えず開かれている）」の終末論的実現として。「portae（門）」という語が第21章の十二の門（v.12–13・v.21・v.25）のモチーフを閉じる最終的言及として機能する──「開かれた門」という礼拝的通行の永続性として。「nox enim non erit illic（そこには夜がない）」：Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という昼夜の循環的交替が、「nox non erit（夜がない）」という夜の廃棄によって終止される。第14章v.11「nec habent requiem die ac nocte（昼も夜も安息を得ない）」という審判される者たちの「昼も夜も」の苦悩と対称的に、第21章では「夜がない（nox non erit）」という苦悩の時間的次元の廃棄として機能する。ローデンバック「沈黙について（Du Silence）」の「静寂と夜の詩学」との逆説的照応として。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 26,
+      "type": "prosody",
+      "anchor": "Et afferent gloriam et honorem gentium in illam.",
+      "body": "「国民の栄光と誉れが都の中に運び込まれる（afferent gloriam et honorem gentium in illam）」──わずか一節の簡潔な反復的補足として、v.24の「reges terrae afferent gloriam suam et honorem in illam（地の王たちは栄光と誉れをその中に携えてくる）」の確認的反復。「afferent … gloriam et honorem（栄光と誉れをもたらす）」という動詞句がv.24の「afferent gloriam suam et honorem in illam」と同型として繰り返されることで、「gloriam et honorem（栄光と誉れ）」のもたらしが単なる王たちの行為だけでなく「gentium（国民たちの）」という属格として普遍的共同体の行為として確認される。「in illam（その中に）」という方向的前置詞句が、新しいエルサレムへの不断の流入という動的運動を示す。第4–5章の天上的礼拝（「Dignus es … gloriam et honorem et virtutem（あなたは栄光・誉れ・力を受けるに値する）」）が、第21章では地上的共同体（国民・王たち）の自発的貢納として地上的次元に展開される。",
+      "targetId": "hieronymus_apocalypsis_4",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 27,
+      "type": "commentary",
+      "anchor": "Non intrabit in eam aliquod coinquinatum, aut abominationem faciens et mendacium, nisi qui scripti sunt in libro vitae Agni.",
+      "body": "「汚れたものは何も、また忌まわしいことや偽りを行う者は誰も、都に入ることはない（Non intrabit in eam aliquod coinquinatum … mendacium）──小羊の命の書に書き記されている者だけが（nisi qui scripti sunt in libro vitae Agni）」──第21章・Apocalypsis終末部の最終節・排除と包含の二重定式。「Non intrabit in eam aliquod coinquinatum（汚れたものは何も入ることはない）」：v.8の「stagno ardenti（燃える池）」への送達リスト（臆病者・不信仰者……偽り者）と応答的な排除の定式として。「aut abominationem faciens et mendacium（また忌まわしいことや偽りを行う者も）」：第17章v.5「mater … abominationum terrae（地の忌まわしいものの母）」というバビロンの本質的属性「abominatio（忌まわしいもの）」が排除の基準として反復される。「nisi qui scripti sunt in libro vitae Agni（小羊の命の書に書き記されている者だけが）」：第20章v.15「qui non inventus est in libro vitae scriptus（命の書に名が書き記されていない者は）」という審判の否定的定式が、第21章では「scripti sunt in libro vitae Agni（小羊の命の書に書き記されている者）」という肯定的包含の定式として転換される。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という人間的記憶の消滅の命題への最終的終末論的応答として──「libro vitae Agni（小羊の命の書）」という神的・永続的記憶が地上的忘却の彼方で持続することで、コヘレト的虚無論への根本的回答が第21章の最終節に凝縮される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
