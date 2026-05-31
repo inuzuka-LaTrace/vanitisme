@@ -1,0 +1,255 @@
+{
+  "id": "hieronymus_apocalypsis_20",
+  "title": "Apocalypsis, Caput XX",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XX. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+20&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第20章。第19章の白馬の騎者による獣と偽預言者の捕縛・火の池投入に続き、第20章は千年王国（mille anni）・サタンの一時的解放・最後の審判という三部構造で展開する。第一部（v.1–6）：天使による竜の捕縛・深淵への封印（千年間）・殉教者と刻印拒否者の復活（resurrectio prima）・千年統治。第二部（v.7–10）：千年後のサタン解放・ゴグとマゴグ（Gog et Magog）の集結・天からの火による殲滅・サタンの火と硫黄の池への投入（獣・偽預言者の已に在る場所へ）。第三部（v.11–15）：白い大いなる御座（thronum magnum candidum）と大審判・書物の開封・死者の業による裁き・死と黄泉の火の池への投入（mors secunda：第二の死）・命の書（liber vitae）に名のない者の火の池への投入。VANITISMEコーパスにおける位置づけ：第20章はApocalypsis全体の時間論・記憶論・審判論の神学的集成として機能する。v.11「a cujus conspectu fugit terra, et caelum, et locus non est inventus eis（その御前から地と天は逃げ去り、場所は見出されなかった）」というEcclesiastes的「地の永続性（terra in aeternum stat）」の完全な否定は、コーパス全体の最も根本的な逆転として機能する。v.12「libri aperti sunt（書物が開かれた）」という最後の審判の書物的形象は、マラルメ「書物（le Livre）」の詩学・書くことと存在の終末論的照応として最も密度高く展開する。「mors secunda（第二の死）」（v.14）という死の二重化の命題は、Ecclesiastes第1章の「afflictio spiritus（霊の苦悩）」という一回的苦悩を超えた存在論的「死の死」の定式として読める。",
+  "keywords": [
+    "clavem abyssi",
+    "catenam magnam",
+    "serpentem antiquum ligavit",
+    "mille anni",
+    "resurrectio prima",
+    "mors secunda",
+    "Gog et Magog",
+    "thronum magnum candidum",
+    "libri aperti",
+    "liber vitae",
+    "mors et infernus in stagnum ignis",
+    "secundum opera ipsorum"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_19",
+    "hieronymus_apocalypsis_12",
+    "hieronymus_apocalypsis_6",
+    "hieronymus_apocalypsis_1",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "mallarme_coup_de_des",
+    "mallarme_livre_instrument",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Et vidi angelum descendentem de caelo, habentem clavem abyssi, et catenam magnam in manu sua.",
+      "provisionalTranslation": "私は天から降ってくる天使を見た。天使は深淵の鍵と大きな鎖を手に持っていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "original": "Et apprehendit draconem, serpentem antiquum, qui est diabolus, et Satanas, et ligavit eum per annos mille:",
+      "provisionalTranslation": "天使は竜、すなわち悪魔またサタンである古い蛇を捕まえ、千年の間縛った。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3",
+      "original": "et misit eum in abyssum, et clausit, et signavit super illum ut non seducat amplius gentes, donec consummentur mille anni: et post haec oportet illum solvi modico tempore.",
+      "provisionalTranslation": "天使は竜を深淵に投げ込み、閉じて、千年が終わるまで国民を惑わすことがないよう封印した。その後、竜はしばらくの間解き放たれなければならない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4",
+      "original": "Et vidi sedes, et sederunt super eas, et judicium datum est illis: et animas decollatorum propter testimonium Jesu, et propter verbum Dei, et qui non adoraverunt bestiam, neque imaginem ejus, nec acceperunt caracterem ejus in frontibus, aut in manibus suis, et vixerunt, et regnaverunt cum Christo mille annis.",
+      "provisionalTranslation": "私は座席を見た。そこに人々が座り、彼らに裁きの権威が与えられた。またイエスの証しと神の言葉のゆえに首を斬られた者たちの魂を見た。獣もその像も礼拝せず、額や手に刻印を受けなかった者たちが生き返り、キリストとともに千年の間王として治めた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.5",
+      "original": "Ceteri mortuorum non vixerunt, donec consummentur mille anni. Haec est resurrectio prima.",
+      "provisionalTranslation": "その他の死者たちは千年が終わるまで生き返らなかった。これが第一の復活である。"
+    },
+    {
+      "id": 6,
+      "verses": "v.6",
+      "original": "Beatus, et sanctus, qui habet partem in resurrectione prima: in his secunda mors non habet potestatem: sed erunt sacerdotes Dei et Christi, et regnabunt cum illo mille annis.",
+      "provisionalTranslation": "第一の復活にあずかる者は幸いで聖なる者である。これらの者に対しては第二の死は権能を持たない。彼らは神とキリストの祭司となり、千年の間キリストとともに王として治めるであろう。"
+    },
+    {
+      "id": 7,
+      "verses": "v.7",
+      "original": "Et cum consummati fuerint mille anni, solvetur Satanas de carcere suo, et exibit, et seducet gentes, quae sunt super quatuor angulos terrae, Gog, et Magog, et congregabit eos in praelium, quorum numerus est sicut arena maris.",
+      "provisionalTranslation": "千年が終わると、サタンは牢獄から解き放たれ、出て行って地の四隅にいる国民、ゴグとマゴグを惑わし、戦いのために集める。その数は海の砂のようである。"
+    },
+    {
+      "id": 8,
+      "verses": "v.8",
+      "original": "Et ascenderunt super latitudinem terrae, et circuierunt castra sanctorum, et civitatem dilectam.",
+      "provisionalTranslation": "彼らは地の広野に上り、聖徒たちの陣営と愛された都を取り囲んだ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9",
+      "original": "Et descendit ignis a Deo de caelo, et devoravit eos: et diabolus, qui seducebat eos, missus est in stagnum ignis, et sulphuris, ubi et bestia",
+      "provisionalTranslation": "すると神から天下って火が降り、彼らを焼き尽くした。そして彼らを惑わしていた悪魔は火と硫黄の池に投げ込まれた。そこには獣も"
+    },
+    {
+      "id": 10,
+      "verses": "v.10",
+      "original": "et pseudopropheta cruciabuntur die ac nocte in saecula saeculorum.",
+      "provisionalTranslation": "偽預言者もいて、彼らは永遠に永遠に昼も夜も苦しめられる。"
+    },
+    {
+      "id": 11,
+      "verses": "v.11",
+      "original": "Et vidi thronum magnum candidum, et sedentem super eum, a cujus conspectu fugit terra, et caelum, et locus non est inventus eis.",
+      "provisionalTranslation": "私は大きく白い御座と、そこに座っている方を見た。その御前から地と天は逃げ去り、それらの場所は見出されなかった。"
+    },
+    {
+      "id": 12,
+      "verses": "v.12",
+      "original": "Et vidi mortuos, magnos et pusillos, stantes in conspectu throni, et libri aperti sunt: et alius liber apertus est, qui est vitae: et judicati sunt mortui ex his, quae scripta erant in libris, secundum opera ipsorum:",
+      "provisionalTranslation": "私は死者たちを見た。大きな者も小さな者も、御座の前に立っていた。書物が開かれた。また命の書である別の書物も開かれた。死者たちは書物に書かれていることに従って、自分たちの行いによって裁かれた。"
+    },
+    {
+      "id": 13,
+      "verses": "v.13",
+      "original": "et dedit mare mortuos, qui in eo erant: et mors et infernus dederunt mortuos suos, qui in ipsis erant: et judicatum est de singulis secundum opera ipsorum.",
+      "provisionalTranslation": "海はその中にいた死者を引き渡した。死と黄泉の国はその中にいた死者を引き渡した。それぞれの者が自分の行いによって裁かれた。"
+    },
+    {
+      "id": 14,
+      "verses": "v.14",
+      "original": "Et infernus et mors missi sunt in stagnum ignis. Haec est mors secunda.",
+      "provisionalTranslation": "黄泉の国と死は火の池に投げ込まれた。これが第二の死である。"
+    },
+    {
+      "id": 15,
+      "verses": "v.15",
+      "original": "Et qui non inventus est in libro vitae scriptus, missus est in stagnum ignis.",
+      "provisionalTranslation": "命の書に名が書き記されていない者は、誰でも火の池に投げ込まれた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "angelum descendentem de caelo, habentem clavem abyssi, et catenam magnam in manu sua.",
+      "body": "「天から降ってくる天使（angelum descendentem de caelo）──深淵の鍵と大きな鎖（clavem abyssi, et catenam magnam）」──第20章の開口部にして竜の拘束という終末論的行為の準備。「clavem abyssi（深淵の鍵）」：第1章v.18「habeo claves mortis, et inferni（私は死と黄泉の鍵を持っている）」という復活のキリストの「鍵（claves）」の保有宣言の反響として──第1章で白馬の騎者が宣言した「死と黄泉の鍵」が、第20章では天使に付与された「深淵の鍵（clavis abyssi）」として執行される。第9章v.1「data est ei clavis putei abyssi（深淵の穴の鍵が彼に与えられた）」という星の落下・深淵開口の場面と対称的に、第20章では深淵を「閉じる・封印する（claudere・signare）」ための鍵として機能が逆転される。「catenam magnam in manu sua（手に大きな鎖）」：「catena（鎖）」という物理的拘束の道具が、竜という超自然的存在への適用として終末論的拘束の物質的形象として機能する。ヴェイユ「Nécessité」章の「必然は神の間接的拘束として働く」という命題が、「catenam magnam（大きな鎖）」という物理的必然としての拘束に照応する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et apprehendit draconem, serpentem antiquum, qui est diabolus, et Satanas, et ligavit eum per annos mille:",
+      "body": "「竜、古い蛇、悪魔またサタンを捕まえ（apprehendit draconem, serpentem antiquum, qui est diabolus, et Satanas）──千年の間縛った（ligavit eum per annos mille）」──第12章の竜の同定定式の反復と千年拘束の宣言。「draconem, serpentem antiquum, qui est diabolus, et Satanas」：第12章v.9「draco ille magnus, serpens antiquus, qui vocatur diabolus, et Satanas（かの大きな竜、古い蛇、悪魔またサタンと呼ばれる者）」の四重の名の反復として──第12章での「投げ落とされた（projectus est）」という追放から、第20章では「捕まえられ縛られた（apprehendit … ligavit）」という物理的拘束へと強度が移行する。「ligavit eum per annos mille（千年の間縛った）」：「mille anni（千年）」という数が第20章全体の時間的骨格として六回反復される（v.2・v.3・v.4・v.5・v.6・v.7）。千年王国論（千年期説・Millenarismus）は初代教会以来の神学的争点であり、ヴルガータの「mille anni」という明確な定式がその議論の中心的テキストとなる。Ecclesiastes第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」という時間の循環的無限性に対し、「mille anni（千年）」という有限の時間的区切りが終末論的時間の可視化として機能する。",
+      "targetId": "hieronymus_apocalypsis_12",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "misit eum in abyssum, et clausit, et signavit super illum ut non seducat amplius gentes, donec consummentur mille anni: et post haec oportet illum solvi modico tempore.",
+      "body": "「深淵に投げ込み、閉じて、封印した（misit eum in abyssum, et clausit, et signavit）──千年が終わるまで国民を惑わすことがないよう（ut non seducat amplius gentes）──その後、しばらくの間解き放たれなければならない（oportet illum solvi modico tempore）」──竜の三重拘束と「oportet（必然）」による一時的解放の予告。「misit … clausit … signavit（投げ込み・閉じて・封印した）」：三つの動詞の連続が拘束の段階的徹底性を示す──投入・閉鎖・封印という三重封印の構造として。「ut non seducat amplius gentes（もはや国民を惑わすことがないよう）」：第12章v.9「qui seducit universum orbem（全世界を惑わす者）」という竜の本質的行為の停止が「non … amplius（もはや……ない）」という第18章の沈黙定式と同型の語句で宣言される。「oportet illum solvi modico tempore（しばらくの間解き放たれなければならない）」：「oportet（〜しなければならない）」という必然を示す非人称動詞が、サタンの一時的解放を神的섭리の必然性として定式化する──Ecclesiastes第1章v.15「Perversi difficile corriguntur（曲がったものは正すことは難しい）」という人間的不可逆性が、「oportet（必然）」という神的섭理の枠組みの中に位置づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "animas decollatorum propter testimonium Jesu, et propter verbum Dei, et qui non adoraverunt bestiam, neque imaginem ejus, nec acceperunt caracterem ejus in frontibus, aut in manibus suis, et vixerunt, et regnaverunt cum Christo mille annis.",
+      "body": "「首を斬られた者たちの魂（animas decollatorum）──イエスの証しと神の言葉のゆえに（propter testimonium Jesu, et propter verbum Dei）──獣もその像も礼拝せず、刻印を受けなかった者たち（qui non adoraverunt … nec acceperunt caracterem）──キリストとともに千年の間王として治めた（regnaverunt cum Christo mille annis）」──第一の復活の参加者の定義的列挙。「animas decollatorum（首を斬られた者たちの魂）」：「decollatorum（首を斬られた）」という殉教形式の具体性が、第6章v.9の「animas interfectorum propter verbum Dei（神の言葉のために殺された者たちの魂）」という表現に具体的身体的形象を加える。「qui non adoraverunt bestiam, neque imaginem ejus, nec acceperunt caracterem ejus in frontibus, aut in manibus suis」：第13章の獣礼拝・刻印強制への拒否の三重定式が、第20章では千年統治の参加資格として確認される──第13章の拒絶が第20章の特権として反転する逆転の構造。「regnaverunt cum Christo mille annis（キリストとともに千年の間王として治めた）」：「regnaverunt（王として治めた）」という完了形が過去的実現として提示されることで、千年王国が予告ではなくヨハネの「見た（vidi）」事象として報告される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ceteri mortuorum non vixerunt, donec consummentur mille anni. Haec est resurrectio prima.",
+      "body": "「その他の死者たちは千年が終わるまで生き返らなかった（Ceteri mortuorum non vixerunt, donec consummentur mille anni）──これが第一の復活である（Haec est resurrectio prima）」──「第一の復活（resurrectio prima）」という概念の導入と「第二の死」への伏線。「Ceteri mortuorum non vixerunt（その他の死者たちは生き返らなかった）」：「Ceteri（その他の者たち）」という限定語が第一の復活を「特権的・排他的」な復活として定義する──すべての死者が復活するのではなく、特定の者たちのみが「先に」復活するという二段階の復活論。「donec consummentur mille anni（千年が終わるまで）」：「consummentur（終わるまで）」という接続法が千年という時間的限定の完了を条件として示す──v.7「cum consummati fuerint mille anni（千年が終わると）」という千年の完了が第二の復活・最後の審判への転換点として機能する。「Haec est resurrectio prima（これが第一の復活）」：「Haec est（これが〜である）」という同定的定式が第14章v.12「Hic est patientia sanctorum（ここに聖徒たちの忍耐がある）」・第13章v.18「Hic sapientia est（ここに知恵がある）」という定式の系列の中に位置づけられる。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Beatus, et sanctus, qui habet partem in resurrectione prima: in his secunda mors non habet potestatem: sed erunt sacerdotes Dei et Christi, et regnabunt cum illo mille annis.",
+      "body": "「第一の復活にあずかる者は幸いで聖なる者（Beatus, et sanctus, qui habet partem in resurrectione prima）──第二の死は権能を持たない（secunda mors non habet potestatem）──神とキリストの祭司（sacerdotes Dei et Christi）──千年の間王として治める（regnabunt cum illo mille annis）」──Apocalypsis第五の「幸い（Beatus）」宣言・「第二の死（mors secunda）」概念の導入。「Beatus, et sanctus（幸いで聖なる者）」：第14章v.13「Beati mortui（幸いな死者たち）」・第19章v.9「Beati qui ad coenam nuptiarum Agni vocati sunt（幸い、招かれた者）」に続くApocalypsis第五の幸い宣言として。「Beatus」に「sanctus（聖なる）」が加えられることで、幸いの倫理的・霊的次元が強調される。「secunda mors non habet potestatem（第二の死は権能を持たない）」：「mors secunda（第二の死）」という概念がv.14で「stagnum ignis（火の池）」と同定される前に、ここでは権能の不在として否定的に定義される──「第二の死」が第一の復活参加者に「権能（potestas）」を持たないという逆説として。「sacerdotes Dei et Christi（神とキリストの祭司）」：第1章v.6「fecit nos regnum, et sacerdotes Deo et Patri suo（私たちを王国と祭司とされた）」という書の冒頭的宣言の千年王国的実現として。",
+      "targetId": "hieronymus_apocalypsis_19",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "solvetur Satanas de carcere suo, et exibit, et seducet gentes, quae sunt super quatuor angulos terrae, Gog, et Magog, et congregabit eos in praelium, quorum numerus est sicut arena maris.",
+      "body": "「サタンは牢獄から解き放たれ（solvetur Satanas de carcere suo）──ゴグとマゴグを惑わし（seducet gentes … Gog, et Magog）──その数は海の砂のようである（quorum numerus est sicut arena maris）」──千年後のサタン解放とゴグとマゴグの集結。「solvetur Satanas de carcere suo（サタンは牢獄から解き放たれる）」：v.3「oportet illum solvi modico tempore（しばらくの間解き放たれなければならない）」という必然の予告が「solvetur（解き放たれる）」という未来形として実行される──予告から成就への移行として。「Gog, et Magog」：エゼキエル書第38–39章のゴグとマゴグ（北方の民族・終末論的敵対者の象徴）の直接引用として、旧約的終末論的形象が第20章での最終決戦の参加者として召喚される。「numerus est sicut arena maris（その数は海の砂のよう）」：創世記第22章v.17「multiplicabo semen tuum sicut stellas caeli, et velut arenam maris（天の星のように、海の砂のように）」というアブラハムへの祝福の「海の砂」という数の無限性が、第20章では敵の無数性の形象として転用される。第12章v.18「Et stetit supra arenam maris（竜は海の砂の上に立った）」との照応として、竜が立った「海の砂」が第20章では敵軍の「数（numerus）」として実現する。",
+      "targetId": "hieronymus_apocalypsis_12",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et ascenderunt super latitudinem terrae, et circuierunt castra sanctorum, et civitatem dilectam.",
+      "body": "「地の広野に上り（ascenderunt super latitudinem terrae）──聖徒たちの陣営と愛された都を取り囲んだ（circuierunt castra sanctorum, et civitatem dilectam）」──ゴグとマゴグの包囲攻撃。「super latitudinem terrae（地の広野に上り）」：「latitudo（広野・幅・広がり）」という語が地の空間的全面性を示す──v.7「super quatuor angulos terrae（地の四隅）」という方位的包括性が、v.8では「latitudo（広野全体）」という面的包括性として展開される。「circuierunt castra sanctorum（聖徒たちの陣営を取り囲んだ）」：「circuire（取り囲む・巡る）」という動詞がEcclesiastes第1章v.6「in circulos suos revertitur（その巡回へと戻る）」という風の循環的運動と同根として、コヘレト的「循環（circulus）」が第20章では軍事的「包囲（circuire）」として終末論的に変容する。「civitatem dilectam（愛された都）」：詩篇第87篇v.2「Diligit Dominus portas Sion（主はシオンの門を愛される）」という「愛された都（civitas dilecta）」への攻撃として、愛という関係性が軍事的脅威の対象として提示される逆説。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Et descendit ignis a Deo de caelo, et devoravit eos: et diabolus, qui seducebat eos, missus est in stagnum ignis, et sulphuris, ubi et bestia",
+      "body": "「神から天下って火が降り、彼らを焼き尽くした（descendit ignis a Deo de caelo, et devoravit eos）──悪魔は火と硫黄の池に投げ込まれた（missus est in stagnum ignis, et sulphuris）──そこには獣も（ubi et bestia）」──ゴグとマゴグの殲滅とサタンの最終処分・二段落にまたがる一文の前半。「descendit ignis a Deo de caelo（神から天下って火が降り）」：エゼキエル書第38章v.22「pluviam inundantem, et lapides sulphuris ignemque pluam super eum（火と硫黄の雨を彼の上に降らせる）」というゴグへの審判の直接的実現として。第13章v.13「ignem faceret de caelo descendere in terram（天から地に火を降らせる）」という偽預言者の偽の奇跡と対称的に、第20章では「ignis a Deo de caelo（神から天下る火）」という真の神的火が実行される。「devoravit eos（彼らを焼き尽くした）」：「devorare（飲み込む・焼き尽くす）」という動詞が第12章v.4「filium ejus devoraret（子を飲み込もうとした）」という竜の捕食的意図の神的反転として──竜が「飲み込もうとした」のに対し、神の火が「飲み込む（devoravit）」。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "et pseudopropheta cruciabuntur die ac nocte in saecula saeculorum.",
+      "body": "「偽預言者もいて、彼らは永遠に永遠に昼も夜も苦しめられる（cruciabuntur die ac nocte in saecula saeculorum）」──v.9からの一文の後半・第19章の「stagnum ignis ardentis sulphure」に続く三者（悪魔・獣・偽預言者）の永遠の刑罰の確認。「die ac nocte in saecula saeculorum（昼も夜も永遠に永遠に）」：第14章v.11「nec habent requiem die ac nocte, qui adoraverunt bestiam（昼も夜も安息を得ない）」という獣礼拝者への審判宣言の定型句「die ac nocte（昼も夜も）」に「in saecula saeculorum（永遠に永遠に）」という永続性の定式が加わる形として──第14章での予告が第20章での確認として完成される。第12章v.10「qui accusabat illos … die ac nocte（昼も夜も告発していた者）」というサタンの「die ac nocte」の告発活動が、第20章では「cruciabuntur die ac nocte（昼も夜も苦しめられる）」という被告発者から被罰者への転換として機能する。「in saecula saeculorum（永遠に永遠に）」：典礼的頌栄の「世々に至るまで」という礼拝的永続性の定式が審判の永続性として転用されるApocalypsis全体の反復的逆転の最終的確認として。",
+      "targetId": "hieronymus_apocalypsis_14",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Et vidi thronum magnum candidum, et sedentem super eum, a cujus conspectu fugit terra, et caelum, et locus non est inventus eis.",
+      "body": "「大きく白い御座（thronum magnum candidum）──その御前から地と天は逃げ去り（a cujus conspectu fugit terra, et caelum）──それらの場所は見出されなかった（locus non est inventus eis）」──第20章の神学的・宇宙論的頂点。「thronum magnum candidum（大きく白い御座）」：第4章v.2「thronus positus erat in caelo（御座が天に置かれていた）」という書全体の礼拝的中心としての御座が、第20章では最後の審判の場として「magnum（大きく）・candidum（白い）」という二修飾語によって絶対的最大化として提示される。「a cujus conspectu fugit terra, et caelum（その御前から地と天は逃げ去り）」：Ecclesiastes第1章v.4「terra autem in aeternum stat（大地は永遠に立ち続ける）」というコヘレトの根本命題への直接的終末論的否定として──「大地は永遠に立つ」という地の永続性の命題が「fugit terra（地は逃げ去った）」という地の逃走によって根底から否定される。「locus non est inventus eis（それらの場所は見出されなかった）」：第12章v.8「neque locus inventus est eorum amplius in caelo（天にはもはや彼らの場所がなくなった）」という竜の天からの追放での「locus non inventus（場所が見出されなかった）」の反復として──竜の「場所の喪失」が、最後の審判では宇宙全体の「場所の喪失」として拡大される。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」という「場所（lieu）」の絶対化と、「locus non est inventus（場所は見出されなかった）」という場所の消滅が対称的に照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Et vidi mortuos, magnos et pusillos, stantes in conspectu throni, et libri aperti sunt: et alius liber apertus est, qui est vitae: et judicati sunt mortui ex his, quae scripta erant in libris, secundum opera ipsorum:",
+      "body": "「死者たちが、大きな者も小さな者も、御座の前に立っていた（mortuos, magnos et pusillos, stantes in conspectu throni）──書物が開かれた（libri aperti sunt）──命の書（liber qui est vitae）──書物に書かれていることに従って自分たちの行いによって裁かれた（secundum opera ipsorum）」──最後の大審判の書物的形象。「mortuos, magnos et pusillos（大きな者も小さな者も、死者たち）」：第19章v.18「pusillorum et magnorum（小さな者も大きな者も）」という「coena magna Dei（神の大いなる晩餐）」の社会的包括性が、第20章では大審判の参加者として反復される。「libri aperti sunt（書物が開かれた）」：ダニエル書第7章v.10「judicum sedit, et libri aperti sunt（審判が座し、書物が開かれた）」の終末論的実現として。「書物（libri）」の複数形と「命の書（liber vitae）」の単数形という二種の書物の並置が、行為の記録としての複数の書と救済の記録としての単数の書の根本的差異を形象化する。「secundum opera ipsorum（自分たちの行いによって）」：Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という地上的労苦への問いが、「opera（行い・業）」という同根語を通じて大審判の基準として終末論的に応答される──コヘレト的「労苦（labor）」が審判的「業（opera）」として意味転換される。マラルメ「書物（le Livre）」の「書物は宇宙の孤児的器官」という詩的書物論と、「libri aperti sunt（書物が開かれた）」という審判的書物開封の終末論的照応として。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "et dedit mare mortuos, qui in eo erant: et mors et infernus dederunt mortuos suos, qui in ipsis erant: et judicatum est de singulis secundum opera ipsorum.",
+      "body": "「海はその中にいた死者を引き渡した（dedit mare mortuos, qui in eo erant）──死と黄泉の国はその中にいた死者を引き渡した（mors et infernus dederunt mortuos suos）──それぞれの者が自分の行いによって裁かれた（judicatum est de singulis secundum opera ipsorum）」──死者回収の三源泉と普遍的審判の定式。「mare … dedit mortuos（海は死者を引き渡した）」：第16章v.3「factus est sanguis tamquam mortui … omnis anima vivens mortua est in mari（海の中のすべての生き物が死んだ）」という第二の鉢での海の死者の最終的回収として機能する。「mors et infernus dederunt mortuos suos（死と黄泉の国は死者を引き渡した）」：第1章v.18「habeo claves mortis, et inferni（私は死と黄泉の鍵を持っている）」というキリストの宣言が、第20章では「死と黄泉の国（mors et infernus）」が死者を審判に「引き渡す（dederunt）」という最終的鍵の行使として実現する。「judicatum est de singulis（それぞれの者が裁かれた）」：「de singulis（それぞれの者について）」という「個別的・一者一者の」審判が、群衆的・集合的ではなく個人的・特殊的な審判として強調される。Iob第1章v.21の「主は与え、主は取られた」という一者的・個人的神との関係が、第20章の「singulis（一人ひとり）」という個人的審判として構造的に照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Et infernus et mors missi sunt in stagnum ignis. Haec est mors secunda.",
+      "body": "「黄泉の国と死は火の池に投げ込まれた（infernus et mors missi sunt in stagnum ignis）──これが第二の死である（Haec est mors secunda）」──第20章・Apocalypsis終末部の最も深い神学的命題。「infernus et mors missi sunt in stagnum ignis（黄泉の国と死は火の池に投げ込まれた）」：「死（mors）」と「黄泉の国（infernus）」という概念的・非物質的存在が、具体的な「stagnum ignis（火の池）」という物質的場所に「投げ込まれる（missi sunt）」という物質化の逆説として機能する。第6章v.8の青白馬の騎者「nomen illi Mors（その名は死）」・「infernus sequebatur eum（黄泉の国が後に従っていた）」という死と黄泉の擬人化的登場が、第20章では審判される対象として「stagnum ignis（火の池）」に投入される──第6章での「地の四分の一への権能」が第20章では剥奪・廃棄される逆転として。「Haec est mors secunda（これが第二の死）」：「Haec est（これが〜である）」という定義的同定が「mors secunda（第二の死）」という概念を「stagnum ignis（火の池）」として確定する。Ecclesiastes第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という累積的苦悩の定式に対し、「mors secunda（第二の死）」という死の二重化が、コヘレト的一回性の苦悩を超えた存在論的最終的廃棄として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et qui non inventus est in libro vitae scriptus, missus est in stagnum ignis.",
+      "body": "「命の書に名が書き記されていない者は、誰でも火の池に投げ込まれた（qui non inventus est in libro vitae scriptus, missus est in stagnum ignis）」──第20章・Apocalypsis審判系列の最終節。「qui non inventus est in libro vitae scriptus（命の書に名が書き記されていない者）」：「non inventus est（見出されなかった）」という否定的発見の動詞が、v.11「locus non est inventus eis（場所は見出されなかった）」の「locus（場所）」の消滅と対称的に、「名（nomen）」の不在として提示される──消えた場所と書かれなかった名という二重の「非発見（non inventus）」として。「in libro vitae（命の書に）」：第13章v.8「quorum non sunt scripta nomina in libro vitae Agni ab origine mundi（世の初めから小羊の命の書に名が書き記されていない者たち）」という「書に名のない者（獣の礼拝者）」への言及の終末論的成就として──第13章での「礼拝者の識別」が第20章では「審判の確認」として完結される。Ecclesiastes第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という人間的記憶の消滅の命題に対し、「libro vitae scriptus（命の書に書き記された）」という神的記憶の永続的保持が最終的応答として機能する──地上では記憶されなくとも「命の書」に書かれているという終末論的保証、あるいはその不在による最終的消滅という二分法として、コヘレト的虚無論への根本的回答が第20章の最終節に凝縮される。",
+      "targetId": "hieronymus_apocalypsis_13",
+      "targetParagraphId": 8
+    }
+  ]
+}
