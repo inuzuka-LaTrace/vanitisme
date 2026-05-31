@@ -1,0 +1,236 @@
+{
+  "id": "hieronymus_apocalypsis_22",
+  "title": "Apocalypsis, Caput XXII",
+  "author": "Eusebius Sophronius Hieronymus",
+  "source": "Biblia Sacra Vulgata, Apocalypsis Jesu Christi, Caput XXII. Bible Gateway: https://www.biblegateway.com/passage/?search=Revelation+22&version=VULGATE",
+  "year": "Antiquitas",
+  "firstPublication": "Vulgata Latina, c. 382–405 AD（ヒエロニムス訳）",
+  "difficulty": "中級",
+  "category": "hieronymus",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ヨハネの黙示録第22章・最終章。Apocalypsis全体の結語として三つの声部が交差する。第一部（v.1–5）：新しいエルサレムの内部──命の水の川（fluvius aquae vitae）・命の木（lignum vitae）・呪いの廃棄・神の顔の直視（videbunt faciem ejus）・永遠の統治。第二部（v.6–19）：エピローグ的多声的宣言──天使の「これらの言葉は真実で確か（fidelissima et vera）」・キリストの「速やかに来る（venio velociter / venio cito）」の三回反復・第六の幸い宣言（Beatus qui custodit：v.7）・ヨハネの二度目の天使礼拝と禁止（v.8–9）・「書を封印するな（Ne signaveris）」（v.10）・状態の固定化（v.11）・「報い（merces）を携えて来る」（v.12）・第三のAlpha et Omega宣言（v.13）・第七の幸い宣言（v.14）・外にいる者の定義（v.15）・イエスの直接自己証言（v.16）・「来い（Veni）」の三重招待（v.17）・書への付加・削減禁止（v.18–19）。第三部（v.20–21）：最終的「速やかに来る（venio cito）」・「アーメン、主イエスよ、来てください（Veni, Domine Jesu）」・恵みの祝祷（v.21）。VANITISMEコーパスにおける位置づけ：第22章はApocalypsis全体・ヒエロニムスのラテン語コーパス全体の最終的閉幕として、Ecclesiastes第1章の「Vanitas vanitatum（虚無の虚無）・afflictio spiritus（霊の苦悩）・Nihil sub sole novum（太陽の下に新しいものは何もない）」という三大命題への完結的応答を提供する。v.2「lignum vitae（命の木）」は創世記第2–3章のエデンへの回帰として創造の環を閉じ、v.5「regnabunt in saecula saeculorum（永遠に統治する）」はEcclesiastes的「sub sole（太陽の下）」の労苦の彼方に開かれた永続的な王的存在として、v.20「Veni, Domine Jesu（主イエスよ、来てください）」はApocalypsis全体・聖書全体の最後の祈りとして、Ecclesiastes「Vanitas vanitatum」から出発したVANITISMEのコーパス的営みの最終的極点となる。",
+  "keywords": [
+    "fluvius aquae vitae",
+    "lignum vitae fructus duodecim",
+    "omne maledictum non erit",
+    "videbunt faciem ejus",
+    "nox ultra non erit",
+    "venio velociter",
+    "Ne signaveris",
+    "alpha et omega primus et novissimus",
+    "Beati qui lavant stolas",
+    "stella splendida et matutina",
+    "Veni Domine Jesu",
+    "Gratia Domini nostri Jesu Christi"
+  ],
+  "relatedTexts": [
+    "hieronymus_apocalypsis_21",
+    "hieronymus_apocalypsis_20",
+    "hieronymus_apocalypsis_1",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_12",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "mallarme_coup_de_des",
+    "dante_paradiso_canto_33",
+    "rilke_duineser_elegien_01",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {"id": 1, "verses": "v.1", "original": "Et ostendit mihi fluvium aquae vitae, splendidum tamquam crystallum, procedentem de sede Dei et Agni.", "provisionalTranslation": "天使は私に、神と小羊の御座から流れ出る命の水の川を見せてくれた。水晶のように輝いていた。"},
+    {"id": 2, "verses": "v.2", "original": "In medio plateae ejus, et ex utraque parte fluminis, lignum vitae, afferens fructus duodecim per menses singulos, reddens fructum suum et folia ligni ad sanitatem gentium.", "provisionalTranslation": "都の大通りの中央と川の両岸に命の木があり、毎月十二種の実を実らせ、その実を産し、木の葉は国民を癒すためのものであった。"},
+    {"id": 3, "verses": "v.3", "original": "Et omne maledictum non erit amplius: sed sedes Dei et Agni in illa erunt, et servi ejus servient illi.", "provisionalTranslation": "もはや何の呪いもない。神と小羊の御座が都の中にあり、神のしもべたちは神に仕える。"},
+    {"id": 4, "verses": "v.4", "original": "Et videbunt faciem ejus: et nomen ejus in frontibus eorum.", "provisionalTranslation": "しもべたちは神の顔を見る。神の名が彼らの額にある。"},
+    {"id": 5, "verses": "v.5", "original": "Et nox ultra non erit: et non egebunt lumine lucernae, neque lumine solis, quoniam Dominus Deus illuminabit illos, et regnabunt in saecula saeculorum.", "provisionalTranslation": "もはや夜はない。ともし火の光も太陽の光も必要としない。主なる神が彼らを照らすからである。彼らは永遠に永遠に王として治める。"},
+    {"id": 6, "verses": "v.6", "original": "Et dixit mihi: Haec verba fidelissima sunt, et vera. Et Dominus Deus spirituum prophetarum misit angelum suum ostendere servis suis quae oportet fieri cito.", "provisionalTranslation": "天使は私に言った。「これらの言葉は真実で確かである。主なる神、預言者たちの霊の神は、すぐに起こらなければならないことをそのしもべたちに示すために御使いを遣わされた。」"},
+    {"id": 7, "verses": "v.7", "original": "Et ecce venio velociter. Beatus, qui custodit verba prophetiae libri hujus.", "provisionalTranslation": "「見よ、私は速やかに来る。この書の預言の言葉を守る者は幸いである。」"},
+    {"id": 8, "verses": "v.8", "original": "Et ego Joannes, qui audivi, et vidi haec. Et postquam audissem, et vidissem, cecidi ut adorarem ante pedes angeli, qui mihi haec ostendebat:", "provisionalTranslation": "これらのことを聞き見たのは私、ヨハネである。私は聞き見たとき、これらのことを見せてくれた天使の足元に倒れて礼拝しようとした。"},
+    {"id": 9, "verses": "v.9", "original": "et dixit mihi: Vide ne feceris: conservus enim tuus sum, et fratrum tuorum prophetarum, et eorum qui servant verba prophetiae libri hujus: Deum adora.", "provisionalTranslation": "すると天使は言った。「そのようなことをしてはいけない。私はあなたと、あなたの兄弟である預言者たちと、この書の預言の言葉を守る者たちと同じしもべである。神を礼拝せよ。」"},
+    {"id": 10, "verses": "v.10", "original": "Et dicit mihi: Ne signaveris verba prophetiae libri hujus: tempus enim prope est.", "provisionalTranslation": "また天使は私に言った。「この書の預言の言葉を封印してはならない。時は近いからである。」"},
+    {"id": 11, "verses": "v.11", "original": "Qui nocet, noceat adhuc: et qui in sordibus est, sordescat adhuc: et qui justus est, justificetur adhuc: et sanctus, sanctificetur adhuc.", "provisionalTranslation": "「害を与える者はなおも害を与えよ。汚れた者はなおも汚れたままであれ。正しい者はなおも正しくあれ。聖なる者はなおも聖なるままであれ。」"},
+    {"id": 12, "verses": "v.12", "original": "Ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.", "provisionalTranslation": "「見よ、私は速やかに来る。それぞれの者の行いに従って報いを与えるために、私の報いを携えてくる。」"},
+    {"id": 13, "verses": "v.13", "original": "Ego sum alpha et omega, primus et novissimus, principium et finis.", "provisionalTranslation": "「私はアルファであり、オメガである。最初の者であり、最後の者である。始まりであり終わりである。」"},
+    {"id": 14, "verses": "v.14", "original": "Beati, qui lavant stolas suas in sanguine Agni: ut sit potestas eorum in ligno vitae, et per portas intrent in civitatem.", "provisionalTranslation": "「自分の衣を小羊の血で洗う者たちは幸いである。命の木に対する権能を持ち、門を通って都に入るために。」"},
+    {"id": 15, "verses": "v.15", "original": "Foris canes, et venefici, et impudici, et homicidae, et idolis servientes, et omnis qui amat et facit mendacium.", "provisionalTranslation": "「外には犬ども、妖術師、淫行する者、殺人者、偶像に仕える者、そして偽りを愛し行う者がいる。」"},
+    {"id": 16, "verses": "v.16", "original": "Ego Jesus misi angelum meum testificari vobis haec in ecclesiis. Ego sum radix, et genus David, stella splendida et matutina.", "provisionalTranslation": "「私イエスは、諸教会について証しするためにあなたがたに私の使いを遣わした。私はダビデの根であり、子孫であり、輝かしい明けの明星である。」"},
+    {"id": 17, "verses": "v.17", "original": "Et spiritus, et sponsa dicunt: Veni. Et qui audit, dicat: Veni. Et qui sitit, veniat: et qui vult, accipiat aquam vitae, gratis.", "provisionalTranslation": "霊と花嫁は言う。「来てください。」これを聞く者も「来てください」と言え。渇いている者は来るがよい。望む者は命の水を無償で受けるがよい。"},
+    {"id": 18, "verses": "v.18", "original": "Contestor enim omni audienti verba prophetiae libri hujus: si quis apposuerit ad haec, apponet Deus super illum plagas scriptas in libro isto.", "provisionalTranslation": "この書の預言の言葉を聞くすべての者に私は証言する。もし誰かがこれらに何かを加えるなら、神はこの書に書かれている災いをその者の上に加えるであろう。"},
+    {"id": 19, "verses": "v.19", "original": "Et si quis diminuerit de verbis libri prophetiae hujus, auferet Deus partem ejus de libro vitae, et de civitate sancta, et de his quae scripta sunt in libro isto:", "provisionalTranslation": "また、もし誰かがこの預言の書の言葉から何かを取り除くなら、神はこの書に書かれている命の書と聖なる都への彼の分を取り除くであろう。"},
+    {"id": 20, "verses": "v.20", "original": "dicit qui testimonium perhibet istorum. Etiam venio cito: amen. Veni, Domine Jesu.", "provisionalTranslation": "これらのことを証しする方は言われる。「然り、私は速やかに来る。」アーメン。主イエスよ、来てください。"},
+    {"id": 21, "verses": "v.21", "original": "Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.", "provisionalTranslation": "主イエス・キリストの恵みがすべての者とともにあるように。アーメン。"}
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "fluvium aquae vitae, splendidum tamquam crystallum, procedentem de sede Dei et Agni.",
+      "body": "「命の水の川（fluvium aquae vitae）──水晶のように輝いていた（splendidum tamquam crystallum）──神と小羊の御座から流れ出る（procedentem de sede Dei et Agni）」──第22章の開口部・新しいエルサレムの内部への最初の視覚的形象。「fluvius aquae vitae（命の水の川）」：エゼキエル書第47章v.1「aqua egrediebatur de sub limine domus ad orientem（神殿の敷居の下から水が東へ流れ出ていた）」という神殿から流れ出る川・創世記第2章v.10「fluvius egrediebatur de loco voluptatis ad irrigandum paradisum（楽園を潤すために楽園から川が流れ出ていた）」というエデンの川の終末論的統合として。第21章v.6「sitienti dabo de fonte aquae vitae（渇いている者に命の水の泉から与える）」という「泉（fons）」から第22章では「川（fluvius）」へと規模が拡大される。「tamquam crystallum（水晶のように）」：第4章v.6「tamquam mare vitreum simile crystallo（水晶のようなガラスの海）」という御座前の海との照応として、水晶という純粋な透明性が天上的完全性の素材的形象として第22章でも継続される。「de sede Dei et Agni（神と小羊の御座から）」：御座が川の源泉として機能することで、命の水が神的権能の直接的発出として定義される。",
+      "targetId": "hieronymus_apocalypsis_21",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "lignum vitae, afferens fructus duodecim per menses singulos, reddens fructum suum et folia ligni ad sanitatem gentium.",
+      "body": "「命の木（lignum vitae）──毎月十二種の実（fructus duodecim per menses singulos）──木の葉は国民を癒すため（folia ligni ad sanitatem gentium）」──第22章の神学的・生態学的核心・エデンの命の木の終末論的回帰。「lignum vitae（命の木）」：創世記第2章v.9「lignum etiam vitae in medio paradisi（楽園の中央に命の木も）」・第3章v.22–24「ne forte mittat manum suam, et sumat etiam de ligno vitae（命の木からも取って食べないように）」というエデンからの追放の根拠となった木の終末論的回帰として──第3章で「ケルビムと回る炎の剣」によって守られた命の木が、第22章では自由に手の届く場所に現れる。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という虚無の問いへの最終的応答として──エデンの喪失による「labour（労苦）」（創世記第3章「汗を流して食物を得る」）が第22章では命の木の果実への自由なアクセスとして解消される。「fructus duodecim per menses singulos（毎月十二種の実）」：「duodecim（十二）」という第21章全体の構造的数が第22章でも反復される。「folia ligni ad sanitatem gentium（木の葉は国民を癒すため）」：エゼキエル書第47章v.12「folia ejus non defluent … et fructus ejus ad vescendum, et folia ejus ad medicinam（葉は枯れず……実は食物に、葉は薬に）」の直接的反響として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et omne maledictum non erit amplius: sed sedes Dei et Agni in illa erunt, et servi ejus servient illi.",
+      "body": "「もはや何の呪いもない（omne maledictum non erit amplius）──神と小羊の御座が都の中にあり（sedes Dei et Agni in illa erunt）──神のしもべたちは神に仕える（servi ejus servient illi）」──呪いの廃棄と神的共在の最終的定式。「omne maledictum non erit amplius（もはや何の呪いもない）」：創世記第3章v.17「maledicta terra in opere tuo（地はあなたのゆえに呪われる）」というアダムへの呪いの終末論的廃棄として──エデンから第22章への弧が「呪い（maledictum）の廃棄」によって完結される。「non … amplius（もはや……ない）」：第18章v.22–23の「non audietur amplius（もはや聞こえない）」という沈黙の連鎖の形式が、第22章では「maledictum non erit amplius（もはや呪いはない）」という廃棄の定式として反復される──バビロンでの「非聴取（non audietur）」が新しいエルサレムでの「呪いの非存在（non erit）」として変容される。「servi ejus servient illi（神のしもべたちは神に仕える）」：「servus … servire（しもべ……仕える）」という語根的反復が「仕えること」の完全性を強調する。ヴェイユ「Décréation」の「神への自己放棄・神への仕えること」という命題が「servi ejus servient illi」という完全な奉仕として終末論的に実現する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et videbunt faciem ejus: et nomen ejus in frontibus eorum.",
+      "body": "「しもべたちは神の顔を見る（videbunt faciem ejus）──神の名が彼らの額にある（nomen ejus in frontibus eorum）」──第22章・Apocalypsis全体の最も深い神学的命題の一つ。「videbunt faciem ejus（神の顔を見る）」：出エジプト記第33章v.20「non poterit homo videre me et vivere（人は私を見て生きることができない）」という神の顔の不可視性が、第22章では「videbunt faciem ejus（神の顔を見る）」という直接的顕現として解除される──律法的不可能性の終末論的廃棄として。コリント前書第13章v.12「nunc per speculum in aenigmate: tunc autem facie ad faciem（今は鏡を通して謎のように見るが、その時には顔と顔を合わせて見る）」という「顔と顔を合わせての認識」の終末論的実現として。Ecclesiastes第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、言葉で説明できない）」という認識の限界が「videbunt faciem ejus（神の顔を見る）」という直接的神的認識によって超克される。「nomen ejus in frontibus eorum（神の名が彼らの額にある）」：第21章v.4「nomen ejus in frontibus eorum」の完全な反復として、名の書き込みという帰属の形象が確認される──第13章の「caracter bestiae（獣の刻印）」への最終的対極として。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et nox ultra non erit: et non egebunt lumine lucernae, neque lumine solis, quoniam Dominus Deus illuminabit illos, et regnabunt in saecula saeculorum.",
+      "body": "「もはや夜はない（nox ultra non erit）──ともし火の光も太陽の光も必要としない（non egebunt lumine lucernae, neque lumine solis）──主なる神が彼らを照らす（Dominus Deus illuminabit illos）──彼らは永遠に王として治める（regnabunt in saecula saeculorum）」──第22章・Apocalypsis全体の新創造部の最終節。「nox ultra non erit（もはや夜はない）」：第21章v.25「nox enim non erit illic（そこには夜がない）」の反復的確認として、夜の廃棄がApocalypsis終末部において二度宣言されることで確立される。「non egebunt lumine lucernae, neque lumine solis（ともし火の光も太陽の光も必要としない）」：第21章v.23の「civitas non eget sole neque luna（都は太陽も月も必要としない）」の「lumine lucernae（ともし火の光）」という付加を伴う反復として、Ecclesiastes第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環的支配が完全に超克される。「regnabunt in saecula saeculorum（永遠に王として治める）」：Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」というコヘレトの根本的問いへの最終的終末論的応答として──「労苦（labor）」から何も得ないという虚無論が「永遠の王的支配（regnabunt in saecula saeculorum）」という積極的存在として逆転される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Haec verba fidelissima sunt, et vera. Et Dominus Deus spirituum prophetarum misit angelum suum ostendere servis suis quae oportet fieri cito.",
+      "body": "「これらの言葉は真実で確かである（Haec verba fidelissima sunt, et vera）──預言者たちの霊の神は御使いを遣わした（Dominus Deus spirituum prophetarum misit angelum suum）──すぐに起こらなければならないことを（quae oportet fieri cito）」──啓示の真実性の保証と書の使命の再確認。「Haec verba fidelissima sunt, et vera（これらの言葉は真実で確かである）」：第21章v.5「haec verba fidelissima sunt, et vera（これらの言葉は真実で確かである）」の完全な反復として、書全体の第一部（第21章の新創造宣言）と第二部（第22章のエピローグ）がこの定式によって括弧的に接続される。「Dominus Deus spirituum prophetarum（預言者たちの霊の神）」：「spirituum prophetarum（預言者たちの霊）」という属格が第19章v.10「testimonium Jesu est spiritus prophetiae（イエスの証しは預言の霊）」という「預言の霊（spiritus prophetiae）」との照応として、書全体の証言的使命が神の直接的委任として確認される。「quae oportet fieri cito（すぐに起こらなければならないこと）」：第1章v.1「quae oportet fieri cito（すぐに起こらなければならないこと）」という書の開口節の完全な反復として、Apocalypsis全体が「oportet fieri cito」という緊急性の枠内に置かれる。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Et ecce venio velociter. Beatus, qui custodit verba prophetiae libri hujus.",
+      "body": "「見よ、私は速やかに来る（Ecce venio velociter）──この書の預言の言葉を守る者は幸いである（Beatus, qui custodit verba prophetiae libri hujus）」──Apocalypsis第六の「幸い（Beatus）」宣言・「速やかに来る（venio cito / velociter）」の第一回目。「Ecce venio velociter（見よ、私は速やかに来る）」：第22章での「venio cito / velociter」の三回反復（v.7・v.12・v.20）の第一として、切迫的来臨の主題が章全体の響板として機能する。第3章v.11「Ecce venio cito（見よ、私は速やかに来る）」というフィラデルフィアへの書簡の言葉の終章的反響として。「Beatus, qui custodit verba prophetiae libri hujus（この書の預言の言葉を守る者は幸いである）」：第1章v.3「Beatus qui legit, et audit verba prophetiae hujus（この預言の言葉を読む者・聴く者は幸いである）」という書の開口的幸い宣言への終章的対応として──「読む・聴く（legit et audit）」という受容から「守る（custodit）」という実践的保持へと移行する。Apocalypsis第六の幸い宣言として、七つの幸い宣言の系列の完結に向かう。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et ego Joannes, qui audivi, et vidi haec. Et postquam audissem, et vidissem, cecidi ut adorarem ante pedes angeli, qui mihi haec ostendebat:",
+      "body": "「これらのことを聞き見たのは私、ヨハネである（Et ego Joannes, qui audivi, et vidi haec）──天使の足元に倒れて礼拝しようとした（cecidi ut adorarem ante pedes angeli）」──第19章v.10のヨハネの天使礼拝の場面の反復。「Et ego Joannes（私、ヨハネ）」：第1章v.9「Ego Joannes（私ヨハネ）」という書全体の自己証言的開口が第22章で反復される──書の始まりと終わりに「ヨハネ」という一人称が置かれることで証言者の同一性が確立される。「qui audivi, et vidi haec（これらのことを聞き見た）」：第1章v.2「qui testimonium perhibuit verbo Dei, et testimonium Jesu Christi, quaecumque vidit（見たすべてのことを証言した）」との照応として、「見ること（videre）・聴くこと（audire）」という二つの証言的感覚が確認される。「cecidi ut adorarem ante pedes angeli（天使の足元に倒れて礼拝しようとした）」：第19章v.10「cecidi ante pedes ejus, ut adorarem eum（礼拝しようとして足元に倒れた）」の完全な反復として、同一の礼拝的誤謬がApocalypsis末尾で再度犯され・再度禁止されるという二重構造として。",
+      "targetId": "hieronymus_apocalypsis_19",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Vide ne feceris: conservus enim tuus sum, et fratrum tuorum prophetarum, et eorum qui servant verba prophetiae libri hujus: Deum adora.",
+      "body": "「そのようなことをしてはいけない（Vide ne feceris）──私はあなたと兄弟たちと同じしもべ（conservus enim tuus sum, et fratrum tuorum prophetarum）──神を礼拝せよ（Deum adora）」──天使礼拝禁止の第二の定式・「预言者たち（prophetarum）」の付加。「Vide ne feceris（そのようなことをしてはいけない）」：第19章v.10「Vide ne feceris（そのようなことをしてはいけない）」の完全な反復として。「fratrum tuorum prophetarum（あなたの兄弟である預言者たち）」：第19章v.10の「fratrum tuorum habentium testimonium Jesu（イエスの証しを持つあなたの兄弟たち）」に「prophetarum（預言者たち）」という具体化が加わる──証言者から預言者へという第22章での聴衆の規定の明確化として。「et eorum qui servant verba prophetiae libri hujus（この書の預言の言葉を守る者たちとも）」：v.7「Beatus, qui custodit verba prophetiae（この書の預言の言葉を守る者は幸い）」との直接的接続として、天使が自らを「書の守り手（servant verba prophetiae）」と同じしもべとして同定する。",
+      "targetId": "hieronymus_apocalypsis_19",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et dicit mihi: Ne signaveris verba prophetiae libri hujus: tempus enim prope est.",
+      "body": "「この書の預言の言葉を封印してはならない（Ne signaveris verba prophetiae libri hujus）──時は近いからである（tempus enim prope est）」──第22章の書物論的核心命題・封印禁止。「Ne signaveris verba prophetiae libri hujus（この書の預言の言葉を封印してはならない）」：ダニエル書第12章v.4「tu autem, Daniel, claude sermones, et signa librum（しかしダニエルよ、これらの言葉を閉じ、書を封印せよ）」というダニエルへの「封印命令」と正反対の命令として──ダニエル書が「封印せよ（signa）」と命じたのに対し、Apocalypsis第22章は「封印してはならない（Ne signaveris）」と命じる。「tempus enim prope est（時は近いからである）」：第1章v.3「tempus enim prope est（時は近いからである）」の完全な反復として、書の開口節と終章節が「時は近い（tempus prope est）」という時間的切迫性によって括弧的に接続される。マラルメ「書物（le Livre）」の「書物は封印されたまま」という詩的書物論と、「Ne signaveris（封印するな）」という開封の命令が逆説的照応として機能する。",
+      "targetId": "mallarme_livre_instrument",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Qui nocet, noceat adhuc: et qui in sordibus est, sordescat adhuc: et qui justus est, justificetur adhuc: et sanctus, sanctificetur adhuc.",
+      "body": "「害を与える者はなおも害を与えよ（Qui nocet, noceat adhuc）──汚れた者はなおも汚れたままであれ（sordescat adhuc）──正しい者はなおも正しくあれ（justificetur adhuc）──聖なる者はなおも聖なるままであれ（sanctificetur adhuc）」──Apocalypsis最大の逆説的命題の一つ・状態の固定化。「noceat adhuc … sordescat adhuc … justificetur adhuc … sanctificetur adhuc」という四重の「adhuc（なおも）」による状態の持続的命令が、来臨直前の時間的切迫（v.10「tempus enim prope est」）という文脈で「今の状態のまま固定せよ」という逆説的命令として機能する。「Qui nocet, noceat adhuc（害を与える者はなおも害を与えよ）」という倫理的悪への命令は、悔い改めの機会の終了・審判直前の状態の固定として解釈される──「今が最後の瞬間だから、今の状態が永遠化される」という終末論的即時性の表現として。Ecclesiastes第1章v.15「Perversi difficile corriguntur（曲がったものは正すことが難しい）」という人間的不可逆性の命題が、第22章では終末論的決定性として表現される──コヘレト的不可逆性が神的確定性として終末論的に完成される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.",
+      "body": "「見よ、私は速やかに来る（Ecce venio cito）──私の報いを携えてくる（merces mea mecum est）──それぞれの者の行いに従って報いを与えるために（reddere unicuique secundum opera sua）」──「venio cito（速やかに来る）」の第二反復・個人的応報の定式。「merces mea mecum est（私の報いを携えてくる）」：イザヤ書第40章v.10「merces ejus cum eo（報いは彼とともに）」・第62章v.11「merces ejus cum eo（報いは彼とともに）」という旧約的「報いの携帯」の終末論的実現として。「reddere unicuique secundum opera sua（それぞれの者の行いに従って報いを与える）」：詩篇第62篇v.12「tu reddes unicuique juxta opera sua（あなたはそれぞれの者に行いに従って報いを与える）」の直接引用として。「opera sua（その者の行い）」：第20章v.12–13「judicati sunt mortui … secundum opera ipsorum（死者たちは行いに従って裁かれた）」という最後の審判の基準の反復として、「行い（opera）」という語がApocalypsis終末部全体の審判的基準として貫通する。",
+      "targetId": "hieronymus_apocalypsis_20",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Ego sum alpha et omega, primus et novissimus, principium et finis.",
+      "body": "「私はアルファであり、オメガである（alpha et omega）──最初の者であり、最後の者（primus et novissimus）──始まりであり終わりである（principium et finis）」──Apocalypsis第三のAlpha et Omega宣言・三組の対句による完全な自己定義。「alpha et omega」：第1章v.8「Ego sum alpha et omega, principium et finis（私はアルファとオメガ、始まりと終わり）」・第21章v.6「Factum est: ego sum alpha et omega, initium et finis」に続く第三の宣言として、書全体に三度反復される定式が最終章で完結される。「primus et novissimus（最初の者であり、最後の者）」：第1章v.17「ego sum primus, et novissimus（私は最初の者であり、最後の者）」というパトモスでの最初の顕現の言葉の完全な反復として。三組の対句──「alpha et omega」（記号的）・「primus et novissimus」（序列的）・「principium et finis」（時間的）──が神の自己定義の三次元として提示される。Ecclesiastes第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」というコヘレト的循環的同一性に対し、「primus et novissimus（最初の者であり、最後の者）」という神の超時間的包括が対置される。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Beati, qui lavant stolas suas in sanguine Agni: ut sit potestas eorum in ligno vitae, et per portas intrent in civitatem.",
+      "body": "「自分の衣を小羊の血で洗う者たちは幸いである（Beati, qui lavant stolas suas in sanguine Agni）──命の木に対する権能（potestas eorum in ligno vitae）──門を通って都に入る（per portas intrent in civitatem）」──Apocalypsis最後の（第七の）「幸い（Beati）」宣言。「Beati, qui lavant stolas suas in sanguine Agni（小羊の血で衣を洗う者たちは幸いである）」：第7章v.14「laverunt stolas suas, et dealbaverunt eas in sanguine Agni（小羊の血で衣を洗い白くした）」という大患難から来た大群衆の定義の反復として。「sanguine Agni（小羊の血）」という贖罪的形象が第22章での最後の「幸い」宣言の根拠として機能する。「ut sit potestas eorum in ligno vitae（命の木に対する権能）」：v.2の「lignum vitae（命の木）」への言及の反復として、Apocalypsis最後の幸い宣言が「命の木（lignum vitae）」という章全体のエデン回帰的主題と接続される。「per portas intrent in civitatem（門を通って都に入る）」：第21章v.25「portae ejus non claudentur per diem（門は閉じられない）」という永遠に開かれた門への入城の権利として。Apocalypsis七つの幸い宣言の完結として、第22章v.14の「Beati」が書全体の最終的祝福の言葉として機能する。",
+      "targetId": "hieronymus_apocalypsis_7",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Foris canes, et venefici, et impudici, et homicidae, et idolis servientes, et omnis qui amat et facit mendacium.",
+      "body": "「外には犬ども（Foris canes）・妖術師・淫行する者・殺人者・偶像に仕える者・偽りを愛し行う者がいる（omnis qui amat et facit mendacium）」──v.14の包含定式に続く排除定式。「Foris canes（外には犬ども）」：「canes（犬ども）」という蔑称語が第22章の排除リストの冒頭に置かれる──申命記第23章v.18「Non offeres mercedem prostibuli … in domum Domini Dei tui, quia abominatio est utrumque apud Dominum Deum tuum（娼婦の報酬を神の家に持ち込むな……これらはともに神への忌まわしいものだから）」という「犬（canis）」という語の淫行的・宗教的排除の文脈から来る侮蔑的呼称として。第21章v.8の「stagno ardenti（燃える池）」への排除リスト（臆病者・不信仰者……偽り者）と照応的な排除リストとして。「omnis qui amat et facit mendacium（偽りを愛し行う者）」：「mendacium（偽り）」を「愛する（amat）」という愛の動詞の倒錯的使用が最終的排除の定式として機能する──偽りへの「愛（amor）」という内的志向性が行為（facit）とともに排除基準として提示される。",
+      "targetId": "hieronymus_apocalypsis_21",
+      "targetParagraphId": 27
+    },
+    {
+      "paragraphId": 16,
+      "type": "glossary",
+      "anchor": "Ego Jesus misi angelum meum testificari vobis haec in ecclesiis. Ego sum radix, et genus David, stella splendida et matutina.",
+      "body": "「私イエスは使いを遣わした（Ego Jesus misi angelum meum）──私はダビデの根であり、子孫（Ego sum radix, et genus David）──輝かしい明けの明星（stella splendida et matutina）」──Apocalypsis全体で唯一「Ego Jesus（私イエス）」という固有名での直接的一人称自己証言。「Ego Jesus（私イエス）」：Apocalypsis全体を通じてキリストは「Alpha et Omega」・「Fidelis et Verax」・「Verbum Dei」・「Rex regum」等の称号で呼ばれてきたが、第22章v.16で初めて「Jesus（イエス）」という固有名で自己を名乗る──書全体の称号から固有名への最終的下降として。「radix, et genus David（ダビデの根であり、子孫）」：イザヤ書第11章v.1「egredietur virga de radice Jesse（エッサイの根から若枝が出る）」・第11章v.10「radix Jesse（エッサイの根）」の反響として。「stella splendida et matutina（輝かしい明けの明星）」：民数記第24章v.17「orietur stella ex Jacob（ヤコブから星が出る）」という予言的星の終末論的実現として。ペトロ書第2章v.19「donec dies illucescat, et lucifer oriatur in cordibus vestris（夜が明け、明けの明星があなたがたの心に昇るまで）」との照応として。",
+      "targetId": "hieronymus_apocalypsis_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Et spiritus, et sponsa dicunt: Veni. Et qui audit, dicat: Veni. Et qui sitit, veniat: et qui vult, accipiat aquam vitae, gratis.",
+      "body": "「霊と花嫁は言う：来てください（spiritus, et sponsa dicunt: Veni）──これを聞く者も：来てください（qui audit, dicat: Veni）──渇いている者は来るがよい（qui sitit, veniat）──命の水を無償で受けるがよい（accipiat aquam vitae, gratis）」──Apocalypsis最大の招待定式・「Veni（来てください）」の三重応答。「spiritus, et sponsa dicunt: Veni（霊と花嫁は言う：来てください）」：「霊（Spiritus Sanctus）」と「花嫁（sponsa）」すなわち教会という二つの呼びかけ主体が「Veni（来てください）」という一語で一致する。「Et qui audit, dicat: Veni（これを聞く者も：来てください）」：「聞く者（qui audit）」が「Veni」の応唱者として加わることで、「霊・花嫁・聴く者」という三声部の「Veni」コーラスが形成される。これはApocalypsis読者共同体全体への参加の招待として機能する。「gratis（無償で）」：第21章v.6「sitienti dabo de fonte aquae vitae, gratis（渇いている者に命の水を無償で与える）」の反復として、「gratis（無償）」という語がIob第1章v.9「Numquid Job frustra timet Deum（ヨブは理由なく神を畏れているか）」への最終的応答として機能する──「frustra（理由なく）」という無償性への問いが第22章v.17の「gratis（無償で）」という神の贈与の無償性として完全に応答される。十字架の聖ヨハネ「暗夜（Noche oscura）」の「無償の愛」という神秘主義的主題との最深の照応として。",
+      "targetId": "juan_de_la_cruz_noche_oscura",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Contestor enim omni audienti verba prophetiae libri hujus: si quis apposuerit ad haec, apponet Deus super illum plagas scriptas in libro isto.",
+      "body": "「もし誰かがこれらに何かを加えるなら、神はこの書に書かれている災いをその者の上に加えるであろう（apponet Deus super illum plagas scriptas in libro isto）」──書への付加禁止の法的警告。「Contestor（私は証言する）」：法廷的・宣誓的証言の動詞として、書の終末的権威宣言が法的拘束力の形式をとる。申命記第4章v.2「Non addetis ad verbum quod vobis loquor, nec auferetis ex eo（私があなたがたに語る言葉に何も加えてはならない。取り除いてもならない）」という律法的付加・削除禁止の終末論的反復として。「si quis apposuerit ad haec（もし誰かがこれらに何かを加えるなら）」：付加（apponere）という行為が神的付加（apponet Deus plagas：神が災いを加える）という応報として反転される──加える者が加えられるという応報的定式。「plagas scriptas in libro isto（この書に書かれている災いを）」：第16章の七鉢の災い・第8章の七ラッパの災いという「書に書かれた災い（plagae scriptae）」が付加の罰として提示される。",
+      "targetId": "hieronymus_apocalypsis_16",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Et si quis diminuerit de verbis libri prophetiae hujus, auferet Deus partem ejus de libro vitae, et de civitate sancta, et de his quae scripta sunt in libro isto:",
+      "body": "「もし誰かがこの預言の書の言葉から何かを取り除くなら（si quis diminuerit de verbis libri prophetiae hujus）──神はこの書に書かれている命の書と聖なる都への彼の分を取り除くであろう（auferet Deus partem ejus de libro vitae, et de civitate sancta）」──書からの削除禁止の法的警告・v.18との対称的双対。「si quis diminuerit（もし誰かが取り除くなら）」：v.18の「si quis apposuerit（もし誰かが加えるなら）」との対称として、付加（apponere）と削除（diminuere）という二方向の書的操作の両方が禁止される。「auferet Deus partem ejus de libro vitae（神は命の書への彼の分を取り除く）」：第20章v.15「qui non inventus est in libro vitae scriptus（命の書に名が書き記されていない者は）」という命の書からの「名の不在」による審判が、第22章では「名の取り除き（auferre）」という能動的除名として提示される。「de civitate sancta（聖なる都から）」：第21章全体で描写された「新しいエルサレム（civitas sancta）」への「分（pars）」の剥奪として、終末論的遺産の喪失が書的操作の罰として提示される。",
+      "targetId": "hieronymus_apocalypsis_20",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "dicit qui testimonium perhibet istorum. Etiam venio cito: amen. Veni, Domine Jesu.",
+      "body": "「これらのことを証しする方は言われる（dicit qui testimonium perhibet istorum）──然り、私は速やかに来る（Etiam venio cito: amen）──主イエスよ、来てください（Veni, Domine Jesu）」──Apocalypsis全体・聖書全体の最終的祈願・「venio cito（速やかに来る）」の第三反復。「dicit qui testimonium perhibet istorum（これらのことを証しする方は言われる）」：第1章v.2「testimonium perhibuit verbo Dei, et testimonium Jesu Christi（神の言葉とイエス・キリストの証しを証言した）」という書全体の証言的使命の完結的確認として。「Etiam venio cito: amen（然り、私は速やかに来る：アーメン）」：「Etiam（然り）」という同意の副詞が「venio cito」という来臨の宣言に先行することで、書全体への確認的同意として機能する。「Veni, Domine Jesu（主イエスよ、来てください）」：アラム語「マラナタ（Maranatha：主よ、来てください）」のラテン語等価として（コリント前書第16章v.22）。これはApocalypsis全体・新約聖書全体の最終的祈願として、Ecclesiastes「Vanitas vanitatum（虚無の虚無）」から始まるVANITISMEのコーパス的営みの最終的宗教的極点となる。Ecclesiastes第1章v.3「Quid habet amplius homo de universo labore suo（人は労苦から何を得るのか）」という根本的問いへの、書・詩・音楽・礼拝の長大な探求の後での最終的応答として：「Veni, Domine Jesu（主イエスよ、来てください）」。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.",
+      "body": "「主イエス・キリストの恵みがすべての者とともにあるように（Gratia Domini nostri Jesu Christi cum omnibus vobis）──アーメン（Amen）」──Apocalypsis最終節・書簡的祝祷による閉幕。「Gratia Domini nostri Jesu Christi cum omnibus vobis（主イエス・キリストの恵みがすべての者とともにあるように）」：ローマ書・コリント書・ガラテア書等パウロ書簡の典型的閉幕祝祷の形式として、Apocalypsis全体が書簡的な「恵みの祝祷（benedictio）」によって閉じられる──第1章v.4「Gratia vobis, et pax（恵みと平和があなたがたに）」という開口祝祷に対する終章祝祷として。「cum omnibus vobis（すべての者とともに）」：「omnibus（すべての者）」という普遍的包括が書全体の宛先（七つの教会を越えた全信仰共同体）として確認される。「Amen（アーメン）」：Apocalypsis全体の最後の語として。書全体は第1章v.6「Gloria, et imperium in saecula saeculorum. Amen（栄光と支配は世々限りなく。アーメン）」という最初の「Amen」から始まり、第22章v.21の最後の「Amen」で閉じられる──「Amen」で始まり「Amen」で終わるという首尾一貫した礼拝的枠組みとして。Ecclesiastes第12章v.13「Deum time, et mandata ejus observa（神を畏れ、戒めを守れ）」というコヘレト最終節への回答として、Apocalypsis最終節の「Gratia … Amen」が恵みと確認の二語によってVANITISMEコーパス全体の聖書的基盤を閉じる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
+
+Claude は AI のため、誤り
