@@ -74,6 +74,7 @@ export const CATEGORIES = {
   mavilis:                    { name: 'マヴィリス' },
   sarantaris:                 { name: 'サランダリス' },
   karyotakis:                 { name: 'カリオタキス' },
+  polydouri:                  { name: 'ポリドゥーリ' },
 };
 
 // カテゴリー省略ラベル（バッジ表示用）
@@ -146,6 +147,7 @@ export const CAT_SHORT = {
   mavilis:                 'マヴィリス',
   sarantaris:              'サランダリス',
   karyotakis:              'カリオタキス',
+  polydouri:               'ポリドゥーリ',
 };
 
 export const AUTHOR_COLOR_MAP = {
