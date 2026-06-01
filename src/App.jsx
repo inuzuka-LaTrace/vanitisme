@@ -72,7 +72,7 @@ import kavafisData from './data/kavafis';
 import mavilisData from './data/mavilis';
 import sarantarisData from './data/sarantaris';
 import karyotakisData from './data/karyotakis';
-import karyotakisData from './data/polydouri';
+import polydouriData from './data/polydouri';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES, SPEAKER_COLORS, SPEAKER_FIXED_COLORS, AUTHOR_COLOR_MAP } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet } from './utils';
 
