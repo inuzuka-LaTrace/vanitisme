@@ -1,0 +1,93 @@
+{
+  "id": "dannunzio_a_giuseppe_cellini",
+  "title": "A Giuseppe Cellini",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, I. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/A_Giuseppe_Cellini（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★",
+  "context": "「A Giuseppe Cellini（ジュゼッペ・チェッリーニへ）」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」の巻頭献呈ソネット。ペトラルカ式（ABBA ABBA / CDC DCD）。ジュゼッペ・チェッリーニはダヌンツィオの友人の詩人・文人。詩は古代ギリシアの牧歌詩人テオクリトスの世界（クレタ島、ニンフ、リダ、ダメタ）とアーサー王伝説の妖精的世界（ウルガンダ、ブロセリアンドの森、アルトゥの角笛）を並置し、チェッリーニをその二重の詩的世界の継承者として定義する。「Urganda（ウルガンダ）」は中世騎士道ロマンス『アマディス・デ・ガウラ』の魔法使いの女で、ダヌンツィオが「Sonetti delle Fate（妖精たちのソネット群）」全体に召喚する妖精的女性の筆頭。「Broceglianda（ブロセリアンド）」はブルターニュの神話的な魔法の森で、マーリンが眠る場所。「fatal corno d'Artù（アルトゥの運命の角笛）」は詩人自身の詩的声明であり、アーサー王の世界への召喚の合図。古典古代（テオクリトス）と中世騎士道（アーサー王）という二つの詩的伝統を一つのソネットに結ぶ構造が、詩集全体のプログラムを宣言する。",
+  "keywords": [
+    "献呈ソネット", "テオクリトス", "牧歌", "ウルガンダ", "ブロセリアンド",
+    "アーサー王", "妖精", "クレタ島", "Sonetti delle Fate", "Isaotta Guttadàuro",
+    "騎士道ロマンス", "角笛", "友人への献詩"
+  ],
+  "relatedTexts": [
+    "dannunzio_sonetto_liminare",
+    "dannunzio_viviana",
+    "dannunzio_nympha_ludovisia"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Lino ai boschi de l'isola di Creta\nudia le ninfe correre tra i rami\ne Teocrito udia lunge i richiami\ndi Lyda a riva e i canti di Dameta.",
+      "provisionalTranslation": "リノスはクレタ島の森で\nニンフたちが枝の間を走るのを聞いた。\nテオクリトスははるか彼方に、岸辺でリダが\n呼びかける声とダメタの歌を聞いた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Tu ne li orti d'Italia odi, o poeta,\nrider le fate come in lor reami.\nTi chiede Urganda: – O mio sire, tu m'ami? –\ne ti trae ne la sua reggia segreta.",
+      "provisionalTranslation": "あなたはイタリアの庭で聞く、詩人よ、\n妖精たちがその国で笑うのを。\nウルガンダがあなたに問いかける。「我が殿よ、あなたは私を愛していますか？」\nそしてあなたを秘密の宮殿へと引き込む。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Agile, ardente quale fiamma, Urganda\nt'intesse a torno con rapidi voli\nuna danza di perfida virtù.",
+      "provisionalTranslation": "炎のように軽やかで燃え立つウルガンダが\n素早い飛翔であなたの周りに\n危うい魅力の踊りを織りなす。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Ma non anche tu dormi in Broceglianda\ntra i mirti intonsi, a' lai de' rosignoli,\npoi ch'io suono il fatal corno d'Artù.",
+      "provisionalTranslation": "しかしあなたはまだブロセリアンドで\n剪られぬ銀梅花の間でナイチンゲールの嘆きに眠りはしない、\n私がアルトゥの運命の角笛を吹くのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lino ai boschi de l'isola di Creta\nudia le ninfe correre tra i rami",
+      "body": "「Lino（リノス）」──ギリシア神話の音楽の神・詩人。ヘラクレスに殺されたとも、ムーサたちに育てられたともいう神話的詩人の始祖。クレタ島の森でニンフの声を聞く詩人という設定が、「詩とは自然の声を聞く能力である」というダヌンツィオの詩論の神話的定式化。「le ninfe correre tra i rami（ニンフたちが枝の間を走る）」──前の詩集所収 Nympha ludovisia の「Napea（森のニンフ）」との連続。ニンフは常に人間の目には直接見えず「音」として感知される存在として描かれる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Teocrito udia lunge i richiami\ndi Lyda a riva e i canti di Dameta.",
+      "body": "「Teocrito（テオクリトス）」──シュラクサイ出身の古代ギリシア詩人（紀元前3世紀頃）。牧歌詩（idyllium）の創始者。ウェルギリウス「牧歌（Eclogae）」の直接の先行者。「Lyda（リダ）」・「Dameta（ダメタ）」──テオクリトスの牧歌に登場する羊飼い・農民の名。ダメタはウェルギリウス「牧歌」第3歌にも登場する。「lunge（はるか彼方に）」──距離が詩的感受性の本質として強調される：真の詩人は遠くの声を聞く者。この「遠くの声を聞く」という主題がv.5「Tu...odi（あなたは聞く）」へと引き継がれ、チェッリーニをテオクリトスとリノスの系譜に位置づける。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tu ne li orti d'Italia odi, o poeta,\nrider le fate come in lor reami.",
+      "body": "「ne li orti d'Italia（イタリアの庭で）」──「boschi de l'isola di Creta（クレタ島の森）」との対比。ギリシアの「森（boschi）」に対しイタリアの「庭（orti）」──野生の自然から人工的に整えられた空間へ。しかし「庭」でも妖精（fate）の声が聞こえるという主張が、イタリアの詩的伝統の正統性を主張する。「rider le fate（妖精たちが笑う）」──笑い声が妖精の存在証明となる。Sonetto liminare の「più ridan le forme（形姿がいっそう笑う）」の「ridere」と同じ擬人的な「笑い」が、ここでは妖精世界の発現として機能する。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ti chiede Urganda: – O mio sire, tu m'ami? –\ne ti trae ne la sua reggia segreta.",
+      "body": "「Urganda（ウルガンダ）」──スペインの騎士道ロマンス『アマディス・デ・ガウラ』（14世紀成立）に登場する予言的な魔法使いの女。「la Desconocida（見知らぬ者）」の異名を持ち、変身能力と未来予知の力を持つ。「O mio sire, tu m'ami?（我が殿よ、あなたは私を愛していますか？）」──ダッシュ記号で括られた直接話法が詩の中に劇的な瞬間を作る。妖精が問いかけるという形式が騎士道ロマンスの典型的な試練の場面。「reggia segreta（秘密の宮殿）」──Sonetto liminare の「PALAGIO D'ORO（黄金の宮殿）」と同じ「妖精の宮殿」主題の変奏。詩集全体に通底する「隠された美の空間」へのいざないの定式。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Agile, ardente quale fiamma, Urganda\nt'intesse a torno con rapidi voli\nuna danza di perfida virtù.",
+      "body": "第一三行詩（CDC）の韻脚：「Urganda / Broceglianda」（C）・「voli / rosignoli」（D）・「virtù / Artù」（C）。「Agile, ardente quale fiamma（炎のように軽やかで燃え立つ）」──二つの形容詞「agile（軽やかな）」と「ardente（燃え立つ）」が「quale fiamma（炎のように）」という直喩の前に置かれ、ウルガンダの二重の属性──身軽さと灼熱──を定義する。「perfida virtù（危うい魅力）」──「perfida（不実な・裏切りの）」と「virtù（美徳・力・魅力）」という矛盾する語の結合。妖精の魔力は「徳」の形をとりながら「不実」であるという逆説──愛の魔法の本質的な欺瞞性。L'alba separà の「corridor fiero（荒々しい通路）」と同様に、危険な美の力の定式化。",
+      "targetId": "dannunzio_alba_separa",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ma non anche tu dormi in Broceglianda\ntra i mirti intonsi, a' lai de' rosignoli,\npoi ch'io suono il fatal corno d'Artù.",
+      "body": "「Broceglianda（ブロセリアンド）」──ブルターニュの伝説的な魔法の森（現在のパンポン森林と同一視される）。マーリンが妖精ヴィヴィアーヌ（または湖の乙女ニミュエ）に魔法をかけられ、銀梅花の茂みの中で永遠の眠りに就いたとされる場所。「Ma non anche tu dormi（しかしあなたはまだ眠りはしない）」──チェッリーニへの呼びかけが逆説的な保証として機能する：ウルガンダの魔法に捕われながらも、「私の角笛（詩人ダヌンツィオの詩的声）」がある限り眠り込まない。「poi ch'io suono il fatal corno d'Artù（私がアルトゥの運命の角笛を吹くのだから）」──「io（私）」がここで初めて詩に登場し、詩人ダヌンツィオ自身の詩的使命の宣言として機能する。アーサー王の角笛は伝説では危機の時に吹かれ騎士たちを呼び集める──「Sonetti delle Fate」全体への開口部として、詩人が妖精世界を召喚する合図として提示される。「mirti intonsi（剪られぬ銀梅花）」──ウェルギリウス「アエネイス」第6歌の冥府における悲恋の者たちが集う「銀梅花の森（myrtea silva）」への言及。ウェルギリウスを通じてテオクリトスからアーサー王伝説へと詩的伝統が連鎖する。"
+    }
+  ]
+}
