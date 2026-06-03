@@ -1,0 +1,175 @@
+{
+  "id": "dannunzio_viviana",
+  "title": "Viviana",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Donne, VIII. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Donne/Viviana（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Viviana」は Isaotta Guttadàuro（1886）所収「Donne（女たち）」連作第VIII番。5行×9連・計45行。韻律はシチリアーナ変形（ABBA B / CDDC D など）で各連に交差韻と抱擁韻が交互に組み合わさる。「Vivïana May de Penuele」はダンテ・ゲイブリエル・ロセッティのモデルを務めたエリザベス・エレノア・サイダルに基づく架空の女性名と解される。詩は現実のモデルとロセッティの絵画的形象が重なり合う「前ラファエル派の女性像」を賛美する。ヴィラ・ファルネーゼ（ヴィテルボ近郊カプラローラ）の薔薇園でヴィヴィアーナを目撃した詩人が、その記憶をボッティチェッリ「春（Primavera）」・「ガラテアの勝利（Trionfo di Galatea）」・ラファエル「春」の図像と重ね合わせながら追想する。最終連でヴィヴィアーナへの頌詩を宣言し、冒頭と結末が「百合を手に持つ」姿のリフレインで円環的に閉じる。「io custodii, beata Beatrice」という詩人の独白が Due Beatrici と Beata Beatrice への橋渡しとなり、「Donne」連作全体のベアトリーチェ主題を内面化する。",
+  "keywords": [
+    "前ラファエル派", "ロセッティ", "Vivïana", "ボッティチェッリ", "Primavera",
+    "Galatea", "ヴィラ・ファルネーゼ", "百合", "beata Beatrice", "Isaotta Guttadàuro",
+    "Donne", "記憶", "薔薇", "シルフ", "Selene"
+  ],
+  "relatedTexts": [
+    "dannunzio_beata_beatrice",
+    "dannunzio_due_beatrici",
+    "dannunzio_nympha_ludovisia",
+    "d_g_rossetti_lilith",
+    "d_g_rossetti_day_dream"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "original": "O Vivïana May de Penuele,\ngelida virgo prerafaelita,\no voi che compariste un dì, vestita\ndi fino argento, a Dante Gabriele,\ntenendo un giglio ne le ceree dita,",
+      "provisionalTranslation": "おお、ヴィヴィアーナ・メイ・デ・ペヌエレ、\n冷ややかな前ラファエル派の処女よ、\nあなたはかつてある日、細やかな銀をまとい、\nダンテ・ゲイブリエルの前に現れた、\n蝋のような指に百合を持ちながら。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "original": "Vivïana, non più forse a la mente\nil ricordo di me vi torna omai.\nE pure allora, quando io vi parlai,\nmi sorrideste a lungo e dolcemente.\nFiorìan, Villa Farnese, i tuoi rosai",
+      "provisionalTranslation": "ヴィヴィアーナ、おそらくもはや心に\n私の記憶はあなたへと戻らない。\nそれでもあの時、私が語りかけると、\nあなたは長く、優しく微笑んでくれた。\nヴィラ・ファルネーゼよ、あなたの薔薇たちが咲き乱れていた"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–15",
+      "original": "ne 'l mattino di maggio e su le antiche\nmura il sole una veste aurea mettea:\ntra le liete ghirlande si svolgea\nla bellissima favola di Psiche;\nnavigava in trionfo Galatea.",
+      "provisionalTranslation": "五月の朝に。古い\n壁の上に太陽が黄金の衣を纏わせていた。\n晴れやかな花環の中に展開していた\nプシュケの美しい物語が。\nガラテアが凱旋の航行を続けていた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.16–20",
+      "original": "O Vivïana May de Penuele,\nor vi sovviene de 'l lontan mattino?\nVoi sceglieste le rose ne 'l giardino\nove un tempo convenne Rafaele,\nmuta, con lento gesto, a capo chino.",
+      "provisionalTranslation": "おお、ヴィヴィアーナ・メイ・デ・ペヌエレ、\n今も遠いあの朝を思い出しますか？\nあなたはかつてラファエルが集ったその庭で\n薔薇を摘んでいた、\n黙したまま、ゆっくりとした動作で、頭を垂れて。"
+    },
+    {
+      "id": 5,
+      "verses": "v.21–25",
+      "original": "Non vidi allor la Primavera iddia?\nDisser la vostra lode a me li uccelli;\nfiori parvero nascer da' capelli,\ncome ne la divina Allegoria\ncui pinse in terra Sandro Botticelli.",
+      "provisionalTranslation": "あの時私は春の女神を見たのではなかったか？\n鳥たちがあなたの賛辞を私に語りかけた。\n花々が髪から生まれるように見えた、\n神聖な寓意の絵の中のように、\nサンドロ・ボッティチェッリが地上に描いたあの絵の。"
+    },
+    {
+      "id": 6,
+      "verses": "v.26–30",
+      "original": "Poi su l'accolta de le vive rose\nreclinando la testa agile e bionda,\navidamente, come sitibonda,\ntutte beveste l'anime odorose\n– oh voluttate mistica e profonda!",
+      "provisionalTranslation": "それからあなたは摘み集めた生きた薔薇たちの上に\n軽やかな金髪の頭を傾け、\n渇いた者のように貪るように、\n香り立つ魂のすべてを飲み干した——\nああ、神秘的で深い官能よ！"
+    },
+    {
+      "id": 7,
+      "verses": "v.31–35",
+      "original": "Poi, smarrita in un sogno, alta levaste\nla faccia ove le azzurre ésili vene\nlanguìano, e mi volgeste (or vi sovviene?)\nle pupille ne 'l sogno umide e caste.\nNon così pura in cielo è mai Selene.",
+      "provisionalTranslation": "それから夢の中に迷い込むように、あなたは\n青く細い静脈が揺らめく顔を高く上げ、\n（今も覚えていますか？）夢にうるんだ\n清らかな瞳を私へと向けた。\n空のセレネもかくも純粋ではない。"
+    },
+    {
+      "id": 8,
+      "verses": "v.36–40",
+      "original": "Io sol dissi a la notte alma e felice,\nsolo dissi a le stelle il novo amore.\nSegreto in me de' vostri occhi il fulgore\nio custodii, beata Beatrice.\nTale un raggio di luna il silfo ha in cuore.",
+      "provisionalTranslation": "私は一人、豊かで幸いな夜にだけ語り、\n一人、星たちにだけ新しき愛を語った。\nあなたの瞳の輝きをひそかに\n私は守り続けた、祝福されたベアトリーチェよ。\nまるでシルフが月光の一条を胸に秘めるように。"
+    },
+    {
+      "id": 9,
+      "verses": "v.41–45",
+      "original": "Or cantarti m'è dolce, o Vivïana.\nSplendimi ne la chiara ode, vestita\nde la tunica verde e redimita\nd'argentei fiori, in calma sovrumana\ntenendo un giglio tra le ceree dita!",
+      "provisionalTranslation": "今、あなたを歌うことが私には甘い、おおヴィヴィアーナ。\n明るい頌詩の中で私に輝いておくれ、\n緑の衣をまとい、銀の花で\n飾られ、超人的な静けさの中で\n蝋のような指に百合を持ちながら！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "gelida virgo prerafaelita",
+      "body": "「gelida（冷ややかな・氷のような）」——肉体的温度の欠如が女性の非現実性・彫像性を示す。ダヌンツィオ初期詩において「gelido/a」は官能から遠ざかった神聖な冷たさを示す語として機能する。「virgo prerafaelita（前ラファエル派の処女）」——ロセッティ・バーン＝ジョーンズらの絵画に繰り返し登場する長い首・大きな瞳・放心した表情の女性類型。エリザベス・シダル、ジェーン・モリス、ファニー・コーンフォースらのモデルが作り上げた「前ラファエル派の顔（PRB face）」の文学的定義。この「冷たき処女」という規定が、第6連の「貪るように薔薇を飲み干す」という官能的頂点との対比を準備する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "o voi che compariste un dì, vestita\ndi fino argento, a Dante Gabriele,\ntenendo un giglio ne le ceree dita,",
+      "body": "「Dante Gabriele」——ダンテ・ゲイブリエル・ロセッティ（1828–1882）の名の詩的言及。「fine argento（細やかな銀）」——ロセッティの「祝福された乙女（The Blessed Damozel）」（1850）の「白い衣」との照応。「giglio ne le ceree dita（蝋のような指の百合）」——百合は純潔・受胎告知の図像で、ロセッティの「受胎告知（Ecce Ancilla Domini!）」（1850）でガブリエルが持つ百合と直接的に対応する。「ceree（蝋の）」という形容詞が第1連と第9連（結末）で反復され、詩に円環的な閉じを与える。",
+      "targetId": "d_g_rossetti_lilith",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vivïana, non più forse a la mente\nil ricordo di me vi torna omai.",
+      "body": "「non più forse（おそらくもはや）」——「forse（おそらく）」という不確かさの副詞が、詩人の自己への問いを柔らかく開く。追憶詩の定型的な逆説——忘れられた者が忘れた者に語りかける——をダヌンツィオは「forse」一語で叙情的に開いている。ペトラルカ「カンツォニエーレ」における「記憶」と「忘却」の弁証法の継承。コヘレト第11章「先のことどもの記憶はない」という忘却の形而上学が、ここでは個人的な恋愛的忘却として縮減・内面化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "mi sorrideste a lungo e dolcemente.\nFiorìan, Villa Farnese, i tuoi rosai",
+      "body": "v.9「mi sorrideste a lungo e dolcemente」とv.10「Fiorìan, Villa Farnese, i tuoi rosai」の間でアンジャンブマンが生じ、第2連と第3連がまたがって続く。「Fiorìan（咲き乱れていた）」——遠過去（passato remoto）の三人称複数形が、過去の情景を鮮明に切り出す。「Villa Farnese」——現カプラローラのパラッツォ・ファルネーゼ（ヴィテルボ県）、16世紀ヴィニョーラ設計の庭園で知られる。薔薇の詳述が第3連から第6連にかけての詩的展開の核となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "tra le liete ghirlande si svolgea\nla bellissima favola di Psiche;\nnavigava in trionfo Galatea.",
+      "body": "「favola di Psiche（プシュケの物語）」——ヴィラ・ファルネーゼの庭園には「プシュケとアモル」のフレスコ連作が実在する（ヤーコポ・ズッキ作、16世紀）。「navigava in trionfo Galatea（ガラテアが凱旋の航行を）」——ラファエルがヴィッラ・ファルネージーナ（ローマ）に描いた「ガラテアの勝利」（1512年頃）を指す。半魚の海獣たちに引かれた貝殻の車に乗るガラテア——ヴィヴィアーナへの視線がこの絵画の女神へと重なる。一つの庭に実在の壁画と詩人の記憶が同時に展開するという、ダヌンツィオ特有の「生きた博物館」的空間。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "O Vivïana May de Penuele,\nor vi sovviene de 'l lontan mattino?",
+      "body": "第4連冒頭で第1連冒頭「O Vivïana May de Penuele」が反復される——9連詩における折り返し点（v.16）での呼びかけの再提示。「or vi sovviene（今も覚えていますか）」——この問いかけは第7連v.33「or vi sovviene?」にも括弧内で反復され、詩全体の問いの軸を形成する。「a capo chino（頭を垂れて）」——俯きながら薔薇を摘む姿がボッティチェッリ「春」のフローラの動作と重なり、次連でその図像的照応が明示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Non vidi allor la Primavera iddia?\nDisser la vostra lode a me li uccelli;\nfiori parvero nascer da' capelli,\ncome ne la divina Allegoria\ncui pinse in terra Sandro Botticelli.",
+      "body": "「la Primavera iddia（春の女神）」——ボッティチェッリ「春（La Primavera）」（1477–82年頃、ウフィツィ美術館）の中央に立つウェヌス、またはその右のフローラへの直接的な言及。「fiori parvero nascer da' capelli（花々が髪から生まれるように見えた）」——フローラが口から花を零す「春」の図像の変奏——ダヌンツィオは花が「口から」ではなく「髪から」生まれると書くことで、ヴィヴィアーナをフローラではなくその全身から花を放つ春の女神そのものとして提示する。「Sandro Botticelli」——ダヌンツィオ初期詩において画家名を詩中に直接記すことは例外的であり、絵画的想像力への強調である。",
+      "targetId": "gozzano_la_preraffaelita",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Poi su l'accolta de le vive rose\nreclinando la testa agile e bionda,\navidamente, come sitibonda,\ntutte beveste l'anime odorose\n– oh voluttate mistica e profonda!",
+      "body": "第6連は詩全体の官能的頂点。「accolta de le vive rose（摘み集めた生きた薔薇たち）」——「vive（生きている）」という形容詞が Nympha ludovisia の「fontane vivono」・「flora vive」の擬人法と連続する。「avidamente, come sitibonda（渇いた者のように貪るように）」——二重の副詞的強調が官能の過剰を示す。「tutte beveste l'anime odorose（香り立つ魂のすべてを飲み干した）」——薔薇の香りを「魂（anime）」と呼ぶことで、嗅覚が霊的行為として昇格される。「oh voluttate mistica e profonda!」——感嘆による孤立した結語が連の緊張を放出する。第1連「gelida virgo（冷ややかな処女）」の「冷たさ」がここで「渇き」として反転する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "la faccia ove le azzurre ésili vene\nlanguìano,",
+      "body": "「le azzurre ésili vene languìano（青く細い静脈が揺らめいていた）」——前ラファエル派絵画における「透明な白い肌に透ける青い静脈」という美の定型の文学的翻訳。「languìano（languire の三人称複数遠過去）」——「弱る・揺らめく」の半語義が視覚的な柔らかさと衰弱の両義を持つ。ロセッティ「プロセルピナ」の「蒼白な美」との照応——Beata Beatrice の「青く細い静脈」がここでは生きた顔の上で「揺らめく」ものとして現れる。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Non così pura in cielo è mai Selene.",
+      "body": "「Selene（セレネ）」——ギリシア神話の月の女神。この連の結語として、ヴィヴィアーナの「清らかな瞳」をセレネの純粋性と比較し、ヴィヴィアーナが月の女神すら凌ぐと主張する。古典的な「難勝（praeteritio）」の逆用——「Selene でさえも」という月神との比較によって、女性の超越性を定式化する。第8連の「raggio di luna（月光の一条）」へと月のモチーフが連続する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Segreto in me de' vostri occhi il fulgore\nio custodii, beata Beatrice.",
+      "body": "「io custodii（私は守り続けた）」——「custodire」の遠過去一人称単数。秘密の保管者としての詩人の自己規定。「beata Beatrice」——ダンテの「ベアトリーチェ」への直接的な呼びかけ。ダンテが「新生（Vita Nuova）」でベアトリーチェへの愛を「心の書」として秘匿したのと同様、ダヌンツィオは「瞳の輝き（fulgore degli occhi）」を内面に秘蔵する。同詩集所収「Beata Beatrice」のタイトルとの直接的連結——「io custodii, beata Beatrice」という呼びかけが Donne 連作においてヴィヴィアーナとベアトリーチェを同一化する瞬間。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Tale un raggio di luna il silfo ha in cuore.",
+      "body": "「silfo（シルフ）」——ルネサンス期の自然魔術（パラケルスス）に由来する「風の精霊」。空気元素に対応する存在として、肉体のない純粋な霊性を象徴する。ロマン主義詩学においてシルフは繊細・無形・光に近い存在として詩的な比喩として定着した。「月光の一条（raggio di luna）」を胸に秘めるシルフ——詩人がヴィヴィアーナの記憶を非物質的な光として内面に保持するという自己比喩。Beata Beatrice の「sogno luce in lei fuggendo come lampo（稲妻のように逃げる夢の光）」と照応する——光が「逃げる」のに対し、ここでは「胸に秘める」という保持の構造。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Or cantarti m'è dolce, o Vivïana.\nSplendimi ne la chiara ode, vestita\nde la tunica verde e redimita\nd'argentei fiori, in calma sovrumana\ntenendo un giglio tra le ceree dita!",
+      "body": "第9連は詩全体の結語であり、第1連との対称的な円環を形成する。「Or cantarti m'è dolce（今あなたを歌うことが私には甘い）」——追憶から頌詩宣言へ。詩の語りの現在が過去の追憶から離れ、詩的行為（cantare）そのものへと転じる。「Splendimi（私に輝いておくれ）」——命令形が受動的な追憶から能動的な詩的召喚へと転換する動詞。「tunica verde e redimita d'argentei fiori（銀の花で飾られた緑の衣）」——第1連「di fino argento（細やかな銀）」の変奏。「in calma sovrumana（超人的な静けさの中で）」——第1連「gelida virgo」の「冷たさ」が「超人的な静けさ」として昇華される。「tenendo un giglio tra le ceree dita（蝋のような指に百合を持ちながら）」——第1連v.5「tenendo un giglio ne le ceree dita」との完全な呼応——単語「ceree dita」・「giglio」・「tenendo」が繰り返され、詩の円環が完結する。"
+    }
+  ]
+}
+
+
