@@ -1,0 +1,96 @@
+{
+  "id": "dannunzio_nympha_ludovisia",
+  "title": "Nympha ludovisia",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Donne, VII. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Donne/Nympha_ludovisia（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "初級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★",
+  "context": "「Nympha ludovisia」は詩集『イザオッタ・グッタダウロ』（Isaotta Guttadàuro,1886）所収「Donne（女たち）」連作の一編。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。「Nympha ludovisia」はルドヴィジ家のニンフおよびピエトロ・ダ・コルトーナの設計によるヴィッラ・ルドヴィジ（ローマ）の広大な庭園を指す。「nova principessa di Piombino」はピアンビーノ公女への呼びかけで、詩は夜明けのなかを歩く女性の存在が漂う香り・植物の生命力・泉水を呼び起こす光景を描く。「bionda Napea di Rafael d'Urbino」という呼びかけはラファエルの絵に登場する金髪の森のニンフ（Napea）に女性を擬える。初期ダヌンツィオに特有の古典的・絵画的幻想と繊細な官能表現が共存する作品。",
+  "keywords": [
+    "ソネット", "Nympha", "ニンフ", "ピアンビーノ公女",
+    "Villa Ludovisi", "ラファエル", "Napea",
+    "Isaotta Guttadàuro", "Donne", "官能的美", "庭園詩", "flora ludovisia"
+  ],
+  "relatedTexts": [
+    "dannunzio_beata_beatrice",
+    "dannunzio_due_beatrici",
+    "regnier_la_nymphe",
+    "regnier_leda"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Per l'antico viale de l'Aurora,\nmentre i cipressi dormono al mattino,\no nova principessa di Piombino,\ntu passi; e a te d'intorno il vento odora.",
+      "provisionalTranslation": "オーロラの古い並木道を、\n糸杉たちが朝のなかに眠る間に、\nあなたは通る、ピアンビーノの新たな公女よ。\nあなたの周りに風が香る。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Vive d'intorno a te la grande flora\nludovisia crescendo a 'l sol latino,\nbionda Napea di Rafael d'Urbino,\nne la beatitudine de l'ora.",
+      "provisionalTranslation": "あなたの周りに大きな植物群が生きている、\nルドヴィジの植物たちがラテンの太陽の中に伸びて、\nウルビーノのラファエルの金髪のニンフよ、\nこの時の幸福のなかに。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "E le fontane vivono; e l'intensa\nvoluttà de la vita, a 'l tuo passare,\nurge fino i cipressi alti e quieti;",
+      "provisionalTranslation": "泉水たちは生きている。生の激しい官能が、\nあなたの通りすぎるごとに、\n高く静まり返った糸杉たちにまで迫り上がる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "e te brama ed a te canta l'immensa\nanima de la villa secolare,\no diletta ne' sogni dei poeti.",
+      "provisionalTranslation": "あなたを渇望し、あなたに歌う、「ヴィッラ」の\n数百年の悠々たる魂が、\n詩人たちの夢に愛でられた、幻の女よ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Per l'antico viale de l'Aurora",
+      "body": "「viale de l'Aurora」——ヴィッラ・ルドヴィジ（ローマ）に実在する庭園の一角、「オーロラの並木道」の名称。ベルニーニの「アポロとダフネ」（1652）とグエルチーノの天井画「オーロラ」（1621）が置かれた廊があることから命名された。形容詞「antico」が庭園の通路を官能的記憶を帯びる歴史的場所として位置づける。女性が「オーロラ（夜明けの女神）」の歩容を踏む場に意図的に置かれる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "tu passi; e a te d'intorno il vento odora.",
+      "body": "ABBA韻脚の第一四行詩：「Aurora / odora」（A）・「mattino / Piombino」（B）。v.1の「Aurora」とv.4の「odora」の語義的連想が韻脚と一致する——女神の名と香りが韻において合致する。「tu passi」の短い断言が全体の叙述の拠点——女性の通過（passare）という一瞬の出来事が、その後の庭園全体の応答を呼び起こす。「il vento odora」——風が女性によって定義される：女性の存在そのものが風に香りを与える。後の「flora ludovisia」や「fontane vivono」と同じ構造——女性の存在が周囲を生きかえらせる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "bionda Napea di Rafael d'Urbino",
+      "body": "「Napea」——古代ギリシア神話の森のニンフ（Napē、森の谷の精霊）。ラファエルの絵に登場する金髪の森のニンフと女性を重ねる。「bionda（金髪の）」——ラファエル作品群に繰り返されるニンフ・マドンナ表現の特徴的な属性。ダヌンツィオ初期詩の前ラファエル派的官能——Due Beatrici の「virgo prerafaelita」と同様の絵画的想像力が、ここではラファエルを通じてより直接に援用される。",
+      "targetId": "dannunzio_due_beatrici",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ne la beatitudine de l'ora.",
+      "body": "「beatitudine de l'ora」——時間的な幸福の定式。「beatitudine」は神学的には天国的幸福の諸相を指す術語だが、ダヌンツィオはそれを世界内の官能的一瞬に適用する。Beata Beatrice のタイトル語「beata」と語根を共有し、「Donne」連作内で女性の存在が当該瞬間に真福をもたらしているというモチーフの展開。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "E le fontane vivono; e l'intensa\nvoluttà de la vita, a 'l tuo passare,\nurge fino i cipressi alti e quieti;",
+      "body": "ソネットの volta（転換点）が第三連（v.9）で発生する。一四行詩の静的な光景（風・植物群）から、泉水の動きと官能的衝動（「urge」）へ。「fontane vivono」——泉水が「生きている」という擬人法が、第一連の「vento odora」・「flora vive」の擬人法を引き継ぎ、庭園全体が女性の存在に応答する生命体として描かれる。「urge fino i cipressi alti e quieti」——快楽の衝動が、高く静まり返った糸杉たちにまで込み上げるという逆説が詩の感情的頂点を形成する。L'alba separà の第一連「Il corridor fiero — già non aspetta」と対照的——官能が流れる方向が逆転する：別れの息せきではなく、庭園の柔らかな吐息。",
+      "targetId": "dannunzio_alba_separa",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "anima de la villa secolare,\no diletta ne' sogni dei poeti.",
+      "body": "詩の結語——庭園の「魂（anima）」が女性を渇望し歌う。「villa secolare」の「secolare」（数百年の）——庭園の歴史的深度が、女性の一瞬的な通過に対置される。「o diletta ne' sogni dei poeti」——呼びかけが終わり、女性は現実の公女でありながら同時に詩人たちの夢の集積物として永属化される。Beata Beatrice の「o sorella」・「o diletta」と同様の呼びかけ形式で終わり、Donne 連作全体に流れる「実在する女性が幻想的形象と重なる」という主題を結累する。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": 2
+    }
+  ]
+}
