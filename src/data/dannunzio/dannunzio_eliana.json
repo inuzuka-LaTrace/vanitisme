@@ -1,0 +1,97 @@
+{
+  "id": "dannunzio_eliana",
+  "title": "Eliana",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, II. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Eliana（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Eliana」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第2番。変形ペトラルカ式ソネット（ABBA ABBA / CDC EDE）。エリアーナはアーサー王伝説のアストラット（Astolat）の乙女エレイン（Elaine）のイタリア語形で、ランスロットへの叶わぬ愛ゆえに死んだとされる「愛に死した乙女」の象徴。詩は夜のエリアーナの宮殿──銀のゴシック建築、モルガーナの魔法的空間──を描き、そこに訪れる死せる白孔雀たちの群れという超自然的な光景で閉じる。「spose morte di piacere（快楽によって死んだ花嫁たち）」という最終部の定義が詩全体の謎めいた核心をなす。前の A Giuseppe Cellini の「Urganda」が官能的・能動的な魔女だったのに対し、エリアーナは受動的・悲劇的な愛の殉教者として対比的に提示される。",
+  "keywords": [
+    "ソネット", "エレイン", "アーサー王", "モルガーナ", "白孔雀",
+    "夜の宮殿", "ゴシック建築", "Sonetti delle Fate", "死せる花嫁",
+    "沈黙", "泉", "祈願", "Isaotta Guttadàuro"
+  ],
+  "relatedTexts": [
+    "dannunzio_a_giuseppe_cellini",
+    "dannunzio_viviana",
+    "dannunzio_sonetto_liminare",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Dorme a notte il palagio d'Eliana,\nsimile a un dòmo gotico d'argento.\nOr, ne la luce senza mutamento,\npare un fragile incanto di Morgana.",
+      "provisionalTranslation": "夜にエリアーナの宮殿は眠る、\n銀のゴシックの円蓋に似て。\n今、変わることのない光の中で、\nモルガーナの壊れやすい魔法のように見える。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Armoniosa come uno stromento\napresi a torno l'alta ombra silvana;\ned a piè de la scala una fontana\nsinghiozza in ritmo ne 'l silenzio intento.",
+      "provisionalTranslation": "楽器のように調和して\n高い森の影が周囲に開いていく。\n階段の麓では泉が\n満ちた沈黙の中にリズムを刻みすすり泣く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "A torme a torme candidi paoni,\nlenti, silenti come neve in aria,\ndiscendono su l'agili ringhiere.",
+      "provisionalTranslation": "群れをなして白い孔雀たちが、\n空中の雪のように遅く静かに、\n軽やかな手すりの上へと降りてくる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Sono le spose morte di piacere,\nche tentan la dimora solitaria.\nE il bosco è pieno d'implorazïoni.",
+      "provisionalTranslation": "彼女たちは快楽によって死んだ花嫁たちで、\n孤独な住まいを試みにくる。\nそして森は祈願の声に満ちている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Dorme a notte il palagio d'Eliana,\nsimile a un dòmo gotico d'argento.",
+      "body": "「Eliana（エリアーナ）」──アーサー王伝説のアストラット（Astolat）の乙女エレイン（Elaine the Fair）のイタリア語形。ランスロットに片思いし、愛を拒絶されて死んだ。テニスン「イドゥルス・オブ・ザ・キング」（1859）「エライン」篇で広く知られ、ロセッティの絵画的受容を通じて前ラファエル派の殉教的女性像の典型となった。「palagio（宮殿）」──Sonetto liminare の「PALAGIO D'ORO（黄金の宮殿）」との語根的連続。しかしここでは「黄金」ではなく「銀（argento）」──エロスの活力（金）に対し、死の静けさ（銀）。「dòmo gotico（ゴシックの円蓋）」──ゴシック建築の尖塔・繊細な石組みが「銀」の月光に照らされて見える夜の幻視。ダヌンツィオとローデンバックに共通する「死の建築」としてのゴシック的空間。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ne la luce senza mutamento,\npare un fragile incanto di Morgana.",
+      "body": "「luce senza mutamento（変わることのない光）」──月光の静止した光。時間の停止した夜の空間。「fragile incanto di Morgana（モルガーナの壊れやすい魔法）」──「Morgana（モルガーナ）」はアーサー王伝説の魔女モルガン・ル・フェイ（Morgan le Fay）のイタリア語形。「fragile（壊れやすい）」という形容詞が魔法の儚さを強調する──モルガーナの魔法は強力だが同時に脆い幻影として定義される。この「幻影（incanto）」は眠れる宮殿がいつ消えてもおかしくない仮象であることを示す。A Giuseppe Cellini の「reggia segreta（秘密の宮殿）」が能動的・誘惑的な空間だったのに対し、エリアーナの宮殿は受動的・夢幻的な空間として対比される。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Armoniosa come uno stromento\napresi a torno l'alta ombra silvana;\ned a piè de la scala una fontana\nsinghiozza in ritmo ne 'l silenzio intento.",
+      "body": "第二四行詩の中心的な音楽的比喩。「Armoniosa come uno stromento（楽器のように調和して）」──森の影が楽器として擬えられる。視覚的なものが聴覚的なものとして変換される共感覚。「apresi（開く）」──「aprirsi」の古語的反射動詞形。森の影が楽器の胴体のように空間に「開く」という比喩が視覚と聴覚を同時に活性化する。「singhiozza in ritmo（リズムを刻みすすり泣く）」──「singhiozzare（すすり泣く）」という感情的な動詞が泉の水音に帰属される。泉の規則的なリズムが「すすり泣き」として人格化される──最終連の「spose morte（死せる花嫁たち）」の嘆きをここで泉が先取りする。「silenzio intento（満ちた沈黙）」──「intento（満たされた・張りつめた）」という形容詞が沈黙を積極的な充満として定義する。ローデンバック「沈黙について」の主題との深い照応。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A torme a torme candidi paoni,\nlenti, silenti come neve in aria,\ndiscendono su l'agili ringhiere.",
+      "body": "「A torme a torme（群れをなして）」──反復による群れの動きの強調。Il dolce grappolo の「piovon come per incantagione（魔法のように降り注ぐ）」・A Giuseppe Cellini の「candidi paoni（白い孔雀）」との連続──孔雀は Isaotta Guttadàuro 全体を通じて貴族的庭園の象徴として機能するが、ここでは「白（candidi）」と「沈黙（silenti）」の属性が死と結びつく。「lenti, silenti come neve in aria（空中の雪のように遅く静かに）」──二重の直喩が孔雀の動きから音と速度の両方を奪う。雪は無音で落ちる──「silenti」という形容詞を視覚的な「雪」に重ねることで、孔雀の超自然的な静けさが確立される。「agili ringhiere（軽やかな手すり）」──Il dolce grappolo の「le bacchiche foglie colorite / mesceansi con le rose a le ringhiere（手すりの薔薇）」の「手すり」が、ここでは死せる孔雀たちの降り立つ場所として再登場する。",
+      "targetId": "dannunzio_dolce_grappolo",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Sono le spose morte di piacere,\nche tentan la dimora solitaria.\nE il bosco è pieno d'implorazïoni.",
+      "body": "詩の謎めいた核心──白い孔雀たちの正体が明かされる。「spose morte di piacere（快楽によって死んだ花嫁たち）」──「快楽（piacere）」で死んだ花嫁という定義が愛の殉教者としてのエレイン像を凝縮する。Sonetto liminare の「de' Piaceri（喜びの）」という宮殿の属性が、ここでは「死の原因（morti di piacere）」として反転される──快楽の宮殿の喜びが過ぎると死が訪れるという逆説。「dimora solitaria（孤独な住まい）」──エリアーナの宮殿の「孤独」が、死せる花嫁たちを引き寄せる磁力として機能する。「il bosco è pieno d'implorazïoni（森は祈願の声に満ちている）」──「implorazïoni」のディエレシス（ï）が音節を伸ばし、最終行を読む速度を落とす。「祈願（implorazione）」という語は神・愛人・生者への死者からの訴えかけ。沈黙で満ちていた森が今や「祈願の声」で満ちる──静けさと声の逆転が詩の最終の驚きとして機能する。ローデンバック「沈黙について」の「沈黙が語りかける」という主題の視覚的・超自然的変奏。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 1
+    }
+  ]}
+
+
+
+
+
+
