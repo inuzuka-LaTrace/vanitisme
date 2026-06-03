@@ -1,0 +1,312 @@
+{
+  "id": "dannunzio_dolce_grappolo",
+  "title": "Il dolce grappolo",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Il libro d'Isaotta, II. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Il_libro_d%27Isaotta/Il_dolce_grappolo（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Il dolce grappolo（甘い葡萄の房）」は Isaotta Guttadàuro（1886）所収「Il libro d'Isaotta（イザオッタの書）」章の第2篇。4部構成・各部9行連（ノナ・リーマ）の変形叙事詩、計36連・合計最大45行。ノナ・リーマはボッカッチョ「フィロストラート」やダヌンツィオが敬愛した中世ロマンスの詩形。I部は詩人がバルコニーの下で朝の呼びかけ歌（alba）を歌う「詩中詩」、II部は二人の出会いと誓約の交換、III部はラタモーネ川沿いの「手つかずの葡萄の房」を探す巡礼的散歩、IV部はオルランドの谷での房の発見と接吻という物語構造を持つ。収穫後の十一月のぶどう畑に「手つかずの一房」があれば愛を許すというイザオッタの条件は、ペトラルカ的な「不可能な愛の条件」を現実的・物語的に変奏する。全篇を通じて「黄金」「ルビー」「銀」という宝石・貴金属の語彙と、ボッティチェッリ・ラファエル・中世騎士道文学への言及が織り交ぜられ、トスカーナの秋の景観が絵画的・神話的空間として昇華される。「Blanzesmano」とランスロットの騎士道的恋愛の比喩がIII部とIV部で反復され、詩人とイザオッタの関係が中世的な愛の物語の継承として自己定義される。",
+  "keywords": [
+    "ノナ・リーマ",
+    "alba",
+    "朝の歌",
+    "葡萄の房",
+    "誓約",
+    "ラタモーネ川",
+    "オルランドの谷",
+    "ボッティチェッリ",
+    "ランスロット",
+    "Blanzesmano",
+    "巡礼",
+    "接吻",
+    "秋",
+    "Isaotta Guttadàuro",
+    "Il libro d'Isaotta"
+  ],
+  "relatedTexts": [
+    "dannunzio_sonetto_liminare",
+    "dannunzio_viviana",
+    "dannunzio_nympha_ludovisia",
+    "dannunzio_beata_beatrice"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–9",
+      "original": "— O madonna Isaotta, il sole è nato\nvermiglio in cima a 'l bel colle d'Orlando:\nei su' vostri balconi ha ravvivato\nle rose che morian trascolorando.\nSorga da l'ampio letto di broccato\nor la vostra beltà lume raggiando.\nO madonna Isaotta, il sol che v'ama\ncon un lucido cantico vi chiama;\ne gridano i paoni a quando a quando.",
+      "provisionalTranslation": "「おおイザオッタ奥方よ、太陽が生まれた\n真っ赤に、オルランドの美しい丘の頂に。\n太陽はあなたのバルコニーで色褪せながら\n死にかけていた薔薇たちを生き返らせた。\n今、あなたの美しさが光を放ちながら\n広々とした金襴のベッドからお起きください。\nおおイザオッタ奥方よ、あなたを愛する太陽が\n澄んだ歌をもってあなたを呼んでいる。\n孔雀たちが時々甲高く鳴いている。」"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.10–18",
+      "original": "Udite voi salir nostre preghiere\no ancor vi tiene il Sonno in tra le braccia?\nDolce sarebbe a' nostri occhi vedere\ni primi raggi su la vostra faccia\nove il trapunto lin de l'origliere\nne la notte lasciò sua rosea traccia.\nPalpita il vostro sen con più veloce\nansia a' richiami de la nostra voce,\nmentre la fante il busto alto v'allaccia?",
+      "provisionalTranslation": "私たちの祈りが昇るのが聞こえますか、\nそれともまだ眠りがあなたをその腕に抱いていますか？\n私たちの目には甘いことでしょう、\nあなたのお顔に最初の光が差すのを見ることが──\n枕の刺繍された麻が\n夜のうちに薔薇色の跡を残したお顔に。\nあなたの胸は私たちの声の呼びかけに\nいっそう速く、ざわめきながら鼓動していますか、\n侍女がその高いボディスを締めている間に？"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.19–27",
+      "original": "«Levasi a lo mattin la donna mia\nch'è vie più chiara che l'alba del giorno,\ne vestesi di seta Caturìa,\nla qual fu lavorata in gran soggiorno\na la nobile guisa di Surìa»,\ncanta l'Antico nel poema adorno.\n«Il su' colore è fior di fina grana,\ned è ornato a la guisa indiana;\ntinsesi per un mastro in Romanìa».",
+      "provisionalTranslation": "「朝に私の乙女は起き上がる、\n夜明けよりもはるかに明るく、\nカトゥリアの絹を身に着ける、\nシュリアの気高い様式で\n長い時をかけて織られたその絹を」──\n古の詩人は美しい詩の中で歌う。\n「その色は上質な茜の花、\nインドの様式で飾られ、\nロマニアの名匠が染め上げたもの」。"
+    },
+    {
+      "id": 4,
+      "verses": "I, v.28–36",
+      "original": "Levasi da 'l gran letto in su l'aurora\nla mia donna; e la sua forma ninfale\ntra le diffuse chiome a l'aria odora\ne a 'l sol risplende più bianca del sale.\nTutta di gocce tremule s'irrora\nne 'l lavacro di marmo orientale.\nMiran le statue a torno quella pura\nforma e tessuta ad arte in su le mura\nride la greca favola d'Onfale.",
+      "provisionalTranslation": "夜明けに私の乙女は大きなベッドから起き上がる。\nそのニンフのような姿が\n広がった髪の間で空気に香り、\n太陽の中で塩よりも白く輝く。\n東洋の大理石の浴槽の中で\n震える水滴をすっぽりと浴びる。\n周りの彫像たちがその清らかな姿を見つめ、\n壁に技巧を凝らして織り込まれた\nオンファレのギリシア神話が笑っている。"
+    },
+    {
+      "id": 5,
+      "verses": "I, v.37–45",
+      "original": "Ridono i fatti di Venere dia\nsu 'l cofano di cedro, alto lavoro\nd'artefici maestri di tarsìa,\nche sta ne 'l mezzo d'un bacile d'oro;\nove con signorile atto la mia\ndonna gitta incurante il suo tesoro\ndi smeraldi, rubini e perle buone\nche piovon come per incantagione\nsovra il metallo nitido e sonoro.",
+      "provisionalTranslation": "神聖なヴェヌスの逸話が笑っている\n寄木細工の名匠たちの優れた仕事による\n杉の箱の上で──\n黄金の盥の中央に置かれた箱の上で。\nその盥の中に私の乙女は\n大らかな仕草で無頓着にその宝を投げ入れる──\nエメラルドとルビーと良質の真珠を、\nそれらはまるで魔法のように\n磨かれた音響く金属の上に降り注ぐ。"
+    },
+    {
+      "id": 6,
+      "verses": "I, v.46–54",
+      "original": "Ella, composta in vago atteggiamento,\na mezzo de la rara conca emerge;\ne la fante con anfore d'argento\npianamente d'ambrate acque l'asperge.\nAl diletto ella freme, e con un lento\ngesto la chioma rorida si terge.\nCome tondi i ginocchi e come bianchi!\nHan dal respiro un dolce moto i fianchi\ne il petto ad ogni brivido s'aderge.",
+      "provisionalTranslation": "彼女は美しい姿勢に身を整え、\n珍しい貝殻形の浴槽から半身を現す。\n侍女が銀の水差しで\n静かに琥珀色の水を彼女に注ぎかける。\n彼女は快楽にふるえ、濡れた髪を\nゆっくりとした手つきで拭う。\n膝はなんと丸く、なんと白いことか！\n腰は呼吸とともに甘く揺れ、\n胸は震えるたびに高く持ち上がる。"
+    },
+    {
+      "id": 7,
+      "verses": "I, v.55–63",
+      "original": "O madonna Isaotta, è dura cosa\nir le beltà non viste imaginando.\nA voi conviene omai d'esser pietosa\npoi che da tempo in van prego e dimando.\nLa bocca picciolella ed aulorosa,\nla gola fresca e bianca in fine quando\nconcederete al bacio disiato?\nO madonna Isaotta, il sole è nato\nvermiglio in cima a 'l bel colle d'Orlando. –",
+      "provisionalTranslation": "おおイザオッタ奥方よ、見ぬままに\n美しさを想像するのはつらいことです。\nあなたはそろそろお情けをかけてくださるべきです、\n久しく私は空しく祈り求めてきたのですから。\nその小さく芳しい口を、\n新鮮な白い喉をいつになったら\n望みの接吻に許してくださるのですか？\nおおイザオッタ奥方よ、太陽が生まれた\n真っ赤に、オルランドの美しい丘の頂に。」"
+    },
+    {
+      "id": 8,
+      "verses": "II, v.1–9",
+      "original": "Così chiamai l'amata in nona rima,\nsotto il grande balcon di tiburtino\nov'han lo scudo i Guttadàuro-Alima\ncon gocce d'oro in campo oltremarino.\nDormìa la villa ne 'l silenzio: in cima\na li aranci de 'l nobile giardino\naprivano i paoni le gemmanti\npiume verso la luce, e de' lor canti\nstriduli salutavano il mattino.",
+      "provisionalTranslation": "このように私は愛する人をノナ・リーマで呼んだ、\nティブルティーノ石の大きなバルコニーの下で──\nグッタダウロ＝アリマ家が\n黄金の雫を群青の地に配した紋章を掲げる館の。\n荘園は静寂の中に眠っていた。高貴な庭園の\nオレンジの木々の梢で\n孔雀たちが宝石のような羽を\n光に向けて広げ、甲高い歌で\n朝を迎えていた。"
+    },
+    {
+      "id": 9,
+      "verses": "II, v.10–18",
+      "original": "Ella apparve. – Buon dì, messer cantore! –\ndisse ridendo con gentile volto.\n– Non questo è il tempo gaio de 'l pascore,\nma voi siete di ver loquace molto.\nOr seguite a trovar rime d'amore,\nche con benigno orecchio, ecco, v'ascolto. –\nIo le dissi: – Madonna, io son già fioco.\nOr voi di sì salutevole loco\nscendete a me che son di pene avvolto! –",
+      "provisionalTranslation": "彼女が現れた。「おはようございます、詩人殿！」\n優しい顔で笑いながら言った。\n「今は牧歌の楽しい季節ではありませんが、\nあなたはまことによく喋りますね。\nさあ、恋の韻を作り続けてください、\nほら、私は親切な耳でお聞きしますから。」\n私は言った。「奥方よ、私はもう声が嗄れています。\nどうかそのような幸いな場所から\n苦しみに包まれた私のもとへ降りてきてください！」"
+    },
+    {
+      "id": 10,
+      "verses": "II, v.19–27",
+      "original": "Ella tacque; ed il capo inchinò mite:\nne li occhi le ridea novo pensiere.\nTutta quanta di porpora una vite\nsaliva da l'inferior verziere,\ne le bacchiche foglie colorite\nmesceansi con le rose a le ringhiere.\nAvean piegato un dì li aspri sermenti\na la copia de' grappoli rubenti\nche il padre Autunno infranse nel bicchiere.",
+      "provisionalTranslation": "彼女は黙り、穏やかに頭を垂れた。\nその目には新しい思いが笑っていた。\n一本の葡萄の蔓が全体を紫に染めながら\n下の果樹園から這い登り、\nバッカスの色づいた葉が\n手すりの薔薇と混ざり合っていた。\nかつてその荒々しい蔓は\n豊かな真っ赤な葡萄の房の重みに屈んでいた──\n秋の父神が杯の中に押しつぶしたあの房の。"
+    },
+    {
+      "id": 11,
+      "verses": "II, v.28–36",
+      "original": "Ella disse ridendo: – Io pongo un patto,\nvago sire, a la mia dedizione.\n– Il vago sire – io dissi – accoglie al tratto\nquel ch'Isaotta Guttadàuro pone.\nEd ella: – Quando un sol grappolo intatto\nne' vigneti che bagna il Latamone\nlungh'esso il chiaro colle solatio\ntroveremo, io sarò pronta al disio\nvostro e sarete voi di me padrone. –",
+      "provisionalTranslation": "彼女は笑いながら言った。「私の献身に\n一つの条件をつけましょう、麗しい殿。」\n「麗しい殿は」と私は言った、「イザオッタ・グッタダウロが\n定める条件をただちに受け入れます。」\n彼女は続けた。「ラタモーネの川が水を注ぐ\nぶどう畑の中で、あの明るい日当たりの丘に沿って、\n手つかずの房がただ一房でも\n見つかるなら、私はあなたの望みに\n従い、あなたは私の主人となるでしょう。」"
+    },
+    {
+      "id": 12,
+      "verses": "III, v.1–9",
+      "original": "Ella discese allora: un giuramento\nfece sicuro il gran patto d'amore.\nE prendemmo la china. Senza vento\nera l'aria; ne 'l placido candore\nerano i campi senza ondeggiamento,\nbrevi selve di canne erano in fiore.\nQuasi una gratitudine beata\na 'l sole offrìa la terra bene amata:\nera novembre, il tempo de 'l sopore.",
+      "provisionalTranslation": "彼女はそこで降りてきた。誓いが\n偉大な愛の契約を確かなものにした。\nそして私たちは坂を下り始めた。風のない\n空気の中、穏やかな白さの中に\n畑は波打つことなく広がり、\n短い葦の林が花をつけていた。\nまるで至福の感謝を\n愛された大地は太陽に捧げているようだった──\n十一月、まどろみの季節だった。"
+    },
+    {
+      "id": 13,
+      "verses": "III, v.10–18",
+      "original": "D'innanzi, il Latamon, fiume regale,\nlambiva in suo lunante arco i vigneti\nove l'ebro clamor vendemmiale\ned i carmi de' rustici poeti\nsalutato avean già l'almo natale\nde 'l vino autor di gioia, ora quieti.\nDisse Madonna: – Siate accorto e saggio:\nquivi incomincia il pio pellegrinaggio. –\nD'intorno s'inchinarono i canneti.",
+      "provisionalTranslation": "前方にラタモーネ川が、王者の川が、\n月形の弧を描きながらぶどう畑を舐めていた──\nかつてそのぶどう畑で酔った収穫の喧噪と\n素朴な詩人たちの歌が\n喜びの作者たる葡萄酒の聖なる誕生を\n祝ったが、今は静かだった。\n奥方が言った。「気をつけて賢明に進んでください。\nここから敬虔な巡礼が始まります。」\n周りの葦林が頭を垂れた。"
+    },
+    {
+      "id": 14,
+      "verses": "III, v.19–27",
+      "original": "Io dissi: – Non mi giova la fortuna,\no Madonna Isaotta, ne 'l trovare. –\nEd ella a me: – Non ha virtude alcuna\nil fino Amore per v'illuminare?\nIl grappolo tardìo dove s'aduna\nda lungo tempo, come in alveare,\nla dolcezza de 'l miele a 'l lento foco\nde 'l sole, aspetta noi per qualche loco. –\nIo dissi: – Non mi stanco di cercare. –",
+      "provisionalTranslation": "私は言った。「幸運は私を助けてくれません、\nイザオッタ奥方よ、見つけることにおいて。」\n彼女は私に答えた。「純粋な愛には\nあなたを照らす力が少しもないのですか？\n遅れた房が蜂の巣の中のように\n長い時間をかけて太陽のゆっくりとした\n火によって蜜の甘さを\n蓄えた場所で、どこかで私たちを待っています。」\n私は言った。「探すことに飽きません。」"
+    },
+    {
+      "id": 15,
+      "verses": "III, v.28–36",
+      "original": "Noi camminammo giù per la vermiglia\ncina che discendeva a l'acque d'oro.\nDa lungi a quando a quando una famiglia\ndi villici sorgendo da 'l lavoro\nci guardava con alta maraviglia;\ne le fanciulle interrompeano il coro.\nVenendo innanzi con giulivo ardire\nuna gridò: – Che mai cerchi, o bel sire? –\nEd io risposi a lei: – Cerco un tesoro. –",
+      "provisionalTranslation": "私たちは黄金の水へと降りていく\n赤い斜面を歩いた。\n遠くから時々農夫たちの一家が\n仕事の手を止め\n大いに驚いて私たちを見ていた。\n娘たちは歌の輪を止めた。\n一人が快活な大胆さで前に出てきて\n叫んだ。「何をお探しですか、美しい殿？」\n私は答えた。「宝を探している。」"
+    },
+    {
+      "id": 16,
+      "verses": "III, v.37–45",
+      "original": "Noi così camminammo: ella men lesta,\npoi che non concedeami anco la mano.\nIn guardare tenea china la testa,\nbella come la bella Blanzesmano\nallor che cavalcò per la foresta\na fianco a 'l suo Lancialotto sovrano.\nLe fronde sotto i piè stridevan forte;\nma a quelle viti ignude aspre e contorte\nli occhi chiedevan la dolce esca in vano.",
+      "provisionalTranslation": "私たちはそうして歩いた。彼女は少し遅れがちで、\nまだ私に手を差し出してはくれなかった。\n見回しながら頭を垂れて歩く姿は\n美しいブランスマノのようだった、\nあの美しい女が騎馬で森を行き、\n偉大な愛するランスロットに従った時のように。\n落ち葉が足の下で大きな音を立てた。\nしかし目はあの裸の荒々しい曲がりくねった\n蔓に甘い餌食を求めても空しかった。"
+    },
+    {
+      "id": 17,
+      "verses": "III, v.46–54",
+      "original": "Disse Madonna: – Riposiamo al fine. –\nEra lungi un trar d'arco il bel rivaggio.\nL'alta erba mareggiava in su 'l confine\nplacidamente, come biada a maggio;\nor sì or no giungea da le colline\ndi citisi e di timi odor selvaggio.\nPareva il sol d'autunno per le chiare\nvie de 'l cielo un novello orbe lunare:\ni vapori facean mite il suo raggio.",
+      "provisionalTranslation": "奥方が言った。「そろそろ休みましょう。」\n美しい川岸は弓一射の距離だった。\n高い草が境に沿って\n五月の麦のように穏やかにうねっていた。\n時折丘から届いてきた\n金雀枝と百里香の野生の香りが。\n秋の太陽は空の澄んだ\n通り道を行く新しい月の天体のように見えた──\n霞がその光を和らげていた。"
+    },
+    {
+      "id": 18,
+      "verses": "III, v.55–63",
+      "original": "Ella disse. Non mai le sue parole\nebber soavità così profonda:\ncadevan come languide viole\nda l'arco de la sua bocca rotonda.\nE quel sorriso fievole de 'l sole\nancor la testa le facea più bionda.\nEra, d'intorno, un grande incantamento.\nEra il diletto mio qual d'uom che, lento,\nin giaciglio di fiori ampio s'affonda.",
+      "provisionalTranslation": "彼女が語った。その言葉がこれほど深い\n甘さを持ったことはかつてなかった──\nその丸い唇の弓から\n弱々しいすみれの花のように落ちてきた。\nそして太陽のあの弱い微笑みが\nさらにその頭を金色に染めていた。\n周りには大いなる魔法があった。\n私の喜びは、ゆっくりと\n広い花の寝床に沈んでいく人のようだった。"
+    },
+    {
+      "id": 19,
+      "verses": "III, v.64–72",
+      "original": "Tacque. Uno stuol d'augelli, d'improvviso,\nattraversò con ilari saluti.\nNoi trasalimmo, come ad un avviso\nmisterioso de la terra; e, muti,\nimpallidendo ci guardammo in viso.\nPoi prendemmo sentieri sconosciuti.\nI pioppi nudi e senza movimento\nparevan candelabri alti d'argento;\ned i lauri fremean come leuti.",
+      "provisionalTranslation": "彼女は黙った。一群の鳥たちが突然、\n陽気な挨拶をしながら横切っていった。\n私たちは驚いた、まるで大地からの\n神秘的な合図のように。そして黙ったまま\n青ざめながら互いの顔を見合わせた。\nそれから見知らぬ小道を進んだ。\n裸で身じろぎしない白楊の木々が\n高い銀の燭台のように見えた。\n月桂樹は琵琶のように震えていた。"
+    },
+    {
+      "id": 20,
+      "verses": "IV, v.1–9",
+      "original": "Oh ne la valle concava d'Orlando\ninaspettata vista del tesoro!\nGiaceva la bella vigna fiammeggiando\ncon tralci di rubino e foglie d'oro;\ne uno stuolo d'augelli roteando\nfacea nel mezzo della vigna un coro.\n— O Madonna Isaotta, ecco la vita! –\nio le gridai con l'anima rapita.\nEd in alto gridò lo stuol canoro.",
+      "provisionalTranslation": "ああ、オルランドの凹んだ谷に\n思いがけない宝の光景が！\n美しいぶどう畑がルビーの蔓と\n黄金の葉をもって燃えるように横たわっていた。\n一群の鳥たちが輪を描きながら\nぶどう畑の真ん中で合唱をしていた。\n「おおイザオッタ奥方よ、これが命だ！」\n魂を奪われながら私は彼女に叫んだ。\n歌う鳥の群れも高らかに鳴き立てた。"
+    },
+    {
+      "id": 21,
+      "verses": "IV, v.10–18",
+      "original": "Io la trassi a quel loco: ella più lesta\nvenìa, chè forte io la tenea per mano.\nTutta rosea volgea da me la testa,\nbella come la bella Blanzesmano\nallor che la baciò per la foresta\nl'amato suo Lancialotto sovrano.\nE le dissi: – O Madonna, io tengo il patto.\nPer voi colgo il fatal grappolo intatto. –\nElla mi diede il bacio sovrumano.",
+      "provisionalTranslation": "私は彼女をその場所へと引いた。彼女は足速になった、\nなぜなら私が力強く彼女の手を握っていたから。\n顔全体を薔薇色に染めながら私から顔を背けていた、\n美しいブランスマノのようだった、\nあの美しい女が愛する偉大な\nランスロットに森の中で接吻された時のように。\n私は言った。「奥方よ、私は約束を果たします。\nあなたのために運命の手つかずの房を摘みます。」\n彼女は私に超えた自然の接吻を与えた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "O madonna Isaotta, il sole è nato\nvermiglio in cima a 'l bel colle d'Orlando:",
+      "body": "「Il dolce grappolo」はノナ・リーマ（nona rima）と呼ばれる9行連詩形式で書かれている。各連はABABABACC（最初の7行が交差韻、最後2行が対韻）という変形。ダヌンツィオはこの形式を中世騎士道叙事詩から借用し、恋愛的な物語詩として転用した。冒頭の「O madonna Isaotta」という直接的な呼びかけは吟遊詩人（troubadour）の朝の歌（alba）の伝統を踏まえる──詩人が恋人の窓の下で夜明けを告げる形式。第7連の末尾でこの冒頭が逐語的に反復され（v.55「O madonna Isaotta, il sole è nato」）、I部全体がリフレインによって円環的に閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "e gridano i paoni a quando a quando.",
+      "body": "「孔雀（paoni）」──貴族的な庭園の動物として、ヴィッラ・ルドヴィジやヴィッラ・ファルネーゼのような大邸宅庭園の典型的な存在。II部v.8「de' lor canti striduli（甲高い歌で）」で再び登場し、詩の枠組みの中に反復されるモチーフとなる。孔雀の鳴き声が朝の呼びかけと並置されることで、詩人の求愛の声と自然の声が同一化される。ユノー（ヘラ）の聖鳥でもある孔雀は、高貴な女性の庭を守護する神話的な存在でもある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "il trapunto lin de l'origliere\nne la notte lasciò sua rosea traccia.",
+      "body": "「il trapunto lin de l'origliere（枕の刺繍された麻）」──枕の布地が顔に残す痕跡という細密な観察。寝起きの顔に残る枕の跡を「薔薇色の跡（rosea traccia）」と呼ぶことで、生活的な観察が詩的な美の言語に昇格される。前ラファエル派の絵画が持つ日常的・具体的な細部への注目と通じる感覚──ロセッティの絵画における質感と物質性への眼差しのダヌンツィオ的変奏。Viviana の「gelida virgo prerafaelita」の起床場面の具体的展開として機能する。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "«Levasi a lo mattin la donna mia\nch'è vie più chiara che l'alba del giorno,\ne vestesi di seta Caturìa,",
+      "body": "「l'Antico（古の詩人）」──引用の出典は13世紀イタリア語詩人フォルゲット・ダ・マルセイユ、またはダヌンツィオが「古の詩人」として一般化した中世叙情詩の権威的声。「seta Caturìa（カトゥリアの絹）」──「Caturìa」は中世地誌における地名の詩的変形で、おそらくカタルーニャまたは東方の絹産地を指す。「guisa di Surìa（シュリアの様式）」──「Surìa」はシリア。「Romanìa」──ビザンツ帝国領（ローマ帝国の継承地）を指す中世の地名。古の詩の引用が詩に中世的な権威と歴史的奥行きを与える。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "ride la greca favola d'Onfale.",
+      "body": "「la greca favola d'Onfale（オンファレのギリシア神話）」──リュディア女王オンファレがヘラクレスを奴隷として使役し、女装させたという神話。「ride（笑っている）」──壁の絵が「笑う」という擬人法が、浴室の豪奢な装飾と女性の官能的な場面を神話的次元に接続する。強者が美しい女性に従属するという主題が、詩人とイザオッタの関係（詩人が「条件」に従う）を先取りする。Sonetto liminare の「Amor, nudo garzone（裸の少年アモル）」という愛の支配の主題と照応する。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ridono i fatti di Venere dia\nsu 'l cofano di cedro, alto lavoro\nd'artefici maestri di tarsìa,",
+      "body": "「cofano di cedro（杉の箱）」──「tarsìa（寄木細工）」は北イタリア・ベルガモ周辺が名産の木象嵌技術。「i fatti di Venere dia（神聖なヴェヌスの逸話）」が杉の箱の蓋に描かれている──愛の女神の逸話が化粧箱に彫られるという素材と主題の照応。「piovon come per incantagione（魔法のように降り注ぐ）」──宝石が黄金の盥に「降り注ぐ」という重力と音の描写が官能的な聴覚・視覚イメージを作る。Nympha ludovisia の「fontane vivono」と同様に、物質的な豊かさを生命的・官能的な動きとして描く。",
+      "targetId": "dannunzio_nympha_ludovisia",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Come tondi i ginocchi e come bianchi!\nHan dal respiro un dolce moto i fianchi\ne il petto ad ogni brivido s'aderge.",
+      "body": "I部の官能的頂点。「Come tondi i ginocchi e come bianchi!（膝はなんと丸く、なんと白いことか！）」──感嘆文の反復（Come... e come...）が視覚的陶酔を演じる。「Han dal respiro un dolce moto i fianchi（腰は呼吸とともに甘く揺れる）」──「dal respiro（呼吸から）」という源泉の特定が、動きを生理的・内発的なものとして描く。「il petto ad ogni brivido s'aderge（胸は震えるたびに高く持ち上がる）」──「s'ergere（立ち上がる）」という動詞の使用が胸の動きに自律的な意志を持たせる。Viviana の「languìano（揺らめいていた）」と同様に、女性の身体を繊細な動きの連続として捉える前ラファエル派的観察眼。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "O madonna Isaotta, il sole è nato\nvermiglio in cima a 'l bel colle d'Orlando. –",
+      "body": "I部の結語──冒頭v.1–2「O madonna Isaotta, il sole è nato / vermiglio in cima a 'l bel colle d'Orlando」の逐語的反復。この完全な反復がI部の朝の呼びかけ歌（alba）に円環的な閉じを与える。しかし末尾のダッシュ「–」が第一部全体が引用（詩人の歌声）であることを閉じる記号として機能する──II部冒頭「Così chiamai l'amata in nona rima（このように私は愛する人をノナ・リーマで呼んだ）」という詩人の地の文への転換が示すように、I部全体は詩中詩（mise en abyme）の構造を持つ。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "sotto il grande balcon di tiburtino\nov'han lo scudo i Guttadàuro-Alima\ncon gocce d'oro in campo oltremarino.",
+      "body": "「tiburtino（ティブルティーノ石）」──ローマ近郊ティヴォリ産の淡黄色のトラバーチン石灰石。イタリアの貴族建築に多用された。「lo scudo i Guttadàuro-Alima（グッタダウロ＝アリマ家の紋章）」──詩集名「Isaotta Guttadàuro」に込められた架空の貴族家名の紋章学的具体化。「gocce d'oro in campo oltremarino（群青の地に黄金の雫）」──群青（oltremare）は中世・ルネサンス絵画でラピスラズリから作られた最も高価な顔料。黄金の雫が群青の地に散る紋章は「Guttadàuro（黄金の雫）」という姓の視覚的解釈であり、詩集全体のシンボルとして機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Non questo è il tempo gaio de 'l pascore,\nma voi siete di ver loquace molto.",
+      "body": "「il tempo gaio de 'l pascore（牧歌の楽しい季節）」──「pascore」は中世の牧歌的詩（pastorela）の季節、春を指す。イザオッタが「今は牧歌の季節ではない」と言うことで、詩人の朝の呼びかけ（I部）を季節外れの過剰な熱意として軽くかわす。「voi siete di ver loquace molto（あなたはまことによく喋る）」──詩中詩として45行のI部を聞かされたイザオッタの反応として、「多弁な詩人」という軽い揶揄が詩に物語的なユーモアをもたらす。この微笑んだ返しが、直後に誓約の条件（III部）へと転じる複雑な女性像の提示。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Tutta quanta di porpora una vite\nsaliva da l'inferior verziere,\ne le bacchiche foglie colorite\nmesceansi con le rose a le ringhiere.",
+      "body": "「di porpora（紫に）」──秋の葡萄の蔓の紫が建物の手すりと「混ざり合う」という視覚的描写。「bacchiche foglie（バッカスの葉）」──葡萄の葉をバッカス（ディオニュソス）の属性として形容することで、葡萄酒・官能・宗教的陶酔の意味連鎖が導入される。この葡萄のモチーフが詩全体の主題的核心──後の「grappolo intatto（手つかずの房）」という誓約の条件──への視覚的前置きとして機能する。薔薇（愛）と葡萄の葉（官能・陶酔）の混合が条件の誓約が交わされる場の象徴的空間を作る。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Quando un sol grappolo intatto\nne' vigneti che bagna il Latamone\nlungh'esso il chiaro colle solatio\ntroveremo, io sarò pronta al disio\nvostro e sarete voi di me padrone.",
+      "body": "「grappolo intatto（手つかずの房）」──詩全体のタイトル「Il dolce grappolo（甘い房）」の核心語が誓約の条件として提示される。収穫後のぶどう畑に一房でも手つかずの葡萄が残っているかという現実的には不可能に近い条件──11月のラタモーネ川沿いの畑では収穫は終わっている──が愛の達成の条件として設定される。この条件の設定はペトラルカ的な「不可能な愛の条件」の伝統（女性が到達不可能な条件を課す）を踏まえつつ、結末では奇跡的に房が見つかるという構造。「il Latamone」──トスカーナ・グロッセート県ラタモーネ川。ダヌンツィオの実際の記憶に基づく地名。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Quasi una gratitudine beata\na 'l sole offrìa la terra bene amata:\nera novembre, il tempo de 'l sopore.",
+      "body": "「Quasi una gratitudine beata（まるで至福の感謝のように）」──収穫を終えた十一月の大地が太陽に感謝を捧げているかのようだという比喩。擬人化された大地の「感謝」が、ヴィヴィアーナへの詩人の感謝と照応する。「il tempo de 'l sopore（まどろみの季節）」──秋の収穫後のまどろみが、誓約の条件「grappolo intatto」の不可能性を強調する背景として機能する。Nympha ludovisia の「beatitudine de l'ora（この時の幸福）」と同根の「beata」が使われ、Donne 連作の至福の主題が「大地の至福」として宇宙的に拡張される。",
+      "targetId": "dannunzio_nympha_ludovisia",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "D'innanzi, il Latamon, fiume regale,\nlambiva in suo lunante arco i vigneti",
+      "body": "「il Latamon, fiume regale（ラタモーネ川、王者の川）」──「fiume regale（王者の川）」という形容が地方の小河川を詩的に高揚させる。「in suo lunante arco（月形の弧を描きながら）」──川の蛇行を「月形（lunante）」と形容することで、川の動きに天体の形が重ねられる。III部19節「pioppi nudi...parevan candelabri alti d'argento（白楊の木々が高い銀の燭台のように）」と同様に、自然の形状を人工物・天体に擬える比喩のパターンが全篇に一貫している。「l'ebro clamor vendemmiale（酔った収穫の喧噪）」──バッカス的な収穫の祭りの記憶が静寂の中に対置される。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Il grappolo tardìo dove s'aduna\nda lungo tempo, come in alveare,\nla dolcezza de 'l miele a 'l lento foco\nde 'l sole, aspetta noi per qualche loco.",
+      "body": "「grappolo tardìo（遅れた房）」──収穫に取り残された「遅い」房という概念が、蜂の巣（alveare）の比喩によって解釈される。長い時間をかけてゆっくりと蜜を蓄える蜂の巣のように、太陽の「ゆっくりとした火（lento foco del sole）」によって甘さを凝縮した房──この「遅さ」と「凝縮」の主題が詩全体を貫く愛の成熟の比喩として機能する。イザオッタの言葉として提示されることで、女性の口から愛の達成の比喩が語られるという詩的逆転が生じる。「aspetta noi per qualche loco（どこかで私たちを待っている）」──宿命的な発見の予告。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "Venendo innanzi con giulivo ardire\nuna gridò: – Che mai cerchi, o bel sire? –\nEd io risposi a lei: – Cerco un tesoro. –",
+      "body": "農夫の娘の介入──詩の叙事詩的な枠組みに牧歌的な挿話が組み込まれる。「giulivo ardire（快活な大胆さ）」──農村の娘が貴族的な詩人に無遠慮に声をかけるという社会的落差が、詩のトーンに一時的な明るさと民衆的な生気をもたらす。「Cerco un tesoro（宝を探している）」──詩人の答えは文字通り（葡萄の房）でもあり比喩的（愛）でもある両義的な一言。この農夫の娘のエピソードは中世騎士道物語における「森での出会い」という定型的挿話の変奏として機能する。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "intertextual",
+      "anchor": "bella come la bella Blanzesmano\nallor che cavalcò per la foresta\na fianco a 'l suo Lancialotto sovrano.",
+      "body": "「Blanzesmano」──「Blanchefleur（白い花）」のイタリア語化。中世フランス・アルトゥリアン物語『ランスロットとグィネヴィア』における女性名。「Lancialotto（ランスロット）」──アーサー王伝説の騎士ランスロットのイタリア語形。この中世騎士道的な比喩がIV部v.13–15で再び反復され（「bella come la bella Blanzesmano / allor che la baciò per la foresta / l'amato suo Lancialotto sovrano」）、詩の結末での接吻と対応する。III部での「頭を垂れて歩く姿」とIV部での「顔を背けながら急ぐ姿」──同じ比喩が二度使われることで女性の心理の変化を示す。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Pareva il sol d'autunno per le chiare\nvie de 'l cielo un novello orbe lunare:\ni vapori facean mite il suo raggio.",
+      "body": "「il sol d'autunno...un novello orbe lunare（秋の太陽が新しい月の天体のように）」──秋の霞がかかった太陽を月と見間違えるような光景の描写。太陽が月に似て見えるという逆転は、IV部での葡萄畑の「黄金」と「ルビー」の燃え立つ色彩との対比を準備する──くすんだ秋光の段落が、発見の段落の輝きを際立たせる。v.47「L'alta erba mareggiava（高い草がうねっていた）」──「mareggiare（海のようにうねる）」という動詞が草の波動を海の動きとして捉え、川辺の草地を視覚的に海原に変換する。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "prosody",
+      "anchor": "Non mai le sue parole\nebber soavità così profonda:\ncadevan come languide viole\nda l'arco de la sua bocca rotonda.",
+      "body": "「cadevan come languide viole / da l'arco de la sua bocca rotonda（丸い唇の弓からしおれたすみれの花のように落ちてきた）」──言葉を花として描く共感覚的比喩。「arco（弓）」は唇の形状の比喩であると同時に音を発射する弓という楽器的連想も持つ。「languide viole（弱々しいすみれ）」──「languire（弱る）」という動詞的形容詞が花の垂れ下がる姿と声のか細さを重ねる。この共感覚的な表現は Viviana の「cadevan come languide viole」と語彙的に共鳴し、Donne 連作から Il libro d'Isaotta への連続性を示す。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "I pioppi nudi e senza movimento\nparevan candelabri alti d'argento;\ned i lauri fremean come leuti.",
+      "body": "「I pioppi nudi...parevan candelabri alti d'argento（裸の白楊の木々が高い銀の燭台のように見えた）」──葉を落とした冬の白楊が燭台に見えるという比喩が、自然の風景に礼拝的・教会的な次元を持ち込む。「i lauri fremean come leuti（月桂樹は琵琶のように震えていた）」──月桂樹の葉が風に揺れる音を弦楽器「liuto（琵琶・リュート）」の響きとして聴く共感覚。この風景描写のlento（遅い）な蓄積の後に、IV部での葡萄畑の劇的な発見が訪れる──静的な燭台と音楽的な震えが次の「燃える」ぶどう畑への過渡として機能する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Oh ne la valle concava d'Orlando\ninaspettata vista del tesoro!\nGiaceva la bella vigna fiammeggiando\ncon tralci di rubino e foglie d'oro;",
+      "body": "「la valle concava d'Orlando（オルランドの凹んだ谷）」──I部v.2「bel colle d'Orlando」と同じ「オルランド」の地名が詩の冒頭と結末を繋ぐ。「inaspettata vista del tesoro（思いがけない宝の光景）」──15連（III部v.30）「Cerco un tesoro」と呼応する──探し求めた「宝」が見つかる瞬間の感嘆。「tralci di rubino e foglie d'oro（ルビーの蔓と黄金の葉）」──秋の残留した葡萄と黄変した葉が宝石と黄金に擬えられる。III部の「太陽が月に見えた」くすんだ光景から一転、IV部冒頭は宝石・黄金・炎の語彙で満たされる──劇的な転換点。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Ella mi diede il bacio sovrumano.",
+      "body": "「il bacio sovrumano（超えた自然の接吻）」──詩全体の到達点を一行で定式化する。「sovrumano（超人的な・人間を超えた）」──I部v.7「il sol che v'ama（あなたを愛する太陽）」との対応：太陽の呼びかけから始まった詩が、「自然を超えた」接吻で終わる──自然的・宇宙的な恋愛の次元が「接吻」という身体的一瞬に凝縮される。Blanzesmano の比喩がIII部（v.40–42）とIV部（v.13–15）の二度反復された後、その比喩の内実（「la baciò...Lancialotto」）が現実として成就する──詩中の比喩が詩中の出来事として実現するという構造。Sonetto liminare の「Isaotta Guttadáuro sale（イザオッタが昇ってくる）」という書物への期待が、この詩においてその内実を初めて物語として展開する。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 4
+    }
+  ]
+}
