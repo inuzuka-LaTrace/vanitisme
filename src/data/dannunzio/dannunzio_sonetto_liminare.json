@@ -1,0 +1,89 @@
+{
+  "id": "dannunzio_sonetto_liminare",
+  "title": "Sonetto liminare",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Il libro d'Isaotta, I. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Il_libro_d%27Isaotta/Sonetto_liminare（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Sonetto liminare（扉ソネット）」は Isaotta Guttadàuro（1886）の「Il libro d'Isaotta（イザオッタの書）」章の巻頭に置かれた献呈ソネット。ペトラルカ式（ABBA ABBA / CDC CDC）。「liminare（敷居の・扉の）」はラテン語 limen（敷居・閾）に由来し、書物への入口・奉献としての機能を持つ。詩は「黄金の宮殿」「黄金の森」「黄金の泉」という三つの寓意的空間を連続して喚起し、いずれもエロスと美の領域として定義する。第一四行詩が「宮殿」、第二四行詩が「森」、第一三行詩が「泉」と三つの黄金の場所を呼び起こした後、最終三行詩でその場所の語りかける相手「O MIO LIBRO（おお、わが書よ）」が初めて明かされ、書物の詩的使命──イザオッタ・グッタダウロを迎えるにふさわしく輝くこと──が宣言される。アレゴリー的な枠組みはスペンサー・エドマンドのSpenser「妖精の女王」やペトラルカ「凱旋」の伝統を引くが、ダヌンツィオはそれを官能的・装飾的な美の宮廷詩として変容させる。",
+  "keywords": [
+    "ソネット", "扉詩", "Isaotta Guttadàuro", "黄金", "アレゴリー",
+    "エロス", "宮殿", "森", "泉", "ヴェヌス", "白鳥", "夢", "欲望", "罪"
+  ],
+  "relatedTexts": [
+    "dannunzio_viviana",
+    "dannunzio_nympha_ludovisia",
+    "dannunzio_beata_beatrice",
+    "regnier_salut_versailles"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "PALAGIO D'ORO, nobile magione\nde la Speme, de 'l Riso e de' Piaceri,\nove sotto i belli archi alti e leggeri\ndanzano i Sogni cinti di corone;",
+      "provisionalTranslation": "黄金の宮殿よ、希望と笑いと喜びの\n高貴な館よ、\nその美しく高く軽やかなアーチの下で\n冠をいただいた夢たちが踊る場所よ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "SELVA D'ORO ove Amor, nudo garzone,\ncon i Desiri, cupidi sparvieri,\ncon i Peccati, veltri agili e neri,\nattende a la sua dolce cacciagione;",
+      "provisionalTranslation": "黄金の森よ、裸の少年アモルが\n欲望という貪欲な鷹たちと、\n罪という俊敏な黒いグレイハウンドたちと連れ立って\n甘い狩りに興じる場所よ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "FONTE D'ORO ove candidi e tranquilli\nvanno i cigni di Venere per torme\nfacendo a 'l dorso calice de l'ale;",
+      "provisionalTranslation": "黄金の泉よ、白くおだやかなヴェヌスの白鳥たちが\n群れをなして行き交い、\n背に翼で杯の形を作る場所よ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "O MIO LIBRO, convien che più sfavilli\nsonante il verso e più ridan le forme\nquando Isaotta Guttadáuro sale.",
+      "provisionalTranslation": "おお、わが書よ、詩句はいっそう鮮やかに輝き\n形姿はいっそう晴れやかに笑わなければならない、\nイザオッタ・グッタダウロが昇ってくる時には。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "PALAGIO D'ORO, nobile magione\nde la Speme, de 'l Riso e de' Piaceri,",
+      "body": "「PALAGIO D'ORO（黄金の宮殿）」──大文字書きによる寓意的擬人化。中世・ルネサンスの宮廷詩における「愛の宮殿（palais d'amour）」という比喩的空間の継承。「Speme（希望）・Riso（笑い）・Piaceri（喜び）」──三つの抽象名詞がいずれも大文字で擬人化され、宮殿の住人として定義される。ペトラルカ「凱旋」でアモルの宮廷を構成する抽象名詞の行列の伝統。レニエ「Salut à Versailles」における擬人化された美の空間と照応する──どちらも空虚な宮廷の形骸ではなく、詩的想像力によって充填された美の空間として機能する。",
+      "targetId": "regnier_salut_versailles",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "ove sotto i belli archi alti e leggeri\ndanzano i Sogni cinti di corone;",
+      "body": "ABBA韻脚：「magione / corone」（A）・「Piaceri / leggeri」（B）。v.3「alti e leggeri（高く軽やかな）」──対形容詞が建築的な高さと感覚的な軽さを同時に示す。「i Sogni cinti di corone（冠をいただいた夢たち）」──「Sogni（夢）」を大文字で擬人化し、かつ「冠（corone）」を与えることで夢を王者的な存在として格上げする。「danzano（踊る）」──宮廷舞踏の動詞が夢の世界に適用され、美の空間が動的・音楽的な性格を帯びる。第2連のアモルの「狩り（cacciagione）」、第3連の白鳥の「行き交い（vanno）」と連なる動的なイメージの連鎖の第一段。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "SELVA D'ORO ove Amor, nudo garzone,\ncon i Desiri, cupidi sparvieri,\ncon i Peccati, veltri agili e neri,\nattende a la sua dolce cacciagione;",
+      "body": "「Amor, nudo garzone（裸の少年アモル）」──古典的なエロスの図像（クピドー）の語彙的転訳。「garzone（少年・手代）」という庶民的な語を使うことでエロスから神性を剥ぎ取り、官能的な遊び手として世俗化する。「Desiri, cupidi sparvieri（欲望という貪欲な鷹）」・「Peccati, veltri agili e neri（罪という俊敏な黒いグレイハウンド）」──欲望と罪を猛禽と猟犬に擬えるという二重の動物的比喩。「cupidi（貪欲な）」はラテン語 cupido（欲望の神）と語根を共有し、「Desiri（欲望）」との意味的重複が語彙的な密度を生む。「dolce cacciagione（甘い狩り）」──官能を「狩り」として描くことは古典詩学の定型（amor as hunt）だが、「dolce（甘い）」という形容詞が暴力的な狩りの側面を官能的に中和する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "FONTE D'ORO ove candidi e tranquilli\nvanno i cigni di Venere per torme\nfacendo a 'l dorso calice de l'ale;",
+      "body": "「cigni di Venere（ヴェヌスの白鳥）」──白鳥はヴェヌスの聖獣（神話的伝統ではヴェヌスの車を引く）。「candidi（白く）・tranquilli（穏やかに）」──第2連の「agili e neri（俊敏で黒い）」と対称をなす──黒く素早い猟犬に対し、白くおだやかな白鳥という視覚的対比が第二四行詩と第一三行詩の間の転換を演出する。「facendo a 'l dorso calice de l'ale（背に翼で杯の形を作る）」──翼を折り畳んだ白鳥の姿が杯（calice）に見える、という鋭い視覚的比喩。「calice」はまた聖杯の含意も持ち、官能の水（泉）が聖体的な器に注がれるという二重の意味が生じる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "O MIO LIBRO, convien che più sfavilli\nsonante il verso e più ridan le forme\nquando Isaotta Guttadáuro sale.",
+      "body": "詩全体の volta──三連にわたって呼び起こされてきた「黄金の空間」の語りかける相手が「O MIO LIBRO（おお、わが書よ）」として初めて明かされる。「convien（ふさわしい・必要だ）」──三人称単数の非人称構文が詩的使命を義務として定式化する。「sfavilli（輝く）」──「sfavillare」は火花を散らすような輝きを示す動詞で、単なる「brillare（光る）」よりも強度の高い発光を示す。「ridan le forme（形姿が笑う）」──「ridere」を形姿の動詞として使うことで、詩の「形（forme）」が喜びの感情を持つ擬人的な存在として定義される。「Isaotta Guttadáuro sale（イザオッタ・グッタダウロが昇ってくる）」──詩集全体の主人公の名が詩の最終行に初めて登場する。「sale（昇る）」という動詞が女性の登場を天体的・神性的な出現として定義する──太陽・月・ヴェヌスの「昇る（sorgere/salire）」という宇宙的動詞と同一の語彙が用いられる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "quando Isaotta Guttadáuro sale.",
+      "body": "CDC CDC韻脚：「sfavilli / tranquilli」（C）・「forme / torme」（D）・「ale / sale」（C）──第3連の「tranquilli」と第4連の「sfavilli」が遠隔韻として呼応し、泉の「静けさ（tranquilli）」と書物の「輝き（sfavilli）」が音によって接続される。最終行「quando Isaotta Guttadáuro sale」──「Guttadáuro」のアクサン（á）は読みの強調を示し、詩集名と同一の名が詩行の音楽的頂点に置かれる。「sale」の末尾長母音が行を開かれたまま終わらせ、イザオッタの「昇り」が完結しない継続として示される──詩集全体への開口部として機能する扉詩の構造的役割と一致する。"
+    }
+  ]
+}
