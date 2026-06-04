@@ -9,11 +9,20 @@
   "category": "dannunzio",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "「I Gigli（百合）」は La Chimera（1885/1888）所収「Sonetti dell'Anima（魂のソネット群）」第VI番。変則ソネット14行──最終行「sé ne la voluttà riprofondando」は統語的に未完結のまま詩が終わる。この「開かれた結末」は意図的な形式的選択と解釈される：官能の深みへと再び沈んでいく魂の動作が、詩行そのものの中断として演じられる。百合（giglio）は純潔・受胎告知・処女マリアの象徴であり、Viviana および Oriana の「giglio ne le ceree dita（蝋のような指の百合）」と語彙的に連続する。しかしここでの百合は最初の純粋な出会いの記憶として機能し、現在の不純な官能的交合と対比される。「官能の絶頂において死を聞く」という体験──「odo il rombo de la Morte（死の轟きを聞く）」──と、その瞬間に官能の霞越しに百合だけが純粋に輝いて見えるという知覚が、Inanis impetus に続く La Chimera 期の自己批判的認識の深化を示す。",
+  "context": "「I Gigli（百合）」は La Chimera（1885/1888）所収「Sonetti dell'Anima（魂のソネット群）」第VI番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。百合（giglio）は純潔・受胎告知・処女マリアの象徴であり、Viviana および Oriana の「giglio ne le ceree dita（蝋のような指の百合）」と語彙的に連続する。しかしここでの百合は最初の純粋な出会いの記憶として機能し、現在の不純な官能的交合と対比される。「官能の絶頂において死を聞く」という体験──「odo il rombo de la Morte（死の轟きを聞く）」──と、その瞬間に官能の霞越しに百合だけが純粋に輝いて見えるという知覚が、Inanis impetus に続く La Chimera 期の自己批判的認識の深化を示す。最終行「sé ne la voluttà riprofondando.」はピリオドで完結し、魂が官能の深みへ再び沈んでいく動作の完成を示す──百合の純潔を垣間見ながらも官能へと引き戻される魂の軌跡が、一つの完結した弧として提示される。",
   "keywords": [
-    "ソネット", "百合", "官能", "純潔", "死", "魂",
-    "記憶", "忘却", "霞", "La Chimera", "Sonetti dell'Anima",
-    "未完結", "形式的実験", "官能と死"
+    "ソネット",
+    "百合",
+    "官能",
+    "純潔",
+    "死",
+    "魂",
+    "記憶",
+    "忘却",
+    "霞",
+    "La Chimera",
+    "Sonetti dell'Anima",
+    "官能と死"
   ],
   "relatedTexts": [
     "dannunzio_inanis_impetus",
@@ -44,7 +53,7 @@
     {
       "id": 4,
       "verses": "v.12–14",
-      "original": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando",
+      "original": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando.",
       "provisionalTranslation": "高く孤独に影の中で輝くのを\n死にゆく私の魂は見る、\n自らをふたたび官能の深みへと沈めながら──"
     }
   ],
@@ -84,8 +93,8 @@
     {
       "paragraphId": 4,
       "type": "prosody",
-      "anchor": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando",
-      "body": "詩の最終三行──統語的に未完結のまま終わる意図的な形式的選択。「alti e soli（高く孤独に）」──百合が官能の闇の中で孤立した純潔として輝く。「la moribonda anima mia（死にゆく私の魂）」──「moribonda（死にゆく）」という形容詞が魂の消耗の段階を示す。Inanis impetus の「la triste alma si strugge（悲しき魂は消耗する）」から「moribonda anima（死にゆく魂）」へ──La Chimera 連作における魂の段階的衰弱。「sé ne la voluttà riprofondando」──「自らをふたたび官能の深みへと沈めながら」という現在分詞が動作の継続中に詩が終わる──魂は百合の純潔を垣間見ながらも官能の深みへ再び沈んでいく動作の途中で切断される。この未完結は詩の形式的な挑発であると同時に、魂の抵抗が完結しないという意味的完結でもある。ヴェイユ「Accepter le vide」の「魂が空虚に留まる」力と対照的──ダヌンツィオの魂は空虚に留まれず官能の充満へと引き戻される。",
+      "anchor": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando.",
+      "body": "詩の最終三行──ピリオドで完結する。「alti e soli（高く孤独に）」──百合が官能の闇の中で孤立した純潔として輝く。「la moribonda anima mia（死にゆく私の魂）」──「moribonda（死にゆく）」という形容詞が魂の消耗の段階を示す。Inanis impetus の「la triste alma si strugge（悲しき魂は消耗する）」から「moribonda anima（死にゆく魂）」へ──La Chimera 連作における魂の段階的衰弱。「sé ne la voluttà riprofondando.」──「自らをふたたび官能の深みへと沈めながら」という現在分詞がピリオドで閉じる。百合の純潔を折々に垣間見ながらも、魂は官能の深みへと再び沈む──純潔の閃きと官能への墜落という運動が一つの完結した弧として提示される。ヴェイユ「Accepter le vide」の「魂が空虚に留まる」力と対照的──ダヌンツィオの魂は空虚に留まれず官能の充満へと引き戻される。",
       "targetId": "weil_accepter_le_vide",
       "targetParagraphId": 1
     }
