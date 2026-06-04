@@ -1,0 +1,92 @@
+{
+  "id": "dannunzio_mirinda",
+  "title": "Mirinda",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, III. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Mirinda（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Mirinda」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第3番。変形ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。「Mirinda」はスペインの騎士道ロマンス『アマディス・デ・ガウラ』系列の妖精名で、「il fido（忠実な者）」とともに隠された部屋で官能的な逸楽に耽る。詩は「東洋的な玉座」「香水の大鳥」「裸の踊る子供（アモル）」という豪奢な室内光景から始まり、ミリンダの言葉──花・葡萄酒・翡翠で太陽を見る──という夢幻的な予言で頂点を迎え、最後に一角獣の嘶きと波の響きが混ざり合う神秘的な音の空間へと解消される。Eliana の夜の沈黙と対照的に、Mirinda は官能と豊穣に充ちた昼の内部空間を描く。「liocorni（一角獣）」という語の登場が「Sonetti delle Fate」連作全体の騎士道ロマンス的世界観を象徴的に凝縮する。",
+  "keywords": [
+    "ソネット", "Mirinda", "一角獣", "東洋", "官能", "豊穣",
+    "アモル", "翡翠", "香水", "Sonetti delle Fate", "Isaotta Guttadàuro",
+    "騎士道ロマンス", "隠された部屋", "波"
+  ],
+  "relatedTexts": [
+    "dannunzio_eliana",
+    "dannunzio_a_giuseppe_cellini",
+    "dannunzio_sonetto_liminare",
+    "dannunzio_dolce_grappolo"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Mirinda e il fido, ne l'occulta stanza,\nadagiati su' troni orientali,\ndilettansi a gittar lucidi strali\nsotto i piè d'un fanciul nudo che danza.",
+      "provisionalTranslation": "ミリンダと忠実な者は隠された部屋で、\n東洋の玉座に身をゆだねながら、\n踊る裸の子供の足元に\n輝く矢を投げて楽しんでいる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Un grande e bianco augello, a passi eguali,\ncarico d'otri, sparge in abondanza\nacque d'ambra d'insolita fragranza\nsu i marmi che dan lume ai penetrali.",
+      "provisionalTranslation": "一羽の大きな白い鳥が、均等な歩みで、\n革袋を担ぎ、惜しみなく撒き散らす、\n珍しい芳香を放つ琥珀色の水を\n奥の間を照らす大理石の上に。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "— Vedrem fiori, com'ampie urne, fiorire;\nberremo un vin ne' puri alvi de' frutti;\ne guarderemo entro smeraldi il sole. –",
+      "provisionalTranslation": "「私たちは花が広い壺のように咲くのを見るでしょう。\n果物の清らかな胎から葡萄酒を飲み、\n翡翠の中に太陽を見るでしょう。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Dice Mirinda. E il tremulo nitrire\nde' liocorni e il murmure de' flutti\nsi mescono a le sue lente parole.",
+      "provisionalTranslation": "とミリンダは言う。そして一角獣たちの震える嘶きと\n波のざわめきが\n彼女のゆったりとした言葉に混ざり合う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mirinda e il fido, ne l'occulta stanza,\nadagiati su' troni orientali,",
+      "body": "「Mirinda（ミリンダ）」──スペイン・ポルトガルの騎士道ロマンス『アマディス・デ・ガウラ』（14世紀）およびその続編に登場する妖精・貴婦人の名。「il fido（忠実な者）」──固有名詞を避けた呼称が、恋人・騎士・従者のいずれにも解釈できる匿名性を持つ。「ne l'occulta stanza（隠された部屋で）」──A Giuseppe Cellini の「reggia segreta（秘密の宮殿）」・Eliana の「occulta」と共鳴する「隠された」という修飾語が、Sonetti delle Fate 全体を通じて妖精世界の秘匿性を定義する語として機能する。「troni orientali（東洋の玉座）」──「東洋（orientale）」という形容詞が官能的な豪奢さを定義する。Il dolce grappolo の「lavacro di marmo orientale（東洋の大理石の浴槽）」と語彙的に連続し、「東洋」がダヌンツィオにとって官能的物質文明の象徴として機能する。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "dilettansi a gittar lucidi strali\nsotto i piè d'un fanciul nudo che danza.",
+      "body": "「lucidi strali（輝く矢）」──弓矢はクピドー（アモル）の伝統的な属性。「fanciulo nudo che danza（踊る裸の子供）」──アモルの古典的な図像（裸の有翼の少年）の直接的な提示。「strali（矢）」を「子供の足元に投げる」という行為──二人がアモルの矢で遊ぶという逆転した図像が、Sonetto liminare の「Amor, nudo garzone（裸の少年アモル）」との照応を生む。愛の神を遊び道具として扱う二人の享楽的な態度が詩全体の官能的なトーンを確立する。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Un grande e bianco augello, a passi eguali,\ncarico d'otri, sparge in abondanza\nacque d'ambra d'insolita fragranza\nsu i marmi che dan lume ai penetrali.",
+      "body": "「grande e bianco augello（大きな白い鳥）」──Eliana の「candidi paoni（白い孔雀）」に続く白い鳥のイメージ。しかしここでの白い鳥は死の象徴ではなく奉仕的・官能的な存在として機能する──革袋（otri）を担いで香水の水を撒くという奇妙な使役。「acque d'ambra d'insolita fragranza（珍しい芳香を放つ琥珀色の水）」──「ambra（琥珀）」は色と香りの両義を持つ──琥珀色の水と同時に龍涎香（ambergris）を連想させる。Il dolce grappolo の「d'ambrate acque l'asperge（琥珀色の水を注ぎかける）」との語彙的な直接の連続。「marmi che dan lume ai penetrali（奥の間を照らす大理石）」──磨かれた大理石が光を内部に反射する建築的描写。奥深い秘密の空間が光で充填される。",
+      "targetId": "dannunzio_dolce_grappolo",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "— Vedrem fiori, com'ampie urne, fiorire;\nberremo un vin ne' puri alvi de' frutti;\ne guarderemo entro smeraldi il sole. –",
+      "body": "ダッシュで括られたミリンダの直接話法──A Giuseppe Cellini の「— O mio sire, tu m'ami? —」と同じ形式が、ここではより長い予言的宣言として展開される。三つの並列動詞「Vedrem（見るでしょう）／berremo（飲むでしょう）／guarderemo（見るでしょう）」が未来形で連なり、実現されていない享楽の予告として機能する。「fiori, com'ampie urne, fiorire（花が広い壺のように咲く）」──花が花瓶に生けられた状態ではなく、花自体が壺の形をして咲くという逆転した比喩。「ne' puri alvi de' frutti（果物の清らかな胎から）」──「alvo（胎・腹）」という人体的語彙が果実の内部に適用される擬人法。「entro smeraldi il sole（翡翠の中に太陽を）」──翡翠を通して見る太陽という感覚的変容。宝石のフィルターを通した視覚が Sonetto liminare の「sfavilli（輝く）」という語彙と呼応する。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "E il tremulo nitrire\nde' liocorni e il murmure de' flutti\nsi mescono a le sue lente parole.",
+      "body": "「liocorni（一角獣）」──イタリア語形 liocorno（= unicorno）。中世の寓意において一角獣は純潔の象徴であり、処女にのみ近づくとされた。騎士道ロマンスでは貴婦人の庭に一角獣が宿るという伝承が定型化していた。「tremulo nitrire（震える嘶き）」──「tremulo（震える）」という形容詞が馬の嘶きに適用され、一角獣の超自然的な繊細さを示す。「murmure de' flutti（波のざわめき）」──室内の光景が突如として海の音に接続される。場所の論理を超えた「波の音」の侵入が、ミリンダの宮殿が現実の外側──夢・妖精の島・幻影の空間──に位置することを示唆する。「si mescono a le sue lente parole（彼女のゆったりとした言葉に混ざり合う）」──「lente（ゆったりとした・遅い）」という形容詞がミリンダの声の温度と速度を定義し、一角獣と波という二つの異質な音がその声に溶け込む──詩の空間全体が音響的に融合する結末。Eliana の「implorazïoni（祈願の声）」が森に満ちていたように、ここでは一角獣と波の音が室内に満ちる。",
+      "targetId": "dannunzio_eliana",
+      "targetParagraphId": 4
+    }
+  ]
+}
