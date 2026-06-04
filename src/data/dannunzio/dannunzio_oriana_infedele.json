@@ -1,0 +1,84 @@
+{
+  "id": "dannunzio_oriana_infedele",
+  "title": "Oriana infedele",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, VIII. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Oriana_infedele（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Oriana infedele（不貞のオリアーナ）」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第8番・最終番。変形ペトラルカ式ソネット（ABBA BAAB / CDC DCD）。前篇「Oriana」でアマディスに心を奪われたオリアーナが、今度は「永遠の恋人」としてアマディスとともに黄金の「Isola Ferma（堅固な島）」に到着する場面から始まる。しかしアマディスはオリアーナをフロリダンテという騎士に任せ、自ら神聖な館に一人入る。するとカスティリャの美しい卿が現れ、オリアーナを迷宮へと引き込む。ヒアシンスの魔法の香りがオリアーナを甘い忘却に落とし、最後に矮人のルルケットが赤い顔で笑う──という不貞・誘惑・忘却の物語。Oriana で「アマディスがオリアーナの心を奪った」英雄的場面が、Oriana infedele でその直後にオリアーナ自身が別の男に誘惑されるという逆転によって反語的に結末づけられる。Sonetti delle Fate 連作全体の締めくくりとして、愛の勝利（Oriana）が不貞と忘却（Oriana infedele）へと反転するという皮肉な構造を持つ。",
+  "keywords": [
+    "ソネット", "不貞", "オリアーナ", "アマディス", "Isola Ferma",
+    "ヒアシンス", "忘却", "迷宮", "フロリダンテ", "ルルケット",
+    "Sonetti delle Fate", "Isaotta Guttadàuro", "カスティリャ", "金剛石の門"
+  ],
+  "relatedTexts": [
+    "dannunzio_oriana",
+    "dannunzio_a_giuseppe_cellini",
+    "dannunzio_melusina",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Quando Amadigi con l'eterna amante\ngiunse a l'isola Ferma (auree ne 'l giorno\nlucean le mura ed i verzieri in torno\naulivano), le porte d'adamante",
+      "provisionalTranslation": "アマディスが永遠の恋人とともに\n堅固の島に到着した時（昼には\n城壁が黄金に輝き、周囲の庭園が\n香っていた）、金剛石の門は"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "s'apriron mute e gravi, a 'l suon de 'l corno;\nma, lasciando Orïana a Floridante,\nil Donzello del mare, almo e raggiante,\npenetrò solo ne 'l divin soggiorno.",
+      "provisionalTranslation": "角笛の音に、黙って重々しく開いた。\nしかしオリアーナをフロリダンテに任せ、\n海の従士は、高貴で輝かしく、\n一人で神聖な館へと入っていった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Disse a la donna il bel sir di Castiglia:\n— Ahi che troppo di te m'arse il desio!\nOr tu m'odi! – E la trasse ai labirinti.",
+      "provisionalTranslation": "カスティリャの美しい卿が女に言った。\n「ああ、あなたへの欲望が私を焦がしすぎた！\n今こそ私の話を聞いてください！」そして彼女を迷宮へと引き込んだ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Mago ne l'aria odore di jacinti\nvinse Orïana de 'l soave oblio.\nRidea Lurchetto in sua faccia vermiglia.",
+      "provisionalTranslation": "空中に漂うヒアシンスの魔法の香りが\nオリアーナを甘い忘却で打ち負かした。\nルルケットが赤い顔で笑っていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Quando Amadigi con l'eterna amante\ngiunse a l'isola Ferma (auree ne 'l giorno\nlucean le mura ed i verzieri in torno\naulivano), le porte d'adamante",
+      "body": "「l'isola Ferma（堅固の島）」──『アマディス・デ・ガウラ』に登場する魔法の島。「Ferma（堅固な）」という形容詞が島の不変性・永続性を示す。Morgana の「la città da le mille scale d'oro（千の黄金の階段を持つ都市）」という幻影の都市に対し、Isola Ferma は実体を持つ黄金の島──しかしその実体性もこの詩では不貞と忘却によって崩壊する。「auree ne 'l giorno lucean le mura（昼には城壁が黄金に輝き）」──Sonetto liminare の「PALAGIO D'ORO（黄金の宮殿）」・Morgana の「materiïati d'oro（黄金で作られた）」と連続する黄金の建築イメージが、連作の締めくくりで再び現れる。「le porte d'adamante（金剛石の門）」──「adamante（金剛石・ダイアモンド）」という最も硬い素材の門が、次の行の「黙って重々しく開く」という受動的な動作によって権威を失う──固さが魔法の前には無力であることの示唆。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ma, lasciando Orïana a Floridante,\nil Donzello del mare, almo e raggiante,\npenetrò solo ne 'l divin soggiorno.",
+      "body": "「il Donzello del mare（海の従士）」──アマディスの詩的称号。「almo e raggiante（高貴で輝かしく）」──前篇 Oriana の「tutto de l'armi splendide vestito（輝かしい甲冑に全身を包んで）」という英雄的形容の反復。しかしここでは同じ輝かしいアマディスが愛人を別の騎士に任せて一人で別の場所へ入るという行為が、英雄的孤独ではなく「見捨て」として機能する伏線を孕む。「lasciando Orïana a Floridante（オリアーナをフロリダンテに任せ）」──この「lasciando（任せ・残して）」という分詞が詩の悲劇的転換の起点。Il dolce grappolo の「Ella tacque; ed il capo inchinò mite（彼女は黙り、穏やかに頭を垂れた）」という従順な女性像に対し、ここでは男性の不注意が女性の不貞を招くという物語的逆転。",
+      "targetId": "dannunzio_oriana",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Disse a la donna il bel sir di Castiglia:\n— Ahi che troppo di te m'arse il desio!\nOr tu m'odi! – E la trasse ai labirinti.",
+      "body": "Sonetti delle Fate 連作で二度目の直接話法──Oriana の「e tre volte suonò（三度角笛を吹いた）」という行為に対し、ここでは言葉による誘惑。「Ahi che troppo di te m'arse il desio（あなたへの欲望が私を焦がしすぎた）」──「arse（焦がした）」という動詞の過去形が欲望の既成事実性を示す。A Giuseppe Cellini の「Agile, ardente quale fiamma（炎のように燃え立つ）」というウルガンダの属性が、ここでは欲望の「焦がす（ardere）」として男性に転用される。「la trasse ai labirinti（彼女を迷宮へと引き込んだ）」──「labirinti（迷宮）」という語が Melusina の「torre saracina（サラセンの塔）」・Grasinda の「l'antro（洞窟）」と並ぶ閉じた空間のモチーフを連作内で結集させる。迷宮は出口のない欺きの空間──コヘレト「太陽の下に新しいものは何もない」という循環的な罠の建築的比喩。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mago ne l'aria odore di jacinti\nvinse Orïana de 'l soave oblio.\nRidea Lurchetto in sua faccia vermiglia.",
+      "body": "連作の最終三行──詩集 Isaotta Guttadàuro における Sonetti delle Fate の幕引き。「odore di jacinti（ヒアシンスの香り）」──ヒアシンスはギリシア神話においてアポロンに愛された美少年ヒュアキントスの変身した花。香りによる意識の喪失という官能的かつ神話的な手段。Il dolce grappolo の「acque d'ambra d'insolita fragranza（珍しい芳香を放つ琥珀色の水）」・Mirinda の「odore di jacinti」と連続する「香り」の主題が、ここでは愛の忠実の消滅の原因として機能する。「vinse Orïana de 'l soave oblio（オリアーナを甘い忘却で打ち負かした）」──「oblio（忘却）」はコヘレト「Non est priorum memoria（先のことどもの記憶はない）」と照応する──愛さえも「忘却」という根源的な力の前には無力である。Viviana の「io custodii（私は守り続けた）」という記憶の保存に対し、オリアーナの忘却は記憶の崩壊として Sonetti delle Fate を閉じる。「Ridea Lurchetto in sua faccia vermiglia（ルルケットが赤い顔で笑っていた）」──「Lurchetto」は『アマディス』に登場する矮人の従者。赤ら顔で笑う矮人という場違いな喜劇的形象が Sonetti delle Fate 全体の重厚な魔法世界を最後に軽く揺さぶる──Eliana の「bosco è pieno d'implorazïoni（森は祈願の声に満ちている）」という荘厳な結末と対照的な、笑いという不穏な幕引き。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    }
+  ]
+}
