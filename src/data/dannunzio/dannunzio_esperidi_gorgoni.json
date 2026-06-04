@@ -1,0 +1,101 @@
+{
+  "id": "dannunzio_esperidi_gorgoni",
+  "title": "L'Esperidi e le Gorgoni",
+  "author": "Gabriele D'Annunzio",
+  "source": "La Chimera, Sonetti dell'Anima, VII. In L'Isottèo - La Chimera (1885–1888), Milano: Fratelli Treves Editori, 1906. 底本: Wikisource it.wikisource.org/wiki/La_Chimera/Sonetti_dell%27Anima/L%27Esperidi_e_le_Gorgoni（2026年5月6日版）照合済。",
+  "year": "1888",
+  "firstPublication": "L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「L'Esperidi e le Gorgoni（ヘスペリデスたちとゴルゴーンたち）」は La Chimera（1885/1888）所収「Sonetti dell'Anima（魂のソネット群）」第VII番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。ヘスペリデス（Esperidi）は世界の西の果ての黄金の林檎を守るニンフたち（アレトゥサ・エーグレー・ヘスペレトゥサの三姉妹）、ゴルゴーン（Gorgoni）は見た者を石に変えるメドゥーサを中心とした三姉妹。詩は思考の中に輝く「赤い林檎の庭園」でヘスペリデスたちが歌いながら詩人を甘く誘う一方、ゴルゴーンたちが高笑いし、メドゥーサが蛇と爪を振りかざすという対立的な二重の力を描く。石に変えられた男たちの群れはまだ感覚を保ちながらヘスペリデスの誘いを聞く。しかし詩人の魂は暗い迷路の中で孤独に閉じ込められ、甘い誘いは空しく響くだけ——という La Chimera 連作の深まる魂の孤立と苦悩を描く。I Gigli の「官能と百合」の二項対立が、ここでは「ヘスペリデス（美の誘惑）とゴルゴーン（石化の恐怖）」という神話的スケールの対立へと拡張される。",
+  "keywords": [
+    "ソネット",
+    "ヘスペリデス",
+    "ゴルゴーン",
+    "メドゥーサ",
+    "アレトゥサ",
+    "石化",
+    "魂",
+    "迷路",
+    "La Chimera",
+    "Sonetti dell'Anima",
+    "ギリシア神話",
+    "誘惑",
+    "孤立",
+    "「空しく」"
+  ],
+  "relatedTexts": [
+    "dannunzio_i_gigli",
+    "dannunzio_inanis_impetus",
+    "dannunzio_a_giuseppe_cellini",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Splendonmì ne 'l pensier li orti vermigli\nove cantan l'Esperidi. Aretusa\ndice cantando: — A la mia chioma effusa\nchi vuol con lenta mano intesser gigli? —",
+      "provisionalTranslation": "思考の中に赤い林檎の庭園が私に輝く、\nそこでヘスペリデスたちが歌っている。アレトゥサが\n歌いながら言う。「私の広がる髪に\n百合をゆっくりした手で編み込みたい者は誰？」"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ed Egle e l'altra: — I fiori offron giacigli\nassai grati. Chi scende, a notte chiusa? —\nRidon alto le Gorgoni; e Medusa\nagita i serpi e inarca i fieri artigli.",
+      "provisionalTranslation": "エーグレーともう一人が言う。「花々は\nとても心地よい寝床を与えてくれる。夜の閉ざされた中、誰が降りてくる？」\nゴルゴーンたちが高笑いする。そしてメドゥーサが\n蛇を振り回し、猛々しい爪を曲げる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Ma quel lor gregge d'uomini impietrito\nle voci de le tre sorelle ascolta,\nperò che il senso ancor ne 'l sasso duri.",
+      "provisionalTranslation": "しかしゴルゴーンたちに石に変えられた男たちの群れは\n三姉妹の声をまだ聞いている、\n感覚がまだ石の中に生き続けているのだから。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Duolsi stridendo per meandri oscuri\nl'anima, sola ne l'orror sepolta.\nE in vano in van risuona il dolce invito!",
+      "provisionalTranslation": "魂は暗い迷路の中で軋みながら苦しむ、\n恐怖の中に一人埋もれて。\nそして甘い誘いが空しく、空しく響く！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Splendonmì ne 'l pensier li orti vermigli\nove cantan l'Esperidi.",
+      "body": "「Esperidi（ヘスペリデス）」——ギリシア神話で世界の西の果てに住む黄金の林檎の番人であるニンフたち（「黄昏の娘たち」の意）。アレトゥサ・エーグレー・ヘスペレトゥサの三姉妹として知られる。「orti vermigli（赤い林檎の庭園）」——「vermigli（真紅の・赤い）」という形容詞がヘスペリデスの黄金の林檎を「赤」として描く——夕暮れの西の光に染まる庭園の視覚的イメージ。「Splendonmì ne 'l pensier（思考の中に私に輝く）」——庭園が外界の実景ではなく「思考（pensier）」の中に輝く幻影として定義される。Morgana の「tremule...crescon le imagi（幻影が育つ）」と同様に、美の理想が現実ではなく内的幻視として提示される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Aretusa\ndice cantando: — A la mia chioma effusa\nchi vuol con lenta mano intesser gigli? —",
+      "body": "「Aretusa（アレトゥサ）」——ヘスペリデスの一人であると同時に、シラクサ近郊の泉の精霊の名でもある。A Giuseppe Cellini の「Teocrito udia lunge i richiami / di Lyda a riva（岸辺でリダが呼びかける声を遠く聞く）」との照応——水辺のニンフの歌声が詩人を誘う構造。「A la mia chioma effusa / chi vuol con lenta mano intesser gigli?（私の広がる髪に百合をゆっくりとした手で編み込みたい者は？）」——I Gigli の「giglio（百合）」のモチーフが、ここではニンフへの愛撫の誘いとして再登場する——前篇の純潔の象徴が官能的誘惑の道具として反転される。「lenta mano（ゆっくりとした手）」——Morgana の「de le man languide（怠惰な手）」と同じ遅く官能的な手の動作。",
+      "targetId": "dannunzio_i_gigli",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ridon alto le Gorgoni; e Medusa\nagita i serpi e inarca i fieri artigli.",
+      "body": "「Gorgoni（ゴルゴーン）」——ギリシア神話の三姉妹の怪物（ステンノー・エウリュアレー・メドゥーサ）。その目を見た者を石に変える能力を持つ。「Medusa（メドゥーサ）」——三姉妹の中で唯一の死すべき存在で、その首はペルセウスに切り落とされた後も石化の力を保つ。「agita i serpi e inarca i fieri artigli（蛇を振り回し、猛々しい爪を曲げる）」——メドゥーサの属性（蛇髪）と爪という二つの身体的細部が並置される。Melusina の「viscida e lunga...pallida squama（ぬめりを帯びた青白い鱗）」という蛇的変身との照応——どちらも女性の身体と蛇が結びつく恐怖の形象。「Ridon alto le Gorgoni（ゴルゴーンたちが高笑いする）」——Oriana infedele の「Ridea Lurchetto in sua faccia vermiglia（ルルケットが赤い顔で笑っていた）」と同型の「笑い」が、ここでは怪物的なものへと格上げされる。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ma quel lor gregge d'uomini impietrito\nle voci de le tre sorelle ascolta,\nperò che il senso ancor ne 'l sasso duri.",
+      "body": "「gregge d'uomini impietrito（石に変えられた男たちの群れ）」——「gregge（群れ・家畜の群れ）」はOriana の「l'umano armento（人間の群れ）」と同じ家畜的貶め。石化（impietrito）した人間がまだ「感覚（senso）」を保つという逆説——I Gigli の「odo il flutto de 'l mio sangue（血流を聞く）」という官能的感覚の生存と照応する。Inanis impetus の「ogni virili le sugge（すべての男性的な力を吸い取る）」という力の喪失が、ここでは「石化」という完全な身体的固定として極端化される——しかし石の中でも感覚は生き残り、誘いを聞き続けるという残酷な逆説。「però che il senso ancor ne 'l sasso duri（感覚がまだ石の中に生き続けているのだから）」——「duri（持続する・続く）」という動詞が石化した状態での知覚の継続を示す。",
+      "targetId": "dannunzio_inanis_impetus",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Duolsi stridendo per meandri oscuri\nl'anima, sola ne l'orror sepolta.\nE in vano in van risuona il dolce invito!",
+      "body": "詩の結語——Sonetti dell'Anima 連作における魂の孤立の頂点。「Duolsi stridendo per meandri oscuri（暗い迷路の中で軋みながら苦しむ）」——「stridendo（軋みながら）」という擬音的な現在分詞が魂の苦悩を音として表出する。Grasinda の「l'anima sospira（魂が溜息をつく）」という音楽的表出とは対照的に、ここでの魂の音は「軋み（stridere）」——美的昇華を拒んだ苦悩の生音。「meandri oscuri（暗い迷路）」——Oriana infedele の「la trasse ai labirinti（迷宮へと引き込んだ）」の「迷路」と同じ語彙が、ここでは魂が自ら閉じ込められた空間として内面化される。「sola ne l'orror sepolta（恐怖の中に一人埋もれて）」——「sola（孤独に）」・「sepolta（埋もれた）」という二つの孤立・埋没の語が魂の完全な閉塞を定義する。「E in vano in van risuona il dolce invito!（甘い誘いが空しく、空しく響く！）」——「in vano in van（空しく、空しく）」という二重の反復がタイトル「Inanis impetus（空しい衝動）」の「空しさ」を受け継ぐ。感嘆符が連作中で最も激しい感情的な結末をなし、Sonetti dell'Anima 全体における魂の敗北の定式として機能する。",
+      "targetId": "dannunzio_inanis_impetus",
+      "targetParagraphId": 4
+    }
+  ]
+}
