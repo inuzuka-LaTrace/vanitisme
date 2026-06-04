@@ -1,0 +1,102 @@
+{
+  "id": "dannunzio_sonetto_d_aprile",
+  "title": "Sonetto d'aprile",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Il libro d'Isaotta, IV. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Il_libro_d%27Isaotta/Sonetto_d%27aprile（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "初級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Sonetto d'aprile（四月のソネット）」は Isaotta Guttadàuro（1886）所収「Il libro d'Isaotta（イザオッタの書）」第IV篇。変形ソネット（ABB'AB'B' / ABB'AB'B'）——通常の14行ではなく、6行連×2＋4行連×1という変則的な計16行の拡張ソネット構造。エピグラフに「Sonetti delle Fate」の「Melusina」最終行「a 'l cuor giunge il freddo del serpente（蛇の冷たさが心に届くのだから）」が置かれ、Giuseppe Cellini によるメリュジーヌの挿絵（蛇体への変身場面）を挟んで詩が続く——メリュジーヌの蛇の冷たさを前置きとしながら、四月の春の温もりとイザオッタの出現によってその冷たさが溶かされるという対比的な構造。「Aprile, il giovinetto（四月、若者は）」という呼びかけが2連に渡って反復され（anaphora）、狩人から吟遊詩人へと四月の人格が二重に展開される。後半4行でイザオッタが突然「Ecco la Bella! Ecco Isotta la blonda!（見よ、美人を！見よ、金髪のイゾルダを！）」という感嘆で登場し、「黄金の豊かな髪」のカーテンから喜びに満ちた顔が透けて見えるという官能的な結像で詩を閉じる。",
+  "keywords": [
+    "ソネット", "四月", "春", "イザオッタ", "金髪", "Isotta la blonda",
+    "吟遊詩人", "狩人", "露", "麦", "Il libro d'Isaotta",
+    "Isaotta Guttadàuro", "エピグラフ", "Melusina", "Cellini"
+  ],
+  "relatedTexts": [
+    "dannunzio_melusina",
+    "dannunzio_sonetto_liminare",
+    "dannunzio_viviana",
+    "dannunzio_nympha_ludovisia"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": ". . . . a 'l cuor giunge il freddo del serpente.",
+      "provisionalTranslation": "……蛇の冷たさが心に届くのだから。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Aprile, il giovinetto uccellatore,\na cui nitido il fiore\nde le chiome pe' belli omeri cade,\nne 'l cavo de la man, come un pastore,\nin su le prime aurore\nha bevute le gelide rugiade.",
+      "provisionalTranslation": "四月、若き狩人は、\n鮮やかな髪の花が\n美しい肩へと落ちかかる——\n牧人のように、掌の窪みで、\n最初の夜明けに\n冷たい露を飲んだ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Aprile, il giovinetto trovadore,\nsu le canne sonore\ndice l'augurio a le nascenti biade:\ni solchi irrigui fuman ne 'l tepore,\nun non so che tremore\nle verdi cime de la messe invade.",
+      "provisionalTranslation": "四月、若き吟遊詩人は、\n音の鳴る葦笛で\n芽吹く穀物に祝福の言葉を語りかける。\n水を含んだ畝が温もりの中に湯気を立て、\n何とも言えない震えが\n麦の青い穂先を包む。"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–16",
+      "original": "Ecco la Bella! Ecco Isotta la blonda!\nChina, de la sua porta a 'l limitare,\nella stringe il calzare\na 'l piè che sanno i boschi. E il dì la inonda.",
+      "provisionalTranslation": "見よ、美人を！ 見よ、金髪のイゾルダを！\n自らの扉の敷居でかがみながら、\n彼女は靴紐を結ぶ、\n森を知るその足に。そして日の光が彼女に降り注ぐ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.17–20",
+      "original": "Toccan la terra, a l'atto de 'l piegare,\ni suoi capelli, in copia d'or profonda.\nOh, la faccia gioconda\nche a pena da quel dolce oro traspare!",
+      "provisionalTranslation": "かがむその動作で、\n豊かで深い黄金の、彼女の髪が地に触れる。\nああ、あの喜びに満ちた顔が\nその甘い黄金からほのかに透けて見えること！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "intertextual",
+      "anchor": ". . . . a 'l cuor giunge il freddo del serpente.",
+      "body": "「Melusina」（Sonetti delle Fate 第4番）の最終行からの引用。メリュジーヌが蛇への変身を完成させる瞬間——「蛇の冷たさが心に届く」という身体的崩壊の極点が、四月の春詩のエピグラフとして機能する。冷と温・変身の恐怖と春の再生・蛇と花という対位法が詩全体の解釈軸を設定する。Giuseppe Cellini 描くメリュジーヌの挿絵（蛇体への変身）を挟んで詩が始まる書物的構成——「蛇の冷たさ」から「四月の露」・「日の光」・「黄金の髪」へという視覚的・感覚的転換が詩集のページをめくることで体験される。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Aprile, il giovinetto uccellatore,\na cui nitido il fiore\nde le chiome pe' belli omeri cade,",
+      "body": "「Sonetto d'aprile」は通常の14行ソネットではなく、ABB'AB'B'という6行連2つと4行連1つからなる計20行の変則的拡張形式。「Aprile（四月）」の人格化——「giovinetto（若者）」という語が四月に人格を与え、「uccellatore（狩人・鳥刺し）」と「trovadore（吟遊詩人）」という二つの属性が二連にわたって反復される。「a cui nitido il fiore / de le chiome pe' belli omeri cade（鮮やかな髪の花が美しい肩へと落ちかかる）」——「fiore de le chiome（髪の花）」という共感覚的比喩が四月の擬人像に視覚的な具体性を与える。Viviana の「fiori parvero nascer da' capelli（花々が髪から生まれるように見えた）」という「髪と花」の結合の変奏。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ne 'l cavo de la man, come un pastore,\nin su le prime aurore\nha bevute le gelide rugiade.",
+      "body": "「ne 'l cavo de la man（掌の窪みで）」——手の窪みで露を飲むという身体的・具体的な細部描写。「come un pastore（牧人のように）」——テオクリトス・ウェルギリウスの牧歌詩の伝統において牧人は春の自然と最も親密に生きる人物。A Giuseppe Cellini で「テオクリトス」を詩的先祖として召喚したダヌンツィオが、ここでは四月自身を「牧人」として描くことで詩学的な系譜を具体的な身体的行為に落とし込む。「gelide rugiade（冷たい露）」——エピグラフの「freddo del serpente（蛇の冷たさ）」から連続する「冷たさ」の語彙が、しかし「露（rugiade）」という春の恵みとして自然化される——蛇の死の冷たさが春の清潔な冷たさへと変換される。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "su le canne sonore\ndice l'augurio a le nascenti biade:\ni solchi irrigui fuman ne 'l tepore,\nun non so che tremore\nle verdi cime de la messe invade.",
+      "body": "「canne sonore（音の鳴る葦笛）」——パンの葦笛（syrinx）の古典的詩的語彙。A Giuseppe Cellini の「ninfe correre tra i rami（枝の間を走るニンフ）」・Grasinda の「alberi canori（歌う木々）」と連続する音楽的自然のモチーフ。「un non so che tremore（何とも言えない震え）」——「non so che（不定の何か）」という表現が、春の訪れが言語化しきれない微細な感覚として残ることを示す。知的言語化を拒む感覚的体験の定式——後の Il dolce grappolo の「gran incantamento（大いなる魔法）」と同様、自然の美が概念を超えた体験として現れる。「nascenti biade（芽吹く穀物）」から「verdi cime（青い穂先）」への連続が第2連の視覚的中心を形成する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ecco la Bella! Ecco Isotta la blonda!\nChina, de la sua porta a 'l limitare,\nella stringe il calzare\na 'l piè che sanno i boschi. E il dì la inonda.",
+      "body": "「Ecco la Bella! Ecco Isotta la blonda!（見よ、美人を！見よ、金髪のイゾルダを！）」——感嘆の反復（anaphora「Ecco...Ecco」）が突然のイザオッタの出現を劇的に提示する。詩の最初の12行が春の自然の描写に充てられ、そこに唐突にイザオッタが現れる——自然の春の擬人像（四月）と具体的な女性（イザオッタ）の二重の「春の顕現」という構造。「Isotta la blonda（金髪のイゾルダ）」——アーサー王伝説のトリスタンとイゾルデの「イゾルデ・ラ・ブロンド（金髪のイゾルデ）」への直接的な言及。Viviana の「Blanzesmano」・Oriana の「il Donzello del mare（アマディス）」と並ぶ中世騎士道文学の女性像の召喚。「il piè che sanno i boschi（森を知るその足）」——足が「知っている」という擬人法が、イザオッタの森への親しみを感覚的に示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Toccan la terra, a l'atto de 'l piegare,\ni suoi capelli, in copia d'or profonda.\nOh, la faccia gioconda\nche a pena da quel dolce oro traspare!",
+      "body": "詩の結語——イザオッタの「黄金の髪のカーテン」から顔が透けて見えるという官能的な結像。「in copia d'or profonda（豊かで深い黄金の）」——「copia（豊かさ・多量）」という語が Viviana の「Poi su l'accolta de le vive rose（摘み集めた生きた薔薇たちの上に）」と同様に豊穣のイメージを形成する。「Toccan la terra（地に触れる）」——かがんだ時に髪が地面に届くという細密な動作描写。Viviana の「reclinando la testa agile e bionda（軽やかな金髪の頭を傾け）」という「頭を垂れる」姿勢との照応。「Oh, la faccia gioconda / che a pena da quel dolce oro traspare!（あの喜びに満ちた顔がその甘い黄金からほのかに透けて見えること！）」——「traspare（透けて見える）」という動詞が完全な姿の提示を寸前で留める——イザオッタの顔は黄金の髪のヴェール越しにしか見えない。Sonetto liminare の「sfavilli（輝く）」・Morgana の「tremule...crescon le imagi（震えながら幻影が育つ）」と同様に、美が完全な現れではなく半透明な輝きとして定義される。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 6
+    }
+  ]
+}
