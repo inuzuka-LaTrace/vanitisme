@@ -1,0 +1,193 @@
+{
+  "id": "dannunzio_tristezza_notte_primavera",
+  "title": "Tristezza d'una Notte di Primavera",
+  "author": "Gabriele D'Annunzio",
+  "source": "La Chimera (1885/1888). In L'Isottèo - La Chimera (1885–1888), Milano: Fratelli Treves Editori, 1906. 底本: Wikisource it.wikisource.org/wiki/La_Chimera/Tristezza_d%27una_Notte_di_Primavera（2026年5月6日版）照合済。",
+  "year": "1888",
+  "firstPublication": "L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "「Tristezza d'una Notte di Primavera（春の夜の悲しみ）」は La Chimera（1885/1888）の独立詩篇。4部構成・各部は自由な行数（I部10行・II部10行・III部8行・IV部10行）。La Chimera 期（1885–1888）の詩人が Sonetti dell'Anima の魂の苦悩を宇宙的スケールへと拡張した作品。I部では大地の母（Terra madre）が春の夜に眠り、詩人はその深い呼吸を聞く。II部では月が沈んだ後に星が「不死の涙」として降り注ぎ、遠い愛人への問いかけへと収束する。III部では詩人の内なる夢のざわめきが魂の死に至る疲弊として描かれ、夜明けの光さえも空しく届く。IV部では星たちが死へと向かう道を「黄金の門」として描き、魂に星の行進に従い死の輝きの中に新しい昼への予兆を見よと命じる──死を死として絶望するのでなく「新しい昼の到来の予告」として受け入れる逆説的な肯定で詩は閉じる。Sonetti dell'Anima の「moribonda anima（死にゆく魂）」「in vano（空しく）」という語彙を引き継ぎながら、ここでは宇宙・大地・星という巨大な枠組みの中に魂の苦悩を置くことで、その苦悩を宇宙的な同情（pietà）の中に溶かし込もうとする試みが行われている。",
+  "keywords": [
+    "春の夜", "大地の母", "星の涙", "宇宙的哀悼", "魂の苦悩",
+    "死", "夜明け", "La Chimera", "自由詩", "忘却の川",
+    "金の門", "新しい昼", "遠い愛人", "pietà"
+  ],
+  "relatedTexts": [
+    "dannunzio_esperidi_gorgoni",
+    "dannunzio_i_gigli",
+    "dannunzio_inanis_impetus",
+    "weil_les_astres",
+    "rilke_duineser_elegien_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–3",
+      "original": "La Terra madre, a 'l novo Sol commossa\nne l'uno grembo, alti prodigi or pensa.\nTerribile ed oscura è la sua possa.",
+      "provisionalTranslation": "大地の母は、その一なる胎の中で\n新しい太陽に揺り動かされ、今や高い奇跡を思い描く。\n彼女の力は恐るべく、暗い。"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.4–6",
+      "original": "Ma ne la notte pia tutte le forme\ncompongono una forma unica immensa.\nComposta in pace, la gran Madre dorme.",
+      "provisionalTranslation": "しかし慈悲深い夜の中で、すべての形が\n一つの巨大な唯一の形に合わさる。\n平和に整えられ、偉大な母は眠る。"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.7–10",
+      "original": "Contemplano in silenzio le divine\nstelle quel sonno. Ella respira il mondo.\nIo l'odo ne la notte, senza fine,\nsollevar forte il suo petto profondo.",
+      "provisionalTranslation": "神聖な星たちがその眠りを沈黙の中で見守る。\n彼女は世界を呼吸する。\n私は夜の中で、果てしなく、\n彼女が深い胸を力強く持ち上げるのを聞く。"
+    },
+    {
+      "id": 4,
+      "verses": "II, v.1–3",
+      "original": "Poi che su 'l colle già la luna è spenta,\npiovono li astri, lacrime immortali,\nne la notte profonda, umida, intenta.",
+      "provisionalTranslation": "丘の上でもう月が消えた後、\n星たちが不死の涙として降り注ぐ、\n深く、湿って、満ちた夜の中に。"
+    },
+    {
+      "id": 5,
+      "verses": "II, v.4–6",
+      "original": "Lacrime di dolor silenziose,\npiovon li astri per l'etere. Da quali\nocelli? Oh compianto de le oscure cose!",
+      "provisionalTranslation": "沈黙の痛みの涙として、\n星たちはエーテルの中を降る。どんな目から？\nああ、暗い物事への哀悼よ！"
+    },
+    {
+      "id": 6,
+      "verses": "II, v.7–10",
+      "original": "Oh divina pietà su 'l nostro umano\ncuore! Oh pietà su noi, de' cieli vasti!\nNè pur tu, forse, o nostro amor lontano,\nmai con tanta dolcezza lacrimasti.",
+      "provisionalTranslation": "ああ、私たちの人間的な心への神聖な憐れみよ！\nああ、広大な天の、私たちへの憐れみよ！\nあなたでさえも、遠い私たちの愛よ、\nこれほどの甘さで泣いたことはなかったかもしれない。"
+    },
+    {
+      "id": 7,
+      "verses": "III, v.1–3",
+      "original": "In me misero fan tumulto forte\ngli interni sogni; e con dolor novello\ndell'un vago desìo l'altro risorge.",
+      "provisionalTranslation": "惨めな私の中で内なる夢たちが激しい騒乱を起こす。\n新たな苦しみとともに、漠然とした一つの欲望が消えると\n別の欲望が蘇る。"
+    },
+    {
+      "id": 8,
+      "verses": "III, v.4–6",
+      "original": "Muta è la bocca, quasi che la Morte\nposto v'abbia il suo gelido suggello;\nnè speranza più mai l'anima scorge.",
+      "provisionalTranslation": "口は黙している、まるで死が\nその冷たい封印を押したかのように。\nそして魂はもはや希望を見出せない。"
+    },
+    {
+      "id": 9,
+      "verses": "III, v.7–8",
+      "original": "In van da 'l ciel la mite Alba rimira!\nLa carne è stanca e l'anima già spira.",
+      "provisionalTranslation": "天から穏やかな夜明けが空しく見下ろす！\n肉体は疲れ果て、魂はすでに息絶えようとしている。"
+    },
+    {
+      "id": 10,
+      "verses": "IV, v.1–3",
+      "original": "Ove tendono li astri in lento coro?\nTendono per la via de l'ombre a 'l Giorno.\nAnima, ti congiugni a' raggi loro!",
+      "provisionalTranslation": "星たちは緩やかな合唱で、どこへ向かうのか？\n影の道を通って昼へと向かっている。\n魂よ、彼らの光に身を合わせよ！"
+    },
+    {
+      "id": 11,
+      "verses": "IV, v.4–6",
+      "original": "La via de l'ombre sale ad auree porte;\nfiumi d'oblìo fluiscono d'in torno;\nsta su le soglie fulgida la Morte.",
+      "provisionalTranslation": "影の道は黄金の門へと昇っていく。\n忘却の川が周りを流れる。\n輝かしい死が敷居の上に立っている。"
+    },
+    {
+      "id": 12,
+      "verses": "IV, v.7–10",
+      "original": "Sta su le soglie, pronta ella ad aprire.\nAnima, segui li astri in lor cammino!\nDolce ti sia con loro impallidire:\nsegno che il novel Giorno è omai vicino.",
+      "provisionalTranslation": "敷居の上に立ち、彼女は開けようと準備している。\n魂よ、星たちの歩みに従え！\n彼らとともに蒼ざめることを甘く受け取れ──\n新しい昼がもうすぐ近いというしるしなのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La Terra madre, a 'l novo Sol commossa\nne l'uno grembo, alti prodigi or pensa.",
+      "body": "「La Terra madre（大地の母）」──大地を母として人格化する伝統はホメロスの「大地の母ガイア（Gaia）」に遡る。「a 'l novo Sol（新しい太陽に）」──春分以降の新しい太陽の力が大地を「揺り動かす（commossa）」。「alti prodigi or pensa（今や高い奇跡を思い描く）」──春に向けての生命力の蓄積を「思考（pensa）」として擬人化する。この「大地の思考」という概念がヴェイユ「Les Astres（星々）」の「大地と星の関係」という宇宙論的視点と照応する──どちらも人間の感情を宇宙的な力の運動の中に位置づける。",
+      "targetId": "weil_les_astres",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ma ne la notte pia tutte le forme\ncompongono una forma unica immensa.\nComposta in pace, la gran Madre dorme.",
+      "body": "「notte pia（慈悲深い夜）」──「pia（敬虔な・慈悲深い）」という形容詞が夜に宗教的な属性を与える──Sonetti dell'Anima の「orror（恐怖）」とは対照的な夜の性格。「tutte le forme / compongono una forma unica immensa（すべての形が一つの巨大な唯一の形に合わさる）」──夜が多様な形を一つに溶かすという哲学的命題。新プラトン主義の「一者（Uno）」への回帰の視覚的・詩的変奏。「Composta in pace, la gran Madre dorme（平和に整えられ、偉大な母は眠る）」──v.1の「commossa（揺り動かされた）」力動的な大地が、夜において「composita（整えられた）」静的な眠りへと移行する──同一の大地の昼と夜の二相。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Contemplano in silenzio le divine\nstelle quel sonno. Ella respira il mondo.\nIo l'odo ne la notte, senza fine,\nsollevar forte il suo petto profondo.",
+      "body": "「Contemplano in silenzio le divine stelle（神聖な星たちがその眠りを沈黙の中で見守る）」──L'Esperidi e le Gorgoni の「Splendonmì ne 'l pensier li orti vermigli（思考の中に庭園が輝く）」という内的幻視に対し、ここでは詩人が外界の星を仰いで大地の眠りを観照するという開かれた視点。「Ella respira il mondo（彼女は世界を呼吸する）」──大地が世界全体を「呼吸する」という巨大な身体的比喩。I Gigli の「odo il flutto de 'l mio sangue（血流を聞く）」という詩人自身の身体の聴覚に対し、ここでは「大地の胸の呼吸を聞く（l'odo...sollevar...il suo petto profondo）」という外への拡張。",
+      "targetId": "dannunzio_i_gigli",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Poi che su 'l colle già la luna è spenta,\npiovono li astri, lacrime immortali,\nne la notte profonda, umida, intenta.",
+      "body": "「la luna è spenta（月が消えた）」──Melusina の「la Luna...salir vermiglia（赤く昇る月）」・Morgana の「lunare alba（月明かりの夜明け）」という連作の月のモチーフが、ここでは「消える月（luna spenta）」として死の予兆として機能する。「piovono li astri, lacrime immortali（星たちが不死の涙として降り注ぐ）」──星の光を「涙」として擬人化し「不死（immortali）」と形容する。星光が涙であるという詩的変換はロマン主義の伝統的な比喩だが、「immortali」という形容詞が通常の悲しみの涙と区別する──宇宙的な、時間を超えた哀悼。「notte profonda, umida, intenta（深く、湿って、満ちた夜）」──三つの形容詞が夜の感覚的な密度を表す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Da quali\nocelli? Oh compianto de le oscure cose!",
+      "body": "「ocelli（目）」──「occhio（目）」の複数形の詩的変形。「Da quali ocelli?（どんな目から？）」──星の涙がどの目から流れるのかという問いが宇宙的な悲しみの主体を問う。問いに答えは与えられず、「compianto de le oscure cose!（暗い物事への哀悼よ！）」という感嘆によって答えの不可能性と同時に哀悼そのものの確かさが宣言される。「oscure cose（暗い物事）」──「cosa（もの）」という曖昧な名詞が具体的な対象を持たないまま「暗い」という形容詞のみで括られる。コヘレト「afflictio spiritus（霊の苦悩）」の「言語化できない苦悩」と照応する──具体的に名指せない暗い物事への哀悼。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Nè pur tu, forse, o nostro amor lontano,\nmai con tanta dolcezza lacrimasti.",
+      "body": "II部の結語──宇宙的な哀悼から個人的な愛人への突然の転換。「nostro amor lontano（遠い私たちの愛）」──「lontano（遠い）」という形容詞が時間的・空間的な隔たりを示す。Viviana の「non più forse a la mente / il ricordo di me vi torna（私の記憶はあなたへと戻らない）」という忘れられた恋の主題との照応。「Nè pur tu, forse...mai con tanta dolcezza lacrimasti（あなたでさえも...これほどの甘さで泣いたことはなかったかもしれない）」──「forse（おそらく）」という不確かさを孕みながら、星の涙の美しさが人間の愛の涙を凌ぐと示唆する。宇宙的な「pietà（憐れみ）」が人間的な愛よりも深く甘いという逆説的な慰め。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "In me misero fan tumulto forte\ngli interni sogni; e con dolor novello\ndell'un vago desìo l'altro risorge.",
+      "body": "「In me misero（惨めな私の中で）」──「misero」という自己規定が Inanis impetus の「la triste alma（悲しき魂）」・L'Esperidi e le Gorgoni の「sola ne l'orror sepolta（恐怖の中に一人埋もれて）」と連続する La Chimera 期の自己認識の語彙。「gli interni sogni（内なる夢たち）」──Grasinda の「un sonno alto（深い眠り）」という夢の肯定的な変身に対し、ここでは「tumulto（騒乱）」を起こす苦悩の夢として提示される。「dell'un vago desìo l'altro risorge（一つの漠然とした欲望が消えると別の欲望が蘇る）」──Inanis impetus の魂の繰り返される失敗を「欲望の連鎖」として定式化する──終わらない欲望の波がコヘレト「Omnia flumina intrant in mare（すべての川は海へ入る）」の循環的構造と照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Muta è la bocca, quasi che la Morte\nposto v'abbia il suo gelido suggello;\nnè speranza più mai l'anima scorge.",
+      "body": "「Muta è la bocca（口は黙している）」──L'Esperidi e le Gorgoni の「Duolsi stridendo（軋みながら苦しむ）」という魂の音が、ここでは「muta（黙した）」口として沈黙に変わる──苦悩の音さえも消えた状態。「il suo gelido suggello（その冷たい封印）」──Melusina の「il freddo de 'l serpente（蛇の冷たさ）」と同じ「冷たさ」が、ここでは「死の封印（suggello della Morte）」として抽象化される。「nè speranza più mai l'anima scorge（魂はもはや希望を見出せない）」──「più mai（もはや決して）」という二重否定の強化が絶望の不可逆性を定式化する。ボードレール「Spleen」の「Espoir, vaincu, pleure（敗れた希望は泣く）」との照応。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "In van da 'l ciel la mite Alba rimira!\nLa carne è stanca e l'anima già spira.",
+      "body": "III部の結語──2行のみの最短の段落が詩全体の中で最も圧縮された絶望の表現として機能する。「In van（空しく）」──L'Esperidi e le Gorgoni の「in vano in van（空しく、空しく）」・Inanis impetus の「vanamente」と連続する La Chimera 期の「空しさ」の定式──しかしここでは感嘆符なしに静かに断言される。「la mite Alba（穏やかな夜明け）」──「mite（穏やかな）」という形容詞が夜明けの光の温かさを示すが、それが「空しく（in van）」届くという逆説。「La carne è stanca e l'anima già spira（肉体は疲れ果て、魂はすでに息絶えようとしている）」──「carne（肉体）」と「anima（魂）」という二項の同時的消耗が並列される。「spira」は「息絶える」と「息吹く」の両義──魂が息絶えながら同時に最後の息を吹いている。",
+      "targetId": "dannunzio_esperidi_gorgoni",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Ove tendono li astri in lento coro?\nTendono per la via de l'ombre a 'l Giorno.\nAnima, ti congiugni a' raggi loro!",
+      "body": "IV部の開口──問いと答えという問答形式が詩全体のトーンを一変させる。「in lento coro（緩やかな合唱で）」──Grasinda の「lunata lira（月形の竪琴）」・「l'anima sospira（魂が溜息をつく）」という音楽的変身に対し、ここでは星たちが「合唱（coro）」をなしながら進む──宇宙の音楽的行進。「la via de l'ombre a 'l Giorno（影の道を通って昼へ）」──「ombre（影）」が死の暗示であることをほのめかしながら、その終点が「Giorno（昼）」という光明として提示される。「Anima, ti congiugni a' raggi loro!（魂よ、彼らの光に身を合わせよ！）」──魂への直接の命令形が詩の語りの主体から魂への呼びかけとして転換される──詩人が自らの魂に語りかける瞬間。",
+      "targetId": "dannunzio_grasinda",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "La via de l'ombre sale ad auree porte;\nfiumi d'oblìo fluiscono d'in torno;\nsta su le soglie fulgida la Morte.",
+      "body": "「auree porte（黄金の門）」──ホメロス・ウェルギリウスの冥界の描写における黄金の門の伝統。ウェルギリウス「アエネイス」第6歌の「aurea ramus（黄金の小枝）」・「Elysium」への道との照応。Sonetto liminare の「PALAGIO D'ORO」という黄金のイメージが死の領域の入口として再登場する──詩集冒頭の生の美の黄金が、ここでは死の敷居の黄金として反転される。「fiumi d'oblìo（忘却の川）」──ギリシア神話の冥界の川レーテー（Lete）への直接的な言及。Oriana infedele の「soave oblio（甘い忘却）」という生の忘却が、ここでは死後の忘却の川として宇宙化される。「sta su le soglie fulgida la Morte（輝かしい死が敷居の上に立っている）」──「fulgida（輝かしい）」という形容詞が死を恐怖ではなく光として定義する転換──Sonetti dell'Anima の暗い恐怖から詩全体の肯定的転換点。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Sta su le soglie, pronta ella ad aprire.\nAnima, segui li astri in lor cammino!\nDolce ti sia con loro impallidire:\nsegno che il novel Giorno è omai vicino.",
+      "body": "詩の結語──La Chimera 全体の哲学的到達点。「pronta ella ad aprire（彼女は開けようと準備している）」──「死（Morte）」が門を開く者として擬人化される。ダンテ「神曲」煉獄篇の門番ガブリエルとの照応──しかしここでは死そのものが門を開く。「Anima, segui li astri in lor cammino!（魂よ、星たちの歩みに従え！）」──v.3「Anima, ti congiugni（魂よ、合わせよ）」の反復が命令的な連祷を形成する。「Dolce ti sia con loro impallidire（彼らとともに蒼ざめることを甘く受け取れ）」──「impallidire（蒼ざめる）」は夜明けに星が消えていく過程──星が蒼ざめることと魂が死に向かって蒼ざめることの同型。「segno che il novel Giorno è omai vicino（新しい昼がもうすぐ近いというしるしなのだから）」──死を死として絶望するのではなく、新しい昼の到来の「しるし（segno）」として読み替える──リルケ「ドゥイノの悲歌」第一歌の「いつ私の叫びを聞いてくれるのか」という問いへの一つの答えとして位置づけられる。La Chimera の絶望が宇宙的な循環の中に溶け込む逆説的な受容。",
+      "targetId": "rilke_duineser_elegien_01",
+      "targetParagraphId": null
+    }
+  ]
+}
