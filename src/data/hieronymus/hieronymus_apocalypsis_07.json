@@ -9,7 +9,7 @@
   "category": "hieronymus",
   "originalLang": "la-LA",
   "modernRelevance": "★★★★★",
-  "context": "ヨハネの黙示録第7章。第6章の封印開封による宇宙的破局の連鎖と「quis poterit stare（誰が立っていられるか）」という答えなき問いの後に当てられた第7章は、第7封印開封前の「間曲（intermezzo）」として機能する。地の四つの隅に立つ四人の天使が四つの風を止める（v.1–3）部分、イスラエル十二部族各から十二千人、計十四万四千人が印を押される（v.4–8）、計えきれない大群衆が小羊の前に立って「救い（Salus）」を宣言する（v.9–12）、続いて「大きな患難（tribulatio magna）から出て来た者たち」という比定と彼らへの終末論的約束（v.13–17）という三部構造を持つ。VANITISMEコーパスにおける位置づけ：Ecclesiastes第1章で封じた循環的艹無の読評が第7章で終末論的に反転される箇所が集中する：v.8「Non saturatur oculus visu（目は飽くない）」→v.16「non esurient, neque sitient（食えず、淡かず）」、Ecclesiastes v.7「Omnia flumina intrant in mare（川は海へ）」→v.17「vitae fontes aquarum（いのちの水の泉へ）」という反転。またv.17結語「absterget Deus omnem lacrimam ab oculis eorum（神はすべての涙を謙い去られる）」はApocalypsis第21章の同十尊的受結の先行的予告であり、第5章v.4「flebam multum（ひどく泣いた）」というヨハネの涙の感情的応答としても機能する。",
+  "context": "ヨハネの黙示録第7章。第6章の封印開封による宇宙的破局の連鎖と「quis poterit stare（誰が立っていられるか）」という答えなき問いの後に当てられた第7章は、第7封印開封前の「間曲（intermezzo）」として機能する。地の四つの隅に立つ四人の天使が四つの風を止める（v.1–3）部分、イスラエル十二部族各から十二千人、計十四万四千人が印を押される（v.4–8）、計えきれない大群衆が小羊の前に立って「救い（Salus）」を宣言する（v.9–12）、続いて「大きな患難（tribulatio magna）から出て来た者たち」という比定と彼らへの終末論的約束（v.13–17）という三部構造を持つ。VANITISMEコーパスにおける位置づけ：Ecclesiastes第1章の循環的虚無論が終末論的に反転される：v.8「Non saturatur oculus visu（目は飽くない）」→v.16「non esurient, neque sitient（食えず、淡かず）」、Ecclesiastes v.7「Omnia flumina intrant in mare（川は海へ）」→v.17「vitae fontes aquarum（いのちの水の泉へ）」という反転。またv.17結語「absterget Deus omnem lacrimam ab oculis eorum（神はすべての涙をぬぐい去られる）」はApocalypsis第21章の終結の先行的予告であり、第5章v.4「flebam multum（ひどく泣いた）」というヨハネの涙の感情的応答としても機能する。",
   "keywords": [
     "quatuor venti terrae",
     "signum Dei vivi",
@@ -20,7 +20,9 @@
     "tribulatione magna",
     "sanguine Agni",
     "vitae fontes aquarum",
-    "omnem lacrimam"
+    "omnem lacrimam",
+    "間奏曲",
+    "救済宣言"
   ],
   "relatedTexts": [
     "hieronymus_apocalypsis_6",
