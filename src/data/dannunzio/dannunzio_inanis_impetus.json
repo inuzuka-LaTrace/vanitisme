@@ -1,0 +1,90 @@
+{
+  "id": "dannunzio_inanis_impetus",
+  "title": "Inanis impetus",
+  "author": "Gabriele D'Annunzio",
+  "source": "La Chimera, Sonetti dell'Anima, IV. In L'Isottèo - La Chimera (1885–1888), Milano: Fratelli Treves Editori, 1906. 底本: Wikisource it.wikisource.org/wiki/La_Chimera/Sonetti_dell%27Anima/Inanis_impetus（2026年5月6日版）照合済。",
+  "year": "1888",
+  "firstPublication": "L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Inanis impetus（空しい衝動）」は La Chimera（1885/1888）所収「Sonetti dell'Anima（魂のソネット群）」第IV番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。タイトルはラテン語で「空しい・実体のない衝動・突進」の意。詩は魂が理想を求めて消耗しながら、敵（官能・肉欲の具現化）に傷口から男性的な力を吸い取られる苦境を描く。第二四行詩で魂が突然の勇気を取り戻し、敵の手から逃げ出して怒りを蘇らせる。第一三行詩では魂が霊的な力を集結させ「最後の高貴さ」を示そうとする──しかし詩のタイトル「Inanis impetus（空しい衝動）」がすでにその失敗を予告する。第二三行詩では「女の甘い微笑」から射た矢によって敵が再び優位に立ち、魂の抵抗は崩壊する。官能的美（女の微笑）が理想への精神的努力を無力化するという逆説が、Isaotta Guttadàuro の豊穣な官能美を経た詩人が La Chimera において到達した自己批判的認識を示す。",
+  "keywords": [
+    "ソネット", "魂", "理想", "敵", "官能", "空しい衝動",
+    "霊的闘争", "微笑", "矢", "馬上試合", "La Chimera",
+    "Sonetti dell'Anima", "ラテン語タイトル", "自己批判"
+  ],
+  "relatedTexts": [
+    "dannunzio_beata_beatrice",
+    "dannunzio_sonetto_liminare",
+    "baudelaire_spleen",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Per trovar te la triste alma si strugge\nvanamente, sentendosi perire,\nche da le piaghe l'inimico sire\ncon labbra molli ogni virili le sugge.",
+      "provisionalTranslation": "あなたを見つけるために悲しき魂は\n空しく消耗する、自らが滅びゆくのを感じながら、\n傷口から敵の主が\n柔らかな唇であらゆる男性的な力を吸い取るのだから。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ma, ecco, prende un subitano ardire\ne da la stretta de 'l nemico fugge,\nlo l'odo, ne 'l profondo cor, che rugge\nrinfocolando alfin tutte sue ire.",
+      "provisionalTranslation": "しかし見よ、魂は突然の勇気をつかみ\n敵の締め付けから逃げ出す。\n私はそれを聞く、心の奥底で、唸り声が\n遂にすべての怒りを再び燃え上がらせるのを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "— Orsù, voi tutti, o spiriti, in coorte\nsorgete da l'angoscia che vi prostra!\nL'ultima nobiltà qui si dimostra. —",
+      "provisionalTranslation": "「さあ、あなたたちすべて、霊たちよ、隊列を組んで\nあなたたちを打ち倒す苦悩から立ち上がれ！\n最後の高貴さがここに示される。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Impeto vano; che il nemico accorte\ntragge saette a la suprema giostra\nda 'l dolce riso de la donna nostra.",
+      "provisionalTranslation": "空しい衝動。敵は巧みにも\n最後の馬上試合で矢を射る、\n私たちの女の甘い微笑から。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Per trovar te la triste alma si strugge\nvanamente, sentendosi perire,",
+      "body": "「te（あなた）」──詩の二人称が明示されない「あなた」は、Sonetti dell'Anima の連作文脈から「Ideale（理想）」と解釈される──前篇「All'Ideale（理想へ）」への連続。「la triste alma（悲しき魂）」──魂の人格化。「si strugge / vanamente（空しく消耗する）」──「vanamente（空しく）」という副詞がタイトル「Inanis（空しい）」のラテン語と照応し、詩全体の結論を冒頭に予告する。ボードレール「Spleen」の「魂（âme）」が倦怠と虚無の中で消耗する姿との構造的照応──どちらも魂が「理想」を求めながら内的な力に侵食される詩として読める。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "che da le piaghe l'inimico sire\ncon labbra molli ogni virili le sugge.",
+      "body": "「l'inimico sire（敵の主）」──「sire（主・君主）」という称号を持つ「敵」は文脈から官能・肉欲の擬人化として読める。「con labbra molli（柔らかな唇で）」──「molli（柔らかい・軟弱な）」という形容詞が感覚的な接触を示すと同時に道徳的な軟弱さを含意する。「ogni virili le sugge（あらゆる男性的な力を吸い取る）」──「virili（男性的な・力強い）」という属性が傷口から抜き取られるという吸血的なイメージ。官能的な柔らかさが精神的・道徳的な力を吸収するというダヌンツィオの自己批判的認識──Isaotta Guttadàuro の官能美を経た後の La Chimera 期の内的緊張を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ma, ecco, prende un subitano ardire\ne da la stretta de 'l nemico fugge,\nlo l'odo, ne 'l profondo cor, che rugge\nrinfocolando alfin tutte sue ire.",
+      "body": "「Ma, ecco（しかし見よ）」──逆接の接続詞「Ma」と指示詞「ecco」の組み合わせが劇的な転換点を示す。Sonetto d'aprile の「Ecco la Bella! Ecco Isotta la blonda!」という歓喜の「ecco」が、ここでは魂の反撃という緊張した「ecco」として反転される。「rugge（唸る）」──ライオンの唸り声を意味する動詞が魂の怒りの蘇生を獣的・本能的なものとして定義する。「rinfocolando alfin tutte sue ire（遂にすべての怒りを再び燃え上がらせる）」──「alfin（遂に）」という副詞が長い抑圧の後の爆発として機能する。しかし第二四行詩末の怒りの蘇生もまた「Inanis（空しい）」という詩のタイトルによってすでに無効化されている──読者は怒りの蘇生が失敗に終わることを知っている。",
+      "targetId": "dannunzio_sonetto_d_aprile",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "— Orsù, voi tutti, o spiriti, in coorte\nsorgete da l'angoscia che vi prostra!\nL'ultima nobiltà qui si dimostra. —",
+      "body": "詩中の直接話法──魂が自らの内なる霊的な力を集結させる命令的な言葉。「in coorte（隊列を組んで）」──「coorte（コホルト・古代ローマの歩兵隊）」という軍事的語彙が魂の精神的闘争を軍事的比喩で定義する。「L'ultima nobiltà qui si dimostra（最後の高貴さがここに示される）」──「ultima（最後の）」という形容詞が高貴さの限界的・切迫的な状況を示す。ヴェイユ「Accepter le vide（真空を受容する）」の「魂が空虚を維持するために抵抗する」という構造との照応──しかしヴェイユにとって空虚は恩寵の前提条件であるのに対し、ダヌンツィオにとってそれは敗北への準備段階として機能する。ダッシュ記号が直接話法を括り、現実への復帰（v.12「Impeto vano」）との断絶を際立たせる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Impeto vano; che il nemico accorte\ntragge saette a la suprema giostra\nda 'l dolce riso de la donna nostra.",
+      "body": "詩の結語にしてタイトルの回収──「Impeto vano（空しい衝動）」という二語が詩全体の結論として冒頭に置かれ、後続する理由節がその失敗の原因を明かす。「a la suprema giostra（最後の馬上試合で）」──「giostra（馬上試合・トーナメント）」という中世騎士道的語彙が精神的闘争を競技として定義する。Oriana の「e tre volte suonò（三度角笛を吹いた）」というアマディスの英雄的到来とは対照的に、ここでの「馬上試合」は精神が敗北する場として機能する。「da 'l dolce riso de la donna nostra（私たちの女の甘い微笑から）」──「donna nostra（私たちの女）」というペトラルカ的な定式が、しかし「矢（saette）」の武器として機能する──愛の女性が愛の矢を射るという古典的比喩（クピドーの矢）が、ここでは魂の理想への努力を無力化する武器として機能する。Sonetto liminare の「PALAGIO D'ORO」で始まった Isaotta Guttadàuro の官能美の追求が、La Chimera の「Inanis impetus」において自己解体的な問いとして再浮上する──美は理想への昇達の手段か、それとも妨害者か。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 4
+    }
+  ]
+}
