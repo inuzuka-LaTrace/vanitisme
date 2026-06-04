@@ -1,0 +1,86 @@
+{
+  "id": "dannunzio_morgana",
+  "title": "Morgana",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, VI. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Morgana（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Morgana」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第6番。変形ペトラルカ式ソネット（ABBA BAAB / CDC DCD）。モルガーナはアーサー王伝説の魔女モルガン・ル・フェイのイタリア語形で、「蜃気楼（Fata Morgana）」の語源でもある──イタリア南部メッシーナ海峡で見られる海上の複雑な蜃気楼現象がモルガーナの魔法に由来するとされた。詩はこの「蜃気楼」現象を直接描く。月明かりの夜明け、海と砂浜の上に黄金の宮殿と高い塔の幻影が震えながら現れ、花の連鎖が絡まる輝く螺旋階段が立ち上がり、セイレンたちに翻弄される船のように揺れながら、孤独な雲のベッドに横たわるモルガーナが心に詩を歌いながら怠惰な手でその幻の都市を揺り籠のように揺らす。Eliana の「夜の宮殿」・Grasinda の「竪琴への変身」と並んで、Sonetti delle Fate 連作の中で最も壮大なスケールの作品。「la città da le mille scale d'oro（千の黄金の階段を持つ都市）」という結末の一行が詩集全体の美的理想の定式となる。",
+  "keywords": [
+    "ソネット", "モルガーナ", "蜃気楼", "Fata Morgana", "黄金の都市",
+    "セイレン", "螺旋階段", "幻影", "雲のベッド", "Sonetti delle Fate",
+    "Isaotta Guttadàuro", "ピレネー", "月明けの夜明け", "幻の建築"
+  ],
+  "relatedTexts": [
+    "dannunzio_eliana",
+    "dannunzio_grasinda",
+    "dannunzio_sonetto_liminare",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Or tremule, su i mari e su le arene,\ncrescon ne la lunare alba le imagi:\nmateriïati d'oro alti palagi\ne torri ingenti assai più che Pirene.",
+      "provisionalTranslation": "今、震えながら、海の上と砂浜の上に、\n月明かりの夜明けの中で幻影が育っていく──\n黄金で作られた高い宮殿と、\nピレネーよりもはるかに巨大な塔が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Salgono scale in luminose ambagi\ncon inteste di fior lunghe catene.\nCome navi in balía de le sirene,\nondeggiano le pendule compagi;",
+      "provisionalTranslation": "輝く曲がりくねった道を階段が昇っていく、\n花で織られた長い連鎖をまとって。\nセイレンたちに翻弄される船のように、\n垂れ下がる建物の集まりが揺れている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "poi che Morgana, in dolce atto giacente\nne 'l letto de la nube solitaria,\nquasi ebra di quel suo divin lavoro,",
+      "provisionalTranslation": "それというのもモルガーナが、柔らかな姿で\n孤独な雲のベッドに横たわり、\nその神聖な仕事にほとんど酔いしれながら、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "ama, seguendo un carme ne la mente,\ncullare de le man languide a l'aria\nla città da le mille scale d'oro.",
+      "provisionalTranslation": "心の中で詩を追いながら、\nけだるい手で空中に揺り籠のように揺らすことを\n千の黄金の階段を持つあの都市を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Or tremule, su i mari e su le arene,\ncrescon ne la lunare alba le imagi:",
+      "body": "「Fata Morgana（蜃気楼）」──イタリア南部のメッシーナ海峡で発生する複雑な上位蜃気楼現象の固有名詞。海面の温度差による光の屈折が実在しない建物・都市・船を海上に出現させる。この現象がモルガーナ（モルガン・ル・フェイ）の魔法に由来するとされたことから「Fata Morgana」と呼ばれる。詩は蜃気楼現象の視覚的描写を詩化しながら、その背後でモルガーナが幻影を創り出す創造者として召喚される。「tremule（震えながら）」──蜃気楼特有の揺らぎと震えの視覚的特性。「lunare alba（月明かりの夜明け）」──月と夜明けが同時に存在する薄明の時間帯──Eliana の「a notte（夜に）」とも Melusina の「la Luna...salir（月が昇る）」とも異なる、連作の中で最も曖昧な時間設定。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "materiïati d'oro alti palagi\ne torri ingenti assai più che Pirene.",
+      "body": "「materiïati d'oro（黄金で作られた）」──「materiïati」のディエレシス（ï）が音節を強調し、語感を重厚にする。Sonetto liminare の「PALAGIO D'ORO（黄金の宮殿）」・「SELVA D'ORO」・「FONTE D'ORO」という三つの黄金の場所が、ここでは蜃気楼として海上に具現化する──詩集冒頭の寓意的な「黄金」が自然現象として現れる。「torri ingenti assai più che Pirene（ピレネーよりもはるかに巨大な塔）」──「Pirene（ピレネー山脈）」との比較によって蜃気楼の都市の超自然的な巨大さが示される。山脈を凌ぐ塔という誇張法が、幻影の夢幻的・非現実的な次元を確立する。",
+      "targetId": "dannunzio_sonetto_liminare",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Salgono scale in luminose ambagi\ncon inteste di fior lunghe catene.\nCome navi in balía de le sirene,\nondeggiano le pendule compagi;",
+      "body": "「luminose ambagi（輝く曲がりくねった道）」──「ambagi」はラテン語 ambages（迂回・曲がりくねった道）の複数形。螺旋状に曲がりながら昇る階段という建築的イメージが光の形容詞「luminose」によって光学的な幻影として提示される。「inteste di fior lunghe catene（花で織られた長い連鎖）」──「inteste（織られた）」という動詞形容詞が花の連鎖を繊維的・織物的なものとして定義する。Grasinda の「fremono a torno li alberi canori, / da la grande armonia piovendo rose（歌う木々が薔薇を降り注がせる）」の花のイメージが、ここでは建築的な装飾として固定される。「Come navi in balía de le sirene（セイレンたちに翻弄される船のように）」──蜃気楼の揺れを「セイレンに誘われる船」という海の神話で定義する直喩。A Giuseppe Cellini の騎士道世界からギリシア神話への転換。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "poi che Morgana, in dolce atto giacente\nne 'l letto de la nube solitaria,\nquasi ebra di quel suo divin lavoro,",
+      "body": "詩の構造的な転換点──v.9「poi che（それというのも）」で原因節が始まり、第三三行詩から第四三行詩にかけて主節が完成する（「ama, seguendo...cullare...la città」）。蜃気楼という「結果」の後に創造者モルガーナという「原因」が遅れて提示される構造。「ne 'l letto de la nube solitaria（孤独な雲のベッドに）」──Eliana の「palagio d'Eliana（エリアーナの宮殿）」・Grasinda の「in mezzo a' suoi tesori（宝物に囲まれて）」と並ぶ「妖精の住み処」の定式。しかしここでの住み処は建物でも部屋でもなく「孤独な雲」──最も非物質的・流動的な空間。「quasi ebra di quel suo divin lavoro（その神聖な仕事にほとんど酔いしれながら）」──創造者としての恍惚状態。詩人が詩を書く行為との照応──「divin lavoro（神聖な仕事）」という芸術創造の定義。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "ama, seguendo un carme ne la mente,\ncullare de le man languide a l'aria\nla città da le mille scale d'oro.",
+      "body": "詩の結語──Sonetti delle Fate 連作全体の到達点としての「千の黄金の階段を持つ都市」。「seguendo un carme ne la mente（心の中で詩を追いながら）」──「carme」はラテン語由来の「詩・歌」。モルガーナが内心で詩を歌いながら都市を揺らすという──詩的行為（carme）と創造的行為（都市の創造）が同時に進行する構造。詩人とモルガーナが重なる瞬間。「cullare de le man languide a l'aria（けだるい手で空中に揺り籠のように）」──「cullare（揺り籠のように揺らす）」という乳幼児的な動詞が都市という巨大な対象に適用される逆説。「languide（けだるい）」──Mirinda の「lente parole（ゆったりとした言葉）」・Grasinda の「su tal corda l'anima sospira（弦の上で魂が溜息をつく）」と連続するSonetti delle Fate の「怠惰な官能」のモチーフの最終形。「la città da le mille scale d'oro（千の黄金の階段を持つ都市）」──詩集全体の理想的美の空間の頂点的定式。マラルメ「骰子一擲」の「RIEN N'AURA EU LIEU QUE LE LIEU（場所以外何も起きなかっただろう）」と逆の方向性──マラルメの「場所だけが残る虚無」に対し、ダヌンツィオの「幻の都市が黄金の実体として充満する」という詩的理想の宣言。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 7
+    }
+  ]
+}
