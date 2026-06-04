@@ -1,0 +1,93 @@
+{
+  "id": "dannunzio_i_gigli",
+  "title": "I Gigli",
+  "author": "Gabriele D'Annunzio",
+  "source": "La Chimera, Sonetti dell'Anima, VI. In L'Isottèo - La Chimera (1885–1888), Milano: Fratelli Treves Editori, 1906. 底本: Wikisource it.wikisource.org/wiki/La_Chimera/Sonetti_dell%27Anima/I_Gigli（2026年5月6日版）照合済。",
+  "year": "1888",
+  "firstPublication": "L'Isottèo - La Chimera, Treves, Milano, 1890.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "「I Gigli（百合）」は La Chimera（1885/1888）所収「Sonetti dell'Anima（魂のソネット群）」第VI番。変則ソネット14行──最終行「sé ne la voluttà riprofondando」は統語的に未完結のまま詩が終わる。この「開かれた結末」は意図的な形式的選択と解釈される：官能の深みへと再び沈んでいく魂の動作が、詩行そのものの中断として演じられる。百合（giglio）は純潔・受胎告知・処女マリアの象徴であり、Viviana および Oriana の「giglio ne le ceree dita（蝋のような指の百合）」と語彙的に連続する。しかしここでの百合は最初の純粋な出会いの記憶として機能し、現在の不純な官能的交合と対比される。「官能の絶頂において死を聞く」という体験──「odo il rombo de la Morte（死の轟きを聞く）」──と、その瞬間に官能の霞越しに百合だけが純粋に輝いて見えるという知覚が、Inanis impetus に続く La Chimera 期の自己批判的認識の深化を示す。",
+  "keywords": [
+    "ソネット", "百合", "官能", "純潔", "死", "魂",
+    "記憶", "忘却", "霞", "La Chimera", "Sonetti dell'Anima",
+    "未完結", "形式的実験", "官能と死"
+  ],
+  "relatedTexts": [
+    "dannunzio_inanis_impetus",
+    "dannunzio_viviana",
+    "dannunzio_beata_beatrice",
+    "baudelaire_la_destruction",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Quando prima ella a me con un immenso\ngrido s'offerse (ancor l'anima trema),\nun gran fascio di gigli, un puro emblema,\neffondea presso il letto un puro incenso.",
+      "provisionalTranslation": "彼女が初めて計り知れない叫び声とともに\n私に身を捧げた時（今も魂は震える）、\n百合の大きな束が、純粋な象徴として、\nベッドのそばで清らかな香を漂わせていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Or, quando impuramente ogni mio senso\nbeve da lei la voluttà suprema,\nodo il flutto de 'l mio sangue che scema,\nudire il rombo de la Morte io penso.",
+      "provisionalTranslation": "今、あらゆる感覚が不純に彼女から\n至高の官能を飲み干す時、\n私は自らの血流が引いていくのを聞き、\n死の轟きを聞いていると思う。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Ma i gigli (mentre un vel li occhi m'ingombra\ne dietro il vel tutte le cose oblía\nl'anima) i gigli, i gigli, a quando a quando,",
+      "provisionalTranslation": "しかし百合は（霞が私の目を覆い、\nその霞の向こうで魂がすべての物事を忘れる間も）\n百合が、百合が、折々に、"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando",
+      "provisionalTranslation": "高く孤独に影の中で輝くのを\n死にゆく私の魂は見る、\n自らをふたたび官能の深みへと沈めながら──"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "un gran fascio di gigli, un puro emblema,\neffondea presso il letto un puro incenso.",
+      "body": "「giglio（百合）」──受胎告知の図像においてガブリエルが持つ花として純潔・処女性の象徴。Viviana・Oriana の「giglio ne le ceree dita（蝋のような指の百合）」と直接連続する詩集横断的なモチーフ。「puro emblema（純粋な象徴）」・「puro incenso（清らかな香）」──「puro（純粋な）」という形容詞が二度反復され、最初の出会いの場を純潔性で充填する──これが第二四行詩の「impuramente（不純に）」との対比の土台となる。「fascio（束）」──百合が単一ではなく「大きな束」として提示されることで、純潔のイメージが豊饒・圧倒的なものとして登場する。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quando prima ella a me con un immenso\ngrido s'offerse (ancor l'anima trema),",
+      "body": "「con un immenso grido s'offerse（計り知れない叫び声とともに身を捧げた）」──「immenso grido（計り知れない叫び声）」という激烈な表現が初めての性的結合を「叫び声」として提示する。「ancor l'anima trema（今も魂は震える）」──括弧内の挿入句が詩の「現在」における回想の生々しさを示す──過去の出来事が魂においてまだ完結していない。Beata Beatrice の「Oh ricordarsi!（ああ、思い出すこと！）」という記憶への感嘆との照応──どちらも過去の強烈な経験が現在の魂に振動として残り続ける。",
+      "targetId": "dannunzio_beata_beatrice",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Or, quando impuramente ogni mio senso\nbeve da lei la voluttà suprema,\nodo il flutto de 'l mio sangue che scema,\nudire il rombo de la Morte io penso.",
+      "body": "「impuramente（不純に）」──第一四行詩の「puro（純粋な）」との直接的な対比。「voluttà suprema（至高の官能）」──Nympha ludovisia の「l'intensa voluttà de la vita（生の激しい官能）」と同根語の反復だが、ここでは「suprema（至高の）」という形容詞が官能の頂点的・終末的な性格を示す。「odo il flutto de 'l mio sangue che scema（自らの血流が引いていくのを聞く）」──性的絶頂において血流が引く（scema＝減る）という身体的感覚の鋭い観察。「udire il rombo de la Morte io penso（死の轟きを聞いていると思う）」──フランス語の「小さな死（petite mort）」という性的絶頂と死の同一視の伝統のイタリア語版。Inanis impetus の「da le piaghe l'inimico sire...ogni virili le sugge（傷口から敵が力を吸い取る）」の同じ認識の身体的・感覚的な深化。",
+      "targetId": "dannunzio_inanis_impetus",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Ma i gigli (mentre un vel li occhi m'ingombra\ne dietro il vel tutte le cose oblía\nl'anima) i gigli, i gigli, a quando a quando,",
+      "body": "詩の最も音楽的に精緻な一節。「i gigli, i gigli（百合が、百合が）」──同一語の二重反復が続いた後「a quando a quando（折々に）」という時間的断続を示す副詞句で宙吊りになる。この三重の反復と宙吊りが、官能の霞の中で意識の断片として百合のイメージが明滅する感覚を詩行の構造として演じる。「un vel li occhi m'ingombra（霞が目を覆う）」──「vel（ヴェール・霞）」という語が官能的陶酔による知覚の曇りを示す。Oriana infedele の「vinse Orïana de 'l soave oblio（甘い忘却でオリアーナを打ち負かした）」と同じ「忘却」が、ここでは官能の極点における魂の自己喪失として内面化される。括弧による長い挿入句（v.9b–11a）が「i gigli」を分断することで、百合の記憶が断続的にしか意識に上らないことを統語的に体現する。",
+      "targetId": "dannunzio_oriana_infedele",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "alti e soli risplendere ne l'umbra\nvede la moribonda anima mia,\nsé ne la voluttà riprofondando",
+      "body": "詩の最終三行──統語的に未完結のまま終わる意図的な形式的選択。「alti e soli（高く孤独に）」──百合が官能の闇の中で孤立した純潔として輝く。「la moribonda anima mia（死にゆく私の魂）」──「moribonda（死にゆく）」という形容詞が魂の消耗の段階を示す。Inanis impetus の「la triste alma si strugge（悲しき魂は消耗する）」から「moribonda anima（死にゆく魂）」へ──La Chimera 連作における魂の段階的衰弱。「sé ne la voluttà riprofondando」──「自らをふたたび官能の深みへと沈めながら」という現在分詞が動作の継続中に詩が終わる──魂は百合の純潔を垣間見ながらも官能の深みへ再び沈んでいく動作の途中で切断される。この未完結は詩の形式的な挑発であると同時に、魂の抵抗が完結しないという意味的完結でもある。ヴェイユ「Accepter le vide」の「魂が空虚に留まる」力と対照的──ダヌンツィオの魂は空虚に留まれず官能の充満へと引き戻される。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    }
+  ]
+}
