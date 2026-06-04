@@ -1,0 +1,101 @@
+{
+  "id": "dannunzio_melusina",
+  "title": "Melusina",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, IV. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Melusina（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Melusina」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第4番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。メリュジーヌは中世フランスの伝説に登場する水の精霊で、毎週土曜日に下半身が蛇または魚に変身するという呪いを受けた。リュジニャン家の始祖と婚姻し、夫に土曜日の姿を見られた瞬間に人間界を離れたとされる。ダヌンツィオはこの変身の瞬間をパレスチナのサラセンの塔という十字軍的・異国的背景に置き、月が昇る夜にメリュジーヌが自らの腕が鱗に覆われるのを目撃するという内向きの恐怖として描く。前の三篇（Eliana・Mirinda の死の静けさ・官能の豊穣）に対し、Melusina は変身の恐怖と自己解体という最も暗いトーンを「Sonetti delle Fate」連作にもたらす。「bilingue la sua bocca（二枚舌の口）」という結末──蛇の割れた舌が人間の言葉を奪う──が詩の最終的な身体的崩壊の象徴として機能する。",
+  "keywords": [
+    "ソネット",
+    "メリュジーヌ",
+    "変身",
+    "蛇",
+    "鱗",
+    "パレスチナ",
+    "サラセンの塔",
+    "リュジニャン家",
+    "月",
+    "呪い",
+    "Sonetti delle Fate",
+    "Isaotta Guttadàuro",
+    "身体の崩壊",
+    "二枚舌"
+  ],
+  "relatedTexts": [
+    "dannunzio_eliana",
+    "dannunzio_mirinda",
+    "dannunzio_a_giuseppe_cellini",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Guarda, assisa, la vaga Melusina,\ntenendo il capo tra le ceree mani,\nla Luna in arco da' boschi lontani\nsalir vermiglia il ciel di Palestina.",
+      "provisionalTranslation": "美しいメリュジーヌが座ったまま眺めている、\n蝋のような両手の間に頭を抱えながら、\n遠い森の彼方から弓なりに昇る月が\nパレスチナの空を赤く染めるのを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Da l'alto de la torre saracina,\nella sogna il destin de' Lusignani;\ne innanzi a'l tristo rosseggiar de' piani,\nsente de 'l suo finir l'ora vicina.",
+      "provisionalTranslation": "サラセンの塔の高みから、\n彼女はリュジニャン家の運命を夢見る。\nそして平原の悲しい赤みに向かいながら、\n自らの終わりの時が近いのを感じる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Già già, viscida e lunga, ella le braccia\nvede coprirsi di pallida squama,\nle braccia che fiorian si dolcemente.",
+      "provisionalTranslation": "もうすでに、あれほど甘やかに花のようだった腕が\nぬめりを帯びた青白い鱗に覆われていくのを\n彼女は見る。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Scintilla inrigidita la sua faccia\ne bilingue la sua bocca in van chiama\npoi che a'l cuor giunge il freddo de' l serpente.",
+      "provisionalTranslation": "その顔は凍りついてきらめき、\n二枚舌となったその口は空しく呼びかける、\n蛇の冷たさが心に届くのだから。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Guarda, assisa, la vaga Melusina,\ntenendo il capo tra le ceree mani,",
+      "body": "「Melusina（メリュジーヌ）」──中世フランスの伝説に登場する水の精霊。ジャン・ダラスの『メリュジーヌ物語』（1393年）が最も詳細な版で、リュジニャン（Lusignan）家の始祖レイモンと婚姻する。毎週土曜日に下半身が蛇に変身するという呪いを受け、夫に姿を見られた瞬間に鳥の姿で飛び去ったとされる。「tenendo il capo tra le ceree mani（蝋のような両手の間に頭を抱えながら）」──「ceree mani（蝋のような手）」は Viviana の「ceree dita（蝋のような指）」と同一の形容詞──しかしここでは「美しい手」ではなく「自らの運命を前に頭を抱える手」として機能する。同じ「蝋の手」が愛の賛美（Viviana）から死の予感（Melusina）へと転換される。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la Luna in arco da' boschi lontani\nsalir vermiglia il ciel di Palestina.",
+      "body": "「la Luna in arco（弓なりに昇る月）」──月が弓（arco）の形を描いて昇るという表現は、A Giuseppe Cellini の「fatal corno d'Artù（アルトゥの角笛）」・Il dolce grappolo の「lunante arco（月形の弧）」と「弓・弧」のイメージで連続する。「il ciel di Palestina（パレスチナの空）」──舞台を中東・十字軍の地に設定することで、リュジニャン家の歴史的背景（ベールの伯爵家はキプロス王国など十字軍国家と関係があった）を暗示する。赤く昇る月という光景が次の「rosseggiar de' piani（平原の赤み）」と連鎖し、第一四行詩全体を赤という終末的な色で統一する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "ella sogna il destin de' Lusignani;",
+      "body": "「il destin de' Lusignani（リュジニャン家の運命）」──「Lusignani（リュジニャン家）」はポワトゥー地方の実在の貴族家門で、メリュジーヌ伝説と結びついた家系。彼女との婚姻により城を建て権勢を誇ったが、呪いにより没落したとされる。「sogna（夢見る）」──メリュジーヌの「夢」は予言的・悲劇的な予感として機能する。Eliana の「ella sogna il destin（彼女は運命を夢見る）」という自己の滅びへの内向きの視線が、Sonetti delle Fate 連作を通じる「妖精的女性の自己認識」の主題を形成する。「il tristo rosseggiar de' piani（平原の悲しい赤み）」──「tristo（悲しい・不吉な）」という形容詞が夕焼けの赤みを死の前兆として定義する。",
+      "targetId": "dannunzio_eliana",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Già già, viscida e lunga, ella le braccia\nvede coprirsi di pallida squama,\nle braccia che fiorian si dolcemente.",
+      "body": "「Già già（もうすでに）」──副詞の二重反復が変身の不可逆的な進行を示す。時間的緊迫が「già」を重ねることで表現される──単なる「すでに」ではなく「刻一刻と」。「viscida e lunga（ぬめりを帯びた長い）」──二つの形容詞が鱗の質感と形状を同時に定義する。「pallida squama（青白い鱗）」──「pallida（青白い）」は Eliana の「candidi（白い）」孔雀と同じ死の色調系列に属する。「le braccia che fiorian si dolcemente（あれほど甘やかに花のようだった腕）」──過去形「fiorian（咲いていた）」が現在の変身と過去の美を対比させる。Viviana の「braccia」（第3連「braccia」への言及はないが）・Nympha ludovisia の「flora vive」という生命の腕が、ここでは死の鱗に覆われる腕として反転する。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Scintilla inrigidita la sua faccia\ne bilingue la sua bocca in van chiama\npoi che a'l cuor giunge il freddo de' l serpente.",
+      "body": "詩の最終三行が変身の完成を三段階で示す。「Scintilla inrigidita la sua faccia（その顔は凍りついてきらめく）」──「inrigidita（凍りついた）」という過去分詞形容詞が顔の硬直を、「scintilla（きらめく）」が鱗の光沢を示す──人間の顔の表情が消え、爬虫類の光沢に変わる瞬間。「bilingue la sua bocca（二枚舌となった口）」──「bilingue」は文字通り「二つの舌を持つ」──蛇の割れた舌を指す。同時に「bilingue」は「二言語を話す」という意味でもあり、人間の言葉と蛇の言葉の間で引き裂かれた口を示す。「in van chiama（空しく呼びかける）」──変身しても「呼びかける」という人間的衝動が残るが、「空しく（in van）」──もはや人間の声は出ない。「il freddo de 'l serpente（蛇の冷たさ）」──「freddo（冷たさ）」が心臓（cuore）に達することで変身が完結する。Eliana の結末「il bosco è pieno d'implorazïoni（森は祈願の声に満ちている）」が外部への声の拡散だったのに対し、ここでは声が内側に凍りつく──連作の中で最も内向的・閉塞的な結末。",
+      "targetId": "dannunzio_eliana",
+      "targetParagraphId": 4
+    }
+  ]
+}
