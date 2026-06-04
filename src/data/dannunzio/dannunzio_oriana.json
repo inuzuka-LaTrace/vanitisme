@@ -1,0 +1,90 @@
+{
+  "id": "dannunzio_oriana",
+  "title": "Oriana",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, VII. In Isaotta Guttadàuro ed altre poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Oriana（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Oriana」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第7番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。オリアーナは『アマディス・デ・ガウラ』の主人公アマディスの愛人であり最終的な妻となる姫。詩はオリアーナが魔法をかけて洞窟に幽閉している勇者たちを、アマディスが甲冑を纏い三度角笛を吹いて解放し、オリアーナの心を奪うという場面を描く。A Giuseppe Cellini の「fatal corno d'Artù（アルトゥの角笛）」という詩人の詩的声明が、ここでは物語内の実際の角笛の場面として具体化される──連作の冒頭で象徴的に登場した「角笛」が、連作の末尾近くで物語的行為として完結する。Sonetti delle Fate 連作は Eliana（死の眠り）・Mirinda（官能の逸楽）・Melusina（変身の恐怖）・Grasinda（音楽への変身）・Morgana（蜃気楼の創造）と続いたが、Oriana で初めて「男性の英雄的行為による魔法の解体」という能動的・叙事詩的な場面が前景化される。",
+  "keywords": [
+    "ソネット", "オリアーナ", "アマディス", "角笛", "魔法の解除",
+    "騎士道ロマンス", "洞窟", "甲冑", "アマディス・デ・ガウラ",
+    "Sonetti delle Fate", "Isaotta Guttadàuro", "蔦のヴェール", "英雄"
+  ],
+  "relatedTexts": [
+    "dannunzio_a_giuseppe_cellini",
+    "dannunzio_melusina",
+    "dannunzio_morgana",
+    "dannunzio_dolce_grappolo"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Oriana tenea l'incantamento.\nGiacean, ebri d'assai dolci veleni,\nne l'antro i prodi; e larga di sereni\nsogni la Luna era a l'umano armento.",
+      "provisionalTranslation": "オリアーナが魔法を保ち続けていた。\n甘い毒に酔いしれながら洞窟に\n勇者たちが横たわっていた。そして月は\n人間の群れに穏やかな夢を惜しみなく与えていた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Pascean su 'l limitare i palafreni\nmeravigliosi, li émuli de 'l vento:\nbattean la lunga coda in moto lento\na la coscia, e nitrian per li alti fieni.",
+      "provisionalTranslation": "入口では不思議な馬たちが草を食んでいた、\n風を競うほどの俊足の馬たちが。\n長い尾を腿の脇にゆっくりとした動きで\n打ちつけながら、高い干し草の中で嘶いていた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Giunse Amadigi a l'antro solitario,\ntutto de l'armi splendide vestito;\ne tre volte suonò, ne 'l muto orrore.",
+      "provisionalTranslation": "アマディスが孤独な洞窟へとやって来た、\n輝かしい甲冑に全身を包んで。\nそして静寂の恐怖の中で三度角笛を吹いた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Quindi, rompendo il magico velario\nche l'edera tessea, con quell'ardito\ngesto egli prese ad Oriana il cuore.",
+      "provisionalTranslation": "それから、蔦が織りなす魔法のヴェールを\nその勇敢な一振りで引き裂きながら、\n彼はオリアーナの心を奪った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Oriana tenea l'incantamento.\nGiacean, ebri d'assai dolci veleni,\nne l'antro i prodi;",
+      "body": "「Oriana（オリアーナ）」──『アマディス・デ・ガウラ』の主人公アマディスの恋人・最終的な妻。詩ではオリアーナが「魔法をかける者」として登場するが、原典ではオリアーナは必ずしも魔法使いではなく、ダヌンツィオが Sonetti delle Fate の文脈に合わせて「魔法をかける妖精」として再解釈したと思われる。「i prodi（勇者たち）」──「prode（勇敢な）」の複数形。騎士道ロマンスの英雄たちが魔法で眠らされているという設定はアーサー王伝説のブロセリアンドのマーリン（A Giuseppe Cellini の「Broceglianda」）との照応。「ebri d'assai dolci veleni（甘い毒に酔いしれながら）」──A Giuseppe Cellini の「perfida virtù（危うい魅力）」と同様に、妖精の魔法が「甘い（dolci）」かつ「毒（veleni）」という矛盾した性質を持つ。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "larga di sereni\nsogni la Luna era a l'umano armento.",
+      "body": "「larga di sereni sogni（穏やかな夢を惜しみなく）」──「larga（惜しみない・寛大な）」という形容詞が月の夢を与える行為を「寛大さ」として定義する。月が夢の分配者として機能するという古典的な詩的伝統──ラテン語詩においてルナ（月）は睡眠・夢と結びついた女神。「l'umano armento（人間の群れ）」──「armento」は本来「家畜の群れ」を意味し、「人間の群れ」への転用が軽い皮肉として機能する──魔法に酔う勇者たちを「家畜の群れ」と呼ぶことで、彼らの受動的・無力な状態を強調する。Melusina の「la Luna...salir vermiglia（赤く昇る月）」との対比──ここでの月は死の前兆ではなく夢の配布者として機能する。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Pascean su 'l limitare i palafreni\nmeravigliosi, li émuli de 'l vento:\nbattean la lunga coda in moto lento\na la coscia, e nitrian per li alti fieni.",
+      "body": "ABBA 韻脚：「palafreni / fieni」（A）・「vento / lento」（B）。「palafreni（馬）」──中世ロマンス語の「palfrey」から、騎士が乗る上等な馬の詩的語。「li émuli de 'l vento（風を競うほどの）」──「emulo（競うもの）」という語が馬の俊足を風との競争として定義する。Il dolce grappolo の「bella come la bella Blanzesmano / allor che cavalcò per la foresta（森を騎馬で行く）」と同じ騎馬のイメージが、ここでは主人公の到着を待つ馬たちとして静的に描かれる。「battean la lunga coda in moto lento（長い尾をゆっくりとした動きで打ちつけながら）」──静止した馬の細密な動作描写が、次の連のアマディスの劇的な到着との対比を準備する緩慢な前奏となる。",
+      "targetId": "dannunzio_dolce_grappolo",
+      "targetParagraphId": 16
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Giunse Amadigi a l'antro solitario,\ntutto de l'armi splendide vestito;\ne tre volte suonò, ne 'l muto orrore.",
+      "body": "「Amadigi（アマディス）」──スペイン・ポルトガルの騎士道ロマンス『アマディス・デ・ガウラ』（14世紀成立）の主人公。中世ヨーロッパで最も広く読まれた騎士道ロマンスの英雄。A Giuseppe Cellini の「io suono il fatal corno d'Artù（私がアルトゥの角笛を吹く）」という詩人ダヌンツィオ自身の詩的宣言が、ここではアマディスの実際の行為として物語化される──連作冒頭の「角笛の宣言」が末尾近くで「三度の角笛」として成就する。「tre volte suonò（三度吹いた）」──三という数字が魔法解除のための儀礼的反復として機能する。「ne 'l muto orrore（静寂の恐怖の中で）」──「muto（沈黙した）」という形容詞が Eliana の「silenzio intento（満ちた沈黙）」・Grasinda の眠りの静けさと連続するSonetti delle Fate の「沈黙」のモチーフを、ここでは「恐怖（orrore）」として位置づける。",
+      "targetId": "dannunzio_a_giuseppe_cellini",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "rompendo il magico velario\nche l'edera tessea, con quell'ardito\ngesto egli prese ad Oriana il cuore.",
+      "body": "詩の結語──魔法解除と心の奪取が一つの行為で完結する。「il magico velario che l'edera tessea（蔦が織りなす魔法のヴェール）」──「edera（蔦）」が魔法の網として機能する。A Giuseppe Cellini の「Broceglianda / tra i mirti intonsi（剪られぬ銀梅花の間）」という植物的な魔法空間が、ここでは「蔦が織るヴェール」として変奏される──騎士道ロマンスにおける「植物が魔法の境界を形成する」という伝統。「con quell'ardito gesto（その勇敢な一振りで）」──「ardito（勇敢な・大胆な）」という形容詞が A Giuseppe Cellini の「ardente（燃え立つ）」という Urganda の属性語と語根的に対応する──魔法をかける側の「熱さ（ardente）」に対し、魔法を破る側の「大胆さ（ardito）」。「egli prese ad Oriana il cuore（彼はオリアーナの心を奪った）」──Il dolce grappolo の「Ella mi diede il bacio sovrumano（彼女は私に超えた自然の接吻を与えた）」と逆の主体性──グッタダウロが接吻を「与える」のに対し、アマディスは心を「奪う」。Sonetti delle Fate 連作で唯一、男性が能動的主体として女性の「心」に触れる場面。"
+    }
+  ]
+}
