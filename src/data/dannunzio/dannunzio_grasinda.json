@@ -1,0 +1,92 @@
+{
+  "id": "dannunzio_grasinda",
+  "title": "Grasinda",
+  "author": "Gabriele D'Annunzio",
+  "source": "Isaotta Guttadàuro, Sonetti delle Fate, V. In Isaotta Guttadàuro ed alte poesie, Roma: Editrice La Tribuna, 1886. 底本: Wikisource it.wikisource.org/wiki/Isaotta_Guttadauro/Sonetti_delle_Fate/Grasinda（2026年5月6日版）照合済。",
+  "year": "1886",
+  "firstPublication": "Isaotta Guttadàuro ed altre poesie, Editrice La Tribuna, Roma, 1886.",
+  "difficulty": "中級",
+  "category": "dannunzio",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "「Grasinda」は Isaotta Guttadàuro（1886）所収「Sonetti delle Fate（妖精たちのソネット群）」第5番。ペトラルカ式ソネット（ABBA ABBA / CDC DCD）。「Grasinda」はスペインの騎士道ロマンス『アマディス・デ・ガウラ』に登場するローマの姫で、アマディスに恋するが報われない女性。詩は魔法の眠りに就いたグラシンダの周囲の大気と自然が音楽的に変容する光景を描き、最終的には彼女の身体そのものが月形の竪琴と化し、その魂が弦の上に溜息をつくという完全な「音楽への変身」で閉じる。Melusina の「変身の恐怖」に対し、Grasinda の変身は音楽・夢・調和という肯定的な方向に向かう──蛇への変身（冷・硬直・沈黙）の裏返しとして、竪琴への変身（音・柔・震動）が提示される。「Sonetti delle Fate」連作の中で最も音楽的に精緻な一篇。",
+  "keywords": [
+    "ソネット", "Grasinda", "眠り", "竪琴", "変身", "音楽",
+    "薔薇", "魂", "溜息", "Sonetti delle Fate", "Isaotta Guttadàuro",
+    "共感覚", "魔法の眠り", "アマディス"
+  ],
+  "relatedTexts": [
+    "dannunzio_melusina",
+    "dannunzio_eliana",
+    "dannunzio_mirinda",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Dorme Grasinda in mezzo a' suoi tesori,\nove l'incanto un sonno alto le impose.\nE l'intima dolcezza de le cose\nver lei migra in assai vaghi romori.",
+      "provisionalTranslation": "グラシンダは宝物に囲まれて眠っている、\n魔法が彼女に深い眠りを課した場所で。\n物たちの奥深い甘さが\nかすかで夢幻的な響きとなって彼女へと移り来る。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Fremono a torno li alberi canori,\nda la grande armonia piovendo rose\nquasi che per virtù misteriose\nsi rispandano i suoni in rari fiori.",
+      "provisionalTranslation": "周囲の歌う木々が震え、\n大いなる調和から薔薇を降り注がせる、\nまるで神秘の力によって\n音が稀な花々へと広がっていくかのように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Lento il corpo ne 'l sonno a 'l ritmo cede:\ncompongonsi le membra agili in arco\ne prendon forma di lunata lira.",
+      "provisionalTranslation": "眠りの中で身体はゆっくりとリズムに従う。\n軽やかな手足が弓なりに形を整え、\n月形の竪琴の姿をとる。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Si tendono le chiome argute al piede\nfacendo strano a' due pollici incarco;\ne su tal corda l'anima sospira.",
+      "provisionalTranslation": "艶やかな髪が足元まで張り伸び、\n二本の親指に奇妙な重荷をかける。\nそしてその弦の上で魂が溜息をつく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Dorme Grasinda in mezzo a' suoi tesori,\nove l'incanto un sonno alto le impose.",
+      "body": "「Grasinda（グラシンダ）」──スペイン・ポルトガルの騎士道ロマンス『アマディス・デ・ガウラ』（およびその続編）に登場するローマの姫。アマディスへの叶わぬ恋をする女性として描かれる。「in mezzo a' suoi tesori（宝物に囲まれて）」──Mirinda の「ne l'occulta stanza（隠された部屋）」・Sonetto liminare の「PALAGIO D'ORO（黄金の宮殿）」と連続する「宝物に囲まれた秘密の空間」の主題。「un sonno alto（深い眠り）」──「alto（高い・深い）」という形容詞が眠りの深度を示す。Eliana の「Dorme a notte il palagio d'Eliana（夜にエリアーナの宮殿は眠る）」と冒頭の動詞「Dorme」が呼応し、Sonetti delle Fate 連作における「眠り」のモチーフの連続を形成する。",
+      "targetId": "dannunzio_eliana",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "E l'intima dolcezza de le cose\nver lei migra in assai vaghi romori.",
+      "body": "「l'intima dolcezza de le cose（物たちの奥深い甘さ）」──物質的な宝物が「甘さ（dolcezza）」という感覚的属性を持ち、それが「響き（romori）」として移動するという共感覚的描写。「vaghi romori（かすかで夢幻的な響き）」──「vago」は「曖昧な・夢幻的な・美しい」という多義語。眠り自体が外界の音を変容させるフィルターとして機能する──覚醒した感覚ではなく、半意識的な眠りの中で「物の甘さ」が「響き」として知覚される。Eliana の「singhiozza in ritmo ne 'l silenzio intento（満ちた沈黙の中にリズムを刻みすすり泣く）」という泉の音との連続──どちらも沈黙・眠りの中に響きが生まれる逆説的音響を描く。",
+      "targetId": "dannunzio_eliana",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Fremono a torno li alberi canori,\nda la grande armonia piovendo rose\nquasi che per virtù misteriose\nsi rispandano i suoni in rari fiori.",
+      "body": "詩の音楽的核心。「alberi canori（歌う木々）」──「canoro（歌う・音楽的な）」という形容詞が木々に帰属される擬人法。A Giuseppe Cellini の「ninfe correre tra i rami（枝の間を走るニンフ）」の聴覚的変奏──木々が自ら歌う存在として提示される。「da la grande armonia piovendo rose（大いなる調和から薔薇を降り注がせる）」──音（armonia）が花（rose）に変換される共感覚。Viviana の「fiori parvero nascer da' capelli（花々が髪から生まれるように見えた）」と同型の「非物質的なものから花が生まれる」という変換が、ここでは「音から花が生まれる」として展開される。「si rispandano i suoni in rari fiori（音が稀な花々へと広がっていく）」──「rispandere（広がる・溢れ出る）」という動詞が音の物質的変容を動的に描く。",
+      "targetId": "dannunzio_viviana",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Lento il corpo ne 'l sonno a 'l ritmo cede:\ncompongonsi le membra agili in arco\ne prendon forma di lunata lira.",
+      "body": "「Lento il corpo ne 'l sonno a 'l ritmo cede（眠りの中で身体はゆっくりとリズムに従う）」──眠りの中で身体が外部のリズム（第二四行詩の音楽的調和）に従って変形し始める。「compongonsi le membra agili in arco（軽やかな手足が弓なりに形を整え）」──「arco（弓・弧）」は Melusina の「la Luna in arco（弓なりに昇る月）」・Il dolce grappolo の「lunante arco（月形の弧）」と連続する弓形のイメージ。しかしここでは天体の弧が身体の弧として内面化される。「lunata lira（月形の竪琴）」──リラ（竪琴）は古代ギリシアでアポロンとオルフェウスの楽器。その形状（弓なりの腕木）が月の形と重なる。Melusina の蛇への変身（冷・硬直・凍結）に対し、Grasinda の竪琴への変身（音・柔・振動）は正反対の方向性を持つ。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Si tendono le chiome argute al piede\nfacendo strano a' due pollici incarco;\ne su tal corda l'anima sospira.",
+      "body": "詩の結語──変身の完成と魂の表出。「le chiome argute（艶やかな髪）」──「arguto（鋭い・艶やかな）」という形容詞が髪の光沢と音楽的な鋭さを重ねる。髪が足元まで伸びて竪琴の弦となるという変身の完成。「facendo strano a' due pollici incarco（二本の親指に奇妙な重荷をかける）」──竪琴を演奏する際に親指が弦を支えるという奏法的な細部が、変身の身体的リアリティを確立する。「e su tal corda l'anima sospira（そしてその弦の上で魂が溜息をつく）」──「sospira（溜息をつく）」という動詞が魂の表出と弦の振動を同時に意味する。Melusina の「bilingue la sua bocca in van chiama（二枚舌の口は空しく呼びかける）」では声が失われたのに対し、Grasinda では魂が「溜息」という音として表出される──連作の中で最も昇華された声の形として。Eliana の「il bosco è pieno d'implorazïoni（森は祈願の声に満ちている）」・Melusina の「in van chiama（空しく呼びかける）」・Mirinda の「lente parole（ゆったりとした言葉）」というSonetti delle Fate を通じた「声」の変奏の最終形。",
+      "targetId": "dannunzio_melusina",
+      "targetParagraphId": 4
+    }
+  ]
+}
