@@ -2520,7 +2520,7 @@ const TocDrawer = ({
                       </span>
                       <span className="flex items-center gap-1 ml-2 shrink-0">
                         <span className={`font-sans text-[10px] ${tocDim} opacity-60`}>{authorTexts.length}</span>
-                        <span className={tocDim} style={{ fontSize: '10px' }}>{isOpen ? '▾' : '▸'}</span>
+                        <span className={tocDim} style={{ fontSize: '11px' }}>{isOpen ? '▾' : '▸'}</span>
                       </span>
                     </button>
 
