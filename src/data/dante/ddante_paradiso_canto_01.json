@@ -11,10 +11,18 @@
   "canto": "I",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "天国篇第1歌は神曲全体の最後の扉を開く──そして最初の言葉で「言語の失敗」を宣言する。「宇宙を動かす栄光は全ての場所に浸透し、ある場所にはより多く、ある場所にはより少なく光る（La gloria di colui che tutto move / per l'universo penetra, e risplende / in una parte più e meno altrove）」という冒頭三行は、プロティノスの流出論をダンテ的な光の形而上学に変換したものであり、神曲全体の宇宙論的枠組みを三行に圧縮する。\n続く詩学宣言「私が見たものを言葉にできない（trasumanar significar per verba / non si poria）」──「trasumanar（人間を超える）」はダンテの造語。人間の経験を超える体験は人間の言語では表現できない──これは天国篇全体が「表現の失敗の記録」として構成されていることを予告する。地獄篇が「描写の詩」、煉獄篇が「成長の詩」であるのに対し、天国篇は「沈黙への接近の詩」。\nベアトリーチェが太陽を直視する場面──人間は太陽を直視できないが、ベアトリーチェは鷲のように直視する──ダンテはベアトリーチェを通じて間接的に太陽を見る。これはPurg. XXX（ベアトリーチェ登場）・Purg. XXXI（別れ）との縦断的な連鎖を形成し、フェードラ（太陽神の末裔でありながら光に堪えられない）との比較読みも可能にする。",
+  "context": "天国篇第1歌は神曲全体の最後の篇を開く扉であり、最初の言葉で「言語の失敗」を宣言する。「宇宙を動かす栄光は全ての場所に浸透し、ある場所にはより多く、ある場所にはより少なく光る」という冒頭三行はプロティノスの流出論をダンテ的な光の形而上学として再解釈したものであり、神曲全体の宇宙論的枠組みを三行に圧縮する。\n\n続く序詩（proem）でダンテは地獄篇・煉獄篇ではムーサへの呼びかけで始めたのとは異なり、アポロ神自身に直接呼びかける──パルナッソスの「両方の峰」という比喩で、天国篇という最高難度の主題に見合う霊感の格上げを宣言する。マルシュアスの皮剥ぎの神話は「詩人の自己解体」として詩的変容の暴力的側面を予告する。\n\n春分点の天文学的描写（四つの円と三つの十字）を経て、ベアトリーチェが太陽を鷲を超えて直視する場面──ダンテはベアトリーチェを通じて間接的に太陽を見る。鷲の比喩は天国篇6歌（帝国の鷲）・26歌（「キリストの鷲」ヨハネ）と詩集横断的な連鎖をなす。\n\n「trasumanar（人間を超える）」というダンテの造語と、グラウクスの神話的変容の比喩が天国篇の詩学的プログラムを定式化する──言語では表現できないことを言語で示そうとする逆説的な試みとして天国篇は自己規定する。\n\n小舟の警告（v.112–114）に続くベアトリーチェの「あなたは地上にいない」という告知が第5段落の核心。「稲妻よりも速い上昇」という比喩は第7段落「雲から落ちる炎」という堕落の比喩と対称をなし、宇宙論的な「弓と矢」の比喩（摂理が被造物を神という的へと放つ）が天国篇全体の運動論的枠組みを完成させる。「素材が耳が遠い」という自由意志・悪の起源の詩的定式が第7段落の締めくくりとして機能する。",
   "keywords": [
-    "言語の限界", "trasumanar", "光の形而上学", "ベアトリーチェ", "太陽の直視",
-    "造語", "天国の序章", "流出論", "詩の失敗", "アポロ"
+    "言語の限界",
+    "trasumanar",
+    "光の形而上学",
+    "ベアトリーチェ",
+    "太陽の直視",
+    "造語",
+    "天国の序章",
+    "流出論",
+    "詩の失敗",
+    "アポロ"
   ],
   "relatedTexts": [
     "dante_purgatorio_canto_30",
@@ -27,49 +35,49 @@
       "verses": "v.1–12",
       "speaker": "Dante-narratore",
       "original": "La gloria di colui che tutto move\nper l'universo penetra, e risplende\nin una parte più e meno altrove.\n\nNel ciel che più de la sua luce prende\nfu' io, e vidi cose che ridire\né né sa né può chi di là sù discende;\n\nperché appressando sé al suo disire,\nnòstro intelletto si profonda tanto,\nche dietro la memoria non può ire.\n\nVeramente quant'io del regno santo\nnella mia mente potei far tesoro,\nsarà ora materia del mio canto.",
-      "provisionalTranslation": "全てを動かす者の栄光は\n宇宙を貫いて浸透し、輝く\nある場所にはより多く、他の場所にはより少なく。\n\nその光を最も多く受け取る天に\n私はいた、そしてそこから降りてきた者は\n再び語ることを知らず、また語ることができない；\n\nなぜなら欲望するものに近づくにつれて\n私たちの知性はこれほど深く沈むので、\n記憶はその後をついていけない。\n\nしかしながら、聖なる王国について\n私の心の中に宝として蓄えることができたものを、\nそれが今から私の歌の題材となるだろう。"
+      "provisionalTranslation": "全てを動かす者の栄光は\n宇宙を貫いて浸透し、輝く──\nある場所にはより多く、他の場所にはより少なく。\n\nその光を最も多く受け取る天に\n私はいた、そしてそこから降りてきた者は\n再び語ることを知らず、また語ることができない。\n\nなぜなら欲望するものに近づくにつれて\n私たちの知性はこれほど深く沈むので、\n記憶はその後をついていけない。\n\nしかしながら、聖なる王国について\n私の心の中に宝として蓄えることができたものを、\nそれが今から私の歌の題材となるだろう。"
     },
     {
       "id": 2,
       "verses": "v.13–36",
       "speaker": "Dante-narratore",
       "original": "O buono Appollo, a l'ultimo lavoro\nfammì del tuo valor sì fatto vaso,\ncome dimandi a dar l'amato alloro.\n\nInflio ad or è bastato un giogo solo\ndi Parnàso; ma or con amendue\nm'è uopo intrar ne l'aringo rimaso.\n\nEntra nel petto mio, e spira tue\nsì come quando Marsia traesti\ndella vagina de le membre sue.\n\nO divina virtù, se mi ti presti\ntanto che l'ombra del beato regno\nsegnata nel mio capo io manifesti,\n\nvedra'mi al piè del tuo diletto legno\nvenire, e coronarmi de le foglie\nche la materia e tu mi farai degno.\n\nSì rade volte, padre, se ne coglie\nper trïunfare o cesare o poeta,\ncolpa e vergogna de l'umane voglie,\n\nche parturir letizia in su la lieta\ndelfica deitade dovrìa la fronda\npennaceuta, quando alcun s'asseta.",
-      "provisionalTranslation": "ああ善きアポロよ、この最後の仕事のために\nあなたが愛する月桂樹を授けるよう求める時のように\nあなたの力の容器として私を作ってください。\n\nこれまでは一つのパルナッソスの峰で十分だった；\nしかし今は両方の峰で\n残された競技場（天国篇）に入らなければならない。\n\n私の胸に入り込み、あなた自身を吹き込んでくれ\nマルシュアスを彼の手足の鞘から\n引き剥がした時のように。\n\nああ神的な力よ、もし私にお前自身をこれほど貸してくれるなら\n私の頭の中に刻まれた\n祝福された王国の影を私が現せるほどに、\n\n私があなたの愛する木（月桂樹）の根元に来るのを\n見るだろう、そして葉で冠をいただくために\n素材とあなたが私に値するものとしてくれるもので。\n\nああ父よ、それほど稀に摘まれる\n凱旋する皇帝か詩人のために、\n人間の欲望の罪と恥として、\n\n葉をつけた小枝はデルフォイの喜ぶ神に\n喜びを産み出すべきだ\n誰かがそれを渇望する時に。"
+      "provisionalTranslation": "ああ善きアポロよ、この最後の仕事のために\nあなたが愛する月桂樹を授けるよう求める時のように\nあなたの力の容器として私を作ってください。\n\nこれまでは一つのパルナッソスの峰で十分だった。\nしかし今は両方の峰で\n残された競技場に入らなければならない。\n\n私の胸に入り込み、あなた自身を吹き込んでくれ──\nマルシュアスを彼の手足の鞘から\n引き剥がした時のように。\n\nああ神的な力よ、もし私にお前自身をこれほど貸してくれるなら、\n私の頭の中に刻まれた\n祝福された王国の影を現せるほどに──\n\n私があなたの愛する木の根元に来るのを\n見るだろう、そして素材とあなたが値するものとしてくれるもので\n葉で冠をいただくために。\n\nああ父よ、それほど稀に摘まれる、\n凱旋する皇帝か詩人のために──\n人間の欲望の罪と恥として。\n\n葉をつけた小枝はデルフォイの喜ぶ神に\n喜びを産み出すべきだ、\n誰かがそれを渇望する時に。"
     },
     {
       "id": 3,
       "verses": "v.37–63",
       "speaker": "Dante-narratore",
       "original": "Poca favilla gran fiamma seconda:\nforse di retro a me con miglior voci\nsi pregherà perché Cirra risponda.\n\nSorge ai mortali per diverse foci\nla lucerna del mondo; ma da quella\nche quattro cerchi giugne con tre croci,\n\ncon miglior corso e con migliore stella\nesce congiunta, e la mondana cera\npiù a suo modo tempera e sugella.\n\nFatta avea di là mane e di qua sera\ntal foce quasi, e tutto er bianco\nquello emisperio, e l'altra parte nera,\n\nquand'io vidi Beatrice volta in sul\nsinistro fianco per mirare nel sole:\naguglia sì non li s'affisse unquanco.\n\nE sì come secondo raggio suole\nuscir del primo e risalire in suso,\npure come pelegrin che tornar vuole,\n\ncosì de l'atto suo, per li occhi infuso\nnell'imagin mia, il mio si fece,\ne fissi li occhi al sole oltre nostr'uso.\n\nMolto è licito là, che qui non lece\nalle nostre virtù, mercé del loco\nfatto per proprio de l'umana spece.\n\nIo nol soffersi molto, né sì poco\nch'io nol vedessi sfavillar d'intorno,\ncome ferro che bogliente esce di foco;\n\ne di sùbito parve giorno a giorno\nessere aggiunto, come quei che puote\navesse il ciel d'un altro sole adorno.",
-      "provisionalTranslation": "小さな火花の後に大きな炎が続く：\nおそらく私の後ろにより良い声で\nキッラが答えるよう祈られるだろう。\n\n世界の光は様々な口から死すべき者たちに昇る；\nしかし四つの円を三つの十字で\n接合するあの場所（春分点）から、\n\nより良い軌道とより良い星と共に\n結合して出る、そして世俗的な蝋（大地）を\nより自分のやり方で調節し刻印する。\n\nあの口は彼方では朝を、こちらでは夕方を\n作っていた、そして一方の半球は全て白く、\n他方は黒かった、\n\n私がベアトリーチェを太陽を見つめるために\n左側へ向いているのを見た時：\n鷲でさえかつてそこにこれほど釘付けにならなかった。\n\nそして第二の光線が最初のものから\n出て、上に戻るように、\n帰りたいと思う巡礼者のように、\n\n彼女の行為から、目を通して\n私の想像の中に注がれて、私のもそのようになった、\nそして通常の私たちの習慣を超えて太陽に目を固定した。\n\nそこでは多くのことが許される、ここでは\n私たちの力には許されないことが、人類の\n固有の場所として作られた場所の恵みによって。\n\n私はそれをそれほど長くは耐えられなかったが、\nそれほど少なくもなかった、それが\n沸騰した鉄が炎から出てくるように周りに火花を散らすのを見ない程には；\n\nそして突然に昼の上に昼が\n加えられたように見えた、まるで出来る者が\n別の太陽で天を飾ったかのように。"
+      "provisionalTranslation": "小さな火花の後に大きな炎が続く──\nおそらく私の後ろにより良い声で\nキッラが答えるよう祈られるだろう。\n\n世界の光は様々な口から死すべき者たちに昇る。\nしかし四つの円を三つの十字で\n接合する春分点から、\n\nより良い軌道とより良い星と共に\n結合して出る、そして世俗的な蝋をより自分のやり方で\n調節し刻印する。\n\nあの口は彼方では朝を、こちらでは夕方を\n作っていた──一方の半球は全て白く、\n他方は黒かった。\n\n私がベアトリーチェを太陽を見つめるために\n左側へ向いているのを見た時：\n鷲でさえかつてそこにこれほど釘付けにならなかった。\n\nそして第二の光線が最初のものから\n出て、上に戻るように──\n帰りたいと思う巡礼者のように──\n\n彼女の行為から、目を通して私の想像の中に\n注がれて、私のそれもそのようになった、\nそして通常の習慣を超えて太陽に目を固定した。\n\nそこでは多くのことが許される、ここでは\n私たちの力には許されないことが──人類の\n固有の場所として作られた場所の恵みによって。\n\n私はそれをそれほど長くは耐えられなかったが、\n沸騰した鉄が炎から出てくるように\n周りに火花を散らすのを見ないほど少なくもなかった。\n\nそして突然に昼の上に昼が\n加えられたように見えた、まるで出来る者が\n別の太陽で天を飾ったかのように。"
     },
     {
       "id": 4,
       "verses": "v.64–93",
       "speaker": "Dante-narratore",
       "original": "Beatrice tutta ne l'etterne rote\nfissa con li occhi stava; e io in lei\nle luci fissi, di là su rimote.\n\nNel suo aspetto tal dentro mi fei,\nqual si fé Glauco nel gustar de l'erba\nche 'l fé consorto in mar de li altri dèi.\n\nTrasumanar significar per verba\nnon si poria; però l'essemplo basti\na cui esperienza grazia serba.\n\nS'io era sol di me quel che creasti\nnov'ellamente, amor che 'l ciel governi,\ntu 'l sai, che col tuo lume mi levasti.\n\nQuand'io vidi, che 'l ciel e la terra\nfanno, il movimento, girar le sfere\ndi tutto il mondo e di parte più vera,\n\nnon altrimenti il tuon discende,\nse non che contro il voler suo viene,\nquanto mi parve d'improvviso accese.\n\nL'acqua ch'io presi già mai non si corse;\nMinèrva spira, e conducemi Appollo,\ne nove Muse mi dimostran l'Orse.\n\nO voi che siete in piccioletta barca,\ndesiderosi d'ascoltar, seguiti\ndietro al mio legno che cantando varca,\n\ntornate a riveder li vostri liti:\nnon vi mettete in pelago, ché forse,\nperdendo me, rimarreste smarriti.\n\nL'acqua ch'io prendo già mai non si corse;\nMinerva spira, e conducemi Apollo,\ne nove Muse mi dimostran l'Orse.",
-      "provisionalTranslation": "ベアトリーチェは永遠の輪に\n全く目を固定したまま立っていた；そして私は彼女に\n目を固定した、そこから（地上から）遠く離れて。\n\n彼女の顔の中で私は内側からそのようになった、\nグラウクスが草を味わった時のようになったように\nそれが彼を海の他の神々の仲間にした。\n\n「人間を超える（trasumanar）」ことを言葉で表現する\nことはできない；だから例えで十分だ\nそれを恵みが体験のために取っておく者には。\n\n私が（新しく創られた）あなたの最後の創造物だけであったかどうか、\n天を治める愛よ、\nあなたが知っている、あなたの光で私を持ち上げた者が。\n\n天と地を動かす\n動き、全世界の天球の回転と\nより真の部分を私が見た時、\n\n雷が降りてくるのとは違わない、\nそれは自分の意志に反してやってくるのだが、\n突然に点火されたように私には思えた。\n\n私が取る水はかつて航行されたことがない；\nミネルヴァが息吹き込み、アポロが私を導き、\n九人のムーサが私に熊座を示す。\n\nああ、あなた方、小さな舟に乗って、\n聞きたいと望んで、私の後ろについてきた、\n歌いながら渡る私の大船の後ろに。\n\n引き返してあなた方の岸辺を再び見よ：\n大海に乗り出すな、おそらく\n私を見失って、迷子になるだろうから。\n\n私が取る水はかつて航行されたことがない；\nミネルヴァが息吹き込み、アポロが私を導き、\n九人のムーサが私に熊座を示す。"
+      "provisionalTranslation": "ベアトリーチェは永遠の輪に\n全く目を固定したまま立っていた。そして私は彼女に\n目を固定した、そこから遠く離れて。\n\n彼女の顔の中で私は内側からそのようになった、\nグラウクスが草を味わった時のようになったように──\nそれが彼を海の他の神々の仲間にした。\n\n「人間を超えること」を言葉で表現する\nことはできない。だから例えで十分だ、\n恵みがそれを体験のために取っておく者には。\n\n天を治める愛よ、私が\nあなたの最後の創造物だけであったかどうか、\nあなたが知っている──あなたの光で私を持ち上げた者が。\n\n私が取る水はかつて航行されたことがない。\nミネルヴァが息吹き込み、アポロが私を導き、\n九人のムーサが私に熊座を示す。\n\nああ、あなた方、小さな舟に乗って、\n聞きたいと望んで、歌いながら渡る\n私の大船の後ろについてきた者たちよ。\n\n引き返してあなた方の岸辺を再び見よ──\n大海に乗り出すな、おそらく\n私を見失って、迷子になるだろうから。\n\n私が取る水はかつて航行されたことがない。\nミネルヴァが息吹き込み、アポロが私を導き、\n九人のムーサが私に熊座を示す。"
     },
     {
       "id": 5,
       "verses": "v.94–108",
       "speaker": "Beatrice",
       "original": "Tu stesso ti fai grosso\ncol falso imaginar, sì che non vedi\nciò che vedresti se l'avessi scosso.\n\nTu non se' in terra, sì come tu credi;\nma folgore, fuggendo il proprio sito,\nnon corse come tu ch'ad esso riedi».\n\nS'io fui del primo dubbio disvestito\nper le sorrisette parolette brevi,\ndentro ad un nuovo più fu' inretito:\n\ne dissi: «Già contento requirevi\nde la mia ammirazione; ma or mi fate\nnovel dubbio come 'l corpo lieve\n\nvarca questi corpi» — onde con pietate\nanzi ch'io domandassi ella sorrise,\npoi rispuose a me con quella citate.",
-      "provisionalTranslation": "「あなたは自分自身を鈍くしている\n偽りの想像で、だからあなたは見えない\nそれを振り払えば見えるであろうものを。\n\nあなたは地上にいない、あなたが信じるように；\nしかし稲妻が自分の場所から逃げて\nあなたほど素早く走ったことはなく、あなたはそこに戻っている。」\n\n最初の疑問を脱いだ後、\n短い微笑みの言葉によって\n私は内側で新しいものの中にさらに絡め取られた：\n\nそして言った：「既に私は\n私の驚きから満足させられた；しかし今あなた方は\n新しい疑問を起こす、どのようにして軽い体が\n\nこれらの体を通過するか」──それで憐れみをもって\n私が尋ねる前に彼女は微笑み、\nそれからその速さで私に答えた。"
+      "provisionalTranslation": "「あなたは自分自身を鈍くしている\n偽りの想像で、だからあなたは見えない\nそれを振り払えば見えるであろうものを。\n\nあなたは地上にいない、あなたが信じるように。\n稲妻が自分の場所から逃げて\nあなたほど素早く走ったことはない──あなたはそこに戻っている。」\n\n最初の疑問から解放された後、\n短い微笑みの言葉によって\n私は内側で新しい疑問にさらに絡め取られた。\n\nそして言った：「私は既に驚きを\n満足させられた。しかし今あなたは\n新しい疑問を起こす──どのようにして軽い体が\n\nこれらの体を通過するか。」\nそれで憐れみをもって\n私が尋ねる前に彼女は微笑み、\nそれからその速さで私に答えた。"
     },
     {
       "id": 6,
       "verses": "v.109–126",
       "speaker": "Beatrice",
       "original": "Le cose tutte quante\nhanno ordine tra loro, e questo è forma\nche l'universo a Dio fa simigliante.\n\nQui veggion l'alte creature l'orma\ndella etterna virtù, che è il fine\nal quale è fatta la toccata norma.\n\nNe l'ordine ch'io dico sono accline\ntutte nature, per diverse sorti,\npiù al principio loro e men vicine;\n\nonde si muovono a diversi porti\nper lo gran mar de l'essere, e ciascuna\ncon istinto dato le porta, che la porti.\n\nQuesto ne porta il foco inver' la luna;\nquesto ne' cor mortali è permotore;\nquesto la terra in sé strigne e aduna.\n\nNé pur le creature che son fore\nd'intelligenza quest'arco saetta,\nma quelle c'hanno intelletto e amore.",
-      "provisionalTranslation": "「全てのものは互いの間に秩序を持つ、\nそしてこれは宇宙を神に\n似せる形である。\n\nここで高い被造物たちは\n永遠の美徳の痕跡を見る、それは\n触れられた規範が作られた目的である。\n\n私が言う秩序の中で\n全ての本性は、様々な運命によって、\n自分たちの源により近く、より遠く傾く；\n\nしてそれぞれが様々な港へと向かう\n存在の大海を通って、そして各々が\n本能的に与えられた衝動を持つ、それが運ぶように。\n\nこれが炎を月に向けて運ぶ；\nこれが死すべき心の中の動力である；\nこれが大地を縛り合わせる。\n\nこの弓は知性を持たない被造物だけを\n射るのではなく、\n知性と愛を持つものも射る。」"
+      "provisionalTranslation": "「全てのものは互いの間に秩序を持つ、\nそしてこれは宇宙を神に\n似せる形である。\n\nここで高い被造物たちは\n永遠の力の痕跡を見る──それは\nこの規範が作られた目的である。\n\n私が言う秩序の中で\n全ての本性は、様々な運命によって、\n自分たちの源により近く、より遠く傾く。\n\nそれぞれが様々な港へと向かう\n存在の大海を通って、そして各々が\nそれを運ぶよう与えられた本能を持つ。\n\nこれが炎を月に向けて運ぶ。\nこれが死すべき心の中の動力である。\nこれが大地を縛り合わせる。\n\nこの弓は知性を持たない被造物だけを\n射るのではなく、\n知性と愛を持つものも射る。」"
     },
     {
       "id": 7,
       "verses": "v.127–142",
       "speaker": "Beatrice",
       "original": "La provedenza, che cotanto assetta,\ndel suo lume fa 'l ciel sempre quieto\nnel qual si volge quel c'ha maggior fretta;\n\ne ora lì, come a sito decreto,\nne porta la virtù di quella corda\nche ciò che scocca drizza in segno lieto.\n\nVero è che, come forma non s'accorda\nmolte fiate a l'intenzion de l'arte,\nperch'a risponder la materia è sorda,\n\ncosì da questo corso si diparte\ntalor la creatura, ch'ha podere\ndi piegar, così pinta, in altra parte;\n\ne sì come veder si può cadere\nfoco di nube, sé la prima impèta\nin terra torce, viziata dal piacere,\n\ncosì la creatura che più presta\na piegar, torce, e par che sua prima\nmossa per orrido strido sia investa.",
-      "provisionalTranslation": "「これほど秩序を整える摂理は\nその光で、常に静かな天を作る\nその中で最も速く動くものが回転する；\n\nそして今あそこへ、定められた場所として、\nあの弦の力が私たちを運ぶ\nそれが放つものを喜ばしい的に向けて真っ直ぐにする。\n\n確かに、形が\n技術の意図に多くの場合に合わないように、\n素材が反応するには耳が遠いために、\n\nそのようにこの軌道からそれることがある\n時として被造物、それは曲げる力を持つ\nそのように押しやられながら別の方向へ；\n\nそして炎が雲から落ちるのが見えるように、\n最初の衝動が快楽によって損なわれて\n地面の方へ逸れるなら、\n\nそのようにして被造物は最も素早く\n曲がり、逸れる、そしてその最初の\n動きは恐ろしい叫びに攻撃されたように見える。」"
+      "provisionalTranslation": "「これほど秩序を整える摂理は\nその光で、常に静かな天を作る──\nその中で最も速く動くものが回転する。\n\nそして今あそこへ、定められた場所として、\nあの弦の力が私たちを運ぶ──\nそれが放つものを喜ばしい的に向けて真っ直ぐにする。\n\n確かに、形が\n技術の意図に多くの場合に合わないように──\n素材が反応するには耳が遠いために──\n\nそのようにこの軌道からそれることがある、\n時として、曲げる力を持つ被造物が\nそのように押しやられながら別の方向へ向かうことで。\n\nそして炎が雲から落ちるのが見えるように──\n最初の衝動が快楽によって損なわれて\n地面の方へ逸れるなら──\n\nそのようにして被造物は曲がり、逸れる。\nそしてその最初の動きは\n恐ろしい叫びに攻撃されたように見える。」"
     }
   ],
   "annotations": [
@@ -92,7 +100,7 @@
       "body": "マルシュアスの神話──オウィディウス『変身譚』VI（382–400）。フリュギアの楽師マルシュアスがアポロに音楽で挑戦して敗れ、生きたまま皮を剥がれた。ダンテはこの残酷な神話を「神的な力による詩人の変容」の比喩として用いる──皮（人間的自己）を剥ぐことで内側の純粋な詩的力が露わになる。天国篇という「最後の仕事」のためにダンテは自己の「人間的な殻」を剥ぎ取られる必要があるという宣言。"
     },
     {
-      "paragraphId": 3,
+      "paragraphId": 4,
       "type": "commentary",
       "anchor": "O voi che siete in piccioletta barca,\ndesiderosi d'ascoltar, seguiti\ndietro al mio legno che cantando varca,\n\ntornate a riveder li vostri liti",
       "body": "「小さな舟」の警告──天国篇で最も有名な読者への呼びかけの一つ。地獄篇・煉獄篇では読者を「旅の仲間」として引き込んでいたダンテが、天国篇では「小さな舟の者は引き返せ」と警告する。これは天国篇の主題的な困難さの宣言であると同時に、「大海（神学・哲学）を知らずに天国を読むと道に迷う」という教育的警告。後にこの「小舟」の比喩はConvivio（饗宴）I.i.7でも使われる──「知識の食卓の恵みを与えられなかった者は小舟に残れ」。"
@@ -118,6 +126,66 @@
       "body": "「全てのものは互いの間に秩序を持つ、そしてこれは宇宙を神に似せる形である」──ベアトリーチェによる宇宙論的秩序の説明。これはCanto XXXIII 最終行「愛が太陽と星々を動かす（l'amor che move il sole e l'altre stelle）」の哲学的基礎。「秩序（ordine）」という語が天国篇全体の構造原理を表す──各天球は神への距離の秩序的表現。この「宇宙＝秩序＝神の似姿」という命題は、Canto VI のユスティニアヌスが鷲の記号を通じて述べる「歴史の秩序」の宇宙論的背景でもある。",
       "targetId": "dante_paradiso_canto_33",
       "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "O buono Appollo, a l'ultimo lavoro\nfammì del tuo valor sì fatto vaso,\ncome dimandi a dar l'amato alloro.",
+      "body": "「善きアポロ（buono Appollo）」への呼びかけ──天国篇の序詩（proem）。地獄篇・煉獄篇はムーサへの呼びかけで始まったが（Inf.II.7「Muse, o alto ingegno」、Purg.I.7「Muse...Calïopè」）、天国篇ではアポロ神自身に直接呼びかける。ムーサよりも上位の神的詩的霊感の源として、天国という最も難しい主題に見合う霊感をアポロに求める。「月桂樹（amato alloro）」はアポロがダフネへの愛から月桂樹と結びついた神話的属性──詩人の冠として「得た月桂樹を与えてくれ」という逆説的な祈願。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Inflio ad or è bastato un giogo solo\ndi Parnàso; ma or con amendue\nm'è uopo intrar ne l'aringo rimaso.",
+      "body": "「これまでは一つのパルナッソスの峰で十分だった（Infino ad or è bastato un giogo solo / di Parnàso）」──パルナッソス山はムーサたちが住む聖山で二つの峰を持つ。一方の峰（キッラ）はアポロとムーサたちに捧げられた詩的霊感の源、もう一方（ニュサ）はバッコスに捧げられた。地獄篇・煉獄篇という「二篇」のために一つの峰で十分だったが、天国篇という最高峰の主題のためには「両方の峰（amendue）」──すなわちムーサの霊感とアポロ神自身の霊感──が必要だという宣言。天国篇の主題的困難さの比喩的提示。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ma da quella\nche quattro cerchi giugne con tre croci,\n\ncon miglior corso e con migliore stella\nesce congiunta,",
+      "body": "「四つの円を三つの十字で接合する場所から（da quella / che quattro cerchi giugne con tre croci）」──春分点の天文学的描写。「四つの円」は赤道・黄道・地平線・赤道環（coluro equinoziale）、「三つの十字」はそれらの交差点。春分の太陽（ダンテが天国への旅を始めた時、太陽は牡羊座にあった）が最も好条件で地上を照らす時刻と場所の描写。中世天文学の精密な語彙が詩的比喩として用いられる──天国篇は自然科学と詩と神学の三者を等しく要求する作品であることを示す冒頭。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "aguglia sì non li s'affisse unquanco.",
+      "body": "「鷲でさえかつてそこにこれほど釘付けにならなかった（aguglia sì non li s'affisse unquanco）」──鷲は古代から太陽を直視できる唯一の鳥とされた（プリニウス「博物誌」X.3）。ベアトリーチェが太陽を鷲を超えて直視するという描写が、彼女の神的本性──あるいはすでに天国的な状態にあること──を示す。天国篇26歌でヨハネが「キリストの鷲」と呼ばれ、天国篇6歌でローマ帝国の紋章が「鷲」であったことと連鎖する詩集横断的なイメージ。",
+      "targetId": "dante_paradiso_canto_26",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'acqua ch'io prendo già mai non si corse;\nMinerva spira, e conducemi Apollo,\ne nove Muse mi dimostran l'Orse.",
+      "body": "「私が取る水はかつて航行されたことがない（L'acqua ch'io prendo già mai non si corse）」──この三行は第4段落と第3段落の末尾に重複して置かれており（v.13–15 と v.112–114）、ダンテが意図的に反復した「航路宣言（proem del canto）」。「ミネルヴァが息吹き込み（Minerva spira）」──学識・知恵の女神、「アポロが私を導き（conducemi Apollo）」──詩的霊感・太陽神、「九人のムーサが私に熊座を示す（nove Muse mi dimostran l'Orse）」──熊座は北極星の近く、航海の基準となる星座。詩人が自らの知性・霊感・ムーサという三つの導きによって前人未踏の「天国という海」を航行することを宣言する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Tu non se' in terra, sì come tu credi;\nma folgore, fuggendo il proprio sito,\nnon corse come tu ch'ad esso riedi».",
+      "body": "「あなたは地上にいない──稲妻が自分の場所から逃げてあなたほど素早く走ったことはない（Tu non se' in terra...ma folgore...non corse come tu）」──ベアトリーチェによる最初の言葉。ダンテが月の天球に既に到達していることを、「稲妻よりも速い上昇」という鮮烈な比喩で告げる。この稲妻の比喩は続く段落7「炎が雲から落ちるのが見えるように（come veder si può cadere / foco di nube）」と対称的──天国に向かう上昇運動（稲妻の比喩）に対し、本来の方向から逸れる堕落（雲から落ちる炎）という対比が天国篇の運動論的枠組みを形成する。",
+      "targetId": "dante_paradiso_canto_01",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "onde si muovono a diversi porti\nper lo gran mar de l'essere, e ciascuna\ncon istinto dato le porta, che la porti.",
+      "body": "「それぞれが様々な港へと向かう存在の大海を通って──各々が本能的に与えられた衝動を持つ（onde si muovono a diversi porti / per lo gran mar de l'essere, e ciascuna / con istinto dato le porta）」──第4段落の「小舟の警告」で使われた「海の航行」の比喩が、ここでは宇宙論的な次元で再登場する。詩人の旅が「海の航行」だったように、あらゆる被造物の運動もまた「存在の海を渡る航行」である──人間的・詩的次元と宇宙的次元が同じ比喩によって照応する。「与えられた本能（istinto dato）」はアリストテレスの「自然の傾向（inclinatio naturalis）」のトマス・アクィナス的解釈。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "ne porta la virtù di quella corda\nche ciò che scocca drizza in segno lieto.",
+      "body": "「あの弦の力が私たちを運ぶ──それが放つものを喜ばしい的に向けて真っ直ぐにする（ne porta la virtù di quella corda / che ciò che scocca drizza in segno lieto）」──「弓と矢」の比喩による神的摂理の描写。神の摂理は弓（arco）であり、被造物を矢として神自身（「喜ばしい的」）へと放つ。この弓の比喩は天国篇26歌でヨハネがダンテに「あなたの弓をそのような的に向けたのは誰か」と問いかける場面と直接的に照応する──天国篇1歌の宇宙論的な弓の比喩が26歌で愛の試験という個人的文脈に再演される。",
+      "targetId": "dante_paradiso_canto_26",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Vero è che, come forma non s'accorda\nmolte fiate a l'intenzion de l'arte,\nperch'a risponder la materia è sorda,",
+      "body": "「形が技術の意図に合わないように──素材が反応するには耳が遠いために（come forma non s'accorda / molte fiate a l'intenzion de l'arte, / perch'a risponder la materia è sorda）」──アリストテレスの「形相（forma）と質料（materia）」の哲学的概念の詩的展開。神（芸術家・技術者）が意図した「形相」を、質料（被造物の物質的側面）が完全に受け取れないことがある──そこから個体差・不完全さ・自由意志が生じる。天国篇1歌の結論として：宇宙の秩序（弓と矢）は完全だが、素材（被造物）が「耳が遠い」ために逸れることがある──これが自由意志と悪の起源の詩的定式化。"
     }
   ]
 }
