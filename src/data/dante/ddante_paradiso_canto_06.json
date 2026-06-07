@@ -1,8 +1,8 @@
 {
-  "id": "dante_paradiso_canto_6",
+  "id": "dante_paradiso_canto_06",
   "title": "Paradiso — Canto VI",
   "author": "Dante Alighieri",
-  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it; Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Paradiso (Princeton UP, 1975); Eco, U., Il segno dei tre (Bompiani, 1983); Eco, U., Semiotica e filosofia del linguaggio (Einaudi, 1984)",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Paradiso/Canto_VI（2026年4月24日版）",
   "year": "1304–1321",
   "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
   "difficulty": "上級",
@@ -11,75 +11,71 @@
   "canto": "VI",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "天国篇第6歌は神曲で最も「歴史的」な歌──東ローマ帝国皇帝ユスティニアヌス1世（483–565）が一人で140行を語り続け、鷲（aquila）の紋章を通じてローマ史全体を要約する。鷲はアエネアスのトロイアからロムルスのローマ建国、カエサルのガリア遠征、アウグストゥスの治世（キリスト降誕・パクス・アウグスタ）、ティトゥスによるエルサレム神殿破壊、コンスタンティヌスの東方遷都まで──一つの視覚的記号が歴史の全体を「運ぶ」。\nユスティニアヌスはまず自身の信仰遍歴（単性論から正統信仰への回心、教皇アガピトゥスによる導き）と立法事業（ローマ法大全の編纂）を語り、次に鷲の記号の歴史を語ることで、帝国の普遍的正統性を論証する。歌の中盤ではグエルフ派（教皇派）とギベリン派（皇帝派）双方への批判が展開される──グエルフはフランス王家の百合の花を鷲に対置させ、ギベリンは鷲を党派の旗印として私物化する──どちらも「公共的な記号の政治的濫用」として糾弾される。\nウンベルト・エーコはこのカントに繰り返し注目した。「鷲」という記号は指示対象（ローマ帝国）なしに流通し続け、その指示対象の意味が歴史によって変容する──これはエーコの動的記号論（記号の意味は解釈の連鎖によって変化する）の詩的先例として機能する。\n歌の末尾にはロメオ・ダ・ヴィッラノーヴァの挿話が置かれる──プロヴァンス伯の四人の娘を各々欧州の王家に嫁がせた宰相が、謀略によって追放され、老いて一口ずつ物乞いをして生きた。鷲の壮大な帝国史の結語として、一人の老いた物乞いの姿が置かれる──記号の普遍的意義と個人の命運の落差という倫理的問題提起が、天国篇の中で最も「詩的」な結末の一つとして機能する。",
+  "context": "天国篇第6歌は神曲で最も「歴史的」な歌──東ローマ帝国皇帝ユスティニアヌス1世（483–565）が一人で140行を語り続け、鷲（aquila）の紋章を通じてローマ史全体を要約する。鷲はアエネアスのトロイアからロムルスのローマ建国、カエサルのガリア遠征、アウグストゥスの治世（キリスト降誕・パクス・アウグスタ）、ティトゥスによるエルサレム神殿破壊、コンスタンティヌスの東方遷都まで──一つの視覚的記号が歴史の全体を「運ぶ」。ユスティニアヌスはまず自身の信仰遍歴（単性論から正統信仰への回心、教皇アガピトゥスによる導き）と立法事業（ローマ法大全の編纂）を語り、次に鷲の記号の歴史を語ることで、帝国の普遍的正統性を論証する。歌の中盤ではグエルフ派（教皇派）とギベリン派（皇帝派）双方への批判が展開される──グエルフはフランス王家の百合の花を鷲に対置させ、ギベリンは鷲を党派の旗印として私物化する──どちらも「公共的な記号の政治的濫用」として糾弾される。歌の末尾にはロメオ・ダ・ヴィッラノーヴァの挿話が置かれる──プロヴァンス伯の四人の娘を各々欧州の王家に嫁がせた宰相が、謀略によって追放され、老いて一口ずつ物乞いをして生きた。鷲の壮大な帝国史の結語として、一人の老いた物乞いの姿が置かれる──記号の普遍的意義と個人の命運の落差という倫理的問題提起が、天国篇の中で最も詩的な結末の一つとして機能する。",
   "keywords": [
-    "鷲",
-    "ユスティニアヌス",
-    "ローマ史",
-    "記号論",
-    "エーコ",
-    "帝国制",
-    "aquila",
-    "グエルフ",
-    "ギベリン",
-    "記号の歴史",
-    "水星の天"
+    "ユスティニアヌス", "鷲の記号", "ローマ帝国史", "アガピトゥス", "単性論",
+    "グエルフ", "ギベリン", "ロメオ・ダ・ヴィッラノーヴァ", "ベリサリウス",
+    "コンスタンティヌス", "パクス・アウグスタ", "ヤヌス神殿", "水星の天"
   ],
   "relatedTexts": [
-    "dante_paradiso_canto_1",
-    "dante_paradiso_canto_26",
-    "dante_inferno_canto_26"
+    "dante_paradiso_canto_01",
+    "dante_paradiso_canto_26"
   ],
   "paragraphs": [
     {
       "id": 1,
       "verses": "v.1–27",
       "speaker": "Giustiniano",
-      "original": "«Poscia che Costantin l'aquila volse\ncontra 'l corso del ciel, ch'ella seguio\ndietro a l'antico che Lavina tolse,\n\ncento e cent'anni e più l'uccel di Dio\nne lo stremo d'Europa si ritenne,\nvicino a' monti de' quai prima uscìo;\n\ne sotto l'ombra de le sacre penne\ngovernò 'l mondo lì di mano in mano,\ne, sì cangiando, in su la mia pervenne.\n\nCesar fui e son Iustinïano,\nche, per voler del primo amor ch'i' sento,\nd'entro le leggi trassi il troppo e 'l vano.\n\nE prima ch'io a l'ovra fossi attento,\nuna natura in Cristo esser, non piùe,\ncredea, e di tal fede era contento;\n\nma 'l benedetto Agapito, che fue\nsommo pastore, a la fede sincera\nmi dirizzò con le parole sue.\n\nIo li credetti; e ciò che 'n sua fede era,\nio veggio or chiaro sì, come tu vedi\nogni contradizione e falsa e vera.\n\nTosto che con la Chiesa mossi i piedi,\na Dio per grazia piacque di spirarmi\nl'alto lavoro, e tutto 'n lui mi diedi.",
-      "provisionalTranslation": "「コンスタンティヌスが鷲を向け変えた後、\n天の進路に逆らって──その鷲がかつて\nラウィニアを娶ったアエネアスの後を追ってきた方向と反対に──、\n\n神の鳥は百年以上\nヨーロッパの端に留まった、\n最初に出てきた山々の近くに隣接して。\n\n聖なる翼の影の下で\n世界はそこで手から手へと治められた、\nそして、そのように変わりながら、私の手に渡った。\n\nカエサルだったが、今はユスティニアヌスだ、\n私が感じる第一の愛の意志によって、\n法律の中から余分なものと無益なものを取り除いた。\n\n仕事に専念する前は、\nキリストの中に一つの本性のみがあると\n私は信じていた、そしてその信仰に満足していた。\n\nしかし祝福されたアガピトゥス──かつて\n最高の牧者だった者──が、真の信仰へと\n自分の言葉で私を向け直した。\n\n私は彼を信じた。そして彼の信仰の中にあったものを、\n今私は見る、あなたが\n全ての矛盾を偽と真に見るように明確に。\n\n教会と共に歩み始めるとすぐに、\n神は恵みによって私に吹き込むことを喜んだ\nその高い仕事を、そして私は全力でそれに捧げた。」"
+      "original": "«Poscia che Costantin l'aquila volse\ncontr' al corso del ciel, ch'ella seguio\ndietro a l'antico che Lavina tolse,\n\ncento e cent' anni e più l'uccel di Dio\nne lo stremo d'Europa si ritenne,\nvicino a' monti de' quai prima uscìo;\n\ne sotto l'ombra de le sacre penne\ngovernò 'l mondo lì di mano in mano,\ne, sì cangiando, in su la mia pervenne.\n\nCesare fui e son Iustinïano,\nche, per voler del primo amor ch'i' sento,\nd'entro le leggi trassi il troppo e 'l vano.\n\nE prima ch'io a l'ovra fossi attento,\nuna natura in Cristo esser, non piùe,\ncredea, e di tal fede era contento;\n\nma 'l benedetto Agapito, che fue\nsommo pastore, a la fede sincera\nmi dirizzò con le parole sue.\n\nIo li credetti; e ciò che 'n sua fede era,\nvegg' io or chiaro sì, come tu vedi\nogni contradizione e falsa e vera.\n\nTosto che con la Chiesa mossi i piedi,\na Dio per grazia piacque di spirarmi\nl'alto lavoro, e tutto 'n lui mi diedi;\n\ne al mio Belisar commendai l'armi,\ncui la destra del ciel fu sì congiunta,\nche segno fu ch'i' dovessi posarmi.",
+      "provisionalTranslation": "「コンスタンティヌスが鷲を向け変えた後──\n天の進路に逆らって、その鷲がかつて\nラウィニアを娶った古い者の後を追ってきた方向と反対に──\n\n百年以上、神の鳥は\nヨーロッパの端に留まった、\n最初に出てきた山々の近くに隣接して。\n\nそして聖なる翼の影の下で\n世界はそこで手から手へと治められた、\nそして、そのように変わりながら、私の手に渡った。\n\nカエサルだったが、今はユスティニアヌスだ、\n私が感じる第一の愛の意志によって、\n法律の中から余分なものと無益なものを取り除いた。\n\n仕事に専念する前は、\nキリストの中に一つの本性のみがあると\n私は信じていた、そしてその信仰に満足していた。\n\nしかし祝福されたアガピトゥス──かつて\n最高の牧者だった者──が、真の信仰へと\n自分の言葉で私を向け直した。\n\n私は彼を信じた。そして彼の信仰の中にあったものを、\n今私は見る──あなたが\n全ての矛盾を偽と真に見るように明確に。\n\n教会と共に歩み始めるとすぐに、\n神は恵みによって私に吹き込むことを喜んだ\nその高い仕事を、そして私は全力でそれに捧げた。\n\n私はベリサリウスに私の軍事指揮を委ねた、\n彼には天の右手がこれほど結びついていたので、\n私はその記号を平和の中に留めておくべきだった。」"
     },
     {
       "id": 2,
-      "verses": "v.28–54",
+      "verses": "v.28–81",
       "speaker": "Giustiniano",
-      "original": "«Ala mio Belisar commendai,\ncui la destra del ciel fu sì congiunta,\nch'io dovea quïetar mi a quel segno.\n\nOr qui a la question prima s'appunta\nla mia risposta; ma sua condizione\nmi stringe a seguitare alcuna giunta,\n\nperché tu veggi con quanta ragione\nsi move contr'al sacrosanto segno\ne chi 'l s'appropria e chi a lui s'oppone.\n\nVedi quanta virtù l'ha fatto degno\ndi reverenza; e cominciò da l'ora\nche Pallante morì per darli regno.\n\nTu sai ch'el fece in Alba sua dimora\nper trecento anni e oltre, infino al fine\nquand'i tre a' tre pugnar per lui ancora.\n\nE sai ch'el fé dal mal de le Sabine\nal dolor di Lucrezia in sette regi,\nvincendo i popoli dintorno vicine.\n\nSai quel ch'el fé portato da' Romani\nillustri contro Brenno, contro Pirro,\ncontro li altri principi e collani;\n\nonde Torquato e Quinzio, che dal cirro\nneglietto fu nomato, i Deci e ' Fabi\nebbero la fama che volontier mirro.\n\nEssa atterrò l'orgoglio de li Arabi\nche di retro ad Annibale passaro\nl'alpestre rocce, Po di che tu labi.",
-      "provisionalTranslation": "「私はベリサリウスに私の軍事指揮を委ねた、\n彼には天の右手がこれほど結びついていたので、\n私はその記号を平和の中に留めておくべきだった。\n\n今ここで最初の問いに\n私の答えは向かう。しかしその状況が\n私にある追加を続けることを強いる、\n\nあなたが見られるように、どれほど多くの理由から\n神聖な記号に逆らって動くのかを──\n自分のものにする者と、それに反対する者の両方が。\n\n見よ、どれほどの美徳がそれをどれほど\n敬意に値するものにしたかを。パランテスが\nそれに王国を与えるために死んだ時から始まった。\n\nあなたは知っている、それがアルバに三百年以上\n住み、最後まで続いたことを、\n三対三が再びそれのために戦った時まで。\n\nサビニ女の掠奪から\nルクレティアの悲しみへと七人の王の時代に\n周囲の民族を征服しながら、鷲が何をしたか知っている。\n\nローマの英雄たちによって運ばれて\nブレンヌスに対し、ピュロスに対し、\n他の君主たちと集団に対して何をしたか知っている。\n\nそこでトルクアトゥスとキンキナトゥスが、\nデキウスたちとファビウスたちが\n私が喜んで不滅にしたい名声を得た。\n\nそれはカルタゴ人の傲慢を打ち倒した、\n彼らはアンニバレの後ろに続いて\nアルプスの岩を越えた、そこからポー川が滑り降りる。」"
+      "original": "Or qui a la question prima s'appunta\nla mia risposta; ma sua condizione\nmi stringe a seguitare alcuna giunta,\n\nperché tu veggi con quanta ragione\nsi move contr' al sacrosanto segno\ne chi 'l s'appropria e chi a lui s'oppone.\n\nVedi quanta virtù l'ha fatto degno\ndi reverenza; e cominciò da l'ora\nche Pallante morì per darli regno.\n\nTu sai ch'el fece in Alba sua dimora\nper trecento anni e oltre, infino al fine\nche i tre a' tre pugnar per lui ancora.\n\nE sai ch'el fé dal mal de le Sabine\nal dolor di Lucrezia in sette regi,\nvincendo intorno le genti vicine.\n\nSai quel ch'el fé portato da li egregi\nRomani incontro a Brenno, incontro a Pirro,\nincontro a li altri principi e collegi;\n\nonde Torquato e Quinzio, che dal cirro\nneglettofu nomato, i Deci e ' Fabi\nebber la fama che volontier mirro.\n\nEsso atterrò l'orgoglio de li Aràbi\nche di retro ad Anibale passaro\nl'alpestre rocce, Po, di che tu labi.\n\nSott' esso giovanetti trïunfaro\nScipïone e Pompeo; e a quel colle\nsotto 'l qual tu nascesti parve amaro.\n\nPoi, presso al tempo che tutto 'l ciel volle\nredur lo mondo a suo modo sereno,\nCesare per voler di Roma il tolle.\n\nE quel che fé da Varo infino a Reno,\nIsara vide ed Era e vide Senna\ne ogne valle onde Rodano è pieno.\n\nQuel che fé poi ch'elli uscì di Ravenna\ne saltò Rubicon, fu di tal volo,\nche nol seguiteria lingua né penna.\n\nInver' la Spagna rivolse lo stuolo,\npoi ver' Durazzo, e Farsalia percosse\nsì ch'al Nil caldo si sentì del duolo.\n\nAntandro e Simoenta, onde si mosse,\nrivide e là dov' Ettore si cuba;\ne mal per Tolomeo poscia si scosse.\n\nDa indi scese folgorando a Iuba;\nonde si volse nel vostro occidente,\ndove sentia la pompeana tuba.\n\nDi quel che fé col baiulo seguente,\nBruto con Cassio ne l'inferno latra,\ne Modena e Perugia fu dolente.\n\nPiangene ancor la trista Cleopatra,\nche, fuggendoli innanzi, dal colubro\nla morte prese subitana e atra.\n\nCon costui corse infino al lito rubro;\ncon costui puose il mondo in tanta pace,\nche fu serrato a Giano il suo delubro.",
+      "provisionalTranslation": "「今ここで最初の問いに\n私の答えは向かう。しかしその状況が\n私にある追加を続けることを強いる、\n\nあなたが見られるように、どれほど多くの理由から\n神聖な記号に逆らって動くのかを──\n自分のものにする者と、それに反対する者の両方が。\n\n見よ、どれほどの美徳がそれをどれほど\n敬意に値するものにしたかを。パランテスが\nそれに王国を与えるために死んだ時から始まった。\n\nあなたは知っている、それがアルバに三百年以上\n住み、最後まで続いたことを、\n三対三が再びそれのために戦った時まで。\n\nサビニ女の掠奪から\nルクレティアの悲しみへと七人の王の時代に\n周囲の民族を征服しながら、鷲が何をしたか知っている。\n\nローマの英雄たちによって運ばれて\nブレンヌスに対し、ピュロスに対し、\n他の君主たちと集団に対して何をしたか知っている。\n\nそこでトルクアトゥスとキンキナトゥスが──\n無視された巻き毛から名付けられた──デキウスたちとファビウスたちが\n私が喜んで不滅にしたい名声を得た。\n\nそれはカルタゴ人の傲慢を打ち倒した、\n彼らはアンニバレの後ろに続いて\nアルプスの岩を越えた、そこからポー川が滑り降りる。\n\nその下で若きスキピオとポンペイウスが凱旋し、\nそしてあなたが生まれた丘のもとでは\nそれは苦く思われた。\n\n次の担い手アウグストゥスがしたことについて──\n天全体が世界を\n自らの穏やかな様式に還元することを望んだ時──\n\nヴァロから、ライン川に至るまで彼が行ったこと、\nイザラが見た、エラが見た、セーヌが見た、\nそしてローダノスが満たす全ての谷が。\n\nラヴェンナを出て\nルビコン川を越えた後に彼がしたことは、それほどの飛翔で、\n言葉も筆も追いつかないほどだった。\n\n軍隊をスペインの方へ向け、\nそれからドゥラッツォへ、ファルサリアを打った──\nそれほどの苦悩が熱いナイル川まで感じられた。\n\n出発したアンタンドロスとシモエンタを\n再び見た、そしてヘクトルが眠る場所を。\nそれからプトレマイオスのために悪く動いた。\n\nそこからユバへと稲妻のように降りた。\nそれからあなた方の西の方へ向いた、\nそこではポンペイウスの号令の音を聞いていた。\n\nその次の担い手と共に行ったことについて、\nブルートゥスとカッシウスは地獄で吠え、\nモデナとペルージャは悲しんだ。\n\nまだあの悲しいクレオパトラも泣いている、\n彼女は彼の前から逃げながら、蛇から\n突然の暗い死を受け取った。\n\nこの者と共に鷲は紅海の岸まで走った。\nこの者と共に世界をこれほどの平和に置いた、\nそのためヤヌスの聖所は閉ざされた。」"
     },
     {
       "id": 3,
-      "verses": "v.55–81",
+      "verses": "v.82–96",
       "speaker": "Giustiniano",
-      "original": "«Sotto cotesto segno glorïoso\nScipio, Pompeo e Cesare, e Catone—\ne Bruto e Cassio ne lo 'nferno latraro.\n\nDi quel che fe' col baiulo seguente,\nBruto con Cassio ne lo 'nferno latra,\ne Modena e Perugia fu dolente.\n\nDi quella ancor s'attrista Cleopatra,\nche, fuggendone innanzi, dal colubro\nla morte prese subitana e atra.\n\nCon costui corse infino al lito rubro;\ncon costui pose il mondo in tanta pace,\nche fu serrato a Giano il suo delubro.\n\nMa ciò che 'l segno che parlar mi face\nfatto aveva prima e poi era erto\nfarsi, in contraro aspetto sì si tace\n\nse 'l regno di Morea diventasse certo\nnella man del secondo Federico,\ne altro ch'egli o lui fosse al governo;\n\nleggiero è intender quale è fatto\nil mio gioir nel veder come stella\ncade giù del segno, e quanto alto\n\nvola il mio pensiero, e che 'l segno\nch'ora porta la pallida memoria\ndella matre che pianse il lor gran pegno».",
-      "provisionalTranslation": "「この栄光ある記号の下に\nスキピオとポンペイウスとカエサルとカトーが──\nブルートゥスとカッシウスは地獄で吠える。\n\n次の担い手アウグストゥスがしたことについて、\nブルートゥスとカッシウスは地獄で吠え、\nモデナとペルージャは悲しんだ。\n\nそのことでまだクレオパトラも悲しむ、\n彼女はその前から逃げながら、蛇から\n突然の暗い死を受け取った。\n\nアウグストゥスと共に鷲は紅海の岸まで走った。\n彼と共に世界をこれほどの平和に置いた、\nそのためヤヌスの聖所は閉ざされた。\n\nしかし、私を語らせる記号が\n以前にしたことと後に行うことは、\n反対の眼差しからは沈黙させられる──\n\nもしモレアの王国が確かに\n第二のフェデリコの手になるなら、\nあるいは彼か彼以外の者が統治するなら。\n\n何が行われたかを理解することは容易だ、\n記号が星のように落ちるのを見る私の喜びの中で\nどれほど高く\n\n私の考えが翔び、記号が\n今や運ぶ青ざめた記憶を──\n彼らの大きな誓いを泣いた母の。」"
+      "original": "Ma ciò che 'l segno che parlar mi face\nfatto avea prima e poi era fatturo\nper lo regno mortal ch'a lui soggiace,\n\ndiventa in apparenza poco e scuro,\nse in mano al terzo Cesare si mira\ncon occhio chiaro e con affetto puro;\n\nché la viva giustizia che mi spira,\nli concedette, in mano a quel ch'i' dico,\ngloria di far vendetta a la sua ira.\n\nOr qui t'ammira in ciò ch'io ti replìco:\nposcia con Tito a far vendetta corse\nde la vendetta del peccato antico.\n\nE quando il dente longobardo morse\nla Santa Chiesa, sotto le sue ali\nCarlo Magno, vincendo, la soccorse.",
+      "provisionalTranslation": "「しかし、私に語らせる記号が\n以前にしたことと後に行うことは、\n従属する死すべき王国のために──\n\n第三のカエサルの手にそれを見るなら\n明晰な眼と純粋な愛情でもって見ると\n外見上は小さく暗く見える。\n\nなぜなら私を吹き込む生きた正義が\n私が言う者の手の中に、\n自らの怒りへの復讐をなす栄光を与えたから。\n\n今ここで私が繰り返すことに驚け──\nそれからティトゥスと共に走って復讐をしに行った\n古い罪の復讐の復讐のために。\n\nそしてロンゴバルドの牙が\n聖なる教会を噛んだ時、その翼の下で\nシャルルマーニュが、勝ちながら、教会を救った。」"
     },
     {
       "id": 4,
-      "verses": "v.82–111",
+      "verses": "v.97–126",
       "speaker": "Giustiniano",
-      "original": "«Con Tito a far vendetta corse\ndella vendetta del peccato antico;\ne poi che 'l dente longobardo morse\n\nla Santa Chiesa, sotto le sue ali\nCarlomagno, vincendo, la soccorse.\n\nOmai puoi giudicar di quei cotali\nch'io accusai di sopra e di lor falli,\nche son cagion di tutti vostri mali.\n\nL'uno al pubblico segno i gigli gialli\noppone, e l'altro appropria quello a parte,\nsì ch'è forte a veder chi più si falli.\n\nFaccian li Ghibellin, faccian lor arte\nsott'altro segno, ché mal segue quello\nsempre chi la giustizia e lui diparte;\n\ne non l'abbatta esto Carlo novello\ncoi Guelfi suoi, ma tema de li artigli\nch'a più alto leon trasser lo vello.\n\nMolte fïate già pianser li figli\nper la colpa del padre, e non si creda\nche Dio trasmuti l'armi per suoi gigli.\n\nQuesta picciola stella si correda\nde' buoni spirti che son stati attivi\nperché onore e fama li succeda:\n\ne quando li disiri poggian quivi,\nsì disvïando, pur convien che i raggi\ndel vero amore in sù poggin men vivi.\n\nMa nel commensurar d'i nostri gaggi\ncol merto è parte di nostra letizia,\nperché non li vedem minor né maggi.",
-      "provisionalTranslation": "「ティトゥスと共に鷲は走った、\n古い罪の復讐の復讐をするために。\nそしてロンゴバルドの牙が\n\n聖なる教会を噛んだ後、その翼の下で\nシャルルマーニュが、勝ちながら、教会を救った。\n\n今あなたは上で私が非難したあの者たちを\nそして彼らの過ちを判断できる、\nそれらがあなた方全ての不幸の原因である。\n\n一方のグエルフは公の記号に黄色い百合の花を対置させ、\n他方のギベリンはそれを党派のものとして自分のものにする、\nどちらがより多く過ちを犯すか見るのは難しい。\n\nギベリン党は自分たちの技を他の記号の下でやれ、\nなぜなら常に間違って記号を追うのは\n正義とそれを分けてしまう者だから。\n\nそしてこの新しいカルロ2世が\nグエルフ党と共にそれを引き倒さないようにせよ、\nより高い獅子から羊の毛を剥いだその爪を恐れよ。\n\n多くの場合、子供たちは父親の罪のために泣いた、\nそして神が自分の百合の花のために武器を変えると\n思うべきでない。\n\nこの小さな星は\n善き霊たちで飾られている、名誉と名声が\n自分たちに続くようにと活動的だった者たちで。\n\nそして欲望がそのようにそこへ向かう時、\nそのように逸れながら、真の愛の光線が\n上へ登るのは必然的に活力を失う。\n\nしかし私たちの報酬を\n功績と比べる中に私たちの喜びの一部がある、\nなぜならそれらをより少なくも多くも見ないから。」"
+      "original": "Omai puoi giudicar di quei cotali\nch'io accusai di sopra e di lor falli,\nche son cagion di tutti vostri mali.\n\nL'uno al pubblico segno i gigli gialli\noppone, e l'altro appropria quello a parte,\nsì ch'è forte a veder chi più si falli.\n\nFaccian li Ghibellin, faccian lor arte\nsott' altro segno, ché mal segue quello\nsempre chi la giustizia e lui diparte;\n\ne non l'abbatta esto Carlo novello\ncoi Guelfi suoi, ma tema de li artigli\nch'a più alto leon trasser lo vello.\n\nMolte fïate già pianser li figli\nper la colpa del padre, e non si creda\nche Dio trasmuti l'armi per suoi gigli!\n\nQuesta picciola stella si correda\nd'i buoni spirti che son stati attivi\nperché onore e fama li succeda:\n\ne quando li disiri poggian quivi,\nsì disvïando, pur convien che i raggi\ndel vero amore in sù poggin men vivi.\n\nMa nel commensurar d'i nostri gaggi\ncol merto è parte di nostra letizia,\nperché non li vedem minor né maggi.\n\nQuindi addolcisce la viva giustizia\nin noi l'affetto sì, che non si puote\ntorcer già mai ad alcuna nequizia.\n\nDiverse voci fanno dolci note;\ncosì diversi scanni in nostra vita\nrendon dolce armonia tra queste rote.",
+      "provisionalTranslation": "「今あなたは上で私が非難したあの者たちと\n彼らの過ちを判断できる、\nそれらがあなた方全ての不幸の原因である。\n\n一方は公の記号に黄色い百合の花を対置させ、\n他方はそれを党派のものとして自分のものにする、\nどちらがより多く過ちを犯すか見るのは難しい。\n\nギベリン党は自分たちの技を他の記号の下でやれ、\nなぜなら常に間違って記号を追うのは\n正義とそれを分けてしまう者だから。\n\nそしてこの新しいカルロが\nグエルフ党と共にそれを引き倒さないようにせよ、\nより高い獅子から羊の毛を剥いだその爪を恐れよ。\n\n多くの場合、子供たちは父親の罪のために泣いた、\nそして神が自分の百合の花のために武器を変えると\n思うべきでない。\n\nこの小さな星は\n善き霊たちで飾られている──名誉と名声が\n自分たちに続くようにと活動的だった者たちで。\n\nそして欲望がそのようにそこへ向かう時、\nそのように逸れながら、真の愛の光線が\n上へ登るのは必然的に活力を失う。\n\nしかし私たちの報酬を\n功績と比べる中に私たちの喜びの一部がある、\nなぜならそれらをより少なくも多くも見ないから。\n\nここでは生きた正義が\n私たちの中の愛情を甘くするので、\nいかなる不正義へも曲げることができない。\n\n様々な声が甘い音調をなす。\nそのように私たちの命の中の様々な座が\nこれらの輪の間に甘い調和をもたらす。」"
     },
     {
       "id": 5,
-      "verses": "v.112–126",
-      "speaker": "Giustiniano",
-      "original": "«Qui si vive e gode\ndella merce del nostro merto,\ne la cagion per che 'l dimando quinci,\n\nquella della qual mi dimandasti,\nRomeo, di cui fu l'opra grande e bella\ndispregïata: ma i Provenzal che fenno\n\ncontr'a lui non hanno riso l'ultimo; e però\ncattiva parte prese colui che trasse\na torto tal per danno suo valore.\n\nQuattro figlie ebbe, e ciascuna reina,\nRamondoBeringhiere; e ciò li fece\nRomeo, persona umìle e peregrina.\n\nE poi il mosser le parole biece\na dimandar ragione a questo giusto,\nche li assegnò sette e cinque per diece:\n\nindi partissi povero e vetusto;\ne se 'l mondo sapesse il cor ch'elli ebbe\nmendïcando sua vita a frusto a frusto,\n\nassai lo loda, e più lo loderebbe».",
-      "provisionalTranslation": "「ここでは生きて喜ぶ、\n私たちの功績の報酬から。\nそして私がここで語る理由がある──\n\nあなたが私に尋ねたことについての答え、\nロメオについて──その大きく美しい仕事が\n貶められた。しかし彼に逆らって行ったことの\n\nプロヴァンス人たちは最後には笑わなかった。したがって\n彼を追い出した者は不正にそのような力を\n自分の損害のために用いて悪い部分を取った。\n\nラモンド・ベレンゲルは四人の娘を持ち、各々が王妃だった。\nそしてこれをロメオがした、\n卑しくて巡礼者の身分の人物が。\n\nそれから曲がった言葉が彼を動かして\nこの正しい者に説明を要求させた、\n彼に七と五を十として割り当てた者に。\n\nそれから彼は貧しく老いて去った。\nそして世界が彼が持った心を知っていたなら──\n一口ずつ自分の生活を物乞いしながら──\n\n十分に彼を称えるだろう、そしてより多く称えるだろう。」"
-    },
-    {
-      "id": 6,
       "verses": "v.127–142",
-      "speaker": "Dante-narratore",
-      "original": "Poi ch'ebbe lasciato sì parlare,\nsi era rivolto al sol, che si veste,\ne cantando vanìo come per acqua\n\ncolor profondo. Ahi, quanto a dir qual era\nè cosa dura! e a parlare è forte\ndir quel che vide in quella luce pura.\n\nO Beatrice, dolce guida e cara!\nquanto non tacque, tacque tanto e più:\ntanto mi fé del suo trovar la chiera!\n\nFece mi sì ch'io volsi li occhi miei\nver' lei; e fu tale il mirare\nch'altro voler non mi si fece intero.\n\nPoi ella a me: «Volgiti e ascolta;\nché non pur ne' miei occhi è paradiso».\nCome si può trovare nel suo volto,\n\nquanto amor dolce di mio cor fu preso,\ne come poi si libera il gusto—\nquando or ne li occhi ne li ebbi fisso.",
-      "provisionalTranslation": "彼が語り終えた後、\n太陽の方に向き直った。そして\n水を通るように歌いながら消えた、\n\n深い色の中へ。ああ、それがいかなるものだったか言うのは\n何と難しいことか！あの純粋な光の中に\n見たものを語るのは難しい。\n\nああ、ベアトリーチェよ、甘くて大切な案内者よ！\n彼女が黙らなかったこと、これほど黙った、それ以上も──\n彼女の応答の顔が私にこれほどのものを与えた！\n\n彼女は私に自分の目を\n彼女の方へ向けさせた。そして見ることはこのようなものだった──\n他の意志が私の中で完全には成立しなかったほど。\n\nそれから彼女は私に言った：「向き直って聴け、\n天国は私の目の中だけにあるのではない。」\n彼女の顔の中でどのように見つけることができるか、\n\nどれほど甘い愛が私の心を捕らえたか、\nそしてその後どのように味が自由になるか──\n今彼女の目の中に目を固定した時に。"
+      "speaker": "Giustiniano",
+      "original": "E dentro a la presente margarita\nluce la luce di Romeo, di cui\nfu l'ovra grande e bella mal gradita.\n\nMa i Provenzai che fecer contra lui\nnon hanno riso; e però mal cammina\nqual si fa danno del ben fare altrui.\n\nQuattro figlie ebbe, e ciascuna reina,\nRamondo Beringhiere, e ciò li fece\nRomeo, persona umìle e peregrina.\n\nE poi il mosser le parole biece\na dimandar ragione a questo giusto,\nche li assegnò sette e cinque per diece,\n\nindi partissi povero e vetusto;\ne se 'l mondo sapesse il cor ch'elli ebbe\nmendicando sua vita a frusto a frusto,\n\nassai lo loda, e più lo loderebbe».",
+      "provisionalTranslation": "「そしてこの真珠の中に\nロメオの光が輝く──その大きく美しい仕事が\n感謝されなかった者。\n\nしかし彼に逆らって行ったプロヴァンス人たちは\n最後には笑わなかった。したがって\n他人の善き行いを自分の損害にする者は悪い道を行く。\n\nラモンド・ベレンゲルは四人の娘を持ち、各々が王妃だった。\nそしてこれをロメオがした、\n卑しくて巡礼者の身分の人物が。\n\nそれから曲がった言葉が動かして\nこの正しい者に説明を要求させた、\n彼に七と五を十として割り当てた者に。\n\nそれから彼は貧しく老いて去った。\nそして世界が彼が持った心を知っていたなら──\n一口ずつ自分の生活を物乞いしながら──\n\n十分に彼を称えるだろう、そしてより多く称えるだろう。」"
     }
   ],
   "annotations": [
-    {
+       {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Poscia che Costantin l'aquila volse\ncontra 'l corso del ciel",
       "body": "コンスタンティヌスの「鷲の転向」──ダンテはコンスタンティヌスがコンスタンティノープルへ遷都した（330年）ことを「鷲を天の進路に逆らわせた」と批判する。鷲（aquila）はローマ帝国の象徴的記号──その記号が「西」（ローマ・イタリア）から「東」へ移動することは、帝国の正統性の移動として記号論的に読まれる。ダンテの帝国論では、ローマ帝国の正統性はイタリア（ローマ）に留まるべきだという前提がある。記号の地理的移動が政治的意味の変容を生む。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "l'antico che Lavina tolse,",
+      "body": "「ラウィニアを娶った古い者（l'antico che Lavina tolse）」──アエネアス。ウェルギリウス「アエネイス」においてトロイア人アエネアスはラティウム王ラティヌスの娘ラウィニアと婚姻し、ローマの祖となった。ダンテは帝国の記号（鷲）の旅をアエネアスのトロイアからの旅と同一視する──鷲の記号はアエネアスとともにトロイアからイタリアへ来て、コンスタンティヌスによって東へ逆転した。「天の進路に逆らって（contr' al corso del ciel）」という表現が東への移動を宇宙的な逆行として批判する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "ma 'l benedetto Agapito, che fue\nsommo pastore, a la fede sincera\nmi dirizzò con le parole sue.",
+      "body": "「祝福されたアガピトゥス（benedetto Agapito）」──教皇アガピトゥス1世（在位535–536年）。ユスティニアヌスを単性論（キリストには神性のみがあり人性は神性に吸収されるという異端）から正統信仰へと導いた人物。歴史的には教皇アガピトゥスは534年にコンスタンティノープルを訪問し、単性論者の総主教アンティムスの罷免に成功した。ダンテはこの歴史的事実を「教会の権威が皇帝の信仰を正した」という帝国と教会の適切な協力関係の範例として詩化する。"
     },
     {
       "paragraphId": 2,
@@ -88,18 +84,28 @@
       "body": "鷲の記号の歴史的起源──パランテス（Pallas、ウェルギリウス『アエネイス』XI でアエネアスのために戦死した若い英雄）の死からローマ帝国の象徴としての鷲の歴史が始まる。ユスティニアヌスの語りは詩的な圧縮による歴史要約──アルバ・ロンガのホラティウス兄弟・サビニ女掠奪・ルクレティアの悲劇・カルタゴのアンニバレ──という八百年にわたるローマ史が一つの記号（鷲）の「旅」として語られる。エーコの言う「記号は使用の歴史を蓄積する」という動的記号論の詩的先例。"
     },
     {
-      "paragraphId": 4,
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "onde Torquato e Quinzio, che dal cirro\nneglettofu nomato, i Deci e ' Fabi\nebber la fama che volontier mirro.",
+      "body": "「トルクアトゥスとキンキナトゥス、デキウスたちとファビウスたち（Torquato e Quinzio...i Deci e ' Fabi）」──ローマ共和制の英雄列伝。「トルクアトゥス」はガリア人との一騎打ちでトルク（首飾り）を奪い名を得た英雄（紀元前361年）。「キンキナトゥス（Quinzio）」は「無視された巻き毛（cirro negletto）」から名付けられた農夫出身の独裁官（紀元前458年）。「デキウスたち」は父子二代にわたり戦場で自らを神々に捧げて死んだ英雄。「ファビウスたち」はカルタゴのアンニバレに対する持久戦略で知られるファビウス・マクシムス。"
+    },
+    {
+      "paragraphId": 2,
       "type": "commentary",
-      "anchor": "«Con Tito a far vendetta corse\ndella vendetta del peccato antico;",
-      "body": "「古い罪の復讐の復讐」──ティトゥス帝（在位79–81年）によるエルサレム神殿破壊（70年）。ダンテの解釈では：① キリスト（無実）が罰せられたのはアダムの罪（原罪）の「復讐」。② しかしキリストを罰したことはそれ自体として「復讐」されなければならない。③ ティトゥスによるエルサレム破壊が「復讐の復讐」。「鷲（ローマ帝国）が神の意志の道具として機能する」という神学的=政治的命題。Canto XXVI のアダムの原罪（言語の堕落）との連鎖──どちらも「最初の罪の歴史的帰結」を扱う。",
-      "targetId": "dante_paradiso_canto_26",
-      "targetParagraphId": 3
+      "anchor": "Con costui corse infino al lito rubro;\ncon costui puose il mondo in tanta pace,\nche fu serrato a Giano il suo delubro.",
+      "body": "「紅海の岸まで走った（corse infino al lito rubro）──ヤヌスの聖所は閉ざされた（fu serrato a Giano il suo delubro）」──アウグストゥス治世下での帝国の東方拡大と「パクス・アウグスタ」。ローマのヤヌス神殿の扉は戦時に開かれ、平和時に閉じられた。「パクス・アウグスタ（アウグストゥスの平和）」の時代にヤヌス神殿が閉じられたことは、キリストの降誕が平和の時代に起きたという神学的解釈と結びつく──帝国の平和が救済の準備を整えた。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "poscia con Tito a far vendetta corse\nde la vendetta del peccato antico.",
+      "body": "「それからティトゥスと共に走って復讐をしに行った、古い罪の復讐の復讐のために（poscia con Tito a far vendetta corse / de la vendetta del peccato antico）」──ティトゥス帝（在位79–81年）によるエルサレム神殿破壊（70年）への言及。「古い罪の復讐の復讐」という二重の復讐の論理：キリストの磔はアダムの原罪（古い罪）への神の正義による罰であり、ティトゥスによるエルサレム破壊はその磔（キリスト殺し）への復讐──という神学的解釈。"
     },
     {
       "paragraphId": 4,
-      "type": "prosody",
+      "type": "commentary",
       "anchor": "L'uno al pubblico segno i gigli gialli\noppone, e l'altro appropria quello a parte,\nsì ch'è forte a veder chi più si falli.",
-      "body": "「一方は公の記号に黄色い百合の花を対置させ、他方はそれを党派のものとして自分のものにする（L'uno al pubblico segno i gigli gialli / oppone, e l'altro appropria quello a parte）」──グエルフ（教皇派・フランス王家の百合）とギベリン（皇帝派・鷲）の対立を「記号の戦争」として描く。エーコはこの場面を「記号の政治的濫用」の最初期の理論的記述の一つとして評価する──本来「公共的な（pubblico）記号」が党派的に「私物化（appropria）」される過程。現代のロゴマーク・旗・シンボルの政治的濫用問題の中世的原型。"
+      "body": "「一方は公の記号に黄色い百合の花を対置させ、他方はそれを党派のものとして自分のものにする（L'uno al pubblico segno i gigli gialli / oppone, e l'altro appropria quello a parte）」──グエルフ派（フランス王家の百合＝gigli gialli）とギベリン派（鷲を党派の旗印として私物化）への同時批判。ダンテにとって鷲は「公共の記号」──どちらの党派も正当な使用者ではない。グエルフはフランス王家の権威を教皇派の権威として代用しようとし、ギベリンは帝国の権威を党派的利益に流用する。どちらも「公共的な記号の政治的濫用」として糾弾される。"
     },
     {
       "paragraphId": 4,
@@ -110,74 +116,28 @@
       "targetParagraphId": 5
     },
     {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Questa picciola stella si correda\nd'i buoni spirti che son stati attivi\nperché onore e fama li succeda:",
+      "body": "「この小さな星（水星の天）は善き霊たちで飾られている──名誉と名声が自分たちに続くようにと活動的だった者たちで（Questa picciola stella si correda / d'i buoni spirti che son stati attivi / perché onore e fama li succeda）」──水星の天には名誉と名声を求めて活動した霊たちが宿る。プトレマイオス体系では水星は月の次の第二天──太陽に近すぎて月の影響を受けやすい惑星。「名声への欲望」は正当な動機ではあるが、純粋に神への愛から行動した者よりも完全ではない──より上位の天に宿る霊たちの動機との差異。"
+    },
+    {
       "paragraphId": 5,
       "type": "commentary",
-      "anchor": "Romeo, di cui fu l'opra grande e bella\ndispregïata",
+      "anchor": "Romeo, di cui\nfu l'ovra grande e bella mal gradita",
       "body": "ロメオ・ダ・ヴィッラノーヴァ（Romeo de Villeneuve、1170頃〜1250頃）──プロヴァンス伯ラモンド・ベレンゲル4世の宰相。四人の娘を各々欧州の王家に嫁がせた外交手腕で知られるが、後に謀略によって宮廷から追放された。天国で最も「物語的」な場面──政治的功績が不正義によって踏みにじられた人物。「貧しく老いて去り、一口ずつ物乞いをした（mendïcando sua vita a frusto a frusto）」──鷲の壮大な帝国史の後に、この一人の老人の物乞いの姿で終わる。記号の壮大さと個人の悲惨な末路の対比。"
     },
     {
-      "paragraphId": 6,
-      "type": "prosody",
-      "anchor": "si era rivolto al sol, che si veste,\ne cantando vanìo come per acqua\n\ncolor profondo.",
-      "body": "ユスティニアヌスの退場──「水を通るように歌いながら消えた深い色に（cantando vanìo come per acqua / color profondo）」。天国篇の「消える」という動詞──地獄の「奥底に落ちる」・煉獄の「炎の中に隠れる」に対し、天国では光・水・音楽の中に溶解するように消える。「深い色（color profondo）」の水中への溶解という直喩は、記号（ユスティニアヌスという霊）が自分の語りの完成とともに「象徴的秩序」の中へ帰還することの視覚的表現。"
-    },
-    {
-      "paragraphId": 1,
-      "type": "glossary",
-      "anchor": "l'antico che Lavina tolse,",
-      "body": "「ラウィニアを娶った古い者（l'antico che Lavina tolse）」──アエネアス。ウェルギリウス「アエネイス」においてトロイア人アエネアスはラティウム王ラティヌスの娘ラウィニアと婚姻し、ローマの祖となった。ダンテは帝国の記号（鷲）の旅をアエネアスのトロイアからの旅と同一視する──鷲の記号はアエネアスとともにトロイアからイタリアへ来て、コンスタンティヌスによって東へ逆転した。「天の進路に逆らって（contra 'l corso del ciel）」という表現が東への移動を宇宙的な逆行として批判する。"
-    },
-    {
-      "paragraphId": 1,
-      "type": "glossary",
-      "anchor": "ma 'l benedetto Agapito, che fue\nsommo pastore, a la fede sincera\nmi dirizzò con le parole sue.",
-      "body": "「祝福されたアガピトゥス（Agapito）」──教皇アガピトゥス1世（在位535–536年）。ユスティニアヌスを単性論（キリストには神性のみがあり人性は神性に吸収されるという異端）から正統信仰へと導いた人物。歴史的には教皇アガピトゥスは534年にコンスタンティノープルを訪問し、単性論者の総主教アンティムスの罷免に成功した。ダンテはこの歴史的事実を「教会の権威が皇帝の信仰を正した」という帝国と教会の適切な協力関係の範例として詩化する。"
-    },
-    {
-      "paragraphId": 2,
-      "type": "glossary",
-      "anchor": "onde Torquato e Quinzio, che dal cirro\nneglietto fu nomato, i Deci e ' Fabi\nebbero la fama che volontier mirro.",
-      "body": "「トルクアトゥスとキンキナトゥス（Quinzio）、デキウスたちとファビウスたち」──ローマ共和制の英雄列伝。「トルクアトゥス（Tito Manlio Torquato）」はガリア人との一騎打ちでトルク（首飾り）を奪い名を得た（紀元前361年）。「キンキナトゥス（Cincinnatus）」は「乱れた巻き毛（cirro negletto）」から名付けられた農夫出身の独裁官（紀元前458年）。「デキウスたち」は父子二代にわたり戦場で自らを神々に捧げて死んだ（devotio）英雄。「ファビウスたち」はカルタゴのアンニバレに対する持久戦略で知られるファビウス・マクシムス。「私が喜んで不滅にしたい（che volontier mirro）」──ユスティニアヌス自身がこれらの名声を「乳香で香り付けて保存したい」と語る自己言及的な表現。"
-    },
-    {
-      "paragraphId": 3,
-      "type": "glossary",
-      "anchor": "Con costui corse infino al lito rubro;\ncon costui pose il mondo in tanta pace,\nche fu serrato a Giano il suo delubro.",
-      "body": "「紅海の岸まで走った（corse infino al lito rubro）」──アウグストゥス治世下での帝国の東方拡大。紅海（lito rubro）は当時のローマ帝国の東方限界を示す地理的標識。「ヤヌスの聖所は閉ざされた（fu serrato a Giano il suo delubro）」──ローマのヤヌス神殿の扉は戦時に開かれ、平和時に閉じられた。アウグストゥス治世の「パクス・アウグスタ（アウグストゥスの平和）」の時代にヤヌス神殿が閉じられたことは、キリストの降誕が平和の時代に起きたという神学的解釈と結びつく──帝国の平和が救済の準備を整えた。"
-    },
-    {
-      "paragraphId": 3,
-      "type": "commentary",
-      "anchor": "Bruto con Cassio ne lo 'nferno latra,\ne Modena e Perugia fu dolente.",
-      "body": "「ブルートゥスとカッシウスは地獄で吠える（Bruto con Cassio ne lo 'nferno latra）」──地獄篇第34歌でルキフェルがカエサルを暗殺したブルートゥスとカッシウスを口にくわえていた場面への参照。「モデナとペルージャは悲しんだ」──カエサル暗殺後の内乱でアウグストゥス（当時はオクタウィアヌス）とアントニウスが戦ったモデナの戦い（紀元前43年）と、ペルージャ包囲戦（紀元前41年）を指す。帝国の記号の歴史がローマ内乱の暗い挿話を含みながら進む。",
-      "targetId": "dante_inferno_canto_34",
-      "targetParagraphId": null
-    },
-    {
-      "paragraphId": 4,
-      "type": "commentary",
-      "anchor": "Molte fïate già pianser li figli\nper la colpa del padre, e non si creda\nche Dio trasmuti l'armi per suoi gigli.",
-      "body": "「多くの場合、子供たちは父親の罪のために泣いた（Molte fïate già pianser li figli / per la colpa del padre）」──グエルフ派フランス王家の「百合の花（gigli）」への批判の論拠として旧約聖書的な罰の継承という考え方が用いられる。「神が自分の百合の花のために武器を変えると思うべきでない（non si creda / che Dio trasmuti l'armi per suoi gigli）」──フランス王家の紋章（百合）のために神が帝国の鷲の意味を変えると考えるのは誤りだという主張。「父の罪」という表現が天国篇26歌のアダムの原罪という主題と構造的に照応する。",
-      "targetId": "dante_paradiso_canto_26",
-      "targetParagraphId": 4
-    },
-    {
-      "paragraphId": 4,
-      "type": "commentary",
-      "anchor": "Questa picciola stella si correda\nde' buoni spirti che son stati attivi\nperché onore e fama li succeda:",
-      "body": "「この小さな星（水星の天）は善き霊たちで飾られている（Questa picciola stella si correda / de' buoni spirti che son stati attivi）」──水星の天には名誉と名声を求めて活動した霊たちが宿る。プトレマイオス体系では水星は月の次の第二天──太陽に近すぎて月の影響を受けやすい惑星──地球から遠い上位の天に比べて光が弱く「小さな（picciola）」と形容される。「名誉と名声が自分たちに続くようにと（perché onore e fama li succeda）」──名声への欲望は正当な動機ではあるが、純粋に神への愛から行動した者よりも完全ではない──煉獄の名声論（オデリージ）の天国篇における対応。"
-    },
-    {
       "paragraphId": 5,
-      "type": "glossary",
-      "anchor": "Quattro figlie ebbe, e ciascuna reina,\nRamondoBeringhiere; e ciò li fece\nRomeo, persona umìle e peregrina.",
-      "body": "「ラモンド・ベレンゲルは四人の娘を持ち、各々が王妃だった（Quattro figlie ebbe, e ciascuna reina, / Ramondoberinghiere）」──プロヴァンス伯ラモンド・ベレンゲル4世（在位1209–1245）の四人の娘：マルグリット（フランス王ルイ9世妃）・エレオノール（イングランド王ヘンリー3世妃）・サンシア（コーンウォール伯リチャード妃）・ベアトリーチェ（フランス王カルロ1世妃）。「卑しくて巡礼者の身分の人物が（persona umìle e peregrina）」──ロメオの出自は謎に包まれており、サンティアゴ・デ・コンポステーラへの巡礼から戻った卑しい身分の男という伝説が流布していた。この外来の巡礼者が四人の王妃を生んだ点にダンテは外交・知恵の奇跡を見る。"
+      "type": "commentary",
+      "anchor": "Quattro figlie ebbe, e ciascuna reina,\nRamondo Beringhiere, e ciò li fece\nRomeo, persona umìle e peregrina.",
+      "body": "「ラモンド・ベレンゲルは四人の娘を持ち、各々が王妃だった──そしてこれをロメオがした、卑しくて巡礼者の身分の人物が（Quattro figlie ebbe, e ciascuna reina, / Ramondo Beringhiere, e ciò li fece / Romeo, persona umìle e peregrina）」──プロヴァンス伯ラモンド・ベレンゲル4世（在位1209–1245）の四人の娘：マルグリット（フランス王ルイ9世妃）・エレオノール（イングランド王ヘンリー3世妃）・サンシア（コーンウォール伯リチャード妃）・ベアトリーチェ（フランス王カルロ1世妃）。「卑しくて巡礼者の身分（persona umìle e peregrina）」──ロメオはサンティアゴ・デ・コンポステーラへの巡礼から戻った卑しい身分の男という伝説が流布していた。"
     },
     {
       "paragraphId": 5,
       "type": "commentary",
-      "anchor": "indi partissi povero e vetusto;\ne se 'l mondo sapesse il cor ch'elli ebbe\nmendïcando sua vita a frusto a frusto,",
-      "body": "「それから彼は貧しく老いて去り、一口ずつ自分の生活を物乞いした（indi partissi povero e vetusto; / e se 'l mondo sapesse il cor ch'elli ebbe / mendïcando sua vita a frusto a frusto）」──天国篇6歌の最後の場面として、鷲の壮大な帝国史（ローマ建国から帝国全盛まで）の後に、一人の老いた物乞いの姿が置かれる。「一口ずつ（a frusto a frusto）」という表現の具体性が抽象的な帝国の「記号の歴史」に人間的な重みを与える。ダンテが歴史の壮大な記号の運動の結語として個人の悲惨な末路を置く詩的構成──記号の普遍的意義と個人の命運の落差という倫理的問題提起。"
+      "anchor": "indi partissi povero e vetusto;\ne se 'l mondo sapesse il cor ch'elli ebbe\nmendicando sua vita a frusto a frusto,",
+      "body": "「それから彼は貧しく老いて去り、一口ずつ自分の生活を物乞いした（indi partissi povero e vetusto; / e se 'l mondo sapesse il cor ch'elli ebbe / mendicando sua vita a frusto a frusto）」──天国篇6歌の最後の場面として、鷲の壮大な帝国史（ローマ建国から帝国全盛まで）の後に、一人の老いた物乞いの姿が置かれる。「一口ずつ（a frusto a frusto）」という表現の具体性が抽象的な帝国の「記号の歴史」に人間的な重みを与える。記号の普遍的意義と個人の命運の落差という倫理的問題提起──天国篇の中で最も詩的な結末の一つ。"
     }
   ]
 }
