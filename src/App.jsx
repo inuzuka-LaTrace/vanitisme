@@ -1649,7 +1649,7 @@ export default function App() {
           )}
         </div>
 
-        {/* ─── 注釈インデックス ─────────────────────── */}
+        {/* ─── 注釈一覧 ─────────────────────── */}
         {showAnnotations && (currentText.annotations?.length > 0) && (
           <div className={`rounded-xs border mb-4 overflow-hidden ${cardBgClass}`}>
             <button
@@ -1660,7 +1660,7 @@ export default function App() {
             >
               <span className="flex items-center gap-2">
                 <List size={14} strokeWidth={1.6} className="shrink-0" />
-                <span>ANNOTATIONS</span>
+                <span>注釈一覧</span>
                 <span className={`text-xs px-2 py-0.5 rounded-xs ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
                   {currentText.annotations.length}件
                 </span>
