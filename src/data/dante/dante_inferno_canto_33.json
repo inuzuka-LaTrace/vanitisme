@@ -11,7 +11,7 @@
   "canto": "XXXIII",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "Canto XXXIIIは地獄篇の最深部──氷の湖コキュートスの第2区画「アンテノーラ（祖国への裏切り者の区画）」と第3区画「トロメーア（客への裏切り者の区画）」にまたがる。前半は神曲で最も有名な人間的悲劇の一つ──ウゴリーノ・デッラ・ゲラルデスカ伯爵（実在、1289年没）の語り。彼はピサで「反逆罪」の疑いをかけられ、息子と孫たちとともに塔に幽閉され飢え死にした。彼はそれを命じた大司教ルッジェーリ・デッリ・ウバルディーニの頭を永遠に齧り続けながら、その死の四日間を語る──子どもたちが次々と死ぬ中、最後に「飢えが悲しみに勝った（il digiuno anziché 'l duol poteo）」という恐ろしい一行で語りを閉じる。後半はトロメーアの描写──この区画では、生前に客（恩人）を裏切った者の魂は死の前に地獄に落ち、悪魔が身体を操る。フラ・アルベリーゴが告白し、ブランカ・ドーリアへの言及でダンテの呪詛は締まる。\n\n詩学的核心：ウゴリーノのエピソードは「語れないことを語ることの不可能性」（v.4–9の序言）から始まる詩学的自意識の最高点。子どもたちの「父よ、我々を食べてくれ（Padre, assai ci fia men doglia / se tu mangi di noi）」は人間的・神学的倫理の極限を指し示す。「il digiuno anziché 'l duol poteo（飢えが悲しみに勝った）」は意図的な曖昧さ──「悲しみ」が「飢え」に勝れなかったのか、それとも「飢え」が「悲しみ（生への意志）」を殺したのか。トロメーア後半の「すでに身体は生きているが魂は地獄にいる」というテーマは、現世における道徳的死という概念を提示する。",
+  "context": "Canto XXXIIIは地獄篇の最深部──氷の湖コキュートスの第2区画「アンテノーラ（祖国への裏切り者の区画）」と第3区画「トロメーア（客への裏切り者の区画）」にまたがる。前半は神曲で最も有名な人間的悲劇の一つ──ウゴリーノ・デッラ・ゲラルデスカ伯爵（実在、c.1220–1289）の語り。1289年、ルッジェーリ大司教の策謀で「ピサ城塞の反逆的譲渡」の廉で告発・投獄され、息子と孫たちとともに塔に幽閉されて飢え死にした。彼はルッジェーリの頭を永遠に齧り続けながら、その死の四日間を語る──「chiavar l'uscio（扉に釘を打つ）」という動詞の暴力的な身体性、「per quattro visi il mio aspetto stesso（四つの顔の中に自分自身の姿）」という遺伝的悲劇、「Padre, assai ci fia men doglia / se tu mangi di noi（父上、私たちを食べてくれれば苦しみは少なくなる）」という神学的・人間的極限の発言、そして「il digiuno anziché 'l duol poteo（飢えが悲しみに勝った）」という意図的な曖昧さで語りを閉じる。\n\nウゴリーノのエピソードは「語れないことを語ることの不可能性」（v.4–9の序言）から始まる詩学的自意識の最高点。子どもたちの申し出（「哀れな肉を着せてくださった、あなたがそれを脱がせてください」）は創世記の「着る」という神学的語彙を転用した受肉論の逆説的反転。「digiuno anziché 'l duol poteo」は共食いか餓死かをめぐる解釈論争の中心──ダンテは意図的に沈黙する。ピサへの呪詛（「muovasi la Capraia e la Gorgona」）は「bel paese là dove 'l sì suona（「sì」が響く美しい国）」というイタリアの最初の詩的命名と対をなす：愛する国への怒りの両義性。\n\n後半はトロメーアの描写。この区画では生前に客（恩人）を裏切った者の魂は死の前に地獄に落ち、アトロポス（運命の女神）が死の糸を切る前に「悪魔が身体を奪って操る」という神学的発明が示される。フラ・アルベリーゴ（1285年宴席で親族を殺した騎士団士）が告白し、「果物を（frutta）」という暗殺の合図を「dattero per figo（イチジクの代わりにナツメヤシで報いを受ける）」という諺的自嘲で語る。ダンテが凍った涙を取り除くという約束を立てながら意図的に破る場面（「e cortesia fu lui esser villano」）は、地獄でのみ有効な礼儀の逆転を示す。ブランカ・ドーリアへの言及では「mangia e bee e dorme e veste panche（食べて飲んで眠って服を着ている）」という四動詞の羅列が生物的生の表層だけが残った状態を定義する──コヘレトの「生の享受の勧め」の地獄的反転として読める。「in anima in Cocito già si bagna, / e in corpo par vivo ancor di sopra」という最終二行が現世における道徳的死という概念を定式化し、Canto XXXIV（ルチフェロ）への橋渡しとなる。",
   "keywords": [
     "ウゴリーノ",
     "Ugolino",
@@ -215,7 +215,7 @@
     {
       "paragraphId": 8,
       "type": "commentary",
-      "anchor": "già mi parea sentire alquanto vento;\nper ch'io: «Maestro mio, questo chi move?»",
+      "anchor": "già mi parea sentire alquanto vento;\nper ch'io: «Maestro mio, questo chi move?\nnon è qua giù ogne vapore spento?»",
       "body": "「すでに私はいくらか風を感じるようだった……これを動かすのは誰ですか？（già mi parea sentire alquanto vento; / per ch'io: «Maestro mio, questo chi move?»）」──この風の謎はCanto XXXIV冒頭で解決する：ルチフェロの三対の翼が起こす風。Canto XXXIII後半の「風の問い」は次のCantoへの詩的橋渡し──地獄の最底部に向かう接近の予告。「non è qua giù ogne vapore spento（ここ下ではすべての蒸気が消えているのではないのですか）」──アリストテレス気象論に基づく問い（風は地上の蒸気から生じるとされた）。地下では蒸気も凍りつくはずという論理的問い。ウェルギリウスの答えの謎めいた簡潔さ（「見れば分かる」）が次章への引き。"
     },
     {
@@ -233,7 +233,7 @@
     {
       "paragraphId": 12,
       "type": "commentary",
-      "anchor": "il corpo suo l'è tolto / da un demonio, che poscia il governa",
+      "anchor": "il corpo suo l'è tolto\nda un demonio, che poscia il governa",
       "body": "「その身体は悪魔によって奪われる、悪魔がその後それを治める（il corpo suo l'è tolto / da un demonio, che poscia il governa）」──「身体は生きているが魂は死んでいる」という概念の最も極端な形式。これはCanto VIIIのフレグマスとダンテの対話（「生者が死者の国を歩く」）の深化。ブランカ・ドーリア（実在、1275–1325年以降）はジェノヴァの貴族で、1275年頃義父ミケーレ・ザンケを殺した──しかしダンテの書いた時点ではまだ生きていた（！）。「e forse pare ancor lo corpo suso / de l'ombra che di qua dietro mi verna（おそらく今もまだ地上に見えるのは……身体が）」──現在もまだ生きている人間の魂がすでに地獄にいるというダンテの政治的告発の最も激烈な形式。"
     },
     {
@@ -248,6 +248,50 @@
       "anchor": "in anima in Cocito già si bagna,\ne in corpo par vivo ancor di sopra.",
       "body": "「魂においてすでにコキュートスで浸かっており、身体においてはまだ地上で生きているように見える（in anima in Cocito già si bagna, / e in corpo par vivo ancor di sopra）」──Canto XXXIIIの最終二行が示す根本的な逆説：現世で生きながらすでに死んでいる存在。Canto Iのダンテが「half his life is over」から始まる旅と鏡像をなす──ダンテは生きながら地獄を旅し、裏切り者は生きながら地獄に落ちている。この概念は20世紀の「生ける死者（undead）」の文学的・哲学的系譜に接続する。ジョルジョ・アガンベン「ゾーエーとビオス」（剥き出しの生と政治的生の区別）との比較が可能。",
       "targetId": "dante_inferno_canto_34"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "perché i son tal vicino.\n\nChe per l'effetto de' suo' mai pensieri,\nfidandomi di lui, io fossi preso\ne poscia morto, dir non è mestieri;",
+      "body": "「彼の悪しき考えの結果、彼を信じたことで、私が捕らえられそして後に死んだことは、語るまでもない（Che per l'effetto de' suo' mai pensieri, / fidandomi di lui, io fossi preso / e poscia morto, dir non è mestieri）」──「語るまでもない（dir non è mestieri）」という省略法（paralipsis）が詩的に機能する。「知られているから語らない」と言いながら事実を確認するという修辞的逆説。ウゴリーノとルッジェーリの政治的関係の歴史的背景：1284年のメロリアの海戦でピサがジェノヴァに大敗した後の政治的混乱、ウゴリーノの1288年の執政就任、ルッジェーリとの連立とその崩壊。「fidandomi di lui（彼を信じたことで）」──信頼の裏切りがアンテノーラ（祖国への裏切り）の罪の核心。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "e io senti' chiavar l'uscio di sotto\na l'orribile torre; ond'io guardai\nnel viso a' mie' figliuoi sanza far motto.",
+      "body": "「そして私は恐ろしい塔の下の扉に釘が打たれるのを聞いた；それで私は一言も言わずに息子たちの顔を見た（e io senti' chiavar l'uscio di sotto / a l'orribile torre; ond'io guardai / nel viso a' mie' figliuoi sanza far motto）」──「chiavar l'uscio（扉に釘を打つ）」という動詞の選択。単に「閉める（chiudere）」でも「鍵をかける（serrare）」でもなく「釘を打つ（chiavare）」──二度と開けないという意図の暴力的な身体性。「sanza far motto（一言も言わずに）」──ウゴリーノの沈黙と第34歌のブルートゥスの沈黙（non fa motto）が照応する：言語の無力の瞬間が地獄篇の重要な詩的モチーフ。この沈黙の顔の交換が後の「四つの顔の中に自分自身の姿（per quattro visi il mio aspetto stesso）」へと続く。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "E un de' tristi de la fredda crosta\ngridò a noi: «O anime crudeli\ntanto che data v'è l'ultima posta,",
+      "body": "「冷たい外皮の中の悲しむ者の一人が私たちに叫んだ：おお、残酷な魂たちよ、これほど最後の場所を与えられた者たちよ（O anime crudeli / tanto che data v'è l'ultima posta）」──「残酷な魂たち（anime crudeli）」という叫びの逆説。氷の中に囚われた魂（地獄の罪人）が、通りかかったダンテとウェルギリウスを「残酷」と呼ぶ。地獄での「残酷さ」の逆転：本来の残酷さ（裏切り）は魂自身が犯した罪だが、彼らは凍った涙のために助けを求めている。「l'ultima posta（最後の場所）」はトロメーア（第3区画）の意識的な呼称──「最後の（ultima）」という語がCanto XXXIV（最底部）への接近を予告する。この匿名の叫びがフラ・アルベリーゴとの対話を導入する場面転換。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "levatemi dal viso i duri veli,\nsì ch'io sfoghi 'l duol che 'l cor mi preme,\nun poco, pria che 'l pianto si raggeli»,",
+      "body": "「私の顔から硬いヴェールを取り除いてくれ、そうすれば私は心を圧し潰す苦しみを少し吐き出せる、涙が凍る前に（levatemi dal viso i duri veli, / sì ch'io sfoghi 'l duol che 'l cor mi preme, / un poco, pria che 'l pianto si raggeli）」──「硬いヴェール（duri veli）」は前段落（Para 8）の「クリスタルのバイザー（visiere di cristallo）」の続き──凍った涙が目を覆っている。「涙が凍る前に（pria che 'l pianto si raggeli）」という時間的緊急性：助けを求める猶予が極めて短い。「sfoghi 'l duol（苦しみを吐き出す）」──「sfogare（吐き出す・換気する）」という語は密閉された苦しみの解放を意味する。しかしこの「苦しみの吐き出し」は凍結によって阻まれる──苦しみの自己閉塞がトロメーアの構造的刑罰。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Per ch'io a lui: «Se vuo' ch'i' ti sovvenga,\ndimmi chi se', e s'io non ti disbrigo,\nal fondo de la ghiaccia ir mi convegna»,",
+      "body": "「もし私に助けてほしいなら、誰なのかを教えてくれ、そして私がお前を助けないなら、氷の底へ行かなければならなくなるように（Se vuo' ch'i' ti sovvenga, / dimmi chi se', e s'io non ti disbrigo, / al fondo de la ghiaccia ir mi convegna）」──ダンテ（旅人）の条件付き約束。「al fondo de la ghiaccia ir mi convegna（氷の底へ行かなければならなくなるように）」はダンテが自分に呪いを課す誓い──「助けないなら氷の底に落ちろ」という自己呪詛の形式。しかし次段落（Para 14）でダンテはこの約束を守らない：裏切り者への約束を破ることが「礼儀（cortesia）」とされる。ダンテの倫理の複雑さ──誓いを立てながら意図的に破るという行為が地獄の倫理的反転の中で正当化される。この交渉の構造が、ウゴリーノが「悪名の種（seme / che frutti infamia）」のために語るという最初の交渉と対応する：両者とも「報酬と引き換えに語る」という契約関係。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "«Io credo», diss'io lui, «che tu m'inganni;\nché Branca Doria non morì unquanche,\ne mangia e bee e dorme e veste panche»,",
+      "body": "「お前が私を騙していると思う；なぜならブランカ・ドーリアはまだ一度も死んでおらず、食べて飲んで眠って服を着ているから（Branca Doria non morì unquanche, / e mangia e bee e dorme e veste panche）」──「mangia e bee e dorme e veste panche（食べて飲んで眠って服を着ている）」の四動詞の羅列。生物的生存の最も基本的な行為（摂食・飲水・睡眠・着衣）が並列される──これは「生きている」ことの外的な徴候に過ぎず、魂（内的な生）がそこにないことを逆説的に示す。「non morì unquanche（まだ一度も死んでいない）」──「unquanche」は古イタリア語の強意の否定。ダンテの驚き（「お前が私を騙していると思う」）は読者の代弁：生者の魂が地獄にいるという概念への常識的な抵抗。ブランカ・ドーリア（実在、1233–1325頃）はダンテの時代にまだ生きており、この告発は時事的な政治的攻撃。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "intertextual",
+      "anchor": "e mangia e bee e dorme e veste panche»,",
+      "body": "「食べて飲んで眠って服を着ている（e mangia e bee e dorme e veste panche）」──この四動詞の羅列は、コヘレト第9章v.7–9の「行って、喜びをもってパンを食べ、楽しい心でワインを飲め」（Ecclesiastes 9:7「Vade ergo, et comede in laetitia panem tuum et bibe in hilaritate vinum tuum」）という「生の享受の勧め」の地獄的反転として読める。コヘレトでは生物的生の享楽が「太陽の下の」有限な価値として肯定されるが、ここでは同じ行為が「魂のない身体」の機械的な動作として呈示される──生の表層的な形式だけが残り、その本質（魂）が失われた状態。ヴェイユ「afflictio spiritus」の極限：霊が去った後に形だけが残る現象。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
     }
   ]
 }
