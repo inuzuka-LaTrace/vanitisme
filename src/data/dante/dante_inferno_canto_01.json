@@ -11,7 +11,7 @@
   "canto": "I",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "神曲全体の序章。語り手ダンテは「人生の旅の半ば（35歳）」に、暗い森で道を失う。夜明けの光に向かって丘を登ろうとするが、ヒョウ・ライオン・牝狼の三匹の獣に阻まれる。そこに古代ローマの詩人ウェルギリウスの霊が現れ、地獄・煉獄を経て天国へ向かう旅の案内役を申し出る。三匹の獣は欲望・傲慢・貪欲（あるいは淫蕩・暴力・詐欺）の象徴とされ、神学的・政治的に多様な解釈を持つ。ウェルギリウスの登場はダンテにとって詩的先達への敬意であり、古典とキリスト教文明の統合という神曲全体の構造を予告する。",
+  "context": "地獄篇第1歌はダンテの『神曲（Commedia）』全体への序章であり、三部作（地獄・煉獄・天国）の詩学的・神学的枠組みを設定する。「Nel mezzo del cammin di nostra vita（私たちの生涯の旅のちょうど半ばで）」という冒頭三行は西洋文学史上最も有名な詩句であり、詩篇89（90）:10「私たちの年の日々は70年」に基づくダンテの1300年（35歳）という詩的時刻設定と一致する。「selva oscura（暗い森）」は罪・迷子の状態・中年の精神的危機を指す多層的な比喩であり、アウグスティヌスらの「罪の暗闇」の伝統に接続する。「眠り（sonno）」による理性の失効と「真の道（la verace via）」の喪失──ヨハネ14:6「わたしは道、真理、命（via, veritas, vita）」の背景を持つ表現──がCanto Iの出発点。\n\n三頭の獣（豹・獅子・狼）はイザヤ書に由来する罪の三型を担う。特に「狼（lupa）」の貪欲は地獄篇全体を貫く罪の体系の根幹。「ヴェルトロ（猟犬）」の予言と「feltro e feltro（フェルトとフェルトの間）」の謎はダンテ研究最大の解釈問題の一つ──「terra né peltro（土地も白蠟も食わず）」という物質的欲望の否定が狼との対比を形成する。海の漂流者の直喩（Para 4）はCanto XXVIのユリシーズの航海を先取りする：海は地獄篇全体で「危険な知的冒険」の比喩として機能し、「piè fermo sempre era 'l più basso（下の方の足が常に踏み固めていた）」という一行は意志と理性の不完全な状態を示す第一歩として批評史上最も議論された詩行の一つ。\n\nダンテが「Miserere di me（私を憐れんでくれ）」と叫ぶ場面は詩篇50（51）番（ダヴィデの懺悔詩）の直接引用であり、罪人が神的な憐れみを乞う詩的行為。「quel Virgilio（あのウェルギリウス）」という定冠詞的な認識・「fonte と largo fiume（源泉と広い河）」という水のイメージによる詩学的称号の付与・「vergognosa fronte（恥ずかしそうな顔）」という謙虚さの身体表現が、師弟関係（maestro e autore）の成立を段階的に構成する。「lo bello stilo che m'ha fatto onore（私に名誉をもたらした美しい様式）」という発言は煉獄篇第26歌のdolce stil novo系譜論への序章。\n\n天文学的時刻設定「神の愛が初めて美しいものたちを動かした時の星々と共に昇る太陽」は天地創造の瞬間を詩中に召喚し、天国篇最終行「太陽と他の星たちを動かす愛（l'amor che move il sole e l'altre stelle）」への伏線として機能する──地獄の旅全体が「amor divino（神の愛）による摂理」の内部にある。煉獄の魂たちへの予告的言及（「炎の中で満足している者たち、希望を持って（contenti nel foco, perché speran）」）が地獄の炎（苦罰のみ）と煉獄の炎（希望つき）の根本的差異を既に第1歌で定義する。「Allor si mosse, e io li tenni dietro（その時彼は動き、私は彼の後についた）」という極度に簡潔な最終行が、地獄篇34歌・煉獄篇33歌・天国篇33歌という100歌の長大な旅を起動する。",
   "keywords": [
     "Nel mezzo del cammin",
     "人生の旅の半ば",
@@ -158,25 +158,25 @@
     {
       "paragraphId": 3,
       "type": "commentary",
-      "anchor": "raggi del pianeta / che mena dritto altrui per ogne calle",
+      "anchor": "e' raggi del pianeta\nche mena dritto altrui per ogne calle.",
       "body": "「惑星（pianeta）」は太陽を指す（中世天文学では太陽も惑星のひとつ）。「あらゆる道を人々を正しく導く」──太陽は神の恩寵・理性・真理の象徴。丘の頂に差す光はダンテが目指すべき目標（至福直観）を予告する。この丘への登頂が挫かれることで、地獄下降の必然性が生まれる。"
     },
     {
       "paragraphId": 4,
       "type": "prosody",
-      "anchor": "come quei che con lena affannata / uscito fuor del pelago a la riva",
+      "anchor": "come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l'acqua perigliosa e guata,",
       "body": "溺れかけた者が岸に上がり振り返る直喩。ダンテの直喩は常に具体的な日常経験から引き出される──これがウェルギリウスの壮大な直喩と異なる、ダンテ独自の詩法。ボルヘスはダンテの直喩について「彼は抽象的な観念を生きた瞬間に変える唯一の詩人だ」と評した。"
     },
     {
       "paragraphId": 5,
       "type": "allusion",
-      "anchor": "lonza / leone / lupa",
+      "anchor": "una lonza leggera e presta molto,\nche di pel macolato era coverta;",
       "body": "三匹の獣の解釈は神曲注釈の最大の争点のひとつ。主要解釈：(1) 神学的：ヒョウ＝淫蕩、ライオン＝傲慢、牝狼＝貪欲（トマス・アクィナスの罪論に基づく）；(2) 政治的：ヒョウ＝フィレンツェ、ライオン＝フランス王、牝狼＝ローマ教皇庁；(3) エレミヤ書5:6「森からライオンが来て彼らを打ち倒す」への聖書的典拠。エーコは『中世の美と醜』でこれらの動物象徴を中世百科全書的伝統から論じている。"
     },
     {
       "paragraphId": 5,
       "type": "prosody",
-      "anchor": "Temp'era dal principio del mattino / e 'l sol montava 'n sù con quelle stelle / ch'eran con lui quando l'amor divino / mossedie prima quelle cose belle",
+      "anchor": "Temp'era dal principio del mattino,\ne 'l sol montava 'n sù con quelle stelle\nch'eran con lui quando l'amor divino\n\nmossedie prima quelle cose belle;",
       "body": "春分の夜明け、創造の時刻と同じ星座配置──牡羊座に太陽がある春分の朝。時間の神学的充填：旅が始まるのは創造の時刻の繰り返しとして刻印される。この詩的暦法はダンテが詩的時間と宇宙的時間を一致させる手法の典型。"
     },
     {
@@ -200,7 +200,7 @@
     {
       "paragraphId": 8,
       "type": "allusion",
-      "anchor": "cantai di quel giusto / figliuol d'Anchise",
+      "anchor": "Poeta fui, e cantai di quel giusto\nfigliuol d'Anchise che venne di Troia,\npoi che 'l superbo Ilïón fu combusto.",
       "body": "ウェルギリウスが自らを「アエネアス（アンキーセスの子）を歌った者」として紹介する。『アエネイス』への直接の言及。ダンテにとってウェルギリウスは『アエネイス』の作者であり、ローマの建国・帝国・秩序の詩人。「il giusto（正しき者）」という形容はアエネアスの政治的・道徳的典型性を示す。"
     },
     {
@@ -210,15 +210,15 @@
       "body": "「あなたは私の師、私の著者（Tu se' lo mio maestro e 'l mio autore）」──詩史上最も有名な師弟関係の宣言のひとつ。「autore」は中世において権威ある著者（auctoritas）を意味し、単なる「書いた人」以上の重みを持つ。ボルヘスは「ダンテのウェルギリウスへの愛は、単に文学的影響関係ではなく、師を超えることへの不安と感謝が複雑に絡み合っている」と論じた（『ダンテ九篇』）。"
     },
     {
-      "paragraphId": 11,
+      "paragraphId": 6,
       "type": "commentary",
-      "anchor": "questa bestia sanza pace",
+      "anchor": "tal mi fece la bestia sanza pace,",
       "body": "牝狼の「休ませない（sanza pace）」という形容。「pace（平和・安息）」の欠如が地獄の本質であることをここで初めて明示。アウグスティヌス『告白』冒頭「我らの心はあなたの中に安らうまで休まらない（inquietum est cor nostrum donec requiescat in te）」への反響──神への欲求ではなく世俗的貪欲の「落ち着かなさ」。"
     },
     {
       "paragraphId": 11,
       "type": "allusion",
-      "anchor": "il Veltro",
+      "anchor": "infin che 'l Veltro\nverrà, che la farà morir con doglia.",
       "body": "「ヴェルトロ（猟犬）」──神曲最大の謎のひとつ。牝狼（貪欲・腐敗）を倒す救済者の予言。正体は未解決：(1) 皇帝カングランデ・デッラ・スカーラ（ダンテの庇護者）；(2) キリストの再来；(3) 理想の皇帝；(4) ダンテの詩そのもの。「二つのフェルトロの間（tra feltro e feltro）」の解釈も諸説ある──フェルトレ市とモンテフェルトロ、あるいは「フェルト布（粗末な誕生）」のメタファー。エーコはこの予言を中世の千年王国論的言説として位置づけた。"
     },
     {
@@ -236,7 +236,7 @@
     {
       "paragraphId": 13,
       "type": "commentary",
-      "anchor": "quello imperador che là sù regna / perch'i' fu' ribellante a la sua legge / non vuol che 'n sua città per me si vegna",
+      "anchor": "ché quello imperador che là sù regna,\nperch'i' fu' ribellante a la sua legge,\nnon vuol che 'n sua città per me si vegna.",
       "body": "ウェルギリウスが天国に入れない理由の説明。「皇帝（imperador）」は神。洗礼なき異教徒であるウェルギリウスは神の都（天国）に入ることを許されない──これはダンテの神学にとって最も深刻な問題のひとつ。知恵・徳において完全でありながら救われないウェルギリウスの限界は、理性（ウェルギリウス）が信仰（ベアトリーチェ）なしには究極の救済に達しえないことの象徴。"
     },
     {
@@ -251,6 +251,100 @@
       "anchor": "porta di san Pietro",
       "body": "「聖ペトロの門（porta di san Pietro）」──煉獄の入口の門（煉獄篇Canto IXで描かれる）を指す。ダンテはここで旅全体の目的を先取りする。近代芸術への影響として：ロダンの彫刻群『地獄の門』（1880–1917）はこのCanto Iの旅立ちの情景を視覚化した試みであり、「考える人」は高みを見上げるダンテ自身とも解釈される。",
       "targetId": "dante_inferno_canto_3"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tant'è amara che poco è più morte;\nma per trattar del ben ch'i' vi trovai,\ndirò de l'altre cose ch'i' v'ho scorte.",
+      "body": "「これほど苦い、死よりわずかに多いほど（Tant'è amara che poco è più morte）」──「苦い（amara）」と「死（morte）」の対置。「暗い森」は「ほとんど死」である──完全な死ではないが死に限りなく近い境界状態。「しかしそこで見つけた善を語るために（ma per trattar del ben ch'i' vi trovai）」──逆接の「ma（しかし）」が暗闇・苦しみの叙述から「善（ben）」への転換を導く。この修辞的転換は詩の全体的な方向性（地獄から天国へ）の縮図。ヴェイユ「Accepter le vide」§1「恩寵が入れるのはそれを受け取る空虚がある場所だけ」──空虚（森の暗闇）が恩寵（ウェルギリウスの到来）の前提条件となるという構造が照応する。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Ahi quanto a dir qual era è cosa dura\nesta selva selvaggia e aspra e forte\nche nel pensier rinova la paura!",
+      "body": "「ああ、どれほど語ることの難しいことか、この荒々しく険しく強い森が（Ahi quanto a dir qual era è cosa dura / esta selva selvaggia e aspra e forte）」──「dura（硬い・難しい）」「aspra（荒い・険しい）」「forte（強い）」という三形容詞が詩行の物質的な「硬さ」を音響的に模倣する。「nel pensier rinova la paura（思い返すたびに恐怖が新たになる）」──記憶と現在の詩的分離：語り手ダンテは既に体験を終えたが、語る行為が恐怖を「更新する」。コヘレト第1章v.17「agnovi quod in his quoque esset labor et afflictio spiritus（これらの中にもまた労苦と霊の苦悩があることを悟った）」──知ること・語ることが苦悩を再演するという認識論的苦悩との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Io non so ben ridir com'i' v'intrai,\ntant'era pien di sonno a quel punto\nche la verace via abbandonai.",
+      "body": "「私はどのようにそこに入ったかうまく語ることができない、あの時点でこれほど眠りに満ちていて、真の道を捨て去ったのだから（tant'era pien di sonno a quel punto / che la verace via abbandonai）」──「眠り（sonno）」の複数の象徴的層：①「中年の危機」における精神的な麻痺・無自覚。②中世神学における「罪による理性の眠り」（スコラ哲学で理性の眠りは罪の比喩）。「la verace via（真の道）」はヨハネ14:6「わたしは道、真理、命（via, veritas, vita）」を背景に持つ──ダンテが「真の道（via）」を失ったことがCanto Iの出発点。第15歌の「Allor si mosse, e io li tenni dietro（その時彼は動き、私は彼の後についた）」という最終行で「道」が回復される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "E come quei che con lena affannata,\nuscito fuor del pelago a la riva,\nsi volge a l'acqua perigliosa e guata,",
+      "body": "「疲れた息で、危険な海から岸辺に出た者が、危険な水を振り返って見つめるように（come quei che con lena affannata, / uscito fuor del pelago a la riva, / si volge a l'acqua perigliosa e guata）」──Canto Iの最初の直喩（similitudine）。漂流者が「海から出て陸に立つ」→振り返って海を見る、という構造が「森を抜けて丘の麓に立つ」→振り返って森を見る状況と精密に対応する。「pelago（大海）」という語はCanto XXVIのユリシーズが「l'alto mare aperto（大きな開かれた海）」に乗り出す場面の先取りとして機能する──海は地獄篇全体で「危険な知的冒険」の比喩。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "sì che 'l piè fermo sempre era 'l più basso.",
+      "body": "「足は常に下の方が踏み固めていた（sì che 'l piè fermo sempre era 'l più basso）」──Canto Iで最も注釈者が議論してきた一行。主要解釈：①急斜面を登る時の身体的説明（低い方の足が踏ん張り、高い方の足が前進する）。②道徳的比喩（「踏み固めた足（piè fermo）」は意志・理性を、「高い方の足」は向かうべき目標を指す）。後者の解釈は特に20世紀の批評（シングルトン、マルテルスなど）で支持される。煉獄篇第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」という到達点への、意志の不完全な第一歩としての状態を示すとも読める。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Temp'era dal principio del mattino,\ne 'l sol montava 'n sù con quelle stelle\nch'eran con lui quando l'amor divino\n\nmossedie prima quelle cose belle;",
+      "body": "「夜明けの時で、太陽は神の愛が初めてあの美しいものたちを動かした時に共にあった星々と共に昇っていた（ch'eran con lui quando l'amor divino / mossedie prima quelle cose belle）」──「神の愛が初めて動かした時」は天地創造の瞬間。中世の伝統では世界は春分（牡羊座）・夜明け・創造の瞬間に創造されたとされる。「mossedie prima quelle cose belle（初めてあの美しいものたちを動かした）」──アリストテレスの「不動の動者」がダンテの宇宙論では「愛（amore）」として定義される（天国篇最終行「太陽と他の星たちを動かす愛（l'amor che move il sole e l'altre stelle）」への伏線）。「amor divino（神の愛）」が地獄篇冒頭に置かれることで、地獄の旅全体が「神の愛による摂理」の内部にあることが示される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quando vidi costui nel gran diserto,\n«Miserere di me», gridai a lui,\n«qual che tu sii, od ombra od omo certo!»",
+      "body": "「あの大きな荒野でこの者を見た時、『私を憐れんでくれ』と私は彼に叫んだ（Miserere di me... qual che tu sii, od ombra od omo certo）」──「Miserere di me（私を憐れんでくれ）」はラテン語詩篇50（51）番の冒頭「Miserere mei, Deus（神よ、私を憐れんでください）」の直接引用。大ダヴィデ作とされる最も有名な懺悔詩篇──ダヴィデがバテシェバとの罪の後に書いたとされる悔悟の詩。「qual che tu sii, od ombra od omo certo（あなたが誰であれ、影か確かな人か）」──この二分法が後のウェルギリウスの自己紹介（Para 8「Non omo, omo già fui」）を準備する：ウェルギリウスは「確かな人（omo certo）」ではなく「影（ombra）」として答える。",
+      "targetId": "hieronymus_psalm_50",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "«Miserere di me», gridai a lui,\n«qual che tu sii, od ombra od omo certo!»",
+      "body": "第7段落は地獄篇全体で最も短い段落の一つ（3行）。この短さが詩的に機能する：森での長い恐怖と絶望（Para 2–6）の後の、突然の出会いと叫びの圧縮。「gran diserto（大きな荒野）」という場面設定──「diserto（荒野・砂漠）」は孤立・迷子の状態を強調しながら、同時に修道的・神学的な「砂漠の荒野」（孤独の中での神との出会いの場）の伝統を喚起する。ダンテの叫び（「gridai」）という動詞の強さが詩の速度を一気に変換する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "«Or se' tu quel Virgilio e quella fonte\nche spandi di parlar sì largo fiume?»\nrispuos'io lui con vergognosa fronte.",
+      "body": "「ではお前があのウェルギリウスか、そしてあの源泉か、これほど広い言語の河を広げる者が？（Or se' tu quel Virgilio e quella fonte / che spandi di parlar sì largo fiume）」──「quel Virgilio（あのウェルギリウス）」の「quel（あの）」という定冠詞的な指示：ウェルギリウスは「唯一無二の（あの）ウェルギリウス」として指示される。「fonte（源泉）」と「largo fiume（広い河）」の水のイメージ：詩の言語を「源泉から流れ出る川」として定義する。煉獄篇第26歌でグイニゼッリが「il miglior fabbro del parlar materno（母語の語りのより良い職人）」とアルノーを呼ぶのと同型の詩的称号の付与。「vergognosa fronte（恥ずかしそうな顔）」──傲慢の対極である謙虚さの表れ。Para 10の「lo bello stilo che m'ha fatto onore（私に名誉をもたらした美しい様式）」への誇りと「fonte（源泉）」であるウェルギリウスへの謙虚さが同時に成立する。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Vedi la bestia per cu' io mi volsi;\naiutami da lei, famoso saggio,\nch'ella mi fa tremar le vene e i polsi».",
+      "body": "「あの獣を見てくれ；私をそれから助けてくれ、著名な賢者よ、それが私の血管と脈を震わせるのだから（aiutami da lei, famoso saggio, / ch'ella mi fa tremar le vene e i polsi）」──「famoso saggio（著名な賢者）」という三番目のウェルギリウスへの称号（「fonte」「maestro e autore」に続く）。「tremar le vene e i polsi（血管と脈が震える）」は恐怖の身体的な表れ──「脈（polsi）」という医学的語彙がダンテの用語に珍しいリアリズムを与える。ヴェイユ「la violence（力）」の核心命題「力は人間の身体を客体に変える」と照応：狼（貪欲）がダンテの身体的意志を奪い、文字通り「身体を震わせる」。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Questi non ciberà terra né peltro,\nma sapïenza, amore e virtute,\ne sua nazion sarà tra feltro e feltro.",
+      "body": "「この者は土地も白蠟も食わず、知恵と愛と美徳を食べ、その生まれはフェルトとフェルトの間にあるだろう（Questi non ciberà terra né peltro, / ma sapïenza, amore e virtute, / e sua nazion sarà tra feltro e feltro）」──神曲最大の謎の一つ。「feltro e feltro（フェルトとフェルトの間）」の解釈は注釈史上百以上の説がある。主要解釈：①地名説──フェルトレ（北イタリア）とモンテフェルトロの間（カングランデ・デッラ・スカーラを指すという説）。②天球素材説──「feltro（粗布）」を天の素材としての謙虚さの象徴とし、精神的な救済者を示すという説。「terra né peltro（土地も白蠟も）」は物質的・世俗的権力の象徴──ヴェルトロ（猟犬）が「物質的なものを欲しがらない」点が地上の狼（貪欲）との対比を形成する。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "vedrai li antichi spiriti dolenti,\nche la seconda morte ciascun grida;",
+      "body": "「古い悲しむ霊たちを見るだろう、二番目の死をそれぞれが叫ぶ（vedrai li antichi spiriti dolenti, / che la seconda morte ciascun grida）」──「二番目の死（la seconda morte）」は黙示録2:11・20:6・21:8の「第二の死（mors secunda）」──最後の審判後の地獄への永遠の断罪（火と硫黄の池）。地獄の罪人たちは「二番目の死（永遠の断罪）を叫ぶ」──望みながら死ねない状態の逆説。コヘレト第4章v.2の「既に死んだ者の方が生きている者より幸せ」という命題が「二番目の死を望む者」という地獄の構造と照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "vederai color che son contenti\nnel foco, perché speran di venire\nquando che sia a le beate genti:",
+      "body": "「炎の中で満足している者たちを見るだろう、なぜならいつかは祝福された人々のもとへ来ることを希望しているから（vederai color che son contenti / nel foco, perché speran di venire / quando che sia a le beate genti）」──煉獄の魂たちへの言及。「炎の中で満足している（contenti nel foco）」は地獄の炎（苦罰のみ）と煉獄の炎（苦罰＋希望）の根本的差異を予告する。「quando che sia（いつかは）」という時間的不確実性が希望の謙虚さを示す：確信ではなく希望。第27歌（ダンテが炎の前で立ちすくむ）・第26歌（アルノー・ダニエルが「炎の中に隠れた（s'ascose nel foco che li affina）」）への予告的言及。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 4
     }
   ]
 }
