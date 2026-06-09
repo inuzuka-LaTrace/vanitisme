@@ -11,7 +11,7 @@
   "canto": "III",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "Canto IIIは地獄の入口──門の銘文から始まる、神曲最も有名な場面の一つ。ウェルギリウスに導かれたダンテは地獄の門をくぐり、まだ地獄本体には入らぬ「前室（ante-Inferno）」を通過する。そこには善悪いずれにも与しなかった「無関心者（ignavi）」が、永遠に旗を追って走り回り、虻と蜂に刺され続ける。ダンテは名を伏せた「偉大な拒否をした者」を認め、沈黙する（v.59–60）。次いでアケロン川の岸辺で、漕ぎ手カロン（Caronte）が生者ダンテを排除しようとするが、ウェルギリウスが神の意志を盾に制する。カロンの「別の舟・別の港から」という謎の言葉ののち、魂たちは落ち葉のように次々と舟に乗り込む。ウェルギリウスが「恐れが欲求に変わる（la tema si volve in disio）」と説明した直後、地震と赤い閃光が起き、ダンテは気絶する──Canto IVの辺獄（Limbo）の夜明けへ。\n\n詩学的核心：「望みをすべて捨てよ（Lasciate ogne speranza）」は西洋文化が地獄から引き出した最も凝縮したイメージ。無関心者への軽蔑（「語らず、見て、通り過ぎよ」）はダンテの政治的・道徳的信念──行動する市民──の裏返し。カロンのシーンはウェルギリウス『アエネイス』第6巻との詩的対話であり、落ち葉の直喩は先達からの意識的な引用と変容。ダンテは先達を引用することで超克する。",
+  "context": "地獄篇第3歌は地獄の門の碑文（「私を通ってゆく者は苦しみの都市へ」）から始まり、前室（ante-inferno）と呼ばれるアケロン川以前の空間で神曲全体の倫理的・神学的構造の基礎を確立する。「Per me si va...」という三重の「Per me（私を通って）」の反復と「Giustizia mosse il mio alto fattore（正義が私の高い造り主を動かした）」・「la divina podestate（神の力）・la somma sapïenza（最高の知恵）・'l primo amore（第一の愛）」という三位一体的構造が地獄創造の神義論（theodicy）を定式化する──地獄は神の正義の表現であるばかりでなく「愛（primo amore）」の行為でもあるという逆説がダンテの神学的核心。門の碑文の「colore oscuro（暗い色）」という記述は物質的描写と同時に「意味の暗さ（senso...duro）」を示す意味論的二重性を持ち、古代の奉献碑文（titulus dedicationis）の慣習に対応する逆説的奉献碑文として機能する。\n\n「中立者（gli ignavi）」はダンテの詩的発明として最も議論される要素の一つ。正典神学には「中立的天使」の概念はないが、ダンテは黙示録3:15–16「熱くも冷たくもなく生温い者は吐き出す」を神学的根拠として、選択を拒否した者たちを天国にも地獄にも属さない空間に配置する。「sanza 'nfamia e sanza lodo（恥も誉れもなく）」という定義・天国も地獄も拒絶するという二重排除の論理・「speranza di morte（死の希望）」を持てないという絶対的無価値の刑罰・「per sé fuoro（自分自身のためにいた）」という自己閉鎖の罪の定義──これらがCanto IIIの哲学的核心を形成する。虻と蜂による刑罰は「決して生きていなかった（mai non fur vivi）」という否定的定義の物質的実演：他者の血を虫が集めるという循環構造が「他者への完全な無関心」の反転的刑罰として機能する。\n\nカロン（Charon）はウェルギリウス『アエネーイス』第6巻からの継承と変容の最も顕著な例。ウェルギリウスのカロン（汚れた老人）に「燃える炭のような目（occhi di bragia）」という地獄的属性が加えられ、「caldo e gelo（熱さと寒さ）」という地獄全体の物質的条件の圧縮（第34歌コキュートスへの伏線）が含まれる。秋の落ち葉の直喩（アエネーイス第6巻の直接的引用・変容）が罪人たちの川への「身投げ（gittansi）」という能動的動作として変容し、「鳥が呼び声に従うように」という比喩が罪人の意志と刑罰の同一性を示す。\n\n「la tema si volve in disio（恐れが欲望に変わる）」という第17段落の洞察──罪は自己の意志から来たから、罰もまた自己の意志として体験される──は煉獄篇第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」の対称命題として神曲全体の自由意志論の起点となる。「aere sanza stelle（星のない大気）」という定義は三巻それぞれの末尾「stelle（星）」に対応する地獄の本質的条件を圧縮し、第34歌「e quindi uscimmo a riveder le stelle（星を再び見るために）」との対称がここで確立される。地震・赤い光・「眠りに捕らわれた人のように倒れる（caddi come l'uom cui sonno piglia）」という幕切れは第1歌「pien di sonno（眠りに満ちた）」の反復として「失神（sonno）」を旅の段落の転換点として確立する詩的パターンの第一例。",
   "keywords": [
     "Lasciate ogne speranza",
     "望みを捨てよ",
@@ -180,7 +180,7 @@
     {
       "paragraphId": 4,
       "type": "prosody",
-      "anchor": "la sua mano a la mia puose / con lieto volto",
+      "anchor": "la sua mano a la mia puose\ncon lieto volto, ond'io mi confortai,",
       "body": "「穏やかな表情で私の手に手を重ねた（la sua mano a la mia puose / con lieto volto）」──師弟の身体的接触の記述。「霊（ombra）」が手を持つという存在論的逆説をダンテは問わず詩的事実として提示する。「con lieto volto（穏やかな・喜ばしい表情で）」はウェルギリウスの父性的な励ましを示す。Canto IIでベアトリーチェの命を受けていることが明かされ、この手のしぐさは「神意の伝達」として再解釈される。三つの動詞（puose・confortai・mise）の連鎖が師による弟子の「秘された事どもへの導入」を一気に完成させる。"
     },
     {
@@ -210,13 +210,13 @@
     {
       "paragraphId": 10,
       "type": "prosody",
-      "anchor": "ch'i' non averei creduto / che morte tanta n'avesse disfatta",
+      "anchor": "ch'i' non averei creduto\nche morte tanta n'avesse disfatta.",
       "body": "「死がこれほど多くの者を打ち倒したとは信じられなかった（ch'i' non averei creduto / che morte tanta n'avesse disfatta）」──無関心者の群れの圧倒的な多さへの驚き。T.S.エリオットは『荒地』（1922）第1部「死者の埋葬」でこの行を変容引用した：「I had not thought death had undone so many」。エリオットはダンテのante-Infernoをロンドンのロンドン橋を渡る通勤者の群れに重ね、20世紀の「生ける死者」のイメージを創出した──神曲の詩行の近代的転生の最も鮮やかな例。"
     },
     {
       "paragraphId": 10,
       "type": "commentary",
-      "anchor": "l'ombra di colui / che fece per viltade il gran rifiuto",
+      "anchor": "vidi e conobbi l'ombra di colui\nche fece per viltade il gran rifiuto.",
       "body": "「卑怯ゆえに偉大な拒否をした者（che fece per viltade il gran rifiuto）」──神曲最大の謎の一つ（Canto Iのヴェルトロと並ぶ）。名を伏せた「偉大な拒否」の主：最有力候補は教皇ケレスティヌス5世（Celestino V、1294年、教皇位就任わずか5ヶ月で辞退、ボニファチウス8世の即位を招いた）。ダンテはボニファチウス8世を腐敗の元凶として激しく憎んだ（地獄篇Canto XIXで彼をシモニアの罪で予告地獄行きにする）。他の候補：ポンティウス・ピラトゥス、エサウ（長子権の放棄）。名の伏せ方そのものが詩的処罰──エーコは「この名の不記載こそが最大の処罰だ。名を言われないことが無関心者の罰の完成形」と論じた（『薔薇の名前』作者注記）。"
     },
     {
@@ -253,7 +253,7 @@
     {
       "paragraphId": 14,
       "type": "commentary",
-      "anchor": "vuolsi così colà dove si puote / ciò che si vuole, e più non dimandare",
+      "anchor": "vuolsi così colà dove si puote\nciò che si vuole, e più non dimandare».",
       "body": "「こうすることが望まれている、あちらで、望まれることのできる場所で（vuolsi così colà dove si puote / ciò che si vuole）」──神の意志を直接名指しせずに婉曲表現で示す。Canto Iでウェルギリウスが神を「上に治める皇帝（quello imperador che là sù regna）」と婉曲に呼んだことの変奏。地獄でウェルギリウスが神の名を直接言えない──理性は神を「囲繞する」ことはできても「呼びかける」ことはできないというダンテの認識論的神学。「e più non dimandare（そしてそれ以上問うな）」の簡潔さがカロンへの圧倒的制止を示す。"
     },
     {
@@ -280,6 +280,124 @@
       "anchor": "e io caddi come l'uom cui sonno piglia",
       "body": "Canto IIIの最終行（v.135）。「私は眠りに捕らわれた人のように倒れた（e io caddi come l'uom cui sonno piglia）」──Canto I最終行「Allor si mosse, e io li tenni dietro」（旅の開始）と呼応する閉幕。しかし出発ではなく気絶による「擬似的な死」。「come l'uom（人のように）」という直喩は経験の普遍化──ダンテの気絶は読者の代理体験として機能する。Canto IVの目覚め冒頭「Ruppemi l'alto sonno ne la testa（高い眠りが私の頭の中で破れた）」への接続。「sonno（眠り）」はCanto I序盤（「tant'era pien di sonno」）でも使われた──旅全体が眠り・目覚めの繰り返しとして構造化される。",
       "targetId": "dante_inferno_canto_1"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Queste parole di colore oscuro\nvid'io scritte al sommo d'una porta;\nper ch'io: «Maestro, il senso lor m'è duro».",
+      "body": "「これらの言葉を暗い色で、私は一つの門の頂上に書かれているのを見た（Queste parole di colore oscuro / vid'io scritte al sommo d'una porta）」──「colore oscuro（暗い色）」という形容が視覚的・意味論的に二重機能する：文字の「暗い色（黒・赤錆び）」という物質的描写と、「il senso lor m'è duro（意味が難しい）」というダンテの応答が「暗い（oscuro）」の意味論的層を受け継ぐ。「al sommo d'una porta（一つの門の頂上に）」──古代の奉献碑文（titulus dedicationis）の慣習との対応：神殿・公共建造物の入口上部に奉献の銘文を刻む。地獄門は「神の正義・知恵・愛が作った」という逆説的奉献碑文を持つ神殿として提示される。「il senso lor m'è duro」──「duro（硬い・難しい）」はCanto Iの「cosa dura」・「selva...aspra e forte」と同語根の音響的連鎖。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "per ch'io: «Maestro, il senso lor m'è duro».",
+      "body": "「その意味が私には難しい（il senso lor m'è duro）」──ダンテが碑文に困惑するのは表面上の意味ではなく「愛（primo amore）」が地獄を作ったという逆説。スコラ哲学において「第一の愛（primo amore）」は神の根本的な愛の行為を意味し、地獄の創造もその愛の行為の一環──悪の罰という正義が愛の最高の表現である、という神義論。アウグスティヌス的な「秩序の中の悪（malum ordinis）」の詩的具現化。ウェルギリウスの返答（Para 3「ogne sospetto（疑い）を捨てよ」）が問いへの直接の答えを回避し、行動（「mi mise dentro」）で応答することに詩的意義がある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "c'hanno perduto il ben de l'intelletto».",
+      "body": "「知性の善を失った者たち（c'hanno perduto il ben de l'intelletto）」──「il ben de l'intelletto（知性の善）」はスコラ哲学の技術的用語。アリストテレス＝トマス・アクィナスの枠組みでは知性の本来の善は「真理（veritas）」であり、その究極は「神の認識（visio beatifica）」。地獄の罪人たちは神を見るという知性の本来の目的を永遠に失った。第1歌のウェルギリウスへの称号「lume（光）」──知性に照明を与えるものとしての詩の役割──とこの「知性の善の喪失」が対応する。天国篇第3歌でピッカルダが語る「veder lo ben（善を見ること）」として対称的に再登場する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Quivi sospiri, pianti e alti guai\nrisonavan per l'aere sanza stelle,\nper ch'io al cominciar ne lagrimai.",
+      "body": "「そこで溜め息、泣き声、高い嘆きが星のない大気の中に響いていた（risonavan per l'aere sanza stelle）」──「aere sanza stelle（星のない大気）」という定義が地獄の根本的状態を示す。「星（stelle）」は神曲三巻それぞれの最終語であり（地獄篇・煉獄篇・天国篇）、「星を失った空間」は神への指向性（上昇）を完全に失った空間。第34歌「e quindi uscimmo a riveder le stelle（星を再び見るために）」との対称がここで確立される。「per ch'io al cominciar ne lagrimai（そのため私は最初は泣いた）」──ダンテが泣く：地獄への共感の本能的反応。第5歌（フランチェスカ）でダンテが失神するほどの共感まで連続する詩的感情の起点。",
+      "targetId": "dante_inferno_canto_34",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "E io ch'avea d'error la testa cinta,\ndissi: «Maestro, che è quel ch'i' odo?\ne che gent'è che par nel duol sì vinta?»",
+      "body": "「そして私は誤りで頭を包まれて（E io ch'avea d'error la testa cinta）」──「d'error la testa cinta（誤りで頭を包まれた）」の力。「cinta（包まれた・縛られた）」は戴冠（corona）の逆転として機能する──真実の冠ではなく「誤り（error）」の環が頭を包む。この「error」はCanto Iの「selva oscura」での「迷い」の継続。「che è quel ch'i' odo（これは何の音か）」──視覚より先に聴覚が機能する：地獄の入口では「sospiri, pianti e alti guai」（Para 5）という音響が先行する。ダンテの問いの反復的構造がCanto IIIを問いと応答の弁証法として組み立てる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "e che gent'è che par nel duol sì vinta?»",
+      "body": "「何の人々か、この苦しみにこれほど敗北しているように見える（che gent'è che par nel duol sì vinta）」──「vinta（敗北した）」という語が重要。単に苦しんでいるのではなく「苦しみに敗北した」──何も選ばなかったことで「苦しみに敗北する」状態に至った。ウェルギリウスの答え（Para 7「sanza 'nfamia e sanza lodo」）でこの「敗北」が「選択の拒否」として定義される。コヘレト第9章v.11「走ることは足の速い者のものでなく、戦いは勇者のものでない（non velocium cursus nec fortium bellum）」──能力があっても使わない者への悲哀との照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mischiate sono a quel cattivo coro\ndeli angeli che non furon ribelli\nnè fur fedeli a Dio, ma per sé fuoro.",
+      "body": "「神に反抗せず、しかし神に忠実でもなかった天使たち、自分自身のためにいた者たちのあの惨めな合唱に混じっている（deli angeli che non furon ribelli / nè fur fedeli a Dio, ma per sé fuoro）」──「中立的天使（angeli neutrali）」というダンテの詩的発明。正典的神学では天使は全員神に従うか（祝福された天使）サタンに従うか（堕天使）かに分かれる。ダンテは「中立的天使」という第三のカテゴリーを発明した。黙示録3:15–16「熱くも冷たくもなく生温い者は吐き出す（quia nec frigidus es nec calidus）」──「無関心（tepidus）」への神の最大の批判が神学的根拠。「per sé fuoro（自分自身のためにいた）」──自己への完全な閉鎖が中立的天使の罪の定義：神への反乱でも服従でもなく「自己への専念」。",
+      "targetId": "hieronymus_apocalypsis_3",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Cacciànli i ciel per non esser men belli,\nnè lo profondo 'nferno li riceve,\nch'alcuna gloria i rei avrebber d'elli».",
+      "body": "「天国は彼らを追い出す、より醜くならないように；深い地獄も彼らを受け取らない（Cacciànli i ciel per non esser men belli, / nè lo profondo 'nferno li riceve）」──二重の拒絶の逆説。「per non esser men belli（より醜くならないように）」──天国の美の論理：中立的天使が天国にいると彼らの無関心という醜さが天国の完全な美を損なう。「ch'alcuna gloria i rei avrebber d'elli（罪人たちが彼らから何らかの栄光を得るだろうから）」──地獄の論理の逆転：地獄でさえ「中立者」と一緒にいると、罪人が彼らとの比較で「より悪い」という相対的栄光を持てる──中立者は悪の基準さえも持てない絶対的な無価値。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "E io: «Maestro, che è tanto greve\na lor che lamentar li fa sì forte?»",
+      "body": "「師よ、彼らをこれほど強く嘆かせるものはこれほど重いのか（che è tanto greve / a lor che lamentar li fa sì forte）」──「greve（重い）」という語が煉獄篇第11歌の傲慢者が背負う石板の「重さ（pesanteur）」と対応する。ウェルギリウスの答え（Para 9「Questi non hanno speranza di morte」）が問いに対して逆説的に応答する：苦しみの「重さ（greve）」は死ねないという「死への希望（speranza di morte）」の欠如から来る。「lamentar...sì forte（これほど強く嘆く）」という描写がPara 5の音響的描写（「sospiri, pianti e alti guai」）の継続として機能しながら、その原因への問いを正式に開く。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Questi non hanno speranza di morte,\ne la lor cieca vita è tanto bassa,\nche 'nvidiosi son d'ogne altra sorte.",
+      "body": "「彼らには死の希望がない、そして彼らの盲目的な生はこれほど低く、あらゆる他の運命を羨む（Questi non hanno speranza di morte, / e la lor cieca vita è tanto bassa, / che 'nvidiosi son d'ogne altra sorte）」──「死の希望（speranza di morte）」という逆説的表現。地獄の通常の罰は「永遠に死ねない苦しみ」（第1歌「la seconda morte ciascun grida」と対応）だが、中立者の特殊性は「死をも望めない」こと。「cieca vita（盲目的な生）」──精神的な盲目（真理を見られない状態）。「'nvidiosi son d'ogne altra sorte（あらゆる他の運命を羨む）」──嫉妬（invidia）が彼らの刑罰の感情的特質：何も選ばなかった者が全ての選択を羨む。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Questi sciaurati, che mai non fur vivi,\neran ignudi e stimolati molto\nda mosconi e da vespe ch'eran ivi;",
+      "body": "「これらの惨めな者たち、決して生きていなかった者たちは、裸で、そこにいる虻と蜂にひどく刺激された（Questi sciaurati, che mai non fur vivi）」──「mai non fur vivi（決して生きていなかった）」は地獄の通常の定型の逆転：通常は「かつて生きていた者が死んで地獄にいる」が、ここでは「決して本当に生きていなかった」。無関心による「生前の精神的死」の命題。「ignudi（裸）」は生物的・社会的属性の全剥奪。「mosconi e vespe（虻と蜂）」という昆虫の刑罰──Para 5の「turbo（砂嵐）」という非生物的な刑罰に対して、最も小さな生物による刺激。「他者の血を虫が集める」という循環構造が「他者への完全な無関心」の反転的刑罰として機能する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Allor con li occhi vergognosi e bassi,\ntemendo no 'l mio dir li fosse grave,\ninfino al fiume del parlar mi trassi.",
+      "body": "「その時、恥ずかしく下を向いた目で、私の言葉が彼の重荷になることを恐れて、川まで話すことを控えた（Allor con li occhi vergognosi e bassi, / temendo no 'l mio dir li fosse grave）」──「vergognosi e bassi（恥ずかしく下向きの）」。第1歌「vergognosa fronte（恥ずかしそうな顔）」でウェルギリウスを認識した時の謙虚さの継続。「no 'l mio dir li fosse grave（私の言葉が彼の重荷になることを恐れて）」──ダンテの師への細やかな配慮：知的好奇心と師への敬意の間の緊張の詩的表現。「infino al fiume del parlar mi trassi（川まで話すことを控えた）」──沈黙と歩行の一致：語らないことが行動（歩くこと）に転換される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "gridando: «Guai a voi, anime prave!\n\nNon isperate mai veder lo cielo:\ni' vegno per menarvi a l'altra riva\nne le tenebre etterne, in caldo e 'n gelo.",
+      "body": "「おお、汝ら悪しき魂たちよ！天を見ることを決して望むな（Guai a voi, anime prave! / Non isperate mai veder lo cielo）」──「Guai a voi（汝らに禍いあれ）」はマタイ23章のイエスによるパリサイ人への呪詛「Woe to you（Vae vobis）」の反響。「ne le tenebre etterne, in caldo e 'n gelo（永遠の暗闇の中、熱さと寒さの中に）」──「caldo e gelo（熱さと寒さ）」の対照は地獄の物質的条件の全範囲を二語で圧縮する：火の地獄（第1–32歌）と氷の地獄（コキュートス、第34歌）という二つの極端の両方を予告する。第34歌（コキュートスの氷）への伏線。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Caronte dimonio, con occhi di bragia,\nloro accennando, tutte le raccoglie;\nbatte col remo qualunque s'adagia.",
+      "body": "「鬼のカロン、燃える炭のような目で、身振りで彼らを集め、横になろうとする者はどれでも棹で打つ（Caronte dimonio, con occhi di bragia）」──「occhi di bragia（燃える炭のような目）」。Para 12の「un vecchio, bianco per antico pelo（古い白髪の老人）」という初めの外見との連続：ウェルギリウス『アエネーイス』第6巻のカロン像（汚れた老人）に「燃える目」という地獄的属性を加えてダンテが変容させる。「batte col remo qualunque s'adagia（横になろうとする者はどれでも棹で打つ）」──速度の強制：地獄への行進は遅延を許さない。地上では「adagiare（ゆっくり横になる・寛ぐ）」は安息の意だが、地獄では安息が禁じられる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "allusion",
+      "anchor": "Come d'autunno si levan le foglie\nl'una appresso de l'altra, fin che 'l ramo\nvede a la terra tutte le sue spoglie,",
+      "body": "「秋に葉が、一枚また一枚と、枝が地面に全ての羽衣を見るまで舞い落ちるように（Come d'autunno si levan le foglie / l'una appresso de l'altra）」──ウェルギリウス『アエネーイス』第6巻309–312行「森から最初の霜が葉を落とすように（quam multa in silvis autumni frigore primo / lapsa cadunt folia）」の直接的な典拠。ウェルギリウスの原詩では死者の群れがアケロン川の岸辺に集まる場面に使われており、ダンテはその詩的比喩を継承しながら変容させる：ウェルギリウスの葉が「落ちる（lapsa cadunt）」という受動的動作に対して、ダンテの葉は「舞い上がる（si levan）」という能動的動作を持つ──地獄への落下が「舞い上がる」という逆説的表現で示される。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "similemente il mal seme d'Adamo\ngittansi di quel lito ad una ad una,\nper cenni come augel per suo richiamo.",
+      "body": "「同様にアダムの悪い種が、あの岸辺から一人また一人と、鳥が自分の呼び声に従うように身を投じる（il mal seme d'Adamo / gittansi di quel lito ad una ad una）」──「il mal seme d'Adamo（アダムの悪い種）」──全人類をアダムの「種（seme）」として定義しながら「悪い（mal）」という形容詞を付ける：創世記3章の原罪（アダムの罪）が人類全体を「悪い種」とする神学的命題。「per cenni come augel per suo richiamo（鳥が自分の呼び声に従うように身振りで）」──Para 12のカロンの「身振りで（accennando）」と照応する：番人の身振りが「本能的な呼び声」として内面化されている。「Quinci non passa mai anima buona」（Para 17）との対照：「悪い種」が自ら身を投じる能動性と「良い魂は別のルートを通る」という選別の論理。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "e pronti sono a trapassar lo rio,\nché la divina giustizia li sprona,\nsì che la tema si volve in disio.",
+      "body": "「そして彼らは川を渡る準備ができている、なぜなら神の正義が彼らに拍車をかけるから、そのため恐れが欲望に変わる（ché la divina giustizia li sprona, / sì che la tema si volve in disio）」──「la tema si volve in disio（恐れが欲望に変わる）」は地獄篇で最も深い洞察の一つ。地獄への意志的な向かい（Para 16の「gittansi」）が「神の正義による強制」であると同時に「欲望（disio）」であるという二重性：罪は自己の意志から来たから、その罰も自己の意志の延長として「欲望」に変換される。自由意志論（liberum arbitrium）の詩的結晶。煉獄篇第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」の対称命題として機能する。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "La terra lagrimosa diede vento,\nche balenò una luce vermiglia,\ne io caddi come l'uom cui sonno piglia.",
+      "body": "「涙ぐんだ大地が風を与え、赤い光が閃いた、そして私は眠りに捕らわれた人のように倒れた（La terra lagrimosa diede vento, / che balenò una luce vermiglia, / e io caddi come l'uom cui sonno piglia）」──「terra lagrimosa（涙ぐんだ大地）」は大地を擬人化する。「balenò una luce vermiglia（赤い光が閃いた）」──黙示録的な赤い光は審判の到来を暗示。「e io caddi come l'uom cui sonno piglia（眠りに捕らわれた人のように倒れた）」──Canto Iの「pien di sonno（眠りに満ちた）」という出発点への回帰：旅は「眠り（sonno）」という失神の反復で段落の転換点が示される詩的パターンの第一例。第4歌でダンテは「雷が落ちたように眠った（sonno）」状態から目覚める形で始まる。"
     }
   ]
 }
