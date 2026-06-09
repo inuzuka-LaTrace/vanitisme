@@ -11,7 +11,7 @@
   "canto": "XXVI",
   "originalLang": "it-IT",
   "modernRelevance": "★★★★★",
-  "context": "Canto XXVIは神曲地獄篇の最高峰の一つとされ、「ユリシーズのCanto」として知られる。舞台は第8圏第8嚢（欺瞞的な助言者の圏）——炎の舌に包まれた魂たちが谷底に輝く。ダンテとウェルギリウスは橋上から見下ろし、ウェルギリウスがユリシーズ（Ulisse）とディオメデスに呼びかける。ウェルギリウス自身が話すのは、ギリシア人だから自分（ローマの詩人）の方が通じやすいため。ユリシーズは「最後の航海（l'ultimo volo）」を語る——キルケのもとを去り、家族への愛に勝った知識への情熱に従って、ヘラクレスの柱（ジブラルタル海峡）を超え、南の大洋へと出航する。仲間への演説「人は獣のために生まれたのではなく、美徳と知識を追うために生まれた（fatti non foste a viver come bruti, / ma per seguir virtude e canoscenza）」は西洋文明の最も有名な人文主義的宣言の一つ。しかしその直後、神の意志による旋風が船を三回転させ、海に飲まれる——神に許されない境界の越境の罰。\n\n詩学的核心：ダンテは「ホメロスのユリシーズ（オデュッセウス）」を引き継がず、中世のトロイア敵視伝統（ウェルギリウスの『アエネイス』に忠実）からユリシーズを「欺瞞的な助言者」として地獄に入れ、同時にこの「狂気の飛翔（folle volo）」の壮大な美しさと知的誘惑を描く。ユリシーズへのダンテの同一化と距離化の緊張は、神曲最も複雑な詩的問いを生む——知識への情熱はそれ自体として罪か、善か。",
+  "context": "Canto XXVIは地獄篇の詩学的・倫理的核心をなす歌。第8嚢（邪悪な助言者の区画）に炎に包まれた二重の炎（ユリシーズとディオメデス）が登場する。歌は「フィレンツェへの反語的賛辞」で始まる──地獄でもフィレンツェの名が広がるという皮肉な「名誉」の告発と、「プラートが望むこと」という1309年頃の時事的予言。「i' 'ngegno affreno（才知を抑える）」という詩学的自戒が、ユリシーズの「ingegno」への無制限な信頼との対比として機能する──才知（ingegno）は美徳（virtù）に導かれなければ走れないというCanto Iの命題がここで最大の試練を迎える。\n\n蛍の比喩（農夫が夏の夕暮れに谷底で蛍の光を見る）で炎に包まれた魂たちが導入され、エリシャとエリヤの昇天（列王記下2:11–24）という旧約聖書の典拠が「炎の中に何かが隠れている」という視覚的障壁の比喩として機能する──エリヤの火の戦車を炎の中に見えなくなるまで追うエリシャの目が、炎の中のユリシーズを見ようとするダンテの目と重なる。ウェルギリウスが「ギリシア人だったから彼らはお前の言葉を避けるだろう」とダンテに代わって話すことを求める──言語の問題（ラテン語vs.ギリシア語）が実は詩的権威の問題（ウェルギリウスがホメロス的英雄と話す資格）でもある。\n\nユリシーズの演説（v.90–142）は神曲全体で最も問題的な場面。ダンテの「ユリシーズ」はホメロスからではなく（ダンテはホメロスを読めなかった）、ウェルギリウス・オウィディウス・キケロからの「ラテン的ユリシーズ像」から構築された。帰郷後に再び出帆するという「新しい旅（il folle volo）」はダンテの創作。キルケ・ペネロペ・老いた父・息子という人間的絆を「vincer potero... l'ardore（熱情に勝てなかった）」として退けて「virtude e canoscenza（美徳と知識）」の追求に向かう。「Considerate la vostra semenza（自分たちの根源を考えよ）」という演説は人間理性への最高の賛歌だが、「folle volo（狂気の飛翔）」という自己評価がその限界を示す。「老いて遅くなった（vecchi e tardi）」身体と最も高い精神的衝動の逆説がユリシーズの英雄的矛盾の核心。\n\nヘラクレスの柱（non plus ultra）という禁じられた限界の越境、五ヶ月の航行の末に南半球の星（北極星が沈み南天の星が現れる──煉獄山の近傍に対応）を見ながら旋風に沈む──神の許可なしに到達しようとした者への神罰。「come altrui piacque（あの者が望むように）」という一句が神の意志による終焉を示す。第26歌は第34歌の「e quindi uscimmo a riveder le stelle」（許された星の再視）と対をなす：禁じられた星（南極星）を目指して沈んだユリシーズと、地獄を通過して星を「再び見た」ダンテ──旅の意志と旅の許可の差異が地獄篇の詩的・神学的核心。煉獄篇第26歌（グイニゼッリ・アルノー）との対比：地獄第26歌の「ingegno への傲慢」が煉獄第26歌の「Amor mi spira（愛が吹き込む）」という受動的詩論へと変容する。",
   "keywords": [
     "ユリシーズ",
     "Ulisse",
@@ -51,7 +51,7 @@
       "verses": "v.25–42",
       "speaker": "Dante-narratore",
       "original": "Quante 'l villan ch'al poggio si riposa,\nnel tempo che colui che 'l mondo schiara\nla faccia sua a noi tien meno ascosa,\n\ncome la mosca cede a la zanzara,\nvede lucciole giù per la vallea,\nforse colà dov'e' vendemmia e ara:\n\ndi tante fiamme tutta risplendea\nl'ottava bolgia, sì com'io m'accorsi\ntosto che fui là 've 'l fondo parea.\n\nE qual colui che si vengiò con li orsi\nvide 'l carro d'Elïa al dipartire,\nquando i cavalli al cielo erti levorsi,\n\nche nol potea sì con li occhi seguire,\nch'el vedesse altro che la fiamma sola,\nsì come nuvoletta, in sù salire:\n\ntal si movea ciascuna per la gola\ndel fosso, ché nessuna mostra 'l furto,\ne ogne fiamma un peccator invola.",
-      "provisionalTranslation": "農夫が丘の上で休んでいる時——\n世界を照らすあの者が\n自分の顔を我々に少しだけ見せる時に、\n\n蝿が蚊に席を譲るように、\n谷底に蛍を見る、\nおそらくそこは彼が収穫し耕す場所：\n\n第8嚢全体がこれほど多くの炎でもって輝いていた、\n私が気づいた時に、\n底が見えるところへ来るや否や。\n\nそしてエリシャ（熊で復讐した者）が\n去り際のエリヤの車を見たように、\n馬が高く天へと駆け上がった時に、\n\n目でそれをこれほど追いきれず、\n炎だけしか見えなかった、\n小さな雲のように、上へと昇るのを：\n\nそのように各炎が堀の喉のなかを動いていた、\nどれも盗みを見せず、\nそしてどの炎も一人の罪人を隠す。"
+      "provisionalTranslation": "農夫が丘の上で休んでいる時——\n世界を照らすあの者が\n自分の顔を我々に少しだけ見せる時に、\n\n蝿が蚊に席を譲るように、\n谷底に蛍を見る、\nおそらくそこは彼が収穫し耕す場所：\n\n第8嚢全体がこれほど多くの炎でもって輝いていた、\n私が気づいた時に、\n底が見えるところへ来るや否や。\n\nそしてエリシャが\n去り際のエリヤの車を見たように、\n馬が高く天へと駆け上がった時に、\n\n目でそれをこれほど追いきれず、\n炎だけしか見えなかった、\n小さな雲のように、上へと昇るのを：\n\nそのように各炎が堀の喉のなかを動いていた、\nどれも盗みを見せず、\nそしてどの炎も一人の罪人を隠す。"
     },
     {
       "id": 4,
@@ -135,7 +135,7 @@
       "verses": "v.127–132",
       "speaker": "Ulisse",
       "original": "Tutte le stelle già de l'altro polo\nvedea la notte, e 'l nostro tanto basso,\nche non surgëa fuor del marin suolo.\n\nCinque volte racceso e tante casso\nera il lume di sotto de la luna,\npoi che 'ntrati eravam ne l'alto passo,",
-      "provisionalTranslation": "夜にはもう他の極の星すべてを\n私は見ていた、そして我らの（極は）これほど低く、\n海の面より上に昇らないほど。\n\n五度点いて五度消えていた\n月の下の光が、\n私たちが高い水路に入ってから、"
+      "provisionalTranslation": "夜にはもう他の極の星すべてを\n私は見ていた、そして我らの北極はこれほど低く、\n海の面より上に昇らないほど。\n\n五度点いて五度消えていた\n月の下の光が、\n私たちが高い水路に入ってから、"
     },
     {
       "id": 16,
@@ -168,13 +168,13 @@
     {
       "paragraphId": 2,
       "type": "commentary",
-      "anchor": "e più lo 'ngegno affreno ch'i' non soglio,\nperché non corra che virtù nol guidi",
+      "anchor": "e più lo 'ngegno affreno ch'i' non soglio,\n\nperché non corra che virtù nol guidi;\nsì che, se stella bona o miglior cosa\nm'ha dato 'l ben, ch'io stesso nol mi 'nvidia.",
       "body": "「そして普段より多く才知を抑える、美徳が導かないところへ走らないように（e più lo 'ngegno affreno ch'i' non soglio, / perché non corra che virtù nol guidi）」——Canto XXVIの詩学的自己宣言。ダンテは自らの「ingegno（才知・知性）」が「virtù（美徳・力）」なしには走ってはならないと言う。これはCanto XXVIのテーマ——知識への情熱（ユリシーズ）と美徳による制御——の予告。ダンテ（詩人）はユリシーズと同じ誘惑を持つ（知的探求への情熱）が、美徳による自制によってユリシーズの「狂気の飛翔」を超える。詩人の自己警戒がこのCantoの劇的テーマと重なる。"
     },
     {
       "paragraphId": 3,
       "type": "prosody",
-      "anchor": "Quante 'l villan ch'al poggio si riposa,\n[...]\nvede lucciole giù per la vallea",
+      "anchor": "Quante 'l villan ch'al poggio si riposa,\nnel tempo che colui che 'l mondo schiara\nla faccia sua a noi tien meno ascosa,\n\ncome la mosca cede a la zanzara,\nvede lucciole giù per la vallea,\nforse colà dov'e' vendemmia e ara:",
       "body": "「農夫が丘の上で休んでいる時……谷底に蛍を見る（Quante 'l villan ch'al poggio si riposa... / vede lucciole giù per la vallea）」——神曲最も有名な田園的直喩のひとつ。地獄の炎の谷を夏の夕べに蛍が光る農村の谷間に喩える。地獄の恐怖と自然の美しさの共存——ダンテの直喩の特徴は常に具体的な日常経験（農夫・蛍・蚊・蝿）から引く。「come la mosca cede a la zanzara（蝿が蚊に席を譲るように）」——夏から秋への移行の細部が詩的背景に時間を与える。この蛍の直喩はT.S.エリオット、セサレ・パヴェーゼ、パゾリーニの詩的実践に影響を与えた。"
     },
     {
@@ -192,7 +192,7 @@
     {
       "paragraphId": 5,
       "type": "allusion",
-      "anchor": "par surger de la pira / ov'Eteòcle col fratel fu miso",
+      "anchor": "par surger de la pira\nov'Eteòcle col fratel fu miso?»",
       "body": "「エテオクレスが兄弟と一緒に置かれた火葬堆から立ち上るように見える（par surger de la pira / ov'Eteòcle col fratel fu miso）」——エテオクレスとポリュネイケスの兄弟対立（テーバイ七将の戦い）を典拠とする。二人は互いに憎み合って死に、一つの火葬堆に置かれた炎が二股に分かれたという伝承（スタティウス『テーバイス』による）。ユリシーズとディオメデスの「二股の炎」への視覚的比喩として用いられる——詩的典拠の精密な選択。"
     },
     {
@@ -210,7 +210,7 @@
     {
       "paragraphId": 9,
       "type": "commentary",
-      "anchor": "s'io meritai di voi mentre ch'io vissi,\ns'io meritai di voi assai o poco\nquando nel mondo li alti versi scrissi",
+      "anchor": "s'io meritai di voi mentre ch'io vissi,\ns'io meritai di voi assai o poco\n\nquando nel mondo li alti versi scrissi,",
       "body": "「私が生きている間にお前たちに功績があったなら……世界で高い詩を書いた時に（s'io meritai di voi... / quando nel mondo li alti versi scrissi）」——ウェルギリウスがユリシーズに自分の詩（『アエネイス』）を「功績」として示す。これはウェルギリウスが「地獄の囚人に自分の詩的権威で語りかける」という構造——詩は地獄においても有効な通行証。ダンテの詩学の根幹：詩の価値は死後も、地獄においても有効である。「li alti versi（高い詩）」——ウェルギリウスの自己評価の節制と誇りの同居。"
     },
     {
@@ -222,7 +222,7 @@
     {
       "paragraphId": 11,
       "type": "commentary",
-      "anchor": "né dolcezza di figlio, né la pieta / del vecchio padre, né 'l debito amore / lo qual dovea Penelopè far lieta",
+      "anchor": "né dolcezza di figlio, né la pieta\ndel vecchio padre, né 'l debito amore\nlo qual dovea Penelopè far lieta,",
       "body": "「息子の甘さも、老いた父への敬愛も、ペネロペを喜ばせるべき義務の愛も（né dolcezza di figlio, né la pieta / del vecchio padre, né 'l debito amore / lo qual dovea Penelopè far lieta）」——三つの「家族の絆」への決別（anaphora：né... né... né）。ホメロスの『オデュッセイア』では帰還こそがユリシーズの目的だったが、ダンテのユリシーズは帰還した後に再び出航する——中世的伝承に基づく。「debito amore（義務の愛）」——愛すら義務として捉えるユリシーズの冷たさ（美徳の転倒？）。三つの家族的絆の列挙が、知識への情熱の絶対性を際立てる。"
     },
     {
@@ -261,6 +261,50 @@
       "anchor": "infin che 'l mar fu sovra noi richiuso.",
       "body": "Canto XXVIの最終行（v.142）。「海が我らの上に閉じるまで（infin che 'l mar fu sovra noi richiuso）」——ユリシーズの語りの最後の言葉であり、神曲地獄篇で最も静謐で壮絶な幕切れの一つ。「richiuso（再び閉じた）」の「ri-」接頭辞は「元に戻る」——海が「正常」に戻り、人間の侵入を飲み込む。能動的な難破の描写ではなく、海の「閉じる」という受動的な動作で表現することで、ユリシーズの抵抗の不可能さと神の意志の静かな優位が示される。「come altrui piacque（あの者が望むように）」——「あの者（altrui）」は神。Canto IIIの「vuolsi così colà dove si puote（こうすることが望まれている）」と同じ婉曲表現。ユリシーズは最後まで神の名を言わない——知識の人は神を回避する。",
       "targetId": "dante_inferno_canto_1"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "E qual colui che si vengiò con li orsi\nvide 'l carro d'Elïa al dipartire,\nquando i cavalli al cielo erti levorsi,",
+      "body": "「エリシャ（熊で復讐した者）が去り際のエリヤの車を見たように（E qual colui che si vengiò con li orsi / vide 'l carro d'Elïa al dipartire）」──二つの旧約聖書の典拠の組み合わせ。「熊で復讐した者（colui che si vengiò con li orsi）」はエリシャ（列王記下2:24）──エリシャを「はげ頭」とからかった子供たちに神が熊を送って42人を引き裂いた出来事。「エリヤの車（il carro d'Elïa）」は列王記下2:11──エリヤが嵐の中で火の戦車に乗って昇天した場面。エリシャはエリヤの後継者として昇天の場面を目撃するが、炎に遮られて完全には見えなかった。この典故は「炎の中に何かが隠れている」という視覚的障壁の比喩として機能する──ユリシーズとディオメデスが炎の中に隠れているという状況と完全に対応する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "«Se ei posson parlar dentro a quei fuochi»\ndiss'io, «maestro, assai ten priego, e ripriego\nche 'l priego vaglia mille, che non chiochi,",
+      "body": "「もし彼らがあの炎の中で話せるなら……私はあなたに深くお願いします、そのお願いが千の価値を持つように（assai ten priego, e ripriego / che 'l priego vaglia mille, che non chiochi）」──「priego（願う）」「ripriego（再び願う）」「priego vaglia mille（お願いが千の価値を持つ）」という三重の反復・強調。地獄の旅が深まるほどダンテの問いへの欲望が高まるという詩的成長を示す。「non chiochi（弱まらないように）」──「chiocciare」は鶏がぐずぐずとつぶやく動作から来る俗語。知的好奇心への欲望の激しさが詩的語彙の選択にも現れる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "ch'a la fiamma cornuta venir la sego;\nvedi che del disio ver' lei mi piego!»",
+      "body": "「あの角のある炎に向かって私が行くことを；見てください、欲望で私がそれに向けて傾いているのを（ch'a la fiamma cornuta venir la sego; / vedi che del disio ver' lei mi piego）」──「角のある炎（fiamma cornuta）」はユリシーズとディオメデスを包む二股の炎。Para 5でエテオクレスとポリュネイケスの兄弟の火葬堆の炎と対比された。「del disio ver' lei mi piego（欲望で私がそれに向けて傾いている）」──身体的な「傾き（piego）」が欲望（disio）の物理的な表現。Para 4で「橋から落ちそうなほど身を乗り出す」という場面の心理的な対応。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "ma misi me per l'alto mare aperto\nsol con un legno e con quella compagna\npicciola da la qual non fui diserto.",
+      "body": "「しかし私は大きな開かれた海へと出た、たった一艘の船と、あの小さな仲間とともに（ma misi me per l'alto mare aperto / sol con un legno e con quella compagna / picciola）」──「大きな開かれた海（l'alto mare aperto）」はヘラクレスの柱（ジブラルタル海峡）を越えた後の大西洋。古典的伝統では「ヘラクレスの柱」は人間が越えてはならない限界の標識──越えることが「禁じられた欲望」の実行となる。「sol con un legno（たった一艘の船）」の孤独と脆弱さが欲望の壮大さとの対比を形成する。「da la qual non fui diserto（彼らに見捨てられることなく）」──仲間への言及が後の「O frati（兄弟たちよ）」（Para 13）と連続する：ユリシーズにとって仲間は知識の探求への共謀者。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "glossary",
+      "anchor": "quando venimmo a quella foce stretta\ndov'Ercole segnò li suoi riguardi,\n\nacciò che l'uom più oltre non si metta;",
+      "body": "「ヘラクレスが自分の境界を示した狭い海峡（quella foce stretta / dov'Ercole segnò li suoi riguardi, / acciò che l'uom più oltre non si metta）」──「ヘラクレスの柱（Colonne d'Ercole）」はジブラルタル海峡の両岸の岩（カルペ山＝ジブラルタル、アビラ山＝セウタ）。神話ではヘラクレスがこの境界を設け「non plus ultra（これ以上先へなし）」という碑文を立てたとされる。「da la man destra mi lasciai Sibilla / da l'altra già m'avëa lasciato Setta（右手にセウタを残し、左手にはすでにシビラを残してきた）」──地中海から大西洋へ抜ける際の左右の地名配置がダンテの地理的精確さを示す。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Io e ' compagni eravam vecchi e tardi\nquando venimmo a quella foce stretta",
+      "body": "「私と仲間たちは老いて遅くなっていた（Io e ' compagni eravam vecchi e tardi）」──「vecchi e tardi（老いて遅い）」という二形容詞が肉体の衰退を圧縮する。しかしこの老いは直後の演説「fatti non foste a viver come bruti（お前たちは獣のように生きるために生まれたのではない）」（Para 13）との対比で逆説的に機能する：老いた身体が最も高い精神的衝動を発するという逆説。「tardi（遅い）」はComoedia全体で「精神的な鈍さ」の比喩としても使われる──しかしここでの「遅さ」は肉体的な衰退であって精神的な衰退ではない。これがユリシーズの英雄的矛盾の核心。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Tutte le stelle già de l'altro polo\nvedea la notte, e 'l nostro tanto basso,\nche non surgëa fuor del marin suolo.",
+      "body": "「夜にはもう他の極の星すべてを私は見ていた、そして我らの北極はこれほど低く、海の面より上に昇らないほど（Tutte le stelle già de l'altro polo / vedea la notte, e 'l nostro tanto basso）」──「他の極の星（le stelle de l'altro polo）」は南極星・南天の星々。北半球から南半球へ向かうほど北極星（「我らの極（'l nostro）」）が地平線に沈んでいく。ダンテの描写は煉獄篇第1歌の「南極に輝く四つの星（四元徳の象徴）」の先取りとして読める：ユリシーズはまさに煉獄山の近くまで到達しているのに、神の許しなしに近づいた──許されない到達への接近の詩的表現。",
+      "targetId": "dante_purgatorio_canto_1",
+      "targetParagraphId": 2
     }
   ]
 }
