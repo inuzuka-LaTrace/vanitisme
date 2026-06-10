@@ -27,7 +27,7 @@
     "l'amor che move"
   ],
   "relatedTexts": [
-    "dante_paradiso_canto_1",
+    "dante_paradiso_canto_01",
     "dante_paradiso_canto_31",
     "dante_purgatorio_canto_33"
   ],
@@ -117,7 +117,7 @@
       "type": "commentary",
       "anchor": "Nella profonda e chiara sussistenza\ndell'alto lume parvermi tre giri\ndi tre colori e d'una contenenza",
       "body": "三位一体の幻視──三つの円環（tre giri）、三つの色（tre colori）、しかし一つの範囲（una contenenza）。父・子・聖霊の神学的区別を「虹から虹への反射」として視覚化。「一つが他から虹から虹のように反射される（l'un da l'altro come iri da iri / parea reflesso）」──光の波及として三位一体を表現する試みは、Par. I の「光が宇宙に浸透し、ある場所にはより多く、他の場所にはより少なく」という冒頭三行の宇宙論への最終的応答。宇宙に「より多く・より少なく」分配された光が、その源泉で一つの完全な三重の円として見られる。",
-      "targetId": "dante_paradiso_canto_1",
+      "targetId": "dante_paradiso_canto_01",
       "targetParagraphId": 1
     },
     {
@@ -125,7 +125,7 @@
       "type": "prosody",
       "anchor": "Qual è 'l geomètra che tutto s'affige\nper misurar lo cerchio, e non ritrova,\npensando, quel principio ond'elli indige",
       "body": "円積問題（circoli quadratura）──「円を正方形にすること（π の正確な値を求めること）」は古代ギリシャ以来の未解決問題（1882年にリンデマンが不可能の証明を完成）。ダンテは「神の理解の不可能性」を数学的不可能性として比喩化──これはCanto I の「trasumanar significar per verba non si poria（人間を超えることを言葉では表現できない）」との完全な首尾照応。詩の最初（trasumanar）と最後（円積問題）が同じ「言語・理性の限界」で呼応する。神曲全体が「表現の不可能性の表現」として自己完結する。",
-      "targetId": "dante_paradiso_canto_1",
+      "targetId": "dante_paradiso_canto_01",
       "targetParagraphId": 4
     },
     {
