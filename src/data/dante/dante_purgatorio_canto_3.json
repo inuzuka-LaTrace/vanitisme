@@ -1,0 +1,200 @@
+{
+  "id": "dante_purgatorio_canto_3",
+  "title": "Purgatorio — Canto III",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_III（2026年4月24日版）",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "III",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第3歌は二つの主題軸を持つ。前半（v.1–45）はウェルギリウスの「影のなさ（no shadow）」の発見と彼自身による説明──地獄篇で詩人・師・権威として機能してきたウェルギリウスが初めて「自分には影がない」という自己の限界を明示し、さらに「Matto è chi spera che nostra ragione / possa trascorrer la infinita via（理性が無限の道を辿れると望む者は狂っている）」という理性の限界宣言で締め括る。アリストテレスとプラトンさえも「etternalmente è dato lor per lutto（永遠の嘆きとして与えられた」欲望を持つとする言及は、地獄篇第4歌リンボの賢人たちへの詩的補足であり、第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」という理性の達成の前に、その限界をまず宣言する構造的配置。\n\n後半（v.100–145）はマンフレーディ・ディ・シチリア（1232–1266）との邂逅。ホーエンシュタウフェン家の庶子でシチリア・プーリア王。1266年のベネヴェント会戦でシャルル・ダンジューに敗れ戦死、教皇クレメンス4世に破門されていたため教会の墓地埋葬を拒否されて川辺に再投棄された実在人物。臨終の直前に悔悟したことで前煉獄にいる。「Orribil furon li peccati miei; / ma la bontà infinita ha sì gran braccia, / che prende ciò che si rivolge a lei（私の罪は恐ろしかった；しかし無限の善はこれほど大きな腕を持ち、自分の方に向き直る者を抱きかかえる）」という三行は神曲全体でヴェイユ「Accepter le vide」の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」という命題と最も直接的に照応する詩的定式であり、VANITISMEの「décréation（脱創造）」の神学的中心をなす。",
+  "keywords": [
+    "ウェルギリウスの影", "理性の限界", "Matto è chi spera", "マンフレーディ",
+    "臨終の悔悟", "bontà infinita", "教会の破門", "散骨", "前煉獄",
+    "コスタンツァ", "dolce figlio", "State contenti al quia"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_1",
+    "dante_purgatorio_canto_2",
+    "dante_purgatorio_canto_27",
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_3",
+    "weil_accepter_le_vide",
+    "weil_decreation",
+    "weil_necessite",
+    "hieronymus_iob_1",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–21",
+      "speaker": "Dante-narratore",
+      "original": "Avvegna che la subitana fuga\ndispergesse color per la campagna,\nrivolti al monte ove ragion ne fruga,\n\ni' mi ristrinsi a la fida compagna:\ne come sare' io sanza lui corso?\nchi m'avria tratto su per la montagna?\n\nEl mi parea da sé stesso rimorso:\no dignitosa coscïenza e netta,\ncome t'è picciol fallo amaro morso!\n\nQuando li piedi suoi lasciar la fretta,\nche l'onestade ad ogn'atto dismaga,\nla mente mia, che prima era ristretta,\n\nlo 'ntento rallargò, sì come vaga,\ne diedi 'l viso mio incontr'al poggio\nche 'nverso 'l ciel più alto si dislaga.\n\nLo sol, che dietro fiammeggiava roggio,\nrotto m'era dinanzi a la figura,\nch'avëa in me de' suoi raggi l'appoggio.\n\nIo mi volsi dallato con paura\nd'essere abbandonato, quand'io vidi\nsolo dinanzi a me la terra oscura;",
+      "provisionalTranslation": "第2歌の突然の逃散が人々を野に散らしたとはいえ、\n理性が私たちを咎める山の方に向き直って、\n\n私は信頼できる仲間に寄り添った：\n彼なしに私はどのように走れただろうか？\n誰が私を山の上へ引き上げてくれただろうか？\n\n彼は自ら自責しているように見えた：\nおお品格あり潔白な良心よ、\n小さな過ちがいかに苦い噛みつきとなることか！\n\n彼の足が急ぎを緩めると、\nその急ぎはあらゆる行為から品格を奪うのだが、\n先ほどは引き締まっていた私の心も、\n\n意図を緩めた、さまようように、\nそして私は顔を丘に向けた、\n天に向かってより高く広がっていくその丘に。\n\n後ろで赤く燃えていた太陽が\n彼の形の前で私には遮られていた、\n彼は私の中に自分の光線の支えを持っていた。\n\n私は横に向き直った、見捨てられることへの恐怖で、\n私が見た時——自分の前に\nただ暗い地面だけを見た時に；"
+    },
+    {
+      "id": 2,
+      "verses": "v.22–45",
+      "speaker": "Virgilio",
+      "original": "e 'l mio conforto: \"Perché pur diffidi?\",\na dir mi cominciò tutto rivolto;\n\"non credi tu me teco e ch'io ti guidi?\n\nVespero è già colà dov'è sepolto\nlo corpo dentro al quale io facea ombra;\nNapoli l' ha, e da Brandizio è tolto.\n\nOra, se innanzi a me nulla s'aombra,\nnon ti maravigliar più che d'i cieli\nche l'uno a l'altro raggio non ingombra.\n\nA sofferir tormenti, caldi e geli\nsimili corpi la Virtù dispone\nche, come fa, non vuol ch'a noi si sveli.\n\nMatto è chi spera che nostra ragione\npossa trascorrer la infinita via\nche tiene una sustanza in tre persone.\n\nState contenti, umana gente, al quia;\nché, se potuto aveste veder tutto,\nmestier non era parturir Maria;\n\ne disïar vedeste sanza frutto\ntai che sarebbe lor disio quetato,\nch'etternalmente è dato lor per lutto:\n\nio dico d'Aristotile e di Plato\ne di molt'altri\"; e qui chinò la fronte,\ne più non disse, e rimase turbato.",
+      "provisionalTranslation": "そして私の慰めの者は：「なぜそれほど疑うのか」と\n完全に向き直って私に言い始めた；\n「私があなたとともにいてあなたを導くことを信じないのか？\n\n夕暮れ時は既にそこにある、私が影を作っていた\n体が埋葬されている場所に；\nナポリがそれを持っており、ブリンディジから運ばれた。\n\n今、もし私の前に何も影を作らないなら、\n天が他の天に光線を遮らないことより\n驚くな。\n\n熱さと寒さの苦しみに耐えるために\n類似した体を力が定める、\nそれがどのように行うかを私たちに明かすことは望まない。\n\n狂っている者は、私たちの理性が\n三つのペルソナに一つの本質を保つ\n無限の道を辿れると望む者だ。\n\n人間よ、quia（事実）に満足せよ；\nなぜなら、もしあなた方がすべてを見ることができたなら、\nマリアが産む必要はなかった；\n\nそして、充たされれば彼らの欲望が\n鎮まっただろうに、報われずに欲望したものを\n永遠の嘆きとして与えられた者たちを見た：\n\nアリストテレスとプラトンと\n多くの他の者たちのことを言っている」；そしてここで頭を傾けた、\nそれ以上言わず、乱れたまま留まった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.46–66",
+      "speaker": "Dante-narratore",
+      "original": "Noi divenimmo intanto a piè del monte;\nquivi trovammo la roccia sì erta,\nche 'ndarno vi sarien le gambe pronte.\n\nTra Lerice e Turbìa la più diserta,\nla più rotta ruina è una scala,\nverso di quella, agevole e aperta.\n\n\"Or chi sa da qual man la costa cala\",\ndisse 'l maestro mio fermando 'l passo,\n\"sì che possa salir chi va sanz'ala?\".\n\nE mentre ch'e' tenendo 'l viso basso\nessaminava del cammin la mente,\ne io mirava suso intorno al sasso,\n\nda man sinistra m'apparì una gente\nd'anime, che movieno i piè ver' noi,\ne non pareva, sì venïan lente.\n\n\"Leva\", diss'io, \"maestro, li occhi tuoi:\necco di qua chi ne darà consiglio,\nse tu da te medesmo aver nol puoi\".\n\nGuardò allora, e con libero piglio\nrispuose: \"Andiamo in là, ch'ei vegnon piano;\ne tu ferma la spene, dolce figlio\".",
+      "provisionalTranslation": "私たちはその間に山の麓に達した；\nそこで私たちは岩がこれほど垂直であるのを見つけた、\n足が準備できていても無駄だろうほど。\n\nレリーチとトゥルビアの間で最も荒廃した、\n最も崩れた廃墟も一つの階段だ、\nその岩に比べれば、楽で開かれた。\n\n「さて、誰が知っているか、山の斜面がどちら側に下るかを」\nと私の師は歩みを止めて言った、\n「翼なしに行く者が登れるように。」\n\nそして彼が目を下に向けながら\n道について心の中で考えていて、\n私は岩の周りを上に見上げていた時、\n\n左手から一群の魂たちが私に現れた、\n足を私たちの方に動かしていた、\nそれほどゆっくり来るのでそう見えなかった。\n\n「上げてくれ」と私は言った、「師よ、あなたの目を：\nほら、ここにいる者が助言を与えてくれるだろう、\nあなた自身でそれを得られないなら。」\n\n彼はその時見て、自由な態度で\n答えた：「行こう、彼らはゆっくり来ているから；\nそしてお前は希望を固めろ、甘い息子よ。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.67–99",
+      "speaker": "Dante-narratore / Virgilio",
+      "original": "Ancora era quel popol di lontano,\ni' dico dopo i nostri mille passi,\nquanto un buon gittator trarria con mano,\n\nquando si strinser tutti ai duri massi\nde l'alta ripa, e stetter fermi e stretti\ncom'a guardar, chi va dubbiando, stassi.\n\n\"O ben finiti, o già spiriti eletti\",\nVirgilio incominciò, \"per quella pace\nch'i' credo che per voi tutti s'aspetti,\n\nditene dove la montagna giace,\nsì che possibil sia l'andare in suso;\nché perder tempo a chi più sa più spiace\".\n\nCome le pecorelle escon del chiuso\na una, a due, a tre, e l'altre stanno\ntimidette atterrando l'occhio e 'l muso;\n\ne ciò che fa la prima, e l'altre fanno,\naddossandosi a lei, s'ella s'arresta,\nsemplici e quete, e lo 'mperché non sanno;\n\nsì vid'io muovere a venir la testa\ndi quella mandra fortunata allotta,\npudica in faccia e ne l'andare onesta.\n\nCome color dinanzi vider rotta\nla luce in terra dal mio destro canto,\nsì che l'ombra era da me a la grotta,\n\nrestaro, e trasser sé in dietro alquanto,\ne tutti li altri che venieno appresso,\nnon sappiendo 'l perché, fenno altrettanto.\n\n\"Sanza vostra domanda io vi confesso\nche questo è corpo uman che voi vedete;\nper che 'l lume del sole in terra è fesso.\n\nNon vi maravigliate, ma credete\nche non sanza virtù che da ciel vegna\ncerchi di soverchiar questa parete\".\n\nCosì 'l maestro; e quella gente degna\n\"Tornate\", disse, \"intrate innanzi dunque\",\ncoi dossi de le man faccendo insegna.",
+      "provisionalTranslation": "あの人々はまだ遠くにいた、\n私が言うのは私たちの千歩の後で、\n良い投擲者が手で投げられるほどの距離に、\n\n彼らが全員高い岸の硬い岩に押し寄せ、\nじっと固まって立ち止まった時、\n不審がって行く者が見守るように立ち止まるように。\n\n「おお、善を終えた者たちよ、既に選ばれた霊たちよ」と\nウェルギリウスは始めた、「あなた方全員が待ち望まれていると\n私が信じる平和のために、\n\n私たちに教えてくれ、山がどちら側にあるかを、\n上へ行くことが可能になるように；\nなぜなら、より多く知る者には時間を失うことがより残念だから。」\n\n小羊たちが囲いから一頭、二頭、三頭と出て、\n他の者たちは目と鼻先を地面に向けて\n臆病にして立っているように；\n\nそして最初の者がすることを他の者たちも行い、\nそれが止まれば彼女に身を寄せて、\n単純で静かに、なぜかを知らずに；\n\nそのように私はその幸いな群れの先頭が\nその時来ようと動くのを見た、\n顔は慎み深く歩みは品格があった。\n\n前の者たちが右側の私から\n地面に光が遮られているのを見た時、\n影が私から岩壁へと続いていたので、\n\n彼らは立ち止まり、少し後ろに引いた、\nそして後からついてくる者たち全員が、\n理由を知らずに、同じことをした。\n\n「あなた方の問いなしに私は告白する、\nあなた方が見ているものは人間の体であると；\nだから太陽の光が地面で遮られているのだ。\n\n驚くな、しかし信じてくれ、\n天から来る力なしには\nこの壁を越えようとしていないと。」\n\nそのように師は言った；そしてあの品格ある人々は\n「戻れ」と言った、「では前に入れ」と、\n手の甲で合図をしながら。"
+    },
+    {
+      "id": 5,
+      "verses": "v.100–135",
+      "speaker": "Manfredi",
+      "original": "E un di loro incominciò: \"Chiunque\ntu se', così andando, volgi 'l viso:\npon mente se di là mi vedesti unque\".\n\nIo mi volsi ver' lui e guardail fiso:\nbiondo era e bello e di gentile aspetto,\nma l'un de' cigli un colpo aveva diviso.\n\nQuand'io mi fui umilmente disdetto\nd'averlo visto mai, el disse: \"Or vedi\";\ne mostrommi una piaga a sommo 'l petto.\n\nPoi sorridendo disse: \"Io son Manfredi,\nnepote di Costanza imperadrice;\nond'io ti priego che, quando tu riedi,\n\nvadi a mia bella figlia, genitrice\nde l'onor di Cicilia e d'Aragona,\ne dichi 'l vero a lei, s'altro si dice.\n\nPoscia ch'io ebbi rotta la persona\ndi due punte mortali, io mi rendei,\npiangendo, a quei che volontier perdona.\n\nOrribil furon li peccati miei;\nma la bontà infinita ha sì gran braccia,\nche prende ciò che si rivolge a lei.\n\nSe 'l pastor di Cosenza, che a la caccia\ndi me fu messo per Clemente allora,\navesse in Dio ben letta questa faccia,\n\nl'ossa del corpo mio sarieno ancora\nin co del ponte presso a Benevento,\nsotto la guardia de la grave mora.\n\nOr le bagna la pioggia e move il vento\ndi fuor dal regno, quasi lungo 'l Verde,\ndov'e' le trasmutò a lume spento.",
+      "provisionalTranslation": "そして彼らの一人が始めた：「誰であれ\nあなたが、こうして行きながら、顔を向けろ：\nかつてそちらで私を見たかを心に留めよ。」\n\n私は彼の方を向き、じっと見た：\nブロンドで美しく、気品ある外見だった、\nしかし眉の一つが一打撃で切られていた。\n\n私が彼を見たことが全くないと\nへりくだって否定すると、彼は言った：「今見ろ」；\nそして胸の上部に傷を見せた。\n\nそれから微笑みながら言った：「私はマンフレーディだ、\n皇后コスタンツァの孫；\nだから私はあなたに頼む、あなたが戻る時に、\n\n私の美しい娘のところへ行ってくれと、\nシチリアとアラゴンの誉れの母に、\nそして彼女に真実を告げよ、もし違うことが言われているなら。\n\n二つの致命的な傷で体を傷つけられた後、\n私は泣きながら自ら委ねた、\n喜んで赦す方に。\n\n私の罪は恐ろしかった；\nしかし無限の善はこれほど大きな腕を持ち、\n自分の方に向き直る者を抱きかかえる。\n\nもしコゼンツァの司牧者が、その時クレメンスによって\n私の追跡に遣わされた者が、\n神においてこの顔を正しく読んでいたなら、\n\n私の体の骨はまだ\nベネヴェントの橋のたもとにあるだろう、\n重い石積みの守護の下に。\n\n今や雨がそれを濡らし風がそれを動かす、\n王国の外で、ほとんどヴェルデ川沿いに、\n彼がそれらを消えた灯りのもとに移した場所で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.136–145",
+      "speaker": "Manfredi",
+      "original": "Per lor maladizion sì non si perde,\nche non possa tornar, l'etterno amore,\nmentre che la speranza ha fior del verde.\n\nVero è che quale in contumacia more\ndi Santa Chiesa, ancor ch'al fin si penta,\nstar li convien da questa ripa in fore,\n\nper ognun tempo ch'elli è stato, trenta,\nin sua presunzïon, se tal decreto\npiù corto per buon prieghi non diventa.\n\nVedi oggimai se tu mi puoi far lieto,\nrevelando a la mia buona Costanza\ncome m' hai visto, e anco esto divieto;\nché qui per quei di là molto s'avanza\".",
+      "provisionalTranslation": "彼らの呪いによってこれほど失われない、\n永遠の愛が戻れないほどには、\n希望が緑の花を持つ限り。\n\n真実だ、聖なる教会に逆らって死んだ者は、\n最後には悔悟したとしても、\nこの岸の外に留まることが必要だ、\n\n彼が罪を犯した分それぞれ三十倍の時間、\nその傲慢の中で、もしそのような定めが\n善き祈りによってより短くならないなら。\n\nさて見よ、もし今あなたが私を喜ばせることができるかどうかを、\n私の善き娘コスタンツァに明かすことで\nあなたが私を見たことを、そしてまたこの禁制も；\nなぜなら、ここでは彼方の者たちによって大いに前進するから。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "i' mi ristrinsi a la fida compagna:\ne come sare' io sanza lui corso?\nchi m'avria tratto su per la montagna?",
+      "body": "「私は信頼できる仲間に寄り添った：彼なしに私はどのように走れただろうか？誰が私を山の上へ引き上げてくれただろうか？（i' mi ristrinsi a la fida compagna）」──「fida compagna（信頼できる仲間）」はウェルギリウスへの深い依存の宣言。第2歌末尾でカトーの叱責によって魂たちが散乱した後（煉獄篇第2歌の「鳩が散る」比喩）、ダンテはウェルギリウスに「寄り添う（ristrinsi）」。「sanza lui（彼なしに）」という仮定形が依存の深さを強調する──地獄篇第1歌「chi m'avria tratto su per la montagna（誰が私を山の上へ引き上げてくれただろうか）」という問いが煉獄山の実際の登山を前にして文字通りの意味を持つ。しかしこの完全な依存が、第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」でウェルギリウスが自律を与える場面への長い準備過程の起点となる。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "El mi parea da sé stesso rimorso:\no dignitosa coscïenza e netta,\ncome t'è picciol fallo amaro morso!",
+      "body": "「彼は自ら自責しているように見えた：おお品格あり潔白な良心よ、小さな過ちがいかに苦い噛みつきとなることか！（o dignitosa coscïenza e netta, / come t'è picciol fallo amaro morso）」──詩人ダンテが叙述を中断してウェルギリウスの良心を讃える直接的な感情表出（apostrophe）。「dignitosa coscïenza e netta（品格あり潔白な良心）」という賛辞がウェルギリウスへの崇敬を凝縮する。「picciol fallo（小さな過ち）」はウェルギリウスが感情的になった（「turbato（乱れた）」：v.45）ことを指すが、その自責が彼の道徳的高さの証明として逆説的に機能する。この apostrophe は煉獄篇で繰り返される詩人の直接的な感情的介入（第6歌のイタリアへの嘆き・第11歌の名声の無常への感嘆）のパターンの一例。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Lo sol, che dietro fiammeggiava roggio,\nrotto m'era dinanzi a la figura,\nch'avëa in me de' suoi raggi l'appoggio.",
+      "body": "「後ろで赤く燃えていた太陽が、彼の形の前で私には遮られていた、彼は私の中に自分の光線の支えを持っていた（Lo sol...rotto m'era dinanzi a la figura, / ch'avëa in me de' suoi raggi l'appoggio）」──ウェルギリウスに影がないという視覚的発見の精密な描写。「rotto（遮られた・割れた）」という動詞：太陽の光がウェルギリウスの「形（figura）」に当たっても遮られず、ダンテの体の中で「支え（appoggio）」を持つ──ウェルギリウスの体を通り抜けてダンテの体に当たっているということ。「ch'avëa in me de' suoi raggi l'appoggio（彼は私の中に自分の光線の支えを持っていた）」──太陽の光がダンテにのみ支えを持つ：生者の体のみが光を遮り影を作る。地獄篇第3歌「luce divina è penetrante（神の光は貫通する）」という命題の詩的具現：神の光が霊的存在（影のない者）を「貫通する」のと同様、ウェルギリウスの霊的な体は太陽光を貫通させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vespero è già colà dov'è sepolto\nlo corpo dentro al quale io facea ombra;\nNapoli l' ha, e da Brandizio è tolto.",
+      "body": "「夕暮れ時は既にそこにある、私が影を作っていた体が埋葬されている場所に；ナポリがそれを持っており、ブリンディジから運ばれた（Napoli l' ha, e da Brandizio è tolto）」──ウェルギリウスの埋葬地の自己言及。ウェルギリウス（Publius Vergilius Maro, BC70–BC19）は『アエネーイス』未完のままBC19年にブリンディジ（Brundisium）で死去、ナポリ（Parthenope）近郊のポッジョ・レアーレに埋葬された。「dentro al quale io facea ombra（その中で私は影を作っていた）」──「影を作る（fare ombra）」という表現が前段落の「影のない体」の問題を逆方向から解く：ウェルギリウスはかつて肉体を持ち「影を作っていた（facea）」が、今は「影を作らない（no shadow）」霊的存在。過去と現在の対照が「影の神学」を完成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Matto è chi spera che nostra ragione\npossa trascorrer la infinita via\nche tiene una sustanza in tre persone.",
+      "body": "「狂っている者は、私たちの理性が三つのペルソナに一つの本質を保つ無限の道を辿れると望む者だ（Matto è chi spera che nostra ragione / possa trascorrer la infinita via）」──神曲全体で最も明確な「理性の限界宣言」。「Matto è chi spera（狂っている者は望む者だ）」という断定的な形式が理性への傲慢を「狂気（matto）」として定義する。「la infinita via（無限の道）」──三位一体（una sustanza in tre persone）は理性によっては到達できない「無限の道」上にある：アリストテレス・プラトンの「自然理性（ragione naturale）」の限界を示す命題。トマス・アクィナス『神学大全』I, q.32「三位一体は啓示によってのみ知られる（sola fide tenetur）」という命題の詩的定式化。第27歌でウェルギリウスが「私はそれ以上先を見分けられない（per me più oltre non discerno）」と述べる限界宣言の準備。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "State contenti, umana gente, al quia;\nché, se potuto aveste veder tutto,\nmestier non era parturir Maria;",
+      "body": "「人間よ、quia（事実）に満足せよ；なぜなら、もしあなた方がすべてを見ることができたなら、マリアが産む必要はなかった（State contenti, umana gente, al quia）」──「quia（なぜならば／事実として）」はスコラ哲学の論理学用語。「quia（事実）」は結果・現象から出発する認識（a posteriori）、「propter quid（なぜかゆえに）」は原因・本質からの認識（a priori）。人間には「quia」──現象の事実として──しか与えられていない。「mestier non era parturir Maria（マリアが産む必要はなかった）」──もし人間が自然理性だけで神を完全に知れるなら、受肉（incarnazione）──神の子マリアによる誕生──という啓示の行為は不要だった、という逆説的論法。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "io dico d'Aristotile e di Plato\ne di molt'altri\"; e qui chinò la fronte,\ne più non disse, e rimase turbato.",
+      "body": "「アリストテレスとプラトンと多くの他の者たちのことを言っている」；そしてここで頭を傾けた、それ以上言わず、乱れたまま留まった（e qui chinò la fronte, / e più non disse, e rimase turbato）」──地獄篇第4歌リンボへの直接的な詩的参照。第4歌でダンテはアリストテレス（「il Maestro di color che sanno（知る者たちの師）」）・プラトン・ソクラテスらを「bella scola（美しい学派）」として描いた──彼らは「希望なき悲しみ（sospiro）」のみの中に住む。「etternalmente è dato lor per lutto（永遠の嘆きとして与えられた）」という表現が第4歌の「sanza speme（希望なし）」と照応する。「rimase turbato（乱れたまま留まった）」──ウェルギリウスの沈黙と乱れ：自分もこの「永遠の嘆き」の中にいるという認識の詩的表出。地獄篇第5歌でのブルートゥスの「non fa motto（一言も言わない）」という沈黙と同型の詩的沈黙。",
+      "targetId": "dante_inferno_canto_01",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tra Lerice e Turbìa la più diserta,\nla più rotta ruina è una scala,\nverso di quella, agevole e aperta.",
+      "body": "「レリーチとトゥルビアの間で最も荒廃した、最も崩れた廃墟も一つの階段だ、その岩に比べれば、楽で開かれた（Tra Lerice e Turbìa la più diserta, / la più rotta ruina è una scala）」──地名による地理的比較の技法。「レリーチ（Lerici）」はリグーリア海岸（現ラ・スペツィア近郊）の険峻な海岸、「トゥルビア（Turbia）」は現在のフランス・モナコ境界付近の急峻な絶壁。当時の「最も困難な地形」として実在の地名を引用することで煉獄山の絶壁の比類なき険しさを定義する。「la più rotta ruina è una scala（最も崩れた廃墟も一つの階段だ）」──地獄篇第3歌「la ruina（廃墟）」との語彙的連続：地獄の「廃墟（地獄の崩れた地形）」が煉獄の垂直な岩壁との比較対象となる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "\"Andiamo in là, ch'ei vegnon piano;\ne tu ferma la spene, dolce figlio\".",
+      "body": "「行こう、彼らはゆっくり来ているから；そしてお前は希望を固めろ、甘い息子よ（e tu ferma la spene, dolce figlio）」──「dolce figlio（甘い息子）」という呼称。煉獄篇第27歌「Figliuol mio（私の息子よ）」というウェルギリウスのダンテへの親密な呼びかけと連続する。「dolce（甘い）」という形容詞は煉獄篇全体の「甘さ（dolcezza）」の主題──第2歌でカゼッラの歌の「甘さ（dolcezza）」がカトーに叱責される場面・第26歌の「dolce stil novo」──と連続する。「ferma la spene（希望を固めろ）」──「固める（fermare）」という動詞：希望は自動的に与えられるものではなく「固める（固定する）」努力が必要だという意志的な行為として定義される。地獄篇第3歌の「lasciate ogne speranza（全ての希望を捨てよ）」という反命題との対照が煉獄の本質を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Come le pecorelle escon del chiuso\na una, a due, a tre, e l'altre stanno\ntimidette atterrando l'occhio e 'l muso;",
+      "body": "「小羊たちが囲いから一頭、二頭、三頭と出て、他の者たちは目と鼻先を地面に向けて臆病にして立っているように（Come le pecorelle escon del chiuso / a una, a due, a tre）」──煉獄篇の最も印象的な田園的（pastoral）直喩の一つ。「a una, a due, a tre（一頭、二頭、三頭）」という数の段階的な増加が群れの動きの緩慢さを音律的に模倣する。煉獄篇第24歌のナイル川の鳥・第26歌の鶴の列という「鳥の直喩」系列に対して、ここでは「羊の直喩」が用いられる──「羊（pecorelle）」は福音書的な「迷子の羊（ovis perdita）」（ルカ15:4–7）を召喚し、魂たちを「牧者（pastor）」神に向かう羊として定義する対比が生まれる。第5段落のマンフレーディが「コゼンツァの司牧者（pastor di Cosenza）」と呼ばれることとの皮肉な照応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Come color dinanzi vider rotta\nla luce in terra dal mio destro canto,\nsì che l'ombra era da me a la grotta,",
+      "body": "「前の者たちが右側の私から地面に光が遮られているのを見た時、影が私から岩壁へと続いていたので（Come color dinanzi vider rotta / la luce in terra dal mio destro canto）」──影の発見という煉獄篇の反復的なモチーフの展開。第2歌でダンテの「spirare（呼吸）」が魂たちを驚かせ、第3歌では「影（ombra）」が驚かせる──生者の身体的証拠が段階的に明示される。「rotta la luce（光が遮られた）」：Para 1の「rotto m'era（私には遮られていた）」という語の反復──ウェルギリウスが光を「遮らない（不在の影）」のとダンテが光を「遮る（現在の影）」という対比の完成。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "biondo era e bello e di gentile aspetto,\nma l'un de' cigli un colpo aveva diviso.",
+      "body": "「ブロンドで美しく、気品ある外見だったが、眉の一つが一打撃で切られていた（biondo era e bello e di gentile aspetto, / ma l'un de' cigli un colpo aveva diviso）」──マンフレーディの外見描写の詩的構造。「biondo e bello e di gentile aspetto（ブロンドで美しく気品ある）」という三重の肯定的形容の後に「ma（しかし）」という逆接：美しさと致命的な傷の対比。「l'un de' cigli un colpo aveva diviso（眉の一つが一打撃で切られていた）」はベネヴェントの戦い（1266年）での戦傷を示す。「colpo（打撃・一撃）」という語が胸の「piaga（傷）」（次の三行）と並んで「二つの致命的な傷（due punte mortali）」（v.111）の視覚的導入となる。眉の傷→胸の傷という二段階の傷の開示が物語的な緊張を形成する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Orribil furon li peccati miei;\nma la bontà infinita ha sì gran braccia,\nche prende ciò che si rivolge a lei.",
+      "body": "「私の罪は恐ろしかった；しかし無限の善はこれほど大きな腕を持ち、自分の方に向き直る者を抱きかかえる（Orribil furon li peccati miei; / ma la bontà infinita ha sì gran braccia, / che prende ciò che si rivolge a lei）」──神曲全体でヴェイユ「Accepter le vide」と最も直接的に照応する三行。「罪の恐ろしさ（Orribil）」→「しかし（ma）」という逆接→「無限の善（bontà infinita）」の三段構造が告白・悔悟・赦しという神学的順序を圧縮する。「ha sì gran braccia（これほど大きな腕を持つ）」という身体的比喩：神の赦しを「腕で抱きかかえる」という擬人化。「si rivolge a lei（自分の方に向き直る）」──「rivolgersi（向き直る）」という動詞：ただ悔悟するだけではなく「向き直る（方向を変える）」という能動的な回帰。ヴェイユ「Décréation」での「脱創造」において最初に求められる「神への向転（conversion）」の詩的先行形。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Se 'l pastor di Cosenza, che a la caccia\ndi me fu messo per Clemente allora,\navesse in Dio ben letta questa faccia,",
+      "body": "「もしコゼンツァの司牧者が、その時クレメンスによって私の追跡に遣わされた者が、神においてこの顔を正しく読んでいたなら（Se 'l pastor di Cosenza...avesse in Dio ben letta questa faccia）」──コゼンツァ大司教バルトロメオ・ピニャテッロへの批判。「pastor（司牧者）」という語が第4段落「pecorelle（小羊たち）」との皮肉な対比を形成する──「小羊」の比喩で描かれた謙虚な魂たちの対極に「pastor（司牧者）」の政治的腐敗が置かれる。「avesse in Dio ben letta questa faccia（神においてこの顔を正しく読んでいたなら）」──「神において読む（in Dio leggere）」という表現：神の視点から、マンフレーディの「顔（faccia）」に書かれた臨終の悔悟を読み取るという神学的認識論の詩的定式。教会の「呪い（maladizion）」は神の「永遠の愛（etterno amore）」に打ち勝てないという第6段落への橋渡し。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Per lor maladizion sì non si perde,\nche non possa tornar, l'etterno amore,\nmentre che la speranza ha fior del verde.",
+      "body": "「彼らの呪いによってこれほど失われない、永遠の愛が戻れないほどには、希望が緑の花を持つ限り（Per lor maladizion sì non si perde, / che non possa tornar, l'etterno amore, / mentre che la speranza ha fior del verde）」──教会の権威と神の愛の優先関係の神学的宣言。「lor maladizion（彼らの呪い）」──教会の破門の宣告が「eternità（永遠）」レベルでは無効であるという命題。「sì non si perde...che non possa tornar l'etterno amore（永遠の愛が戻れないほど失われない）」──二重否定によって「永遠の愛は必ず戻る」という強い肯定を示す。「la speranza ha fior del verde（希望が緑の花を持つ限り）」──「緑の花（fior del verde）」は初夏の若葉：希望の「若さ・生命力・成長の可能性」の比喩。ヴェイユ「Nécessité（必然）」の「神の光は必然性の秩序を通じて働く」という命題が、ここでは「永遠の愛は教会の権威という必然性を越える」という形で詩的に示される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "allusion",
+      "anchor": "Vero è che quale in contumacia more\ndi Santa Chiesa, ancor ch'al fin si penta,\nstar li convien da questa ripa in fore,\n\nper ognun tempo ch'elli è stato, trenta,\nin sua presunzïon, se tal decreto\npiù corto per buon prieghi non diventa.",
+      "body": "「真実だ、聖なる教会に逆らって死んだ者は、最後には悔悟したとしても、この岸の外に留まることが必要だ、彼が罪を犯した分それぞれ三十倍の時間（per ognun tempo ch'elli è stato, trenta）」──前煉獄（待機煉獄）の時間的法則の明確な定式化。「contumacia di Santa Chiesa（聖なる教会への反抗）」：教会の権威に服せず（「in contumacia」は法律用語：呼び出しに応じないこと）死んだ者の特殊な状況。「per ognun tempo ch'elli è stato, trenta（彼が罪を犯した分それぞれ三十倍）」──比例関係の刑罰：地上での「傲慢の時間」と等しい三十倍の待機期間。「se tal decreto / più corto per buon prieghi non diventa（もしそのような定めが善き祈りによってより短くならないなら）」──生者の祈りが煉獄の待機期間を短縮できるという神学的命題：煉獄の「共同体的救済」の法則。第11歌のグイニゼッリが「主の祈り（paternostro）」をダンテに頼む場面との照応。",
+      "targetId": "dante_purgatorio_canto_11",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Vedi oggimai se tu mi puoi far lieto,\nrevelando a la mia buona Costanza\ncome m' hai visto, e anco esto divieto;\nché qui per quei di là molto s'avanza\".",
+      "body": "「さて見よ、もし今あなたが私を喜ばせることができるかどうかを、私の善き娘コスタンツァに明かすことで……なぜなら、ここでは彼方の者たちによって大いに前進するから（ché qui per quei di là molto s'avanza）」──「ché qui per quei di là molto s'avanza（ここでは彼方の者たちによって大いに前進する）」という煉獄の共同体的救済の根本命題。「quei di là（彼方の者たち）」＝地上の生者たちの祈り・執り成しが煉獄の魂の「前進（avanza）」を生む。この「前進（avanzare）」という語は地獄篇第3歌「la tema si volve in disio（恐れが欲望に変わる）」という前進の逆説とは対照的：地獄では「前進」が永遠の沈降であり、煉獄では「前進」が希望に基づく上昇。「buona Costanza（善き娘コスタンツァ）」はコスタンツァ・ディ・シチリア（1249–1302）：ペドロ3世とコスタンツァの娘マリア・ダラゴーナの母。「ここでは彼方の者たちによって大いに前進する」という最終命題が第2歌でのカゼッラの歌への陶酔からカトーの叱責という「前進の妨害」への応答として機能する：本当の「前進」は詩歌への陶酔ではなく、地上の共同体との祈りの連帯から来る。",
+      "targetId": "dante_purgatorio_canto_02",
+      "targetParagraphId": 6
+    }
+  ]
+}
+
+
+完了
+
