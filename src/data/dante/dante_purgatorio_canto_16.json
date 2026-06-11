@@ -1,0 +1,177 @@
+ {
+  "id": "dante_purgatorio_canto_16",
+  "title": "Purgatorio — Canto XVI",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XVI（2026年4月24日版）",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XVI",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第16歌は第3の圏「怒り（ira）」の場面であり、神曲全体における「自由意志（libero arbitrio）」論の哲学的中心をなす。煙で目が見えない暗闇という感覚的な条件の中で、マルコ・ロンバルド（Marco Lombardo、13世紀後半のヴェネツィア出身の廷臣・詩人）との問答が展開する。煙は怒りの罪の直接的な「刑罰的象徴」──怒りは視野を曇らせる感情の煙として体験される──と同時に、「世界の悪の原因は何か」という哲学的問いへの詩的文脈として機能する：煙の中では何も見えない、だから「見えないからこそ問いが必要」という認識論的設定。\n\n「Matto è chi spera che nostra ragione / possa trascorrer la infinita via」（第3歌、ウェルギリウス）という理性の限界宣言を受けて、第16歌は「理性の限界の内部で何が可能か」を問う：自由意志論がその答え。マルコの議論の核心は三段階。①天体の影響はあるが決定的ではない（「Lo cielo i vostri movimenti inizia…e libero voler」）。②魂は神から出る純粋な存在として小さな善を求めるが、適切な導き（法と王）がなければ誘惑に負ける（「l'anima semplicetta che sa nulla…Di picciol bene in pria sente sapore」）。③世界の現状の悪は「二つの太陽」の喪失──ローマが世俗権（剣）と教会権（司教杖）という「二つの太陽」を持つ制度が崩壊し、教会が両権を独占することで腐敗した（「Soleva Roma…due soli aver」）。\n\n自由意志論は第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」というウェルギリウスの最後の言葉への哲学的準備であり、天国篇第33歌「il mio disio e 'l velle（私の欲望と意志）」が「均等に動かされる車輪（rota ch'igualmente è mossa）」として一致する到達点への最初の概念的設定。「魂の本性論（l'anima semplicetta）」はヴェイユ「Décréation」の「魂は神から直接来る純粋な力として小さな善に向かう」という命題と深く照応し、法と王の必要性という政治哲学論はヴェイユ「Nécessité」の「必然性の秩序を通じて恩寵が働く」という概念と連動する。",
+  "keywords": [
+    "libero arbitrio", "自由意志", "怒りの圏", "煙", "Marco Lombardo",
+    "Agnus Dei", "二つの太陽", "魂の本性", "法と王", "教会批判",
+    "l'anima semplicetta", "世界の悪の原因", "ロンバルディア"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_3",
+    "dante_purgatorio_canto_27",
+    "dante_purgatorio_canto_11",
+    "dante_inferno_canto_3",
+    "dante_paradiso_canto_33",
+    "weil_decreation",
+    "weil_necessite",
+    "weil_accepter_le_vide",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–24",
+      "speaker": "Dante-narratore",
+      "original": "Buio d'inferno e di notte privata\nd'ogne pianeto, sotto pover cielo,\nquant'esser può di nuvol tenebrata,\n\nnon fece al viso mio sì grosso velo\ncome quel fummo ch'ivi ci coperse,\nné a sentir di così aspro pelo,\n\nche l'occhio stare aperto non sofferse;\nonde la scorta mia saputa e fida\nmi s'accostò e l'omero m'offerse.\n\nSì come cieco va dietro a sua guida\nper non smarrirsi e per non dar di cozzo\nin cosa che 'l molesti, o forse ancida,\n\nm'andava io per l'aere amaro e sozzo,\nascoltando il mio duca che diceva\npur: \"Guarda che da me tu non sia mozzo\".\n\nIo sentia voci, e ciascuna pareva\npregar per pace e per misericordia\nl'Agnel di Dio che le peccata leva.\n\nPur 'Agnus Dei' eran le loro essordia;\nuna parola in tutte era e un modo,\nsì che parea tra esse ogne concordia.\n\n\"Quei sono spirti, maestro, ch'i' odo?\",\ndiss'io. Ed elli a me: \"Tu vero apprendi,\ne d'iracundia van solvendo il nodo\".",
+      "provisionalTranslation": "地獄の暗闇と、全ての惑星を失った夜が、\n貧しい空の下で、\n雲でこれほど暗くされうるだけの、\n\nその煙が私たちをそこで覆ったほど\n私の視線に厚いヴェールをなさなかった、\nまたこれほど荒々しい毛の感触もなかった、\n\nそのため目は開いていることに耐えられなかった；\nそこで私の知恵ある信頼できる案内者が\n近づいて肩を差し出した。\n\n目の見えない者が迷子にならないために、\nまたつまずいて悩ませるものに\nあるいは殺すものに当たらないために案内者の後についていくように、\n\n私は苦く汚れた大気の中を歩いていた、\n私の師の言葉を聞きながら、\n彼はただ言い続けた：「私から切り離されないよう気をつけろ。」\n\n私は声を聞いた、そしてそれぞれが\n平和と慈悲のために祈っているように見えた、\n罪を取り除く神の子羊に。\n\n「Agnus Dei（神の子羊）」のみが彼らの冒頭だった；\n全員に一つの言葉と一つの様式があった、\nそのため彼らの間にあらゆる和合があるように見えた。\n\n「師よ、私が聞いているのは霊たちですか？」と\n私は言った。そして彼は私に：「あなたは真実を受け取っている、\n彼らは怒りの結び目を解きながら行っている。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.25–51",
+      "speaker": "Dante-narratore / Marco Lombardo",
+      "original": "\"Or tu chi se' che 'l nostro fummo fendi,\ne di noi parli pur come se tue\npartissi ancor lo tempo per calendi?\"\n\nCosì per una voce detto fue;\nonde 'l maestro mio disse: \"Rispondi,\ne domanda se quinci si va sùe\".\n\nE io: \"O creatura che ti mondi\nper tornar bella a colui che ti fece,\nmaraviglia udirai, se mi secondi\".\n\n\"Io ti seguiterò quanto mi lece\",\nrispuose; \"e se veder fummo non lascia,\nl'udir ci terrà giunti in quella vece\".\n\nAllora incominciai: \"Con quella fascia\nche la morte dissolve men vo suso,\ne venni qui per l'infernale ambascia.\n\nE se Dio m' ha in sua grazia rinchiuso,\ntanto che vuol ch'i' veggia la sua corte\nper modo tutto fuor del moderno uso,\n\nnon mi celar chi fosti anzi la morte,\nma dilmi, e dimmi s'i' vo bene al varco;\ne tue parole fier le nostre scorte\".\n\n\"Lombardo fui, e fu' chiamato Marco;\ndel mondo seppi, e quel valore amai\nal quale ha or ciascun disteso l'arco.\n\nPer montar sù dirittamente vai\".\nCosì rispuose, e soggiunse: \"I' ti prego\nche per me prieghi quando sù sarai\".\n\nE io a lui: \"Per fede mi ti lego\ndi far ciò che mi chiedi; ma io scoppio\ndentro ad un dubbio, s'io non me ne spiego.",
+      "provisionalTranslation": "「さて、あなたは誰で私たちの煙を切り裂き、\nまるであなたがまだ暦で時間を割っているかのように\n私たちについて語っているのか？」\n\nこのように一つの声で言われた；\nそこで私の師は言った：「答えろ、\nそしてここから上に行けるかどうか聞け。」\n\n私は：「おお、あなたを作った方に美しく戻るために\n自ら清めている被造物よ、\n私に従うなら不思議なことを聞くだろう。」\n\n「許される限り私はあなたに従う」と\n彼は答えた；「そして煙が見ることを許さないなら、\n聞くことがその代わりに私たちを繋ぎ合わせておくだろう。」\n\nそれから私は始めた：「死が解く縛りを持ちながら\n私は上へ向かっている、\nそして地獄の苦悩を経てここへ来た。\n\nもし神が私を自らの恩寵に包み込んで、\n完全に現代の慣例の外の方法で\n彼の宮廷を見ることを望むなら、\n\n死ぬ前に誰だったかを私から隠すな、\n私に教えよ、そして私が関所に正しく向かっているかも教えよ；\nあなたの言葉が私たちの案内となるだろう。」\n\n「私はロンバルディア人で、マルコと呼ばれていた；\n世界を知っており、今や誰もが弓を引き絞っている\nあの価値を愛した。\n\n上に登るには直に行っている。」\nこのように彼は答えて付け加えた：「あなたが上に着いた時\n私のために祈ってほしい。」\n\n私は彼に：「約束であなたに誓う\nあなたが求めることをすると；しかし私は\n疑念の中で張り裂けそうだ、もし解消しなければ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.52–84",
+      "speaker": "Dante / Marco Lombardo",
+      "original": "Prima era scempio, e ora è fatto doppio\nne la sentenza tua, che mi fa certo\nqui, e altrove, quello ov'io l'accoppio.\n\nLo mondo è ben così tutto diserto\nd'ogne virtute, come tu mi sone,\ne di malizia gravido e coverto;\n\nma priego che m'addite la cagione,\nsì ch'i' la veggia e ch'i' la mostri altrui;\nché nel cielo uno, e un qua giù la pone\".\n\nAlto sospir, che duolo strinse in \"uhi!\",\nmise fuor prima; e poi cominciò: \"Frate,\nlo mondo è cieco, e tu vien ben da lui.\n\nVoi che vivete ogne cagion recate\npur suso al cielo, pur come se tutto\nmovesse seco di necessitate.\n\nSe così fosse, in voi fora distrutto\nlibero arbitrio, e non fora giustizia\nper ben letizia, e per male aver lutto.\n\nLo cielo i vostri movimenti inizia;\nnon dico tutti, ma, posto ch'i' 'l dica,\nlume v'è dato a bene e a malizia,\n\ne libero voler; che, se fatica\nne le prime battaglie col ciel dura,\npoi vince tutto, se ben si notrica.\n\nA maggior forza e a miglior natura\nliberi soggiacete; e quella cria\nla mente in voi, che 'l ciel non ha in sua cura.",
+      "provisionalTranslation": "まず一重だったのが今や二重になった\nあなたの言葉の中で、私をここで確信させる、\nそしてそれを組み合わせる別の場所で。\n\n世界はあなたが鳴らすように確かにこれほど全て荒廃している\nあらゆる美徳から、\nそして悪意で孕んで覆われている；\n\nしかし原因を示してほしい、\n私がそれを見て他の者に示せるように；\nなぜなら一方は天に、一方はここ下に置いている。」\n\n深い溜め息が苦しみを「ああ！」に圧縮して\n最初に放された；そして彼は始めた：「兄弟よ、\n世界は盲目だ、そしてあなたは確かにそこから来ている。\n\nあなた方生きている者たちはあらゆる原因を\nただ天のせいにする、まるで全てが\n必然性と共に動くかのように。\n\nもしそうなら、あなた方の中で破壊されるだろう\n自由意志が、そして善に対して喜びを持ち\n悪に対して嘆きを持つことは正義ではないだろう。\n\n天はあなた方の動きを始める；\n全部とは言わないが、それを言うとしても、\n善と悪に向かう光があなた方に与えられている、\n\nそして自由意志が；それが天との最初の戦いで\n苦難に耐えるなら、\nよく育てれば後で全てに勝つ。\n\nより大きな力とより良い本性に\nあなた方は自由に従っている；そしてそれが\n天が管轄しない心をあなた方の中に創る。"
+    },
+    {
+      "id": 4,
+      "verses": "v.85–114",
+      "speaker": "Marco Lombardo",
+      "original": "Però, se 'l mondo presente disvia,\nin voi è la cagione, in voi si cheggia;\ne io te ne sarò or vera spia.\n\nEsce di mano a lui che la vagheggia\nprima che sia, a guisa di fanciulla\nche piangendo e ridendo pargoleggia,\n\nl'anima semplicetta che sa nulla,\nsalvo che, mossa da lieto fattore,\nvolontier torna a ciò che la trastulla.\n\nDi picciol bene in pria sente sapore;\nquivi s'inganna, e dietro ad esso corre,\nse guida o fren non torce suo amore.\n\nOnde convenne legge per fren porre;\nconvenne rege aver, che discernesse\nde la vera cittade almen la torre.\n\nLe leggi son, ma chi pon mano ad esse?\nNullo, però che 'l pastor che procede,\nrugumar può, ma non ha l'unghie fesse;\n\nper che la gente, che sua guida vede\npur a quel ben fedire ond'ella è ghiotta,\ndi quel si pasce, e più oltre non chiede.\n\nBen puoi veder che la mala condotta\nè la cagion che 'l mondo ha fatto reo,\ne non natura che 'n voi sia corrotta.\n\nSoleva Roma, che 'l buon mondo feo,\ndue soli aver, che l'una e l'altra strada\nfacean vedere, e del mondo e di Deo.\n\nL'un l'altro ha spento; ed è giunta la spada\ncol pasturale, e l'un con l'altro insieme\nper viva forza mal convien che vada;\n\nperò che, giunti, l'un l'altro non teme:\nse non mi credi, pon mente a la spiga,\nch'ogn'erba si conosce per lo seme.",
+      "provisionalTranslation": "だから、もし現在の世界が迷うなら、\n原因はあなた方の中にある、あなた方の中に求めよ；\n私はあなたにそのことの今の正直な目撃者になろう。\n\n彼が存在する前から慈しむ方の手から出てくる、\n泣きながら笑いながら幼子として遊ぶ\n少女のように、\n\n何も知らない純粋な魂が、\nただ、喜びある造り主によって動かされて、\n自分を楽しませるものに喜んで戻る。\n\nまず小さな善の味を感じる；\nそこで誤り、その後を追う、\n導きや制御が自らの愛を曲げなければ。\n\nそのため制御として法を置くことが必要だった；\n少なくとも真の都市の塔を見分けることができる\n王を持つことが必要だった。\n\n法はある、しかし誰がそれに手を当てるか？\n誰も、なぜなら先を行く司牧者が\n反芻はできるが、蹄は割れていないから；\n\nそのため民は、自分たちの案内者が\n彼が貪欲な善だけを打つのを見て、\nそれで養われ、それ以上は求めない。\n\n確かにあなたには見える、悪い指導こそが\n世界を悪にした原因であることが、\nそしてあなた方の中の本性が腐敗しているのではないことが。\n\nローマは、良い世界を作ったが、\n二つの太陽を持つことが常だった、\n世界の道と神の道の両方を見せるもの。\n\n一方が他方を消した；そして剣が\n司教杖と結合し、両者が一緒に\n生きた力で悪く進まざるを得ない；\n\nなぜなら、結合すると一方は他方を恐れないから：\n私を信じないなら、穂を心に留めよ、\nなぜならあらゆる草はその種で識別されるから。"
+    },
+    {
+      "id": 5,
+      "verses": "v.115–145",
+      "speaker": "Marco Lombardo / Dante",
+      "original": "In sul paese ch'Adice e Po riga,\nsolea valore e cortesia trovarsi,\nprima che Federigo avesse briga;\n\nor può sicuramente indi passarsi\nper qualunque lasciasse, per vergogna,\ndi ragionar coi buoni o d'appressarsi.\n\nBen v'èn tre vecchi ancora in cui rampogna\nl'antica età la nova, e par lor tardo\nche Dio a miglior vita li ripogna:\n\nCurrado da Palazzo e 'l buon Gherardo\ne Guido da Castel, che mei si noma,\nfrancescamente, il semplice Lombardo.\n\nDì oggimai che la Chiesa di Roma,\nper confondere in sé due reggimenti,\ncade nel fango, e sé brutta e la soma\".\n\n\"O Marco mio\", diss'io, \"bene argomenti;\ne or discerno perché dal retaggio\nli figli di Levì furono essenti.\n\nMa qual Gherardo è quel che tu per saggio\ndi' ch'è rimaso de la gente spenta,\nin rimprovèro del secol selvaggio?\".\n\n\"O tuo parlar m'inganna, o el mi tenta\",\nrispuose a me; \"ché, parlandomi tosco,\npar che del buon Gherardo nulla senta.\n\nPer altro sopranome io nol conosco,\ns'io nol togliessi da sua figlia Gaia.\nDio sia con voi, ché più non vegno vosco.\n\nVedi l'albor che per lo fummo raia\ngià biancheggiare, e me convien partirmi\n(l'angelo è ivi) prima ch'io li paia\".\n\nCosì tornò, e più non volle udirmi.",
+      "provisionalTranslation": "アーディジェ川とポー川が潤す土地では、\nフェデリーコが争いを持つ前には、\n価値と礼節が見つかることが常だった；\n\n今では誰でもそこを安全に通り過ぎることができる、\n恥ずかしさのために善人たちと\n話したり近づいたりすることをやめた者なら。\n\nしかし三人の老人はまだいて、その中で\n古い時代が新しい時代を叱責し、神が\n彼らをより良い生活に呼び戻すのを遅いと思っている：\n\nパラッツォのコッラード、善きゲラルド、\nそしてカスティルのグイドで、彼はより良く呼ばれる、\nフランス的に、単純なロンバルド人と。\n\nもう言え、ローマ教会は、\n二つの支配を自身の中に混同することで、\n泥の中に落ち、自分を汚し、荷も汚す、と。」\n\n「おおマルコよ」と私は言った、「あなたはよく論じる；\nそして今私には分かる、なぜレビ族の子らが\n遺産から除外されていたかが。\n\nしかしあなたが賢者として残っていると言う\nそのゲラルドとは誰か、野蛮な世紀への\n非難として、滅んだ人々の中の。」\n\n「あなたの言葉が私を騙している、あるいは試している」と\n彼は私に答えた；「なぜならトスカーナ語で話しながら、\n善きゲラルドについて何も知らないように見えるから。\n\n他の名前では私は彼を知らない、\nもし彼の娘ガイアから取らなければ。\n神があなた方と共にあれ、なぜなら私はもうあなた方と来ない。\n\n煙の中で既に白んできているあの曙の光を見よ、\n私は出発しなければならない\n（天使がいる）彼に現れる前に。」\n\nこのようにして彼は戻り、それ以上私の言葉を聞こうとしなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Buio d'inferno e di notte privata\nd'ogne pianeto, sotto pover cielo,\nquant'esser può di nuvol tenebrata,",
+      "body": "「地獄の暗闇と、全ての惑星を失った夜が、貧しい空の下で、雲でこれほど暗くされうるだけの（Buio d'inferno e di notte privata / d'ogne pianeto）」──怒りの圏の煙の暗闇を定義する三重の比較。「地獄の暗闇（buio d'inferno）」・「惑星のない夜（notte privata d'ogne pianeto）」・「雲に覆われた空（di nuvol tenebrata）」という三つの「最も暗い状態」が全て、ここの煙に「及ばない（non fece...sì grosso velo）」という超越的な暗さ。地獄篇第3歌「aere sanza stelle（星のない大気）」という地獄の定義的暗闇を「それよりさらに暗い」として参照することで、煉獄の怒りの圏が地獄を超える感覚的強度を持つ逆説が生まれる──煉獄は「地獄より苦しい」瞬間があるという詩的な逆転。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sì come cieco va dietro a sua guida\nper non smarrirsi e per non dar di cozzo\nin cosa che 'l molesti, o forse ancida,",
+      "body": "「目の見えない者が迷子にならないために、またつまずいて悩ませるものにあるいは殺すものに当たらないために案内者の後についていくように（Sì come cieco va dietro a sua guida）」──盲者の比喩が煉獄篇第3歌「o dignitosa coscïenza e netta（おお品格あり潔白な良心よ）」でのウェルギリウスへの依存と連続する。「cieco（盲目）」という語がPara 3のマルコの「lo mondo è cieco（世界は盲目だ）」と照応する：身体的な盲目（煙）が精神的・道徳的な「世界の盲目」の詩的予告として機能する。「per non dar di cozzo（つまずいて当たらないために）」──「cozzo（頭突き・つまずき）」という俗語的身体語彙が煉獄篇の具体的な身体性を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Io sentia voci, e ciascuna pareva\npregar per pace e per misericordia\nl'Agnel di Dio che le peccata leva.\n\nPur 'Agnus Dei' eran le loro essordia;\nuna parola in tutte era e un modo,\nsì che parea tra esse ogne concordia.",
+      "body": "「それぞれが神の子羊に平和と慈悲のために祈っているように見えた……「Agnus Dei」のみが彼らの冒頭だった；全員に一つの言葉と一つの様式があった（Pur 'Agnus Dei' eran le loro essordia）」──「Agnus Dei（神の子羊）」はヨハネ1:29「見よ、世の罪を取り除く神の子羊（Ecce Agnus Dei, qui tollit peccatum mundi）」の典礼的引用。ミサの典礼文「Agnus Dei, qui tollis peccata mundi, dona eis pacem（神の子羊、世の罪を取り除く者よ、彼らに平和を与えたまえ）」の直接引用。「una parola in tutte era e un modo（全員に一つの言葉と一つの様式があった）」──「怒り（ira）」の罪が「分裂・不和」として定義されるのに対し、その浄化の典礼は「一つの言葉・一つの様式・あらゆる和合（ogne concordia）」として描かれる：罪の対極が刑罰と浄化の形式を決定する。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "\"Quei sono spirti, maestro, ch'i' odo?\",\ndiss'io. Ed elli a me: \"Tu vero apprendi,\ne d'iracundia van solvendo il nodo\".",
+      "body": "「彼らは怒りの結び目を解きながら行っている（d'iracundia van solvendo il nodo）」──「nodo（結び目）」という語の神学的・詩的射程。「結び目を解く（solvere il nodo）」：怒りは人間の魂と神・他者との間を「結ぶ」悪しき絆として定義される。煉獄でその「結び目が解かれる（solvendo）」という動詞が浄化の本質を示す。天国篇第33歌Para 3「La forma universal di questo nodo（この結び目の普遍的形式）」では「愛が宇宙全体を一つの結び目として結ぶ」という対極的な「良い結び目（nodo amoroso）」が描かれる：「怒りの結び目（nodo d'iracundia）」の解消が「愛の結び目」への道。ヨハネ福音書13:34「互いに愛し合え（Diligite invicem）」という「愛の結び目」の命題の詩的文脈として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Con quella fascia\nche la morte dissolve men vo suso,\ne venni qui per l'infernale ambascia.",
+      "body": "「死が解く縛りを持ちながら私は上へ向かっている、そして地獄の苦悩を経てここへ来た（Con quella fascia / che la morte dissolve men vo suso）」──ダンテの自己紹介の核心。「死が解く縛り（fascia che la morte dissolve）」は「肉体」の詩的婉曲表現：死によってのみ解かれる「縛り（fascia）」＝肉体を持ちながらという意味。第3歌でダンテが「questa è corpo uman che voi vedete（これはあなた方が見ている人間の体だ）」と説明した事実の変奏。「l'infernale ambascia（地獄の苦悩）」──「ambascia（苦悩・苦しみ）」という語が地獄篇全体を「苦悩」として圧縮する。「per l'infernale ambascia（地獄の苦悩を経て）」という前置詞句が地獄の旅の全過程を一語に凝縮する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "\"Lombardo fui, e fu' chiamato Marco;\ndel mondo seppi, e quel valore amai\nal quale ha or ciascun disteso l'arco.",
+      "body": "「私はロンバルディア人で、マルコと呼ばれていた；世界を知っており、今や誰もが弓を引き絞っているあの価値を愛した（del mondo seppi, e quel valore amai / al quale ha or ciascun disteso l'arco）」──マルコの自己定義が三段階。①地理的アイデンティティ「Lombardo（ロンバルディア人）」。②経験的知識「del mondo seppi（世界を知っていた）」──廷臣・詩人としての世俗的知識。③道徳的価値への愛「quel valore amai（あの価値を愛した）」──「al quale ha or ciascun disteso l'arco（今や誰もが弓を引き絞っている）」という反語的現在：かつてマルコが愛した「価値（valore）」に向けて今や誰もが「弓を引き絞る（disteso l'arco）」──狩猟・戦争の弓の比喩で「価値を破壊しようとする」の意。騎士的価値観の喪失への諷刺。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Alto sospir, che duolo strinse in \"uhi!\",\nmise fuor prima; e poi cominciò: \"Frate,\nlo mondo è cieco, e tu vien ben da lui.",
+      "body": "「深い溜め息が苦しみを『ああ！』に圧縮して最初に放された；そして彼は始めた：『兄弟よ、世界は盲目だ、そしてあなたは確かにそこから来ている（lo mondo è cieco, e tu vien ben da lui）』」──「Alto sospir（深い溜め息）」が発言に先立つ：コヘレト的な「afflictio spiritus（霊の苦悩）」の詩的身体化。「duolo strinse in 'uhi!'（苦しみを『ああ！』に圧縮して）」──感情が言語に先立つ：言語化される前の「ああ！」という叫びが苦悩の深さを示す。「lo mondo è cieco（世界は盲目だ）」──第1段落の身体的な「盲目（cieco va dietro a sua guida）」が精神的・道徳的な「世界の盲目」として拡張される詩的構造の完成。「Frate（兄弟よ）」という呼称：煉獄篇全体での同伴・連帯の感覚。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Se così fosse, in voi fora distrutto\nlibero arbitrio, e non fora giustizia\nper ben letizia, e per male aver lutto.",
+      "body": "「もしそうなら、あなた方の中で破壊されるだろう自由意志が、そして善に対して喜びを持ち悪に対して嘆きを持つことは正義ではないだろう（Se così fosse, in voi fora distrutto / libero arbitrio）」──自由意志論の核心命題。「自由意志（libero arbitrio）」を否定することは「正義（giustizia）」を否定することと等しい：善への賞（喜び）・悪への罰（嘆き）という神の正義のシステムが「自由意志の存在」を前提とする。決定論（天体の必然的影響）と自由意志の対立：マルコの議論は単純な「自由意志の肯定」ではなく「天の影響を認めつつも自由意志が残る（poi vince tutto，se ben si notrica）」という弁証法的な立場。第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」というウェルギリウスの最後の言葉の哲学的基盤がここで設定される。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "A maggior forza e a miglior natura\nliberi soggiacete; e quella cria\nla mente in voi, che 'l ciel non ha in sua cura.",
+      "body": "「より大きな力とより良い本性にあなた方は自由に従っている；そしてそれが天が管轄しない心をあなた方の中に創る（quella cria / la mente in voi, che 'l ciel non ha in sua cura）」──「'l ciel non ha in sua cura（天が管轄しない）」という命題が自由意志の哲学的根拠を示す。「心（mente）」は天体の影響を受けない──肉体・感情・欲望は天体の影響下にあるが、「心（mente）」＝理性的魂は神の直接的な創造として天体の支配外にある。トマス・アクィナス『神学大全』I, q.115「天体は人間の知性に直接作用しない（caelestia corpora non possunt directe in intellectum agere）」という命題の詩的定式化。第3歌ウェルギリウスの「Matto è chi spera che nostra ragione / possa trascorrer la infinita via」という理性の「限界」と対照的に、ここでは理性の「自律性」が強調される。",
+      "targetId": "dante_purgatorio_canto_3",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Esce di mano a lui che la vagheggia\nprima che sia, a guisa di fanciulla\nche piangendo e ridendo pargoleggia,\n\nl'anima semplicetta che sa nulla,\nsalvo che, mossa da lieto fattore,\nvolontier torna a ciò che la trastulla.",
+      "body": "「彼が存在する前から慈しむ方の手から出てくる、泣きながら笑いながら幼子として遊ぶ少女のように、何も知らない純粋な魂が（l'anima semplicetta che sa nulla, / salvo che, mossa da lieto fattore, / volontier torna a ciò che la trastulla）」──神曲全体で最も詩的に美しい「魂の本性論」の一節。「di mano a lui che la vagheggia / prima che sia（彼が存在する前から慈しむ方の手から）」──神の「先行する愛（amor praeveniens）」：魂は存在する前から神に愛されている。第33歌のベルナールの「先回りする慈悲（liberamente al domandar precorre）」の哲学的根拠。「a guisa di fanciulla / che piangendo e ridendo pargoleggia（泣きながら笑いながら幼子として遊ぶ少女のように）」──「piangendo e ridendo（泣きながら笑いながら）」という生の両極の同時性：魂の生まれたての純粋な不安定さ。ヴェイユ「Décréation」での「魂は神から直接来る純粋な力」という命題の詩的先行形として機能する。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Di picciol bene in pria sente sapore;\nquivi s'inganna, e dietro ad esso corre,\nse guida o fren non torce suo amore.",
+      "body": "「まず小さな善の味を感じる；そこで誤り、その後を追う、導きや制御が自らの愛を曲げなければ（Di picciol bene in pria sente sapore; / quivi s'inganna, e dietro ad esso corre, / se guida o fren non torce suo amore）」──「picciol bene（小さな善）」という概念が魂の道徳的迷走の起点。「sapore（味）」という感覚的語彙：善の認識が「知的判断」ではなく「味（味覚）」として描かれる──感覚的な欲望としての「小さな善」への引力。「guida o fren（導きや制御）」という二元的な矯正の必要性：「導き（guida）」は積極的に正しい方向を示す（法・王の役割）、「制御（fren）」は欲望を抑制する（法の強制力）。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」──満足しない欲望の構造と「小さな善に誤る魂」の照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Soleva Roma, che 'l buon mondo feo,\ndue soli aver, che l'una e l'altra strada\nfacean vedere, e del mondo e di Deo.\n\nL'un l'altro ha spento; ed è giunta la spada\ncol pasturale, e l'un con l'altro insieme\nper viva forza mal convien che vada;",
+      "body": "「ローマは、良い世界を作ったが、二つの太陽を持つことが常だった、世界の道と神の道の両方を見せるもの。一方が他方を消した（Soleva Roma...due soli aver / L'un l'altro ha spento）」──神曲全体で最も有名な政治哲学的命題の一つ。「二つの太陽（due soli）」：世俗権（剣・皇帝）と教会権（司教杖・教皇）をそれぞれ「太陽」として等価に定義する。ダンテの帝政論（De Monarchia）の詩的凝縮：両権は独立した権威を持つべきであり、一方が他方に従属・吸収されてはならない。「L'un l'altro ha spento（一方が他方を消した）」──教皇権が皇帝権を実質的に吸収したことへの批判。「ed è giunta la spada / col pasturale（剣が司教杖と結合した）」──「結合（giunta）」という語が「両権の混同」という腐敗の原因を一語で示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "In sul paese ch'Adice e Po riga,\nsolea valore e cortesia trovarsi,\nprima che Federigo avesse briga;",
+      "body": "「アーディジェ川とポー川が潤す土地では、フェデリーコが争いを持つ前には、価値と礼節が見つかることが常だった（solea valore e cortesia trovarsi, / prima che Federigo avesse briga）」──「フェデリーコ（Federico）」は神聖ローマ皇帝フリードリヒ2世（1194–1250）を指す。北イタリアにおける彼の治世と教皇との争いが騎士的価値（valore）と宮廷的礼節（cortesia）を崩壊させたという歴史的評価。「adiatur Po（アーディジェ川とポー川）」はヴェネト・ロンバルディア平原の地理的定義：北イタリアの文化的黄金時代の地域的限定。煉獄篇第24歌でフォレーゼが「フィレンツェは日ごとに善から剥ぎ取られる」と語る文脈での都市・地域批判と連続する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "allusion",
+      "anchor": "\"O Marco mio\", diss'io, \"bene argomenti;\ne or discerno perché dal retaggio\nli figli di Levì furono essenti.",
+      "body": "「おおマルコよ、あなたはよく論じる；そして今私には分かる、なぜレビ族の子らが遺産から除外されていたかが（e or discerno perché dal retaggio / li figli di Levì furono essenti）」──「レビ族（figli di Levì）の遺産除外」は民数記18:20–24の典拠。旧約聖書でイスラエルの12部族のうち、レビ族（祭司の部族）は土地の遺産（領土）を受け取らなかった──彼らの「遺産（retaggio）」は神ご自身であり物質的財産ではない。マルコの「二つの太陽論」──教会は霊的な権威のみを持つべきであり、世俗的財産・権力を持つべきではない──の聖書的根拠としてダンテが引用する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "\"Vedi l'albor che per lo fummo raia\ngià biancheggiare, e me convien partirmi\n(l'angelo è ivi) prima ch'io li paia\".\n\nCosì tornò, e più non volle udirmi.",
+      "body": "「煙の中で既に白んできているあの曙の光を見よ、私は出発しなければならない（Vedi l'albor che per lo fummo raia / già biancheggiare）」──「albore（曙の光）」が煙の中に白んでくるという視覚的転換の詩的描写。第1段落で「目が開けられない」ほどの暗闇として始まった煙の圏が、最後に「白い光が差し込む」場面で終わる──暗闇から光への転換がマルコの議論（「世界の盲目」→「自由意志による光への回帰」）を視覚的に完成する。「l'angelo è ivi（天使がいる）」という括弧書き：各圏を通過する際に現れる天使の到来。「Così tornò, e più non volle udirmi（このようにして彼は戻り、それ以上私の言葉を聞こうとしなかった）」──唐突な別れの詩的効果：対話の終わりを説明せず行動で示す簡潔さ。第3歌のマンフレーディの別れ（「Vedi oggimai se tu mi puoi far lieto」）との対比：マンフレーディは伝言を頼むが、マルコは任務を完遂したら消える。",
+      "targetId": "dante_purgatorio_canto_3",
+      "targetParagraphId": 6
+    }
+  ]
+}
