@@ -1,0 +1,169 @@
+{
+  "id": "dante_inferno_canto_4",
+  "title": "Inferno — Canto IV",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_IV（2026年4月24日版）",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "IV",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "地獄篇第4歌はリンボ（Limbo）──洗礼を受けていない者と、キリスト以前の異教の義人たちが住む第一圏──の場面。罰のない嘆き（sospiri）のみの「かすかな苦しみ（duol sanza martìri）」が充満する空間であり、ここにウェルギリウス自身も属する。「sanza speme vivemo in disio（希望なく欲望の中に生きる）」というウェルギリウスの自己告白が、この空間の定義的命題。コヘレト第1章の「afflictio spiritus（霊の苦悩）」──充たされない欲望の根源的苦悩──と最も直接的に照応する地獄の形式。\n\n第3歌Para 2のウェルギリウス「il ben de l'intelletto（知性の善）」という表現で予告されたように、リンボの住人たちは「知性の善を失った者たち」──神の認識（visio beatifica）に永遠に達しない状態に置かれている。しかし彼らは罪を犯したために罰せられているのではなく、「洗礼（baptesmo）・キリスト教以前の不知（non adorar debitamente a Dio）」という「欠如」のために「望みながら届かない」状態に留まる。キリストの降下（harrowing of hell）によりアダム・アベル・ノア・モーセ・アブラハム・ダヴィデ・ラケルらヘブライの義人たちが救出されたという神学的事実がここで語られる。\n\n後半の「高貴な城（nobile castello）」と詩人・哲人・英雄たちのカタログは古代文明の遺産への敬意の場面。「Onorate l'altissimo poeta（最高の詩人を讃えよ）」というホメロスへの歓呼、「bella scola（美しい学派）」という詩人たちの集合、「il maestro di color che sanno（知る者たちの師）」というアリストテレスへの称号が神曲全体の詩学的・哲学的基盤を定義する。煉獄篇第3歌でウェルギリウスが「io dico d'Aristotile e di Plato...e qui chinò la fronte（アリストテレスとプラトンのことを言っている、そして頭を傾けた）」と語る場面がここへの直接的な詩的参照。",
+  "keywords": [
+    "リンボ", "sanza speme vivemo in disio", "洗礼", "il ben de l'intelletto",
+    "bella scola", "Onorate l'altissimo poeta", "il maestro di color che sanno",
+    "harrowing of hell", "高貴な城", "七つの壁", "アリストテレス", "ホメロス"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_3",
+    "dante_purgatorio_canto_3",
+    "dante_purgatorio_canto_16",
+    "dante_paradiso_canto_3",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_accepter_le_vide",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–24",
+      "speaker": "Dante-narratore",
+      "original": "Ruppemi l'alto sonno ne la testa\nun greve truono, sì ch'io mi riscossi\ncome persona ch'è per forza desta;\n\ne l'occhio riposato intorno mossi,\ndritto levato, e fiso riguardai\nper conoscer lo loco dov'io fossi.\n\nVero è che 'n su la proda mi trovai\nde la valle d'abisso dolorosa\nche 'ntrono accoglie d'infiniti guai.\n\nOscura e profonda era e nebulosa\ntanto che, per ficcar lo viso a fondo,\nio non vi discernea alcuna cosa.\n\n\"Or discendiam qua giù nel cieco mondo\",\ncominciò il poeta tutto smorto.\n\"Io sarò primo, e tu sarai secondo\".\n\nE io, che del color mi fui accorto,\ndissi: \"Come verrò, se tu paventi\nche suoli al mio dubbiare esser conforto?\".\n\nEd elli a me: \"L'angoscia de le genti\nche son qua giù, nel viso mi dipigne\nquella pietà che tu per tema senti.\n\nAndiam, ché la via lunga ne sospigne\".\nCosì si mise e così mi fé intrare\nnel primo cerchio che l'abisso cigne.",
+      "provisionalTranslation": "重い雷が頭の中で深い眠りを壊した、\nそのため私は震え上がった、\n強制的に起こされた人のように；\n\nそして休まった目を周りに向け、\n真っ直ぐ起き上がって、じっと見つめた、\n私がどこにいるかを知るために。\n\n真実は、私が発見したのは苦しみの奈落の\n縁の上に立っていたことだった、\n無限の嘆きの轟きを集めている。\n\n暗く深く霧がかっていた、\nそれほどに、視力を底まで突き刺しても、\n私には何も識別できなかった。\n\n「さあ、こちら下の盲目の世界へ降りよう」と、\n詩人は全く蒼白になって始めた。\n「私が先に、あなたが後に。」\n\nそして私は、その色に気づいて、\n言った：「どうして行けるか、あなたが怯えているなら、\n私の迷いへの慰めとなることが常のあなたが？」\n\n彼は私に：「ここ下にいる人々の苦悩が\n顔に描く、あなたが恐れとして感じる\nあの憐れみを。\n\n行こう、長い道が私たちを急かす。」\nそのようにして彼は進み、そのようにして私を導いた\n奈落を囲む第一の圏へ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.25–45",
+      "speaker": "Dante-narratore / Virgilio",
+      "original": "Quivi, secondo che per ascoltare,\nnon era pianto mai che di sospiri\nche l'aura etterna facevan tremare;\n\nciò avvenia di duol sanza martìri,\nch'avean le turbe, ch'eran molte e grandi,\nd'infanti e di femmine e di viri.\n\nLo buon maestro a me: \"Tu non dimandi\nche spiriti son questi che tu vedi?\nOr vo' che sappi, innanzi che più andi,\n\nch'ei non peccaro; e s'elli hanno mercedi,\nnon basta, perché non ebber battesmo,\nch'è porta de la fede che tu credi;\n\ne s'e' furon dinanzi al cristianesmo,\nnon adorar debitamente a Dio:\ne di questi cotai son io medesmo.\n\nPer tai difetti, non per altro rio,\nsemo perduti, e sol di tanto offesi\nche sanza speme vivemo in disio\".\n\nGran duol mi prese al cor quando lo 'ntesi,\nperò che gente di molto valore\nconobbi che 'n quel limbo eran sospesi.",
+      "provisionalTranslation": "そこでは、聴くことによると、\n永遠の大気を震わせる溜め息の\n泣き声だけしかなかった；\n\nこれは苦悩を持つ群衆に起きた、\n大勢の大きな群れが、\n罰のない悲しみを持つ幼子、女、男の。\n\n善き師は私に：「あなたはここに見える\n霊たちが誰かを尋ねないのか？\nさらに進む前に、知っておいてほしい、\n\n彼らは罪を犯さなかった；そして功績があっても\n十分ではない、なぜなら洗礼を持たないから、\nそれはあなたが信じる信仰の門だ；\n\nそしてもし彼らがキリスト教以前にいたなら、\n神を適切に崇拝しなかった：\nこのような者たちのうちに私自身もいる。\n\nそのような欠如のために、他の悪のためではなく、\n私たちは失われた、そしてただこれだけを傷つけられた、\n希望なく欲望の中に生きることを。」\n\n大きな悲しみが私の心を捕らえた、聞いた時に、\nなぜなら、多くの価値を持つ人々が\nそのリンボに宙吊りにされているのを知ったから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.46–63",
+      "speaker": "Dante / Virgilio",
+      "original": "\"Dimmi, maestro mio, dimmi, segnore\",\ncomincia' io per volere esser certo\ndi quella fede che vince ogne errore:\n\n\"uscicci mai alcuno, o per suo merto\no per altrui, che poi fosse beato?\".\nE quei che 'ntese il mio parlar coverto,\n\nrispuose: \"Io era nuovo in questo stato,\nquando ci vidi venire un possente,\ncon segno di vittoria coronato.\n\nTrasseci l'ombra del primo parente,\nd'Abèl suo figlio e quella di Noè,\ndi Moïsè legista e ubidente;\n\nAbraàm patrïarca e Davìd re,\nIsraèl con lo padre e co' suoi nati\ne con Rachele, per cui tanto fé,\n\ne altri molti, e feceli beati.\nE vo' che sappi che, dinanzi ad essi,\nspiriti umani non eran salvati\".",
+      "provisionalTranslation": "「教えてくれ、私の師よ、教えてくれ、主よ」と\n私はあらゆる誤りを打ち負かす\nその信仰について確かめたくて始めた：\n\n「誰かがここを出たことがあるか、自分の功績によっても\nあるいは他者のものによっても、後に幸いとなった者が？」\n私の遠回しな言葉を理解した彼は、\n\n答えた：「私はこの状態に新しかった、\nある強力な者が来るのを見た時に、\n勝利の印を戴いて。\n\n彼は最初の祖先の霊を引き出した、\n彼の子アベルの霊とノアのものを、\n法律家にして従順なモーセを；\n\n族長アブラハムと王ダヴィデを、\nイスラエルと父と彼の子らたちと、\n彼がこれほど多くのことをしたラケルと共に、\n\nそして他の多くの者を、そして彼らを幸いにした。\nそして、彼らより前には、\n人間の霊は救われていなかったことを知ってほしい。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.64–81",
+      "speaker": "Dante-narratore",
+      "original": "Non lasciavam l'andar perch'ei dicessi,\nma passavam la selva tuttavia,\nla selva, dico, di spiriti spessi.\n\nNon era lunga ancor la nostra via\ndi qua dal sonno, quand'io vidi un foco\nch'emisperio di tenebre vincia.\n\nDi lungi n'eravamo ancora un poco,\nma non sì ch'io non discernessi in parte\nch'orrevol gente possedea quel loco.\n\n\"O tu ch'onori scïenzïa e arte,\nquesti chi son c' hanno cotanta onranza,\nche dal modo de li altri li diparte?\".\n\nE quelli a me: \"L'onrata nominanza\nche di lor suona sù ne la tua vita,\ngrazïa acquista in ciel che sì li avanza\".\n\nIntanto voce fu per me udita:\n\"Onorate l'altissimo poeta;\nl'ombra sua torna, ch'era dipartita\".\n\nPoi che la voce fu restata e queta,\nvidi quattro grand'ombre a noi venire:\nsembianz'avevan né trista né lieta.",
+      "provisionalTranslation": "私たちは彼が話すために歩みを止めなかった、\nしかしずっと密林を通り過ぎていた、\n密林、つまり密集した霊たちの。\n\nまだ私たちの道は眠りから長くなかった、\n私が一つの光を見た時、\n暗闇の半球を打ち負かす光を。\n\n私たちはまだ少し遠くにいた、\nしかし十分近くて一部識別できた、\n名誉ある人々がその場所を占有していることを。\n\n「おお、知識と芸術を称える者よ、\nこれほどの名誉を持つ者たちは誰か、\n他の者たちの様式から彼らを区別する？」\n\n彼は私に：「彼らの称えられた名声が\nあなたの生の上に鳴り響く、\n天において恩寵を獲得してこれほど彼らを高める。」\n\nその間に声が私によって聞かれた：\n「最高の詩人を讃えよ；\n彼の霊が戻る、それは離れていた。」\n\n声が止まって静かになった後、\n私は四つの大きな影が私たちの方に来るのを見た：\n彼らは悲しくも喜ばしくもない外見を持っていた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.82–105",
+      "speaker": "Dante-narratore / Virgilio",
+      "original": "Lo buon maestro cominciò a dire:\n\"Mira colui con quella spada in mano,\nche vien dinanzi ai tre sì come sire:\n\nquelli è Omero poeta sovrano;\nl'altro è Orazio satiro che vene;\nOvidio è 'l terzo, e l'ultimo Lucano.\n\nPerò che ciascun meco si convene\nnel nome che sonò la voce sola,\nfannomi onore, e di ciò fanno bene\".\n\nCosì vid'i' adunar la bella scola\ndi quel segnor de l'altissimo canto\nche sovra li altri com'aquila vola.\n\nDa ch'ebber ragionato insieme alquanto,\nvolsersi a me con salutevol cenno,\ne 'l mio maestro sorrise di tanto;\n\ne più d'onore ancora assai mi fenno,\nch'e' sì mi fecer de la loro schiera,\nsì ch'io fui sesto tra cotanto senno.\n\nCosì andammo infino a la lumera,\nparlando cose che 'l tacere è bello,\nsì com'era 'l parlar colà dov'era.\n\nVenimmo al piè d'un nobile castello,\nsette volte cerchiato d'alte mura,\ndifeso intorno d'un bel fiumicello.",
+      "provisionalTranslation": "善き師は言い始めた：\n「あの三人の前に主のように来るのを、\n手に剣を持ったあの者を見よ：\n\nあれはホメロス、至高の詩人だ；\n次に来るのはホラティウス、諷刺詩人；\nオウィディウスが三番目、ルカヌスが最後だ。\n\n声だけが鳴らした名前で\nそれぞれが私と一致するから、\n彼らは私に名誉をなし、そしてそれをして正しい。」\n\nそのようにして私は見た集まるのを、最高の歌の\nあの主の美しい学派が、\n鷲のように他の者たちの上を飛ぶ。\n\n彼らがしばらく共に話した後、\n挨拶の合図で私に向き直った、\nそして私の師はそれほどのことに微笑んだ；\n\nそしてさらに多くの名誉を私にした、\n彼らが私を自分たちの一員にしたことで、\nそのため私はこれほどの知性の中で六番目となった。\n\nそのように私たちは光まで進んだ、\n沈黙が美しいものについて話しながら、\n言葉が美しかったのと同様にその場所で。\n\n私たちは高貴な城の麓に来た、\n七度高い壁で囲まれ、\n美しい小川で周囲を守られた。"
+    },
+    {
+      "id": 6,
+      "verses": "v.106–151",
+      "speaker": "Dante-narratore",
+      "original": "Questo passammo come terra dura;\nper sette porte intrai con questi savi:\ngiugnemmo in prato di fresca verdura.\n\nGenti v'eran con occhi tardi e gravi,\ndi grande autorità ne' lor sembianti:\nparlavan rado, con voci soavi.\n\nTraemmoci così da l'un de' canti,\nin loco aperto, luminoso e alto,\nsì che veder si potien tutti quanti.\n\nColà diritto, sovra 'l verde smalto,\nmi fuor mostrati li spiriti magni,\nche del vedere in me stesso m'essalto.\n\nI' vidi Eletra con molti compagni,\ntra ' quai conobbi Ettòr ed Enea,\nCesare armato con li occhi grifagni.\n\nVidi Cammilla e la Pantasilea;\nda l'altra parte vidi 'l re Latino\nche con Lavina sua figlia sedea.\n\nVidi quel Bruto che cacciò Tarquino,\nLucrezia, Iulia, Marzïa e Corniglia;\ne solo, in parte, vidi 'l Saladino.\n\nPoi ch'innalzai un poco più le ciglia,\nvidi 'l maestro di color che sanno\nseder tra filosofica famiglia.\n\nTutti lo miran, tutti onor li fanno:\nquivi vid'ïo Socrate e Platone,\nche 'nnanzi a li altri più presso li stanno;\n\nDemocrito che 'l mondo a caso pone,\nDïogenès, Anassagora e Tale,\nEmpedoclès, Eraclito e Zenone;\n\ne vidi il buono accoglitor del quale,\nDïascoride dico; e vidi Orfeo,\nTulïo e Lino e Seneca morale;\n\nEuclide geomètra e Tolomeo,\nIpocràte, Avicenna e Galïeno,\nAveroìs che 'l gran comento feo.\n\nIo non posso ritrar di tutti a pieno,\nperò che sì mi caccia il lungo tema,\nche molte volte al fatto il dir vien meno.\n\nLa sesta compagnia in due si scema:\nper altra via mi mena il savio duca,\nfuor de la queta, ne l'aura che trema.\n\nE vegno in parte ove non è che luca.",
+      "provisionalTranslation": "これを私たちは固い地面として渡った；\n七つの門から私はこれらの賢者たちと入った：\n私たちは新鮮な緑の草地に到着した。\n\nそこには目が遅く重い人々がいた、\n外見に大きな権威を持つ：\nまれに話した、柔らかな声で。\n\nそのようにして私たちは一方の隅に退いた、\n開かれた、明るく高い場所に、\n全員が見えるように。\n\nそこで直接、緑の法琅の上に、\n偉大な霊たちが私に示された、\n見ることで私は自分の中で高揚する。\n\n私はエレクトラと多くの仲間を見た、\nその中にヘクトルとエネアスを認識した、\n猛禽の目をしたカエサルが武装して。\n\nカミッラとペンテシレアを見た；\n向こう側に私はラテン王を見た、\n娘ラヴィニアと共に座っていた。\n\n私はタルクィニウスを追い払ったブルートゥスを見た、\nルクレツィア、ユリア、マルキア、コルネリア；\nそして一人で、離れた場所に、サラディンを見た。\n\nそれから少し目を高く上げた後、\n知る者たちの師が\n哲学的一族の中に座っているのを見た。\n\n全員が彼を眺め、全員が彼に名誉をする：\nそこで私はソクラテスとプラトンを見た、\n他の者たちより前に彼の最も近くにいる；\n\n世界を偶然に置くデモクリトス、\nディオゲネス、アナクサゴラス、タレス、\nエンペドクレス、ヘラクレイトス、ゼノン；\n\nそして彼について私は善い収集者を見た、\nディオスコリデスのことを言う；そしてオルフェウスを見た、\nキケロとリヌスと道徳のセネカ；\n\n幾何学者エウクレイデスとプトレマイオスを、\nヒポクラテス、アヴィケンナ、ガレノスを、\n大いなる注解を作ったアヴェロエスを。\n\n私は全員について十分に語ることができない、\nなぜなら長い主題が私をこれほど追い立てるから、\n多くの場合言葉が事実より少なくなる。\n\n六人の一行は二つに減る：\n賢い師が私を別の道に導く、\n静寂の外へ、震える大気の中へ。\n\nそして私は光るものが何もない部分に来る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ruppemi l'alto sonno ne la testa\nun greve truono, sì ch'io mi riscossi\ncome persona ch'è per forza desta;",
+      "body": "「重い雷が頭の中で深い眠りを壊した（Ruppemi l'alto sonno ne la testa / un greve truono）」──「alto sonno（深い眠り）」は第3歌末尾「caddi come l'uom cui sonno piglia（眠りに捕らわれた人のように倒れた）」の継続。「眠り（sonno）」による失神が旅の段落転換点となるパターン（第1歌「pien di sonno（眠りに満ちた）」→第3歌「sonno piglia」→第4歌「Ruppemi l'alto sonno」）の第三例。「greve truono（重い雷）」という目覚めの暴力的な音響が第3歌の「terra lagrimosa diede vento, / che balenò una luce vermiglia（大地が風を与え、赤い光が閃いた）」という自然現象と照応する：地獄の各段階の境界が自然的暴力（嵐・雷）によって区切られる。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "\"Or discendiam qua giù nel cieco mondo\",\ncominciò il poeta tutto smorto.\n\"Io sarò primo, e tu sarai secondo\".",
+      "body": "「さあ、こちら下の盲目の世界へ降りよう（Or discendiam qua giù nel cieco mondo）」──「cieco mondo（盲目の世界）」という地獄全体の詩的定義。第3歌Para 5の「aere sanza stelle（星のない大気）」と並ぶ地獄の暗闇の定義的表現：光（視覚）の完全な不在。煉獄篇第16歌でマルコ・ロンバルドが「lo mondo è cieco（世界は盲目だ）」と言う場面への伏線：地獄が「盲目の世界」であるように、地上も「道徳的に盲目な世界」であるという詩的照応。「tutto smorto（全く蒼白になって）」──第1歌でウェルギリウスが「famoso saggio（著名な賢者）」として圧倒的な権威を持つ存在として登場した後、ここで初めて「蒼白（smorto）」という感情的動揺を見せる：理性（ウェルギリウス）の人間的な脆弱性の最初の表示。",
+      "targetId": "dante_purgatorio_canto_16",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "ciò avvenia di duol sanza martìri,\nch'avean le turbe, ch'eran molte e grandi,\nd'infanti e di femmine e di viri.",
+      "body": "「これは罰のない悲しみを持つ群衆に起きた（ciò avvenia di duol sanza martìri）」──「duol sanza martìri（罰のない悲しみ）」というリンボの定義的命題。「martìri（殉教・罰・苦悩）」という語：能動的な罰（active punishment）のない純粋な「悲しみ（duol）」のみ。神曲の地獄では各罪に対応する「対称的刑罰（contrapasso）」が与えられるが、リンボの住人は罪を犯していないため「刑罰がない」──しかし「神の不在への悲しみ（duol）」は存在する。「d'infanti e di femmine e di viri（幼子、女、男の）」という三重の列挙が人類全体の包括性を示す。コヘレト第9章v.3「人の子らの心に悪が満ちている、生きている間は狂気が彼らの心にある（cor filiorum hominum repletum est malo）」という「罪ある人類」と「罪ない者（幼子）」の同一の運命の対比。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Per tai difetti, non per altro rio,\nsemo perduti, e sol di tanto offesi\nche sanza speme vivemo in disio\".",
+      "body": "「そのような欠如のために、他の悪のためではなく、私たちは失われた、そしてただこれだけを傷つけられた、希望なく欲望の中に生きることを（sanza speme vivemo in disio）」──神曲全体で最も重要な自己告白の一つ。「sanza speme（希望なく）」──第3歌門の碑文「lasciate ogne speranza（全ての希望を捨てよ）」の具体的適用：地獄では全員が「希望なし」だが、リンボの特殊性は「罪によってではなく」希望を持たないこと。「vivemo in disio（欲望の中に生きる）」──「disio（欲望）」は神を見たいという知性の根源的欲望。コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされない）」という充たされない欲望の苦悩が、ここでは「神を見たいという永遠に充たされない知的欲望」として最大の純粋さで実現される。VANITISMEの「afflictio spiritus」の詩的極致。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "\"Io era nuovo in questo stato,\nquando ci vidi venire un possente,\ncon segno di vittoria coronato.",
+      "body": "「私はこの状態に新しかった、ある強力な者が来るのを見た時に、勝利の印を戴いて（quando ci vidi venire un possente, / con segno di vittoria coronato）」──キリストの「地獄降下（Harrowing of Hell、Discesa agli Inferi）」への言及。「un possente（ある強力な者）」という間接的表現──ウェルギリウスはキリストの名を直接言わない：異教の詩人が「強力な者」という慎重な婉曲表現を使う。「con segno di vittoria coronato（勝利の印を戴いて）」は十字架の勝利（クルス・ヴィクトリア）の典礼的表現。聖土曜日（Holy Saturday）のキリストの地獄降下はペトロの手紙第一3:18–20・エフェソス4:8–9の神学的典拠に基づく。ウェルギリウスがBC19年死去→BC4年頃（キリスト生誕）からキリストの生涯終了（AD30年頃）までリンボにいた──「新しかった（nuovo）」という形容がその神学的タイムラインを示す。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "Trasseci l'ombra del primo parente,\nd'Abèl suo figlio e quella di Noè,\ndi Moïsè legista e ubidente;\n\nAbraàm patrïarca e Davìd re,\nIsraèl con lo padre e co' suoi nati\ne con Rachele, per cui tanto fé,",
+      "body": "「最初の祖先（アダム）の霊を引き出した……ノア……モーセ……アブラハム……ダヴィデ……イスラエル……ラケル（Trasseci l'ombra del primo parente... Abraàm patrïarca e Davìd re...e con Rachele）」──ヘブライ聖書の義人たちのカタログ。「primo parente（最初の祖先）」＝アダム（Genesis 2–3）。「Abel（アベル）」（Genesis 4）。「Noè（ノア）」（Genesis 6–9）。「Moïsè legista e ubidente（法律家にして従順なモーセ）」──モーセへの二重の定義：「律法の授与者（legista）」と「神に従順な者（ubidente）」。「Abraàm patriarca（族長アブラハム）」（Genesis 12–25）。「David re（王ダヴィデ）」──詩篇の作者・イスラエルの理想的王。「Rachele（ラケル）」はヤコブが愛した妻（Genesis 29–30）：煉獄篇第27歌（レアとラケルの夢）への直接的な典拠として機能する。",
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "quand'io vidi un foco\nch'emisperio di tenebre vincia.",
+      "body": "「私が一つの光を見た時、暗闇の半球を打ち負かす光を（vidi un foco / ch'emisperio di tenebre vincia）」──光の詩的登場の劇的さ。「emisperio di tenebre（暗闇の半球）」という天文学的語彙：地獄の暗闇を「半球（hemisphere）」として空間的に定義し、光が「打ち負かす（vincia）」という競争的動詞を使う──光と暗闇の「戦い」。第3歌「aere sanza stelle（星のない大気）」という地獄の根本的暗闇の中に、唯一の例外としての光が浮かび上がる。「emisperio」という語は第1歌の天文学的時刻描写（「エルサレム・エブロ川・ガンジス川の三半球」）と連続する：地獄も天文学的空間として描かれる。",
+      "targetId": "dante_inferno_canto_3",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "\"Onorate l'altissimo poeta;\nl'ombra sua torna, ch'era dipartita\".",
+      "body": "「最高の詩人を讃えよ；彼の霊が戻る、それは離れていた（Onorate l'altissimo poeta; / l'ombra sua torna, ch'era dipartita）」──神曲全体で最も有名な詩的場面の一つ。「altissimo poeta（最高の詩人）」はホメロスへの称号だが、この場面でウェルギリウス（の霊）が「戻る（torna）」という表現が使われる：ウェルギリウスはリンボの住人であり、ダンテとの旅でリンボを「離れていた（dipartita）」のだった。「l'ombra sua torna（彼の霊が戻る）」──「ombra（霊・影）」という語がウェルギリウス自身の「影なさ（no shadow）」という第3歌の主題と照応する：霊（ombra）として戻る者が「影を作らない」という逆説。詩人としての「最高の名誉（onranza）」と地獄への永遠の幽閉という、ウェルギリウスの栄光と悲劇の同時的提示。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Così vid'i' adunar la bella scola\ndi quel segnor de l'altissimo canto\nche sovra li altri com'aquila vola.",
+      "body": "「そのように私は見た集まるのを、最高の歌のあの主の美しい学派が、鷲のように他の者たちの上を飛ぶ（la bella scola / di quel segnor de l'altissimo canto / che sovra li altri com'aquila vola）」──「bella scola（美しい学派）」というホメロスを頂点とする詩人たちの集合の詩的定義。「segnor de l'altissimo canto（最高の歌の主）」はホメロスへの称号：「altissimo（最高の）」という形容詞は直前の「altissimo poeta（最高の詩人）」と照応する。「com'aquila vola（鷲のように飛ぶ）」──鷲は古典的な「王者の鳥」：ユピテルの鳥・天国篇第6歌のローマ帝国の鷲と連続する。煉獄篇第11歌（オデリージの「bella scola di pittura（絵画の美しい学派）」暗示）・第24歌（詩の継承論）・第26歌（グイニゼッリ・アルノー）という詩学論の系譜がここに起点を持つ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "e più d'onore ancora assai mi fenno,\nch'e' sì mi fecer de la loro schiera,\nsì ch'io fui sesto tra cotanto senno.",
+      "body": "「そしてさらに多くの名誉を私にした、彼らが私を自分たちの一員にしたことで、そのため私はこれほどの知性の中で六番目となった（sì ch'io fui sesto tra cotanto senno）」──「sesto（六番目）」というダンテの自己定位の詩的大胆さ。「ホメロス・ウェルギリウス・ホラティウス・オウィディウス・ルカヌス」という五大詩人にダンテ自身が加わって「六番目」となる。この自己含入は詩の「謙虚な大胆さ（audax humilitas）」の典型例：「six」という数の選択が「七つの自由学芸（artes liberales）」の六番目という教育的な謙虚さとも読める。「cotanto senno（これほどの知性）」という敬意の表現が自己誇示を和らげる。煉獄篇第24歌のボナジュンタ問答でダンテが「dolce stil novo」を宣言する際の自己意識の起点。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Venimmo al piè d'un nobile castello,\nsette volte cerchiato d'alte mura,\ndifeso intorno d'un bel fiumicello.",
+      "body": "「私たちは高貴な城の麓に来た、七度高い壁で囲まれ、美しい小川で周囲を守られた（Venimmo al piè d'un nobile castello, / sette volte cerchiato d'alte mura）」──「高貴な城（nobile castello）」の寓意的解釈。「七つの壁（sette...alte mura）」は七つの自由学芸（artes liberales：文法・修辞・弁証・算術・幾何・音楽・天文）、または七つの美徳（四枢要徳＋三神学的徳）、または七つの自由学芸の学習段階など複数の解釈が競合する。「bel fiumicello（美しい小川）」は哲学的談話という流れ・あるいは知識の障壁としての川。「七（sette）」という数の選択：第3歌の「sette porte（七つの門）」（煉獄篇第9歌の天使が開く門）・天国篇第3歌のピッカルダが住む「第一天（prima spera）」の後の七つの天球との数的照応。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "vidi 'l maestro di color che sanno\nseder tra filosofica famiglia.",
+      "body": "「知る者たちの師が哲学的一族の中に座っているのを見た（vidi 'l maestro di color che sanno / seder tra filosofica famiglia）」──「il maestro di color che sanno（知る者たちの師）」はアリストテレス（BC384–322）への称号。「知る者たち（color che sanno）」：「知識（scienza）」を持つ者たちの集合の「師（maestro）」。これはダンテの時代（スコラ哲学の全盛期）においてアリストテレスが「哲学者（il Filosofo）」と称号なしで指示される唯一の存在だったことを反映する。煉獄篇第3歌でウェルギリウスが「io dico d'Aristotile e di Plato...e qui chinò la fronte（頭を傾けた）」と語る場面がこの称号への直接的な回答として機能する：「最高の知性」も神の前では「頭を傾ける」。",
+      "targetId": "dante_purgatorio_canto_3",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La sesta compagnia in due si scema:\nper altra via mi mena il savio duca,\nfuor de la queta, ne l'aura che trema.\n\nE vegno in parte ove non è che luca.",
+      "body": "「六人の一行は二つに減る：賢い師が私を別の道に導く、静寂の外へ、震える大気の中へ。そして私は光るものが何もない部分に来る（E vegno in parte ove non è che luca）」──第4歌の末尾と地獄の詩的基調の最終的再設定。「La sesta compagnia in due si scema（六人の一行は二つに減る）」──Para 5で「六番目となった」ダンテの一行（ダンテ＋5詩人）が、リンボを出るとダンテ＋ウェルギリウスの「二人（in due si scema）」に戻る。「ne l'aura che trema（震える大気の中へ）」──第3歌Para 5「aera sanza stelle（星のない大気）」の変奏：「震える（trema）」大気が地獄の構造的な暗闇と寒さを示す。「ove non è che luca（光るものが何もない部分）」：第4歌を「光（foco）」の発見で始め、「光なし（non è che luca）」で終わるという対称的な詩的構造。地獄は「希望と光の段階的な剥奪」として進む。"
+    }
+  ]
+}
