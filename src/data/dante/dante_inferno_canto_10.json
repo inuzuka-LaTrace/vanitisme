@@ -26,7 +26,7 @@
     "dante_purgatorio_canto_24",
     "dante_purgatorio_canto_26",
     "hieronymus_ecclesiastes_1",
-    "hieronymus_iob_1"
+    "hieronymus_iob_14"
   ],
   "paragraphs": [
     {
@@ -78,8 +78,8 @@
       "type": "glossary",
       "anchor": "Suo cimitero da questa parte hanno\ncon Epicuro tutti suoi seguaci,\nche l'anima col corpo morta fanno.",
       "body": "「エピクロスと彼の全ての信奉者が自分たちの墓地を持っている、魂を体と共に死ぬと言う者たちが（con Epicuro tutti suoi seguaci, / che l'anima col corpo morta fanno）」──エピクロス派（Epicureanism）の哲学的立場の神学的定義。エピクロス（BC341–270）は「霊魂は原子から成り身体と共に消滅する（anima mortalis）」という物質的霊魂論を唱えた。ダンテの時代には「エピクロス派＝快楽主義者＝霊魂の不死を否定する者」という単純化された理解が流通していた（ボエティウス・トマス・アクィナスなど）。「l'anima col corpo morta fanno（魂を体と共に死ぬと言う）」──「fanno morta（死ぬと言う・死なせる）」という現在形が教義の永続的な誤謬として定義される。ヨブ記第14章「人は死んで去れば、どこにいるのか（homo moritur et nudatus）」という「魂の消滅」への問いとの照応：ヨブは問いとして提示するがエピクロス派は断言する。",
-      "targetId": "hieronymus_iob_1",
-      "targetParagraphId": 1
+      "targetId": "hieronymus_iob_14",
+      "targetParagraphId": 10
     },
     {
       "paragraphId": 2,
