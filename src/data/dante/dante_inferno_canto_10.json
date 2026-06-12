@@ -1,0 +1,160 @@
+{
+  "id": "dante_inferno_canto_10",
+  "title": "Inferno — Canto X",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_X（2026年4月24日版）",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Inferno",
+  "canto": "X",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "地獄篇第10歌は異端者の圏（第6圏）を舞台とし、フィレンツェの二大政治的人物──ファリナータ・デッリ・ウベルティとカヴァルカンテ・ドゥ・カヴァルカンティ──との邂逅を描く。歌の詩学的核心は二重の対話構造：政治的傲慢（ファリナータ）と親の愛（カヴァルカンテ）という二つの「傲慢（superbia）」の形式の対比。両者は同じ墓から現れるが、その存在様式は対照的。\nファリナータ・デッリ・ウベルティ（1212頃–1264）は白グェルフィ（後の黒グェルフィとの対立でダンテを追放した党派）の先祖であるギベリン派の指導者。1248年・1260年の二度にわたってフィレンツェからグェルフィ（ダンテの党派の先祖）を追放したが、1260年のモンタペルティ敗戦後のギベリン会議でフィレンツェの破壊に唯一反対し「a viso aperto（正面から）」都市を守った──誇り高き「傲慢」の英雄的側面。「com'avesse l'inferno a gran dispitto（地獄を大いに軽蔑しているかのように）」という描写がその中心的形象。\nカヴァルカンテ・ドゥ・カヴァルカンティ（1220頃–1280頃）はグイド・カヴァルカンティの父。グイドはダンテの詩的「最初の友（primo amico）」であり、『新生（Vita Nova）』の献辞相手。ダンテが「forse cui Guido vostro ebbe a disdegno（おそらくあなたのグイドが軽蔑した者によって）」という答えの中に埋め込んだ「elli ebbe（彼は持っていた）」という過去形が父の誤解（息子が死んだ）を引き起こす──一語の時制が人間的悲劇を生む詩学的瞬間。「non fiere li occhi suoi lo dolce lume（彼の目に甘い光は当たらないのか）」という父の問いが神曲全体で最も切迫した親の愛の表現。\n終盤のファリナータによる「死者の予知能力論（Noi veggiam, come quei c' ha mala luce, / le cose che ne son lontano）」──死者は遠い未来を見るが、現在は見えない──という認識論が、詩の時制（1300年の物語内時間）と創作時（1307年頃）の差異というダンテの詩学的二重構造の哲学的根拠を提供する。「la porta del futuro（未来の門）」が閉まった後は死者も現在を知ることができなくなる、という命題が煉獄篇第3歌「Matto è chi spera che nostra ragione / possa trascorrer la infinita via」という理性の限界論と照応する。",
+  "keywords": [
+    "ファリナータ", "カヴァルカンティ", "エピクロス派", "異端者の圏",
+    "グイド・カヴァルカンティ", "dolce stil novo", "死者の予知能力",
+    "フィレンツェ追放", "モンタペルティ", "a viso aperto", "gran dispitto",
+    "elli ebbe", "ベアトリーチェの予言"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_4",
+    "dante_purgatorio_canto_3",
+    "dante_purgatorio_canto_11",
+    "dante_purgatorio_canto_24",
+    "dante_purgatorio_canto_26",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–21",
+      "speaker": "Dante-narratore / Dante",
+      "original": "Ora sen va per un secreto calle,\ntra 'l muro de la terra e li martìri,\nlo mio maestro, e io dopo le spalle.\n\n\"O virtù somma, che per li empi giri\nmi volvi\", cominciai, \"com'a te piace,\nparlami, e sodisfammi a' miei disiri.\n\nLa gente che per li sepolcri giace\npotrebbbesi veder? già son levati\ntutt'i coperchi, e nessun guardia face\".\n\nE quelli a me: \"Tutti saran serrati\nquando di Iosafàt qui torneranno\ncoi corpi che là sù hanno lasciati.\n\nSuo cimitero da questa parte hanno\ncon Epicuro tutti suoi seguaci,\nche l'anima col corpo morta fanno.\n\nPerò a la dimanda che mi faci\nquinc'entro satisfatto sarà tosto,\ne al disio ancor che tu mi taci\".\n\nE io: \"Buon duca, non tegno riposto\na te mio cuor se non per dicer poco,\ne tu m' hai non pur mo a ciò disposto\".",
+      "provisionalTranslation": "今、私の師は秘密の通路を進み、\n大地の壁と苦しみの間を、\nそして私は彼の後ろに続く。\n\n「おお至高の力よ、不敬な輪を通じて\n私を巡らせる者よ」と私は始めた、「あなたの望むように、\n私に話し、私の欲望を満たしてくれ。\n\n墓の中に横たわっている人々を\n見られないのか？もう全ての蓋が\n上げられており、誰も見張りをしていない。」\n\n彼は私に：「全ては閉じられるだろう、\nヨサファトの谷からここに戻る時、\n上に置いてきた体とともに。\n\nここには、エピクロスと彼の全ての信奉者が\n自分たちの墓地を持っている、\n魂を体と共に死ぬと言う者たちが。\n\nだから、あなたが私にする問いに対して\nここ内側で間もなく満たされるだろう、\nそしてあなたが私に言わない欲望にも。」\n\n私は：「善き師よ、私の心を\nあなたから隠しているのは少ししか言わないためだけだ、\nそしてあなたはそれへ私を今だけでなく前から向けていた。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.22–51",
+      "speaker": "Farinata / Dante",
+      "original": "\"O Tosco che per la città del foco\nvivo ten vai così parlando onesto,\npiacciati di restare in questo loco.\n\nLa tua loquela ti fa manifesto\ndi quella nobil patrïa natio,\na la qual forse fui troppo molesto\".\n\nSubitamente questo suono uscìo\nd'una de l'arche; però m'accostai,\ntemendo, un poco più al duca mio.\n\nEd el mi disse: \"Volgiti! Che fai?\nVedi là Farinata che s'è dritto:\nda la cintola in sù tutto 'l vedrai\".\n\nIo avea già il mio viso nel suo fitto;\ned el s'ergea col petto e con la fronte\ncom'avesse l'inferno a gran dispitto.\n\nE l'animose man del duca e pronte\nmi pinser tra le sepulture a lui,\ndicendo: \"Le parole tue sien conte\".\n\nCom'io al piè de la sua tomba fui,\nguardommi un poco, e poi, quasi sdegnoso,\nmi dimandò: \"Chi fuor li maggior tui?\".\n\nIo ch'era d'ubidir disideroso,\nnon gliel celai, ma tutto gliel'apersi;\nond'ei levò le ciglia un poco in suso;\n\npoi disse: \"Fieramente furo avversi\na me e a miei primi e a mia parte,\nsì che per due fïate li dispersi\".\n\n\"S'ei fur cacciati, ei tornar d'ogne parte\",\nrispuos'io lui, \"l'una e l'altra fïata;\nma i vostri non appreser ben quell'arte\".",
+      "provisionalTranslation": "「おおトスカーナ人よ、炎の都市を通って\n生きながらこのように品格ある言葉で進む者よ、\nこの場所に留まってくれ。\n\nあなたの話し方があなたに示している\nあの高貴な故郷の出身者だと、\nそこへ私はおそらく過度に厳しかった。」\n\nこの声が突然出た\n一つの棺から；だから私は恐れて、\n少し師の方に近づいた。\n\n彼は私に言った：「向き直れ！何をしている？\nあそこにファリナータが立ち上がっているのを見よ：\n腰から上の全てが見えるだろう。」\n\n私は既に自分の視線を彼に向けていた；\n彼は胸と頭を高くそびえさせていた、\n地獄を大いに軽蔑しているかのように。\n\n師の勇敢で素早い手が\n私を墓の間を通って彼に押し進めた、\n言いながら：「あなたの言葉を丁寧に選べ。」\n\n私が彼の墓の麓に来た時、\n彼は私を少し見て、それから、ほぼ軽蔑するように、\n尋ねた：「あなたの先祖は誰か？」\n\n服従したかった私は、\n彼に隠さず、全て明かした；\nそこで彼は少し眉を上げた；\n\nそれから言った：「彼らは激しく敵対した\n私と私の先祖と私の党派に、\nそのため私は彼らを二度追い散らした。」\n\n「もし彼らが追放されたとしても、彼らは四方から戻った」と\n私は彼に答えた、「一度も二度も；\nしかしあなたがたの者たちはその技をよく学ばなかった。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.52–72",
+      "speaker": "Cavalcante / Dante",
+      "original": "Allor surse a la vista scoperchiata\nun'ombra, lungo questa, infino al mento:\ncredo che s'era in ginocchie levata.\n\nDintorno mi guardò, come talento\navesse di veder s'altri era meco;\ne poi che 'l sospecciar fu tutto spento,\n\npiangendo disse: \"Se per questo cieco\ncarcere vai per altezza d'ingegno,\nmio figlio ov'è? e perché non è teco?\"\n\nE io a lui: \"Da me stesso non vegno:\ncolui ch'attende là, per qui mi mena\nforse cui Guido vostro ebbe a disdegno\".\n\nLe sue parole e 'l modo de la pena\nm'avean di costui già letto il nome;\nperò fu la risposta così piena.\n\nDi sùbito drizzato gridò: \"Come?\ndicesti \"elli ebbe\"? non viv'elli ancora?\nnon fiere li occhi suoi lo dolce lume?\".\n\nQuando s'accorse d'alcuna dimora\nch'io facëa dinanzi a la risposta,\nsupin ricadde e più non parve fora.",
+      "provisionalTranslation": "すると覆いを開かれた場所に一つの影が\nこの者のそばに顎まで浮かび上がった：\n膝立ちになったのだと思う。\n\n周囲を見回した、誰か他の者が\n私と一緒にいるかを見たいかのように；\nそして疑念が完全に消えた後、\n\n泣きながら言った：「もしあなたがこの盲目の\n牢獄を才知の高さによって行くなら、\n私の息子はどこにいるか？なぜ彼はあなたと一緒にいないのか？」\n\n私は彼に：「私は自分ひとりで来ていない：\nあそこで待っている者が、ここを通って私を導いている、\nおそらくあなたのグイドが軽蔑した者が。」\n\n彼の言葉と苦しみの様式が\n私にこの者の名前を既に読ませていた；\nそのため返事がこれほど完全だった。\n\n突然立ち直って叫んだ：「何だと？\n君は『彼は持っていた（elli ebbe）』と言ったか？彼はもう生きていないのか？\n甘い光は彼の目に当たらないのか？」\n\n彼が私の返事の前に何らかの間が\nあることに気づいた時、\n仰向けに倒れ、もう外には現れなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.73–93",
+      "speaker": "Farinata / Dante",
+      "original": "Ma quell'altro magnanimo, a cui posta\nrestato m'era, non mutò aspetto,\nné mosse collo, né piegò sua costa;\n\ne sé continüando al primo detto,\n\"S'elli han quell'arte\", disse, \"male appresa,\nciò mi tormenta più che questo letto.\n\nMa non cinquanta volte fia raccesa\nla faccia de la donna che qui regge,\nche tu saprai quanto quell'arte pesa.\n\nE se tu mai nel dolce mondo regge,\ndimmi: perché quel popolo è sì empio\nincontr'a' miei in ciascuna sua legge?\".\n\nOnd'io a lui: \"Lo strazio e 'l grande scempio\nche fece l'Arbia colorata in rosso,\ntal orazion fa far nel nostro tempio\".\n\nPoi ch'ebbe sospirando il capo mosso,\n\"A ciò non fu' io sol\", disse, \"né certo\nsanza cagion con li altri sarei mosso.\n\nMa fu' io solo, là dove sofferto\nfu per ciascun di tòrre via Fiorenza,\ncolui che la difesi a viso aperto\".",
+      "provisionalTranslation": "しかしあの高潔な者、私が留まっていたその者は、\n顔を変えなかった、\n首も動かさず、身体も傾けなかった；\n\nそして最初の言葉を続けて、\n「もし彼らがその技を」と言った、「よく学ばなかったなら、\nそれが私をこの床よりも苦しめる。\n\nしかしここを支配する女神の顔が\n五十回燃え直さないうちに、\nあなたにはその技がどれほど重いかが分かるだろう。\n\nそして甘い世界に戻ることがあれば、\n教えてくれ：なぜあの民はその全ての法において\n私の者たちにこれほど不敬なのか？」\n\n私は彼に：「アルビア川を\n赤に染めた惨害と大きな破壊が、\n私たちの神殿でそのような祈りをさせる。」\n\n嘆息しながら頭を動かした後、\n「それに私は一人ではなかった」と言った、「そして確かに\n理由なしに他の者たちと動いたのではなかった。\n\nしかし私は一人だった、全員にフィレンツェを\n取り除くことが許された場所で、\n私が正面から防衛した者だった。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.94–120",
+      "speaker": "Dante / Farinata",
+      "original": "\"Deh, se riposi mai vostra semenza\",\nprega' io lui, \"solvetemi quel nodo\nche qui ha 'nviluppata mia sentenza.\n\nEl par che voi veggiate, se ben odo,\ndinanzi quel che 'l tempo seco adduce,\ne nel presente tenete altro modo\".\n\n\"Noi veggiam, come quei c' ha mala luce,\nle cose\", disse, \"che ne son lontano;\ncotanto ancor ne splende il sommo duce.\n\nQuando s'appressano o son, tutto è vano\nnostro intelletto; e s'altri non ci apporta,\nnulla sapem di vostro stato umano.\n\nPerò comprender puoi che tutta morta\nfia nostra conoscenza da quel punto\nche del futuro fia chiusa la porta\".\n\nAllor, come di mia colpa compunto,\ndissi: \"Or direte dunque a quel caduto\nche 'l suo nato è co' vivi ancor congiunto;\n\ne s'i' fui, dianzi, a la risposta muto,\nfate i saper che 'l fei perché pensava\ngià ne l'error che m'avete soluto\".\n\nE già 'l maestro mio mi richiamava;\nper ch'i' pregai lo spirto più avaccio\nche mi dicesse chi con lu' istava.\n\nDissemi: \"Qui con più di mille giaccio:\nqua dentro è 'l secondo Federico\ne 'l Cardinale; e de li altri mi taccio\".",
+      "provisionalTranslation": "「どうか、あなたの子孫が休めるように、\n」と私は彼に祈った、「あの結び目を解いてくれ、\nここで私の理解を絡ませている。\n\n聞き取りが正しければ、あなた方は\n時間が持ち来るものを前もって見るように思われるが、\n現在については別の方法をとる。」\n\n「私たちは、悪い光を持つ者のように\n遠いものを見る」と彼は言った；\n「最高の指導者がそれほど私たちに輝かす。\n\n近づいているものや現在のものについては、全てが\n私たちの知性には空虚だ；そして他の者が\n私たちに持ち込まなければ、あなた方の人間的状態を何も知らない。\n\nだから理解できるだろう、未来の門が\n閉まるその時点から、私たちの知識は\n完全に死ぬだろうことを。」\n\nその時、自分の過ちに苦しんで、\n言った：「では今、倒れた者に伝えてくれ、\n彼の息子はまだ生きている者たちと結ばれていると；\n\nそして私が先ほど返事に黙っていたなら、\nそれは、あなた方が解いてくれた誤りの中で\n既に考えていたからだったと知らせてくれ。」\n\n既に私の師が私を呼び戻していた；\nそのため私はその霊にもっと急いで頼んだ\n彼と一緒にいるのが誰か教えてくれと。\n\n彼は私に言った：「ここに千以上と横たわっている：\nここ内側には第二のフェデリーコと\n枢機卿がいる；他については口を閉じる。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.121–136",
+      "speaker": "Dante-narratore",
+      "original": "Indi s'ascose; e io inver' l'antico\npoeta volsi i passi, ripensando\na quel parlar che mi parea nemico.\n\nElli si mosse; e poi, così andando,\nmi disse: \"Perché se' tu sì smarrito?\".\nE io li sodisfeci al suo dimando.\n\n\"La mente tua conservi quel ch'udito\nhai contra te\", mi comandò quel saggio;\n\"e ora attendi qui\", e drizzò 'l dito:\n\n\"quando sarai dinanzi al dolce raggio\ndi quella il cui bell'occhio tutto vede,\nda lei saprai di tua vita il vïaggio\".\n\nAppresso mosse a man sinistra il piede:\nlasciammo il muro e gimmo inver' lo mezzo\nper un sentier ch'a una valle fiede,\n\nche 'nfin là sù facea spiacer suo lezzo.",
+      "provisionalTranslation": "それから彼は姿を隠した；そして私は古い\n詩人の方に歩みを向けた、\n私に敵対するように見えたあの言葉を考えながら。\n\n彼は動き出した；そして歩きながら、\n言った：「なぜそれほど惑っているのか？」\n私は彼の問いに満足のいく答えをした。\n\n「あなたの心が、あなたに反して聞いたことを\n保存しておくように」とその賢者は命じた；\n「そして今ここに注意せよ」と指を向けた：\n\n「全てを見る美しい目を持つ彼女の\n甘い光の前に来た時、\n彼女からあなたの生の旅について学ぶだろう。」\n\nそれから彼は左手に足を動かした：\n私たちは壁を離れて中央に向かった、\n一つの谷に向かう小道を通って、\n\nその悪臭は上まで不快にしていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Suo cimitero da questa parte hanno\ncon Epicuro tutti suoi seguaci,\nche l'anima col corpo morta fanno.",
+      "body": "「エピクロスと彼の全ての信奉者が自分たちの墓地を持っている、魂を体と共に死ぬと言う者たちが（con Epicuro tutti suoi seguaci, / che l'anima col corpo morta fanno）」──エピクロス派（Epicureanism）の哲学的立場の神学的定義。エピクロス（BC341–270）は「霊魂は原子から成り身体と共に消滅する（anima mortalis）」という物質的霊魂論を唱えた。ダンテの時代には「エピクロス派＝快楽主義者＝霊魂の不死を否定する者」という単純化された理解が流通していた（ボエティウス・トマス・アクィナスなど）。「l'anima col corpo morta fanno（魂を体と共に死ぬと言う）」──「fanno morta（死ぬと言う・死なせる）」という現在形が教義の永続的な誤謬として定義される。ヨブ記第14章「人は死んで去れば、どこにいるのか（homo moritur et nudatus）」という「魂の消滅」への問いとの照応：ヨブは問いとして提示するがエピクロス派は断言する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Vedi là Farinata che s'è dritto:\nda la cintola in sù tutto 'l vedrai\".\n\nIo avea già il mio viso nel suo fitto;\ned el s'ergea col petto e con la fronte\ncom'avesse l'inferno a gran dispitto.",
+      "body": "「あそこにファリナータが立ち上がっているのを見よ：腰から上の全てが見えるだろう（Vedi là Farinata che s'è dritto）」・「彼は胸と頭を高くそびえさせていた、地獄を大いに軽蔑しているかのように（com'avesse l'inferno a gran dispitto）」──神曲全体で最も記憶される肖像描写の一つ。「da la cintola in sù（腰から上）」：半身だけが棺から突き出た視覚的造形。「col petto e con la fronte（胸と頭を高く）」──胸（意志・感情）と頭（知性・誇り）という二重の誇りの身体的表現。「com'avesse l'inferno a gran dispitto（地獄を大いに軽蔑しているかのように）」という最終的な定義句：地獄の刑罰に屈しない政治的意志の絶対性。煉獄篇第11歌（傲慢者が石板を背負って下を向く）の対称的反転として機能する──傲慢者は煉獄で「下を向かされる」が、ファリナータは地獄で「頭を上げ続ける」。",
+      "targetId": "dante_purgatorio_canto_11",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "poi disse: \"Fieramente furo avversi\na me e a miei primi e a mia parte,\nsì che per due fïate li dispersi\".\n\n\"S'ei fur cacciati, ei tornar d'ogne parte\",\nrispuos'io lui, \"l'una e l'altra fïata;\nma i vostri non appreser ben quell'arte\".",
+      "body": "「彼らは激しく敵対した私と私の先祖と私の党派に、そのため私は彼らを二度追い散らした（per due fïate li dispersi）」・「もし彼らが追放されたとしても、彼らは四方から戻った……しかしあなたがたの者たちはその技をよく学ばなかった（ma i vostri non appreser ben quell'arte）」──フィレンツェ政治史の詩的圧縮。ファリナータが「二度追い散らした（per due fïate）」：1248年（ギベリン派がグェルフィ派を追放）・1260年（モンタペルティの戦いの後の追放）。ダンテの反論「彼らは四方から戻った（ei tornar d'ogne parte）」──1251年・1266年のグェルフィ派の帰還。「しかしあなたがたの者たちはその技をよく学ばなかった（ma i vostri non appreser ben quell'arte）」──ダンテの反撃：ギベリン派は最終的にフィレンツェから永続的に追放されたという皮肉。1302年のダンテ自身の追放（グェルフィ・黒党による）というダンテの個人的運命がこの政治的対話に潜在する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "piangendo disse: \"Se per questo cieco\ncarcere vai per altezza d'ingegno,\nmio figlio ov'è? e perché non è teco?\"",
+      "body": "「泣きながら言った：もしあなたがこの盲目の牢獄を才知の高さによって行くなら、私の息子はどこにいるか？なぜ彼はあなたと一緒にいないのか？（mio figlio ov'è? e perché non è teco?）」──神曲全体で最も切迫した親の愛の表現。「cieco carcere（盲目の牢獄）」という地獄の定義──第4歌「cieco mondo（盲目の世界）」の変奏として、カヴァルカンテは地獄の視覚的暗闇を「牢獄（carcere）」として内側から経験する。「per altezza d'ingegno（才知の高さによって）」──カヴァルカンテはダンテが旅できる理由を「才知（ingegno）」として解釈する：詩的・哲学的知性への還元。しかしダンテの答えは「神の恩寵（grazia divina）」が動因であることを示す──「才知」による自力ではなく「恩寵による他力」という差異が、グイドがここにいない理由の暗示。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "E io a lui: \"Da me stesso non vegno:\ncolui ch'attende là, per qui mi mena\nforse cui Guido vostro ebbe a disdegno\".",
+      "body": "「私は自分ひとりで来ていない：あそこで待っている者が、ここを通って私を導いている、おそらくあなたのグイドが軽蔑した者が（forse cui Guido vostro ebbe a disdegno）」──神曲全体で最も議論される一行の一つ。「cui Guido vostro ebbe a disdegno（あなたのグイドが軽蔑した者）」：「軽蔑した者（colui）」が誰を指すか──ウェルギリウス（ラテン語詩の権威）、ベアトリーチェ（神学的愛）、神自体、という複数の解釈が競合する。グイド・カヴァルカンティは「哲学的愛の詩」を書き、ダンテと異なる詩学的・哲学的方向を持った：グイドは「神学的超越よりも知性的内在」を重視したとされる。「ebbe a disdegno（軽蔑した）」という過去形──この「ebbe（持っていた）」という過去形が父カヴァルカンテに「息子はもう死んだ」という誤解を与えるという詩的・悲劇的逆説。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Di sùbito drizzato gridò: \"Come?\ndicesti \"elli ebbe\"? non viv'elli ancora?\nnon fiere li occhi suoi lo dolce lume?\".",
+      "body": "「突然立ち直って叫んだ：何だと？君は『彼は持っていた（elli ebbe）』と言ったか？彼はもう生きていないのか？甘い光は彼の目に当たらないのか？（non fiere li occhi suoi lo dolce lume?）」──一語の時制（「ebbe（持っていた）」という過去形）が引き起こす悲劇的誤解の詩的瞬間。「Como?（何だと？）」という叫びが詩行の最初の単語として詩的ショックを与える。「non fiere li occhi suoi lo dolce lume（甘い光は彼の目に当たらないのか）」──「dolce lume（甘い光）」という表現が第1歌「riveder le stelle（星を再び見るために）」・第4歌「emisperio di tenebre vincia（暗闇の半球を打ち負かす）」という「光」の主題と照応する：父は息子が「太陽の光を受けてまだ生きているか」を問う。「supin ricadde（仰向けに倒れた）」──返事を得られないまま倒れる身体的表現が言語の不可能性を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ma quell'altro magnanimo, a cui posta\nrestato m'era, non mutò aspetto,\nné mosse collo, né piegò sua costa;",
+      "body": "「しかしあの高潔な者、私が留まっていたその者は、顔を変えなかった、首も動かさず、身体も傾けなかった（non mutò aspetto, / né mosse collo, né piegò sua costa）」──ファリナータの「不動（immobility）」の詩的強調。「non mutò aspetto（顔を変えなかった）」・「né mosse collo（首も動かさず）」・「né piegò sua costa（身体も傾けなかった）」という三重の否定が静止の絶対性を示す。カヴァルカンテの劇的な「浮かび上がり・叫び・倒れる」という動的な行動との対比。「magnanimo（高潔な）」という形容詞──アリストテレス『ニコマコス倫理学』IV, 3「高潔な人（megalopsychos）」：自分の偉大さを知る者。政治的傲慢者に対してダンテが使う讃美的語彙の両義性：傲慢でありながら高貴である、という詩的な道徳的複雑さ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Ma fu' io solo, là dove sofferto\nfu per ciascun di tòrre via Fiorenza,\ncolui che la difesi a viso aperto\".",
+      "body": "「しかし私は一人だった、全員にフィレンツェを取り除くことが許された場所で、私が正面から防衛した者だった（colui che la difesi a viso aperto）」──ファリナータによるフィレンツェ防衛の告白。1260年のモンタペルティの戦いの後のギベリン会議（エンポリ）でシエナ・ピサなどのギベリン都市がフィレンツェの破壊を提案した際、ファリナータ一人が反対し「a viso aperto（正面から・公然と）」防衛した史実。「a viso aperto（正面から）」──Para 2の「com'avesse l'inferno a gran dispitto（地獄を大いに軽蔑しているかのように）」という傲慢の姿勢と同一の精神的態度：権力への公然とした対立。ダンテはファリナータを地獄の異端者として描きながら、このフィレンツェ防衛の行為を「高貴な傲慢の英雄的側面」として示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "\"Noi veggiam, come quei c' ha mala luce,\nle cose\", disse, \"che ne son lontano;\ncotanto ancor ne splende il sommo duce.\n\nQuando s'appressano o son, tutto è vano\nnostro intelletto; e s'altri non ci apporta,\nnulla sapem di vostro stato umano.",
+      "body": "「私たちは、悪い光を持つ者のように、遠いものを見る；最高の指導者がそれほど私たちに輝かす。近づいているものや現在のものについては、全てが私たちの知性には空虚だ（Noi veggiam, come quei c' ha mala luce, / le cose che ne son lontano）」──「死者の予知能力論（prophetic vision of the dead）」の神学的定式化。「mala luce（悪い光）」：近視の目が近いものは見えないが遠いものは見えるという医学的比喩。死者は「遠い未来（未来の予言）」は見えるが「近い現在（生者の日々の出来事）」は見えない。「s'altri non ci apporta（他の者が私たちに持ち込まなければ）」──生者が地獄に「現在の知識を持ち込む」という相互依存の神学：ダンテの訪問がカヴァルカンテに「息子の生存」という現在情報を提供できる。コヘレト第9章v.5「死者は何も知らない（mortui vero nihil norunt）」という命題と照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Però comprender puoi che tutta morta\nfia nostra conoscenza da quel punto\nche del futuro fia chiusa la porta\".",
+      "body": "「だから理解できるだろう、未来の門が閉まるその時点から、私たちの知識は完全に死ぬだろうことを（tutta morta / fia nostra conoscenza da quel punto / che del futuro fia chiusa la porta）」──最後の審判後の死者の「全知の消滅」という神学的命題。「la porta del futuro（未来の門）」が閉まるのは最後の審判の日──その後、時間が終わり「未来」そのものが存在しなくなる。時間が終わった後は「遠い未来」を見る能力の根拠が消える：死者の予知能力が時間の存在に依存していたことが示される。「tutta morta（完全に死ぬ）」という語の選択：地獄では「魂は死なない」のに「知識は完全に死ぬ」──魂の存続と知識の消滅という逆説。煉獄篇第3歌「Matto è chi spera che nostra ragione / possa trascorrer la infinita via」という理性の限界論と照応する。",
+      "targetId": "dante_purgatorio_canto_3",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "\"La mente tua conservi quel ch'udito\nhai contra te\", mi comandò quel saggio;\n\"e ora attendi qui\", e drizzò 'l dito:\n\n\"quando sarai dinanzi al dolce raggio\ndi quella il cui bell'occhio tutto vede,\nda lei saprai di tua vita il vïaggio\".",
+      "body": "「あなたの心が、あなたに反して聞いたことを保存しておくように……全てを見る美しい目を持つ彼女の甘い光の前に来た時、彼女からあなたの生の旅について学ぶだろう（da lei saprai di tua vita il vïaggio）」──ウェルギリウスによるベアトリーチェへの最初の明確な予言的指示。「di quella il cui bell'occhio tutto vede（全てを見る美しい目を持つ彼女）」はベアトリーチェ──「全てを見る（tutto vede）」という全視性が神学的権威を示す。「dolce raggio（甘い光）」という形容がカヴァルカンテの「dolce lume（甘い光）」と照応する：父が息子の「甘い光」を問い、ウェルギリウスがベアトリーチェの「甘い光」を予告する──「dolce lume/raggio」というモチーフが地獄の親の愛と天国の神学的導きを結ぶ。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Appresso mosse a man sinistra il piede:\nlasciammo il muro e gimmo inver' lo mezzo\nper un sentier ch'a una valle fiede,\n\nche 'nfin là sù facea spiacer suo lezzo.",
+      "body": "「それから彼は左手に足を動かした：私たちは壁を離れて中央に向かった、一つの谷に向かう小道を通って、その悪臭は上まで不快にしていた（che 'nfin là sù facea spiacer suo lezzo）」──第10歌の幕切れの詩的機能。「a man sinistra（左手に）」という方位：地獄では通常「左」が下降・悪への方向を示す。「'nfin là sù facea spiacer suo lezzo（その悪臭は上まで不快にしていた）」──悪臭（lezzo）が上まで届くという表現が地獄篇第11歌（第3の断崖での一時停止、臭いの説明）への直接的な橋渡し。第4歌の「bella scola（美しい学派）」・第10歌の政治的対話という「名誉と傑出」の場面から、「悪臭（lezzo）」という官能的な嫌悪の場面への転換が、地獄が深まるほど感覚的苦悩が増す構造を示す。"
+    }
+  ]
+}
+
