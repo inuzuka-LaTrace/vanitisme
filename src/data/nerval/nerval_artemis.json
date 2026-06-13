@@ -1,0 +1,120 @@
+{
+  "id": "nerval_artemis",
+  "title": "Artémis",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 294. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Art%C3%A9mis",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『キメラ（Les Chimères）』第6詩篇。「Artémis（アルテミス）」はギリシア神話の月の女神・狩猟の女神・冥界の支配者（ヘカテー）の三位一体的女神。詩の「La Treizième（第十三番目）」という謎めいた開口部は『キメラ』全体で最も注釈が多い詩句のひとつ：タロット・数秘術・錬金術・ネルヴァルの精神病院での体験（1854年1月の入院は13回目だったという説）など複数の同定が提案されているが、いずれも決定的ではない。詩は数の逆説（第十三番目＝最初、最後＝唯一）から出発し、愛と死の融合（「C'est la mort — ou la morte」）、キリスト教的聖女（ナポリの聖女・聖グデュール）への問いかけ、そして「深淵の聖女（la sainte de l'abîme）」への異教的賛美という三段階の運動を経て、白い薔薇（キリスト教的純潔）の崩落を命じる反逆的結語へと到達する。「Antéros」の戦闘的反逆、「Delfica」の冷徹な停滞認識に続き、「Artémis」は愛・死・聖性という最も私的な次元でネルヴァルの神話的世界観を凝縮する。『キメラ』中で最も難解かつ最も多くの批評的議論を生んだ詩として、象徴主義詩学における「謎（énigme）」の詩的実践の極点とされる。",
+  "keywords": [
+    "Artémis",
+    "La Treizième",
+    "Rose trémière",
+    "sainte de l'abîme",
+    "mort",
+    "morte",
+    "Gudule",
+    "数の逆説",
+    "月の女神",
+    "謎"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_delfica",
+    "nerval_anteros",
+    "mallarme_herodiade_scene",
+    "mallarme_sonnet_yx",
+    "baudelaire_spleen",
+    "rossetti_dead_before_death"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La Treizième revient… C'est encor la première ;\nEt c'est toujours la seule, — ou c'est le seul moment :\nCar es-tu reine, ô toi ! la première ou dernière ?\nEs-tu roi, toi le seul ou le dernier amant ?…",
+      "provisionalTranslation": "第十三番目が戻ってくる……それはまた最初のものだ；\nそしてそれはいつも唯一のもの、——あるいはそれは唯一の瞬間だ：\nというのも、あなたは女王か、ああ、あなたよ！最初の、あるいは最後の？\nあなたは王か、唯一の、あるいは最後の恋人よ？……"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Aimez qui vous aima du berceau dans la bière ;\nCelle que j'aimai seul m'aime encor tendrement :\nC'est la mort — ou la morte… Ô délice ! ô tourment !\nLa rose qu'elle tient, c'est la Rose trémière.",
+      "provisionalTranslation": "あなたを揺り籠から棺まで愛した者を愛せよ；\n私がただひとりで愛したあの女は今もやさしく私を愛している：\nそれは死——あるいは死んだ女だ……ああ、歓喜よ！ああ、苦悩よ！\n彼女が持っている薔薇、それはタチアオイの花だ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Sainte napolitaine aux mains pleines de feux,\nRose au cœur violet, fleur de sainte Gudule :\nAs-tu trouvé ta croix dans le désert des cieux ?",
+      "provisionalTranslation": "炎に満ちた手を持つナポリの聖女よ、\n紫の心を持つ薔薇、聖グデュールの花よ：\n天の砂漠の中にあなたの十字架を見つけたか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Roses blanches, tombez ! vous insultez nos dieux,\nTombez, fantômes blancs, de votre ciel qui brûle :\n— La sainte de l'abîme est plus sainte à mes yeux !",
+      "provisionalTranslation": "白い薔薇よ、落ちよ！あなたたちは私たちの神々を侮辱する、\n落ちよ、白い幻影たちよ、燃えるあなたたちの天から：\n——深淵の聖女こそ、私の目には、より聖なる者だ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La Treizième revient… C'est encor la première ;",
+      "body": "「第十三番目が戻ってくる……それはまた最初のものだ」──『キメラ』全体で最も多く注釈された詩句。「La Treizième（第十三番目）」の同定に関して主要な解釈は複数存在する：①タロット「死神（XIII番）」の帰還──死が最初の始まりと一致するという逆説；②月の十三番目（太陰暦では1年が13ヶ月）──月の女神アルテミスとの照応；③ネルヴァルの13回目の精神病院入院（1854年1月）への自伝的参照；④数秘術・フリーメイソン的な「13」という数の象徴的意味。「revient（戻ってくる）」という現在形が「Delfica」§3「Ils reviendront（彼らは帰ってくる）」の未来形と照応する：「Delfica」が予告した回帰が「Artémis」において現在として到来する。「C'est encor la première（それはまた最初のものだ）」：13番目＝1番目という数の循環的同一性がコヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の詩的変奏として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Et c'est toujours la seule, — ou c'est le seul moment :\nCar es-tu reine, ô toi ! la première ou dernière ?\nEs-tu roi, toi le seul ou le dernier amant ?…",
+      "body": "数の逆説の連鎖と問いの累積。「toujours la seule（いつも唯一のもの）」──「El Desdichado」の「Ma seule étoile est morte（私のただひとつの星は死んだ）」と同じ「唯一性（seul／seule）」の語根が反復される。「ou c'est le seul moment（あるいはそれは唯一の瞬間だ）」：数（第13番目）から時間（瞬間）への転換──神秘的な「唯一の瞬間」として永遠が圧縮される。「es-tu reine（あなたは女王か）／es-tu roi（あなたは王か）」：二人称が女性（reine）から男性（roi）へと転換し、語り手自身が問われる可能性が開く──アルテミスと詩人の役割が融合する。「le dernier amant（最後の恋人）」：「El Desdichado」の「le veuf（未亡人のような者）」「l'inconsolé（慰めなき者）」との連続的孤独の形象。省略記号（…）が第1四行詩全体を「宙吊り」の問いとして閉じる。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Aimez qui vous aima du berceau dans la bière ;",
+      "body": "「あなたを揺り籠から棺まで愛した者を愛せよ」──命令形（Aimez）による愛の戒律の定式。「du berceau dans la bière（揺り籠から棺まで）」：誕生から死までの全人生的愛の宣言。「berceau（揺り籠）」と「bière（棺）」の頭韻（b）と音韻的近接が生と死の対称を音声的に定着させる。この行は格言的・警句的性格が強く、愛の倫理的命令として機能する──「Antéros」v.1「Tu demandes pourquoi j'ai tant de rage au cœur（なぜ私の心にこれほど多くの激怒があるのかを問う）」への応答として：激怒の代わりに「愛せよ」という命令が置かれる。ヴェイユ「Celui qu'il faut aimer」の「愛すべき者を愛すること」という無償の愛の命題との遠い照応。",
+      "targetId": "weil_celui_quil_faut_aimer",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "C'est la mort — ou la morte… Ô délice ! ô tourment !\nLa rose qu'elle tient, c'est la Rose trémière.",
+      "body": "第2四行詩の核心二行。「C'est la mort — ou la morte（それは死——あるいは死んだ女だ）」：ダッシュ（—）が「mort（死・抽象）」と「morte（死んだ女・具体）」の間に宙吊りの不決定を置く──愛の対象が抽象的な死という力か、具体的に死んだ女性（ジェニー・コロン）かが決定されない。「Ô délice ! ô tourment !（ああ、歓喜よ！ああ、苦悩よ！）」：感嘆符の二重対が愛と死の融合がもたらす極端な感情の振幅を形式化する。「La Rose trémière（タチアオイ）」：イタリック体の表記が固有名詞的強調を与える。タチアオイ（Alcea rosea）は高く茎を伸ばして咲く聖母マリアの花とされ、薔薇と区別される「地上の薔薇」──「El Desdichado」v.7「La fleur qui plaisait tant à mon cœur désolé（私の荒れ果てた心をかくも喜ばせた花）」との照応として、失われた愛の花として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sainte napolitaine aux mains pleines de feux,\nRose au cœur violet, fleur de sainte Gudule :",
+      "body": "二つの聖女の召喚。「Sainte napolitaine（ナポリの聖女）」：ナポリの守護聖人サンタ・ロザリア（Santa Rosalia、1130–1166）または聖ヤヌアリウス（Gennaro）への参照とされる。「aux mains pleines de feux（炎に満ちた手を持つ）」：殉教の炎・奇跡の火・「Myrtho」のポジリポの「mille feux（千の炎）」と照応する。「Rose au cœur violet（紫の心を持つ薔薇）」：薔薇のいくつかの品種が紫の芯を持つ──紫は神秘・哀悼・王権の色。「fleur de sainte Gudule（聖グデュールの花）」：聖グデュール（Sainte Gudule、659–712）はブリュッセルの守護聖人──北方ゴシック的敬虔さの象徴。ナポリ（南・地中海・炎）とブリュッセル（北・ゴシック・花）という二つの地理的極が一行に圧縮される。「As-tu trouvé ta croix dans le désert des cieux ?（天の砂漠の中にあなたの十字架を見つけたか？）」：問いかけが「Delfica」の問いかけ構造を反復しつつ、「désert des cieux（天の砂漠）」という逆説的形象──満たされない天──を投じる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "As-tu trouvé ta croix dans le désert des cieux ?",
+      "body": "第1三行詩の結句。「le désert des cieux（天の砂漠）」という形象が詩全体の転換点を担う：天（cieux）が「砂漠（désert）」として描かれることで、キリスト教的「天国」の空虚・不毛が告発される。「désert」はコヘレト的「afflictio spiritus（霊の苦悩）」の地理的形象として機能する。「ta croix（あなたの十字架）」への問いが§4の「Roses blanches（白い薔薇）＝キリスト教的純潔」の否定への橋渡しとなる：十字架すら「天の砂漠」の中にしか見つからないとすれば、白い薔薇は「侮辱」として否定されうる。問い（?）から命令（!）への転換が§3から§4への詩的運動を構造化する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Roses blanches, tombez ! vous insultez nos dieux,\nTombez, fantômes blancs, de votre ciel qui brûle :",
+      "body": "「白い薔薇よ、落ちよ！……落ちよ、白い幻影たちよ」──「Antéros」の戦闘的反抗と「Delfica」の冷徹な認識が「Artémis」において感情的頂点に達する命令形。「Roses blanches（白い薔薇）」：白い薔薇はキリスト教図像学において聖母マリア・純潔・天国の花を象徴する──その「落下（tombez）」の命令がキリスト教的純潔の権威の否定として機能する。「vous insultez nos dieux（あなたたちは私たちの神々を侮辱する）」：「nos dieux（私たちの神々）」という複数形が「Antéros」「Horus」「Delfica」から連続する異教的神々への帰属宣言の集約。「fantômes blancs（白い幻影たち）」：「白さ（白い薔薇）」が「幻影（fantôme）」として実体を剥奪される。「votre ciel qui brûle（燃えるあなたたちの天）」：§3「désert des cieux（天の砂漠）」に続く逆説的「燃える天」──キリスト教的天国が空虚かつ破壊的な炎として描かれる。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "— La sainte de l'abîme est plus sainte à mes yeux !",
+      "body": "ソネットの結句にして『キメラ』第6詩篇の頂点命題。ダッシュ（—）が「Delfica」結句と同様に決定的な宣言を導く。「la sainte de l'abîme（深淵の聖女）」：「abîme（深淵）」はキリスト教神学における「奈落・底なしの淵」（黙示録9章v.1「l'ange du fond de l'abîme」）であり、同時にネルヴァル的な精神的深淵・無意識の底・冥界を指す。「深淵の聖女」の同定：アルテミス＝ヘカテー（冥界の三位一体的女神）；「morte（死んだ女）」として現れるジェニー・コロンの霊；「Antéros」の「mère Amalécyte（母アマレキテ人）」に対応する異教的母神。「plus sainte（より聖なる）」：比較級による宣言が「キリスト教的聖性（白い薔薇）」よりも「深淵の聖性」の優位を断定する。感嘆符（!）が『キメラ』の中で「Myrtho」「Delfica」「Artémis」と三度目の最強肯定として機能し、詩集全体の異教的・深淵的聖性への信仰を封印する。"
+    }
+  ]
+}
+
+さらに取得
