@@ -24,6 +24,7 @@ import verhaerenData from './data/verhaeren';
 import maeterlinckData from './data/maeterlinck';
 import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
+import nervalData from './data/nerval';
 import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
@@ -251,6 +252,7 @@ export default function App() {
       ...valeryData,
       ...verlaineData,
       ...gautierData,
+      ...nervalData,
       ...valmoreData,
       ...lecontelisleData,
       ...banvilleData,
