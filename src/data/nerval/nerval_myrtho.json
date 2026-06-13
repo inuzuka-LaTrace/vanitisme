@@ -1,0 +1,121 @@
+{
+  "id": "nerval_myrtho",
+  "title": "Myrtho",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 292. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Myrtho",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の『キメラ（Les Chimères）』第2詩篇。1854年刊行の『火の娘たち（Les Filles du feu）』に収録された。「Myrtho（ミルト）」はギリシア神話のニンフの名であり、同時に「myrte（銀梅花・ミルトス）」の擬人化──愛とヴェヌスの聖木であるミルトスと詩の月桂樹（ウェルギリウスの laurier）が最終行で融合する。ポジリポの地誌・バッカス崇拝（Iacchus）・火山活動・ノルマン征服（ギリシア神像の破壊）という複数の歴史的・神話的層が一篇のソネットに圧縮されている。「ミルト」はネルヴァルの恋人ジェニー・コロンへの哀悼的変身像であるとともに、異教的女神への回帰衝動の象徴として機能する。「El Desdichado」と対をなす作品：前者が「喪失と降冥」の詩であれば、「Myrtho」は「酩酊と記憶」の詩──ただしその記憶はすでに火山灰に覆われた過去のものとして現れる。",
+  "keywords": [
+    "Myrtho",
+    "Pausilippe",
+    "Iacchus",
+    "volcan",
+    "Virgile",
+    "異教",
+    "ギリシア",
+    "ミルトス",
+    "火山",
+    "酩酊"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "baudelaire_elevation",
+    "valery_orphee",
+    "regnier_leda",
+    "dannunzio_alba_separa",
+    "horatius_carmina_1_4"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Je pense à toi, Myrtho, divine enchanteresse,\nAu Pausilippe altier, de mille feux brillant,\nÀ ton front inondé des clartés d'Orient,\nAux raisins noirs mêlés avec l'or de ta tresse.",
+      "provisionalTranslation": "私はあなたのことを思う、ミルト、神々しい魔法使いよ、\n千の炎に輝く高らかなポジリポを、\n東方の光に溢れたあなたの額を、\nあなたの髪の金に混じった黒い葡萄の粒を。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "C'est dans ta coupe aussi que j'avais bu l'ivresse,\nEt dans l'éclair furtif de ton œil souriant,\nQuand aux pieds d'Iacchus on me voyait priant,\nCar la Muse m'a fait l'un des fils de la Grèce.",
+      "provisionalTranslation": "あなたの杯からもまた私は陶酔を飲んでいた、\nそしてあなたの微笑む目の素早い閃光から、\nイアッコスの足もとで私が祈っているのを人々が見ていたとき、\nなぜならムーサは私をギリシアの息子たちのひとりにしたから。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Je sais pourquoi là-bas le volcan s'est rouvert…\nC'est qu'hier tu l'avais touché d'un pied agile,\nEt de cendres soudain l'horizon s'est couvert.",
+      "provisionalTranslation": "私にはわかる、なぜあそこで火山が再び口を開いたかを……\nそれはあなたが昨日、軽やかな足でそこに触れたからだ、\nそして突然、灰で地平線が覆われた。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Depuis qu'un duc normand brisa tes dieux d'argile,\nToujours, sous les rameaux du laurier de Virgile,\nLe pâle Hortensia s'unit au Myrthe vert !",
+      "provisionalTranslation": "ノルマンの公爵があなたの粘土の神々を砕いて以来、\n常に、ウェルギリウスの月桂樹の小枝の下で、\n青白いアジサイが緑のミルトに結ばれている！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Myrtho, divine enchanteresse",
+      "body": "「ミルト、神々しい魔法使いよ」──「Myrtho」はギリシア語「μύρτος（myrtos＝銀梅花・ミルトス）」の擬人化。ミルトスはヴェヌス（アフロディテ）の聖木であり、愛と美と死の象徴。「divine（神々しい）」という形容は異教的女神の格を与える──キリスト教的聖性ではなく、ギリシア的神聖さ。「enchanteresse（魔法使い・魅惑する者）」はキルケー・セイレン・メリュジーヌ的な危険な誘惑の女性形象の系列に置かれる。ネルヴァルの最終行「Myrthe vert（緑のミルト）」との語根的呼応：詩は「Myrtho」という呼びかけで始まり「Myrthe」という植物名で閉じる──固有名から普通名詞への帰還によって、女神が自然に溶解する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Au Pausilippe altier, de mille feux brillant",
+      "body": "「千の炎に輝く高らかなポジリポ」──「El Desdichado」v.6で喪失として呼び起こされたポジリポ（Pausilippe）が、ここでは記憶の中の輝かしい現前として現れる。「altier（高らかな・誇り高い）」という形容詞が地形的な高さと精神的な高揚を重ねる。「de mille feux brillant（千の炎に輝く）」は夜景の描写であり、ナポリ湾の港町の灯火あるいは火山の活火をも先取りする（§3の「volcan」への伏線）。ポジリポ（語源：ギリシア語 Παυσίλυπον「苦しみを止める場所」）という地名の語源的意味が、詩全体の「慰め（consolation）」という主題の地理的定着点として機能する。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Aux raisins noirs mêlés avec l'or de ta tresse.",
+      "body": "第1四行詩の結句。「raisins noirs（黒い葡萄）」と「l'or de ta tresse（髪の金）」の色彩対比──黒と金──が§1全体の視覚的骨格をなす。「黒い葡萄」はバッカス（ディオニュソス＝Iacchus）の酩酊と豊穣のシンボルであり、「El Desdichado」の「Soleil noir（黒い太陽）」と黒の系列で連動する。「tresse（三つ編み）」という髪の形象が、蔓葡萄（pampre）の絡まる「棚架（treille）」（El Desdichado v.8）と視覚的に対応する──女性の身体と植物の融合。「mêlés（混じり合った）」という動詞が詩全体の「混淆（混合）」主題の最初の語彙的定着。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "aux pieds d'Iacchus on me voyait priant",
+      "body": "「イアッコスの足もとで私が祈っているのを見ていた」──「Iacchus（イアッコス）」はエレウシス秘儀におけるディオニュソスの別名・儀礼的呼称。エレウシスの秘儀（Mystères d'Éleusis）においてイアッコスは入信者の行進を導く神として呼び起こされた。「on me voyait priant（人々が私を祈っているのを見ていた）」という非人称構文が、詩人の宗教的行為を客観視・距離化する──詩人は自分が異教の礼拝者として「見られていた」という過去の姿を語る。§4の「un duc normand brisa tes dieux d'argile（ノルマンの公爵が粘土の神々を砕いた）」という異教破壊と対照をなす：詩人は破壊される前のギリシア的宗教世界に帰属していたと宣言する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Car la Muse m'a fait l'un des fils de la Grèce.",
+      "body": "「ムーサは私をギリシアの息子たちのひとりにしたから」──第2四行詩の結句にして詩人の自己定義の核心命題。「la Muse（ムーサ）」が詩人をギリシア的系譜に組み込む行為主体として機能する──フランス人詩人が「ギリシアの息子」となるのは生誕によってではなく、詩的使命（vocation）によって。ネルヴァルが訳したゲーテ『ファウスト』（1828）の序文でネルヴァルはゲーテから「あなたはドイツ語を理解していない」と称賛され、翻訳行為そのものが「移植（transplantation）」として定義されていた──「ギリシアの息子」という自己規定は同様の文化的移植の詩的宣言として読める。ヴァレリー「オルフェウス」の「詩人はムーサによって選ばれた者」という詩人論の先行形。",
+      "targetId": "valery_orphee",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je sais pourquoi là-bas le volcan s'est rouvert…",
+      "body": "「私にはわかる、なぜあそこで火山が再び口を開いたかを」──ソネットの転回点（volta）。「Je sais pourquoi（私にはわかる）」という認識的確信の宣言が、第1・第2四行詩の追憶的・祈願的語調から「解読・説明」の語調へと転換する。「le volcan（火山）」はヴェスヴィウス火山──ナポリ・ポジリポと地理的に直結し、79年のポンペイ・ヘルクラネウム埋没（プリニウス『書簡集』所収の記録）という「古代文明の埋葬」を喚起する。「s'est rouvert（再び口を開いた）」という再開という語が重要：火山の活動再開＝女神の帰還・異教の再覚醒として読まれる。「…（省略記号）」が「El Desdichado」v.11と同様に、知の確信の後に続く不可言の余白を形式化する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "C'est qu'hier tu l'avais touché d'un pied agile,\nEt de cendres soudain l'horizon s'est couvert.",
+      "body": "第1三行詩の後二行。「d'un pied agile（軽やかな足で）」という形象が女神の足の軽さ・俊敏さ（agility）と火山の破壊的エネルギーの原因的連結を成立させる──女神のわずかな接触が地殻変動を引き起こすという神話的因果。「de cendres soudain l'horizon s'est couvert（突然、灰で地平線が覆われた）」──「soudain（突然）」の副詞が火山噴火の即時性を標示しつつ、「cendres（灰）」がポンペイ的埋葬・記憶の遮蔽として機能する。「horizon s'est couvert」：地平線が覆われる＝視界の消滅＝過去の彼方への閉鎖。この「灰による覆い」が§4の「Depuis qu'un duc normand brisa（ノルマン公爵が砕いて以来）」という歴史的断絶への移行を準備する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Depuis qu'un duc normand brisa tes dieux d'argile,",
+      "body": "「ノルマンの公爵があなたの粘土の神々を砕いて以来」──ソネット最終三行の歴史的軸。「un duc normand（ノルマンの公爵）」の同定には複数の解釈がある：①ロベール・ギスカール（1015頃–1085）：南イタリアをノルマン征服した公爵で、ギリシア系住民の異教的・ビザンティン的文化を破壊した；②より広く、11世紀のノルマン人による南イタリア征服全体を指す総称的形象。「dieux d'argile（粘土の神々）」：「argile（粘土）」という素材が重要──大理石や青銅の神像ではなく「粘土」の神々は民衆的・素朴な異教信仰の形象であり、砕きやすい脆弱性を示す。この「歴史的断絶」の命題が詩全体の時間構造を確立する：ギリシア的豊穣（§1–2）→ 火山的破壊（§3）→ 歴史的断絶（§4前半）→ しかし植物的持続（§4後半）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Toujours, sous les rameaux du laurier de Virgile,\nLe pâle Hortensia s'unit au Myrthe vert !",
+      "body": "ソネットの結句。「laurier de Virgile（ウェルギリウスの月桂樹）」：ポジリポにはウェルギリウス（Publius Vergilius Maro, 70–19 BC）の墓があるとされ（Parco Virgiliano）、月桂樹は詩の勝利・不死の象徴。詩はウェルギリウス的詩の伝統の「小枝（rameaux）」の下にある。「Hortensia（アジサイ）」：「pâle（青白い）」という形容が「El Desdichado」の「ténébreux（陰鬱な）」・「inconsolé（慰めなき）」と同系の喪の語彙。「Hortensia」の語根「hortus（庭）」が閉じた庭園的空間を示唆し、ロデンバックの「閉じた庭（jardins）」との遠い照応を持つ。「Myrthe vert（緑のミルト）」：冒頭の「Myrtho」が植物名「myrthe」として帰還する──女神が木に変身する（オウィディウス『変身物語』的変容）。「s'unit（結ばれる）」という動詞が「El Desdichado」v.8「le pampre à la rose s'allie」の「s'allie」と対応し、二篇のソネットを植物的エロスの共通語彙で結ぶ。感嘆符（!）が詩集『キメラ』中で最も積極的な肯定の音調として機能する──破壊の後も「常に（toujours）」植物的結合は続くという逆説的希望の宣言。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 4
+    }
+  ]
+}
