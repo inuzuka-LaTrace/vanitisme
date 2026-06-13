@@ -25,6 +25,7 @@
     "dante_purgatorio_canto_11",
     "dante_purgatorio_canto_24",
     "dante_purgatorio_canto_26",
+    "dante_purgatorio_canto_27",
     "dante_paradiso_canto_3",
     "dante_paradiso_canto_31",
     "dante_paradiso_canto_33",
@@ -91,6 +92,8 @@
       "type": "commentary",
       "anchor": "ben tetragono ai colpi di ventura;",
       "body": "「運命の打撃に四角形のように（ben tetragono ai colpi di ventura）」──「tetragonos（四角形）」はアリストテレス『ニコマコス倫理学』I, 10「完全に幸福な者、美しく四角形（τετράγωνος）のような者」という道徳的安定の比喩。アリストテレスは「四角形」を「どこから転がしても安定した形」として道徳的堅固さの比喩に使う：嵐の中でも転覆しない安定した基盤。ダンテが「tetragono」という語を使うのは神曲全体でここだけ──哲学的用語を詩的文脈に移植する例。煉獄篇第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」という到達点への、哲学的意志の強度の自己表明。"
+      "targetId": "dante_purgatorio_canto_27",
+      "targetParagraphId": null
     },
     {
       "paragraphId": 2,
@@ -111,7 +114,7 @@
       "type": "commentary",
       "anchor": "Tu lascerai ogne cosa diletta\npiù caramente; e questo è quello strale\nche l'arco de lo essilio pria saetta.\n\nTu proverai sì come sa di sale\nlo pane altrui, e come è duro calle\nlo scendere e 'l salir per l'altrui scale.",
       "body": "「あなたは最も愛を込めて愛したものを全て捨て去るだろう（Tu lascerai ogne cosa diletta / più caramente）」・「他人のパンがいかに塩の味がするか……他人の階段を下り上りする道がいかに険しいか（Tu proverai sì come sa di sale / lo pane altrui...lo scendere e 'l salir per l'altrui scale）」──西洋文学の「追放文学（literature of exile）」の最高の定式として広く引用される三連の詩句。「lo pane altrui（他人のパン）」──「他人の慈悲による食べ物」は依存・屈辱・異郷の生の物質的表現。「la sale（塩）」という味覚：塩気は苦味と同様に不快な外来の味──故郷の食の「甘さ（dolcezza）」との対比。「lo scendere e 'l salir per l'altrui scale（他人の階段を下り上りする）」──他者の家への依存の身体的繰り返し：「下り（scendere）と上り（salir）」という往復運動が亡命の屈辱を身体化する。詩篇136（137）「バビロンの川のほとりで私たちは座り、シオンを思って泣いた」という追放詩篇の西洋文学的変容。",
-      "targetId": "hieronymus_psalm_136",
+      "targetId": "hieronymus_psalmi_136",
       "targetParagraphId": 1
     },
     {
@@ -164,7 +167,9 @@
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Però ti son mostrate in queste rote,\nnel monte e ne la valle dolorosa\npur l'anime che son di fama note,",
-      "body": "「そのためにこれらの輪で、山でそして苦しみの谷で、名声で知られた魂たちだけがあなたに示された（pur l'anime che son di fama note）」──神曲全体の詩学的方法論の自己説明。「di fama note（名声で知られた）」という選択の基準：ダンテが地獄・煉獄・天国で出会う魂たちは全員「名声（fama）」において知られた者たち──無名の魂との対話は「証拠（argomento）」として読者に訴えられない。「che l'animo di quel ch'ode, non posa / né ferma fede per essempro ch'aia / la sua radice incognita e ascosa（聞く者の心は安らがず根が知られず隠れているような例に信仰を固めない）」──詩学的説得論：「知られていない根（radice incognita）」を持つ例は読者の信頼を得られない。有名な魂を選ぶことが詩的説得力の条件。煉獄篇第26歌でグイニゼッリ・アルノー・ダニエルという「知られた詩人」と対話したこと、地獄篇第5歌でフランチェスカ（既知の歴史的人物）と対話したことの詩学的正当化。"
+      "body": "「そのためにこれらの輪で、山でそして苦しみの谷で、名声で知られた魂たちだけがあなたに示された（pur l'anime che son di fama note）」──神曲全体の詩学的方法論の自己説明。「di fama note（名声で知られた）」という選択の基準：ダンテが地獄・煉獄・天国で出会う魂たちは全員「名声（fama）」において知られた者たち──無名の魂との対話は「証拠（argomento）」として読者に訴えられない。「che l'animo di quel ch'ode, non posa / né ferma fede per essempro ch'aia / la sua radice incognita e ascosa（聞く者の心は安らがず根が知られず隠れているような例に信仰を固めない）」──詩学的説得論：「知られていない根（radice incognita）」を持つ例は読者の信頼を得られない。有名な魂を選ぶことが詩的説得力の条件。煉獄篇第26歌でグイニゼッリ・アルノー・ダニエルという「知られた詩人」と対話したこと、地獄篇第5歌でフランチェスカ（既知の歴史的人物）と対話したことの詩学的正当化。",
+      "targetId": "dante_purgatorio_canto_26",
+      "targetParagraphId": null
     }
   ]
 }
