@@ -1,0 +1,114 @@
+{
+  "id": "nerval_delfica",
+  "title": "Delfica",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 293-294. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Delfica",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『キメラ（Les Chimères）』第5詩篇。「Delfica（デルフィカ）」はデルフォイ（Delphi）のラテン語的形容詞形──アポロンの神託所の地名から派生する。呼びかけの対象「DAFNÉ（ダフネ）」はアポロンに追われ月桂樹に変身したニンフ（オウィディウス『変身物語』第1巻）。ダフネという名の大文字表記（DAFNÉ、TEMPLE）が詩の中で特定の「秘儀的」な強調を与える。『キメラ』の中で最も「回帰」の主題を直接的に宣言する詩：「Ils reviendront, ces dieux que tu pleures toujours !（彼らは帰ってくる、あなたがいつも泣き悼む神々が！）」という第3連の確信命題が詩集全体の異教的神々の回帰への信仰を集約する。しかし最終三行のダッシュ（—）に導かれる逆接「Cependant（しかしながら）」が鋭い皮肉的転換をもたらす：コンスタンティヌスの凱旋門（キリスト教ローマ帝国の象徴）の下でシビュラは眠り続け、「厳粛な柱廊（sévère portique）」は何も変わっていない。「Antéros」の能動的反抗に対し、「Delfica」は待望と停滞の緊張として異教回帰の主題を転調させる。ゲーテ『ミニョンの歌（Kennst du das Land）』の構造的影響が指摘されており、「La connais-tu（あなたは知っているか）」という開口一番の問いかけはその変奏として位置づけられる。",
+  "keywords": [
+    "Dafné",
+    "Delfica",
+    "sibylle",
+    "Constantin",
+    "dragon",
+    "異教回帰",
+    "神託",
+    "デルフォイ",
+    "ダフネ",
+    "portique"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_myrtho",
+    "nerval_horus",
+    "nerval_anteros",
+    "hieronymus_apocalypsis_1",
+    "george_entrueckung",
+    "hofmannsthal_terzinen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "La connais-tu, DAFNÉ, cette ancienne romance,\nAu pied du sycomore, ou sous les lauriers blancs,\nSous l'olivier, le myrthe ou les saules tremblants,\nCette chanson d'amour… qui toujours recommence !",
+      "provisionalTranslation": "あなたは知っているか、ダフネよ、あの古い恋歌を、\nイチジクの木の根もとで、あるいは白い月桂樹の下で、\nオリーブの木の下で、銀梅花の下で、あるいは震えるヤナギの下で、\nあの愛の歌を……いつも繰り返し始まるあの歌を！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Reconnais-tu le TEMPLE, au péristyle immense,\nEt les citrons amers où s'imprimaient tes dents ?\nEt la grotte, fatale aux hôtes imprudents,\nOù du dragon vaincu dort l'antique semence.",
+      "provisionalTranslation": "あなたは認識するか、巨大な柱廊をもつあの神殿を、\nそしてあなたの歯跡がついていた苦いレモンを？\nそして不注意な旅人たちにとって不吉な洞窟を、\n打ち負かされた竜の古い種が眠るあの洞窟を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Ils reviendront, ces dieux que tu pleures toujours !\nLe temps va ramener l'ordre des anciens jours ;\nLa terre a tressailli d'un souffle prophétique…",
+      "provisionalTranslation": "彼らは帰ってくる、あなたがいつも泣き悼むあの神々が！\n時は古い日々の秩序を取り戻すだろう；\n大地は予言の息吹に震えた……"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Cependant la sibylle au visage latin\nEst endormie encor sous l'arc de Constantin :\n— Et rien n'a dérangé le sévère portique.",
+      "provisionalTranslation": "しかしながら、ラテン的な顔立ちの巫女は\nコンスタンティヌスの凱旋門の下でまだ眠っている：\n——そして厳粛な柱廊は何も乱されていない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "La connais-tu, DAFNÉ, cette ancienne romance,",
+      "body": "「あなたは知っているか、ダフネよ、あの古い恋歌を」──ゲーテ『ヴィルヘルム・マイスター』所収の「ミニョンの歌（Kennst du das Land, wo die Zitronen blühn?）」（1795）の構造的変奏として広く指摘される。「La connais-tu（あなたは知っているか）」という問いかけ形式・南の土地への郷愁・レモン（§2「les citrons amers」）という共通素材が照応する。「DAFNÉ（ダフネ）」の大文字表記：ダフネはアポロンに追われ月桂樹（laurier）に変身したニンフ（オウィディウス『変身物語』第1巻）。大文字は秘儀的・象徴的な固有名詞の強調──詩の中で「人名」ではなく「神話的原型」として機能させる印。「ancienne romance（古い恋歌）」：「romance」は中世の吟遊詩人的なロマンス歌謡を指し、「Myrtho」のギリシア・異教的詩の伝統と同系。詩が「いつも繰り返し始まる（qui toujours recommence）」という永続的循環としての定義が、コヘレト「太陽の下に新しいものは何もない」と構造的に共鳴する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Sous l'olivier, le myrthe ou les saules tremblants,\nCette chanson d'amour… qui toujours recommence !",
+      "body": "植物の三重列挙と「永遠の繰り返し」の定式。「olivier（オリーブ）」：地中海的知恵・平和・アテナの聖木；「le myrthe（銀梅花・ミルトス）」：「Myrtho」と「Myrthe vert」（nerval_myrtho）のミルトスが再登場し、詩集内の植物的主題系を継続させる；「saules tremblants（震えるヤナギ）」：オフェリア的水辺の嘆きの木（シェイクスピア『ハムレット』第4幕）。三木が「ou（あるいは）」で連結されることで、単一の場所ではなく「いずれかの聖なる木の下」という普遍的な神話的空間が定位される。「qui toujours recommence（いつも繰り返し始まる）」という現在時制が、その歌の終わりのなさを形式的に実演する。感嘆符（!）が第1四行詩を肯定的な驚嘆で閉じる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Reconnais-tu le TEMPLE, au péristyle immense,",
+      "body": "「あなたは認識するか、巨大な柱廊をもつあの神殿を」──「TEMPLE」の大文字表記が「DAFNÉ」と同様に秘儀的強調。「le Temple（神殿）」はデルフォイのアポロン神殿──詩題「Delfica」の地理的核心。「péristyle immense（巨大な柱廊）」：ペリスティール（péristyle）は神殿を囲む柱列の廊下。詩の最終行「le sévère portique（厳粛な柱廊）」と「péristyle」が同一の建築的形象（柱廊）で照応し、第2四行詩と第2三行詩が建築的枠組みによって連結される。「Reconnais-tu（あなたは再認識するか）」：「connaître（知る）」から「reconnaître（再認識する）」への転換が「anamnèse（想起）」──プラトン的な魂の記憶回帰──を含意する。ダフネが知っているのは現在の知識ではなく、前世的・神話的「記憶」として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et la grotte, fatale aux hôtes imprudents,\nOù du dragon vaincu dort l'antique semence.",
+      "body": "「不注意な旅人たちにとって不吉な洞窟、打ち負かされた竜の古い種が眠る場所」──デルフォイ神話の核心への参照。アポロンがデルフォイの大蛇ピュトン（Python）を退治してその地に神託所を建てたという神話（ホメロス賛歌「アポロンへ」）。「dragon vaincu（打ち負かされた竜）」：「Antéros」結句「les dents du vieux dragon（古い竜の歯）を再び蒔く」との直接照応──ピュトン＝カドモスの竜＝「打ち負かされた旧い力」が詩集内で連続する形象系をなす。「dort l'antique semence（古い種が眠る）」：眠っている種は未来の発芽を含意する──「Ils reviendront（彼らは帰ってくる）」という§3の預言の伏線として、竜の種の潜在的覚醒が準備される。「fatale aux hôtes imprudents（不注意な旅人にとって不吉）」：神話的空間への無知な接近への警告。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ils reviendront, ces dieux que tu pleures toujours !",
+      "body": "「彼らは帰ってくる、あなたがいつも泣き悼むあの神々が！」──『キメラ』全体の神学的宣言の核心命題。「Ils reviendront（彼らは帰ってくる）」という未来形が確信的預言として機能する：「Horus」のイシスが「新しい霊が私を呼ぶ」と現在において告げたとすれば、「Delfica」では未来における異教的神々の回帰が預言される。「ces dieux que tu pleures toujours（あなたがいつも泣き悼む神々）」：ダフネが嘆いているのは自分自身（月桂樹に変身させられた）であるとともに、キリスト教によって駆逐されたギリシア的神々全体。感嘆符（!）が『キメラ』中で最も強い肯定的確信として機能する──「Myrtho」結句「Le pâle Hortensia s'unit au Myrthe vert !」と並ぶ希望の声調。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Le temps va ramener l'ordre des anciens jours ;\nLa terre a tressailli d'un souffle prophétique…",
+      "body": "「時は古い日々の秩序を取り戻すだろう；大地は予言の息吹に震えた」──時間と大地という二つの宇宙的力による預言の裏付け。「Le temps va ramener（時は取り戻すだろう）」：「aller + 不定詞」の近接未来が「Ils reviendront」の純粋未来を時間的に補強する。「l'ordre des anciens jours（古い日々の秩序）」：「anciens（古い）」という形容詞が「ancienne romance（古い恋歌）」（§1）と呼応し、詩全体の「古代への回帰」主題を縫合する。「La terre a tressailli d'un souffle prophétique（大地は予言の息吹に震えた）」：「souffle（息吹）」が「Horus」のクネフ（宇宙の息吹の神）の「震え（en tremblant）」と反転的に照応する──老神の衰退的震動に対し、大地の予言的震動は再生の前兆として。省略記号（…）が預言の余韻を宙吊りにし、§4の逆接への移行を準備する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Cependant la sibylle au visage latin\nEst endormie encor sous l'arc de Constantin :",
+      "body": "「しかしながら、ラテン的な顔立ちの巫女はコンスタンティヌスの凱旋門の下でまだ眠っている」──ソネットの最大の転換点。「Cependant（しかしながら）」というダッシュなしの逆接が§3の預言的確信を鋭く切断する。「la sibylle au visage latin（ラテン的な顔立ちの巫女）」：シビュラ（sibylle）は古代の女性予言者。「visage latin（ラテン的顔）」がキリスト教化されたローマ＝ラテン文化の顔として、異教的シビュラの上に被せられた新しい文化的仮面として機能する。「l'arc de Constantin（コンスタンティヌスの凱旋門）」：315年建立、ローマのコロッセオ隣に現存。コンスタンティヌス1世（272–337）はミラノ勅令（313年）でキリスト教を公認し、後に国教化の道を開いた皇帝──凱旋門はキリスト教的ローマ帝国の象徴的建築として異教文明の上にそびえる。「encor（まだ）」という副詞が眠りの継続性と覚醒の不在を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "— Et rien n'a dérangé le sévère portique.",
+      "body": "ソネットの結句にして『キメラ』第5詩篇の閉幕。ダッシュ（—）で導かれる最終行が詩集中で最も静謐かつ冷徹な結語として機能する。「rien n'a dérangé（何も乱されていない）」：否定の完了形が変化の完全な不在を確定する。「le sévère portique（厳粛な柱廊）」：「§2「péristyle immense（巨大な柱廊）」と同一の建築的形象が「sévère（厳粛・厳格）」という形容詞で再登場する──「巨大さ（immense）」から「厳格さ（sévère）」への転換が、神話的空間の荘厳さから歴史的固定性・不動性への意味論的移行を示す。この結句は三つの読みを重ねる：①異教的神殿の柱廊はキリスト教にも乱されず残存している（異教の持続）；②キリスト教的秩序の「厳格な柱廊」は異教回帰によって乱されていない（現実の停滞）；③詩人の預言は成就せず、世界は変わらない（メランコリックな認識）。「El Desdichado」の「Soleil noir de la Mélancolie」が感情的憂鬱を詩の出発点とするとすれば、「Delfica」は知的認識としての憂鬱──世界の不変という冷徹な確認──を詩の到達点として刻む。"
+    }
+  ]
+}
