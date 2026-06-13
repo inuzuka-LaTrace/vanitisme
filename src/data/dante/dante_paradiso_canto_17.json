@@ -1,0 +1,170 @@
+{
+  "id": "dante_paradiso_canto_17",
+  "title": "Paradiso — Canto XVII",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Paradiso/Canto_XVII（2026年4月24日版）",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Paradiso",
+  "canto": "XVII",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "天国篇第17歌は神曲全体における詩人の使命論の核心をなす歌。火星の天（第5天）にいる先祖カッチャグイーダ（1091頃–1147、第2回十字軍で戦死）との対話の第二部であり、地獄篇・煉獄篇で断片的に語られた「予言」の全体像を明示的に開示する。歌の構造は三層：①神の予知と自由意志の哲学的定式化、②ダンテの追放予言の明示、③詩の使命の宣言。\n「Né per ambage（曖昧語なしに）」というカッチャグイーダの宣言は、デルフォイの神託やギリシアの「予言の曖昧さ」を意図的に拒絶する：天国の真理は「明確な言葉と精確なラテン語（chiare parole e con preciso latin）」で語られる。ダンテの追放予言（1302年の事実を「1300年の旅」の時点での未来予言として語る詩的二重時制）がイッポリトスとパエドラの神話で比喩化される──「義人が継母の中傷によって故郷を追われる」という古典的図式。\n「Tu lascerai ogne cosa diletta / più caramente（あなたは最も愛するものを全て捨て去るだろう）」・「Tu proverai sì come sa di sale / lo pane altrui（他人のパンが塩の味がするかを知るだろう）・come è duro calle / lo scendere e 'l salir per l'altrui scale（他人の階段を下り上りする険しい道）」という三連の「流謫の詩句」は西洋文学で「追放文学（literature of exile）」の最高の定式として広く引用される。\n詩の使命論はPara 4–5に集中する。「s'io al vero son timido amico（もし私が真実への臆病な友なら）」というダンテの自己批判に対し、カッチャグイーダは「tutta tua vision fa manifesta（幻視の全てを明らかにせよ）」と応答する──「詩的真実への勇気（poetic courage）」の宣言。「Coscïenza fusca / o de la propria o de l'altrui vergogna / pur sentirà la tua parola brusca（暗い良心は、自身の恥においても他者の恥においても、あなたの辛辣な言葉を感じるだろう）」・「lascia pur grattar dov' è la rogna（疥癬のある所を掻け）」という詩的正義の定式。「vital nodrimento（命ある養い）」・「le più alte cime più percuote（最も高い頂を最も強く打つ）風」という詩の社会的機能論がブリューソフ「Поэту」の「Как Данту, подземное пламя / Должно тебе щёки обжечь（ダンテのように、地下の炎が頬を焦がさなければならない）」・「Да будет твоя добродетель — / Готовность войти на костёр（あなたの徳とあれ──火刑台に登る準備であることを）」という詩人論と深く照応する。",
+  "keywords": [
+    "カッチャグイーダ", "追放予言", "lo pane altrui", "詩の使命",
+    "tutta tua vision fa manifesta", "timido amico al vero",
+    "Coscïenza fusca", "vital nodrimento", "chiare parole",
+    "イッポリトス", "スカーラ家", "カングランデ", "Né per ambage"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_10",
+    "dante_purgatorio_canto_3",
+    "dante_purgatorio_canto_11",
+    "dante_purgatorio_canto_24",
+    "dante_purgatorio_canto_26",
+    "dante_paradiso_canto_3",
+    "dante_paradiso_canto_31",
+    "dante_paradiso_canto_33",
+    "bryusov_poetu",
+    "mallarme_crise_de_vers",
+    "valery_premiere_lecon_cours_de_poetique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–30",
+      "speaker": "Dante-narratore / Beatrice",
+      "original": "Qual venne a Climenè, per accertarsi\ndi ciò ch'avëa incontro a sé udito,\nquei ch'ancor fa li padri ai figli scarsi;\n\ntal era io, e tal era sentito\ne da Beatrice e da la santa lampa\nche pria per me avea mutato sito.\n\nPer che mia donna «Manda fuor la vampa\ndel tuo disio», mi disse, «sì ch'ella esca\nsegnata bene de la interna stampa:\n\nnon perché nostra conoscenza cresca\nper tuo parlare, ma perché t'ausi\na dir la sete, sì che l'uom ti mesca».\n\n«O cara piota mia che sì t'insusi,\nche, come veggion le terrene menti\nnon capere in trïangol due ottusi,\n\ncosì vedi le cose contingenti\nanzi che sieno in sé, mirando il punto\na cui tutti li tempi son presenti;\n\nmentre ch'io era a Virgilio congiunto\nsu per lo monte che l'anime cura\ne discendendo nel mondo defunto,\n\ndette mi fuor di mia vita futura\nparole gravi, avvegna ch'io mi senta\nben tetragono ai colpi di ventura;\n\nper che la voglia mia saria contenta\nd'intender qual fortuna mi s'appressa:\nché saetta previsa vien più lenta».\n\nCosì diss' io a quella luce stessa\nche pria m'avea parlato; e come volle\nBeatrice, fu la mia voglia confessa.",
+      "provisionalTranslation": "クリュメネのもとに、自分に向けて聞いたことを確かめるために\n来た者のように──\n今なお父たちを子に対して吝嗇にする者──\n\nそのようだった私、そのように感じられていた\nベアトリーチェにも、聖なる灯にも、\nそれは私のために既に場所を変えていた。\n\nそのため私の女主人は「あなたの欲望の炎を\n放て」と言った、「それがよく\n内側の刻印で刻まれて出るように：\n\nあなたの言葉によって私たちの知識が増えるためではなく、\nしかし渇きを言うことに慣れるために、\n人があなたに注いでくれるように。」\n\n「おお私の愛しき根よ、これほど高く昇り、\n地上の心が三角形に\n二つの鈍角が入らないことを見るように、\n\nあなたは偶然的なものごとを\n現実となる前に見る、全ての時間が\n現在として向けられる点を眺めながら；\n\n私がウェルギリウスと共にいた間、\n魂を癒す山を登りながら\nそして死者の世界を降りながら、\n\n私の未来の生について重い言葉が\n私に語られた、私が自分を\n運命の打撃に四角形のように感じるとしても；\n\nそのため私の望みは満たされるだろう\nどのような運命が私に近づくかを理解することで：\nなぜなら予見された矢はより遅く来るから。」\n\nそのように私は、先に私に話しかけた\nその光に言った；そしてベアトリーチェが望んだように、\n私の望みは告白された。"
+    },
+    {
+      "id": 2,
+      "verses": "v.31–60",
+      "speaker": "Cacciaguida",
+      "original": "Né per ambage, in che la gente folle\ngià s'inviscava pria che fosse anciso\nl'Agnel di Dio che le peccata tolle,\n\nma per chiare parole e con preciso\nlatin rispuose quello amor paterno,\nchiuso e parvente del suo proprio riso:\n\n«La contingenza, che fuor del quaderno\nde la vostra matera non si stende,\ntutta è dipinta nel cospetto etterno;\n\nnecessità però quindi non prende\nse non come dal viso in che si specchia\nnave che per torrente giù discende.\n\nDa indi, sì come viene ad orecchia\ndolce armonia da organo, mi viene\na vista il tempo che ti s'apparecchia.\n\nQual si partio Ipolito d'Atene\nper la spietata e perfida noverca,\ntal di Fiorenza partir ti convene.\n\nQuesto si vuole e questo già si cerca,\ne tosto verrà fatto a chi ciò pensa\nlà dove Cristo tutto dì si merca.\n\nLa colpa seguirà la parte offensa\nin grido, come suol; ma la vendetta\nfia testimonio al ver che la dispensa.\n\nTu lascerai ogne cosa diletta\npiù caramente; e questo è quello strale\nche l'arco de lo essilio pria saetta.\n\nTu proverai sì come sa di sale\nlo pane altrui, e come è duro calle\nlo scendere e 'l salir per l'altrui scale.",
+      "provisionalTranslation": "曖昧語によってではなく──愚かな民が\n神の子羊が殺される前から\nそこに粘り付いていた曖昧語によってではなく──\n\nしかし明確な言葉と精確な\nラテン語で、あの父の愛が答えた、\n自らの微笑みの中に包まれながら現れながら：\n\n「偶然的なものごとは、あなた方の物質の\n書物の外には広がらないが、\n全て永遠の御前に描かれている；\n\nしかしそこから必然性を得るのは\n急流を下る船が映し出される\n視点から得るのと同じように。\n\nそこから、オルガンから\n甘い和音が耳に来るように、\nあなたに備わる時間が私には見える。\n\nイッポリトスがアテネを去ったように\n残酷で不実の継母のために、\nそのようにフィレンツェを去ることがあなたには必要だ。\n\nこれが望まれ、これが既に求められ、\nそしてそれを考える者によって間もなく実行されるだろう、\nキリストが毎日売り買いされる場所で。\n\n非難は傷つけられた側に\n通常のように続くだろう；しかし復讐が\nそれを分配する真実の証人となるだろう。\n\nあなたは最も愛を込めて愛したものを全て\n捨て去るだろう；そしてこれが、\n追放の弓が最初に放つあの矢だ。\n\nあなたは他人のパンが\nいかに塩の味がするかを知るだろう、そして\n他人の階段を下り上りする道がいかに険しいかを。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.61–99",
+      "speaker": "Cacciaguida",
+      "original": "E quel che più ti graverà le spalle,\nsarà la compagnia malvagia e scempia\ncon la qual tu cadrai in questa valle;\n\nche tutta ingrata, tutta matta ed empia\nsi farà contr' a te; ma, poco appresso,\nella, non tu, n'avrà rossa la tempia.\n\nDi sua bestialitate il suo processo\nfarà la prova; sì ch'a te fia bello\naversi fatta parte per te stesso.\n\nLo primo tuo refugio e 'l primo ostello\nsarà la cortesia del gran Lombardo\nche 'n su la scala porta il santo uccello;\n\nch'in te avrà sì benigno riguardo,\nche del fare e del chieder, tra voi due,\nfia primo quel che tra li altri è più tardo.\n\nCon lui vedrai colui che 'mpresso fue,\nnascendo, sì da questa stella forte,\nche notabili fier l'opere sue.\n\nNon se ne son le genti ancora accorte\nper la novella età, ché pur nove anni\nson queste rote intorno di lui torte;\n\nma pria che 'l Guasco l'alto Arrigo inganni,\nparran faville de la sua virtute\nin non curar d'argento né d'affanni.\n\nLe sue magnificenze conosciute\nsaranno ancora, sì che ' suoi nemici\nnon ne potran tener le lingue mute.\n\nA lui t'aspetta e a' suoi benefici;\nper lui fia trasmutata molta gente,\ncambiando condizion ricchi e mendici;\n\ne portera'ne scritto ne la mente\ndi lui, e nol dirai»; e disse cose\nincredibili a quei che fier presente.\n\nPoi giunse: «Figlio, queste son le chiose\ndi quel che ti fu detto; ecco le 'nsidie\nche dietro a pochi giri son nascose.\n\nNon vo' però ch'a' tuoi vicini invidie,\nposcia che s'infutura la tua vita\nvie più là che 'l punir di lor perfidie».",
+      "provisionalTranslation": "そしてあなたの肩に最も重くのしかかるのは、\nあなたがこの谷に落ちるであろう\n悪しき愚かな連れたちだ；\n\n彼ら全員が恩知らずで、全員が狂気に満ち、不敬虔に\nあなたに対してなるだろう；しかし間もなく、\n彼らが、あなたではなく、こめかみを赤く染めるだろう。\n\n彼ら自身の野蛮さの所業が\n証明するだろう；そのため自分だけのために\n党派を作ったことがあなたには美しかったとなるだろう。\n\nあなたの最初の避難所と最初の宿は\n聖なる鳥を梯子の上に運ぶ\n大ロンバルディア人の礼節だろう；\n\n彼はあなたにこれほど慈悲深い眼差しを向けるだろう、\n二人の間で、することと求めることにおいて、\n他の者たちの間で最も遅いものが最初となるだろう。\n\n彼と共にあなたは、生まれた時、\nこの強い星によってこれほど刻まれた者を見るだろう、\n彼の業が注目されるほどに。\n\n人々は若い年齢ゆえにまだ気づいていない、\nなぜならこれらの輪はたった九年\n彼の周りに回っているだけだから；\n\nしかしガスコン人が高きアッリーゴを欺く前に、\n彼の美徳の火花が現れるだろう、\n金も煩労も気にしないことにおいて。\n\n彼の偉大さはさらに知られるようになるだろう、\nそのため彼の敵さえも\n舌を黙らせておくことができないだろう。\n\n彼を頼りにし、彼の恩恵を頼りにせよ；\n彼によって多くの人が変わるだろう、\n富者と乞食が状況を変えながら；\n\nそしてあなたは彼について記されたことを\n心の中に持ち帰るだろう、そして語るな」；\nそして現在にいる者たちには信じがたいことを言った。\n\nそれから加えた：「息子よ、これらが\nあなたに言われたことの注釈だ；\nこれらがわずかな回転の後に隠された罠だ。\n\nしかし、隣人たちを羨むなと私は望む、\nなぜならあなたの生は、彼らの不実が\n罰せられるずっと先まで延びるから。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.100–120",
+      "speaker": "Dante / Cacciaguida",
+      "original": "Poi che, tacendo, si mostrò spedita\nl'anima santa di metter la trama\nin quella tela ch'io le porsi ordita,\n\nio cominciai, come colui che brama,\ndubitando, consiglio da persona\nche vede e vuol dirittamente e ama:\n\n«Ben veggio, padre mio, sì come sprona\nlo tempo verso me, per colpo darmi\ntal, ch'è più grave a chi più s'abbandona;\n\nper che di provedenza è buon ch'io m'armi,\nsì che, se loco m'è tolto più caro,\nio non perdessi li altri per miei carmi.\n\nGiù per lo mondo sanza fine amaro,\ne per lo monte del cui bel cacume\nli occhi de la mia donna mi levaro,\n\ne poscia per lo ciel, di lume in lume,\nho io appreso quel che s'io ridico,\na molti fia sapor di forte agrume;\n\ne s'io al vero son timido amico,\ntemo di perder viver tra coloro\nche questo tempo chiameranno antico».",
+      "provisionalTranslation": "沈黙の後、聖なる魂が、私が\n縦糸として差し出した織物に\n横糸を入れることを終えたとわかった後、\n\n私は始めた、まるで望みながら\n迷いながら、正直に見て望んで愛する\n人から助言を求める者のように：\n\n「よく私には分かる、父よ、\n時間がいかに私に向かって拍車をかけているかが、\n最も身を委ねる者に最も重い打撃を与えるために；\n\nそのため予見によって武装することが良い、\nそうすれば、より愛した場所が私から奪われても、\n私の歌によって他の場所を失わないように。\n\n果てしなく苦い世界を下って、\nそして私の女主人の目が\n私を高くいざなった美しい頂を持つ山を経て、\n\nそして空を、光から光へ、\n私はあることを学んだ、それを私が語り直すなら、\n多くの者に強い酸味の味になるだろう；\n\nそして私が真実への臆病な友であるなら、\nこの時代を古いと呼ぶであろう者たちの間で\n生き残ることを失うことを恐れる。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.121–142",
+      "speaker": "Cacciaguida",
+      "original": "La luce in che rideva il mio tesoro\nch'io trovai lì, si fé prima corusca,\nquale a raggio di sole specchio d'oro;\n\nindi rispuose: «Coscïenza fusca\no de la propria o de l'altrui vergogna\npur sentirà la tua parola brusca.\n\nMa nondimen, rimossa ogne menzogna,\ntutta tua visïon fa manifesta;\ne lascia pur grattar dov' è la rogna.\n\nChe se la voce tua sarà molesta\nnel primo gusto, vital nodrimento\nlascerà poi, quando sarà digesta.\n\nQuesto tuo grido farà come vento,\nche le più alte cime più percuote;\ne ciò non fa d'onor poco argomento.\n\nPerò ti son mostrate in queste rote,\nnel monte e ne la valle dolorosa\npur l'anime che son di fama note,\n\nche l'animo di quel ch'ode, non posa\nné ferma fede per essempro ch'aia\nla sua radice incognita e ascosa,\n\nné per altro argomento che non paia».",
+      "provisionalTranslation": "私がそこで見つけた私の宝が\n笑う中に、光がまず閃いた、\n太陽の光線に対する金の鏡のように；\n\nそれから答えた：「暗い良心──\n自らの恥においても他者の恥においても──\nあなたの辛辣な言葉を感じるだろう。\n\nしかしそれにもかかわらず、あらゆる嘘を取り除いて、\nあなたの幻視の全てを明らかにせよ；\nそして疥癬のある所を掻かせておけ。\n\nなぜならもしあなたの声が\n最初の味では不快でも、後に、消化されれば、\n命ある養いを残すだろうから。\n\nこのあなたの叫びは風のようになるだろう、\n最も高い頂を最も強く打つ；\nそしてこれは名誉の小さな証拠ではない。\n\nそのためにこれらの輪で、\n山でそして苦しみの谷で、\n名声で知られた魂たちだけがあなたに示された、\n\nなぜなら聞く者の心は安らがず\n根が知られず隠れているような例に\n信仰を固めないから、\n\nまた現れないような他の論拠によっても。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Qual venne a Climenè, per accertarsi\ndi ciò ch'avëa incontro a sé udito,\nquei ch'ancor fa li padri ai figli scarsi;",
+      "body": "「クリュメネのもとに、自分に向けて聞いたことを確かめるために来た者のように──今なお父たちを子に対して吝嗇にする者（Qual venne a Climenè...quei ch'ancor fa li padri ai figli scarsi）」──パエトン（Fetonte）の神話（オウィディウス『変身譚』第1巻・第2巻）への典拠。パエトンはエパポスから「太陽神ヘリオスの息子ではない」と嘲られ、母クリュメネに父の確認を求めた──そして太陽神の戦車を御しきれずに地を焦がし雷に打たれた。「今なお父たちを子に対して吝嗇にする（ancor fa li padri ai figli scarsi）」──パエトンの悲劇が今も父親を息子の友人関係において「吝嗇」にする（子供が無謀な要求をするかもしれないという親の不安）。地獄篇第26歌（ユリシーズ「folle volo」）・煉獄篇第5歌（パエトンの比喩）との詩的連鎖：「禁じられた飛翔」の系譜。しかしここではダンテ自身が「父（カッチャグイーダ）に真実を確かめに来る子」として肯定的に再解釈される。",
+      "targetId": "dante_inferno_canto_26",
+      "targetParagraphId": 12
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "«Manda fuor la vampa\ndel tuo disio», mi disse, «sì ch'ella esca\nsegnata bene de la interna stampa:",
+      "body": "「あなたの欲望の炎を放て、それがよく内側の刻印で刻まれて出るように（Manda fuor la vampa / del tuo disio...segnata bene de la interna stampa）」──ベアトリーチェの指示が詩学的宣言として機能する。「vampa（炎・爆発）」という強烈な語：欲望は「炎（vampa）」として内側から燃え、外に「放出（manda fuor）」される。「de la interna stampa（内側の刻印で刻まれて）」──「stampa（刻印・型）」という印刷術・版画の比喩：内的な欲望が外的な言語に「刻まれる」。煉獄篇第24歌のボナジュンタ問答「Amor mi spira, noto（愛が吹き込む時、記す）」という詩学宣言との照応：「内側の炎（vampa）」から「外側の言語（parola）」への変換がダンテの詩学の基本構造。ブリューソフ「Поэту」v.1–2「Ты должен быть гордым, как знамя（汝は旗のように誇り高くなければならない）...Как Данту, подземное пламя / Должно тебе щёки обжечь（ダンテのように、地下の炎が頬を焦がさなければならない）」──「内側の炎」がダンテの詩的定義として引用される。",
+      "targetId": "bryusov_poetu",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ben tetragono ai colpi di ventura;",
+      "body": "「運命の打撃に四角形のように（ben tetragono ai colpi di ventura）」──「tetragonos（四角形）」はアリストテレス『ニコマコス倫理学』I, 10「完全に幸福な者、美しく四角形（τετράγωνος）のような者」という道徳的安定の比喩。アリストテレスは「四角形」を「どこから転がしても安定した形」として道徳的堅固さの比喩に使う：嵐の中でも転覆しない安定した基盤。ダンテが「tetragono」という語を使うのは神曲全体でここだけ──哲学的用語を詩的文脈に移植する例。煉獄篇第27歌「libero, dritto e sano è tuo arbitrio（自由で正しく健全な意志）」という到達点への、哲学的意志の強度の自己表明。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Né per ambage, in che la gente folle\ngià s'inviscava pria che fosse anciso\nl'Agnel di Dio che le peccata tolle,",
+      "body": "「曖昧語によってではなく──愚かな民が神の子羊が殺される前からそこに粘り付いていた曖昧語によってではなく（Né per ambage...pria che fosse anciso / l'Agnel di Dio）」──「ambage（曖昧語・回りくどい言い方）」はラテン語「ambages」：「周囲を回る・回りくどい言い方」。デルフォイの神託（アポロンのピュティア）が「ambage（曖昧語）」で予言したのに対し、カッチャグイーダは「明確な言葉（chiare parole）」で語ると宣言する。「pria che fosse anciso / l'Agnel di Dio（神の子羊が殺される前）」──キリストの磔刑以前、つまり旧約時代の異教的神託の時代を指す。ヨハネ1:29「Ecce Agnus Dei（神の子羊を見よ）」の典礼的引用。「chiare parole e con preciso latin（明確な言葉と精確なラテン語で）」という反対命題：天国の真理は「曖昧語なしに」直接的に語られる。",
+      "targetId": "liturgy_agnus_dei",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Qual si partio Ipolito d'Atene\nper la spietata e perfida noverca,\ntal di Fiorenza partir ti convene.",
+      "body": "「イッポリトスがアテネを去ったように残酷で不実の継母のために、そのようにフィレンツェを去ることがあなたには必要だ（Qual si partio Ipolito d'Atene / per la spietata e perfida noverca, / tal di Fiorenza partir ti convene）」──イッポリトスとパエドラの神話（オウィディウス『変身譚』第15巻、エウリピデスの悲劇）の典拠。イッポリトスは継母パエドラの愛を拒絶したため、パエドラがテセウス（イッポリトスの父）に虚偽の告発をし、イッポリトスはアテネを追放された。「spietata e perfida noverca（残酷で不実の継母）」──ダンテにとってのフィレンツェが「残酷な継母」として比喩化される：故郷が継母のように義子（ダンテ）を不当に追放した。「la colpa seguirà la parte offensa（非難は傷つけられた側に続くだろう）」──追放の不当性がこの神話的比喩によって強調される：イッポリトスが無実であったように、ダンテも無実の追放であった。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tu lascerai ogne cosa diletta\npiù caramente; e questo è quello strale\nche l'arco de lo essilio pria saetta.\n\nTu proverai sì come sa di sale\nlo pane altrui, e come è duro calle\nlo scendere e 'l salir per l'altrui scale.",
+      "body": "「あなたは最も愛を込めて愛したものを全て捨て去るだろう（Tu lascerai ogne cosa diletta / più caramente）」・「他人のパンがいかに塩の味がするか……他人の階段を下り上りする道がいかに険しいか（Tu proverai sì come sa di sale / lo pane altrui...lo scendere e 'l salir per l'altrui scale）」──西洋文学の「追放文学（literature of exile）」の最高の定式として広く引用される三連の詩句。「lo pane altrui（他人のパン）」──「他人の慈悲による食べ物」は依存・屈辱・異郷の生の物質的表現。「la sale（塩）」という味覚：塩気は苦味と同様に不快な外来の味──故郷の食の「甘さ（dolcezza）」との対比。「lo scendere e 'l salir per l'altrui scale（他人の階段を下り上りする）」──他者の家への依存の身体的繰り返し：「下り（scendere）と上り（salir）」という往復運動が亡命の屈辱を身体化する。詩篇136（137）「バビロンの川のほとりで私たちは座り、シオンを思って泣いた」という追放詩篇の西洋文学的変容。",
+      "targetId": "hieronymus_psalm_136",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Lo primo tuo refugio e 'l primo ostello\nsarà la cortesia del gran Lombardo\nche 'n su la scala porta il santo uccello;",
+      "body": "「あなたの最初の避難所と最初の宿は大ロンバルディア人の礼節だろう、聖なる鳥を梯子の上に運ぶ者（Lo primo tuo refugio e 'l primo ostello / sarà la cortesia del gran Lombardo / che 'n su la scala porta il santo uccello）」──スカーラ家（Scaligeri）への言及。「梯子（scala）の上に聖なる鳥（鷲）を運ぶ」──スカーラ家（ヴェローナの支配者）の紋章は「梯子（scala）」の上に帝国の鷹（鷲）。「gran Lombardo（大ロンバルディア人）」はバルトロメオ・デッラ・スカーラ（ Bartolomeo I della Scala、1301年没）またはカングランデの兄アルボイーノを指すとされる。「del fare e del chieder, tra voi due, / fia primo quel che tra li altri è più tardo（二人の間で、することと求めることにおいて、他の者たちの間で最も遅いものが最初となる）」──スカーラ家の礼節の定義：求める前に与える者。煉獄篇第16歌のマルコ・ロンバルドが同様に「ロンバルディアの礼節」を嘆いた場面（「In sul paese ch'Adice e Po riga, / solea valore e cortesia trovarsi」）との照応。",
+      "targetId": "dante_purgatorio_canto_16",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ma pria che 'l Guasco l'alto Arrigo inganni,\nparran faville de la sua virtute\nin non curar d'argento né d'affanni.",
+      "body": "「ガスコン人が高きアッリーゴを欺く前に、彼の美徳の火花が現れるだろう、金も煩労も気にしないことにおいて（in non curar d'argento né d'affanni）」──カングランデ・デッラ・スカーラ（Cangrande I della Scala, 1291–1329）への言及。「ガスコン人が高きアッリーゴを欺く（'l Guasco l'alto Arrigo inganni）」──教皇クレメンス5世（ガスコン人出身、在位1305–1314）が神聖ローマ皇帝ハインリヒ7世（アッリーゴ）を欺いたと言われる政治的対立。「in non curar d'argento né d'affanni（金も煩労も気にしないことにおいて）」──騎士的な価値体系の定式：金銭欲と労苦への無関心が「美徳（virtute）の火花」として定義される。ブリューソフ「Поэту」v.3–4「Ты должен быть острым, как меч（汝は剣のように鋭くなければならない）」・「Да будет твоя добродетель — / Готовность войти на костёр（あなたの徳とあれ──火刑台に登る準備であることを）」との照応：金と苦労への無関心という徳。",
+      "targetId": "bryusov_poetu",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "e s'io al vero son timido amico,\ntemo di perder viver tra coloro\nche questo tempo chiameranno antico».",
+      "body": "「私が真実への臆病な友であるなら、この時代を古いと呼ぶであろう者たちの間で生き残ることを失うことを恐れる（e s'io al vero son timido amico, / temo di perder viver tra coloro / che questo tempo chiameranno antico）」──詩学的不安の最も凝縮された表現。「timido amico al vero（真実への臆病な友）」──「友（amico）」でありながら「臆病（timido）」という自己矛盾：真実を愛しながらその発言を恐れる詩人の内的分裂。「che questo tempo chiameranno antico（この時代を古いと呼ぶであろう者たち）」──後世への意識：ダンテは「この1300年の時代」が後に「古代（antico）」と呼ばれることを知っている。詩の使命と自己保存への恐れの対立がカッチャグイーダへの問いの核心。ブリューソフ「Поэту」v.7–8「Всего будь холодный свидетель（すべてに対して冷酷な証人であれ）」・「Готовность войти на костёр（火刑台に登る準備）」という詩人への要求と照応：臆病は詩人の「徳」ではなく、そこから脱却することが詩の使命。",
+      "targetId": "bryusov_poetu",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "«Coscïenza fusca\no de la propria o de l'altrui vergogna\npur sentirà la tua parola brusca.",
+      "body": "「暗い良心──自らの恥においても他者の恥においても──あなたの辛辣な言葉を感じるだろう（Coscïenza fusca / o de la propria o de l'altrui vergogna / pur sentirà la tua parola brusca）」──詩的正義の定式。「Coscïenza fusca（暗い良心）」──「fusca（暗い・曇った）」という形容詞：罪や恥によって「暗くなった良心」。「o de la propria o de l'altrui vergogna（自らの恥においても他者の恥においても）」──詩の批判が向かう二つの対象：①自分自身の罪を持つ者、②他者の罪に加担した者。「parola brusca（辛辣な言葉）」──「brusca（荒い・辛い）」という形容詞：真実の詩的言語の味覚的定義。次行「vital nodrimento（命ある養い）」との対比：最初は「辛い（brusca）」が後に「命ある養い（vital nodrimento）」となる、という医学的・食物的比喩。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ma nondimen, rimossa ogne menzogna,\ntutta tua visïon fa manifesta;\ne lascia pur grattar dov' è la rogna.",
+      "body": "「しかしそれにもかかわらず、あらゆる嘘を取り除いて、あなたの幻視の全てを明らかにせよ；そして疥癬のある所を掻かせておけ（tutta tua visïon fa manifesta; / e lascia pur grattar dov' è la rogna）」──カッチャグイーダによる詩的使命の最終的宣言。「rimossa ogne menzogna（あらゆる嘘を取り除いて）」──詩は真実のみを語るべきという倫理的命令。「tutta tua visïon fa manifesta（あなたの幻視の全てを明らかにせよ）」──「manifesta（明らか）」という語：天国篇第3歌でカッチャグイーダが「chiare parole（明確な言葉）」で語ったように、ダンテも同様に「明らか」に語れ、という師弟の対称。「lascia pur grattar dov' è la rogna（疥癬のある所を掻かせておけ）」──俗語的な諺の形式：「掻く（grattar）べき場所（rogna）を掻くこと」が詩の批判的機能の比喩。ブリューソフ「Поэту」v.5–6「Быть может, всё в жизни лишь средство / Для ярко-певучих стихов（おそらく、生のすべては詩のための手段）」という芸術至上主義との対照的な接点：ダンテは詩を「真実の証言」として定義するが、ブリューソフは詩を「全ての生の目的」として定義する。",
+      "targetId": "bryusov_poetu",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Questo tuo grido farà come vento,\nche le più alte cime più percuote;\ne ciò non fa d'onor poco argomento.",
+      "body": "「このあなたの叫びは風のようになるだろう、最も高い頂を最も強く打つ；そしてこれは名誉の小さな証拠ではない（Questo tuo grido farà come vento, / che le più alte cime più percuote）」──詩の社会的機能の自然的比喩。「grido（叫び・声）」という語が煉獄篇第11歌のオデリージ「ora ha Giotto il grido（今ジョットが叫びを持つ）」という「名声（fama）」の語彙と照応する：しかし第11歌では「grido＝はかない名声」として批判されたのに対し、ここでは「grido＝詩的真実の叫び」として肯定される。「le più alte cime più percuote（最も高い頂を最も強く打つ）」という自然的法則：高い木・高い塔が風に最も強く打たれる──権力者・有名人への詩的批判が最も効果的に機能するという社会的洞察。ブリューソフ「Поэту」v.7–8「Всего будь холодный свидетель（すべてに対して冷酷な証人であれ）...На все устремляя свой взор（すべてに向けて汝の眼差しを注ぎながら）」という詩人の社会的証人機能との照応。",
+      "targetId": "bryusov_poetu",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Però ti son mostrate in queste rote,\nnel monte e ne la valle dolorosa\npur l'anime che son di fama note,",
+      "body": "「そのためにこれらの輪で、山でそして苦しみの谷で、名声で知られた魂たちだけがあなたに示された（pur l'anime che son di fama note）」──神曲全体の詩学的方法論の自己説明。「di fama note（名声で知られた）」という選択の基準：ダンテが地獄・煉獄・天国で出会う魂たちは全員「名声（fama）」において知られた者たち──無名の魂との対話は「証拠（argomento）」として読者に訴えられない。「che l'animo di quel ch'ode, non posa / né ferma fede per essempro ch'aia / la sua radice incognita e ascosa（聞く者の心は安らがず根が知られず隠れているような例に信仰を固めない）」──詩学的説得論：「知られていない根（radice incognita）」を持つ例は読者の信頼を得られない。有名な魂を選ぶことが詩的説得力の条件。煉獄篇第26歌でグイニゼッリ・アルノー・ダニエルという「知られた詩人」と対話したこと、地獄篇第5歌でフランチェスカ（既知の歴史的人物）と対話したことの詩学的正当化。"
+    }
+  ]
+}
