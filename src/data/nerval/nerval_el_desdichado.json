@@ -1,0 +1,129 @@
+{
+  "id": "nerval_el_desdichado",
+  "title": "El Desdichado",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 291. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/El_Desdichado",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の代表作にして、フランス象徴主義の源泉的ソネット。『キメラ（Les Chimères）』所収12篇のうち最初に置かれ、詩集全体の序章として機能する。「El Desdichado（エル・デスディチャード）」はスペイン語で「不幸な者・廃嫡された者」を意味し、ウォルター・スコット『アイヴァンホー』の盾の銘から取られたとされる。語り手「私」は、黒日（Soleil noir de la Mélancolie）を抱えた喪の詩人として、複数の神話的・歴史的仮面（アムール／フェーブス、リュジニャン／ビロン）を重ねながら、死と再生・降冥と帰還の循環的運動を演じる。オルフェウスの竪琴による二度のアケロン渡河という結末は、詩そのものを死者の国への降下と帰還の儀式として定義する。「黒い太陽（Soleil noir）」の形象はデューラーの銅版画《メランコリアⅠ》との連関で論じられ、デュ・ベレー以来のメランコリア詩学の極点として、ボードレール、マラルメ、アポリネールへの直接的影響が確認されている。ジャン・リシャールらの批評は、このソネットを「記憶の地層学」として読み、各行が意識の異なる深度に対応する垂直的構造として分析している。",
+  "keywords": [
+    "El Desdichado",
+    "Soleil noir",
+    "Mélancolie",
+    "Orphée",
+    "Achéron",
+    "キメラ",
+    "黒い太陽",
+    "降冥",
+    "仮面",
+    "オルフェウス"
+  ],
+  "relatedTexts": [
+    "mallarme_coup_de_des",
+    "baudelaire_spleen",
+    "baudelaire_de_profundis_clamavi",
+    "valery_orphee",
+    "valery_fragments_du_narcisse",
+    "trakl_de_profundis",
+    "hieronymus_ecclesiastes_1",
+   　"nerval_myrtho"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Je suis le ténébreux, — le veuf, — l'inconsolé,\nLe prince d'Aquitaine à la tour abolie :\nMa seule étoile est morte, — et mon luth constellé\nPorte le Soleil noir de la Mélancolie.",
+      "provisionalTranslation": "私は陰鬱な者、——未亡人のような者、——慰めなき者、\n廃された塔のアキテーヌの王子：\n私のただひとつの星は死んだ、——そして星座を刻んだ私の竪琴は\n憂鬱のソレイユ・ノワール（黒い太陽）を担っている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Dans la nuit du tombeau, toi qui m'as consolé,\nRends-moi le Pausilippe et la mer d'Italie,\nLa fleur qui plaisait tant à mon cœur désolé,\nEt la treille où le pampre à la rose s'allie.",
+      "provisionalTranslation": "墓の夜の中で、かつて私を慰めてくれた者よ、\nポジリポの丘とイタリアの海を返してくれ、\n荒れ果てた私の心をかくも喜ばせた花を、\nそして蔓葡萄が薔薇と結ばれる棚架を。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Suis-je Amour ou Phébus ?… Lusignan ou Biron ?\nMon front est rouge encor du baiser de la reine ;\nJ'ai rêvé dans la grotte où nage la syrène…",
+      "provisionalTranslation": "私はアムールかフェーブスか？……リュジニャンかビロンか？\n私の額はまだ女王の接吻で赤く染まっている；\n私は人魚の泳ぐ洞窟の中で夢を見た……"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Et j'ai deux fois vainqueur traversé l'Achéron :\nModulant tour à tour sur la lyre d'Orphée\nLes soupirs de la sainte et les cris de la fée.",
+      "provisionalTranslation": "そして私は征服者として二度アケロン川を渡った：\nオルフェウスの竪琴の上で交互に奏でながら\n聖女の嘆息と妖精の叫びを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "le ténébreux, — le veuf, — l'inconsolé",
+      "body": "三重の自己規定による詩的自画像の冒頭。「ténébreux（陰鬱な・暗黒の者）」はサタン的・ルシファー的孤独の形象；「veuf（未亡人のような者）」は喪失した愛の対象（神話的な女神・失われた恋人）への哀悼；「inconsolé（慰めなき者）」は§2で「consolé」として反転され、過去の慰めへの呼びかけへと転換される。三つのダッシュ（——）が語と語の間の「宙吊り」を構造化し、自己同定が完結しないことを形式的に演じている。マラルメ「エロディアード」の「冷たい宝石」の自己閉鎖的孤独とともに、象徴主義的孤立した主体の最初の定式として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le prince d'Aquitaine à la tour abolie",
+      "body": "「廃された塔のアキテーヌの王子」──スペイン語題名「El Desdichado（廃嫡された者・不幸な者）」の内的定義。ウォルター・スコット『アイヴァンホー』第8章で廃嫡の騎士がその盾に刻んだ銘に由来するとされる。「アキテーヌ（Aquitaine）」はエリノール・ド・アキテーヌ（1122–1204）への連想を喚起し、中世の吟遊詩人（troubadours）的抒情の伝統への帰属を示す。「tour abolie（廃された塔）」：塔という錬金術的・神秘的シンボルの廃墟化──タロット「塔（La Tour）」との連関が指摘されており、稲妻による崩壊＝啓示的破滅を示す図像と照応する。ネルヴァルの家系（ド・ラブリュニ家）への個人的参照とともに、詩人の「廃嫡」状態を歴史的・神話的次元に引き上げる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Soleil noir de la Mélancolie",
+      "body": "「憂鬱の黒い太陽（Soleil noir de la Mélancolie）」──このソネットの最も重要な形象であり、ネルヴァル詩学の核心概念。デューラー銅版画《メランコリアⅠ》（1514）の「魔方陣・砂時計・コンパス」が囲む沈思黙考の翼ある天使、およびその背景の暗い光との連関が強い。「Mélancolie」の大文字表記が擬人化を明示する。黒い太陽は自己矛盾的形象：光源でありながら光を放射しない──照らすことなく存在する。ジュリア・クリステヴァ『黒い太陽──抑鬱とメランコリー』（1987）はこの詩句を書名として採用し、主体の言語的解体とメランコリーの精神分析的考察の軸に置いた。ボードレール「憂鬱（Spleen）」の「暗い空」・「重い蓋」・「陰鬱な理想」の詩的先駆けとしての位置を持つ。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Dans la nuit du tombeau, toi qui m'as consolé",
+      "body": "「墓の夜の中で、かつて私を慰めてくれた者よ」──呼びかけ（apostrophe）の対象は詩全体で明示されない。批評的同定の候補は複数存在する：神話的女神（イシス・アルテミス）、実在の恋人（ジェニー・コロン、1842年死去）、あるいは死者の国の霊的存在。「consolé」（慰められた）→「inconsolé」（慰めなき）の語根的反転が第1節との構造的呼応をなす──かつての慰めがすでに失われた現在の「慰めなき」状態の起源として機能する。「nuit du tombeau（墓の夜）」がオルフェウスのカタバシス（冥界降下）の場として機能し、§4の「アケロン渡河」への伏線となる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Rends-moi le Pausilippe et la mer d'Italie",
+      "body": "「ポジリポの丘とイタリアの海を返してくれ」──ポジリポ（Pausilippe）はナポリ近郊の岬・丘陵地帯で、ウェルギリウスの墓が伝承される場所。ネルヴァルは1834年および1843年にイタリアを旅行し、ナポリに滞在した（後者の旅はジェニー・コロンとの別離後の彷徨）。「ポジリポ（Pausilippe）」はギリシア語「Παυσίλυπον（苦しみを止める場所）」に由来し、その語源的意味が「慰め」への呼びかけと照応する。ウェルギリウス（Vergilius）の存在がダンテの案内者としての冥界的次元とオルフェウス主題を二重に呼び込む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Et la treille où le pampre à la rose s'allie.",
+      "body": "「蔓葡萄が薔薇と結ばれる棚架」──第2四行詩の結句。「pampre（蔓葡萄）」と「rose（薔薇）」の「s'allie（結ばれる）」という動詞が、詩全体の「結合」主題の純粋な植物的形象化。薔薇はウェヌス（愛）・聖母（神秘的薔薇）・錬金術（薔薇十字）の多層的シンボルであり、蔓葡萄はディオニュソス的陶酔・復活の象徴。植物的エロス（二つの蔓の絡み合い）が詩の愛と喪失の主題を自然形象として静止させる。この「棚架（treille）」はネルヴァルの祖父の農園（ロワール地方ヴァロワの記憶）への個人的参照とも解される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Suis-je Amour ou Phébus ?… Lusignan ou Biron ?",
+      "body": "「私はアムールかフェーブスか？リュジニャンかビロンか？」──複数の仮面の問いかけ。四つの名は二対の対立として機能する。「Amour（愛の神エロス）／Phébus（太陽神アポロ）」：欲望と詩芸の神という二つの神話的役割。「Lusignan（リュジニャン）」：中世の伝説上の騎士で、人魚メリュジーヌを妻に持つ呪われた家系の当主。「Biron（ビロン）」：シェイクスピア『空の骨折り損』の愛の騎士、あるいはアンリ4世時代の反逆的貴族。「Suis-je…?」という問いが答えなく省略記号（…）で宙吊りにされることで、自己同定の不可能性が主題化される──主体は一つの仮面に固定されえない。マラルメ「エロディアード」の「自分とは何か」という問いの変奏として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "J'ai rêvé dans la grotte où nage la syrène…",
+      "body": "「人魚の泳ぐ洞窟の中で夢を見た」──「grotte（洞窟）」はポジリポの海岸の洞窟（ポジリポ・グロッタ）への地誌的参照とともに、無意識・夢・神話的空間の形象。「syrène（人魚・セイレン）」はリュジニャン家の始祖伝説のメリュジーヌであり、同時にギリシア神話の歌で船人を誘う海の女。「洞窟で夢を見る」という行為はプラトン洞窟の暗示（現実から切り離された影の世界での夢想）とともに、オルフェウスの冥界的洞窟（カタバシスの入口）として機能する。省略記号（…）が夢の連続性・未完結性を形式的に示す。",
+      "targetId": "valery_fragments_du_narcisse",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et j'ai deux fois vainqueur traversé l'Achéron",
+      "body": "「征服者として二度アケロン川を渡った」──ソネットの結論的逆転。アケロン（Akhéron）はギリシア神話の冥界の川。「deux fois（二度）」という数詞が具体的な経験の反復として機能するが、その内容の同定には諸説ある：①精神病院入院からの回復（ネルヴァルは1841・1853年に二度入院）；②詩が冥界へ二度降りたオルフェウスの神話を演じること；③夢と現実の二つの「死」。「vainqueur（征服者として）」という副詞節が決定的に重要：オルフェウスは冥界から帰還するが、エウリュディケを失う（振り返る）という意味で「敗者」である──ネルヴァルの「vainqueur」はオルフェウス神話の悲劇的結末を否定または超克する詩的主張として読める。ダンテ『神曲』の生者としての冥界巡行との照応。",
+      "targetId": "valery_orphee",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Modulant tour à tour sur la lyre d'Orphée\nLes soupirs de la sainte et les cris de la fée.",
+      "body": "ソネット最終の二行（詩集『キメラ』全体を閉じる結句）。「Modulant（奏でながら）」という現在分詞がアケロン渡河と同時進行の行為として竪琴奏楽を定位する──歌いながら冥界を渡ること＝オルフェウスの本質的行為。「tour à tour（交互に）」が二項対立の往復運動：「soupirs de la sainte（聖女の嘆息）」と「cris de la fée（妖精の叫び）」。「聖女」はキリスト教的清純・昇華の象徴（ロセッティ的理想化された女性）；「妖精（fée）」はメリュジーヌ的・異界的・肉体的力（妖精の叫びは死の予告音でもある）。詩は「嘆息」と「叫び」という二つの声域の交替として自らを定義し、詩的言語が聖俗・天界地獄・鎮静と絶叫の「変調（modulation）」であることを宣言して閉じる。"
+    }
+  ]
+}
