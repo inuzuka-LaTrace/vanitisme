@@ -1,0 +1,120 @@
+{
+  "id": "nerval_horus",
+  "title": "Horus",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 292-293. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Horus",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『キメラ（Les Chimères）』第3詩篇。『火の娘たち（Les Filles du feu）』付録として1854年初版刊行。エジプト神話を題材とするソネット：震える老神クネフ（Kneph）に対し、イシス（Isis）が立ち上がって宣告する劇的な神話的場面を描く。クネフはエジプト神話における創造神・宇宙の息吹の神（ギリシア・ローマ期に「デミウルゴス」と同一視された）であるが、ここでは「冬と火山の老いた暴君」として否定される。イシスの宣言は「旧神の時代の終焉」と「新しい神ホルス（Horus）の誕生」を告げるもの──キュベレー（Cybèle）の衣をまとったイシスが、ヘルメス（Hermès）とオシリス（Osiris）の子である「愛しき子供＝ホルス」を呼び込む。この神々の交代劇はネルヴァルにおける宗教史的関心の核心を示す：古代多神教（エジプト・ギリシア・ローマ）の神々がキリスト教の到来によって駆逐されながらも詩的形象として回帰するという「廃された神々の詩学」。「Myrtho」のノルマン公爵による「異教の粘土神破壊」と対をなす神話的次元での表現として位置づけられる。最終三行の海・虹のイシス顕現が詩に荘厳な宇宙的光景を与え、『キメラ』全体の中で最も劇的な転換の詩として機能する。",
+  "keywords": [
+    "Kneph",
+    "Isis",
+    "Horus",
+    "Osiris",
+    "Hermès",
+    "Cybèle",
+    "エジプト神話",
+    "旧神",
+    "神交代",
+    "イシス"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_myrtho",
+    "hieronymus_apocalypsis_1",
+    "rilke_duineser_elegien_01",
+    "valery_naissance_de_venus"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Le dieu Kneph en tremblant ébranlait l'univers :\nIsis, la mère, alors se leva sur sa couche,\nFit un geste de haine à son époux farouche,\nEt l'ardeur d'autrefois brilla dans ses yeux verts.",
+      "provisionalTranslation": "神クネフは震えながら宇宙を揺るがしていた：\nイシス、母は、そのとき臥所から立ち上がり、\n荒々しい夫に憎しみの身振りをし、\nかつての情熱が彼女の緑の瞳に輝いた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "« Le voyez-vous, dit-elle, il meurt, ce vieux pervers,\nTous les frimas du monde ont passé par sa bouche,\nAttachez son pied tors, éteignez son œil louche,\nC'est le dieu des volcans et le roi des hivers !",
+      "provisionalTranslation": "「見てください、と彼女は言った、死にかけています、この老いた邪悪な者が、\n世界のすべての霜雪が彼の口を通り過ぎました、\nその歪んだ足を縛り、その斜視の目を消してください、\nこれは火山の神であり、冬の王です！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "L'aigle a déjà passé, l'esprit nouveau m'appelle,\nJ'ai revêtu pour lui la robe de Cybèle…\nC'est l'enfant bien-aimé d'Hermès et d'Osiris ! »",
+      "provisionalTranslation": "鷲はすでに過ぎ去り、新しい霊が私を呼んでいます、\n私は彼のためにキュベレーの衣をまといました……\nこれはヘルメスとオシリスの愛しき子！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "La Déesse avait fui sur sa conque dorée,\nLa mer nous renvoyait son image adorée,\nEt les cieux rayonnaient sous l'écharpe d'Iris.",
+      "provisionalTranslation": "女神は黄金の貝殻舟で逃れ去っていた、\n海は彼女の崇められる姿を私たちに送り返してきた、\nそして天はイリスの肩掛けの下で輝き渡っていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le dieu Kneph en tremblant ébranlait l'univers",
+      "body": "「神クネフは震えながら宇宙を揺るがしていた」──クネフ（Kneph、エジプト語：Khnum）はエジプト神話の創造神・宇宙の息吹（pneuma）の神。ギリシア・ローマ期の神秘主義においてプラトン的「デミウルゴス（Dêmiourgos）」と同一視された。ネルヴァルはドイツ語圏の自然哲学・ヘルメス主義文献（クロイツァー『象徴学と神話学』等）を通じてこの神格を知っていたとされる。「en tremblant（震えながら）」という現在分詞が老いの衰弱を示す──かつて宇宙を創造した神が、今や「震えながら」宇宙を揺るがすしかできない。「ébranlait（揺るがしていた）」という半過去が進行中の衰退を定位する。宇宙の揺動が神自身の老衰的痙攣として描かれる逆説が詩全体の「旧神の終焉」という主題の劇的開幕として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Isis, la mère, alors se leva sur sa couche,\nFit un geste de haine à son époux farouche,",
+      "body": "「イシス、母は、臥所から立ち上がり、荒々しい夫に憎しみの身振りをした」──イシス（Isis）とクネフの関係は標準的なエジプト神話には存在しない：ネルヴァルはクネフをオシリスの代替的形象として用い、イシスとの夫婦関係を設定している。「la mère（母）」という同格挿入がイシスを大母神（Magna Mater）として定義する──エジプトのイシス＝ギリシアのデメテル＝フリギアのキュベレー（§3で明示）という神話的習合の連鎖が「母」という普遍的属格のもとに圧縮される。「geste de haine（憎しみの身振り）」という身体的拒絶が「旧い夫」への訣別として機能する。「farouche（荒々しい・野蛮な）」はクネフの「冬と火山の神」としての暴力的性格の形容。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et l'ardeur d'autrefois brilla dans ses yeux verts.",
+      "body": "第1四行詩の結句。「l'ardeur d'autrefois（かつての情熱）」──「autrefois」という語が過去の活力の回帰を示す：イシスの「緑の瞳の輝き」は抑圧されていた生命力の再点火。「yeux verts（緑の瞳）」：緑はエジプトにおいて復活・豊穣・ナイルの氾濫の色（ホルスの目「ウジャト」は緑または金で描かれる）。「Myrtho」の「raisins noirs mêlés avec l'or de ta tresse（黒い葡萄と金の髪）」と同様に、女神の形象が特定の色彩によって定義される。「brilla（輝いた）」という単純過去が瞬間的な閃光として情熱の再覚醒を定着させる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tous les frimas du monde ont passé par sa bouche,",
+      "body": "「世界のすべての霜雪が彼の口を通り過ぎました」──クネフが「冬・霜・寒冷」の神として告発される核心行。「frimas（霜雪・厳寒）」はクネフの「口（bouche）」から放出されるものとして描かれる：創造神の息吹（pneuma）が生命の気息ではなく死の寒気として転倒されている。コヘレト第1章v.6「gyrat per meridiem, et flectitur ad aquilonem（南を旋回し、北へと曲がる）」の風の循環が、ここでは老神の枯死した息吹として変奏される。「Myrtho」v.11の「Et de cendres soudain l'horizon s'est couvert（突然、灰で地平線が覆われた）」と対応する破壊的気象：灰（火山）と霜雪（冬）という二つの覆蔽が新旧の神の交代劇を包む。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Attachez son pied tors, éteignez son œil louche,\nC'est le dieu des volcans et le roi des hivers !",
+      "body": "イシスによるクネフへの命令と告発の定式。「pied tors（歪んだ足）」と「œil louche（斜視の目）」──身体的欠損・奇形の二重の形象がクネフの「老いた邪悪（vieux pervers）」としての本質を視覚化する。ヘーパイストス（足が不自由な火と鍛冶の神）やオイディプス（「腫れた足」の意）との神話的連鎖が指摘される。「le dieu des volcans（火山の神）」：「Myrtho」v.9「le volcan s'est rouvert（火山が再び口を開いた）」と直接照応──ミルトが触れて火山を再開させたとすれば、ここではクネフがその火山の神として告発される。「le roi des hivers（冬の王）」：季節の支配者としての旧神。「!（感嘆符）」による告発の断定が第2四行詩を閉じる──イシスの演説の頂点。",
+      "targetId": "nerval_myrtho",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'aigle a déjà passé, l'esprit nouveau m'appelle,",
+      "body": "「鷲はすでに過ぎ去り、新しい霊が私を呼んでいます」──ソネットの転回点（volta）にして神々の交代の宣言。「L'aigle（鷲）」の同定には複数の解釈が競合する：①ユピテル（ゼウス）の聖鳥としての鷲＝ローマ・ギリシアの神々の時代の終焉；②黄道十二宮の「鷲座（Aquila）」＝天体的周期の転換点；③ヨハネ黙示録の鷲（四つの生き物のひとつ）＝キリスト教的時代の到来の前兆。「l'esprit nouveau（新しい霊）」：ホルスの霊的到来をイシスが感じ取る──「esprit」がエジプト的「Ba（霊魂）」とキリスト教的「Saint-Esprit（聖霊）」を重ねる多義的語彙として機能する。「m'appelle（私を呼ぶ）」という能動的呼びかけがイシスの主体的応答を準備する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "J'ai revêtu pour lui la robe de Cybèle…\nC'est l'enfant bien-aimé d'Hermès et d'Osiris ! »",
+      "body": "「私は彼のためにキュベレーの衣をまといました……これはヘルメスとオシリスの愛しき子！」──神話的習合（syncretisme）の極点。「la robe de Cybèle（キュベレーの衣）」：キュベレーはフリギア起源の大地母神・万物の母で、ローマ期にイシスと習合された。イシスがキュベレーの衣をまとうことで、エジプト・フリギア・ローマの「大母神」伝統が一体化する。「Hermès et Osiris（ヘルメスとオシリス）」：標準的神話ではホルスの父はオシリスのみ──ヘルメス（トート神との習合）を加えることで、ホルスがエジプト的知恵と再生の二重の子として定義される。「bien-aimé（愛しき）」はキリスト教の「Fils bien-aimé（愛しき御子）」の響きを帯び、ホルスとキリストの習合的同一視を示唆する──ネルヴァルのエソテリック思想における「神の子」の普遍的形象。省略記号（…）と感嘆符（!）の組み合わせが、言語を超えた神秘的確信の興奮を形式化する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La Déesse avait fui sur sa conque dorée,\nLa mer nous renvoyait son image adorée,",
+      "body": "「女神は黄金の貝殻舟で逃れ去っていた、海は彼女の崇められる姿を私たちに送り返してきた」──半過去（avait fui / renvoyait）への時制転換が、イシスの演説から語り手の回想的描写へと視点を移す。「conque dorée（黄金の貝殻舟）」：貝殻（conque）はヴェヌス（アフロディテ）誕生の貝殻（ボッティチェリ《ヴィーナスの誕生》）との習合的形象──イシスがヴェヌス的海の女神として海上を去る。「La mer nous renvoyait son image adorée（海は彼女の崇められる姿を送り返してきた）」──「nous（私たち）」という複数形が初めて登場し、詩人・読者を含む証人の集団を定位する。「image（姿・像）」は反射・鏡像・崇拝対象の三義を帯びる：イシスは去りながら海面に「像」として現れ続ける。ヴァレリー「ナルシスの断章」の水面の像との照応。",
+      "targetId": "valery_naissance_de_venus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et les cieux rayonnaient sous l'écharpe d'Iris.",
+      "body": "ソネットの結句。「les cieux rayonnaient（天は輝き渡っていた）」──「rayonner」という動詞が光の放射・拡散を示す：イシスの去った後に残るのは暗闇ではなく、虹の光に満ちた天である。「l'écharpe d'Iris（イリスの肩掛け）」：イリス（Iris）はギリシア神話の虹の女神・神々の使者。「écharpe（肩掛け・スカーフ）」という衣の形象が虹を視覚化する──同時にイシスの「衣（robe de Cybèle）」と「肩掛け（écharpe d'Iris）」が女神の衣装という主題で照応する。「Iris（イリス）」はイシス（Isis）と語根的・音声的に近接し、去れるイシスがイリスとして天に遍在し続けるという余韻を生む。三篇目のソネット（El Desdichado→Myrtho→Horus）が、それぞれ「黒い太陽（憂鬱）」→「火山の灰（喪失）」→「虹の天（再生）」という光彩の漸進的転換として読める。"
+    }
+  ]
+}
