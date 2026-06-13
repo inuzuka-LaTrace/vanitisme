@@ -1,0 +1,117 @@
+{
+  "id": "nerval_anteros",
+  "title": "Antéros",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 293. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Ant%C3%A9ros",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の『キメラ（Les Chimères）』第4詩篇。「Antéros（アンテーロース）」はギリシア神話においてエロース（愛）の兄弟神であり、「報いられない愛の復讐」または「愛に対する愛」を司る神。詩の語り手「私」はアンテーロースの血を引く者として、征服神（ユダヤ・キリスト教の神ヤハウェ）への不屈の反抗を宣言する。神話的系譜の多層性がこの詩の最大の特徴：ギリシア神話のアンタイオス（大地の子、ヘラクレスに敗れた巨人）、旧約聖書のカインとアベル、バビロニア神話のベルス（Bélus）、フィリスティア人の神ダゴン（Dagon）、アマレク族（Amalécyte）、コキュートス（冥界の嘆きの川）、カドモスの竜の歯という異種の神話的要素が一篇に圧縮される。前篇「Horus」が女神イシスによる旧神の打倒と新神の誕生を「勝利」として描いたとすれば、「Antéros」はその「打倒された側」──征服された異教・敗北した神々の末裔として語る「敗者の立場からの反抗」の詩である。ボードレール「カインとアベル（Abel et Caïn）」との直接的主題的照応を持ち、象徴主義における「呪われた詩人」の反逆的系譜の聖書的・神話的定礎として位置づけられる。",
+  "keywords": [
+    "Antéros",
+    "Antée",
+    "Vengeur",
+    "Caïn",
+    "Abel",
+    "Bélus",
+    "Dagon",
+    "Cocyte",
+    "Amalécyte",
+    "竜の歯"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_horus",
+    "baudelaire_abel_et_cain",
+    "hieronymus_iob_1",
+    "laskerschuler_abel",
+    "trakl_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Tu demandes pourquoi j'ai tant de rage au cœur\nEt sur un col flexible une tête indomptée ;\nC'est que je suis issu de la race d'Antée,\nJe retourne les dards contre le dieu vainqueur.",
+      "provisionalTranslation": "あなたは問う、なぜ私の心にこれほど多くの激怒があるのかを\nそして柔軟な首の上に征服されない頭があるのかを；\nそれは私がアンタイオスの種族から生まれたからだ、\n私は矢を征服神に向けて撃ち返す。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Oui, je suis de ceux-là qu'inspire le Vengeur,\nIl m'a marqué le front de sa lèvre irritée,\nSous la pâleur d'Abel, hélas ! ensanglantée,\nJ'ai parfois de Caïn l'implacable rougeur !",
+      "provisionalTranslation": "そうだ、私は復讐者に霊感を受けた者たちのひとりだ、\n彼は怒れる唇で私の額に印を刻んだ、\nアベルの青白さの下で、ああ！血に染まった、\n私は時にカインの容赦なき赤さを持っている！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Jéhovah ! le dernier, vaincu par ton génie,\nQui, du fond des enfers, criait : « Ô tyrannie ! »\nC'est mon aïeul Bélus ou mon père Dagon…",
+      "provisionalTranslation": "ヤハウェよ！あなたの力に征服された最後の者、\n奈落の底から「おお、暴虐よ！」と叫んでいた者、\nそれは私の祖先ベルスか、あるいは私の父ダゴンだ……"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Ils m'ont plongé trois fois dans les eaux du Cocyte,\nEt protégeant tout seul ma mère Amalécyte,\nJe ressème à ses pieds les dents du vieux dragon.",
+      "provisionalTranslation": "彼らは私をコキュートスの水に三度浸した、\nそしてただひとりで私の母アマレキテ人を守りながら、\n私は彼女の足もとに古い竜の歯を再び蒔く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "je suis issu de la race d'Antée,",
+      "body": "「私はアンタイオスの種族から生まれた」──アンタイオス（Antaios、ラテン語：Antaeus）はギリシア神話の巨人。ポセイドンと大地の女神ガイアの息子で、足が大地に触れている限り無敵の力を持つ。ヘラクレスに持ち上げられ大地から引き離されて敗死した。詩の語り手がアンタイオスの「種族（race）」から生まれたと宣言することで、二重の意味を帯びる：①大地との接触によってのみ強さを保つ者──切り離されれば敗れる宿命的存在；②ヘラクレス（神の英雄）に征服された者の末裔として、征服に対する復讐の系譜に属すること。「Antée」と「Antéros」の語根的近接（Ant-）が詩題と第1四行詩を意味論的に結ぶ。詩人ネルヴァルが精神病院での体験（大地から引き離された状態）を反映するという伝記的読解も存在する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je retourne les dards contre le dieu vainqueur.",
+      "body": "「私は矢を征服神に向けて撃ち返す」──第1四行詩の結句にして詩全体の行動綱領。「dards（矢・dart）」はアンテーロースの神話的武器であり（エロースの矢の反転形象）、同時に詩の言葉そのものとして機能する。「le dieu vainqueur（征服神）」：§3で「Jéhovah（ヤハウェ）」として名指しされる──ユダヤ・キリスト教の一神教的神が「征服神」として位置づけられる。この「神への反抗」という主題がボードレール「サタンへの連祷（Litanies de Satan）」と直接照応する：悪魔・反逆する神々への賛歌という「呪われた詩人」の系譜。「retourne（撃ち返す）」という動詞が反転・報復の動作として詩全体の「復讐（Vengeur）」主題を開始する。",
+      "targetId": "baudelaire_litanies_satan",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Oui, je suis de ceux-là qu'inspire le Vengeur,\nIl m'a marqué le front de sa lèvre irritée,",
+      "body": "「私は復讐者に霊感を受けた者たちのひとりだ、彼は怒れる唇で私の額に印を刻んだ」──「le Vengeur（復讐者）」の同定が詩の神学的核心。旧約聖書の「復讐する神（Dieu vengeur、詩篇94篇v.1）」への逆説的参照：征服した神自身が「復讐者」として語り手に印を刻む──この「印（marque）」は§2後半の「カインの印」として具体化される。「sa lèvre irritée（怒れる唇）」という身体的接触が創世記4章のカインへの神の「しるし（signum）」の変奏。「Il m'a marqué（彼は私に印を刻んだ）」という受動的刻印が、ヨブ記の試練的刻印やヴェイユの「affliction（苦悩による刻印）」と構造的に照応する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Sous la pâleur d'Abel, hélas ! ensanglantée,\nJ'ai parfois de Caïn l'implacable rougeur !",
+      "body": "「アベルの青白さの下で、私は時にカインの容赦なき赤さを持っている」──カインとアベルの対位法。「pâleur d'Abel（アベルの青白さ）」：死者・犠牲者・義人の青白さ；「rougeur de Caïn（カインの赤さ）」：殺害者・復讐者・呪われた者の赤さ──血と怒りの二重の赤。「hélas !（ああ！）」という挿入が「血に染まった」青白さへの詩人の苦痛を示す：語り手はアベルの役割（犠牲者）とカインの役割（反逆者）を同時に生きる分裂した存在として自らを定義する。ボードレール「カインとアベル（Abel et Caïn）」第2節「人類よ、アベルのように眠れ……カインよ、立ち上がれ」との直接的対応：ネルヴァルの詩がボードレール的「カイン的反逆」の先行形として機能する。ラスカー＝シューラー「アベル」の殺害された弟の詩的声との遠い照応。",
+      "targetId": "baudelaire_abel_et_cain",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Jéhovah ! le dernier, vaincu par ton génie,\nQui, du fond des enfers, criait : « Ô tyrannie ! »",
+      "body": "「ヤハウェよ！あなたの力に征服された最後の者、奈落の底から『おお、暴虐よ！』と叫んでいた者」──ソネットの転回点（volta）。「Jéhovah（ヤハウェ）」への直接呼びかけが詩の神学的挑発の極点。構文的倒置が重要：「le dernier… qui criait（叫んでいた最後の者）」が主語であり、§3後半「C'est mon aïeul Bélus ou mon père Dagon（それは私の祖先ベルスか父ダゴンだ）」が述語──一文が三行にわたって展開される。「vaincu par ton génie（あなたの力に征服された）」：「génie」は「天才・精霊・支配的力」の多義語。「du fond des enfers（奈落の底から）」：ルシファー的堕天使の叫びとの照応──「Horus」のイシスが天から語るとすれば、「Antéros」の語り手は地獄の底から語る。「Ô tyrannie !（おお、暴虐よ！）」：神への告発の定式。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "C'est mon aïeul Bélus ou mon père Dagon…",
+      "body": "「それは私の祖先ベルスか、あるいは私の父ダゴンだ」──語り手の異教的系譜の宣言。「Bélus（ベルス）」：バビロニアの創造神ベル（Bel）のラテン語形。旧約聖書においては偶像崇拝の代名詞として繰り返し非難される（イザヤ書46章、エレミヤ書51章）。「Dagon（ダゴン）」：フィリスティア人（ペリシテ人）の穀物神・海の神。旧約聖書においてサムソンが神殿の柱を倒してダゴンの神殿を破壊した（士師記16章）──「征服された神」の典型的聖書的形象。「ou（または）」という選言が系譜の不確定性を示す：語り手は複数の征服された神々の末裔として、その正確な起源を特定できない──これは「Horus」の複数神話的習合と対をなす「敗者側」の多源的系譜。省略記号（…）が述懐の不尽性を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ils m'ont plongé trois fois dans les eaux du Cocyte,",
+      "body": "「彼らは私をコキュートスの水に三度浸した」──「Cocyte（コキュートス）」はダンテ『神曲』地獄篇においても最深部（第9圏）を形成する氷の湖。ギリシア神話では嘆き（kokutos）の川として冥界を流れる。「trois fois（三度）」という数詞が儀礼的浸礼・洗礼の反転として機能する：キリスト教の三位一体的洗礼への逆説的対応として、異教的冥界の水への三度の浸漬が語り手を「洗礼」する──「El Desdichado」v.12「j'ai deux fois vainqueur traversé l'Achéron（私は二度アケロン川を渡った）」との照応：アケロンの二度渡河に対するコキュートスへの三度浸漬という冥界体験の変奏。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et protégeant tout seul ma mère Amalécyte,\nJe ressème à ses pieds les dents du vieux dragon.",
+      "body": "ソネットの結句。「ma mère Amalécyte（私の母アマレキテ人）」：アマレク族（Amalécites）は旧約聖書においてイスラエルの宿敵として繰り返し登場する遊牧民族（出エジプト記17章、サムエル記上15章）。ヤハウェによる「絶滅（hérem）」を命じられた民族の末裔として、語り手はその「母」を「ただひとり（tout seul）」で守る孤独な守護者として立つ。「les dents du vieux dragon（古い竜の歯）」：カドモス神話において、カドモスが竜（オフィオーン）を殺してその歯を大地に蒔くと武装した兵士（スパルトイ）が生まれたという伝説の参照。「ressème（再び蒔く）」という接頭辞「re-」が「繰り返し・再生」を示す──征服された者たちが何度でも再生するという反抗の永続性の宣言。詩全体が「El Desdichado」の「私」が喪の詩人であるのに対し、こちらは「反逆する詩人」の自画像として、四篇の中で最も強い行動的意志を結句に刻む。"
+    }
+  ]
+}
