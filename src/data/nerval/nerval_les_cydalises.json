@@ -1,0 +1,105 @@
+{
+  "id": "nerval_les_cydalises",
+  "title": "Les Cydalises",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 41-42. Wikisource: https://fr.wikisource.org/wiki/Les_Cydalises",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853",
+  "difficulty": "初級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）所収。「Cydalises（シダリーズ）」は17〜18世紀のフランス牧歌詩で恋人の名として用いられた典型的な名前（ラ・フォンテーヌ等に登場）だが、ここでは複数形として「すでに死んだ愛する女性たち」全体を指す総称として機能する。詩は「Où sont nos amoureuses ?（私たちの恋人たちはどこにいるか？）」という問いで始まり、「Elles sont au tombeau（彼女たちは墓の中にいる）」という即座の応答で続く。この問答の構造が「El Desdichado」の喪失の叫びを詩謡（chanson）的な軽さで変奏する。「『Horus』のイシス＝勝利する女神」・「『Artémis』の深淵の聖女」に対し、「Les Cydalises」の女性たちは天使のそばで神の母（聖母マリア）の讃歌を歌う──異教的女神ではなくキリスト教的楽園に安置された死者の恋人たち。「Flambeaux éteints du monde（世界の消えた松明よ）」という形象が「El Desdichado」の「Ma seule étoile est morte（私のただひとつの星は死んだ）」と「Le Christ aux Oliviers」の「soleils éteints（消えた太陽たち）」という「消えた光」の系列に接続する。最終行「Rallumez-vous aux cieux !（天で再び点れ！）」という命令形が「消えた光の再点火」を楽園において願う詩全体の頂点として機能し、ネルヴァルの詩学における「失われた者の復活への信仰」を最も平明な形で表現する。",
+  "keywords": [
+    "Cydalises",
+    "amoureuses",
+    "tombeau",
+    "flambeaux éteints",
+    "éternité",
+    "mère de Dieu",
+    "fiancée",
+    "vierge",
+    "死者の恋人",
+    "楽園"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_artemis",
+    "nerval_les_papillons",
+    "nerval_ni_bonjour_ni_bonsoir",
+    "rossetti_dead_before_death",
+    "rossetti_remember",
+    "dowson_a_requiem",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Où sont nos amoureuses ?\nElles sont au tombeau :\nElles sont plus heureuses\nDans un séjour plus beau !",
+      "provisionalTranslation": "私たちの恋人たちはどこにいるのか？\n彼女たちは墓の中にいる：\n彼女たちはより幸せだ\nより美しい住処の中で！"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Elles sont près des anges,\nDans le fond du ciel bleu,\nEt chantent les louanges\nDe la mère de Dieu !",
+      "provisionalTranslation": "彼女たちは天使のそばにいる、\n青い空の深みの中で、\nそして神の母の\n讃歌を歌っている！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Ô blanche fiancée !\nÔ jeune vierge en fleur !\nAmante délaissée,\nQue flétrit la douleur :",
+      "provisionalTranslation": "ああ、白き花嫁よ！\nああ、花咲く若き乙女よ！\n捨てられた恋人よ、\n苦悩によって萎れた者よ："
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "L'éternité profonde\nSouriait dans vos yeux…\nFlambeaux éteints du monde,\nRallumez-vous aux cieux !",
+      "provisionalTranslation": "深い永遠が\nあなたたちの瞳の中で微笑んでいた……\n世界の消えた松明よ、\n天で再び点れ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Où sont nos amoureuses ?\nElles sont au tombeau :",
+      "body": "「私たちの恋人たちはどこにいるか？——彼女たちは墓の中にいる」──問答形式による詩の開口。「Où sont（どこにいるか）」という所在への問いが即座に「au tombeau（墓の中に）」と答えられる：問いと答えの間に探索も猶予もない──喪失は既定の事実として提示される。「nos amoureuses（私たちの恋人たち）」の複数形が重要：「El Desdichado」の「Ma seule étoile est morte（私のただひとつの星は死んだ）」という単数的喪失に対し、「Les Cydalises」では「私たちの（nos）」という複数の喪失共同体が定義される。「Cydalises」という名は17〜18世紀フランス牧歌詩の恋人名の典型──ラ・フォンテーヌ・フロリアン等に登場する慣用的名前として、「固有の名前を持つ一人の女性」ではなく「愛された女性たちの総体」を指す。ローデンバック「忘却（L'Oubli）」の死者・記憶の彼方に去った者たちとの照応。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Elles sont plus heureuses\nDans un séjour plus beau !",
+      "body": "「彼女たちはより幸せだ、より美しい住処の中で」──比較級（plus heureuses / plus beau）による逆説的慰め。死後の世界が「より幸せな（plus heureuses）」・「より美しい（plus beau）」場所として定義される比較級が、現世を「より不幸な・より醜い」場所として間接的に否定する。感嘆符（!）が第1連を肯定的な断言で閉じる──「Les Papillons」§9の「Malheur… hélas !（不幸よ……ああ！）」の嘆きとは逆の語調。詩謡（chanson）形式の短行（7音節・4音節の交替）が喪の内容に軽やかな歌の語調を与え、民謡的な「輪廻（ronde）」を形成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Elles sont près des anges,\nDans le fond du ciel bleu,\nEt chantent les louanges\nDe la mère de Dieu !",
+      "body": "「彼女たちは天使のそばにいる、青い空の深みの中で、そして神の母の讃歌を歌っている」──キリスト教的楽園の情景。「près des anges（天使のそばに）」：「Horus」の「l'esprit nouveau m'appelle（新しい霊が私を呼ぶ）」という異教的霊的到来と対照的に、ここでは死者の女性たちがキリスト教的天使の共同体に参入する。「Dans le fond du ciel bleu（青い空の深みの中で）」：「fond（深み・底）」という語が「Le Christ aux Oliviers」§8の「fond de l'ancien chaos（古代の混沌の底）」・「Antéros」§3の「du fond des enfers（奈落の底から）」という「底」の系列を逆転させる──奈落の底ではなく「天の深み」として。「la mère de Dieu（神の母）」：聖母マリアへの明示的参照が「Horus」のイシス（母神）・「Artémis」の「sainte napolitaine（ナポリの聖女）」というネルヴァルの女神系列にキリスト教的項目を加える。感嘆符（!）が第2連を楽園的賛歌として閉じる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ô blanche fiancée !\nÔ jeune vierge en fleur !\nAmante délaissée,\nQue flétrit la douleur :",
+      "body": "「ああ、白き花嫁よ！ああ、花咲く若き乙女よ！苦悩によって萎れた捨てられた恋人よ」──死者の女性たちへの三重の呼びかけ。「blanche fiancée（白き花嫁）」：「Artémis」§4の「Roses blanches（白い薔薇）」が「神々を侮辱する」として否定されたのに対し、ここでは「白さ」が喪の純潔として肯定される。「jeune vierge en fleur（花咲く若き乙女）」：「en fleur（花咲く）」という植物的形象が「Les Papillons」§9の「doux emblème（優しい象徴）」としての蝶の美と照応する──早世した若さの植物的・昆虫的形象化。「Amante délaissée（捨てられた恋人）」：「El Desdichado」の「le veuf（未亡人のような者）」・「l'inconsolé（慰めなき者）」の詩人に対応する「捨てられた（délaissée）」女性の視点が詩に導入される。「Que flétrit la douleur（苦悩によって萎れた）」：「flétrir（萎れる・枯れる）」という動詞が「Les Papillons」§9「froisse le velouté（柔らかさを潰す）」という美の破壊と同系の語彙。",
+      "targetId": "nerval_el_desdichado",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "L'éternité profonde\nSouriait dans vos yeux…",
+      "body": "「深い永遠があなたたちの瞳の中で微笑んでいた」──詩全体で最も重要な形象。「L'éternité profonde（深い永遠）」：「永遠（éternité）」が「profonde（深い）」という形容詞によって垂直的深みとして空間化される。「Le Christ aux Oliviers」§7の「orbite Vaste, noir et sans fond（広大で黒く底なしの眼窩）」という「神の目の不在」に対し、ここでは死んだ女性たちの「目（yeux）」の中に「永遠」が微笑んでいた──「空の眼窩」対「永遠の微笑む眼」という詩集全体の「目（œil）」の形象系の反転。「Souriait（微笑んでいた）」という半過去が過去の継続的状態を定着させる：彼女たちが生きていたとき、その目の中に永遠が宿っていた。省略記号（…）が過去の美の余韻を宙吊りにし、次行の命令形への転換を準備する。",
+      "targetId": "nerval_christ_aux_oliviers",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Flambeaux éteints du monde,\nRallumez-vous aux cieux !",
+      "body": "詩全体の結句。「Flambeaux éteints du monde（世界の消えた松明よ）」：「flambeau（松明・燭台）」という光源の形象が「El Desdichado」の「Ma seule étoile est morte（私のただひとつの星は死んだ）」・「Le Christ aux Oliviers」§10の「soleils éteints（消えた太陽たち）」という「消えた光」の詩集全体の系列に接続する。「éteints（消えた）」という過去分詞が「Vers dorés」の「Flambeaux éteints」とほぼ同一の形象として詩集全体に通底する「消えた光」の主題を担う。「Rallumez-vous aux cieux !（天で再び点れ！）」：再帰形（vous）の命令形が松明・女性たちへの呼びかけとして機能する──「自ら再び点れ」という能動的再点火の命令。「aux cieux（天で）」という場所副詞句が地上の「消滅」から天上の「再点火」への上昇的運動を定義する。感嘆符（!）が『ボヘミアの小城』所収の詩群の中で最も力強い肯定として機能し、ネルヴァルの「失われた者の天上的復活」への信仰を平明かつ感動的な形で封印する。"
+    }
+  ]
+}
