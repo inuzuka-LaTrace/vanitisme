@@ -1,0 +1,87 @@
+{
+  "id": "nerval_nobles_et_valets",
+  "title": "Nobles et Valets",
+  "author": "Gérard de Nerval",
+  "source": "Choix de poésies de Nerval, texte établi par Alphonse Séché, Louis-Michaud, 1907, p. 27. Wikisource: https://fr.wikisource.org/wiki/Choix_de_po%C3%A9sies_de_Nerval/Nobles_et_valets",
+  "year": "1831",
+  "firstPublication": "Le Cabinet de lecture, 1831；書籍初収録：Odelettes, 1853",
+  "difficulty": "中級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『小頌歌（Odelettes）』所収のソネット。1831年に *Le Cabinet de lecture* 誌に初出。『キメラ』の神話的・神学的世界とも『ボヘミアの小城』の抒情的・歌謡的世界とも異なる、社会風刺・諷刺詩としての異色作。「かつての貴族」という過去の理想化された貴族的身体（巨大な骨格・大地に根を張る力強さ）と、現代の「退化した相続人」（なよなよした体・コルセット・付け物）の対比が詩の構造的骨格をなす。「Race de laridons（ラリドンの種族）」：ラ・フォンテーヌの寓話「教育（L'Éducation）」に登場する、狩猟犬の血を引きながら台所番に成り下がった犬「ラリドン」への参照。かつての貴族の血に「従僕（valets）の血」が混じったという結語的告発が、7月王政期（1830年以降）の旧貴族階級の宮廷・官僚制度への追従的退落に対する政治的批判として機能する。ロマン主義的な「過去の偉大さと現代の卑小さ」という対比図式の辛辣な活用。",
+  "keywords": [
+    "nobles",
+    "valets",
+    "laridons",
+    "gentilshommes",
+    "dantesques",
+    "社会風刺",
+    "貴族",
+    "退化",
+    "血統",
+    "7月王政"
+  ],
+  "relatedTexts": [
+    "nerval_anteros",
+    "nerval_el_desdichado",
+    "baudelaire_spleen",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Les nobles d'autrefois, dont parlent les romans,\nCes preux à fronts de bœuf, à figures dantesques,\nDont les corps charpentés d'ossements gigantesques\nSemblaient avoir au sol racine et fondement ;",
+      "provisionalTranslation": "ロマンが語るかつての貴族たち、\n牛のような額、ダンテ的な相貌を持つそれらの勇士たち、\n巨大な骨格で組み上げられた体を持ち\n大地に根と基盤を持つかのように見えた者たち；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–9",
+      "original": "S'ils revenaient au monde, et qu'il leur prît l'idée\nDe voir les héritiers de leurs noms immortels,\nRace de laridons, encombrant les hôtels\nDes ministres, — rampante, avide et dégradée ;\nÊtres grêles, à buscs, plastrons et faux-mollets : —",
+      "provisionalTranslation": "もし彼らが世に戻り、不滅の名の\n相続人たちを見ようという気になったなら、\nラリドンの種族、大臣たちの館に\n屯して、──這い回り、貪欲で堕落した；\nコルセット・胸当て・付けふくらはぎのひ弱な存在たち：──"
+    },
+    {
+      "id": 3,
+      "verses": "v.10–12",
+      "original": "Certes, ils comprendraient alors, ces nobles hommes,\nQue, depuis les vieux temps, au sang des gentilshommes\nLeurs filles ont mêlé bien du sang de valets !",
+      "provisionalTranslation": "きっと彼らは理解するだろう、これらの高貴な者たちは、\n古い時代から、紳士の血に\n彼らの娘たちが随分と従僕の血を混ぜてきたのだと！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Les nobles d'autrefois, dont parlent les romans,\nCes preux à fronts de bœuf, à figures dantesques,",
+      "body": "「ロマンが語るかつての貴族たち、牛のような額、ダンテ的な相貌を持つ勇士たち」──理想化された過去の貴族の定義。「dont parlent les romans（ロマンが語る）」という限定句が重要：過去の貴族はすでに「文学的語り（romans）」の中にしか存在しない。「fronts de bœuf（牛のような額）」という粗野な力強さの形容が貴族の「野性的・原初的な力」を示す──洗練ではなく自然の力としての貴族性。「figures dantesques（ダンテ的な相貌）」：ダンテの『神曲』に登場する地獄・煉獄の巨人的・英雄的形象への参照。ネルヴァルがダンテを「壮大な過去の形象」の規準として用いていることが、「Antéros」・「Le Christ aux Oliviers」のダンテ的冥界的降下主題と詩人の中で連続していることを示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Dont les corps charpentés d'ossements gigantesques\nSemblaient avoir au sol racine et fondement ;",
+      "body": "「巨大な骨格で組み上げられた体を持ち、大地に根と基盤を持つかのように見えた者たち」──過去の貴族の身体的定義の核心形象。「charpentés（組み上げられた・骨組みされた）」という建築的語彙が身体を「構造物（charpente）」として定義する。「avoir au sol racine et fondement（大地に根と基盤を持つ）」：植物的（racine＝根）と建築的（fondement＝基盤）の二重形象が貴族の「土地への根付き・土地귀族（noblesse de terre）」としての本質を示す。「Vers dorés」の「un pur esprit s'accroît sous l'écorce des pierres（純粋な精霊が石の表皮の下で育つ）」という万物有魂論的「根付き」が、ここでは人間的・政治的「根付き」として世俗化される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Race de laridons, encombrant les hôtels\nDes ministres, — rampante, avide et dégradée ;",
+      "body": "「ラリドンの種族、大臣たちの館に屯して、這い回り、貪欲で堕落した」──詩の批判的核心。「Race de laridons（ラリドンの種族）」：ラ・フォンテーヌの寓話「教育（L'Éducation）」第8巻第24歌に登場する「ラリドン（Laridon）」への参照。名猟犬カエサルの兄弟でありながら台所の廃物を漁る台所番に成り下がった犬の名。貴族が「猟犬」ではなく「台所番」の役割に堕したという比喩として機能する。「rampante（這い回る）」：「reptile（爬虫類）」的な低い動作が「fronts de bœuf（牛の額）」という垂直的力強さへの対比として機能する。「encombrant les hôtels / Des ministres（大臣たちの館に屯して）」：7月王政（1830–48）期のオルレアン家的ブルジョワ的政治体制における旧貴族の官僚的追従を批判する政治的参照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Êtres grêles, à buscs, plastrons et faux-mollets : —",
+      "body": "「コルセット・胸当て・付けふくらはぎのひ弱な存在たち」──現代の退化した貴族の身体的形象。「grêles（ひ弱な・細い）」：第1連の「corps charpentés d'ossements gigantesques（巨大な骨格で組み上げられた体）」との直接的対比。「buscs（コルセットの芯骨）・plastrons（胸当て）・faux-mollets（付けふくらはぎ）」：19世紀前半の男性貴族・紳士服の「補正下着・付け物」の列挙が退化した身体の「人工的補強」を示す。自然の力強さから人工的補正への転落が、社会的「血統の退化」の身体的表象として機能する。コヘレト第1章v.15「Perversi difficile corriguntur（曲がったものは正すことは難しい）」の「曲がった者」という形象がここでは身体的「曲がり・ひ弱さ」として社会批評的に展開される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Certes, ils comprendraient alors, ces nobles hommes,\nQue, depuis les vieux temps, au sang des gentilshommes\nLeurs filles ont mêlé bien du sang de valets !",
+      "body": "ソネットの結三行にして風刺の結語。「Certes（きっと）」という確信的副詞が結論の不可避性を宣言する。「au sang des gentilshommes / Leurs filles ont mêlé bien du sang de valets（紳士の血に、彼らの娘たちが随分と従僕の血を混ぜてきた）」：「血の混合（mélange du sang）」という貴族社会の禁忌的概念への言及。「bien（随分と・たっぷりと）」という強調語が長い歴史的期間の蓄積を示す。「Antéros」での「race d'Antée（アンタイオスの種族）」という語り手の誇り高い系譜宣言と逆のベクトル──「Antéros」が征服された異教的系譜への誇りを主張するのに対し、「Nobles et Valets」は支配的貴族の系譜の「汚染（mélange）」を告発する。感嘆符（!）が詩全体のアイロニカルな結語を強調する。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 1
+    }
+  ]
+}
