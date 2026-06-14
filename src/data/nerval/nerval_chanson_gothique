@@ -1,0 +1,97 @@
+{
+  "id": "nerval_chanson_gothique",
+  "title": "Chanson gothique",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 94-95. Wikisource: https://fr.wikisource.org/wiki/Petits_ch%C3%A2teaux_de_Boh%C3%AAme_(Didier,_1853)/Chanson_gothique",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853（オペラ・コミック『モンテネグロ人たち（Les Monténégrins）』台本より）",
+  "difficulty": "初級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）所収。副題「LES MONTÉNÉGRINS. — Mus. de Limnander.（モンテネグロ人たち——リムナンデル作曲）」が示すとおり、ベルギーの作曲家アルマン・ド・リムナンデル（Armand de Limnander、1814–1892）が作曲したオペラ・コミック『モンテネグロ人たち』（1849年パリ初演）の台本からの詩。「ゴシック風の歌（Chanson gothique）」という題名は中世風・古風な趣を持つ歌という意味で、実際の歌詞は単純な恋愛の讃美歌謡。僅か12行の中に「涙＝露＝花」「美しいものは一つの春しか持たない」「時の歩みに薔薇を蒔け」「世界の神は喜びだ」という四つの格言的命題が圧縮されている。コヘレト第1章の「vanitas vanitatum（すべては虚無）」という美の無常の定式が、ここではカルペ・ディエム的な享楽の肯定として軽快に変奏される。「Les belles choses / N'ont qu'un printemps（美しいものは一つの春しか持たない）」という命題はホラティウス「カルミナ」第1巻第4歌「pallida Mors（青白い死）」・第4巻第7歌の「無常と現在の享受」と同系のテーマを担う。",
+  "keywords": [
+    "chanson gothique",
+    "belle épousée",
+    "rosée",
+    "printemps",
+    "plaisir",
+    "Temps",
+    "carpe diem",
+    "美の無常",
+    "薔薇",
+    "ゴシック"
+  ],
+  "relatedTexts": [
+    "nerval_les_cydalises",
+    "nerval_ni_bonjour_ni_bonsoir",
+    "hieronymus_ecclesiastes_1",
+    "horatius_carmina_1_4",
+    "horatius_carmina_4_7",
+    "gautier_coquetterie_posthume"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Belle épousée,\nJ'aime tes pleurs !\nC'est la rosée\nQui sied aux fleurs.",
+      "provisionalTranslation": "美しき花嫁よ、\n私はあなたの涙を愛する！\nそれは露だ\n花々に似合う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Les belles choses\nN'ont qu'un printemps,\nSemons de roses\nLes pas du Temps !",
+      "provisionalTranslation": "美しいものは\n一つの春しか持たない、\n時の歩みに\n薔薇を蒔こう！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Soit brune ou blonde\nFaut-il choisir ?\nLe Dieu du monde,\nC'est le plaisir.",
+      "provisionalTranslation": "黒髪か金髪か\n選ばなければならないのか？\n世界の神は\n喜びだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Belle épousée,\nJ'aime tes pleurs !",
+      "body": "「美しき花嫁よ、私はあなたの涙を愛する」──結婚式の涙への呼びかけ。「belle épousée（美しき花嫁）」は結婚式で泣く花嫁への語りかけとして歌謡的・劇的文脈を定義する。「J'aime tes pleurs（あなたの涙を愛する）」という逆説的宣言が詩全体のカルペ・ディエム的語調を開始する：涙すらも「愛する」という包括的肯定。「Les Cydalises」の「Ô jeune vierge en fleur（花咲く若き乙女）」・「blanche fiancée（白き花嫁）」という同系の若い女性への呼びかけと対照的に、「Chanson gothique」の花嫁は喪失ではなく現在の祝祭の場に置かれる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "C'est la rosée\nQui sied aux fleurs.",
+      "body": "「それは露だ、花々に似合う」──涙を「rosée（露）」として自然的形象に変換する比喩。「rosée（露）」はフランス詩において儚い水の美の典型的形象：朝露が花びらに宿り太陽とともに消える無常の美として機能する。「sied（似合う・ふさわしい）」という動詞（seoir の現在形）が美的適合性を表現する。「Les Papillons」の「Perdu dans ce vert linceul（緑の経帷子の中に失われながら）」という草の死的形象と対比し、ここでは「露」という水の形象が花の生命的美として機能する。コヘレト第1章v.7「Omnia flumina intrant in mare（すべての川は海へと入る）」の水の循環の詩謡的縮図。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Les belles choses\nN'ont qu'un printemps,",
+      "body": "「美しいものは一つの春しか持たない」──詩全体の哲学的核心命題。「N'ont qu'un printemps（一つの春しか持たない）」：「printemps（春）」が生命・青春・美の持続期間の単位として機能する。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の無常観の詩謡的定式化。ホラティウス「カルミナ」第4巻第7歌「diffugere nives（雪は逃げ去った）」の春の到来と生命の一回性という主題と直接的に照応する。「Les Cydalises」の「Flambeaux éteints du monde（世界の消えた松明よ）」という死後的視点とは逆に、「Les belles choses N'ont qu'un printemps」は死の前の生の瞬間を肯定する。",
+      "targetId": "horatius_carmina_4_7",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Semons de roses\nLes pas du Temps !",
+      "body": "「時の歩みに薔薇を蒔こう」──カルペ・ディエム的行動命令。「Semons（蒔こう）」という一人称複数命令形が詩人と読者を共同行為者として結ぶ。「Les pas du Temps（時の歩み）」：「Temps」の大文字表記が時間を擬人化する──「時」は歩く（pas）という人間的動作を持つ。「Antéros」結句「Je ressème à ses pieds les dents du vieux dragon（私は彼女の足もとに古い竜の歯を再び蒔く）」の「ressème（再び蒔く）」と同一の「蒔く」動詞が、反逆的文脈から享楽的文脈へと転調される。薔薇を時の歩みに蒔くという行為は美の有限性への抵抗として機能するとともに、その消滅を加速させる逆説をはらむ。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Soit brune ou blonde\nFaut-il choisir ?",
+      "body": "「黒髪か金髪か、選ばなければならないのか？」──第3連の問いかけ。「Soit brune ou blonde（黒髪か金髪か）」：女性の髪の色による二項対立が美の多様性・選択の不要性を示す。ゴーティエ「交響楽ロ短調（Symphonie en blanc majeur）」の「白さ」の一色への収束と逆の方向性──すべての女性の美が等しく愛されうるという多元的肯定。「Artémis」§1の「Es-tu reine, ô toi ! la première ou dernière ?（あなたは女王か、最初あるいは最後の？）」という同一か否かの問いが、ここでは軽やかな「どちらでもよい」という問いとして世俗化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le Dieu du monde,\nC'est le plaisir.",
+      "body": "「世界の神は喜びだ」──詩全体の結語にして最も挑発的な命題。「Le Dieu du monde（世界の神）」という定式が「Le Christ aux Oliviers」の「Dieu n'est pas（神はいない）」という深淵的宣告を受けて、「快楽（plaisir）」という新たな神を定立する──エピクロス的・快楽主義的神学の簡潔な宣言として。「Vers dorés」の「Souvent dans l'être obscur habite un Dieu caché（暗い存在の中に隠れた神が宿る）」という万物有魂論的命題と対照して読むと、「Chanson gothique」は神を内在的精霊ではなく「快楽（plaisir）」として外在的に同定する。ホラティウス「カルミナ」第1巻第11歌「carpe diem（今を摘め）」の精神の最短定式として機能する。",
+      "targetId": "horatius_carmina_1_4",
+      "targetParagraphId": null
+    }
+  ]
+}
