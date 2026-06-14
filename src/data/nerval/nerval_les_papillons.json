@@ -105,7 +105,7 @@
       "anchor": "Dans la nature infinie\nHarmonie\nEntre la plante et l'oiseau !…",
       "body": "「無限の自然の中で調和、植物と鳥のあいだ」──蝶の存在論的定義の第二部。「nature infinie（無限の自然）」：「Vers dorés」の「Dans ce monde où la vie éclate en toute chose（あらゆるものの中で生命が炸裂する世界）」と同一の汎生命論的自然観。「Harmonie（調和）」という語の独立行配置が強調──「Harmonie」はボードレール「万物照応（Correspondances）」で「de longs échos qui de loin se confondent / Dans une ténébreuse et profonde unité（遠くから混じり合う長い反響が、暗く深い統一の中で）」として展開される「自然の調和」と連続する。「Entre la plante et l'oiseau（植物と鳥のあいだ）」：中間的存在としての蝶──植物（花）でも動物（鳥）でもなく、両者の「あいだ（entre）」に位置する境界的存在。「!…」という複合句読点が肯定と宙吊りを同時に示す。",
       "targetId": "baudelaire_correspondances",
-      "targetParagraphId": None
+      "targetParagraphId": null
     },
     {
       "paragraphId": 2,
@@ -131,7 +131,7 @@
       "anchor": "Comme un éventail de soie,\nIl déploie\nSon manteau semé d'argent ;\nEt sa robe bigarrée\nEst dorée\nD'un or verdâtre et changeant.",
       "body": "第II部の開口六行。「comme un éventail de soie（絹の扇のように）」：蝶の翅の展開が「扇（éventail）」として比喩化される──マラルメ「夫人の扇（Éventail de Madame Mallarmé）」の扇の形象と照応する詩的物体化。「manteau semé d'argent（銀を散りばめたマント）」：翅を「マント（外套）」として衣装的語彙で形象化──「Horus」の「la robe de Cybèle（キュベレーの衣）」・「El Desdichado」§3「Mon front est rouge encor du baiser de la reine（女王の接吻で赤く染まった額）」という衣装的形象系との連続。「D'un or verdâtre et changeant（緑がかった変化する金で）」：「changeant（変化する）」という形容詞が玉虫色・多色性の表現であり、「Myrtho」§1の「raisins noirs mêlés avec l'or de ta tresse（黒い葡萄と金の髪）」の「金」と色彩的に照応する。",
       "targetId": "mallarme_eventail_madame_mallarme",
-      "targetParagraphId": None
+      "targetParagraphId": null
     },
     {
       "paragraphId": 6,
@@ -165,5 +165,3 @@
     }
   ]
 }
-
-
