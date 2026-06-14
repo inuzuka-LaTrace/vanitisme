@@ -1,0 +1,459 @@
+{
+  "id": "vergilius_eclogae_3",
+  "title": "Eclogae — Ecloga III",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga III. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_III",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★",
+  "context": "『牧歌』第3歌。メナルカス（Menalcas）とダモエタス（Damoetas）という二人の羊飼いの口論から始まり、第三者パラエモン（Palaemon）を審判者として招いた歌合わせ（amoebaeum carmen）へと発展する全111行の対話詩。前半（v.1–48）は互いの過去の不品行を暴く口論、後半（v.49–111）はパラエモンの宣言「alternis dicetis; amant alterna Camenae（交互に歌え；カメナエは交互を愛する）」による交互唱（amoebaeum）。テオクリトス第5歌（ゴアトとコマタスの歌合わせ）の直接的継承。パラエモンは最終的に優劣をつけず「et vitula tu dignus et hic et quisquis amores / aut metuet dulcis aut experietur amaros（お前も彼も、そして誰でも甘い愛を恐れるか苦い愛を経験する者は仔牛に値する）」と宣言する。交互唱の連鎖の中にポッリオ（Gaius Asinius Pollio、詩人・政治家・ウェルギリウスの庇護者）への言及（v.79–84）が挟まれており、政治的・後援的文脈を牧歌的枠組みの中に埋め込む。「latet anguis in herba（草の中に蛇が潜む）」（v.93）という格言的表現は西洋語に広く流通した成句。",
+  "keywords": [
+    "amoebaeum carmen",
+    "歌合わせ",
+    "Menalcas",
+    "Damoetas",
+    "Palaemon",
+    "交互唱",
+    "Pollio",
+    "latet anguis in herba",
+    "alternis",
+    "口論"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_2",
+    "horatius_carmina_1_4"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "speaker": "Menalcas",
+      "original": "Dic mihi, Damoeta, cuium pecus? An Meliboei?",
+      "provisionalTranslation": "教えてくれ、ダモエタス、誰の家畜か？メリボエウスのか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.2",
+      "speaker": "Damoetas",
+      "original": "Non, verum Aegonos; nuper mihi tradidit Aegon.",
+      "provisionalTranslation": "いや、アエゴンのだ；最近アエゴンがわたしに預けた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3–6",
+      "speaker": "Menalcas",
+      "original": "Infelix o semper, oves, pecus! ipse Neaeram\ndum fovet ac ne me sibi praeferat illa veretur,\nhic alienus ovis custos bis mulget in hora,\net sucus pecori et lac subducitur agnis.",
+      "provisionalTranslation": "ああ常に不幸な羊たちよ、家畜よ！アエゴン自身はネアエラに\n甘えながら彼女がわたしをアエゴンより好むことを恐れ、\nこの見知らぬ羊の番人は一時間に二度乳を絞り、\n家畜から体力が、子羊から乳が奪われている。"
+    },
+    {
+      "id": 4,
+      "verses": "v.7–9",
+      "speaker": "Damoetas",
+      "original": "Parcius ista viris tamen obicienda memento.\nnovimus et qui te transversa tuentibus hircis\net quo—sed faciles Nymphae risere—sacello.",
+      "provisionalTranslation": "それでもそういうことは男たちに向けて言うのは慎むよう覚えておけ。\nわたしたちは知っているぞ、山羊たちが横目で見ている中でお前が何をしたか、\nそしてどの祠で──だがおおらかなニュンファイは笑った──何をしたかも。"
+    },
+    {
+      "id": 5,
+      "verses": "v.10–11",
+      "speaker": "Menalcas",
+      "original": "Tum, credo, cum me arbustum videre Miconos\natque mala vitis incidere falce novellas.",
+      "provisionalTranslation": "その時だな、とわたしは思う、ミコノスの農園がわたしを見ていた時、\n若い葡萄の芽を悪い鎌で切り取っていた時が。"
+    },
+    {
+      "id": 6,
+      "verses": "v.12–15",
+      "speaker": "Damoetas",
+      "original": "Aut hic ad veteres fagos cum Daphnidos arcum\nfregisti et calamos, quae tu, perverse Menalca,\net, cum vidisti puero donata, dolebas\net, si non aliqua nocuisses, mortuus esses.",
+      "provisionalTranslation": "あるいはここ古いブナの木のそばでダプニスの弓と\n葦笛を折った時、それをお前は、ひねくれ者のメナルカス、\n少年に贈り物として与えられたのを見て悲しんでいたくせに\n何か害を与えなければ死んでいたも同然だった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.16–20",
+      "speaker": "Menalcas",
+      "original": "Quid domini faciant, audent cum talia fures?\nnon ego te vidi Damonos, pessime, caprum\nexcipere insidiis multum latrante Lycisca?\net cum clamarem 'quo nunc se proripit ille?\nTityre, coge pecus', tu post carecta latebas.",
+      "provisionalTranslation": "泥棒どもがそんなことをする時、主人たちはどうすればいい？\nわたしはお前がダモンの山羊を罠にかけているのを見なかったか、この最低野郎、\nリュキスカが盛んに吠えている中で？\nそしてわたしが「あいつはどこへ飛び出したのか？\nティテュルス、家畜をまとめろ」と叫んだ時、お前は葦の後ろに隠れていた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.21–24",
+      "speaker": "Damoetas",
+      "original": "An mihi cantando victus non redderet ille,\nquem mea carminibus meruisset fistula caprum?\nsi nescis, meus ille caper fuit; et mihi Damon\nipse fatebatur sed reddere posse negabat.",
+      "provisionalTranslation": "歌合わせでわたしに負けたのに、わたしの笛が歌で勝ち取った\n山羊を彼は返さなかったとでも言うのか？\n知らないのなら言っておくが、あの山羊はわたしのものだった；ダモン自身が\nわたしにそれを認めたが返せないと言っていた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.25–27",
+      "speaker": "Menalcas",
+      "original": "Cantando tu illum? aut umquam tibi fistula cera\niuncta fuit? non tu in triviis, indocte, solebas\nstridenti miserum stipula disperdere carmen?",
+      "provisionalTranslation": "歌でお前があいつに勝った？それともお前に蜜蝋で繋いだ笛が\nあったことがあるか？お前は辻々で、無学者め、\n鳴り響く麦わら笛で哀れな歌を台無しにしていたのではないか？"
+    },
+    {
+      "id": 10,
+      "verses": "v.28–31",
+      "speaker": "Damoetas",
+      "original": "Vis ergo inter nos quid possit uterque vicissim\nexperiamur? ego hanc vitulam—ne forte recuses,\nbis venit ad mulctram, binos alit ubere fetus—\ndepono; tu dic mecum quo pignore certes.",
+      "provisionalTranslation": "では互いの間でそれぞれが何ができるか順番に\n試してみようか？わたしはこの仔牛を──もしかして断るといけないので言っておくが、\n二度乳搾りに来て、乳房で二頭の子を育てている──\n賭けに出す；お前はわたしとどんな担保で競うか言え。"
+    },
+    {
+      "id": 11,
+      "verses": "v.32–39",
+      "speaker": "Menalcas",
+      "original": "De grege non ausim quicquam deponere tecum.\nest mihi namque domi pater, est iniusta noverca,\nbisque die numerant ambo pecus, alter et haedos.\nverum, id quod multo tute ipse fatebere maius,\ninsanire libet quoniam tibi, pocula ponam\nfagina, caelatum divini opus Alcimedontos,\nlenta quibus torno facili superaddita vitis\ndiffusos hedera vestit pallente corymbos.\nin medio duo signa, Conon et—quis fuit alter,\ndescripsit radio totum qui gentibus orbem,\ntempora quae messor, quae curvus arator haberet?\nnecdum illis labra admovi, sed condita servo.",
+      "provisionalTranslation": "群れから何もお前と賭けに出す勇気はない。\nというのも家には父親がいて、不公平な継母がいて、\n二人とも一日に二度家畜を数え、一人は山羊の子も数えるから。\nだがはるかに大きいとお前自身が認めることを、\nお前が狂いたいのなら賭けに出そう、ブナ材の杯を、\n神のようなアルキメドンの作品、彫刻された杯を、\n旋盤で容易に細工されてしなやかな葡萄の蔓が加えられ\n青ざめた蔦が広がる総房を覆っている杯を。\n真ん中に二つの像、コノンと──もう一人は誰だったか、\n全世界を民々のために測り棒で描いた者、\n刈り手が持つべき時期と曲がった農夫が持つべき時期を？\nまだそれに唇を当てたことはないが、しまって取っておいている。"
+    },
+    {
+      "id": 12,
+      "verses": "v.40–45",
+      "speaker": "Damoetas",
+      "original": "Et nobis idem Alcimedon duo pocula fecit\net molli circum est ansas amplexus acantho\nOrpheaque in medio posuit silvasque sequentis;\nnecdum illis labra admovi, sed condita servo.\nsi ad vitulam spectas, nihil est quod pocula laudes.",
+      "provisionalTranslation": "わたしたちにも同じアルキメドンが二つの杯を作り\n柔らかいアカンサスで取っ手を周りに巻きつけ\n真ん中にオルペウスと後に続く森々を置いた；\nまだそれに唇を当てたことはないが、しまって取っておいている。\n仔牛を目の前にしたら杯を誉めることなど何もない。"
+    },
+    {
+      "id": 13,
+      "verses": "v.46–48",
+      "speaker": "Menalcas",
+      "original": "Numquam hodie effugies; veniam quocumque vocaris.\nautaudiat haec tantum vel qui venit, ecce Palaemon.\nefficiam posthac ne quemquam voce lacessas.",
+      "provisionalTranslation": "今日はもう逃げられないぞ；どこへ呼ばれても行く。\nせめてこれを聞いてくれる者だけでも、見よ、パラエモンが来る。\nこれからは誰かに言葉で喧嘩をふっかけないようにしてやる。"
+    },
+    {
+      "id": 14,
+      "verses": "v.49–51",
+      "speaker": "Damoetas",
+      "original": "Quin age, si quid habes; in me mora non erit ulla\nnec quemquam fugio. tantum, vicine Palaemon,\nsensibus haec imis—res est non parva—reponas.",
+      "provisionalTranslation": "さあ行こう、何かあるなら；わたしの方に躊躇は何もないし\n誰からも逃げない。ただ、隣人パラエモン、\nこれを心の奥底に留めておいてくれ──これは小さなことではないから。"
+    },
+    {
+      "id": 15,
+      "verses": "v.52–54",
+      "speaker": "Palaemon",
+      "original": "Dicite, quandoquidem in molli consedimus herba.\net nunc omnis ager, nunc omnis parturit arbos,\nnunc frondent silvae, nunc formosissimus annus.",
+      "provisionalTranslation": "歌え、柔らかい草の上に腰を下ろしたのだから。\n今はあらゆる野が、今はあらゆる木が生み出そうとしている、\n今は森々が葉を茂らせ、今は年の中で最も美しい時。"
+    },
+    {
+      "id": 16,
+      "verses": "v.55–56",
+      "speaker": "Palaemon",
+      "original": "incipe, Damoeta; tu deinde sequere, Menalca.\nalternis dicetis; amant alterna Camenae.",
+      "provisionalTranslation": "始めよ、ダモエタス；お前は次に続け、メナルカス。\n交互に歌うのだ；カメナエは交互を愛する。"
+    },
+    {
+      "id": 17,
+      "verses": "v.57–58",
+      "speaker": "Damoetas",
+      "original": "Ab Iove principium Musae, Iovis omnia plena;\nille colit terras, illi mea carmina curae.",
+      "provisionalTranslation": "ムーサエよ、ユーピテルから始まりを取れ、あらゆるものはユーピテルに満ちている；\n彼が大地を耕し、彼がわたしの歌を気にかける。"
+    },
+    {
+      "id": 18,
+      "verses": "v.59–60",
+      "speaker": "Menalcas",
+      "original": "Et me Phoebus amat; Phoebo sua semper apud me\nmunera sunt, lauri et suave rubens hyacinthus.",
+      "provisionalTranslation": "わたしのことはポエブスが愛してくれる；ポエブスへの供え物が\nいつもわたしのところにある、月桂樹と甘く赤く輝くヒュアキントスが。"
+    },
+    {
+      "id": 19,
+      "verses": "v.61–62",
+      "speaker": "Damoetas",
+      "original": "Malo me Galatea petit, lasciva puella,\net fugit ad salices et se cupit ante videri.",
+      "provisionalTranslation": "ガラテアがリンゴを投げてわたしを呼ぶ、淫らな娘が、\nそして柳の茂みへ逃げ、その前に見られることを望んでいる。"
+    },
+    {
+      "id": 20,
+      "verses": "v.63–64",
+      "speaker": "Menalcas",
+      "original": "At mihi sese offert ultro meus ignis, Amyntas,\nnotior ut iam sit canibus non Delia nostris.",
+      "provisionalTranslation": "しかしわたしには、わたしの恋、アミュンタスが自ら進んで来る、\nもはやデリアがわたしたちの犬たちに知られているほどに。"
+    },
+    {
+      "id": 21,
+      "verses": "v.65–66",
+      "speaker": "Damoetas",
+      "original": "Parta meae Veneri sunt munera; namque notavi\nipse locum aeriae quo congessere palumbes.",
+      "provisionalTranslation": "わたしのウェヌスへの贈り物は用意した；というのもわたし自身が\n高みを飛ぶキジバトが巣を作った場所を目ざとく見つけておいた。"
+    },
+    {
+      "id": 22,
+      "verses": "v.67–68",
+      "speaker": "Menalcas",
+      "original": "Quod potui, puero silvestri ex arbore lecta\naurea mala decem misi; cras altera mittam.",
+      "provisionalTranslation": "できる限りのことをして、少年に森の木から摘んだ\n黄金のリンゴを十個送った；明日もう十個送るつもりだ。"
+    },
+    {
+      "id": 23,
+      "verses": "v.69–70",
+      "speaker": "Damoetas",
+      "original": "O quotiens et quae nobis Galatea locuta est!\npartem aliquam, venti, divom referatis ad auris.",
+      "provisionalTranslation": "ああ何度も、そしてどんなことをガラテアはわたしたちに語ったことか！\n風よ、その一部を神々の耳へ届けておくれ。"
+    },
+    {
+      "id": 24,
+      "verses": "v.71–72",
+      "speaker": "Menalcas",
+      "original": "Quid prodest quod me ipse animo non spernis, Amynta,\nsi, dum tu sectaris apros, ego retia servo?",
+      "provisionalTranslation": "アミュンタス、お前が心でわたしを軽蔑していないのが何の役に立つ、\nお前が猪を追っている間わたしが網を守っているなら？"
+    },
+    {
+      "id": 25,
+      "verses": "v.73–74",
+      "speaker": "Damoetas",
+      "original": "Phyllida mitte mihi; meus est natalis, Iolla,\ncum faciam vitula pro frugibus, ipse venito.",
+      "provisionalTranslation": "フュッリスをわたしに送ってくれ；わたしの誕生日だ、イオッラス、\n収穫のために仔牛を供える時には、自分でも来るように。"
+    },
+    {
+      "id": 26,
+      "verses": "v.75–76",
+      "speaker": "Menalcas",
+      "original": "Phyllida amo ante alias; nam me discedere flevit\net longum 'formose, vale, vale,' inquit, Iolla.",
+      "provisionalTranslation": "わたしは他の誰よりもフュッリスを愛している；というのも彼女はわたしが去るのを泣き、\n長々と「美しい人よ、さようなら、さようなら」と言っていた、イオッラスよ。"
+    },
+    {
+      "id": 27,
+      "verses": "v.77–78",
+      "speaker": "Damoetas",
+      "original": "Triste lupus stabulis, maturis frugibus imbres,\narboribus venti, nobis Amaryllidos irae.",
+      "provisionalTranslation": "狼は羊小屋に悲しみ、熟れた実には雨が、\n木々には風が、わたしたちにはアマリュッリスの怒りが。"
+    },
+    {
+      "id": 28,
+      "verses": "v.79–80",
+      "speaker": "Menalcas",
+      "original": "Dulce satis umor, depulsis arbutus haedis,\nlenta salix feto pecori, mihi solus Amyntas.",
+      "provisionalTranslation": "十分に育った穀物には水が甘く、離乳した山羊の子にはイチゴノキが、\n身籠った家畜には柔らかい柳が、わたしにはただアミュンタスだけが。"
+    },
+    {
+      "id": 29,
+      "verses": "v.81–82",
+      "speaker": "Damoetas",
+      "original": "Pollio amat nostram, quamvis est rustica, Musam;\nPierides, vitulam lectori pascite vestro.",
+      "provisionalTranslation": "ポッリオはわたしたちのムーサを愛してくれる、たとえ田舎ものであっても；\nピエリデスよ、お前たちの読者のために仔牛を養え。"
+    },
+    {
+      "id": 30,
+      "verses": "v.83–84",
+      "speaker": "Menalcas",
+      "original": "Pollio et ipse facit nova carmina; pascite taurum,\niam cornu petat et pedibus qui spargat harenam.",
+      "provisionalTranslation": "ポッリオ自身も新しい詩を作る；雄牛を養え、\nすでに角で突こうとし足で砂を蹴散らすような雄牛を。"
+    },
+    {
+      "id": 31,
+      "verses": "v.85–86",
+      "speaker": "Damoetas",
+      "original": "Qui te, Pollio, amat veniat quo te quoque gaudet;\nmella fluant illi, ferat et rubus asper amomum.",
+      "provisionalTranslation": "ポッリオよ、お前を愛する者はお前もまた喜ぶ所へ来るように；\n彼には蜜が流れ、荒々しいイバラでさえアモームを実らせよ。"
+    },
+    {
+      "id": 32,
+      "verses": "v.87–88",
+      "speaker": "Menalcas",
+      "original": "Qui Bavium non odit, amet tua carmina, Mevi,\natque idem iungat vulpes et mulgeat hircos.",
+      "provisionalTranslation": "バウィウスを憎まない者は、メウィウスよ、お前の詩を愛するがいい、\nそして同じ者が狐を繋いで山羊の雄を搾るがいい。"
+    },
+    {
+      "id": 33,
+      "verses": "v.89–90",
+      "speaker": "Damoetas",
+      "original": "Qui legitis flores et humi nascentia fraga,\nfrigidus—o pueri, fugite hinc—latet anguis in herba.",
+      "provisionalTranslation": "花と地面に生えるイチゴを摘む者たちよ、\n冷たい──おお少年たちよ、ここから逃げろ──蛇が草の中に潜んでいる。"
+    },
+    {
+      "id": 34,
+      "verses": "v.91–92",
+      "speaker": "Menalcas",
+      "original": "Parcite, oves, nimium procedere; non bene ripae\ncreditur; ipse aries etiam nunc vellera siccat.",
+      "provisionalTranslation": "羊たちよ、進み過ぎないように；川岸は\n信頼するのによくない；牡羊自身もまだ毛を乾かしている。"
+    },
+    {
+      "id": 35,
+      "verses": "v.93–94",
+      "speaker": "Damoetas",
+      "original": "Tityre, pascentis a flumine reice capellas;\ncum dabitur, omnis in fonte lavabo.",
+      "provisionalTranslation": "ティテュルス、草を食む山羊たちを川から追い払え；\n時が来たら、わたし自身が泉で全部を洗ってやろう。"
+    },
+    {
+      "id": 36,
+      "verses": "v.95–96",
+      "speaker": "Menalcas",
+      "original": "Cogite oves, pueri; si lac praeceperit aestus,\nut nuper, frustra pressabimus ubera palmis.",
+      "provisionalTranslation": "羊たちをまとめろ、少年たちよ；もし暑さが乳より先になったら、\n最近のように、乳房を手で押しても無駄になる。"
+    },
+    {
+      "id": 37,
+      "verses": "v.97–98",
+      "speaker": "Damoetas",
+      "original": "Heu heu, quam pingui macer est mihi taurus in ervo!\nidem amor exitium pecori pecorisque magistro.",
+      "provisionalTranslation": "ああ、豊かなカラスノエンドウの中でもわたしの牡牛は痩せている！\n同じ恋が家畜にも家畜の番人にも破滅をもたらす。"
+    },
+    {
+      "id": 38,
+      "verses": "v.99–100",
+      "speaker": "Menalcas",
+      "original": "His certe—neque amor causa est—vix ossibus haerent;\nnescio quis teneros oculus mihi fascinat agnos.",
+      "provisionalTranslation": "こちらの家畜たちはきっと──恋のせいではないが──ほとんど骨に皮だけだ；\n何者かの邪視がわたしの幼い子羊たちを呪っている。"
+    },
+    {
+      "id": 39,
+      "verses": "v.101–102",
+      "speaker": "Damoetas",
+      "original": "Dic quibus in terris—et eris mihi magnus Apollo—\ntris pateat caeli spatium non amplius ulnas.",
+      "provisionalTranslation": "どの土地でか教えてくれ──そうすればお前はわたしにとって偉大なアポッロだ──\n空が三キュビット以上は広がらない土地を。"
+    },
+    {
+      "id": 40,
+      "verses": "v.103–104",
+      "speaker": "Menalcas",
+      "original": "Dic quibus in terris inscripti nomina regum\nnascantur flores, et Phyllida solus habeto.",
+      "provisionalTranslation": "どの土地でか教えてくれ、王たちの名前が書き込まれた\n花が生まれるかを、そうすればお前だけがフュッリスを持つがいい。"
+    },
+    {
+      "id": 41,
+      "verses": "v.105–111",
+      "speaker": "Palaemon",
+      "original": "Non nostrum inter vos tantas componere lites:\net vitula tu dignus et hic et quisquis amores\naut metuet dulcis aut experietur amaros.\nclaudite iam rivos, pueri; sat prata biberunt.",
+      "provisionalTranslation": "これほど大きな争いをお前たちの間で収めることはわたしの役目ではない：\nお前も彼も値する、仔牛に、そして甘い恋を恐れるか\n苦い恋を経験するすべての者も。\nもう水路を閉じろ、少年たちよ；草地は十分に飲んだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dic mihi, Damoeta, cuium pecus? An Meliboei?",
+      "body": "詩の冒頭を飾る短い問いかけ。「cuium（誰の）」は古形属格疑問代名詞であり、所有権への即座の問いが口論の起点となる。第1歌のメリボエウスへの言及（「An Meliboei?」）が両詩間の連続性を示す：土地・家畜の所有権という問題が詩集全体のライトモチーフとして機能する。一行のみの開口部が、テオクリトス第5歌「Ait potius quisnam es tu?」との構造的類比を持つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Infelix o semper, oves, pecus! ipse Neaeram\ndum fovet ac ne me sibi praeferat illa veretur,\nhic alienus ovis custos bis mulget in hora,",
+      "body": "「常に不幸な羊たちよ」──家畜への呼びかけ（apostrophe）が口論の倫理的告発の開口部。「bis mulget in hora（一時間に二度乳を絞る）」という農業的不正の具体的描写が、牧歌的世界の経済的現実を露呈させる。「alienus custos（見知らぬ番人）」という所有者不在の問題が第1歌の「土地なき農夫」の主題を変奏する：家畜も土地も、本来の主人から切り離された時に苦しみを受ける。「sucus（体力）」と「lac（乳）」という二重の喪失が家畜の搾取の全体性を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "novimus et qui te transversa tuentibus hircis\net quo—sed faciles Nymphae risere—sacello.",
+      "body": "「山羊たちが横目で見ている中でお前が何をしたか……だがおおらかなニュンファイは笑った（sed faciles Nymphae risere）」──性的な仄めかしの婉曲表現。「transversa tuentibus hircis（横目で見る山羊たち）」は目撃者としての家畜という喜劇的形象。「faciles Nymphae（おおらかなニュンファイ）」──ニュンファイが笑うという描写が、スキャンダラスな場面の深刻さを和らげる牧歌的ユーモアとして機能する。ダモエタスの反撃が直接的告発ではなく謎めいた仄めかしで行われることで、口論に知的な緊張が生まれる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Aut hic ad veteres fagos cum Daphnidos arcum\nfregisti et calamos, quae tu, perverse Menalca,",
+      "body": "「古いブナの木のそばでダプニスの弓と葦笛を折った」──ダプニス（Daphnis）はシキリア牧歌の伝説的始祖であり（テオクリトス第1歌）、その楽器の破壊は詩的・牧歌的伝統への破壊行為として象徴的な重みを持つ。「perverse Menalca（ひねくれ者のメナルカス）」という直接的人格攻撃が口論の感情的エスカレーションを示す。「弓（arcus）」と「葦笛（calami）」の両方を壊すことで、狩猟と音楽という牧歌的生の二つの柱の破壊が告発される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Quid domini faciant, audent cum talia fures?",
+      "body": "「泥棒どもがそんなことをする時、主人たちはどうすればいい？」──格言的な問いかけ。所有・盗み・正義という法的・道徳的枠組みへの問いが牧歌の中に挿入される。ダモエタスを「fures（泥棒）」と断定することで、口論が人格攻撃から法的告発へと昇格する。「Tityre, coge pecus（ティテュルス、家畜をまとめろ）」という呼びかけが第1歌のティテュルスへの参照として機能し、詩集内の人名の反復による共鳴効果を生む。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "non tu in triviis, indocte, solebas\nstridenti miserum stipula disperdere carmen?",
+      "body": "「辻々で、無学者め、鳴り響く麦わら笛で哀れな歌を台無しにしていたのではないか（stridenti miserum stipula disperdere carmen）」──「stridenti stipula（鳴り響く麦わら笛）」の頭韻が詩行の音響的模倣として機能する：粗野な楽器の「鳴り響き（stridor）」が詩の音響に刻印される。「disperdere carmen（歌を台無しにする）」という破壊的動詞が、第2歌のコリュドンの「incondita（まとまりのない歌）」の自己批評と共鳴する──真の芸術への問いとして口論が詩学的次元を帯びる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Vis ergo inter nos quid possit uterque vicissim\nexperiamur?",
+      "body": "「では互いの間でそれぞれが何ができるか順番に試してみようか？（Vis ergo inter nos quid possit uterque vicissim / experiamur）」──口論から歌合わせへの転換点。「vicissim（順番に・交互に）」という副詞が後の「alternis dicetis（交互に歌え）」を予告する。歌合わせ（certamen）という競技的詩的形式の提案が詩の構造を根本的に変換する：個人的口論が公的な詩的競技へと昇格する。テオクリトスの歌合わせ詩の構造的定式への明示的参照。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "pocula ponam\nfagina, caelatum divini opus Alcimedontos,\nlenta quibus torno facili superaddita vitis\ndiffusos hedera vestit pallente corymbos.",
+      "body": "「ブナ材の杯、神のようなアルキメドンの彫刻された作品」──「ekphrasis（エクフラシス）」と呼ばれる芸術作品の詩的描写の古典的例。テオクリトス第1歌の「杯」の詳細な描写の直接的継承。「caelatum divini opus（神のような作品の彫刻）」──「divini（神のような）」という形容が職人技を神的領域に引き上げる；これはウェルギリウスが後に『アエネイス』第8歌でウゥルカーヌスの楯を描写する際に展開する大規模なエクフラシスの牧歌的先行形。「pallente hedera（青ざめた蔦）」という色彩描写が細密画的な精緻さを示す。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "in medio duo signa, Conon et—quis fuit alter,\ndescripsit radio totum qui gentibus orbem,",
+      "body": "「真ん中に二つの像、コノンと──もう一人は誰だったか、全世界を民々のために測り棒で描いた者」──コノン（Conon of Samos、天文学者・数学者、BC 3世紀）と「もう一人（名前が出てこない）」という学識者の像。「necdum illis labra admovi（まだそれに唇を当てたことはない）」という未使用の強調が杯の価値の高さを示す：飲むには高貴すぎる芸術作品。学術的知識（天文・農業暦）と芸術（彫刻）の統合が杯に体現される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Orpheaque in medio posuit silvasque sequentis;",
+      "body": "「真ん中にオルペウスと後に続く森々を置いた（Orpheaque in medio posuit silvasque sequentis）」──オルペウス（Orpheus）の竪琴が森々を引き寄せるという神話のイメージ。詩・音楽の力が自然を動かすというオルペウス的詩学の定式。ダモエタスの杯がメナルカスの「知識の杯（コノン）」に対して「詩の杯（オルペウス）」として対置される構造が、二人の詩学的傾向の差異を暗示する。オルペウス神話はウェルギリウス『農耕詩』第4巻の末尾でも展開される。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "prosody",
+      "anchor": "et nunc omnis ager, nunc omnis parturit arbos,\nnunc frondent silvae, nunc formosissimus annus.",
+      "body": "「今はあらゆる野が、今はあらゆる木が生み出そうとしている、今は森々が葉を茂らせ、今は年の中で最も美しい時（et nunc omnis ager, nunc omnis parturit arbos / nunc frondent silvae, nunc formosissimus annus）」──「nunc（今）」の四重反復（anaphora）が春の到来の高揚感を詩行の音楽に刻印する。「parturit（生み出す・産む）」という動詞が大地・木・年全体を生産的な生命体として擬人化する。歌合わせの開始に先立つパラエモンの宣言が、春・更新・詩的創造を同型として重ね合わせる。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "alternis dicetis; amant alterna Camenae.",
+      "body": "「交互に歌うのだ；カメナエは交互を愛する（alternis dicetis; amant alterna Camenae）」──詩第3歌の詩学的中心命題。「alternae（交互）」という概念が牧歌的交互唱（amoebaeum carmen）の本質を定式化する。「Camenae（カメナエ）」はローマの詩の女神（ギリシアのムーサエに相当）；詩の女神自体が「交互」を「愛する（amant）」という擬人化が、交互唱を単なる競技形式ではなく詩の本質的あり方として定義する。「alternae」の美学はダンテのテルツァ・リーマ（ABA BCB CDC）という完璧な交互韻律の遠い先祖として読める。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "allusion",
+      "anchor": "Ab Iove principium Musae, Iovis omnia plena;\nille colit terras, illi mea carmina curae.",
+      "body": "「ムーサエよ、ユーピテルから始まりを取れ（Ab Iove principium Musae）」──テオクリトス第17歌冒頭「ゼウスから始めよ」のラテン語翻案。ユーピテル（ゼウス）への呼び出しで歌合わせを開始するダモエタスの選択が、彼の「高い」詩学的な方向性を示す。「Iovis omnia plena（あらゆるものはユーピテルに満ちている）」はアラトス（Aratus）『ファイノメナ』冒頭（「ゼウスから始めよ」）への参照でもあり、ウェルギリウスの幅広い詩的典拠を示す。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Malo me Galatea petit, lasciva puella,\net fugit ad salices et se cupit ante videri.",
+      "body": "「ガラテアがリンゴを投げてわたしを呼ぶ、淫らな娘が、そして柳の茂みへ逃げ、その前に見られることを望んでいる（Malo me Galatea petit…et fugit ad salices et se cupit ante videri）」──「malo（リンゴを投げる）」という動詞が恋の誘いの具体的行為として提示される：ギリシア古代の愛のシグナルとしてのリンゴ投げ。「fugit…et se cupit ante videri（逃げ……しかし見られることを望む）」という逃走と露出の欲望の同時性が、恋愛的な「逃げながら誘う」という典型的な行動様式を定式化する。"
+    },
+    {
+      "paragraphId": 27,
+      "type": "prosody",
+      "anchor": "Triste lupus stabulis, maturis frugibus imbres,\narboribus venti, nobis Amaryllidos irae.",
+      "body": "「狼は羊小屋に悲しみ、熟れた実には雨が、木々には風が、わたしたちにはアマリュッリスの怒りが（Triste lupus stabulis…nobis Amaryllidos irae）」──牧歌の最も純化された構造の一例：「X にとって Y は悲しみ」という並行構造（parallelismus membrorum）の連鎖。形容詞「triste（悲しみ・有害なもの）」が省略されたままで機能する省略法（ellipsis）：「imbres（雨）」「venti（風）」も同じ「悲しみ・有害なもの」として括弧に入れられる。第2歌の「trahit sua quemque voluptas」が欲望の連鎖を描くのに対し、この二行は有害なものの連鎖を描く鏡像として機能する。"
+    },
+    {
+      "paragraphId": 29,
+      "type": "commentary",
+      "anchor": "Pollio amat nostram, quamvis est rustica, Musam;\nPierides, vitulam lectori pascite vestro.",
+      "body": "「ポッリオはわたしたちのムーサを愛してくれる、たとえ田舎ものであっても（Pollio amat nostram, quamvis est rustica, Musam）」──ガイウス・アシニウス・ポッリオ（Gaius Asinius Pollio, 76 BC–4 AD）への言及。詩人・弁論家・歴史家・政治家であり、ウェルギリウスの重要な庇護者（patronus）。「quamvis est rustica（たとえ田舎ものであっても）」という謙遜が、高雅なポッリオが「rustica Musa（田舎のムーサ）」を認めてくれるという感謝を示す。「lectori vestro（お前たちの読者のために）」という表現がポッリオを詩の読者として定義する：庇護者を「読者」として詩に組み込む政治的・詩学的行為。"
+    },
+    {
+      "paragraphId": 31,
+      "type": "commentary",
+      "anchor": "Qui Bavium non odit, amet tua carmina, Mevi,\natque idem iungat vulpes et mulgeat hircos.",
+      "body": "「バウィウスを憎まない者は、メウィウスよ、お前の詩を愛するがいい、そして同じ者が狐を繋いで山羊の雄を搾るがいい（Qui Bavium non odit…atque idem iungat vulpes et mulgeat hircos）」──詩史上最も有名な詩人批判の一行。バウィウス（Bavius）とメウィウス（Maevius）はウェルギリウスを批判した三流詩人として知られ（ホラティウス『詩論（Epode X）』でもメウィウスへの攻撃がある）。「iungat vulpes et mulgeat hircos（狐を繋いで山羊の雄を搾る）」という不可能な行為の比喩が、悪趣味な詩を愛する者への呪いとして機能する。「adynata（不可能なことのリスト）」の皮肉的変用。"
+    },
+    {
+      "paragraphId": 33,
+      "type": "glossary",
+      "anchor": "frigidus—o pueri, fugite hinc—latet anguis in herba.",
+      "body": "「冷たい蛇が草の中に潜んでいる（latet anguis in herba）」──西洋語に広く流通した最も有名な格言的表現の一つ。「latet anguis in herba」はラテン語格言・諺・文学的典故として以後の西洋文学に遍在する：シェイクスピア（マクベス「蛇が花の下に隠れている」）・17〜18世紀の詩的警句集・近代の表現（「美しいものの中に潜む危険」）にまで生き続ける。「frigidus（冷たい）」という形容詞が爬虫類の冷血と死の冷たさを二重に示す。交互唱の流れの中に突然挿入される警告が、牧歌的世界の表面的な美しさの下に潜む危険を指摘する詩学的身振りとして機能する。"
+    },
+    {
+      "paragraphId": 37,
+      "type": "commentary",
+      "anchor": "idem amor exitium pecori pecorisque magistro.",
+      "body": "「同じ恋が家畜にも家畜の番人にも破滅をもたらす（idem amor exitium pecori pecorisque magistro）」──第2歌「trahit sua quemque voluptas」のヴァリアント：恋の欲望が人間と動物を等しく支配するという命題の簡潔な定式化。「pecori pecorisque magistro（家畜に、そして家畜の番人に）」という属格の反復（polyptoton）が人間と動物の運命の対称を強調する。牡牛の痩せが牛飼いの恋の狂気と同型として提示されることで、牧歌的世界の人間・動物の共命運が示される。"
+    },
+    {
+      "paragraphId": 38,
+      "type": "commentary",
+      "anchor": "Dic quibus in terris—et eris mihi magnus Apollo—\ntris pateat caeli spatium non amplius ulnas.",
+      "body": "「どの土地でか教えてくれ──そうすればお前はわたしにとって偉大なアポッロだ──空が三キュビット以上は広がらない土地を」──謎かけ（aenigma）形式による歌合わせの転換点。「et eris mihi magnus Apollo（そうすればお前はわたしにとって偉大なアポッロだ）」という条件法が、知恵を持つ者を詩の神アポッロと同一視する詩学的誇張。「tris…non amplius ulnas（三キュビット以上は広がらない）」の答えは「井戸（puteus）」とされる：謎かけが抒情的交互唱から知的競争へと詩の性格を変換する。"
+    },
+    {
+      "paragraphId": 40,
+      "type": "commentary",
+      "anchor": "Dic quibus in terris inscripti nomina regum\nnascantur flores, et Phyllida solus habeto.",
+      "body": "「どの土地でか教えてくれ、王たちの名前が書き込まれた花が生まれるかを」──ヒュアキントス（Hyacinthus）の花に「AI AI（ああああ）」と書かれたという神話（アポッロンがヒュアキントスを誤って死なせた際に悲嘆から生まれた花）への謎かけ。或いはアイアス（Ajax）の血から生まれた花への参照。二つの謎かけに対してパラエモンが答えを示さず引き分けを宣言することで、詩の知的競争は宙吊りのままに終わる。"
+    },
+    {
+      "paragraphId": 41,
+      "type": "commentary",
+      "anchor": "Non nostrum inter vos tantas componere lites:\net vitula tu dignus et hic et quisquis amores\naut metuet dulcis aut experietur amaros.",
+      "body": "「これほど大きな争いをお前たちの間で収めることはわたしの役目ではない：お前も彼も仔牛に値する」──パラエモンの引き分け宣言。「non nostrum（わたしの役目ではない）」という審判の能力の否定が、詩の競争の本質的な決着不可能性を示す。「quisquis amores / aut metuet dulcis aut experietur amaros（甘い恋を恐れるか苦い恋を経験するすべての者）」──「dulcis（甘い）」と「amaros（苦い）」という愛の二面性の定式が、第3歌全体（口論・恋の歌・謎かけ）を「恋の経験」という統一的主題のもとに括る。"
+    },
+    {
+      "paragraphId": 41,
+      "type": "prosody",
+      "anchor": "claudite iam rivos, pueri; sat prata biberunt.",
+      "body": "「もう水路を閉じろ、少年たちよ；草地は十分に飲んだ（claudite iam rivos, pueri; sat prata biberunt）」──『牧歌』第3歌の最終行にして最も有名な閉幕句の一つ。農業的行為（水路を閉じる）が詩の終幕の比喩として機能する：歌が「水」であり、草地（＝聴衆・詩の場）が「十分に飲んだ」ことで歌を終える。「sat（十分に）」という副詞の簡潔な最終宣言が、詩全体の過剰（口論・求愛・謎かけ）に対する節制の美学を示す。第1歌の「maioresque cadunt altis de montibus umbrae」・第2歌の「sol crescentis decedens duplicat umbras」と並ぶ、各歌の閉幕の定型的な夕暮れ・終焉のイメージの農業的変奏。"
+    }
+  ]
+}
