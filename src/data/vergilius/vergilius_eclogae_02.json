@@ -1,0 +1,218 @@
+{
+  "id": "vergilius_eclogae_2",
+  "title": "Eclogae — Ecloga II",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga II. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_II",
+  "year": "42–39 BC頃",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第2歌。羊飼いコリュドン（Corydon）が主人の寵愛する美少年アレクシス（Alexis）への報われぬ恋を独白する詩。全73行のほぼ全体が「コリュドンの独白」として構成され、語り手（ナラトーレ）による簡潔な枠組み（v.1–5・v.66–73）がそれを包む。テオクリトス第3歌（山羊飼いの恋歌）・第11歌（キュクロプス・ポリュフェモスのガラテアへの求愛詩）の直接的な継承であり、「醜い者の美しい者への恋」という牧歌的テーマのラテン語版として古代から広く読まれた。コリュドンは自らの富（羊の群れ・乳・笛）・容貌・贈り物（花束・果実・子鹿）を列挙しながらアレクシスの心を動かそうとするが、詩は最終的にコリュドン自身による自己批判（「Rusticus es, Corydon」）と実践的な自省（「invenies alium…」）へと転換する。「torva leaena lupum sequitur, lupus ipse capellam…te Corydon, o Alexi; trahit sua quemque voluptas（猛き雌ライオンは狼を追い……お前をコリュドンが；各人を自らの欲望が引く）」という欲望の連鎖の定式（v.63–65）は西洋文学に広く流通した格言的表現。アウグスティヌス『告白』が少年時代にこの詩を読んだことを記し、詩の誘惑的な美しさへの警戒を示している点も文学受容史上重要。",
+  "keywords": [
+    "Corydon",
+    "Alexis",
+    "unrequited love",
+    "独白",
+    "牧歌的求愛",
+    "trahit sua quemque voluptas",
+    "puer formosus",
+    "Pan",
+    "fistula",
+    "dementia"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_3",
+    "horatius_carmina_1_4",
+    "dante_inferno_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "speaker": "Narrator",
+      "original": "Formosum pastor Corydon ardebat Alexin,\ndelicias domini, nec quid speraret habebat.\ntantum inter densas, umbrosa cacumina, fagos\nadsidue veniebat. ibi haec incondita solus\nmontibus et silvis studio iactabat inani;",
+      "provisionalTranslation": "羊飼いコリュドンは美しいアレクシスに燃えていた、\n主人の愛しい者に、何も望める見込みはなかった。\nただ密なるブナの木々の、木陰の梢の中に\n絶えずやって来ていた。そこでこれらのまとまりのない言葉を一人\n山々と森々へと空しき熱意をもって投げかけていた；"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–18",
+      "speaker": "Corydon",
+      "original": "O crudelis Alexi, nihil mea carmina curas?\nnil nostri miserere? mori me denique cogis?\nnunc etiam pecudes umbras et frigora captant,\nnunc virides etiam occultant spineta lacertos,\nThestylis et rapido fessis messoribus aestu\nalia serpyllumque herbas contundit olentis.\nat mecum raucis, tua dum vestigia lustro,\nsole sub ardenti resonant arbusta cicadis.\nnonne fuit satius tristis Amaryllidos iras\natque superba pati fastidia? nonne Menalcan,\nquamvis ille niger, quamvis tu candidus esses?\no formose puer, nimium ne crede colori;\nalba ligustra cadunt, vaccinia nigra leguntur.",
+      "provisionalTranslation": "おお冷酷なアレクシスよ、わたしの歌を何も気にしないのか？\nわたしへの憐れみは何もないのか？お前はとうとうわたしに死ねと強いるのか？\n今は家畜たちも木陰と涼しさを求めている、\n今は緑の茂みもトカゲたちを隠している、\nテスティュリスも激しい暑さに疲れた刈り手たちのために\nニンニクとタイムという香り草を砕いている。\nしかしわたしはお前の足跡を追い求めながら、嗄れ声の\n蝉たちが燃える太陽の下で木立ちに響かせる中にいる。\nアマリュッリスの悲しい怒りとうぬぼれた嫌悪に\n耐えていた方がよかったのではないか？メナルカスにしていた方が、\nたとえ彼は浅黒く、たとえお前は色白であったとしても？\nおお美しい少年よ、肌の色を信じ過ぎてはいけない；\n白いイボタが散り落ち、黒いスイカズラが摘まれる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.19–27",
+      "speaker": "Corydon",
+      "original": "Despectus tibi sum nec qui sim quaeris, Alexi,\nquam dives pecoris, nivei quam lactis abundans.\nmille meae Siculis errant in montibus agnae;\nlac mihi non aestate novum, non frigore defit.\ncanto quae solitus, si quando armenta vocabat,\nAmphion Dircaeus in Actaeo Aracyntho.\nnec sum adeo informis; nuper me in litore vidi,\ncum placidum ventis staret mare. non ego Daphnin\niudice te metuam, si numquam fallit imago.",
+      "provisionalTranslation": "わたしはお前に軽んじられ、お前はわたしが何者かも尋ねない、アレクシスよ、\n家畜の富がどれほどか、白雪のような乳がどれほど豊かか。\nわたしのシキリア山中に千頭の子羊が放たれている；\n夏も冬もわたしには新鮮な乳が欠けない。\nわたしはアクタイオスのアラキュントスでかつて\nディルケアのアンピオンが牛の群れを呼んでいたものを歌う。\nわたしはそれほど醜くもない；最近海岸でわたしは自分を見た、\n風もなく海が静かに立っている時に。お前が審判者なら\nわたしはダプニスを恐れないだろう、鏡が欺かないのなら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.28–37",
+      "speaker": "Corydon",
+      "original": "O tantum libeat mecum tibi sordida rura\natque humilis habitare casas et figere cervos\nhaedorumque gregem viridi compellere hibisco!\nmecum una in silvis imitabere Pana canendo.\nPan primum calamos cera coniungere pluris\ninstituit, Pan curat ovis oviumque magistros;\nnec te paeniteat calamo trivisse labellum.\nhaec eadem ut sciret, quid non faciebat Amyntas?\nest mihi disparibus septem compacta cicutis\nfistula, Damoetas dono mihi quam dedit olim\net dixit moriens: 'te nunc habet ista secundum';\ndixit Damoetas, invidit stultus Amyntas.",
+      "provisionalTranslation": "おおどうかわたしと共に粗末な田舎と\nひくい小屋に住み、鹿を射とめ\n山羊の群れを緑のムクゲで追い込むことを好んでくれ！\nわたしと共に森の中で歌ってパン神を真似るだろう。\nパン神が最初に複数の葦を蜜蝋で繋ぐことを\n定め、パン神は羊と羊の番人たちを守る；\n葦笛で唇を磨いたことを後悔しないように。\nこれを知ろうとして、アミュンタスが何をしなかったか？\nわたしには不揃いの七本の葦で作られた笛がある、\n昔ダモエタスがわたしに贈り物として与えたもので\n死に際してこう言った：「これはいまやお前を第二に持つ」と；\nダモエタスはそう言い、愚かなアミュンタスは妬んだ。"
+    },
+    {
+      "id": 5,
+      "verses": "v.38–44",
+      "speaker": "Corydon",
+      "original": "praeterea duo—nec tuta mihi valle reperti—\ncapreoli sparsis etiam nunc pellibus albo,\nbina die siccant ovis ubera; quos tibi servo.\niam pridem a me illos abducere Thestylis orat;\net faciet, quoniam sordent tibi munera nostra.",
+      "provisionalTranslation": "さらに二頭の──安全でない谷間でわたしが見つけた──\nまだ白い斑点のある毛皮の子鹿が、\n一日に二頭の羊の乳房を飲み干す；これをお前のために取っておいている。\nテスティュリスはもうずっと前からわたしにそれらを連れ去らせてくれと頼んでいる；\nそうするだろう、わたしたちの贈り物がお前には汚いものに見えるから。"
+    },
+    {
+      "id": 6,
+      "verses": "v.45–55",
+      "speaker": "Corydon",
+      "original": "Huc ades, o formose puer, tibi lilia plenis\necce ferunt Nymphae calathis; tibi candida Nais,\npallentis violas et summa papavera carpens,\nnarcissum et florem iungit bene olentis anethi;\ntum casia atque aliis intexens suavibus herbis\nmollia luteola pingit vaccinia caltha.\nipse ego cana legam tenera lanugine mala\ncastaneasque nuces, mea quas Amaryllis amabat;\naddam cerea pruna—honos erit huic quoque pomo—\net vos, o lauri, carpam et te, proxime myrte,\nsic positae quoniam suavis miscetis odores.",
+      "provisionalTranslation": "ここへ来い、おお美しい少年よ、お前のために満ちた籠にニュンファイが\n見よ、百合を運んでくる；お前のために白い水の精が、\n青ざめたスミレと一番上のケシを摘みながら、\nスイセンと芳しいディルの花を束ねる；\nそれからシナモンと他の甘い草を編み込んで\n柔らかな黄色いスイカズラをキンセンカで彩る。\nわたし自身は白い柔らかい産毛のリンゴを積み、\nアマリュッリスが愛したクリの実も；\n蜜蝋色のスモモを加えよう──この実にも名誉があるだろう──\nそしてお前たちローレルよ、摘もう、そしてお前、隣の銀梅花よ、\nこのように並んでいるからお前たちは甘い香りを混ぜ合わせるのだ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.56–59",
+      "speaker": "Corydon",
+      "original": "Rusticus es, Corydon; nec munera curat Alexis\nnec, si muneribus certes, concedat Iollas.\nheu heu, quid volui misero mihi? floribus Austrum\nperditus et liquidis inmissi fontibus apros.",
+      "provisionalTranslation": "田舎者だよ、コリュドン；アレクシスは贈り物など気にしない\nそして贈り物で競うなら、イオッラスには負けない。\nああああ、哀れなわたしは何を望んだのか？花に南風を\n迷った者として放ち、澄んだ泉に猪を放った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.60–65",
+      "speaker": "Corydon",
+      "original": "Quem fugis, a, demens? habitarunt di quoque silvas\nDardaniusque Paris. Pallas quas condidit arces\nipsa colat; nobis placeant ante omnia silvae.\ntorva leaena lupum sequitur, lupus ipse capellam,\nflorentem cytisum sequitur lasciva capella,\nte Corydon, o Alexi; trahit sua quemque voluptas.",
+      "provisionalTranslation": "誰から逃げているのか、ああ、狂えるよ？神々も森に住んでいた\nそしてダルダノスの子パリスも。パラスが築いた砦は\n彼女自身が守ればいい；わたしたちには森こそが何より好ましい。\n猛き雌ライオンは狼を追い、狼自身は山羊を、\n花咲くキチシュスを淫らな山羊が追い、\nお前をコリュドンが、おおアレクシスよ；各人を自らの欲望が引く。"
+    },
+    {
+      "id": 9,
+      "verses": "v.66–73",
+      "speaker": "Narrator",
+      "original": "Aspice, aratra iugo referunt suspensa iuvenci\net sol crescentis decedens duplicat umbras.\nme tamen urit amor; quis enim modus adsit amori?\na, Corydon, Corydon, quae te dementia cepit!\nsemiputata tibi frondosa vitis in ulmo.\nquin tu aliquid saltem potius, quorum indiget usus,\nviminibus mollique paras detexere iunco?\ninvenies alium, si te hic fastidit, Alexin.",
+      "provisionalTranslation": "見よ、牛たちは鋤を軛にかけたまま戻し、\n去りゆく太陽は伸びゆく影を二倍にする。\nしかしわたしは恋に焦がれている；恋にどんな限度があろうか？\nああコリュドン、コリュドン、何という狂気がお前を捉えたのか！\n葉茂る楡の木でお前の葡萄の木は半ば剪定されたまま。\nなぜお前は少なくとも使い途のある何か、必要なものを\n柳の枝と柔らかい藺草で編み始めないのか？\nもしこのアレクシスがお前を嫌うなら、別のアレクシスを見つけるだろう。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Formosum pastor Corydon ardebat Alexin,\ndelicias domini, nec quid speraret habebat.",
+      "body": "「羊飼いコリュドンは美しいアレクシスに燃えていた、主人の愛しい者に、何も望める見込みはなかった（Formosum pastor Corydon ardebat Alexin, / delicias domini, nec quid speraret habebat）」──詩の全状況を二行で圧縮する開口部。「ardebat（燃えていた）」という恋愛の火のメタファーが冒頭動詞として主人公の感情状態を定義する。「delicias domini（主人の愛しい者）」という所有格の連鎖がアレクシスの社会的位置（自由身分ではなく主人の所有物＝奴隷か被保護者）を示す。「nec quid speraret habebat（何も望める見込みはなかった）」──希望の不在という出発点が、103行に及ぶ無駄な説得の枠組みを設定する。テオクリトス第11歌の「ポリュフェモス・ガラテア」という先行テキストへの参照：醜い者（キュクロプス）が美しい者（海の精）に歌い続けるという構造的類比。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "ibi haec incondita solus\nmontibus et silvis studio iactabat inani;",
+      "body": "「これらのまとまりのない言葉を一人山々と森々へと空しき熱意をもって投げかけていた（ibi haec incondita solus / montibus et silvis studio iactabat inani）」──「incondita（まとまりのない・粗削りな）」という形容詞が詩全体の詩学的自己批評として機能する：コリュドンの歌は磨かれた詩ではなく、情熱の過剰から溢れ出る粗削りな言葉である。「studio iactabat inani（空しき熱意をもって投げかけていた）」──「inanis（空しい）」という形容詞が第1歌v.5の「studio iactabat inani」の語彙を反復し、牧歌的努力の空虚性を詩の開口部から宣言する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O crudelis Alexi, nihil mea carmina curas?\nnil nostri miserere? mori me denique cogis?",
+      "body": "「おお冷酷なアレクシスよ、わたしの歌を何も気にしないのか？わたしへの憐れみは何もないのか？お前はとうとうわたしに死ねと強いるのか」──三つの修辞的疑問文（interrogatio）が独白の冒頭を形成する。「crudelis（冷酷な）」はラテン恋愛詩（elegia amatoria）における拒絶する恋人の定型的形容。「mori me denique cogis（とうとうわたしに死ねと強いる）」──恋の苦しみを死と等置する誇張（hyperbole）はカトゥルス（Carmen 85「odi et amo」）・ティブルス・プロペルティウスのエレゲイア的定型であり、ウェルギリウスがその慣用を牧歌的文脈に移植する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nunc etiam pecudes umbras et frigora captant,\nnunc virides etiam occultant spineta lacertos,\nThestylis et rapido fessis messoribus aestu\nalia serpyllumque herbas contundit olentis.\nat mecum raucis, tua dum vestigia lustro,\nsole sub ardenti resonant arbusta cicadis.",
+      "body": "「今は家畜たちも木陰を求め……蝉たちが燃える太陽の下で響く」──真夏の正午の情景描写。牧歌的「ミディ（正午）」の伝統：テオクリトス第1歌・レコント・ド・リール「Midi」の先行形。自然が休息する時間にコリュドン一人が炎天下に立ち続けるという対比が、恋の狂気（「dementia」）の視覚的象徴となる。「raucis cicadis（嗄れ声の蝉たち）」──蝉の鳴き声がコリュドンの歌声（「carmina」）と鏡像をなす：蝉も人も炎熱の中で絶え間なく鳴き続ける。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "o formose puer, nimium ne crede colori;\nalba ligustra cadunt, vaccinia nigra leguntur.",
+      "body": "「おお美しい少年よ、肌の色を信じ過ぎてはいけない；白いイボタが散り落ち、黒いスイカズラが摘まれる（o formose puer, nimium ne crede colori; / alba ligustra cadunt, vaccinia nigra leguntur）」──詩第2歌で最も引用される格言的二行連句。「色（color）」の逆説：白い花は散り（美貌は儚い）、黒い実こそ摘まれる（外見の黒さが価値を持つ）。メナルカスの浅黒さ（「niger」）とアレクシスの色白（「candidus」）という対比への応答として、美の相対性を植物の二項対立で定式化する。ウェルギリウスの格言的表現能力の典型例であり、後代の詩的格言集（florilegia）に広く引用された。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "mille meae Siculis errant in montibus agnae;\nlac mihi non aestate novum, non frigore defit.",
+      "body": "「わたしのシキリア山中に千頭の子羊が放たれている；夏も冬もわたしには新鮮な乳が欠けない」──牧歌的富の自賛。「千頭（mille）」という数が誇張（hyperbole）として機能し、コリュドンの物質的豊かさを強調する。「シキリア（Sicilia）」への言及がテオクリトス（シュラクサイ出身）の牧歌的空間への参照を担う：コリュドンの歌がテオクリトス的「シキリアの牧歌」の後継であることの詩学的宣言。「lac…non aestate…non frigore defit（夏も冬も乳が欠けない）」という季節の二項対立が農業的豊穣の永続性を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "nec sum adeo informis; nuper me in litore vidi,\ncum placidum ventis staret mare.",
+      "body": "「わたしはそれほど醜くもない；最近海岸でわたしは自分を見た、風もなく海が静かに立っている時に」──鏡としての海面という詩的イメージ。水面が鏡として機能する場面はテオクリトス第6歌（キュクロプスが水面で自分の顔を確認する）の直接的継承。「placidum ventis staret mare（風もなく海が静かに立っている）」という完璧な静寂の状態においてのみ水面は鏡となる──ナルシシズム的な自己認識の条件としての「静寂」。ナルキッソス神話（後のオウィディウス『変身譚』第3巻）との主題的連鎖。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Pan primum calamos cera coniungere pluris\ninstituit, Pan curat ovis oviumque magistros;",
+      "body": "「パン神が最初に複数の葦を蜜蝋で繋ぐことを定め、パン神は羊と羊の番人たちを守る（Pan primum calamos cera coniungere pluris / instituit, Pan curat ovis oviumque magistros）」──パン神（Pan）の起源神話の提示。「パンの笛（syrinx／fistula）」の発明神話：ニュンフェ・シュリンクスがパン神から逃れるため葦に変身し、パン神がその葦を切って笛を作ったという起源譚（オウィディウス『変身譚』第1巻）。ここでは発明の側面が強調され、音楽の起源と牧人の守護神としてのパンが定式化される。コリュドンが「パン神を真似る（imitabere Pana）」ことで自らの歌を神話的起源に接続する詩学的身振り。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "est mihi disparibus septem compacta cicutis\nfistula, Damoetas dono mihi quam dedit olim\net dixit moriens: 'te nunc habet ista secundum';",
+      "body": "「わたしには不揃いの七本の葦で作られた笛がある、昔ダモエタスがわたしに贈り物として与え、死に際して『これはいまやお前を第二に持つ』と言った」──笛の系譜という詩的アイテムの伝承。「disparibus septem cicutis（不揃いの七本の葦）」という具体的な描写が笛の物質性を強調する。「dixit moriens（死に際して言った）」──臨終の言葉として贈られた笛は、詩的継承の象徴：ダモエタスからコリュドンへの詩的系譜の物的媒体。「te nunc habet ista secundum（これはいまやお前を第二に持つ）」──笛が最初にダモエタスを「持ち」、次にコリュドンを「持つ」という擬人法が、笛を詩的伝統の担い手として定義する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "praeterea duo—nec tuta mihi valle reperti—\ncapreoli sparsis etiam nunc pellibus albo,\nbina die siccant ovis ubera; quos tibi servo.",
+      "body": "「さらに二頭の──安全でない谷間でわたしが見つけた──まだ白い斑点のある毛皮の子鹿が、一日に二頭の羊の乳房を飲み干す；これをお前のために取っておいている」──贈り物としての子鹿。「nec tuta valle reperti（安全でない谷間で見つけた）」という危険を冒した獲得が、贈り物の価値と愛の献身を示す。「bina die siccant ovis ubera（一日に二頭の羊の乳房を飲み干す）」という具体的な数値描写が牧歌的リアリズムの特徴。子鹿の「sparsis pellibus albo（白い斑点のある毛皮）」という視覚的美しさがアレクシスの「formosus（美しさ）」を鏡映しにする贈り物としての詩的機能を持つ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "iam pridem a me illos abducere Thestylis orat;\net faciet, quoniam sordent tibi munera nostra.",
+      "body": "「テスティュリスはもうずっと前からわたしにそれらを連れ去らせてくれと頼んでいる；そうするだろう、わたしたちの贈り物がお前には汚いものに見えるから」──テスティュリス（Thestylis）は第2段落（v.10–11）でも登場する女性。コリュドンへの愛を持つ（あるいは単に実用的な）人物として、拒絶するアレクシスとの対比をなす。「sordent tibi munera nostra（わたしたちの贈り物がお前には汚いものに見える）」──「sordent（汚い・つまらない）」という動詞が贈り物の価値の相対性を示す：コリュドンには宝の子鹿が、アレクシスには汚れたものに見える。愛の非対称性の最も鋭い表現。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Huc ades, o formose puer, tibi lilia plenis\necce ferunt Nymphae calathis;",
+      "body": "「ここへ来い、おお美しい少年よ、お前のために満ちた籠にニュンファイが見よ、百合を運んでくる（Huc ades, o formose puer, tibi lilia plenis / ecce ferunt Nymphae calathis）」──花の贈り物の幻想的提示。「Huc ades（ここへ来い）」という命令形による召喚が牧歌的エピファニー（神的存在の出現）の形式を借りる。「Nymphae（ニュンファイ）」という超自然的存在を花の運搬者として召喚することで、コリュドンの求愛が自然全体を動かす力を持つかのように描かれる──しかしこれは現実ではなくコリュドンの想像上の詩的装飾。「ecce（見よ）」という感嘆詞が劇的な視覚的提示を演出する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "ipse ego cana legam tenera lanugine mala\ncastaneasque nuces, mea quas Amaryllis amabat;\naddam cerea pruna—honos erit huic quoque pomo—\net vos, o lauri, carpam et te, proxime myrte,\nsic positae quoniam suavis miscetis odores.",
+      "body": "花束・果物のリストの最終部。「mea quas Amaryllis amabat（わたしのアマリュッリスが愛した）」──第1歌で名前が登場したアマリュッリスが「かつての恋人」として回想される：コリュドンの感情の歴史を一行で示す。「lauri（ローレル）」はアポロン・詩・勝利の木であり、「myrte（銀梅花）」はウェヌス・愛の木。両者を共に摘むことで、詩的野望と恋愛欲望の二つの主題が束ねられる。「suavis miscetis odores（甘い香りを混ぜ合わせる）」という感覚的閉幕が、視覚・嗅覚の複合的な誘惑として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Rusticus es, Corydon; nec munera curat Alexis",
+      "body": "「田舎者だよ、コリュドン（Rusticus es, Corydon）」──詩の劇的転換点。自己呼びかけ（apostrophe）による自己批判。「rusticus（田舎者・粗野な者）」という語が都市的洗練との対比で使われる──アレクシスは「主人（dominus）」の都市的洗練に属し、コリュドンの「rustica munera（田舎の贈り物）」は価値を持たない。この自己批判の瞬間に、コリュドンは求愛の論理（贈り物・歌・容貌）の全体が無効であったことを認識する。後半の「heu heu（ああああ）」という感嘆詞の二重化が嘆きの最大強度を示す。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "heu heu, quid volui misero mihi? floribus Austrum\nperditus et liquidis inmissi fontibus apros.",
+      "body": "「ああああ、哀れなわたしは何を望んだのか？花に南風を迷った者として放ち、澄んだ泉に猪を放った（heu heu, quid volui misero mihi? floribus Austrum / perditus et liquidis inmissi fontibus apros）」──逆説的比喩（paradox）による自己批判の詩的昇華。「花に南風（Austrum）を放つ」：破壊的な南風が繊細な花を散らす──コリュドンの情熱がアレクシスの無関心という「南風」によって散らされた花束の無意味さの比喩。「澄んだ泉に猪（apros）を放つ」：汚濁する猪が清らかな泉を汚す──コリュドンの粗野さがアレクシスの優雅さを汚すという逆説。両比喩が「perditus（迷った者・破滅した者）」という形容詞によって括られる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "allusion",
+      "anchor": "Quem fugis, a, demens? habitarunt di quoque silvas\nDardaniusque Paris.",
+      "body": "「誰から逃げているのか、ああ、狂えるよ？神々も森に住んでいた、そしてダルダノスの子パリスも（Quem fugis, a, demens? habitarunt di quoque silvas / Dardaniusque Paris）」──神話的先例による自己正当化。「di quoque（神々でさえも）」が森の生活の正当性を神話的に担保する：アポロン（ラオメドン王に仕えた）・シュルウァヌス・ドリュアデス等の神々が森に住んでいたという事実。「Dardanius Paris（ダルダノスの子パリス）」──トロイア王子パリスがイデ山で羊飼いとして育ったという神話（後に絶世の美女ヘレネを選んだ「パリスの審判」へと繋がる）。森で育った羊飼いパリスが最も美しい女性を得たという先例がコリュドンの希望の神話的根拠として提示される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "torva leaena lupum sequitur, lupus ipse capellam,\nflorentem cytisum sequitur lasciva capella,\nte Corydon, o Alexi; trahit sua quemque voluptas.",
+      "body": "「猛き雌ライオンは狼を追い、狼自身は山羊を、花咲くキチシュスを淫らな山羊が追い、お前をコリュドンが、おおアレクシスよ；各人を自らの欲望が引く（torva leaena lupum sequitur…trahit sua quemque voluptas）」──『牧歌』第2歌の最も有名な格言的表現。「trahit sua quemque voluptas（各人を自らの欲望が引く）」はウェルギリウスの格言として西洋文学史上広く流通した──アウグスティヌス・ダンテ・モンテーニュ・ゲーテらに引用される。三段の欲望の連鎖（leaena→lupus→capella→Corydon）がコリュドンの恋を自然の本能的欲望と同型として定義する：コリュドンがアレクシスを追うのは狼が山羊を追うのと同じ自然の法則。この「欲望（voluptas）」の格言がエピクロス哲学の「快（ἡδονή）」概念とも交差する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Aspice, aratra iugo referunt suspensa iuvenci\net sol crescentis decedens duplicat umbras.",
+      "body": "「見よ、牛たちは鋤を軛にかけたまま戻し、去りゆく太陽は伸びゆく影を二倍にする（Aspice, aratra iugo referunt suspensa iuvenci / et sol crescentis decedens duplicat umbras）」──第1歌最終部（v.82–83「et iam summa procul villarum culmina fumant / maioresque cadunt altis de montibus umbrae」）と響き合う夕暮れの情景。「crescentis…duplicat umbras（伸びゆく影を二倍にする）」──日没の影の伸長が時間の経過・詩の終焉を視覚的に告知する牧歌的クロージャーの定型。「Aspice（見よ）」という命令形がナラトーレの視点への転換を明示する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "a, Corydon, Corydon, quae te dementia cepit!",
+      "body": "「ああコリュドン、コリュドン、何という狂気がお前を捉えたのか（a, Corydon, Corydon, quae te dementia cepit）」──名前の二重呼びかけ（epizeuxis）が感情的激化の修辞として機能する。「dementia（狂気）」──ラテン語詩における恋の狂気（amor insanus）の定型語彙。第8段落「Quem fugis, a, demens?」での「demens」と語根を共有し、詩全体のライトモチーフとして機能する。この自己呼びかけがナラトーレによるものかコリュドン自身によるものかは解釈上の問題であり、両者の声が融合する場面として読める。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "invenies alium, si te hic fastidit, Alexin.",
+      "body": "「もしこのアレクシスがお前を嫌うなら、別のアレクシスを見つけるだろう（invenies alium, si te hic fastidit, Alexin）」──詩の最終行。「alium Alexin（別のアレクシス）」という逆説的閉幕：固有名詞「Alexis（美しい者・ギリシア語で『守る者』）」が固有性を失い交換可能な「美しい少年一般」へと一般化される。恋の対象の交換可能性という冷たい認識が、103行の情熱的な独白の後に置かれることで、詩の批評的距離を生む。第1歌の「carmina nulla canam」（沈黙の宣言）と対照をなす：そこでは場所の喪失が歌の不可能性をもたらしたが、ここでは恋の対象の交換が続行を可能にする。"
+    }
+  ]
+}
