@@ -1,0 +1,88 @@
+{
+  "id": "nerval_espagne",
+  "title": "Espagne",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 92-93. Wikisource: https://fr.wikisource.org/wiki/Petits_ch%C3%A2teaux_de_Boh%C3%AAme_(Didier,_1853)/Espagne",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853",
+  "difficulty": "初級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）「抒情詩（LYRISME）」部門所収。スペインへの賛歌として、青空・都市・山・永遠の春・夜の美しさ・豊かな野という地中海的自然の讃美から始まり、アラビア的東洋（ムーア人のレコンキスタ以前のアンダルシア文化）への歴史的回想へと展開する。ネルヴァルは実際には1840年代にスペインを旅行しておらず、この詩はロマン主義的「スペイン熱（hispanisme）」の系譜に属する：ユゴー『東方詩集（Les Orientales）』（1829）が開いたスペイン・アラブ文化への詩的想像力の延長として位置づけられる。最終連の「L'antique refrain du Maure（ムーア人の古い反復句）：Gloire, amour et Liberté（栄光、愛と自由）」がアラブ＝アンダルシア文化の精神的遺産として「東方の王冠（couronne d'Orient）」と連動し、「Myrtho」・「Horus」・「Delfica」の異教的東方への回帰主題を通俗的・地政学的次元で変奏する。",
+  "keywords": [
+    "Espagne",
+    "Arabie",
+    "Maure",
+    "Orient",
+    "printemps éternel",
+    "couronne",
+    "Liberté",
+    "スペイン",
+    "アラブ",
+    "レコンキスタ"
+  ],
+  "relatedTexts": [
+    "nerval_myrtho",
+    "nerval_horus",
+    "nerval_delfica",
+    "dario_nocturno",
+    "juan_de_la_cruz_noche_oscura"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Mon doux pays des Espagnes\nQui voudrait fuir ton beau ciel,\nTes cités et tes montagnes,\nEt ton printemps éternel ?",
+      "provisionalTranslation": "私の優しいスペインの国よ\n誰があなたの美しい空から逃げたいと思うだろう、\nあなたの都市と山々から、\nそしてあなたの永遠の春から？"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Ton air pur qui nous enivre,\nTes jours, moins beaux que tes nuits,\nTes champs, où Dieu voudrait vivre\nS'il quittait son paradis.",
+      "provisionalTranslation": "私たちを酔わせるあなたの澄んだ空気、\nあなたの昼間、夜よりも美しくない、\nあなたの野原、神が住みたいと思うであろう場所\nもし神が自分の楽園を去るなら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Autrefois ta souveraine,\nL'Arabie, en te fuyant,\nLaissa sur ton front de reine\nSa couronne d'Orient !",
+      "provisionalTranslation": "かつてあなたの支配者だった、\nアラビアは、あなたから去るとき、\nあなたの女王の額に残した\n東方の王冠を！"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "Un écho redit encore\nÀ ton rivage enchanté\nL'antique refrain du Maure :\nGloire, amour et Liberté !",
+      "provisionalTranslation": "一つの反響がいまだに繰り返す\nあなたの魅惑された岸辺に向けて\nムーア人の古い反復句を：\n栄光、愛と自由！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mon doux pays des Espagnes\nQui voudrait fuir ton beau ciel,",
+      "body": "「私の優しいスペインの国よ、誰があなたの美しい空から逃げたいと思うだろう」──「pays des Espagnes（スペインの国）」という複数形は中世の「las Españas（スペイン複数）」という歴史的用法に由来し、イベリア半島の地域的多様性を含意する。「Mon doux pays（私の優しい国）」という所有形容詞が詩人とスペインの親密な帰属関係を宣言する──実際に訪れていない土地への詩的帰属という想像的移植。「fuir（逃げる）」という動詞の否定疑問が讃美の反語的構造を作る：誰もスペインから逃げたいとは思わない。ユゴー『東方詩集』の「スペイン（Espagne）」・「グラナダ（Grenade）」など、ロマン主義的スペイン讃美の詩的伝統を踏まえる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tes jours, moins beaux que tes nuits,\nTes champs, où Dieu voudrait vivre\nS'il quittait son paradis.",
+      "body": "「あなたの昼間、夜よりも美しくない」──昼と夜の比較において「夜」が優位とされる逆説。「Les Papillons」§7での昼の蝶から夜の蛾への移行・「Ni bonjour, ni bonsoir」での「le soir vermeil ressemble à l'aurore（夕暮れは曙に似ている）」という昼夜の等価化と対応し、ネルヴァルの詩学における「夜の優位」の主題を地理的次元で展開する。「Tes champs, où Dieu voudrait vivre / S'il quittait son paradis（神が住みたいと思うであろう野原、もし神が楽園を去るなら）」：「Le Christ aux Oliviers」の「神の死・神の不在」という深淵的命題が、ここでは軽やかな逆説として転用される──神でさえスペインに住みたいと思う、という讃美の最大限の誇張法（hyperbole）。",
+      "targetId": "nerval_christ_aux_oliviers",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Autrefois ta souveraine,\nL'Arabie, en te fuyant,\nLaissa sur ton front de reine\nSa couronne d'Orient !",
+      "body": "「かつてあなたの支配者だったアラビアは、去るとき、東方の王冠を残した」──アンダルシア（ Al-Andalus）の歴史的参照。711年から1492年まで続いたイベリア半島のイスラム統治（ウマイヤ朝・後ウマイヤ朝・アルモハド朝）とレコンキスタ（国土回復運動）の完成（グラナダ陥落1492年）を「アラビアがスペインから去った」と詩的に要約する。「ta souveraine（あなたの支配者）」：アラビアがスペインの「女王・主権者（souveraine）」として位置づけられる──征服ではなく文化的庇護の語彙。「sur ton front de reine（あなたの女王の額に）」：スペインが「女王（reine）」として擬人化され、「Horus」のイシス（女王・母神）・「Artémis」の「reine（女王）」という詩集全体の女性支配者の形象系に接続する。「couronne d'Orient（東方の王冠）」：「Myrtho」の「clartés d'Orient（東方の光）」と照応するオリエンタリスム的形象。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Un écho redit encore\nÀ ton rivage enchanté\nL'antique refrain du Maure :\nGloire, amour et Liberté !",
+      "body": "「一つの反響がいまだにムーア人の古い反復句を繰り返す：栄光、愛と自由」──詩全体の結語にして最も政治的・文化的な命題。「Un écho redit encore（いまだに反響が繰り返す）」：「Delfica」§1の「cette chanson d'amour… qui toujours recommence（いつも繰り返し始まる愛の歌）」という永続する歌の反復と照応する──異教的・文化的遺産が現代においても「反響（écho）」として持続する。「L'antique refrain du Maure（ムーア人の古い反復句）」：「refrain（反復句・リフレイン）」という語が「Ni bonjour, ni bonsoir」のギリシア語リフレインと同様に、異文化の声が詩の中で繰り返される形式を指す。「Gloire, amour et Liberté（栄光、愛と自由）」：三つの価値の列挙がフランス革命的標語（Liberté・Égalité・Fraternité）とロマン主義的英雄的理念（栄光・愛）を融合する。「Antéros」の「Ô tyrannie（おお、暴虐よ）」という反逆の叫びに対し、ここでは「Liberté（自由）」という正の価値が結語として置かれる。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 2
+    }
+  ]
+}
