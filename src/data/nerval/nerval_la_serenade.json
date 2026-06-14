@@ -1,0 +1,104 @@
+{
+  "id": "nerval_la_serenade",
+  "title": "La sérénade",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 95-96. Wikisource: https://fr.wikisource.org/wiki/Petits_ch%C3%A2teaux_de_Boh%C3%AAme_(Didier,_1853)/La_s%C3%A9r%C3%A9nade",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853（ウーラント原詩、ポニアトフスキー公爵作曲）",
+  "difficulty": "初級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）所収の最終詩篇。副題「（D'UHLAND）Musique du pce Poniatowski.（ウーラント原詩、ポニアトフスキー公爵作曲）」：ドイツ・ロマン主義詩人ルートヴィヒ・ウーラント（Ludwig Uhland、1787–1862）の詩「Des Knaben Wunderhorn」系統の歌謡をネルヴァルがフランス語に翻案し、ポーランド系フランス貴族の作曲家ヨゼフ・ポニアトフスキー公爵（Prince Joseph Poniatowski、1816–1873）が作曲したもの。病床の娘と夜番をする母の対話として構成される：娘には天上の歌声が聞こえるが、母には何も聞こえない。母は娘の幻聴を「熱（fièvre）」・「夢（chimère）」・「セレナード（sérénade）」の夢想として現実的に否定するが、娘は第3連で「Les hommes ! que m'importe ?（男たちなど！私に何の関係があろう？）」と世俗的現実を一蹴し、天使の声に呼ばれて神のもとへと去る。「Les Cydalises」の「Rallumez-vous aux cieux（天で再び点れ）」という死者の昇天への願望が、この詩では臨死の娘の視点から内側から語られる。詩集『ボヘミアの小城』の「FIN（終わり）」という語がこの詩の直後に置かれ、詩集全体の幕引きとして機能する。",
+  "keywords": [
+    "sérénade",
+    "chimère",
+    "fièvre",
+    "concert des anges",
+    "Dieu",
+    "臨死",
+    "対話",
+    "天上の声",
+    "ウーラント",
+    "娘と母"
+  ],
+  "relatedTexts": [
+    "nerval_les_cydalises",
+    "nerval_christ_aux_oliviers",
+    "nerval_artemis",
+    "rossetti_dead_before_death",
+    "dowson_a_requiem",
+    "hieronymus_psalm_21"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "speaker": "娘／母／娘",
+      "original": "— Oh ! quel doux chant m'éveille ?\n— Près de ton lit je veille,\nMa fille ! et n'entends rien…\nRendors-toi, c'est chimère !\n— J'entends dehors, ma mère,\nUn chœur aérien !…",
+      "provisionalTranslation": "──ああ！なんと優しい歌が私を目覚めさせるのか？\n──あなたの床のそばで私は番をしている、\n娘よ！そして何も聞こえない……\n眠り直しなさい、それは幻だ！\n──外に聞こえる、母よ、\n空気のような合唱が！……"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "speaker": "母／娘／母",
+      "original": "— Ta fièvre va renaître.\n— Ces chants de la fenêtre\nSemblent s'être approchés.\n— Dors, pauvre enfant malade,\nQui rêves sérénade…\nLes galants sont couchés !",
+      "provisionalTranslation": "──あなたの熱がまた出てくるだろう。\n──窓からのこれらの歌は\n近づいてきたようだ。\n──眠りなさい、病んだかわいそうな子よ、\nセレナードを夢見ている……\n若い男たちはもう床についている！"
+    },
+    {
+      "id": 3,
+      "verses": "v.13–18",
+      "speaker": "娘",
+      "original": "— Les hommes ! que m'importe ?\nUn nuage m'emporte…\nAdieu le monde, adieu !\nMère, ces sons étranges\nC'est le concert des anges\nQui m'appellent à Dieu !",
+      "provisionalTranslation": "──男たちなど！私に何の関係があろう？\n一つの雲が私を運んでいく……\n世界よ、さようなら、さようなら！\n母よ、これらの奇妙な音は\n天使たちの合唱だ\n神のもとへ私を呼んでいる！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "— Oh ! quel doux chant m'éveille ?\n— Près de ton lit je veille,\nMa fille ! et n'entends rien…\nRendors-toi, c'est chimère !",
+      "body": "対話の第一交換：娘の問いと母の否定。「quel doux chant m'éveille（なんと優しい歌が私を目覚めさせる）」：「éveille（目覚めさせる）」という動詞が「Ni bonjour, ni bonsoir」の「Le matin n'est plus（朝はもうない）」という中間的時間の宙吊りと照応する──夜中に歌に目覚める病床の娘は昼夜の境界に位置する存在。「c'est chimère（それは幻だ）」：「chimère」という語が詩集『キメラ（Les Chimères）』の題名と同一語であることが重要──母が「幻・妄想」と否定するものが、ネルヴァルにとっては詩的真実の領域（『キメラ』）を指す。「n'entends rien（何も聞こえない）」：母の感覚的不能が「Le Christ aux Oliviers」の弟子たちの「Ils dormaient（彼らは眠っていた）」という神の声への無応答と構造的に照応する。",
+      "targetId": "nerval_christ_aux_oliviers",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "— J'entends dehors, ma mère,\nUn chœur aérien !…",
+      "body": "「外に聞こえる、空気のような合唱が」──「chœur aérien（空気のような合唱）」という形象が詩全体の神学的・音楽的核心を定義する。「aérien（空気のような・空中の）」という形容詞が天使的声の非物質性・超越性を示す。「Les Cydalises」§2の「Elles sont près des anges… Et chantent les louanges（彼女たちは天使のそばで讃歌を歌っている）」という死者の恋人たちの天上の歌と照応する：「Les Cydalises」では死者が歌う側であったのに対し、「La sérénade」では生者（娘）がその歌を聴く側として描かれる。「Vers dorés」§3の「À la matière même un verbe est attaché（物質そのものにも言葉が付着している）」という万物有声論的命題が、ここでは病床の娘にのみ聴こえる天上の声として具体化される。",
+      "targetId": "nerval_les_cydalises",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "— Ta fièvre va renaître.\n— Ces chants de la fenêtre\nSemblent s'être approchés.",
+      "body": "対話の第二交換：接近する声と母の医学的否定。「Ta fièvre va renaître（あなたの熱がまた出てくるだろう）」：母による医学的診断。「fièvre（熱）」という語が幻聴の生理学的原因として提示される──超自然的体験の自然主義的還元。「Ces chants de la fenêtre / Semblent s'être approchés（窓からのこれらの歌は近づいてきたようだ）」：「fenêtre（窓）」が内（病床・現実）と外（天上・霊的世界）の境界面として機能する。「s'être approchés（近づいてきた）」という複合不定詞が声の漸近的接近を示す──死の接近と天上の声の接近が同一の動きとして重なる。ローデンバック「沈黙について（Du silence）」の窓から差し込む光と沈黙の形象との遠い照応。",
+      "targetId": "rodenbach_du_silence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "— Dors, pauvre enfant malade,\nQui rêves sérénade…\nLes galants sont couchés !",
+      "body": "「眠りなさい、病んだかわいそうな子よ、セレナードを夢見ている……若い男たちはもう床についている！」──母の最後の否定的説明。「Dors（眠りなさい）」という命令形が「Ni bonjour, ni bonsoir」の「Rendors-toi（眠り直しなさい）」と同一の「眠りへの命令」として反復される。「Qui rêves sérénade（セレナードを夢見ている）」：母は娘の体験を「rêve（夢）」として括弧に入れる──「El Desdichado」の「J'ai rêvé dans la grotte où nage la syrène（人魚の泳ぐ洞窟で夢を見た）」という詩人自身の夢的体験と照応する。「Les galants sont couchés（若い男たちはもう床についている）」：セレナードの現実的発信源として「恋人たち（galants）」を想定する母の世俗的解釈が、第3連の娘の「Les hommes ! que m'importe ?（男たちなど！）」という一蹴によって完全に否定される伏線。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "— Les hommes ! que m'importe ?\nUn nuage m'emporte…\nAdieu le monde, adieu !",
+      "body": "第3連開口：世俗の完全な拒絶と昇天の宣言。「Les hommes ! que m'importe ?（男たちなど！私に何の関係があろう？）」：感嘆符付きの問いかけが母の「galants（若い男たち）」という説明を一瞬で崩壊させる。「Antéros」の「Je retourne les dards contre le dieu vainqueur（矢を征服神に向けて撃ち返す）」という反逆的拒絶と同系の語調で、世俗的現実（男・恋愛・セレナード）全体を切り捨てる。「Un nuage m'emporte（一つの雲が私を運んでいく）」：「nuage（雲）」という上昇的・非物質的形象が「chœur aérien（空気のような合唱）」と同一の空中的領域への移行を示す。「Les Papillons」§2の「Perdu dans ce vert linceul（緑の経帷子の中に失われながら）」という詩人の擬死的横臥が、ここでは病床の娘の実際の臨死として反転される。「Adieu le monde, adieu（世界よ、さようなら）」という二重の別れが詩集全体の「FIN（終わり）」への直接の序語として機能する。",
+      "targetId": "nerval_les_papillons",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mère, ces sons étranges\nC'est le concert des anges\nQui m'appellent à Dieu !",
+      "body": "詩全体・詩集全体の結語。「ces sons étranges（これらの奇妙な音）」：「Artémis」§3の「ces sons étranges（これらの奇妙な音）」と全く同一の語句が反復される──「Artémis」では深淵の聖女への帰属宣言として、「La sérénade」では天使の呼び声の同定として、同一の「奇妙な音」が二つの詩の共鳴点となる。「C'est le concert des anges（天使たちの合唱だ）」：第1連の「chœur aérien（空気のような合唱）」が「concert des anges（天使たちの合唱）」として同定される──娘の体験が正しかったことが宣言される。「Qui m'appellent à Dieu（神のもとへ私を呼んでいる）」：「Le Christ aux Oliviers」で「Dieu n'est pas（神はいない）」と宣告された後、「Vers dorés」の「Dieu caché（隠れた神）」を経て、ここでは「à Dieu（神のもとへ）」という目的地として神が回復される。詩集『ボヘミアの小城』全体の「FIN」直前の最後の言葉として、ネルヴァルの詩学は「神のもとへの帰還」という肯定的な神学的命題で幕を閉じる。",
+      "targetId": "nerval_artemis",
+      "targetParagraphId": 3
+    }
+  ]
+}
