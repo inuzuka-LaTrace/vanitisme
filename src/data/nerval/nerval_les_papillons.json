@@ -1,0 +1,169 @@
+{
+  "id": "nerval_les_papillons",
+  "title": "Les Papillons",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 37-40. Wikisource: https://fr.wikisource.org/wiki/Les_Papillons_(Nerval)",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853",
+  "difficulty": "中級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）所収の長詩。『キメラ（Les Chimères）』の深淵的・神学的世界とは対照的に、本詩は自然詩・昆虫誌的詩として軽やかな語調で書かれた幼年期の自然への回帰を表現する。三部構成（I・II・III）：第I部は蝶の基本的定義（「茎のない花」「植物と鳥のあいだの調和」）と夏の森での詩人の陶酔的観察から始まり、具体的な蝶の種名列挙へと展開する。第II部は夕暮れの到来とともに夜の蝶・スフィンクス蛾・夜行性昆虫への移行を描く。第III部は急激な転調として「美しさゆえの不幸」──少女の針による蝶の標本制作という死の場面を描き、詩全体の幻想的・遊戯的語調を断ち切る。この三部構造は「美の享受」から「美の破壊・標本化」への不可避の運動として読め、蝶をネルヴァル的な詩的夢想・無常の美の象徴として位置づける。具体的な蝶の種名（ファウン・マルス・ヴァルカン・ナクレ・マカオン＝ゼブラ・アルゴス・モリオ・グラン＝パン・ボンビス）の列挙は19世紀博物学（ビュフォン・ラマルク）の語彙を詩に導入する実践であり、ゴーティエ「芸術（L'Art）」の「語の彫刻」への傾倒と共鳴する。",
+  "keywords": [
+    "papillon",
+    "fleur sans tige",
+    "linceul",
+    "Faune",
+    "Vulcain",
+    "Phalènes",
+    "Sphinx",
+    "標本",
+    "美の死",
+    "昆虫誌"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_vers_dores",
+    "gautier_l_art",
+    "baudelaire_correspondances",
+    "hofmannsthal_vorfruehling",
+    "rilke_das_roseninnere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "I, v.1–6",
+      "original": "Le papillon ! fleur sans tige,\nQui voltige,\nQue l'on cueille en un réseau ;\nDans la nature infinie\nHarmonie\nEntre la plante et l'oiseau !…",
+      "provisionalTranslation": "蝶！茎のない花よ、\n羽ばたく、\n網で摘み取られる；\n無限の自然の中で\n調和\n植物と鳥のあいだの！……"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.7–14",
+      "original": "Quand revient l'été superbe,\nJe m'en vais au bois tout seul :\nJe m'étends dans la grande herbe,\nPerdu dans ce vert linceul.\nSur ma tête renversée,\nLà, chacun d'eux à son tour,\nPasse, comme une pensée\nDe poésie ou d'amour !",
+      "provisionalTranslation": "華やかな夏が戻ってくると、\n私はひとりで森へ行く：\n私は背の高い草の中に横たわる、\nこの緑の経帷子の中に失われながら。\n逆さになった私の頭の上で、\nそこで、一匹ずつ順番に、\n過ぎ去っていく、詩や愛の\n思念のように！"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.15–20",
+      "original": "Voici le papillon Faune,\nNoir et jaune :\nVoici le Mars azuré,\nAgitant des étincelles\nSur ses ailes\nD'un velours riche et moiré.",
+      "provisionalTranslation": "ここにファウン蝶がいる、\n黒と黄の：\nここに瑠璃色のマルスがいる、\n火花を散らしながら\nその翅の上で\n豊かで玉虫色のビロードの。"
+    },
+    {
+      "id": 4,
+      "verses": "I, v.21–28",
+      "original": "Voici le Vulcain rapide,\nQui vole comme un oiseau :\nSon aile noire et splendide\nPorte un grand ruban ponceau.\nDieux ! le Soufré, dans l'espace,\nComme un éclair a relui…\nMais le joyeux Nacré passe,\nEt je ne vois plus que lui !",
+      "provisionalTranslation": "ここに素早いヴァルカンがいる、\n鳥のように飛ぶ：\nその黒く輝かしい翅は\n大きな緋色のリボンを付けている。\n神々よ！ソフレは、大空で、\n稲妻のように輝いた……\nしかし陽気なナクレが過ぎ去り、\n私にはもうそれしか見えない！"
+    },
+    {
+      "id": 5,
+      "verses": "II, v.1–6",
+      "original": "Comme un éventail de soie,\nIl déploie\nSon manteau semé d'argent ;\nEt sa robe bigarrée\nEst dorée\nD'un or verdâtre et changeant.",
+      "provisionalTranslation": "絹の扇のように、\nそれは広げる\n銀を散りばめたマントを；\nそしてその色とりどりの衣は\n金色に染まっている\n緑がかった変化する金で。"
+    },
+    {
+      "id": 6,
+      "verses": "II, v.7–14",
+      "original": "Voici le Machaon-Zèbre,\nDe fauve et de noir rayé ;\nLe Deuil, en habit funèbre,\nEt le Miroir bleu strié ;\nVoici l'Argus, feuille-morte,\nLe Morio, le Grand-Bleu,\nEt le Paon-de-jour qui porte\nSur chaque aile un œil de feu !",
+      "provisionalTranslation": "ここにマカオン＝ゼブラがいる、\n黄褐色と黒の縞模様；\n喪服姿の「喪（ドゥイユ）」と\n青い縞模様の「鏡（ミロワール）」；\nここに枯葉色のアルゴスがいる、\nモリオ、グラン＝ブルー、\nそして一日孔雀（パン＝ドゥ＝ジュール）、それぞれの翅に\n炎の眼を持つ！"
+    },
+    {
+      "id": 7,
+      "verses": "II, v.15–20",
+      "original": "Mais le soir brunit nos plaines ;\nLes Phalènes\nPrennent leur essor bruyant,\nEt les Sphinx aux couleurs sombres,\nDans les ombres\nVoltigent en tournoyant.",
+      "provisionalTranslation": "しかし夕暮れが私たちの平野を暗くする；\nフォレーヌ（夜蛾）が\n騒がしく飛び立つ、\nそして暗い色のスフィンクスが、\n影の中で\n旋回しながら舞い飛ぶ。"
+    },
+    {
+      "id": 8,
+      "verses": "II, v.21–28",
+      "original": "C'est le Grand-Paon à l'œil rose\nDessiné sur un fond gris,\nQui ne vole qu'à nuit close,\nComme les chauves-souris ;\nLe Bombice du troène,\nRayé de jaune et de vert,\nEt le papillon du chêne,\nQui ne meurt pas en hiver !…",
+      "provisionalTranslation": "これが灰色の地に描かれた\n薔薇色の眼を持つグラン＝パン（大孔雀蛾）だ、\n夜が完全に閉じてからしか飛ばない、\nコウモリのように；\nイボタノキのボンビス（蚕蛾）、\n黄と緑の縞模様；\nそして樫の蝶、\n冬にも死なない！……"
+    },
+    {
+      "id": 9,
+      "verses": "III, v.1–6",
+      "original": "Malheur, papillons que j'aime,\nDoux emblème,\nÀ vous pour votre beauté !…\nUn doigt de votre corsage,\nAu passage,\nFroisse, hélas ! le velouté !…",
+      "provisionalTranslation": "不幸よ、私が愛する蝶たちよ、\n優しい象徴よ、\nあなたたちの美しさのゆえに！……\nあなたたちの胴体に一本の指が、\n過ぎ去りながら、\n潰してしまう、ああ！その柔らかさを！……"
+    },
+    {
+      "id": 10,
+      "verses": "III, v.7–14",
+      "original": "Une toute jeune fille,\nAu cœur tendre, au doux souris,\nPerçant vos cœurs d'une aiguille,\nVous contemple, l'œil surpris :\nEt vos pattes sont coupées\nPar l'ongle blanc qui les mord,\nEt vos antennes crispées\nDans les douleurs de la mort !…",
+      "provisionalTranslation": "一人のまだ幼い少女が、\nやさしい心と穏やかな微笑みで、\n針であなたたちの心を刺しながら、\n驚いた目でながめている：\nそしてあなたたちの足は切られる\nそれを噛む白い爪によって、\nそしてあなたたちの触角は引き攣る\n死の苦悶の中で！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le papillon ! fleur sans tige,\nQui voltige,\nQue l'on cueille en un réseau ;",
+      "body": "「蝶！茎のない花よ、羽ばたく、網で摘み取られる」──詩の開口部にして蝶の定義的隠喩。「fleur sans tige（茎のない花）」：植物的形象による昆虫の定義。茎（tige）を持たない花は根を持たず宙に浮く──漂泊するネルヴァル自身の自画像としても読める。「Que l'on cueille en un réseau（網で摘み取られる）」：花を「摘む（cueillir）」という動詞が虫取り網による捕獲に適用される──§9・§10の「針で刺す」標本制作の予告として機能する。詩全体は「摘み取られる（cueillir）」という捕獲から「針で刺す（percer）」という標本化へと不可避的に進む構造を冒頭に潜在させる。「Qui voltige（羽ばたく）」という動詞は詩集の別の詩「Le Point noir」でも使われるネルヴァル的な軽やかな運動の形象。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dans la nature infinie\nHarmonie\nEntre la plante et l'oiseau !…",
+      "body": "「無限の自然の中で調和、植物と鳥のあいだ」──蝶の存在論的定義の第二部。「nature infinie（無限の自然）」：「Vers dorés」の「Dans ce monde où la vie éclate en toute chose（あらゆるものの中で生命が炸裂する世界）」と同一の汎生命論的自然観。「Harmonie（調和）」という語の独立行配置が強調──「Harmonie」はボードレール「万物照応（Correspondances）」で「de longs échos qui de loin se confondent / Dans une ténébreuse et profonde unité（遠くから混じり合う長い反響が、暗く深い統一の中で）」として展開される「自然の調和」と連続する。「Entre la plante et l'oiseau（植物と鳥のあいだ）」：中間的存在としての蝶──植物（花）でも動物（鳥）でもなく、両者の「あいだ（entre）」に位置する境界的存在。「!…」という複合句読点が肯定と宙吊りを同時に示す。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je m'étends dans la grande herbe,\nPerdu dans ce vert linceul.",
+      "body": "「私は背の高い草の中に横たわる、この緑の経帷子の中に失われながら」──詩全体で最も重要な形象。「linceul（経帷子・死に装束）」：草の中に横たわる詩人の姿が死体・埋葬の形象として言い換えられる。「vert linceul（緑の経帷子）」という色彩的逆説──死の布が「緑（生命・再生の色）」として提示される：植物的生命の中での詩人の自発的「擬死」。「Perdu（失われながら）」：「El Desdichado」の「Perdu（失われた）」と同語根──両篇で詩人は自己を喪失した存在として定位する。蝶が詩人の頭上を「詩や愛の思念（pensée de poésie ou d'amour）」として過ぎ去るという形象は、草の中の「死者」としての詩人の上に「霊魂（âme）」が飛翔するという霊的視覚化として読める。「Vers dorés」§4の「Souvent dans l'être obscur habite un Dieu caché（暗い存在の中に隠れた神が宿る）」の「être obscur」が、ここでは「vert linceul（緑の経帷子）」として身体化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Voici le papillon Faune,\nNoir et jaune :\nVoici le Mars azuré,\nAgitant des étincelles\nSur ses ailes\nD'un velours riche et moiré.",
+      "body": "蝶名列挙の第一連。「Voici（ここに…がいる）」という指示的提示形式が詩の博物誌的語調を定める。「le papillon Faune（ファウン蝶）」：Coenonympha属の蝶（コモンリングレット Coenonympha pamphilus に近い）。「Noir et jaune（黒と黄）」という色彩の二項対比が「El Desdichado」の「Soleil noir（黒い太陽）」の黒と「Myrtho」の「l'or de ta tresse（髪の金）」の黄と詩集内の色彩系を共有する。「le Mars azuré（瑠璃色のマルス）」：現代名アダージョブルー系の蝶。「velours riche et moiré（豊かで玉虫色のビロード）」：布地的語彙による翅の質感表現──ゴーティエ「芸術（L'Art）」の「エマイユ（七宝）・オニクス・肉片」という素材的詩学との共鳴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Dieux ! le Soufré, dans l'espace,\nComme un éclair a relui…\nMais le joyeux Nacré passe,\nEt je ne vois plus que lui !",
+      "body": "第I部の結尾四行。「Dieux !（神々よ！）」：「Horus」・「Antéros」の神々の系列が、ここでは昆虫観察の驚嘆の感嘆詞として世俗化される。「le Soufré（ソフレ＝硫黄蝶）」：Colias属の黄色い蝶。「comme un éclair a relui（稲妻のように輝いた）」という過去形が瞬間的な光の閃光を定着させる──「Myrtho」§2「l'éclair furtif de ton œil souriant（微笑む目の素早い閃光）」との照応。「le joyeux Nacré（陽気なナクレ＝真珠蝶）」：Argynnis属の真珠光沢の蝶。「Et je ne vois plus que lui !（私にはもうそれしか見えない！）」：視覚の独占という詩的集中の定式──「Vers dorés」§3「Crains… un regard qui t'épie（うかがう眼差しを恐れよ）」の眼差しが、ここでは詩人が魅了される眼差しとして反転する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Comme un éventail de soie,\nIl déploie\nSon manteau semé d'argent ;\nEt sa robe bigarrée\nEst dorée\nD'un or verdâtre et changeant.",
+      "body": "第II部の開口六行。「comme un éventail de soie（絹の扇のように）」：蝶の翅の展開が「扇（éventail）」として比喩化される──マラルメ「夫人の扇（Éventail de Madame Mallarmé）」の扇の形象と照応する詩的物体化。「manteau semé d'argent（銀を散りばめたマント）」：翅を「マント（外套）」として衣装的語彙で形象化──「Horus」の「la robe de Cybèle（キュベレーの衣）」・「El Desdichado」§3「Mon front est rouge encor du baiser de la reine（女王の接吻で赤く染まった額）」という衣装的形象系との連続。「D'un or verdâtre et changeant（緑がかった変化する金で）」：「changeant（変化する）」という形容詞が玉虫色・多色性の表現であり、「Myrtho」§1の「raisins noirs mêlés avec l'or de ta tresse（黒い葡萄と金の髪）」の「金」と色彩的に照応する。",
+      "targetId": "mallarme_eventail_madame_mallarme",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Le Deuil, en habit funèbre,\nEt le Miroir bleu strié ;",
+      "body": "「喪服姿の『喪（ドゥイユ）』と青い縞模様の『鏡（ミロワール）』」──蝶名に含まれる象徴的語彙。「Le Deuil（喪蝶）」：実際にDeuil（喪）と呼ばれる黒い蝶（Erebia系）の名がそのまま詩的語彙として機能する。「deuil（喪）」は「El Desdichado」の「le veuf（未亡人のような者）」・「inconsolé（慰めなき者）」と同系の喪の語彙。「le Miroir（鏡蝶）」：鏡面光沢を持つ蝶の名が「Artémis」§1「la première ou dernière（最初あるいは最後）」という鏡的自己反映の形象と遠く照応する。「Et le Paon-de-jour qui porte / Sur chaque aile un œil de feu（一日孔雀、それぞれの翅に炎の眼を持つ）！」：孔雀蛾の「眼状紋（œil）」が「Le Christ aux Oliviers」§7「l'œil de Dieu（神の目）」・「Vers dorés」§4「un œil naissant（生まれたばかりの目）」という詩集全体の「目（œil）」の形象系を自然的・昆虫的次元で反復する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mais le soir brunit nos plaines ;\nLes Phalènes\nPrennent leur essor bruyant,\nEt les Sphinx aux couleurs sombres,\nDans les ombres\nVoltigent en tournoyant.",
+      "body": "第II部の転換点：昼の蝶から夜の蛾へ。「le soir brunit nos plaines（夕暮れが私たちの平野を暗くする）」：「brunir（暗くする）」という動詞が昼から夜への移行を色彩的に定着させる。「Les Phalènes（フォレーヌ、夜蛾）」：夜間飛翔する蛾の総称。「les Sphinx aux couleurs sombres（暗い色のスフィンクス）」：スフィンクス蛾（Sphingidae）の名が「Delfica」のデルフォイ的神秘・謎解きのスフィンクス神話と語彙的に連続する。「Dans les ombres Voltigent en tournoyant（影の中で旋回しながら舞い飛ぶ）」：「ombres（影）」という語が「Le Christ aux Oliviers」§8「dont le néant est l'ombre（虚無が影となる）」の形而上学的「影」を自然的・昆虫的次元で反響させる。昼の蝶（意識・詩・愛）から夜の蛾（無意識・謎・暗黒）への移行がポエジーの二つの極として詩の構造を形成する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Et le papillon du chêne,\nQui ne meurt pas en hiver !…",
+      "body": "第II部の結句。「le papillon du chêne（樫の蝶）」：Catocala nupta（赤帯カトカラ）等の越冬する蛾への参照。「Qui ne meurt pas en hiver（冬にも死なない）！…」：感嘆符と省略記号の複合が驚嘆と余韻を同時に示す。「ne meurt pas（死なない）」という否定が詩全体の「死」主題──§2の「vert linceul（緑の経帷子）」・§9–10の針による死──を先取りしつつ反転する：冬を生き延びる蝶が不死の形象として提示される。「En hiver（冬に）」：「Horus」§2の「le roi des hivers（冬の王）」という「冬」の破壊的支配に対し、ここでは冬を超越する生命として「冬に死なない蝶」が置かれる。第II部の終わりを飾る「生存」の肯定が、第III部の「死」への急転換を準備する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Malheur, papillons que j'aime,\nDoux emblème,\nÀ vous pour votre beauté !…\nUn doigt de votre corsage,\nAu passage,\nFroisse, hélas ! le velouté !…",
+      "body": "第III部の開口：詩の語調の急転換。「Malheur（不幸よ）」という嘆きの開口語が「Antéros」§2「Sous la pâleur d'Abel, hélas ! ensanglantée（アベルの青白さの下で、ああ！血に染まった）」の「Hélas（ああ）」と同系の嘆きの語調として機能する。「Doux emblème（優しい象徴）」：蝶が「象徴（emblème）」として定義される──ネルヴァルにとって蝶は魂（âme、プシュケー）の象徴である。ギリシア語「Ψυχή（Psyché）」は「魂」と「蝶」の両義を持つ。「À vous pour votre beauté（あなたたちの美しさのゆえに）」：美しさ自体が不幸の原因として逆説的に定義される──「Artémis」§4の「Roses blanches, tombez ! vous insultez nos dieux（白い薔薇よ、落ちよ！あなたたちは私たちの神々を侮辱する）」における「美の破壊への命令」との照応。「le velouté（その柔らかさ・ビロード状の質感）」：§3の「velours riche et moiré（豊かで玉虫色のビロード）」が「froisse（潰される）」として否定される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Une toute jeune fille,\nAu cœur tendre, au doux souris,\nPerçant vos cœurs d'une aiguille,\nVous contemple, l'œil surpris :\nEt vos pattes sont coupées\nPar l'ongle blanc qui les mord,\nEt vos antennes crispées\nDans les douleurs de la mort !…",
+      "body": "詩全体の結句にして最も衝撃的な場面。「Une toute jeune fille（一人のまだ幼い少女）」：残酷さの担い手として「やさしい心と穏やかな微笑み」を持つ少女が選ばれる──無邪気さと残酷さの共存という逆説。「Perçant vos cœurs d'une aiguille（針であなたたちの心を刺しながら）」：「cœur（心臓）」への針刺しが「Artémis」§2「C'est la mort — ou la morte… Ô délice ! ô tourment !（それは死——あるいは死んだ女……ああ、歓喜よ！ああ、苦悩よ！）」の「死と歓喜の融合」を標本制作という行為として具体化する。「Vous contemple, l'œil surpris（驚いた目でながめている）」：「Le Christ aux Oliviers」§7「l'œil de Dieu（神の目）」・「Vers dorés」§4「un œil naissant（生まれたばかりの目）」・§6の「un œil de feu（炎の眼）」という「目」の系列が、ここでは「l'œil surpris（驚いた目）」として美の破壊者の視線として完結する。「vos antennes crispées / Dans les douleurs de la mort（死の苦悶の中で引き攣る触角）」：触角という昆虫の「感覚器官（sensibilité）」の痙攣的死が「Vers dorés」のエピグラフ「Eh quoi ! tout est sensible !（なんと！すべては感覚する！）」を暗黒の反転として閉じる：感覚する存在は死においてもその感覚性ゆえに苦悶する。「!…」という複合句読点が詩全体を肯定でも否定でもない「宙吊りの嘆き」として封印する。"
+    }
+  ]
+}
+
+
