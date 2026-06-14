@@ -1,0 +1,133 @@
+{
+  "id": "nerval_vers_dores",
+  "title": "Vers dorés",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 298. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Vers_dor%C3%A9s",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の『キメラ（Les Chimères）』最終詩篇。「Vers dorés（黄金の詩句）」という題名は「黄金律（règle d'or）」および「ピュタゴラスの黄金の詩句（Carmina Aurea）」への参照──古代ギリシアのピュタゴラス学派の倫理的格言詩として流通した詩句集に由来する。エピグラフ「Eh quoi ! tout est sensible !（なんと！すべては感覚する！）」はピュタゴラス（紀元前570頃–495頃）に帰せられる万物有魂論（hylozoism）の定式。詩は「Le Christ aux Oliviers」の「神の死・神の不在」という深淵的虚無から一転し、汎神論的・自然哲学的な「万物の霊性（sensibilité universelle）」の肯定へと転換する：動物・花・金属・石・壁──あらゆる物質の中に「精霊（esprit）」「魂（âme）」「神（Dieu caché）」が宿るという命題。「libre penseur（自由思想家）」への呼びかけが詩の批判的ターゲットを定める：啓蒙主義的・唯物論的な「人間だけが思考する」という傲慢への反論として、ロマン主義的・ヘルメス主義的な「万物感応（sympathie universelle）」の哲学が展開される。『キメラ』全体の運動を俯瞰すると：「El Desdichado」の個人的喪失→「Horus」の神話的転換→「Antéros」の反逆→「Delfica」の待望→「Artémis」の深淵的聖性→「Le Christ aux Oliviers」の神の死・虚無→「Vers dorés」の万物有魂論的肯定、という弁証法的運動として読める。詩集の閉幕として「Vers dorés」は問いを問いのままで終わらせず、万物に宿る霊性という形而上学的肯定で詩集を封印する。",
+  "keywords": [
+    "Pythagore",
+    "tout est sensible",
+    "libre penseur",
+    "Dieu caché",
+    "âme",
+    "esprit",
+    "万物有魂論",
+    "汎神論",
+    "金属",
+    "pierre"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_christ_aux_oliviers",
+    "nerval_horus",
+    "baudelaire_correspondances",
+    "baudelaire_elevation",
+    "hofmannsthal_weltgeheimnis",
+    "weil_necessite",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Eh quoi ! tout est sensible !\nPYTHAGORE.",
+      "provisionalTranslation": "なんと！すべては感覚する！\nピュタゴラス。"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Homme, libre penseur ! te crois-tu seul pensant\nDans ce monde où la vie éclate en toute chose ?\nDes forces que tu tiens ta liberté dispose,\nMais de tous tes conseils l'univers est absent.",
+      "provisionalTranslation": "人間よ、自由思想家よ！あなたは自分だけが思考していると思っているか\nあらゆるものの中で生命が炸裂するこの世界で？\nあなたが保持する力であなたの自由は行使される、\nしかしあなたのすべての思慮から宇宙は不在だ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Respecte dans la bête un esprit agissant :\nChaque fleur est une âme à la Nature éclose ;\nUn mystère d'amour dans le métal repose ;\n« Tout est sensible ! » Et tout sur ton être est puissant.",
+      "provisionalTranslation": "獣の中に活動する精霊を尊重せよ：\nそれぞれの花は自然の中に開いた魂だ；\n金属の中に愛の神秘が宿っている；\n「すべては感覚する！」そしてすべてがあなたの存在に対して力を持っている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Crains, dans le mur aveugle, un regard qui t'épie :\nÀ la matière même un verbe est attaché…\nNe la fais pas servir à quelque usage impie !",
+      "provisionalTranslation": "盲目の壁の中に、あなたをうかがう眼差しを恐れよ：\n物質そのものにも言葉が付着している……\nそれを何らかの不敬な用途に供してはならない！"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Souvent dans l'être obscur habite un Dieu caché ;\nEt comme un œil naissant couvert par ses paupières,\nUn pur esprit s'accroît sous l'écorce des pierres !",
+      "provisionalTranslation": "しばしば暗い存在の中に隠れた神が宿っている；\nそして瞼に覆われた生まれたばかりの目のように、\n純粋な精霊が石の表皮の下で育っている！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Eh quoi ! tout est sensible !\nPYTHAGORE.",
+      "body": "ピュタゴラス（Pythagoras、紀元前570頃–495頃）に帰せられる万物有魂論（hylozoism）の定式。「Eh quoi !（なんと！）」という感嘆の開口部が「Le Christ aux Oliviers」のエピグラフ「Dieu est mort !（神は死んだ！）」の絶望的感嘆に対する肯定的な反転として機能する。「tout est sensible（すべては感覚する）」：ピュタゴラス学派の「万物有魂論」──動物・植物・鉱物・天体すべてが「感覚（sensibilité）」を持つという形而上学的命題。ネルヴァルはフリーメイソン・薔薇十字会・ヘルメス主義の文献を通じてピュタゴラス的思想を吸収した。詩題「Vers dorés（黄金の詩句）」は古来「ピュタゴラスの黄金の詩句（Carmina Aurea）」として流通した格言詩集への参照であり、ネルヴァルの詩はその現代的変奏として位置づけられる。「PYTHAGORE」の大文字表記が「Artémis」の「DAFNÉ」「TEMPLE」と同一の秘儀的強調として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Homme, libre penseur ! te crois-tu seul pensant\nDans ce monde où la vie éclate en toute chose ?",
+      "body": "「人間よ、自由思想家よ！あなたは自分だけが思考していると思っているか」──「libre penseur（自由思想家）」への批判的呼びかけ。「libre penseur（フリーシンカー）」は18世紀啓蒙主義・無神論的唯物論の立場を指す──ヴォルテール・ディドロ・ドルバック的な「理性のみが真理の源泉」という思想。ネルヴァルはこの立場に「te crois-tu seul pensant（あなただけが思考していると思っているか）」という問いを投じることで、啓蒙主義的人間中心主義への批判を開始する。「la vie éclate en toute chose（あらゆるものの中で生命が炸裂する）」：「éclater（炸裂する・爆発する）」という動詞が生命の遍在を爆発的なエネルギーとして形象化する。ボードレール「万物照応（Correspondances）」の「自然は一つの神殿（La Nature est un temple）」という命題との直接的照応──ネルヴァルの万物有魂論がボードレールの「照応（correspondances）」詩学の源泉として機能する。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Des forces que tu tiens ta liberté dispose,\nMais de tous tes conseils l'univers est absent.",
+      "body": "第1四行詩の後二行。「Des forces que tu tiens ta liberté dispose（あなたが保持する力であなたの自由は行使される）」：倒置構文──「ta liberté（あなたの自由）」が「Des forces que tu tiens（あなたが保持する力）」によってのみ行使されるという力の依存関係。人間の「自由（liberté）」が宇宙的力に依存しているという逆説。「de tous tes conseils l'univers est absent（あなたのすべての思慮から宇宙は不在だ）」：「absent（不在）」という語が「Le Christ aux Oliviers」の「Dieu n'est pas（神はいない）」という「不在」の神学的命題を世俗的・認識論的次元で反復する：神の不在ではなく、人間の思慮からの「宇宙の不在」。コヘレト「Quid habet amplius homo de universo labore suo（太陽の下での人間の労苦から何を得るか）」の「universo（宇宙・すべて）」と「absent（不在）」の対照が照応する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Respecte dans la bête un esprit agissant :\nChaque fleur est une âme à la Nature éclose ;",
+      "body": "「獣の中に活動する精霊を尊重せよ：それぞれの花は自然の中に開いた魂だ」──万物有魂論の具体的展開。「Respecte（尊重せよ）」という命令形が「Le Christ aux Oliviers」§14「Judas ! lui cria-t-il（ユダよ！彼は叫んだ）」の命令と対照をなす：破滅的命令に対し、この命令は「尊重」という倫理的命令。「un esprit agissant（活動する精霊）」：「esprit（霊・精霊・精神）」が「Le Christ aux Oliviers」§6「nul esprit n'existe（霊は存在しない）」の否定に対する正面からの肯定として機能する──宇宙的空虚の中に霊が存在しないのではなく、動物・花・金属の中に霊は「活動して（agissant）」いる。「Chaque fleur est une âme（それぞれの花は魂だ）」：「Myrtho」「Delfica」「Artémis」の植物的形象系──ミルトス・月桂樹・薔薇・オリーブ──が「魂（âme）」を持つ存在として形而上学的に再定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Un mystère d'amour dans le métal repose ;\n« Tout est sensible ! » Et tout sur ton être est puissant.",
+      "body": "「金属の中に愛の神秘が宿っている」──錬金術的・ヘルメス主義的物質観。「métal（金属）」は錬金術において変容（transmutation）の対象であり、「愛の神秘（mystère d'amour）」が金属の中に「宿る（reposer）」という命題は「第五元素（Quinta Essentia）」的な生命力の遍在を示す。「Tout est sensible !（すべては感覚する！）」：エピグラフの反復が引用符付きで詩本文に埋め込まれる──ピュタゴラスの言葉がソネット内で「証明された真理」として再宣言される。「Et tout sur ton être est puissant（すべてがあなたの存在に対して力を持っている）」：「puissant（力ある）」という形容詞が「Le Christ aux Oliviers」§14「la force du crime（罪を犯す力）」という唯一の「力」を宇宙的万物の力として逆転・拡張する。第2四行詩は詩集全体の思想的転換点として「虚無から充満へ」という運動を完成させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Crains, dans le mur aveugle, un regard qui t'épie :\nÀ la matière même un verbe est attaché…",
+      "body": "「盲目の壁の中に、あなたをうかがう眼差しを恐れよ：物質そのものにも言葉が付着している」──第1三行詩の二命題。「le mur aveugle（盲目の壁）」：「盲目（aveugle）」という形容詞が壁という非生命的物体に付与されることで、視覚的能力を持たないものの中に「眼差し（regard）」が宿るという逆説が生まれる。「un regard qui t'épie（あなたをうかがう眼差し）」：「Le Christ aux Oliviers」§7「En cherchant l'œil de Dieu, je n'ai vu qu'un orbite（神の目を探して眼窩しか見なかった）」──「神の眼差しの不在」への反転として、壁・物質の中に「眼差し」が存在するという命題が置かれる。「À la matière même un verbe est attaché（物質そのものにも言葉が付着している）」：「verbe（言葉・動詞）」はヨハネ福音書第1章v.1「In principio erat Verbum（初めに言葉があった）」のラテン語「Verbum（ロゴス）」との神学的連続──ロゴスが物質に内在するという汎神論的ロゴス論。省略記号（…）が命題の余韻を開く。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Ne la fais pas servir à quelque usage impie !",
+      "body": "第1三行詩の結句。「Ne la fais pas servir à quelque usage impie !（それを何らかの不敬な用途に供してはならない！）」──「la（それ）」の指示対象は「matière（物質）」。感嘆符付きの命令形（否定命令）が倫理的警告として機能する。「usage impie（不敬な用途）」：「impie（不敬・不信心）」という形容詞が「libre penseur（自由思想家）」の啓蒙主義的・唯物論的物質利用（産業革命・機械論的世界観）への批判として読める。「Respecte（尊重せよ）」（§2）→「Crains（恐れよ）」→「Ne la fais pas servir（供するな）」という三つの命令形が詩全体の倫理的骨格を形成する。ヴェイユ「Nécessité」章の「必然性を通じた神の間接的現前」という命題が、物質への不敬な扱いへの警告として照応する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Souvent dans l'être obscur habite un Dieu caché ;",
+      "body": "「しばしば暗い存在の中に隠れた神が宿っている」──『キメラ』全体の神学的結語の核心命題。「l'être obscur（暗い存在）」：「obscur（暗い）」という形容詞が「El Desdichado」の「ténébreux（陰鬱な）」・「Soleil noir（黒い太陽）」・「Le Christ aux Oliviers」の「orbite Vaste, noir（広大で黒い眼窩）」という詩集全体の「暗黒」の系列と連続する──しかしその「暗黒」の中に神が「宿る（habite）」という逆転。「un Dieu caché（隠れた神）」：パスカル『パンセ』の「隠れた神（Deus absconditus）」（イザヤ書45章15節「Vere tu es Deus absconditus」）との連関が指摘される。「Le Christ aux Oliviers」で「神は存在しない（Dieu n'est pas）」と宣告された後に「隠れた神（Dieu caché）」という命題が置かれる──不在の神と隠れた神の弁証法的統合として。ヴェイユ「Athéisme purificateur」の「神の不在を確信しながら神を愛すること」という逆説的信仰と構造的に照応する。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Et comme un œil naissant couvert par ses paupières,\nUn pur esprit s'accroît sous l'écorce des pierres !",
+      "body": "『キメラ』全体の結句。「comme un œil naissant couvert par ses paupières（瞼に覆われた生まれたばかりの目のように）」──「Le Christ aux Oliviers」§7「En cherchant l'œil de Dieu, je n'ai vu qu'un orbite（神の目を探して眼窩しか見なかった）」への最終的応答。「神の眼窩（空の目の穴）」から「生まれたばかりの目（瞼に覆われているが成長中）」へ──不在の神の目が、今や石の中で「育ちつつある（s'accroît）」純粋な霊の目として再形象化される。「s'accroît（育つ・成長する）」という現在形が進行中の生成を示す：完成した存在ではなく「育ちつつある（en devenir）」霊性。「sous l'écorce des pierres（石の表皮の下で）」：「écorce（樹皮・外皮）」という植物的形象が石という鉱物に適用される混淆が、万物有魂論の「植物的生命力」と「鉱物的存在」の境界消滅を示す。感嘆符（!）が詩集全体の最後の音調として「Myrtho」「Delfica」「Artémis」「Le Christ aux Oliviers」の感嘆符の系列を閉じ、肯定の叫びとして『キメラ』を完結させる。"
+    }
+  ]
+}
