@@ -1,0 +1,77 @@
+{
+  "id": "nerval_notre_dame_de_paris",
+  "title": "Notre-Dame de Paris",
+  "author": "Gérard de Nerval",
+  "source": "Choix de poésies de Nerval, texte établi par Alphonse Séché, Louis-Michaud, 1907, p. 28-29. Wikisource: https://fr.wikisource.org/wiki/Choix_de_po%C3%A9sies_de_Nerval/Notre-Dame_de_Paris",
+  "year": "1831",
+  "firstPublication": "初出：1831年；書籍初収録：Odelettes, 1853",
+  "difficulty": "中級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『小頌歌（Odelettes）』所収のソネット。1831年初出。同年に発表されたヴィクトル・ユゴーの小説『ノートルダム・ド・パリ（Notre-Dame de Paris）』（1831年3月）への即応的な詩的応答として書かれた。詩は三つの時間的次元を同時に展開する：①現在（Notre-Dame est bien vieille：大聖堂は古い）、②近未来（パリを葬る）、③遠未来（数千年後の廃墟）、④その廃墟に訪れる未来の旅人が「ヴィクトルの書（ユゴーの小説）」を読みながら過去の栄光を幻視する、という四層の時間構造。「Comme un loup fait d'un bœuf（狼が牛にするように）」という動物的比喩が時間を捕食者として形象化し、大聖堂の鉄の神経・岩の骨という身体的メタファーがゴシック建築を生物として擬人化する。最終行「Se lever devant eux comme l'ombre d'un mort（死者の影のように彼らの前に立ち上がる）」が廃墟から過去の姿が幻として蘇るという「亡霊的回帰」の形象で詩を閉じ、ネルヴァルの詩学における「失われたものの幻的現前」という主題を建築的・歴史的次元で展開する。",
+  "keywords": [
+    "Notre-Dame",
+    "Victor Hugo",
+    "ruine",
+    "ombre d'un mort",
+    "廃墟",
+    "時間",
+    "ゴシック",
+    "亡霊",
+    "建築",
+    "パリ"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_delfica",
+    "nerval_nobles_et_valets",
+    "baudelaire_spleen",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_ecclesiastes_11"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–6",
+      "original": "Notre-Dame est bien vieille ; on la verra peut-être\nEnterrer cependant Paris qu'elle a vu naître.\nMais, dans quelque mille ans, le temps fera broncher\nComme un loup fait d'un bœuf ; cette carcasse lourde.\nTordra ses nerfs de fer, et puis d'une dent lourde\nRongera tristement ses vieux os de rocher.",
+      "provisionalTranslation": "ノートルダムはとても古い；しかし人はおそらく見るだろう\nその生まれを見てきたパリを葬るのを。\nしかし、数千年のうちに、時は躓かせるだろう\n狼が牛にするように；この重い骸を。\nその鉄の神経を捩じり、それから重い歯で\n悲しげにその岩の古い骨を齧るだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.7–12",
+      "original": "Bien des hommes de tous les pays de la terre\nViendront pour contempler cette ruine austère,\nRêveurs, en relisant le livre de Victor…\n— Alors ils croiront voir la vieille basilique,\nToute ainsi qu'elle était puissante et magnifique.\nSe lever devant eux comme l'ombre d'un mort !",
+      "provisionalTranslation": "地上のあらゆる国の多くの人々が\nこの厳粛な廃墟を眺めるためにやってくるだろう、\nヴィクトルの書を読み返しながら、夢想家として……\n──そのとき彼らはあの古い聖堂を見ると思うだろう、\nかつてそうであったように力強く壮麗な姿で\n死者の影のように彼らの前に立ち上がるのを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Notre-Dame est bien vieille ; on la verra peut-être\nEnterrer cependant Paris qu'elle a vu naître.",
+      "body": "「ノートルダムはとても古い；しかし人はおそらく見るだろう、その生まれを見てきたパリを葬るのを」──詩の開口二行が大聖堂とパリの時間的逆転を定立する。「bien vieille（とても古い）」という日常的形容が「Mais（しかし）」という逆接によって大聖堂の「超越的永続性」の伏線となる。「Paris qu'elle a vu naître（その生まれを見てきたパリ）」：大聖堂がパリの誕生の証人として位置づけられる──建築物が都市より長命であるという逆説。コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り、世代は来る；しかし大地は永遠に立ち続ける）」の「大地の永続性」が、ここではゴシック大聖堂という人工的建造物に移し替えられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Mais, dans quelque mille ans, le temps fera broncher\nComme un loup fait d'un bœuf ; cette carcasse lourde.\nTordra ses nerfs de fer, et puis d'une dent lourde\nRongera tristement ses vieux os de rocher.",
+      "body": "「数千年のうちに、時は狼が牛にするように躓かせるだろう；その鉄の神経を捩じり、重い歯で岩の古い骨を齧るだろう」──大聖堂の擬人化・擬生物化の極致。「fera broncher（躓かせるだろう）」：「broncher」は馬が蹄を躓かせる動詞──大聖堂が「巨大な動物」として転倒させられる形象。「Comme un loup fait d'un bœuf（狼が牛にするように）」：捕食者（時間）と獲物（大聖堂）の動物的比喩が「Nobles et Valets」§1の「fronts de bœuf（牛のような額）」の「bœuf」と同一語で連続する。「nerfs de fer（鉄の神経）」・「os de rocher（岩の骨）」：ゴシック建築の鉄骨・石材が生物の「神経」・「骨」として身体化される──建築の有機的形象化。「d'une dent lourde / Rongera（重い歯で齧るだろう）」：時間が歯を持つ捕食者として擬人化される形象がホラティウス「カルミナ」第3巻第30歌「Non omnis moriar（私はすべてが死ぬわけではない）」の「edax tempus（貪る時間）」と照応する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Bien des hommes de tous les pays de la terre\nViendront pour contempler cette ruine austère,\nRêveurs, en relisant le livre de Victor…",
+      "body": "「地上のあらゆる国の多くの人々が、ヴィクトルの書を読み返しながら、夢想家としてこの厳粛な廃墟を眺めるためにやってくるだろう」──詩の発端としてのユゴーへの参照。「le livre de Victor（ヴィクトルの書）」：ヴィクトル・ユゴーの小説『ノートルダム・ド・パリ（Notre-Dame de Paris）』（1831年3月刊）への直接的参照。ネルヴァルはユゴーの弟子的詩人として出発し、この詩はユゴーの小説への即応的「詩的応答」として書かれた。「Rêveurs（夢想家として）」：「Les Papillons」§2の「Je m'étends dans la grande herbe, / Perdu dans ce vert linceul（草の中に横たわり、緑の経帷子の中に失われながら）」という夢想的詩人の姿勢と同一の「rêveur」の語。省略記号（…）が「ヴィクトルの書」への参照の余韻を残しつつ、次行のダッシュ（—）による転換を準備する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "— Alors ils croiront voir la vieille basilique,\nToute ainsi qu'elle était puissante et magnifique.\nSe lever devant eux comme l'ombre d'un mort !",
+      "body": "詩全体の結語。「ils croiront voir（彼らは見ると思うだろう）」：「croiront（思うだろう）」という条件的未来形が幻視の不確実性を定着させる──廃墟から過去の姿が「見えると思われる」という幻想的知覚。「la vieille basilique, / Toute ainsi qu'elle était puissante et magnifique（かつてそうであったように力強く壮麗な聖堂）」：廃墟から過去の全体的姿が想起される時間的回帰。「Delfica」§1の「cette ancienne romance… qui toujours recommence（いつも繰り返し始まる古い恋歌）」という永続する過去の反響と照応する。「Se lever devant eux comme l'ombre d'un mort（死者の影のように彼らの前に立ち上がる）」：「ombre d'un mort（死者の影）」という最終形象が「El Desdichado」の「le ténébreux（陰鬱な者）」・「Artémis」の「sainte de l'abîme（深淵の聖女）」という「死者の現前」の系列に接続する。廃墟が亡霊として蘇るという「亡霊的回帰」がネルヴァルの「失われたものの幻的現前」という詩学の建築的・歴史的定式として機能する。",
+      "targetId": "nerval_delfica",
+      "targetParagraphId": 3
+    }
+  ]
+}
