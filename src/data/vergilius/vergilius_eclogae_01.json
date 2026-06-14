@@ -1,0 +1,277 @@
+{
+  "id": "vergilius_eclogae_1",
+  "title": "Eclogae — Ecloga I",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga I. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_I",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "ウェルギリウス（Publius Vergilius Maro, 70–19 BC）の『牧歌（Eclogae vel Bucolica）』第1歌。テオクリトスのギリシア語牧歌（Idyllia）を範とするラテン語牧歌詩の代表作。紀元前42〜41年の土地没収（アクティウム戦争後の退役兵士への土地再配分）を背景に、ティテュルス（Tityrus）とメリボエウス（Meliboeus）という二人の羊飼いの対話を通じて、帰郷と追放という政治的・実存的テーマを詩的に定式化する。ティテュルスはローマの「神」（オクタウィアヌスと解釈される）によって土地を保護された幸運な者であり、メリボエウスは土地を奪われ流浪を余儀なくされた者。この二者の非対称な運命の対置が詩全体のドラマを形成する。「Tityre, tū patulae recubāns sub tegmine fāgī（ティテュルスよ、お前は広いブナの木蔭に横たわって）」という冒頭行は西洋文学史上最も有名なラテン語詩行の一つ。バッジ（「ブナの木蔭でのotium（余暇）」）と流浪（「nos patriam fugimus」）の対比によって牧歌的世界の脆弱性が告知される。詩の閉幕部でティテュルスがメリボエウスを一夜の宿に招く場面は慰めとも悲哀ともとれる曖昧さを持ち、牧歌的世界の回復不可能性を暗示する。ダンテ『神曲』においてウェルギリウスは案内者として登場するが、その詩的根拠の一つがこの『牧歌』の政治的・神学的射程にある。",
+  "keywords": [
+    "otium",
+    "牧歌",
+    "ティテュルス",
+    "メリボエウス",
+    "流浪",
+    "土地没収",
+    "ローマ",
+    "Libertas",
+    "deus",
+    "牧人"
+  ],
+  "relatedTexts": [
+    "horatius_carmina_1_4",
+    "horatius_carmina_2_3",
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–5",
+      "speaker": "Meliboeus",
+      "original": "Tītyre, tū patulae recubāns sub tegmine fāgī\nsilvestrem tenuī Mūsam meditāris avēnā;\nnōs patriae fīnīs et dulcia linquimus arva.\nnōs patriam fugimus; tū, Tītyre, lentus in umbrā\nformōsam resonāre docēs Amaryllida silvās.",
+      "provisionalTranslation": "ティテュルスよ、お前は広いブナの木蔭に横たわって\n細い葦笛で森の詩神を奏でている；\n私たちは祖国の境と甘き田畑を捨て去る。\n私たちは祖国から逃げ去る；ティテュルス、お前はのんびりと木蔭で\n美しいアマリュッリスの名を森々に響かせて教えている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.6–10",
+      "speaker": "Tityrus",
+      "original": "Ō Meliboee, deus nōbīs haec ōtia fēcit.\nnamque erit ille mihī semper deus, illius āram\nsaepe tener nostrīs ab ovīlibus imbuet agnus.\nille meās errāre bovēs, ut cernis, et ipsum\nlūdere quae vellem calamō permīsit agrestī.",
+      "provisionalTranslation": "おおメリボエウスよ、神がわれらにこの安らぎをもたらした。\nなぜなら彼はわたしにとって常に神であり続けるだろう、その祭壇を\n羊囲いからの幼い子羊がしばしば供えるだろう。\n彼はわたしの牛たちをご覧のように歩き回らせ、また\n野の葦笛で望むままに遊ぶことをわたしに許してくれた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–18",
+      "speaker": "Meliboeus",
+      "original": "Nōn equidem invideō, mīror magis; undique tōtīs\nusque adeō turbātur agrīs. ēn ipse capellās\nprōtinus aeger ago; hanc etiam vix, Tītyre, dūcō.\nhīc inter dēnsās corylōs modo namque gemellōs,\nspem gregis, ā, silice in nūdā cōnīxa relīquit.\nsaepe malum hoc nōbīs, sī mēns nōn laeva fuisset,\ndē caelō tactās meminī praedīcere quercūs.\nsed tamen iste deus quī sit dā, Tītyre, nōbīs.",
+      "provisionalTranslation": "わたしは羨んでいるわけではない、むしろ驚いている；あらゆる田畑が\nこれほどまでに乱されているのに。わたし自身、山羊たちを\n今すぐ病みながら追って行く；この一頭もティテュルス、ほとんど引けない。\nここの密なるハシバミの茂みの間でつい今しがた双子を\n（群れの希望を）、ああ、裸の岩の上に産み捨てていった。\nこの災いをわたしたちに、心が曇っていなければ、\n雷に打たれた樫の木が予言していたのをよく覚えている。\nだがそれでもその神とは誰なのかをティテュルス、わたしたちに教えてくれ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.19–25",
+      "speaker": "Tityrus",
+      "original": "Urbem quam dīcunt Rōmam, Meliboee, putāvī\nstultus ego huic nostrae similem, cui saepe solēmus\npāstōrēs ovium tenerōs dēpellere fētūs.\nsīc canibus catulōs similēs, sīc mātribus haedōs\nnōram, sīc parvīs compōnere magna solēbam.\nvērum haec tantum aliās inter caput extulit urbēs\nquantum lenta solent inter vīburna cupressī.",
+      "provisionalTranslation": "ローマと呼ばれるあの都を、メリボエウス、わたしは\n愚かにもわれらのこの町に似ていると思っていた、羊飼いたちが\n羊の幼い子たちをよく連れて来る町に。\nそのように犬の仔犬たち、そのように母親に山羊の子たちを\n似ていると知っていた、そのように小さいものに大きいものを並べていた。\nしかしこの都は他の都市の中で頭を高く上げている、\n柔らかいガマズミの茂みの中の糸杉たちほどに。"
+    },
+    {
+      "id": 5,
+      "verses": "v.26",
+      "speaker": "Meliboeus",
+      "original": "Et quae tanta fuit Rōmam tibi causa videndī?",
+      "provisionalTranslation": "それほどまでにローマを見に行く理由がお前には何だったのか？"
+    },
+    {
+      "id": 6,
+      "verses": "v.27–35",
+      "speaker": "Tityrus",
+      "original": "Lībertās, quae sēra tamen respexit inertem,\ncandidior postquam tondentī barba cadēbat,\nrespexit tamen et longō post tempore vēnit,\npostquam nōs Amarylis habet, Galatea relīquit.\nnamque – fatēbor enim – dum mē Galatea tenēbat,\nnec spēs lībertātis erat nec cūra pecūlī.\nquamvīs multa meīs exīret victima saeptīs\npinguisque ingrātae premerētur cāseus urbī,\nnōn umquam gravis aere domum mihi dextra redībat.",
+      "provisionalTranslation": "自由だ、遅まきながらもわたし怠け者を振り返ってくれた自由が、\n白みがかった顎鬚が刈り取られながら落ちるようになってから、\nそれでも振り返り、長い後の時を経てやって来た、\nアマリュッリスがわたしたちを持ち、ガラテアが去ってから。\nなぜなら──告白しよう──ガラテアがわたしを繋ぎ止めていた間は、\n自由への望みもなく、貯えへの気遣いもなかった。\n柵から多くの生贄が出て行き\n太った乳酪が恩知らずの町へ絞られていたとしても、\n重い銭貨をもって右手が家へ戻ることは決してなかった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.36–39",
+      "speaker": "Meliboeus",
+      "original": "Mīrābar quid maesta deōs, Amarylli, vocārēs,\ncui pendēre suā paterēris in arbore pōma.\nTītyrus hinc aberat. ipsae tē, Tītyre, pīnūs,\nipsi tē fontēs, ipsa haec arbusta vocābant.",
+      "provisionalTranslation": "わたしは不思議だった、なぜアマリュッリスよ、お前が悲しげに神々を呼んでいたのかを、\nなぜ自分の木になる実を熟れたままにしていたのかを。\nティテュルスがここを離れていたのだ。ティテュルスよ、あの松々自身が、\n泉々自身が、この木立ち自身がお前を呼んでいた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.40–45",
+      "speaker": "Tityrus",
+      "original": "Quid facerem? neque servitio mē exīre licēbat\nnec tam praessentīs alibī cognōscere dīvōs.\nhīc illum vīdī iuvenem, Meliboee, quot annīs\nbīs senōs cui nostra diēs altāria fūmant,\nhīc mihi respōnsum prīmus dedit ille petentī:\n'pāscite ut ante bovēs, puerī, submittite taurōs.'",
+      "provisionalTranslation": "わたしに何ができただろう？隷属から抜け出すこともできず\nここ以外でこれほど現前する神々を知ることもできなかった。\nここであの若者を見た、メリボエウスよ、何年もの間\nわれらの日々が十二回の祭壇に煙を立てる若者を、\nここで彼は初めて求めるわたしに答えを与えた：\n「以前のように牛を牧草に放て、少年たちよ、雄牛を育てよ」と。"
+    },
+    {
+      "id": 9,
+      "verses": "v.46–58",
+      "speaker": "Meliboeus",
+      "original": "Fortūnāte senex, ergō tua rūra manēbunt\net tibi magna satis, quamvīs lapis omnia nūdus\nlīmōsōque palūs obducat pāscua iūncō.\nnōn īnsuēta gravis temptābunt pābula fētās\nnec mala vīcinī pecōris contāgia laedent.\nfortūnāte senex, hīc inter flūmina nōta\net fontīs sacrōs frīgus captābis opācum;\nhīnc tibi, quae semper, vīcīnō ab līmite saepēs\nHyblaeīs apibus flōrem dēpāsta salīctī\nsaepe levī somnium suādēbit inīre susurrō;\nhīnc alta sub rūpe canet frondātor ad aurās,\nnec tamen intereā raucae, tua cūra, palumbēs\nnec gemere aeriā cessābit turtur ab ulmō.",
+      "provisionalTranslation": "幸いなる老人よ、かくしてお前の田畑は残るだろう\nお前には十分に広く、たとえ裸の岩がすべてを覆い\n泥の沼が草場を湿った葦で包んでいたとしても。\n慣れない重い飼料が身籠った雌羊たちを誘わず\n隣の群れの悪い感染がお前を傷つけることもないだろう。\n幸いなる老人よ、ここ馴染みの川々の間で\n聖なる泉のほとりで陰の涼しさを楽しむだろう；\nここでいつものように、隣の境界からの垣根が\nヒュブラの蜜蜂が柳の花を食いながら\nしばしば軽やかな囁きでお前を眠りに誘うだろう；\nここ高い岩の下で葉刈り人が風に向かって歌い、\nその間も嗄れ声のキジバト、お前のお気に入りが\n高い楡の木からさえずるのをやめることはないだろう。"
+    },
+    {
+      "id": 10,
+      "verses": "v.59–63",
+      "speaker": "Tityrus",
+      "original": "Ante levēs ergō pascentur in aethere cervī\net freta dēstituent nūdōs in lītore piscēs,\nante perērrātīs ambōrum fīnibus exsul\naut Ararim Parthus bibet aut Germānia Tigrim,\nquam nostrō illīus lābātur pectore vultus.",
+      "provisionalTranslation": "それよりも先に、軽い鹿たちが空中で草を食み\n海が岸辺に裸の魚たちを干上がらせ、\n両国の境を彷徨い果てた亡命者として\nパルティア人がアラリス川を飲み、ゲルマニアがティグリス川を飲むだろう、\nわたしの胸から彼の顔が消え去る前には。"
+    },
+    {
+      "id": 11,
+      "verses": "v.64–78",
+      "speaker": "Meliboeus",
+      "original": "At nōs hinc aliī sitientīs ībimus Afrōs,\npars Scythiam et rapidum crētae veniēmus Oaxen\net penitus tōtō dīvīsōs orbe Britannōs.\nen umquam patriōs longō post tempore fīnīs\npauperis et tuguriī cōngestum caespite culmen,\npost aliquot, mea rēgna, vidēns mīrābor aristās?\nimpius haec tam culta novālia miles habēbit,\nbarbarus hās segetēs. ēn quō discordia cīvis\nprōdūxit miserōs; hīs nōs cōnsēvimus agrōs!\nInsere nunc, Meliboee, pirōs, pōne ōrdine vītēs.\nīte meae, fēlix quondam pecus, īte capellae.\nnōn ego vōs posthāc viridī prōiectus in antrō\ndūmōsa pendēre procul dē rūpe vidēbō;\ncarmina nūlla canam; nōn mē pāscente, capellae,\nflōrentem cytison et salīcēs carpētis amārās.",
+      "provisionalTranslation": "しかしわたしたちはここから別々に渇いたアフリカへ行き、\nある者はスキティアへ、ある者は急流のクレタのオアクセス川へ来るだろう\n世界の果てにあらゆる大陸から隔てられたブリタンニア人のもとへ。\nああ、いつかは長い後の時を経て、祖国の境を、\n貧しい小屋の草の土で積み上げた屋根を、\n幾穂かの──わたしの王国──を見て驚くだろうか？\n不敬な兵士がこれほど耕されたばかりの休閑地を持ち、\n野蛮人がこれらの麦畑を持つ。見よ、どこまで市民の不和が\n哀れな者たちを連れて来たか；これらの田畑にわたしたちが種を播いたのに！\n今や接ぎ木しろ、メリボエウス、梨の木を、葡萄を列に植えろ。\n行け、わたしの山羊たち、かつては幸せな群れよ、行け。\n以後わたしは緑の洞穴に横たわりながら\n藪の岩壁の遠くに揺れているお前たちを見ることはないだろう；\n歌を歌うことはないだろう；わたしが放牧しなければ、山羊たちよ、\nお前たちは花咲くキチシュスや苦い柳をつまむことはないだろう。"
+    },
+    {
+      "id": 12,
+      "verses": "v.79–83",
+      "speaker": "Tityrus",
+      "original": "Hīc tamen hanc mēcum potērās requiēscere noctem\nfronde super viridī. Sunt nōbīs mitia pōma,\ncastaneae mollēs et pressī cōpia lactis,\net iam summa procul villārum culmina fūmant\nmaiorēsque cadunt altīs dē montibus umbrae.",
+      "provisionalTranslation": "だがここでこの夜をわたしと共に休むことができる\n緑の葉の上で。わたしたちには熟れた果実があり、\n柔らかい栗と絞りたての乳が豊かにある、\nそしてもう遠くに農家の屋根の頂が煙り始め\n高い山々から大きな影が落ちてきている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Tītyre, tū patulae recubāns sub tegmine fāgī",
+      "body": "『牧歌』全体の開口部にして西洋文学史上最も有名なラテン語詩行の一つ。ヘクサメトルス（六歩格）の荘重な律動の中に「patulae（広い）」「recubāns（横たわる）」という弛緩した牧歌的余暇（otium）のイメージが結晶する。「tū（お前）」と「nōs（われら）」という人称代名詞の対置が第4行で明示的になり、詩全体の構造的対立（保護された者／追放される者）を初行から予告する。「fagus（ブナ）」は牧歌の場所標識（locus amoenus）の典型的植物であり、テオクリトスの牧歌的風景のラテン語版への参照を担う。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "nōs patriam fugimus",
+      "body": "「わたしたちは祖国から逃げ去る（nōs patriam fugimus）」──紀元前42〜41年の土地没収（アントニウス・オクタウィアヌスによる退役兵士への土地再配分）を背景とする直接的な政治的言及。メリボエウスの個人的喪失が「nos（わたしたち）」という複数形によって一般化され、難民・追放者の集合的経験として提示される。ウェルギリウス自身もマントヴァ近郊の土地没収の被害者であったとされ（後に返還）、この詩行に自伝的要素が投影されている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "formōsam resonāre docēs Amaryllida silvās",
+      "body": "「美しいアマリュッリスの名を森々に響かせて教えている（formōsam resonāre docēs Amaryllida silvās）」──牧歌的エコーの定式：名前が森に反響するという場面がテオクリトス第3歌・第11歌に遡る。「doces（教える）」という動詞が森を生徒として擬人化する──自然が恋人の名前を学ぶという優雅な誇張。この「森の響き」がメリボエウスの追放の嘆きと対比される：ティテュルスの声は場所を持ち、メリボエウスの声は流浪の中に消える。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "deus nōbīs haec ōtia fēcit",
+      "body": "「神がわれらにこの安らぎをもたらした（deus nōbīs haec ōtia fēcit）」──「deus（神）」はオクタウィアヌス（後のアウグストゥス、在位27 BC – 14 AD）を指すと伝統的に解釈される。ウェルギリウスが生前の人間に神性を帰するこの定式は、後のアウグストゥス崇拝の詩的先行形であり同時に政治的感謝の言語的定式。「otia（余暇・安らぎ）」はラテン語詩においてきわめて重要な概念：単なる「暇」ではなく、詩的創作・哲学的観想・牧歌的静寂の全体を含む文化的価値を指す。ホラティウスの「ōtium」概念（Carmina II, 16「Ōtium dīvōs rogat」）と直結する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "lūdere quae vellem calamō permīsit agrestī",
+      "body": "「野の葦笛で望むままに遊ぶことをわたしに許してくれた（lūdere quae vellem calamō permīsit agrestī）」──「lūdere（遊ぶ）」という動詞がラテン語詩学において詩的創作の自己表現として機能する：詩を書くことを「遊び（lūdus）」と呼ぶのはラテン文学の詩学的謙遜（recusatio）の定型であり、カトゥルスの「nugae（たわむれ）」の系譜に連なる。「calamus agrestis（野の葦笛）」はテオクリトスの「σῦριγξ（シュリンクス）」に相当するラテン語訳語で、牧歌ジャンルの詩的自己指示機能を持つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "undique tōtīs\nusque adeō turbātur agrīs",
+      "body": "「あらゆる田畑がこれほどまでに乱されている（undique tōtīs / usque adeō turbātur agrīs）」──受動形「turbātur（乱される）」が土地没収の暴力性を主体不在の自然現象のように提示する。「undique（あらゆる方向から）」という副詞が被害の普遍性を強調する──個人の不幸ではなく歴史的・政治的カタストロフとしての農村解体。メリボエウスの山羊の流産（v.14–15）という具体的な動物の苦しみが政治的混乱の最小単位として提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "spem gregis, ā, silice in nūdā cōnīxa relīquit",
+      "body": "「群れの希望を、ああ、裸の岩の上に産み捨てていった（spem gregis, ā, silice in nūdā cōnīxa relīquit）」──感嘆詞「ā（ああ）」が行の中央に挿入され、詩の流れを中断する感情的頂点として機能する。「spem gregis（群れの希望）」という転義──産まれた双子は群れの将来の希望の象徴であり、その「裸の岩（silex nūda）」への遺棄は土地なき追放の寓意でもある。これはウェルギリウスの詩法の特徴：動物の苦しみを政治的・人間的苦悩の透明な比喩として機能させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Urbem quam dīcunt Rōmam, Meliboee, putāvī\nstultus ego huic nostrae similem",
+      "body": "「ローマと呼ばれる都を……わたしは愚かにも似ていると思っていた（Urbem quam dīcunt Rōmam… stultus ego huic nostrae similem）」──田舎者の素朴な比較の誤りとしての「stultus ego（愚かなわたし）」という自己批判。ティテュルスの認識論的変革（ローマを知ることで世界の秩序を発見する）が牧歌の枠組みの外側にある都市的・帝国的現実の導入を担う。ダンテが『神曲』においてウェルギリウスを案内者とするのは、この「偉大な都市（ローマ）の詩人」というウェルギリウスの政治的・宇宙論的射程への認識に基づく。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "vērum haec tantum aliās inter caput extulit urbēs\nquantum lenta solent inter vīburna cupressī",
+      "body": "「この都は他の都市の中で頭を上げている、柔らかいガマズミの中の糸杉ほどに（vērum haec tantum aliās inter caput extulit urbēs / quantum lenta solent inter vīburna cupressī）」──牧歌的なものから帝国的なものへの比喩的転換を示す最も典型的な場面。「cupressus（糸杉）」は常緑で直立した木であり、「viburnа（ガマズミ）」という低く柔らかい低木との対比がローマと地方都市の差を可視化する。同時に「cupressus」は葬礼・死の木としての伝統を持ち（ホラティウスのOdae II, 14参照）、ローマの偉大さの影に潜む死のモチーフをほのめかす。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Et quae tanta fuit Rōmam tibi causa videndī?",
+      "body": "詩の中で最も短い段落（1行）。メリボエウスの問いの簡潔さが劇的効果を発揮する──長い描写の後の鋭い問い。「quae tanta causa（これほどの理由）」という表現はウェルギリウス的問いの定型であり、『アエネイス』冒頭「Tantae molis erat Romanam condere gentem（これほどの困難があった、ローマ人の民族を建てるには）」の先行形として読める。牧歌的余暇と帝国的現実を繋ぐ蝶番として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Lībertās, quae sēra tamen respexit inertem",
+      "body": "「自由（Libertās）」──ローマ共和政の最高価値概念の一つ。「libertas」は法的には奴隷解放（manumissio）を、政治的には共和政的自由を、哲学的にはストア的・エピクロス的自律を指す多義的な語。ティテュルスが「自由（libertas）」を求めてローマへ行ったという動機付けは、政治的保護者（「神」＝オクタウィアヌス）への依存と自律への欲求という逆説を内包する。「sēra（遅まきながら）」「inertem（怠け者を）」という自己批判的形容が告白的なトーンを生む。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "dum mē Galatea tenēbat,\nnec spēs lībertātis erat nec cūra pecūlī",
+      "body": "「ガラテアがわたしを繋ぎ止めていた間は、自由への望みもなく、貯えへの気遣いもなかった（dum mē Galatea tenēbat / nec spēs lībertātis erat nec cūra pecūlī）」──「Galatea（ガラテア）」と「Amaryllis（アマリュッリス）」という二人の女性名が恋愛関係の変化として示されるが、これは実際の人物を指すのではなく、詩的・牧歌的な生の様式の変化を象徴する。「pecūlium（貯え）」は奴隷が自由を買うための蓄えであり、「libertas」との語の連鎖が奴隷解放という法的背景を示す。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Mīrābar quid maesta deōs, Amarylli, vocārēs,\ncui pendēre suā paterēris in arbore pōma.",
+      "body": "「なぜアマリュッリスが悲しげに神々を呼んでいたのか、なぜ実を木に熟れたままにしておいたのかが不思議だった」──メリボエウスが回想する形でティテュルス不在中のアマリュッリスの行動を描写する。「pendēre suā paterēris in arbore pōma（自分の木になる実を熟れたままにしておいた）」──収穫されない果実は農業的・経済的放棄のイメージであり、ティテュルス不在による生活の停滞を具体化する。牧歌的経済（収穫・世話・繁殖）の秩序がティテュルス一人の存在に依存するという脆弱な構造の暗示。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "ipsae tē, Tītyre, pīnūs,\nipsi tē fontēs, ipsa haec arbusta vocābant.",
+      "body": "「あの松々自身が、泉々自身が、この木立ち自身がお前を呼んでいた（ipsae tē, Tītyre, pīnūs / ipsi tē fontēs, ipsa haec arbusta vocābant）」──三重のアナフォラ（ipsae / ipsi / ipsa）が感情的な高まりを生む詩的頂点。自然の三要素（樹木・水・低木）が名前を呼ぶという擬人法は、第1段落「formōsam resonāre docēs Amaryllida silvās」の鏡像：ティテュルスが森に名前を教えるのに対し、森がティテュルスを呼ぶ。自然とティテュルスの双方向の呼応関係が牧歌的共同体（人間と自然の調和）として提示される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "hīc illum vīdī iuvenem, Meliboee, quot annīs\nbīs senōs cui nostra diēs altāria fūmant",
+      "body": "「ここであの若者を見た……われらの日々が十二回の祭壇に煙を立てる」──「iuvenem（若者）」はオクタウィアヌス（当時21〜22歳）を指すと解釈される。「bis senos dies altaria fumant（十二回の日々に祭壇が煙を立てる）」──月12回の（あるいは年12か月の）礼拝が「神」としてのオクタウィアヌスへの定期的な奉仕として描かれる。生前の人間への神的礼拝という詩的表現が、後のアウグストゥス崇拝（後に公式化される皇帝礼拝）の詩的予告として機能する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "'pāscite ut ante bovēs, puerī, submittite taurōs.'",
+      "body": "「以前のように牛を牧草に放て、少年たちよ、雄牛を育てよ」──神（オクタウィアヌス）の託宣の直接話法。「ut ante（以前のように）」という時間的回帰の命令が、土地没収という断絶をもなかったものとして過去の連続性を回復する言葉として機能する。しかしこの許可がティテュルス一人に与えられ、メリボエウスには与えられないという非対称性が詩全体の批評的緊張を生む──「神」の恩寵の恣意性への詩的問い掛け。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Fortūnāte senex, ergō tua rūra manēbunt",
+      "body": "「幸いなる老人よ、かくしてお前の田畑は残るだろう（Fortūnāte senex, ergō tua rūra manēbunt）」──感嘆的な直接話法の呼びかけが二重のトーンを持つ：表面的には羨望と祝福、しかし「Fortūnāte（幸いなる）」の反復は自分自身の不幸との対比を際立たせる修辞的装置。この句の反復（v.46・v.51）がメリボエウスの嘆きの主旋律となる。「ergō（かくして）」という接続詞が諦念を示す──「（あれほどの神の恩寵があったのだから）当然そうなるだろう」という因果の受け入れ。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "saepe levī somnium suādēbit inīre susurrō",
+      "body": "「しばしば軽やかな囁きでお前を眠りに誘うだろう（saepe levī somnium suādēbit inīre susurrō）」──「s」の頭韻（saepe / levī / somnium / suādēbit / susurrō）がラテン語詩において最も有名な音響的模倣（onomatopoeia）例の一つ。蜜蜂の「susurrus（囁き・ぶんぶんという音）」が「somnium（眠り）」を誘うという感覚的連鎖が六步格の流れの中で音楽的に実現される。マラルメが『骰子一擲』で追求した「音楽としての詩」の先行的実例。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Ante levēs ergō pascentur in aethere cervī\net freta dēstituent nūdōs in lītore piscēs,",
+      "body": "「軽い鹿たちが空中で草を食み、海が岸辺に裸の魚たちを干上がらせる前には」──アデュナタ（adynata）の定型：「起こりえない逆説的事象のリスト」という修辞的比喩。「空中で草を食む鹿」「陸に干上がった魚」という自然の逆転が「決してない」の最大級表現として機能する。テオクリトスの牧歌的誓いの修辞を受け継ぎながら、ウェルギリウスはそれにパルティアとゲルマニアというローマの政治的現実を加えることで、牧歌的誓いを帝国的文脈に組み込む。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "quam nostrō illīus lābātur pectore vultus.",
+      "body": "「わたしの胸から彼の顔が消え去る前には（quam nostrō illīus lābātur pectore vultus）」──ティテュルスの「神」への崇敬の感情的頂点。「pectore（胸）」は感情・記憶の座として機能するラテン語詩の慣用的身体部位。しかしこの崇敬の言葉が直後のメリボエウスの追放の嘆き（第11段落）と並置されることで、皮肉な響きを帯びる──恩恵を受けた者の無条件の感謝と、恩恵を受けなかった者の沈黙の怒りが詩の空白に共存する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "At nōs hinc aliī sitientīs ībimus Afrōs",
+      "body": "「しかしわたしたちはここから別々に渇いたアフリカへ行く（At nōs hinc aliī sitientīs ībimus Afrōs）」──「At（しかし）」という逆接の接続詞がティテュルスの幸運な定着（v.59–63）からメリボエウスの散逸へと詩の方向を転換する。「aliī（別々に）」という形容詞が共同体の解体を示す──追放者は一つの場所に行くのではなく、それぞれが異なる方向へ散っていく。「sitientīs Afrōs（渇いたアフリカ人）」という転義表現：アフリカ（北アフリカ砂漠）は「渇き」という身体的苦痛の象徴として地理的に具体化される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "impius haec tam culta novālia miles habēbit,\nbarbarus hās segetēs.",
+      "body": "「不敬な兵士がこれほど耕されたばかりの休閑地を持ち、野蛮人がこれらの麦畑を持つ（impius haec tam culta novālia miles habēbit / barbarus hās segetēs）」──「impius（不敬な）」「barbarus（野蛮人）」という強い道徳的・文化的評価語が、土地を奪う兵士への批判として機能する。「ピエタス（pietas）」の欠如──ローマ的価値体系において土地への敬意・先祖への敬意・神々への敬意を失った者が「impius」である。ウェルギリウスの政治的批評の最も鋭い表現。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Insere nunc, Meliboee, pirōs, pōne ōrdine vītēs.",
+      "body": "「今や接ぎ木しろ、メリボエウス、梨の木を、葡萄を列に植えろ（Insere nunc, Meliboee, pirōs, pōne ōrdine vītēs）」──命令法（insere / pone）の逆説的・皮肉な使用。自分自身（メリボエウス）に向けて命令形を使うことで、農業的労働の意味喪失を表現する：「もうこの土地はわたしのものではないのに、接ぎ木して何になる？」という問いの修辞的昇華。ローマ農業詩の伝統（ウェルギリウス自身の後の『農耕詩』）の文脈では、農業は文化と秩序の象徴であり、その放棄は文明の崩壊を意味する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "carmina nūlla canam",
+      "body": "「歌を歌うことはないだろう（carmina nūlla canam）」──詩的沈黙の宣言。追放が詩の不可能性を意味するという命題。「carmen（歌・詩）」はラテン語詩において詩的創作そのものを指す自己指示的語彙。場所の喪失が声の喪失と等置される──土地なき詩人は歌えない、という牧歌の前提的公理の露呈。マラルメの「白紙の恐怖（l'horreur du blanc）」やブランショの「書くことの不可能性」という近代的な詩的沈黙の問いの古代的先行形として読める。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Hīc tamen hanc mēcum potērās requiēscere noctem",
+      "body": "「だがここでこの夜をわたしと共に休むことができる（Hīc tamen hanc mēcum potērās requiēscere noctem）」──「tamen（それでも・だが）」という逆接が詩の閉幕を複雑にする：ティテュルスの招待は真の慰めなのか、それとも追放の前夜の最後の猶予に過ぎないのか。「potērās（できるだろう）」という半過去（可能性・不確実性のニュアンスを持つ）は「もしよければ」という留保を含む。一夜の休息がメリボエウスの旅の出発を延期するが、翌朝には追放の運命が再開する──牧歌的慰めの一時性・儚さ。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "et iam summa procul villārum culmina fūmant\nmaiorēsque cadunt altīs dē montibus umbrae.",
+      "body": "「もう遠くに農家の屋根の頂が煙り始め、高い山々から大きな影が落ちてきている（et iam summa procul villārum culmina fūmant / maiorēsque cadunt altīs dē montibus umbrae）」──詩の最終二行。夕暮れの描写が牧歌的クロージャー（closure）として機能する：「煙（fūmant）」は炉のある家・帰属する場所の象徴であり、「大きな影（maiorēs umbrae）」は夜の到来・終わりの接近を告げる。しかしこの「家の煙」はティテュルスのものであり、メリボエウスには帰る家がない──美しい夕暮れの情景が二人の運命の非対称を静かに刻印して詩を閉じる。"
+    }
+  ]
+}
