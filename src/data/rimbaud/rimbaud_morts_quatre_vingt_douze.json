@@ -1,0 +1,129 @@
+{
+  "id": "rimbaud_morts_quatre_vingt_douze",
+  "title": "Morts de quatre-vingt-douze",
+  "author": "Arthur Rimbaud",
+  "source": "Reliquaire, poésies, L. Genonceaux, 1891, p. 9-10. Wikisource: https://fr.wikisource.org/wiki/Reliquaire,_po%C3%A9sies/Morts_de_quatre-vingt-douze",
+  "year": "1870",
+  "firstPublication": "Reliquaire, poésies, L. Genonceaux, 1891",
+  "difficulty": "中級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ランボー16歳、1870年9月3日にパリのマザ監獄（Mazas）で書かれた詩。末尾「Fait à Mazas, 3 septembre 1870（マザにて、1870年9月3日作）」という付記が残る。ランボーは1870年8月、無賃乗車でパリに向かいマザ監獄に収監された──この政治詩はその獄中で書かれた。エピグラフはボナパルティスト系新聞「Le Pays（国）」の記者ポール・ド・カサニャック（Paul de Cassagnac、1843–1904）の論説からの引用：1870年のフランス（普仏戦争の敗色濃厚）において、ボナパルティスト系論者が「1792年の革命的先祖の精神に帰れ」と呼びかけたものへの皮肉的応答として詩が書かれた。構造：変形ソネット（4-4-3-3行）。呼びかける死者たちの系譜：1792年の義勇兵（ヴァルミーの戦い・フルーリュスの戦い・イタリア遠征という革命軍の三大戦役）。第I連・第II連では二人称複数「Vous（あなたたち）」によって死者への崇高な讃美が展開されるが、第III連（テルセット）で「Nous（私たち）」という現在の臆病な生者の対比が設定され、最終行「Messieurs de Cassagnac nous reparlent de vous（カサニャック氏たちがあなたたちについて再び語る）」という辛辣な皮肉で締め括られる。死者への賛歌が現在の政治的偽善への告発として反転する構造が詩全体の批評的緊張をなす。「Ô Million de Christs aux yeux sombres et doux（暗く優しい目をした百万のキリストたちよ）」というキリスト的犠牲の形象が「Le Christ aux Oliviers」（ネルヴァル）・「Les Pauvres à l'église」（ランボー自身）の宗教的批評と連続する。",
+  "keywords": [
+    "1792年",
+    "革命",
+    "ヴァルミー",
+    "フルーリュス",
+    "カサニャック",
+    "普仏戦争",
+    "マザ監獄",
+    "政治詩",
+    "死者への呼びかけ",
+    "皮肉"
+  ],
+  "relatedTexts": [
+    "rimbaud_le_bateau_ivre",
+    "rimbaud_saison_prologue",
+    "nerval_anteros",
+    "nerval_christ_aux_oliviers",
+    "baudelaire_abel_et_cain",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "« … Français de soixante-dix, bonapartistes,\nrépublicains, souvenez-vous de vos pères en 92,\netc…\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nPAUL DE CASSAGNAC\n(Le Pays)",
+      "provisionalTranslation": "「……70年のフランス人たちよ、ボナパルティストたちよ、\n共和主義者たちよ、92年におけるあなたたちの祖先を思い出せ、\nなど……\n……………………………………………\nポール・ド・カサニャック\n（ル・ペイ紙）"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Morts de Quatre-vingt-douze et de Quatre-vingt-treize,\nQui, pâles du baiser fort de la liberté,\nCalmes, sous vos sabots, brisiez le joug qui pèse\nSur l'âme et sur le front de toute humanité ;",
+      "provisionalTranslation": "九十二年と九十三年の死者たちよ、\n自由の強い口づけに青ざめながら、\n穏やかに、木靴の下で、あらゆる人類の\n魂と額に重くのしかかる軛を砕いた者たちよ；"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Hommes extasiés et grands dans la tourmente,\nVous dont les cœurs sautaient d'amour sous les haillons,\nÔ Soldats que la Mort a semés, noble Amante,\nPour les régénérer, dans tous les vieux sillons ;",
+      "provisionalTranslation": "嵐の中で恍惚とし偉大だった人々よ、\nぼろを身につけながら心が愛で躍動していた者たちよ、\nおお、崇高な恋人たる死が、再生させるために\nすべての古い畝に蒔いた兵士たちよ；"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "Vous dont le sang lavait toute grandeur salie,\nMorts de Valmy, Morts de Fleurus, Morts d'Italie,\nÔ Million de Christs aux yeux sombres et doux ;",
+      "provisionalTranslation": "その血があらゆる汚された偉大さを洗い清めた者たちよ、\nヴァルミーの死者たちよ、フルーリュスの死者たちよ、イタリアの死者たちよ、\nおお、暗く優しい目をした百万のキリストたちよ；"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Nous vous laissions dormir avec la République,\nNous, courbés sous les rois comme sous une trique :\n− Messieurs de Cassagnac nous reparlent de vous !",
+      "provisionalTranslation": "私たちはあなたたちを共和国とともに眠らせていた、\n私たちは、棍棒の下のように王たちの下に屈みながら：\n──カサニャック氏たちがあなたたちについて再び私たちに語る！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "PAUL DE CASSAGNAC\n(Le Pays)",
+      "body": "ポール・ド・カサニャック（Paul de Cassagnac、1843–1904）：ボナパルティスト系政治家・ジャーナリスト。新聞「Le Pays（国）」の論説記者として普仏戦争期（1870–71）に活動。引用されたエピグラフは1870年の論説からで、「70年のフランス人たちよ（ボナパルティストも共和主義者も）、1792年の先祖の精神を思い出せ」と呼びかけたもの。ランボーの詩はこの呼びかけへの皮肉的応答として構造化される：カサニャックが「思い出せ」と言う同じ死者たちを、ランボーは詩的に召喚しながら、最終行でカサニャック自身の行為（「nous reparlent de vous：あなたたちについて再び語る」）を告発的に指し示す。「etc…（など）」という省略と点線（……）による引用の不完全な切断が、ランボーがカサニャックの言説を皮肉的に扱っていることを形式的に示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Morts de Quatre-vingt-douze et de Quatre-vingt-treize,\nQui, pâles du baiser fort de la liberté,",
+      "body": "「九十二年と九十三年の死者たちよ」──フランス革命の最も過激な時期への参照。1792年：フランス第一共和政の宣言・ヴァルミーの戦い（プロイセン軍撃退）・フルーリュスの戦い準備。1793年：恐怖政治・ヴァンデの反乱・対外戦争の激化。「pâles du baiser fort de la liberté（自由の強い口づけに青ざめながら）」：「自由（liberté）」が「口づけ（baiser）」という官能的行為の主体として擬人化される──「強い口づけに青ざめる」という矛盾した形象が、自由への献身が同時に死（青白さ）をもたらすことを示す。ネルヴァル「Antéros」の「La race d'Antée（アンタイオスの種族）」という征服された者たちの誇り高い系譜宣言と同系の「死者への歴史的呼びかけ」の詩的形式。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Calmes, sous vos sabots, brisiez le joug qui pèse\nSur l'âme et sur le front de toute humanité ;",
+      "body": "変形ソネット（4-4-3-3行）のアレクサンドラン、交差韻（ABAB / CDCD / EEF / GGF）。「sous vos sabots（木靴の下で）」：木靴（sabots）は農民・民衆階級の典型的履物──革命軍の兵士が「貴族的装飾」でなく「民衆の木靴」のまま戦ったという階級的形象。「le joug qui pèse / Sur l'âme et sur le front（魂と額に重くのしかかる軛）」：「魂（âme）」と「額（front）」という内的・外的二軸への圧迫として専制支配を定義する。「Calmes（穏やかに）」という形容詞が、激烈な戦場にあっても「穏やかさ」を保った義勇兵の精神的偉大さを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Hommes extasiés et grands dans la tourmente,\nVous dont les cœurs sautaient d'amour sous les haillons,",
+      "body": "「嵐の中で恍惚とし偉大だった人々よ、ぼろを身につけながら心が愛で躍動していた者たちよ」──貧困と精神的偉大さの逆説的共存。「extasiés（恍惚とした）」：宗教的恍惚・法悦の語彙が革命的戦士に適用される──「神への法悦」が「自由への法悦」として世俗化される。「cœurs sautaient d'amour sous les haillons（ぼろを身につけながら心が愛で躍動した）」：「haillons（ぼろ）」という貧困の外見と「cœurs sautaient d'amour（愛で躍動する心）」という内的豊かさの対比。ヴェイユ「La Violence（力）」章の「力は内的生命を抹消する」という命題への逆説的反例として読める：革命軍の兵士たちは貧困と暴力の中で「内的生命（心の躍動）」を保持していた。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ô Soldats que la Mort a semés, noble Amante,\nPour les régénérer, dans tous les vieux sillons ;",
+      "body": "「崇高な恋人たる死が、再生させるために古い畝に蒔いた兵士たちよ」──農業的・性的・宗教的形象の融合。「la Mort a semés（死が蒔いた）」：「死（Mort）」が農夫として、兵士たちを「種（semences）」として「蒔く（semer）」形象。「noble Amante（崇高な恋人）」：死の擬人化が「恋人（Amante）」という性的形象として提示される──「Ophélie」の「le vent baise ses seins（風が胸に口づける）」と同系の官能的死の形象。「vieux sillons（古い畝）」：フランスの農土・歴史的土地という形象が「再生（régénérer）」の場として機能する。「Chanson gothique」の「Semons de roses / Les pas du Temps（時の歩みに薔薇を蒔こう）」という享楽的「蒔く」動詞が、ここでは死者の血という「種蒔き」として反転する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Vous dont le sang lavait toute grandeur salie,\nMorts de Valmy, Morts de Fleurus, Morts d'Italie,",
+      "body": "「その血があらゆる汚された偉大さを洗い清めた者たちよ、ヴァルミーの死者たちよ、フルーリュスの死者たちよ、イタリアの死者たちよ」──革命戦争の三大戦役の列挙。「Morts de Valmy（ヴァルミーの死者たち）」：1792年9月20日、シャンパーニュのヴァルミー（Valmy）でプロイセン軍を撃退した戦い──ゲーテが目撃した「新しい時代の始まり」として著名。「Morts de Fleurus（フルーリュスの死者たち）」：1794年6月26日、現ベルギーのフルーリュス（Fleurus）でオーストリア軍を破った革命軍の大勝利。「Morts d'Italie（イタリアの死者たち）」：1796–97年のナポレオンのイタリア遠征への参照。三度の「Morts de（……の死者たち）」という反復的列挙がアナフォラ（anaphore）として死者への哀悼・讃美を累積させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ô Million de Christs aux yeux sombres et doux ;",
+      "body": "「暗く優しい目をした百万のキリストたちよ」──詩全体のうちで最も圧縮された神学的形象。「Million de Christs（百万のキリストたち）」：複数形・大量数詞によるキリストの形象の民衆的・集合的スケールへの拡大──一人の個別的キリストではなく「百万の民衆的キリスト」という革命的神学。「aux yeux sombres et doux（暗く優しい目をした）」：「sombres（暗い）」と「doux（優しい）」という対立的形容詞の共存が、犠牲者の悲劇性（暗さ）と聖性（優しさ）を同時に担う。ネルヴァル「Le Christ aux Oliviers」の「神の死・犠牲」主題が、ここでは民衆の集合的キリスト的犠牲として政治化される。ヨブ記第1章の義人ヨブへの試練（「innocents qui souffrent」）と革命軍義勇兵の死の構造的照応。",
+      "targetId": "nerval_christ_aux_oliviers",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nous vous laissions dormir avec la République,\nNous, courbés sous les rois comme sous une trique :",
+      "body": "詩の決定的転換点：「Vous（あなたたち）」から「Nous（私たち）」への人称転換。「Nous vous laissions dormir avec la République（私たちはあなたたちを共和国とともに眠らせていた）」：「laissions（放置していた）」という半過去の告白が現在の世代の消極的な歴史的態度を定義する。「dormir avec la République（共和国とともに眠る）」：共和国が「死者とともに眠っている」という形象──1870年のフランスは第二帝政（ナポレオン3世）下にあり、「共和国」は確かに「眠って（廃されて）いた」。「courbés sous les rois comme sous une trique（棍棒の下のように王たちの下に屈みながら）」：「trique（棍棒）」という粗野な語彙が支配への服従を品格なく提示する──第I・II連の革命的死者たちの崇高さとの語彙的落差が現在世代の卑小さを際立たせる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "− Messieurs de Cassagnac nous reparlent de vous !",
+      "body": "詩全体の結語にして最も皮肉的な命題。ダッシュ（−）で導かれる最終行がエピグラフのカサニャック引用を直接回収する。「Messieurs de Cassagnac（カサニャック氏たち）」：「Messieurs（氏たち）」という複数の丁寧語が冷徹な距離化・皮肉的尊称として機能する。「nous reparlent de vous（あなたたちについて再び私たちに語る）」：「reparlent（再び語る）」という動詞の反復接頭辞「re-」が、カサニャックの「革命への呼びかけ」が新しいものでなく借用・消費的行為に過ぎないことを示す。ボナパルティスト系の言論人が革命的先祖を「政治的道具」として召喚することの偽善──崇高な死者が「Messieurs（御紳士方）」によって言論空間で消費される逆説が詩全体の批評的結語として刻まれる。「Antéros」の「Je retourne les dards contre le dieu vainqueur（矢を征服神に向けて撃ち返す）」という詩人の反撃的姿勢と同系のアイロニカルな政治的批評。",
+      "targetId": "nerval_anteros",
+      "targetParagraphId": 1
+    }
+  ]
+}
