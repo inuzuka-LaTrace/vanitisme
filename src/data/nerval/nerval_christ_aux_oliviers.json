@@ -1,0 +1,303 @@
+{
+  "id": "nerval_christ_aux_oliviers",
+  "title": "Le Christ aux Oliviers",
+  "author": "Gérard de Nerval",
+  "source": "Les Chimères, Michel Lévy Frères, 1856 (1ère éd. 1854), p. 295-297. Wikisource: https://fr.wikisource.org/wiki/Les_Chim%C3%A8res/Le_Christ_aux_Oliviers",
+  "year": "1854",
+  "firstPublication": "Les Filles du feu, 1854（付録『キメラ（Les Chimères）』所収）",
+  "difficulty": "上級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『キメラ（Les Chimères）』第7詩篇にして最大の作品。5つのソネット（70行）から成る連作で、ゲッセマネの園でのキリストの苦悩を題材とする。エピグラフはドイツ・ロマン主義作家ジャン・パウル（Jean Paul Richter、1763–1825）の小説『ジーベンケース（Siebenkäs）』第1巻付録「死せるキリストが宇宙の頂から語る、神は存在しないと（Rede des toten Christus vom Weltgebäude herab, daß kein Gott sei）」（1796）からの引用：「Dieu est mort ! le ciel est vide… / Pleurez ! enfants, vous n'avez plus de père !（神は死んだ！天は空だ……泣け！子供たちよ、あなたたちにはもはや父がいない！）」。この「神の死」というテーマはニーチェ（1882年）に先行すること50年以上、ロマン主義的神学的危機の文学的表現として先駆的な位置を占める。5つのソネットはキリストの告白の展開を追う：I「神は存在しない！」という衝撃的宣言、II「空虚な宇宙の探索」、III「Nécessité（必然）への問い」、IV「ユダへの呼びかけとピラトによる逮捕」、V「神話的英雄たちとの同一視・オラクルの沈黙」。ヴェイユ「Nécessité（必然）」章の「神は必然性を通じて間接的に働く」という命題が、ここでは「Froide Nécessité（冷たい必然）」として非人格的宇宙の力として問い直される。『キメラ』全体の中で神学的・哲学的射程が最も広く、マラルメ「エロディアード」・リルケ「ドゥイノの悲歌」・ボードレール「De profundis clamavi」との深い主題的照応を持つ。",
+  "keywords": [
+    "神の死",
+    "Nécessité",
+    "Dieu n'est pas",
+    "abîme",
+    "Judas",
+    "Icare",
+    "Phaéton",
+    "Atys",
+    "Jean Paul",
+    "ゲッセマネ"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_anteros",
+    "nerval_artemis",
+    "weil_necessite",
+    "weil_atheisme_purificateur",
+    "hieronymus_iob_1",
+    "hieronymus_psalm_21",
+    "baudelaire_de_profundis_clamavi",
+    "rilke_duineser_elegien_01",
+    "mallarme_herodiade_ouverture"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Dieu est mort ! le ciel est vide…\nPleurez ! enfants, vous n'avez plus de père !\nJEAN PAUL.",
+      "provisionalTranslation": "神は死んだ！天は空だ……\n泣け！子供たちよ、あなたたちにはもはや父がいない！\nジャン・パウル。"
+    },
+    {
+      "id": 1,
+      "verses": "I, v.1–4",
+      "original": "Quand le Seigneur, levant au ciel ses maigres bras,\nSous les arbres sacrés, comme font les poëtes,\nSe fut longtemps perdu dans ses douleurs muettes,\nEt se jugea trahi par des amis ingrats ;",
+      "provisionalTranslation": "主が、やせ細った腕を天へと上げ、\n聖なる木々の下で、詩人たちがするように、\n沈黙の痛みの中に長いあいだ沈んでいき、\n恩知らずの友人たちに裏切られたと感じたとき；"
+    },
+    {
+      "id": 2,
+      "verses": "I, v.5–8",
+      "original": "Il se tourna vers ceux qui l'attendaient en bas\nRêvant d'être des rois, des sages, des prophètes…\nMais engourdis, perdus dans le sommeil des bêtes,\nEt se prit à crier : « Non, Dieu n'existe pas ! »",
+      "provisionalTranslation": "彼は下で待っていた者たちの方へ振り向いた\n王に、賢者に、預言者になることを夢見ていた者たちへ……\nしかし彼らは麻痺し、獣の眠りの中に失われていた、\nそして彼は叫び出した：「否、神は存在しない！」"
+    },
+    {
+      "id": 3,
+      "verses": "I, v.9–11",
+      "original": "Ils dormaient. « Mes amis, savez-vous la nouvelle ?\nJ'ai touché de mon front à la voûte éternelle ;\nJe suis sanglant, brisé, souffrant pour bien des jours !",
+      "provisionalTranslation": "彼らは眠っていた。「友よ、この知らせを知っているか？\n私は額で永遠の天蓋に触れた；\n私は血まみれで、砕かれ、長い苦しみを受けている！"
+    },
+    {
+      "id": 4,
+      "verses": "I, v.12–14",
+      "original": "Frères, je vous trompais : Abîme ! abîme ! abîme !\nLe dieu manque à l'autel où je suis la victime…\nDieu n'est pas ! Dieu n'est plus ! » Mais ils dormaient toujours !",
+      "provisionalTranslation": "兄弟たちよ、私はあなたたちを騙していた：深淵！深淵！深淵！\n私が犠牲者となっている祭壇に神がいない……\n神はいない！神はもういない！」しかし彼らは相変わらず眠っていた！"
+    },
+    {
+      "id": 5,
+      "verses": "II, v.1–4",
+      "original": "Il reprit : « Tout est mort ! J'ai parcouru les mondes ;\nEt j'ai perdu mon vol dans leurs chemins lactés,\nAussi loin que la vie, en ses veines fécondes,\nRépand des sables d'or et des flots argentés :",
+      "provisionalTranslation": "彼は続けた：「すべては死んだ！私は世界を旅した；\nそして私は飛翔を彼らの天の川の道で失った、\n生命が、その豊かな静脈の中で、\n黄金の砂と銀の流れを広げるかぎり遠くまで："
+    },
+    {
+      "id": 6,
+      "verses": "II, v.5–8",
+      "original": "Partout le sol désert côtoyé par des ondes,\nDes tourbillons confus d'océans agités…\nUn souffle vague émeut les sphères vagabondes,\nMais nul esprit n'existe en ces immensités.",
+      "provisionalTranslation": "いたるところ波に沿った砂漠の大地、\n荒れ狂う大洋の乱れた渦……\n漠然とした息吹が放浪する天球を揺り動かす、\nしかしこの広大さの中に霊は存在しない。"
+    },
+    {
+      "id": 7,
+      "verses": "II, v.9–11",
+      "original": "En cherchant l'œil de Dieu, je n'ai vu qu'un orbite\nVaste, noir et sans fond ; d'où la nuit qui l'habite\nRayonne sur le monde et s'épaissit toujours ;",
+      "provisionalTranslation": "神の目を探して、私は眼窩しか見なかった\n広大で、黒く、底なしの；そこに宿る夜が\n世界の上に放射し、常に濃くなっていく；"
+    },
+    {
+      "id": 8,
+      "verses": "II, v.12–14",
+      "original": "Un arc-en-ciel étrange entoure ce puits sombre,\nSeuil de l'ancien chaos dont le néant est l'ombre,\nSpirale, engloutissant les Mondes et les Jours ! »",
+      "provisionalTranslation": "奇妙な虹がこの暗い井戸を取り囲む、\n虚無が影となる古代の混沌の敷居、\nらせん状に、世界と日々を呑み込みながら！」"
+    },
+    {
+      "id": 9,
+      "verses": "III, v.1–4",
+      "original": "« Immobile Destin, muette sentinelle,\nFroide Nécessité !… Hasard qui t'avançant,\nParmi les mondes morts sous la neige éternelle,\nRefroidis, par degrés, l'univers pâlissant,",
+      "provisionalTranslation": "「動かぬ運命よ、無言の番兵よ、\n冷たい必然よ！……永遠の雪の下で死んだ世界の中を\n進みながら、次第に\n青ざめる宇宙を冷やす偶然よ、"
+    },
+    {
+      "id": 10,
+      "verses": "III, v.5–8",
+      "original": "Sais-tu ce que tu fais, puissance originelle,\nDe tes soleils éteints, l'un l'autre se froissant…\nEs-tu sûr de transmettre une haleine immortelle,\nEntre un monde qui meurt et l'autre renaissant ?…",
+      "provisionalTranslation": "あなたは知っているか自分が何をしているかを、根源の力よ、\n互いにこすれ合う消えた太陽たちで……\nあなたは確かに不死の息吹を伝えているか、\n死にゆく世界と再生する別の世界のあいだで？……"
+    },
+    {
+      "id": 11,
+      "verses": "III, v.9–11",
+      "original": "Ô mon père ! est-ce toi que je sens en moi-même ?\nAs-tu pouvoir de vivre et de vaincre la mort ?\nAurais-tu succombé sous un dernier effort",
+      "provisionalTranslation": "ああ、父よ！自分の中に感じるのはあなたか？\nあなたは生き、死を征服する力を持っているか？\nあなたは最後の努力の下に屈したのか"
+    },
+    {
+      "id": 12,
+      "verses": "III, v.12–14",
+      "original": "De cet ange des nuits que frappa l'anathème…\nCar je me sens tout seul à pleurer et souffrir,\nHélas ! et, si je meurs, c'est que tout va mourir ! »",
+      "provisionalTranslation": "呪詛を受けたあの夜の天使の下に……\nなぜなら私は泣き苦しみながらまったく孤独に感じるから、\nああ！もし私が死ぬなら、すべてが死ぬということだ！」"
+    },
+    {
+      "id": 13,
+      "verses": "IV, v.1–4",
+      "original": "Nul n'entendait gémir l'éternelle victime,\nLivrant au monde en vain tout son cœur épanché ;\nMais prêt à défaillir et sans force penché,\nIl appela le seul — éveillé dans Solyme :",
+      "provisionalTranslation": "誰も永遠の犠牲者が呻くのを聞いていなかった、\n溢れ出る心のすべてを虚しく世界に捧げながら；\nしかし倒れそうになりながら力なく身を傾け、\n彼はソリムでただひとり——目覚めている者を呼んだ："
+    },
+    {
+      "id": 14,
+      "verses": "IV, v.5–8",
+      "original": "« Judas ! lui cria-t-il, tu sais ce qu'on m'estime,\nHâte-toi de me vendre, et finis ce marché :\nJe suis souffrant, ami ! sur la terre couché…\nViens ! ô toi qui, du moins, as la force du crime ! »",
+      "provisionalTranslation": "「ユダよ！彼は叫んだ、あなたは私がどう値踏みされるか知っている、\n急いで私を売り、この取引を終わらせよ：\n私は苦しんでいる、友よ！大地に横たわりながら……\n来い！少なくとも罪を犯す力を持つあなたよ！」"
+    },
+    {
+      "id": 15,
+      "verses": "IV, v.9–11",
+      "original": "Mais Judas s'en allait, mécontent et pensif,\nSe trouvant mal payé, plein d'un remords si vif\nQu'il lisait ses noirceurs sur tous les murs écrites…",
+      "provisionalTranslation": "しかしユダは去っていった、不満そうで物思いに沈みながら、\n支払いが悪いと感じ、これほど烈しい悔恨に満ちながら\n彼はすべての壁に書き込まれた自分の悪を読んでいた……"
+    },
+    {
+      "id": 16,
+      "verses": "IV, v.12–14",
+      "original": "Enfin Pilate seul, qui veillait pour César,\nSentant quelque pitié, se tourna par hasard :\n« Allez chercher ce fou ! » dit-il aux satellites.",
+      "provisionalTranslation": "ついにカエサルのために番をしていたピラトだけが、\nいくらかの憐れみを感じながら、偶然に振り向いた：\n「あの狂人を連れてこい！」と彼は衛兵たちに言った。"
+    },
+    {
+      "id": 17,
+      "verses": "V, v.1–4",
+      "original": "C'était bien lui, ce fou, cet insensé sublime…\nCet Icare oublié qui remontait les cieux,\nCe Phaéton perdu sous la foudre des dieux,\nCe bel Atys meurtri que Cybèle ranime !",
+      "provisionalTranslation": "それはまさに彼だった、あの狂人、あの崇高な錯乱者……\n天へと再び昇っていくあの忘れられたイカロス、\n神々の雷の下で失われたあのパエトン、\nキュベレーが蘇らせるあの傷ついた美しいアッティス！"
+    },
+    {
+      "id": 18,
+      "verses": "V, v.5–8",
+      "original": "L'augure interrogeait le flanc de la victime,\nLa terre s'enivrait de ce sang précieux…\nL'univers étourdi penchait sur ses essieux,\nEt l'Olympe un instant chancela vers l'abîme.",
+      "provisionalTranslation": "占い師が犠牲者の脇腹を問い尋ねていた、\n大地はこの貴重な血に酔いしれていた……\n眩暈をおぼえた宇宙はその軸の上で傾き、\nオリュンポスは一瞬、深淵の方へよろめいた。"
+    },
+    {
+      "id": 19,
+      "verses": "V, v.9–11",
+      "original": "« Réponds ! criait César à Jupiter Ammon,\nQuel est ce nouveau dieu qu'on impose à la terre ?\nEt si ce n'est un dieu, c'est au moins un démon… »",
+      "provisionalTranslation": "「答えよ！カエサルはユピテル・アンモンに叫んだ、\n大地に押しつけられているこの新しい神は何者か？\nもし神でないなら、少なくとも悪魔だ……」"
+    },
+    {
+      "id": 20,
+      "verses": "V, v.12–14",
+      "original": "Mais l'oracle invoqué pour jamais dut se taire ;\nUn seul pouvait au monde expliquer ce mystère :\n— Celui qui donna l'âme aux enfants du limon.",
+      "provisionalTranslation": "しかし呼び起こされた神託は永遠に沈黙しなければならなかった；\nただひとりだけが世界にこの謎を説明できた：\n——泥の子らに魂を与えた者が。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Dieu est mort ! le ciel est vide…\nPleurez ! enfants, vous n'avez plus de père !",
+      "body": "ジャン・パウル（Jean Paul Richter、1763–1825）の小説『ジーベンケース（Siebenkäs）』第1巻付録「死せるキリストが宇宙の頂から語る、神は存在しないと（Rede des toten Christus vom Weltgebäude herab, daß kein Gott sei）」（1796）からの引用。ネルヴァルはこの夢幻的散文テキストを1829年頃に読んだとされる。「Dieu est mort（神は死んだ）」という命題はヘーゲル『精神現象学』（1807）の「神の死」論・ニーチェ「ツァラトゥストラかく語りき」（1883–85）の「神は死んだ（Gott ist tot）」に先行する最も早い文学的定式化のひとつ。「le ciel est vide（天は空だ）」：天が「空」であるという命題がソネットIIの「En cherchant l'œil de Dieu, je n'ai vu qu'un orbite / Vaste, noir et sans fond（神の目を探して、眼窩しか見なかった）」として詩的に展開される。「vous n'avez plus de père（あなたたちにはもはや父がいない）」：キリスト教的「天の父（Notre Père）」の喪失の宣告。ヴェイユ「Athéisme purificateur」§1「真の矛盾対：神が存在する・神が存在しない」という両者同時確信の神学的対話がこのエピグラフを出発点とする神学的危機から読める。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quand le Seigneur, levant au ciel ses maigres bras,\nSous les arbres sacrés, comme font les poëtes,",
+      "body": "「主が、やせ細った腕を天へと上げ、聖なる木々の下で、詩人たちがするように」──「comme font les poëtes（詩人たちがするように）」という直喩が詩全体の神学的・詩学的立場を定める：キリストの祈りと詩人の創作行為が同一の身体的姿勢として重ねられる。「maigres bras（やせ細った腕）」という肉体的形容が福音書のキリスト像から離れ、苦悩する詩人の身体として再形象化する。「arbres sacrés（聖なる木々）」：オリーブの木々（ゲッセマネ＝「油絞り場」の意）が「神々しい植物」として「Delfica」の「sycomore・lauriers・olivier・myrthe・saules」の植物系列に接続される。マタイ伝26章36節「Gethsémani」の場面が詩的変容を受けている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et se prit à crier : « Non, Dieu n'existe pas ! »",
+      "body": "「そして彼は叫び出した：否、神は存在しない！」──ソネットIの結語的宣言。福音書的「Eli, Eli, lema sabachthani（わが神、わが神、なぜ私を見捨てたのか）」（マタイ伝27:46、詩篇22篇）の神学的急進化：「見捨てられた」という嘆きから「神は存在しない」という断定への転換。感嘆符付きの引用符内宣言という形式が「Antéros」v.10「Ô tyrannie !」と同一の告発的修辞として機能する。詩人ネルヴァルがキリストに自己を投影することで、詩人の「神なき世界における詩作」という実存的問いが神学的問いとして重ねられる。",
+      "targetId": "hieronymus_psalm_21",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "J'ai touché de mon front à la voûte éternelle ;",
+      "body": "「私は額で永遠の天蓋に触れた」──「voûte éternelle（永遠の天蓋）」という形象。「voûte（天蓋・丸天井）」はゴシック大聖堂の建築的形象でもある──天を「建築物の天蓋」として経験することが、§4「l'autel（祭壇）」・「le sévère portique（厳粛な柱廊）」（Delfica）という宗教建築の語彙と連続する。「touché de mon front（額で触れた）」：額というもっとも象徴的な身体部位（「Il m'a marqué le front de sa lèvre irritée」Antéros§2との照応）が天蓋に達するという垂直的到達の形象。しかしその天蓋の向こうには何もない──§7「En cherchant l'œil de Dieu, je n'ai vu qu'un orbite / Vaste, noir et sans fond」として宇宙的虚無が展開される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Frères, je vous trompais : Abîme ! abîme ! abîme !\nLe dieu manque à l'autel où je suis la victime…\nDieu n'est pas ! Dieu n'est plus ! » Mais ils dormaient toujours !",
+      "body": "ソネットIの結三行。「Abîme ! abîme ! abîme !（深淵！深淵！深淵！）」──三重の反復が詩集全体で最も激烈なアナフォラ（反復）として機能する。「abîme」は「Artémis」結句「la sainte de l'abîme（深淵の聖女）」・「Antéros」§3「du fond des enfers（奈落の底から）」と同一の垂直的「底なし」の形象系を形成する。「Le dieu manque à l'autel（祭壇に神がいない）」：祭壇という宗教的装置が機能不全に陥る──犠牲者（victime）がいるのに神がいないという宗教的空虚の構造。「Dieu n'est pas ! Dieu n'est plus !（神はいない！神はもういない！）」：現在形（n'est pas）と複合形（n'est plus）の二重の否定が「存在の不在」と「存在の終焉」を区別する。「Mais ils dormaient toujours !（しかし彼らは相変わらず眠っていた！）」：弟子たちの眠りという福音書的細部が繰り返されることで、神の不在の宣告を受ける者が誰もいないという二重の孤独が確定される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Il reprit : « Tout est mort ! J'ai parcouru les mondes ;",
+      "body": "「すべては死んだ！私は世界を旅した」──ソネットIIの開口部。「Tout est mort（すべては死んだ）」：コヘレト第1章v.2「omnia vanitas（すべては虚無）」の神学的急進化──「虚無」から「死」への転換。「J'ai parcouru les mondes（私は世界を旅した）」：キリストが宇宙的探索者として再定義される。ジャン・パウルの「死んだキリストが宇宙の頂から語る」というテキストの「宇宙的視点」が詩的に展開される。「leurs chemins lactés（彼らの天の川の道）」：「chemins lactés（天の川）」がキリストの飛翔と宇宙的彷徨の経路として機能する──「El Desdichado」「j'ai deux fois vainqueur traversé l'Achéron」の冥界的渡河と対比される宇宙的渡河。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Un souffle vague émeut les sphères vagabondes,\nMais nul esprit n'existe en ces immensités.",
+      "body": "「漠然とした息吹が放浪する天球を揺り動かす、しかしこの広大さの中に霊は存在しない」──宇宙論的虚無の核心命題。「souffle vague（漠然とした息吹）」：「Horus」のクネフ（宇宙の息吹の神）・「Delfica」§3「un souffle prophétique（予言の息吹）」という「souffle」の詩集内連続が、ここでは「vague（漠然とした）」という形容詞によって非人格化される。「nul esprit n'existe（霊は存在しない）」：創世記1章v.2「Spiritus Dei ferebatur super aquas（神の霊が水の上を動いていた）」の反転──神の霊の偏在がここでは完全な「霊の不在」として宣告される。ヴェイユ「Nécessité」章の「神は必然性を通じて間接的に働く」という命題が、「nul esprit n'existe」という否定として問い直される。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "En cherchant l'œil de Dieu, je n'ai vu qu'un orbite\nVaste, noir et sans fond ; d'où la nuit qui l'habite\nRayonne sur le monde et s'épaissit toujours ;",
+      "body": "「神の目を探して、眼窩しか見なかった、広大で黒く底なしの」──詩集『キメラ』全体を通じて最も強烈な神学的形象。「l'œil de Dieu（神の目）」：神の摂理的眼差しの伝統的象徴（三位一体の目・プロビデンスの目）を探す行為。「orbite（眼窩）」：目が存在せず「空の眼窩」だけが残る──神の「眼差し」の場所（orbite）に目（œil）がないという形象。「El Desdichado」の「Soleil noir de la Mélancolie（憂鬱の黒い太陽）」と照応する：太陽（神の目）の位置に黒い空洞が存在する。「Vaste, noir et sans fond（広大で、黒く、底なし）」：三つの形容詞がそれぞれ宇宙的（vaste）・光学的（noir）・垂直的（sans fond）な次元で虚無を規定する。「la nuit qui l'habite Rayonne（宿る夜が放射する）」：夜が「放射する（rayonner）」という逆説的発光──「黒い太陽」と同一の自己矛盾的形象。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Un arc-en-ciel étrange entoure ce puits sombre,\nSeuil de l'ancien chaos dont le néant est l'ombre,\nSpirale, engloutissant les Mondes et les Jours ! »",
+      "body": "ソネットIIの結三行。「arc-en-ciel étrange（奇妙な虹）」：「Horus」の結句「l'écharpe d'Iris（イリスの肩掛け）＝虹」が、ここでは「étrange（奇妙な）」という形容詞によって神的な美の象徴から不気味な縁取りへと反転される。「puits sombre（暗い井戸）」：神の目の眼窩が「井戸」という下降的形象として言い換えられる。「dont le néant est l'ombre（虚無が影となる）」：「néant（虚無）」が「ombre（影）」として定義される──影は実体の欠如であり、虚無の影＝虚無の虚無という無限後退の形象。「Spirale, engloutissant les Mondes et les Jours（らせん状に、世界と日々を呑み込みながら）」：螺旋形が宇宙的渦巻きとして「Mondes（世界）」と「Jours（日々）」という空間と時間の両軸を同時に呑み込む終末論的形象。感嘆符（!）が詩集最長の叫びとして機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "« Immobile Destin, muette sentinelle,\nFroide Nécessité !… Hasard qui t'avançant,",
+      "body": "「動かぬ運命よ、無言の番兵よ、冷たい必然よ！……偶然よ」──ソネットIIIはキリストによる非人格的宇宙の力への問いかけとして展開される。三つの呼びかけ対象が連続する：「Destin（運命）」・「Nécessité（必然）」・「Hasard（偶然）」。ヴェイユ「Nécessité（必然）」章の思想的核心との直接的照応：ヴェイユは「必然（nécessité）」を神の意志の間接的媒体として積極的に再解釈するが、ネルヴァルのキリストはその「必然」を「Froide（冷たい）」・「Immobile（動かぬ）」という非情な力として問い質す。「muette sentinelle（無言の番兵）」：番人が沈黙するという形象がヨブ記の「神の沈黙」（iob_1）と照応する。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Sais-tu ce que tu fais, puissance originelle,\nDe tes soleils éteints, l'un l'autre se froissant…\nEs-tu sûr de transmettre une haleine immortelle,\nEntre un monde qui meurt et l'autre renaissant ?…",
+      "body": "「あなたは知っているか自分が何をしているかを……あなたは確かに不死の息吹を伝えているか」──宇宙的力への問いの連続。「puissance originelle（根源の力）」：神の代わりに「原初的力」が呼びかけられる──人格神から非人格的力への置換。「soleils éteints（消えた太陽たち）」：「El Desdichado」「Ma seule étoile est morte（私のただひとつの星は死んだ）」の単数的喪失が、ここでは複数の「消えた太陽たち」という宇宙的規模の喪失として展開される。「une haleine immortelle（不死の息吹）」：「souffle vague（漠然とした息吹）」（§6）への反問──その息吹は本当に「不死」なのかという疑問。省略記号（…）二つが問いの不確定性・未完結性を形式化する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Ô mon père ! est-ce toi que je sens en moi-même ?\nAs-tu pouvoir de vivre et de vaincre la mort ?",
+      "body": "「ああ、父よ！自分の中に感じるのはあなたか？あなたは生き、死を征服する力を持っているか？」──ソネットIII第1三行詩の核心問い。「Ô mon père（ああ、父よ）」：ルカ伝23章46節「Père, entre tes mains je remets mon esprit（父よ、あなたの手に私の霊を委ねます）」の引用・変奏。しかしネルヴァルのキリストは「委ねる」のではなく「あなたは存在するか？力があるか？」と問い質す──ヨブ的な神への質問として。「As-tu pouvoir de vivre et de vaincre la mort（生き、死を征服する力を持っているか）」：「resurrectio（復活）」という神学的確信が問いとして宙吊りにされる。ヴェイユの「affliction（苦悩）」において神が沈黙するという命題がここでは問い形式で先取りされる。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Car je me sens tout seul à pleurer et souffrir,\nHélas ! et, si je meurs, c'est que tout va mourir ! »",
+      "body": "ソネットIIIの結二行。「je me sens tout seul（私はまったく孤独に感じる）」：「Antéros」§4「protégeant tout seul ma mère（ただひとりで母を守りながら）」の「tout seul」が、ここでは戦闘的孤独ではなく嘆きの孤独として反響する。「si je meurs, c'est que tout va mourir（もし私が死ぬなら、すべてが死ぬ）」：キリストの死が宇宙的死として定義される命題──神の子の死がエピグラフ「Dieu est mort（神は死んだ）」の宇宙論的帰結として確認される。「Hélas !（ああ！）」：「Artémis」§2「Sous la pâleur d'Abel, hélas ! ensanglantée」と同一の嘆きの間投詞が、ここではより広い宇宙論的文脈で使用される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Nul n'entendait gémir l'éternelle victime,\nLivrant au monde en vain tout son cœur épanché ;",
+      "body": "「誰も永遠の犠牲者が呻くのを聞いていなかった、溢れ出る心のすべてを虚しく世界に捧げながら」──ソネットIVの語り手視点への転換。「l'éternelle victime（永遠の犠牲者）」：「victime（犠牲者）」がソネットI§4「l'autel où je suis la victime（私が犠牲者となっている祭壇）」で自称されていたのが、ここでは三人称的・客観的形象として距離化される。「en vain（虚しく）」：コヘレト的「vanitas（虚無）」の動詞的形象。「Nul n'entendait（誰も聞いていなかった）」：ソネットI「Mais ils dormaient toujours（しかし彼らは相変わらず眠っていた）」の変奏──弟子たちの眠りという無応答状態の継続。「cœur épanché（溢れ出る心）」：「épancher（溢れ出る）」という動詞が「Myrtho」§2「j'avais bu l'ivresse（酩酊を飲んでいた）」の充満と逆のベクトル（流出・消尽）として機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "« Judas ! lui cria-t-il, tu sais ce qu'on m'estime,\nHâte-toi de me vendre, et finis ce marché :\nJe suis souffrant, ami ! sur la terre couché…\nViens ! ô toi qui, du moins, as la force du crime ! »",
+      "body": "「ユダよ！……急いで私を売り……少なくとも罪を犯す力を持つあなたよ！」──ソネットIVの最も逆説的な場面。「Judas（ユダ）」への呼びかけが福音書を完全に転倒させる：裏切り者ユダが「唯一の能動的行為者」として召喚される。「tu sais ce qu'on m'estime（あなたは私がどう値踏みされるか知っている）」：銀30枚という「値段（estime）」への参照が経済的語彙で贖いを定義する。「Hâte-toi de me vendre（急いで私を売れ）」：キリスト自身が自らの売却を命じるという逆説的命令法。「la force du crime（罪を犯す力）」：「力（force）」の所在がここでは罪の側にある──ヴェイユ「La Violence（力）」章の「力は常に動き回る」という命題が、ここでは「crime（犯罪）」という形で唯一の行動的力として現れる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Enfin Pilate seul, qui veillait pour César,\nSentant quelque pitié, se tourna par hasard :\n« Allez chercher ce fou ! » dit-il aux satellites.",
+      "body": "「ついにピラトだけが……偶然に振り向いた：あの狂人を連れてこい！」──ソネットIVの結三行。「Pilate seul（ピラトだけが）」：「le seul éveillé dans Solyme（ソリムでただひとり目覚めている者）」として召喚されたユダが去り、次に「唯一（seul）」の応答者として現れるのが異邦人の為政者ピラト──神学的逆説の深化。「quelque pitié（いくらかの憐れみ）」という不定冠詞が憐れみの限定性・不確かさを示す。「par hasard（偶然に）」：ソネットIII§9で呼びかけられた「Hasard（偶然）」が、ここではピラトの行動の偶発的動機として歴史的現実に降りてくる。「ce fou（あの狂人）」：キリストが「狂人（fou）」として括弧に入れられる──「cet insensé sublime（あの崇高な錯乱者）」（§17）への伏線。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "glossary",
+      "anchor": "Cet Icare oublié qui remontait les cieux,\nCe Phaéton perdu sous la foudre des dieux,\nCe bel Atys meurtri que Cybèle ranime !",
+      "body": "「忘れられたイカロス……失われたパエトン……キュベレーが蘇らせるアッティス！」──ソネットVの神話的同一視の三連。「Icare oublié（忘れられたイカロス）」：蝋の翼で太陽に近づきすぎ墜落したイカロス（オウィディウス『変身物語』第8巻）──「神の眼窩（orbite vaste）」への到達を試みて失敗するキリストのイカロス的形象。「oublié（忘れられた）」という形容が「El Desdichado」の「Non est priorum memoria（先のことどもの記憶はない）」と照応する。「Phaéton perdu sous la foudre des dieux（神々の雷の下で失われたパエトン）」：太陽の馬車を制御できず雷に撃たれたパエトン（第2巻）──「神の力」によって破壊される神の子というパラドクス。「Atys meurtri que Cybèle ranime（キュベレーが蘇らせる傷ついたアッティス）」：フリギアの神アッティスは自己去勢・死・キュベレーによる復活の神。「Horus」§3でイシスが「la robe de Cybèle（キュベレーの衣）」をまとうと宣言した直後の文脈で、ここにアッティスが再登場する詩集内連続。キリスト＝イカロス＝パエトン＝アッティスという「神の子の失墜と再生」の多神話的習合。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "prosody",
+      "anchor": "L'augure interrogeait le flanc de la victime,\nLa terre s'enivrait de ce sang précieux…\nL'univers étourdi penchait sur ses essieux,\nEt l'Olympe un instant chancela vers l'abîme.",
+      "body": "ソネットVの第2四行詩。「L'augure interrogeait le flanc de la victime（占い師が犠牲者の脇腹を問い尋ねた）」：ローマの占卜師（augure）が犠牲動物の内臓を読む（haruspicine）という宗教的実践がキリストの磔刑に重ねられる──「脇腹（flanc）」はヨハネ伝19章34節で兵士に槍で刺された箇所。「La terre s'enivrait de ce sang précieux（大地はこの貴重な血に酔いしれた）」：「Myrtho」§2「j'avais bu l'ivresse（酩酊を飲んだ）」の陶酔が、ここでは大地が「血で酔いしれる」という暗い変奏として展開される。「L'Olympe un instant chancela vers l'abîme（オリュンポスは一瞬、深淵の方へよろめいた）」：ソネットI§4「Abîme ! abîme ! abîme !」の「深淵」がここでオリュンポス（神々の住処）を引き込む宇宙論的力として機能する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "« Réponds ! criait César à Jupiter Ammon,\nQuel est ce nouveau dieu qu'on impose à la terre ?\nEt si ce n'est un dieu, c'est au moins un démon… »",
+      "body": "「答えよ！カエサルはユピテル・アンモンに叫んだ……この新しい神は何者か？」──ソネットVの逆転的問いかけ。「Jupiter Ammon（ユピテル・アンモン）」：エジプトのアメン神とローマのユピテルが習合した神格。アレクサンドロス大王がこの神の神託所（シワのオアシス）を訪れ「神の子」と宣告されたという伝説を喚起する──「Horus」のエジプト神話との連続。「Quel est ce nouveau dieu（この新しい神は何者か）」：「Delfica」の問いかけ構造「Reconnais-tu（あなたは認識するか）」と対応する形で、今度はカエサルが問い手として登場する。「un démon（悪魔）」：神か悪魔かという二項対立が使徒行伝17章18節でのアテネ人のパウロへの反応を想起させる。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "glossary",
+      "anchor": "Mais l'oracle invoqué pour jamais dut se taire ;\nUn seul pouvait au monde expliquer ce mystère :\n— Celui qui donna l'âme aux enfants du limon.",
+      "body": "ソネットVの結三行にして「Le Christ aux Oliviers」全体の結語。「l'oracle invoqué pour jamais dut se taire（呼び起こされた神託は永遠に沈黙しなければならなかった）」：「Delfica」の「rien n'a dérangé le sévère portique（厳粛な柱廊は何も乱されていない）」と照応する沈黙の確定。「pour jamais（永遠に）」という時間的限定が沈黙の不可逆性を宣告する。「Un seul pouvait au monde expliquer ce mystère（ただひとりだけが世界にこの謎を説明できた）」：「ce mystère（この謎）」という語が「Artémis」の解読不可能な謎的構造と照応する。「Celui qui donna l'âme aux enfants du limon（泥の子らに魂を与えた者が）」：創世記2章7節「formavit igitur Dominus Deus hominem de limo terrae（主なる神は大地の塵で人間を形作った）」への参照。「limon（泥・沖積土）」はヘブライ語「adamah（赤い土）」の訳語。謎を解けるのは神のみ──しかしその神は「永遠に沈黙した」という円環的結語が詩全体を閉じる。ダッシュ（—）が「Delfica」「Artémis」と同一の最終的断言の形式として機能し、「キメラ」第7篇を、答えなき問いの石棺として封印する。",
+      "targetId": "weil_atheisme_purificateur",
+      "targetParagraphId": null
+    }
+  ]
+}
