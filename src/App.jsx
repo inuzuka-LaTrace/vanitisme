@@ -65,6 +65,7 @@ import hieronymusData from './data/hieronymus';
 import liturgyData from './data/liturgy';
 import horatiusData from './data/horatius';
 import catullusData from './data/catullus';
+import vergiliusData from './data/vergilius';
 import platoData from './data/plato';
 import meleagerData from './data/meleager';
 import palladasData from './data/palladas';
@@ -304,6 +305,7 @@ export default function App() {
       ...liturgyData,
       ...horatiusData,
       ...catullusData,
+      ...vergiliusData,
       ...platoData,
       ...meleagerData,
       ...palladasData,
