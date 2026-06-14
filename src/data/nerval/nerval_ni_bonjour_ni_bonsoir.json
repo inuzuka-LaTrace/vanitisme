@@ -1,0 +1,97 @@
+{
+  "id": "nerval_ni_bonjour_ni_bonsoir",
+  "title": "Ni bonjour, ni bonsoir",
+  "author": "Gérard de Nerval",
+  "source": "Petits châteaux de Bohême, Eugène Didier, 1853, p. 41. Wikisource: https://fr.wikisource.org/wiki/Ni_bonjour,_ni_bonsoir",
+  "year": "1853",
+  "firstPublication": "Petits châteaux de Bohême, Eugène Didier, 1853",
+  "difficulty": "初級",
+  "category": "nerval",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジェラール・ド・ネルヴァル（1808–1855）の詩集『ボヘミアの小城（Petits châteaux de Bohême）』（1853）所収の小詩。副題「Sur un air grec（ギリシア語の旋律にのせて）」が示すとおり、ギリシア語のリフレイン「Νὴ καλιμερα, νὴ ωρα καλὶ（おはようでも、よい時刻でもない）」を詩の構造的支柱として用いる。わずか6行の詩の中に、朝と夜・光と影・現在と忘却という対立が凝縮されている。「Le matin n'est plus ! le soir pas encore（朝はもうない！夕暮れはまだ）」という中間的時間の宙吊りが詩の主題：これはコヘレト的「Nihil sub sole novum（太陽の下に新しいものは何もない）」の時間論的変奏として読め、朝・昼・夜という時間の循環において「あいだ」の瞬間を切り取る。「Les Papillons」の「Perdu dans ce vert linceul（緑の経帷子の中に失われながら）」と同様、詩人は時間の「あいだ（ni… ni…）」に位置する存在として自らを定位する。ローデンバック「L'Oubli（忘却）」と照応する「la nuit, plus tard, amène l'oubli（夜は、後で、忘却をもたらす）」という最終行が、忘却を解放・慰めとして肯定する。「Myrtho」のポジリポ（Pausilippe＝「苦しみを止める場所」）的慰めの地誌が、ここでは「忘却（oubli）」という時間的状態として抽象化される。",
+  "keywords": [
+    "ni bonjour ni bonsoir",
+    "matin",
+    "soir",
+    "oubli",
+    "ギリシア語",
+    "リフレイン",
+    "中間的時間",
+    "aurore",
+    "vermeil",
+    "忘却"
+  ],
+  "relatedTexts": [
+    "nerval_el_desdichado",
+    "nerval_myrtho",
+    "nerval_les_papillons",
+    "rodenbach_loubli",
+    "hieronymus_ecclesiastes_1",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "original": "Sur un air grec",
+      "provisionalTranslation": "ギリシア語の旋律にのせて"
+    },
+    {
+      "id": 1,
+      "verses": "v.1",
+      "original": "Νὴ καλιμερα, νὴ ωρα καλὶ.",
+      "provisionalTranslation": "おはようでも、よい時刻でもない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.2–3",
+      "original": "Le matin n'est plus ! le soir pas encore :\nPourtant de nos yeux l'éclair a pâli.",
+      "provisionalTranslation": "朝はもうない！夕暮れはまだ：\nそれでも私たちの目の閃光は青ざめた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.4",
+      "original": "Νὴ καλιμερα, νὴ ωρα καλὶ.",
+      "provisionalTranslation": "おはようでも、よい時刻でもない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.5–6",
+      "original": "Mais le soir vermeil ressemble à l'aurore,\nEt la nuit, plus tard, amène l'oubli !",
+      "provisionalTranslation": "しかし朱色の夕暮れは曙に似ている、\nそして夜は、後で、忘却をもたらす！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "glossary",
+      "anchor": "Sur un air grec",
+      "body": "「ギリシア語の旋律にのせて」──副題が詩の形式的特徴を定義する。ネルヴァルはギリシア・東方への旅行（1843年）を経験しており、近代ギリシア語への親しみがあった。「air grec（ギリシア語の旋律）」という定義は詩を歌謡（chanson）として位置づける：「Myrtho」の「ancienne romance（古い恋歌）」・「Delfica」の「chanson d'amour qui toujours recommence（いつも繰り返し始まる愛の歌）」と同系の「歌」的形式。「air」は音楽的「旋律（mélodie）」を指し、ギリシア語リフレインが実際の旋律として繰り返されることで詩は「歌われた詩（poème chanté）」としての性格を持つ。ヴェルレーヌ「秋の歌（Chanson d'automne）」の「chanson（歌）」との詩形的照応。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Νὴ καλιμερα, νὴ ωρα καλὶ.",
+      "body": "近代ギリシア語の定式。「Νὴ（né）」は否定「……でない（neither）」；「καλιμερα（kalimera）」は「カリメラ」：「καλή（美しい・よい）＋μέρα（日）」＝「おはようございます（good morning）」；「ωρα καλὶ（ora kali）」：「ωρα（hora：時刻・時間）＋καλή（よい）」＝「よい時刻（good hour）」。全体の意：「おはようでもなく、よい時刻でもない」──朝の挨拶と昼の挨拶の両方を否定する。この定式が詩題「Ni bonjour, ni bonsoir（おはようでも、こんばんはでもない）」のフランス語版の直接的対応物。ギリシア語原文の文字（Νὴ, καλιμερα, ωρα, καλὶ）がフランス語詩に埋め込まれることで、「古代・近代ギリシアの言語」が「Myrtho」・「Delfica」の異教的ギリシアへの回帰の声として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le matin n'est plus ! le soir pas encore :\nPourtant de nos yeux l'éclair a pâli.",
+      "body": "「朝はもうない！夕暮れはまだ：それでも私たちの目の閃光は青ざめた」──詩の哲学的核心命題。「Le matin n'est plus（朝はもうない）」と「le soir pas encore（夕暮れはまだ）」：二重の否定が時間的「あいだ（entre-deux）」を定義する。「Les Papillons」§1の「Entre la plante et l'oiseau（植物と鳥のあいだ）」という中間的存在の定義がここでは時間的「あいだ」として反復される。コヘレト第1章v.5「Oritur sol et occidit（太陽は昇り、沈む）」という太陽の循環が、ここでは「昇り（matin）」と「沈み（soir）」の「あいだ」として焦点化される。「de nos yeux l'éclair a pâli（私たちの目の閃光は青ざめた）」：「éclair（閃光）」は「Myrtho」§2「l'éclair furtif de ton œil souriant（微笑む目の素早い閃光）」と同一の語。眼の閃光の消滅が生命力・愛の情熱の衰退として形象化される。「a pâli（青ざめた）」：「Artémis」§2「la pâleur d'Abel（アベルの青白さ）」の「pâleur」と同語根。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais le soir vermeil ressemble à l'aurore,\nEt la nuit, plus tard, amène l'oubli !",
+      "body": "「しかし朱色の夕暮れは曙に似ている、そして夜は、後で、忘却をもたらす！」──詩の結語。「le soir vermeil ressemble à l'aurore（朱色の夕暮れは曙に似ている）」：「vermeil（朱色・深紅）」という色彩が夕焼けと夜明けの視覚的類似を定着させる。この「終わりが始まりに似ている」という命題がコヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものはこれから来るもの）」の循環的同一性の詩的変奏として機能する。「Horus」の「Les cieux rayonnaient sous l'écharpe d'Iris（天はイリスの肩掛けの下で輝き渡っていた）」という虹の光が、ここでは「soir vermeil（朱色の夕暮れ）」という夕焼けの光として再登場する。「la nuit, plus tard, amène l'oubli（夜は、後で、忘却をもたらす）」：「l'oubli（忘却）」がローデンバック「L'Oubli」の忘却的慰めと照応する──夜と忘却の連合が時間的「消去」として肯定的に定義される。感嘆符（!）が詩の最後の音調として「忘却」を嘆きではなく解放的な肯定として封印する。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    }
+  ]
+}
