@@ -1,0 +1,235 @@
+{
+  "id": "vergilius_eclogae_4",
+  "title": "Eclogae — Ecloga IV",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga IV. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_IV",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第4歌。「メシア詩（Ecloga Messianica）」とも呼ばれる、全63行の予言詩。ポッリオの執政官就任（BC 40）を契機に書かれ、クマエのシビュラ（Sibylla Cumaea）の予言書に基づく「黄金時代（aurea aetas）の回帰」と、それをもたらす「神の子（deum suboles）」の誕生を詠う。誰を指すかは古代から論争が絶えない──ポッリオの息子・オクタウィアヌスとスクリボニアの子（後のユリア）・アントニウスとオクタウィアの子など諸説あり、最終的な同定は不明のまま。中世キリスト教世界ではこの詩がキリストの降誕を予言したものと解釈され（コンスタンティヌス帝の演説・アウグスティヌス・ダンテ等）、ウェルギリウスを「自然的キリスト教徒（anima naturaliter christiana）」として位置づける伝統の根拠となった。ダンテ『神曲』煉獄篇第22歌でスタティウス（Statius）がウェルギリウスのこの詩によって改宗したと語る場面が最も有名な中世的受容。「Ultima Cumaei venit iam carminis aetas（クマエの詩の最後の時代がいま来た）」・「magnus ab integro saeclorum nascitur ordo（世代の大きな秩序が再び始まりから生まれる）」・「Incipe, parve puer（始めよ、小さな子よ）」等の詩句が西洋文明における黄金時代・救済・歴史の再生という主題の根源的定式として機能する。",
+  "keywords": [
+    "黄金時代",
+    "aurea aetas",
+    "メシア詩",
+    "Ultima Cumaei",
+    "magnus ordo",
+    "puer",
+    "Pollio",
+    "Parcae",
+    "予言",
+    "救済"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_3",
+    "dante_purgatorio_canto_1",
+    "hieronymus_apocalypsis_21",
+    "hieronymus_ioannes_01"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "speaker": "Poeta",
+      "original": "Sicelides Musae, paulo maiora canamus.\nnon omnis arbusta iuvant humilesque myricae;\nsi canimus silvas, silvae sint consule dignae.",
+      "provisionalTranslation": "シキリアのムーサエよ、少し大きな題材を歌おう。\n木立ちと低いタマリスクがすべての人を喜ばせるわけではない；\n森々を歌うなら、森々は執政官にふさわしいものであるように。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–10",
+      "speaker": "Poeta",
+      "original": "Ultima Cumaei venit iam carminis aetas;\nmagna ab integro saeclorum nascitur ordo.\niam redit et Virgo, redeunt Saturnia regna,\niam nova progenies caelo demittitur alto.\ntu modo nascenti puero, quo ferrea primum\ndesinet ac toto surget gens aurea mundo,\ncasta fave Lucina; tuus iam regnat Apollo.",
+      "provisionalTranslation": "クマエの詩の最後の時代がいま来た；\n世代の大きな秩序が再び始まりから生まれる。\nいま処女座も戻り、サトゥルヌスの王国も戻る、\nいま新しい子孫が高い天から降ろされる。\nどうかお前だけは生まれ来る子どもに、その子によって鉄の種族がまず\n終わり黄金の種族が全世界に生まれ出る子どもに、\n清らかなルキナよ、恵みを与えよ；いまお前のアポッロが治める。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11–17",
+      "speaker": "Poeta",
+      "original": "Teque adeo decus hoc aevi, te consule, inibit,\nPollio, et incipient magni procedere menses;\nte duce, si qua manent sceleris vestigia nostri,\ninrita perpetua solvent formidine terras.\nille deum vitam accipiet divisque videbit\npermixtos heroas et ipse videbitur illis\npacatumque reget patriis virtutibus orbem.",
+      "provisionalTranslation": "そしてとりわけこの時代の栄光はお前の執政官就任の年に始まるだろう、\nポッリオよ、そして偉大な月々が進み始めるだろう；\nお前の指導のもとで、もしわたしたちの罪の跡が何か残っているなら、\nそれらは無効化され永続する恐れから大地を解放するだろう。\n彼は神々の生を受け、神々と混ざり合った\n英雄たちを見るだろう、そして自身も彼らに見られ\n平和にされた世界を父祖の美徳をもって統治するだろう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.18–25",
+      "speaker": "Poeta",
+      "original": "At tibi prima, puer, nullo munuscula cultu\nerrantis hederas passim cum baccare tellus\nmixtatque ridenti colocasia fundet acantho.\nipsae lacte domum referent distenta capellae\nubera nec magnos metuent armenta leones;\nipsa tibi blandos fundent cunabula flores.\noccidet et serpens et fallax herba veneni\noccidet; Assyrium vulgo nascetur amomum.",
+      "provisionalTranslation": "しかしお前への最初の贈り物として、少年よ、耕作なしに\n彷徨う蔦とバッカルを至る所で大地が\n笑う花咲くアカンサスに混ぜて注ぎ出すだろう。\n山羊たち自身が張った乳房を家に運んで来るだろう\nそして牛の群れは大きなライオンたちを恐れないだろう；\nゆりかご自身がお前にやさしい花々を注ぎ出すだろう。\n蛇も滅び、毒の欺く草も\n滅びるだろう；アッシリアのアモームが至る所で生まれ出るだろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.26–30",
+      "speaker": "Poeta",
+      "original": "At simul heroum laudes et facta parentis\niam legere et quae sit poteris cognoscere virtus,\nmolli paulatim flavescet campus arista\nincultisque rubens pendebit sentibus uva\net durae quercus sudabunt roscida mella.",
+      "provisionalTranslation": "しかしお前が英雄たちの誉れと父の業績を\nすでに読め、美徳とは何かを知ることができるようになると同時に、\n野は柔らかい穂波でゆっくりと黄金色になり\n耕されていない茨に赤い葡萄が垂れ下がり\n堅い樫の木が露に濡れた蜜を滲ませるだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–36",
+      "speaker": "Poeta",
+      "original": "Pauca tamen suberunt priscae vestigia fraudis,\nquae temptare Thetin ratibus, quae cingere muris\noppida, quae iubeant telluri infindere sulcos.\nalter erit tum Tiphys et altera quae vehat Argo\ndelectos heroas; erunt etiam altera bella\natque iterum ad Troiam magnus mittetur Achilles.",
+      "provisionalTranslation": "しかし古い罪の跡がわずかに残るだろう、\n船でテティスを試み、城壁で町々を囲み、\n大地に畝を切り開くことを命じるものが。\nその時には別のティフュスと英雄たちを運ぶ別のアルゴが\nあるだろう；別の戦争もあるだろう\nそして再びトロイアへ偉大なアキッレスが送られるだろう。"
+    },
+    {
+      "id": 7,
+      "verses": "v.37–45",
+      "speaker": "Poeta",
+      "original": "Hinc, ubi iam firmata virum te fecerit aetas,\ncedet et ipse mari vector nec nautica pinus\nmutabit merces; omnis feret omnia tellus.\nnon rastros patietur humus, non vinea falcem,\nrobustus quoque iam tauris iuga solvet arator;\nnec varios discet mentiri lana colores,\nipse sed in pratis aries iam suave rubenti\nmurice, iam croceo mutabit vellera luto,\nsponte sua sandyx pascentis vestiet agnos.",
+      "provisionalTranslation": "やがてそこから、年齢がお前を確かな男にした時、\n商人自身も海から退くだろうし、航海の松の木も\n商品を交換しないだろう；あらゆる大地がすべてをもたらすだろう。\n大地は鍬を耐えず、葡萄園は鎌を耐えず、\n頑丈な農夫もすでに牛の軛を解くだろう；\n羊毛はさまざまな色を偽ることを学ばず、\n羊それ自身が牧草地で甘く輝く紫に、\nすでにサフラン色の染料に毛を変えるだろう、\n草を食む子羊たちをサンダクスが自ら衣で包むだろう。"
+    },
+    {
+      "id": 8,
+      "verses": "v.46–47",
+      "speaker": "Poeta",
+      "original": "'Talia saecla' suis dixerunt 'currite' fusis\nconcordes stabili fatorum numine Parcae.",
+      "provisionalTranslation": "「このような時代よ、走れ」と運命の糸巻きに向かって\n調和した運命の確固たる意志のもとパルカエは言った。"
+    },
+    {
+      "id": 9,
+      "verses": "v.48–52",
+      "speaker": "Poeta",
+      "original": "Adgredere o magnos—aderit iam tempus—honores,\ncara deum suboles, magnum Iovis incrementum.\naspice convexo nutantem pondere mundum,\nterrasque tractusque maris caelumque profundum;\naspice, venturo laetantur ut omnia saeclo.",
+      "provisionalTranslation": "踏み出せ、おお偉大なる栄誉へ──時はもうすぐ来る──\n神々に愛しい子孫よ、ユーピテルの偉大な増加よ。\n見よ、丸い重みに揺れる世界を、\n大地と海の広がりと深い天を；\n見よ、来るべき時代にすべてがいかに喜んでいるかを。"
+    },
+    {
+      "id": 10,
+      "verses": "v.53–59",
+      "speaker": "Poeta",
+      "original": "O mihi tum longae maneat pars ultima vitae,\nspiritus et quantum sat erit tua dicere facta:\nnon me carminibus vincat nec Thracius Orpheus\nnec Linus, huic mater quamvis atque huic pater adsit,\nOrphei Calliopea, Lino formosus Apollo.\nPan etiam, Arcadia mecum si iudice certet,\nPan etiam Arcadia dicat se iudice victum.",
+      "provisionalTranslation": "おお、その時まで長い生涯の最後の部分がわたしに残り、\nお前の業績を語るに十分な息吹があるように：\nトラキアのオルペウスも歌でわたしに勝てないだろうし\nリノスも、たとえこちらには母が、こちらには父が添うとしても、\nオルペウスにはカッリオペア、リノスには美しいアポッロが。\nパン神でさえ、もしアルカディアを審判者にわたしと競うなら、\nパン神でさえアルカディアが審判者と言っても負けたと言うだろう。"
+    },
+    {
+      "id": 11,
+      "verses": "v.60–63",
+      "speaker": "Poeta",
+      "original": "Incipe, parve puer, risu cognoscere matrem;\nmatri longa decem tulerunt fastidia menses.\nincipe, parve puer. cui non risere parentes,\nnec deus hunc mensa dea nec dignata cubili est.",
+      "provisionalTranslation": "始めよ、小さな子よ、笑いで母親を認識することを；\n長い十ヶ月が母に嫌悪をもたらした。\n始めよ、小さな子よ。両親が笑みを向けなかった子には、\n神も食卓で、女神も寝台でその子を値すると思わなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sicelides Musae, paulo maiora canamus.",
+      "body": "「シキリアのムーサエよ、少し大きな題材を歌おう（Sicelides Musae, paulo maiora canamus）」──詩の冒頭の詩学的宣言（recusatio の逆転）。「Sicelides Musae（シキリアのムーサエ）」はテオクリトス的牧歌の女神への呼びかけ：牧歌の伝統を召喚しながら同時に「paulo maiora（少し大きな題材）」へと方向転換することを宣言する。「paulo（少し）」という副詞の謙遜が修辞的な抑制として機能する：実際には世界史的・宇宙論的な予言詩を歌うのに「少し」という限定を置く逆説。「si canimus silvas, silvae sint consule dignae（森々を歌うなら、森々は執政官にふさわしいものであるように）」──牧歌的「森」のテーマと政治的「執政官」という二つの次元の統合を宣言する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "non omnis arbusta iuvant humilesque myricae;",
+      "body": "「木立ちと低いタマリスクがすべての人を喜ばせるわけではない（non omnis arbusta iuvant humilesque myricae）」──「humilis（低い）」という形容詞が牧歌の「低い文体（genus humile）」を表す詩学的術語として機能する。ホラティウス「詩論（Ars Poetica）」の文体論における「高（sublime）・中（medium）・低（humile）」の三段階に対応する：牧歌は「低い文体」に属するが、第4歌は「高い文体」へと越境することを詩行自体が宣言する。「myricae（タマリスク）」は第6歌でも「牧歌の低さ」の象徴として登場する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ultima Cumaei venit iam carminis aetas;\nmagna ab integro saeclorum nascitur ordo.",
+      "body": "「クマエの詩の最後の時代がいま来た；世代の大きな秩序が再び始まりから生まれる（Ultima Cumaei venit iam carminis aetas; / magna ab integro saeclorum nascitur ordo）」──詩第4歌の最も重要な二行。「クマエのシビュラ（Sibylla Cumaea）」の予言書（Libri Sibyllini）への参照：ギリシア・エトルスク起源の予言詩集がローマで神聖視されていた。「Ultima…aetas（最後の時代）」──ヘシオドス『仕事と日々』に由来する「世代（時代）の連続」という歴史哲学：黄金・白銀・青銅・英雄・鉄という五時代の最後（鉄の時代）が終わり、循環が始まりに戻るという思想。「ab integro（始まりから）」という副詞句が歴史の循環的更新を示す。VANITISMEのコーパス全体を貫くコヘレト的「循環（in circulos suos revertitur）」と思想的に響き合う。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "iam redit et Virgo, redeunt Saturnia regna,\niam nova progenies caelo demittitur alto.",
+      "body": "「いま処女座も戻り、サトゥルヌスの王国も戻る、いま新しい子孫が高い天から降ろされる（iam redit et Virgo, redeunt Saturnia regna, / iam nova progenies caelo demittitur alto）」──「Virgo（処女座）」はアストライア（正義の女神）が地上を去って天の星座になったという神話への参照：彼女の帰還が正義・黄金時代の回帰を意味する。「Saturnia regna（サトゥルヌスの王国）」──農耕神サトゥルヌスが支配した太古の黄金時代（ラティウムの黄金時代）。「nova progenies caelo…alto（高い天からの新しい子孫）」──天上からの神的子孫の降臨という表現が、中世キリスト教世界でキリストの降誕と解釈された最大の根拠。「iam（いま）」の三重反復がパルーシア（到来）の緊迫感を生む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "casta fave Lucina; tuus iam regnat Apollo.",
+      "body": "「清らかなルキナよ、恵みを与えよ；いまお前のアポッロが治める（casta fave Lucina; tuus iam regnat Apollo）」──ルキナ（Lucina）は出産の女神（ユーノーの別名、あるいはディアナと同一視される）。「tuus…Apollo（お前のアポッロ）」──ルキナ（＝ディアナ）の兄弟アポッロが「いま統治する」という宣言がアポッロを詩・予言・治癒の神として黄金時代の守護神に位置づける。オクタウィアヌスがアポッロを個人的な守護神として選んでいたことへの政治的含意：アポッロ崇拝とアウグストゥスの政治的プログラムの詩的先取り。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Teque adeo decus hoc aevi, te consule, inibit,\nPollio, et incipient magni procedere menses;",
+      "body": "「そしてとりわけこの時代の栄光はお前の執政官就任の年に始まるだろう、ポッリオよ（Teque adeo decus hoc aevi, te consule, inibit, / Pollio）」──ガイウス・アシニウス・ポッリオ（Gaius Asinius Pollio）のBC 40年の執政官就任年を予言の起点として特定する。「te consule（お前が執政官の時）」というラテン語の時期表現（ablativus absolutus）が詩を具体的な政治的現実に錨付けする。「magni…menses（偉大な月々）」という表現が時間の質的変容を示す：月々が「偉大」になるという詩的誇張が宇宙的スケールの到来を告知する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ille deum vitam accipiet divisque videbit\npermixtos heroas et ipse videbitur illis\npacatumque reget patriis virtutibus orbem.",
+      "body": "「彼は神々の生を受け、神々と混ざり合った英雄たちを見るだろう、そして自身も彼らに見られ、平和にされた世界を父祖の美徳をもって統治するだろう（ille deum vitam accipiet…pacatumque reget patriis virtutibus orbem）」──「神の子（deum suboles）」の地上的使命の三段定式：①神的生の受容、②神々・英雄たちとの相互視認、③美徳による平和な統治。「patriis virtutibus（父祖の美徳）」という表現がローマ的「ピエタス（pietas）」の伝統との接続を示す。中世解釈ではこの三段が①神性、②天国の聖者との交わり、③千年王国支配と対応するキリスト論的証拠として読まれた。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "At tibi prima, puer, nullo munuscula cultu\nerrantis hederas passim cum baccare tellus",
+      "body": "「しかしお前への最初の贈り物として、少年よ、耕作なしに……大地が注ぎ出すだろう（At tibi prima, puer, nullo munuscula cultu / …tellus…fundet）」──黄金時代の本質的特徴としての「自発的豊穣（spontanea fertilitas）」。「nullo cultu（耕作なしに）」という表現が農業的労働（コヘレト的「labor sub sole」）の廃棄を示す：耕さずとも大地が実る時代の到来。ヘシオドス『仕事と日々』の黄金時代描写「大地は自ら豊かな実りをもたらした」の直接的継承。「errantis hederas（彷徨う蔦）」という動的形容が、植物が自律的に動き回るという生命の自発性を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "occidet et serpens et fallax herba veneni\noccidet; Assyrium vulgo nascetur amomum.",
+      "body": "「蛇も滅び、毒の欺く草も滅びるだろう（occidet et serpens et fallax herba veneni / occidet）」──「occidet（滅びる）」という動詞の行をまたぐ反復（anadiplosis）が消滅の確実性を強調する。「serpens（蛇）」はエデンの蛇（創世記第3章）・第3歌の「latet anguis in herba」の危険な蛇への参照として、中世キリスト教解釈で悪魔の象徴として読まれた。第3歌の「latet anguis in herba」との対称的関係：そこでは「蛇が草に潜む」という警告が発せられたが、ここでは「蛇が滅びる」という救済が宣言される。",
+      "targetId": "hieronymus_genesis_3",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "molli paulatim flavescet campus arista\nincultisque rubens pendebit sentibus uva\net durae quercus sudabunt roscida mella.",
+      "body": "「野は柔らかい穂波でゆっくりと黄金色になり、耕されていない茨に赤い葡萄が垂れ下がり、堅い樫の木が露に濡れた蜜を滲ませるだろう（molli paulatim flavescet campus arista / incultisque rubens pendebit sentibus uva / et durae quercus sudabunt roscida mella）」──黄金時代の農業的豊穣の三重描写。「paulatim（ゆっくりと）」という副詞が突然の変化ではなく有機的・段階的な変容を示す。「durae quercus sudabunt roscida mella（堅い樫の木が露に濡れた蜜を滲ませる）」──樫は古代ローマの最も「硬い」木であり、その「滲み出す蜜（roscida mella）」という矛盾が奇跡的豊穣の詩的象徴。イザヤ書11章「狼は子羊と共に宿り……幼子が先導する」の黙示録的回復のイメージとの類比から、中世にメシア王国の到来として解釈された。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "alter erit tum Tiphys et altera quae vehat Argo\ndelectos heroas; erunt etiam altera bella\natque iterum ad Troiam magnus mittetur Achilles.",
+      "body": "「その時には別のティフュスと英雄たちを運ぶ別のアルゴがあるだろう；別の戦争もあるだろう、そして再びトロイアへ偉大なアキッレスが送られるだろう（alter erit tum Tiphys…atque iterum ad Troiam magnus mittetur Achilles）」──歴史の部分的反復という矛盾的要素。完全な黄金時代到来前に「残余の罪（priscae vestigia fraudis）」が歴史を反復させるという詩の最も難解な部分。ティフュス（Tiphys）はアルゴナウタイの舵手、アルゴは黄金の羊毛を求めた英雄船。「iterum…Achilles（再びアキッレス）」という英雄の反復が循環的歴史観を示す：コヘレト第1章v.9「あったものはこれから来るもの」の循環的同一性との思想的照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "cedet et ipse mari vector nec nautica pinus\nmutabit merces; omnis feret omnia tellus.",
+      "body": "「商人自身も海から退くだろうし、航海の松の木も商品を交換しないだろう；あらゆる大地がすべてをもたらすだろう（cedet et ipse mari vector nec nautica pinus / mutabit merces; omnis feret omnia tellus）」──黄金時代の完成形としての「交易の廃棄」。「nautica pinus（航海の松の木）」──松が船材として使われることで「航海の船」を指す換喩（metonymia）。遠方との交易が不要になるのは「omnis feret omnia tellus（あらゆる大地がすべてをもたらす）」という普遍的豊穣のため：自給自足の宇宙が交換を不要にする。ホラティウス『詩集』第1巻3番「最初に命知らずの船を海に浮かべた者を呪う」という航海への批判の思想的背景を共有する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "nec varios discet mentiri lana colores,\nipse sed in pratis aries iam suave rubenti\nmurice, iam croceo mutabit vellera luto,\nsponte sua sandyx pascentis vestiet agnos.",
+      "body": "「羊毛はさまざまな色を偽ることを学ばず、羊それ自身が……毛を変えるだろう（nec varios discet mentiri lana colores / ipse sed in pratis aries…mutabit vellera）」──「mentiri colores（色を偽る）」という表現が染色という人工的技術の廃棄を示す：「偽る（mentiri）」という動詞が染色を欺きとして定義する。自然の羊が紫・サフラン色に「自ら（sponte sua）」変色するという黄金時代の奇跡が、人工と自然の逆転として提示される。「sponte sua（自ら）」という表現が第4段落の「nullo cultu（耕作なしに）」と平行し、黄金時代の「自発的自然（natura sponte）」という中心概念を反復する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "'Talia saecla' suis dixerunt 'currite' fusis\nconcordes stabili fatorum numine Parcae.",
+      "body": "「このような時代よ、走れ」と運命の糸巻きに向かって調和した運命の確固たる意志のもとパルカエは言った（'Talia saecla' suis dixerunt 'currite' fusis / concordes stabili fatorum numine Parcae）」──パルカエ（Parcae）はローマの運命の三女神（ギリシアのモイライに相当）：クロトが糸を紡ぎ、ラケシスが糸を割り当て、アトロポスが糸を切る。「suis…fusis（自分たちの糸巻きに向かって）」という表現が運命の女神たちが自らの道具に命令するという壮大な擬人法を構成する。「concordes（調和した）」という形容詞が三女神の意志の一致を示す：運命の不可逆性の宣言。直接話法の引用符（'Talia saecla'…'currite'）が予言を劇的に演出する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "aspice convexo nutantem pondere mundum,\nterrasque tractusque maris caelumque profundum;\naspice, venturo laetantur ut omnia saeclo.",
+      "body": "「見よ、丸い重みに揺れる世界を、大地と海の広がりと深い天を；見よ、来るべき時代にすべてがいかに喜んでいるかを（aspice convexo nutantem pondere mundum…aspice, venturo laetantur ut omnia saeclo）」──「aspice（見よ）」の二重呼びかけが神の子を宇宙的観察者として召喚する。「convexo…pondere mundum（丸い重みの世界）」という天球のイメージが古代の天文学的宇宙論（球体としての宇宙）を詩的に定式化する。「venturo laetantur ut omnia saeclo（来るべき時代にすべてが喜んでいる）」──宇宙全体が共感的に喜ぶという「pathetic fallacy（感情移入的誤謬）」の荘厳な応用：天地・海・空の全てが即将来たる黄金時代への歓喜で振動する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "O mihi tum longae maneat pars ultima vitae,\nspiritus et quantum sat erit tua dicere facta:",
+      "body": "「おお、その時まで長い生涯の最後の部分がわたしに残り、お前の業績を語るに十分な息吹があるように（O mihi tum longae maneat pars ultima vitae, / spiritus et quantum sat erit tua dicere facta）」──詩人ウェルギリウス自身の「詩的遺言」の予告。「pars ultima vitae（生涯の最後の部分）」という表現が詩人の死を視野に入れた詩的使命の意識を示す。「spiritus（息吹・霊）」はラテン語で「呼吸」と「霊感（inspiration）」を兼ねる：詩的霊感が文字通り「最後の息」まで持続することへの願い。これは後にウェルギリウスが『アエネイス』を未完成のまま死んだという歴史的事実との照応において、予言的な自己言及として読める。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "allusion",
+      "anchor": "non me carminibus vincat nec Thracius Orpheus\nnec Linus, huic mater quamvis atque huic pater adsit,\nOrphei Calliopea, Lino formosus Apollo.\nPan etiam, Arcadia mecum si iudice certet,\nPan etiam Arcadia dicat se iudice victum.",
+      "body": "「トラキアのオルペウスも……リノスも……パン神でさえ負けたと言うだろう（non me carminibus vincat nec Thracius Orpheus / nec Linus…Pan etiam…victum）」──神話的詩人たちへの比較による自己讃美。オルペウス（母カッリオペア＝詩の女神）・リノス（父アポッロ＝詩と音楽の神）という最高の詩的血統を持つ者たちへの挑戦。「Pan etiam Arcadia dicat se iudice victum（パン神でさえアルカディアが審判者と言っても負けたと言うだろう）」──第3歌「amant alterna Camenae」の歌合わせの世界を超えて、牧歌の守護神パン自身を打ち負かすという詩的野心の宣言。「Arcadia（アルカディア）」という牧歌的理想郷が審判者として召喚されることで、第4歌の「高い題材」への越境が牧歌の文脈内で完結する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Incipe, parve puer, risu cognoscere matrem;\nmatri longa decem tulerunt fastidia menses.\nincipe, parve puer.",
+      "body": "「始めよ、小さな子よ（Incipe, parve puer）」の二重呼びかけ。詩の開口部「Sicelides Musae, paulo maiora canamus（少し大きな題材を歌おう）」と対称をなす閉幕の呼びかけ：宇宙的・歴史的スケールの予言から、「小さな子（parve puer）」という最小単位への収斂。「risu cognoscere matrem（笑いで母親を認識する）」──嬰児の最初の笑みが認識（cognoscere）の行為として定義される：哲学的な「認識（cognition）」の始まりが赤子の笑いという最も単純な行為に帰着する詩的逆説。「longa decem…fastidia menses（長い十ヶ月の嫌悪）」という妊娠の苦しみへの言及が宇宙的な予言から人間的・身体的な現実へと詩を着地させる。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "cui non risere parentes,\nnec deus hunc mensa dea nec dignata cubili est.",
+      "body": "「両親が笑みを向けなかった子には、神も食卓で、女神も寝台でその子を値すると思わなかった（cui non risere parentes, / nec deus hunc mensa dea nec dignata cubili est）」──詩の最終二行。笑みの神学的意義：親の笑みを受けない子は神々からも認められないという命題が、詩の閉幕の格言として機能する。「mensa（食卓）」と「cubili（寝台）」という生活の二つの場が、神的共同体への参与の条件として提示される：食卓の共有は友情・同盟の象徴、寝台の共有は愛の象徴。ダンテ『神曲』煉獄篇第22歌でスタティウスがこの第4歌によってキリスト教に改宗したと告白する場面──「お前は松明のようなもので、後に続く者を照らしながら自分は暗闇にいた（come quei che va di notte, che porta il lume dietro e sé non giova）」──が、この詩の最も有名な後代的受容として位置づけられる。",
+      "targetId": "dante_purgatorio_canto_1",
+      "targetParagraphId": null
+    }
+  ]
+}
