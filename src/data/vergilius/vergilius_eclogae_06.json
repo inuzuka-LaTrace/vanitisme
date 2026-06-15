@@ -1,0 +1,234 @@
+{
+  "id": "vergilius_eclogae_6",
+  "title": "Eclogae — Ecloga VI",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga VI. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_VI",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第6歌。全86行。詩的序文（v.1–12）・シレノス捕縛の枠物語（v.13–30）・シレノスの神話的宇宙論的歌（v.31–81）・閉幕（v.82–86）という四部構造を持つ。アルファエウス（Alphaeus）河の水がシキリアのアレトゥサ（Arethusa）泉として湧き出るという伝説に連なる詩学的伝統を背景に、詩人は叙事詩への誘惑をアポッロに退けられ牧歌的題材に留まることを宣言しつつも（v.1–12）、シレノス（Silenus）という神話的存在に宇宙創成から多様な神話まで歌わせることで実質的に壮大な内容を達成する。シレノス（Silenus）はディオニュソスの師・半神半人の老人で、酔って眠っているところを少年クロミス・ムナシュロス・ナイアスのアエグレに捕縛され歌を強いられる。シレノスの歌はルクレティウス『事物の本性について（De Rerum Natura）』の原子論的宇宙論と神話列挙を融合した百科全書的叙事詩であり、牧歌の枠内で叙事詩・教訓詩・挽歌的神話の全ジャンルを包含する。ガッルス（Gaius Cornelius Gallus, 69–26 BC）への言及（v.64–73）は詩人仲間への詩的献辞として重要：ガッルスはローマ最初のエレゲイア詩人であり、ウェルギリウスの親友。リノスがムーサエの笛をヘシオドスに授けたように、ガッルスに笛を授けるという詩的系譜の物語が詩学的自己言及として機能する。「deductum dicere carmen（細い糸のように紡がれた詩を語れ）」（v.5）という詩学的命令が詩集全体の「細い様式（genus tenue）」という美学的宣言として位置づけられる。",
+  "keywords": [
+    "Silenus",
+    "宇宙創成",
+    "神話列挙",
+    "Gallus",
+    "deductum carmen",
+    "Varus",
+    "Pasiphae",
+    "Prometheus",
+    "genus tenue",
+    "牧歌的枠物語"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_4",
+    "vergilius_eclogae_5",
+    "horatius_carmina_1_4"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "speaker": "Poeta",
+      "original": "Prima Syracosio dignata est ludere versu\nnostra, neque erubuit silvas habitare, Thalia.\nCum canerem reges et proelia, Cynthius aurem\nvellit, et admonuit: 'Pastorem, Tityre, pinguis\npascere oportet ovis, deductum dicere carmen.'\nNunc ego (namque super tibi erunt, qui dicere laudes,\nVare, tuas cupiant, et tristia condere bella)\nagrestem tenui meditabor harundine musam.\nNon iniussa cano. Si quis tamen haec quoque, si quis\ncaptus amore leget, te nostrae, Vare, myricae,\nte nemus omne canet; nec Phoebo gratior ulla est\nquam sibi quae Vari praescripsit pagina nomen.",
+      "provisionalTranslation": "最初にわれらのテュリアはシュラクサイの詩で遊ぶことを値すると思い、\n森に住むことを恥じなかった。\nわたしが王たちと戦いを歌おうとしていた時、キュントスの神が耳を\n引っ張り、こう戒めた：「羊飼いよ、ティテュルス、肥えた\n羊を養うべきだ、細い糸のように紡がれた詩を語れ。」\n今やわたしは（というのもヴァルスよ、お前の讃辞を語り\n悲しい戦争を詠もうと望む者はお前のためにいくらでもいるから）\n細い葦笛で田舎のムーサを奏でるだろう。\n命じられていない歌は歌わない。それでも誰かがこれらをも、誰かが\n愛に捉えて読むなら、われらのタマリスクがお前ヴァルスを、\nあらゆる木立ちがお前を歌うだろう；そしてポエブスにとって\nウァルスの名を書き記した頁ほど喜ばしいものはない。"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–26",
+      "speaker": "Narrator",
+      "original": "Pergite, Pierides. Chromis et Mnasylus in antro\nSilenum pueri somno videre iacentem,\ninflatum hesterno venas, ut semper, Iaccho;\nserta procul tantum capiti delapsa iacebant,\net gravis attrita pendebat cantharus ansa.\nAdgressi (nam saepe senex spe carminis ambo\nluserat) iniciunt ipsis ex vincula sertis.\nAddit se sociam timidisque supervenit Aegle.\nAegle, Naiadum pulcherrima, iamque videnti\nsanguineis frontem moris et tempora pingit.\nIlle dolum ridens: 'Quo vincula nectitis?' inquit.\n'Solvite me, pueri; satis est potuisse videri.\nCarmina quae voltis cognoscite; carmina vobis,\nhuic aliud mercedis erit.' Simul incipit ipse.",
+      "provisionalTranslation": "続けよ、ピエリデスよ。クロミスとムナシュロスは洞窟で\n眠りに就いているシレノスを少年たちは見た、\n昨日のウァッコスで静脈を張らせて、いつものように；\n花輪だけが頭からずり落ちて遠くに横たわり、\n重い杯が擦り切れた取っ手でぶら下がっていた。\n近づいて（というのも老人はしばしば歌の望みで二人を\n裏切っていた）花輪そのものから縄を作り縛り付けた。\nアエグレが仲間に加わり臆病な二人に続いて現れた。\nアエグレ、ナイアスの中で最も美しい者が、すでに目を覚ましている老人の\n額とこめかみを血のような桑の実で塗った。\n老人はごまかしに笑って言った：「なぜ縄を結ぶのか？」\n「放してくれ、少年たちよ；縛れたと見えれば十分だ。\n望む歌を聞かせよう；お前たち二人には歌を、\nこの子には別の報酬を。」同時に老人自身が始めた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.27–30",
+      "speaker": "Narrator",
+      "original": "Tum vero in numerum Faunosque ferasque videres\nludere, tum rigidas motare cacumina quercus.\nNec tantum Phoebo gaudet Parnasia rupes,\nnec tantum Rhodope miratur et Ismarus Orphea.",
+      "provisionalTranslation": "その時まことに拍子に合わせてファウヌスたちと野獣たちが\n遊ぶのが見えた、その時堅い樫の木々が梢を揺らした。\nパルナッソスの岩もそれほどにはポエブスに喜ばず、\nロドペもイスマロスもそれほどにはオルペウスに驚かなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.31–40",
+      "speaker": "Silenus",
+      "original": "Namque canebat uti magnum per inane coacta\nsemina terrarumque animaeque marisque fuissent\net liquidi simul ignis; ut his exordia primis\nomnia, et ipse tener mundi concreverit orbis;\ntum durare solum et discludere Nerea ponto\ncoeperit, et rerum paulatim sumere formas;\niamque novom terrae stupeant lucescere solem,\naltius atque cadant submotis nubibus imbres,\nincipiant silvae cum primum surgere, cumque\nrara per ignaros errent animalia montis.",
+      "provisionalTranslation": "というのも老人は歌った、大いなる虚空を通じて集められた\n大地と生命と海の種子が、\nそして同時に液体の火があったと；これら最初のものから\nすべての始まりが、そして世界のやわらかい球体自身が凝結したと；\nそれから地は固まり始め、海においてネレウスを隔て\n事物の形をゆっくりと取り始めたと；\nすでに大地が新しい太陽の輝き始めに驚き、\n雲が払われてより高く雨が降り、\n最初に森々が育ち始め、\nまばらな動物たちが知られていない山々を彷徨い始めたと。"
+    },
+    {
+      "id": 5,
+      "verses": "v.41–42",
+      "speaker": "Silenus",
+      "original": "Hinc lapides Pyrrhae iactos, Saturnia regna,\nCaucasiasque refert volucris, furtumque Promethei.",
+      "provisionalTranslation": "次にピュッラの投げた石、サトゥルヌスの王国、\nカウカソスの鷲とプロメテウスの盗みを語る。"
+    },
+    {
+      "id": 6,
+      "verses": "v.43–44",
+      "speaker": "Silenus",
+      "original": "His adiungit Hylan nautae quo fonte relictum\nclamassent, ut litus Hyla, Hyla, omne sonaret;",
+      "provisionalTranslation": "これらにヒュラスをどの泉に船乗りたちが置き去りにして\n叫んだかを付け加える、岸辺全体がヒュラス、ヒュラスと響くほどに；"
+    },
+    {
+      "id": 7,
+      "verses": "v.45–60",
+      "speaker": "Silenus",
+      "original": "et fortunatam, si numquam armenta fuissent,\nPasiphaen nivei solatur amore iuvenci.\nA! virgo infelix, quae te dementia cepit!\nProetides implerunt falsis mugitibus agros;\nat non tam turpis pecudum tamen ulla secuta\nconcubitus, quamvis collo timuisset aratrum,\net saepe in levi quaesivisset cornua fronte.\nA! virgo infelix, tu nunc in montibus erras:\nille, latus niveum molli fultus hyacintho,\nilice sub nigra pallentis ruminat herbas,\naut aliquam in magno sequitur grege. 'Claudite Nymphae,\nDictaeae Nymphae, nemorum iam claudite saltus,\nsi qua forte ferant oculis sese obvia nostris\nerrabunda bovis vestigia; forsitan illum\naut herba captum viridi aut armenta secutum\nperducant aliquae stabula ad Gortynia vaccae.'",
+      "provisionalTranslation": "そして幸運だったろうに、もし牛の群れがいなければ、\nパシファエを白い若い雄牛への愛で慰める。\nああ、不幸な乙女よ、何という狂気がお前を捉えたのか！\nプロエトスの娘たちは偽りの牛の鳴き声で野原を満たした；\nしかしそれでも家畜の交わりをそれほど恥ずかしい形で求めた者はいない、\nたとえ首に鋤を恐れ、\nしばしば滑らかな額に角を求めたとしても。\nああ、不幸な乙女よ、お前は今山々で彷徨っている：\nあれは、雪白い脇腹を柔らかいヒュアキントスで支えながら、\n黒いイレックスの下で青白い草を反芻しているか、\nあるいは大きな群れの中の何頭かについて行っている。「ニュンファイよ、閉じよ、\nディクタエのニュンファイよ、森の木立ちを今閉じよ、\nもしかすると牛の彷徨う足跡がわれらの目の前に現れるかもしれないから；\nもしかしたらあれを\n青草に惹かれて、あるいは群れについて行ったあれを\n何頭かの牝牛がゴルテュニアの牛舎へと連れてくるかもしれない。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.61–63",
+      "speaker": "Silenus",
+      "original": "Tum canit Hesperidum miratam mala puellam;\ntum Phaethontiadas musco circumdat amarae\ncorticis, atque solo proceras erigit alnos.",
+      "provisionalTranslation": "次にヘスペリデスのリンゴに驚いた乙女を歌う；\n次にパエトンの姉妹たちを苦い樹皮の苔で包み、\n地面から高いハンノキをそそり立たせる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.64–73",
+      "speaker": "Silenus",
+      "original": "Tum canit, errantem Permessi ad flumina Gallum\nAonas in montis ut duxerit una sororum,\nutque viro Phoebi chorus adsurrexerit omnis;\nut Linus haec illi divino carmine pastor,\nfloribus atque apio crinis ornatus amaro,\ndixerit: 'Hos tibi dant calamos, en accipe, Musae,\nAscraeo quos ante seni; quibus ille solebat\ncantando rigidas deducere montibus ornos.\nHis tibi Grynei nemoris dicatur origo,\nne quis sit lucus quo se plus iactet Apollo.'",
+      "provisionalTranslation": "次に歌う、ペルメッソスの川辺を彷徨うガッルスを\n姉妹たちの一人がアオニアの山々へと導いたと、\nそしてポエブスの合唱団全員がその人に敬意を表して立ち上がったと；\nリノスがこの羊飼いに神の詩で、\n花と苦いパセリで髪を飾り、\n言ったと：「これらの葦笛をムーサエがお前に贈る、さあ受け取れ、\n以前アスクラの老人に贈ったものを；それで彼は歌いながら\n堅い山灰を山から引き下ろすのが常だった。\nこれでお前にはグリュネウスの森の起源が語られよ、\nアポッロが他よりも誇る木立ちがないよう。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.74–81",
+      "speaker": "Silenus",
+      "original": "Quid loquar aut Scyllam Nisi, quam fama secuta est\ncandida succinctam latrantibus inguina monstris\nDulichias vexasse rates, et gurgite in alto,\na, timidos nautas canibus lacerasse marinis,\naut ut mutatos Terei narrauerit artus,\nquas illi Philomela dapes, quae dona pararit,\nquo cursu deserta petiverit, et quibus ante\ninfelix sua tecta super volitaverit alis?",
+      "provisionalTranslation": "あるいはニソスのスキュッラについて何を語ろうか、噂が伝えるには\n白い腰を吠える怪物たちで帯にして\nドゥリキアの船を悩ませ、深い渦の中で\nああ、臆病な船乗りたちを海の犬たちで引き裂いたと、\nあるいはテレウスの変わった四肢を語ったと、\nフィロメラが彼にどんな饗宴を、どんな贈り物を用意したか、\nどのような逃走で荒野を目指したか、そしてどのような翼で\n不幸にも自分の屋根の上を先に飛んで行ったか？"
+    },
+    {
+      "id": 11,
+      "verses": "v.82–86",
+      "speaker": "Narrator",
+      "original": "Omnia, quae Phoebo quondam meditante beatus\naudiit Eurotas iussitque ediscere laurus,\nille canit (pulsae referunt ad sidera valles),\ncogere donec ovis stabulis numerumque referre\niussit et invito processit Vesper Olympo.",
+      "provisionalTranslation": "かつてポエブスが奏でるのを幸いなエウロタスが聞き\n月桂樹に学ぶよう命じたすべてのものを、\n老人は歌う（響いた谷々が星々へと返す）、\n羊を囲いにまとめ数を報告するよう\n命じ、嫌がるオリュンポスにウェスペルが進み出るまで。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Prima Syracosio dignata est ludere versu\nnostra, neque erubuit silvas habitare, Thalia.",
+      "body": "「最初にわれらのテュリアはシュラクサイの詩で遊ぶことを値すると思い、森に住むことを恥じなかった（Prima Syracosio dignata est ludere versu / nostra…Thalia）」──詩集の起源宣言。「Syracosius versus（シュラクサイの詩）」はテオクリトス（シュラクサイ出身）のギリシア語牧歌への参照：ウェルギリウスの牧歌がテオクリトス的伝統の後継であることの詩学的宣言。「Thalia（テュリア）」は喜劇・田舎の詩のムーサ：牧歌を高尚でなく「低い」ジャンルとして自己限定しながら、その限定を誇りとする逆説的修辞。「neque erubuit（恥じなかった）」という否定が、牧歌を恥とみなす批評への先制的な応答として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Cynthius aurem\nvellit, et admonuit: 'Pastorem, Tityre, pinguis\npascere oportet ovis, deductum dicere carmen.'",
+      "body": "「キュントスの神が耳を引っ張り、こう戒めた：羊飼いよ、ティテュルス、肥えた羊を養うべきだ、細い糸のように紡がれた詩を語れ（Cynthius aurem vellit…deductum dicere carmen）」──詩学的後退（recusatio）の古典的場面。「Cynthius（キュントス）」はアポッロの別名（デロス島のキュントス山に生まれた）；詩の神自身が叙事詩への野心を抑制する。「aurem vellit（耳を引っ張る）」という身体的な詩的戒告が、神の命令を教師と生徒の親密な身体的接触として演出する。「deductum carmen（細い糸のように紡がれた詩）」──「deductum」は「細い・引き伸ばされた」という形容であり、カッリマコス的な「細い詩（lepton）」の美学のラテン語訳：叙事詩の「肥えた様式（pingue)」に対する「細い様式（tenue）」という対立がローマ詩学の根本的美学論争を構成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Si quis tamen haec quoque, si quis\ncaptus amore leget, te nostrae, Vare, myricae,\nte nemus omne canet;",
+      "body": "「誰かがこれらをも、誰かが愛に捉えて読むなら、われらのタマリスクがお前ヴァルスを、あらゆる木立ちがお前を歌うだろう（Si quis tamen haec quoque…captus amore leget, te nostrae, Vare, myricae / te nemus omne canet）」──ウァルス（Publius Alfenus Varus、ウェルギリウスの庇護者・BC 39年の執政官）への献辞。「myricae（タマリスク）」は第1行「humilesque myricae」と対応する：低い牧歌的植物が庇護者の名を歌うという逆説的な讃辞の構造。「captus amore（愛に捉えて）」という読者の条件付けが詩の受容を「愛の行為」として定義する。詩集全体を「愛」というモチーフで統合する詩学的身振り。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Chromis et Mnasylus in antro\nSilenum pueri somno videre iacentem,\ninflatum hesterno venas, ut semper, Iaccho;",
+      "body": "「クロミスとムナシュロスは洞窟で眠りに就いているシレノスを見た、昨日のウァッコスで静脈を張らせて、いつものように（Chromis et Mnasylus in antro / Silenum pueri somno videre iacentem, / inflatum hesterno…Iaccho）」──シレノスの酔いによる眠りの描写。「hesterno Iaccho（昨日のウァッコス）」──「Iacchus（イアッコス）」はバッコス（ディオニュソス）の別名；「昨日の酒で」という具体的な時間指定が神話的場面に日常的リアリズムを与える。「ut semper（いつものように）」という付加句がシレノスの慢性的な飲酒を示す：神的な歌の能力と人間的（あるいは獣的）な飲酒衝動の共存が、シレノスというキャラクターの矛盾的魅力を構成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Adgressi (nam saepe senex spe carminis ambo\nluserat) iniciunt ipsis ex vincula sertis.\nAddit se sociam timidisque supervenit Aegle.\nAegle, Naiadum pulcherrima, iamque videnti\nsanguineis frontem moris et tempora pingit.",
+      "body": "「近づいて（老人はしばしば歌の望みで二人を裏切っていた）花輪から縄を作り縛り付けた。アエグレが加わった……額とこめかみを血のような桑の実で塗った（Adgressi…luserat…iniciunt ipsis ex vincula sertis. Addit se sociam…Aegle…sanguineis frontem moris…pingit）」──捕縛の詳細。「spe carminis luserat（歌の望みで裏切っていた）」という括弧内情報が過去の騙しの歴史を一言で示す：神の詐術と人間の報復という構図。「ipsis ex vincula sertis（花輪そのものから縄を作る）」という機知──花飾りという美しいものが拘束の道具に転用される逆説。「sanguineis moris（血のような桑の実）」という色彩描写がアエグレの化粧行為に儀礼的・神話的色調（Pyramus と Thisbe の桑の実の血染め）を与える。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "'Solvite me, pueri; satis est potuisse videri.\nCarmina quae voltis cognoscite; carmina vobis,\nhuic aliud mercedis erit.'",
+      "body": "「放してくれ、少年たちよ；縛れたと見えれば十分だ。望む歌を聞かせよう；お前たち二人には歌を、この子には別の報酬を（Solvite me, pueri; satis est potuisse videri. / Carmina quae voltis cognoscite; carmina vobis, / huic aliud mercedis erit）」──シレノスの直接話法。「satis est potuisse videri（縛れたと見えれば十分だ）」──外見（videri）と現実（esse）の区別：神は実際には縛られていないが、縛られたと「見える」ことで少年たちの願いを満たす。「carmina vobis / huic aliud mercedis（お前たちには歌、この子には別の報酬）」──アエグレへの「別の報酬」という暗示が詩集中で最もエロティックなほのめかしの一つ：性的な曖昧さが直接的描写なしに伝わる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tum vero in numerum Faunosque ferasque videres\nludere, tum rigidas motare cacumina quercus.\nNec tantum Phoebo gaudet Parnasia rupes,\nnec tantum Rhodope miratur et Ismarus Orphea.",
+      "body": "「その時まことに拍子に合わせてファウヌスたちと野獣たちが遊ぶのが見えた……パルナッソスの岩もそれほどにはポエブスに喜ばず、ロドペもイスマロスもそれほどにはオルペウスに驚かなかった（Tum vero…Faunosque ferasque videres / ludere…Nec tantum Phoebo gaudet Parnasia rupes / nec tantum…miratur et Ismarus Orphea）」──シレノスの歌の音楽的効果の宣言。二重の否定的比較（「ポエブスに喜ぶパルナッソスより大きく」・「オルペウスに驚くロドペより大きく）」がシレノスの歌の超越的力を示す：アポッロとオルペウスという最高の音楽家を超えるという誇張。第5歌での「Deus, deus ille」という宣言との照応：ダプニスが神化されたように、シレノスの歌も神的次元に達する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Namque canebat uti magnum per inane coacta\nsemina terrarumque animaeque marisque fuissent\net liquidi simul ignis; ut his exordia primis\nomnia, et ipse tener mundi concreverit orbis;",
+      "body": "「大いなる虚空を通じて集められた大地と生命と海の種子が、そして同時に液体の火があったと；これら最初のものからすべての始まりが（Namque canebat uti magnum per inane coacta / semina…fuissent / et liquidi simul ignis; ut his exordia primis / omnia）」──ルクレティウス的原子論宇宙論の詩的摘要。「magnum per inane（大いなる虚空を通じて）」はルクレティウス『事物の本性について（De Rerum Natura）』の「inane（空虚）」の直接的引用：原子が虚空の中を運動して世界を形成するというエピクロス的宇宙論。「semina（種子）」はルクレティウスの「原子（semina rerum）」に対応する詩的語彙。「液体の火（liquidus ignis）」という矛盾語法（oxymoron）が初期宇宙の混沌を表現する：固体・液体・気体・火の四元素が未分化の状態にある原初の混沌。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "iamque novom terrae stupeant lucescere solem,\naltius atque cadant submotis nubibus imbres,\nincipiant silvae cum primum surgere, cumque\nrara per ignaros errent animalia montis.",
+      "body": "「すでに大地が新しい太陽の輝き始めに驚き……最初に森々が育ち始め、まばらな動物たちが知られていない山々を彷徨い始めた（iamque novom terrae stupeant lucescere solem…incipiant silvae cum primum surgere, cumque / rara per ignaros errent animalia montis）」──「接続法現在（stupeant / incipiant / errent）」の連続が創成の過程を生き生きとした現在として描く。「novom…solem（新しい太陽）」──創成後初めて見る太陽への「驚き（stupere）」が、宇宙そのものの認識論的誕生として詩化される。「ignaros montis（知られていない山々）」という形容が未だ名前のない原初の地形を示す：地名・歴史・文化が存在する前の純粋な自然状態。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Hinc lapides Pyrrhae iactos, Saturnia regna,\nCaucasiasque refert volucris, furtumque Promethei.",
+      "body": "「次にピュッラの投げた石、サトゥルヌスの王国、カウカソスの鷲とプロメテウスの盗みを語る（Hinc lapides Pyrrhae iactos, Saturnia regna, / Caucasiasque refert volucris, furtumque Promethei）」──神話列挙の開始。二行に三つの神話を圧縮する密度の高い列挙。「lapides Pyrrhae iactos（ピュッラの投げた石）」：デウカリオンの洪水後にピュッラが石を投げて人類を再生した神話（オウィディウス『変身譚』第1巻）。「Saturnia regna（サトゥルヌスの王国）」：第4歌の「Saturnia regna」の反復──黄金時代への参照。「furtumque Promethei（プロメテウスの盗み）」：天から火を盗みカウカソスで鷲に肝臓を啄まれる刑罰──知識・技術・人間性の起源神話。詩集の宇宙論（v.31–40）から人類史（神話列挙）へという詩的進行が「創成から歴史へ」という叙事詩的プログラムを牧歌の枠内で達成する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "His adiungit Hylan nautae quo fonte relictum\nclamassent, ut litus Hyla, Hyla, omne sonaret;",
+      "body": "「これらにヒュラスをどの泉に船乗りたちが置き去りにして叫んだかを付け加える、岸辺全体がヒュラス、ヒュラスと響くほどに（His adiungit Hylan nautae quo fonte relictum / clamassent, ut litus Hyla, Hyla, omne sonaret）」──ヒュラス神話の詩的摘要。ヒュラス（Hylas）はヘラクレスの美少年の従者：アルゴナウタイの遠征中に泉のニュンファイたちに水中に引き込まれ、ヘラクレスが「Hyla, Hyla」と呼び続けたという物語（アポッロニオス『アルゴナウティカ』第1巻）。「Hyla, Hyla, omne sonaret（ヒュラス、ヒュラスと岸辺全体が響く）」──名前の反復（epanalepsis）が呼び声の木霊を音響的に模倣する：詩行が喪失した者への呼びかけの反響を文字通り体現する。第2歌のアレクシスへの呼びかけとの主題的照応：美少年への届かない愛の呼び声。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "et fortunatam, si numquam armenta fuissent,\nPasiphaen nivei solatur amore iuvenci.\nA! virgo infelix, quae te dementia cepit!",
+      "body": "「幸運だったろうに、もし牛の群れがいなければ、パシファエを白い若い雄牛への愛で慰める。ああ、不幸な乙女よ、何という狂気がお前を捉えたのか！（et fortunatam, si numquam armenta fuissent, / Pasiphaen…solatur…A! virgo infelix, quae te dementia cepit）」──パシファエ（Pasiphae）のクレタ王の妻・ミノタウロスの母。「fortunatam, si numquam armenta fuissent（もし牛の群れがいなければ幸運だったろうに）」という反実仮想が悲劇の条件的起源を示す：牛の群れという偶然の存在がパシファエの運命を決定した。「A! virgo infelix, quae te dementia cepit（ああ、不幸な乙女よ、何という狂気が）」──「dementia」という語が第2歌「quae te dementia cepit（何という狂気がお前を捉えたのか）」のコリュドン自己批判と完全に一致する：牧歌的恋の狂気と神話的異常愛の言語的同一性。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "'Claudite Nymphae,\nDictaeae Nymphae, nemorum iam claudite saltus,\nsi qua forte ferant oculis sese obvia nostris\nerrabunda bovis vestigia;",
+      "body": "「ニュンファイよ、閉じよ、ディクタエのニュンファイよ、森の木立ちを今閉じよ（Claudite Nymphae, / Dictaeae Nymphae, nemorum iam claudite saltus）」──パシファエの直接話法の挿入（v.55–60）。「Claudite…claudite（閉じよ……閉じよ）」という命令の反復（epizeuxis）が切迫した呼びかけの感情的強度を生む。「Dictaeae Nymphae（ディクタエのニュンファイ）」──クレタのディクテ山のニュンファイ：場所の特定が神話的場面の地理的リアリズムを担う。パシファエの「errabunda bovis vestigia（牛の彷徨う足跡）」を求める呼びかけが、第2歌コリュドンの「tua dum vestigia lustro（お前の足跡を追い求める）」と照応する：愛する者の足跡を追うという牧歌的愛の行為が、正常な恋愛から異常愛の神話へと変奏される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Tum canit Hesperidum miratam mala puellam;\ntum Phaethontiadas musco circumdat amarae\ncorticis, atque solo proceras erigit alnos.",
+      "body": "「次にヘスペリデスのリンゴに驚いた乙女を歌う；次にパエトンの姉妹たちを苦い樹皮の苔で包み、地面から高いハンノキをそそり立たせる（Tum canit Hesperidum miratam mala puellam; / tum Phaethontiadas musco circumdat amarae / corticis, atque solo proceras erigit alnos）」──変身神話の二例。「Hesperidum mala（ヘスペリデスのリンゴ）」：ヘスペリデスの黄金のリンゴを求めたアタランテ（またはアイグレ）の神話。「Phaethontiadas（パエトンの姉妹たち）」：太陽の馬車を操って墜落したパエトンの姉妹たち（ヘリアデス）がポプラ（またはハンノキ）に変身し琥珀の涙を流すという変身神話（オウィディウス『変身譚』第2巻）。「musco circumdat amarae corticis（苦い樹皮の苔で包む）」という動詞の主語がシレノスであることで、歌う行為が変身を「行う」行為として詩的に演出される：歌うことが神話を現実化する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Tum canit, errantem Permessi ad flumina Gallum\nAonas in montis ut duxerit una sororum,\nutque viro Phoebi chorus adsurrexerit omnis;",
+      "body": "「次に歌う、ペルメッソスの川辺を彷徨うガッルスを姉妹たちの一人がアオニアの山々へと導いたと、そしてポエブスの合唱団全員がその人に敬意を表して立ち上がったと（Tum canit, errantem Permessi ad flumina Gallum / Aonas in montis ut duxerit una sororum / utque viro Phoebi chorus adsurrexerit omnis）」──ガイウス・コルネリウス・ガッルス（Gaius Cornelius Gallus）への詩的献辞。「errantem（彷徨う）」という動詞が詩的放浪・探究を示す：詩人が霊感の川辺を彷徨う詩学的形象。「chorus adsurrexerit omnis（合唱団全員が敬意を表して立ち上がった）」──神的な詩的才能への天上的承認という壮大な場面。ガッルスはウェルギリウスの友人・ロ－マ最初のエレゲイア詩人として歴史上著名であり、この場面は生きている詩人への詩的神格化（apotheosis）として機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "allusion",
+      "anchor": "'Hos tibi dant calamos, en accipe, Musae,\nAscraeo quos ante seni; quibus ille solebat\ncantando rigidas deducere montibus ornos.\nHis tibi Grynei nemoris dicatur origo,\nne quis sit lucus quo se plus iactet Apollo.'",
+      "body": "「これらの葦笛をムーサエがお前に贈る、さあ受け取れ、以前アスクラの老人に贈ったものを；それで彼は歌いながら堅い山灰を山から引き下ろすのが常だった（Hos tibi dant calamos…Ascraeo quos ante seni）」──「Ascraeum senem（アスクラの老人）」はヘシオドス（ボイオティアのアスクラ出身）を指す：ムーサエがヘシオドスに詩的使命を与えた（『神統記』冒頭「ヘリコンのムーサエがわたしに歌を教えた」）という神話的先例への参照。第5歌での「葦笛の贈り物（fragili donabimus…cicuta）」の神話的先行形：詩的継承の道具としての笛がヘシオドス→ガッルスという系譜を経由してウェルギリウスの詩集全体の詩的系譜に接続される。「cantando rigidas deducere montibus ornos（歌いながら堅い山灰を山から引き下ろす）」──オルペウス的な音楽の力（自然を動かす）のヘシオドス的変奏。",
+      "targetId": "vergilius_eclogae_5",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Quid loquar aut Scyllam Nisi, quam fama secuta est\ncandida succinctam latrantibus inguina monstris\nDulichias vexasse rates,",
+      "body": "「あるいはニソスのスキュッラについて何を語ろうか、噂が伝えるには白い腰を吠える怪物たちで帯にして、ドゥリキアの船を悩ませたと（Quid loquar aut Scyllam Nisi…candida succinctam latrantibus inguina monstris / Dulichias vexasse rates）」──スキュッラ（Scylla）の二重神話。「Scylla Nisi（ニソスのスキュッラ）」──メガラ王ニソスの娘スキュッラ：父の命運と結びついた紫の頭髪を切り取ってミノス王に愛を乞うた少女（オウィディウス『変身譚』第8巻）。これは海の怪物スキュッラ（『オデュッセイア』第12巻）とは別人物だが、両者が「candida succinctam latrantibus inguina monstris（白い腰を吠える怪物たちで帯にして）」という描写で混同・融合される詩的技巧。「Quid loquar（何を語ろうか）」という修辞的問いが「語らないことで語る（praeteritio）」という弁論術的技法を示す。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "aut ut mutatos Terei narrauerit artus,\nquas illi Philomela dapes, quae dona pararit,\nquo cursu deserta petiverit, et quibus ante\ninfelix sua tecta super volitaverit alis?",
+      "body": "「あるいはテレウスの変わった四肢を語ったと、フィロメラが彼にどんな饗宴を、どんな贈り物を用意したか、どのような逃走で荒野を目指したか（aut ut mutatos Terei narrauerit artus, / quas illi Philomela dapes）」──テレウス・プロクネ・フィロメラの神話（オウィディウス『変身譚』第6巻）への参照。テレウスがフィロメラを犯して舌を切り取り、プロクネがテレウスに自らの息子イテュスを食べさせ、三者がそれぞれ鳥に変身する悲劇。「quas illi Philomela dapes（フィロメラが彼にどんな饗宴を）」という婉曲的な参照が恐ろしい子食いの饗宴を直接描写せずに示す「語らないことで語る（praeteritio）」の継続。「infelix sua tecta super volitaverit alis（不幸にも自分の屋根の上を先に飛んで行った）」──鳥への変身後の最初の飛翔の詩的情景。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Omnia, quae Phoebo quondam meditante beatus\naudiit Eurotas iussitque ediscere laurus,\nille canit (pulsae referunt ad sidera valles),",
+      "body": "「かつてポエブスが奏でるのを幸いなエウロタスが聞き月桂樹に学ぶよう命じたすべてのものを、老人は歌う（響いた谷々が星々へと返す）（Omnia, quae Phoebo quondam meditante beatus / audiit Eurotas iussitque ediscere laurus / ille canit）」──詩の閉幕の宇宙的な包括的宣言。「Eurotas（エウロタス）」はスパルタを流れる川：アポッロ・月桂樹・スパルタという聖地の組み合わせが詩的権威の地理的定式として機能する。「iussitque ediscere laurus（月桂樹に学ぶよう命じた）」──月桂樹がアポッロの木であり詩的勝利の象徴：川がアポッロの歌を月桂樹に「記憶させる」という擬人法が自然を詩の保管者として定義する。「pulsae referunt ad sidera valles（響いた谷々が星々へと返す）」という括弧内の音響描写が詩の言葉の宇宙的反響を示す：シレノスの歌が地上から星々にまで届く。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "cogere donec ovis stabulis numerumque referre\niussit et invito processit Vesper Olympo.",
+      "body": "「羊を囲いにまとめ数を報告するよう命じ、嫌がるオリュンポスにウェスペルが進み出るまで（cogere donec ovis stabulis numerumque referre / iussit et invito processit Vesper Olympo）」──詩の最終二行。「invito…Olympo（嫌がるオリュンポス）」という擬人法が夕星（Vesper）の出現を「オリュンポスの意志に反して」と表現する：詩を終わらせることへの詩的・神的な抵抗。第1歌「maioresque cadunt altis de montibus umbrae」・第2歌「sol crescentis decedens duplicat umbras」・第3歌「claudite iam rivos, pueri; sat prata biberunt」という各歌の閉幕モチーフが、第6歌では「invito Olympo（嫌がるオリュンポス）」という天上的次元で締まる：牧歌的閉幕が詩集全体の中で最も壮大な宇宙論的スケールに達する。"
+    }
+  ]
+}
