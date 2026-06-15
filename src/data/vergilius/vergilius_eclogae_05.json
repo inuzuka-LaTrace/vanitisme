@@ -1,0 +1,283 @@
+{
+  "id": "vergilius_eclogae_5",
+  "title": "Eclogae — Ecloga V",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga V. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_V",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第5歌。メナルカス（Menalcas）とモプスス（Mopsus）の二人の羊飼いによる対話詩（全90行）。詩集の中心に位置する第5歌は、伝説的牧人ダプニス（Daphnis）の死と神化という二部構造を持つ：モプススがダプニスの死を悼む哀歌（v.20–44）を歌い、メナルカスがダプニスの神化・星座への昇天を讃える頌歌（v.56–80）で応じる。ダプニス（Daphnis）はシキリア牧歌の始祖的英雄（テオクリトス第1歌の「ダプニスの死」の直接的継承）であり、同時に現実の誰かの象徴と解釈されてきた──ユリウス・カエサル（BC 44年暗殺）とオクタウィアヌスによる神化（BC 42年に「神君ユリウス（Divus Iulius）」として神格化）が最も有力な同定。詩の閉幕（v.85–90）での「葦笛（cicuta）と牧童杖（pedum）」の交換が、モプスス＝ウェルギリウス、メナルカス＝先行する詩人（あるいはウェルギリウス自身）という詩的自己言及の伝統的解釈を生む：「これがわれらに『美しいコリュドンがアレクシスを恋した』を教え、これがまた『誰の家畜か？メリボエウスのか？』を教えた（haec nos ”Formosum Corydon ardebat Alexim” / haec eadem docuit ”Cuium pecus? an Meliboei?”）」という言及が第2歌・第3歌への明示的な内部参照として機能する。「Deus, deus ille, Menalca（神だ、神だ、あの方が、メナルカスよ）」という宣言が第4歌の「神の子（deum suboles）」の主題を受け継ぎ、詩集中央での神化の詩学を確立する。",
+  "keywords": [
+    "Daphnis",
+    "神化",
+    "apotheosis",
+    "哀歌",
+    "頌歌",
+    "Mopsus",
+    "Menalcas",
+    "牧歌的挽歌",
+    "星座",
+    "葦笛と牧童杖"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_2",
+    "vergilius_eclogae_3",
+    "vergilius_eclogae_4",
+    "horatius_carmina_1_4",
+    "dante_purgatorio_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–3",
+      "speaker": "Menalcas",
+      "original": "Cur non, Mopse, boni quoniam convenimus ambo\ntu calamos inflare levis, ego dicere versus,\nhic corylis mixtas inter consedimus ulmos?",
+      "provisionalTranslation": "どうしないのか、モプスス、二人ともよき者として出会ったのだから、\nお前は軽い葦笛を吹き、わたしは詩を語り、\nここハシバミに混じった楡の木々の間に座ろうではないか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.4–7",
+      "speaker": "Mopsus",
+      "original": "Tu maior; tibi me est aequom parere, Menalca,\nsive sub incertas Zephyris motantibus umbras,\nsive antro potius succedimus. Aspice ut antrum\nsilvestris raris sparsit labrusca racemis.",
+      "provisionalTranslation": "お前の方が年長だ；お前に従うのがわたしには当然だ、メナルカスよ、\nゼフュロスが揺らす不安定な木陰の下にせよ、\nあるいはむしろ洞窟に入るにせよ。見よ、洞窟に\n野生の野葡萄がまばらな房を散らしているのを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.8",
+      "speaker": "Menalcas",
+      "original": "Montibus in nostris solus tibi certat Amyntas.",
+      "provisionalTranslation": "われらの山々においてアミュンタスだけがお前と競う。"
+    },
+    {
+      "id": 4,
+      "verses": "v.9",
+      "speaker": "Mopsus",
+      "original": "Quid, si idem certet Phoebum superare canendo?",
+      "provisionalTranslation": "どうする、もし同じ者が歌でポエブスを超えようと競うなら？"
+    },
+    {
+      "id": 5,
+      "verses": "v.10–12",
+      "speaker": "Menalcas",
+      "original": "Incipe, Mopse, prior, si quos aut Phyllidis ignis\naut Alconis habes laudes aut iurgia Codri;\nincipe; pascentis servabit Tityrus haedos.",
+      "provisionalTranslation": "先に始めよ、モプスス、フュッリスへの恋の炎か\nアルコンへの讃辞かコドルスへの罵倒を何か持っているなら；\n始めよ；ティテュルスが草を食む山羊の子を見ていてくれるだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.13–15",
+      "speaker": "Mopsus",
+      "original": "Immo haec in viridi nuper quae cortice fagi\ncarmina descripsi et modulans alterna notavi,\nexperiar: tu deinde iubeto certet Amyntas.",
+      "provisionalTranslation": "いや、ブナの木の青い樹皮に最近わたしが書き記し\n交互の節をつけて書き留めたこの詩を\n試してみよう：その後でアミュンタスと競わせるがいい。"
+    },
+    {
+      "id": 7,
+      "verses": "v.16–19",
+      "speaker": "Menalcas",
+      "original": "Lenta salix quantum pallenti cedit olivae,\npuniceis humilis quantum saliunca rosetis,\niudicio nostro tantum tibi cedit Amyntas.\nSed tu desine plura, puer; successimus antro.",
+      "provisionalTranslation": "柔らかい柳が青白いオリーヴに劣るほど、\n低い甘松がくれないの薔薇の茂みに劣るほど、\nわたしたちの判断ではアミュンタスはそれほどお前に劣る。\nだがそれ以上は言うのをやめよ、少年よ；われらは洞窟に入った。"
+    },
+    {
+      "id": 8,
+      "verses": "v.20–31",
+      "speaker": "Mopsus",
+      "original": "Exstinctum Nymphae crudeli funere Daphnim\nflebant (vos coryli testes et flumina Nymphis),\ncum complexa sui corpus miserabile nati\natque deos atque astra vocat crudelia mater.\nNon ulli pastos illis egere diebus\nfrigida, Daphni, boves ad flumina; nulla neque amnem\nlibauit quadrupes, nec graminis attigit herbam.\nDaphni, tuom Poenos etiam ingemuisse leones\ninteritum montesque feri silvaequeloquontur.\nDaphnis et Armenias curru subiungere tigris\ninstituit; Daphnis thiasos inducere Bacchi,\net foliis lentas intexere mollibus hastas.",
+      "provisionalTranslation": "冷酷な死によって滅ぼされたダプニスをニュンファイが\n泣いていた（お前たちハシバミと川々がニュンファイの証人だ）、\n我が子のみじめな体を抱きしめながら\n神々と星々を冷酷だと呼ぶ母親とともに。\nあの日々には誰も飼い慣らされた牛たちを\n冷たい川へと、ダプニスよ、追っていかなかった；水にも\n四足の獣が口をつけず、草の葉にも触れなかった。\nダプニスよ、ポエニの獅子たちさえもお前の死を嘆いたと\n荒々しい山々と森が語る。\nダプニスはアルメニアの虎たちを車に繋ぐことを\n始め、ダプニスはバッコスの祭りの行列を導き、\n柔らかい葉で柔軟な槍に編み込むことを始めた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.32–44",
+      "speaker": "Mopsus",
+      "original": "Vitis ut arboribus decori est, ut vitibus uvae,\nut gregibus tauri, segetes ut pinguibus arvis,\ntu decus omne tuis. Postquam te fata tulerunt,\nipsa Pales agros atque ipse reliquit Apollo.\nGrandia saepe quibus mandavimus hordea sulcis,\ninfelix lolium et steriles nascuntur avenae;\npro molli viola, pro purpureo narcisso\ncarduos et spinis surgit paliurus acutis.\nSpargite humum foliis, inducite fontibus umbras,\npastores (mandat fieri sibi talia Daphnis),\net tumulum facite, et tumulo superaddite carmen:\nDaphnis ego in silvis hinc usque ad sidera notus\nformosi pecoris custos formosior ipse.",
+      "provisionalTranslation": "葡萄の蔓が木々の飾りであるように、葡萄の蔓に房が、\n群れに雄牛が、肥えた畑に穀物が飾りであるように、\nお前はお前の者たちすべての飾りだった。運命がお前を奪って以来、\nパレス自身も、アポッロ自身も畑を去った。\nわれらが大きな大麦を委ねた幾多の畝に\n不吉なドクムギと実のならない野燕麦が生える；\n柔らかいスミレの代わりに、紫のスイセンの代わりに\nアザミと鋭い棘のパリウルスが育つ。\n葉で地面を撒き散らせ、泉に木陰をもたらせ、\n羊飼いたちよ（ダプニスはそのようなことがなされることを命じている）、\nそして塚を作れ、そして塚の上に詩を加えよ：\nわたしダプニスはここから星々に至るまで森の中で知られる、\n美しい群れの番人、それよりも美しい者自身が。"
+    },
+    {
+      "id": 10,
+      "verses": "v.45–52",
+      "speaker": "Menalcas",
+      "original": "Tale tuom carmen nobis, divine poeta,\nquale sopor fessis in gramine, quale per aestum\ndulcis aquae saliente sitim restinguere rivo.\nnec calamis solum aequiperas, sed voce magistrum.\nfortunate puer, tu nunc eris alter ab illo.\nnos tamen haec quocumque modo tibi nostra vicissim\ndicemus, Daphnimque tuum tollemus ad astra;\nDaphnim ad astra feremus: amavit nos quoque Daphnis.",
+      "provisionalTranslation": "お前の詩はわたしたちにとって、神の詩人よ、\n疲れた者たちの草の上の眠りのよう、暑さの中で\n甘い水の跳ねる小川で渇きを癒すよう。\n葦笛においてだけでなく、声においても師に並ぶ。\n幸いな少年よ、お前は今あの方に次ぐ者となるだろう。\nそれでもわたしたちはこれをどのような形であれお前に交替で\n語ろう、そしてお前のダプニスを星々へと上げよう；\nダプニスを星々へと運ぼう：ダプニスはわたしたちをも愛してくれた。"
+    },
+    {
+      "id": 11,
+      "verses": "v.53–55",
+      "speaker": "Mopsus",
+      "original": "An quicquam nobis tali sit munere maius?\net puer ipse fuit cantari dignus, et ista\niam pridem Stimichon laudavit carmina nobis.",
+      "provisionalTranslation": "わたしたちにそのような贈り物より大きいものがあるだろうか？\nあの少年自身も歌われるに値した、そしてそれらの\n詩をスティミコンはずっと前からわたしたちに讃えていた。"
+    },
+    {
+      "id": 12,
+      "verses": "v.56–68",
+      "speaker": "Menalcas",
+      "original": "Candidus insuetum miratur limen Olympi\nsub pedibus videt nubes et sidera Daphnis.\nErgo alacris silvas et cetera rura voluptas\nPanaque pastoresque tenet Dryadasque puellas.\nnec lupus insidias pecori, nec retia cervis\nulla dolum meditantur: amat bonus otia Daphnis.\nIpsi laetitia voces ad sidera iactant\nintonsi montes; ipsae iam carmina rupes,\nipsa sonant arbusta: \"Deus, deus ille, Menalca!\"\nSis bonus o felixque tuis! En quattuor aras:\necce duas tibi, Daphni, duas altaria Phoebo.\nPocula bina novo spumantia lacte quotannis,\ncraterasque duo statuam tibi pinguis olivi,",
+      "provisionalTranslation": "輝くダプニスは慣れないオリュンポスの敷居に驚き、\n足下に雲と星々を見る。\nかくして喜びが活気づいた森とその他の田舎と\nパン神と羊飼いたちとドリュアスの乙女たちを捉える。\n狼も家畜への策略を、鹿への網も\n何ら罠を企てない：善きダプニスは安らぎを愛する。\n毛を刈られていない山々自身が喜びの声を星々へと放ち、\n岩々自身がすでに歌を、\n木立ち自身が響き渡る：「神だ、神だ、あの方が、メナルカスよ！」\n善く幸いであれ、お前の者たちに！見よ、四つの祭壇を：\nここにお前のために、ダプニスよ、二つ、ポエブスに二つの壇を。\n毎年新鮮な乳で泡立つ杯を二つ、\nお前のために肥えたオリーヴ油の鉢を二つ置こう、"
+    },
+    {
+      "id": 13,
+      "verses": "v.69–80",
+      "speaker": "Menalcas",
+      "original": "et multo in primis hilarans convivia Baccho,\nante focum, si frigus erit, si messis, in umbra,\nvina novom fundam calathis Ariusia nectar.\nCantabunt mihi Damoetas et Lyctius Aegon;\nsaltantis Satyros imitabitur Alphesiboeus.\nHaec tibi semper erunt, et cum sollemnia vota\nreddemus Nymphis, et cum lustrabimus agros.\nDum iuga montis aper, fluvios dum piscis amabit,\ndumque thymo pascentur apes, dum rore cicadae,\nsemper honos nomenque tuum laudesque manebunt.\nUt Baccho Cererique, tibi sic vota quotannis\nagricolae facient: damnabis tu quoque votis.",
+      "provisionalTranslation": "そして何より多くのバッコスで饗宴を明るくしながら、\n冬なら暖炉の前で、収穫の時なら木陰で、\nアリウシアの新しいワインをネクタルとして籠に注ごう。\nダモエタスとリュクティウスのアエゴンがわたしのために歌い、\nアルフェシボエウスが踊るサテュロスたちを真似るだろう。\nこれらはいつもお前のものだろう、われらがニュンファイに\n厳粛な誓いを果たす時も、野原を清める時も。\n山の峰を猪が、川々を魚が愛する限り、\n蜜蜂がタイムを食み、蝉が露を食む限り、\nいつもお前の栄誉と名と讃えは残るだろう。\nバッコスとケレスに対するように、お前に対して毎年\n農夫たちは誓いを立てるだろう：お前もまた誓いで縛るだろう。"
+    },
+    {
+      "id": 14,
+      "verses": "v.81–84",
+      "speaker": "Mopsus",
+      "original": "Quae tibi, quae tali reddam pro carmine dona?\nnam neque me tantum venientes sibilus Austri\nnec percussa iuvant fluctu tam litora, nec quae\nsaxosas inter decurrunt flumina vallis.",
+      "provisionalTranslation": "何をお前に、そのような詩への返礼として何の贈り物を与えればいいか？\nというのもやって来る南風の囁きも、\n波に打たれる岸辺も、\n岩の多い谷の間を走る川々も、それほどわたしを喜ばせない。"
+    },
+    {
+      "id": 15,
+      "verses": "v.85–87",
+      "speaker": "Menalcas",
+      "original": "Hac te nos fragili donabimus ante cicuta:\nhaec nos \"Formosum Corydon ardebat Alexim\",\nhaec eadem docuit \"Cuium pecus? an Meliboei?\"",
+      "provisionalTranslation": "これよりまずこの壊れやすい葦笛でお前に贈り物をしよう：\nこれがわれらに「美しいコリュドンがアレクシスを恋した」を教え、\nこれが同じくわれらに「誰の家畜か？メリボエウスのか？」を教えた。"
+    },
+    {
+      "id": 16,
+      "verses": "v.88–90",
+      "speaker": "Mopsus",
+      "original": "At tu sume pedum, quod, me cum saepe rogaret,\nnon tulit Antigenes (et erat tum dignus amari),\nformosum paribus nodis atque aere, Menalca.",
+      "provisionalTranslation": "しかしお前は牧童杖を受け取れ、わたしにしばしばねだっていたが\nアンティゲネスが手に入れられなかった（その時彼は愛されるに値した）、\n均等な節と真鍮で美しい杖を、メナルカスよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Cur non, Mopse, boni quoniam convenimus ambo\ntu calamos inflare levis, ego dicere versus,",
+      "body": "「二人ともよき者として出会ったのだから、お前は葦笛を吹き、わたしは詩を語り（boni quoniam convenimus ambo / tu calamos inflare levis, ego dicere versus）」──二者の詩的役割の分担宣言。「calamos inflare（葦笛を吹く）」と「dicere versus（詩を語る）」という器楽と言語の二分法が、音楽と詩という牧歌的芸術の二軸を提示する。「boni（よき者として）」という形容詞が単なる技量ではなく道徳的資質としての「よさ」を示す：牧歌の競争は善人同士の間でのみ成立するという前提。第3歌の口論（口論から歌合わせへ）との構造的対比：第5歌は最初から友好的な出会いとして始まる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Aspice ut antrum\nsilvestris raris sparsit labrusca racemis.",
+      "body": "「見よ、洞窟に野生の野葡萄がまばらな房を散らしているのを（Aspice ut antrum / silvestris raris sparsit labrusca racemis）」──洞窟（antrum）という牧歌的場所の視覚的描写。「silvestris labrusca（野生の野葡萄）」という形容が栽培された葡萄（第1歌・第7歌）と対照をなす自然の自発的産物として機能する。「raris racemis（まばらな房）」という質素な描写が過剰な装飾を排した牧歌的美学を体現する：少ない房が洞窟の壁に散らばる情景の視覚的簡潔さ。第4歌の「自発的豊穣（nullo cultu）」の牧歌的縮小版として読める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Montibus in nostris solus tibi certat Amyntas.",
+      "body": "「われらの山々においてアミュンタスだけがお前と競う（Montibus in nostris solus tibi certat Amyntas）」──一行のみの短い発話が会話の速度を上げる。アミュンタス（Amyntas）は第3歌・第10歌にも登場する牧歌的競争者の名前。「solus（だけ）」という副詞がモプススの卓越した詩的地位を讃える：山々全体を見渡してもアミュンタス一人だけが競争相手として思い浮かぶ。これがすぐ次のモプススの返答（「アミュンタスがポエブスを超えようとするなら？」）への布石となる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quid, si idem certet Phoebum superare canendo?",
+      "body": "「もし同じ者が歌でポエブスを超えようと競うなら？（Quid, si idem certet Phoebum superare canendo）」──一行の修辞的問いかけが詩集内最も簡潔な発話の一つ。「Phoebus（ポエブス＝アポッロ）」は詩・音楽・予言の神：その神を超えようとするアミュンタスへの皮肉的言及が、モプスス自身の詩的自信を間接的に示す。第3歌でメナルカスが「お前の詩を試してみよ、アミュンタスと競わせる前に」と言ったのに対し、ここではモプスス自身が同じ議論の構造を使って自らの詩的優位を主張する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Incipe, Mopse, prior, si quos aut Phyllidis ignis\naut Alconis habes laudes aut iurgia Codri;",
+      "body": "「先に始めよ、モプスス、フュッリスへの恋の炎かアルコンへの讃辞かコドルスへの罵倒を何か持っているなら（Incipe, Mopse, prior, si quos aut Phyllidis ignis / aut Alconis habes laudes aut iurgia Codri）」──牧歌的詩の三類型の列挙：恋愛詩（ignis Phyllidis）・讃歌（laudes Alconis）・罵倒詩（iurgia Codri）。フュッリス・アルコン・コドルスという名前は具体的な人物を指すのではなく、牧歌的詩の伝統的主題の類型的な代表として機能する。「先に始めよ（Incipe, prior）」という促しが第4歌「Incipe, parve puer」のエコーとして機能する：「始まり」という主題が詩集全体に通底する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Immo haec in viridi nuper quae cortice fagi\ncarmina descripsi et modulans alterna notavi,",
+      "body": "「ブナの木の青い樹皮に最近わたしが書き記し、交互の節をつけて書き留めたこの詩（haec in viridi nuper quae cortice fagi / carmina descripsi et modulans alterna notavi）」──樹皮に詩を刻むという牧歌的習慣の文学的描写。「viridi cortice fagi（ブナの木の青い樹皮）」は第1歌冒頭「sub tegmine fagi（ブナの木蔭で）」との響き合い：詩集全体のシンボルとしてのブナが再び詩の媒体として登場する。「modulans alterna（交互の節をつけて）」という表現が第3歌の「alternis dicetis; amant alterna Camenae」を想起させる：交互性が牧歌的詩の本質的原理として確認される。樹皮への刻字が口頭伝承と書記文化の境界に立つ牧歌的文字性の詩的定式。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Lenta salix quantum pallenti cedit olivae,\npuniceis humilis quantum saliunca rosetis,\niudicio nostro tantum tibi cedit Amyntas.",
+      "body": "「柔らかい柳が青白いオリーヴに劣るほど……アミュンタスはそれほどお前に劣る（Lenta salix quantum pallenti cedit olivae / …tantum tibi cedit Amyntas）」──植物の二重比喩（similitudo duplex）による詩的讃美。「quantum…tantum（…ほど…それほど）」という相関接続詞の構造が比較の精確さを数学的に定式化する。「lenta salix（柔らかい柳）」対「pallens oliva（青白いオリーヴ）」：柳の柔軟性とオリーヴの硬さ・貴さの対比。「humilis saliunca（低い甘松）」対「punicea roseta（くれないの薔薇）」：低い香草と高貴な薔薇の対比。二つの植物的対比がそれぞれ「軟←→硬・貴」・「低←→高・美」という異なる価値軸でアミュンタスとモプススの格差を描く。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Exstinctum Nymphae crudeli funere Daphnim\nflebant (vos coryli testes et flumina Nymphis),",
+      "body": "「冷酷な死によって滅ぼされたダプニスをニュンファイが泣いていた（Exstinctum Nymphae crudeli funere Daphnim / flebant）」──テオクリトス第1歌「ダプニスの死」（「ダプニスが死にゆく時、川々は彼を悼んだ」）の直接的継承。「crudeli funere（冷酷な死）」という形容がダプニスの死の暴力性・不当性を強調する：若く美しい者の早死という牧歌的挽歌の定型的主題。「vos coryli testes et flumina Nymphis（お前たちハシバミと川々がニュンファイの証人だ）」という自然への呼びかけ（apostrophe）が人間の嘆きを宇宙的次元へと拡張する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Daphni, tuom Poenos etiam ingemuisse leones\ninteritum montesque feri silvaequeloquontur.",
+      "body": "「ダプニスよ、ポエニの獅子たちさえもお前の死を嘆いたと荒々しい山々と森が語る（Daphni, tuom Poenos etiam ingemuisse leones / interitum montesque feri silvaeque loquontur）」──ダプニスの死への宇宙的共感（sympathy of nature）の定式。「Poenos leones（ポエニの獅子たち）」──カルタゴ（北アフリカ）という遠方の獣が嘆くという誇張が、死の影響の普遍性を示す。「montes feri silvaequeloquontur（荒々しい山々と森が語る）」──無生物の山と森が証人として語るという擬人法。同種の表現が後段（v.62–64）「intonsi montes…ipsae iam carmina rupes / ipsa sonant arbusta」として「神化」の宣言に転用される：哀歌から讃歌への鏡像的転換。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "allusion",
+      "anchor": "Daphnis et Armenias curru subiungere tigris\ninstituit; Daphnis thiasos inducere Bacchi,\net foliis lentas intexere mollibus hastas.",
+      "body": "「ダプニスはアルメニアの虎たちを車に繋ぐことを始め、ダプニスはバッコスの祭りの行列を導き、柔らかい葉で柔軟な槍に編み込むことを始めた（Daphnis et Armenias curru subiungere tigris / instituit; Daphnis thiasos inducere Bacchi）」──ダプニスとバッコス（ディオニュソス）の神話的同一視。「Armenias tigris（アルメニアの虎）」──バッコスの戦車を引く動物としての虎はディオニュソス崇拝の図像学的定型。「thiasos inducere Bacchi（バッコスの祭りの行列を導く）」──テュルソスで武装した信徒たちの行列（thiasus）がダプニスによって導かれるという表現が、ダプニスを準神格として位置づける。ユリウス・カエサル（BC 44年暗殺・BC 42年に「神君ユリウス」として神格化）への同定を支持する詩的証拠として古代から引用された。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Vitis ut arboribus decori est, ut vitibus uvae,\nut gregibus tauri, segetes ut pinguibus arvis,\ntu decus omne tuis.",
+      "body": "「葡萄の蔓が木々の飾りであるように……お前はお前の者たちすべての飾りだった（Vitis ut arboribus decori est…tu decus omne tuis）」──四重の並行比喩（similitudo multiplex）の後に結論を置く修辞的構造。「ut…ut…ut…ut…tu（…のように…のように…のように…のように…お前は）」という反復的接続詞の連鎖が感情的昂揚を生む。「decus（飾り・栄光）」という語が比喩の連鎖全体の焦点語として機能する：ダプニスは群れにとっての「飾り」であると同時に、詩集全体にとっての詩的中心としての「飾り」でもある。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Spargite humum foliis, inducite fontibus umbras,\npastores (mandat fieri sibi talia Daphnis),\net tumulum facite, et tumulo superaddite carmen:\nDaphnis ego in silvis hinc usque ad sidera notus\nformosi pecoris custos formosior ipse.",
+      "body": "「葉で地面を撒き散らせ、泉に木陰をもたらせ……塚を作れ、そして塚の上に詩を加えよ（Spargite humum foliis…et tumulum facite, et tumulo superaddite carmen）」──墓碑銘（epitaphium）の詩的演出。「mandat fieri sibi talia Daphnis（ダプニスはそのようなことがなされることを命じている）」──死者が自らの葬儀の作法を命じるという奇妙な括弧内注記が、ダプニスが既に超自然的な知覚を持つ存在となったことを示唆する。「Daphnis ego in silvis hinc usque ad sidera notus / formosi pecoris custos formosior ipse（わたしダプニスはここから星々に至るまで森の中で知られる、美しい群れの番人、それよりも美しい者自身が）」──一人称の墓碑銘が「formosi…formosior（美しい……より美しい）」という比較級の反復で締まる：群れより美しいダプニスという自己称賛が詩学的遺産として刻まれる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Tale tuom carmen nobis, divine poeta,\nquale sopor fessis in gramine, quale per aestum\ndulcis aquae saliente sitim restinguere rivo.",
+      "body": "「お前の詩はわたしたちにとって……疲れた者たちの草の上の眠りのよう、暑さの中で甘い水の跳ねる小川で渇きを癒すよう（Tale tuom carmen nobis…quale sopor fessis in gramine, quale per aestum / dulcis aquae saliente sitim restinguere rivo）」──詩的比喩による詩の効果の定義。眠り（sopor）と涼水（aqua dulcis）という感覚的快楽が詩の受容経験の比喩として用いられる：詩は精神の渇きを癒す水であるという詩学的命題。「saliente rivo（跳ねる小川）」という動的形容が静的な「水」ではなく生命的な「流れ」として詩を定義する。ボードレール「招待への旅（Invitation au Voyage）」の「そこはすべて秩序と美、贅沢と静寂と快楽」という感覚的定式の古代的先行形として読める。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "fortunate puer, tu nunc eris alter ab illo.\nnos tamen haec quocumque modo tibi nostra vicissim\ndicemus, Daphnimque tuum tollemus ad astra;\nDaphnim ad astra feremus: amavit nos quoque Daphnis.",
+      "body": "「幸いな少年よ、お前は今あの方に次ぐ者となるだろう（fortunate puer, tu nunc eris alter ab illo）」──詩的継承の定式。「alter ab illo（あの方に次ぐ者）」の「ille（あの方）」は文脈上ダプニスを指すが、同時に詩集内での「偉大な先行者」という一般的な詩的権威を指す。「Daphnim ad astra feremus: amavit nos quoque Daphnis（ダプニスを星々へと運ぼう：ダプニスはわたしたちをも愛してくれた）」──「amavit nos quoque（わたしたちをも愛してくれた）」という「quoque（もまた）」が詩的共同体（詩人・愛された者・愛する者）の相互性を示す：ダプニスへの愛が一方的な献辞ではなく相互的な愛として定義される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "et puer ipse fuit cantari dignus, et ista\niam pridem Stimichon laudavit carmina nobis.",
+      "body": "「あの少年自身も歌われるに値した、そしてそれらの詩をスティミコンはずっと前からわたしたちに讃えていた（et puer ipse fuit cantari dignus, et ista / iam pridem Stimichon laudavit carmina nobis）」──スティミコン（Stimichon）という名前は詩集内でここにしか登場しない謎の人物。先行的讃美者として言及されることで、モプススの詩への評価が既に詩的共同体内で確立していたことが示される。「cantari dignus（歌われるに値した）」という定式が詩的記念化（commemoration）の条件として機能する：歌われることへの値打ちが存在の永続性の基準となる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Candidus insuetum miratur limen Olympi\nsub pedibus videt nubes et sidera Daphnis.",
+      "body": "「輝くダプニスは慣れないオリュンポスの敷居に驚き、足下に雲と星々を見る（Candidus insuetum miratur limen Olympi / sub pedibus videt nubes et sidera Daphnis）」──ダプニスの神化（apotheosis）の詩的頂点。「Candidus（輝く・白い）」という形容詞が神格化された存在の光輝を示す：死の「冷たい白さ」とは異なる生命的な光。「insuetum limen Olympi（慣れないオリュンポスの敷居）」──天国への入り口が「慣れない（insuetum）」と表現されることで、ダプニスの人間性と神性の境界を示す：まだ神の世界に完全には属さない過渡的な存在。第4歌の「nova progenies caelo demittitur alto（天から降ろされる新しい子孫）」の逆方向の運動として：地上から天へ。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Ipsi laetitia voces ad sidera iactant\nintonsi montes; ipsae iam carmina rupes,\nipsa sonant arbusta: \"Deus, deus ille, Menalca!\"",
+      "body": "「毛を刈られていない山々自身が喜びの声を星々へと放ち、岩々自身がすでに歌を、木立ち自身が響き渡る：『神だ、神だ、あの方が、メナルカスよ！』（Ipsi laetitia voces ad sidera iactant / intonsi montes; ipsae iam carmina rupes, / ipsa sonant arbusta: 'Deus, deus ille, Menalca!')」──三重のアナフォラ（ipsi / ipsae / ipsa）が第1歌v.38–39「ipsae te, Tityre, pinus / ipsi te fontes, ipsa haec arbusta vocabant」を鏡像的に反転する：そこでは自然がティテュルスを「呼んだ（vocabant）」のに対し、ここでは自然が「神だ（Deus）」と「宣言する（sonant）」。「intonsi montes（毛を刈られていない山々）」という形容が山を擬人化する：剃らない（野生の）山が声を放つ。「Deus, deus ille（神だ、神だ、あの方が）」という二重呼称が神化の絶頂を劇的に演出する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Dum iuga montis aper, fluvios dum piscis amabit,\ndumque thymo pascentur apes, dum rore cicadae,\nsemper honos nomenque tuum laudesque manebunt.",
+      "body": "「山の峰を猪が、川々を魚が愛する限り、蜜蜂がタイムを食み、蝉が露を食む限り、いつもお前の栄誉と名と讃えは残るだろう（Dum iuga montis aper…semper honos nomenque tuum laudesque manebunt）」──永続の誓約の定型表現（dum…semper）。自然の恒常的現象の列挙（猪・魚・蜜蜂・蝉の習性）が「永遠」の比喩として機能する：これらが変わらない限りダプニスの名声は続くという条件付き永遠。ホラティウス『詩集』第3巻30番「Exegi monumentum aere perennius（わたしは青銅より永続する記念碑を建てた）」との詩的照応：記念碑としての詩の永続性という同一の詩学的命題を、自然的比喩によって牧歌的に定式化する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Ut Baccho Cererique, tibi sic vota quotannis\nagricolae facient: damnabis tu quoque votis.",
+      "body": "「バッコスとケレスに対するように、お前に対して毎年農夫たちは誓いを立てるだろう（Ut Baccho Cererique, tibi sic vota quotannis / agricolae facient）」──ダプニスをバッコス（酒の神）・ケレス（穀物の女神）と同等の農業神として定位する宣言。「damnabis tu quoque votis（お前もまた誓いで縛るだろう）」──神が信者を「誓いで縛る（damnare votis）」という逆説的表現：神への誓いが信者を縛ると同時に、神もその誓いに応える義務を持つという相互的拘束関係。ユリウス・カエサルが「神君ユリウス（Divus Iulius）」として農業神的性格を付与されたという歴史的背景との照応。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "nam neque me tantum venientes sibilus Austri\nnec percussa iuvant fluctu tam litora, nec quae\nsaxosas inter decurrunt flumina vallis.",
+      "body": "「やって来る南風の囁きも、波に打たれる岸辺も、岩の多い谷の間を走る川々も、それほどわたしを喜ばせない（nam neque me tantum venientes sibilus Austri / nec percussa iuvant fluctu tam litora）」──三重の自然的音響（風・波・川）の否定による感謝表現。「sibilus Austri（南風の囁き）」・「percussa fluctu litora（波に打たれる岸辺）」・「flumina decurrunt（流れる川々）」という聴覚・視覚・動態の三感覚が列挙される。これらの自然的快楽よりもメナルカスの詩が大きな喜びを与えるという逆説的讃美：詩の感覚的快楽が自然の美を超えるという詩学的命題。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "intertextual",
+      "anchor": "Hac te nos fragili donabimus ante cicuta:\nhaec nos \"Formosum Corydon ardebat Alexim\",\nhaec eadem docuit \"Cuium pecus? an Meliboei?\"",
+      "body": "「この壊れやすい葦笛でお前に贈り物をしよう：これがわれらに『美しいコリュドンがアレクシスを恋した』を教え、これが同じくわれらに『誰の家畜か？メリボエウスのか？』を教えた（Hac te nos fragili donabimus ante cicuta: / haec nos 'Formosum Corydon ardebat Alexim' / haec eadem docuit 'Cuium pecus? an Meliboei?')」──詩集内最も明示的な自己言及（auto-reference）。「Formosum Corydon ardebat Alexim」は第2歌の冒頭行、「Cuium pecus? an Meliboei?」は第3歌の冒頭行の直接引用：葦笛が第2・3歌の生みの親として詩的継承の媒体として機能する。「fragili cicuta（壊れやすい葦笛）」という形容が楽器の物質的脆弱さと詩の精神的永続性の逆説を示す：壊れやすい笛から不滅の詩が生まれる。",
+      "targetId": "vergilius_eclogae_2",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "At tu sume pedum, quod, me cum saepe rogaret,\nnon tulit Antigenes (et erat tum dignus amari),\nformosum paribus nodis atque aere, Menalca.",
+      "body": "「しかしお前は牧童杖を受け取れ……アンティゲネスが手に入れられなかった（その時彼は愛されるに値した）、均等な節と真鍮で美しい杖を（At tu sume pedum…non tulit Antigenes…formosum paribus nodis atque aere）」──牧童杖（pedum）の贈り物による詩の閉幕。「pedum（牧童杖）」は羊飼いの権威の象徴であり、「cicuta（葦笛）」と対をなす牧歌的詩の二つの道具の交換が詩の対称的な閉幕を構成する。「et erat tum dignus amari（その時彼は愛されるに値した）」という括弧内の注記が詩の最後に過去の愛の記憶を挿入する：アンティゲネスという名前が詩集内でここにのみ登場し、その過去の愛が現在の贈り物の文脈を豊かにする。「formosum paribus nodis atque aere（均等な節と真鍮で美しい）」という杖の物質的描写が詩的秩序（均等・美）の物的象徴として機能する。"
+    }
+  ]
+}
