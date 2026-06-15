@@ -1,0 +1,250 @@
+{
+  "id": "vergilius_eclogae_7",
+  "title": "Eclogae — Ecloga VII",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga VII. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_VII",
+  "year": "42–39 BC頃",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★",
+  "context": "『牧歌』第7歌。全70行。メリボエウス（Meliboeus）が過去の歌合わせを回想する枠物語（v.1–20・v.69–70）の中に、コリュドン（Corydon）とテュルシス（Thyrsis）の交互唱（amoebaeum carmen）が埋め込まれた二重構造を持つ詩。「Arcades ambo（二人ともアルカディア人）」（v.4）という定式が詩集全体の牧歌的理想郷としてのアルカディア（Arcadia）概念を確立する言葉として西洋文学史上最も引用された句の一つ。バイロン『ドン・ファン』・サンナッツァーロ『アルカディア』・シドニー『アルカディア』等に受け継がれ、「Et in Arcadia ego」というプッサンの絵画的命題の詩的源泉ともなった。枠語りはアリステウスの物語に登場するミンキウス川（Mincius、マントヴァを流れる川）を舞台とし、ウェルギリウスの故郷との伝記的接続を示唆する。交互唱の主題は祈り（v.21–28）・奉納（v.29–36）・恋（v.37–44）・自然（v.45–52）・風景（v.53–60）・植物（v.61–68）という六対の連鎖で構成される。閉幕の「ex illo Corydon Corydon est tempore nobis（あの時以来コリュドンはわれらにとってコリュドンだ）」という一行の意味の多層性（コリュドン＝詩的卓越の象徴？／第2歌の失恋した羊飼いとの同一性？）が詩の最も議論された問いの一つ。",
+  "keywords": [
+    "Arcades ambo",
+    "アルカディア",
+    "Corydon",
+    "Thyrsis",
+    "Meliboeus",
+    "交互唱",
+    "Mincius",
+    "amoebaeum carmen",
+    "Daphnis",
+    "歌合わせ"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_2",
+    "vergilius_eclogae_3",
+    "vergilius_eclogae_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–13",
+      "speaker": "Meliboeus",
+      "original": "Forte sub arguta consederat ilice Daphnis,\ncompulerantque greges Corydon et Thyrsis in unum,\nThyrsis ovis, Corydon distentas lacte capellas,\nambo florentes aetatibus, Arcades ambo,\net cantare pares et respondere parati.\nHuc mihi, dum teneras defendo a frigore myrtos,\nvir gregis ipse caper deerrauerat; atque ego Daphnim\nadspicio. Ille ubi me contra videt: 'Ocius' inquit\n'huc ades, o Meliboee; caper tibi salvos et haedi,\net, si quid cessare potes, requiesce sub umbra.\nHuc ipsi potum venient per prata iuvenci;\nhic viridis tenera praetexit harundine ripas\nMincius, eque sacra resonant examina quercu.'",
+      "provisionalTranslation": "たまたまダプニスがざわめくイレックスの下に座っていた、\nコリュドンとテュルシスが群れを一か所に追い集めていた、\nテュルシスは羊を、コリュドンは乳で張った山羊たちを、\n二人とも年頃の盛り、二人ともアルカディア人、\n歌うことにも応答することにも等しく備わっていた。\nここへ、わたしがやわらかい銀梅花を寒さから守っている間に、\n群れの雄、その山羊の雄自身が迷い出ていた；そしてわたしはダプニスを\n見かけた。彼はわたしを向こうに見るや：「急いで」と言った、\n「ここへ来い、おおメリボエウスよ；山羊の雄はお前のためにいるし子山羊たちも、\nそして、もし少し休めるなら、木陰で休め。\nここへ牛たちも水を飲みに草地を通って自ら来るだろう；\nここでは緑のミンキウスが柔らかい葦で岸辺を縁取り、\n聖なる樫の木から蜜蜂の群れが響き渡っている。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.14–20",
+      "speaker": "Meliboeus",
+      "original": "Quid facerem? Neque ego Alcippen nec Phyllida habebam,\ndepulsos a lacte domi quae clauderet agnos,\net certamen erat, Corydon cum Thyrside, magnum.\nPosthabui tamen illorum mea seria ludo.\nAlternis igitur contendere versibus ambo\ncoepere; alternos Musae meminisse volebant.\nHos Corydon, illos referebat in ordine Thyrsis.",
+      "provisionalTranslation": "わたしはどうすればよかったか？アルキッペもフュッリスも持っていなかった、\n乳離れした子羊たちを家で閉じ込めてくれる者を、\nそしてコリュドンとテュルシスの間の競いは大きなものだった。\nそれでもわたしは彼らの遊びよりわたしの真剣事を後回しにした。\nかくて二人とも交互の詩で競い合い始めた；\nムーサエは交互のものを覚えていたかった。\nこれらはコリュドンが、あれらは順番にテュルシスが繰り返した。"
+    },
+    {
+      "id": 3,
+      "verses": "v.21–24",
+      "speaker": "Corydon",
+      "original": "Nymphae, noster amor, Libethrides, aut mihi carmen,\nquale meo Codro, concedite (proxima Phoebi\nversibus ille facit), aut, si non possumus omnes,\nhic arguta sacra pendebit fistula pinu.",
+      "provisionalTranslation": "ニュンファイよ、われらの愛、リベトリデスよ、わたしに詩を、\nわたしのコドルスに劣らぬものを授けてくれ（彼はポエブスの\n詩に次ぐものを作る）、あるいは、われわれ全員にそれができないなら、\nここ聖なる松に鳴り響く笛を掛けよう。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–28",
+      "speaker": "Thyrsis",
+      "original": "Pastores, hedera nascentem ornate poetam,\nArcades, invidia rumpantur ut ilia Codro;\naut, si ultra placitum laudarit, baccare frontem\ncingite, ne vati noceat mala lingua futuro.",
+      "provisionalTranslation": "羊飼いよ、蔦で生まれつつある詩人を飾れ、\nアルカディア人よ、コドルスの脇腹が妬みで破裂するよう；\nあるいは、もし彼が満足の限度を超えて褒めるなら、バッカルで額を\n巻け、邪視が将来の詩人に害をなさぬよう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.29–32",
+      "speaker": "Corydon",
+      "original": "Saetosi caput hoc apri tibi, Delia, parvos\net ramosa Micon vivacis cornua cervi.\nSi proprium hoc fuerit, levi de marmore tota\npuniceo stabis suras evincta coturno.",
+      "provisionalTranslation": "この毛むくじゃらの猪の頭とミコンが小さな\n枝角の多い長寿の鹿の角をお前に、デリアよ。\nもしこれが永続するなら、滑らかな大理石で全体が\n真紅の狩り靴で脚を結んで立つだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.33–36",
+      "speaker": "Thyrsis",
+      "original": "Sinum lactis et haec te liba, Priape, quotannis\nexspectare sat est: custos es pauperis horti.\nnunc te marmoreum pro tempore fecimus; at tu,\nsi fetura gregem suppleverit, aureus esto.",
+      "provisionalTranslation": "乳の椀とこれらの供え物を毎年お前に、プリアポスよ、\n待つだけで十分だ：お前は貧しい園の番人だ。\n今はお前を大理石で時節に合わせて作った；しかしお前も、\nもし出産が群れを補充したなら、黄金になれ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.37–40",
+      "speaker": "Corydon",
+      "original": "Nerine Galatea, thymo mihi dulcior Hyblae,\ncandidior cycnis, hedera formosior alba,\ncum primum pasti repetent praesepia tauri,\nsi qua tui Corydonis habet te cura, venito.",
+      "provisionalTranslation": "ネレウスの娘ガラテアよ、わたしにとってヒュブラのタイムより甘く、\n白鳥より白く、白い蔦より美しい者よ、\n飼い飽きた牛たちが最初に厩へと戻る時、\nもし何らかのお前のコリュドンへの気遣いがあるなら、来てくれ。"
+    },
+    {
+      "id": 8,
+      "verses": "v.41–44",
+      "speaker": "Thyrsis",
+      "original": "Immo ego Sardoniis videar tibi amarior herbis,\nhorridior rusco, proiecta vilior alga,\nsi mihi non haec lux toto iam longior anno est.\nIte domum pasti, si quis pudor, ite, iuvenci.",
+      "provisionalTranslation": "むしろわたしはお前にサルデーニャの草より苦く、\nヒイラギより荒々しく、捨てられた海藻より価値なく見えるがよい、\nもし今日という日がわたしにとってもはや一年より長くないなら。\n家に帰れ、飼い飽きた者たちよ、恥があるなら、行け、牛たちよ。"
+    },
+    {
+      "id": 9,
+      "verses": "v.45–48",
+      "speaker": "Corydon",
+      "original": "Muscosi fontes, et somno mollior herba,\net quae vos rara viridis tegit arbutus umbra,\nsolstitium pecori defendite: iam venit aestas\ntorrida, iam lento turgent in palmite gemmae.",
+      "provisionalTranslation": "苔むした泉よ、眠りより柔らかい草よ、\nそしてまばらな緑の苺の木がお前たちを覆う木陰よ、\n家畜を夏至の暑さから守ってくれ：もう燃える夏が来る、\nもうたわわな葡萄の蔓に芽が膨らんでいる。"
+    },
+    {
+      "id": 10,
+      "verses": "v.49–52",
+      "speaker": "Thyrsis",
+      "original": "Hic focus et taedae pingues, hic plurimus ignis\nsemper, et adsidua postes fuligine nigri;\nhic tantum Boreae curamus frigora, quantum\naut numerum lupus aut torrentia flumina ripas.",
+      "provisionalTranslation": "ここに暖炉と脂の多い松明、ここにいつも豊かな火があり、\n扉柱が絶え間ない煤で黒い；\nここでわれわれはボレアスの寒さをどれほど気にするか、\n狼が数を、あるいは激流が岸辺を気にするほどに。"
+    },
+    {
+      "id": 11,
+      "verses": "v.53–56",
+      "speaker": "Corydon",
+      "original": "Stant et iuniperi et castaneae hirsutae;\nstrata iacent passim sua quaeque sub arbore poma;\nomnia nunc rident: at, si formosus Alexis\nmontibus his abeat, videas et flumina sicca.",
+      "provisionalTranslation": "柏槇も毛むくじゃらの栗も立っており、\nそれぞれの木の下にその実が敷き詰められて横たわっている；\nすべてが今笑っている：しかし、もし美しいアレクシスが\nこの山々から去るなら、川々が干上がるのも見えるだろう。"
+    },
+    {
+      "id": 12,
+      "verses": "v.57–60",
+      "speaker": "Thyrsis",
+      "original": "Aret ager; vitio moriens sitit aeris herba;\nLiber pampineas invidit collibus umbras:\nPhyllidis adventu nostrae nemus omne virebit,\nIuppiter et laeto descendet plurimus imbri.",
+      "provisionalTranslation": "野が干上がっている；空気の悪さで死にながら草が渇いている；\nリベルが丘陵の葡萄の葉の木陰を妬んでいる：\nわれらのフュッリスの来訪で森全体が緑になり、\nユーピテルが豊かな喜びの雨となって降ってくるだろう。"
+    },
+    {
+      "id": 13,
+      "verses": "v.61–64",
+      "speaker": "Corydon",
+      "original": "Populus Alcidae gratissima, vitis Iaccho,\nformosae myrtus Veneri, sua laurea Phoebo,\nPhyllis amat corylos; illas dum Phyllis amabit,\nnec myrtus vincet corylos, nec laurea Phoebo.",
+      "provisionalTranslation": "ポプラはアルキデスに最も愛され、葡萄の蔓はウァッコスに、\n銀梅花は美しいウェヌスに、月桂樹は自らポエブスに；\nフュッリスはハシバミを愛する；フュッリスがあれらを愛する限り、\n銀梅花もハシバミに勝てず、ポエブスの月桂樹も。"
+    },
+    {
+      "id": 14,
+      "verses": "v.65–68",
+      "speaker": "Thyrsis",
+      "original": "Fraxinus in silvis pulcherrima, pinus in hortis,\npopulus in fluviis, abies in montibus altis:\nsaepius at si me, Lycida formose, revisas,\nfraxinus in silvis cedat tibi, pinus in hortis.",
+      "provisionalTranslation": "トネリコは森で最も美しく、松は庭で、\nポプラは川沿いで、モミは高い山で：\nしかし美しいリュキダスよ、もしお前がわたしをより頻繁に訪れるなら、\nトネリコは森でお前に劣り、松は庭で劣るだろう。"
+    },
+    {
+      "id": 15,
+      "verses": "v.69–70",
+      "speaker": "Meliboeus",
+      "original": "Haec memini, et victum frustra contendere Thyrsim.\nEx illo Corydon Corydon est tempore nobis.",
+      "provisionalTranslation": "これをわたしは覚えている、テュルシスが敗れて無駄に競っていたのを。\nあの時以来コリュドンはわれらにとってコリュドンだ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ambo florentes aetatibus, Arcades ambo,\net cantare pares et respondere parati.",
+      "body": "「二人とも年頃の盛り、二人ともアルカディア人、歌うことにも応答することにも等しく備わっていた（ambo florentes aetatibus, Arcades ambo, / et cantare pares et respondere parati）」──詩集全体で最も引用される句の一つ。「Arcades ambo（二人ともアルカディア人）」という定式が西洋文学における「アルカディア（Arcadia）」という牧歌的理想郷概念の核心的言語的定式となった。サンナッツァーロ『アルカディア（Arcadia, 1504）』・シドニー『アルカディア（The Countess of Pembroke's Arcadia, 1590）』・プッサン「Et in Arcadia ego（1637–38）」という絵画等に受け継がれ、「アルカディア」は「失われた楽園・牧歌的理想」の代名詞となる。バイロン『ドン・ファン』第4歌86節「Arcades ambo, id est—blackguards both」という引用が近代における皮肉的な受容を示す。「florentes aetatibus（年頃の盛り）」という表現が若さと詩的能力の同一視を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "hic viridis tenera praetexit harundine ripas\nMincius, eque sacra resonant examina quercu.",
+      "body": "「ここでは緑のミンキウスが柔らかい葦で岸辺を縁取り、聖なる樫の木から蜜蜂の群れが響き渡っている（hic viridis tenera praetexit harundine ripas / Mincius, eque sacra resonant examina quercu）」──ミンキウス（Mincius）川はマントヴァ（Mantua）近郊を流れる川であり、ウェルギリウスの生地に最も近い地理的参照点。詩集内で唯一の具体的な北イタリアの地名が、ダプニスの木陰・牧歌的場面の背景として登場することで、詩の虚構空間（アルカディア）と詩人の実際の故郷（マントヴァ）が重なり合う。「sacra…quercu（聖なる樫の木）」──樫はユーピテルの聖木：神聖な自然の場所としての牧歌的風景。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Posthabui tamen illorum mea seria ludo.\nAlternis igitur contendere versibus ambo\ncoepere; alternos Musae meminisse volebant.",
+      "body": "「それでもわたしは彼らの遊びよりわたしの真剣事を後回しにした。かくて二人とも交互の詩で競い合い始めた；ムーサエは交互のものを覚えていたかった（Posthabui tamen illorum mea seria ludo. / Alternis igitur contendere versibus ambo / coepere; alternos Musae meminisse volebant）」──「seria（真剣事）」対「ludo（遊び）」という対置が詩学的価値の逆転を示す：牧歌的「遊び」が実際の農業的「真剣事」より優先される。第3歌「alternis dicetis; amant alterna Camenae（交互に歌え；カメナエは交互を愛する）」との直接的照応：「alternos Musae meminisse volebant」という表現が交互唱の詩学的正統性をムーサエの意志として再確認する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nymphae, noster amor, Libethrides, aut mihi carmen,\nquale meo Codro, concedite (proxima Phoebi\nversibus ille facit), aut, si non possumus omnes,\nhic arguta sacra pendebit fistula pinu.",
+      "body": "「ニュンファイよ、われらの愛、リベトリデスよ、わたしに詩を、わたしのコドルスに劣らぬものを授けてくれ（Nymphae, noster amor, Libethrides, aut mihi carmen, / quale meo Codro, concedite）」──「Libethrides（リベトリデス）」はヘリコン山の泉リベトロンに住むムーサエの別名。「Codrus（コドルス）」は詩集内に数回登場する詩人（第3歌で言及）。「proxima Phoebi versibus ille facit（彼はポエブスの詩に次ぐものを作る）」という称賛の括弧内注記が、コドルスへの敬意と競争心の同時表明として機能する。「hic arguta sacra pendebit fistula pinu（ここ聖なる松に鳴り響く笛を掛けよう）」──詩への挑戦に失敗した場合に楽器を奉納するという牧歌的誓いの定型：第6歌のガッルスへの笛の贈り物との照応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Pastores, hedera nascentem ornate poetam,\nArcades, invidia rumpantur ut ilia Codro;",
+      "body": "「羊飼いよ、蔦で生まれつつある詩人を飾れ、アルカディア人よ、コドルスの脇腹が妬みで破裂するよう（Pastores, hedera nascentem ornate poetam, / Arcades, invidia rumpantur ut ilia Codro）」──コリュドン（詩人自身）への蔦の花輪要求とコドルスへの嘲弄の同時提示。「nascentem poetam（生まれつつある詩人）」という表現がテュルシスの詩的自己意識を示す：まだ完成していない「生まれつつある詩人」への蔦飾りという謙遜の逆説。「invidia rumpantur ut ilia Codro（コドルスの脇腹が妬みで破裂するよう）」──「妬みで腹が破裂する」という粗野な誇張（hyperbole）がテュルシスの競争心の強さを示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "aut, si ultra placitum laudarit, baccare frontem\ncingite, ne vati noceat mala lingua futuro.",
+      "body": "「もし彼が満足の限度を超えて褒めるなら、バッカルで額を巻け、邪視が将来の詩人に害をなさぬよう（aut, si ultra placitum laudarit, baccare frontem / cingite, ne vati noceat mala lingua futuro）」──「baccar（バッカル）」は呪いよけの植物（ドクニンジン属またはキキョウ属）；「邪視（mala lingua）」から詩人を守る護符的な機能を持つ。「vati futuro（将来の詩人）」という表現がテュルシスの詩的野心を「未来の詩人」という予言的形式で表現する：詩人であることが既成事実ではなく希求される未来として定式化される。牧歌的な謙遜の逆説：保護が必要なほど優れた詩人という自己定義。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Saetosi caput hoc apri tibi, Delia, parvos\net ramosa Micon vivacis cornua cervi.\nSi proprium hoc fuerit, levi de marmore tota\npuniceo stabis suras evinctа coturno.",
+      "body": "「この毛むくじゃらの猪の頭とミコンが……枝角の多い長寿の鹿の角をお前に、デリアよ。もしこれが永続するなら、滑らかな大理石で……立つだろう（Saetosi caput hoc apri tibi, Delia…Si proprium hoc fuerit, levi de marmore tota / puniceo stabis suras evinctа coturno）」──ディアナ（Delia）への狩猟の捧げもの。「Delia（デリア）」はディアナの別名（デロス島生まれ）；狩猟女神として猪の頭と鹿の角を受け取る。条件的誓約（「もし……なら」）による神への約束が牧歌的宗教実践の形式を示す：神に何かを求める見返りとして大理石像を奉納するという交換的信仰関係。「puniceo coturno（真紅の狩り靴）」という鮮やかな色彩描写が女神の彫像の視覚的イメージを構成する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Sinum lactis et haec te liba, Priape, quotannis\nexspectare sat est: custos es pauperis horti.\nnunc te marmoreum pro tempore fecimus; at tu,\nsi fetura gregem suppleverit, aureus esto.",
+      "body": "「乳の椀とこれらの供え物を毎年お前に、プリアポスよ、待つだけで十分だ：お前は貧しい園の番人だ（Sinum lactis et haec te liba, Priape, quotannis / exspectare sat est: custos es pauperis horti）」──プリアポス（Priapus）は園の豊穣神・番人として木像が庭に置かれた。コリュドンのデリアへの贈り物（v.29–32）が狩猟的・壮大であるのに対し、テュルシスのプリアポスへの供え物は慎ましく実用的：二者の詩的・宗教的傾向の差異を示す。「nunc te marmoreum pro tempore fecimus（今はお前を大理石で時節に合わせて作った）」──現在の貧しさと将来の豊かさの対比が条件的誓約の構造を形成する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Nerine Galatea, thymo mihi dulcior Hyblae,\ncandidior cycnis, hedera formosior alba,",
+      "body": "「ネレウスの娘ガラテアよ、わたしにとってヒュブラのタイムより甘く、白鳥より白く、白い蔦より美しい者よ（Nerine Galatea, thymo mihi dulcior Hyblae, / candidior cycnis, hedera formosior alba）」──三重の比較による恋人の讃美（comparatio triplex）。「thymo dulcior Hyblae（ヒュブラのタイムより甘い）」・「candidior cycnis（白鳥より白い）」・「hedera formosior alba（白い蔦より美しい）」という三感覚（味・色・視覚的美）の並置が求愛詩の修辞的定型を形成する。ガラテアは第3歌v.64・第9歌にも登場する海の精；コリュドンが第2歌でアレクシスを、ここではガラテアを歌うことで、詩集内での人物の流動性が確認される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Immo ego Sardoniis videar tibi amarior herbis,\nhorridior rusco, proiecta vilior alga,\nsi mihi non haec lux toto iam longior anno est.",
+      "body": "「むしろわたしはお前にサルデーニャの草より苦く、ヒイラギより荒々しく、捨てられた海藻より価値なく見えるがよい（Immo ego Sardoniis videar tibi amarior herbis, / horridior rusco, proiecta vilior alga）」──コリュドンの「甘さ・白さ・美しさ」の三重讃美（v.37–38）に対する完全な反転：「苦さ・荒さ・無価値さ」という三重の自己否定的誓い。「Sardoniis herbis（サルデーニャの草）」──古代に毒草として知られたサルデーニャ産の草（ranunculus の一種、食べると顔が引きつり笑いの死相になる）；これが英語の「sardonic（冷笑的）」の語源とされる。恋の切迫感を逆説的な自己貶めで表現するエレゲイア的定型。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Ite domum pasti, si quis pudor, ite, iuvenci.",
+      "body": "「家に帰れ、飼い飽きた者たちよ、恥があるなら、行け、牛たちよ（Ite domum pasti, si quis pudor, ite, iuvenci）」──牧歌的農業の日常（牛を家に帰す）と恋の苦しみ（帰りたくない）の衝突。「si quis pudor（恥があるなら）」という付加句が牛への道徳的訴えという喜劇的擬人法を生む：牛が「恥（pudor）」を持つとして語りかける。この行は第3歌v.96「Cogite oves, pueri（羊たちをまとめろ）」・第6歌の閉幕「cogere donec ovis stabulis…iussit」という帰宅命令のモチーフの変奏として機能する：家畜を帰す行為が詩の時間の終わりを示す牧歌的クロージャーの定型。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Muscosi fontes, et somno mollior herba,\net quae vos rara viridis tegit arbutus umbra,\nsolstitium pecori defendite:",
+      "body": "「苔むした泉よ、眠りより柔らかい草よ、そしてまばらな緑の苺の木がお前たちを覆う木陰よ、家畜を夏至の暑さから守ってくれ（Muscosi fontes, et somno mollior herba, / et quae vos rara viridis tegit arbutus umbra, / solstitium pecori defendite）」──牧歌的自然要素への呼びかけ（apostrophe）による夏の情景。「somno mollior（眠りより柔らかい）」という比較が草の質感を睡眠という感覚で定義する：軟らかさの究極基準としての眠り。「solstitium（夏至）」という天文学的用語が牧歌的場面に科学的精確さを与える：正確な時間設定が農業的リアリズムの一部。「rara…arbutus（まばらな苺の木）」──まばらな木陰の「rara（まばらな）」という形容が過剰でない自然の自発的保護を示す。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Hic focus et taedae pingues, hic plurimus ignis\nsemper, et adsidua postes fuligine nigri;\nhic tantum Boreae curamus frigora, quantum\naut numerum lupus aut torrentia flumina ripas.",
+      "body": "「ここに暖炉と脂の多い松明、ここにいつも豊かな火があり……ここでわれわれはボレアスの寒さをどれほど気にするか、狼が数を、あるいは激流が岸辺を気にするほどに（Hic focus et taedae pingues…hic tantum Boreae curamus frigora, quantum / aut numerum lupus aut torrentia flumina ripas）」──冬の暖かい室内の描写。コリュドンの「夏の木陰（v.45–48）」に対するテュルシスの「冬の火（v.49–52）」という季節的対位法（contrapunctum）。「Boreae frigora（ボレアスの寒さ）」──北風の擬人化。「quantum lupus numerum（狼が数を気にするほど）」という否定的比喩：狼は羊の数を数えない（害をなすだけ）という含意で、寒さへの無関心の誇張を表す。「postes fuligine nigri（煤で黒い扉柱）」という具体的描写が農家の冬の日常のリアリズムを示す。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "omnia nunc rident: at, si formosus Alexis\nmontibus his abeat, videas et flumina sicca.",
+      "body": "「すべてが今笑っている：しかし、もし美しいアレクシスがこの山々から去るなら、川々が干上がるのも見えるだろう（omnia nunc rident: at, si formosus Alexis / montibus his abeat, videas et flumina sicca）」──第2歌のアレクシスへの言及。「formosus Alexis（美しいアレクシス）」は第2歌「Formosum pastor Corydon ardebat Alexim」の冒頭句の変奏：詩集内での人物の反復が詩集を相互参照的な有機的統一体として構成する。「omnia nunc rident（すべてが今笑っている）」──自然の擬人化による喜びの表現：笑う自然が「pathetic fallacy」の定型として機能する。「flumina sicca（干上がった川々）」という逆説：愛する者の不在が自然の豊穣を奪うという牧歌的感情投影の最も極端な表現。",
+      "targetId": "vergilius_eclogae_2",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Phyllidis adventu nostrae nemus omne virebit,\nIuppiter et laeto descendet plurimus imbri.",
+      "body": "「われらのフュッリスの来訪で森全体が緑になり、ユーピテルが豊かな喜びの雨となって降ってくるだろう（Phyllidis adventu nostrae nemus omne virebit, / Iuppiter et laeto descendet plurimus imbri）」──コリュドンのアレクシス不在による「川の干上がり（v.55–56）」に対する、テュルシスのフュッリス来訪による「自然の蘇生」という対位法。「Iuppiter…descendet plurimus imbri（ユーピテルが雨となって降ってくる）」──ユーピテルの雨（豊穣の象徴）が女性の来訪という牧歌的文脈に投影される：神話的・農業的な豊穣の比喩が恋愛的期待と重なり合う。ダナエ神話（ユーピテルが黄金の雨として降る）の牧歌的変奏とも読める。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "Populus Alcidae gratissima, vitis Iaccho,\nformosae myrtus Veneri, sua laurea Phoebo,\nPhyllis amat corylos; illas dum Phyllis amabit,\nnec myrtus vincet corylos, nec laurea Phoebo.",
+      "body": "「ポプラはアルキデスに最も愛され、葡萄の蔦はウァッコスに、銀梅花は美しいウェヌスに、月桂樹は自らポエブスに；フュッリスはハシバミを愛する；フュッリスがあれらを愛する限り、銀梅花もハシバミに勝てず、ポエブスの月桂樹も（Populus Alcidae gratissima, vitis Iaccho, / formosae myrtus Veneri, sua laurea Phoebo, / Phyllis amat corylos; illas dum Phyllis amabit, / nec myrtus vincet corylos, nec laurea Phoebo）」──神々と植物の対応リスト（アルキデス＝ポプラ・バッコス＝葡萄・ウェヌス＝銀梅花・アポッロ＝月桂樹）という百科全書的列挙を一行半で完了し、フュッリスのハシバミへの愛でその体系を転倒させる逆説的な閉幕。「nec laurea Phoebo（ポエブスの月桂樹も勝てない）」という結論が詩の神アポッロの聖木より恋人の愛する木が優れるという恋愛的誇張の頂点を形成する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Fraxinus in silvis pulcherrima, pinus in hortis,\npopulus in fluviis, abies in montibus altis:\nsaepius at si me, Lycida formose, revisas,\nfraxinus in silvis cedat tibi, pinus in hortis.",
+      "body": "「トネリコは森で最も美しく、松は庭で、ポプラは川沿いで、モミは高い山で：しかし美しいリュキダスよ、もしお前がわたしをより頻繁に訪れるなら、トネリコは森でお前に劣り、松は庭で劣るだろう（Fraxinus in silvis pulcherrima, pinus in hortis…saepius at si me, Lycida formose, revisas, / fraxinus in silvis cedat tibi, pinus in hortis）」──テュルシスの最終連。前半（v.65–66）が四木・四場所という完璧な対称リストを形成し、後半（v.67–68）でリュキダスへの愛によってその体系が崩れる逆説という、コリュドンv.61–64と完全に平行した構造。「Lycida formose（美しいリュキダス）」という男性への呼びかけが、コリュドンのガラテア（女性）・テュルシスの自己否定的誓いに続く三番目の恋の形として示される：詩集の恋愛主題の多様性。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Haec memini, et victum frustra contendere Thyrsim.\nEx illo Corydon Corydon est tempore nobis.",
+      "body": "「これをわたしは覚えている、テュルシスが敗れて無駄に競っていたのを。あの時以来コリュドンはわれらにとってコリュドンだ（Haec memini, et victum frustra contendere Thyrsim. / Ex illo Corydon Corydon est tempore nobis）」──詩の最終二行にして詩集の最も謎めいた閉幕句の一つ。「Haec memini（これをわたしは覚えている）」──メリボエウスの記憶による枠物語の閉幕：記憶が詩の保存媒体として機能する。「Ex illo Corydon Corydon est tempore nobis（あの時以来コリュドンはわれらにとってコリュドンだ）」という同語反復（tautologia）が多層的に解釈される：①「コリュドン」が「卓越した詩人・牧人」の代名詞となった、②第2歌の失恋したコリュドンが詩集の象徴的人物として定着した、③名前の反復それ自体が詩的記念化の行為。「第3歌の閉幕『claudite iam rivos, pueri; sat prata biberunt』の農業的閉幕に対し、第7歌の閉幕は詩学的・記念碑的な宣言で締まる。"
+    }
+  ]
+}
