@@ -1,0 +1,343 @@
+ {
+  "id": "vergilius_eclogae_8",
+  "title": "Eclogae — Ecloga VIII",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga VIII. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_VIII",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第8歌。全109行。ダモン（Damon）の失恋の哀歌とアルフェシボエウス（Alphesiboeus）の魔法の呪文歌という二部構造を持つ詩。序文（v.1–13）は献辞として機能し、「誰か」（おそらくポッリオまたはオクタウィアヌス）に捧げられる。ダモンの歌（v.14–61）はニュサ（Nysa）とモプスス（Mopsus）の結婚によって失われた恋人への絶望の独白であり、「Incipe Maenalios mecum, mea tibia, versus（メナロスの詩をわたしと始めよ、わが笛よ）」というリフレインが八回繰り返され、最終的に「Desine Maenalios（メナロスの詩をやめよ）」という反転的閉幕へと至る。アルフェシボエウスの歌（v.64–109）はテオクリトス第2歌（シマイタの魔法）の直接的継承であり、「Ducite ab urbe domum, mea carmina, ducite Daphnim（わが詩よ、ダプニスを町から家へと連れ戻せ）」というリフレインが九回繰り返される。蜜蝋・糸・灰・毒草・形見の品といった呪術的道具の具体的な列挙が、古代地中海の魔法実践の詩的記録として機能する。二つの歌は「失われた愛の回復不可能性（ダモン）」対「魔法による愛の回復（アルフェシボエウス）」という対称的テーマを持ち、詩集全体の恋愛主題を最も強度高く展開する。",
+  "keywords": [
+    "Damon",
+    "Alphesiboeus",
+    "呪文",
+    "魔法",
+    "リフレイン",
+    "Nysa",
+    "Mopsus",
+    "Daphnis",
+    "amor",
+    "哀歌"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_2",
+    "vergilius_eclogae_3",
+    "vergilius_eclogae_5",
+    "vergilius_eclogae_7"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–13",
+      "speaker": "Poeta",
+      "original": "Pastorum musam Damonis et Alphesiboei,\nimmemor herbarum quos est mirata iuvenca\ncertantis, quorum stupefactae carmine lynces,\net mutata suos requierunt flumina cursus,\nDamonis musam dicemus et Alphesiboei.\nTu mihi seu magni superas iam saxa Timaui,\nsive oram Illyrici legis aequoris, en erit umquam\nille dies, mihi cum liceat tua dicere facta?\nEn erit, ut liceat totum mihi ferre per orbem\nsola Sophocleo tua carmina digna coturno?\nA te principium; tibi desinet: accipe iussis\ncarmina coepta tuis, atque hanc sine tempora circum\ninter victricis hederam tibi serpere laurus.",
+      "provisionalTranslation": "ダモンとアルフェシボエウスの羊飼いのムーサを、\n競い合う二人に草を忘れて驚いた雌牛、\n二人の歌に呆然としたオオヤマネコたち、\nそして流れを変えて自らの流路を休めた川々──\nダモンとアルフェシボエウスのムーサを語ろう。\nお前が今や偉大なティマウスの岩々を越えているにせよ、\nあるいはイッリュリアの海の岸辺を進んでいるにせよ、見よ、\nその日がいつか来るだろうか、わたしがお前の業績を語ることを許される日が？\n見よ、来るだろうか、お前の詩を全世界に運ぶことが許されることが、\nただソポクレスの高靴にのみふさわしいお前の詩を？\nお前から始まりを取る；お前で終わるだろう：受け取れ、\nお前の命令によって始められたこの詩を、そしてこのこめかみに\n勝利の月桂樹の間を蔦が巡り這うことを許してくれ。"
+    },
+    {
+      "id": 2,
+      "verses": "v.14–16",
+      "speaker": "Narrator",
+      "original": "Frigida vix caelo noctis decesserat umbra,\ncum ros in tenera pecori gratissimus herba,\nincumbens tereti Damon sic coepit olivae:",
+      "provisionalTranslation": "夜の冷たい影がようやく空から退いていた、\n柔らかい草の上の露が家畜に最も喜ばしい時に、\n滑らかなオリーヴの木にもたれてダモンはこのように始めた："
+    },
+    {
+      "id": 3,
+      "verses": "v.17–20",
+      "speaker": "Damon",
+      "original": "\"Nascere, praeque diem veniens age, Lucifer, almum,\nconiugis indigno Nysae deceptus amore\ndum queror, et divos, quamquam nil testibus illis\nprofeci, extrema moriens tamen adloquor hora.",
+      "provisionalTranslation": "「生まれ出よ、そして日の前に来て恵みある昼を連れてこい、ルキフェルよ、\nニュサという妻の不当な愛に欺かれながら\n嘆く間に、そして神々に──たとえ彼らを証人にしても\n何も得られなかったが──死にながらも最後の時に語りかける。"
+    },
+    {
+      "id": 4,
+      "verses": "v.21–24",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nMaenalus argutumque nemus pinosque loquentis\nsemper habet; semper pastorum ille audit amores\nPanaque, qui primus calamos non passus inerti.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nメナロスはざわめく森と語る松々を\n常に持つ；常にあの山は羊飼いたちの恋を聞き、\nパン神を──最初に葦を怠惰にしておかなかった神を。"
+    },
+    {
+      "id": 5,
+      "verses": "v.25–28",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nMopso Nysa datur: quid non speremus amantes?\niungentur iam grypes equis, aevoque sequenti\ncum canibus timidi venient ad pocula dammae.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nモプススにニュサが与えられる：恋する者たちはいったい何を望めるだろうか？\nグリュプスが今や馬と結ばれ、次の世代には\n臆病な雌鹿が犬たちと水飲み場に来るだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.29–32",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nMopse, novas incide faces: tibi ducitur uxor;\nsparge, marite, nuces: tibi deserit Hesperus Oetam.\nIncipe Maenalios mecum, mea tibia, versus.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nモプススよ、新しい結婚の松明を刻め：お前のために妻が連れて来られる；\n花婿よ、胡桃を撒け：お前のためにヘスペルスがオイタを去る。\nメナロスの詩をわたしと始めよ、わが笛よ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.33–36",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nO digno coniuncta viro, dum despicis omnis,\ndumque tibi est odio mea fistula dumque capellae\nhirsutumque supercilium promissaque barba,\nnec curare deum credis mortalia quemquam!",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nおお、相応しい夫と結ばれた者よ、お前がすべてを見下し、\nわたしの笛を、そして山羊たちを嫌い、\n毛もじゃの眉と伸ばした顎鬚を嫌い、\n神の誰もが人間のことを気にかけないと信じていた間に！"
+    },
+    {
+      "id": 8,
+      "verses": "v.37–41",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nSaepibus in nostris parvam te roscida mala\n(dux ego voster eram) vidi cum matre legentem;\nalter ab undecimo tum me iam acceperat annus;\nam fragilis poteram a terra contingere ramos:\nut vidi, ut perii, ut me malus abstulit error!",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nわれらの垣根の中で露に濡れたリンゴを小さなお前が\n（わたしがお前たちの案内者だった）母親と摘んでいるのを見た；\nその時わたしはすでに十一の次の年を迎えていた；\n地面から壊れやすい枝に届くことができた：\nああ見た時、亡んだ時、悪しき惑いがわたしを奪い去った時！"
+    },
+    {
+      "id": 9,
+      "verses": "v.42–45",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nNunc scio quid sit Amor: duris in cautibus illum\naut Tmaros aut Rhodope aut extremi Garamantes\nnec generis nostri puerum nec sanguinis edunt.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\n今わたしは愛とは何かを知っている：堅い岩の上で\nトマロスかロドペか最果てのガラマンテスが\nわれらの種族でもなく血筋でもない少年を生んだ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.46–50",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nSaevos Amor docuit natorum sanguine matrem\ncommaculare manus; crudelis tu quoque, mater:\ncrudelis mater magis, an puer improbus ille?\nImprobus ille puer; crudelis tu quoque, mater.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\n残酷な愛は子供たちの血で母親の手を\n汚すことを教えた；残酷なのはお前もだ、母よ：\n残酷なのは母の方か、それとも不届きなあの少年か？\n不届きなのはあの少年；残酷なのはお前もだ、母よ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.51–56",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nNunc et ovis ultro fugiat lupus; aurea durae\nmala ferant quercus, narcisso floreat alnus,\npinguia corticibus sudent electra myricae,\ncertent et cycnis ululae, sit Tityrus Orpheus,\nOrpheus in silvis, inter delphinas Arion.",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\n今や狼が自ら羊から逃げ去るがよい；堅い樫の木が黄金の\nリンゴを実らせ、ハンノキがスイセンで花咲き、\nタマリスクの樹皮から肥えた琥珀が滲み出し、\nフクロウが白鳥と競い、ティテュルスがオルペウスになるがよい、\n森のオルペウスに、イルカの中のアリオンに。"
+    },
+    {
+      "id": 12,
+      "verses": "v.57–61",
+      "speaker": "Damon",
+      "original": "Incipe Maenalios mecum, mea tibia, versus.\nOmnia vel medium fiat mare. Vivite, silvae:\npraeceps aerii specula de montis in undas\ndeferar; extremum hoc munus morientis habeto.\nDesine Maenalios, iam desine, tibia, versus.\"",
+      "provisionalTranslation": "メナロスの詩をわたしと始めよ、わが笛よ。\nすべてが海になれ。さらばだ、森々よ：\n高い山の見晴らし台から波の中へと\n真っ逆さまに運ばれよう；死にゆく者のこれを最後の贈り物として持てよ。\nメナロスの詩をもうやめよ、もうやめよ、笛よ。」"
+    },
+    {
+      "id": 13,
+      "verses": "v.62–63",
+      "speaker": "Narrator",
+      "original": "Haec Damon. Vos, quae responderit Alphesiboeus,\nducite, Pierides: non omnia possumus omnes.",
+      "provisionalTranslation": "これがダモンの言葉。アルフェシボエウスが何と応じたかを、\nピエリデスよ、語れ：われわれ全員がすべてのことをできるわけではない。"
+    },
+    {
+      "id": 14,
+      "verses": "v.64–69",
+      "speaker": "Alphesiboeus",
+      "original": "\"Effer aquam, et molli cinge haec altaria vitta,\nverbenasque adole pinguis et mascula tura,\nconiugis ut magicis sanos avertere sacris\nexperiar sensus: nihil hic nisi carmina desunt.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "「水を運び、この祭壇を柔らかい麻の帯で巻き、\n脂の多いウェルベナと雄々しい乳香を燃やせ、\n夫の正常な感覚を魔法の儀礼で転換することを\n試みるために：ここには詩以外に何も欠けていない。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 15,
+      "verses": "v.70–73",
+      "speaker": "Alphesiboeus",
+      "original": "Carmina vel caelo possunt deducere lunam;\ncaminibus Circe socios mutavit Ulixi;\nfrigidus in pratis cantando rumpitur anguis.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "詩は天から月をさえも引き下ろすことができる；\n詩でキルケはオデュッセウスの仲間たちを変えた；\n冷たい蛇が牧草地で歌によって打ち砕かれる。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 16,
+      "verses": "v.74–76",
+      "speaker": "Alphesiboeus",
+      "original": "Terna tibi haec primum triplici diversa colore\nlicia circumdo, terque haec altaria circum\neffigiem duco: numero deus impare gaudet.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "まずお前にこれら三本の三重の異なる色の\n糸を巻く、そしてこの祭壇の周りを三度\n像を持って回る：神は奇数を喜ぶ。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 17,
+      "verses": "v.77–79",
+      "speaker": "Alphesiboeus",
+      "original": "Necte tribus nodis ternos, Amarylli, colores;\nnecte, Amarylli, modo et \"Veneris\" dic \"vincula necto\".\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "三本の糸を三つの結び目で結べ、アマリュッリスよ；\n結べ、アマリュッリスよ、今そして「ウェヌスの縄を結ぶ」と言え。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 18,
+      "verses": "v.80–84",
+      "speaker": "Alphesiboeus",
+      "original": "Limus ut hic durescit, et haec ut cera liquescit\nuno eodemque igni, sic nostro Daphnis amore.\nSparge molam et fragilis incende bitumine laurus.\nDaphnis me malus urit; ego hanc in Daphnide laurum.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "この泥が固まるように、そしてこの蜜蝋が\n一つの同じ火で溶けるように、そのようにダプニスがわれらの愛で溶けるように。\n穀粉を撒き、瀝青で壊れやすい月桂樹を燃やせ。\n悪しきダプニスがわたしを焦がす；わたしはこの月桂樹をダプニスのために焼く。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 19,
+      "verses": "v.85–90",
+      "speaker": "Alphesiboeus",
+      "original": "Talis amor Daphnim, qualis cum fessa iuvencum\nper nemora atque altos quaerendo bucula lucos,\npropter aquae rivom, viridi procumbit in ulva\nperdita, nec serae meminit decedere nocti,\ntalis amor teneat, nec sit mihi cura mederi.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "そのような愛がダプニスを捉えるように、疲れた雌牛が\n森々と高い木立ちを雄牛を求めて彷徨い、\n水の小川のほとりに緑の藺草の中に\n迷い込んで倒れ、遅い夜に立ち去ることを忘れるように、\nそのような愛が彼を捉えるように、そしてわたしには癒す気遣いがないように。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 20,
+      "verses": "v.91–94",
+      "speaker": "Alphesiboeus",
+      "original": "Has olim exuvias mihi perfidus ille reliquit,\npignora cara sui; quae nunc ego limine in ipso,\nterra, tibi mando: debent haec pignora Daphnim.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "これらの形見の品をかつてあの不誠実な者はわたしに残した、\n彼の愛しい証として；これを今わたしは敷居そのものの上で、\n大地よ、お前に委ねる：これらの証はダプニスを返す義務がある。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 21,
+      "verses": "v.95–100",
+      "speaker": "Alphesiboeus",
+      "original": "Has herbas atque haec Ponto mihi lecta venena\nipse dedit Moeris (nascuntur pluruma Ponto);\nhis ego saepe lupum fieri et se condere silvis\nMoerim, saepe animas imis excire sepulcris,\natque satas alio vidi traducere messis.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "これらの草とこれらのポントスで集められた毒をモエリス自身が\nわたしに与えた（ポントスでは最も多く生まれる）；\nこれらによってわたしはモエリスが狼になり森に身を隠すのを、\nしばしば魂を墓の最も深いところから呼び出すのを、\nそして種を蒔かれた別の場所の収穫を移すのを見た。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 22,
+      "verses": "v.101–104",
+      "speaker": "Alphesiboeus",
+      "original": "Fer cineres, Amarylli, foras, riuoque fluenti\ntransque caput iace, nec respexeris. His ego Daphnim\nadgrediar; nihil ille deos, nil carmina curat.\nDucite ab urbe domum, mea carmina, ducite Daphnim.",
+      "provisionalTranslation": "灰を外へ運べ、アマリュッリスよ、そして流れる小川を越えて\n頭の上に投げよ、そして振り返るな。これでわたしはダプニスに\n近づこう；あの者は神々を何も、詩も何も気にしない。\nわが詩よ、ダプニスを町から家へと連れ戻せ。"
+    },
+    {
+      "id": 23,
+      "verses": "v.105–109",
+      "speaker": "Alphesiboeus",
+      "original": "Aspice: corripuit tremulis altaria flammis\nsponte sua, dum ferre moror, cinis ipse. Bonum sit!\nNescio quid certe est, et Hylax in limine latrat.\nCredimus? an qui amant ipsi sibi somnia fingunt?\nParcite, ab urbe venit, iam parcite, carmina, Daphnis.\"",
+      "provisionalTranslation": "見よ：灰それ自身が揺れる炎で祭壇を捉えた\n自ら、わたしが運ぶのをためらっている間に。よいことがあるように！\n何かが確かにある、そしてヒュラクスが敷居で吠えている。\n信じるべきか？それとも恋する者たちは自ら自分のために夢を作り出すのか？\nやめよ、ダプニスが町から来る、もうやめよ、わが詩よ。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "immemor herbarum quos est mirata iuvenca\ncertantis, quorum stupefactae carmine lynces,\net mutata suos requierunt flumina cursus,",
+      "body": "「草を忘れて驚いた雌牛、呆然としたオオヤマネコたち、流れを変えて自らの流路を休めた川々（immemor herbarum quos est mirata iuvenca / certantis, quorum stupefactae carmine lynces, / et mutata suos requierunt flumina cursus）」──音楽・詩の超自然的力の三重表現。動物と自然が詩の力によって変容するというオルペウス的詩学（第5歌・第6歌のシレノスの歌と同型）。「immemor herbarum（草を忘れた）」という形容が牛の本能的行動（草を食む）が詩によって停止されたことを示す。「mutata…requierunt flumina cursus（流れを変えて流路を休めた川々）」──水の流れという自然の不変の秩序が詩によって中断されるという最大限の誇張。序文としての機能：詩の全体的効果への高い期待設定。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "sola Sophocleo tua carmina digna coturno?\nA te principium; tibi desinet:",
+      "body": "「ただソポクレスの高靴にのみふさわしいお前の詩（sola Sophocleo tua carmina digna coturno）」──「coturnus（高靴）」は悲劇俳優が履く高い靴であり、「悲劇的崇高」の詩学的象徴。悲劇的崇高の最高峰ソポクレスと同等の詩として讃える最大限の称賛。「A te principium; tibi desinet（お前から始まりを取る；お前で終わるだろう）」──アラトス『ファイノメナ』の「ゼウスから始めよ」という命題のラテン語版：献辞対象者を詩の始まりと終わりとして位置づける対称的な修辞的枠組み。詩集全体の構造（第1歌の「ティテュルス」から第10歌の閉幕まで）の縮図。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Frigida vix caelo noctis decesserat umbra,\ncum ros in tenera pecori gratissimus herba,\nincumbens tereti Damon sic coepit olivae:",
+      "body": "「夜の冷たい影がようやく空から退いていた、柔らかい草の上の露が家畜に最も喜ばしい時に（Frigida vix caelo noctis decesserat umbra, / cum ros in tenera pecori gratissimus herba）」──夜明け直前という詩的時間設定。「vix（ようやく）」という副詞が夜明けの微妙な瞬間を示す：まだ暗いが明けつつある境界の時間。「ros…gratissimus（露が最も喜ばしい）」──牧草が露で湿った早朝が家畜にとって最良の放牧時間：農業的リアリズムが詩的時間設定の根拠となる。「incumbens tereti…olivae（滑らかなオリーヴの木にもたれて）」──オリーヴは平和・知恵の象徴：ダモンの嘆きの開始地点として、その後の激情との対比を準備する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nascere, praeque diem veniens age, Lucifer, almum,\nconiugis indigno Nysae deceptus amore",
+      "body": "「生まれ出よ、そして日の前に来て恵みある昼を連れてこい、ルキフェルよ（Nascere, praeque diem veniens age, Lucifer, almum）」──明けの明星（Lucifer）への呼びかけによる詩の開幕。「Lucifer（ルキフェル）」はウェヌス星（金星）の朝の出現：愛の女神ウェヌスの星が失恋の歌の開口部に召喚されるという詩的逆説。「coniugis indigno Nysae deceptus amore（ニュサという妻の不当な愛に欺かれながら）」──ニュサはダモンが愛した女性：「indigno（不当な・値しない）」という形容が愛の非対称性と裏切りを示す。「extrema moriens…hora（死にながら最後の時に）」──詩の冒頭からすでに「死（mors）」が予告される：ダモンの歌全体が死への独白として枠組みされる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Incipe Maenalios mecum, mea tibia, versus.\nMaenalus argutumque nemus pinosque loquentis\nsemper habet; semper pastorum ille audit amores\nPanaque, qui primus calamos non passus inerti.",
+      "body": "「メナロスの詩をわたしと始めよ、わが笛よ（Incipe Maenalios mecum, mea tibia, versus）」──詩集全体で最も完成されたリフレイン構造。「Maenalios versus（メナロスの詩）」はアルカディアのメナロス山（Maenalus）に由来する牧歌的詩の定式名称。リフレインが最初（v.21）に登場し、以後八回（v.25, 29, 33, 37, 42, 46, 51, 57）繰り返され、最終行では「Desine（やめよ）」に転換される。「Maenalus…semper pastorum ille audit amores / Panaque（メナロスは常に羊飼いたちの恋を聞き、パン神を）」──メナロス山が恋の嘆きの永遠の証人として設定される：ダモンの苦しみが宇宙的・神話的な時間スケールに接続される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Mopso Nysa datur: quid non speremus amantes?\niungentur iam grypes equis, aevoque sequenti\ncum canibus timidi venient ad pocula dammae.",
+      "body": "「モプススにニュサが与えられる：恋する者たちはいったい何を望めるだろうか？（Mopso Nysa datur: quid non speremus amantes）」──絶望的な逆説：ニュサがダモンではなくモプススに与えられるという不当な現実が詩的嘆きの核心。「quid non speremus amantes（恋する者たちはいったい何を望めるだろうか？）」という修辞的問いが「何でも望めるだろう（すべてが逆転した今は）」という絶望的な皮肉として機能する。「iungentur iam grypes equis（グリュプスが今や馬と結ばれ）」──グリュプス（griffon、鷲の頭と翼・ライオンの体の怪物）と馬の結合というadynata（不可能なことの列挙）が世界秩序の崩壊を示す。第11段落のより発展したadynataの先行形。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mopse, novas incide faces: tibi ducitur uxor;\nsparge, marite, nuces: tibi deserit Hesperus Oetam.",
+      "body": "「モプススよ、新しい結婚の松明を刻め：お前のために妻が連れて来られる；花婿よ、胡桃を撒け：お前のためにヘスペルスがオイタを去る（Mopse, novas incide faces: tibi ducitur uxor; / sparge, marite, nuces: tibi deserit Hesperus Oetam）」──結婚式の慣習の皮肉的描写。「faces（松明）」は結婚行列（pompa nuptialis）の必須アイテム。「nuces（胡桃）」を花婿が撒くのは古代ローマの結婚式の慣習（子供の豊かさの象徴）。「Hesperus（ヘスペルス）」は夕星（金星）：夕暮れが花嫁が花婿の家に入る時間を示す。ダモンがモプススの結婚を命令形（incide / sparge）で命じるのは深い皮肉：自らの失った花嫁の結婚式を嘲笑的に演出する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "O digno coniuncta viro, dum despicis omnis,\ndumque tibi est odio mea fistula dumque capellae\nhirsutumque supercilium promissaque barba,",
+      "body": "「おお、相応しい夫と結ばれた者よ、お前がすべてを見下し、わたしの笛を、そして山羊たちを嫌い、毛もじゃの眉と伸ばした顎鬚を嫌い（O digno coniuncta viro, dum despicis omnis…mea fistula dumque capellae / hirsutumque supercilium promissaque barba）」──「digno…viro（相応しい夫）」という語の完全な皮肉：文脈上モプススがダモンより「相応しい」わけではなく、ニュサの誤った判断を反語的に示す。ダモンの自己描写──「笛・山羊・毛もじゃの眉・顎鬚」──が第2歌のコリュドン的「田舎者」の自己批判と照応する。「nec curare deum credis mortalia quemquam（神の誰もが人間のことを気にかけないと信じていた）」という神への不信が、詩の神学的次元を開く：不当な恋の分配が神的摂理への疑念を生む。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Saepibus in nostris parvam te roscida mala\n(dux ego voster eram) vidi cum matre legentem;\nalter ab undecimo tum me iam acceperat annus;\nut vidi, ut perii, ut me malus abstulit error!",
+      "body": "「われらの垣根の中で露に濡れたリンゴを小さなお前が……母親と摘んでいるのを見た（Saepibus in nostris parvam te roscida mala / (dux ego voster eram) vidi cum matre legentem）」──初恋の場面の詩的回想。「roscida mala（露に濡れたリンゴ）」──露のリンゴという視覚的・感覚的な詩的形象が幼い愛の清らかさと儚さを象徴する。「alter ab undecimo tum me iam acceperat annus（その時わたしはすでに十一の次の年を迎えていた）」──十二歳という具体的な年齢が初恋の記憶の精確さを示す：詩的誇張ではなく詳細な記憶として恋の始まりが記録される。「ut vidi, ut perii, ut me malus abstulit error（ああ見た時、亡んだ時、悪しき惑いがわたしを奪い去った時）」──三重の「ut（ああ）」が恋の始まり・破滅・惑いの瞬間を連鎖的に定式化する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Nunc scio quid sit Amor: duris in cautibus illum\naut Tmaros aut Rhodope aut extremi Garamantes\nnec generis nostri puerum nec sanguinis edunt.",
+      "body": "「今わたしは愛とは何かを知っている：堅い岩の上でトマロスかロドペか最果てのガラマンテスがわれらの種族でもなく血筋でもない少年を生んだ（Nunc scio quid sit Amor: duris in cautibus illum / aut Tmaros aut Rhodope aut extremi Garamantes / nec generis nostri puerum nec sanguinis edunt）」──「愛とは何か（quid sit Amor）」という定義的命題。「Nunc scio（今わたしは知っている）」という認識論的転換が失恋によって得られた知識として提示される：苦しみが認識をもたらすという逆説。「duris in cautibus（堅い岩の上で）」という誕生の場所が愛（クピド）の残酷な本性の地理的象徴：柔らかさとは無縁の場所から生まれた存在として愛が定義される。「Garamantes（ガラマンテス）」は北アフリカの最も遠方の民族：愛が人類の最果ての地から来た異質な力であることを示す。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "allusion",
+      "anchor": "Saevos Amor docuit natorum sanguine matrem\ncommaculare manus; crudelis tu quoque, mater:\ncrudelis mater magis, an puer improbus ille?\nImprobus ille puer; crudelis tu quoque, mater.",
+      "body": "「残酷な愛は子供たちの血で母親の手を汚すことを教えた（Saevos Amor docuit natorum sanguine matrem / commaculare manus）」──メデイア（Medea）神話への暗示。エウリピデス『メデイア』：イアソンへの裏切られた愛が子供殺しへと至るという悲劇。「commaculare manus（手を汚す）」という動詞が血の穢れという宗教的・道徳的観念を呼び起こす。「crudelis mater magis, an puer improbus ille?（残酷なのは母の方か、それとも不届きな少年か？）」という修辞的問いとその自己回答「Improbus ille puer; crudelis tu quoque, mater（不届きなのはあの少年；残酷なのはお前もだ）」──問いと答えの連鎖が罪の帰責先の揺れを示す：愛（クピド）と母（メデイア）の双方に責任があるという両義的な結論。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Nunc et ovis ultro fugiat lupus; aurea durae\nmala ferant quercus, narcisso floreat alnus,\npinguia corticibus sudent electra myricae,\ncertent et cycnis ululae, sit Tityrus Orpheus,\nOrpheus in silvis, inter delphinas Arion.",
+      "body": "「今や狼が自ら羊から逃げ去るがよい；堅い樫の木が黄金のリンゴを実らせ（Nunc et ovis ultro fugiat lupus; aurea durae / mala ferant quercus）」──詩集中最も発展したadynata（不可能な逆説的事象のリスト）。五つの不可能：①狼が羊から逃げる、②樫の木が黄金のリンゴを実らせる、③ハンノキがスイセンで花咲く、④タマリスクから琥珀が滲む、⑤フクロウが白鳥と競い、ティテュルスがオルペウスになり、アリオンがイルカの中で歌う。第4歌の「黄金時代」のイメージ（狼と羊・自発的豊穣）の逆説的反復：そこでは黄金時代の到来として提示されたものが、ここでは絶望の修辞として使用される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Omnia vel medium fiat mare. Vivite, silvae:\npraeceps aerii specula de montis in undas\ndeferar; extremum hoc munus morientis habeto.\nDesine Maenalios, iam desine, tibia, versus.\"",
+      "body": "「すべてが海になれ。さらばだ、森々よ（Omnia vel medium fiat mare. Vivite, silvae）」──ダモンの歌の最後の反転。「すべてが海になれ（Omnia vel medium fiat mare）」という究極のadynata：世界そのものが海に没することを望む絶望の最大表現。「Vivite, silvae（さらばだ、森々よ）」──「Vivite（生きよ・さらばだ）」という告別の言葉が森への最後の挨拶として機能する：牧歌的世界（森）への永訣。「Desine Maenalios, iam desine, tibia, versus（メナロスの詩をもうやめよ、もうやめよ、笛よ）」──「Incipe（始めよ）」から「Desine（やめよ）」への反転が詩の構造的クライマックス：命令の方向が逆転することで詩全体の絶望の深まりが一行に凝縮される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Haec Damon. Vos, quae responderit Alphesiboeus,\nducite, Pierides: non omnia possumus omnes.",
+      "body": "「これがダモンの言葉。アルフェシボエウスが何と応じたかを、ピエリデスよ、語れ：われわれ全員がすべてのことをできるわけではない（Haec Damon. Vos, quae responderit Alphesiboeus, / ducite, Pierides: non omnia possumus omnes）」──詩人の橋渡し発言。「non omnia possumus omnes（われわれ全員がすべてのことをできるわけではない）」──詩集全体で最も引用される格言的表現の一つ。詩人の限界の謙遜な告白として、ピエリデス（ムーサエ）への委譲が行われる：詩人自身ではなくムーサエがアルフェシボエウスの歌を語るという詩学的身振り。「ductum」という動詞の選択が第6歌の「deductum carmen（細い糸のように紡がれた詩）」と語根を共有する：詩的制作の「引き出す」という動的概念。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "\"Effer aquam, et molli cinge haec altaria vitta,\nverbenasque adole pinguis et mascula tura,\nconiugis ut magicis sanos avertere sacris\nexperiar sensus: nihil hic nisi carmina desunt.",
+      "body": "「水を運び、この祭壇を柔らかい麻の帯で巻き、脂の多いウェルベナと雄々しい乳香を燃やせ（Effer aquam, et molli cinge haec altaria vitta, / verbenasque adole pinguis et mascula tura）」──古代ローマ魔法儀礼の詩的記録。「vitta（麻の帯）」は宗教的清浄の象徴：祭壇を帯で巻く行為が儀礼的準備を示す。「verbenae（ウェルベナ）」は浄化・魔法の植物（verbena officinalis）；「mascula tura（雄々しい乳香）」という形容詞の使用が香料の呪術的な男性的力を示す。「nihil hic nisi carmina desunt（ここには詩以外に何も欠けていない）」──詩（carmina）が魔法儀礼の最重要要素として定義される：古代における詩・歌・呪文の同一性を示す言語観。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Carmina vel caelo possunt deducere lunam;\ncaminibus Circe socios mutavit Ulixi;\nfrigidus in pratis cantando rumpitur anguis.",
+      "body": "「詩は天から月をさえも引き下ろすことができる；詩でキルケはオデュッセウスの仲間たちを変えた；冷たい蛇が牧草地で歌によって打ち砕かれる（Carmina vel caelo possunt deducere lunam; / caminibus Circe socios mutavit Ulixi; / frigidus in pratis cantando rumpitur anguis）」──詩（呪文）の三つの超自然的効果の列挙。「deducere lunam（月を引き下ろす）」はテオクリトス第2歌のシマイタの呪文の直接的継承：月の引き下ろしは古代魔法の最も壮大な行為の一つ。「Circe socios mutavit（キルケが仲間たちを変えた）」──ホメロス『オデュッセイア』第10巻：魔女キルケが薬草と歌でオデュッセウスの仲間を豚に変えた。「frigidus…anguis（冷たい蛇）」──蛇封じ（ophite carmen）という古代の魔法実践：歌が蛇を「打ち砕く（rumpitur）」という誇張が呪文の物理的力を示す。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Terna tibi haec primum triplici diversa colore\nlicia circumdo, terque haec altaria circum\neffigiem duco: numero deus impare gaudet.",
+      "body": "「まずお前にこれら三本の三重の異なる色の糸を巻く、そしてこの祭壇の周りを三度像を持って回る：神は奇数を喜ぶ（Terna tibi haec primum triplici diversa colore / licia circumdo, terque haec altaria circum / effigiem duco: numero deus impare gaudet）」──三という数の魔術的意義の説明。「numero deus impare gaudet（神は奇数を喜ぶ）」──ピュタゴラス的数秘術の詩的引用：奇数が偶数より神聖であるという古代の数学的・宗教的信念。「triplici diversa colore licia（三重の異なる色の糸）」──三色の糸（おそらく白・赤・黒という呪術的三色）が異なる呪術的力を表す。「effigiem duco（像を持って回る）」──愛する対象の像（effigy）を祭壇の周りに持って巡る呪術的行為：模倣魔法（sympathetic magic）の典型的実践。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Necte tribus nodis ternos, Amarylli, colores;\nnecte, Amarylli, modo et \"Veneris\" dic \"vincula necto\".",
+      "body": "「三本の糸を三つの結び目で結べ、アマリュッリスよ；結べ、アマリュッリスよ、今そして『ウェヌスの縄を結ぶ』と言え（Necte tribus nodis ternos, Amarylli, colores; / necte, Amarylli, modo et 'Veneris' dic 'vincula necto')」──アマリュッリスへの命令による助手の役割設定。アマリュッリスは詩集内で複数回登場するが（第1歌・第3歌等）、ここでは語り手（アルフェシボエウスの女性）の魔法の助手として登場する：固有名詞の詩集内での流動的機能。「Veneris vincula necto（ウェヌスの縄を結ぶ）」という呪文の言葉の引用：呪文は特定の語句を発声することで効力を持つという言語魔法観（speech act theory の古代的先行形）。「necto」という動詞の反復（necte / necte / necto）が結縛の行為の反復的強調として機能する。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Limus ut hic durescit, et haec ut cera liquescit\nuno eodemque igni, sic nostro Daphnis amore.\nSparge molam et fragilis incende bitumine laurus.\nDaphnis me malus urit; ego hanc in Daphnide laurum.",
+      "body": "「この泥が固まるように、そしてこの蜜蝋が一つの同じ火で溶けるように、そのようにダプニスがわれらの愛で溶けるように（Limus ut hic durescit, et haec ut cera liquescit / uno eodemque igni, sic nostro Daphnis amore）」──模倣魔法（sympathetic magic）の詩的定式。「limus（泥）」と「cera（蜜蝋）」という対立する素材が同一の火によって逆方向に変化する（固まる・溶ける）逆説が、ダプニスの愛への溶解という結果に向けられる：素材の変容が愛する対象の変容を引き起こすという模倣魔法の論理。「Daphnis me malus urit; ego hanc in Daphnide laurum（悪しきダプニスがわたしを焦がす；わたしはこの月桂樹をダプニスのために焼く）」──「焦がす（urit）」という愛の火のメタファーと物理的な「燃やす」行為の同一化：感情の比喩が呪術的行為として具体化される。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "prosody",
+      "anchor": "Talis amor Daphnim, qualis cum fessa iuvencum\nper nemora atque altos quaerendo bucula lucos,\npropter aquae rivom, viridi procumbit in ulva\nperdita, nec serae meminit decedere nocti,\ntalis amor teneat, nec sit mihi cura mederi.",
+      "body": "「そのような愛がダプニスを捉えるように、疲れた雌牛が……緑の藺草の中に迷い込んで倒れ、遅い夜に立ち去ることを忘れるように（Talis amor Daphnim, qualis cum fessa iuvencum / per nemora atque altos quaerendo bucula lucos / …perdita, nec serae meminit decedere nocti）」──牧歌的比喩による愛の苦しみの定式化。「fessa…bucula（疲れた雌牛）」が求める「iuvencum（雄牛）」──動物の本能的な性的欲求が人間の恋愛的欲求の牧歌的等価物として提示される。「perdita（迷い込んで）」という分詞が第2歌のコリュドンの「perditus（迷った者・破滅した者）」と語根を共有する：恋の「迷い・破滅」という主題の詩集的反復。「nec serae meminit decedere nocti（遅い夜に立ち去ることを忘れる）」という忘却が恋の没入状態の牧歌的描写として機能する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Has olim exuvias mihi perfidus ille reliquit,\npignora cara sui; quae nunc ego limine in ipso,\nterra, tibi mando: debent haec pignora Daphnim.",
+      "body": "「これらの形見の品をかつてあの不誠実な者はわたしに残した、彼の愛しい証として；これを今わたしは敷居そのものの上で、大地よ、お前に委ねる：これらの証はダプニスを返す義務がある（Has olim exuvias mihi perfidus ille reliquit, / pignora cara sui; quae nunc ego limine in ipso / terra, tibi mando: debent haec pignora Daphnim）」──形見の品（exuviae）の呪術的使用。「exuviae（形見の品・脱ぎ捨てた物）」は相手が残した衣服・遺留品：接触魔法（contagious magic）の原理によって、所有者の身体と接触したものが所有者を呼び戻す力を持つという呪術的信念。「perfidus（不誠実な）」という形容がダプニスへの道徳的告発として機能する：呪術が裏切りへの報復の道具として使用される。「debent haec pignora Daphnim（これらの証はダプニスを返す義務がある）」という法的語彙（debere）が呪術を義務の履行として定義する。"
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Has herbas atque haec Ponto mihi lecta venena\nipse dedit Moeris (nascuntur pluruma Ponto);\nhis ego saepe lupum fieri et se condere silvis\nMoerim, saepe animas imis excire sepulcris,\natque satas alio vidi traducere messis.",
+      "body": "「これらの草とこれらのポントスで集められた毒をモエリス自身がわたしに与えた；これらによってわたしはモエリスが狼になり森に身を隠すのを、しばしば魂を墓の最も深いところから呼び出すのを、そして種を蒔かれた別の場所の収穫を移すのを見た（Has herbas atque haec Ponto mihi lecta venena / ipse dedit Moeris…his ego saepe lupum fieri…Moerim, saepe animas imis excire sepulcris）」──モエリス（Moeris）という魔法師の能力の列挙。「Pontus（ポントス）」（黒海沿岸地方）は古代において魔法植物の産地として有名：コルキスのメデイア・ポントスのキルケという魔女の地理的背景。「lupum fieri（狼になる）」──人狼変身（lycanthropy）の詩的記録。「animas imis excire sepulcris（魂を墓の最も深いところから呼び出す）」──死者召喚（necromancy）の実践：古代魔法の最も恐怖される技術。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Fer cineres, Amarylli, foras, rivoque fluenti\ntransque caput iace, nec respexeris. His ego Daphnim\nadgrediar; nihil ille deos, nil carmina curat.",
+      "body": "「灰を外へ運べ、アマリュッリスよ、そして流れる小川を越えて頭の上に投げよ、そして振り返るな（Fer cineres, Amarylli, foras, rivoque fluenti / transque caput iace, nec respexeris）」──灰の処理という呪術的儀礼の具体的な指示。「nec respexeris（振り返るな）」という禁止命令がギリシア・ローマの冥界関連儀礼の定型：振り返ることが呪術の効力を無効化するという信念（オルペウスがエウリュディケを失った神話との照応）。「nihil ille deos, nil carmina curat（あの者は神々を何も、詩も何も気にしない）」──ダプニスへの道徳的絶望：神への崇敬も詩の力も無効であるという認識が、逆説的に呪術の試みの最終段階を前に置かれる。"
+    },
+    {
+      "paragraphId": 23,
+      "type": "prosody",
+      "anchor": "Aspice: corripuit tremulis altaria flammis\nsponte sua, dum ferre moror, cinis ipse. Bonum sit!\nNescio quid certe est, et Hylax in limine latrat.\nCredimus? an qui amant ipsi sibi somnia fingunt?\nParcite, ab urbe venit, iam parcite, carmina, Daphnis.\"",
+      "body": "「見よ：灰それ自身が揺れる炎で祭壇を捉えた自ら……よいことがあるように！何かが確かにある、そしてヒュラクスが敷居で吠えている。信じるべきか？それとも恋する者たちは自ら自分のために夢を作り出すのか？（Aspice: corripuit tremulis altaria flammis / sponte sua, dum ferre moror, cinis ipse. Bonum sit! / Nescio quid certe est, et Hylax in limine latrat. / Credimus? an qui amant ipsi sibi somnia fingunt？）」──詩の劇的閉幕。「sponte sua（自ら）」──灰が自発的に燃え上がる兆候：第4歌の「sponte sua（自ら）」による黄金時代の豊穣と語彙的に対応する。「Bonum sit（よいことがあるように）」という吉兆への祈りが認識の不確実性を示す。「Hylax in limine latrat（ヒュラクスが敷居で吠えている）」──犬の名前（Hylax＝「吠える者」）が来訪者の到来を予告する；犬は古代において霊的な感覚を持つ動物として扱われた。「Credimus? an qui amant ipsi sibi somnia fingunt（信じるべきか？それとも恋する者たちは自ら自分のために夢を作り出すのか？）」という自己懐疑が詩全体の認識論的な結語として機能する。「Parcite, ab urbe venit, iam parcite, carmina, Daphnis（やめよ、ダプニスが町から来る、もうやめよ、わが詩よ）」──「Ducite ab urbe domum（町から家へと連れ戻せ）」というリフレインの要求が成就した宣言として、「Desine（やめよ）」の反転的閉幕がダモンの歌と完全に対称をなす。",
+      "targetId": "vergilius_eclogae_2",
+      "targetParagraphId": 7
+    }
+  ]
+}
+
