@@ -1,0 +1,251 @@
+{
+  "id": "vergilius_eclogae_10",
+  "title": "Eclogae — Ecloga X",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga X. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_X",
+  "year": "Antiquitas",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第10歌・最終歌。全77行。詩人ガイウス・コルネリウス・ガッルス（Gaius Cornelius Gallus, 70–26 BC）への献辞詩。詩集の閉幕として位置づけられる。ガッルスはローマ最初のエレゲイア詩人（4巻の恋愛エレゲイアを著した）であり、ウェルギリウスの親友：彼の恋人リュコリス（Lycoris、本名キュテリス）は別の男（おそらく将軍アントニウスまたはポッリオ）に連れて行かれ、ガッルスは失意に沈んでいた。詩は「牧歌的世界（アルカディア）がエレゲイア詩人の恋の苦しみを癒せるか？」という問いを巡って展開する。ガッルスは羊飼いたちの来訪・アポッロ・シルウァヌス・パン神の言葉を受けながら、一度は牧歌的生活への逃避を夢想し（v.31–54）、やがて諦念へと至り「Omnia vincit Amor: et nos cedamus Amori（愛はすべてに勝つ；われらも愛に屈しよう）」（v.69）という格言的閉幕に達する。詩集全体の閉幕としての「Ite domum saturae, venit Hesperus, ite, capellae（家に帰れ、飼い飽きた者たちよ、ヘスペルスが来た、行け、山羊たちよ）」（v.77）は第1歌の開口部「Tityre, tu patulae recubans sub tegmine fagi」への対称的な応答として機能する。「Omnia vincit Amor」はこの詩集の中で最も流通した格言であり、チョーサー・ダンテ・シェイクスピア等に引用された。",
+  "keywords": [
+    "Gallus",
+    "Lycoris",
+    "Arethusa",
+    "Omnia vincit Amor",
+    "アルカディア",
+    "エレゲイア",
+    "詩集の閉幕",
+    "amor",
+    "牧歌的逃避",
+    "Hesperus"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_2",
+    "vergilius_eclogae_5",
+    "vergilius_eclogae_6",
+    "vergilius_eclogae_9",
+    "horatius_carmina_1_4"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "speaker": "Poeta",
+      "original": "Extremum hunc, Arethusa, mihi concede laborem:\npauca meo Gallo, sed quae legat ipsa Lycoris,\ncarmina sunt dicenda: neget quis carmina Gallo?\nSic tibi, cum fluctus subterlabere Sicanos,\nDoris amara suam non intermisceat undam;\nincipe; sollicitos Galli dicamus amores,\ndum tenera attondent simae virgulta capellae.\nNon canimus surdis: respondent omnia silvae.",
+      "provisionalTranslation": "この最後の労苦をわたしに許せ、アレトゥサよ：\nわたしのガッルスのために、しかしリュコリス自身が読むような、\n少しの詩を語らなければならない：誰がガッルスへの詩を断れようか？\nこうしてお前に、シキリアの波の下を滑り抜ける時、\n塩辛いドーリスがその水を混ぜ合わせないように；\n始めよ；ガッルスの不安な愛を語ろう、\n向き鼻の山羊たちが柔らかい小枝を刈り取る間。\nわれらは耳の聞こえない者たちに歌っているのではない：すべてが応じる、森々が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–15",
+      "speaker": "Poeta",
+      "original": "Quae nemora aut qui vos saltus habuere, puellae\nNaides, indigno cum Gallus amore peribat?\nNam neque Parnasi vobis iuga, nam neque Pindi\nulla moram fecere, neque Aonie Aganippe.\nIllum etiam lauri, etiam flevere myricae;\npinifer illum etiam sola sub rupe iacentem\nMaenalus et gelidi flevere saxa Lycaei.",
+      "provisionalTranslation": "どのような森が、どのような木立ちがお前たちを持っていたのか、乙女の\nナイアスたちよ、ガッルスが不当な愛で滅びていた時に？\nというのもパルナッソスの峰もお前たちに、ピンドスも\n何ら留まりをもたらさず、アオニアのアガニッペも。\n月桂樹でさえも彼のために、タマリスクでさえも泣いた；\n一人で岩の下に横たわる彼のために松に覆われた\nメナロスでさえも、凍えたリュカイオスの岩々でさえも泣いた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.16–20",
+      "speaker": "Narrator",
+      "original": "Stant et oves circum (nostri nec paenitet illas,\nnec te paeniteat pecoris, divine poeta:\net formosus ovis ad flumina pavit Adonis);\nvenit et upilio; tardi venere subulci;\nuvidus hiberna venit de glande Menalcas.",
+      "provisionalTranslation": "羊たちも周りに立っている（彼女たちはわれらを恥じない、\nお前も家畜を恥じないように、神の詩人よ：\n美しいアドニスでさえ川辺で羊を放牧した）；\n羊飼いも来た；のろい豚飼いたちも来た；\n冬のドングリで濡れたメナルカスも来た。"
+    },
+    {
+      "id": 4,
+      "verses": "v.21–23",
+      "speaker": "Narrator",
+      "original": "Omnes 'Unde amor iste' rogant 'tibi?' Venit Apollo:\n'Galle, quid insanis?' inquit; 'tua cura Lycoris\nperque nives alium perque horrida castra secuta est.'",
+      "provisionalTranslation": "みんなが「その愛はどこから来たのか」とお前に尋ねる。アポッロが来た：\n「ガッルスよ、なぜ狂っているのか？」と言った；「お前の愛しいリュコリスは\n雪を越えて別の者を、恐ろしい軍営を越えて追って行った。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.24–30",
+      "speaker": "Narrator",
+      "original": "Venit et agresti capitis Silvanus honore,\nflorentis ferulas et grandia lilia quassans.\nPan deus Arcadiae venit, quem vidimus ipsi\nsanguineis ebuli bacis minioque rubentem:\n'Ecquis erit modus?' inquit 'Amor non talia curat,\nnec lacrimis crudelis Amor nec gramina rivis\nnec cytiso saturantur apes nec fronde capellae.'",
+      "provisionalTranslation": "シルウァヌスも田舎の頭の飾りをつけてやって来た、\n花咲くフェルラとおおきな百合を振り動かしながら。\nアルカディアの神パン神が来た、われらが自ら見た、\nニワトコの血のような実と朱墨で赤く染まった神が：\n「どんな限度があるだろうか？」と言った「愛はそのようなことを気にしない、\n残酷な愛は涙で満たされず、草は川で、\n蜜蜂はキチシュスで、山羊たちは葉で飽くことがないように。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.31–36",
+      "speaker": "Gallus",
+      "original": "Tristis at ille: 'Tamen cantabitis, Arcades,' inquit,\n'montibus haec vestris, soli cantare periti\nArcades. O mihi tum quam molliter ossa quiescant,\nvestra meos olim si fistula dicat amores!\nAtque utinam ex vobis unus vestrisque fuissem\naut custos gregis aut maturae vinitor uvae!'",
+      "provisionalTranslation": "しかし悲しそうに彼は言った：「それでもお前たちは歌うだろう、アルカディア人よ、\nこれをお前たちの山々で、歌うことだけが得意なお前たち\nアルカディア人よ。おお、その時わたしの骨はどれほど柔らかく安らぐことか、\nお前たちの笛がいつかわたしの愛を語るなら！\nそしてどうかわたしがお前たちのうちの一人であり\nお前たちのものであったなら、群れの番人か熟れた葡萄の摘み手として！」"
+    },
+    {
+      "id": 7,
+      "verses": "v.37–43",
+      "speaker": "Gallus",
+      "original": "'Certe sive mihi Phyllis sive esset Amyntas,\nseu quicumque furor (quid tum, si fuscus Amyntas?\net nigrae violae sunt et vaccinia nigra),\nmecum inter salices lenta sub vite iaceret:\nserta mihi Phyllis legeret, cantaret Amyntas.\nHic gelidi fontes, hic mollia prata, Lycori;\nhic nemus; hic ipso tecum consumerer aevo.'",
+      "provisionalTranslation": "「確かにわたしにフュッリスがいるにせよアミュンタスがいるにせよ、\nあるいはどんな狂気であれ（アミュンタスが浅黒くて何だ？\n黒いスミレもあるし黒いスイカズラもある）、\n柳の間でしなやかな葡萄の蔓の下にわたしと横たわっていただろうに：\nフュッリスがわたしのために花輪を摘み、アミュンタスが歌っただろうに。\nここに冷たい泉が、ここに柔らかい草地が、リュコリスよ；\nここに森が；ここでお前とともにまさに時をかけて尽き果てていただろうに。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.44–49",
+      "speaker": "Gallus",
+      "original": "'Nunc insanus amor duri me Martis in armis\ntela inter media atque adversos detinet hostis.\nTu procul a patria (nec sit mihi credere tantum)\nAlpinas, a, dura, nives et frigora Rheni\nme sine sola vides. A, te ne frigora laedant!\na, tibi ne teneras glacies secet aspera plantas!'",
+      "provisionalTranslation": "「今は狂える愛が厳しいマルスの武器の中に\n矢玉の間と向き合う敵の前にわたしを引き留めている。\nお前は祖国から遠く（それほどのことを信じさせないでくれ）\nアルプスの、ああ、冷酷な者よ、雪とライン川の寒さを\nわたしなしに一人で見ている。ああ、寒さがお前を傷つけないように！\nああ、荒い氷がお前の柔らかい足の裏を切らないように！」"
+    },
+    {
+      "id": 9,
+      "verses": "v.50–54",
+      "speaker": "Gallus",
+      "original": "'Ibo et Chalcidico quae sunt mihi condita versu\ncarmina pastoris Siculi modulabor avena.\nCertum est in silvis inter spelaea ferarum\nmalle pati tenerisque meos incidere Amores\narboribus: crescent illae, crescetis, Amores.'",
+      "provisionalTranslation": "「行こう、そしてカルキス風の詩で書かれたわたしの\n詩をシキリアの羊飼いの葦笛で奏でよう。\n決心した、森の中で野獣の洞窟の間で\n苦しむ方がいい、そしてわたしの愛をやわらかな\n木々に刻もう：あれらは育つだろう、お前たちも育つだろう、愛よ。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.55–61",
+      "speaker": "Gallus",
+      "original": "'Interea mixtis lustrabo Maenala Nymphis,\naut acris venabor apros; non me ulla vetabunt\nfrigora Parthenios canibus circumdare saltus.\nIam mihi per rupes videor lucosque sonantis\nire; libet Partho torquere Cydonia cornu\nspicula; tamquam haec sit nostri medicina furoris,\naut deus ille malis hominum mitescere discat!'",
+      "provisionalTranslation": "「その間にわたしはニュンファイたちと混じってメナロスを巡り、\nあるいは激しい猪を狩るだろう；どんな寒さも\nパルテニオスの木立ちを犬たちで囲むことを妨げないだろう。\n今わたしは岩々と響く森々を通って\n行くように思える；パルティア人の弓でクドニアの\n矢を射ることが心地よい；まるでこれがわたしの狂気の薬であるかのように、\nあるいはあの神が人間の悪から和らぐことを学ぶかのように！」"
+    },
+    {
+      "id": 11,
+      "verses": "v.62–69",
+      "speaker": "Gallus",
+      "original": "'Iam neque Hamadryades rursus nec carmina nobis\nipsa placent; ipsae rursus concedite, silvae.\nNon illum nostri possunt mutare labores,\nnec si frigoribus mediis Hebrumque bibamus,\nSithoniasque nives hiemis subeamus aquosae,\nnec si, cum moriens alta liber aret in ulmo,\nAethiopum versemus ovis sub sidere Cancri.\nOmnia vincit Amor: et nos cedamus Amori.'",
+      "provisionalTranslation": "「今はハマドリュアデスも詩もわたしにはもはや\n喜ばしくない；お前たち自身も退いてくれ、森々よ。\nわたしたちの労苦は彼（愛）を変えることができない、\n真冬にヘブロス川を飲み、\n雨の多い冬のシトニアの雪の下に入っても、\nあるいは、木の皮が高いニレ木で乾いて死んでいく時に、\nカンクルス座のもとでエティオピア人の羊を追っても。\n愛はすべてに勝つ；われらも愛に屈しよう。」"
+    },
+    {
+      "id": 12,
+      "verses": "v.70–77",
+      "speaker": "Poeta",
+      "original": "Haec sat erit, divae, vestrum cecinisse poetam,\ndum sedet et gracili fiscellam texit hibisco,\nPierides: vos haec facietis maxima Gallo,\nGallo, cuius amor tantum mihi crescit in horas,\nquantum vere novo viridis se subicit alnus.\nSurgamus: solet esse gravis cantantibus umbra,\niuniperi gravis umbra; nocent et frugibus umbrae.\nIte domum saturae, venit Hesperus, ite, capellae.",
+      "provisionalTranslation": "これを歌えば十分だろう、女神たちよ、お前たちの詩人が、\n座りながら細いムクゲで籠を編んでいる間に、\nピエリデスよ：お前たちはこれらをガッルスのために最大のものにするだろう、\nガッルス、その愛がわたしに時ごとにどれほど育つかといえば、\n新しい春に緑のハンノキが勢いよく育つほどに。\n立ち上がろう：木陰は歌う者たちに重いことが多い、\nビャクシンの木陰は重い；木陰は穀物にも害をなす。\n家に帰れ、飼い飽きた者たちよ、ヘスペルスが来た、行け、山羊たちよ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Extremum hunc, Arethusa, mihi concede laborem:",
+      "body": "「この最後の労苦をわたしに許せ、アレトゥサよ（Extremum hunc, Arethusa, mihi concede laborem）」──詩集全体の閉幕を告げる冒頭行。「Extremum（最後の）」という形容詞が詩集の最終歌としての位置を明示する。「Arethusa（アレトゥサ）」はシキリアのシュラクサイ近郊の聖なる泉の精：シュラクサイ出身のテオクリトスへの参照として、詩集の詩学的起源（第6歌「Prima Syracosio dignata est ludere versu」）を最終歌で反響させる。「laborem（労苦）」という語がコヘレト的「sub sole laborare」の響きを持つ：最後の詩的労働への祈りが詩集の疲労感を含意する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "pauca meo Gallo, sed quae legat ipsa Lycoris,\ncarmina sunt dicenda: neget quis carmina Gallo?",
+      "body": "「わたしのガッルスのために、しかしリュコリス自身が読むような、少しの詩を語らなければならない：誰がガッルスへの詩を断れようか？（pauca meo Gallo, sed quae legat ipsa Lycoris, / carmina sunt dicenda: neget quis carmina Gallo?）」──「meo Gallo（わたしのガッルス）」という所有格が詩人同士の親密な友情を示す。「quae legat ipsa Lycoris（リュコリス自身が読むような）」──詩の想定読者として失恋相手のリュコリスを置く逆説：ガッルスの苦しみを癒すための詩がその苦しみの原因であるリュコリスに読まれることを意図する。「neget quis carmina Gallo（誰がガッルスへの詩を断れようか）」という修辞的問いが詩的友情の義務を示す：詩を贈ることが最高の友情行為。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Non canimus surdis: respondent omnia silvae.",
+      "body": "「われらは耳の聞こえない者たちに歌っているのではない：すべてが応じる、森々が（Non canimus surdis: respondent omnia silvae）」──詩集全体の詩学的宣言として機能する一行。「Non canimus surdis（耳の聞こえない者たちに歌っていない）」：詩には聴衆があるという確認。「respondent omnia silvae（すべてが応じる、森々が）」──牧歌的エコーの定式：第1歌「formosam resonare doces Amaryllida silvas（森々に名前を響かせて教える）」から第7歌「Arcades ambo…cantare pares（歌うことに等しく備わっている）」まで通底する詩的共鳴の主題の最終確認。詩が宇宙に応答を得るという詩集的命題の集約。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quae nemora aut qui vos saltus habuere, puellae\nNaides, indigno cum Gallus amore peribat?",
+      "body": "「どのような森が、どのような木立ちがお前たちを持っていたのか、乙女のナイアスたちよ、ガッルスが不当な愛で滅びていた時に？（Quae nemora aut qui vos saltus habuere, puellae / Naides, indigno cum Gallus amore peribat?）」──牧歌的挽歌（pastoral elegy）の定型的な「どこにいたのか？」という問い。テオクリトス第1歌「どこにいたのか、ニュンファエよ、ダプニスが死にかけていた時に？」の直接継承。「indigno amore（不当な愛）」──不当さが恋の一方的性格と裏切りを示す。第5歌のダプニスへの哀悼と対称的な構造：ダプニスは死によって失われたが、ガッルスは生きながら愛によって失われる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Illum etiam lauri, etiam flevere myricae;\npinifer illum etiam sola sub rupe iacentem\nMaenalus et gelidi flevere saxa Lycaei.",
+      "body": "「月桂樹でさえも彼のために、タマリスクでさえも泣いた；一人で岩の下に横たわる彼のために松に覆われたメナロスでさえも、凍えたリュカイオスの岩々でさえも泣いた（Illum etiam lauri, etiam flevere myricae; / pinifer illum etiam sola sub rupe iacentem / Maenalus et gelidi flevere saxa Lycaei）」──「etiam（でさえも）」の三重反復（anaphora）が自然の共感的哀悼を段階的に拡大する。「lauri（月桂樹）」はアポッロ・詩の木：詩の木が泣くことで詩人の苦しみが詩的宇宙の根底まで届くことを示す。「gelidi saxa Lycaei（凍えたリュカイオスの岩々）」──リュカイオスはアルカディアの山：第5歌のダプニス哀悼で「Maenalus…flevit」という同じ山が泣いた場面と直接照応する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Stant et oves circum (nostri nec paenitet illas,\nnec te paeniteat pecoris, divine poeta:\net formosus ovis ad flumina pavit Adonis);",
+      "body": "「羊たちも周りに立っている（彼女たちはわれらを恥じない、お前も家畜を恥じないように、神の詩人よ：美しいアドニスでさえ川辺で羊を放牧した）（Stant et oves circum (nostri nec paenitet illas, / nec te paeniteat pecoris, divine poeta: / et formosus ovis ad flumina pavit Adonis)）」──括弧内注記が詩人の謙遜と誇りを同時に表現する。「divine poeta（神の詩人）」──ガッルスへの称号：詩が神的な活動であるという詩学的命題。「formosus Adonis（美しいアドニス）」：ウェヌスに愛された美少年が羊飼いとして働いた神話的先例──神に愛された者も牧歌的生活を送ったという詩的正当化。第6歌でダモエタスの杯に刻まれた「オルペウスと森」と同様に、神話的引用が牧歌的文脈を高貴化する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "'Galle, quid insanis?' inquit; 'tua cura Lycoris\nperque nives alium perque horrida castra secuta est.'",
+      "body": "「ガッルスよ、なぜ狂っているのか？お前の愛しいリュコリスは雪を越えて別の者を、恐ろしい軍営を越えて追って行った（Galle, quid insanis?…tua cura Lycoris / perque nives alium perque horrida castra secuta est）」──アポッロの言葉が詩の状況を一行で要約する。「quid insanis（なぜ狂っているのか）」という問いが第2歌「quae te dementia cepit」・第6歌「a, virgo infelix, quae te dementia cepit」と同語根で詩集的ライトモチーフを形成する。「perque nives alium perque horrida castra secuta est（雪を越えて別の者を、恐ろしい軍営を越えて追って行った）」──「alium（別の者）」の匿名性が喪失の痛みを強化する：誰かは分からないが、確実にガッルスではない誰か。「horrida castra（恐ろしい軍営）」が第8段落の「duri Martis in armis（厳しいマルスの武器の中）」と対称をなす：二人がそれぞれ別の戦場に引き離されている状況。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "'Ecquis erit modus?' inquit 'Amor non talia curat,\nnec lacrimis crudelis Amor nec gramina rivis\nnec cytiso saturantur apes nec fronde capellae.'",
+      "body": "「どんな限度があるだろうか？愛はそのようなことを気にしない、残酷な愛は涙で満たされず、草は川で、蜜蜂はキチシュスで、山羊たちは葉で飽くことがないように（Ecquis erit modus?…Amor non talia curat, / nec lacrimis crudelis Amor nec gramina rivis / nec cytiso saturantur apes nec fronde capellae）」──パン神の言葉が詩集全体の愛の不可抗力性の最終的な定式を提供する。「nec…nec…nec（…なく……なく……なく）」の三重否定が愛の不飽和性を自然の不飽和性（川・蜜蜂・山羊）との並行で定式化する：コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされることがない）」との深い照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "'Tamen cantabitis, Arcades,' inquit,\n'montibus haec vestris, soli cantare periti\nArcades. O mihi tum quam molliter ossa quiescant,\nvestra meos olim si fistula dicat amores!'",
+      "body": "「それでもお前たちは歌うだろう、アルカディア人よ、これをお前たちの山々で、歌うことだけが得意なお前たちアルカディア人よ（Tamen cantabitis, Arcades…soli cantare periti / Arcades）」──「soli cantare periti Arcades（歌うことだけが得意なアルカディア人）」という定式が第7歌「Arcades ambo（二人ともアルカディア人）」の詩集的モチーフを最終的に定式化する：アルカディアが純粋な詩的能力の場所として確立される。「O mihi tum quam molliter ossa quiescant（おお、その時わたしの骨はどれほど柔らかく安らぐことか）」──詩による死後の記念化への願い：エレゲイア詩人としてのガッルスが、自らの恋愛詩が牧歌によって語り継がれることを希望する。エレゲイアと牧歌という二つのジャンルの相互浸透。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Atque utinam ex vobis unus vestrisque fuissem\naut custos gregis aut maturae vinitor uvae!",
+      "body": "「そしてどうかわたしがお前たちのうちの一人であり……群れの番人か熟れた葡萄の摘み手として（Atque utinam ex vobis unus vestrisque fuissem / aut custos gregis aut maturae vinitor uvae）」──牧歌的生活への反実仮想的憧れ。「utinam（どうか……であったなら）」という接続法過去が実現しなかった可能性への願いを示す。エレゲイア詩人が牧歌的羊飼いになりたかったという願いは、詩集全体の詩学的命題（牧歌が慰めとなりうるか？）を凝縮する：ガッルスは牧歌的世界への逃避を試みるが、最終的には「Omnia vincit Amor」という諦念に至る。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "'Certe sive mihi Phyllis sive esset Amyntas,\nseu quicumque furor (quid tum, si fuscus Amyntas?\net nigrae violae sunt et vaccinia nigra),",
+      "body": "「確かにわたしにフュッリスがいるにせよアミュンタスがいるにせよ……アミュンタスが浅黒くて何だ？黒いスミレもあるし黒いスイカズラもある（Certe sive mihi Phyllis sive esset Amyntas / …quid tum, si fuscus Amyntas? / et nigrae violae sunt et vaccinia nigra）」──第2歌「alba ligustra cadunt, vaccinia nigra leguntur（白いイボタが散り落ち、黒いスイカズラが摘まれる）」の直接的反響。「et nigrae violae sunt et vaccinia nigra（黒いスミレもあるし黒いスイカズラもある）」という植物比喩が詩集を貫く色彩的な愛の修辞の最終変奏として機能する：肌の色が愛の価値を決しないという命題が、詩集の最初の方で語られた定式として再浮上する。",
+      "targetId": "vergilius_eclogae_2",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "'Hic gelidi fontes, hic mollia prata, Lycori;\nhic nemus; hic ipso tecum consumerer aevo.'",
+      "body": "「ここに冷たい泉が、ここに柔らかい草地が、リュコリスよ；ここに森が；ここでお前とともにまさに時をかけて尽き果てていただろうに（Hic gelidi fontes, hic mollia prata, Lycori; / hic nemus; hic ipso tecum consumerer aevo）」──「hic（ここ）」の四重反復（anaphora）が牧歌的場所の累積的提示として機能する。「consumerer aevo（時をかけて尽き果てる）」という動詞が時間の消尽として愛の充足を表現する：コヘレト的な時間と消耗のテーマの恋愛的変奏。「Lycori」という名への呼びかけが詩全体で初めてリュコリスに直接語りかける場面：実際に存在しない相手への空虚な呼びかけの切なさ。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "'Tu procul a patria (nec sit mihi credere tantum)\nAlpinas, a, dura, nives et frigora Rheni\nme sine sola vides. A, te ne frigora laedant!\na, tibi ne teneras glacies secet aspera plantas!'",
+      "body": "「お前は祖国から遠く……アルプスの、ああ、冷酷な者よ、雪とライン川の寒さをわたしなしに一人で見ている（Tu procul a patria…Alpinas, a, dura, nives et frigora Rheni / me sine sola vides）」──「a（ああ）」の感嘆詞が三回（a, dura / A, te ne / a, tibi ne）繰り返され、遠距離の苦しみの感情的高まりを示す。「dura（冷酷な者よ）」という形容詞がリュコリスへの直接的な責難として機能する：冷たい雪（物理的）と冷酷な心（感情的）が重なり合う詩的二重性。「teneras…plantas（柔らかい足の裏）」という身体的な詳細描写が抽象的な恋の苦しみを具体的な身体的心配として表現する：エレゲイア詩人の身体的感受性の詩的証言。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "'Ibo et Chalcidico quae sunt mihi condita versu\ncarmina pastoris Siculi modulabor avena.\nCertum est in silvis inter spelaea ferarum\nmalle pati tenerisque meos incidere Amores\narboribus: crescent illae, crescetis, Amores.'",
+      "body": "「行こう、そしてカルキス風の詩で書かれたわたしの詩をシキリアの羊飼いの葦笛で奏でよう（Ibo et Chalcidico quae sunt mihi condita versu / carmina pastoris Siculi modulabor avena）」──「Chalcidicus versus（カルキス風の詩）」はエウポリオン（Euphorion of Chalcis）の様式への参照：ガッルスがエウポリオンを翻訳・模倣したことで知られる。「pastoris Siculi…avena（シキリアの羊飼いの葦笛）」はテオクリトスへの参照：エレゲイア詩人が牧歌の形式を採用するという詩学的転換の宣言。「tenerisque meos incidere Amores / arboribus: crescent illae, crescetis, Amores（やわらかな木々に愛を刻もう：あれらは育つだろう、お前たちも育つだろう、愛よ）」──第9歌「Insere, Daphni, piros: carpent tua poma nepotes（梨の木を接ぎ木せよ：孫たちがお前の実を摘むだろう）」との照応：農業的成長が詩的・感情的成長の比喩として使用される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "'Interea mixtis lustrabo Maenala Nymphis,\naut acris venabor apros; non me ulla vetabunt\nfrigora Parthenios canibus circumdare saltus.",
+      "body": "「その間にわたしはニュンファイたちと混じってメナロスを巡り、あるいは激しい猪を狩るだろう（Interea mixtis lustrabo Maenala Nymphis, / aut acris venabor apros）」──狩猟という行動による愛の忘却の試み。「Maenala（メナロス）」は詩集全体で繰り返されるアルカディアの山：第8歌「Maenalios versus」のリフレインからここでの「逃避の場所」まで一貫した詩集内地名として機能する。「non me ulla vetabunt / frigora（どんな寒さも妨げないだろう）」という強意の否定が第8段落で「Alpinas…nives et frigora Rheni」を心配したこととの対比をなす：リュコリスの寒さへの心配は続くが、自分の行動は寒さに左右されないという矛盾した感情。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "'Iam mihi per rupes videor lucosque sonantis\nire; libet Partho torquere Cydonia cornu\nspicula; tamquam haec sit nostri medicina furoris,\naut deus ille malis hominum mitescere discat!'",
+      "body": "「今わたしは岩々と響く森々を通って行くように思える；パルティア人の弓でクドニアの矢を射ることが心地よい；まるでこれがわたしの狂気の薬であるかのように、あるいはあの神が人間の悪から和らぐことを学ぶかのように！（Iam mihi per rupes videor…ire; libet Partho torquere Cydonia cornu / spicula; tamquam haec sit nostri medicina furoris, / aut deus ille malis hominum mitescere discat！）」──幻想の即座の自己崩壊。「videor（思える）」という動詞が行動の現実性ではなく幻想性を示す：「行く」のではなく「行くように思える」。「tamquam haec sit nostri medicina furoris（まるでこれがわたしの狂気の薬であるかのように）」という逆説的な括弧内注記が、自分自身の逃避計画の無効性を同時に認識するガッルスの自己意識を示す。狩猟による愛の克服という古代の医学的・哲学的処方への懐疑。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "'Iam neque Hamadryades rursus nec carmina nobis\nipsa placent; ipsae rursus concedite, silvae.",
+      "body": "「今はハマドリュアデスも詩もわたしにはもはや喜ばしくない；お前たち自身も退いてくれ、森々よ（Iam neque Hamadryades rursus nec carmina nobis / ipsa placent; ipsae rursus concedite, silvae）」──諦念への転換点。「Hamadryades（ハマドリュアデス）」は木に宿る精霊：牧歌的世界の超自然的住人への倦怠が、牧歌的逃避計画の全面的な放棄を示す。「nec carmina nobis / ipsa placent（詩もわたしには喜ばしくない）」──詩集内で最も衝撃的な一行：詩人（ガッルス）が詩そのものへの喜びを失うという表明。「ipsae rursus concedite, silvae（お前たち自身も退いてくれ、森々よ）」という告別が第1歌「Vivite, silvae（さらばだ、森々よ）」のダモンの言葉を反響する：牧歌的世界からの詩的撤退。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Omnia vincit Amor: et nos cedamus Amori.",
+      "body": "「愛はすべてに勝つ；われらも愛に屈しよう（Omnia vincit Amor: et nos cedamus Amori）」──詩集全体・そして西洋文学の愛の格言として最も広く流通した一行。「Omnia vincit（すべてに勝つ）」はウェルギリウス『農耕詩』第1巻「labor omnia vincit（労苦がすべてに勝つ）」の反転：農業的労苦の勝利が愛の勝利として置き換えられる。チョーサー『カンタベリー物語』修道院長の序文「Amor vincit omnia」という引用が中世における最も有名な受容。「et nos cedamus Amori（われらも愛に屈しよう）」──「cedamus（屈しよう）」という接続法勧告が諦念の積極的受容を示す：抵抗の放棄ではなく運命への意識的な服従。詩集全体の「愛の主題（amor）」の究極的な格言的結語。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Haec sat erit, divae, vestrum cecinisse poetam,\ndum sedet et gracili fiscellam texit hibisco,\nPierides: vos haec facietis maxima Gallo,\nGallo, cuius amor tantum mihi crescit in horas,\nquantum vere novo viridis se subicit alnus.",
+      "body": "「これを歌えば十分だろう、女神たちよ、お前たちの詩人が、座りながら細いムクゲで籠を編んでいる間に（Haec sat erit, divae, vestrum cecinisse poetam, / dum sedet et gracili fiscellam texit hibisco）」──詩集の最終的な自己言及。「gracili fiscellam texit hibisco（細いムクゲで籠を編む）」という日常的な農業的行為が詩作と並行して示される：第6歌の「deductum carmen（細い糸のように紡がれた詩）」の「細い（gracilis）」という美学的語彙との照応。「Gallo, cuius amor tantum mihi crescit in horas / quantum vere novo viridis se subicit alnus（ガッルス、その愛がわたしに時ごとにどれほど育つかといえば、新しい春に緑のハンノキが勢いよく育つほどに）」──詩集の閉幕近くに置かれた友情の愛の宣言：「時ごとに（in horas）」という時間の表現がコヘレト的な時間の流れと詩の増殖を重ね合わせる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Surgamus: solet esse gravis cantantibus umbra,\niuniperi gravis umbra; nocent et frugibus umbrae.\nIte domum saturae, venit Hesperus, ite, capellae.",
+      "body": "「立ち上がろう：木陰は歌う者たちに重いことが多い、ビャクシンの木陰は重い；木陰は穀物にも害をなす。家に帰れ、飼い飽きた者たちよ、ヘスペルスが来た、行け、山羊たちよ（Surgamus…Ite domum saturae, venit Hesperus, ite, capellae）」──詩集全体の最終三行。「Surgamus（立ち上がろう）」という一語が詩集の長い午後（第1歌の夜明け近くから始まり）の終わりを告げる。「gravis…umbra（重い木陰）」という詩的メタファー：木陰は歌を重くする＝詩は終わりに向かう。「Ite domum saturae, venit Hesperus, ite, capellae（家に帰れ、飼い飽きた者たちよ、ヘスペルスが来た、行け、山羊たちよ）」──第1歌の開口部「Tityre, tu patulae recubans sub tegmine fagi」への対称的な閉幕：詩集が朝（横たわる牧人）から夕（帰る山羊たち）へという一日の弧を描く。「venit Hesperus（ヘスペルスが来た）」という夕星の到来が詩集全体の閉幕の宇宙的な時計として機能する。"
+    }
+  ]
+}
+
+
+
+
