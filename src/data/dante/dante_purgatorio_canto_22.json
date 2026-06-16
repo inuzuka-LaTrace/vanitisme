@@ -1,0 +1,281 @@
+{
+  "id": "dante_purgatorio_canto_22",
+  "title": "Purgatorio — Canto XXII",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, Le Lettere, Firenze, 1994)。照合: Wikisource it.wikisource.org/wiki/Divina_Commedia/Purgatorio/Canto_XXII",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "XXII",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第22歌は詩集内・文学史的に最も密度の高い「詩人たちの対話」歌。三詩人（ダンテ・ウェルギリウス・スタティウス）が第6圏（大食いの圏）への通過と節制の木の出現という場面を背景に、ラテン語古典文学・キリスト教改宗・辺獄の詩人一覧という三つの主題を展開する。プブリウス・パピニウス・スタティウス（c.45–96 AD）はローマの叙事詩人（『テーバイス』『シルヴァエ』『アキッレイス』の著者）。ダンテは史実には証拠がないにもかかわらず、スタティウスをキリスト教への秘密改宗者として造形するという大胆な歴史的フィクションを採用する──その改宗の契機がウェルギリウスの『牧歌』第4歌（「新しい子孫が高い天から降る」）という予言詩であったとされる（v.70–72）。これはダンテ『神曲』第30歌（煉獄篇）でスタティウスが語る告白として有名な場面であり、ウェルギリウスをキリスト教の「無意識の預言者」として位置づける中世的解釈の詩的頂点。「Facesti come quei che va di notte, / che porta il lume dietro e sé non giova, / ma dopo sé fa le persone dotte（夜道を行く者のようにしてくれた──背後に灯りを持ち自分は助からないが、後に続く者を賢くする）」（v.67–69）という三行が詩学的自己犠牲の定式として西洋文学史上最も引用された比喩の一つ。「per te poeta fui, per te cristiano（お前によって詩人になり、お前によってキリスト者になった）」（v.73）というスタティウスの宣言は、詩と信仰の同一の師（ウェルギリウス）という驚くべき命題。辺獄の詩人一覧（v.97–114）はホメロス・ペルシウス・テレンティウス・カエキリウス・プラウトゥス・ウァッロー・エウリピデス・アンティフォン・シモニデス・アガトン、および神話的女性（アンティゴネ・デイフィレ・アルギア・イスメネ・ヒュプシピュレ・ティレシアスの娘・テティス・デイダメイア）を含む古代文学・神話の百科全書的カタログとして機能する。閉幕部（v.130–154）における諸例（マリア・ローマの古い女性・ダニエル・黄金時代・洗礼者ヨハネ）がVANITISMEコーパスの聖書系テキストとの深い接続点を形成する。",
+  "keywords": [
+    "Stazio",
+    "Virgilio",
+    "改宗",
+    "Ecloga IV",
+    "辺獄",
+    "詩人カタログ",
+    "節制",
+    "大食いの圏",
+    "灯りの比喩",
+    "sacra fame"
+  ],
+  "relatedTexts": [
+    "dante_purgatorio_canto_1",
+    "dante_purgatorio_canto_26",
+    "dante_purgatorio_canto_27",
+    "dante_purgatorio_canto_30",
+    "dante_inferno_canto_1",
+    "dante_inferno_canto_4",
+    "vergilius_eclogae_4",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–9",
+      "speaker": "Dante-narratore",
+      "original": "Già era l'angel dietro a noi rimaso,\nl'angel che n'avea vòlti al sesto giro,\navendomi dal viso un colpo raso;\n\ne quei c' hanno a giustizia lor disiro\ndetto n'avea beati, e le sue voci\ncon 'sitiunt', sanz'altro, ciò forniro.\n\nE io più lieve che per l'altre foci\nm'andava, sì che sanz'alcun labore\nseguiva in sù li spiriti veloci;",
+      "provisionalTranslation": "天使はすでにわれらの後ろに残っていた、\n第六圏へわれらを向けてくれた天使が、\n私の顔から一撃を払ってくれて；\n\nそして正義を渇き望む者たちを\n至福とすると告げていた、そしてその声が\n「渇く（sitiunt）」だけで、それ以上なく、終えた。\n\nそして私は他の裂け目よりも軽く\n歩いていた、そして何の労苦もなく\n上へ向かう速い霊たちに続いていた；"
+    },
+    {
+      "id": 2,
+      "verses": "v.10–24",
+      "speaker": "Virgilio",
+      "original": "quando Virgilio incominciò: \"Amore,\nacceso di virtù, sempre altro accese,\npur che la fiamma sua paresse fore;\n\nonde da l'ora che tra noi discese\nnel limbo de lo 'nferno Giovenale,\nche la tua affezion mi fé palese,\n\nmia benvoglienza inverso te fu quale\npiù strinse mai di non vista persona,\nsì ch'or mi parran corte queste scale.\n\nMa dimmi, e come amico mi perdona\nse troppa sicurtà m'allarga il freno,\ne come amico omai meco ragiona:\n\ncome poté trovar dentro al tuo seno\nloco avarizia, tra cotanto senno\ndi quanto per tua cura fosti pieno?\".",
+      "provisionalTranslation": "ウェルギリウスが始めた：「美徳によって\n燃え上がった愛は、常に別の者を燃やす、\nその炎が外に現れてさえいれば；\n\nだからユウェナリスが辺獄に\nわれらのもとに降りてきた時から、\nお前への愛着を私に知らせてくれたことで、\n\nお前への私の好意は、\n会ったことのない人物への愛着が\nかつて最も強く結んだほどのものになった、\nそれほどにこの階段は今私には短く感じられるだろう。\n\nしかし教えてくれ、そして友人として許してくれ、\nもし余りの大胆さが手綱を緩めるなら、\nそして友人として今私と語ってくれ：\n\nどうしてお前の胸の中に\n吝嗇が場所を見つけることができたのか、お前が\n配慮によって満たされていたこれほどの賢さの中に？」"
+    },
+    {
+      "id": 3,
+      "verses": "v.25–45",
+      "speaker": "Stazio",
+      "original": "Queste parole Stazio mover fenno\nun poco a riso pria; poscia rispuose:\n\"Ogne tuo dir d'amor m'è caro cenno.\n\nVeramente più volte appaion cose\nche danno a dubitar falsa matera\nper le vere ragion che son nascose.\n\nLa tua dimanda tuo creder m'avvera\nesser ch'i' fossi avaro in l'altra vita,\nforse per quella cerchia dov'io era.\n\nOr sappi ch'avarizia fu partita\ntroppo da me, e questa dismisura\nmigliaia di lunari hanno punita.\n\nE se non fosse ch'io drizzai mia cura,\nquand'io intesi là dove tu chiame,\ncrucciato quasi a l'umana natura:\n\n'Per che non reggi tu, o sacra fame\nde l'oro, l'appetito de' mortali?',\nvoltando sentirei le giostre grame.\n\nAllor m'accorsi che troppo aprir l'ali\npotean le mani a spendere, e pente' mi\ncosì di quel come de li altri mali.\n\nQuanti risurgeran coi crini scemi\nper ignoranza, che di questa pecca\ntoglie 'l penter vivendo e ne li stremi!",
+      "provisionalTranslation": "これらの言葉はスタティウスをまず少し\n笑わせた；それから答えた：\n「お前の愛に関するどんな言葉も私には大切な合図だ。\n\n確かに多くの場合、隠れた真の理由のために\n疑いに偽りの材料を与えるものが\n現れることがある。\n\nお前の問いはお前の信念を私に確認させる、\n私がかつての生で吝嗇だったと、\nおそらく私がいたあの圏のゆえに。\n\n今知れ、吝嗇は私からあまりにも\n遠く離れており、この行き過ぎを\n何千もの月が罰してきた。\n\nそして、もし私が心を向けなかったなら、\nお前がそこで呼びかける場所を私が聞いた時に、\n人間の本性にほとんど怒りながら：\n\n『なぜお前は制御しないのか、おお黄金への\n聖なる飢えよ、死すべき者たちの欲望を』\nと、回りながら惨めな戦いを感じていただろう。\n\nその時私は気づいた、手の翼を\n使うことにおいて広げすぎることができると、そして後悔した\nそれをあたかも他の悪のように。\n\n何人が乏しい頭を持って復活するだろうか\n無知のために、この罪の\n悔悟を生前にも死の際にも奪う！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.46–54",
+      "speaker": "Stazio",
+      "original": "E sappie che la colpa che rimbecca\nper dritta opposizione alcun peccato,\ncon esso insieme qui suo verde secca;\n\nperò, s'io son tra quella gente stato\nche piange l'avarizia, per purgarmi,\nper lo contrario suo m'è incontrato\".",
+      "provisionalTranslation": "そして知れ、ある罪に真っ向から対立することで\nその罪に打ち返す過ちは、\nその罪と共にここでその緑を乾かす；\n\nだから、もし私が吝嗇を泣きながら\n浄化するためにあの人々の中にいたなら、\nその反対のものにあったゆえだ。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.55–63",
+      "speaker": "Virgilio",
+      "original": "\"Or quando tu cantasti le crude armi\nde la doppia trestizia di Giocasta\",\ndisse 'l cantor de' buccolici carmi,\n\n\"per quello che Clïò teco lì tasta,\nnon par che ti facesse ancor fedele\nla fede, sanza qual ben far non basta.\n\nSe così è, qual sole o quai candele\nti stenebraron sì, che tu drizzasti\nposcia di retro al pescator le vele?\".",
+      "provisionalTranslation": "「お前がイオカステの二重の悲しみの\n残酷な戦いを歌った時」\n牧歌の歌い手は言った、\n\n「クリオーがそこでお前とともに扱ったものによれば、\n信仰がお前をまだ忠実にはしていなかったようだ、\nその信仰なしには善行も足りない。\n\nそうであれば、どんな太陽またはどんな蝋燭が\nお前をそれほど照らしたのか、その後お前が\n漁師の後ろに帆を向けたほどに？」"
+    },
+    {
+      "id": 6,
+      "verses": "v.64–73",
+      "speaker": "Stazio",
+      "original": "Ed elli a lui: \"Tu prima m'invïasti\nverso Parnaso a ber ne le sue grotte,\ne prima appresso Dio m'alluminasti.\n\nFacesti come quei che va di notte,\nche porta il lume dietro e sé non giova,\nma dopo sé fa le persone dotte,\n\nquando dicesti: 'Secol si rinova;\ntorna giustizia e primo tempo umano,\ne progenïe scende da ciel nova'.\n\nPer te poeta fui, per te cristiano:",
+      "provisionalTranslation": "そして彼はその者に：「お前が最初に私を\nパルナッソスへ向けてその洞窟で飲ませ、\n最初に神の傍らで私を照らした。\n\nお前は夜道を行く者のようにしてくれた、\n背後に灯りを持ち自分は助からないが、\n後に続く者を賢くする者のように、\n\nお前が言った時：『世紀は新たになる；\n正義と最初の人間の時代が戻る、\nそして新しい子孫が天から降る。』\n\nお前によって私は詩人になり、お前によってキリスト者になった："
+    },
+    {
+      "id": 7,
+      "verses": "v.74–93",
+      "speaker": "Stazio",
+      "original": "ma perché veggi mei ciò ch'io disegno,\na colorare stenderò la mano.\n\nGià era 'l mondo tutto quanto pregno\nde la vera credenza, seminata\nper li messaggi de l'etterno regno;\n\ne la parola tua sopra toccata\nsi consonava a' nuovi predicanti;\nond'io a visitarli presi usata.\n\nVennermi poi parendo tanto santi,\nche, quando Domizian li perseguette,\nsanza mio lagrimar non fur lor pianti;\n\ne mentre che di là per me si stette,\nio li sovvenni, e i lor dritti costumi\nfer dispregiare a me tutte altre sette.\n\nE pria ch'io conducessi i Greci a' fiumi\ndi Tebe poetando, ebb'io battesmo;\nma per paura chiuso cristian fu' mi,\n\nlungamente mostrando paganesmo;\ne questa tepidezza il quarto cerchio\ncerchiar mi fé più che 'l quarto centesmo.",
+      "provisionalTranslation": "しかしお前が私の意図するところをよりよく見るように、\n色を塗るために手を伸ばそう。\n\nすでに世界は全体として\n永遠の王国の使者たちによって\n蒔かれた真の信仰で満ちていた；\n\nそしてお前の上で触れた言葉は\n新しい説教者たちと調和していた；\nそれゆえ私は彼らを訪ねるようになった。\n\nそれから彼らは私にはとても聖なる者たちに思えてきた、\nそしてドミティアヌスが彼らを迫害した時、\n彼らの嘆きが私の涙なしではなかった；\n\nそしてあちらで私のために時が経つ間、\n私は彼らを助け、彼らの直しい習慣が\n他のすべての宗派を私に軽蔑させた。\n\nそして詩によってテーバイの川々へ\nギリシア人たちを導く前に、洗礼を受けた；\nしかし恐れのために秘密のキリスト者であり、\n\n長い間異教徒を装っていた；\nそしてこのぬるさが第四の圏を\n四百年以上回らせた。"
+    },
+    {
+      "id": 8,
+      "verses": "v.94–99",
+      "speaker": "Stazio",
+      "original": "Tu dunque, che levato hai il coperchio\nche m'ascondeva quanto bene io dico,\ndimmi dov'è Terrenzio nostro antico,\n\nCecilio e Plauto e Varro, se lo sai:\ndimmi se son dannati, e in qual vico\".",
+      "provisionalTranslation": "「では、私が言うほどの善を\n私から隠していた覆いを持ち上げたお前よ、\nわれらの古いテレンティウスがどこにいるか教えてくれ、\n\nカエキリウスとプラウトゥスとウァッローも、もし知っているなら：\n彼らが断罪されているか、そしてどの巷にいるかを教えてくれ。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.100–114",
+      "speaker": "Virgilio",
+      "original": "\"Costoro e Persio e io e altri assai\",\nrispose il duca mio, \"siam con quel Greco\nche le Muse lattar più ch'altri mai,\n\nnel primo cinghio del carcere cieco;\nspesse fïate ragioniam del monte\nche sempre ha le nutrice nostre seco.\n\nEuripide v'è nosco e Antifonte,\nSimonide, Agatone e altri piùe\nGreci che già di lauro ornar la fronte.\n\nQuivi si veggion de le genti tue\nAntigone, Deïfile e Argia,\ne Ismene sì trista come fue.\n\nVédeisi quella che mostrò Langia;\nèvvi la figlia di Tiresia, e Teti,\ne con le suore sue Deïdamia\".",
+      "provisionalTranslation": "「彼らとペルシウスと私と他の多くの者たちが」\n私の師は答えた、「ムーサエが他の誰よりも\n多く乳を与えたあのギリシア人とともにいる、\n\n暗い牢獄の最初の圈に；\n私たちはしばしばわれらの乳母たちを常に傍らに\n持つあの山について話し合う。\n\nエウリピデスもわれらとともにおり、アンティフォン、\nシモニデス、アガトン、そして他の多くの\nかつて月桂冠で額を飾ったギリシア人たちも。\n\nそこにはお前の民の者たちが見える、\nアンティゴネ、デイフィレ、アルギア、\nかつてのように悲しいイスメネも。\n\nランギアを示した者も見える；\nティレシアスの娘もおり、テティス、\nそして姉妹たちとともにデイダメイアも。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.115–129",
+      "speaker": "Dante-narratore",
+      "original": "Tacevansi ambedue già li poeti,\ndi novo attenti a riguardar dintorno,\nliberi da saliri e da pareti;\n\ne già le quattro ancelle eran del giorno\nrimase a dietro, e la quinta era al temo,\ndrizzando pur in sù l'ardente corno,\n\nquando il mio duca: \"Io credo ch'a lo stremo\nle destre spalle volger ne convegna,\ngirando il monte come far solemo\".\n\nCosì l'usanza fu lì nostra insegna,\ne prendemmo la via con men sospetto\nper l'assentir di quell'anima degna.\n\nElli givan dinanzi, e io soletto\ndi retro, e ascoltava i lor sermoni,\nch'a poetar mi davano intelletto.\n\nMa tosto ruppe le dolci ragioni\nun alber che trovammo in mezza strada,\ncon pomi a odorar soavi e buoni;",
+      "provisionalTranslation": "二人の詩人はすでに黙っていた、\n再び周りを見回すことに注意を向けて、\n登り坂と壁から解放されて；\n\nすでに日の四人の侍女が\n後ろに残され、第五の者が舵にいた、\n燃える角をただ上へと向けながら、\n\n私の師が：「私はわれらは端で\n右の肩を向ける必要があると思う、\n山を巡ることをいつものようにして。」\n\nかくして慣習がそこで我らの指標となり、\nわれらはあの高貴な魂の同意によって\nより少ない疑いで道を取った。\n\n二人は前を歩き、私は一人\n後ろに、そして彼らの会話を聞いていた、\nそれが詩を作ることへの知性を私に与えた。\n\nしかし間もなく甘い話を\n道の中ほどで見つけた木が破った、\n香りよく甘い実を持つ木が；"
+    },
+    {
+      "id": 11,
+      "verses": "v.130–154",
+      "speaker": "Voce nell'albero",
+      "original": "e come abete in alto si digrada\ndi ramo in ramo, così quello in giuso,\ncred'io, perché persona sù non vada.\n\nDal lato onde 'l cammin nostro era chiuso,\ncadea de l'alta roccia un liquor chiaro\ne si spandeva per le foglie suso.\n\nLi due poeti a l'alber s'appressaro;\ne una voce per entro le fronde\ngridò: \"Di questo cibo avrete caro\".\n\nPoi disse: \"Più pensava Maria onde\nfosser le nozze orrevoli e intere,\nche a la sua bocca, ch'or per voi risponde.\n\nE le Romane antiche, per lor bere,\ncontente furon d'acqua; e Danïello\ndispregiò cibo e acquistò savere.\n\nLo secol primo, quant'oro fu bello,\nfé savorose con fame le ghiande,\ne nettare con sete ogne ruscello.\n\nMele e locuste furon le vivande\nche nodriro il Batista nel diserto;\nper ch'elli è glorïoso e tanto grande\n\nquanto per lo Vangelio v'è aperto\".",
+      "provisionalTranslation": "そしてモミの木が上へ向かって\n枝から枝へと細くなっていくように、あの木は下へ向かって、\n誰も上へ行けないように、と私は思う。\n\nわれらの道が閉ざされていた側から、\n高い岩から清らかな液体が落ち、\n上の葉々の上に広がっていた。\n\n二人の詩人が木に近づいた；\nそして一つの声が葉々の中から\n叫んだ：「この食べ物を欲しがることになるだろう。」\n\nそれから言った：「マリアはより思っていた、\n婚宴が立派で完全なものとなるよう、\nお前たちに今答えているその口よりも。\n\nそして古代のローマ女性たちは、飲み物として、\n水で満足していた；そしてダニエルは\n食べ物を軽蔑して知恵を得た。\n\n最初の世紀、黄金がいかに美しかった時も、\n飢えで団栗を美味しくし、\n渇きですべての小川をネクタルにした。\n\n蜜と蝗蟲が食べ物だった、\n洗礼者を荒野で育てた食べ物；\nそのゆえに彼は栄えあり、それほど偉大なのだ、\n\n福音書においてお前たちに明かされているように。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "e quei c' hanno a giustizia lor disiro\ndetto n'avea beati, e le sue voci\ncon 'sitiunt', sanz'altro, ciò forniro.",
+      "body": "「正義を渇き望む者たちを至福とすると告げていた、その声が『渇く（sitiunt）』だけで、それ以上なく、終えた（quei c'hanno a giustizia lor disiro / detto n'avea beati, e le sue voci / con 'sitiunt', sanz'altro, ciò forniro）」──マタイ5:6「義に飢え渇く者は幸いである（Beati qui esuriunt et sitiunt iustitiam）」の部分引用。天使が福音書のラテン語「sitiunt（渇く）」という一語だけを言って止まる詩的省略法：残りの言葉はダンテ（読者）が補完する。「sanz'altro（それ以上なく）」という副詞句が省略の意図性を強調する。各圏の通過時に天使が対応する至福の訓えを唱える煉獄の構造（第5歌・第7歌等）の一例として機能する。第6圏は大食い（gola）の浄化の場であり、「正義への渇き」という霊的欲求が肉体的「渇き」の対極として配置される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "E io più lieve che per l'altre foci\nm'andava, sì che sanz'alcun labore\nseguiva in sù li spiriti veloci;",
+      "body": "「私は他の裂け目よりも軽く歩いていた、何の労苦もなく速い霊たちに続いていた（E io più lieve che per l'altre foci / m'andava, sì che sanz'alcun labore / seguiva in sù li spiriti veloci）」──各圏を通過するたびにダンテが軽くなる煉獄の構造的論理。各天使が「一撃（colpo）」で額から罪のPの字の一つを消す：消えるたびにダンテは軽くなる。「più lieve（より軽く）」という比較級が浄化の累積的効果を示す。コヘレト第1章の「労苦（labor sub sole）」のヴァニタスが人間存在の下への重力として機能するとすれば、煉獄の上昇はその労苦からの段階的解放として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "\"Amore,\nacceso di virtù, sempre altro accese,\npur che la fiamma sua paresse fore;",
+      "body": "「美徳によって燃え上がった愛は、常に別の者を燃やす、その炎が外に現れてさえいれば（Amore, / acceso di virtù, sempre altro accese, / pur che la fiamma sua paresse fore）」──詩集全体の「愛の伝播（amor che move）」の定式。「acceso…accese（燃え上がった……燃やす）」という同語根の能動的連鎖が愛の伝染的性格を示す：美徳の愛は見えた時に必ず他者に移る。天国篇最終行「太陽と他の星たちを動かす愛（l'amor che move il sole e l'altre stelle）」への伏線。ウェルギリウスがスタティウスに向けてこの言葉で対話を始めることは、地上では会うことがなかった二詩人が詩的影響（愛の伝播）を通じて繋がっていることの神学的確認。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "onde da l'ora che tra noi discese\nnel limbo de lo 'nferno Giovenale,\nche la tua affezion mi fé palese,",
+      "body": "「ユウェナリスが辺獄にわれらのもとに降りてきた時から（da l'ora che tra noi discese / nel limbo de lo 'nferno Giovenale）」──デキムス・ユニウス・ユウェナリス（Decimus Iunius Iuvenalis, c.55–138 AD）はローマの諷刺詩人：スタティウスと同時代人として辺獄にいる。ウェルギリウスは辺獄でスタティウスへの愛着をユウェナリスから知ったと語る：詩人たちの間での情報の流通が辺獄においても続いていることを示す。「非見人物（di non vista persona）」──会ったことがない人物への愛という逆説：ウェルギリウスは死後スタティウスの作品を「読んだ」ことがなく（死者には時間がない）、他の詩人からの伝聞によってのみスタティウスを知る。詩的影響が肉体的接触なしに霊的次元で作動することの証言。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "'Per che non reggi tu, o sacra fame\nde l'oro, l'appetito de' mortali?',",
+      "body": "「なぜお前は制御しないのか、おお黄金への聖なる飢えよ、死すべき者たちの欲望を（Per che non reggi tu, o sacra fame / de l'oro, l'appetito de' mortali?）」──ウェルギリウス『アエネイス』第3巻56–57行「Quid non mortalia pectora cogis, / auri sacra fames?（黄金への呪われた飢えよ、お前は死すべき者の胸に何をさせないのか？）」のイタリア語訳・変形引用。ただしダンテのスタティウスは「sacra（聖なる）」という語を原文通りに読んで「黄金への飢えは制御すべきものだ」という戒めとして解釈したが、ウェルギリウスの文脈では「auri sacra fames」は「呪われた黄金への飢え（sacra＝呪われた）」という否定的意味を持つ──「聖なる（sacra）」というラテン語の両義性（聖なる／呪われた）の詩的誤読がスタティウスの浄化を逆説的に引き起こした。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quanti risurgeran coi crini scemi\nper ignoranza, che di questa pecca\ntoglie 'l penter vivendo e ne li stremi!",
+      "body": "「何人が乏しい頭を持って復活するだろうか、無知のために、この罪の悔悟を生前にも死の際にも奪う！（Quanti risurgeran coi crini scemi / per ignoranza, che di questa pecca / toglie 'l penter vivendo e ne li stremi）」──「crini scemi（乏しい頭）」は最後の審判での復活身体の比喩的描写：大食い者として復活する者たちが最後の審判で「乏しい頭（やつれた容貌）」を持つという詩的形象。大食いの罪を自分の罪として認識できない無知者たちへの嘆き。悔悟（pentimento）の不在が救いの不可能性を生むという煉獄神学の核心命題：悔い改めなしにはレテ川を渡れないという煉獄篇第30歌の閉幕句との照応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "E sappie che la colpa che rimbecca\nper dritta opposizione alcun peccato,\ncon esso insieme qui suo verde secca;",
+      "body": "「ある罪に真っ向から対立することでその罪に打ち返す過ちは、その罪と共にここでその緑を乾かす（E sappie che la colpa che rimbecca / per dritta opposizione alcun peccato, / con esso insieme qui suo verde secca）」──煉獄の対罪神学（teologia dei contrari）の定式化。吝嗇（avarizia）と浪費（prodigalità）は対立する罪であるため、浄化される際には同じ圏で一緒に浄化される──地獄篇第4圏（貪欲者と浪費者が対置される）の「正義の対称（giustizia contraria）」の原理を反転させた煉獄的論理。「suo verde secca（その緑を乾かす）」という植物的比喩が罪の「生命力（verde）」が浄化によって消える過程を視覚化する。ウェルギリウスのエクローガにおける植物の成長と衰退の主題との照応。",
+      "targetId": "dante_inferno_canto_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "\"Or quando tu cantasti le crude armi\nde la doppia trestizia di Giocasta\",\ndisse 'l cantor de' buccolici carmi,",
+      "body": "「お前がイオカステの二重の悲しみの残酷な戦いを歌った時（Or quando tu cantasti le crude armi / de la doppia trestizia di Giocasta）」──スタティウスの叙事詩『テーバイス（Thebais）』への参照。「la doppia trestizia di Giocasta（イオカステの二重の悲しみ）」：イオカステはオイディプスの妻（かつ母）であり、二人の息子エテオクレスとポリュニケスがテーバイの王位を巡って戦い互いに殺し合うという「二重の悲しみ」を持つ。「'l cantor de' buccolici carmi（牧歌の歌い手）」──ウェルギリウスへの詩集内での呼称。「buccolici carmi（牧歌）」という語が第22歌での中心的役割（第4牧歌の引用がスタティウスの改宗を引き起こす）を先取りする呼称として機能する：詩集が内部で自己参照する。",
+      "targetId": "vergilius_eclogae_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "\"Se così è, qual sole o quai candele\nti stenebraron sì, che tu drizzasti\nposcia di retro al pescator le vele?\".",
+      "body": "「どんな太陽またはどんな蝋燭がお前をそれほど照らしたのか、その後お前が漁師の後ろに帆を向けたほどに（qual sole o quai candele / ti stenebraron sì, che tu drizzasti / poscia di retro al pescator le vele）」──「漁師（pescator）」は聖ペテロ（Simon Petrus）：ガリラヤの漁師だったペテロへの換喩がキリスト教（カトリック教会）を指す。「帆を向ける（drizzare le vele）」という航海的比喩が信仰への転換を視覚化する。「太陽（sole）」と「蝋燭（candele）」という光の二重対照が直後の「灯りの比喩」（v.67–69）への精確な準備として機能する：ウェルギリウスは「蝋燭」（自分は照らされないが他者を照らす）として機能した。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Facesti come quei che va di notte,\nche porta il lume dietro e sé non giova,\nma dopo sé fa le persone dotte,",
+      "body": "「お前は夜道を行く者のようにしてくれた、背後に灯りを持ち自分は助からないが、後に続く者を賢くする者のように（Facesti come quei che va di notte, / che porta il lume dietro e sé non giova, / ma dopo sé fa le persone dotte）」──煉獄篇で最も有名な直喩の一つ。光を背負って夜道を歩く者は自分の前は照らせないが後続者の道を照らす：ウェルギリウスがキリスト教信仰に先行したにもかかわらず自らは救われず（辺獄に留まる）、後続者（スタティウス・ダンテ等）の魂を照らしたという詩的神学の定式。ウェルギリウスの詩学的悲劇性──「知りながら知らない」預言者の孤独──が三行に凝縮される。シモーヌ・ヴェイユ「神は不在の形で愛を表す」という命題との深い神学的照応：最大の照明が最大の自己剥奪から生まれる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "allusion",
+      "anchor": "quando dicesti: 'Secol si rinova;\ntorna giustizia e primo tempo umano,\ne progenïe scende da ciel nova'.",
+      "body": "「お前が言った時：『世紀は新たになる；正義と最初の人間の時代が戻る、そして新しい子孫が天から降る（Secol si rinova; / torna giustizia e primo tempo umano, / e progenïe scende da ciel nova）』」──ウェルギリウス『牧歌』第4歌v.5–7「Ultima Cumaei venit iam carminis aetas; / magnus ab integro saeclorum nascitur ordo. / iam redit et Virgo, redeunt Saturnia regna, / iam nova progenies caelo demittitur alto」のイタリア語訳。ダンテがウェルギリウスの「メシア詩（Ecloga Messianica）」のイタリア語訳を三行に圧縮して引用する：「Secol si rinova（世紀は新たになる）」＝「magnus ab integro saeclorum nascitur ordo」、「torna giustizia（正義が戻る）」＝「iam redit et Virgo（処女座が戻る）」、「progenïe scende da ciel nova（新しい子孫が天から降る）」＝「iam nova progenies caelo demittitur alto」。中世キリスト教的解釈によれば、この詩句はキリストの降誕を預言したものとされた──スタティウスが「この詩句がキリスト教の説教者たちの言葉と一致した」と語る場面が、その解釈伝統の詩的証言。",
+      "targetId": "vergilius_eclogae_4",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Per te poeta fui, per te cristiano:",
+      "body": "「お前によって私は詩人になり、お前によってキリスト者になった（Per te poeta fui, per te cristiano）」──煉獄篇第22歌の詩的頂点にして最も有名な一行。「Per te（お前によって）」という繰り返しが詩と信仰の同一の起源（ウェルギリウス）を対称的に定式化する。詩人と聖人という二つのアイデンティティが同一の師から生まれるという命題は、詩学と神学の統合という神曲全体の根本的な知的プログラムの凝縮。「poeta（詩人）」が先に来て「cristiano（キリスト者）」が後に来る順序が重要：詩的召命が信仰的召命に先行し、それを準備するという中世的詩学観。ウェルギリウスという「灯り」が詩と信仰の両面を同時に照らしたという逆説的預言者像の定式。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Già era 'l mondo tutto quanto pregno\nde la vera credenza, seminata\nper li messaggi de l'etterno regno;",
+      "body": "「すでに世界は全体として、永遠の王国の使者たちによって蒔かれた真の信仰で満ちていた（Già era 'l mondo tutto quanto pregno / de la vera credenza, seminata / per li messaggi de l'etterno regno）」──初期キリスト教の世界伝播の詩的概念化。「pregno（満ちた・妊孕した）」という形容詞が「種（seminata）」との農業的比喩の連鎖を構成する：信仰が「種」として「蒔かれ」世界が「孕んだ」という生命的・農業的比喩が神の言葉の拡散を有機的プロセスとして示す。「messaggi de l'etterno regno（永遠の王国の使者たち）」は使徒たち：ペテロ・パウロ等の初期キリスト教宣教師。ウェルギリウス『農耕詩』の農業的比喩と神学的「種蒔き」の統合。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "e mentre che di là per me si stette,\nio li sovvenni, e i lor dritti costumi\nfer dispregiare a me tutte altre sette.",
+      "body": "「そしてあちらで私のために時が経つ間、私は彼らを助け、彼らの直しい習慣が他のすべての宗派を私に軽蔑させた（e mentre che di là per me si stette, / io li sovvenni, e i lor dritti costumi / fer dispregiare a me tutte altre sette）」──スタティウスのキリスト者支援の告白。ドミティアヌス帝（在位81–96 AD）によるキリスト教迫害（黙示録の背景）の時代に、スタティウスは秘密裏にキリスト者たちを助けたという詩的フィクション。「sette（宗派・派）」という語がローマの多神教的宗教多様性の文脈での初期キリスト教の位置を示す：「直しい習慣（dritti costumi）」による道徳的魅力が改宗の実際的動因として提示される。ヒエロニムスのウルガータ翻訳と初期教会の迫害下での存在という歴史的文脈との照応。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "ma per paura chiuso cristian fu' mi,\nlungamente mostrando paganesmo;\ne questa tepidezza il quarto cerchio\ncerchiar mi fé più che 'l quarto centesmo.",
+      "body": "「しかし恐れのために秘密のキリスト者であり、長い間異教徒を装っていた；そしてこのぬるさが第四の圏を四百年以上回らせた（ma per paura chiuso cristian fu' mi, / lungamente mostrando paganesmo; / e questa tepidezza il quarto cerchio / cerchiar mi fé più che 'l quarto centesmo）」──「tepidezza（ぬるさ）」という語が黙示録3:16「熱くも冷たくもなく、ぬるい者は口から吐き出す」への参照として機能する。「quarto centesmo（四百年）」の浄化：スタティウスは96 AD没──煉獄で1200年以上（詩の設定1300年まで）過ごしたことになる。信仰の隠蔽が臆病さ（viltà）の罪として浄化の長期化をもたらすという倫理的・神学的命題。第21歌でスタティウスが煉獄から解放される直前という文脈──長い浄化の後にようやく地上楽園への道が開かれる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Tu dunque, che levato hai il coperchio\nche m'ascondeva quanto bene io dico,\ndimmi dov'è Terrenzio nostro antico,",
+      "body": "「では、私が言うほどの善を私から隠していた覆いを持ち上げたお前よ、われらの古いテレンティウスがどこにいるか教えてくれ（Tu dunque, che levato hai il coperchio / che m'ascondeva quanto bene io dico, / dimmi dov'è Terrenzio nostro antico）」──スタティウスがウェルギリウスへの感謝の後に直ちに詩的好奇心（辺獄の詩人一覧）を求める場面転換。「il coperchio（覆い）」という比喩が先行する「灯りを背負う者」の比喩を反転する：ウェルギリウスが「光を照らす」者だとすれば、スタティウスにとっての「覆いを外す」者でもある。「nostro antico（われらの古い）」という所有格が詩人たちの「われら（noi poeti）」というコミュニティ意識を示す：プブリウス・テレンティウス・アフェル（185–159 BC）はラテン喜劇の最重要詩人の一人。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "\"Costoro e Persio e io e altri assai\",\nrispose il duca mio, \"siam con quel Greco\nche le Muse lattar più ch'altri mai,",
+      "body": "「彼らとペルシウスと私と他の多くの者たちが……ムーサエが他の誰よりも多く乳を与えたあのギリシア人とともにいる（Costoro e Persio e io e altri assai / …siam con quel Greco / che le Muse lattar più ch'altri mai）」──「あのギリシア人（quel Greco）」はホメロス（Homerus）：地獄篇第4歌でも「諸詩人の主（il maestro di color che sanno）」として言及されたアリストテレスに対応する「詩の主」。「le Muse lattar（ムーサエが乳を与えた）」という授乳の比喩がホメロスの詩的能力の神話的起源を示す。「ペルシウス（Persio）」はアウルス・ペルシウス・フラックス（34–62 AD）：ストア哲学的諷刺詩人。辺獄（Limbo）の住人として地獄篇第4歌で記述された詩人たちと今歌の一覧が詩的カタログとして完結する。",
+      "targetId": "dante_inferno_canto_4",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Euripide v'è nosco e Antifonte,\nSimonide, Agatone e altri piùe\nGreci che già di lauro ornar la fronte.\n\nQuivi si veggion de le genti tue\nAntigone, Deïfile e Argia,\ne Ismene sì trista come fue.",
+      "body": "「エウリピデスもわれらとともにおり、アンティフォン、シモニデス、アガトン……アンティゴネ、デイフィレ、アルギア、かつてのように悲しいイスメネも（Euripide v'è nosco e Antifonte, / Simonide, Agatone…Antigone, Deïfile e Argia, / e Ismene sì trista come fue）」──辺獄の詩人・劇作家・神話的女性のカタログ。「シモニデス（Simonide）」：ケオスのシモニデス（c.556–468 BC）──本コーパス収録詩人（simonides_ap_vii等）との直接的接続点。「アガトン（Agatone）」：プラトン『饗宴』の悲劇詩人。「アンティゴネ（Antigone）」：スタティウス『テーバイス』の主要人物として直接スタティウスの作品と繋がる。「イスメネ（Ismene）」：「かつてのように悲しい（sì trista come fue）」という形容が彼女の神話的感情状態を永続的な属性として定式化する。",
+      "targetId": "simonides_ap_vii_249",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Elli givan dinanzi, e io soletto\ndi retro, e ascoltava i lor sermoni,\nch'a poetar mi davano intelletto.",
+      "body": "「二人は前を歩き、私は一人後ろに、そして彼らの会話を聞いていた、それが詩を作ることへの知性を私に与えた（Elli givan dinanzi, e io soletto / di retro, e ascoltava i lor sermoni, / ch'a poetar mi davano intelletto）」──詩学の学びとしての聴取。「soletto（一人で）」という縮小形が孤立ではなく謙虚な見習い的な立場を示す。「a poetar mi davano intelletto（詩を作ることへの知性を私に与えた）」という告白がダンテ自身の詩学形成における先人への依存を示す：神曲そのものが「ウェルギリウスとスタティウスの会話を聞くこと」によって書かれたという詩学的寓意として読める。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Ma tosto ruppe le dolci ragioni\nun alber che trovammo in mezza strada,\ncon pomi a odorar soavi e buoni;",
+      "body": "「しかし間もなく甘い話を、道の中ほどで見つけた木が破った、香りよく甘い実を持つ木が（Ma tosto ruppe le dolci ragioni / un alber che trovammo in mezza strada, / con pomi a odorar soavi e buoni）」──詩的対話から倫理的試練への場面転換。「dolci ragioni（甘い話）」という形容が詩人たちの知的会話の質を示す一方で、「pomi a odorar soavi e buoni（香りよく甘い実）」という誘惑の木の登場が対比をなす：知的な甘さ（詩）と感覚的な甘さ（食物）の対置。逆さまの木（上が太く下が細い）という形状が禁断の木の比喩的表現：エデンの木の逆転として、罪の誘惑ではなく節制の教えの木として機能する。第4歌の黄金時代への参照と節制の主題の交差。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Poi disse: \"Più pensava Maria onde\nfosser le nozze orrevoli e intere,\nche a la sua bocca, ch'or per voi risponde.",
+      "body": "「マリアはより思っていた、婚宴が立派で完全なものとなるよう、今お前たちに答えているその口よりも（Più pensava Maria onde / fosser le nozze orrevoli e intere, / che a la sua bocca）」──ヨハネ2:1–11のカナの婚宴の奇跡。マリアがイエスに「彼らにはぶどう酒がない」と告げた場面：自分の口（飲食への欲求）より他者の必要（婚宴の完全性）を思うというマリアの節制・他者配慮が第6圏の節制の模範として提示される。「ch'or per voi risponde（今お前たちに答えている口）」という自己参照的表現が「木の声（voce per entro le fronde）」自身の口を指す：節制の木が節制の範例を語るという詩的一致。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "allusion",
+      "anchor": "E le Romane antiche, per lor bere,\ncontente furon d'acqua; e Danïello\ndispregiò cibo e acquistò savere.",
+      "body": "「古代のローマ女性たちは、飲み物として、水で満足していた；そしてダニエルは食べ物を軽蔑して知恵を得た（E le Romane antiche, per lor bere, / contente furon d'acqua; e Danïello / dispregiò cibo e acquistò savere）」──節制の古典的・聖書的範例の連続。「Romane antiche（古代のローマ女性たち）」は共和政期のローマ女性が水のみを飲んでいたという古代の伝承（ウァッレリウス・マクシムス等に記録）。「Danïello（ダニエル）」はダニエル書1:8–16の記述：バビロン捕囚中にダニエルが王の食卓の食物を断り、野菜と水で生き、神の知恵を与えられたという節制と知恵の連関。ヒエロニムスのウルガータにおける「Daniel（ダニエル）」物語への直接的参照。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Lo secol primo, quant'oro fu bello,\nfé savorose con fame le ghiande,\ne nettare con sete ogne ruscello.",
+      "body": "「最初の世紀、黄金がいかに美しかった時も、飢えで団栗を美味しくし、渇きですべての小川をネクタルにした（Lo secol primo, quant'oro fu bello, / fé savorose con fame le ghiande, / e nettare con sete ogne ruscello）」──黄金時代（aurea aetas）の節制の逆説。ウェルギリウス『牧歌』第4歌「Saturnia regna（サトゥルヌスの王国）」・ウェルギリウス『農耕詩』第1巻の黄金時代描写への参照：飢えと渇きという欠乏が逆説的に団栗と川水を「ネクタル」に変えるという節制の詩的定式。コヘレト第1章の「太陽の下の労苦（labor sub sole）」がここでは「飢えと渇きという労苦が美味しさを生む」という逆転的命題として変奏される。",
+      "targetId": "vergilius_eclogae_4",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 11,
+      "type": "allusion",
+      "anchor": "Mele e locuste furon le vivande\nche nodriro il Batista nel diserto;\nper ch'elli è glorïoso e tanto grande\n\nquanto per lo Vangelio v'è aperto\".",
+      "body": "「蜜と蝗蟲が食べ物だった、洗礼者を荒野で育てた食べ物；そのゆえに彼は栄えあり、それほど偉大なのだ、福音書においてお前たちに明かされているように（Mele e locuste furon le vivande / che nodriro il Batista nel diserto）」──マタイ3:4「ヨハネの食べ物は蝗蟲と野蜜であった」への参照。洗礼者ヨハネ（Giovanni Battista）の荒野での極端な節制が節制の最大の範例として歌の閉幕に置かれる：マリア（第一の範例）からヨハネ（最終範例）という聖書的な模範の連鎖が第6圏の節制の倫理を定式化する。ヒエロニムス訳の聖書テキスト（ヨハネ伝・黙示録等）との直接的接続点であり、VANITISMEコーパスにおける「受苦」の主題が統合される閉幕。",
+      "targetId": "hieronymus_ioannes_01",
+      "targetParagraphId": null
+    }
+  ]
+}
