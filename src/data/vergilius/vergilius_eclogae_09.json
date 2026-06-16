@@ -1,0 +1,234 @@
+{
+  "id": "vergilius_eclogae_9",
+  "title": "Eclogae — Ecloga IX",
+  "author": "Publius Vergilius Maro",
+  "source": "Eclogae vel Bucolica, Ecloga IX. Wikisource: https://la.wikisource.org/wiki/Eclogae_vel_bucolica/Ecloga_IX",
+  "year": "42–39 BC頃",
+  "firstPublication": "c. 37 BC（Eclogae全10歌として刊行）",
+  "difficulty": "中級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『牧歌』第9歌。全67行。リュキダス（Lycidas）とモエリス（Moeris）の道中の対話詩。第1歌の土地没収という政治的現実に直接回帰する詩であり、詩集の中で最も政治的緊張が高い作品の一つ。モエリスはメナルカスの農地が没収され、新しい所有者（退役兵士）のもとへ山羊を運んでいる途中である。詩集中で最も重要な詩学的命題「carmina tantum / nostra valent, Lycida, tela inter Martia, quantum / Chaonias dicunt aquila veniente columbas（わたしたちの詩は、リュキダスよ、マルスの武器の中では、鷹が来た時のカオニアの鳩ほどの力しかない）」（v.11–13）が、詩の無力性という主題を定式化する。詩集内の引用の詩学：モエリスとリュキダスがメナルカスの歌の断片を互いに引用し合う構造が、詩的記憶と伝承の危うさを示す──「Omnia fert aetas, animum quoque（時はすべてを奪う、精神さえも）」（v.51）という命題とともに。「Ecce Dionaei processit Caesaris astrum（見よ、ディオネの息子カエサルの星が現れた）」（v.47）はユリウス・カエサルの彗星（BC 44年、カエサル暗殺後に出現した彗星でカエサルの神格化の証とみなされた）への言及として重要な政治詩的証言。「lupi Moerim videre priores（狼がモエリスを先に見た）」（v.54）は声を奪う邪視の呪いの成句として古代から流通した。",
+  "keywords": [
+    "土地没収",
+    "詩の無力性",
+    "Moeris",
+    "Lycidas",
+    "Menalcas",
+    "記憶",
+    "カエサルの星",
+    "carmina",
+    "引用",
+    "政治詩"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_5",
+    "vergilius_eclogae_7",
+    "vergilius_eclogae_8",
+    "vergilius_eclogae_10"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1",
+      "speaker": "Lycidas",
+      "original": "Quo te, Moeri, pedes? An, quo via ducit, in urbem?",
+      "provisionalTranslation": "モエリスよ、お前の足はどこへ？それとも道が導く先、町へか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.2–6",
+      "speaker": "Moeris",
+      "original": "O Lycida, vivi pervenimus, advena nostri\n(quod numquam veriti sumus) ut possessor agelli\ndiceret: 'Haec mea sunt; veteres migrate coloni.'\nNunc victi, tristes, quoniam fors omnia versat,\nhos illi (quod nec vertat bene!) mittimus haedos.",
+      "provisionalTranslation": "おおリュキダスよ、生きてたどり着いた、われらの新参者が\n（われらが決して恐れなかったことだが）小さな農地の新しい所有者として\n言うまでに：「ここはわたしのものだ；古い農民よ、立ち去れ。」\n今は打ちのめされ、悲しく、運命がすべてを翻す以上、\nこれらの子山羊をあの者に（それがよく転ばないように！）送り届ける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.7–10",
+      "speaker": "Lycidas",
+      "original": "Certe equidem audieram, qua se subducere colles\nincipiunt mollique iugum demittere clivo,\nusque ad aquam et veteres, iam fracta cacumina, fagos,\nomnia carminibus vestrum servasse Menalcan.",
+      "provisionalTranslation": "確かにわたしは聞いていた、丘々が退き始める所から\n柔らかな斜面に峰を下げていくところ、\n水辺と古い、今はすでに梢が折れた、ブナの木々まで、\nすべてをお前たちのメナルカスが詩で守ったと。"
+    },
+    {
+      "id": 4,
+      "verses": "v.11–16",
+      "speaker": "Moeris",
+      "original": "Audieras, et fama fuit; sed carmina tantum\nnostra valent, Lycida, tela inter Martia, quantum\nChaonias dicunt aquila veniente columbas.\nQuod nisi me quacumque novas incidere litis\nante sinistra cava monuisset ab ilice cornix,\nnec tuos hic Moeris nec viveret ipse Menalcas.",
+      "provisionalTranslation": "聞いていた、そして噂もあった；しかしわたしたちの詩は\nリュキダスよ、マルスの武器の中では、\n鷹が来た時のカオニアの鳩ほどの力しかない。\nもしどこかで新しい訴訟を避けるよう\n空洞のイレックスの木から不吉な左のカラスが事前に告げなければ、\nここにお前のモエリスもメナルカス自身も生きてはいなかっただろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.17–22",
+      "speaker": "Lycidas",
+      "original": "Heu! Cadit in quemquam tantum scelus? Heu! Tua nobis\npaene simul tecum solacia rapta, Menalca?\nQuis caneret Nymphas? Quis humum florentibus herbis\nspargeret, aut viridi fontis induceret umbra?\nvel quae sublegi tacitus tibi carmina nuper,\ncum te ad delicias ferres Amaryllida nostras?",
+      "provisionalTranslation": "ああ！そのような罪業が誰かに降りかかるのか？ああ！お前の\n慰めがお前と共にほとんど奪われるところだったのか、メナルカスよ？\n誰がニュンファイを歌うだろうか？誰が地面を花咲く草で\n撒き散らし、あるいは緑の木陰を泉に運ぶだろうか？\nあるいは最近わたしがお前から黙って聞き取った詩を、\nお前がわれらの愛しいアマリュッリスのもとへ向かっていた時に？"
+    },
+    {
+      "id": 6,
+      "verses": "v.23–25",
+      "speaker": "Lycidas",
+      "original": "'Tityre, dum redeo (brevis est via) pasce capellas;\net potum pastas age, Tityre, et inter agendum\noccursare capro (cornu ferit ille) caveto.'",
+      "provisionalTranslation": "「ティテュルスよ、わたしが戻る間（道は短い）山羊たちを放牧せよ；\nそして飼い終わったら水飲み場に連れて行け、ティテュルスよ、そして連れて行く間に\n山羊の雄に出くわすな（あいつは角で突く）、気をつけよ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.26–29",
+      "speaker": "Moeris",
+      "original": "Immo haec quae Varo, necdum perfecta, canebat:\n'Vare, tuom nomen, superet modo Mantua nobis,\nMantua vae miserae nimium vicina Cremonae,\ncantantes sublime ferent ad sidera cycni.'",
+      "provisionalTranslation": "むしろこれを、まだ完成していないが、ウァルスのために歌っていた：\n「ウァルスよ、お前の名は、マントヴァさえわれらに残ってくれれば、\nマントヴァよ、哀れなクレモナに余りにも近い、\n歌う白鳥たちが高く星々へと運ぶだろう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.30–36",
+      "speaker": "Lycidas",
+      "original": "Sic tua Cyrneas fugiant examina taxos,\nsic cytiso pastae distendant ubera vaccae,\nincipe, si quid habes. Et me fecere poetam\nPierides; sunt et mihi carmina; me quoque dicunt\nvatem pastores: sed non ego credulus illis;\nnam neque adhuc Vario videor nec dicere Cinna\ndigna, sed argutos inter strepere anser olores.",
+      "provisionalTranslation": "こうしてお前の蜜蜂の群れがキュルノスのイチイから逃げ去り、\nこうしてキチシュスを食んだ牝牛たちが乳房を張らせるように、\n始めよ、何か持っているなら。ピエリデスもわたしを詩人にした；\nわたしにも詩がある；羊飼いたちもわたしを詩人と呼ぶ：\nしかしわたしはそれを信じない；\nというのもまだウァリウスにもキンナにも語るに値するものが\nないように思えるから、白鳥たちの間で喚くガチョウのように。"
+    },
+    {
+      "id": 9,
+      "verses": "v.37–43",
+      "speaker": "Moeris",
+      "original": "Id quidem ago et tacitus, Lycida, mecum ipse voluto,\nsi valeam meminisse; neque est ignobile carmen:\n'Huc ades, o Galatea: quis est nam ludus in undis?\nhic ver purpureum, varios hic flumina circum\nfundit humus flores; hic candida populus antro\nimminet et lentae texunt umbracula vites.\nHuc ades; insani feriant sine litora fluctus.'",
+      "provisionalTranslation": "それはしているし、黙ってリュキダスよ、わたし自身で思い巡らしている、\n覚えていられるなら；しかも卑しくない詩だ：\n「ここへ来い、おおガラテアよ：海の波では何の遊びがあるか？\nここには紫の春が、ここには川々の周りにさまざまな\n花々を地面が注ぎ出す；ここには白いポプラが洞窟に\n覆いかぶさり、しなやかな葡萄の蔓が木陰を織り成す。\nここへ来い；狂えしや波々を岸辺を打たせておけ。」"
+    },
+    {
+      "id": 10,
+      "verses": "v.44–50",
+      "speaker": "Lycidas",
+      "original": "Quid, quae te pura solum sub nocte canentem\naudieram? Numeros memini, si verba tenerem:\n'Daphni, quid antiquos signorum suspicis ortus?\nEcce Dionaei processit Caesaris astrum,\nastrum quo segetes gauderent frugibus et quo\nduceret apricis in collibus uva colorem.\nInsere, Daphni, piros: carpent tua poma nepotes.'",
+      "provisionalTranslation": "どうか、清らかな夜にお前が一人で歌っているのを\nわたしが聞いたあの詩は？節は覚えている、言葉を保っていれば：\n「ダプニスよ、なぜ星座の古い出没を見上げるのか？\n見よ、ディオネの息子カエサルの星が現れた、\nその星のもとで穀物が実りを喜び、そのもとで\n葡萄が日当たりのいい丘陵で色づくだろう。\nダプニスよ、梨の木を接ぎ木せよ：孫たちがお前の実を摘むだろう。」"
+    },
+    {
+      "id": 11,
+      "verses": "v.51–55",
+      "speaker": "Moeris",
+      "original": "Omnia fert aetas, animum quoque; saepe ego longos\ncantando puerum memini me condere soles:\nnunc oblita mihi tot carmina, vox quoque Moerim\niam fugit ipsa: lupi Moerim videre priores.\nSed tamen ista satis referet tibi saepe Menalcas.",
+      "provisionalTranslation": "時はすべてを奪う、精神さえも；かつてわたしは長い\n夏の日々を歌いながら少年として過ごしたのをよく覚えている：\n今はこれほど多くの詩がわたしから忘れられ、声もモエリスから\nすでに逃げ去っていく：狼がモエリスを先に見た。\nしかしそれでもあれらをメナルカスがお前にしばしば十分に語るだろう。"
+    },
+    {
+      "id": 12,
+      "verses": "v.56–61",
+      "speaker": "Lycidas",
+      "original": "Causando nostros in longum ducis amores.\nEt nunc omne tibi stratum silet aequor, et omnes,\naspice, ventosi ceciderunt murmuris aurae.\nHinc adeo media est nobis via; namque sepulcrum\nincipit apparere Bianoris. Hic, ubi densas\nagricolae stringunt frondis, hic, Moeri, canamus:",
+      "provisionalTranslation": "言い訳をしてわれらの望みを長引かせている。\n今やお前のためにあらゆる平面が静まり返っている、そしてすべての\n見よ、風のある囁きの風たちが止んでいる。\nここからまさにわれらの道の半ばだ；というのもビアノルスの\n墓が見え始めてきた。ここで、農夫たちが密な\n葉を刈り取るこの場所で、ここでモエリスよ、歌おう："
+    },
+    {
+      "id": 13,
+      "verses": "v.62–65",
+      "speaker": "Lycidas",
+      "original": "hic haedos depone, tamen veniemus in urbem.\nAut, si nox pluviam ne colligat ante veremur,\ncantantes licet usque (minus via laedit) eamus:\ncantantes ut eamus, ego hoc te fasce levabo.",
+      "provisionalTranslation": "ここで子山羊たちを下ろせ、それでも町には着くだろう。\nあるいは、もし夜が雨を集めないかと前もって心配するなら、\n歌いながらずっと行ってもいい（道が歌いながらだと傷まない）：\n歌いながら行くために、わたしがこの荷物でお前を楽にしてやろう。"
+    },
+    {
+      "id": 14,
+      "verses": "v.66–67",
+      "speaker": "Moeris",
+      "original": "Desine plura, puer, et quod nunc instat agamus.\nCarmina tum melius, cum venerit ipse, canemus.",
+      "provisionalTranslation": "もうやめよ、少年よ、そして今差し迫っていることをしよう。\n詩はその時の方がよく歌えるだろう、彼自身が来た時に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quo te, Moeri, pedes? An, quo via ducit, in urbem?",
+      "body": "「モエリスよ、お前の足はどこへ？それとも道が導く先、町へか？（Quo te, Moeri, pedes? An, quo via ducit, in urbem?）」──詩集中最も簡潔な開口部の一つ（一行の問い）。「pedes（足）」という身体的な語が旅と移動という詩のテーマを即座に示す。「quo via ducit（道が導く先）」という表現が道を自律的な主体として提示する擬人法：第1歌「la diritta via（真の道）」というダンテ的「道」の概念の遠い先行形。「in urbem（町へ）」という目的地が第1歌の「Romam…videndi（ローマを見に行く）」のティテュルスとの対比を生む：あちらは自発的な上京、こちらは強制的な。モエリスの名前はギリシア語「μοῖρα（運命）」に由来するとも言われ、詩の政治的テーマと共鳴する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "O Lycida, vivi pervenimus, advena nostri\n(quod numquam veriti sumus) ut possessor agelli\ndiceret: 'Haec mea sunt; veteres migrate coloni.'",
+      "body": "「おおリュキダスよ、生きてたどり着いた、われらの新参者が……小さな農地の新しい所有者として言うまでに：『ここはわたしのものだ；古い農民よ、立ち去れ』（O Lycida, vivi pervenimus, advena nostri / …ut possessor agelli / diceret: 'Haec mea sunt; veteres migrate coloni.')」──土地没収という政治的現実の詩的記録。「vivi pervenimus（生きてたどり着いた）」という表現が生存の奇跡を示す：死も想定していたほどの危機。「advena（新参者）」という語が第1歌の「invasit（侵入した）」と連動する：退役兵士という外来者による土地の強奪。「veteres migrate coloni（古い農民よ、立ち去れ）」の直接話法が追放命令の冷たい即時性を示す：三語の命令文が世代にわたる農業的絆の全否定として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nunc victi, tristes, quoniam fors omnia versat,\nhos illi (quod nec vertat bene!) mittimus haedos.",
+      "body": "「今は打ちのめされ、悲しく、運命がすべてを翻す以上、これらの子山羊をあの者に（それがよく転ばないように！）送り届ける（Nunc victi, tristes, quoniam fors omnia versat, / hos illi (quod nec vertat bene!) mittimus haedos）」──「fors omnia versat（運命がすべてを翻す）」という格言的表現が政治的暴力を宇宙的な運命論で包む：個人の不幸が盲目的な「フォルス（偶然・運命）」の作用として理解される。「quod nec vertat bene（それがよく転ばないように！）」という括弧内の呪い的な希望が詩の唯一の反抗的身振りとして機能する：公然と反抗できない農民の無力な内心の呪いの詩的表現。コヘレト第9章v.11「時と機会はすべての者に臨む」という偶然の支配との思想的照応。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "omnia carminibus vestrum servasse Menalcan.",
+      "body": "「すべてをお前たちのメナルカスが詩で守ったと（omnia carminibus vestrum servasse Menalcan）」──詩の政治的保護能力への信念の表明。「carminibus（詩によって）」という手段の奪格が詩を法的・政治的手段と同等に位置づける：詩が土地の権利証書として機能するという楽観的な信念。「vestrum Menalcan（お前たちのメナルカス）」という所有格が詩人と農民共同体の帰属関係を示す：詩人は個人的な存在ではなく共同体の代弁者・守護者。この信念は次のモエリスの発言（v.11–13）によって直ちに打ち砕かれる：詩の無力性という悲劇的認識への序章として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "sed carmina tantum\nnostra valent, Lycida, tela inter Martia, quantum\nChaonias dicunt aquila veniente columbas.",
+      "body": "「わたしたちの詩は、リュキダスよ、マルスの武器の中では、鷹が来た時のカオニアの鳩ほどの力しかない（carmina tantum / nostra valent, Lycida, tela inter Martia, quantum / Chaonias dicunt aquila veniente columbas）」──詩集全体で最も重要な詩学的命題の一つ。詩の政治的無力性を比喩で定式化する。「tela inter Martia（マルスの武器の中では）」：戦争・政治的暴力という文脈。「Chaonias…columbas（カオニアの鳩）」：エペイロスのカオニア地方のドドナ神殿の鳩は予言の鳥として神聖視されていた；その聖なる鳩でさえ鷹が来れば無力。詩人（鳩）対権力（鷹）という対立が簡潔な比喩に凝縮される。T・S・エリオット「詩が世界を変えることはできない」という近代的詩学的悲観主義の古代的定式として広く引用される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Quod nisi me quacumque novas incidere litis\nante sinistra cava monuisset ab ilice cornix,\nnec tuos hic Moeris nec viveret ipse Menalcas.",
+      "body": "「もしどこかで新しい訴訟を避けるよう空洞のイレックスの木から不吉な左のカラスが事前に告げなければ、ここにお前のモエリスもメナルカス自身も生きてはいなかっただろう（Quod nisi me quacumque novas incidere litis / ante sinistra cava monuisset ab ilice cornix）」──鳥占い（auspicium）による救済の語り。「sinistra…cornix（不吉な左のカラスが）」：ローマの鳥占いでは左側の鳥が不吉な前兆とされた；しかしここでは「不吉な」前兆が実際には危険を回避させる「良い」警告として機能する逆説。「cava…ilice（空洞のイレックス）」という樹木の具体的描写が予言の場所の神聖さを暗示する：空洞の木は霊的な通路として古代信仰で扱われた。詩の無力性と鳥の予言力という対比が、詩より自然の兆候が現実に有効であるという皮肉を生む。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Heu! Cadit in quemquam tantum scelus? Heu! Tua nobis\npaene simul tecum solacia rapta, Menalca?\nQuis caneret Nymphas? Quis humum florentibus herbis\nspargeret, aut viridi fontis induceret umbra?",
+      "body": "「ああ！そのような罪業が誰かに降りかかるのか？ああ！お前の慰めがお前と共にほとんど奪われるところだったのか、メナルカスよ？誰がニュンファイを歌うだろうか？（Heu! Cadit in quemquam tantum scelus? Heu! Tua nobis / paene simul tecum solacia rapta, Menalca? / Quis caneret Nymphas?）」──「Heu（ああ）」の二重感嘆が感情的頂点を形成する。「tantum scelus（そのような罪業）」という語の選択が土地没収を法的・道徳的な罪として告発する：単なる政治的決定ではなく道徳的犯罪。「Quis caneret Nymphas?（誰がニュンファイを歌うだろうか？）」という修辞的問いが詩人の代替不可能性を示す：メナルカスなき世界では特定の歌（ニュンファイへの賛歌・草花の散布等）が失われるという文化的喪失の問い。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "'Tityre, dum redeo (brevis est via) pasce capellas;\net potum pastas age, Tityre, et inter agendum\noccursare capro (cornu ferit ille) caveto.'",
+      "body": "「ティテュルスよ、わたしが戻る間（道は短い）山羊たちを放牧せよ（Tityre, dum redeo (brevis est via) pasce capellas）」──メナルカスの歌の断片の引用。「brevis est via（道は短い）」という括弧内注記が詩の中の詩として機能する：メナルカスの声がリュキダスの引用として間接的に登場する多重的な詩的フレーム。第1歌の「Tityre（ティテュルス）」への呼びかけが詩集の最初の言葉を反響する：第9歌が第1歌に回帰するという詩集的な循環構造。「cornu ferit ille（あいつは角で突く）」という具体的な警告が牧歌的日常の実用的知識として詩に埋め込まれる：高尚な詩学と牧歌的実用性の共存。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "'Vare, tuom nomen, superet modo Mantua nobis,\nMantua vae miserae nimium vicina Cremonae,\ncantantes sublime ferent ad sidera cycni.'",
+      "body": "「ウァルスよ、お前の名は、マントヴァさえわれらに残ってくれれば、マントヴァよ、哀れなクレモナに余りにも近い、歌う白鳥たちが高く星々へと運ぶだろう（Vare, tuom nomen, superet modo Mantua nobis, / Mantua vae miserae nimium vicina Cremonae, / cantantes sublime ferent ad sidera cycni）」──政治的文脈の中でのウァルスへの詩的献辞。「Mantua vae miserae nimium vicina Cremonae（マントヴァよ、哀れなクレモナに余りにも近い）」──クレモナはブルートゥス支持都市として土地没収の最初の対象となった：マントヴァへの被害の波及を「近さ」の地理的事実として詩的に嘆く。「cantantes…cycni（歌う白鳥たちが）」──詩人たちが白鳥（Aves Apollinis）として定式化される：ウァルスへの讃歌が詩人集団全体の行為として提示される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Et me fecere poetam\nPierides; sunt et mihi carmina; me quoque dicunt\nvatem pastores: sed non ego credulus illis;\nnam neque adhuc Vario videor nec dicere Cinna\ndigna, sed argutos inter strepere anser olores.",
+      "body": "「ピエリデスもわたしを詩人にした；わたしにも詩がある；羊飼いたちもわたしを詩人と呼ぶ：しかしわたしはそれを信じない；というのもまだウァリウスにもキンナにも語るに値するものがないように思えるから、白鳥たちの間で喚くガチョウのように（Et me fecere poetam / Pierides…sed argutos inter strepere anser olores）」──リュキダスの詩的謙遜（recusatio）の典型的表現。「Varius（ウァリウス）」・「Cinna（キンナ）」は当時のローマの著名な詩人：彼らを基準に自らの詩の低さを測る。「argutos inter strepere anser olores（白鳥たちの間で喚くガチョウ）」──ガチョウ対白鳥という動物比喩が詩の質の差異を聴覚的に定式化する：第6歌の「arguta…fistula（鳴り響く笛）」の「argutus」と同じ語根が、ここでは否定的な文脈で使用される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "'Huc ades, o Galatea: quis est nam ludus in undis?\nhic ver purpureum, varios hic flumina circum\nfundit humus flores; hic candida populus antro\nimminet et lentae texunt umbracula vites.\nHuc ades; insani feriant sine litora fluctus.'",
+      "body": "「ここへ来い、おおガラテアよ：海の波では何の遊びがあるか？ここには紫の春が……（Huc ades, o Galatea: quis est nam ludus in undis? / hic ver purpureum…）」──メナルカスの歌の断片の二番目の引用。「Galatea（ガラテア）」への呼びかけが第3歌・第7歌のガラテアを反響する。「hic（ここ）」の三重反復（hic ver / hic flumina / hic populus）が牧歌的場所の豊穣を列挙するアナフォラとして機能する：海（危険・運動）に対する陸（安全・静寂）という二項対立。「insani feriant sine litora fluctus（狂えしや波々を岸辺を打たせておけ）」──「insani（狂えし）」という形容詞が海の無秩序な暴力を示す：政治的嵐（土地没収）と自然の嵐の照応として読める。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Ecce Dionaei processit Caesaris astrum,\nastrum quo segetes gauderent frugibus et quo\nduceret apricis in collibus uva colorem.\nInsere, Daphni, piros: carpent tua poma nepotes.",
+      "body": "「見よ、ディオネの息子カエサルの星が現れた、その星のもとで穀物が実りを喜び……ダプニスよ、梨の木を接ぎ木せよ：孫たちがお前の実を摘むだろう（Ecce Dionaei processit Caesaris astrum…Insere, Daphni, piros: carpent tua poma nepotes）」──ユリウス・カエサルの彗星（BC 44年、カエサル暗殺後の葬儀の際に出現した彗星；オクタウィアヌスによってカエサルの魂の星座への昇天と宣伝された）への言及。「Dionaei Caesaris（ディオネの息子カエサル）」：ディオネはウェヌスの母；カエサルはウェヌスの子孫を自称したユリウス氏族の出身であることを示す神話的系譜。「Insere, Daphni, piros: carpent tua poma nepotes（ダプニスよ、梨の木を接ぎ木せよ：孫たちがお前の実を摘むだろう）」──未来世代への農業的贈り物という長い時間軸：現在の土地没収という短期的暴力と対照をなす長期的農業的視点。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Omnia fert aetas, animum quoque; saepe ego longos\ncantando puerum memini me condere soles:\nnunc oblita mihi tot carmina, vox quoque Moerim\niam fugit ipsa: lupi Moerim videre priores.",
+      "body": "「時はすべてを奪う、精神さえも（Omnia fert aetas, animum quoque）」──詩集全体で最も引用される格言的表現の一つ。コヘレト第1章v.11「先のことどもの記憶はない（Non est priorum memoria）」との思想的照応：記憶の消滅という普遍的テーマ。「lupi Moerim videre priores（狼がモエリスを先に見た）」──ラテン語の成句：「狼に先に見られた者は声を失う」という古代の迷信；先手を打つ者が力を持つというより広い含意も持つ。詩的記憶（carmina oblita）と声の喪失（vox fugit）が政治的暴力の内面化された影響として示される：土地を奪われただけでなく詩（文化的記憶）も奪われるという詩人の二重の喪失。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Causando nostros in longum ducis amores.\nEt nunc omne tibi stratum silet aequor, et omnes,\naspice, ventosi ceciderunt murmuris aurae.",
+      "body": "「言い訳をしてわれらの望みを長引かせている。今やお前のためにあらゆる平面が静まり返っている、そしてすべての見よ、風のある囁きの風たちが止んでいる（Causando nostros in longum ducis amores. / Et nunc omne tibi stratum silet aequor, et omnes, / aspice, ventosi ceciderunt murmuris aurae）」──自然の静寂による歌の勧誘。「Causando（言い訳をして）」という動名詞がモエリスの謙遜・拒否に対するリュキダスの穏やかな批判として機能する。「stratum silet aequor（平面が静まり返っている）」・「ventosi ceciderunt murmuris aurae（風のある囁きの風たちが止んでいる）」──自然の静寂が歌の条件として示される：嵐が止んだ平和な瞬間に詩が生まれるという牧歌的詩学。「aspice（見よ）」という命令が自然の変化への注意を促す：第4歌の「aspice convexo nutantem pondere mundum（見よ、丸い重みに揺れる世界を）」との照応。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "hic haedos depone, tamen veniemus in urbem.\nAut, si nox pluviam ne colligat ante veremur,\ncantantes licet usque (minus via laedit) eamus:\ncantantes ut eamus, ego hoc te fasce levabo.",
+      "body": "「ここからまさにわれらの道の半ばだ；というのもビアノルスの墓が見え始めてきた（Hinc adeo media est nobis via; namque sepulcrum / incipit apparere Bianoris）」──道の半ばという空間的設定。「sepulcrum Bianoris（ビアノルスの墓）」：ビアノルスはマントヴァの伝説的建設者とも言われる；その墓が道の標識として登場することで、詩全体の歴史的・地理的リアリズムが確立される。第7歌の「Mincius（ミンキウス川）」と同様に、マントヴァ周辺の具体的な地名・記念碑が牧歌的空間に実在の地理を重ね合わせる。「hic…hic…hic（ここで……ここで……ここで）」の三重反復が場所の特定と歌の招待を強調するアナフォラとして機能する。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Desine plura, puer, et quod nunc instat agamus.\nCarmina tum melius, cum venerit ipse, canemus.",
+      "body": "「もうやめよ、少年よ、そして今差し迫っていることをしよう。詩はその時の方がよく歌えるだろう、彼自身が来た時に（Desine plura, puer, et quod nunc instat agamus. / Carmina tum melius, cum venerit ipse, canemus）」──詩集中最も謎めいた閉幕句の一つ。「Desine plura（もうやめよ）」は第8歌ダモンの「Desine Maenalios, iam desine, tibia, versus」を反響する：詩的沈黙への命令が詩集の閉幕に向かって繰り返される。「cum venerit ipse（彼自身が来た時に）」──「ipse（彼自身）」が誰を指すかは詩の最大の解釈問題：メナルカス（詩人自身）の帰還？オクタウィアヌスの到来？神（メシア）の到来（第4歌との関連）？「tum melius canemus（その時の方がよく歌えるだろう）」という未来形が詩の可能性の延期として機能する：現在は詩を歌う条件が整っていない、という政治的沈黙の詩的宣言。第10歌（最終歌）への橋渡しとして、詩集全体の閉幕への準備を整える。"
+    }
+  ]
+}
