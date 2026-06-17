@@ -1,0 +1,173 @@
+{
+  "id": "vergilius_aeneis_4_dido_mors",
+  "title": "Aeneis — Liber IV, Mors Didonis (v.642–705)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber IV, v.642–705. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_IV. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "29–19 BC頃",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第4巻、ディードの自死の場面。前段（v.584–641）でアンナと乳母バルケーへ偽りの説明を与えたディードは、薪台に登り、アエネアスが残した剣（ダルダニアの剣）を取り、トロイアの衣と寝床を見て最後の言葉を述べた後、剣で自らを貫く。「Dulces exuviae（甘い形見の品）」（v.651）という呼びかけが、第8牧歌アルフェシボエウスの「has olim exuvias（これらの形見の品）」という呪術的形見の語彙と直接共鳴する：愛の対象が残した物への呼びかけが牧歌とアエネーイスを横断する。ディードの最後の言葉「moriemur inultae, / sed moriamur（われらは報復されずに死ぬだろう、しかし死のう）」（v.659–660）は、呪詛（前ファイル）が実現するまで待てないという絶望の加速を示す。妹アンナの嘆き（v.672–685）、ディードの三度の起き上がりと三度の倒れ（v.690–692、「Ter sese attollens…ter revoluta」）という儀礼的な三回反復、そして女神ユーノーがイリスを送ってディードの魂を解放する場面（v.693–705）が、神的な慈悲と運命の苦悩との緊張を閉幕として提示する。ダンテ『地獄篇』第5歌の色欲の圏（ディードが筆頭格として登場）の詩的背景。",
+  "keywords": [
+    "Dido",
+    "自死",
+    "exuviae",
+    "Iris",
+    "Iuno",
+    "Proserpina",
+    "魂の解放",
+    "Anna",
+    "rogus",
+    "悲劇"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_4_dido_maledictio",
+    "vergilius_eclogae_8",
+    "dante_inferno_canto_1",
+    "hieronymus_iob_1",
+    "weil_la_violence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.642–649",
+      "speaker": "Narrator",
+      "original": "Sīc ait. Īlla gradum studiō celebrābat anīlī.\nAt trepida et coeptīs immānibus effera Dīdō\nsanguineam uoluēns aciem, maculīsque trementīs\ninterfūsa genās et pallida morte futūrā,\ninteriōra domūs inrumpit līmina et altōs\ncōnscendit furibunda rogōs ēnsemque reclūdit\nDardanium, nōn hōs quaesītum mūnus in ūsūs.\nHīc, postquam Īliacās uestīs nōtumque cubīle\ncōnspexit, paulum lacrimīs et mente morāta",
+      "provisionalTranslation": "そう言った。彼女は老いた女の熱意で歩みを早めた。\nしかし不安で恐ろしい企てに荒々しくなったディードは、\n血走った視線を巡らせ、震える斑点が\n頬に広がり、来るべき死で青ざめながら、\n家の内側の敷居に押し入り、高い\n薪台に狂乱して登り、ダルダニアの剣を\n抜く、こうした用途のために求められたのではない贈り物を。\nここで、トロイアの衣と見慣れた寝床を\n見つめた後、しばらく涙と思いに留まり"
+    },
+    {
+      "id": 2,
+      "verses": "v.650–658",
+      "speaker": "Dido",
+      "original": "incubuitque torō dīxitque nouissima uerba:\n'Dulcēs exuuiae, dum fāta deusque sinēbat,\naccipite hanc animam mēque hīs exsoluite cūrīs.\nUīxī et quem dederat cursum Fortūna perēgī,\net nunc magna meī sub terrās ībit imāgō.\nUrbem praeclāram statuī, mea moenia uīdī,\nulta uirum poenās inimīcō ā frātre recēpī,\nfēlīx, heu nimium fēlīx, sī lītora tantum\nnumquam Dardaniae tetigissent nostra carīnae.'",
+      "provisionalTranslation": "寝床に身を伏せ、最後の言葉を言った：\n「甘い形見の品々よ、運命と神がそれを許していた間、\nこの魂を受け取り、わたしをこれらの心配から解き放て。\nわたしは生きた、そして運命が与えた道筋を遂げた、\nそして今わたしの偉大な姿は地下へと行くだろう。\n輝かしい都市を建て、わたしの城壁を見た、\n夫の報復を、敵対する兄から受けて遂げた、\n幸いだった、ああ余りに幸いだった、もしダルダニアの船の\n竜骨がわれらの岸辺に決して触れなかったなら。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.659–662",
+      "speaker": "Dido",
+      "original": "Dīxit, et ōs impressa torō 'Moriēmur inultae,\nsed moriāmur' ait. 'Sīc, sīc iuuat īre sub umbrās.\nHauriat hunc oculīs ignem crūdēlis ab altō\nDardanus, et nostrae sēcum ferat ōmina mortis.'",
+      "provisionalTranslation": "彼女は言った、そして口を寝床に押し当てて「われらは報復されずに死ぬだろう、\nしかし死のう」と言った。「そうだ、そうだ、影の下へ行くことが心地よい。\n残酷なダルダニア人は遠くからこの火を目に\n飲み込み、われらの死の前兆を自分と共に持っていくがいい。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.663–666",
+      "speaker": "Narrator",
+      "original": "Dīxerat, atque illam media inter tālia ferrō\ncōnlāpsam aspiciunt comitēs, ēnsemque cruōre\nspūmantem sparsāsque manūs. It clāmor ad alta\nātria: concussam bacchātur Fāma per urbem.",
+      "provisionalTranslation": "彼女はそう言った、そしてそのような言葉の最中に剣で\n崩れ落ちた彼女を侍女たちが見る、血で\n泡立つ剣と、撒き散らされた手を。叫び声が高い\n殿堂へと上る：揺さぶられた町中を噂が狂奔して走る。"
+    },
+    {
+      "id": 5,
+      "verses": "v.667–671",
+      "speaker": "Narrator",
+      "original": "Lāmentīs gemitūque et fēmineō ululātū\ntēcta fremunt, resonat magnīs plangōribus aethēr,\nnōn aliter quam sī immissīs ruat hostibus omnis\nKarthāgō aut antīqua Tyros, flammaeque furentēs\nculmina perque hominum uoluantur perque deōrum.",
+      "provisionalTranslation": "嘆きと呻きと女たちの叫びで\n屋根がざわめき、大気は大きな悲嘆の声で響く、\nあたかも侵入した敵によってカルタゴ全体が\nあるいは古いテュロスが崩れ落ち、狂暴な炎が\n人間の屋根を通り神々の屋根を通り渦巻くかのように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.672–678",
+      "speaker": "Narrator",
+      "original": "Audiit exanimīs trepidōque exterrita cursū\nunguibus ōra soror foedāns et pectora pugnīs\nper mediōs ruit, ac morientem nōmine clāmat:\n'Hoc illud, germāna, fuit? Mē fraude petēbās?\nHoc rogus iste mihī, hoc ignēs āraeque parābant?\nQuid prīmum dēserta querar? Comitemne sorōrem\nsprēuistī moriēns?",
+      "provisionalTranslation": "息を失った妹はそれを聞き、恐怖に怯えた走りで\n爪で顔を傷つけ拳で胸を打ちながら\n人々の中を駆け抜け、死にゆく者を名で呼んだ：\n「これがそうだったのか、姉よ？お前はわたしを欺こうとしていたのか？\nこの薪台がわたしのために、この火と祭壇がそれを準備していたのか？\n見捨てられて何を最初に嘆くべきか？同行する妹を\n死にながら拒んだのか？"
+    },
+    {
+      "id": 7,
+      "verses": "v.678–684",
+      "speaker": "Anna",
+      "original": "Eadem mē ad fāta uocassēs,\nīdem ambās ferrō dolor atque eadem hōra tulisset.\nHīs etiam strūxī manibus patriōsque uocāuī\nuōce deōs, sīc tē ut positā, crūdēlis, abessem?\nĒxstinxtī tē mēque, soror, populumque patrēsque\nSīdoniōs urbemque tuam. Date, uulnera lymphīs\nabluam et, extrēmus sī quis super hālitus errat,",
+      "provisionalTranslation": "同じ運命へお前はわたしを呼ぶべきだった、\n同じ苦痛が剣で両者を、同じ時刻が連れて行くべきだった。\nこれらの手でわたしは薪台を築き、父祖の\n神々を声で呼んだ、お前がそこに置かれた時にわたしが不在であるように、残酷な者よ？\nお前はお前自身とわたしを滅ぼした、姉よ、そして民と父祖たちを\nシドンの者たちとお前の都市を。水を、傷を\nわたしが洗えるように、そしてもし何か最後の息が上を漂っているなら、"
+    },
+    {
+      "id": 8,
+      "verses": "v.685–689",
+      "speaker": "Narrator",
+      "original": "ōre legam.' Sīc fāta gradūs ēuāserat altōs,\nsēmianimemque sinū germānam amplexa fouēbat\ncum gemitū atque ātrōs siccābat ueste cruōrēs.\nIlla grauīs oculōs cōnāta attollere rūrsus\ndēficit; īnfīxum strīdit sub pectore uulnus.",
+      "provisionalTranslation": "それを口で受け取ろう。」そう言いながら高い階段を上り終えた、\n半ば息のない姉を胸に抱きしめて温めながら\n呻きと共に、暗い血を衣で乾かしていた。\n彼女は重い目を再び上げようと試みて\n力尽きる；刺さった傷が胸の下で音を立てる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.690–692",
+      "speaker": "Narrator",
+      "original": "Ter sēsē attollēns cubitōque adnīxa leuāuit,\nter reuolūta torō est oculīsque errantibus altō\nquaesīuit caelo lūcem ingemuitque repertā.",
+      "provisionalTranslation": "三度自らを起こし、肘に支えられて立ち上がろうとした、\n三度寝床に倒れ込み、彷徨う目で高い\n天に光を求め、見出して嘆いた。"
+    },
+    {
+      "id": 10,
+      "verses": "v.693–699",
+      "speaker": "Narrator",
+      "original": "Tum Iūnō omnipotēns longum misērata dolōrem\ndifficilīsque obitūs Īrim dēmīsit Olympō\nquae luctantem animam nexōsque resolueret artūs.\nNam quia nec fātō meritā nec morte perībat,\nsed misera ante diem subitōque accensa furōre,\nnōndum illī flauum Prōserpina uertice crīnem\nabstulerat Stygiōque caput damnāuerat Orcō.",
+      "provisionalTranslation": "その時全能のユーノーは長い苦悩を憐れみ、\n困難な死を憐れみ、イリスをオリュンポスから送った、\n苦闘する魂と絡み合った四肢を解くために。\nというのも彼女は運命によっても当然の死によっても滅びるのではなく、\n哀れにも時を待たずに突然の狂気で燃え上がって死ぬのだから、\nまだプロセルピナは彼女の頭から黄金の\n髪を奪っておらず、ステュクスのオルクスに頭を委ねていなかった。"
+    },
+    {
+      "id": 11,
+      "verses": "v.700–705",
+      "speaker": "Narrator",
+      "original": "Ergō Īris croceīs per caelum roscida pennīs\nmīlle trahēns uariōs aduersō sōle colōrēs\ndēuolat et suprā caput astitit. 'Hunc ego Dītī\nsacrum iussa ferō tēque istō corpore soluō':\nsīc ait et dextrā crīnem secat, omnis et ūnā\ndīlāpsus calor atque in uentōs uīta recessit.",
+      "provisionalTranslation": "それゆえイリスはサフラン色の露を帯びた翼で天を通り、\n太陽に向かって千の様々な色を引きながら\n舞い降り、頭の上に立った。「この捧げ物をわたしはディースに\n命じられて運ぶ、そしてお前をその身体から解く」：\nそう言って右手で髪を切る、そして同時にすべての\n体温が崩れ去り、命は風の中へと退いた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "sanguineam uoluēns aciem, maculīsque trementīs\ninterfūsa genās et pallida morte futūrā,",
+      "body": "「血走った視線を巡らせ、震える斑点が頬に広がり、来るべき死で青ざめながら（sanguineam volvens aciem, maculisque trementis / interfusa genas et pallida morte futura）」──ディードの身体的変容の詩的描写。「pallida morte futura（来るべき死で青ざめる）」という表現が、まだ生きているディードの身体に死の徴候（青白さ）が既に現れていることを示す：未来の死が現在の身体に前もって刻印される逆説的な時間構造。第1巻の壁画でペンテシレイアが「ardet（燃え立つ）」と描写されたのに対し、ここでのディードは血走った視線と青白さという対照的な色彩で死へと向かう。",
+      "targetId": "vergilius_aeneis_1_lacrimae",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "'Dulcēs exuuiae, dum fāta deusque sinēbat,\naccipite hanc animam mēque hīs exsoluite cūrīs.",
+      "body": "「甘い形見の品々よ、運命と神がそれを許していた間、この魂を受け取り、わたしをこれらの心配から解き放て（Dulces exuviae, dum fata deusque sinebat, / accipite hanc animam meque his exsolvite curis）」──第8牧歌アルフェシボエウスの呪文「Has olim exuvias mihi perfidus ille reliquit（これらの形見の品をかつてあの不誠実な者はわたしに残した）」との直接的な語彙的反響（exuviae）。両者の違いが重要：牧歌のアルフェシボエウスは形見を使ってダプニスを呼び戻す呪術を行うが、ディードは同じ語（exuviae）を使って形見に自らの死を「受け取って」もらうことを求める──呪術的召喚（牧歌）と死の委託（アエネーイス）という正反対の機能を同じ詩的語彙が担う。",
+      "targetId": "vergilius_eclogae_8",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "fēlīx, heu nimium fēlīx, sī lītora tantum\nnumquam Dardaniae tetigissent nostra carīnae.'",
+      "body": "「幸いだった、ああ余りに幸いだった、もしダルダニアの船の竜骨がわれらの岸辺に決して触れなかったなら（felix, heu nimium felix, si litora tantum / numquam Dardaniae tetigissent nostra carinae）」──反実仮想による幸福の遡及的否定。「felix…heu nimium felix（幸いだった……ああ余りに幸いだった）」という反復が、最初の「felix」（単純な過去の幸福の確認）と二度目の「heu nimium felix」（その幸福が「過剰」であり、ゆえに脆弱だったという認識）の間の感情的転換を一行で実現する。コヘレト的な「あったかもしれない幸福」への遡及的執着──実現しなかった反実仮想の世界（アエネアスが来なかった世界）への憧憬が、ディードの最後の言葉の倫理的・感情的核心を形成する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dīxit, et ōs impressa torō 'Moriēmur inultae,\nsed moriāmur' ait. 'Sīc, sīc iuuat īre sub umbrās.",
+      "body": "「われらは報復されずに死ぬだろう、しかし死のう（Moriemur inultae, / sed moriamur）」──前段の長大な呪詛（v.584–629）が要求した「報復（ultor）」が実現する前にディードは死を選ぶという詩的緊張。「inultae（報復されずに）」という一語が呪詛の未完成性を認識しながらも死を急ぐ絶望の加速を示す。「Sic, sic iuvat ire sub umbras（そうだ、そうだ、影の下へ行くことが心地よい）」──「sic」の二重反復（epizeuxis）が自己説得的な決意の高まりを音楽的に表現する。「iuvat（心地よい）」という快楽の語が死への欲動を逆説的な喜びとして提示する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Audiit exanimīs trepidōque exterrita cursū\nunguibus ōra soror foedāns et pectora pugnīs\nper mediōs ruit, ac morientem nōmine clāmat:",
+      "body": "「息を失った妹はそれを聞き、恐怖に怯えた走りで爪で顔を傷つけ拳で胸を打ちながら人々の中を駆け抜け、死にゆく者を名で呼んだ（Audiit exanimis trepidoque exterrita cursu / unguibus ora soror foedans et pectora pugnis / per medios ruit）」──アンナの身体的悲嘆の儀礼的描写。「unguibus ora foedans（爪で顔を傷つける）」・「pectora pugnis（拳で胸を打つ）」という古代地中海の哀悼の身体的慣習（自傷的な嘆きの儀礼）：ヨブ記第1章「衣を裂き、頭を剃り、地に倒れ伏した」という悲嘆の身体的表現との人類学的・文学的並行性。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Hīs etiam strūxī manibus patriōsque uocāuī\nuōce deōs, sīc tē ut positā, crūdēlis, abessem?",
+      "body": "「これらの手でわたしは薪台を築き、父祖の神々を声で呼んだ、お前がそこに置かれた時にわたしが不在であるように、残酷な者よ？（His etiam struxi manibus patriosque vocavi / voce deos, sic te ut posita, crudelis, abessem?）」──アンナの自己責問の劇的アイロニー：自分の手で（無自覚に）姉の葬送の薪台を実際に築いていたという事実への遅れた認識。「crudelis（残酷な者よ）」という呼びかけがディードに向けられる：愛する者への非難と哀悼が同時に表現される修辞的複雑性。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Ter sēsē attollēns cubitōque adnīxa leuāuit,\nter reuolūta torō est oculīsque errantibus altō\nquaesīuit caelo lūcem ingemuitque repertā.",
+      "body": "「三度自らを起こし……三度寝床に倒れ込み……天に光を求め、見出して嘆いた（Ter sese attollens…ter revoluta toro est…quaesivit caelo lucem ingemuitque reperta）」──「ter…ter（三度……三度）」という儀礼的反復数（三）による死の引き延ばされた苦闘の詩的演出。「ingemuitque reperta（見出して嘆いた）」という逆説：光を見出すことが喜びではなく嘆きを引き起こす──生への意志と死への意志の間で引き裂かれた身体の最後の抵抗。この三重反復は後の煉獄篇等における儀礼的数（三位一体・三重唱）の古代的先行形として、数の象徴性が死の場面に適用される稀有な例。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "Nam quia nec fātō meritā nec morte perībat,\nsed misera ante diem subitōque accensa furōre,",
+      "body": "「というのも彼女は運命によっても当然の死によっても滅びるのではなく、哀れにも時を待たずに突然の狂気で燃え上がって死ぬのだから（Nam quia nec fato merita nec morte peribat, / sed misera ante diem subitoque accensa furore）」──自死の神学的・運命論的位置づけ。「nec fato…nec morte（運命によっても……死によっても）」という二重否定が、ディードの死が「自然な」運命の秩序に属さないことを示す：自死は運命の外部にある例外的な死として扱われる。この区別が、プロセルピナ（冥界の女王）がまだディードの髪を切っていない（v.698、髪を切ることが冥界への正式な引き渡しの儀礼）という次の段落の説明を準備する：自死者の魂は通常の死の手続きから逸脱しているため、特別な神的介入（イリス）を必要とする。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "'Hunc ego Dītī\nsacrum iussa ferō tēque istō corpore soluō':\nsīc ait et dextrā crīnem secat,",
+      "body": "「この捧げ物をわたしはディースに命じられて運ぶ、そしてお前をその身体から解く（Hunc ego Diti / sacrum iussa fero teque isto corpore solvo）」──イリスの宣言と髪を切る行為。「Diti（ディースに）」──ディース（プルートー、冥界の王）への捧げ物としてディードの命が定義される。「crinem secat（髪を切る）」という行為が古代の犠牲儀礼（生物の毛髪を切ることで神への捧げ物を完成させる）を反映する：髪の切断が魂の解放と冥界への正式な引き渡しを同時に成立させる象徴的行為。「omnis et una / dilapsus calor atque in ventos vita recessit（すべての体温が崩れ去り、命は風の中へと退いた）」という詩の最終句が、生命を「熱（calor）」として定義し、その消散を「風（venti）」への還元として描く：物質的・元素的な死の概念化。"
+    }
+  ]
+}
