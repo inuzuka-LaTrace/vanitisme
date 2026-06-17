@@ -1,0 +1,140 @@
+{
+  "id": "vergilius_aeneis_1_lacrimae",
+  "title": "Aeneis — Liber I, Sunt lacrimae rerum (v.453–493)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber I, v.453–493. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_I. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第1巻、カルタゴのユーノー神殿でアエネアスがトロイア戦争を描いた壁画を見る場面。アエネアスは難破の後カルタゴに漂着し、女王ディードが建設中の神殿の壁画にトロイア戦争の場景（アガメムノン・プリアモス・アキッレス・レーソス王のテント・トロイルス・ヘクトル・ペンテシレイア）が描かれているのを発見する。「Sunt lacrimae rerum et mentem mortalia tangunt（事物には涙があり、死すべきものは心に触れる）」（v.462）は西洋文学史において多く引用される一行であり、芸術が苦しみを記憶し他者の心を動かす力への根本的な省察として機能する。「animum pictura pascit inani（空虚な絵で心を養う）」という逆説的表現が、芸術的表象（虚構）が現実の感情的滋養を与えるという美学的問いを開く。この場面はVANITISMEの中心的主題（vanitas・芸術による苦悩の表象・涙の形而上学）と直接共鳴し、コヘレトの「omnia vanitas」・ヴェイユの「affliction」概念と深い思想的連続性を持つ。トロイルスの死（v.474–478）・ヘクトルの遺体売買（v.483–484）・アマゾネスの女王ペンテシレイア（v.490–493）という三つの悲劇的場面が壁画内のクライマックスを形成する。",
+  "keywords": [
+    "Sunt lacrimae rerum",
+    "vanitas",
+    "ekphrasis",
+    "壁画",
+    "Dido",
+    "Troilus",
+    "Hector",
+    "Penthesilea",
+    "芸術と苦悩",
+    "animum pictura pascit"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_1_prooemium",
+    "vergilius_aeneis_4_dido",
+    "vergilius_eclogae_3",
+    "hieronymus_ecclesiastes_1",
+    "weil_accepter_le_vide",
+    "weil_la_violence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.453–458",
+      "speaker": "Narrator",
+      "original": "Namque sub ingentī lustrat dum singula templō,\nrēgīnam opperiēns, dum, quae fortūna sit urbī,\nartificumque manūs intrā sē operumque labōrem\nmīrātur, videt Īliacās ex ōrdine pugnās,\nbellaque iam fāmā tōtum vulgāta per orbem,\nAtrīdās, Priamumque, et saevum ambōbus Achillem.",
+      "provisionalTranslation": "というのも、巨大な神殿の中で一つ一つを見て回りながら、\n女王を待ちながら、この都市がどのような運命にあるか、\n職人たちの手の技と作品の労苦を心の中で\n驚嘆している間、彼はトロイアの戦いを順々に見る、\nすでに名声によって全世界に広まった戦争を、\nアトレウスの子らを、プリアモスを、そして両者にとって残忍なアキッレスを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.459–465",
+      "speaker": "Aeneas",
+      "original": "Cōnstitit, et lacrimāns, 'Quis iam locus' inquit 'Achātē,\nquae regiō in terrīs nostrī non plēna labōris?\nĒn Priamus! Sunt hīc etiam sua praemia laudī;\nsunt lacrimae rērum et mentem mortālia tangunt.\nSolve metūs; feret haec aliquam tibi fāma salūtem.'\nSīc ait, atque animum pictūrā pāscit inānī,\nmulta gemēns, largōque ūmectat flūmine vultum.",
+      "provisionalTranslation": "彼は立ち止まり、涙しながら言った：「もうどこにアカーテースよ、\nどの地域が地上にわれらの労苦に満ちていないだろうか？\n見よ、プリアモスが！ここにさえも誉れへのその報いがある；\n事物には涙があり、死すべきものは心に触れる。\n恐れを解け；この評判は何らかの救いをお前にもたらすだろう。」\nそう言って、空虚な絵で心を養う、\n多く呻きながら、豊かな流れで顔を濡らしながら。"
+    },
+    {
+      "id": 3,
+      "verses": "v.466–473",
+      "speaker": "Narrator",
+      "original": "Namque vidēbat, utī bellantēs Pergama circum\nhāc fugerent Grāī, premeret Trōiāna iuventūs,\nhāc Phryges, īnstāret currū cristātus Achillēs.\nNec procul hinc Rhēsī niveīs tentōria vēlīs\nadgnōscit lacrimāns, prīmō quae prōdita somnō\nTӯdīdēs multā vastābat caede cruentus,\nārdentīsque āvertit equōs in castra, prius quam\npābula gustāssent Trōiae Xanthumque bibissent.",
+      "provisionalTranslation": "というのも彼は見ていた、ペルガマの周りで戦いながら\nこちらではギリシア人たちが逃げ、トロイアの若者たちが追い、\nあちらではプリュギア人たちが、冠毛のアキッレスが戦車で迫っているのを。\nここから遠くないところに、レーソスの雪のように白い帆布のテントを\n涙しながら認める、最初の眠りの中で裏切られ\nテューデウスの子が多くの血まみれの殺戮で荒らしていたものを、\nそして燃えるような馬たちを陣営へと連れ去った、まだそれらが\nトロイアの飼料を味わわず、クサントス川を飲まないうちに。"
+    },
+    {
+      "id": 4,
+      "verses": "v.474–478",
+      "speaker": "Narrator",
+      "original": "Parte aliā fugiēns āmissīs Trōilus armīs,\nīnfēlīx puer atque impār congressus Achillī,\nfertur equīs, currūque haeret resupīnus inānī,\nlōra tenēns tamen; huic cervīxque comaeque trahuntur\nper terram, et versā pulvis inscrībitur hastā.",
+      "provisionalTranslation": "別の場所では、武器を失って逃げるトロイルス、\n不幸な少年、アキッレスとの不釈り合いな対戦をして、\n馬たちに引かれ、空の戦車に仰向けにしがみつき、\nそれでも綱を握っている；彼の首と髪が\n地面を引かれ、逆さにした槍で塵に文字が刻まれる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.479–484",
+      "speaker": "Narrator",
+      "original": "Intereā ad templum nōn aequae Palladis ībant\ncrīnibus Īliadēs passīs peplumque ferēbant,\nsuppliciter trīstēs et tūnsae pectora palmīs;\ndīva solō fīxōs oculōs āversa tenēbat.\nTer circum Īliacōs raptāverat Hectora mūrōs,\nexanimumque aurō corpus vendēbat Achillēs.",
+      "provisionalTranslation": "その間、公平でないパラスの神殿へ向かって\nトロイアの女たちが髪を乱して衣を運んでいた、\n哀願するように悲しみ、手で胸を打ちながら；\n女神は目を地面に固定し、顔をそむけたままにしていた。\n三度トロイアの城壁の周りをヘクトルを引きずり回し、\n息絶えた体を黄金で売っていた、アキッレスは。"
+    },
+    {
+      "id": 6,
+      "verses": "v.485–489",
+      "speaker": "Narrator",
+      "original": "Tum vērō ingentem gemitum dat pectore ab īmō,\nut spolia, ut currūs, utque ipsum corpus amīcī,\ntendentemque manūs Priamum cōnspexit inermīs.\nSē quoque prīncipibus permixtum adgnōvit Achīvīs,\nĒōāsque aciēs et nigrī Memnonis arma.",
+      "provisionalTranslation": "その時まことに胸の底から大きな呻きを発する、\n戦利品を、戦車を、そして友の体そのものを見て、\n武器も持たず手を差し伸べるプリアモスを目にした時。\n自分自身もギリシアの将軍たちに混じっているのを認めた、\nそして東方の戦列と黒きメムノンの武具も。"
+    },
+    {
+      "id": 7,
+      "verses": "v.490–493",
+      "speaker": "Narrator",
+      "original": "Dūcit Amāzonidum lūnātīs agmina peltīs\nPenthesilēa furēns, mediīsque in mīlibus ārdet,\naurea subnectēns exsertae cingula mammae,\nbellātrīx, audetque virīs concurrere virgō.",
+      "provisionalTranslation": "月形の小盾を持つアマゾネスの隊列を率いる、\n狂えるペンテシレイアが、幾千の兵の真ん中で燃え立つ、\n露出した乳房に黄金の帯を締めながら、\n女戦士、そして乙女でありながら男たちと戦うことを敢えてする。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "artificumque manūs intrā sē operumque labōrem\nmīrātur, videt Īliacās ex ōrdine pugnās,",
+      "body": "「職人たちの手の技と作品の労苦を心の中で驚嘆している間（artificumque manus intra se operumque laborem / miratur）」──エクフラシス（ekphrasis、芸術作品の詩的記述）の準備。「labor（労苦）」という語が職人の制作労苦と、これから描かれる戦争の労苦（後の「nostri…laboris」v.460）を語彙的に繋ぐ：芸術制作の労苦と戦争の労苦が同じ語で表現される。「videt…ex ordine（順々に見る）」という表現が壁画の場面が時間的・空間的に順序立てて配置されていることを示す：絵画という静的メディアの中に叙事詩的な時間の流れが埋め込まれている逆説。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Ēn Priamus! Sunt hīc etiam sua praemia laudī;\nsunt lacrimae rērum et mentem mortālia tangunt.",
+      "body": "「見よ、プリアモスが！ここにさえも誉れへのその報いがある；事物には涙があり、死すべきものは心に触れる（En Priamus! Sunt hic etiam sua praemia laudi; / sunt lacrimae rerum et mentem mortalia tangunt）」──西洋文学史上最も引用されるラテン語詩行の一つ。「sunt lacrimae rerum（事物には涙がある）」の解釈は二様：①「事物（出来事）に対する涙がある（人間が事物を悲しんで涙する）」、②「事物自体に内在する涙がある（事物そのものが涙を含む、より強い解釈）」。後者の解釈ではトロイア滅亡という出来事自体が形而上学的な「涙」の性質を持つとされ、ヴァニタス的世界観──事物それ自体に虚無・悲しみが内在する──との深い共鳴を持つ。「mentem mortalia tangunt（死すべきものは心に触れる）」──「mortalia（死すべきもの・人間的な事柄）」が普遍的な人間的共感の根拠として提示される：異国の地（カルタゴ）で異邦人（アエネアス）が見知らぬ職人の作った壁画に涙する、という普遍的共感の詩的証明。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sīc ait, atque animum pictūrā pāscit inānī,\nmulta gemēns, largōque ūmectat flūmine vultum.",
+      "body": "「そう言って、空虚な絵で心を養う、多く呻きながら、豊かな流れで顔を濡らしながら（Sic ait, atque animum pictura pascit inani, / multa gemens, largoque umectat flumine vultum）」──「animum pictura pascit inani（空虚な絵で心を養う）」という逆説的表現が詩行の哲学的核心。「pascit（養う）」という動詞が通常は身体的滋養（食物）に使われる語を精神的・感情的な滋養に転用する：芸術的表象という「空虚（inanis）」なもの（実体のない絵）が現実の感情的な「養い」を与えるという美学的逆説。「inani（空虚な）」という形容詞がコヘレト的「vanitas」と語根的・概念的に共鳴する：絵画は「空虚」だが、そこから生まれる涙は「現実」である。芸術の存在論的地位（虚構と現実の境界）への深い省察。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Parte aliā fugiēns āmissīs Trōilus armīs,\nīnfēlīx puer atque impār congressus Achillī,",
+      "body": "「別の場所では、武器を失って逃げるトロイルス、不幸な少年、アキッレスとの不釈り合いな対戦をして（Parte alia fugiens amissis Troilus armis, / infelix puer atque impar congressus Achilli）」──トロイルス（Troilus）はプリアモス王の末息子：ホメロスでは簡潔に言及されるのみだが、後代の伝説でアキッレスに殺された美少年として詩的に拡大された人物。「infelix puer（不幸な少年）」という形容がウェルギリウスの少年への共感的視線を示す：第5牧歌の「formosi pecoris custos formosior ipse（美しい群れの番人、それよりも美しい者自身）」というダプニスへの美的・哀悼的視線との詩学的連続性。「impar congressus（不釈り合いな対戦）」という表現が少年と英雄アキッレスの間の絶望的な不均衡を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "lōra tenēns tamen; huic cervīxque comaeque trahuntur\nper terram, et versā pulvis inscrībitur hastā.",
+      "body": "「それでも綱を握っている；彼の首と髪が地面を引かれ、逆さにした槍で塵に文字が刻まれる（lora tenens tamen; huic cervixque comaeque trahuntur / per terram, et versa pulvis inscribitur hasta）」──「pulvis inscribitur hasta（槍で塵に文字が刻まれる）」という驚異的な視覚的詩行。「inscribitur（文字が刻まれる）」という動詞が、引かれる死体の軌跡を「書くこと（inscribere）」として定義する逆説的なエクフラシス：死そのものが地面に「書かれた文字」として残される。死と書字行為の同一化というモティーフが、ブランショ的「死とエクリチュールの隣接性」の古代的先行形として読める。トロイルスの最後の身振り「lora tenens tamen（それでも綱を握っている）」という抵抗の微細な身体的描写が悲劇性を最大化する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "dīva solō fīxōs oculōs āversa tenēbat.\nTer circum Īliacōs raptāverat Hectora mūrōs,\nexanimumque aurō corpus vendēbat Achillēs.",
+      "body": "「女神は目を地面に固定し、顔をそむけたままにしていた。三度トロイアの城壁の周りをヘクトルを引きずり回し、息絶えた体を黄金で売っていた、アキッレスは（diva solo fixos oculos aversa tenebat. / Ter circum Iliacos raptaverat Hectora muros, / exanimumque auro corpus vendebat Achilles）」──パラス・アテナ（ミネルヴァ）の「顔をそむける（aversa）」という拒絶の身振りがトロイアの女たちの祈りの無力性を示す：神の不在・無関心という神学的問題。「Ter circum…raptaverat（三度引きずり回した）」──ヘクトルの遺体冒涜（ホメロス『イーリアス』第22巻）。「exanimum…corpus vendebat（息絶えた体を売っていた）」──遺体の金銭的取引という非人間化の極限：プリアモスがヘクトルの遺体を黄金で買い戻す（『イーリアス』第24巻）という物語の経済的次元が一行に凝縮される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Dūcit Amāzonidum lūnātīs agmina peltīs\nPenthesilēa furēns, mediīsque in mīlibus ārdet,",
+      "body": "「月形の小盾を持つアマゾネスの隊列を率いる、狂えるペンテシレイアが、幾千の兵の真ん中で燃え立つ（Ducit Amazonidum lunatis agmina peltis / Penthesilea furens, mediisque in milibus ardet）」──壁画描写の閉幕を飾るアマゾネスの女王ペンテシレイア。「furens（狂える）」という形容がペンテシレイアの戦闘的情熱を示す：第2牧歌・第6牧歌の「dementia（狂気）」という詩集的ライトモチーフが、ここでは恋の狂気ではなく戦の狂気として変奏される。「ardet（燃え立つ）」という動詞が後の第4巻でディードを描写する際の中心的動詞（「uritur infelix Dido」）の先取りとして機能する：壁画のペンテシレイアという「燃える女性戦士」のイメージが、これから登場するディードという「燃える女王」を予告する構造的伏線。",
+      "targetId": "vergilius_aeneis_4_dido",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "bellātrīx, audetque virīs concurrere virgō.",
+      "body": "「女戦士、そして乙女でありながら男たちと戦うことを敢えてする（bellatrix, audetque viris concurrere virgo）」──壁画記述の最終行。「bellatrix（女戦士）」と「virgo（乙女）」という二つの名詞が並置されることで、ジェンダー規範の転覆（女性でありながら戦う）という驚異が最後の語「virgo」で強調的に閉じられる：詩行末の位置に置かれた「virgo」が壁画全体の最後の視覚的印象として機能する。この場面がアエネアスの涙の対象（v.459–465）から最も遠い、英雄的・崇高な戦闘美の最終イメージとして詩的エクフラシスを締める。"
+    }
+  ]
+}
