@@ -1,0 +1,190 @@
+{
+  "id": "vergilius_aeneis_6_descensus",
+  "title": "Aeneis — Liber VI, Facilis Descensus (v.98–155)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.98–155. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、クマエのシビュラ（Sibylla Cumaea）の神殿での場面。アエネアスがアポッロの神託を受けたシビュラに、亡き父アンキーセスに会うため冥界へ下ることを願う。シビュラの答え「facilis descensus Averno（アウェルヌスへの下降は容易だ）」（v.126）は西洋文化圏で最も広く流通した格言の一つであり、罪・堕落・破滅への道の容易さと、そこからの帰還の困難さを対比的に定式化する。「sed revocare gradum superasque evadere ad auras, / hoc opus, hic labor est（しかし足を引き返し上の大気へ脱出すること、これが仕事、これが労苦だ）」という二行が、コヘレト的「sub sole labor（太陽の下の労苦）」の地下的・冥界的変容として読める。黄金の枝（aureus ramus）という条件──プロセルピナへの捧げ物として必要な不思議な枝──が下降の儀礼的前提条件として提示され、運命（fata）による許可なしには手折ることができないという神学的限定が付される。「facilis（容易な）」と「labor（労苦）」の対比は、ダンテ『神曲』全体の構造（地獄への下降は比較的速いが、煉獄の上昇・天国への到達には長い時間と労苦を要する）の古典的母型として機能する。",
+  "keywords": [
+    "Sibylla Cumaea",
+    "facilis descensus Averno",
+    "黄金の枝",
+    "aureus ramus",
+    "Proserpina",
+    "Orpheus",
+    "Pollux",
+    "冥界",
+    "Avernus",
+    "labor"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_elysium",
+    "vergilius_aeneis_6_animae_1",
+    "vergilius_aeneis_6_marcellus",
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_22",
+    "hieronymus_ecclesiastes_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.98–101",
+      "speaker": "Narrator",
+      "original": "Tālibus ex adytō dictīs Cūmaea Sibylla\nhorrendās canit ambāgēs antrōque remūgit,\nobscūrīs uēra inuoluēns: ea frēna furentī\nconcutit et stimulōs sub pectore uertit Apollō.",
+      "provisionalTranslation": "このような言葉で聖所の奥からクマエのシビュラは\n恐ろしい謎を歌い、洞窟に響き渡らせる、\n真実を暗闇に包みながら：その狂える者に手綱を\n揺さぶり、胸の下で刺し棒を回す、アポッロが。"
+    },
+    {
+      "id": 2,
+      "verses": "v.102–109",
+      "speaker": "Narrator",
+      "original": "Ut prīmum cessit furor et rabida ōra quiērunt,\nincipit Aenēās hērōs: 'Nōn ūlla labōrum,\nō uirgō, noua mī faciēs inopīnaue surgit;\nomnia praecēpī atque animō mēcum ante perēgī.\nŪnum ōrō: quandō hīc īnfernī īanua rēgis\ndīcitur et tenebrōsa palūs Acheronte refūsō,\nīre ad cōnspectum cārī genitōris et ōra\ncontingat; doceās iter et sacra ōstia pandās.",
+      "provisionalTranslation": "狂気が初めて退き、激しい口が静まった時、\n英雄アエネアスは始める：「労苦のいかなる\n新しい姿も思いがけない姿も、おお乙女よ、わたしには立ち上がらない；\nすべてをわたしは予見し、心の中で前もって自ら遂行した。\n一つだけ願う：ここに地下の王の門があると\n言われ、アケロンが溢れ出る暗い沼があると言われるから、\n愛しい父の眼前へ、その顔へと\n行くことが叶うように；道を教え、聖なる入口を開いてくれ。"
+    },
+    {
+      "id": 3,
+      "verses": "v.110–117",
+      "speaker": "Aeneas",
+      "original": "Illum ego per flammās et mīlle sequentia tēla\nēripuī hīs umerīs mediōque ex hoste recēpī;\nille meum comitātus iter maria omnia mēcum\natque omnīs pelagīque minās caelīque ferēbat,\ninualidus, uīrīs ultrā sortemque senectae.\nQuīn, ut tē supplex peterem et tua līmina adīrem,\nīdem ōrāns mandāta dabat. Gnātīque patrisque,\nalma, precor, miserēre",
+      "provisionalTranslation": "彼をわたしは炎と千の追って来る矢の中を\nこの肩で救い出し、敵の真ん中から取り戻した；\n彼はわたしの旅に同行し、すべての海をわたしと共に\nそしてすべての海と天の脅威を担った、\n力なく、老齢の力と運命を超えて。\nそれどころか、わたしがお前に懇願し、お前の敷居に近づくよう、\n同じ彼が祈りながら命令を与えていた。子と父への\n憐れみを、慈しみ深き者よ、わたしは願う"
+    },
+    {
+      "id": 4,
+      "verses": "v.117–123",
+      "speaker": "Aeneas",
+      "original": "(potes namque omnia, nec tē\nnēquīquam lūcīs Hecatē praefēcit Auernīs),\nsī potuit mānīs accersere coniugis Orpheus\nThrēiciā frētus citharā fidibusque canōrīs,\nsī frātrem Pollūx alternā morte redēmit\nitque reditque uiam totiēns. Quid Thēsea, magnum\nquid memorem Alcīdēn? Et mī genus ab Ioue summō.'",
+      "provisionalTranslation": "（というのもお前はすべてができるから、そしてヘカテが\n無駄にお前をアウェルヌスの森の支配者としたわけではないから）、\nもしオルペウスが妻の霊を呼び出すことができたなら、\nトラキアの琴と歌う弦に頼って、\nもしポッルクスが交互の死で兄弟を贖い、\nその道を何度も行き来するなら。テーセウスを、偉大な\nアルキデスを何のために思い出そうか？わたしの血統も至高のユーピテルから来ている。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.124–128",
+      "speaker": "Narrator",
+      "original": "Tālibus ōrābat dictīs ārāsque tenēbat,\ncum sīc orsa loquī uātēs: 'Sate sanguine dīuum,\nTrōs Anchīsiadē, facilis dēscēnsus Auernō:\nnoctēs atque diēs patet ātrī iānua Dītis;\nsed reuocāre gradum superāsque ēuādere ad aurās,",
+      "provisionalTranslation": "このような言葉で懇願し、祭壇を抱いていた、\nその時巫女はこのように語り始めた：「神々の血から生まれた者よ、\nアンキーセスの子トロイア人よ、アウェルヌスへの下降は容易だ：\n夜も昼も暗いディースの門は開いている；\nしかし足を引き返し上の大気へ脱出すること、"
+    },
+    {
+      "id": 6,
+      "verses": "v.129–135",
+      "speaker": "Sibylla",
+      "original": "hoc opus, hic labor est. Paucī, quōs aequus amāuit\nIuppiter aut ārdēns ēuēxit ad aethera uirtūs,\ndīs genitī potuēre. Tenent media omnia siluae,\nCōcȳtūsque sinū lābēns circumuenit ātrō.\nQuod sī tantus amor mentī, sī tanta cupīdō est\nbis Stygiōs innāre lacūs, bis nigra uidēre\nTartara, et īnsāno iuuat indulgēre labōrī,",
+      "provisionalTranslation": "これが仕事、これが労苦だ。少数の者、公平なユーピテルが\n愛した者、あるいは燃える美徳が天へと運んだ者、\n神々から生まれた者たちだけがそれができた。中間のすべてを森が占め、\nコキュトスが暗い湾曲で流れながら取り囲んでいる。\nしかしもし心にそれほどの愛があり、それほどの欲望が\nステュクスの湖を二度泳ぎ渡り、二度黒い\nタルタロスを見ることにあり、狂気の労苦に身を委ねることが心地よいなら、"
+    },
+    {
+      "id": 7,
+      "verses": "v.136–141",
+      "speaker": "Sibylla",
+      "original": "accipe quae peragenda prius. Latet arbore opācā\naureus et foliīs et lentō uīmine rāmus,\nIūnōnī īnfernae dictus sacer; hunc tegit omnis\nlūcus et obscūrīs claudunt conuallibus umbrae.\nSed nōn ante datur tellūris operta subīre\nauricomōs quam quis dēcerpserit arbore fētūs.",
+      "provisionalTranslation": "まず遂行すべきことを聞け。暗い木に隠れている、\n葉も柔軟な蔓も黄金の枝が、\n地下のユーノーに聖なるものと言われている；これを覆う全ての\n森があり、暗い谷間に影が閉ざしている。\nしかし大地の覆われた場所に入ることは許されない、\n誰かが木から黄金の髪の実を摘み取るまでは。"
+    },
+    {
+      "id": 8,
+      "verses": "v.142–148",
+      "speaker": "Sibylla",
+      "original": "Hoc sibi pulchra suum ferrī Prōserpina mūnus\nīnstituit. Prīmō āuulsō nōn dēficit alter\naureus, et similī frondēscit uirga metallō.\nErgō altē uestīgā oculīs et rīte repertum\ncarpe manū; namque ipse uolēns facilisque sequētur,\nsī tē fāta uocant; aliter nōn uīribus ūllīs\nuincere nec dūrō poteris conuellere ferrō.",
+      "provisionalTranslation": "これを美しいプロセルピナは自分への贈り物として\n運ばれるよう定めた。最初のものが摘み取られると、別の\n黄金の枝が欠けることなく、同じ金属で若枝が葉を出す。\nだから高く目で探し、正しく見出したものを\n手で摘み取れ；というのも、もし運命がお前を呼ぶなら、\n枝自身が望んで容易に従うだろう；そうでなければどんな力でも\n打ち勝つことも堅い鉄で引き抜くこともできないだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.149–155",
+      "speaker": "Sibylla",
+      "original": "Praetereā iacet exanimum tibi corpus amīcī\n(heu nescīs) tōtamque incestat fūnere classem,\ndum cōnsulta petis nostrōque in līmine pendēs.\nSēdibus hunc refer ante suīs et conde sepulcrō.\nDūc nigrās pecudēs; ea prīma piācula suntō.\nSīc dēmum lūcōs Stygis et rēgna inuia uīuīs\naspiciēs.' Dīxit, pressōque obmūtuit ōre.",
+      "provisionalTranslation": "さらに、お前の友の息絶えた体が横たわっている\n（ああ、お前は知らない）、そして葬られぬまま船団全体を穢している、\nお前が神託を求めわれらの敷居にぶら下がっている間に。\nまず彼をその場所に戻し、墓に納めよ。\n黒い家畜を連れて来い；それが最初の贖罪の供物であるように。\nそうしてはじめてステュクスの森と生者には通れぬ\n王国を見るだろう。」彼女は言い、口を閉ざして黙った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "horrendās canit ambāgēs antrōque remūgit,\nobscūrīs uēra inuoluēns:",
+      "body": "「恐ろしい謎を歌い、洞窟に響き渡らせる、真実を暗闇に包みながら（horrendas canit ambages antroque remugit, / obscuris vera involvens）」──神託の本質的な不透明性の定式化。「ambages（謎・回り道の言葉）」という語が神的真理の伝達における必然的な迂回性を示す：真実は直接には語られず、必ず「暗闇に包まれて（obscuris involvens）」現れる。「remugit（牛のように吼える・響き渡る）」という動詞が洞窟の音響的な恐ろしさを動物的な咆哮として描写する：人間の言語を超えた神的な発声。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ea frēna furentī\nconcutit et stimulōs sub pectore uertit Apollō.",
+      "body": "「その狂える者に手綱を揺さぶり、胸の下で刺し棒を回す、アポッロが（ea frena furenti / concutit et stimulos sub pectore vertit Apollo）」──「frena（手綱）」と「stimulos（刺し棒）」という二つの馬術的比喩がシビュラの神的所有（possessio）の身体的暴力性を示す：神が人間の身体を馬のように操る。第2牧歌・第6牧歌の「dementia（狂気）」の系譜と「furenti（狂える者）」が語根的に連動する一方、ここでの「狂気」は恋の狂気ではなく神的霊感の狂気（furor divinus）として位置づけられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Nōn ūlla labōrum,\nō uirgō, noua mī faciēs inopīnaue surgit;\nomnia praecēpī atque animō mēcum ante perēgī.",
+      "body": "「労苦のいかなる新しい姿も思いがけない姿もわたしには立ち上がらない；すべてをわたしは予見し、心の中で前もって自ら遂行した（Non ulla laborum, / o virgo, nova mi facies inopinave surgit; / omnia praecepi atque animo mecum ante peregi）」──アエネアスの英雄的な先見性と心理的準備の宣言。「praecepi（前もって把握した）」という動詞が、ストア派的な「予期（praesumptio）」の哲学的概念──未来の苦難を心の中で前もって経験することで実際の苦難への動揺を防ぐという実践──を反映する。コヘレト的な「太陽の下に新しいものは何もない」という循環的同一性の認識と部分的に共鳴しながら、ここでは諦念ではなく英雄的な準備の姿勢として提示される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ille meum comitātus iter maria omnia mēcum\natque omnīs pelagīque minās caelīque ferēbat,\ninualidus, uīrīs ultrā sortemque senectae.",
+      "body": "「彼はわたしの旅に同行し、すべての海をわたしと共にそしてすべての海と天の脅威を担った、力なく、老齢の力と運命を超えて（ille meum comitatus iter maria omnia mecum / atque omnis pelagique minas caelique ferebat, / invalidus, viris ultra sortemque senectae）」──父アンキーセスへの哀切な讃美。「invalidus（力なく）」という形容詞が老いた父の身体的脆弱性を強調しながら、「viris ultra sortemque senectae（老齢の力と運命を超えて）」という表現がその脆弱な身体が運命の限界を超えて耐えたことを称賛する：逆説的な強さの定義。地獄篇第1歌でアエネアスが「umeris confectum aetate parentem（年老いた父を肩に背負った）」者として言及される場面と同一の親への敬愛（pietas）の主題系。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "sī potuit mānīs accersere coniugis Orpheus\nThrēiciā frētus citharā fidibusque canōrīs,",
+      "body": "「もしオルペウスが妻の霊を呼び出すことができたなら、トラキアの琴と歌う弦に頼って（si potuit manis accersere coniugis Orpheus / Threicia fretus cithara fidibusque canoris）」──オルペウス・エウリュディケ神話への参照。アエネアスが自らの冥界下りの先例としてオルペウスを引用することは、後にエウリュディケを完全には連れ戻せなかったオルペウスの「失敗」を暗示する詩的アイロニーを含む：先例として挙げられた者が実は不完全な成功（あるいは失敗）の例であるという伏線。第5牧歌・第6牧歌で確立された「歌の力が自然や死を超える」というオルペウス的詩学のモチーフが、ここで叙事詩的な冥界下りの神話的正当化として再利用される。",
+      "targetId": "vergilius_eclogae_6",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "sī frātrem Pollūx alternā morte redēmit\nitque reditque uiam totiēns.",
+      "body": "「もしポッルクスが交互の死で兄弟を贖い、その道を何度も行き来するなら（si fratrem Pollux alterna morte redemit / itque reditque viam totiens）」──カストルとポッルクスの神話（ディオスクロイ）：不死のポッルクスが死すべき兄カストルと交互に冥界と天界を往来することを選んだという伝説。「itque reditque（行き来する）」という動詞の反復が往復運動そのものを音韻的に模倣する。アエネアスが引用する三つの先例（オルペウス・ポッルクス・テーセウス／ヘルクレス）が、いずれも完全な勝利ではなく部分的・条件的な冥界往来の例であることが、シビュラの直後の返答「facilis descensus（下降は容易）」という冷静な現実認識との対比を準備する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "'Sate sanguine dīuum,\nTrōs Anchīsiadē, facilis dēscēnsus Auernō:\nnoctēs atque diēs patet ātrī iānua Dītis;",
+      "body": "「神々の血から生まれた者よ、アンキーセスの子トロイア人よ、アウェルヌスへの下降は容易だ：夜も昼も暗いディースの門は開いている（Sate sanguine divum, / Tros Anchisiade, facilis descensus Averno: / noctes atque dies patet atri ianua Ditis）」──西洋文化圏で最も広く流通したラテン語格言の一つ「facilis descensus Averno（アウェルヌスへの下降は容易だ）」の初出。「noctes atque dies patet（夜も昼も開いている）」という表現が冥界の門の恒常的な開放性を示す：罪・堕落への道はいつでも誰にでも開かれているという倫理的・神学的教訓として中世以降広く解釈された。ダンテ『地獄篇』全体（地獄への下降が比較的短期間で完了する）の構造的母型。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "sed reuocāre gradum superāsque ēuādere ad aurās,\nhoc opus, hic labor est.",
+      "body": "「しかし足を引き返し上の大気へ脱出すること、これが仕事、これが労苦だ（sed revocare gradum superasque evadere ad auras, / hoc opus, hic labor est）」──「facilis descensus」と対をなす詩集中最重要の格言的対句。「hoc opus, hic labor est（これが仕事、これが労苦だ）」という反復的強調（「hoc」「hic」の指示代名詞の重ね）が、下降の容易さと上昇の困難さの非対称性を修辞的に確定する。コヘレト第1章の「sub sole labor（太陽の下の労苦）」という地上的労苦の概念が、ここでは地下からの帰還という最も困難な「労苦」へと極限化される：堕落は容易だが回復は至難であるという倫理的命題が、ダンテ『神曲』の煉獄上昇（長く困難）と地獄下降（速い）の構造的非対称性の古典的源泉となる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Paucī, quōs aequus amāuit\nIuppiter aut ārdēns ēuēxit ad aethera uirtūs,\ndīs genitī potuēre.",
+      "body": "「少数の者、公平なユーピテルが愛した者、あるいは燃える美徳が天へと運んだ者、神々から生まれた者たちだけがそれができた（Pauci, quos aequus amavit / Iuppiter aut ardens evexit ad aethera virtus, / dis geniti potuere）」──冥界からの帰還を可能にする三つの条件（ユーピテルの愛・燃える美徳・神々からの出生）の列挙。「pauci（少数の者）」という限定が選ばれた英雄の例外性を強調する：これは民主的な救済の可能性ではなく、貴族的・英雄的な例外主義の表明。中世キリスト教的解釈ではこの「少数性」が救済の狭き門（マタイ7:14「狂き門より入れ、狭き道を行け」）との潜在的な思想的並行性を持つと解釈されることがある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Latet arbore opācā\naureus et foliīs et lentō uīmine rāmus,\nIūnōnī īnfernae dictus sacer;",
+      "body": "「暗い木に隠れている、葉も柔軟な蔓も黄金の枝が、地下のユーノーに聖なるものと言われている（Latet arbore opaca / aureus et foliis et lento vimine ramus, / Iunoni infernae dictus sacer）」──黄金の枝（aureus ramus）の導入。「Iunoni infernae（地下のユーノー）」はプロセルピナの別名としての用法：天上のユーノーと冥界のプロセルピナの同一視による神的階層の対応関係。「latet（隠れている）」という動詞が黄金の枝の発見が偶然ではなく探求（クエスト）を要する隠された真実であることを示す：J.G.フレイザー『金枝篇（The Golden Bough）』のタイトルの直接的出典として、後の人類学・神話学研究における最も影響力のある詩的形象の一つ。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Prīmō āuulsō nōn dēficit alter\naureus, et similī frondēscit uirga metallō.",
+      "body": "「最初のものが摘み取られると、別の黄金の枝が欠けることなく、同じ金属で若枝が葉を出す（Primo avulso non deficit alter / aureus, et simili frondescit virga metallo）」──黄金の枝の自己再生的性質。この超自然的な再生能力（一つ摘んでも別のものが生える）が、コヘレト的循環（「太陽の下に新しいものは何もない」の物質的・植物的変奏として読める：消費されても枯渇しない神聖な資源という概念。フレイザーの研究では、この自己再生的な金枝が王権の継承儀礼（古い王を殺して新しい王が即位する）の神話的象徴として分析された。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "namque ipse uolēns facilisque sequētur,\nsī tē fāta uocant; aliter nōn uīribus ūllīs\nuincere nec dūrō poteris conuellere ferrō.",
+      "body": "「枝自身が望んで容易に従うだろう、もし運命がお前を呼ぶなら；そうでなければどんな力でも打ち勝つことも堅い鉄で引き抜くこともできないだろう（namque ipse volens facilisque sequetur, / si te fata vocant; aliter non viribus ullis / vincere nec duro poteris convellere ferro）」──運命（fata）による条件付けという神学的限定。「volens（望んで）」という分詞が黄金の枝を意志を持つ準生命的存在として擬人化する：枝自体が「同意」しなければ力による強制は不可能。第1牧歌の「fato profugus（運命に追われて）」と同様、人間の意志や力では制御できない「fata（運命）」という超越的決定論が、物理的な行為（枝を折る）の成否を支配するという思想。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Praetereā iacet exanimum tibi corpus amīcī\n(heu nescīs) tōtamque incestat fūnere classem,",
+      "body": "「さらに、お前の友の息絶えた体が横たわっている（ああ、お前は知らない）、そして葬られぬまま船団全体を穢している（Praeterea iacet exanimum tibi corpus amici / (heu nescis) totamque incestat funere classem）」──ミセーヌス（Misenus）の死への予言的言及（この場面の直後に発見される）。「incestat（穢す）」という動詞が埋葬されない死体の宗教的不浄性を示す：ヨブ記・アエネーイス第4巻ディードの呪い（「inhumatus」埋葬されぬ死）に共通する古代地中海世界の埋葬義務の神聖性。「(heu nescis)（ああ、お前は知らない）」という括弧内の挿入句が、シビュラの予知能力とアエネアスの無知の対比を劇的に強調する：神託者と探求者の認識的非対称性。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "prosody",
+      "anchor": "Sīc dēmum lūcōs Stygis et rēgna inuia uīuīs\naspiciēs.' Dīxit, pressōque obmūtuit ōre.",
+      "body": "「そうしてはじめてステュクスの森と生者には通れぬ王国を見るだろう。」彼女は言い、口を閉ざして黙った（Sic demum lucos Stygis et regna invia vivis / aspicies.' Dixit, pressoque obmutuit ore）──シビュラの神託の閉幕。「regna invia vivis（生者には通れぬ王国）」という表現が冥界の本質的な排他性を定義する：アエネアスがこれから行う旅が、生者の通常の限界を超えた例外的な侵入であることを強調する。「pressoque obmutuit ore（口を閉ざして黙った）」という静寂への沈降が、直前までの激しい神的霊感（furor）と対照的な完全な沈黙として神託の終わりを劇的に閉じる：饒舌な神的言語から絶対的沈黙への急激な転換。"
+    }
+  ]
+}
