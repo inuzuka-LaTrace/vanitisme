@@ -1,0 +1,163 @@
+{
+  "id": "vergilius_aeneis_6_dido_inferos",
+  "title": "Aeneis — Liber VI, Dido apud Inferos (v.440–493)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.440–493. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、冥界の「嘆きの野（Lugentes Campi）」の場面。アエネアスは銀梅花の森に隠れた不幸な恋の犠牲者たち（パエドラ・プロクリス・エリピュレ・エウアドネ・パシファエ・ラオダミア・カエネウス）の中に、自死したディードの霊を見出す。第4巻の悲劇から直接続くこの再会場面は、ウェルギリウスの最も感動的な詩行の一つとされる。アエネアスの弁明（「私は不本意にあなたの岸を去った／invitus, regina, tuo de litore cessi」v.460）に対し、ディードは完全な沈黙と顔をそむける行為（「solo fixos oculos aversa tenebat」v.469）のみで応える──言葉による反論を拒絶し、「堅い岩（dura silex）」のような無感応として描かれる。この沈黙が第1巻の壁画でパラス女神が「顔をそむける（aversa）」場面と語彙的に反響し、神々の不在・無関心という主題を人間関係の地平に転位する。ディードが「もとの夫シュカエウス（coniunx pristinus…Sychaeus）」のもとへ戻るという結末は、第4巻でディードがシュカエウスへの誓いを破ったことへの神話的・倫理的回収として機能する。続く「嘆きの戦士たちの野」（v.477–493）ではトロイア戦争の英雄たち（テューデウス・パルテノパエウス・アドラストス）、そしてアエネアスを見て恐怖するギリシア軍の将たちが描かれ、戦争の記憶が冥界においても消えないことを示す。ダンテ『地獄篇』第5歌（色欲の圏、ディードが筆頭格として言及される）の直接的な詩的源泉。",
+  "keywords": [
+    "Dido",
+    "Lugentes Campi",
+    "嘆きの野",
+    "Sychaeus",
+    "沈黙",
+    "aversa",
+    "再会",
+    "冥界",
+    "色欲",
+    "Phaedra"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_4_dido_maledictio",
+    "vergilius_aeneis_4_dido_mors",
+    "vergilius_aeneis_6_descensus",
+    "vergilius_aeneis_1_lacrimae",
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_30"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.440–449",
+      "speaker": "Narrator",
+      "original": "Nec procul hinc partem fūsī mōnstrantur in omnem\nLūgentēs campī; sīc illōs nōmine dīcunt.\nHīc quōs dūrus amor crūdēlī tābe perēdit\nsēcrētī cēlant callēs et myrtea circum\nsilua tegit; cūrae nōn ipsā in morte relinquunt.\nHīs Phaedram Procrinque locīs maestamque Eriphȳlēn\ncrūdēlis nātī monstrantem uulnera cernit,\nEuadnēnque et Pāsiphaēn; hīs Lāodamīa\nit comes et iuuenis quondam, nunc fēmina, Caeneus\nrūrsus et in ueterem fātō reuolūta figūram.",
+      "provisionalTranslation": "ここから遠くないところ、広がるすべての方向に示されている、\n嘆きの野が；このように人々はそれを名前で呼ぶ。\nここでは過酷な愛が残酷な腐敗で食い尽くした者たちを\n隠された小道が秘め、銀梅花の森が周りを\n覆っている；心配は死そのものの中でも彼らを離れない。\nここでパエドラとプロクリスを、悲しいエリピュレを、\n残酷な息子の傷を示す彼女を見る、\nエウアドネとパシファエを；ここにラオダミアが\n仲間として行き、かつては若者だったが今は女、カエネウスが\n再び運命によって元の姿へと戻された者として。"
+    },
+    {
+      "id": 2,
+      "verses": "v.450–455",
+      "speaker": "Narrator",
+      "original": "Inter quās Phoenissa recēns ā uulnere Dīdō\nerrābat siluā in magnā; quam Trōius hērōs\nut prīmum iuxtā stetit agnōuitque per umbrās\nobscūram, quālem prīmō quī surgere mēnse\naut uidet aut uīdisse putat per nūbila lūnam,\ndēmīsit lacrimās dulcīque adfātus amōre est:",
+      "provisionalTranslation": "彼女たちの中にフェニキアのディードが、傷からまだ新しく\n大きな森を彷徨っていた；トロイアの英雄は\n初めて傍らに立ち、影の中を通して見分けた、\n月の初めに昇るのを見るか、見たと思うような、\n雲を通して見える月のようにおぼろげな彼女を、\n涙を流し、甘い愛をもって語りかけた："
+    },
+    {
+      "id": 3,
+      "verses": "v.456–464",
+      "speaker": "Aeneas",
+      "original": "'Īnfēlīx Dīdō, uērus mihi nūntius ergō\nuēnerat exstīnctam ferrōque extrēma secūtam?\nFūneris heu tibi causa fuī? Per sīdera iūrō,\nper superōs et sī qua fidēs tellūre sub īmā est,\ninuītus, rēgīnā, tuō dē lītore cessī.\nSed mē iussa deum, quae nunc hās īre per umbrās,\nper loca senta sitū cōgunt noctemque profundam,\nimperiīs ēgēre suīs; nec crēdere quīuī\nhunc tantum tibi mē discessū ferre dolōrem.",
+      "provisionalTranslation": "「不幸なディードよ、それでは本当の知らせがわたしに\n来ていたのか、お前が死に、剣で最後の道を遂げたという？\nああ、わたしがお前の死の原因だったのか？星々にかけて誓う、\n天の神々にかけて、そして地の最も深いところに何らかの信義があるなら、\nわたしは不本意に、女王よ、お前の岸辺から去った。\nしかし神々の命令が、今この影の中を行くことを、\n荒れた場所を、深い夜を通って\nわたしを自分の権威で動かした；信じることができなかった、\nこれほど大きな苦しみをわたしの出発がお前にもたらすとは。"
+    },
+    {
+      "id": 4,
+      "verses": "v.465–466",
+      "speaker": "Aeneas",
+      "original": "Siste gradum tēque aspectū nē subtrahe nostrō.\nQuem fugis? Extrēmum fātō quod tē adloquor hoc est.'",
+      "provisionalTranslation": "歩みを止めてくれ、われらの視線から身を引かないでくれ。\nお前は誰から逃げるのか？これが運命によってわたしがお前に語る最後のことだ。」"
+    },
+    {
+      "id": 5,
+      "verses": "v.467–471",
+      "speaker": "Narrator",
+      "original": "Tālibus Aenēās ārdentem et torua tuentem\nlēnībat dictīs animum lacrimāsque ciēbat.\nIlla solō fīxōs oculōs āuersa tenēbat\nnec magis inceptō uultum sermōne mouētur\nquam sī dūra silex aut stet Marpēsia cautēs.",
+      "provisionalTranslation": "このような言葉でアエネアスは燃え、険しく見つめる\n心を和らげようとし、涙を誘っていた。\n彼女は目を地面に固定し、顔をそむけたままにしていた、\n始められた話によっても顔は動かされることはなかった、\n堅い火打石か、あるいはマルペッサの岩が立っているかのように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.472–476",
+      "speaker": "Narrator",
+      "original": "Tandem corripuit sēsē atque inimīca refūgit\nin nemus umbriferum, coniūnx ubi prīstinus illī\nrespondet cūrīs aequatque Sychaeus amōrem.\nNec minus Aenēās cāsū percussus inīquō\nprōsequitur lacrimīs longē et miserātur euntem.",
+      "provisionalTranslation": "ついに彼女は自らを引き離し、敵意を持って逃げた\n影深い森へ、そこではもとの夫が彼女に\n心配に応え、シュカエウスが愛を等しく返している。\nそれでもアエネアスは不当な運命に打たれて\n遠くまで涙で見送り、去っていく彼女を哀れんだ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.477–485",
+      "speaker": "Narrator",
+      "original": "Inde datum mōlītur iter. Iamque arua tenēbant\nultima, quae bellō clārī sēcrēta frequentant.\nHīc illī occurrit Tȳdeus, hīc inclutus armīs\nParthenopaeus et Adrastī pallentis imāgō,\nhīc multum flētī ad superōs bellōque cadūcī\nDardanidae, quōs ille omnīs longō ōrdine cernēns\ningemuit, Glaucumque Medontaque Thersilochumque,\ntrīs Antēnoridās Cererīque sacrum Polyboetēn,\nĪdaeumque etiam currūs, etiam arma tenentem.",
+      "provisionalTranslation": "そこから与えられた道を進める。すでに最も遠い\n野を占めていた、戦で名高い者たちが秘かに集う場所を。\nここでテューデウスが彼に出会い、ここで武勇で名高い\nパルテノパエウスと、青ざめたアドラストスの姿が、\nここで上の世界で多く泣かれ、戦で倒れた\nダルダニアの者たちが、彼はそれら全員を長い列で見ながら\n嘆いた、グラウクスとメドンとテルシロクスを、\nアンテノルの三人の息子たちとケレスに聖なるポリュボエテスを、\nそしてイダエウスも、まだ戦車を、まだ武器を持ったまま。"
+    },
+    {
+      "id": 8,
+      "verses": "v.486–493",
+      "speaker": "Narrator",
+      "original": "Circumstant animae dextrā laeuāque frequentēs,\nnec uīdisse semel satis est; iuuat usque morārī\net cōnferre gradum et ueniendī discere causās.\nAt Danaum procerēs Agamemnoniaeque phalangēs\nut uīdēre uirum fulgentiaque arma per umbrās,\ningentī trepidāre metū; pars uertere terga,\nceu quondam petiēre ratēs, pars tollere uōcem\nexiguam: inceptus clāmor frūstrātur hiantīs.",
+      "provisionalTranslation": "霊たちは右にも左にも群がって取り囲む、\n一度見るだけでは十分ではない；歩みを留め続け、\n歩調を合わせ、来た理由を知ることが嬉しい。\nしかしダナイ人の将たちとアガメムノンの隊列は\n影の中で男と輝く武器を見た時、\n激しい恐怖で震えた；一部は背を向け、\nかつて船へと逃げた時のように、一部は小さな\n声を上げようとした：始まった叫びは開いた口を欺く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Hīc quōs dūrus amor crūdēlī tābe perēdit\nsēcrētī cēlant callēs et myrtea circum\nsilua tegit; cūrae nōn ipsā in morte relinquunt.",
+      "body": "「過酷な愛が残酷な腐敗で食い尽くした者たちを隠された小道が秘め、銀梅花の森が周りを覆っている；心配は死そのものの中でも彼らを離れない（Hic quos durus amor crudeli tabe peredit / secreti celant calles et myrtea circum / silua tegit; curae non ipsa in morte relinquunt）」──「嘆きの野（Lugentes Campi）」の主題的定義。「myrtea silua（銀梅花の森）」──銀梅花（myrtus）はウェヌス（愛の女神）の聖木：恋の犠牲者たちが愛の女神の木に囲まれて永遠に彷徨うという皮肉な配置。「curae…non…in morte relinquunt（心配は死の中でも離れない）」という命題が、肉体の死後も心理的苦悩（cura）が継続するという冥界論の核心：身体的消滅と精神的苦悩の分離。コヘレト的「afflictio spiritus（霊の苦悩）」が死を超えて持続するという思想的展開。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Euadnēnque et Pāsiphaēn; hīs Lāodamīa\nit comes et iuuenis quondam, nunc fēmina, Caeneus\nrūrsus et in ueterem fātō reuolūta figūram.",
+      "body": "「エウアドネとパシファエを；ここにラオダミアが仲間として行き、かつては若者だったが今は女、カエネウスが再び運命によって元の姿へと戻された者として（Euadnenque et Pasiphaen; his Laodamia / it comes et iuvenis quondam, nunc femina, Caeneus / rursus et in veterem fato revoluta figuram）」──不幸な恋の犠牲者たちのカタログ。「パシファエ（Pasiphae）」は第6牧歌で既に詳述された人物（牡牛への異常愛の神話）：詩集内での連続的言及。「カエネウス（Caeneus）」は元来女性として生まれ男性に変身した後、戦死して冥界で元の女性の姿に戻されたという稀有な変身神話の人物：性別の流動性とその死後における「元の姿への回帰」という主題が、冥界が生前の選択や変容を超えた「本来性」への還元の場であることを示唆する。",
+      "targetId": "vergilius_eclogae_6",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "agnōuitque per umbrās\nobscūram, quālem prīmō quī surgere mēnse\naut uidet aut uīdisse putat per nūbila lūnam,",
+      "body": "「影の中を通して見分けた……月の初めに昇るのを見るか、見たと思うような、雲を通して見える月のようにおぼろげな彼女を（agnovitque per umbras / obscuram, qualem primo qui surgere mense / aut videt aut vidisse putat per nubila lunam）」──冥界の霊の視覚的不確実性を月の比喩で描く詩行。「aut videt aut vidisse putat（見るか、見たと思うか）」という二重の認識論的不確実性──実際に見ることと見たと「思う」ことの境界の曖昧化──が、冥界での知覚そのものの本質的な不安定性を示す。新月（「primo…mense」）のおぼろげな光という比喩が、ディードの霊体の実体性の薄さを視覚的に定式化する：かつての女王の確固たる存在感との対比。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Fūneris heu tibi causa fuī? Per sīdera iūrō,\nper superōs et sī qua fidēs tellūre sub īmā est,\ninuītus, rēgīnā, tuō dē lītore cessī.",
+      "body": "「ああ、わたしがお前の死の原因だったのか？星々にかけて誓う……わたしは不本意に、女王よ、お前の岸辺から去った（Funeris heu tibi causa fui? Per sidera iuro…invitus, regina, tuo de litore cessi）」──アエネアスの自己弁明と誓い。「invitus（不本意に）」という一語が、第4巻でディードへの説明として既に使われた同じ語（第4巻でアエネアスがディードに直接語った言葉の反復）：冥界での再会が地上での別れの場面を反復しながら、しかし応答（沈黙）が全く異なるという悲劇的な再演。「per sidera iuro（星々にかけて誓う）」という誓いの形式が、运命（fatum）に従う者としてのアエネアスの一貫した自己理解を示す：個人的選択ではなく神々の命令への服従という弁明の構造。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Siste gradum tēque aspectū nē subtrahe nostrō.\nQuem fugis?",
+      "body": "「歩みを止めてくれ、われらの視線から身を引かないでくれ。お前は誰から逃げるのか？（Siste gradum teque aspectu ne subtrahe nostro. / Quem fugis?）」──二つの命令文と一つの修辞的問いの連続による感情的な懇願の頂点。「Quem fugis?（お前は誰から逃げるのか？）」という三語のみの問いが、アエネアス自身が「逃げられる対象」として位置づけられることの痛切さを示す：第1巻・第4巻で常に「追う者・語る者」だったアエネアスが、ここで初めて「逃げられる者」という受動的立場に置かれる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Illa solō fīxōs oculōs āuersa tenēbat\nnec magis inceptō uultum sermōne mouētur\nquam sī dūra silex aut stet Marpēsia cautēs.",
+      "body": "「彼女は目を地面に固定し、顔をそむけたままにしていた、始められた話によっても顔は動かされることはなかった、堅い火打石か、あるいはマルペッサの岩が立っているかのように（Illa solo fixos oculos aversa tenebat / nec magis incepto vultum sermone movetur / quam si dura silex aut stet Marpesia cautes）」──ディードの完全な沈黙という最も強力な応答。「aversa（顔をそむけて）」という語が第1巻でパラス女神がトロイアの女たちの祈りに「顔をそむける（aversa）」場面と語彙的に直接反響する：神の不在・無関心という主題が、ここでは人間関係（恋人たちの間）の地平に転位される。「dura silex（堅い火打石）」・「Marpesia cautes（マルペッサの岩、パロス島の大理石産地）」という二重の石の比喩が、ディードの感情的硬化を物質的な不変性として極限化する。",
+      "targetId": "vergilius_aeneis_1_lacrimae",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tandem corripuit sēsē atque inimīca refūgit\nin nemus umbriferum, coniūnx ubi prīstinus illī\nrespondet cūrīs aequatque Sychaeus amōrem.",
+      "body": "「ついに彼女は自らを引き離し、敵意を持って逃げた、影深い森へ、そこではもとの夫が彼女に心配に応え、シュカエウスが愛を等しく返している（Tandem corripuit sese atque inimica refugit / in nemus umbriferum, coniunx ubi pristinus illi / respondet curis aequatque Sychaeus amorem）」──ディードがもとの夫シュカエウスのもとへ戻るという結末。「inimica（敵意を持って）」という形容詞がアエネアスへの最終的な拒絶を確定する。「aequat…amorem（愛を等しく返す）」という表現が、シュカエウスとの愛がアエネアスとの愛とは異なり「相互的（aequus）」であることを示す：第4巻でアエネアスへの愛が常に非対称的（ディードが与え、アエネアスが運命のために去る）だったことへの暗示的対比。この結末はディードが本来の貞節（シュカエウスへの誓い）へ冥界において回帰したことを意味し、第4巻での「過ち」が死後に修正されるという神話的・倫理的回収。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Nec minus Aenēās cāsū percussus inīquō\nprōsequitur lacrimīs longē et miserātur euntem.",
+      "body": "「それでもアエネアスは不当な運命に打たれて遠くまで涙で見送り、去っていく彼女を哀れんだ（Nec minus Aeneas casu percussus iniquo / prosequitur lacrimis longe et miseratur euntem）」──アエネアスの最終的な感情的応答。「casu…iniquo（不当な運命に）」という形容がディードの運命の不当性をアエネアス自身が認識していることを示す：自己弁明（v.456–464）の後でも残る道徳的不安。「miseratur euntem（去っていく彼女を哀れむ）」という現在分詞「euntem（去っていく）」がディードの最後の姿を運動として捉える：完全な決別の瞬間の視覚的固定。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "quōs ille omnīs longō ōrdine cernēns\ningemuit, Glaucumque Medontaque Thersilochumque,\ntrīs Antēnoridās Cererīque sacrum Polyboetēn,",
+      "body": "「彼はそれら全員を長い列で見ながら嘆いた、グラウクスとメドンとテルシロクスを、アンテノルの三人の息子たちとケレスに聖なるポリュボエテスを（quos ille omnis longo ordine cernens / ingemuit, Glaucumque Medontaque Thersilochumque, / tris Antenoridas Cererique sacrum Polyboeten）」──戦死した戦友たちの名前の列挙（カタログ詩学）。「longo ordine（長い列で）」という表現が、これらの霊たちが整然と並んでいる様子を示す：戦場の混乱とは対照的な冥界での秩序。固有名詞の列挙という叙事詩的技法（ホメロス的カタログの継承）が、個々の死者への個別の記憶を保持しようとする詩的努力として機能する：忘却に対する詩的抵抗。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "At Danaum procerēs Agamemnoniaeque phalangēs\nut uīdēre uirum fulgentiaque arma per umbrās,\ningentī trepidāre metū;",
+      "body": "「しかしダナイ人の将たちとアガメムノンの隊列は影の中で男と輝く武器を見た時、激しい恐怖で震えた（At Danaum proceres Agamemnoniaeque phalanges / ut videre virum fulgentiaque arma per umbras, / ingenti trepidare metu）」──ギリシア軍将兵の冥界における恐怖の反応。戦争で死んだ後でさえ、アエネアス（生きている敵）への恐怖が消えないという逆説：肉体が滅びても感情的・心理的なトラウマは継続するという冥界論。「fulgentia arma（輝く武器）」という生者特有の輝きが、無形の霊たちの間で異質な存在感を放つ：生と死の境界を越えてきた者の異様な可視性。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "pars uertere terga,\nceu quondam petiēre ratēs, pars tollere uōcem\nexiguam: inceptus clāmor frūstrātur hiantīs.",
+      "body": "「一部は背を向け、かつて船へと逃げた時のように、一部は小さな声を上げようとした：始まった叫びは開いた口を欺く（pars vertere terga, / ceu quondam petiere rates, pars tollere vocem / exiguam: inceptus clamor frustratur hiantis）」──「inceptus clamor frustratur hiantis（始まった叫びは開いた口を欺く）」という冥界における発声の不可能性の詩的定式。霊体には完全な音声を生み出す物理的能力がないという古代の冥界観：口は開かれる（hiantis）が音は出ない、という身体性なき存在の限界。この声の不在というモチーフが、ディードの「完全な沈黙」（v.469の「nec…vultum…movetur」）という選択的沈黙とは異なる、構造的・存在論的な沈黙の対比を形成する：ディードは語らないことを選ぶが、ギリシア軍将兵は語ることができない。"
+    }
+  ]
+}
