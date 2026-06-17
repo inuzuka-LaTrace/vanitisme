@@ -1,0 +1,156 @@
+ {
+  "id": "vergilius_aeneis_6_elysium",
+  "title": "Aeneis — Liber VI, Elysium (v.637–678)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.637–678. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "29–19 BC頃",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、エリュシウム（Elysium）──至福者の野の場面。アンキーセスへの供物を終えたアエネアスとシビュラは「幸福な場所・喜ばしい緑地（locos laetos et amoena virecta）」に至る。地獄篇的な恐怖（タルタロス・ケルベロス・幽霊たち）から完全に転換し、独自の太陽と星を持つ「より広い大気（largior aether）」に包まれた楽園が描かれる。住人たちは体育競技・舞踏・歌・音楽（トラキアの祭司オルペウスを思わせる七弦琴の奏者）に興じ、トロイアの始祖たち（イルス・アッサラクス・ダルダヌス）が登場する。武器や戦車への愛着が死後も続くという描写（v.651–655）が、生前の情熱・職業的アイデンティティが冥界においても消えないという思想を示す。祖国のために傷を負った者・清純な祭司・敬虔な詩人・技芸による生の洗練者・功績によって記憶される者という五つのカテゴリー（v.660–664）が、エリュシウムへの入場資格を定義する道徳的・社会的カタログとして機能する。詩人ムーサエウス（Musaeus）への呼びかけと、アンキーセスの居場所を求める最後の問いが次の場面（v.679以降）への導入となる。ダンテ『神曲』天国篇の至福者の描写、また辺獄における詩人たちの集いの構造的母型。",
+  "keywords": [
+    "Elysium",
+    "至福者の野",
+    "largior aether",
+    "Musaeus",
+    "Dardanus",
+    "音楽と舞踏",
+    "祖国のための傷",
+    "詩人",
+    "敬虔",
+    "記憶"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_descensus",
+    "vergilius_aeneis_6_dido_inferos",
+    "vergilius_eclogae_6",
+    "dante_purgatorio_canto_22",
+    "dante_paradiso_canto_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.637–641",
+      "speaker": "Narrator",
+      "original": "Hīs dēmum exāctīs, perfectō mūnere dīuae,\ndēuēnēre locōs laetōs et amoena uirēcta\nfortūnātōrum nemorum sēdēsque beātās.\nLargior hīc campōs aethēr et lūmine uestit\npurpureō, sōlemque suum, sua sīdera nōrunt.",
+      "provisionalTranslation": "これらをついに完了し、女神への供物を成し終えると、\n喜ばしい場所と美しい緑地に到着した、\n幸福な森々と祝福された住まいへと。\nここではより広い大気が野を包み、紫がかった\n光で衣をまとわせ、自分自身の太陽を、自分自身の星々を知っている。"
+    },
+    {
+      "id": 2,
+      "verses": "v.642–647",
+      "speaker": "Narrator",
+      "original": "Pars in grāmineīs exercent membra palaestrīs,\ncontendunt lūdō et fuluā luctantur harēnā;\npars pedibus plaudunt choreās et carmina dīcunt.\nNec nōn Thrēicius longā cum ueste sacerdōs\nobloquitur numerīs septem discrīmina uōcum,\niamque eadem digitīs, iam pectine pulsat eburnō.",
+      "provisionalTranslation": "ある者たちは草の上の競技場で肢体を鍛え、\n遊戯で競い合い、黄褐色の砂の上で格闘する；\nある者たちは足で輪舞を踏み、詩を語る。\nまた長い衣を纏ったトラキアの祭司が\n七つの音の差異を拍子に合わせて応唱し、\n今は指で、今は象牙の撥で同じ弦を弾く。"
+    },
+    {
+      "id": 3,
+      "verses": "v.648–655",
+      "speaker": "Narrator",
+      "original": "Hīc genus antīquum Teucrī, pulcherrima prōlēs,\nmagnanimī hērōes nātī meliōribus annīs,\nĪlusque Assaracusque et Trōiae Dardanus auctor.\nArma procul currūsque uirum mirātur inānīs;\nstant terrā dēfīxae hastae passimque solūtī\nper campum pāscuntur equī. Quae grātia currum\narmōrumque fuit uīuīs, quae cūra nitentīs\npāscere equōs, eadem sequitur tellūre repostōs.",
+      "provisionalTranslation": "ここにテウケルの古い血統が、最も美しい子孫が、\nより良き時代に生まれた高邁な英雄たちが、\nそしてイルスとアッサラクスとトロイアの創設者ダルダヌスが。\n遠くに武器と人々の空の戦車を彼は驚嘆して見る；\n地に槍が刺さって立ち、あちこちで解き放たれた\n馬たちが野を渡って草を食んでいる。生前彼らが戦車と\n武器に持っていた喜びが、輝く馬たちを\n飼う心遣いが、同じものが地に納められた今も続く。"
+    },
+    {
+      "id": 4,
+      "verses": "v.656–664",
+      "speaker": "Narrator",
+      "original": "Cōnspicit, ecce, aliōs dextrā laeuāque per herbam\nuēscentīs laetumque chorō paeāna canentīs\ninter odōrātum laurīs nemus, unde supernē\nplūrimus Ēridanī per siluam uoluitur amnis.\nHīc manus ob patriam pugnandō uulnera passī,\nquīque sacerdōtēs castī, dum uīta manēbat,\nquīque piī uātēs et Phoebō digna locūtī,\ninuentās aut quī uītam excoluēre per artīs\nquīque suī memorēs aliquōs fēcēre merendō:",
+      "provisionalTranslation": "見よ、彼は他の者たちを右にも左にも草の上に見る、\n食事をし、合唱で喜ばしい讃歌を歌う者たちを\n月桂樹の香る森の中で、その上から\n豊かなエリダヌス川が森を通って流れている。\nここには祖国のために戦って傷を負った人々の集団が、\n生きている間清純だった祭司たちが、\n敬虔な詩人たちとポエブスにふさわしいことを語った者たちが、\n発見によって、あるいは技芸によって生を洗練させた者たちが、\n功績によって誰かを自分を記憶する者にした者たちが："
+    },
+    {
+      "id": 5,
+      "verses": "v.665–668",
+      "speaker": "Narrator",
+      "original": "omnibus hīs niueā cinguntur tempora uittā.\nQuōs circumfūsōs sīc est adfāta Sibylla,\nMūsaeum ante omnīs (medium nam plūrima turba\nhunc habet atque umerīs exstantem suspicit altīs):",
+      "provisionalTranslation": "これらすべての者の頭は雪のように白い帯で巻かれている。\n彼らに取り囲まれてシビュラはこのように語りかけた、\n何よりもムーサエウスに（というのも最も多くの群衆が中央に\n彼を据え、高い肩で立つ彼を見上げているから）："
+    },
+    {
+      "id": 6,
+      "verses": "v.669–671",
+      "speaker": "Sibylla",
+      "original": "'Dīcite, fēlīcēs animae tūque optime uātēs,\nquae regiō Anchīsēn, quis habet locus? Illius ergō\nuēnimus et magnōs Erebī trānāuimus amnīs.'",
+      "provisionalTranslation": "「語れ、幸福な霊たちよ、そしてお前、最も優れた詩人よ、\nどの地域がアンキーセスを、どの場所が彼を持っているのか？彼のために\nわれらは来た、そしてエレブスの大いなる川々を渡って来たのだ。」"
+    },
+    {
+      "id": 7,
+      "verses": "v.672–676",
+      "speaker": "Musaeus",
+      "original": "Atque huic respōnsum paucīs ita reddidit hērōs:\n'Nūllī certa domus; lūcīs habitāmus opācīs,\nrīpārumque torōs et prāta recentia rīuīs\nincolimus. Sed uōs, sī fert ita corde uoluntās,\nhōc superāte iugum, et facilī iam trāmite sistam.'",
+      "provisionalTranslation": "そして彼にその英雄は少ない言葉でこのように答えを返した：\n「誰にも定まった家はない；われらは暗い森に住み、\n川岸の寝床と小川で新しくなる草原に\n住んでいる。しかしお前たちが、心がそう望むなら、\nこの峰を越えよ、そしてわたしが容易な道へと案内しよう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.677–678",
+      "speaker": "Narrator",
+      "original": "Dīxit, et ante tulit gressum campōsque nitentīs\ndēsuper ostentat; dehinc summa cacūmina linquunt.",
+      "provisionalTranslation": "彼は言い、先に歩みを進めて輝く野を\n上から示す；それから彼らは頂の高みを後にする。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Largior hīc campōs aethēr et lūmine uestit\npurpureō, sōlemque suum, sua sīdera nōrunt.",
+      "body": "「より広い大気が野を包み、紫がかった光で衣をまとわせ、自分自身の太陽を、自分自身の星々を知っている（Largior hic campos aether et lumine vestit / purpureo, solemque suum, sua sidera norunt）」──エリュシウムの宇宙論的独立性の宣言。「largior aether（より広い大気）」という比較級が地上の大気よりも質的に優れた・希薄な天上的物質を示す：ストア派的宇宙論における「アイテール（aether）」の階層構造（地上の空気より純粋な火的元素）の詩的反映。「solemque suum, sua sidera（自分自身の太陽を、自分自身の星々を）」という所有格の反復が、エリュシウムが地上の天体系から独立した固有の宇宙的秩序を持つことを示す：地獄篇では「光なき」場所（第1歌「là dove 'l sol tace」）として描かれる対極構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nec nōn Thrēicius longā cum ueste sacerdōs\nobloquitur numerīs septem discrīmina uōcum,\niamque eadem digitīs, iam pectine pulsat eburnō.",
+      "body": "「長い衣を纏ったトラキアの祭司が七つの音の差異を拍子に合わせて応唱し、今は指で、今は象牙の撥で同じ弦を弾く（Nec non Threicius longa cum veste sacerdos / obloquitur numeris septem discrimina vocum）」──「トラキアの祭司（Threicius sacerdos）」はオルペウス（Orpheus）への明示されない言及：トラキアは伝統的にオルペウスの出身地。「numeris septem discrimina vocum（七つの音の差異）」はリラの七弦：ピュタゴラス的音楽理論における七音階の宇宙的調和の象徴。第6牧歌でシレノスの歌がオルペウスを超える音楽的力として描かれた構造と対をなす：ここではオルペウス自身がエリュシウムで永遠に演奏を続ける詩人として描かれる──オルペウスの音楽的天賦が死を超えて持続することの証言。",
+      "targetId": "vergilius_eclogae_6",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Quae grātia currum\narmōrumque fuit uīuīs, quae cūra nitentīs\npāscere equōs, eadem sequitur tellūre repostōs.",
+      "body": "「生前彼らが戦車と武器に持っていた喜びが、輝く馬たちを飼う心遣いが、同じものが地に納められた今も続く（Quae gratia currum / armorumque fuit vivis, quae cura nitentis / pascere equos, eadem sequitur tellure repostos）」──死後も継続する生前の情熱という冥界論の核心命題。「eadem sequitur（同じものが続く）」という表現が、人格的アイデンティティ（職業的・情熱的傾向）が死によって消去されないという思想を定式化する：単純な「魂の不滅」ではなく「性格・愛着の不滅」という、より具体的で個人的な永続性の概念。コヘレト的循環論（「Quid est quod fuit? Ipsum quod futurum est」）とは異なる、個別性を保持する永続性の思想として対照的。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hīc manus ob patriam pugnandō uulnera passī,\nquīque sacerdōtēs castī, dum uīta manēbat,\nquīque piī uātēs et Phoebō digna locūtī,",
+      "body": "「ここには祖国のために戦って傷を負った人々の集団が、生きている間清純だった祭司たちが、敬虔な詩人たちとポエブスにふさわしいことを語った者たちが（Hic manus ob patriam pugnandō uulnera passī, / quique sacerdotes casti, dum vita manebat, / quique pii vates et Phoebo digna locuti）」──エリュシウム入場資格の道徳的カタログの開始。「manus ob patriam…vulnera passi（祖国のために傷を負った者たち）」が筆頭に置かれることがウェルギリウスの政治的・愛国的価値観を反映する：個人的徳より共同体への犠牲が最高位に置かれる。「pii vates（敬虔な詩人たち）」という範疇──詩人が宗教的範疇（祭司・敬虔な戦士と並ぶ）として位置づけられることが、詩的活動の神聖性についてのウェルギリウス自身の自己理解を示唆する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "inuentās aut quī uītam excoluēre per artīs\nquīque suī memorēs aliquōs fēcēre merendō:",
+      "body": "「発見によって、あるいは技芸によって生を洗練させた者たち、功績によって誰かを自分を記憶する者にした者たち（inventas aut qui vitam excoluere per artis / quique sui memores aliquos fecere merendo）」──文化的・技術的貢献者と恩恵者という最後の二つの範疇。「vitam excoluere per artis（技芸によって生を洗練させた）」という表現が、技術・芸術の発展者への敬意を示す：実用的発明（農業・医学等）と高度な芸術（詩・音楽）の両方を包含する広範な「ars（技芸）」概念。「sui memores…fecere merendo（功績によって自分を記憶する者にした）」──「記憶される」ことが徳の報酬として明示的に位置づけられる：忘却に対する勝利としての善行という思想。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "omnibus hīs niueā cinguntur tempora uittā.",
+      "body": "「これらすべての者の頭は雪のように白い帯で巻かれている（omnibus his nivea cinguntur tempora vitta）」──エリュシウムの祝福された者たちへの視覚的標識。「nivea vitta（雪のように白い帯）」という頭飾りが、地上の宗教的・祭儀的な帯（vitta）の冥界的延長：祭司・犠牲者・聖なる存在を示す古代の宗教的標識が、死後の世界における永続的な祝福の印として機能する。煉獄篇でベアトリーチェの「ミネルヴァの葉の冠（fronde di Minerva）」という頭飾りとの比較対象として、頭部の冠・帯という詩的モチーフの古典的源泉。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Mūsaeum ante omnīs (medium nam plūrima turba\nhunc habet atque umerīs exstantem suspicit altīs):",
+      "body": "「何よりもムーサエウスに（というのも最も多くの群衆が中央に彼を据え、高い肩で立つ彼を見上げているから）（Musaeum ante omnis (medium nam plurima turba / hunc habet atque umeris exstantem suspicit altis))」──ムーサエウス（Musaeus）は伝説的なギリシアの詩人・予言者：オルペウスの弟子または師とされる神話的人物で、エレウシスの秘儀との関連も伝えられる。「umeris exstantem altis（高い肩で立つ）」という身体的卓越性の描写が、詩的権威を物理的な高さとして可視化する：群衆の中で頭一つ抜き出た存在としての詩人の権威。煉獄篇第22歌の辺獄詩人カタログ（ホメロスが「他の誰よりも多く乳を与えられた」者として中心に置かれる場面）との構造的並行性。",
+      "targetId": "dante_purgatorio_canto_22",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "'Dīcite, fēlīcēs animae tūque optime uātēs,\nquae regiō Anchīsēn, quis habet locus? Illius ergō\nuēnimus et magnōs Erebī trānāuimus amnīs.'",
+      "body": "「語れ、幸福な霊たちよ、そしてお前、最も優れた詩人よ、どの地域がアンキーセスを、どの場所が彼を持っているのか？（Dicite, felices animae tuque optime vates, / quae regio Anchisen, quis habet locus?）」──シビュラの問いが旅の目的（アンキーセスとの再会）を再確認する。「optime vates（最も優れた詩人よ）」という最上級の称号がムーサエウスへの最大級の敬意を示す：詩人への呼びかけがエリュシウムにおいて最も権威ある存在への適切な敬称として機能する。「magnos Erebi…amnis（エレブスの大いなる川々）」──「Erebus（エレブス）」は冥界の暗闇を指すギリシア語由来の語：旅の困難さ（川々を渡ってきたこと）が再度強調される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "'Nūllī certa domus; lūcīs habitāmus opācīs,\nrīpārumque torōs et prāta recentia rīuīs\nincolimus.",
+      "body": "「誰にも定まった家はない；われらは暗い森に住み、川岸の寝床と小川で新しくなる草原に住んでいる（Nulli certa domus; lucis habitamus opacis, / riparumque toros et prata recentia rivis / incolimus）」──エリュシウムの居住形態の独特な記述。「Nulli certa domus（誰にも定まった家はない）」という否定が、地上的な所有・固定性の概念がエリュシウムには適用されないことを示す：遊牧的・流動的な至福の存在様式。「prata recentia rivis（小川で新しくなる草原）」という表現が、絶えず再生する自然の永続的な新鮮さを描く：コヘレト的「太陽の下に新しいものは何もない」とは対照的な、エリュシウムにおける永遠の更新という時間意識。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Dīxit, et ante tulit gressum campōsque nitentīs\ndēsuper ostentat; dehinc summa cacūmina linquunt.",
+      "body": "「彼は言い、先に歩みを進めて輝く野を上から示す；それから彼らは頂の高みを後にする（Dixit, et ante tulit gressum camposque nitentis / desuper ostentat; dehinc summa cacumina linquunt）」──ムーサエウスが案内者としての役割を引き受ける場面転換。「ante tulit gressum（先に歩みを進めた）」という行動が、シビュラからムーサエウスへの一時的な道案内の引き継ぎを示す：煉獄篇でウェルギリウスからベアトリーチェへ、あるいはスタティウスとの共同歩行への案内者交代のモチーフの古典的先行形。「campos nitentis desuper ostentat（輝く野を上から示す）」という視点の上昇（高所から見下ろす）が、次の場面（アンキーセスのいる丘・v.679以降）への空間的・視覚的導入として機能する。"
+    }
+  ]
+}
