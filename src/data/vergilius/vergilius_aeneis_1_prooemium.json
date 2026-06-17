@@ -1,0 +1,113 @@
+{
+  "id": "vergilius_aeneis_1_prooemium",
+  "title": "Aeneis — Liber I, Prooemium (v.1–11)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber I, v.1–11. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_I. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "29–19 BC頃",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス（Aeneis）』はウェルギリウス（Publius Vergilius Maro, 70–19 BC）の未完の叙事詩。全12巻・9896行。トロイア滅亡後、英雄アエネアス（Aeneas）がイタリアへ渡りローマ建国の礎を築くまでの旅と戦いを語る。ホメロス『イーリアス』・『オデュッセイア』の継承として構想され、アウグストゥスの帝国神話を詩的に定式化した。ウェルギリウスは未完成のまま死去し、遺言で焼却を求めたが、アウグストゥスの命でウァリウスとトゥッカが刊行した。序詩（v.1–11）は二つの層から成る。冒頭の四行（「Ille ego qui…」）は後代の付加と見る学者も多く、ウェルギリウス自身が牧歌・農耕詩から叙事詩へと詩的遍歴を辿ることを回顧する「作者署名（sphragis）」として機能する。続くv.5–11（「Arma virumque…」）が『アエネーイス』の真の冒頭行であり、「Arma virumque cano（武器と人を私は歌う）」はホメロスの「怒りを歌え（mênis）」・「人を語れ（andra）」への二重の参照として、西洋叙事詩の最も有名な書き出しの一つ。ムーサへの問い（v.8–11）がユーノーの怒りという動因を物語の起動として定式化し、詩集全体の神学的・政治的枠組みを設定する。ダンテ『神曲』地獄篇第1歌でウェルギリウスが「アエネアスを歌った詩人」として自己紹介する場面（Inf.1, v.73–75）は、この序詩への直接的な参照。",
+  "keywords": [
+    "Arma virumque",
+    "Aeneas",
+    "pietas",
+    "Iuno",
+    "序詩",
+    "叙事詩の起源",
+    "ムーサへの問い",
+    "fatum",
+    "Roma",
+    "Musa"
+  ],
+  "relatedTexts": [
+    "vergilius_eclogae_1",
+    "vergilius_eclogae_4",
+    "vergilius_aeneis_1_lacrimae",
+    "vergilius_aeneis_4_dido",
+    "vergilius_aeneis_6_descensus",
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_22"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "preface",
+      "speaker": "Poeta",
+      "original": "Ille ego, quī quondam gracilī modulātus avēna\ncarmen, et ēgressus silvīs vīcīna coēgī\nut quamvis avidō pārērent arva colōnō,\ngratum opus agricolīs, at nunc horrentia Mārtis",
+      "provisionalTranslation": "かつて細い葦笛で詩を奏で、\n森を出て隣の田畑を\nいかに貪欲な農夫にも従わせたわたし、\n農夫たちに喜ばれたその業、今はマルスの"
+    },
+    {
+      "id": 1,
+      "verses": "v.1–7",
+      "speaker": "Poeta",
+      "original": "Arma virumque canō, Trōiae quī prīmus ab ōrīs\nĪtaliam, fātō profugus, Lāvīniaque vēnit\nlītora, multum ille et terrīs iactātus et altō\nvī superum saevae memorem Iūnōnis ob īram;\nmulta quoque et bellō passus, dum conderet urbem,\nīnferretque deōs Latiō, genus unde Latīnum,\nAlbānīque patrēs, atque altae moenia Rōmae.",
+      "provisionalTranslation": "武器と人を私は歌う、トロイアの岸辺からいち早く\n運命に追われてイタリアへ、ラウィニウムの\n岸辺へとやって来た者を、陸でも海でも多く\n神々の力と残忍なユーノーの執念深い怒りによって翻弄され、\n戦においても多く苦しみながら、町を建てるまでに、\nそして神々をラティウムへと導くまでに──そこからラテン族が、\nアルバの父祖たちが、そして高きローマの城壁が生まれた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.8–11",
+      "speaker": "Poeta",
+      "original": "Mūsa, mihī causās memorā, quō nūmine laesō,\nquidve dolēns, rēgīna deum tot volvere cāsūs\nīnsignem pietāte virum, tot adīre labōrēs\nimpulerit. Tantaene animīs caelestibus īrae?",
+      "provisionalTranslation": "ムーサよ、私に原因を語れ、どの神格を傷つけられ、\nあるいは何を悲しんで、神々の女王は、ピエタスで\n輝くこの人物をかくも多くの試練に転がし、\nかくも多くの労苦に近づくことを強いたか。天上の心にもかくも大いなる怒りがあるのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "commentary",
+      "anchor": "Ille ego, quī quondam gracilī modulātus avēna\ncarmen, et ēgressus silvīs vīcīna coēgī",
+      "body": "「かつて細い葦笛で詩を奏でたわたし、森を出て（Ille ego, quī quondam gracilī modulātus avēna / carmen, et ēgressus silvīs）」──詩人の自己署名（sphragis）として機能する四行。「gracili avena（細い葦笛）」は牧歌の楽器（第1牧歌「silvestrem tenui Musam meditaris avena」の反響）。「egrssus silvis（森を出て）」は牧歌的空間（silva）から叙事詩的空間（Mars・戦争）への詩的移行を宣言する。しかしこの四行は古代から真偽が疑われており、サービウスは「後代の付加」と記録する：ウェルギリウスが死去した際、原稿冒頭はこの付加なしに「Arma virumque」から始まっていたとも言われる。いずれにせよ、牧歌・農耕詩・叙事詩という三段階の詩的遍歴の自己回顧として、詩集全体への「署名」として機能する点に詩学的重要性がある。"
+    },
+    {
+      "paragraphId": 0,
+      "type": "intertextual",
+      "anchor": "gracilī modulātus avēna",
+      "body": "「細い葦笛で奏でた（gracili modulatus avena）」──第1牧歌「silvestrem tenui Musam meditaris avena（細い葦笛で森の詩神を奏でる）」・第6牧歌「agrestem tenui meditabor harundine musam（細い葦笛で田舎のムーサを奏でる）」への直接的参照。「gracilis（細い）」という形容詞が牧歌の「低い文体（genus tenue）」の詩学的標識として繰り返される──詩人が「細さ」から「武器（Arma）」という「壮大な文体（genus grande）」へと移行することの宣言。煉獄篇第22歌でスタティウスがウェルギリウスを「cantor de' buccolici carmi（牧歌の歌い手）」と呼ぶ場面が、この自己署名の詩集的受容として機能する。",
+      "targetId": "vergilius_eclogae_6",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Arma virumque canō, Trōiae quī prīmus ab ōrīs",
+      "body": "「武器と人を私は歌う（Arma virumque cano）」──西洋叙事詩の最も有名な書き出し。「Arma（武器）」はホメロス『イーリアス』への参照（戦争の詩）、「virum（人）」はホメロス『オデュッセイア』への参照（「人を語れ、ムーサよ：多くを放浪した者を」）：一語で二大先行叙事詩を総合する。「cano（私は歌う）」という一人称現在形が詩的行為の即時性と現在性を宣言する──ホメロスの「ムーサよ、歌え（aeide, Mousa）」という三人称命令形と異なり、詩人自身が主体として歌う。「Troiae qui primus ab oris（トロイアの岸辺からいち早く）」──「primus（最初・いち早く）」という語がローマの優先性・起源性への主張を担う。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "multum ille et terrīs iactātus et altō\nvī superum saevae memorem Iūnōnis ob īram;",
+      "body": "「陸でも海でも多く、神々の力と残忍なユーノーの執念深い怒りによって翻弄され（multum ille et terris iactatus et alto / vi superum saevae memorem Iunonis ob iram）」──「iactatus（翻弄された）」という受動形が主人公の受難の受動性を示す：アエネアスは能動的な英雄ではなく運命（fatum）と神々の意志に翻弄される者として提示される。「memorem Iunonis（執念深いユーノーの）」──「memor（記憶する・執念深い）」という形容詞がユーノーを永続的な怒りの保持者として定義する：トロイアへの怒りを忘れない女神。コヘレト第1章「Non est priorum memoria（先のことどもの記憶はない）」という記憶の不在と対照的に、ユーノーの「記憶（memoria）」が物語の動因として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "multa quoque et bellō passus, dum conderet urbem,\nīnferretque deōs Latiō, genus unde Latīnum,\nAlbānīque patrēs, atque altae moenia Rōmae.",
+      "body": "「町を建てるまでに……そこからラテン族が、アルバの父祖たちが、そして高きローマの城壁が生まれた（dum conderet urbem…genus unde Latinum, / Albanīque patres, atque altae moenia Romae）」──三段階の歴史的帰結（ラテン族→アルバ→ローマ）が一文で纏められる詩的圧縮。「altae moenia Romae（高きローマの城壁）」という詩の最初の段落の最後の語として置かれた「Romae」が詩全体の目的地・終着点として詩学的に定位される。ウェルギリウスの六歩格（hexameter）において最終語が詩の「テロス（目的）」を指示するという詩学的原理の最も典型的な例の一つ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "fātō profugus",
+      "body": "「運命に追われて（fato profugus）」──「fatum（運命・神の言葉）」はラテン語「fari（語る）」の過去分詞：「語られたこと」が「運命」を意味する。アエネアスを動かすのは彼自身の意志ではなく「語られた」神の言葉である──この受動性が『アエネーイス』の神学的中心。ダンテ『地獄篇』第1歌でウェルギリウスがアエネアスを「il giusto figliuol d'Anchise（正しきアンキーセスの子）」と呼ぶ場面がこの「fato（運命）」による正当性の詩的継承。コヘレト的「afflictio spiritus（霊の苦悩）」として人間が宇宙的力に翻弄されるという主題との深い照応。",
+      "targetId": "dante_inferno_canto_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Mūsa, mihī causās memorā, quō nūmine laesō,",
+      "body": "「ムーサよ、私に原因を語れ、どの神格を傷つけられ（Musa, mihi causas memora, quo numine laeso）」──叙事詩の「ムーサへの呼びかけ（invocatio Musae）」の定型。ホメロス『イーリアス』冒頭「怒りを歌え、女神よ（mênin aeide, thea）」の変形。しかし「musa, mihi…memora（ムーサよ、私に語れ）」という「m」の頭韻（alliteratio）が音響的に詩行を結束させる。「quo numine laeso（どの神格を傷つけられ）」という問いがユーノーの動機の解明を詩学的課題として設定する──詩は「原因（causa）」の探究として提示される：因果関係の解明という叙事詩的知的欲求。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "īnsignem pietāte virum, tot adīre labōrēs\nimpulerit. Tantaene animīs caelestibus īrae?",
+      "body": "「ピエタスで輝くこの人物をかくも多くの試練に転がし、かくも多くの労苦に近づくことを強いたか。天上の心にもかくも大いなる怒りがあるのか？（insignem pietate virum, tot adire labores / impulerit. Tantaene animis caelestibus irae?）」──「pietas（ピエタス）」はアエネアスの中心的徳目：神への敬虔・父への義務・国家への責任の統合。「insignem pietate（ピエタスで輝く）」という形容が直後の「Tantaene animis caelestibus irae?（天上の心にもかくも大いなる怒りがあるのか？）」という問いと対置される：最も徳高い者が最も激しく苦しめられるという逆説がこの詩の根本的な倫理的問題。ヨブ記「純朴で正しく、神を畏れる（simplex et rectus, ac timens Deum）」者が試練を受けるという構造との照応：ウェルギリウスとヒエロニムスの「義人の苦悩」という共通の問いが詩の最初の11行に凝縮される。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 1
+    }
+  ]
+}
