@@ -1,0 +1,157 @@
+{
+  "id": "vergilius_aeneis_4_dido_maledictio",
+  "title": "Aeneis — Liber IV, Maledictio Didonis (v.584–641)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber IV, v.584–641. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_IV. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第4巻、アエネアスの船団がカルタゴを去る夜明けの場面。塔からアエネアスの船が出航するのを見たディードは絶望と怒りに駆られ、自らの過去の判断（アエネアスを生かしたこと・船団を焼かなかったこと）を呪い、最後に「呪詛（imprecatio）」の言葉でカルタゴとトロイア（ローマ）の永遠の敵対を予言する。この呪詛が後のポエニ戦争（カルタゴ対ローマ）の神話的起源として詩的に機能する点が『アエネーイス』の歴史的射程の核心。「Exoriare aliquis nostris ex ossibus ultor（わたしの骨から復讐者が現れよ）」（v.625）はハンニバルを暗示する予言的詩行として古代から解釈された。「Nullus amor populis nec foedera sunto（民族間に愛も盟約もあってはならない）」（v.624）という宣言が、個人的な恋の悲劇を国家間の永遠の敵対へと変換する詩的・政治的飛躍を成す。ディードの自己問責（v.595–606）における条件法過去（「Non potui…？」「Fuisset!」）の連続が、後悔という時間意識の文法的定式化として機能し、コヘレト的な「あったかもしれないこと」への執着を示す。",
+  "keywords": [
+    "Dido",
+    "呪詛",
+    "imprecatio",
+    "ポエニ戦争",
+    "ultor",
+    "Hannibal",
+    "後悔",
+    "Iuno",
+    "Hecate",
+    "復讐"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_1_lacrimae",
+    "vergilius_aeneis_4_dido_mors",
+    "vergilius_eclogae_8",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.584–589",
+      "speaker": "Narrator",
+      "original": "Et iam prīma nouō spargēbat lūmine terrās\nTīthōnī croceum linquēns Aurōra cubīle.\nRēgīna ē speculīs ut prīmam albēscere lūcem\nuīdit et aequātīs classem prōcēdere uēlīs,\nlītoraque et uacuōs sēnsit sine rēmige portūs,\nterque quaterque manū pectus percussa decōrum",
+      "provisionalTranslation": "そしてすでに新しい光で大地を撒き始めていた、\nアウロラはティトーノスのサフラン色の寝床を去って。\n女王が見張り台から最初の光が白くなり始めるのを\n見て、船団が等しく整えられた帆で進んでいくのを、\n岸辺と漕ぎ手のいない空虚な港を感じ取った、\n三度四度と手で美しい胸を打ち"
+    },
+    {
+      "id": 2,
+      "verses": "v.590–595",
+      "speaker": "Dido",
+      "original": "flāuentīsque abscissa comās 'Prō Iuppiter! Ībit\nhic,' ait 'et nostrīs inlūserit aduena rēgnīs?\nNōn arma expedient tōtāque ex urbe sequentur,\ndēripientque ratēs aliī nāuālibus? Īte,\nferte citī flammās, date tēla, impellite rēmōs!\nQuid loquor? Aut ubi sum? Quae mentem insānia mūtāt?",
+      "provisionalTranslation": "金色の髪を引きちぎりながら：「おお、ユーピテルよ！行くのか\nあの男は」と言った、「そしてよそ者がわれらの王国を嘲弄したのか？\n武器を整えず、町全体から追いはしないのか、\n他の者たちは船を船渠から引き出さないのか？行け、\n急いで火を持って来い、矢を与えよ、櫂を押せ！\nわたしは何を言っているのか？それともわたしはどこにいるのか？どんな狂気がわたしの心を変えるのか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.596–602",
+      "speaker": "Dido",
+      "original": "Īnfēlīx Dīdō, nunc tē facta impia tangunt?\nTum decuit, cum scēptra dabās. Ēn dextra fidēsque,\nquem sēcum patriōs āiunt portāre penātīs,\nquem subiisse umerīs cōnfectum aetāte parentem!\nNōn potuī abreptum dīuellere corpus et undīs\nspargere? Nōn sociōs, nōn ipsum absūmere ferrō\nAscanium patriīsque epulandum pōnere mēnsīs?",
+      "provisionalTranslation": "不幸なディードよ、今になって不敬な行いがお前に触れるのか？\nその時こそふさわしかった、王権を与えていた時に。見よ、右手と信義を、\n自分と共に父祖の家神を運んでいると言われる者の、\n年老いた父を肩に背負ったと言われる者の！\nわたしは引き裂いた体を波に\n撒くことができなかったのか？仲間たちを、彼自身を剣で\n滅ぼし、アスカニウスを父の食卓に供することができなかったのか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.603–606",
+      "speaker": "Dido",
+      "original": "Uērum anceps pugnae fuerat fortūna. Fuisset!\nQuem metuī moritūra? Facēs in castra tulissem\nimplēssemque forōs flammīs nātumque patremque\ncum genere exstinxem, mēmet super ipsa dedissem.",
+      "provisionalTranslation": "しかし戦いの運命は両義的だっただろう。そうだったとしても！\n死にゆく者がなぜ恐れただろうか？火を陣営に持って行き\n甲板を炎で満たし、息子も父も\nその一族と共に滅ぼし、わたし自身もその上に身を投げていただろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.607–614",
+      "speaker": "Dido",
+      "original": "Sōl, quī terrārum flammīs opera omnia lustrās,\ntūque hārum interpres cūrārum et cōnscia Iūnō,\nnocturnīsque Hecatē triuiīs ululāta per urbēs\net Dīrae ultrīcēs et dī morientis Elissae,\naccipite haec, meritumque malīs aduertite nūmen\net nostrās audīte precēs. Sī tangere portūs\nīnfandum caput ac terrīs adnāre necesse est,\net sīc fāta Iouis poscunt, hic terminus haeret,",
+      "provisionalTranslation": "太陽よ、お前の炎で大地のすべての業を照らす者よ、\nそしてお前、これらの心配の解釈者であり共謀者であるユーノーよ、\n夜の三叉路で町々を通して吠えられるヘカテよ、\nそして報復の女神たちと死にゆくエリッサの神々よ、\nこれらを受け取り、悪行に値する神威を向けよ、\nそしてわれらの祈りを聞け。もし港に触れることが、\nあの言うべからざる頭が地に泳ぎ着くことが必要なら、\nそしてユーピテルの運命がそう求めるなら、この境界は留まる、"
+    },
+    {
+      "id": 6,
+      "verses": "v.615–621",
+      "speaker": "Dido",
+      "original": "at bellō audācis populī uexātus et armīs,\nfīnibus extorris, complexū āuulsus Iūlī\nauxilium implōret uideatque indigna suōrum\nfūnera; nec, cum sē sub lēgēs pācis inīquae\ntrādiderit, rēgnō aut optātā lūce fruātur,\nsed cadat ante diem mediāque inhumātus harēnā.\nHaec precor, hanc uōcem extrēmam cum sanguine fundō.",
+      "provisionalTranslation": "しかし大胆な民族の戦いと武器に苦しめられ、\n国境から追われ、イウールスの抱擁から引き離されて、\n援助を懇願し、自分の者たちの値しない\n葬りを見るがいい；不公平な平和の法に\n身を委ねた後も、王国や望んだ光を享受することなく、\n時を待たずに倒れ、砂浜の真ん中に埋葬されぬまま。\nこれをわたしは祈る、この最後の声を血と共に注ぎ出す。"
+    },
+    {
+      "id": 7,
+      "verses": "v.622–629",
+      "speaker": "Dido",
+      "original": "Tum uōs, ō Tyriī, stirpem et genus omne futūrum\nexercēte odiīs, cinerīque haec mittite nostrō\nmūnera. Nūllus amor populīs nec foedera suntō.\nExoriāre aliquis nostrīs ex ossibus ultor\nquī face Dardaniōs ferrōque sequāre colōnōs,\nnunc, ōlim, quōcumque dabunt sē tempore uīrēs.\nLītora lītoribus contrāria, flūctibus undās\nimprecor, arma armīs: pugnent ipsīque nepōtēs-",
+      "provisionalTranslation": "そして、おおテュロスの者たちよ、彼の血統と未来のすべての種族を\n憎しみで追い続けよ、そしてわたしの灰にこの\n贈り物を送れ。民族間に愛も盟約もあってはならない。\nわたしの骨から誰か復讐者が現れよ、\n火と剣でダルダニアの植民者たちを追う者が、\n今も、いつか後も、力が与えられるどんな時にも。\n岸辺には岸辺を、波には波を対立させることを\nわたしは呪う、武器には武器を：そして子孫たち自身も戦うがいい──"
+    },
+    {
+      "id": 8,
+      "verses": "v.629–631",
+      "speaker": "Narrator",
+      "original": "que.'Haec ait, et partīs animum uersābat in omnīs,\ninuīsam quaerēns quam prīmum abrumpere lūcem.",
+      "provisionalTranslation": "──子孫同士も。」彼女はこう言って、心をあらゆる方向に\n巡らせながら、できるだけ早く憎むべき光を断ち切る道を求めていた。"
+    },
+    {
+      "id": 9,
+      "verses": "v.632–641",
+      "speaker": "Dido",
+      "original": "Tum breuiter Barcēn nūtrīcem adfāta Sychāei,\nnamque suam patriā antīquā cinis āter habēbat:\n'Annam, cāra mihī nūtrix, hūc siste sorōrem:\ndīc corpus properet fluuiālī spargere lymphā,\net pecudēs sēcum et monstrāta piācula dūcat.\nSīc ueniat, tūque ipsa piā tege tempora uittā.\nSacra Iouī Stygiō, quae rīte incepta parāuī,\nperficere est animus fīnemque impōnere cūrīs\nDardaniīque rogum capitis permīttere flammae.'\nSīc ait. Īlla gradum studiō celebrābat anīlī.",
+      "provisionalTranslation": "それから手短にシュカエウスの乳母バルケーに語りかけた、\nというのも彼女自身の乳母は古い祖国で黒い灰となっていたから：\n「アンナを、わたしの愛しい乳母よ、ここへ来させてくれ：\n言ってくれ、急いで体に川の水を撒くようにと、\n供犠の動物たちと示された贖罪の品々を共に連れて来るようにと。\nそのように来るがいい、そしてお前自身も敬虔な帯で頭を覆え。\nステュクスのユーピテルへの儀礼を、正しく始めるよう準備した、\n完成させる意図がある、そして心配に終わりを置き、\nダルダニアの頭の薪台を炎に委ねる意図が。」\nそう言った。彼女は老いた女の熱意で歩みを早めた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Et iam prīma nouō spargēbat lūmine terrās\nTīthōnī croceum linquēns Aurōra cubīle.",
+      "body": "「すでに新しい光で大地を撒き始めていた、アウロラはティトーノスのサフラン色の寝床を去って（Et iam prima novo spargebat lumine terras / Tithoni croceum linquens Aurora cubile）」──夜明けの定型的描写による場面転換。「Aurora（アウロラ）」と「Tithonus（ティトーノス）」──不死を得たが老いを免れなかったティトーノスの神話（アウロラの夫）が、不死性と死の運命という主題をディードの物語の直前に置く。「croceum cubile（サフラン色の寝床）」という色彩的描写が美しい夜明けと、その後に続く破壊的な絶望の場面との残酷な対比を形成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quid loquor? Aut ubi sum? Quae mentem insānia mūtāt?",
+      "body": "「わたしは何を言っているのか？それともわたしはどこにいるのか？どんな狂気がわたしの心を変えるのか？（Quid loquor? Aut ubi sum? Quae mentem insania mutat?）」──三つの短い疑問文（interrogatio）による自己認識の崩壊の劇的表現。「insania（狂気）」という語が牧歌的「dementia」の系譜（第2牧歌・第6牧歌・第10牧歌）と語彙的に連動する：恋の喪失が理性の喪失として一貫して詩集的に定式化される。この自己問いかけがディードの最初の激情（武器を整えよという命令）からの突然の覚醒を示す：理性の短い回帰がすぐ次の段落でさらに深い絶望（自己問責）へと崩れていく。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Nōn potuī abreptum dīuellere corpus et undīs\nspargere? Nōn sociōs, nōn ipsum absūmere ferrō\nAscanium patriīsque epulandum pōnere mēnsīs?",
+      "body": "「引き裂いた体を波に撒くことができなかったのか？……アスカニウスを父の食卓に供することができなかったのか？（Non potui abreptum divellere corpus et undis / spargere?…Ascanium patriisque epulandum ponere mensis?）」──ディードの想像する暴力の極限。「epulandum ponere mensis（食卓に供する）」という人肉食の暗示（テュエステス的・テレウス的神話素材への接近）が、ディードの想像力が倫理的境界を越える絶望の深度を示す。「Non potui…？（できなかったのか？）」という反復される疑問文が条件法過去の様相とともに、実行されなかった暴力への執着を文法的に定式化する：実現しなかった可能性への悔恨という時間意識。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Uērum anceps pugnae fuerat fortūna. Fuisset!\nQuem metuī moritūra?",
+      "body": "「しかし戦いの運命は両義的だっただろう。そうだったとしても！死にゆく者がなぜ恐れただろうか？（Verum anceps pugnae fuerat fortuna. Fuisset! / Quem metuī moritūra?）」──「Fuisset!（そうだったとしても！）」という一語のみの感嘆的反論が修辞的頂点を形成する：たとえ戦いの結果が不確実であっても、死を覚悟していたなら恐れる理由がなかったという自己反論。条件法過去完了の畳み掛け（fuerat / Fuisset）が「もしも」という反実仮想の文法を用いて、後悔の時間構造──現在から見た過去の分岐点への執着──を音楽的に表現する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "nocturnīsque Hecatē triuiīs ululāta per urbēs\net Dīrae ultrīcēs et dī morientis Elissae,",
+      "body": "「夜の三叉路で町々を通して吠えられるヘカテよ、そして報復の女神たちと死にゆくエリッサの神々よ（nocturnisque Hecate triviis ululata per urbes / et Dirae ultrices et di morientis Elissae）」──呪詛の神学的装置の列挙。「Hecate（ヘカテ）」は冥界・魔術・三叉路の女神：夜間の呪術的儀礼との結びつき。「Dirae ultrices（報復の女神たち）」はフリアエ（エリーニュス）の別名：血の復讐を司る神々。「Elissa（エリッサ）」はディードの別名（フェニキア名）：「死にゆくエリッサの神々」という表現が、ディード自身がまだ死んでいないにもかかわらず自らを既に死者として神々に呼びかける予言的・自己言及的な詩行。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "sed cadat ante diem mediāque inhumātus harēnā.",
+      "body": "「時を待たずに倒れ、砂浜の真ん中に埋葬されぬまま（sed cadat ante diem mediaque inhumatus harena）」──「inhumatus（埋葬されぬ）」という運命の呪い。古代の宗教意識において埋葬されないことは魂の永遠の不安と冥界への入場拒否を意味する最も恐ろしい呪い：ホメロス的・ローマ的宗教観における埋葬の神聖な義務への違反。ディードがアエネアスに「時を待たない死（ante diem）」と「埋葬なき死」という二重の呪いをかけることが、後の物語でアエネアス自身がイタリアで戦死せず帰国するという結末との詩的緊張を生む──呪いは部分的にしか実現しない。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Exoriāre aliquis nostrīs ex ossibus ultor\nquī face Dardaniōs ferrōque sequāre colōnōs,",
+      "body": "「わたしの骨から誰か復讐者が現れよ、火と剣でダルダニアの植民者たちを追う者が（Exoriare aliquis nostris ex ossibus ultor / qui face Dardanios ferroque sequare colonos）」──詩集中最も歴史的に重要な予言的詩行。「ultor（復讐者）」という語が古代から後のハンニバル（Hannibal, 247–183/181 BC、第二次ポエニ戦争でイタリアに侵攻したカルタゴの将軍）の予型として解釈された：ウェルギリウスの読者（アウグストゥス時代のローマ人）にとってこの呪いは歴史的に「成就した」予言として読める。ローマ建国神話（アエネアス）とローマ最大の敵（ハンニバル・カルタゴ）の起源が同一の悲劇的場面（ディードの呪い）に結びつけられる、ウェルギリウスの最も大胆な神話的・歴史的統合。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "Lītora lītoribus contrāria, flūctibus undās\nimprecor, arma armīs: pugnent ipsīque nepōtēs-",
+      "body": "「岸辺には岸辺を、波には波を対立させることをわたしは呪う、武器には武器を：そして子孫たち自身も戦うがいい（Litora litoribus contraria, fluctibus undas / imprecor, arma armis: pugnent ipsique nepotes）」──三重の対句反復（polyptoton）「litora litoribus」「fluctibus undas」「arma armis」が呪詛の修辞的頂点を形成する：同根語の反復が永遠の対立・反復する戦争という呪いの内容を音響的に模倣する。この一行はラテン語修辞学における「対立の対立（contrarium contrario）」の最も完成された詩的実例として古代から評価された。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sacra Iouī Stygiō, quae rīte incepta parāuī,\nperficere est animus fīnemque impōnere cūrīs\nDardaniīque rogum capitis permīttere flammae.'",
+      "body": "「ステュクスのユーピテルへの儀礼を……完成させる意図がある、そして心配に終わりを置き、ダルダニアの頭の薪台を炎に委ねる意図が（Sacra Iovi Stygio…perficere est animus finemque imponere curis / Dardaniique rogum capitis permittere flammae）」──ディードの妹アンナへの欺瞞的説明。「Iovi Stygio（ステュクスのユーピテル）」はプルートー（冥界の王）への婉曲表現：表向きは魔術的儀礼（アエネアスへの愛を断つための呪術）を装うが、実際には自死の準備であることが読者には分かる二重の意味構造。「Dardaniique rogum capitis（ダルダニアの頭の薪台）」という表現がアエネアスの肖像や持ち物を燃やす儀式を指すように見せながら、実際にはディード自身の葬送の薪台（rogus）を準備していることの劇的アイロニー。"
+    }
+  ]
+}
+
+
+    json.dump(data, f, ensure_ascii=False, indent=2)
+print("Written:", output_path)
+PYEOF
