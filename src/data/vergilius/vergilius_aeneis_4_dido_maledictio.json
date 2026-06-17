@@ -151,7 +151,3 @@
   ]
 }
 
-
-    json.dump(data, f, ensure_ascii=False, indent=2)
-print("Written:", output_path)
-PYEOF
