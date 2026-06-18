@@ -9,7 +9,7 @@
   "category": "wilde",
   "originalLang": "en-GB",
   "modernRelevance": "★★★★★",
-  "context": "「パンテア（Panthea）」はギリシャ語で「すべての神々」を意味し、汎神論的宇宙観そのものを題名とする。1881年の詩集『Poems』に収録。全30連（各6行、aabbcc韻）という大規模な哲学詩で、ワイルドの思想的達成として「ヒューマニタッド（Humanitad）」と並ぶ最重要作品。\n\n詩は三部に分かれる。第Ⅰ部（1–15連）：夏の夜、若い恋人たちへの呼びかけ——哲学的問いを捨て、感覚と情熱に身を委ねよ。老いた神々はもはや人間の苦悩に応えず、黄蓮の飲み物で眠っている。死後の来世も、ステュクスの渡し舟も幻想だ。第Ⅱ部（16–23連）：転換点。死は終わりではなく変容だ。われわれの身体は水仙や睡蓮へと生まれ変わり、大地を肥やし、少年と少女として再び感じ合う。個は宇宙的生命のリズム（「システォルとダイアストール」）の一部をなす。第Ⅲ部（24–30連）：愛した者たちの魂は山羊座の牧神、ケンタウロス、ツグミ、鷲として生き続ける。自然のすべての美——水仙、薔薇、蜂の愛——は人間の愛のおかげで存在する。最後の連でわれわれは「宇宙的魂と混じり合い」「宇宙そのものがわれわれの不死性となる」と結ばれる。\n\nスウィンバーンの「アタランタ」やシェリーの「アドナイス」の汎神論的死生観を継承しつつ、ダーウィン進化論（「上位から下位細胞へ」）とスペンサー的宇宙論（システォル・ダイアストール）を詩的言語に溶融させた野心作。ワイルドのオックスフォード時代（1874–79）の精神的熱狂の結晶。",
+  "context": "「パンテア（Panthea）」はギリシャ語で「すべての神々」を意味し、汎神論的宇宙観そのものを題名とする。1881年の詩集『Poems』に収録。全30連（各6行、aabbcc韻）という大規模な哲学詩で、ワイルドの思想的達成として「ヒューマニタッド（Humanitad）」と並ぶ最重要作品。\n\n詩は三部に分かれる。第Ⅰ部（1–15連）：夏の夜、若い恋人たちへの呼びかけ──哲学的問いを捨て、感覚と情熱に身を委ねよ。老いた神々はもはや人間の苦悩に応えず、黄蓮の飲み物で眠っている。死後の来世も、ステュクスの渡し舟も幻想だ。第Ⅱ部（16–23連）：転換点。死は終わりではなく変容だ。われわれの身体は水仙や睡蓮へと生まれ変わり、大地を肥やし、少年と少女として再び感じ合う。個は宇宙的生命のリズム（「システォルとダイアストール」）の一部をなす。第Ⅲ部（24–30連）：愛した者たちの魂は山羊座の牧神、ケンタウロス、ツグミ、鷲として生き続ける。自然のすべての美──水仙、薔薇、蜂の愛──は人間の愛のおかげで存在する。最後の連でわれわれは「宇宙的魂と混じり合い」「宇宙そのものがわれわれの不死性となる」と結ばれる。\n\nスウィンバーンの「アタランタ」やシェリーの「アドナイス」の汎神論的死生観を継承しつつ、ダーウィン進化論（「上位から下位細胞へ」）とスペンサー的宇宙論（システォル・ダイアストール）を詩的言語に溶融させた野心作。ワイルドのオックスフォード時代（1874–79）の精神的熱狂の結晶。",
   "keywords": ["汎神論", "死と変容", "宇宙的魂", "進化論", "エロス", "不死", "スウィンバーン", "シェリー"],
   "relatedTexts": [
     "wilde_sphinx",
@@ -21,12 +21,12 @@
     {
       "id": 1,
       "originalText": "Nay, let us walk from fire unto fire,\nFrom passionate pain to deadlier delight,—\nI am too young to live without desire,\nToo young art thou to waste this summer night\nAsking those idle questions which of old\nMan sought of seer and oracle, and no reply was told.\n\nFor, sweet, to feel is better than to know,\nAnd wisdom is a childless heritage,\nOne pulse of passion—youth's first fiery glow,—\nAre worth the hoarded proverbs of the sage:\nVex not thy soul with dead philosophy,\nHave we not lips to kiss with, hearts to love and eyes to see!",
-      "provisionalTranslation": "いや、炎から炎へと歩もう、\n情熱的な苦痛からより致死的な歓楽へ、——\nわたしは欲望なしに生きるには若すぎる、\nそなたも若すぎるこの夏の夜を無駄にするには\n昔から人が預言者や神託に問い求めて\n何も答えを得られなかった、あの無駄な問いを立てるには。\n\nなぜなら、いとしいひとよ、感じることは知ることより優れているから、\n知恵とは子のない遺産であり、\n情熱の一搏動——青春の初めの燃え立つ輝き——は\n賢人の蓄えられた格言に匹敵する：\n死んだ哲学で魂を悩ますな、\nわれわれには口付けする唇も、愛する心も、見る目もあるではないか！"
+      "provisionalTranslation": "いや、炎から炎へと歩もう、\n情熱的な苦痛からより致死的な歓楽へ、──\nわたしは欲望なしに生きるには若すぎる、\nそなたも若すぎるこの夏の夜を無駄にするには\n昔から人が預言者や神託に問い求めて\n何も答えを得られなかった、あの無駄な問いを立てるには。\n\nなぜなら、いとしいひとよ、感じることは知ることより優れているから、\n知恵とは子のない遺産であり、\n情熱の一搏動──青春の初めの燃え立つ輝き──は\n賢人の蓄えられた格言に匹敵する：\n死んだ哲学で魂を悩ますな、\nわれわれには口付けする唇も、愛する心も、見る目もあるではないか！"
     },
     {
       "id": 2,
       "originalText": "Dost thou not hear the murmuring nightingale,\nLike water bubbling from a silver jar,\nSo soft she sings the envious moon is pale,\nThat high in heaven she is hung so far\nShe cannot hear that love-enraptured tune,—\nMark how she wreathes each horn with mist, yon late and labouring moon.\n\nWhite lilies, in whose cups the gold bees dream,\nThe fallen snow of petals where the breeze\nScatters the chestnut blossom, or the gleam\nOf boyish limbs in water,—are not these\nEnough for thee, dost thou desire more?\nAlas! the Gods will give nought else from their eternal store.",
-      "provisionalTranslation": "そなたは夜鶯のさやかな声が聞こえないか、\n銀の壺からほとばしる水のように、\nあれほど柔らかく歌うから嫉妬深い月が青ざめ、\n天の高みに遠くかかっているため\nあの愛に恍惚とした旋律を聞くことができない、——\nご覧、ヴェールのような霧を両角に巻きつけているあの遅く重そうな月を。\n\n黄金の蜂が夢見る杯をもつ白百合、\n微風がマロニエの花を撒き散らすところの\n花びらの降り積もる雪、あるいは水の中の\n少年の手足の輝き、——これらはそなたには\n足りないか、もっと望むか？\nああ！神々はその永遠の蓄えから他には何も与えないのだ。"
+      "provisionalTranslation": "そなたは夜鶯のさやかな声が聞こえないか、\n銀の壺からほとばしる水のように、\nあれほど柔らかく歌うから嫉妬深い月が青ざめ、\n天の高みに遠くかかっているため\nあの愛に恍惚とした旋律を聞くことができない、──\nご覧、ヴェールのような霧を両角に巻きつけているあの遅く重そうな月を。\n\n黄金の蜂が夢見る杯をもつ白百合、\n微風がマロニエの花を撒き散らすところの\n花びらの降り積もる雪、あるいは水の中の\n少年の手足の輝き、──これらはそなたには\n足りないか、もっと望むか？\nああ！神々はその永遠の蓄えから他には何も与えないのだ。"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
     {
       "id": 8,
       "originalText": "The boy's first kiss, the hyacinth's first bell,\nThe man's last passion, and the last red spear\nThat from the lily leaps, the asphodel\nWhich will not let its blossoms blow for fear\nOf too much beauty, and the timid shame\nOf the young bridegroom at his lover's eyes,—these with the same\n\nOne sacrament are consecrate, the earth\nNot we alone hath passions hymeneal,\nThe yellow buttercups that shake for mirth\nAt daybreak know a pleasure not less real\nThan we do, when in some fresh-blossoming wood\nWe draw the spring into our hearts, and feel that life is good.",
-      "provisionalTranslation": "少年の最初の口付け、ヒヤシンスの最初の鐘、\n男の最後の情熱、そして百合から跳び出す\n最後の赤い穂、美しすぎることを恐れて\n花を開かせようとしないアスフォデル、\nそして若い花婿の恋人の目に向けた臆病な羞恥心、——これらは同じ\n\nひとつの秘儀によって聖なるものとされる、大地は\nわれわれだけでなく婚礼の情熱を持ち、\n夜明けに喜びで震える黄色い金鳳花は\nわれわれが何か花咲く木立で\n春をわれわれの心に引き込んで、生命は素晴らしいと感じる時よりも\n劣らない快楽を知っている。"
+      "provisionalTranslation": "少年の最初の口付け、ヒヤシンスの最初の鐘、\n男の最後の情熱、そして百合から跳び出す\n最後の赤い穂、美しすぎることを恐れて\n花を開かせようとしないアスフォデル、\nそして若い花婿の恋人の目に向けた臆病な羞恥心、──これらは同じ\n\nひとつの秘儀によって聖なるものとされる、大地は\nわれわれだけでなく婚礼の情熱を持ち、\n夜明けに喜びで震える黄色い金鳳花は\nわれわれが何か花咲く木立で\n春をわれわれの心に引き込んで、生命は素晴らしいと感じる時よりも\n劣らない快楽を知っている。"
     },
     {
       "id": 9,
