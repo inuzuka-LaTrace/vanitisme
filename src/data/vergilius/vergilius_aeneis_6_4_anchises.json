@@ -1,0 +1,167 @@
+{
+  "id": "vergilius_aeneis_6_anchises",
+  "title": "Aeneis — Liber VI, Anchises (v.679–723)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.679–723. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、アエネアスと亡き父アンキーセスの再会の場面。アンキーセスは緑の谷間で、これから天上の光へ生まれ変わるべき魂たちを熱心に検閲している──子孫たちの運命・運勢・性格・行いを数え上げる父祖の姿が描かれる。アエネアスを見たアンキーセスの叫び「Venisti tandem（ついに来たか）」（v.687）という再会の喜びと、三度抱擁を試みて三度失敗する場面（v.700–702、「Ter conatus…ter frustra」）が、霊体の非物質性という冥界論的限界を最も感動的に演出する。「par levibus ventis volucrique simillima somno（軽い風に等しく、飛び去る夢に最も似ている）」という直喩が、霊魂の捉えがたさを風と夢という二重の比喩で定式化する。続くレテ川（Lethaeus amnis）の場面（v.703–715）は、生まれ変わりを待つ無数の魂たちが蜂の群れのように川辺に群がり、忘却の水（securos latices et longa oblivia）を飲む様子を描く：忘却が新たな生への必要条件として提示される思想的に重要な場面。アエネアスの問い「なぜ魂は再び鈍い身体へ戻りたいと望むのか（v.719–721）」が、輪廻転生の思想に対する根本的な疑問を提起し、次に続くアンキーセスの宇宙論的説明（v.724以降）への導入となる。ダンテ『神曲』煉獄篇のレテ川（罪の記憶を消す川）の直接的源泉。",
+  "keywords": [
+    "Anchises",
+    "再会",
+    "Ter conatus",
+    "Lethaeus",
+    "レテ川",
+    "忘却",
+    "輪廻転生",
+    "魂",
+    "三度の抱擁",
+    "蜂の比喩"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_elysium",
+    "vergilius_aeneis_6_animae_1",
+    "vergilius_aeneis_1_lacrimae",
+    "dante_inferno_canto_1",
+    "dante_purgatorio_canto_30",
+    "rodenbach_loubli"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.679–683",
+      "speaker": "Narrator",
+      "original": "At pater Anchīsēs penitus conualle uirentī\ninclūsās animās superumque ad lūmen itūrās\nlustrābat studiō recolēns, omnemque suōrum\nforte recēnsēbat numerum, cārōsque nepōtēs\nfātaque fortūnāsque uirum mōrēsque manūsque.",
+      "provisionalTranslation": "しかし父アンキーセスは深い緑の谷の中で\n閉じ込められた魂たちが上の光へと行こうとしているのを\n熱心に思いを込めて検閲していた、そしてちょうど自分の者たちの\n全数を数え上げていた、愛しい子孫たちを、\n人々の運命と運勢と性格と行いを。"
+    },
+    {
+      "id": 2,
+      "verses": "v.684–689",
+      "speaker": "Narrator",
+      "original": "Isque ubi tendentem aduersum per grāmina uīdit\nAenēān, alacrīs palmās utrāsque tetendit,\nEffūsaeque genīs lacrimae et uox excidit ōre:\n'Uēnistī tandem, tuāque exspectāta parentī\nuīcit iter dūrum piētās? Datur ōra tuērī,\nnāte, tua et nōtās audīre et reddere uōcēs?",
+      "provisionalTranslation": "そして彼は草を通って向かい来るアエネアスを\n見ると、活気づいて両手を差し伸べた、\n頬には涙が流れ落ち、口から声がこぼれた：\n「ついに来たか、そしてお前のピエタスが\n父にとって待たれていた困難な道に勝ったのか？顔を見ることが叶うのか、\nわが子よ、お前の顔を、そして見慣れた声を聞き、返すことが？"
+    },
+    {
+      "id": 3,
+      "verses": "v.690–694",
+      "speaker": "Anchises",
+      "original": "Sīc equidem dūcēbam animō rēbarque futūrum\ntempora dīnumerāns, nec mē mea cūra fefellit.\nQuas ego tē terrās et quanta per aequora uectum\naccipiō! Quantīs iactātum, nāte, perīclīs!\nQuam metuī nē quid Libyae tibi rēgna nocērent!'",
+      "provisionalTranslation": "実にこのようにわたしは心の中で思い、そうなるだろうと考えていた、\n時を数えながら、わたしの心配はわたしを欺かなかった。\nどのような土地を通り、どれほどの海を渡ってお前が\n運ばれてきたかをわたしは知る！どれほどの危難に揉まれたか、わが子よ！\nどれほどわたしは恐れたことか、リビアの王国がお前に何か害をなすのではないかと！」"
+    },
+    {
+      "id": 4,
+      "verses": "v.695–699",
+      "speaker": "Aeneas",
+      "original": "Ille autem: 'Tua mē, genitor, tua trīstis imāgō\nsaepius occurrēns haec līmina tendere adēgit;\nstant sale Tyrrhēnō classēs. Dā iungere dextram,\ndā, genitor, tēque amplexū nē subtrahe nostrō.'\nSīc memorāns largō flētū simul ōra rigābat.",
+      "provisionalTranslation": "彼は答えた：「あなたの、父よ、あなたの悲しい姿が\nしばしば現れて、この敷居へ向かうことをわたしに強いました；\n船団はテュレニアの海に停泊しています。右手を結ぶことを許してください、\n許してください、父よ、われらの抱擁から身を引かないでください。」\nそう語りながら同時に豊かな涙で顔を濡らしていた。"
+    },
+    {
+      "id": 5,
+      "verses": "v.700–702",
+      "speaker": "Narrator",
+      "original": "Ter cōnātus ibī collō dare bracchia circum;\nter frūstrā comprēnsa manūs effūgit imāgō,\npar leuibus uentīs uolucrīque simillima somnō.",
+      "provisionalTranslation": "三度そこで首の周りに両腕を回そうと試みた；\n三度無駄に、捉えられた姿は手から逃れ去った、\n軽い風に等しく、飛び去る夢に最も似た姿で。"
+    },
+    {
+      "id": 6,
+      "verses": "v.703–709",
+      "speaker": "Narrator",
+      "original": "Intereā uidet Aenēās in ualle reductā\nsēclūsum nemus et uirgulta sonantia siluae,\nLēthaeumque domōs placidās quī praenatat amnem.\nHunc circum innumerae gentēs populīque uolābant:\nac uelutī in prātīs ubi apēs aestāte serēnā\nflōribus īnsīdunt uariīs et candida circum\nlīlia funduntur, strepit omnis murmure campus.",
+      "provisionalTranslation": "その間アエネアスは奥まった谷の中に\n隔離された森と森のざわめく低木を見る、\nそして安らかな住まいの前を流れるレテの川を。\nこの周りを無数の民族と人々が飛び回っていた：\nまさに晴れた夏に草原で蜜蜂たちが\n様々な花に止まり、白い\n百合の周りに群がるように、野全体がざわめきで音を立てる。"
+    },
+    {
+      "id": 7,
+      "verses": "v.710–712",
+      "speaker": "Narrator",
+      "original": "Horrēscit uīsū subitō causāsque requīrit\nīnscius Aenēās, quae sint ea flūmina porrō,\nquīue uirī tantō complērint agmine rīpās.",
+      "provisionalTranslation": "突然の光景に身震いし、原因を求める、\n知らないアエネアスは、その川々が何であるか、\nどのような人々がそれほど大きな群れで岸辺を満たしているのかを。"
+    },
+    {
+      "id": 8,
+      "verses": "v.713–718",
+      "speaker": "Anchises",
+      "original": "Tum pater Anchīsēs: 'Animae, quibus altera fātō\ncorpora dēbentur, Lēthaeī ad flūminis undam\nsēcūrōs laticēs et longa oblīuia pōtant.\nHās equidem memorāre tibi atque ostendere cōram\niamprīdem, hanc prōlem cupiō ēnumerāre meōrum,\nquō magis Italiā mēcum laetēre repertā.'",
+      "provisionalTranslation": "その時父アンキーセスは：「運命によって別の\n身体が約束されている魂たちが、レテの川の波で\n憂いなき水と長い忘却を飲んでいる。\nこれらを実にお前に語り、目の前に示すことを\nすでに長く、この子孫を数え上げることを望んでいる、\nお前がイタリアを見出して共にわたしと喜ぶことがより大きいように。」"
+    },
+    {
+      "id": 9,
+      "verses": "v.719–721",
+      "speaker": "Aeneas",
+      "original": "'Ō pater, anne aliquās ad caelum hinc īre putandum est\nsūblīmīs animās iterumque ad tarda reuertī\ncorporā? Quae lūcis miserīs tam dīra cupīdō?'",
+      "provisionalTranslation": "「おお父よ、ここから天へと崇高な魂たちが\n行くと考えるべきなのか、そして再び鈍い\n身体へ戻ると？惨めな者たちにとって光へのそれほど恐ろしい欲望とは何なのか？」"
+    },
+    {
+      "id": 10,
+      "verses": "v.722–723",
+      "speaker": "Narrator",
+      "original": "'Dīcam equidem nec tē suspensum, nāte, tenēbō'\nsuscipit Anchīsēs atque ōrdine singula pandit.",
+      "provisionalTranslation": "「実に語ろう、お前を不安なままにしておかないだろう、わが子よ」\nとアンキーセスは応じ、順序立てて一つ一つを明らかにする。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "inclūsās animās superumque ad lūmen itūrās\nlustrābat studiō recolēns, omnemque suōrum\nforte recēnsēbat numerum,",
+      "body": "「閉じ込められた魂たちが上の光へと行こうとしているのを熱心に思いを込めて検閲していた、そしてちょうど自分の者たちの全数を数え上げていた（inclusas animas superumque ad lumen ituras / lustrabat studio recolens, omnemque suorum / forte recensebat numerum）」──アンキーセスの行為が軍事的検閲（recensere）の語彙で描かれる：「検閲する（lustrare）」「数える（recensere）」という動詞が、まるで軍隊の点呼のように未来の子孫たちの魂を確認する父祖の姿を描く。この場面が直後（v.724以降）で展開されるローマ建国者たちの壮大な行列の予告として機能する：個人的な親子の再会の場面が、すぐにローマ史全体のパノラマへと拡大する詩的・政治的飛躍の準備。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Isque ubi tendentem aduersum per grāmina uīdit\nAenēān, alacrīs palmās utrāsque tetendit,",
+      "body": "「彼は草を通って向かい来るアエネアスを見ると、活気づいて両手を差し伸べた（Isque ubi tendentem adversum per gramina vidit / Aenean, alacris palmas utrasque tetendit）」──「tendentem…tetendit（向かい来る……差し伸べた）」という同語根の動詞反復（figura etymologica）が、息子の接近と父の応答を音響的に一致させる：双方の身体的動作が同じ動詞語根で結びつけられることで、二人の動きの調和・呼応が文体的に演出される。「alacris（活気づいて）」という形容詞が老いた父の霊にもかかわらず喜びによる若々しい活力を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "'Uēnistī tandem, tuāque exspectāta parentī\nuīcit iter dūrum piētās?",
+      "body": "「ついに来たか、そしてお前のピエタスが父にとって待たれていた困難な道に勝ったのか？（Venisti tandem, tuaque exspectata parenti / vicit iter durum pietas?）」──「tandem（ついに）」という一語が長い待望の末の再会の感情的重みを担う。「pietas vicit（ピエタスが勝った）」という表現が、第1巻序詩で問われた「insignem pietate virum（ピエタスで輝く人物）」という定義への直接的な応答として機能する：アエネアスの中心的徳目（ピエタス）が、まさに父への access（接近）という最も具体的な行為において「勝利」を収めたことが確認される。",
+      "targetId": "vergilius_aeneis_1_prooemium",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sīc equidem dūcēbam animō rēbarque futūrum\ntempora dīnumerāns, nec mē mea cūra fefellit.",
+      "body": "「実にこのようにわたしは心の中で思い、そうなるだろうと考えていた、時を数えながら、わたしの心配はわたしを欺かなかった（Sic equidem ducebam animo rebarque futurum / tempora dinumerans, nec me mea cura fefellit）」──死後も続く父の予知的な「心配（cura）」。「tempora dinumerans（時を数えながら）」という表現が、死者であるアンキーセスが生者の時間を「数えて」待っていたことを示す：死が時間意識の完全な停止を意味しないという冥界論。「nec…cura fefellit（心配は欺かなかった）」──父の信頼・確信が裏切られなかったことの確認が、ピエタスという徳の相互的な実証（息子の到来によって父の信頼が証明される）として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "'Tua mē, genitor, tua trīstis imāgō\nsaepius occurrēns haec līmina tendere adēgit;",
+      "body": "「あなたの、父よ、あなたの悲しい姿がしばしば現れて、この敷居へ向かうことをわたしに強いました（Tua me, genitor, tua tristis imago / saepius occurrens haec limina tendere adegit）」──「tua…tua（あなたの……あなたの）」という所有格の反復（anaphora）が父への呼びかけの感情的強度を高める。「tristis imago（悲しい姿）」という表現が、第2巻でクレウーサの霊やヘクトルの霊がアエネアスの夢に現れた場面群との詩集内の連続性を示す：死者の「悲しい姿（imago tristis）」が生者に語りかけ行動を促すという『アエネーイス』全体の反復的モチーフ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Ter cōnātus ibī collō dare bracchia circum;\nter frūstrā comprēnsa manūs effūgit imāgō,\npar leuibus uentīs uolucrīque simillima somnō.",
+      "body": "「三度そこで首の周りに両腕を回そうと試みた；三度無駄に、捉えられた姿は手から逃れ去った、軽い風に等しく、飛び去る夢に最も似た姿で（Ter conatus ibi collo dare bracchia circum; / ter frustra comprensa manus effugit imago, / par levibus ventis volucrique simillima somno）」──『アエネーイス』全体で最も引用される直喩の一つ。「Ter…ter（三度……三度）」という儀礼的反復数（三）が、第4巻ディードの死の場面（「Ter sese attollens…ter revoluta」）と全く同一の構造的パターンを示す：抱擁の失敗と死の苦闘という異なる文脈で同じ数的反復が用いられる、ウェルギリウスの詩的署名というべき技法。「par levibus ventis volucrique simillima somno（軽い風に等しく、飛び去る夢に最も似ている）」という二重比較（風と夢）が、霊体の非物質性を二つの異なる捉えがたいもの（触れられない風・覚醒すれば消える夢）で定式化する：この詩行はホメロス『オデュッセイア』第11巻でオデュッセウスが母の霊を抱擁しようとして失敗する場面の直接的継承でもある。",
+      "targetId": "vergilius_aeneis_4_dido_mors",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "ac uelutī in prātīs ubi apēs aestāte serēnā\nflōribus īnsīdunt uariīs et candida circum\nlīlia funduntur, strepit omnis murmure campus.",
+      "body": "「まさに晴れた夏に草原で蜜蜂たちが様々な花に止まり、白い百合の周りに群がるように、野全体がざわめきで音を立てる（ac veluti in pratis ubi apes aestate serena / floribus insidunt variis et candida circum / lilia funduntur, strepit omnis murmure campus）」──無数の魂たちの群れを蜜蜂の比喩で描く牧歌的直喩。この比喩は『農耕詩』第4巻（蜜蜂についての書）の美学と直結する：ウェルギリウスが蜜蜂の社会的・組織的な美しさを繰り返し讃えた詩的伝統が、ここで生まれ変わりを待つ魂たちの集団的な美として再利用される。「candida…lilia（白い百合）」という色彩がレテ川周辺の純粋さ・無垢さを視覚的に強調する：忘却前の魂たちの清らかさの比喩的表現。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "Lēthaeī ad flūminis undam\nsēcūrōs laticēs et longa oblīuia pōtant.",
+      "body": "「レテの川の波で憂いなき水と長い忘却を飲んでいる（Lethaei ad fluminis undam / securos latices et longa oblivia potant）」──西洋文化における「忘却の川（レテ）」の最も影響力ある詩的定式の一つ。「securos latices（憂いなき水）」・「longa oblivia（長い忘却）」という二重の表現が、忘却を単なる記憶の消去ではなく「憂いからの解放（securitas）」として積極的に位置づける：忘却が苦痛からの救済として機能するという思想。ローデンバック「忘却（L'Oubli）」の詩的主題──忘却が美的・精神的な慰めとなるという近代詩的展開──の古典的源泉。生まれ変わりのために過去の記憶（前世の苦悩や経験）を完全に消去する必要があるという神話的設定が、個人的アイデンティティの連続性についての深い形而上学的問いを開く。",
+      "targetId": "rodenbach_loubli",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "'Ō pater, anne aliquās ad caelum hinc īre putandum est\nsūblīmīs animās iterumque ad tarda reuertī\ncorporā? Quae lūcis miserīs tam dīra cupīdō?'",
+      "body": "「おお父よ、ここから天へと崇高な魂たちが行くと考えるべきなのか、そして再び鈍い身体へ戻ると？惨めな者たちにとって光へのそれほど恐ろしい欲望とは何なのか？（O pater, anne aliquas ad caelum hinc ire putandum est / sublimis animas iterumque ad tarda reverti / corpora? Quae lucis miseris tam dira cupido?）」──アエネアスの哲学的問いが輪廻転生の思想の根本的な逆説を提起する。「tarda corpora（鈍い身体）」という形容が、肉体を魂にとっての制約・重荷として位置づけるプラトン的・オルペウス教的二元論を反映する：純化された魂が再び物質的身体という「鈍重さ」へ戻ることへの哲学的困惑。「tam dira cupido（それほど恐ろしい欲望）」──「dira（恐ろしい）」という形容が、生への欲望（cupido lucis）を通常の価値観（生は良いもの）とは逆に「恐ろしい」ものとして提示する逆説的視点：コヘレト的「Nudus egressus…nudus revertar」という生と死の循環に対する別の角度からの存在論的省察。"
+    }
+  ]
+}
