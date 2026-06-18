@@ -1,0 +1,190 @@
+{
+  "id": "vergilius_aeneis_6_animae_1",
+  "title": "Aeneis — Liber VI, Animae et Fata Romana (v.724–787)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.724–787. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、アンキーセスの宇宙論的説明とローマ建国者たちの予言的行列。前半（v.724–751）はストア派・ピュタゴラス的宇宙論の詩的総合：宇宙に内在する「精神（spiritus・mens）」が天地万物に生命を与え、個々の魂は身体という「重荷（noxia corpora）」によって本来の純粋さを曇らされるとされる。死後の魂は浄化のための罰（poenae）を受け、エリュシウムでの長い時を経て完全に純化された後、レテ川で忘却を飲み、再び身体への生まれ変わりを「望む」ようになるという輪廻転生説（v.748–751）が展開される。後半（v.756–787）はアンキーセスがアエネアスにローマ建国者たちの行列を示す壮大なパレード：シルウィウス（Silvius）・プロカス（Procas）・カピュス（Capys）・ヌミトル（Numitor）・もう一人のアエネアス・シルウィウス、そして特にロムルス（Romulus）への言及（v.777–782）が、ローマそのものの建国神話を詩的に予告する。「imperium terris, animos aequabit Olympo（その権力を地に、その精神を天に等しくするだろう）」（v.782）という一行がローマ帝国の理念の最も簡潔な定式化。閉幕の「ベレキュントスの母（Berecyntia mater）」（キュベレー女神）の直喩（v.784–787）が、多くの神々を生んだ女神とローマの多くの英雄を生んだ母なる伝統を重ね合わせる壮麗な比較。",
+  "keywords": [
+    "輪廻転生",
+    "spiritus",
+    "宇宙論",
+    "Lethaeus",
+    "Romulus",
+    "imperium",
+    "ローマ建国",
+    "Silvius",
+    "Berecyntia mater",
+    "ストア派"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_anchises",
+    "vergilius_aeneis_6_animae_2",
+    "vergilius_eclogae_4",
+    "hieronymus_ecclesiastes_1",
+    "weil_necessite"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.724–727",
+      "speaker": "Anchises",
+      "original": "'Prīncipiō caelum ac terrās campōsque liquentīs\nlūcentemque globum lūnae Titāniaque astra\nspīritus intus alit, tōtamque īnfūsa per artūs\nmēns agitat mōlem et magnō sē corpore miscet.",
+      "provisionalTranslation": "「まず初めに、天と地と流動する野を、\n輝く月の球体とティタンの星々を\n内なる精神が養い、肢体を通して注ぎ込まれた\n精神が全体の質量を動かし、大いなる身体と自らを混ぜ合わせる。"
+    },
+    {
+      "id": 2,
+      "verses": "v.728–732",
+      "speaker": "Anchises",
+      "original": "Inde hominum pecudumque genus uītaeque uolantum\net quae marmoreō fert mōnstra sub aequore pontus.\nIgneus est ollīs uigor et caelestis orīgō\nsēminibus, quantum nōn noxia corpora tardant\nterrēnīque hebetant artūs moribundaque membra.",
+      "provisionalTranslation": "そこから人間と家畜の種族、飛ぶ者たちの命、\nそして大理石のような海面の下に海が運ぶ怪物たちが生まれる。\nそれらには火のような活力と天上の起源が\n種子としてある、ただ有害な身体がそれを遅らせ、\n地的な肢体と死すべき四肢が鈍らせる限りにおいて。"
+    },
+    {
+      "id": 3,
+      "verses": "v.733–738",
+      "speaker": "Anchises",
+      "original": "Hinc metuunt cupiuntque, dolent gaudentque, neque aurās\ndispiciunt clausae tenebrīs et carcere caecō.\nQuīn et suprēmō cum lūmine uīta relīquit,\nnōn tamen omne malum miserīs nec funditus omnēs\ncorporeae excēdunt pestēs, penitusque necesse est\nmulta diū concrēta modīs inolescere mīrīs.",
+      "provisionalTranslation": "ここから恐れ欲し、悲しみ喜ぶ、そして大気を\n見分けることができない、暗闇と盲目の牢獄に閉ざされて。\nそれどころか最後の光と共に命が去った時でさえ、\nそれでも惨めな者たちからすべての悪が、すべての\n身体的な疫病が完全には去らず、深く必然的に\n長く凝り固まった多くのものが不思議な仕方で根付いてしまっている。"
+    },
+    {
+      "id": 4,
+      "verses": "v.739–744",
+      "speaker": "Anchises",
+      "original": "Ergō exercentur poenīs ueterumque malōrum\nsupplicia expendunt: aliae panduntur inānēs\nsuspēnsae ad uentōs, aliīs sub gurgite uastō\nīnfectum ēluitur scelus aut exūritur ignī:\nquisque suōs patimur mānīs. Exinde per amplum\nmittimur Ēlysium et paucī laeta arua tenēmus,",
+      "provisionalTranslation": "ゆえに罰によって鍛えられ、古い悪の\n償いを払う：ある者たちは空虚に広げられ\n風に吊るされ、ある者たちは広大な深淵の下で\n染まった罪を洗われるか、火で焼かれる：\nそれぞれがわれらの霊魂の罰を受ける。それから広い\nエリュシウムへとわれらは送られ、少数の者が幸福な野を保つ、"
+    },
+    {
+      "id": 5,
+      "verses": "v.745–751",
+      "speaker": "Anchises",
+      "original": "dōnec longa diēs perfectō temporis orbe\nconcrētam exēmit lābem, pūrumque relinquit\naetherium sensum atque aurāī simplicis ignem.\nHās omnīs, ubi mīlle rotam uoluēre per annōs,\nLēthaeum ad fluuium deus ēuocat agmine magnō,\nscīlicet immemorēs supera ut conuexa reuīsant\nrūrsus, et incipiant in corpora uelle reuertī.'",
+      "provisionalTranslation": "時の円環が完成し、長い日々が\n凝り固まった汚れを取り除くまで、そして純粋な\nアイテール的感覚と単純な大気の火だけを残すまで。\nこれらすべての者たちを、千年の輪を巡らせた後、\n神が大いなる行列でレテの川へと呼び出す、\nつまり忘却した者たちが再び上の天空を\n見るために、そして身体へ戻ることを望み始めるために。」"
+    },
+    {
+      "id": 6,
+      "verses": "v.752–755",
+      "speaker": "Narrator",
+      "original": "Dīxerat Anchīsēs nātumque ūnāque Sibyllam\nconuentūs trahit in mediōs turbamque sonantem,\net tumulum capit unde omnīs longō ōrdine posset\naduersōs legere et uenientum discere uultūs.",
+      "provisionalTranslation": "アンキーセスは語り終え、息子と共にシビュラを\n集会の中央へと音立てる群衆へと引いていく、\nそして丘を占める、そこから全員を長い列で\n向き合って読み取り、来る者たちの顔を知ることができる場所を。"
+    },
+    {
+      "id": 7,
+      "verses": "v.756–759",
+      "speaker": "Anchises",
+      "original": "'Nunc age, Dardaniam prōlem quae deinde sequātur\nglōria, quī maneant Italā dē gente nepōtēs,\ninlustrīs animās nostrumque in nōmen itūrās,\nexpediam dictīs, et tē tua fāta docēbō.",
+      "provisionalTranslation": "「さあ今、ダルダニアの子孫にこれから続く\n栄光が何であるか、イタリアの血統からどのような子孫が残るか、\n輝かしい魂たちが、われらの名へと行こうとしている者たちが、\nわたしは言葉で展開しよう、そしてお前にお前の運命を教えよう。"
+    },
+    {
+      "id": 8,
+      "verses": "v.760–766",
+      "speaker": "Anchises",
+      "original": "Ille, uidēs, pūrā iuuenis quī nītitur hastā,\nproxima sorte tenet lūcis loca, prīmus ad aurās\naetheriās Italō commixtus sanguine surget,\nSiluius, Albānum nōmen, tua postuma prōlēs,\nquem tibi longaeuō sērum Lauīnia coniūnx\nēdūcet siluīs rēgem rēgumque parentem,\nunde genus Longā nostrum dominābitur Albā.",
+      "provisionalTranslation": "あれを、見えるか、無垢な槍に寄りかかる若者を、\n最も近い籤で光の場所を保ち、最初にイタリアの血と\n混じり合って天上の大気へと上るだろう、\nシルウィウス、アルバの名、お前の死後の子孫を、\n長命なお前にラウィーニアという妻が\n晩く森の中で育てる、王たちの王にして父祖となる者を、\nそこからわれらの血統がアルバ・ロンガを支配するだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.767–772",
+      "speaker": "Anchises",
+      "original": "Proximus ille Procās, Trōiānae glōria gentis,\net Capys et Numitōr et quī tē nōmine reddet\nSiluius Aenēās, pariter pietāte uel armīs\nēgregius, sī umquam rēgnandam accēperit Albam.\nQuī iuuenēs! Quantās ostentant, aspice, uīrīs\natque umbrāta gerunt cīuīlī tempora quercū!",
+      "provisionalTranslation": "次の者はプロカス、トロイアの血統の栄光、\nそしてカピュスとヌミトル、そしてお前の名をお前に返す者、\nシルウィウス・アエネアスが、ピエタスにおいても武勇においても\n等しく卓越した者が、もしいつかアルバを統治することを受け入れるなら。\nなんという若者たちか！見よ、どれほどの力を示しているか、\nそして頭に市民の冠の樫の葉陰を被っているか！"
+    },
+    {
+      "id": 10,
+      "verses": "v.773–776",
+      "speaker": "Anchises",
+      "original": "Hī tibi Nōmentum et Gabiōs urbemque Fidēnam,\nhī Collātīnās impōnent montibus arcēs,\nPōmetiōs Castrumque Inuī Bōlamque Coramque;\nhaec tum nōmina erunt, nunc sunt sine nōmine terrae.",
+      "provisionalTranslation": "これらの者がお前のためにノメントゥムとガビイとフィデナエの町を、\nこれらがコッラティアの城を山々に築くだろう、\nポメティイ、インウスの城、ボラ、コラを；\nこれらが後に名前となるだろう、今は名前なき土地である。"
+    },
+    {
+      "id": 11,
+      "verses": "v.777–782",
+      "speaker": "Anchises",
+      "original": "Quīn et auō comitem sēsē Māuortius addet\nRōmulus, Assaracī quem sanguinis Īlia māter\nēdūcet. Uiden, ut geminae stant uertice cristae\net pater ipse suō superum iam signat honōre?\nĒn huius, nāte, auspiciīs illa incluta Rōma\nimperium terrīs, animōs aequābit Olympō,",
+      "provisionalTranslation": "それどころか祖父への仲間として自らを加えるだろう、\nマルスの子ロムルスが、アッサラクスの血のイーリアという母が\n育てる者が。見えるか、頭の上に二重の冠毛が立ち、\n父自身がすでに自分の天上の栄誉でそれを印しているのを？\n見よ、わが子よ、彼の主導のもとにあの名高いローマが\nその権力を地に、その精神を天に等しくするだろう、"
+    },
+    {
+      "id": 12,
+      "verses": "v.783–787",
+      "speaker": "Anchises",
+      "original": "septemque ūna sibī mūrō circumdabit arcēs,\nfēlīx prōle uirum: quālis Berecyntia māter\ninuehitur currū Phrygiās turrīta per urbēs\nlaeta deum partū, centum complexa nepōtēs,\nomnīs caelicolās, omnīs supera alta tenentīs.",
+      "provisionalTranslation": "そして一つの城壁で七つの丘を自らの周りに囲むだろう、\n人々の子孫において幸いな者として：あたかもベレキュントスの母が\n塔を冠した姿で戦車に乗ってプリュギアの町々を通り、\n神々の出産を喜び、百人の子孫を抱いて、\nすべて天に住む者たちを、すべて高い天上を保つ者たちを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Prīncipiō caelum ac terrās campōsque liquentīs\nlūcentemque globum lūnae Titāniaque astra\nspīritus intus alit,",
+      "body": "「まず初めに、天と地と流動する野を、輝く月の球体とティタンの星々を内なる精神が養い（Principio caelum ac terras camposque liquentis / lucentemque globum lunae Titaniaque astra / spiritus intus alit）」──ストア派的「世界霊魂（anima mundi）」概念の詩的定式化。「spiritus intus alit（内なる精神が養う）」という表現が、宇宙全体に内在する単一の生命的原理（プネウマ）という思想を示す：個々の事物が外部の神の介入によってではなく、内在する精神によって生かされているという汎神論的・ストア派的宇宙論。ウェルギリウス『農耕詩』第4巻の蜜蜂讃歌における同様の「神的精神（divinae mentis）」概念との連続性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Igneus est ollīs uigor et caelestis orīgō\nsēminibus, quantum nōn noxia corpora tardant\nterrēnīque hebetant artūs moribundaque membra.",
+      "body": "「それらには火のような活力と天上の起源が種子としてある、ただ有害な身体がそれを遅らせ、地的な肢体と死すべき四肢が鈍らせる限りにおいて（Igneus est ollis vigor et caelestis origo / seminibus, quantum non noxia corpora tardant）」──魂の天上的起源と身体による「鈍化（hebetare）」の二元論的対比。「noxia corpora（有害な身体）」という形容が、肉体を魂の本来的な輝きを妨げる障害物として位置づけるプラトン的・オルペウス教的伝統を継承する。「igneus vigor（火のような活力）」という表現が、魂の本質を物質的火（あるいは精妙なアイテール的元素）として定義するストア派の物理学と結びつく。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Hinc metuunt cupiuntque, dolent gaudentque, neque aurās\ndispiciunt clausae tenebrīs et carcere caecō.",
+      "body": "「ここから恐れ欲し、悲しみ喜ぶ、そして大気を見分けることができない、暗闇と盲目の牢獄に閉ざされて（Hinc metuunt cupiuntque, dolent gaudentque, neque auras / dispiciunt clausae tenebris et carcere caeco）」──四つの基本的情動（恐れ・欲望・悲しみ・喜び）の対句的列挙がストア派倫理学の「四つの情念（恐怖・欲望・苦痛・快楽）」分類の詩的反映。「carcere caeco（盲目の牢獄）」という身体への形容が、肉体を魂の「牢獄」とするプラトン『パイドン』的二元論の最も直接的なラテン語表現の一つ：身体に閉じ込められた魂が天の大気（真の故郷）を見ることができないという認識論的・形而上学的悲劇。コヘレト的「afflictio spiritus」が、ここでは身体という物理的牢獄に起因する苦悩として哲学的に基礎づけられる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Ergō exercentur poenīs ueterumque malōrum\nsupplicia expendunt: aliae panduntur inānēs\nsuspēnsae ad uentōs, aliīs sub gurgite uastō\nīnfectum ēluitur scelus aut exūritur ignī:",
+      "body": "「ゆえに罰によって鍛えられ、古い悪の償いを払う：ある者たちは空虚に広げられ風に吊るされ、ある者たちは広大な深淵の下で染まった罪を洗われるか、火で焼かれる（Ergo exercentur poenis veterumque malorum / supplicia expendunt）」──三種類の浄化の罰（風・水・火）の列挙。この三元素による浄化システムが、後のダンテ『神曲』煉獄篇における浄化の構造（火による色情の浄化・特定の罪に応じた異なる懲罰）の古典的先行形として機能する。「exercentur poenis（罰によって鍛えられる）」という表現が、罰を単なる処罰ではなく「鍛錬（exercere）」として位置づける：苦痛が浄化的・教育的機能を持つという思想が、ヨブ記的・ヴェイユ的な「苦難による精錬」の概念と深く共鳴する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "dōnec longa diēs perfectō temporis orbe\nconcrētam exēmit lābem, pūrumque relinquit\naetherium sensum atque aurāī simplicis ignem.",
+      "body": "「時の円環が完成し、長い日々が凝り固まった汚れを取り除くまで、そして純粋なアイテール的感覚と単純な大気の火だけを残すまで（donec longa dies perfecto temporis orbe / concretam exemit labem, purumque relinquit / aetherium sensum atque aurai simplicis ignem）」──「temporis orbe（時の円環）」という表現が、コヘレト的循環時間観（「世代は過ぎ去り、世代は来る」）の宇宙論的・個人的魂の次元への適用を示す：個々の魂もまた循環的な浄化のサイクルを経るという思想。「purum…aetherium sensum（純粋なアイテール的感覚）」という最終状態が、魂の本来の純粋性への回帰（漸進的な物質性の脱却）として描かれる：新プラトン主義的な「上昇（anabasis）」思想の先駆け。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "scīlicet immemorēs supera ut conuexa reuīsant\nrūrsus, et incipiant in corpora uelle reuertī.'",
+      "body": "「忘却した者たちが再び上の天空を見るために、そして身体へ戻ることを望み始めるために（scilicet immemores supera ut convexa revisant / rursus, et incipiant in corpora velle reverti）」──輪廻転生の最終段階：忘却（immemores）が新たな生への「意志（velle）」を可能にする条件として提示される。前段（v.679–723）でアエネアスが「光への欲望（cupido lucis）」を「恐ろしい（dira）」と評した問いへの、アンキーセスによる暗黙の応答が完成する：忘却によって過去の苦しみの記憶が消去されるからこそ、魂は再び生を「望む」ことができるという循環的メカニズム。記憶の保持が新たな生への意志を妨げるという逆説的な思想。",
+      "targetId": "vergilius_aeneis_6_anchises",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "et tumulum capit unde omnīs longō ōrdine posset\naduersōs legere et uenientum discere uultūs.",
+      "body": "「そして丘を占める、そこから全員を長い列で向き合って読み取り、来る者たちの顔を知ることができる場所を（et tumulum capit unde omnis longo ordine posset / adversos legere et venientum discere vultus）」──「legere（読み取る）」という動詞の選択が、顔を「読む」という比喩を通じて、これから展開される魂の行列が一種の「テキスト」として提示されることを示唆する：歴史そのものが読まれるべき書物として構成されるという詩学的メタファー。丘という高い視点（地形的優位性）が、歴史的パノラマを可能にする叙事詩的視座を物理的に体現する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Siluius, Albānum nōmen, tua postuma prōlēs,\nquem tibi longaeuō sērum Lauīnia coniūnx\nēdūcet siluīs rēgem rēgumque parentem,",
+      "body": "「シルウィウス、アルバの名、お前の死後の子孫を、長命なお前にラウィーニアという妻が晩く森の中で育てる、王たちの王にして父祖となる者を（Silvius, Albanum nomen, tua postuma proles, / quem tibi longaevo serum Lavinia coniunx / educet silvis）」──シルウィウス（Silvius）の名の語源的説明（「silva＝森」に由来）。「tua postuma proles（お前の死後の子孲）」という表現が、アエネアスの死後にラウィーニアが産む子供という時間的逆説を示す：父の死後に生まれた子が父祖たちの王統を開始する。「rēgem rēgumque parentem（王たちの王にして父祖）」という二重の王権的称号が、アルバ・ロンガ王朝全体の起源としてのシルウィウスの位置を確定する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Quī iuuenēs! Quantās ostentant, aspice, uīrīs\natque umbrāta gerunt cīuīlī tempora quercū!",
+      "body": "「なんという若者たちか！見よ、どれほどの力を示しているか、そして頭に市民の冠の樫の葉陰を被っているか！（Qui iuvenes! Quantas ostentant, aspice, viris / atque umbrata gerunt civili tempora quercu!）」──二つの感嘆文による父の感情的高揚の直接的表出。「cīuīlī…quercū（市民の樫の冠）」──「コロナ・キウィカ（corona civica）」はローマで市民の命を救った者に与えられる最高の名誉の冠（オークの葉で作られる）：アウグストゥス自身がこの冠を受けたことで知られ、現在の読者（アウグストゥス時代のローマ人）への直接的な政治的・歴史的言及として機能する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Ēn huius, nāte, auspiciīs illa incluta Rōma\nimperium terrīs, animōs aequābit Olympō,",
+      "body": "「見よ、わが子よ、彼の主導のもとにあの名高いローマがその権力を地に、その精神を天に等しくするだろう（En huius, nate, auspiciis illa incluta Roma / imperium terris, animos aequabit Olympo）」──『アエネーイス』全体で最も簡潔かつ強力なローマ帝国理念の定式化の一つ。「imperium terris…animos…Olympo（権力を地に……精神を天に）」という対句が、ローマの支配を物理的（地上の領土的支配）と精神的（天的・神的な威厳）の両面で同時に主張する。アウグストゥス治世下のローマの自己理解──単なる軍事的覇権ではなく宇宙的・神的秩序との一致という政治神学──の詩的精華。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "allusion",
+      "anchor": "quālis Berecyntia māter\ninuehitur currū Phrygiās turrīta per urbēs\nlaeta deum partū, centum complexa nepōtēs,",
+      "body": "「あたかもベレキュントスの母が塔を冠した姿で戦車に乗ってプリュギアの町々を通り、神々の出産を喜び、百人の子孫を抱いて（qualis Berecyntia mater / invehitur curru Phrygias turrita per urbes / laeta deum partu, centum complexa nepotes）」──キュベレー女神（Cybele、ベレキュントス山に由来する別称）への直喩。「turrita（塔を冠した）」という形容がキュベレーの図像学的特徴（城壁状の冠を被った姿）を示す：彼女がローマの守護女神として国家的に崇拝された背景（パラティーノの丘の神殿）との直接的結びつき。「centum complexa nepotes（百人の子孫を抱いて）」という壮大な数がローマの母としての繁殖力を、神々の母としてのキュベレーの繁殖力に重ね合わせる：ローマという都市国家を女神的・宇宙的な母性の延長として詩的に神格化する閉幕。"
+    }
+  ]
+}
