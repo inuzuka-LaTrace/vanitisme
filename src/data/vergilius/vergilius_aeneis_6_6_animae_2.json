@@ -1,0 +1,162 @@
+{
+  "id": "vergilius_aeneis_6_animae_2",
+  "title": "Aeneis — Liber VI, Roma Aeterna (v.788–853)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.788–853. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻、ローマ建国者・指導者たちの行列の核心部分。アウグストゥス・カエサル（Augustus Caesar）への直接的な讃辞（v.791–805）が「黄金時代を再び築く者（aurea condet saecula）」として提示され、ヘルクレス（アルキデス）やバッコス（リーベル）の征服をも超える帝国の拡大が予言される。続いて七王政期の王たち（ヌマ・トゥッルス・アンクス）、共和政の創設者ブルートゥス（息子たちを愛国心のために処刑する悲劇的場面、v.817–823）、内戦の予言（カエサルとポンペイウスを指す「あの父と婿（socer…gener）」v.826–835、アンキーセスの直接的な内戦回避の懇願を含む）、そして共和政期の英雄たち（デキウス家・ドルースス家・トルクワートゥス・カミッルス・大カトー・グラックス兄弟・スキピオ兄弟・ファブリキウス・ファビウス・マクシムス）の急速なカタログが続く。閉幕の「ローマ人よ、お前は諸民族を権威で統治することを覚えよ（tu regere imperio populos, Romane, memento）」（v.851）は『アエネーイス』全体で最も有名な政治的格言であり、ギリシアの芸術的卓越性（彫像・弁論・天文学）をローマが持たないことを認めながら、ローマ独自の使命──統治・平和の確立・服従者への慈悲・傲慢な者への征服──を定義する。この箇所はウェルギリウスの政治詩学の頂点であり、アウグストゥス帝国の自己理解を後世に渡って規定した。",
+  "keywords": [
+    "Augustus",
+    "黄金時代",
+    "Brutus",
+    "内戦",
+    "Caesar Pompeius",
+    "tu regere imperio",
+    "ローマの使命",
+    "共和政の英雄",
+    "Fabius Maximus",
+    "imperium"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_animae_1",
+    "vergilius_aeneis_6_marcellus",
+    "vergilius_eclogae_4",
+    "vergilius_eclogae_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.788–797",
+      "speaker": "Anchises",
+      "original": "Hūc geminās nunc flecte aciēs, hanc aspice gentem\nRōmānōsque tuōs. Hīc Caesar et omnis Iūlī\nprōgeniēs magnum caelī uentūra sub axem.\nHic uir, hic est, tibi quem prōmittī saepius audīs,\nAugustus Caesar, dīuī genus, aurea condet\nsaecula quī rūrsus Latiō rēgnāta per arua\nSāturnō quondam, super et Garamantas et Indōs\nprōferet imperium; iacet extrā sīdera tellūs,\nextrā annī sōlīsque uiās, ubi caelifer Atlās\naxem umerō torquet stēllīs ārdentibus aptum.",
+      "provisionalTranslation": "ここへ今両眼を向けよ、この民族を見よ、\nお前のローマ人たちを。ここにカエサルと、ユリウス家の\nすべての子孫が、天の大いなる軸の下へやって来るだろう。\nこの人こそ、この人こそ、お前にしばしば約束されると聞く者、\nアウグストゥス・カエサル、神の血統、彼が再び黄金の\n世紀を築くだろう、かつてサトゥルヌスが統治したラティウムの野に、\nそしてガラマンテス族とインド人を超えて\n帝国を進めるだろう；その地は星々の外に横たわる、\n年と太陽の道の外に、そこでは天を担うアトラスが\n燃える星々を嵌めた軸を肩で回している。"
+    },
+    {
+      "id": 2,
+      "verses": "v.798–805",
+      "speaker": "Anchises",
+      "original": "Huius in aduentum iam nunc et Caspia rēgna\nrespōnsīs horrent dīuum et Maeōtia tellūs,\net septemgeminī turbant trepida ōstia Nīlī.\nNec uērō Alcīdēs tantum tellūris obīuit,\nfīxerit aeripedem ceruam licet, aut Erymanthī\npācārit nemora et Lernam tremefēcerit arcū;\nnec quī pampineīs uictor iuga flectit habēnīs\nLīber, agēns celsō Nȳsae dē uertice tīgrīs.",
+      "provisionalTranslation": "彼の到来に対してすでに今、カスピの王国も\n神々の神託に恐れおののき、マエオティスの地も、\n七重のナイルの河口も怯えて乱れる。\n実にアルキデスもそれほどの土地を巡ったことはなかった、\n青銅の足の雌鹿を捕らえたとしても、あるいはエリュマントスの\n森を平定し、レルナを弓で震わせたとしても；\n葡萄の蔓の手綱で軛を曲げる勝利者、\nニュサの高い頂から虎を駆る者、リーベルもそうではなかった。"
+    },
+    {
+      "id": 3,
+      "verses": "v.806–807",
+      "speaker": "Anchises",
+      "original": "Et dubitāmus adhūc uirtūtem extendere factīs,\naut metus Ausoniā prohibet cōnsistere terrā?",
+      "provisionalTranslation": "それでもわれらは行いによって美徳を広げることを躊躇うのか、\nあるいは恐れがアウソニアの地に立つことを妨げるのか？"
+    },
+    {
+      "id": 4,
+      "verses": "v.808–816",
+      "speaker": "Anchises",
+      "original": "Quis procul ille autem rāmīs īnsignis olīuae\nsacra ferēns? Nōscō crīnīs incānaque menta\nrēgis Rōmānī prīmam quī lēgibus urbem\nfundābit, Curibus paruīs et paupere terrā\nmissus in imperium magnum. Cui deinde subībit\nōtia quī rūmpet patriae residēsque mouēbit\nTullus in arma uirōs et iam dēsuēta triumphīs\nagmina. Quem iuxtā sequitur iactantior Ancus\nnunc quoque iam nimium gaudēns populāribus aurīs.",
+      "provisionalTranslation": "しかし遠くにオリーヴの枝で目立つあの者は誰か、\n聖なる供物を運んでいる？わたしは白髪と白いあごひげを認識する、\n法によって最初の都市を建てるだろう\nローマの王の、小さなクレスと貧しい土地から\n大いなる帝国へと送られた者の。彼の次に続くのは\n祖国の安逸を破り、怠惰になった者たちを\n武器へと動かすトゥッルス、すでに勝利の行進に慣れなくなった\n軍隊を。彼の傍らに従うのはより誇り高いアンクス、\n今もすでに余りに人気の風を喜んでいる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.817–823",
+      "speaker": "Anchises",
+      "original": "Uīs et Tarquiniōs rēgēs animamque superbam\nultōris Brūtī, fascīsque uidēre receptōs?\nCōnsulis imperium hic prīmus saeuāsque secūrīs\naccipiet, nātōsque pater noua bella mouentīs\nad poenam pulchrā prō lībertāte uocābit,\nīnfēlīx, utcumque ferent ea facta minōrēs:\nuincet amor patriae laudumque immēnsa cupīdō.",
+      "provisionalTranslation": "お前はタルクィニウスの王たちと、復讐者ブルートゥスの\n誇り高い魂を見たいのか、そして取り戻された権標を？\nこの者が最初に執政官の権力と残忍な斧を\n受け取るだろう、そして新しい戦を起こす息子たちを\n父として、美しい自由のために処罰へと\n呼ぶだろう、不幸にも、後世の者たちがその行いをどう評価しようとも：\n祖国への愛と称賛への計り知れない欲望が勝つだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.824–825",
+      "speaker": "Anchises",
+      "original": "Quīn Deciōs Drūsōsque procul saeuumque secūrī\naspice Torquātum et referentem signa Camillum.",
+      "provisionalTranslation": "それどころか、遠くにデキウス家とドルースス家を、斧に残忍な\nトルクワートゥスを、軍旗を取り戻すカミッルスを見よ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.826–835",
+      "speaker": "Anchises",
+      "original": "Illae autem paribus quās fulgere cernis in armīs,\nconcordēs animae nunc et dum nocte prementur,\nheu quantum inter sē bellum, sī lūmina uītae\nattigerint, quantās aciēs strāgemque ciēbunt,\naggeribus socer Alpīnīs atque arce Monoecī\ndēscendēns, gener aduersīs instrūctus Eōīs!\nNē, puerī, nē tanta animīs adsuēscite bella\nneu patriae ualidās in uiscera uertite uīrīs;\ntūque prior, tū parce, genus quī dūcis Olympō,\nprōice tēla manū, sanguis meus!—",
+      "provisionalTranslation": "しかし等しい武具で輝いているのを見るあの者たちは、\n今は調和した魂であり、夜に抑えられている間は、\nああ、彼らの間にどれほどの戦争が、もし命の光に\n触れたなら、どれほどの戦列と殺戮を引き起こすだろうか、\nアルプスの堤からモナコの要塞から\n下る舅、東方の敵対する軍で備える婿よ！\nやめよ、子供たちよ、それほどの戦争に心を慣れさせるな、\n祖国の強い力を内臓に向けるな；\nそしてお前が先に、お前が控えよ、オリュンポスから血統を引く者よ、\n手から武器を投げ捨てよ、わが血よ！——"
+    },
+    {
+      "id": 8,
+      "verses": "v.836–840",
+      "speaker": "Anchises",
+      "original": "Ille triumphātā Capitōlia ad alta Corinthō\nuictor aget currum caesīs īnsignis Achīuīs.\nĒruet ille Argōs Agamemnoniāsque Mycēnās\nipsumque Aeacidēn, genus armipotentis Achillī,\nultus auōs Trōiae templa et temerāta Mineruae.",
+      "provisionalTranslation": "あの者はコリントスを征服して高きカピトリウムへと\n勝利の戦車を進める、討たれたギリシア人たちで名高い者として。\nあの者はアルゴスとアガメムノンのミュケナイを滅ぼすだろう、\nそしてアエアクスの子孫自身、武に強きアキッレスの血統を、\nトロイアの神殿とミネルウァの冒涜の祖先たちの仇を討って。"
+    },
+    {
+      "id": 9,
+      "verses": "v.841–844",
+      "speaker": "Anchises",
+      "original": "Quis tē, magne Catō, tacitum aut tē, Cosse, relinquat?\nquis Gracchī genus aut geminōs, duō fulmina bellī,\nScīpiadās, clādem Libyae, paruōque potentem\nFābricium uel tē sulcō, Serrāne, serentem?",
+      "provisionalTranslation": "誰がお前を、偉大なカトーよ、黙ったままにし、お前を、コッススよ、放置するだろうか？\n誰がグラックスの血統を、あるいは二人を、戦の二つの雷霆を、\nスキピオ家を、リビアの災いを、わずかなもので力強い\nファブリキウスを、あるいはお前を、セッラヌスよ、畝で種を蒔く者を？"
+    },
+    {
+      "id": 10,
+      "verses": "v.845–846",
+      "speaker": "Anchises",
+      "original": "Quō fessum rapitis, Fabiī? Tū Maximus ille es,\nūnus quī nōbīs cūnctandō restituis rem.",
+      "provisionalTranslation": "どこへ疲れたわたしを運ぶのか、ファビウス家よ？お前はあの偉大な者だ、\n唯一、躇うことによってわれらに国家を回復する者だ。"
+    },
+    {
+      "id": 11,
+      "verses": "v.847–853",
+      "speaker": "Anchises",
+      "original": "Excūdent aliī spīrantia mollius aera\n(crēdō equidem), uīuōs dūcent dē marmore uultus,\nōrābunt causās melius, caelīque meātūs\ndēscrībent radiō et surgentia sīdera dīcent:\ntū regere imperiō populōs, Rōmāne, mementō\n(hae tibi erunt artēs), pācīque impōnere mōrem,\nparcere subiectīs et dēbellāre superbōs.'",
+      "provisionalTranslation": "他の者たちはより柔らかく息づく青銅を打ち出すだろう\n（実にわたしはそう信じる）、大理石から生きた顔を引き出すだろう、\nより良く訴訟を弁論するだろう、そして天の運行を\n杖で描き、昇る星々を語るだろう：\nお前は権威で諸民族を統治することを覚えよ、ローマ人よ\n（これがお前の技芸となるだろう）、そして平和に習慣を課し、\n服従する者には慈悲を、傲慢な者には征服を。」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Hic uir, hic est, tibi quem prōmittī saepius audīs,\nAugustus Caesar, dīuī genus, aurea condet\nsaecula quī rūrsus Latiō rēgnāta per arua\nSāturnō quondam,",
+      "body": "「この人こそ、この人こそ、お前にしばしば約束されると聞く者、アウグストゥス・カエサル、神の血統、彼が再び黄金の世紀を築くだろう、かつてサトゥルヌスが統治したラティウムの野に（Hic vir, hic est…Augustus Caesar, divi genus, aurea condet / saecula qui rursus Latio regnata per arva / Saturno quondam）」──「Hic vir, hic est（この人こそ、この人こそ）」という二重の指示代名詞の反復が父の感情的興奮の頂点を表す。「aurea…saecula（黄金の世紀）」という表現が第4牧歌「redeunt Saturnia regna（サトゥルヌスの王国が戻る）」と直接的な語彙的・主題的連続性を持つ：牧歌で詩的・予言的に語られた黄金時代の到来が、ここでアウグストゥスという具体的な歴史的人物に同定される。「divi genus（神の血統）」──ユリウス氏族がウェヌスの子孫であるという神話的系譜（カエサルの神格化「Divus Iulius」との関連）。",
+      "targetId": "vergilius_eclogae_4",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nec uērō Alcīdēs tantum tellūris obīuit,\nfīxerit aeripedem ceruam licet, aut Erymanthī\npācārit nemora et Lernam tremefēcerit arcū;",
+      "body": "「実にアルキデスもそれほどの土地を巡ったことはなかった、青銅の足の雌鹿を捕らえたとしても、あるいはエリュマントスの森を平定し、レルナを弓で震わせたとしても（Nec vero Alcides tantum telluris obiuit, / fixerit aeripedem cervam licet, aut Erymanthi / pacarit nemora et Lernam tremefecerit arcu）」──ヘルクレス（アルキデス）の12の功業への暗示的言及（青銅の足の雌鹿＝ケリュネイアの雌鹿、エリュマントスの猪、レルナのヒュドラ）。アウグストゥスの帝国的拡大を、西洋神話最大の英雄ヘルクレスの功業をも超えるものとして位置づける比較級の修辞：誇張法（hyperbole）による政治的讃美の極限。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et dubitāmus adhūc uirtūtem extendere factīs,\naut metus Ausoniā prohibet cōnsistere terrā?",
+      "body": "「それでもわれらは行いによって美徳を広げることを躊躇うのか、あるいは恐れがアウソニアの地に立つことを妨げるのか？（Et dubitamus adhuc virtutem extendere factis, / aut metus Ausonia prohibet consistere terra?）」──アンキーセスの修辞的問いがアエネアス（および読者）への直接的な激励として機能する。「dubitamus（われらは躇うのか）」という一人称複数形が、父と子の運命的な一体性を文法的に表現する：アンキーセス自身は既に死者でありながら、なお「われら」という共通の使命の主体として自らを位置づける。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "rēgis Rōmānī prīmam quī lēgibus urbem\nfundābit, Curibus paruīs et paupere terrā\nmissus in imperium magnum.",
+      "body": "「法によって最初の都市を建てるだろうローマの王の、小さなクレスと貧しい土地から大いなる帝国へと送られた者の（regis Romani primam qui legibus urbem / fundabit, Curibus parvis et paupere terra / missus in imperium magnum）」──ヌマ・ポンピリウス（Numa Pompilius、ロムルスに次ぐ第二代ローマ王、宗教的法制度の創設者）への言及。「Curibus parvis et paupere terra（小さなクレスと貧しい土地から）」という出身の卑小さと「imperium magnum（大いなる帝国）」という到達点の対比が、ローマ建国神話における「小さな起源から偉大な帝国へ」という成長物語の典型的パターンを示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "nātōsque pater noua bella mouentīs\nad poenam pulchrā prō lībertāte uocābit,\nīnfēlīx, utcumque ferent ea facta minōrēs:",
+      "body": "「そして新しい戦を起こす息子たちを父として、美しい自由のために処罰へと呼ぶだろう、不幸にも、後世の者たちがその行いをどう評価しようとも（natosque pater nova bella moventis / ad poenam pulchra pro libertate vocabit, / infelix, utcumque ferent ea facta minores）」──共和政創設者ブルートゥス（Lucius Junius Brutus）が、王政復古を企てた自分の息子たちを処刑したという伝説的逸話。「infelix（不幸にも）」という一語の挿入が、アンキーセス自身がこの行為の道徳的複雑性・悲劇性を認識していることを示す：単純な讃美ではなく、愛国心の名における親子間の悲劇という両義的評価。「utcumque ferent ea facta minores（後世の者たちがその行いをどう評価しようとも）」という未来世代の判断への言及が、ウェルギリウス自身の時代における歴史的評価の論争性を暗示する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "aggeribus socer Alpīnīs atque arce Monoecī\ndēscendēns, gener aduersīs instrūctus Eōīs!",
+      "body": "「アルプスの堤からモナコの要塞から下る舅、東方の敵対する軍で備える婿よ！（aggeribus socer Alpinis atque arce Monoeci / descendens, gener adversis instructus Eois!）」──カエサル（舅・socer）とポンペイウス（婿・gener、カエサルの娘ユーリアと結婚していた）の内戦への暗示的言及。実名を挙げずに「舅」「婿」という家族関係の語彙のみで言及することが、内戦の悲劇性（家族間の戦争）を強調する詩的技法：政治的暴力が血縁関係の破壊として描かれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Nē, puerī, nē tanta animīs adsuēscite bella\nneu patriae ualidās in uiscera uertite uīrīs;\ntūque prior, tū parce, genus quī dūcis Olympō,\nprōice tēla manū, sanguis meus!—",
+      "body": "「やめよ、子供たちよ、それほどの戦争に心を慣れさせるな、祖国の強い力を内臓に向けるな；そしてお前が先に、お前が控えよ……手から武器を投げ捨てよ、わが血よ！（Ne, pueri, ne tanta animis adsuescite bella / neu patriae validas in viscera vertite viris…proice tela manu, sanguis meus!)」──アンキーセスの直接的な懇願が予言的な詩行の中に突然介入する。「patriae…in viscera（祖国の内臓へ）」という身体的比喩が、内戦を国家という身体への自傷行為として描く。「sanguis meus（わが血よ）」というカエサル（ユリウス氏族の子孫としてアエネアスの血統に連なる）への呼びかけの突然の中断（ダッシュ記号での句切れ）が、父の感情的混乱・絶望を文体的に演出する：予言の確実性が、その内容への道徳的抵抗によって瞬間的に破られる。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "tū regere imperiō populōs, Rōmāne, mementō\n(hae tibi erunt artēs), pācīque impōnere mōrem,\nparcere subiectīs et dēbellāre superbōs.'",
+      "body": "「お前は権威で諸民族を統治することを覚えよ、ローマ人よ（これがお前の技芸となるだろう）、そして平和に習慣を課し、服従する者には慈悲を、傲慢な者には征服を（tu regere imperio populos, Romane, memento / (hae tibi erunt artes), pacique imponere morem, / parcere subiectis et debellare superbos）」──『アエネーイス』全体で最も有名な政治的格言。ギリシアの技芸（彫像・弁論・天文学、前段v.847–850で列挙）にローマが劣ることを認めながら、統治・平和・慈悲・征服という独自の「技芸（artes）」をローマの本質的使命として定義する。「parcere subiectis et debellare superbos（服従する者には慈悲を、傲慢な者には征服を）」という対句が、ローマ帝国主義の自己正当化の論理を完璧に定式化する：弱者への寛容と強者（反抗者）への峻厳という二重基準が帝国統治の倫理として提示される。中世以降、この一行は正戦論（bellum iustum）の議論において繰り返し引用された。"
+    }
+  ]
+}
