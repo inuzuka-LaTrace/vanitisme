@@ -1,0 +1,171 @@
+{
+  "id": "vergilius_aeneis_6_marcellus",
+  "title": "Aeneis — Liber VI, Marcellus et Finis (v.854–901)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VI, v.854–901. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "29–19 BC頃",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第6巻の閉幕部分。マルケッルス（Marcus Claudius Marcellus, 42–23 BC）はアウグストゥスの甥・後継者と目された青年で、23歳で夭逝した。アンキーセスはまず勝利の将軍として武具を輝かせる姿（v.855–859、これは同名の先祖・大マルケッルスの武勲との混同を含む）を讃えるが、アエネアスが「なぜ顔が悲しく目が伏せられているのか」（v.862–866）と問うと、アンキーセスは涙ながらに、この若者が運命によって短命に終わることを告げる（v.868–886）。「Manibus date lilia plenis（満ちた手で百合の花を与えよ）」（v.883）という一行は、煉獄篇第30歌でダンテが直接引用する詩行であり、神曲とアエネーイスを結ぶ最も明示的な接続点。「Heu pietas, heu prisca fides invictaque bello dextera!（ああ、ピエタスよ、ああ、古의信義と戦に不敗の右手よ！）」（v.878）という哀悼の絶頂句が、第1巻序詩の「insignem pietate virum」というテーマの悲劇的な反復として機能する。続く眠りの門（Portae Somni）の場面（v.893–898）──角の門（真の幻影）と象牙の門（偽りの幻影）という二つの門の対比──は、アエネアスとシビュラが「象牙の門」から地上へ送り出されるという、解釈上最大の謎を残す閉幕。第6巻全体が「夢」あるいは「偽りの幻影」として枠付けられる可能性を示唆し、古代から現代まで尽きせぬ論争を呼んでいる。",
+  "keywords": [
+    "Marcellus",
+    "manibus date lilia plenis",
+    "夭逝",
+    "Portae Somni",
+    "眠りの門",
+    "象牙の門",
+    "pietas",
+    "哀悼",
+    "Caieta",
+    "閉幕"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_animae_2",
+    "vergilius_aeneis_1_prooemium",
+    "vergilius_eclogae_5",
+    "dante_purgatorio_canto_30",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.854–859",
+      "speaker": "Anchises",
+      "original": "'Aspice, ut īnsignīs spoliīs Mārcellus opīmīs\ningreditur uictorque uirōs superēminet omnīs.\nHic rem Rōmānam magnō turbante tumultū\nsistet eques, sternet Poenōs Gallumque rebellem,\ntertiaque arma patrī suspendet capta Quirīnō.'",
+      "provisionalTranslation": "「見よ、いかに最高の戦利品で目立つマルケッルスが\n進み入り、勝利者として全ての人々を超えて聳え立つかを。\nこの者は大いなる混乱がローマの国家を揺るがす時、\n騎兵として立て直し、ポエニ人と反逆するガリア人を打ち倒し、\n三度目の戦利品の武具を父クィリヌスに掛けるだろう。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.860–866",
+      "speaker": "Aeneas",
+      "original": "Atque hīc Aenēās (ūnā namque īre uidēbat\nēgregium fōrmā iuuenem et fulgentibus armīs,\nsed frōns laeta parum et dēiecto lūmina uultū)\n'Quis, pater, ille, uirum quī sīc comitātur euntem?\nFīlius, anne aliquis magnā dē stirpe nepōtum?\nQuī strepitus circā comitum! Quantum īnstar in ipsō!\nSed nox ātra caput trīstī circumuolat umbrā.'",
+      "provisionalTranslation": "そしてここでアエネアスは（というのも共に行くのを見ていた、\n姿の優れた若者を、輝く武具を纏った者を、\nしかし額は喜びに乏しく、目は伏せられた顔をしていた）\n「あの者は誰ですか、父よ、このように行く人に付き従う者は？\n息子でしょうか、それとも子孫の大いなる血統の誰かでしょうか？\nなんという仲間たちの周りのざわめきでしょう！彼自身の中になんという威厳が！\nしかし暗い夜が悲しい影で頭の周りを舞っています。」"
+    },
+    {
+      "id": 3,
+      "verses": "v.867–871",
+      "speaker": "Anchises",
+      "original": "Tum pater Anchīsēs lacrimīs ingressus obortīs:\n'Ō gnāte, ingentem lūctum nē quaere tuōrum;\nostendent terrīs hunc tantum fāta nec ultrā\nesse sinent. Nimium uōbīs Rōmāna propāgō\nuīsa potēns, superī, propria haec sī dōna fuissent.",
+      "provisionalTranslation": "その時父アンキーセスは湧き出る涙とともに始めた：\n「おお息子よ、お前の者たちの巨大な悲しみを求めるな；\n運命はこの者をただ地上に示すだけで、それ以上は\n存在を許さないだろう。お前たちにはローマの血統が\n余りに力強く見えただろう、神々よ、もしこれらの贈り物が永続するものだったなら。"
+    },
+    {
+      "id": 4,
+      "verses": "v.872–874",
+      "speaker": "Anchises",
+      "original": "Quantōs ille uirum magnam Māuortis ad urbem\ncampus aget gemitūs! Uel quae, Tiberīne, uidēbis\nfūnera, cum tumulum praeterlābēre recentem!",
+      "provisionalTranslation": "あの者の野は、マルスの大いなる都市へと\nどれほどの人々の嘆きを送るだろうか！あるいはお前は、ティベリスよ、どのような\n葬りを見るだろうか、新しい墓のそばを流れ過ぎる時に！"
+    },
+    {
+      "id": 5,
+      "verses": "v.875–877",
+      "speaker": "Anchises",
+      "original": "Nec puer Īliacā quisquam dē gente Latīnōs\nin tantum spē tollet auōs, nec Rōmula quondam\nūllō sē tantum tellūs iactābit alumnō.",
+      "provisionalTranslation": "イリオンの血統からのいかなる少年も、ラティウムの\n父祖たちをこれほど高い希望へと上げることはなく、ロムルスの地が\nかつてどのような子供によっても自らをこれほど誇ることはないだろう。"
+    },
+    {
+      "id": 6,
+      "verses": "v.878–881",
+      "speaker": "Anchises",
+      "original": "Heu pietās, heu prīsca fidēs inuictaque bellō\ndextera! Nōn illī sē quisquam impūne tulisset\nobuius armātō, seu cum pedes īret in hostem\nseu spūmantis equī foderet calcāribus armōs.",
+      "provisionalTranslation": "ああ、ピエタスよ、ああ、古き信義と戦に不敗の\n右手よ！誰も彼に対して罰を受けずに\n武装して向き合うことはなかっただろう、徒歩で敵へと進む時も、\n泡立つ馬の肩腹を踵で刺す時も。"
+    },
+    {
+      "id": 7,
+      "verses": "v.882–886",
+      "speaker": "Anchises",
+      "original": "Heu, miserande puer, sī quā fāta aspera rumpās,\ntū Mārcellus eris. Manibus date līlia plēnīs\npurpureōs spargam flōrēs animamque nepōtīs\nhīs saltem accumulem dōnīs, et fungar inānī\nmūnere.'",
+      "provisionalTranslation": "ああ、哀れむべき少年よ、もし何らかの仕方で過酷な運命を破ることができたなら、\nお前はマルケッルスとなるだろう。満ちた手で百合の花を与えよ、\nわたしは紫の花々を撒こう、そして子孫の魂に\nこれらの贈り物だけでも積み重ね、空虚な\n捧げ物を果たそう。」"
+    },
+    {
+      "id": 8,
+      "verses": "v.886–892",
+      "speaker": "Narrator",
+      "original": "Sīc tōtā passim regiōne uagāntur\nāeris in campīs lātīs atque omnia lustrant.\nQuae postquam Anchīsēs nātum per singula dūxit\nincenditque amimum fāmae uenientis amōre,\nexim bella uirō memorat quae deinde gerenda,\nLaurentīsque docet populōs urbemque Latīnī,\net quō quemque modō fugiatque feratque labōrem.",
+      "provisionalTranslation": "このように彼らは地域全体をあちこちと彷徨う、\n広い大気の野で、そしてすべてを巡り見る。\nこれらをアンキーセスが息子を一つ一つ通して導いた後、\nそして来るべき名声への愛で心を燃え立たせた後、\nそれから戦を彼に語る、次に行われるべきものを、\nラウレントゥムの民とラティーヌスの都市を教え、\nそしてどのようにそれぞれの労苦を避け、また担うべきかを。"
+    },
+    {
+      "id": 9,
+      "verses": "v.893–896",
+      "speaker": "Narrator",
+      "original": "Sunt geminae Somnī portae, quārum altera fertur\ncornea, quā uērīs facilis datur exitus umbrīs,\naltera candentī perfecta nitēns elephantō,\nsed falsa ad caelum mittunt īnsomnia Mānēs.",
+      "provisionalTranslation": "眠りの双子の門がある、その一方は\n角でできていると言われ、そこから真の影たちに容易な出口が与えられる、\n他方は輝く象牙で完成され光っており、\nしかし死霊たちはそこから偽りの夢を天へと送る。"
+    },
+    {
+      "id": 10,
+      "verses": "v.897–899",
+      "speaker": "Narrator",
+      "original": "Hīs ibi tum nātum Anchīsēs ūnāque Sibyllam\nprōsequitur dictīs portāque ēmittit eburnā,\nille uiam secat ad nāuīs sociōsque reuīsit.",
+      "provisionalTranslation": "そこでその時アンキーセスは息子とシビュラを共に\n言葉で送り出し、象牙の門から送り出す、\n彼は道を切って船々へと向かい、仲間たちを再び訪れる。"
+    },
+    {
+      "id": 11,
+      "verses": "v.900–901",
+      "speaker": "Narrator",
+      "original": "Tum sē ad Cāiētae rēctō fert līmite portum.\nAncora dē prōrā iacitur; stant lītore puppēs.",
+      "provisionalTranslation": "それから彼は真っ直ぐな道筋でカイエタの港へと向かう。\n錨が船首から投げられる；船尾が岸に並んで立つ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Hic rem Rōmānam magnō turbante tumultū\nsistet eques, sternet Poenōs Gallumque rebellem,\ntertiaque arma patrī suspendet capta Quirīnō.'",
+      "body": "「この者は大いなる混乱がローマの国家を揺るがす時、騎兵として立て直し、ポエニ人と反逆するガリア人を打ち倒し、三度目の戦利品の武具を父クィリヌスに掛けるだろう（Hic rem Romanam magno turbante tumultu / sistet eques, sternet Poenos Gallumque rebellem, / tertiaque arma patri suspendet capta Quirino）」──この詩行は実際には大マルケッルス（Marcus Claudius Marcellus、第二次ポエニ戦争の将軍、紀元前222年にガリア人の王ウィリドマルスを討って「スポリア・オピーマ（spolia opima、最高の戦利品）」を獲得した）の功績を描写しており、アンキーセスが語る若いマルケッルス（アウグストゥスの甥）とは別人である：ウェルギリウスが意図的に二人のマルケッルスのイメージを融合させ、若者の未来の可能性（実現しなかった偉業）を先祖の実際の功績として描く詩的技法。「tertia arma（三度目の武具）」──スポリア・オピーマを獲得したのは歴史上三人のみ（ロムルス・コッスス・マルケッルス）とされ、その「三度目」の達成者として大マルケッルスが位置づけられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "sed frōns laeta parum et dēiecto lūmina uultū)\n'Quis, pater, ille, uirum quī sīc comitātur euntem?",
+      "body": "「しかし額は喜びに乏しく、目は伏せられた顔をしていた……あの者は誰ですか、父よ（sed frons laeta parum et deiecto lumina vultu)…Quis, pater, ille…)」──括弧内の視覚的観察（青年の悲しい表情）がアエネアスの問いの直前に置かれることで、読者にも同じ不安な予感を共有させる詩的技法。「deiecto lumina vultu（伏せられた目の顔）」という身体的描写のみで、まだ言葉にされていない悲劇を予示する：直接的な説明より視覚的暗示を優先する高度な詩的節制。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "'Ō gnāte, ingentem lūctum nē quaere tuōrum;\nostendent terrīs hunc tantum fāta nec ultrā\nesse sinent.",
+      "body": "「おお息子よ、お前の者たちの巨大な悲しみを求めるな；運命はこの者をただ地上に示すだけで、それ以上は存在を許さないだろう（O gnate, ingentem luctum ne quaere tuorum; / ostendent terris hunc tantum fata nec ultra / esse sinent）」──父の最初の反応が、悲劇を語ることへの抵抗（「ne quaere／求めるな」）として表れる：知ることそのものへの躊躇。「ostendent…tantum（ただ示すだけ）」という限定が、運命の経済学──ある者は「見せられる」だけで「存在することは許されない」という非対称性──を簡潔に定式化する：存在と顕現の分離という深い形而上学的命題。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Quantōs ille uirum magnam Māuortis ad urbem\ncampus aget gemitūs! Uel quae, Tiberīne, uidēbis\nfūnera, cum tumulum praeterlābēre recentem!",
+      "body": "「あの者の野は、マルスの大いなる都市へとどれほどの人々の嘆きを送るだろうか！あるいはお前は、ティベリスよ、どのような葬りを見るだろうか（Quantos ille virum magnam Mavortis ad urbem / campus aget gemitus! Vel quae, Tiberine, videbis / funera）」──二つの感嘆的修辞疑問文による哀悼の感情的高まり。「Tiberine（ティベリスよ）」というローマの聖なる川への直接的な呼びかけ（apostrophe）が、川を未来の葬列の証人として擬人化する：自然そのものが歴史的悲劇の目撃者として詩的に動員される。実際にマルケッルスはティベリス河畔（カンプス・マルティウス）に埋葬された歴史的事実への予言的言及。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Heu pietās, heu prīsca fidēs inuictaque bellō\ndextera!",
+      "body": "「ああ、ピエタスよ、ああ、古き信義と戦に不敗の右手よ！（Heu pietas, heu prisca fides invictaque bello dextera!）」──第1巻序詩「insignem pietate virum（ピエタスで輝く人物）」というアエネアス自身への形容語の悲劇的反復。「Heu（ああ）」の二重反復（epizeuxis）が哀悼の絶頂を形成する：『アエネーイス』全体を貫く中心的徳目（ピエタス）が、ここで失われた可能性（マルケッルスの早すぎる死）への嘆きとして再演される。アエネアス自身のピエタスが「報われた」のに対し、マルケッルスのピエタスは「実現される前に断たれた」という対比が、詩集全体の英雄的成功と若き死の悲劇という二極を結びつける。",
+      "targetId": "vergilius_aeneis_1_prooemium",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "tū Mārcellus eris. Manibus date līlia plēnīs\npurpureōs spargam flōrēs animamque nepōtīs\nhīs saltem accumulem dōnīs, et fungar inānī\nmūnere.'",
+      "body": "「お前はマルケッルスとなるだろう。満ちた手で百合の花を与えよ、わたしは紫の花々を撒こう……そして空虚な捧げ物を果たそう（tu Marcellus eris. Manibus date lilia plenis…et fungar inani munere)」──「manibus date lilia plenis（満ちた手で百合の花を与えよ）」はダンテ『神曲』煉獄篇第30歌v.21で直接引用される一行（「Manibus, oh, date lilia plenis」）：神曲とアエネーイスを結ぶ最も明示的な詩的接続点の一つ。「fungar inani munere（空虚な捧げ物を果たそう）」──「inani（空虚な）」という形容が、死者への花を捧げる行為そのものが結局は無力であることを認める父の悲しい自覚を示す：コヘレト的「vanitas」が儀礼的行為の限界として最も直接的に表現される瞬間。",
+      "targetId": "dante_purgatorio_canto_30",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Sunt geminae Somnī portae, quārum altera fertur\ncornea, quā uērīs facilis datur exitus umbrīs,\naltera candentī perfecta nitēns elephantō,\nsed falsa ad caelum mittunt īnsomnia Mānēs.",
+      "body": "「眠りの双子の門がある、その一方は角でできていると言われ、そこから真の影たちに容易な出口が与えられる、他方は輝く象牙で完成され光っており、しかし死霊たちはそこから偽りの夢を天へと送る（Sunt geminae Somni portae…cornea, qua veris facilis datur exitus umbris…altera candenti perfecta nitens elephanto, / sed falsa ad caelum mittunt insomnia Manes）」──ホメロス『オデュッセイア』第19巻（ペネロペが角の門と象牙の門について語る場面）の直接的継承。「cornea（角の門）＝真実」と「elephanto（象牙の門）＝偽り」というギリシア語の言葉遊び（keras＝角／krainein＝実現する、elephas＝象牙／elephairesthai＝欺く）がラテン語に翻訳されても保持される修辞的伝統。この対比が次の段落でアエネアスとシビュラが「象牙の門」から送り出されるという驚くべき詩的選択（v.898）の哲学的・解釈学的緊張を準備する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "prōsequitur dictīs portāque ēmittit eburnā,\nille uiam secat ad nāuīs sociōsque reuīsit.",
+      "body": "「言葉で送り出し、象牙の門から送り出す（prosequitur dictis portaque emittit eburna)」──『アエネーイス』全体で最も議論される一行。アンキーセスが息子とシビュラを「偽りの夢（falsa insomnia）」を送る象牙の門から地上へ送り出すという選択──これが意味することについて古代から無数の解釈が提示されてきた：①単なる時間的設定（アエネアスが冥界を訪れたのは夜、地上に戻るのは夢を見る時間帯である朝に近いため象牙の門が「適切」）、②詩的アイロニー（第6巻全体の予言・ローマの偉大さの幻視が「偽り」である可能性を暗示）、③単純な詩行の便宜上の選択（韻律的要請）。この曖昧性が意図的なものか否かについての論争は今日まで続いている。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "prosody",
+      "anchor": "Tum sē ad Cāiētae rēctō fert līmite portum.\nAncora dē prōrā iacitur; stant lītore puppēs.",
+      "body": "「それから彼は真っ直ぐな道筋でカイエタの港へと向かう。錨が船首から投げられる；船尾が岸に並んで立つ（Tum se ad Caietae recto fert limite portum. / Ancora de prora iacitur; stant litore puppes）」──第6巻全体の閉幕にして、壮大な冥界の幻視から最も平凡な航海的日常への急激な転換。「rectō līmite（真っ直ぐな道筋で）」という表現が、冥界の迷宮的・曲折的な道（第6巻全体を特徴づける複雑な経路）との対比をなす：地上への帰還が単純で直接的な行為として描かれる。「Ancora…iacitur; stant litore puppes（錨が投げられる；船尾が岸に並んで立つ）」という簡潔な行動描写の連続が、壮大な予言的ヴィジョンの後の静かな実務的日常への帰着を演出する：崇高から平凡への詩的降下が次巻（第7巻、イタリア上陸）への滑らかな移行を準備する。"
+    }
+  ]
+}
