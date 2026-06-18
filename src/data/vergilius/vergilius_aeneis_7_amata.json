@@ -1,0 +1,153 @@
+{
+  "id": "vergilius_aeneis_7_amata",
+  "title": "Aeneis — Liber VII, Amata furens (v.341–405)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber VII, v.341–405. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_VII. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第7巻、復讐の女神（フリア）アレクトー（Allecto）がユーノーの命を受けてラティウム王ラティーヌスの王妃アマータ（Amata）に蛇の毒を送り込み、狂乱させる場面（v.341–405）。アエネアス到来に対する戦争の火種を蒔くアレクトーの活動の第一段階として位置づけられる。蛇の毒（v.341–353）→理性的な訴え（v.354–372）→狂乱の全面化（v.373–384）→バッコス的擬装（v.385–396）→婦人たちへの伝染・絶頂（v.397–405）という五段階の精神的・身体的変容の過程が、古代詩学における「狂乱（furor）」の最も詳細な詩的記録の一つを形成する。「蛇の変身（serpentis furor）」というモチーフが、ウェルギリウス的「悪の形而上学」──悪が外部から内部へと浸透し、段階的に理性を侵食するという心理的プロセス──の精緻な演出として機能する。アマータの最初の訴え（v.358–372）は表向き「合理的な母親の懸念」として提示され、毒の浸透が完全に完了するにつれて言語が行動へ、説得が狂乱へと変容する：理性と狂気の境界の消滅という主題がラシーヌ『フェードル』（フェードルの情熱的自己破壊）・ボードレール「スプリーン」・象徴主義の「毒された美（beauté vénéneuse）」概念と深く共鳴する。独楽（turbo）の直喩（v.378–384）は外部から与えられた力によって回転する無力な客体としての人間主体を定義し、ヴェイユ的「重力（pesanteur）」の概念──神の恩寵なしに重力の法則に従って「回転し続ける」魂──の古典的先行形として読める。",
+  "keywords": [
+    "Allecto",
+    "Amata",
+    "furor",
+    "蛇の毒",
+    "Bacchus",
+    "狂乱",
+    "独楽の直喩",
+    "婦人たちの行列",
+    "ラティウム",
+    "悪の浸透"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_4_dido_maledictio",
+    "vergilius_eclogae_6",
+    "vergilius_eclogae_8",
+    "vergilius_aeneis_6_descensus",
+    "weil_la_violence",
+    "baudelaire_danse_macabre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.341–353",
+      "speaker": "Narrator",
+      "original": "Exim Gorgoneīs Allēctō īnfecta uenēnīs\nprīncipiō Latium et Laurentis tēcta tyrannī\ncelsa petit, tacitumque obsēdit līmen Amātae,\nquam super aduentū Teucrum Turnīque hymenaeīs\nfēmineae ārdentem cūraeque īraeque coquēbant.\nHuic dea caeruleīs ūnum dē crīnibus anguem\nconicit, inque sinum praecordia ad intima subdit,\nquō furibunda domum mōnstrō permisceat omnem.\nIlle inter uestīs et lēuia pectora lāpsus\nuoluitur attāctū nūllō, fallitque furentem\nuīpeream īnspīrāns animam; fit tortile collō\naurum ingēns coluber, fit longae taenia uittae\ninnectitque comās et membrīs lūbricus errat.",
+      "provisionalTranslation": "次いでゴルゴンの毒に染まったアレクトーは\n最初にラティウムとラウレントゥム王の\n高い屋根へと向かい、アマータの静かな敷居に取り憑いた、\nアエネアス到来とトゥルヌスとの婚礼をめぐって\n女らしい心配と怒りに燃え立っていた彼女に。\n女神は青みがかった髪の毛の一本の蛇を\n彼女に投げ込み、胸の最も奥深くに忍ばせた、\n狂乱した彼女が怪物によって家全体を混乱させるように。\nあれは衣と滑らかな胸の間を滑り\n何の感触もなく巻き付いて、狂える女を欺く、\n蝮の息を吹き込みながら；巨大な蛇が首に\n捩れた黄金になり、長い帯のリボンになり、\n髪に絡みつき、四肢を滑らかに彷徨う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.354–365",
+      "speaker": "Narrator",
+      "original": "Ac dum prīma luēs ūdō sublāpsa uenēnō\npertemptat sēnsūs atque ossibus implicat ignem\nnecdum animus tōtō percēpit pectore flammam,\nmollius et solitō mātrum dē mōre locūta est,\nmulta super nātae lacrimāns Phrygiīsque hymenaeīs:\n'Exsulibusne datur dūcenda Lauīnia Teucrīs,\nō genitor, nec tē miseret nātaeque tuīque?\nNec mātris miseret, quam prīmō Aquilōne relinquet\nperfidus alta petēns abductā uirgine praedō?\nAt nōn sīc Phrygius penetrat Lacedaemona pāstor,\nLēdaeamque Helenam Trōiānās uēxit ad urbēs?",
+      "provisionalTranslation": "最初の疫病が湿った毒とともに滑り込み\n感覚を試し、骨に火を絡ませている間、\nまだ心は全胸で炎を感じ取っていなかった、\n彼女は柔らかく、母親たちの通常の様式に従って語った、\n娘のことと、プリュギア人との婚礼について多く涙しながら：\n「亡命者のトロイア人に嫁がせるためにラウィーニアが与えられるのですか、\nおお父よ、娘のことも、あなた自身のことも哀れまないのですか？\nまた最初の北風が来れば処女を奪い高海原へ\n向かう不誠実な略奪者のために去るとき、母のことも哀れまないのですか？\nしかしフリュギアの牧童はラケダイモンに侵入し、\nレダの娘ヘレナをトロイアの町々へ連れて行ったのではなかったのですか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.365–372",
+      "speaker": "Amata",
+      "original": "Quid tua sancta fidēs? Quid cūra antīqua tuōrum\net cōnsanguineō totiēns data dextera Turnō?\nSī gener externā petitur dē gente Latīnīs,\nidque sedet, Faunīque premunt tē iussa parentis,\nomnem equidem scēptrīs terram quae lībera nostrīs\ndissidet externam reor et sīc dīcere dīuōs.\nEt Turnō, sī prīma domūs repetātur orīgō,\nĪnachus Ācrisiusque patrēs mediaeque Mycēnae.'",
+      "provisionalTranslation": "あなたの聖なる誓いは何ですか？お前たちへの古くからの配慮と\n血縁のトゥルヌスに何度も与えた右手は？\nもし婿がラティウムに対し異国の民族から求められるのであれば、\nそれがあなたの意志であり、父神ファウヌスの命令があなたを迫るのであれば、\nあなたの王権に従わず自由な全ての土地が\n外国の地だとわたしは思い、神々もそう言うと思います。\nそしてトゥルヌスも、もし家の最初の起源が辿られるなら、\nイナコスとアクリシオスが祖先で、ミュケナイが真ん中にあります。」"
+    },
+    {
+      "id": 4,
+      "verses": "v.373–384",
+      "speaker": "Narrator",
+      "original": "Hīs ubi nēquīquam dictīs experta Latīnum\ncontrā stāre uidet, penitusque in uīscera lāpsum\nserpentis furiāle malum tōtamque pererrat,\ntum uērō īnfēlīx ingentibus excita mōnstrīs\nimmēnsam sine mōre furit lymphāta per urbem.\nCeu quondam tortō uolitāns sub uerbere turbō,\nquem puerī magnō in gȳrō uācua ātria circum\nintentī lūdō exercent, ille āctus habēna\ncuruātīs fertur spatiīs; stupet īnscia sūpra\nimpūbēsque manūs mīrāta uolūbile buxum;\ndant animō plāgae: nōn cursū sēgnior illō\nper mediās urbēs agitur populōsque ferōcīs.",
+      "provisionalTranslation": "これらの言葉で無駄にラティーヌスを試みて\n反対に立ちはだかっているのを見ると、蛇の狂気的な\n悪が内臓深くに滑り込み全体を彷徨うと、\nその時まことに不幸な彼女は巨大な怪物によって掻き立てられ、\n限界なく乱心して果てしない都市を習慣もなく狂乱する。\nかつて撚れた鞭の下を飛ぶ独楽のように、\n少年たちが大きな輪を描いて空の廊下を\n遊びに熱中して動かし、あれは手綱によって動かされ\n曲がった軌跡を辿る；未熟な\n少年たちの手がくるくる回る黄楊を見上げて呆然とする；\n打撃が命を与える：彼女はあの走りに劣らず\n都市の中央を、猛々しい民衆を通して動かされる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.385–396",
+      "speaker": "Narrator",
+      "original": "Quīn etiam in siluās simulātō nūmine Bacchī\nmaius adorta nefās maiōremque ōrsa furōrem\nēuolat et nātam frondōsīs montibus abdit,\nquō thalamum ēripiat Teucrīs taedāsque morētur,\neuhoe Bacche fremēns, sōlum tē uirgine dignum\nuōciferāns: etenim mollīs tibi sūmere thyrsōs,\ntē lustrāre chorō, sacrum tibi pāscere crīnem.\nFāma uolat, furiīsque accēnsās pectore mātrēs\nīdem omnis simul ārdor agit noua quaerere tēcta.\nDēseruēre domōs, uentīs dant colla comāsque;\nast aliae tremulīs ululātibus aethera complent\npampineāsque gerunt incīnctae pellibus hastās.",
+      "provisionalTranslation": "それどころか、バッコスの神霊を装って\nより大きな不正に向かい、より大きな狂気を始めながら\n森へと飛び出し、葉茂る山々に娘を隠す、\nトロイア人から閨房を奪い、婚礼を遅らせるために、\nエウホエ、バッコスよと轟かせながら、お前だけが処女に相応しいと\n叫びながら：というのも柔らかなテュルソスを取るべきなのはお前のために、\nお前のために舞いを踊って巡り、聖なる髪を育てるべきだからと。\n噂は飛ぶ、心を狂気に燃やされた母親たちを\n同じ熱狂が同時に全員に新しい住まいを求めさせる。\n彼女たちは家を捨て、首と髪を風に委ねる；\n他の者たちは震える叫び声で大気を満たし、\n獣の皮をまとって葡萄の蔓の槍を持つ。"
+    },
+    {
+      "id": 6,
+      "verses": "v.397–405",
+      "speaker": "Amata",
+      "original": "Ipsa inter mediās flagrantem feruida pīnum\nsustinet ac nātae Turnīque canit hymenaeōs\nsanguineam torquēns aciem, toruumque repente\nclāmat: 'iō mātrēs, audīte, ubi quaeque, Latīnae:\nsī qua piīs animīs manet īnfēlīcis Amātae\ngrātia, sī iūris māternī cūra remordet,\nsoluite crīnālīs uittās, capite orgia mēcum.'\nTālem inter siluās, inter dēserta ferārum\nrēgīnam Allēctō stimulīs agit undique Bacchī.",
+      "provisionalTranslation": "彼女自身は群れの真ん中で熱狂しながら燃える松明を\n持ち上げ、娘とトゥルヌスの婚礼を歌う、\n血走った目をぐるぐる回しながら、そして突然険しく\n叫ぶ：「ああ、母親たちよ、聞け、ラティウムの者よ、どこにいても：\nもし哀れなアマータへの何らかの好意が\n敬虔な心に残っているなら、もし母権への気遣いが悔やまれるなら、\n髪の帯を解き放ち、わたしと共に秘儀を行え。」\nこのような姿で森の中を、野獣の荒野を、\nアレクトーはバッコスの刺し棒でどこへも王妃を駆り立てる。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Exim Gorgoneīs Allēctō īnfecta uenēnīs\nprīncipiō Latium et Laurentis tēcta tyrannī\ncelsa petit, tacitumque obsēdit līmen Amātae,",
+      "body": "「次いでゴルゴンの毒に染まったアレクトーは……アマータの静かな敷居に取り憑いた（Exim Gorgoneis Allecto infect venenis…tacitumque obsedit limen Amatae）」──アレクトー（Allecto）は「フリア（Furia）」「エリーニュス（Erinys）」とも呼ばれる復讐の女神の一人で、三姉妹（アレクトー・ティシポネ・メガイラ）の中で最も破壊的な狂気を司る。「Gorgoneis…venenis（ゴルゴンの毒）」はゴルゴン的な根源的恐怖の毒を示す：アレクトー自身が超自然的な毒の媒体として機能する。「tacitum…limen（静かな敷居）」という形容が特に重要：毒は沈黙・静謐という日常的な空間に侵入する。「obsēdit（取り憑いた）」という動詞が軍事的包囲（obsidio）の語彙を用いることで、家の敷居が要塞のように攻囲される場面として詩的に演出される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Huic dea caeruleīs ūnum dē crīnibus anguem\nconicit, inque sinum praecordia ad intima subdit,\nquō furibunda domum mōnstrō permisceat omnem.",
+      "body": "「女神は青みがかった髪の毛の一本の蛇を彼女に投げ込み、胸の最も奥深くに忍ばせた（Huic dea caeruleis unum de crinibus anguem / conicit, inque sinum praecordia ad intima subdit）」──蛇が「青みがかった髪（caeruleis crinibus）」から引き出されるという描写が、アレクトー自身の髪が蛇で構成されていることを示す（ゴルゴン的な属性）。「praecordia ad intima（胸の最も奥深くへ）」という方向の指定が、悪が最も内的・中核的な場所へと直接届くことを示す：外部の悪が内部の最深部へと浸透するという悪の形而上学。ヴェイユ「affliction（苦悩）」における「魂の最も深い根を攻撃する」という概念との構造的照応。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "fit tortile collō\naurum ingēns coluber, fit longae taenia uittae\ninnectitque comās et membrīs lūbricus errat.",
+      "body": "「巨大な蛇が首に捩れた黄金になり、長い帯のリボンになり、髪に絡みつき、四肢を滑らかに彷徨う（fit tortile collo / aurum ingens coluber, fit longae taenia vittae / innectitque comas et membris lubricus errat）」──蛇の視覚的・触覚的変容の詩的演出。「fit…fit（…になり……になり）」という反復（anaphora）が変身の速度と多様性を示す：蛇が「黄金の首飾り」「髪の帯」「四肢を彷徨う柔軟な存在」へと瞬時に形を変える。「lubricus（滑らかな）」という形容詞が蛇の運動の捉えがたさ・予測不能性を示す。装飾品（黄金の首飾り・帯・髪飾り）への蛇の変身が、美しい装身具と毒という対比を通じて、decadence的な「毒された美（beauté vénéneuse）」のモチーフを先取りする：ボードレール「悪の華」における邪悪な美の概念との照応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ac dum prīma luēs ūdō sublāpsa uenēnō\npertemptat sēnsūs atque ossibus implicat ignem\nnecdum animus tōtō percēpit pectore flammam,\nmollius et solitō mātrum dē mōre locūta est,",
+      "body": "「最初の疫病が湿った毒とともに滑り込み感覚を試し、骨に火を絡ませている間、まだ心は全胸で炎を感じ取っていなかった、彼女は柔らかく、母親たちの通常の様式に従って語った（Ac dum prima lues udo sublapsa veneno / pertemptat sensus atque ossibus implicat ignem / necdum animus toto percepit pectore flammam, / mollius et solito matrum de more locuta est）」──狂乱の「まだ完成していない段階」における一見正常な行動の描写が詩的に最も洗練された部分。「pertemptat sensus（感覚を試す）」という動詞が毒の段階的・試験的な浸透を示す：一気に破壊するのではなく、少しずつ感覚を「試して」占拠する毒の慎重さ。「mollius…de more（柔らかく……様式に従って）」という副詞・前置詞句が、毒の効果が外から見ればまだ「普通の母親」の行動に見えることを示す：悪の最も恐ろしい段階は、それがまだ正常に見える段階である。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "'Exsulibusne datur dūcenda Lauīnia Teucrīs,\nō genitor, nec tē miseret nātaeque tuīque?\nNec mātris miseret, quam prīmō Aquilōne relinquet\nperfidus alta petēns abductā uirgine praedō?",
+      "body": "「亡命者のトロイア人に嫁がせるためにラウィーニアが与えられるのですか、おお父よ……また最初の北風が来れば処女を奪い去るとき、母のことも哀れまないのですか？（Exsulibusne datur ducenda Lavinia Teucris, / o genitor, nec te miseret nati tuique? / Nec matris miseret, quam primo Aquilone relinquet / perfidus alta petens abducta virgine praedo?）」──アマータの訴えが「合理的な母親の懸念」として表現される段階。「miseret（哀れまないのか）」という動詞の二重反復（娘のことも・母のことも）が感情的な二重の訴えとして機能する。「perfidus…praedo（不誠実な略奪者）」という形容がアエネアスをパリス（ヘレナを略奪した者）と同等に位置づける：アマータの推論は論理的一貫性を持ち、蛇の毒がいまだ完全には機能していない段階での「理性的な」判断として提示される点が詩的に精妙。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sī gener externā petitur dē gente Latīnīs,\nidque sedet, Faunīque premunt tē iussa parentis,\nomnem equidem scēptrīs terram quae lībera nostrīs\ndissidet externam reor et sīc dīcere dīuōs.",
+      "body": "「もし婿がラティウムに対し異国の民族から求められるのであれば……あなたの王権に従わず自由な全ての土地が外国の地だとわたしは思い（Si gener externa petitur de gente Latinis…omnem equidem sceptris terram quae libera nostris / dissidet externam reor）」──アマータの論理の中で最も「理性的」に見える詩行。「もし外国人の婿が望まれるなら、あなたの支配に服さない土地も「外国（externa）」と呼べばトゥルヌスも外国出身ということになる」という逆説的な修辞的論法：法律的・地政学的な議論として一見成立しているが、実際には結論（トゥルヌスを選べ）へと誘導するための詭弁。毒が「理性的言語を歪める」という段階の詩的描写。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Ceu quondam tortō uolitāns sub uerbere turbō,\nquem puerī magnō in gȳrō uācua ātria circum\nintentī lūdō exercent, ille āctus habēna\ncuruātīs fertur spatiīs; stupet īnscia sūpra\nimpūbēsque manūs mīrāta uolūbile buxum;\ndant animō plāgae: nōn cursū sēgnior illō\nper mediās urbēs agitur populōsque ferōcīs.",
+      "body": "「かつて撚れた鞭の下を飛ぶ独楽のように……打撃が命を与える：彼女はあの走りに劣らず都市の中央を動かされる（Ceu quondam torto volitans sub verbere turbo…dant animo plagae: non cursu segnior illo / per medias urbes agitur）」──ウェルギリウスの最も有名な直喩の一つ。「turbō（独楽）」という比喩の詩的力は多層的：①独楽は外部から与えられた力（鞭打ち）によってのみ回転する──自発的な意志による運動ではない。②「dant animo plagae（打撃が命を与える）」という表現が、苦痛・外圧が逆説的に「命（animus）」を与えるという倒錯した生命観を提示する。③少年たちの無心な遊びという文脈が、神々の「遊び（ludus）」として人間の苦悩が演出されるという神学的アイロニーを含む。ヴェイユ「重力（pesanteur）」の概念──恩寵なき魂が重力の法則に従って機械的に「回転する」──の最も精確な古代的先行形として読める。",
+      "targetId": "weil_necessite",
+      "targetParagraphId": None
+    },
+    {
+      "paragraphId": 5,
+      "type": "allusion",
+      "anchor": "Quīn etiam in siluās simulātō nūmine Bacchī\nmaius adorta nefās maiōremque ōrsa furōrem\nēuolat et nātam frondōsīs montibus abdit,",
+      "body": "「それどころか、バッコスの神霊を装って……より大きな不正に向かい、より大きな狂気を始めながら森へと飛び出し（Quin etiam in silvas simulato numine Bacchi / maius adorta nefas maioremque orsa furorem / evolat）」──バッコス的狂乱（Bacchic furor）の演出。「simulato numine（神霊を装って）」という表現が根本的な詩的アイロニーを示す：実際のバッコスの神霊ではなく、アレクトーがバッコス信仰を「模倣（simulare）」することで偽の宗教的熱狂を生み出す。第6牧歌でシレノスがバッコスの祭りの行列を導く場面（「thiasos inducere Bacchi」）との対比：牧歌では真正なバッコス的喜びとして、ここでは悪の道具としてのバッコス的狂乱の擬装として、同一の神話的モチーフが対極的な文脈で使用される。",
+      "targetId": "vergilius_eclogae_6",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Fāma uolat, furiīsque accēnsās pectore mātrēs\nīdem omnis simul ārdor agit noua quaerere tēcta.\nDēseruēre domōs, uentīs dant colla comāsque;",
+      "body": "「噂は飛ぶ、心を狂気に燃やされた母親たちを同じ熱狂が同時に全員に新しい住まいを求めさせる。彼女たちは家を捨て、首と髪を風に委ねる（Fama volat, furiisque accensas pectore matres / idem omnis simul ardor agit…Deseruere domos, ventis dant colla comasque）」──個人の狂乱から集合的狂乱への拡大の詩的描写。「Fama volat（噂は飛ぶ）」という表現が第4巻の「Fama…bacchatur per urbem（噂が都市を狂奔する）」と同一の語彙的パターンで、ディードの自死の知らせが広まる場面と照応する：「飛ぶ（volare）」という動詞が情報・感情の急速な伝染性を示す。「ventis dant colla comasque（首と髪を風に委ねる）」という身体的行為が、家の秩序（家父長制・室内）から自然の無秩序（野外・風）への脱出を物理的に定式化する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ipsa inter mediās flagrantem feruida pīnum\nsustinet ac nātae Turnīque canit hymenaeōs\nsanguineam torquēns aciem,",
+      "body": "「彼女自身は群れの真ん中で熱狂しながら燃える松明を持ち上げ、娘とトゥルヌスの婚礼を歌う、血走った目をぐるぐる回しながら（Ipsa inter medias flagrantem fervida pinum / sustinet ac natae Turnique canit hymeneos / sanguineam torquens aciem）」──アマータの視覚的な狂乱の絶頂描写。「flagrantem…pinum（燃える松明）」──松明は通常結婚の祝祭的道具だが、ここでは狂乱の象徴として逆転して使用される：第4巻でディードの呪詛でアエネアスへの復讐者を「火と剣で追う者（qui face Dardanios ferroque sequare colonos）」と呼んだ松明の像との照応。「sanguineam…aciem（血走った目）」──第4巻ディードの自死直前「sanguineam volvens aciem（血走った視線を巡らせ）」と語彙的に完全に一致する：ウェルギリウスが二人の激情的な女性の狂乱の極限を同一の詩的形象で定式化する。",
+      "targetId": "vergilius_aeneis_4_dido_mors",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "'iō mātrēs, audīte, ubi quaeque, Latīnae:\nsī qua piīs animīs manet īnfēlīcis Amātae\ngrātia, sī iūris māternī cūra remordet,\nsoluite crīnālīs uittās, capite orgia mēcum.'",
+      "body": "「ああ、母親たちよ、聞け、ラティウムの者よ、どこにいても：もし哀れなアマータへの何らかの好意が敬虔な心に残っているなら……髪の帯を解き放ち、わたしと共に秘儀を行え（io matres, audite…si qua piis animis manet infelicis Amatae / gratia…solvite crinalis vittas, capite orgia mecum）」──アマータの直接話法の絶頂。「infelicis Amatae（哀れなアマータ）」という自己名称が第6牧歌（「infelix Dido」）・第6巻（「infelix…Dido」）のディードへの称号と語彙的に一致する：詩集内で「不幸な女性（infelix）」という定式が狂乱・愛の苦悩・悲劇的結末を持つ女性人物への一貫した詩的刻印として機能する。「solvite crinalis vittas（髪の帯を解き放て）」──帯を解くことが女性的秩序（帯は社会的規律・貞潔の象徴）の放棄として、バッコス的無秩序への参加の招待として機能する：煉獄篇第22歌の「cinguntur tempora vitta（頭を帯で巻かれている）」というエリュシウムの至福者の標識との鏡像的対比。"
+    }
+  ]
+}
