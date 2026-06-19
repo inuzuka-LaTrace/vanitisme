@@ -1,0 +1,144 @@
+{
+  "id": "vergilius_aeneis_10_pallas",
+  "title": "Aeneis — Liber X, Mors Pallantis (v.457–509)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber X, v.457–509. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_X. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第10巻、パッラス（Pallas）の戦死の場面（v.457–509）。パッラスはアルカディア王エウアンドロスの息子でアエネアスに預けられた若き同盟軍の指揮官。ルトゥルス軍の英雄トゥルヌスと一騎打ちとなり倒される。戦闘の直前にユーピテルとヘルクレスの対話（v.464–472）が挿入され、神々も若者の死を防げないという悲劇的必然性が示される。「各人に固有の日がある、短く回復不能な命の時がすべての者にある；しかし行いで名声を伸ばすこと、これが美徳の仕事だ（Stat sua cuique dies, breve et inreparabile tempus / omnibus est vitae; sed famam extendere factis, / hoc virtutis opus）」（v.467–469）というユーピテルの言葉が詩集全体の最も重要な格言的命題の一つ。パッラスの死後、トゥルヌスが遺体から剣帯（balteus）を略奪する場面（v.495–500）と、「人間の心は運命と将来の籤を知らない（Nescia mens hominum fati sortisque futurae）」（v.501）という詩人の介入による省察が続く：トゥルヌス自身がいつかこの略奪を後悔する日が来ることの予告。パッラスの死はアエネアスの怒りの源泉となり、詩集最終場面（第12巻末）でトゥルヌスを殺す動機となる：詩集全体の因果的閉幕を準備する核心的事件。",
+  "keywords": [
+    "Pallas",
+    "Turnus",
+    "Hercules",
+    "Iuppiter",
+    "stat sua cuique dies",
+    "balteus",
+    "黄金の剣帯",
+    "Nescia mens",
+    "夭逝",
+    "運命"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_11_pallas",
+    "vergilius_aeneis_9_nisus",
+    "vergilius_aeneis_12_turnus",
+    "vergilius_aeneis_6_marcellus",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.457–462",
+      "speaker": "Narrator",
+      "original": "Hunc ubi contiguum missae fore crēdidit hastae,\nīre prior Pallās, sī quā fors adiuuet ausum\nuīribus imparibus, magnumque ita ad aethera fātur:\n'Per patris hospitium et mēnsās, quās aduena adistī,\ntē precor, Alcīdē, coeptīs ingentibus adsīs.\nCernat sēminecī sibi mē rapere arma cruenta\nuictōremque ferant morientia lūmina Turnī.'",
+      "provisionalTranslation": "これを投げた槍が届く距離にあると信じた時、\nパッラスは先に行く、もし運命が不釣り合いな\n力で試みることを助けるなら、と、こうして天に向かって大声で語る：\n「父の客人のもてなしと、よそ者としてお前が座した食卓にかけて、\nお前に祈る、アルキデスよ、この大いなる企てに力を貸せ。\nトゥルヌスが半死の状態から自分の血まみれの武器を奪う\nわたしを見て、そして死にゆく目がトゥルヌスの敗北を運ぶように。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.463–472",
+      "speaker": "Narrator",
+      "original": "Audiit Alcīdēs iuuenem magnumque sub īmō\ncorde premit gemitum lacrimāsque effundit inānīs.\nTum genitor nātum dictīs adfātur amīcīs:\n'Stat sua cuique diēs, breue et inreparābile tempus\nomnibus est uītae; sed fāmam extendere factīs,\nhōc uirtūtis opus. Trōiae sub moenibus altīs\ntot gnātī cecidēre deum, quīn occidit ūnā\nSarpēdōn, mea prōgeniēs; etiam sua Turnum\nfāta uocant mētāsque datī peruēnit ad aeuī.'\nSīc ait, atque oculōs Rutulōrum rēicit aruīs.",
+      "provisionalTranslation": "アルキデスは若者の声を聞き、心の最も深いところで\n大きな嗚咽を抑え、無力な涙を流す。\nその時父は息子に親しみある言葉で語りかける：\n「各人に固有の日がある、短く回復不能な命の時が\nすべての者にある；しかし行いで名声を伸ばすこと、\nこれが美徳の仕事だ。トロイアの高い城壁の下で\n神々の多くの子らが倒れた、それどころか同時に倒れたのだ、\nサルペドン、わたしの血統が；トゥルヌスにも自分の\n運命が呼んでいる、彼は与えられた命の終わりに達した。」\nそう言って、眼をルトゥルスの野に戻す。"
+    },
+    {
+      "id": 3,
+      "verses": "v.473–485",
+      "speaker": "Narrator",
+      "original": "At Pallās magnīs ēmittit uīribus hastam\nuāgīnāque cauā fulgentem dēripit ēnsem.\nIlla uolāns umerī surgunt quā tegmina summa\nincidit, atque uiam clipeī mōlīta per ōrās\ntandem etiam magnō strīnxit dē corpore Turnī.\nHīc Turnus ferrō praefīxum rōbur acūtō\nin Pallanta diū lībrāns iacit atque ita fātur:\n'Aspice num mage sit nostrum penetrābile tēlum.'\nDīxerat; at clipeum, tot ferrī terga, tot aeris,\nquem pellīs totiēns obeat circumdata taurī,\nuibrantī cuspis medium trānsuerberat ictū\nlōrīcaeque morās et pectus perforat ingēns.",
+      "provisionalTranslation": "しかしパッラスは大いなる力で槍を放ち、\n空の鞘から輝く剣を引き抜く。\nあれは飛んで、肩の保護具が最も高くなるところに\n当たり、盾の縁を通して道を求めながら\nついにトゥルヌスの大いなる体を掠めた。\nここでトゥルヌスは鋭い鉄を先端に付けた樫の木を\nパッラスに向けて長く狙い投じ、こう語る：\n「見ろ、われらの武器がより貫通力があるかどうかを。」\n言い終えた；しかし盾を、それほど多くの鉄の層を、それほどの青銅を、\n何重にも巻かれた雄牛の皮が覆うあれを、\n震える穂先が中央を一撃で横断し、\n胸当ての防護を貫いて大きな胸を穿つ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.486–495",
+      "speaker": "Narrator",
+      "original": "Ille rapit calidum frūstrā dē uulnere tēlum:\nūnā eademque uiā sanguis animusque sequuntur.\nCorruit in uulnus (sonitum super arma dedēre)\net terram hostīlem moriēns petit ōre cruentō.\nquem Turnus super adsistēns:\n'Arcades, haec' inquit 'memorēs mea dicta referte\nEuandrō: quālem meruit, Pallanta remittō.\nQuisquis honōs tumulī, quidquid sōlāmen humandī est,\nlargior. Haud illī stābunt Aenēia paruō\nhospitia.' Et laeuō pressit pede tālia fātus",
+      "provisionalTranslation": "あれは無駄に暖かい槍を傷から引き抜こうとする：\n一つの同じ道を血と命が後に続く。\n傷に向かって倒れ（武具の上に音が響いた）、\n死にながら血まみれの口で敵の地を求める。\nトゥルヌスはその上に立って：\n「アルカディア人たちよ、これをよく覚えてエウアンドロスに\n伝えよ：パッラスを、彼が値するような姿で送り返す。\n埋葬の塚の栄誉のすべて、葬ることの慰めのすべてを、\n惜しみなく与える。アエネアスへの歓待はあの者に安くはつかないだろう。」\nそう言い終えると左の足で踏みつけた"
+    },
+    {
+      "id": 5,
+      "verses": "v.495–504",
+      "speaker": "Narrator",
+      "original": "exanimem rapiēns immānia pondera balteī\nimpressumque nefās: ūnā sub nocte iugālī\ncaesa manus iuuenum foedē thalamīque cruentī,\nquae Clonus Eurytidēs multō caelāuerat aurō;\nquō nunc Turnus ouat spoliō gaudetque potītus.\nNescia mēns hominum fātī sortisque futūrae\net servāre modum rēbus sublāta secundīs!\nTurnō tempus erit magnō cum optāuerit ēmptum\nintāctum Pallantā, et cum spolia ista diemque\nōderit.",
+      "provisionalTranslation": "息絶えた遺体から剣帯の途方もない重みを\n奪い取り、刻まれた不正を：一夜の婚礼の下に\n醜く殺された若者たちの一隊と血まみれの閨房を、\nエウリュティデスのクロノスが多くの黄金で彫り込んだもの；\nトゥルヌスは今この戦利品で誇り、手に入れたことを喜ぶ。\n人間の心は運命と将来の籤を知らない、\n幸運な事態で高められた時に程度を守ることを！\nトゥルヌスには時が来るだろう、大きな代価でパッラスを\n傷つけなかったことを望む時が、そしてあの戦利品とあの日を\n憎む時が。"
+    },
+    {
+      "id": 6,
+      "verses": "v.505–509",
+      "speaker": "Narrator",
+      "original": "At sociī multō gemitū lacrimīsque\nimpositum scūtō referunt Pallanta frequentēs.\nŌ dolor atque decus magnum reditūre parentī,\nhaec tē prīma diēs bellō dedit, haec eadem aufert,\ncum tamen ingentīs Rutulōrum linquis aceruōs!",
+      "provisionalTranslation": "しかし仲間たちは多くの嘆きと涙の中で\n盾の上に横たえたパッラスを大勢で運び戻す。\nああ、父に戻ってゆく大いなる苦しみと誉れよ、\nこの最初の日が戦においてお前を与え、同じ日がお前を奪う、\nそれでもお前はルトゥルスたちの巨大な積み重なる死体を残している！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "'Per patris hospitium et mēnsās, quās aduena adistī,\ntē precor, Alcīdē, coeptīs ingentibus adsīs.",
+      "body": "「父の客人のもてなしと、よそ者としてお前が座した食卓にかけて、お前に祈る、アルキデスよ、この大いなる企てに力を貸せ（Per patris hospitium et mensas, quas advena adisti, / te precor, Alcide, coeptis ingentibus adsis）」──「hospitium（客人のもてなし・歓待）」という語が祈りの根拠として用いられる：ヘルクレスはかつてエウアンドロスの父の客人として歓待を受けたという神話的背景（第8巻でアエネアスがエウアンドロスを訪問した際にヘルクレスへの祭儀が行われる）。「patris hospitium（父の客人のもてなし）」という表現が、パッラスとヘルクレスの関係を父エウアンドロスを媒介とした間接的な絆として設定する：直接の関係ではなく祖先代々の絆への訴えという古代的な「連帯の論理」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "'Cernat sēminecī sibi mē rapere arma cruenta\nuictōremque ferant morientia lūmina Turnī.'",
+      "body": "「トゥルヌスが半死の状態から自分の血まみれの武器を奪うわたしを見て、そして死にゆく目がトゥルヌスの敗北を運ぶように（Cernat semineci sibi me rapere arma cruenta / victoremque ferant morientia lumina Turni）」──パッラスの祈りの内容が「自分が死ぬ」場面を想定しつつも「その前にトゥルヌスに勝つ」という最小限の願いに絞られている点が詩的に精妙。「morientia lumina（死にゆく目）」という表現が、死の瞬間に視覚（lumen）が担う最後の認識の機能を示す：死にゆく目が敵の敗北を「見ること」で自らの死を意味あるものにするという願い。第6巻のアンキーセスとの再会場面「lumen adire（光のもとへ行く）」との対比：生への光と死への目という詩集内の光の主題の反転。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "'Stat sua cuique diēs, breue et inreparābile tempus\nomnibus est uītae; sed fāmam extendere factīs,\nhōc uirtūtis opus.",
+      "body": "「各人に固有の日がある、短く回復不能な命の時がすべての者にある；しかし行いで名声を伸ばすこと、これが美徳の仕事だ（Stat sua cuique dies, breve et inreparabile tempus / omnibus est vitae; sed famam extendere factis, / hoc virtutis opus）」──ユーピテルの言葉として語られる詩集全体で最も重要な格言的命題の一つ。「Stat sua cuique dies（各人に固有の日がある）」という宣言が、死の平等性・普遍性と各人の死の個別性・固有性を同時に定式化する：誰もが死ぬが、各人の死はその人に固有の「日（dies）」として定められている。「breve et inreparabile tempus（短く回復不能な時）」──「inreparabilis（回復不能な）」という形容詞がコヘレト的「afflictio spiritus」の時間論的対応物として機能する：失われた時は回復できないという根本的な時間の非可逆性。「famam extendere factis（行いで名声を伸ばす）」が「死後に名声のみが残る」という英雄的倫理の核心命題を提供する：有限の命に対する詩的・名誉的な超越の可能性。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Audiit Alcīdēs iuuenem magnumque sub īmō\ncorde premit gemitum lacrimāsque effundit inānīs.",
+      "body": "「アルキデスは若者の声を聞き、心の最も深いところで大きな嗚咽を抑え、無力な涙を流す（Audiit Alcides iuvenem magnumque sub imo / corde premit gemitum lacrimasque effundit inanis）」──ヘルクレスの「無力な涙（lacrimas inanis）」という表現が詩的に最も鋭い部分。神でさえも運命を変えられないという無力性が「無力な涙（lacrimas inanis）」という矛盾語法（半神半人の最大の英雄の涙が「無力」である）に凝縮される：第1巻の「Sunt lacrimae rerum（事物には涙がある）」の神的次元での反響として読める。「sub imo corde premit（心の最も深いところで抑える）」という動詞が感情の外的抑制と内的苦しみの分離を示す：神は外表を保たなければならないが内的には壊れている。",
+      "targetId": "vergilius_aeneis_1_lacrimae",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Hīc Turnus ferrō praefīxum rōbur acūtō\nin Pallanta diū lībrāns iacit atque ita fātur:\n'Aspice num mage sit nostrum penetrābile tēlum.'",
+      "body": "「ここでトゥルヌスは鋭い鉄を先端に付けた樫の木をパッラスに向けて長く狙い投じ、こう語る：『見ろ、われらの武器がより貫通力があるかどうかを』（Hic Turnus ferro praefixum robur acuto / in Pallanta diu librans iacit atque ita fatur: / Aspice num mage sit nostrum penetrabile telum）」──「diu librans（長く狙って）」という副詞が意図的な・計算された殺害を示す：偶発的な戦闘死ではなく意識的な狙い打ちとしてのパッラスの死。「Aspice（見ろ）」という命令形が第4巻ディードの自死場面「Aspice: corripuit tremulus altaria flammis（見よ：灰それ自身が……）」と語彙的に反響する：重大な転換点の直前に置かれる視覚への命令として詩集的に機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "ūnā eademque uiā sanguis animusque sequuntur.",
+      "body": "「一つの同じ道を血と命が後に続く（una eademque via sanguis animusque sequuntur）」──生命を血（sanguis、物質的・身体的次元）と命（animus、精神的・霊的次元）の二元的統合として定義する一行。「una eademque via（一つの同じ道）」という表現が、身体的生命と精神的生命が同一の経路（傷口）から同時に流れ出ることを示す：物質と精神の二元論的分離ではなく、死において両者が共に同じ道を辿るという一元論的な死の描写。第4巻「omnis et una / dilapsus calor atque in ventos vita recessit（すべての体温が崩れ去り、命は風の中へと退いた）」との照応：生命の物理的・元素的な消散という詩集的モチーフ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "'Arcades, haec' inquit 'memorēs mea dicta referte\nEuandrō: quālem meruit, Pallanta remittō.",
+      "body": "「アルカディア人たちよ、これをよく覚えてエウアンドロスに伝えよ：パッラスを、彼が値するような姿で送り返す（Arcades, haec inquit memores mea dicta referte / Euandro: qualem meruit, Pallanta remitto）」──「qualem meruit（彼が値するような姿で）」という表現の解釈が議論される：①「パッラスが相応しく受けた死に方で（戦士らしく倒れて）」→賞賛的含意、②「エウアンドロスが（アエネアスに息子を預けることで）招いた結果として当然の姿で」→冷酷な皮肉。トゥルヌスの性格描写において、敵への一定の敬意と残酷な傲慢さが同居するという両義性がこの一行に凝縮される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Nescia mēns hominum fātī sortisque futūrae\net servāre modum rēbus sublāta secundīs!",
+      "body": "「人間の心は運命と将来の籤を知らない、幸運な事態で高められた時に程度を守ることを（Nescia mens hominum fati sortisque futurae / et servare modum rebus sublata secundis!）」──詩人の直接的介入による哲学的省察の最も完成された例の一つ。「Nescia mens hominum（人間の心は……を知らない）」という表現が、ユーピテルの「Stat sua cuique dies（各人に固有の日がある）」という神的な知と、人間の知の根本的限界を対比させる：神は各人の「固有の日」を知っているが、人間は自分の運命を知らない。「servare modum（程度を守ること）」というストア派的・ホラティウス的な中庸の徳への言及：成功した時こそ慎み深さが最も難しく最も必要という逆説的倫理命題。コヘレト「afflictio spiritus」が地上的繁栄の頂点で発動する構造との照応。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Turnō tempus erit magnō cum optāuerit ēmptum\nintāctum Pallantā, et cum spolia ista diemque\nōderit.",
+      "body": "「トゥルヌスには時が来るだろう、大きな代価でパッラスを傷つけなかったことを望む時が、そしてあの戦利品とあの日を憎む時が（Turno tempus erit magno cum optaverit emptum / intactum Pallanta, et cum spolia ista diemque / oderit）」──第12巻最終場面への直接的予告（prolepsis）。第12巻末でアエネアスがトゥルヌスを殺す直前にこの剣帯を見て激怒する場面が詩集の閉幕となる：剣帯の略奪という行為が詩集全体の因果的閉幕を準備する詩的「種まき（sowing）」として機能する。「spolia ista（あの戦利品）」という指示代名詞が、まだ詩集内で描かれていない未来の場面を「あの（ista）」という指示によって予感させる詩的前方参照の技法。",
+      "targetId": "vergilius_aeneis_12_turnus",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ō dolor atque decus magnum reditūre parentī,\nhaec tē prīma diēs bellō dedit, haec eadem aufert,\ncum tamen ingentīs Rutulōrum linquis aceruōs!",
+      "body": "「ああ、父に戻ってゆく大いなる苦しみと誉れよ、この最初の日が戦においてお前を与え、同じ日がお前を奪う、それでもお前はルトゥルスたちの巨大な積み重なる死体を残している！（O dolor atque decus magnum redituro parenti, / haec te prima dies bello dedit, haec eadem aufert, / cum tamen ingentis Rutulorum linquis acervos!）」──詩人の直接的介入による哀悼の感嘆文。「dolor atque decus（苦しみと誉れ）」という対句が父エウアンドロスに戻ってゆくものの二重性を示す：息子の死は最大の悲しみ（dolor）であると同時に戦士としての最大の誉れ（decus）でもある。「haec te prima dies bello dedit, haec eadem aufert（この最初の日が戦においてお前を与え、同じ日がお前を奪う）」──「prima dies（最初の日）」という表現がユーピテルの「stat sua cuique dies（各人に固有の日がある）」の「dies」を人間的・感情的スケールで反響する：神の普遍的命題が具体的な一人の若者の「初日」「最後の日」として詩的に個人化される。"
+    }
+  ]
+}
