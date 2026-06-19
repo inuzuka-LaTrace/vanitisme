@@ -112,7 +112,9 @@
       "paragraphId": 4,
       "type": "prosody",
       "anchor": "Uolat ātrī turbinis īnstar\nexitium dīrum hasta ferēns ōrāsque reclūdit\nlōrīcae et clipeī extrēmōs septemplicis orbīs;\nper medium strīdēns trānsit femur.",
-      "body": "「黒い狂風の如く飛翔して恐るべき破滅を運ぶ槍が鎧の縁と七重の盾の端の輪を開き；唸りながら太腿の中央を貫く（Volat atri turbinis instar / exitium dirum hasta ferens orāsque reclūdit / loricae et clipei extremos septemplicis orbis; / per medium stridens transit femur）」──「atri turbinis instar（黒い狂風の如く）」という比喩が第7巻アマータの狂乱場面「turbō（独楽）」のモチーフを反響する：あそこでは人間が外力に回転させられる受動的客体として描かれたが、ここでは槍そのものが「狂風（turbo）」として能動的な死の力を体現する。「exitium dirum（恐るべき破滅）」という表現が槍の機能を单なる武器を超えた「宿命的破壊」として定義する：「fatum（運命）」の物質的顕現としての槍。"
+      "body": "「凝縮された狂風の如く飛翔して恐るべき破滅を運ぶ槍が鎧の縁と七重の盾の端の輪を切り開き；唸りを上げて太腿の中央を刺し貫く（Volat atri turbinis instar / exitium dirum hasta ferens orāsque reclūdit / loricae et clipei extremos septemplicis orbis; / per medium stridens transit femur）」──「atri turbinis instar（凝縮された狂風の如く）」という比喩が第7巻アマータの狂乱場面における「turbō（独楽）」と狂気のモチーフを反響する：あそこでは人間が外力に回転させられる受動的客体として描かれたが、ここでは槍そのものが「狂風（turbo）」として能動的な死と狂気と運命の力を体現する。「exitium dirum（恐るべき破滅）」という表現が槍の機能を单なる武器を超えた「宿命的破壊」として定義する：「fatum（運命）」の物質的顕現としての槍。",
+      "targetId": "vergilius_aeneis_7_amata",
+      "targetParagraphId": 4
     },
     {
       "paragraphId": 5,
@@ -138,7 +140,7 @@
       "paragraphId": 6,
       "type": "glossary",
       "anchor": "'Pallās tē hōc uulnere, Pallās\nimmōlat et poenam scelerātō ex sanguine sūmit.'",
-      "body": "「パッラスがお前をこの傷で、パッラスが捧げ物にし、罪ある血から代償を取る（Pallas te hoc vulnere, Pallas / immolat et poenam scelerato ex sanguine sumit）」──詩集で最も議論される発話の一つ。「Pallas immolat（パッラスが捧げ物にする）」という表現が、殺害の主体をアエネアス自身から死者パッラスへと転移させる：アエネアスは殺すのではなく、パッラスの復讐の「媒介（instrument）」として行為する。この自己解釈が道徳的責任の分散として機能するかどうか──アエネアスの行為が「怒り（furiis accensus）」に駆られた復讐の殺害なのか、正義の実現なのか──は古代から現代まで議論が続く。「scelerato ex sanguine（罪ある血から）」という表現がトゥルヌスの行為を「罪（scelus）」として定義する。",
+      "body": "「パッラスがお前をこの傷で、パッラスが捧げ物にし、罪ある血から代償を取る（Pallas te hoc vulnere, Pallas / immolat et poenam scelerato ex sanguine sumit）」──詩集で最も議論される発話の一つ。「Pallas immolat（パッラスが捧げ物にする）」という表現が、殺害の主体をアエネアス自身から死者パッラスへと転移させる：アエネアスは殺すのではなく、パッラスの復讐の「媒介（instrument）」として行為する。この自己解釈が道徳的責任の分散として機能するかどうか──アエネアスの行為が私的な「怒り（furiis accensus）」に駆られた復讐の殺害なのか、公的な正義の実現なのか──は古代から現代まで議論が続く。「scelerato ex sanguine（罪ある血から）」という表現がトゥルヌスの行為を「罪（scelus）」として定義する。",
       "targetId": "vergilius_aeneis_10_pallas",
       "targetParagraphId": 5
     },
