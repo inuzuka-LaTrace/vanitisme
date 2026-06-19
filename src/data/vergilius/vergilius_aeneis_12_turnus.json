@@ -1,0 +1,152 @@
+{
+  "id": "vergilius_aeneis_12_turnus",
+  "title": "Aeneis — Liber XII, Mors Turni (v.887–952)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber XII, v.887–952. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_XII. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第12巻の最終場面、アエネアスとトゥルヌスの一騎打ちの決着（v.887–952）。詩集全体の大団円にして、ウェルギリウスが未完成のまま死去したテキストの実際の末尾。アエネアスの挑発（v.888–893）、トゥルヌスの巨岩投擲（v.894–907）、悪夢の直喩（v.908–918）、致命の槍（v.919–929）、トゥルヌスの懇願（v.930–938）、パッラスの剣帯の発見による激情（v.939–952）という六段階で最終決闘が描かれる。詩集全体で最も議論される終結：アエネアスはトゥルヌスの懇願を聞き一瞬躊躇するが（v.939「cunctantem flectere sermo / coeperat」）、パッラスの剣帯（balteus）を目にして激情（furiis accensus）に駆られ剣を突き刺す。「Pallantem immolat」（v.948）という告発的な言葉──「パッラスがお前をこの傷で捧げ物にする」──が殺害の主体をアエネアス自身ではなく死んだパッラスの復讐として提示することで、詩的な道徳的複雑性を最大化する。「vitaque cum gemitu fugit indignata sub umbras（命は嘆きと共に憤慨しながら影の下へ逃れ去った）」という詩集最終行が、古代から現代まで最も議論される閉幕として位置づけられる。「indignata（憤慨して）」という分詞が、トゥルヌスの死が「不当（indignum）」であるという解釈を可能にしながら詩を終わらせるウェルギリウスの道徳的曖昧性の最高点。",
+  "keywords": [
+    "Turnus",
+    "Aeneas",
+    "最終決闘",
+    "Pallas",
+    "balteus",
+    "indignata",
+    "vita fugit sub umbras",
+    "furiis accensus",
+    "懇願",
+    "詩集の閉幕"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_10_pallas",
+    "vergilius_aeneis_11_pallas",
+    "vergilius_aeneis_1_prooemium",
+    "hieronymus_iob_1",
+    "weil_la_violence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.887–893",
+      "speaker": "Narrator",
+      "original": "Aenēās īnstat contrā tēlumque coruscat\ningēns arboreum, et saeuō sīc pectore fātur:\n'Quae nunc deinde mora est? Aut quid iam, Turne, retractās?\nNōn cursū, saeuīs certandum est comminus armīs.\nUerte omnīs tētē in faciēs et contrahe quidquid\nsīue animīs sīue arte ualēs; optā ardua pennīs\nastra sequī clausumque cauā tē condere terrā.'",
+      "provisionalTranslation": "アエネアスは向かい立ち、木のような巨大な\n槍を輝かせ、残忍な胸でこう語る：\n「今これ以上何の遅延があるのか？あるいはトゥルヌスよ今何を躊躇うのか？\n走って争うのではない、残忍な武器で至近距離で争わねばならない。\nすべての姿に自らを変えよ、そして精神においても\n技においても持てる力をすべてかき集めよ；翼で険しい\n星々を目指すか、洞穴の地に身を隠すかを選べ。」"
+    },
+    {
+      "id": 2,
+      "verses": "v.894–901",
+      "speaker": "Narrator",
+      "original": "Ille caput quassāns: 'Nōn mē tua feruida terrent\ndicta, ferōx; dī mē terrent et Iuppiter hostis.'\nNec plūra effātus saxum circumspicit ingēns,\nsaxum antīquum ingēns, campō quod forte iacēbat,\nlīmes agrō positus lītem ut discerneret aruīs.\nUix illum lēctī bis sēx ceruīce subīrent,\nquālia nunc hominum prōdūcit corpora tellūs;\nille manū raptum trepidā torquēbat in hostem\naltior īnsurgēns et cursū concitus hērōs.",
+      "provisionalTranslation": "あれは頭を振りながら：「お前の熱烈な言葉は\n猛々しい者よ、わたしを恐れさせない；神々がわたしを恐れさせる、そして敵となったユーピテルが。」\nそれ以上語らず、巨大な岩を見回す、\n巨大な古い岩を、たまたま野に横たわっていたもの、\n畑に置かれた境界石として田畑の争いを決するために。\nそれを選ばれた十二人でも首で運べないだろう、\n今の土地が人間の体を産み出すような者では；\nあれは震える手でそれを掴んで敵に向けて投げていた、\nより高く体を起こし走りながら勢いをつけて英雄は。"
+    },
+    {
+      "id": 3,
+      "verses": "v.902–918",
+      "speaker": "Narrator",
+      "original": "Sed neque currentem sē nec cognōscit euntem\ntollentemue manū saxumue immāne mouentem;\ngenua labant, gelidus concrēuit frīgore sanguis.\nTum lapis ipse uirī uacuum per ināne uolūtus\nnec spatium ēuāsit tōtum neque pertulit ictum.\nAc uelut in somnīs, oculōs ubi languida pressit\nnocte quiēs, nēquīquam auidōs extendere cursūs\nuelle uidēmur et in mediīs cōnātibus aegrī\nsuccidimus; nōn lingua ualet, nōn corpore nōtae\nsufficiunt uīrēs nec uōx aut uerba sequuntur:\nsīc Turnō, quācumque uiam uirtūte petīuit,\nsuccessum dea dīra negat. Tum pectore sēnsūs\nuertuntur uariī; Rutulōs aspectat et urbem\ncūnctāturque metū lētumque īnstāre tremēscit,\nnec quō sē ēripiat, nec quā uī tendat in hostem,\nnec currūs usquam uidet aurīgamue sorōrem.",
+      "provisionalTranslation": "しかし走っている自分も行く自分も\n手で持ち上げようとしているのも巨大な岩を動かしているのも認識できない；\n膝が崩れ、冷たい血が寒さで固まった。\nそれから岩そのものが男の空虚な虚空を転がって\n全空間を越えることも打撃を届かせることもなかった。\nまるで夢の中で、ぐったりした安らぎが\n夜目を閉じさせた時、むなしく貪欲な走りを\n伸ばそうとするように思え、苦しんで企ての途中で\n倒れるように；舌は効かず、体の知られた\n力も足りず、声も言葉も続かないように：\nそのようにトゥルヌスに、美徳でいかなる道を求めても、\n恐ろしい女神は成功を否む。それから胸の中で感覚が\n様々に転じる；ルトゥルスたちと都市を見回し\n恐れで躊躇い迫り来る死に震え、\n自らを救う場所も、いかなる力で敵に向かうかも、\nどこにも戦車も御者である姉妹も見えない。"
+    },
+    {
+      "id": 4,
+      "verses": "v.919–929",
+      "speaker": "Narrator",
+      "original": "Cūnctantī tēlum Aenēās fātāle coruscat,\nsortītus fortūnam oculīs, et corpore tōtō\nēminus intorquet. Mūrālī concita numquam\ntormentō sīc saxa fremunt nec fulmine tantī\ndissultant crepitūs. Uolat ātrī turbinis īnstar\nexitium dīrum hasta ferēns ōrāsque reclūdit\nlōrīcae et clipeī extrēmōs septemplicis orbīs;\nper medium strīdēns trānsit femur. Incidit ictus\ningēns ad terram duplicātō poplite Turnus.\nCōnsurgunt gemitū Rutulī tōtusque remūgit\nmōns circum et uōcem lātē nemora alta remittunt.",
+      "provisionalTranslation": "躊躇う彼に向かってアエネアスは運命の槍を\n輝かせ、目で好機を見定めて、全身で\n遠くから回転させて投げる。城壁を破る\n攻城機械でも岩はこれほど轟かず、雷でも\nこれほどの大きな音は弾け飛ばない。黒い狂風の如く飛翔して\n恐るべき破滅を運ぶ槍が鎧の縁と\n七重の盾の端の輪を開き；\n唸りながら太腿の中央を貫く。大きな打撃で\n膝を折って地面にトゥルヌスが倒れる。\nルトゥルスたちは嘆きで立ち上がり、周りの山全体が\n轟き、高い森々が広くその声を返す。"
+    },
+    {
+      "id": 5,
+      "verses": "v.930–938",
+      "speaker": "Narrator",
+      "original": "Ille humilīs supplex oculōs dextramque precantem\nprōtendēns 'Equidem meruī nec dēprecor' inquit;\n'ūtere sorte tuā. Miserī tē sī qua parentis\ntangere cūra potest, ōrō (fuit et tibi tālis\nAnchīsēs genitor) Daunī miserēre senectae\net mē, seu corpus spoliātum lūmine māuīs,\nredde meīs. Uīcistī et uictum tendere palmās\nAusoniī uidēre; tua est Lāuīnia coniūnx,\nulterius nē tende odiīs.' Stetit ācer in armīs\nAenēās uoluēns oculōs dextramque repressit;",
+      "provisionalTranslation": "彼は謙虚に懇願する目と祈る右手を\n伸ばして「わたしは確かに値した、そして嘆願はしない」と言った；\n「お前の運命を使え。もし哀れな父への\n何らかの配慮がお前を動かすことができるなら、お前に懇願する（アンキーセスという\n父もお前にはいた）ダウヌスの老齢を憐れめ、\nそしてわたしを、光を奪われた体のままでの方を好むなら、\nわたしの者たちに返してくれ。勝ったのはお前だ、そしてアウソニア人たちは\n敗者が手を伸ばすのを見た；ラウィーニアはお前の妻だ、\nこれ以上憎しみを伸ばすな。」アエネアスは目を転じながら\n武器の中に鋭く立ち、右手を抑えた；"
+    },
+    {
+      "id": 6,
+      "verses": "v.938–952",
+      "speaker": "Narrator",
+      "original": "et iam iamque magis cūnctantem flectere sermō\ncoeperat, īnfēlīx umerō cum apparuit altō\nbalteus et nōtīs fulsērunt cingula bullīs\nPallantis puerī, uictum quem uulnere Turnus\nstrāuerat atque umerīs inimīcum īnsigne gerēbat.\nIlle, oculīs postquam saeuī monimenta dolōris\nexuuiāsque hausit, furiīs accēnsus et īrā\nterribilis: 'Tūne hinc spoliīs indūte meōrum\nēripiāre mihī? Pallās tē hōc uulnere, Pallās\nimmōlat et poenam scelerātō ex sanguine sūmit.'\nHōc dīcēns ferrum aduersō sub pectore condit\nferuidus; ast illī soluuntur frīgore membra\nuītaque cum gemitū fugit indignāta sub umbrās.",
+      "provisionalTranslation": "そしてその今その今一層躊躇いながら言葉が心を\n曲げ始めていた、その時不幸なことに高い肩に\n剣帯が現れ、知られた飾り鋲で輝いた、\n少年パッラスのもの、傷によって敗者を\nトゥルヌスが打ち倒し、肩に敵の印を帯びていたもの。\n彼は目で残忍な悲しみの記念物と\n形見の品を飲み込んだ後、激情に燃え、怒りに\n恐ろしくなり：「お前はわたしの者たちの戦利品を纏って\nわたしから奪われるのか？パッラスがお前をこの傷で、パッラスが\n捧げ物にし、罪ある血から代償を取る。」\nそう言いながら熱狂して向き合う胸の下に剣を突き刺す；\nしかし彼の四肢は冷たさで解け、\n命は嘆きと共に憤慨しながら影の下へ逃れ去った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "'Quae nunc deinde mora est? Aut quid iam, Turne, retractās?\nNōn cursū, saeuīs certandum est comminus armīs.",
+      "body": "「今これ以上何の遅延があるのか？あるいはトゥルヌスよ今何を躊躇うのか？走って争うのではない、残忍な武器で至近距離で争わねばならない（Quae nunc deinde mora est? Aut quid iam, Turne, retractas? / Non cursu, saevis certandum est comminus armis）」──「mora（遅延）」という語が詩集全体の遅延・引き延ばしのモチーフを閉幕場面に召喚する：ユーノーによる介入で何度も引き延ばされた対決がついに「遅延の終わり」として決着に向かう。「comminus（至近距離で）」という副詞が身体的・最終的な対決の不可避性を示す：遠距離からの投擲や逃走という回避の可能性をアエネアス自身が言語的に封じる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "'Nōn mē tua feruida terrent\ndicta, ferōx; dī mē terrent et Iuppiter hostis.'",
+      "body": "「お前の熱烈な言葉は猛々しい者よ、わたしを恐れさせない；神々がわたしを恐れさせる、そして敵となったユーピテルが（Non me tua fervida terrent / dicta, ferox; di me terrent et Iuppiter hostis）」──「di me terrent et Iuppiter hostis（神々がわたしを恐れさせる、そして敵となったユーピテルが）」というトゥルヌスの最後の告白が、詩集全体の「fatum（運命）」対「voluntas（意志）」という根本的対立の個人的表明として機能する：英雄は人間に対してではなく神に対して敗北する。「Iuppiter hostis（敵となったユーピテル）」という大胆な表現が神への怨嗟を示す：従順な敬虔さ（pietas）の反対として、神を「敵（hostis）」と呼ぶことへの躊躇のない率直さがトゥルヌスの性格の核心。ヨブ記的な「神との争い」の類型との照応。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "saxum antīquum ingēns, campō quod forte iacēbat,\nlīmes agrō positus lītem ut discerneret aruīs.\nUix illum lēctī bis sēx ceruīce subīrent,\nquālia nunc hominum prōdūcit corpora tellūs;",
+      "body": "「巨大な古い岩を、たまたま野に横たわっていたもの、畑に置かれた境界石として田畑の争いを決するために。それを選ばれた十二人でも首で運べないだろう、今の土地が人間の体を産み出すような者では（saxum antiquum ingens, campo quod forte iacebat, / limes agro positus litem ut discerneret arvis. / Vix illum lecti bis sex cervice subirent, / qualia nunc hominum producit corpora tellus）」──「limes agro positus（畑に置かれた境界石）」という岩の社会的機能の説明が叙事詩の英雄的文脈に日常的・法的な現実を挿入する：土地争いを決める境界石が一騎打ちの凶器に転用されるという詩的転位。「qualia nunc hominum producit corpora tellus（今の土地が人間の体を産み出すような者では）」という括弧的な比較が、英雄時代の人間の体が現代より大きかったという古代的信念への言及として機能する：英雄の「巨大さ」という叙事詩的慣例の詩的合理化。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ac uelut in somnīs, oculōs ubi languida pressit\nnocte quiēs, nēquīquam auidōs extendere cursūs\nuelle uidēmur et in mediīs cōnātibus aegrī\nsuccidimus; nōn lingua ualet, nōn corpore nōtae\nsufficiunt uīrēs nec uōx aut uerba sequuntur:",
+      "body": "「まるで夢の中で、ぐったりした安らぎが夜目を閉じさせた時、むなしく貪欲な走りを伸ばそうとするように思え、苦しんで企ての途中で倒れるように；舌は効かず、体の知られた力も足りず、声も言葉も続かないように（Ac velut in somnis, oculis ubi languida pressit / nocte quies, nequiquam avidōs extendere cursus / velle videmur et in mediis conatibus aegri / succidimus; non lingua valet, non corpore notae / sufficiunt vires nec vox aut verba sequuntur）」──詩集全体で最も有名な直喩の一つ。「悪夢の中で走れない感覚」という普遍的な夢の経験が、神的な呪縛によって力を失ったトゥルヌスの状態の比喩として使用される：夢における体の非自由が、神の干渉による英雄の意志の無力化として詩的に定式化される。「non lingua valet, non corpore notae / sufficiunt vires nec vox aut verba sequuntur（舌は効かず、体の知られた力も足りず、声も言葉も続かない）」という三重の否定が、行動（走る）・言語（語る）・力（体）という人間的能力の全面的崩壊を段階的に列挙する。第6巻「inceptus clamor frustratur hiantis（始まった叫びは開いた口を欺く）」──冥界の霊の声の不可能性──との詩集的照応。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tum pectore sēnsūs\nuertuntur uariī; Rutulōs aspectat et urbem\ncūnctāturque metū lētumque īnstāre tremēscit,\nnec quō sē ēripiat, nec quā uī tendat in hostem,\nnec currūs usquam uidet aurīgamue sorōrem.",
+      "body": "「それから胸の中で感覚が様々に転じる；ルトゥルスたちと都市を見回し恐れで躊躇い迫り来る死に震え、自らを救う場所も、いかなる力で敵に向かうかも、どこにも戦車も御者である姉妹も見えない（Tum pectore sensus / vertuntur varii…nec currus usquam videt aurīgamue sorōrem）」──「sensus vertuntur varii（感覚が様々に転じる）」という表現がトゥルヌスの心理的混乱の多方向性を示す：一つの方向ではなく「様々に（varii）」転じる内的状態。「nec currus usquam videt aurigamue sororem（どこにも戦車も御者である姉妹も見えない）」──ユトゥルナ（Juturna、トゥルヌスの姉妹・水の精）は神々に強制的に撤退させられており、この「不在」が決定的な孤立を確認する：神的な支援の撤退としての運命の実現。ヴェイユ「la violence（力）」における「力の完全な停止」としての死の前段階との照応。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Uolat ātrī turbinis īnstar\nexitium dīrum hasta ferēns ōrāsque reclūdit\nlōrīcae et clipeī extrēmōs septemplicis orbīs;\nper medium strīdēns trānsit femur.",
+      "body": "「黒い狂風の如く飛翔して恐るべき破滅を運ぶ槍が鎧の縁と七重の盾の端の輪を開き；唸りながら太腿の中央を貫く（Volat atri turbinis instar / exitium dirum hasta ferens orāsque reclūdit / loricae et clipei extremos septemplicis orbis; / per medium stridens transit femur）」──「atri turbinis instar（黒い狂風の如く）」という比喩が第7巻アマータの狂乱場面「turbō（独楽）」のモチーフを反響する：あそこでは人間が外力に回転させられる受動的客体として描かれたが、ここでは槍そのものが「狂風（turbo）」として能動的な死の力を体現する。「exitium dirum（恐るべき破滅）」という表現が槍の機能を单なる武器を超えた「宿命的破壊」として定義する：「fatum（運命）」の物質的顕現としての槍。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "'Equidem meruī nec dēprecor' inquit;\n'ūtere sorte tuā.",
+      "body": "「わたしは確かに値した、そして嘆願はしない……お前の運命を使え（Equidem merui nec deprecor inquit; / utere sorte tua）」──トゥルヌスの懇願の冒頭における自己認識の告白。「merui（わたしは値した）」という動詞が、トゥルヌス自身による自己の運命の受容を示す：嘆願しつつも自らの死の正当性を認めるという詩的矛盾。「utere sorte tua（お前の運命を使え）」という命令形が、死の決定をアエネアスの「運命（sors）」として提示する：トゥルヌスの死が個人的な報復ではなく運命の実現として枠付けされる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "'fuit et tibi tālis\nAnchīsēs genitor) Daunī miserēre senectae",
+      "body": "「アンキーセスという父もお前にはいた……ダウヌスの老齢を憐れめ（fuit et tibi talis / Anchises genitor) Dauni miserere senectae）」──トゥルヌスが父アンキーセスへのアエネアスの愛着を共感の根拠として援用する。「fuit et tibi talis Anchises genitor（アンキーセスという父もお前にはいた）」という括弧内の表現が、死者（アンキーセス）を感情的説得の道具として召喚する：第6巻冥界でのアンキーセスとの再会という詩集最大の感情的場面への参照。「Dauni miserere senectae（ダウヌスの老齢を憐れめ）」──トゥルヌスの父への訴えが「miserere（憐れめ）」という第9牧歌・第6巻でも用いられた懇願の定型句として機能する。第6巻マルケッルス哀悼での父と子の悲劇との照応。",
+      "targetId": "vergilius_aeneis_6_anchises",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "et iam iamque magis cūnctantem flectere sermō\ncoeperat, īnfēlīx umerō cum apparuit altō\nbalteus et nōtīs fulsērunt cingula bullīs\nPallantis puerī,",
+      "body": "「そしてその今その今一層躊躇いながら言葉が心を曲げ始めていた、その時不幸なことに高い肩に剣帯が現れ（et iam iamque magis cunctantem flectere sermo / coeperat, infelix umero cum apparuit alto / balteus et notis fulsērunt cingula bullis / Pallantis pueri）」──詩集全体で最も精妙な詩的技法の一つ。「iam iamque（その今その今）」という時間の強迫的反復が、慈悲の可能性が最大に高まった瞬間を詩行のリズム自体で体現する：読者はアエネアスがトゥルヌスを許すかもしれないという期待を最大化した直後に、剣帯の出現という反転を経験する。「infelix（不幸なことに）」という副詞が詩人の道徳的介入として機能する：詩人自身が結末を「不幸」と評価しながら語るという曖昧な道徳的位置取り。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "'Pallās tē hōc uulnere, Pallās\nimmōlat et poenam scelerātō ex sanguine sūmit.'",
+      "body": "「パッラスがお前をこの傷で、パッラスが捧げ物にし、罪ある血から代償を取る（Pallas te hoc vulnere, Pallas / immolat et poenam scelerato ex sanguine sumit）」──詩集で最も議論される発話の一つ。「Pallas immolat（パッラスが捧げ物にする）」という表現が、殺害の主体をアエネアス自身から死者パッラスへと転移させる：アエネアスは殺すのではなく、パッラスの復讐の「媒介（instrument）」として行為する。この自己解釈が道徳的責任の分散として機能するかどうか──アエネアスの行為が「怒り（furiis accensus）」に駆られた復讐の殺害なのか、正義の実現なのか──は古代から現代まで議論が続く。「scelerato ex sanguine（罪ある血から）」という表現がトゥルヌスの行為を「罪（scelus）」として定義する。",
+      "targetId": "vergilius_aeneis_10_pallas",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "ast illī soluuntur frīgore membra\nuītaque cum gemitū fugit indignāta sub umbrās.",
+      "body": "「しかし彼の四肢は冷たさで解け、命は嘆きと共に憤慨しながら影の下へ逃れ去った（ast illi solvuntur frigore membra / vitaque cum gemitu fugit indignata sub umbras）」──詩集の最終二行にして西洋文学史上最も議論される閉幕の一つ。「ast（しかし）」は「at」の古風な表現、あるいは詩的な表現であり、ラテン語のat（およびast）は、英語のbutに相当するが、他の逆接詞（sedなど）と比べて「前の文と強い対比をなす新しい事実や、急な場面転換を導入する」という特徴を持つ。ここではアエネアスの「激しい動的な攻撃」に対し、「ast」を挟むことで、一瞬にしてトゥルヌスの「静的な死への移行」へとカメラワークが切り替わる。「solvuntur frigore membra（四肢は冷たさで解ける）」は第4巻ディードの死「dilapsus calor atque in ventos vita recessit（体温が崩れ去り命は風の中へ退いた）」と同一の生命の物理的・元素的消散として詩集内で前後照応する：「冷たさで解ける」という表現が生命を体温として定義する詩集的一貫性。「vitaque cum gemitu fugit indignata sub umbras（命は嘆きと共に憤慨しながら影の下へ逃れ去った）」──「indignata（憤慨して）」という現在分詞が最大の解釈問題を提示する：命が「憤慨して」去るとは何を意味するか？①トゥルヌスの死への主観的な抗議（彼の視点）、②死そのものが「不当（indignum）」であるという詩人の道徳的評価、③単なる詩的修辞。詩集全体の「pietas（敬虔）」対「furor（激情）」という対立が、まさに「激情（furiis accensus）」によって行われた最後の殺害という行為で終わるという閉幕の道徳的曖昧性が、ウェルギリウスの詩学的深度の証拠として永続的に問われ続ける。"
+    }
+  ]
+}
