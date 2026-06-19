@@ -1,0 +1,133 @@
+ {
+  "id": "vergilius_aeneis_11_pallas",
+  "title": "Aeneis — Liber XI, Funus Pallantis (v.59–99)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber XI, v.59–99. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_XI. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "29–19 BC頃",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第11巻、パッラス（Pallas）の葬送行列の場面（v.59–99）。前巻（第10巻）でトゥルヌスに討たれたパッラスの遺体をアエネアスが故郷アルカディアへ送り返す準備と行列の描写。詩集内で最も精緻に描かれた葬送の場面の一つ。若い遺体を「乙女の指で摘まれた柔らかいスミレか萎れたヒュアキントスの花のように（quālem virgineō demessum pollice flōrem / seu mollis violae seu languentis hyacinthi）」（v.68–69）と描写する植物的直喩が、第9巻ニスス・エウリュアルス場面の「purpureus flos succisus aratro（紫の花が鋤で刈られて）」と詩集内で対応する。アエネアスがかつてディードが手ずから織った衣（Sidonia Dido）をパッラスの遺体に纏わせる場面（v.72–77）が、詩集全体の惜別の主題を凝縮する：死者ディードの手の作品が別の死者パッラスを包むという二重の喪失の重なり。アエネアスの最後の別れの言葉「永遠に健在であれ、偉大なパッラスよ、永遠にさらばだ（salve aeternum mihi, maxime Palla, / aeternumque vale）」（v.97–98）が、ローマ葬送儀礼の決まり文句を詩的に昇華させた定式として後世に広く流通した。第6巻マルケッルス哀悼・第10巻パッラスの死との三部作的な夭逝の詩学の完結。",
+  "keywords": [
+    "Pallas",
+    "葬送行列",
+    "花の直喩",
+    "Dido",
+    "Aeneas",
+    "salve aeternum",
+    "aeternumque vale",
+    "Aethon",
+    "Sidonia Dido",
+    "永別"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_10_pallas",
+    "vergilius_aeneis_9_nisus",
+    "vergilius_aeneis_6_marcellus",
+    "vergilius_aeneis_4_dido_mors",
+    "hieronymus_iob_1",
+    "rodenbach_lacrymae_rerum"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.59–66",
+      "speaker": "Narrator",
+      "original": "Haec ubi dēflēuit, tollī miserābile corpus\nimperat, et tōtō lēctōs ex agmine mittit\nmīlle uirōs quī sūprēmum comitentur honōrem\nintersinque patris lacrimīs, sōlācia lūctūs\nexigua ingentis, miserō sed dēbita patrī.\nHaud segnēs aliī crātīs et molle ferētrum\narbuteīs texunt uirgīs et uīmine quernō\nexstrūctōsque torōs obtentū frōndis inumbrant.",
+      "provisionalTranslation": "これを泣き終えると、哀れな体を持ち上げることを\n命じ、全軍から選ばれた千人を送る、\n最後の誉れに付き添い\n父の涙に加わるために、巨大な悲しみへの\n小さな慰め、しかし哀れな父に与えられるべきもの。\n怠らず他の者たちはイチゴノキの枝と樫の\n柳枝で籠と柔らかい担架を編み、\n積み重なった葬儀の寝台を葉の覆いで陰にする。"
+    },
+    {
+      "id": 2,
+      "verses": "v.67–71",
+      "speaker": "Narrator",
+      "original": "Hīc iuuenem agrestī sūblīmem strāmine pōnunt:\nquālem uirgineō dēmessum pollice flōrem\nseu mollis uiolae seu languentis hyacinthī,\ncui neque fulgor adhūc nec dum sua fōrma recessit,\nnōn iam māter alit tellūs uīrīsque ministrat.",
+      "provisionalTranslation": "ここに若者を田舎の敷き藁の上に高く横たえる：\n乙女の指で摘まれた花のように、\n柔らかいスミレか、萎れるヒュアキントスか、\nその輝きも形もまだ去らず、\nしかしもはや大地という母が養い、力を与えることはない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.72–79",
+      "speaker": "Narrator",
+      "original": "Tum geminās uestīs aurōque ostrōque rigentīs\nextulit Aenēās, quās illī laeta labōrum\nipsa suīs quondam manibus Sīdōnia Dīdō\nfēcerat et tenuī tēlās discrēuerat aurō.\nHārum ūnam iuuenī sūprēmum maestus honōrem\ninduit ārsūrāsque comās obnūbit amictū,\nmultaque praetereā Laurentis praemia pugnae\naggerat et longō praedam iubet ōrdine dūcī;",
+      "provisionalTranslation": "その時アエネアスは黄金と緋に固く張った\n二枚の衣を取り出す、かつてシドンのディードが喜んで\n自らの手で彼のために作り、\n細い金の糸で織物を仕切っていたもの。\nその一枚を悲しみながら若者の最後の誉れに\n纏わせ、燃えるだろう髪を外套で覆い、\nその上に数多くのラウレントゥムの戦いの賞品を\n積み重ね、戦利品を長い列で運ぶよう命じる；"
+    },
+    {
+      "id": 4,
+      "verses": "v.79–84",
+      "speaker": "Narrator",
+      "original": "addit equōs et tēla quibus spoliāuerat hostem.\nUīnxerat et post terga manūs, quōs mitteret umbrīs\nīnferiās, caesō sparsūrus sanguine flammās,\nindūtōsque iubet truncōs hostīlibus armīs\nipsōs ferre ducēs inimīcaque nōmina fīgī.",
+      "provisionalTranslation": "馬と、敵から奪い取った武器を加える。\n背後に手を縛っていた者たちも、影へ送る\n供物として、殺した血で炎を撒くために、\nそして敵の武具を纏わせた幹を\n指揮官たち自身に運ばせ、敵の名を刻むよう命じる。"
+    },
+    {
+      "id": 5,
+      "verses": "v.85–93",
+      "speaker": "Narrator",
+      "original": "Dūcitur īnfēlīx aeuō cōnfēctus Acoetēs,\npectora nunc foedāns pugnīs, nunc unguibus ōra,\nsternitur et tōtō prōiectus corpore terrae;\ndūcunt et Rutulō perfūsōs sanguine currūs.\nPost bellātor equus positīs īnsignibus Aethōn\nit lacrimāns guttīsque ūmectat grandibus ōra.\nHastam aliī galeamque ferunt, nam cētera Turnus\nuictor habet. Tum maesta phalanx Teucrīque sequuntur\nTyrrhēnīque omnēs et uersīs Arcades armīs.",
+      "provisionalTranslation": "導かれる不幸な老年に疲れ果てたアコエテスが、\n今は拳で胸を、今は爪で顔を傷つけながら、\n倒れ、全身で地に伏す；\nルトゥルスの血に濡れた戦車も引かれる。\n後に戦馬アエトンが飾りを外して\n涙しながら行き、大粒の涙で顔を濡らす。\n他の者たちは槍と兜を運ぶ、他の物はトゥルヌスが\n勝者として持っているから。それから悲しい隊列とトロイア人が続き、\nすべてのテュレニア人と、逆さにした武器のアルカディア人が。"
+    },
+    {
+      "id": 6,
+      "verses": "v.94–99",
+      "speaker": "Narrator",
+      "original": "Postquam omnis longē comitum praecesserat ōrdō,\nsubstitit Aenēās gemitūque haec addidit altō:\n'Nōs aliās hinc ad lacrimās eadem horrida bellī\nfāta uocant: saluē aeternum mihi, maxime Pallā,\naeternumque ualē.' Nec plūra effātus ad altōs\ntendēbat mūrōs gressumque in castra ferēbat.",
+      "provisionalTranslation": "仲間たちの全列が遠くに先行してしまった後、\nアエネアスは立ち止まり、深い嗚咽でこれを加えた：\n「われらはここから別の涙へと戦の同じ恐ろしい\n運命が呼ぶ：永遠に健在であれ、わたしのために、偉大なパッラスよ、\n永遠にさらばだ。」それ以上語ることなく高い\n城壁へと向かい歩みを陣営へと向けた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "mīlle uirōs quī sūprēmum comitentur honōrem\nintersintque patris lacrimīs, sōlācia lūctūs\nexigua ingentis, miserō sed dēbita patrī.",
+      "body": "「最後の誉れに付き添い父の涙に加わるために、巨大な悲しみへの小さな慰め、しかし哀れな父に与えられるべきもの（qui supremum comitentur honorem / intersintque patris lacrimis, solatia luctus / exigua ingentis, misero sed debita patri）」──「solatia luctus / exigua ingentis（巨大な悲しみへの小さな慰め）」という対比が父エウアンドロスへの共感を表現する：千人という大軍の随行が「巨大な悲しみ（ingens luctus）」に対する「小さな慰め（exigua solatia）」に過ぎないという定量的な逆説。「debita patri（父に与えられるべきもの）」という表現が葬送の義務（debitum）という概念を示す：ローマ的・法的な「負債（debitum）」の語彙が友情・敬意の道徳的義務として転用される。ヨブ記第1章の「衣を裂き、頭を剃り、地に倒れ伏した」父の喪の儀礼との人類学的照応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "quālem uirgineō dēmessum pollice flōrem\nseu mollis uiolae seu languentis hyacinthī,\ncui neque fulgor adhūc nec dum sua fōrma recessit,\nnōn iam māter alit tellūs uīrīsque ministrat.",
+      "body": "「乙女の指で摘まれた花のように、柔らかいスミレか、萎れるヒュアキントスか、その輝きも形もまだ去らず、しかしもはや大地という母が養い、力を与えることはない（qualem virgineō demessum pollice flōrem / seu mollis violae seu languentis hyacinthi, / cui neque fulgor adhuc nec dum sua forma recessit, / non iam mater alit tellus virisque ministrat）」──第9巻「purpureus veluti cum flos succisus aratro（紫の花が鋤で刈られたように）」と詩集内で対応する植物的死の直喩。しかし二つは重要な差異を持つ：第9巻では「鋤（aratrum）」という農業的・力強い道具による切断であるのに対し、ここでは「乙女の指（virgineus pollex）」という繊細な女性的行為による摘み取り。ヒュアキントスへの言及がアポッロに愛されて死んだ美少年の神話（第3牧歌「hyacinthi」）を背景に持つ：美と死の神話的同一視の伝統の詩的継承。「non iam mater alit tellus（もはや大地という母が養わない）」──大地を「母（mater）」として擬人化することで、花（＝若者）が母（大地）から切り離された状態が強調される：エウアンドロスという人間の父への別れと、大地という宇宙的な母からの切り離しが重なり合う。",
+      "targetId": "vergilius_aeneis_9_nisus",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "quās illī laeta labōrum\nipsa suīs quondam manibus Sīdōnia Dīdō\nfēcerat et tenuī tēlās discrēuerat aurō.",
+      "body": "「かつてシドンのディードが喜んで自らの手で彼のために作り、細い金の糸で織物を仕切っていたもの（quas illi laeta laborum / ipsa suis quondam manibus Sidonia Dido / fecerat et tenui telas discreverat auro）」──詩集全体で最も精妙な詩的「物の旅（itinerary of objects）」の一例。ディードが生前アエネアスのために手ずから織った衣が、今はアエネアスの戦友パッラスの葬儀の衣として使われるという物の循環。「laeta laborum（労働を喜んで）」という形容が、ディードが愛を込めて制作したことを示す：愛の労働の産物が今や葬送の儀礼道具に転用される詩的悲劇。「ipsa suis…manibus（自らの手で）」という表現がディードの身体的・個人的関与を強調する：手の労働という最も具体的な愛の表現が死者の衣として生き残る。第4巻「exuviae（形見の品）」のモチーフの詩集的反響。",
+      "targetId": "vergilius_aeneis_4_dido_mors",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Uīnxerat et post terga manūs, quōs mitteret umbrīs\nīnferiās, caesō sparsūrus sanguine flammās,",
+      "body": "「背後に手を縛っていた者たちも、影へ送る供物として、殺した血で炎を撒くために（Vinxerat et post terga manus, quos mitteret umbris / inferias, caeso sparsurus sanguine flammas）」──人身供犠的な葬送儀礼の詩的記録。「umbris inferias（影への供物）」──「inferiae（地下の神々への供物）」はローマの葬送宗教における死者への捧げ物の定型概念。捕虜を殺して死者の霊魂に供するという習慣がホメロス（アキッレスがパトロクロスの葬儀でトロイア人捕虜を殺す場面）に由来する英雄時代の習俗として示される：アエネアスという「敬虔（pius）」な英雄が行う儀礼の中に「野蛮」な要素が共存するというウェルギリウスの倫理的複雑性。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Post bellātor equus positīs īnsignibus Aethōn\nit lacrimāns guttīsque ūmectat grandibus ōra.",
+      "body": "「後に戦馬アエトンが飾りを外して涙しながら行き、大粒の涙で顔を濡らす（Post bellator equus positis insignibus Aethon / it lacrimans guttisque umecat grandibus ora）」──「Aethon（アエトン）」という固有名を持つパッラスの馬が涙を流すという擬人化。古代叙事詩において馬が主人の死を悼む例は稀であり（ホメロスでアキッレスの馬が涙する場面が先例）、このアエトンの涙が人間以外の存在が悲嘆に参加するという詩的宇宙論（自然の共感）の叙事詩版として機能する：第5牧歌のダプニス哀悼で「山々も岩々も泣いた」という牧歌的自然の共感の叙事詩的等価物。「positis insignibus（飾りを外して）」という行為が喪の象徴的身振りとして機能する：戦馬の誇りある装飾を外すことで死への哀悼を身体的に表現する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "prosody",
+      "anchor": "Hastam aliī galeamque ferunt, nam cētera Turnus\nuictor habet. Tum maesta phalanx Teucrīque sequuntur\nTyrrhēnīque omnēs et uersīs Arcades armīs.",
+      "body": "「他の者たちは槍と兜を運ぶ、他の物はトゥルヌスが勝者として持っているから……逆さにした武器のアルカディア人が（Hastam alii galeamque ferunt, nam cetera Turnus / victor habet…et versis Arcades armis）」──「nam cetera Turnus / victor habet（他の物はトゥルヌスが勝者として持っているから）」という挿入句が葬送行列の描写の中に突然トゥルヌスへの言及を持ち込む：前巻の「spolia（戦利品）」略奪が葬儀の不完全性（武具が揃っていない）として可視化される。「versis Arcades armis（逆さにした武器のアルカディア人）」──葬送行列において武器を逆さに持つことが古代の哀悼の儀礼的身振り：戦闘的用途への転用不可能性・武器の「死」として。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "'Nōs aliās hinc ad lacrimās eadem horrida bellī\nfāta uocant: saluē aeternum mihi, maxime Pallā,\naeternumque ualē.'",
+      "body": "「われらはここから別の涙へと戦の同じ恐ろしい運命が呼ぶ：永遠に健在であれ、わたしのために、偉大なパッラスよ、永遠にさらばだ（Nos alias hinc ad lacrimas eadem horrida belli / fata vocant: salve aeternum mihi, maxime Palla, / aeternumque vale）」──「salve aeternum…aeternumque vale（永遠に健在であれ……永遠にさらばだ）」はローマの葬送儀礼で遺族が遺体に告げる決まり文句「ave atque vale（健在よ、さらばよ）」の詩的・感情的昇華。カトゥルス第101番「multas per gentes et multa per aequora vectus…multas per gentes et multa per aequora vectus…atque in perpetuum, frater, ave atque vale（幾多の民族を越え……永遠に、兄弟よ、健在よ、さらばよ）」の反響：愛する者への永訣という同一の詩的構造が兄弟の死と戦友の死という異なる文脈で使用される。「aeternum（永遠に）」という副詞の二重反復が別れの永続性・決定的な性格を強調する：生者と死者の間の時間的な断絶としての「永遠」。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "'Nōs aliās hinc ad lacrimās eadem horrida bellī\nfāta uocant:",
+      "body": "「われらはここから別の涙へと戦の同じ恐ろしい運命が呼ぶ（Nos alias hinc ad lacrimas eadem horrida belli / fata vocant）」──「alias…lacrimas（別の涙へ）」という表現が、一つの喪失の涙から次の喪失の涙へと続く戦争の悲劇の連続性を示す：戦争とは涙の連鎖であるという認識。「eadem horrida belli / fata（戦の同じ恐ろしい運命）」──「eadem（同じ）」という形容詞が、パッラスの死とこれから訪れるであろう別の死が同一の冷酷な戦争の論理に従うことを示す：個々の死の特殊性と戦争の一般的・反復的な破壊力の同時提示。第1巻「Sunt lacrimae rerum et mentem mortalia tangunt」の普遍的哀悼の命題が、ここでは「次の涙」という複数・継続的な哀悼として具体化される。",
+      "targetId": "vergilius_aeneis_1_lacrimae",
+      "targetParagraphId": 2
+    }
+  ]
+}
