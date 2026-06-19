@@ -1,0 +1,155 @@
+{
+  "id": "vergilius_aeneis_9_nisus",
+  "title": "Aeneis — Liber IX, Nisus et Euryalus (v.386–449)",
+  "author": "Publius Vergilius Maro",
+  "source": "Aeneis, Liber IX, v.386–449. Wikisource: https://la.wikisource.org/wiki/Aeneis/Liber_IX. Editio: J. B. Greenough, Bucolics, Aeneid, and Georgics of Vergil, Boston, Ginn & Co., 1900.",
+  "year": "Antiquitas",
+  "firstPublication": "19 BC（ウェルギリウス死後に刊行）",
+  "difficulty": "上級",
+  "category": "vergilius",
+  "originalLang": "la-LA",
+  "modernRelevance": "★★★★★",
+  "context": "『アエネーイス』第9巻より、ニスス（Nisus）とエウリュアルス（Euryalus）の夜間突入と死の場面（v.386–449）。二人の若い戦士──年長のニスス（Nisus）と美貌の少年エウリュアルス（Euryalus）──はトロイア軍の陣営からラテン軍の包囲を突破し、アエネアスへ救援を求めに行く使命を自ら買って出た。帰路でエウリュアルスが敵に捕まり、ニスス一人が脱出した後に気づいて引き返す本場面は、第9巻の詩的・感情的頂点をなす。ニススの月への祈り（v.402–408）・スルモとタグスの殺害（v.411–419）・「わたしだ、わたしがやった（Me, me, adsum qui feci）」（v.427）という自己犠牲の叫び・エウリュアルスの死を悼む花の直喩（v.435–436、「紫の花が鋤で刈られたように」）・ニススの復讐と合わせての死（v.444–445）という場面が、詩集内最も完成された「友情と死」の詩として位置づけられる。詩人自らの介入による不死の誓約（v.446–449「Fortunati ambo!（二人とも幸いなるかな！）」）が牧歌的英雄詩（第5歌のダプニスの神化）の叙事詩的等価物として機能する。ダヌンツィオの死の美学・ダウスン「A Last Word」「Venite Descendamus」における美しい死への憧憬・ロデンバックの「若者の死」主題等、VANITISMEコーパスの世紀末詩との深い共鳴点を持つ。",
+  "keywords": [
+    "Nisus",
+    "Euryalus",
+    "友情",
+    "自己犠牲",
+    "花の直喩",
+    "Fortunati ambo",
+    "詩人の介入",
+    "Luna",
+    "死の美学",
+    "不死化"
+  ],
+  "relatedTexts": [
+    "vergilius_aeneis_6_marcellus",
+    "vergilius_eclogae_5",
+    "vergilius_eclogae_7",
+    "dante_purgatorio_canto_22",
+    "hieronymus_iob_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.386–393",
+      "speaker": "Narrator",
+      "original": "Nīsus abit; iamque imprūdēns ēuāserat hostīs\natque locōs quī post Albae dē nōmine dictī\nAlbānī (tum rēx stabula alta Latīnus habēbat),\nut stetit et frūstrā absentem respexit amīcum:\n'Euryale īnfēlīx, quā tē regiōne relīquī?\nQuāue sequar?' Rūrsus perplexum iter omne reuoluēns\nfallācis siluae simul et uestīgia retrō\nobseruāta legit dūmīsque silentibus errat.",
+      "provisionalTranslation": "ニスス立ち去る；そしてすでに無意識に敵を逃れていた、\n後にアルバの名にちなんでアルバニと呼ばれた場所へ\n（その時ラティーヌス王は高い厩舎を持っていた）、\n彼が立ち止まって不在の友を無駄に振り返った時：\n「不幸なエウリュアルスよ、どの場所でわたしはお前を置き去りにしたのか？\nまたどこに続けばよいのか？」再び入り組んだ道全体を\n辿り直し、欺く森と同時に後方に\n観察していた足跡を読み、静かな茨の中を彷徨う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.394–401",
+      "speaker": "Narrator",
+      "original": "Audit equōs, audit strepitūs et signa sequentum;\nnec longum in mediō tempus, cum clāmor ad aurīs\nperuenit ac uidet Euryalum, quem iam manus omnis\nfraude locī et noctīs, subitō turbante tumultū,\noppressum rapit et cōnantem plūrima frūstrā.\nQuid faciat? Quā uī iuuenem, quibus audeat armīs\nēripere? An sēsē mediōs moritūrus in ēnsēs\ninferat et pulchram properet per uulnera mortem?",
+      "provisionalTranslation": "馬の蹄を聞く、追う者たちの喧騒と合図を聞く；\n間に長い時間は置かず、叫び声が耳に\n届き、エウリュアルスを見る、もうすべての一隊が\n場所と夜の欺きによって、突然の混乱で乱れながら、\n圧倒された彼を捕らえ、多くを試みるが無駄に。\nどうすればいいのか？いかなる力で、いかなる武器で少年を\n救い出せるか？それとも自ら死を覚悟で剣の真ん中へ\n飛び込み、傷を通して美しい死を急ぐべきか？"
+    },
+    {
+      "id": 3,
+      "verses": "v.402–412",
+      "speaker": "Narrator",
+      "original": "Ōcius adductō torquet hastīle lacertō\nsuspiciēns altam Lūnam et sīc uōce precātur:\n'Tū, dea, tū praesēns nostrō succurre labōrī,\nastrōrum decus et nemorum Lātōnia cūstōs.\nSī qua tuīs umquam prō mē pater Hyrtacus ārīs\ndōna tulit, sī qua ipse meīs uēnātibus auxī\nsuspendīue tholō aut sacra ad fastīgia fīxī,\nhunc sine mē turbāre globum et rege tēla per aurās.'\nDīxerat et tōtō cōnīxus corpore ferrum\ncōnicit. Hasta uolāns noctīs dīuerberat umbrās\net uenit āuersī in tergum Sulmōnis ibīque\nfrangitur, ac fissō trānsit praecordia lignō.",
+      "provisionalTranslation": "より素早く腕を引いて槍の柄を回転させ、\n高い月を見上げてこのように声で祈る：\n「お前よ、女神よ、お前よ、親しきものよ、われらの労苦に助けに来い、\n星々の誉れ、ラトナの娘よ、森の守護者よ。\nもしかつて父ヒュルタクスがわたしのためにお前の祭壇に\n贈り物を運んだなら、もしわたし自身が自分の狩りによって増やし、\n丸天井に掛けあるいは聖なる破風に固定したなら、\nこの集団を乱すことを許し、矢を大気に通して導け。」\n彼は言い終えて全身で張り詰めて鉄を\n投げる。飛ぶ槍が夜の影を切り裂き、\n背を向けたスルモの背中にやって来て、そこで\n折れ、そして割れた木が胸腔を貫く。"
+    },
+    {
+      "id": 4,
+      "verses": "v.413–419",
+      "speaker": "Narrator",
+      "original": "Uoluitur ille uomēns calidum dē pectore flūmen\nfrīgidus et longīs singultibus īlia pulsat.\nDīuersī circumspiciunt. Hōc ācrior īdem\necce aliud summā tēlum librābat ab aure.\nDum trepidant, it hasta Tagō per tempus utrumque\nstrīdēns trāiectōque haesit tepefācta cerebrō.\nSaeuit atrōx Volcēns nec tēlī conspicit usquam\nauctōrem nec quō sē ārdēns immittere possit.",
+      "provisionalTranslation": "あれは胸から熱い流れを吐きながら倒れ、\n冷たくなって長い嗚咽で脇腹を打つ。\n人々は散らばって周りを見回す。これよりさらに鋭く、同じ者が\n見よ、別の武器を耳の頂から狙っていた。\n人々が怯える間、槍がタグスの両こめかみを\n唸りを上げて貫き、温もった脳を射貫いて刺さった。\n残忍なウォルケンスは激しく怒るが、武器のどこにも\n投げた者を見つけず、燃え立ちながらも突っ込める場所もない。"
+    },
+    {
+      "id": 5,
+      "verses": "v.420–430",
+      "speaker": "Narrator",
+      "original": "'Tū tamen intereā calidō mihi sanguine poenās\npersoluēs ambōrum' inquit; simul ēnse reclūsō\nībat in Euryalum. Tum uērō exterritus, āmēns,\nconclāmat Nīsus nec sē cēlāre tenebrīs\namplius aut tantum potuit perferre dolōrem:\n'Mē, mē, adsum quī fēcī, in mē conuertite ferrum,\nō Rutulī! Mea fraus omnis, nihil iste nec ausus\nnec potuit; caelum hōc et cōnscia sīdera testor;\ntantum īnfēlīcem nimium dīlēxit amīcum.'\nTālia dicta dabat, sed uīribus ēnsis adāctus\ntrānsadigit costās et candida pectora rumpit.",
+      "provisionalTranslation": "「しかしその間お前は二人分の償いを\n熱い血でわたしに払うだろう」と言い、同時に剣を抜いて\nエウリュアルスに向かった。その時まことに恐れ戦いて、正気を失い、\nニスス叫んで、自らをもはや暗闇に\n隠すことも、それほどの苦しみを耐えることもできなかった：\n「わたしだ、わたしだ、ここにいる、わたしがやった、わたしに剣を向けよ、\nおおルトゥリ人よ！わたしの謀略がすべて、あの者は何も企てず\nまた企てることもできなかった；この天とともに知る星々を証人に呼ぶ；\nただこの不幸な者をあまりに友を愛したゆえに。」\nそのような言葉を語っていたが、力込めて刺された剣が\n肋骨を貫いて白い胸を破る。"
+    },
+    {
+      "id": 6,
+      "verses": "v.431–445",
+      "speaker": "Narrator",
+      "original": "Uoluitur Euryalus lētō, pulchrōsque per artūs\nit cruor inque umerōs ceruīx conlāpsa recumbit:\npurpureus uelutī cum flōs succīsus arātrō\nlanguēscit moriēns, lassōue papauera collō\ndēmīsēre caput pluuiā cum forte grauantur.\nAt Nīsus ruit in mediōs sōlumque per omnīs\nVolcentem petit, in sōlō Volcente morātur.\nQuem circum glomerātī hostēs hinc comminus atque hinc\nprōturbant. Īnstat nōn sētius ac rotat ēnsem\nfulmineum, dōnec Rutulī clāmantis in ōre\ncondidit aduersō et moriēns animam abstulit hostī.\nTum super exanimum sēsē prōiēcit amīcum\ncōnfossus, placidāque ibi dēmum morte quiēuit.",
+      "provisionalTranslation": "エウリュアルスは死に倒れ、美しい四肢を\n血が流れ、崩れた首が肩に寄りかかる：\n紫の花が鋤で刈られて\n死にながらぐったりするように、あるいはうなだれた首の罌粟が\n雨に偶然重くなって頭を垂れるように。\nしかしニスス群れの中へと突進し、すべての者を通してただ\nウォルケンスだけを求め、ただウォルケンスだけに留まる。\n密集した敵が周りを近くから左右から\n押しのける。なおも同じように迫り、雷のような剣を\n回す、ついにルトゥルスの叫ぶ口に\n向き合ってそれを突き刺し、死にながら敵から命を奪う。\nそれから突き刺された体で息絶えた友の上に\n自ら身を投げ、そこでついに穏やかな死の中に安らった。"
+    },
+    {
+      "id": 7,
+      "verses": "v.446–449",
+      "speaker": "Poeta",
+      "original": "Fortūnātī ambō! Sī quid mea carmina possunt,\nnūlla diēs umquam memorī uōs eximet aeuō,\ndum domus Aenēae Capitōlī immōbile saxum\naccolet imperiumque pater Rōmānus habēbit.",
+      "provisionalTranslation": "二人とも幸いなるかな！もしわたしの詩に何かの力があるなら、\nいかなる日もお前たちを記憶の時代から取り除くことはないだろう、\nアエネアスの家がカピトリウムの動かぬ岩の\n傍らに住む限り、そしてローマの父が帝国を持つ限り。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "'Euryale īnfēlīx, quā tē regiōne relīquī?\nQuāue sequar?'",
+      "body": "「不幸なエウリュアルスよ、どの場所でわたしはお前を置き去りにしたのか？またどこに続けばよいのか？（Euryale infelix, qua te regione reliqui? / Quave sequar?）」──「infelix（不幸な）」という形容詞が「不幸なディードよ（Infelix Dido）」・「不幸なアマータ（infelicis Amatae）」と同一の詩集的刻印として機能する：詩集内で悲劇的運命を担う者への一貫した詩的称号。二つの疑問文──「どこで置き去りにしたか」（過去への問い）と「どこに続けばよいか」（未来への問い）──が時間的に双方向の迷子の感覚を定式化する：過去の選択への後悔と未来の行動の不確実性が一行で同時に表現される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Rūrsus perplexum iter omne reuoluēns\nfallācis siluae simul et uestīgia retrō\nobseruāta legit dūmīsque silentibus errat.",
+      "body": "「再び入り組んだ道全体を辿り直し、欺く森と同時に後方に観察していた足跡を読み、静かな茨の中を彷徨う（Rursus perplexum iter omne revolvens / fallacis silvae simul et vestigia retro / observata legit duмisque silentibus errat）」──「perplexum iter（入り組んだ道）」・「fallacis silvae（欺く森）」という形容が、地獄篇第1歌の「selva oscura（暗い森）」・「diritta via（真の道）」の喪失と詩的に照応する：迷子・欺き・迷宮的自然という共通の主題系。「uestigia retro / observata legit（後方に観察していた足跡を読む）」という表現が、ニスス自身が来た道の足跡を「読む（legere）」行為として提示される：前進ではなく過去の軌跡への遡行。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Quid faciat? Quā uī iuuenem, quibus audeat armīs\nēripere? An sēsē mediōs moritūrus in ēnsēs\ninferat et pulchram properet per uulnera mortem?",
+      "body": "「どうすればいいのか？いかなる力で……少年を救い出せるか？それとも自ら死を覚悟で剣の真ん中へ飛び込み、傷を通して美しい死を急ぐべきか？（Quid faciat? Qua vi iuvenem, quibus audeat armis / eripere? An sese medios moriturus in enses / inferat et pulchram properet per vulnera mortem?）」──「pulchram…mortem（美しい死）」という表現が、本場面全体の詩的核心を提供する。「per vulnera（傷を通して）」という前置詞句が死を、単なる消滅ではなく傷という身体的・視覚的な美的体験として提示する：死と美の同一視というモチーフがダウスン・ダヌンツィオ等の世紀末詩における「美しき死（belle mort）」概念の古典的先行形として機能する。「moriturus（死を覚悟で）」という未来分詞が、主人公自身が死を予知しながら行動するという意識的な自己犠牲の次元を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "'Tū, dea, tū praesēns nostrō succurre labōrī,\nastrōrum decus et nemorum Lātōnia cūstōs.",
+      "body": "「お前よ、女神よ、お前よ、親しきものよ、われらの労苦に助けに来い、星々の誉れ、ラトナの娘よ、森の守護者よ（Tu, dea, tu praesens nostro succurre labori, / astrorum decus et nemorum Latonia custos）」──「tu…tu（お前よ……お前よ）」という二重の呼びかけ（anaphora）が祈りの切迫感を強調する。「praesens（親しきもの・直接的存在）」という形容詞が、神が「遠くから」ではなく「ここに」いてほしいという要求を示す：神的存在の可及性への祈願。ディアナ（アルテミス）への呼びかけは狩猟の神としての女神の性質──ニスス自身が狩人として神殿に捧げ物をしてきた過去との個人的な信仰関係──に根拠を持つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "Hasta uolāns noctīs dīuerberat umbrās\net uenit āuersī in tergum Sulmōnis ibīque\nfrangitur, ac fissō trānsit praecordia lignō.",
+      "body": "「飛ぶ槍が夜の影を切り裂き、背を向けたスルモの背中にやって来て、そこで折れ、そして割れた木が胸腔を貫く（Hasta volans noctis diverberat umbras / et venit aversi in tergum Sulmonis ibique / frangitur, ac fisso transit praecordia ligno）」──三つの動詞（diverberat・venit・frangitur・transit）の連続が槍の弾道を段階的・映像的に追跡する：「影を切り裂く」→「背中に到達する」→「折れる」→「胸腔を貫く」という連続した物理的プロセスの詩的スローモーション。「fissō…lignō（割れた木）」という材質的な具体性が、詩的・英雄的な高揚を一瞬停止させる生々しい物質性として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Uoluitur ille uomēns calidum dē pectore flūmen\nfrīgidus et longīs singultibus īlia pulsat.",
+      "body": "「あれは胸から熱い流れを吐きながら倒れ、冷たくなって長い嗚咽で脇腹を打つ（Volvitur ille vomens calidum de pectore flumen / frigidus et longis singultibus ilia pulsat）」──「calidum（熱い）」と「frigidus（冷たい）」の対比が死の過程を生命の熱の急速な消失として定式化する：熱い血が流れ続ける間に体は冷えていく──この熱と冷の対比が第4巻「omnis et una / dilapsus calor atque in ventos vita recessit（すべての体温が崩れ去り、命は風の中へと退いた）」というディードの死の描写と同一の生命論的語彙で結びつく。「longis singultibus（長い嗚咽）」という音響的描写が死の苦しみを視覚ではなく聴覚として捉える。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "'Mē, mē, adsum quī fēcī, in mē conuertite ferrum,\nō Rutulī! Mea fraus omnis, nihil iste nec ausus\nnec potuit; caelum hōc et cōnscia sīdera testor;\ntantum īnfēlīcem nimium dīlēxit amīcum.'",
+      "body": "「わたしだ、わたしだ、ここにいる、わたしがやった、わたしに剣を向けよ……ただこの不幸な者をあまりに友を愛したゆえに（Me, me, adsum qui feci, in me convertite ferrum…tantum infelicem nimium dilexit amicum）」──「Me, me（わたしだ、わたしだ）」という強調的な人称代名詞の二重反復が自己犠牲の宣言の絶頂を形成する：ラテン語で人称代名詞を強調形で繰り返すことは極度の感情的強調を示す修辞的技法。「nihil iste nec ausus / nec potuit（あの者は何も企てず、また企てることもできなかった）」という二重否定が、友の完全な無実を断言する友情の倫理：自らの罪を全面的に引き受けることで友を守るという自己犠牲の論理。「caelum hoc et conscia sidera（この天と証人の星々）」という誓いの形式が、第4巻でアエネアスが「per sidera iuro（星々にかけて誓う）」と同じ天体的誓約の語彙を用いる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "purpureus uelutī cum flōs succīsus arātrō\nlanguēscit moriēns, lassōue papauera collō\ndēmīsēre caput pluuiā cum forte grauantur.",
+      "body": "「紫の花が鋤で刈られて死にながらぐったりするように、あるいはうなだれた首の罌粟が雨に偶然重くなって頭を垂れるように（purpureus veluti cum flos succisus aratro / languescit moriens, lassove papavera collo / demisere caput pluviā cum forte gravantur）」──西洋叙事詩の最も有名かつ最も模倣された直喩の一つ。「purpureus flos（紫の花）」──「purpureus（紫の）」という形容詞が美・貴族性・血（「紫の血」という表現）を同時に指示する：花の死が英雄的な死と等価として提示される。「succisus aratro（鋤で刈られた）」──刈る道具が「剣」ではなく「鋤（aratrum）」であることが、農業的・牧歌的な文脈での死の比喩として機能する：叙事詩の暴力的死が牧歌的な農業の日常と重なり合う。この直喩はカトゥルス11番（「落ちる花のように」）・ホメロス『イーリアス』第8巻（腰砕けに倒れる兵士）の伝統を継承しながら、ウェルギリウスにより最も優美な形に昇華された植物的死の定式として後世に最大の影響を与えた：ダヌンツィオの死の美学・ランボー「オフェリア」・ハイム「水に溺れた女」等との深い連続性。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Tum super exanimum sēsē prōiēcit amīcum\ncōnfossus, placidāque ibi dēmum morte quiēuit.",
+      "body": "「それから突き刺された体で息絶えた友の上に自ら身を投げ、そこでついに穏やかな死の中に安らった（Tum super exanimum sese proiecit amicum / confossus, placidaque ibi demum morte quievit）」──「placida…morte quievit（穏やかな死の中に安らった）」という閉幕句が、激烈な戦闘の後の死を「安らぎ（quies）」として定義する逆説。「demum（ついに）」という副詞が、友の体の上に倒れることが長い努力の「最終的な」到達点であることを示す：「死」が目的地・完成として提示される。「super…amicum（友の上に）」という位置関係が二人の肉体的な最終的合一を示す：生前の友情が死において文字通り重なり合う身体として完結する。ヨブ記第1章の悲嘆の身体的儀礼（地に伏す）との照応：自己放棄の身体的行為としての倒れ伏し。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 20
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Fortūnātī ambō! Sī quid mea carmina possunt,\nnūlla diēs umquam memorī uōs eximet aeuō,",
+      "body": "「二人とも幸いなるかな！もしわたしの詩に何かの力があるなら、いかなる日もお前たちを記憶の時代から取り除くことはないだろう（Fortunati ambo! Si quid mea carmina possunt, / nulla dies umquam memori vos eximet aevo）」──詩人の直接的介入という叙事詩的技法の最も明示的な使用例の一つ。「Fortunati ambo!（二人とも幸いなるかな！）」という感嘆文が第7牧歌の「Arcades ambo（二人ともアルカディア人）」を反響する：「ambo（二人とも）」という語がウェルギリウス詩集全体で対の人物への詩的称号として繰り返し使用される。「Si quid mea carmina possunt（もしわたしの詩に何かの力があるなら）」という条件文が、詩の永遠化能力への謙遜と確信を同時に表明する逆説：第9牧歌「carmina tantum nostra valent…quantum Chaonias dicunt aquila veniente columbas（詩の力は鷹が来た時の鳩ほど）」という詩の無力性の認識と、この場面での詩による不死化の能力との詩集内の緊張関係。",
+      "targetId": "vergilius_eclogae_9",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "dum domus Aenēae Capitōlī immōbile saxum\naccolet imperiumque pater Rōmānus habēbit.",
+      "body": "「アエネアスの家がカピトリウムの動かぬ岩の傍らに住む限り、そしてローマの父が帝国を持つ限り（dum domus Aeneae Capitoli immobile saxum / accolet imperiumque pater Romanus habebit）」──二人の永遠化の条件として「ローマの永続性」が置かれる詩的誓約の構造。「immobile saxum（動かぬ岩）」というカピトリウムの丘への形容が、人間の記憶が消えても地形的・国家的永続性が続く限り二人の名は生き続けるという論理を形成する。ホラティウス「Exegi monumentum aere perennius（わたしは青銅より永続する記念碑を建てた）」という詩的不死化の命題との照応：詩による記念化の条件が地形的・国家的永続性として外在化される。第9牧歌「carmina tantum nostra valent…quantum（詩の力は……ほどしかない）」という無力性の認識との緊張を最終的に「ローマの帝国的永続性」という外的保証によって解決しようとする詩的戦略。"
+    }
+  ]
+}
