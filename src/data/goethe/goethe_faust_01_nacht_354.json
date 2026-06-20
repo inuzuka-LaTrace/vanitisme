@@ -1,0 +1,144 @@
+{
+    "id": "goethe_faust_nacht_354",
+    "title": "Faust – Erster Teil: Nacht (v.354–417)",
+    "author": "Johann Wolfgang von Goethe",
+    "source": "Faust – Der Tragödie erster Teil, Szene: Nacht, v.354–417. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Tragödie_erster_Teil",
+    "year": "1808",
+    "firstPublication": "1808（Faust. Eine Tragödie, Cotta Verlag, Tübingen）",
+    "difficulty": "上級",
+    "category": "goethe",
+    "originalLang": "de-DE",
+    "modernRelevance": "★★★★★",
+    "context": "ゲーテ『ファウスト』第一部「夜（Nacht）」冒頭（v.354–417）。高く丸天井のゴシック様式の書斎で机の前に不安げに座るファウスト博士による西洋文学史上最も有名な開幕独白の一つ。哲学・法学・医学・神学という中世大学制度の四学部を「熱い精進（heißem Bemühn）」をもって学び尽くしながら「私たちは何も知ることができない（wir nichts wissen können）」という認識の絶望に到達したファウストが、魔術への転向を告白するまでの過程を描く（v.354–385）。その後月への使徒的呼びかけ（v.386–397）が自然への渇望として展開し、「牢獄（Kerker）」としての書斎というイメージが認識論的・存在的監禁の比喩として深まる（v.398–409）。最終部（v.410–417）の「神が人間を創り込んだ生きた自然（lebendige Natur, da Gott die Menschen schuf hinein）」への参照がヒエロニムス訳創世記の人間創造論の詩的反響として機能する。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の命題を近代ドイツ精神の極限において再演する場面であり、VANITISMEの主題軸「Vanitas」と「Afflictio spiritus」の双方に直結する。本場面はv.418–517のマクロコスモスの徴・地霊召喚へと続き、さらにv.690–736の復活祭の鐘とファウストの自殺衝動の停止へと展開する。",
+    "keywords": [
+        "Wissensqualm",
+        "wir nichts wissen können",
+        "Kerker",
+        "lebendige Natur",
+        "Mondenschein",
+        "Magie",
+        "Im Innersten zusammenhält",
+        "afflictio spiritus",
+        "四学部",
+        "独白"
+    ],
+    "relatedTexts": [
+        "hieronymus_ecclesiastes_1",
+        "hieronymus_genesis_2",
+        "weil_accepter_le_vide",
+        "dante_inferno_canto_1",
+        "dante_paradiso_canto_33"
+    ],
+    "paragraphs": [
+        {
+            "id": 1,
+            "verses": "v.354–365",
+            "speaker": "Faust",
+            "original": "Habe nun, ach! Philosophie,\nJuristerey und Medicin,\nUnd leider auch Theologie!\nDurchaus studirt, mit heißem Bemühn.\nDa steh' ich nun, ich armer Thor!\nUnd bin so klug als wie zuvor;\nHeiße Magister, heiße Doctor gar,\nUnd ziehe schon an die zehen Jahr,\nHerauf, herab und quer und krumm,\nMeine Schüler an der Nase herum –\nUnd sehe, daß wir nichts wissen können!\nDas will mir schier das Herz verbrennen.",
+            "provisionalTranslation": "ああ、哲学も、法学も、医学も、そして悲しいかな神学までも、熱い精進をもって隅から隅まで学んだ。そこに私は立っている、哀れな愚か者として！以前と変わらぬほどにしか賢くなっていない。修士と呼ばれ、さらには博士とすら呼ばれ、もう十年近くも、上へ下へ、右へ左へと、弟子たちを鼻先で引き回してきた。そして見えてくるのは、私たちは何も知ることができないということだ！それはほとんど私の心を焼き尽くしそうだ。"
+        },
+        {
+            "id": 2,
+            "verses": "v.366–385",
+            "speaker": "Faust",
+            "original": "Zwar bin ich gescheidter als alle die Laffen,\nDoctoren, Magister, Schreiber und Pfaffen;\nMich plagen keine Scrupel noch Zweifel,\nFürchte mich weder vor Hölle noch Teufel –\nDafür ist mir auch alle Freud' entrissen,\nBilde mir nicht ein was rechts zu wissen,\nBilde mir nicht ein, ich könnte was lehren,\nDie Menschen zu bessern und zu bekehren.\nAuch hab' ich weder Gut noch Geld,\nNoch Ehr' und Herrlichkeit der Welt.\nEs möchte kein Hund so länger leben!\nDrum hab' ich mich der Magie ergeben,\nOb mir durch Geistes Kraft und Mund\nNicht manch Geheimniß würde kund;\nDaß ich nicht mehr mit sauerm Schweiß,\nZu sagen brauche, was ich nicht weiß;\nDaß ich erkenne, was die Welt\nIm Innersten zusammenhält,\nSchau' alle Wirkenskraft und Samen,\nUnd thu' nicht mehr in Worten kramen.",
+            "provisionalTranslation": "なるほど私は、あの間抜け連中──博士、修士、書記、坊主──よりは賢い。懐疑も疑念も私を苦しめない、地獄も悪魔も恐れない──だがその代わりあらゆる喜びも奪われてしまった。正しいことを知っているなどとは思わない、何かを教えられる、人間をより良くし回心させられるなどとも思わない。財産も金もなく、世の栄誉も輝かしさもない。犬だってこれ以上は生きたがらないだろう！だから私は魔術に身を委ねた、精神の力と語りによって幾多の秘密が私に明かされるかもしれぬと。もう苦い汗をかきながら知らないことを言わずに済むように。世界を最奥の部分で繋ぎ止めているものを認識するために、あらゆる作用力と種子を見渡し、言葉の中を漁ることをもうしないために。"
+        },
+        {
+            "id": 3,
+            "verses": "v.386–397",
+            "speaker": "Faust",
+            "original": "O sähst du, voller Mondenschein,\nZum letztenmal auf meine Pein,\nDen ich so manche Mitternacht\nAn diesem Pult herangewacht:\nDann über Büchern und Papier,\nTrübsel'ger Freund, erschienst du mir!\nAch! könnt' ich doch auf Berges-Höh'n,\nIn deinem lieben Lichte gehn,\nUm Bergeshöle mit Geistern schweben,\nAuf Wiesen in deinem Dämmer weben,\nVon allem Wissensqualm entladen,\nIn deinem Thau gesund mich baden!",
+            "provisionalTranslation": "ああ、満月の光よ、お前が最後に私の苦しみの上を照らすのを、私はどれほど望んでいることか、幾多の真夜中にこの机のそばで夜を明かし、その時書物と紙の上に、憂鬱な友よ、お前は私の前に現れた！ああ、山の頂へお前の愛しい光の中を歩むことができたなら、山の洞窟の周りを精霊たちとともに漂い、牧草地でお前の薄明の中に織り込まれ、知識の煙から解き放たれて、お前の露の中に健やかに浸かることができたなら！"
+        },
+        {
+            "id": 4,
+            "verses": "v.398–409",
+            "speaker": "Faust",
+            "original": "Weh! steck' ich in dem Kerker noch?\nVerfluchtes, dumpfes Mauerloch!\nWo selbst das liebe Himmelslicht\nTrüb' durch gemahlte Scheiben bricht.\nBeschränkt mit diesem Bücherhauf,\nDen Würme nagen, Staub bedeckt,\nDen, bis an's hohe Gewölb' hinauf,\nEin angeraucht Papier umsteckt;\nMit Gläsern, Büchsen rings umstellt,\nMit Instrumenten vollgepfropft,\nUrväter Hausrath drein gestopft –\nDas ist deine Welt! das heißt eine Welt!",
+            "provisionalTranslation": "ああ、私はまだこの牢獄の中に閉じ込められているのか？呪われた、陰気な石の穴よ！愛しい天の光さえも汚れた彩色ガラスを通して曇って差し込んでくるこの場所に。蟲が蝕み埃の積もった書物の山に狭められ、高い穹窿の天井にまでびっしりと煤けた紙が差し込まれている。硝子瓶や箱が辺り中に立ち並び、器具類が詰め込まれ、先祖代々の什器が押し込まれている──これがお前の世界だ！それを世界と呼ぶのか！"
+        },
+        {
+            "id": 5,
+            "verses": "v.410–417",
+            "speaker": "Faust",
+            "original": "Und fragst du noch, warum dein Herz\nSich bang' in deinem Busen klemmt?\nWarum ein unerklärter Schmerz\nDir alle Lebensregung hemmt?\nStatt der lebendigen Natur,\nDa Gott die Menschen schuf hinein,\nUmgiebt in Rauch und Moder nur\nDich Thiergeripp' und Todtenbein.",
+            "provisionalTranslation": "そしてお前の心がなぜ怯えるように胸の中で締め付けられているのか、まだ問うのか？なぜ説明のつかない苦悩が生のあらゆる動きを阻んでいるのかと？神が人間を創り込んだ生きた自然の代わりに、煙と黴の中でただ動物の骸骨と死者の骨がお前を取り囲んでいるのだから。"
+        }
+    ],
+    "annotations": [
+        {
+            "paragraphId": 1,
+            "type": "glossary",
+            "anchor": "Habe nun, ach! Philosophie,\nJuristerey und Medicin,\nUnd leider auch Theologie!",
+            "body": "四学部の列挙──「哲学（Philosophie）」「法学（Juristerey）」「医学（Medicin）」「神学（Theologie）」はゲーテの時代のドイツ大学制度における四学部を正確に指す。中世以来のアリストテレス的学問体系の基本構成：自由学芸七科（artes liberales）を基礎とする哲学部が「母学部」として法・医・神の三上位学部を支える体制。「Und leider auch（そして悲しいかな）」という副詞「leider（残念ながら）」が神学への皮肉な距離感を込める──通常なら学問の頂点とされる神学が「悲しいかな」と付け加えられる位置に置かれることで、啓蒙精神の反宗教的批判精神が開幕の一言に圧縮される。「Durchaus studirt, mit heißem Bemühn（熱い精進をもって隅から隅まで学んだ）」の「durchaus（徹底的に）」が全面的な学習の完遂を強調しながら、直後の「Da steh' ich nun（そこに私は立っている）」という帰結の虚しさを増幅する。"
+        },
+        {
+            "paragraphId": 1,
+            "type": "intertextual",
+            "anchor": "Und sehe, daß wir nichts wissen können!",
+            "body": "「私たちは何も知ることができない（daß wir nichts wissen können）」──コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」の近代ドイツ語的再演。ヒエロニムスのコヘレトでは「afflictio spiritus（霊の苦悩）」が知的探求の帰結として定式化されるが、ファウストの独白ではその苦悩が「wir nichts wissen können（私たちは何も知ることができない）」という認識論的絶望として更新される。「wir（私たち）」という複数形が重要：ファウストは個人の失敗ではなく人間的認識一般の限界を告発する。ソクラテスの「無知の知」との区別：ソクラテスが「自分が何も知らないことを知っている」という肯定的な認識として語ったのに対し、ファウストの「wir nichts wissen können」は認識不可能性そのものへの告発として絶望的な調子を帯びる。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 18
+        },
+        {
+            "paragraphId": 2,
+            "type": "commentary",
+            "anchor": "Mich plagen keine Scrupel noch Zweifel,\nFürchte mich weder vor Hölle noch Teufel –\nDafür ist mir auch alle Freud' entrissen,",
+            "body": "啓蒙的懐疑の逆説的帰結。「Scrupel（懐疑）」と「Zweifel（疑念）」からの解放は宗教的・形而上学的束縛からの自由を意味するが、この自由が「alle Freud' entrissen（あらゆる喜びを奪われた）」という剥奪として体験される：信仰の喪失が安堵ではなく空虚として現れる近代精神の逆説。「Dafür（その代わりに）」という接続詞が自由と喪失を等価交換として提示する──世俗化した知識人は神学的恐怖から解放されるが同時に喜びの源泉をも失う。コヘレト第1章v.17「agnovi quod in his quoque esset labor et afflictio spiritus（これらの中にもまた労苦と霊の苦悩があることを悟った）」との照応：悟りが苦悩の除去ではなくその深化として現れる知的構造が、プロテスタント的禁欲の崩壊後に露出する精神的空虚として反復される。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 17
+        },
+        {
+            "paragraphId": 2,
+            "type": "commentary",
+            "anchor": "Daß ich erkenne, was die Welt\nIm Innersten zusammenhält,",
+            "body": "「世界を最奥の部分で繋ぎ止めているものを認識するために（Daß ich erkenne, was die Welt / Im Innersten zusammenhält）」──後の「書斎（Studierzimmer）」でメフィストが人間を「小さな神（kleiner Gott der Welt）」として嘲笑する場面への直接的前言。「Im Innersten zusammenhält（最奥において繋ぎ止める）」というイメージはダンテ『神曲』天国篇第33歌における神的統一性の詩的形象と対応する：ダンテが宇宙を「愛によって一冊の書物に綴じる（legato con amore in un volume）」神の力を至福直観として描写するのに対し、ファウストはそれを認識論的な「謎（Geheimniß）」として魔術によって解こうとする。ダンテにとって「最奥の繋がり」は観照すべき神的愛であり、ファウストにとってそれは解明すべき科学的・魔術的対象として提示される──詩人と博士の方向は逆である。",
+            "targetId": "dante_paradiso_canto_33"
+        },
+        {
+            "paragraphId": 3,
+            "type": "prosody",
+            "anchor": "O sähst du, voller Mondenschein,\nZum letztenmal auf meine Pein,\nDen ich so manche Mitternacht\nAn diesem Pult herangewacht:",
+            "body": "月への使徒的呼びかけ（Apostrophe）の開始。「O sähst du, voller Mondenschein（ああ見てくれたなら、満月の光よ）」──接続法II式（Konjunktiv II）「sähst du」が非現実の願望を表す：実現不可能な望みとしての月への訴えが、「Zum letztenmal（最後に）」という時間的限定によって死への接近を暗示し、後のv.689–736の自殺未遂場面への伏線として機能する。韻律：Knittelvers（4強弱格・隣接脚韻 AA BB）の中で月への呼びかけが浮上することで、書物的・閉塞的な苦悩のリズムから自然的・開放的なリズムへの転換が詩行の次元で実演される。「Trübsel'ger Freund（憂鬱な友よ）」という月への呼称が、書物と孤独の長い夜において唯一の「友（Freund）」が人格ではなく光であるという孤絶を体現する。ネルヴァル「黒き太陽（soleil noir）」系譜における「月と孤独な詩人」のモチーフの前史として位置づけられる。"
+        },
+        {
+            "paragraphId": 3,
+            "type": "commentary",
+            "anchor": "Von allem Wissensqualm entladen,\nIn deinem Thau gesund mich baden!",
+            "body": "「知識の煙から解き放たれて、お前の露の中に健やかに浸かることができたなら（Von allem Wissensqualm entladen, / In deinem Thau gesund mich baden）」──「Wissensqualm（知識の煙・知識の蒸気）」というゲーテの造語が独白の核心命題を圧縮する：「Qualm（煙・窒息する蒸気）」が学問的知識に付されることで、知識が空気を汚染する有毒な物質として提示される。ヒエロニムス訳コヘレトにおける「afflictio spiritus（霊の苦悩）」の元語「רְעוּת רוּחַ（re'ut ruach）──風を追うこと」がここで「Wissensqualm（知識の煙）」という詩的形象として変奏される：コヘレトが「霊（spiritus）」を「風（ruach）」の多義性において定式化したのに対し、ゲーテは「知識」そのものを「煙（Qualm）」として物質化する。「Thau（露）」との対比が乾燥した知識的閉塞と湿った自然的開放を元素的な対立として提示し、露による「健康（gesund）」の回復が「afflictio spiritus」からの癒しの形象として機能する。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 8
+        },
+        {
+            "paragraphId": 4,
+            "type": "commentary",
+            "anchor": "Weh! steck' ich in dem Kerker noch?\nVerfluchtes, dumpfes Mauerloch!",
+            "body": "「ああ、私はまだこの牢獄の中に閉じ込められているのか？呪われた、陰気な石の穴よ（Weh! steck' ich in dem Kerker noch? / Verfluchtes, dumpfes Mauerloch）」──「Kerker（牢獄）」という語が書斎を監禁の空間として定義する詩的転換。第一部終幕「牢獄（Kerker）」でのグレートヒェン投獄場面との語彙的照応：ファウストが「精神的牢獄」に閉じ込められた（ここ）後、グレートヒェンが「実際の牢獄」に閉じ込められることで、「Kerker」という語が劇全体を包む構造的ライトモチーフを形成する。「steck' ich（私は閉じ込められている）」という動詞「stecken（突き刺さる・はまり込む）」が身体的な閉塞感を示す。ダンテ地獄篇第1歌「selva oscura（暗い森）」──「真の道を踏み外した」者が閉じ込められる暗闇の空間──との対照：ダンテの「暗い森」が地理的な迷子として現れるのに対し、ファウストの「Kerker」は認識論的な監禁として定式化される。",
+            "targetId": "dante_inferno_canto_1",
+            "targetParagraphId": 1
+        },
+        {
+            "paragraphId": 4,
+            "type": "intertextual",
+            "anchor": "Das ist deine Welt! das heißt eine Welt!",
+            "body": "「これがお前の世界だ！それを世界と呼ぶのか（Das ist deine Welt! das heißt eine Welt）」──感嘆符と反語的反復による段落の頂点。「deine Welt（お前の世界）」という二人称が自己への他者的な呼びかけとして機能する：ファウストは自分自身を「お前（du）」と呼ぶことで、観察する「私」と批判される「私」の分裂を示す。コヘレト第1章v.14「vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus（私は太陽の下でなされるすべてを見た。そして見よ、すべては虚無であり、霊の苦悩である）」という「見て、虚無を宣言する」構造とのパラレル：コヘレトが世界全体を「vanitas」として宣言するのに対し、ファウストは自らの閉じた書斎世界を「（これが）世界か！」と反語的に告発する。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 14
+        },
+        {
+            "paragraphId": 5,
+            "type": "commentary",
+            "anchor": "Warum ein unerklärter Schmerz\nDir alle Lebensregung hemmt?",
+            "body": "「なぜ説明のつかない苦悩が生のあらゆる動きを阻んでいるのか（Warum ein unerklärter Schmerz / Dir alle Lebensregung hemmt）」──「unerklärter Schmerz（説明のつかない苦悩）」という形容詞「unerklärter（説明されない・原因不明の）」がキー概念を示す：苦悩は知識の多さによって「増える（addere laborem）」のではなく、むしろ知識が「生の動き（Lebensregung）」そのものを阻むことで質的に変換される。ヴェイユ「Accepter le vide」における「affliction（苦悩）」の定義──苦悩は根こそぎにすること（déracinement）──との照応：ファウストの「unerklärter Schmerz」は「生きた自然（lebendige Natur）」から根こそぎにされた存在の根源的な苦痛として理解できる。「Lebensregung（生の動き・生の衝動）」という語が「hemmt（阻む）」という動詞と結合することで、生命衝動そのものの封鎖が書物的学知の帰結として提示される。",
+            "targetId": "weil_accepter_le_vide"
+        },
+        {
+            "paragraphId": 5,
+            "type": "intertextual",
+            "anchor": "Statt der lebendigen Natur,\nDa Gott die Menschen schuf hinein,\nUmgiebt in Rauch und Moder nur\nDich Thiergeripp' und Todtenbein.",
+            "body": "「神が人間を創り込んだ生きた自然の代わりに、煙と黴の中でただ動物の骸骨と死者の骨がお前を取り囲んでいる（Statt der lebendigen Natur, / Da Gott die Menschen schuf hinein, / Umgiebt in Rauch und Moder nur / Dich Thiergeripp' und Todtenbein）」──「Da Gott die Menschen schuf hinein（神が人間を創り込んだ）」はヒエロニムス訳創世記第2章「formavit igitur Dominus Deus hominem de limo terrae（主なる神は土の塵から人間を形成した）」への詩的反響：神が人間を「自然の中に」創り込んだというゲーテの解釈が創世記の「土（limus terrae）」という元素的・自然的な創造理解と一致する。「Rauch und Moder（煙と黴）」という二つの腐食の形象が、前段落の「angeraucht Papier（煤けた紙）」と連動して書物的知識の腐敗・死を物質的に体現する：書物が「生きた自然」の代替物として機能するどころか、自然の死骸として経験される逆説。ヴァニタス絵画における「動物の頭骨（Schädel・Todtenbein）」モチーフが文学的に等価化され、書斎全体が「vanitas」の詩的表象として機能する。",
+            "targetId": "hieronymus_genesis_2"
+        }
+    ]
+}
