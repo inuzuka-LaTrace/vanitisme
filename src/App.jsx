@@ -32,6 +32,7 @@ import hoelderlinData from './data/hoelderlin';
 import rilkeData from './data/rilke';
 import heymData from './data/heym';
 import laskerschulerData from './data/laskerschuler';
+import goetheData from './data/goethe';
 import danteData from './data/dante';
 import dannunzioData from './data/dannunzio';
 import pascoliData from './data/pascoli';
@@ -293,6 +294,7 @@ export default function App() {
       ...rilkeData,
       ...heymData,
       ...laskerschulerData,
+      ...goetheData,
       ...juan_de_la_cruzData,
       ...teresaData,
       ...silvaData,
