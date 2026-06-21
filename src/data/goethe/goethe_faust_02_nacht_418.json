@@ -18,7 +18,7 @@
       "verses":"v.418-429",
       "speaker":"Faust",
       "original":"Flieh! auf! hinaus ins weite Land!\nUnd dieß geheimnißvolle Buch,\nVon Nostradamus eigner Hand,\nIst dir es nicht Geleit genug?\nErkennest dann der Sterne Lauf,\nUnd wenn Natur dich unterweist,\nDann geht die Seelenkraft dir auf,\nWie spricht ein Geist zum andern Geist.\nUmsonst, daß trocknes Sinnen hier\nDie heil'gen Zeichen dir erklärt,\nIhr schwebt, ihr Geister, neben mir,\nAntwortet mir, wenn ihr mich hört!",
-     "provisionalTranslation":"逃げよ！さあ！広い大地へと外へ！\nそしてこの神秘めいた書物、\nノストラダムス自身の手による書物が、\n道案内として十分ではないか？\nそれならば星々の運行を認識でき、\n自然がお前に教えを授ければ、魂の力が開いてくる、\n精神が精神に語りかけるように。\n書物が乾いた思索でお前にその聖なる徴を説明しようとしても無駄だ。\nお前たちは漂っている、お前たち精霊たちよ、私の傍らに、\n私が聞こえるなら答えよ！"
+     "provisionalTranslation":"逃げよ！さあ！広い大地へと外へ！\nそしてこの神秘めいた書物、\nノストラダムス自身の手による書物が、\n道案内として十分ではないか？\nそれならば星々の運行を認識でき、\n自然がお前に教えを授ければ、\n魂の力が開いてくる、\n精神が精神に語りかけるように。\n書物が乾いた思索でお前にその聖なる徴を説明しようとしても無駄だ。\nお前たちは漂っている、お前たち精霊たちよ、私の傍らに、\n私が聞こえるなら答えよ！"
     },
     {
       "id":2,
@@ -38,7 +38,7 @@
       "verses":"v.460-481",
       "speaker":"Faust",
       "original":"Wie anders wirkt dieß Zeichen auf mich ein!\nDu, Geist der Erde, bist mir näher;\nSchon fühl' ich meine Kräfte höher,\nSchon glüh' ich wie von neuem Wein,\nIch fühle Muth, mich in die Welt zu wagen,\nDer Erde Weh, der Erde Glück zu tragen,\nMit Stürmen mich herumzuschlagen,\nUnd in des Schiffbruchs Knirschen nicht zu zagen,\nEs wölkt sich über mir -\nDer Mond verbirgt sein Licht -\nDie Lampe schwindet!\nEs dampft! - Es zucken rothe Strahlen\nMir um das Haupt - Es weht\nEin Schauer vom Gewölb' herab\nUnd faßt mich an!\nIch fühl's, du schwebst um mich, erflehter Geist.\nEnthülle dich!\nHa! wie's in meinem Herzen reißt!\nZu neuen Gefühlen\nAll' meine Sinnen sich erwühlen!\nIch fühle ganz mein Herz dir hingegeben!\nDu mußt! du mußt! und kostet' es mein Leben!",
-     "provisionalTranslation":"この徴はいかに別様に私に作用することか！\n地の精霊よ、お前は私により近い。\nもう力がより高くなるのを感じる、\nもう新しいぶどう酒のように燃えている、\n世界へと乗り出す勇気を感じる、\n大地の苦しみ、大地の喜びを担う勇気を、\n嵐の中で揉まれる勇気を、難破の軋みの中でも怯まない勇気を。\n私の上で雲がかかる──月が光を隠す──ランプが消えていく！\n蒸気が立つ！──赤い光線が私の頭の周りを閃く──\n天井から戦慄が吹き降りて私をつかむ！\n感じる、お前が私の周りを漂っている、乞い求めた精霊よ。\n姿を現せ！ハ！私の心の中でいかに引き裂かれることか！\n新しい感情に向かって私のすべての感覚が掘り起こされていく！\n私の心がまったくお前に委ねられているのを感じる！\nそうでなければならない！そうでなければ！たとえ命がかかっていても！"
+     "provisionalTranslation":"この徴はいかに別様に私に作用することか！\n地の精霊よ、お前は私により近い。\nもう力がより高くなるのを感じる、\nもう新しいぶどう酒のように燃えている、\n世界へと乗り出す勇気を感じる、\n大地の苦しみ、大地の喜びを担う勇気を、\n嵐の中で揉まれる勇気を、難破の軋みの中でも怯まない勇気を。\n私の上で雲がかかる──\n月が光を隠す──\nランプが消えていく！\n蒸気が立つ！──赤い光線が私の頭の周りを閃く──\n天井から戦慄が吹き降りて私をつかむ！\n感じる、お前が私の周りを漂っている、乞い求めた精霊よ。\n姿を現せ！ハ！私の心の中でいかに引き裂かれることか！\n新しい感情に向かって私のすべての感覚が掘り起こされていく！\n私の心がまったくお前に委ねられているのを感じる！\nそうでなければならない！そうでなければ！たとえ命がかかっていても！"
     },
     {
       "id":6,
@@ -50,7 +50,7 @@
       "id":7,
       "verses":"v.486-498","speaker":"Geist",
       "original":"Du flehst erathmend mich zu schauen,\nMeine Stimme zu hören, mein Antlitz zu sehn,\nMich neigt dein mächtig Seelenflehn,\nDa bin ich! - Welch erbärmlich Grauen\nFaßt Uebermenschen dich! Wo ist der Seele Ruf?\nWo ist die Brust? die eine Welt in sich erschuf,\nUnd trug und hegte; die mit Freudebeben\nErschwoll, sich uns, den Geistern, gleich zu heben.\nWo bist du, Faust? deß Stimme mir erklang,\nDer sich an mich mit allen Kräften drang?\nBist Du es? der, von meinem Hauch umwittert,\nIn allen Lebenstiefen zittert,\nEin furchtsam weggekrümmter Wurm!",
-     "provisionalTranslation":"お前は息を切らして私を見ることを、\n私の声を聞くことを、私の顔を見ることを嘆願した、\nお前の強力な魂の懇願が私を傾かせた、ここにいる！──\nなんと哀れな戦慄が超人たるお前をとらえているのか！\n魂の叫びはどこへ行った？\n胸はどこへ──一つの世界をその中に作り出し、担い育んだ胸は、\n喜びに震えながら、我ら精霊たちと並ぶほどに膨れ上がっていたのに。\nお前はどこにいる、ファウストよ？私に響いてきたあの声を持つお前は、\nあらゆる力で私に押し迫ってきたお前は。\nお前がそれなのか、私の吐息に包まれて生のあらゆる深みで震えている、\n恐れに縮み込んだ虫けらが！"
+     "provisionalTranslation":"お前は息を切らして私を見ることを、\n私の声を聞くことを、私の顔を見ることを嘆願した、\nお前の強力な魂の懇願が私を傾かせた、ここにいる！──\nなんと哀れな戦慄が超人たるお前をとらえているのか！\n魂の叫びはどこへ行った？\n胸はどこへ──一つの世界をその中に作り出し、\nそして担い育んだ胸は、喜びに震えながら、\n我ら精霊たちと並ぶほどに膨れ上がっていたのに。\nお前はどこにいる、ファウストよ？私に響いてきたあの声を持つお前は、\nあらゆる力で私に押し迫ってきたお前は。\nお前がそれなのか、私の吐息に包まれて\n生のあらゆる深みで震えている、\n恐れに縮み込んだ虫けらが！"
     },
     {
       "id":8,
