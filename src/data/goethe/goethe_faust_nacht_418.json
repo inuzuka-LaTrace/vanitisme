@@ -1,0 +1,132 @@
+{
+  "id": "goethe_faust_nacht_418",
+  "title": "Faust - Erster Teil: Nacht (v.418-517)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust - Der Tragödie erster Teil, Szene: Nacht, v.418-517. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_erster_Teil",
+  "year": "1808",
+  "firstPublication": "1808（Faust. Eine Trag\u00f6die, Cotta Verlag, T\u00fcbingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第一部「夜（Nacht）」中盤から後半（v.418-517）。前段（v.354-417）でファウストは書物的学知の虚無を告発したが、ここでは魔術書ノストラダムスを手にマクロコスモスの徴（das Zeichen des Makrokosmus）から地霊（Erdgeist）の徴へと転じ、ついに地霊を召喚して対峙するまでの全過程が描かれる。場面は三つの大きな運動を持つ：①マクロコスモスの徴による忘我的恍惚と「Welch Schauspiel! aber ach! ein Schauspiel nur!（なんたる光景！だがああ！ただの光景にすぎない！）」という参与不能の挫折（v.418-459）。②地霊の徴への転向と大気的な召喚儀式（v.460-481）。③地霊との対峙と「Du gleichst dem Geist, den du begreifst, / Nicht mir!（お前はお前が理解できる精神に似ている、私ではない！）」という究極的な拒絶とファウストの崩壊（v.482-517）。「Uebermenschen（超人）」という語の最初期の文学的使用（v.490）、「Webstuhl der Zeit（時のはた機）」という宇宙的織物のイメージ（v.508）、「Ebenbild der Gottheit（神の似姿）」という創世記のimago dei概念の反語的引用（v.516）がこの場面の三大モチーフ。前ファイル（v.354-417）の「wir nichts wissen k\u00f6nnen」という認識論的絶望が、ここでは存在論的絶望「Nicht mir!」へと深化する。",
+  "keywords": ["Makrokosmus","Erdgeist","Webstuhl der Zeit","Übermensch","Ebenbild der Gottheit","ein Schauspiel nur","Flammenbildung","Geisterwelt","Nostradamus","地霊召喚"],
+  "relatedTexts": ["goethe_faust_nacht_354","hieronymus_ecclesiastes_1","hieronymus_genesis_1","hieronymus_iob_38","dante_paradiso_canto_33","dante_inferno_canto_1","weil_accepter_le_vide","weil_la_violence"],
+  "paragraphs": [
+    {
+      "id":1,
+      "verses":"v.418-429",
+      "speaker":"Faust",
+      "original":"Flieh! auf! hinaus ins weite Land!\nUnd dieß geheimnißvolle Buch,\nVon Nostradamus eigner Hand,\nIst dir es nicht Geleit genug?\nErkennest dann der Sterne Lauf,\nUnd wenn Natur dich unterweist,\nDann geht die Seelenkraft dir auf,\nWie spricht ein Geist zum andern Geist.\nUmsonst, daß trocknes Sinnen hier\nDie heil'gen Zeichen dir erklärt,\nIhr schwebt, ihr Geister, neben mir,\nAntwortet mir, wenn ihr mich hört!",
+     "provisionalTranslation":"逃げよ！さあ！広い大地へと外へ！\nそしてこの神秘めいた書物、ノストラダムス自身の手による書物が、\n道案内として十分ではないか？\nそれならば星々の運行を認識でき、\n自然がお前に教えを授ければ、魂の力が開いてくる、\n精神が精神に語りかけるように。\n書物が乾いた思索でお前にその聖なる徴を説明しようとしても無駄だ。\nお前たちは漂っている、お前たち精霊たちよ、私の傍らに、\n私が聞こえるなら答えよ！"
+    },
+    {
+      "id":2,
+      "verses":"v.430-446","speaker":"Faust",
+      "original":"Ha! welche Wonne fließt in diesem Blick\nAuf einmal mir durch alle meine Sinnen!\nIch fühle junges, heil'ges Lebensglück\nNeuglühend mir durch Nerv' und Adern rinnen.\nWar es ein Gott, der diese Zeichen schrieb?\nDie mir das innre Toben stillen,\nDas arme Herz mit Freude füllen,\nUnd mit geheimnißvollem Trieb,\nDie Kräfte der Natur rings um mich her enthüllen.\nBin ich ein Gott? Mir wird so licht!\nIch schau' in diesen reinen Zügen\nDie wirkende Natur vor meiner Seele liegen.\nJetzt erst erkenn' ich was der Weise spricht:\n„Die Geisterwelt ist nicht verschlossen;\nDein Sinn ist zu, dein Herz ist todt!\nAuf bade, Schüler, unverdrossen,\nDie ird'sche Brust im Morgenroth!“",
+     "provisionalTranslation":"ハ！この一瞥の中に何という喜悦が一時に私のすべての感覚に流れ込むことか！\n若い、聖なる生の幸福を感じる、神経と血管を新たな輝きで流れるのを。\nこれらの徴を書いたのは神だったのか？\n私の内なる騒動を鎮め、哀れな心を喜びで満たし、\n神秘めいた衝動をもって周囲の自然の力を明らかにしてくれる。\n私は神なのか？こんなに明るくなる！\nこの純粋な線の中に、作用する自然が私の魂の前に横たわっているのを見る。\n今ようやく賢者が言うことがわかる：\n霊の世界は閉ざされていない；\nお前の感覚が閉じ、お前の心が死んでいるのだ！\n学徒よ、たゆまず、地上の胸を朝焼けの中に浸せ！"},
+    {
+      "id":3,
+      "verses":"v.447-453","speaker":"Faust","original":"Wie alles sich zum Ganzen webt,\nEins in dem andern wirkt und lebt!\nWie Himmelskräfte auf und nieder steigen\nUnd sich die goldnen Eimer reichen!\nMit segenduftenden Schwingen\nVom Himmel durch die Erde dringen,\nHarmonisch all' das All durchklingen!",
+     "provisionalTranslation":"すべてがいかに全体へと織り込まれているか、\n一つの中に一つが作用し生きているか！\n天の力がいかに上下に昇り降りし、\n互いに黄金の桶を手渡し合っているか！\n祝福の香りの翼をもって天から地へと浸透し、\n調和してすべての宇宙に響き渡っている！"},
+    {"id":4,
+      "verses":"v.454-459",
+      "speaker":"Faust","original":"Welch Schauspiel! aber ach! ein Schauspiel nur!\nWo faß' ich dich, unendliche Natur?\nEuch Brüste, wo? Ihr Quellen alles Lebens,\nAn denen Himmel und Erde hängt,\nDahin die welke Brust sich drängt -\nIhr quellt, ihr tränkt, und schmacht' ich so vergebens?",
+     "provisionalTranslation":"なんたる光景！だがああ！ただの光景にすぎない！\n無限の自然よ、どこでお前をつかむことができるのか？\nお前たちの乳房はどこに？すべての生命の源泉よ、\n天と地がそこにかかっている、しおれた胸がそこへ向かっていく──\nお前たちは湧き出し、お前たちは潤す、\nそれでも私はこれほど虚しく焦がれているのか？"},
+    {
+      "id":5,
+      "verses":"v.460-481",
+      "speaker":"Faust",
+      "original":"Wie anders wirkt dieß Zeichen auf mich ein!\nDu, Geist der Erde, bist mir näher;\nSchon fühl' ich meine Kräfte höher,\nSchon glüh' ich wie von neuem Wein,\nIch fühle Muth, mich in die Welt zu wagen,\nDer Erde Weh, der Erde Glück zu tragen,\nMit Stürmen mich herumzuschlagen,\nUnd in des Schiffbruchs Knirschen nicht zu zagen,\nEs wölkt sich über mir -\nDer Mond verbirgt sein Licht -\nDie Lampe schwindet!\nEs dampft! - Es zucken rothe Strahlen\nMir um das Haupt - Es weht\nEin Schauer vom Gewölb' herab\nUnd faßt mich an!\nIch fühl's, du schwebst um mich, erflehter Geist.\nEnthülle dich!\nHa! wie's in meinem Herzen reißt!\nZu neuen Gefühlen\nAll' meine Sinnen sich erwühlen!\nIch fühle ganz mein Herz dir hingegeben!\nDu mußt! du mußt! und kostet' es mein Leben!",
+     "provisionalTranslation":"この徴はいかに別様に私に作用することか！\n地の精霊よ、お前は私により近い。\nもう力がより高くなるのを感じる、\nもう新しいぶどう酒のように燃えている、\n世界へと乗り出す勇気を感じる、\n大地の苦しみ、大地の喜びを担う勇気を、\n嵐の中で揉まれる勇気を、難破の軋みの中でも怯まない勇気を。\n私の上で雲がかかる──月が光を隠す──ランプが消えていく！\n蒸気が立つ！──赤い光線が私の頭の周りを閃く-\n天井から戦慄が吹き降りて私をつかむ！\n感じる、お前が私の周りを漂っている、乞い求めた精霊よ。\n姿を現せ！ハ！私の心の中でいかに引き裂かれることか！\n新しい感情に向かって私のすべての感覚が掘り起こされていく！\n私の心がまったくお前に委ねられているのを感じる！\nそうでなければならない！そうでなければ！たとえ命がかかっていても！"},
+    {
+      "id":6,
+      "verses":"v.482-485","speaker":"Geist / Faust",
+      "original":"Wer ruft mir?\nSchreckliches Gesicht!\nDu hast mich mächtig angezogen,\nAn meiner Sphäre lang' gesogen,\nUnd nun -\nWeh! ich ertrag' dich nicht!",
+     "provisionalTranslation":"誰が私を呼んだ？\n恐ろしい顔だ！\nお前は私を強力に引き寄せ、私の圏域で長く引き付けてきた、そして今──\nああ！私はお前に耐えられない！"},
+    {
+      "id":7,
+      "verses":"v.486-498","speaker":"Geist",
+      "original":"Du flehst erathmend mich zu schauen,\nMeine Stimme zu hören, mein Antlitz zu sehn,\nMich neigt dein mächtig Seelenflehn,\nDa bin ich! - Welch erbärmlich Grauen\nFaßt Uebermenschen dich! Wo ist der Seele Ruf?\nWo ist die Brust? die eine Welt in sich erschuf,\nUnd trug und hegte; die mit Freudebeben\nErschwoll, sich uns, den Geistern, gleich zu heben.\nWo bist du, Faust? deß Stimme mir erklang,\nDer sich an mich mit allen Kräften drang?\nBist Du es? der, von meinem Hauch umwittert,\nIn allen Lebenstiefen zittert,\nEin furchtsam weggekrümmter Wurm!",
+     "provisionalTranslation":"お前は息を切らして私を見ることを、私の声を聞くことを、私の顔を見ることを嘆願した、\nお前の強力な魂の懇願が私を傾かせた、ここにいる！──\nなんと哀れな戦慄が超人たるお前をとらえているのか！\n魂の叫びはどこへ行った？\n胸はどこへ──一つの世界をその中に作り出し、担い育んだ胸は、\n喜びに震えながら、我ら精霊たちと並ぶほどに膨れ上がっていたのに。\nお前はどこにいる、ファウストよ？私に響いてきたあの声を持つお前は、\nあらゆる力で私に押し迫ってきたお前は。\nお前がそれなのか、私の吐息に包まれて生のあらゆる深みで震えている、\n恐れに縮み込んだ虫けらが！"},
+    {
+      "id":8,
+      "verses":"v.499-500",
+      "speaker":"Faust",
+      "original":"Soll ich dir, Flammenbildung, weichen?\nIch bin's, bin Faust, bin deines gleichen!",
+      "provisionalTranslation":"炎の形象よ、私はお前の前に退くべきなのか？\n私が、私こそがファウストだ、お前と同等の者だ！"
+    },
+    {
+      "id":9,"verses":"v.501-509","speaker":"Geist","original":"In Lebensfluthen, im Thatensturm\nWall' ich auf und ab,\nWebe hin und her!\nGeburt und Grab,\nEin ewiges Meer,\nEin wechselnd Weben,\nEin glühend Leben,\nSo schaff' ich am sausenden Webstuhl der Zeit,\nUnd wirke der Gottheit lebendiges Kleid.",
+     "provisionalTranslation":"生命の波の中で、行為の嵐の中で、\n私は上下に漂い、あちこちに織る！\n誕生と墓、永遠の海、\n絶えず転変する機織、燃え上がる生、\nそのようにして私は時の鳴り響く機織機のところで働き、\n神性の生きた衣装を織る。"},
+    {"id":10,"verses":"v.510-511","speaker":"Faust","original":"Der du die weite Welt umschweifst,\nGeschäftiger Geist, wie nah fühl' ich mich dir!"
+,
+     "provisionalTranslation":"広い世界を駆け巡るお前よ、\n多忙な精霊よ、私はいかにお前に近いと感じることか！"},
+    {"id":11,"verses":"v.512-517","speaker":"Geist / Faust","original":"Du gleichst dem Geist, den du begreifst,\nNicht mir!\nNicht dir!\nWem denn?\nIch Ebenbild der Gottheit!\nUnd nicht einmal dir!",
+     "provisionalTranslation":"お前はお前が理解できる精神に似ている、私ではない！\n私ではない！\nでは誰に？\n神の似姿たる私が！\nその私でさえお前ではない！"}
+  ],
+  "annotations": [
+    {"paragraphId":1,"type":"glossary","anchor":"Von Nostradamus eigner Hand,",
+     "body":"ノストラダムス（Michel de Nostredame, 1503-1566）──フランスの占星術師・予言者。『百詩篇（Les Prophéties）』（1555）の著者として近代西洋において最も広く流通した神秘的予言書の作者。「eigner Hand（自身の手による）」という強調が、印刷術によって複製された知識ではなく著者の「直接の手の跡」を持つ書物への原初的な欲望を示す：啓蒙的・合理的認識の放棄という前段落の帰結が、この「秘書（geheimnißvolles Buch）」への転向において具体化される。「Ist dir es nicht Geleit genug?（道案内として十分ではないか）」という問いかけが、知識を「場所への案内」として提示する──ファウストが目指すのは「知ること」ではなく「到達すること」である。"},
+    {"paragraphId":1,"type":"commentary","anchor":"Wie spricht ein Geist zum andern Geist.",
+     "body":"「精神が精神に語りかけるように（Wie spricht ein Geist zum andern Geist）」──言語的・概念的媒介を迂回した精神の直接的交通という認識論的理想。「trocknes Sinnen（乾いた思索）」と「die heil'gen Zeichen（聖なる徴）」の対比が、合理的説明と象徴的直接認識の二項対立を設定する。コヘレト第1章v.8「Cunctae res difficiles; non potest eas homo explicare sermone（すべての事柄は困難であり、人はそれを言葉で説明することができない）」との照応：言語による説明の限界が、コヘレトでは「afflictio spiritus」の原因として、ファウストでは魔術的認識への転向の動機として機能する。後の地霊との対峙において「Du gleichst dem Geist, den du begreifst, Nicht mir!」という根本的否定によってこの直接性の理想は打ち砕かれる。",
+     "targetId":"hieronymus_ecclesiastes_1","targetParagraphId":8},
+    {"paragraphId":2,"type":"commentary","anchor":"War es ein Gott, der diese Zeichen schrieb?",
+     "body":"「これらの徴を書いたのは神だったのか（War es ein Gott, der diese Zeichen schrieb）？」から「私は神なのか（Bin ich ein Gott）？」へ──二つの神問の連鎖がマクロコスモスの徴を見たファウストの恍惚状態を描写する。最初の問いは徴の神的起源への驚嘆（創世記的問い：誰が世界を創ったのか）であり、二番目の問いはその受容によって自らが神的存在に参与するという自己神化の衝動として現れる。「Mir wird so licht!（こんなに明るくなる！）」という身体的な光の経験が神秘主義的忘我状態を示す。ダンテ天国篇最終歌の「光の円環」への没入と対比される：ダンテが光に圧倒されるのに対し、ファウストは「私は神か」と自問する──主体の消滅と主体の膨張という逆方向の動き。"},
+    {"paragraphId":2,"type":"prosody","anchor":"\u201eDie Geisterwelt ist nicht verschlossen;\nDein Sinn ist zu, dein Herz ist todt!",
+     "body":"段落内の引用として提示される「賢者（der Weise）」の言葉。ドイツ語の下付き開き引用符で始まる埋め込み発話がファウスト自身の声から区別される内的権威として機能する。「Sinn ist zu（感覚が閉じている）」と「Herz ist todt（心が死んでいる）」という並行する断定が、外的（感覚）・内的（心）の双方における閉塞を二重に定式化する。コヘレト第1章v.8「Non saturatur oculus visu, nec auris auditu impletur（目は見ることに飽くことなく、耳は聴くことで満たされることがない）」という感覚の不飽和性とは逆の命題：コヘレトでは感覚は飽くことなく求め続けるが、賢者の言葉では感覚そのものが閉じてしまっている。「Auf bade, Schüler, unverdrossen（たゆまず、浸せ）」という励起の命令形が、前ファイルの「Weh! steck' ich in dem Kerker noch?」という帰結の皮肉な反転への橋渡しをなす。",
+     "targetId":"hieronymus_ecclesiastes_1","targetParagraphId":8},
+    {"paragraphId":3,"type":"prosody","anchor":"Wie alles sich zum Ganzen webt,\nEins in dem andern wirkt und lebt!",
+     "body":"「すべてがいかに全体へと織り込まれているか、一つの中に一つが作用し生きているか（Wie alles sich zum Ganzen webt, / Eins in dem andern wirkt und lebt）」──マクロコスモス幻視の韻律的頂点。「webt（織る）」「wirkt（作用する）」「lebt（生きる）」という三つの現在形動詞が宇宙の動的過程を進行中の現在として提示する：宇宙は完成した「存在（Sein）」ではなく永続的な「生成（Werden）」として把握される。「Wie Himmelskräfte auf und nieder steigen / Und sich die goldnen Eimer reichen（天の力が上下に昇り降りし、互いに黄金の桶を手渡し合う）」という形象が創世記第28章ヤコブの梯子の記憶を詩的に変奏する：天使の昇降がゲーテの自然哲学的な宇宙の相互連関として置き換えられる。"},
+    {"paragraphId":3,"type":"intertextual","anchor":"Harmonisch all' das All durchklingen!",
+     "body":"「調和してすべての宇宙に響き渡る（Harmonisch all' das All durchklingen）」──「durchklingen（響き渡る）」という動詞が宇宙を音楽的共鳴の場として定式化する。ダンテ天国篇第33歌「Nel suo profondo vidi che s'interna, / legato con amore in un volume（その深みの中に、愛によって一冊の書物に綴じられて、散らばるすべてが内に包まれるのを見た）」との照応：ダンテが至福直観において「一冊の書物」として経験する宇宙的統一を、ファウストは「調和して響き渡る」音楽的統一として体験する。ただしファウストにとってこの体験は次の段落で「ただの光景（ein Schauspiel nur）」として打ち砕かれる──観照の恍惚と参与の不能という断絶が、ダンテ的至福との決定的な差異として現れる。",
+     "targetId":"dante_paradiso_canto_33"},
+    {"paragraphId":4,"type":"commentary","anchor":"Welch Schauspiel! aber ach! ein Schauspiel nur!",
+     "body":"「なんたる光景！だがああ！ただの光景にすぎない（Welch Schauspiel! aber ach! ein Schauspiel nur）」──感嘆と失望が一行の中で衝突するファウスト全体の核心命題の一つ。「Schauspiel（光景・劇）」という語は「schauen（見る）＋Spiel（遊び・劇）」の合成語：マクロコスモスの幻視は「見ること（schauen）」の次元にとどまり、参与・触れること・担うことの次元へは到達しない。「aber ach!（だがああ）」という逆接の感嘆詞が恍惚から絶望への瞬時の転換を音声的に体現する。コヘレト第1章v.14「vidi cuncta quae fiunt sub sole, et ecce universa vanitas（私は太陽の下でなされるすべてを見た。そして見よ、すべては虚無である）」──「見る（vidi / schauen）」という認識的行為が「虚無（vanitas / Schauspiel nur）」の宣言に終わるという認識論的構造の精確な反復。",
+     "targetId":"hieronymus_ecclesiastes_1","targetParagraphId":14},
+    {"paragraphId":4,"type":"commentary","anchor":"Euch Brüste, wo? Ihr Quellen alles Lebens,\nAn denen Himmel und Erde hängt,\nDahin die welke Brust sich drängt -\nIhr quellt, ihr tränkt, und schmacht' ich so vergebens?",
+     "body":"「お前たちの乳房はどこに？すべての生命の源泉よ（Euch Brüste, wo? Ihr Quellen alles Lebens）」──認識から哺育・生命力への渇望へ。「Brüste（乳房）」「Quellen（源泉）」「quellt（湧き出す）」「tränkt（潤す）」という哺育の語彙群が宇宙との関係を認識論的（見る）から授乳的（飲む）へと転換する。「welke Brust（しおれた胸）」という自己描写が前段落の「heil'ges Lebensglück（聖なる生の幸福）」の高揚と鋭く対比される。ヴェイユ「Accepter le vide」の「恩寵が入れるのはそれを受け取る空虚がある場所だけ」という命題と照応する：ファウストの「しおれた胸」は空虚の場所として恩寵を「迎え入れる」準備があるにもかかわらず、源泉は「vergebens（虚しく）」応答しない。",
+     "targetId":"weil_accepter_le_vide"},
+    {"paragraphId":5,"type":"commentary","anchor":"Der Erde Weh, der Erde Glück zu tragen,\nMit Stürmen mich herumzuschlagen,\nUnd in des Schiffbruchs Knirschen nicht zu zagen,",
+     "body":"「大地の苦しみ、大地の喜びを担う（Der Erde Weh, der Erde Glück zu tragen）」──マクロコスモスの「見る（schauen）」から地霊の「担う（tragen）」への根本的転換。宇宙的調和を観照するのではなく、地上の苦悩と喜びを身体的に担うという実存的コミットメントへの移行を意味する。「Mit Stürmen mich herumzuschlagen（嵐の中でもまれる）」「des Schiffbruchs Knirschen（難破の軋み）」という海難の比喩がダンテ地獄篇第1歌の漂流者の直喩と照応する：ダンテの漂流者は振り返って危険な海を「見る」だけだが、ファウストは「難破の軋みの中でも怯まない」という能動的な危険への突入を宣言する。",
+     "targetId":"dante_inferno_canto_1","targetParagraphId":4},
+    {"paragraphId":5,"type":"prosody","anchor":"Es wölkt sich über mir -\nDer Mond verbirgt sein Licht -\nDie Lampe schwindet!\nEs dampft! - Es zucken rothe Strahlen\nMir um das Haupt - Es weht\nEin Schauer vom Gewölb' herab\nUnd faßt mich an!",
+     "body":"召喚の大気的描写における韻律的崩壊。前部（v.460-467）のKnittelvers（4強弱格）が、v.468以降に短い破片的な行へと分解していく：月の消滅・ランプの消滅・赤い光線・戦慄という四つの大気的出来事が、それぞれ切断された短行（「Die Lampe schwindet!」1行のみ）として畳み掛けられる。この韻律的崩壊が召喚儀式において通常の時間・空間秩序が解体される過程を詩行の次元で実演する。「Es（それが）」という非人称主語の反復──「Es wölkt（曇る）」「Es dampft（蒸気が立つ）」「Es zucken（閃く）」──が外的現象の主体不在の自律的進行を示し、ファウスト自身が現象の客体として巻き込まれる受動性を文法構造が体現する。"},
+    {"paragraphId":6,"type":"commentary","anchor":"Schreckliches Gesicht!",
+     "body":"「恐ろしい顔だ（Schreckliches Gesicht）！」──舞台指示「Faust abgewendet（顔を背けて）」とともに置かれる一言。人間が想像し呼び出した存在の実際の「顔（Gesicht）」は耐えられないという逆説：「精神が精神に語りかける（Wie spricht ein Geist zum andern Geist）」という直接的交通の理想が、実現の瞬間に「顔を背ける（abgewendet）」という回避として挫折する。ヨブ記第38章での神が嵐の中から語りかける場面との照応：義人ヨブが求め続けた神との直接的対話が、いざ実現した時に人間の限界が露呈する構造がここで反復される。",
+     "targetId":"hieronymus_iob_38"},
+    {"paragraphId":6,"type":"commentary","anchor":"Weh! ich ertrag' dich nicht!",
+     "body":"「ああ！私はお前に耐えられない（Weh! ich ertrag' dich nicht）！」──「ertragen（耐える）」という動詞が重要：ファウストは地霊を「理解できない（nicht begreifen）」のではなく、その存在に「耐えられない（nicht ertragen）」──認識の限界ではなく存在的耐性の限界として提示される。この「耐えられない」という表明が次段落の地霊による「Uebermenschen（超人）」という皮肉な称号への前言として機能する：ファウストは「超人」と呼ばれながら耐えられないという逆説。地霊の「Und nun -（そして今──）」という未完の発話が挿入されることで、ファウストの挫折宣言が地霊の期待の落胆として重層化される。"},
+    {"paragraphId":7,"type":"glossary","anchor":"Welch erbärmlich Grauen\nFaßt Uebermenschen dich!",
+     "body":"「なんと哀れな戦慄が超人たるお前をとらえているのか（Welch erbärmlich Grauen / Faßt Uebermenschen dich）！」──「Übermensch（超人）」という語の文学史上最初期の使用例の一つ。ニーチェが『ツァラトゥストラはこう語った（Also sprach Zarathustra）』（1883-85）で積極的理想として定式化する以前に、ゲーテはここで地霊がファウストを皮肉的・反語的に「（自称）超人」と呼ぶ文脈で使用する：「erbärmlich（哀れな）」という形容詞が「超人」という誇大な自己規定とのコントラストを形成し、「Grauen（戦慄）」という感情状態が超克・制覇という超人の本来の定義の対極として提示される。"},
+    {"paragraphId":7,"type":"commentary","anchor":"Bist Du es? der, von meinem Hauch umwittert,\nIn allen Lebenstiefen zittert,\nEin furchtsam weggekrümmter Wurm!",
+     "body":"「お前がそれなのか、私の吐息に包まれて生のあらゆる深みで震えている、恐れに縮み込んだ虫けらが！」──「Brust? die eine Welt in sich erschuf（一つの世界をその中に作り出した胸）」という崇高な自己規定から「furchtsam weggekrümmter Wurm（恐れに縮み込んだ虫けら）」への落差が地霊の告発の修辞的エネルギーを最大化する。ヴェイユ「La Violence」の核心命題「力は人間を物体に変える」──ここでは力（地霊）の圧倒的存在が人間（ファウスト）を「虫けら」という最小の動物的客体へと縮減する──の文学的先行形として機能する。「von meinem Hauch umwittert（私の吐息に包まれて）」という表現が、地霊の「吐息」が人間の生を囲む大気として機能することを示す。",
+     "targetId":"weil_la_violence",
+      "targetParagraphId":1},
+    {"paragraphId":8,"type":"commentary","anchor":"Ich bin's, bin Faust, bin deines gleichen!",
+     "body":"「私が、私こそがファウストだ、お前と同等の者だ（Ich bin's, bin Faust, bin deines gleichen）！」──「Soll ich dir, Flammenbildung, weichen（炎の形象よ、私はお前の前に退くべきなのか）？」という自問に対する即時の否定的答え。「Flammenbildung（炎の形象）」という呼称が地霊の実体を「形象（Bildung）」に還元することで距離を置こうとする防御的身振りとして機能する。「Ich bin's, bin Faust（私が、私こそがファウストだ）」という「bin」の三重の反復が名前を存在の根拠として強調する：これに対して地霊は「Du gleichst dem Geist, den du begreifst, / Nicht mir!（私ではない）」という反論でファウストのアイデンティティを根本的に限定する──「私はファウストだ」という主張は、「お前はお前が理解できるものに似ている」という定義によって無効化される。"},
+    {
+      "paragraphId":9,"type":"prosody","anchor":"So schaff' ich am sausenden Webstuhl der Zeit,\nUnd wirke der Gottheit lebendiges Kleid.",
+     "body":"「そのようにして私は時の鳴り響く機織機のところで働き、神性の生きた衣装を織る（So schaff' ich am sausenden Webstuhl der Zeit, / Und wirke der Gottheit lebendiges Kleid）」──「Webstuhl der Zeit（時の機織機）」はゲーテの詩的造語の中で最も広く引用される形象の一つ。「sausend（鳴り響く・轟く）」という音響的形容詞が時の織機を聴覚的現前として提示する。全段落（v.501-509）の韻律が短縮行「Wall' ich auf und ab, / Webe hin und her! / Geburt und Grab, / Ein ewiges Meer,」という圧縮行で構成され、織機のリズムを詩行の物質的リズムに転写する。「der Gottheit lebendiges Kleid（神性の生きた衣装）」──自然という可視的世界全体が「神性（Gottheit）」の「衣装（Kleid）」として定義される汎神論的宇宙観がここに定式化される。"},
+    {
+      "paragraphId":9,"type":"intertextual","anchor":"Geburt und Grab,\nEin ewiges Meer,\nEin wechselnd Weben,\nEin glühend Leben,",
+     "body":"「誕生と墓、永遠の海洋、絶えず転変する機織、燃え上がる生」──地霊の自己規定における四形象の連鎖。「Geburt und Grab（誕生と墓）」という並置が、コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り、世代は来る。しかし大地は永遠に立ち続ける）」という循環的世代観の地霊版として機能する：コヘレトでは世代の交代を「眺める者」の視点から語るが、地霊はその交代の「作者（Schaffer）」として自己を定義する。「Ein ewiges Meer（永遠の海）」はコヘレト第1章v.7「Omnia flumina intrant in mare, et mare non redundat（すべての川は海へと入る、しかし海はあふれない）」との照応として、地霊においては循環の「主体」として再提示される。",
+     "targetId":"hieronymus_ecclesiastes_1","targetParagraphId":7},
+    {
+      "paragraphId":10,"type":"commentary","anchor":"Geschäftiger Geist, wie nah fühl' ich mich dir!",
+     "body":"「多忙な精霊よ、私はいかにお前に近いと感じることか（Geschäftiger Geist, wie nah fühl' ich mich dir）！」──「Webstuhl der Zeit」の宏大な宇宙的自己規定を聞いたファウストの反応として「近しさ（Nähe）」の感覚が述べられる。「Geschäftiger（多忙な・せっせと働く）」という形容詞がファウストの地霊への称号として機能する：「活動（Tätigkeit）」への志向がファウストの自己規定の核心であり、「無限に活動すること（Streben）」において地霊に同一化しようとする。この「wie nah fühl' ich mich dir!」という感覚的・主観的な近接感が、次の段落の「Nicht mir!（私ではない）」という客観的・絶対的な否定によって瞬時に粉砕される：感覚（fühlen）と実在（sein）の乖離が詩劇の根本的悲劇として確認される。"},
+    {
+      "paragraphId":11,
+      "type":"commentary","anchor":"Du gleichst dem Geist, den du begreifst,\nNicht mir!",
+     "body":"「お前はお前が理解できる精神に似ている、私ではない（Du gleichst dem Geist, den du begreifst, / Nicht mir）！」──場面全体の頂点にして西洋近代文学における最も鮮烈な哲学的宣告の一つ。「du begreifst（お前が理解できる）」という関係節が認識能力と存在の比例関係を定式化する：人間は自分が「把握（begreifen）できる」ものにしか「似ること（gleichen）」ができず、把握できないものには似ていない。「理解する」という認識行為が存在論的制限として機能する──人間の知の届く範囲が存在の届く範囲と一致するという悲劇的認識論。v.354-417での「wir nichts wissen können」という認識論的絶望が、ここでは「理解できないものには似ていない」という存在論的絶望へと深化する。",
+      "targetId":"goethe_faust_nacht_354","targetParagraphId":null
+    },
+    {
+      "paragraphId":11,
+      "type":"glossary","anchor":"Ich Ebenbild der Gottheit!\nUnd nicht einmal dir!",
+     "body":"「神の似姿たる私が！その私でさえお前ではない（Ich Ebenbild der Gottheit! / Und nicht einmal dir）！」──「Ebenbild der Gottheit（神の似姿）」はヒエロニムス訳創世記第1章v.26「faciamus hominem ad imaginem nostram et similitudinem（われわれに似せてわれわれのかたちに人間を造ろう）」のimago Dei概念の直接的引用。ファウストが「神の似姿」という創世記的自己規定を拠り所として地霊への同等性を主張しようとするが、地霊の「Nicht mir!」がその主張を根底から否定する：神の似姿であることが地霊との同等性を保証しないどころか、「それでさえ（nicht einmal）」地霊ではないという二重の否定として確認される。舞台指示「zusammenstürzend（崩れ落ちる）」が、この言語的否定の身体的帰結として提示される。",
+     "targetId":"hieronymus_genesis_1"}
+  ]
+}
+
+out
