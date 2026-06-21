@@ -1,0 +1,102 @@
+{
+  "id": "goethe_faust_nacht_690",
+  "title": "Faust – Erster Teil: Nacht (v.690–736)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie erster Teil, Szene: Nacht, v.690–736. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_erster_Teil",
+  "year": "1808",
+  "firstPublication": "1808（Faust. Eine Tragödie, Cotta Verlag, Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第一部「夜（Nacht）」終盤（v.690–736）。地霊との対決（v.482–517）の後、学生ヴァーグナーとの対話（v.530–601）を経て再び独り残されたファウストが、毒薬の入った瓶（Phiole）を手にして死を決意するまでの場面。「夜」の場面全体の頂点にして最後の極点であり、v.737以下で鳴り響く復活祭の鐘の音によって中断される直前の場面。三つの段落で構成される：①毒薬瓶（Phiole）への挨拶とその効能の詠嘆（v.690–701）、②「炎の馬車（Feuerwagen）」の幻視と「虚無（Nichts）」への突入という死の決意の修辞的頂点（v.702–719）、③水晶の盃（Schaale）に毒薬を注いで「朝への挙杯（dem Morgen zugebracht）」という最後の行為（v.720–736）。「Mannes-Würde nicht der Götterhöhe weicht（人間の尊厳は神の高みに劣らない）」という宣言は地霊との対決で「furchtsam weggekrümmter Wurm（恐れに縮み込んだ虛けら）」と呼ばれたファウストの自己奪還の試みであり、同時に「ins Nichts dahin zu fließen（虚無へと流れ込む）」というコヘレト的「虚無」への積極的回帰として読める。v.737以下の復活祭の天使の合唱（Osterchor）と鐘の音が、ファウストが「朝（Morgen）」へと捧げた盃を手から落とさせる死の中断となる。",
+  "keywords": [
+    "Phiole",
+    "毒薬",
+    "Feuerwagen",
+    "Nichts",
+    "Mannes-Würde",
+    "Schaale",
+    "dem Morgen zugebracht",
+    "Wurm",
+    "自殺未遂",
+    "Osterchor"
+  ],
+  "relatedTexts": [
+    "goethe_faust_nacht_354",
+    "goethe_faust_nacht_418",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "dante_inferno_canto_26",
+    "weil_accepter_le_vide",
+    "weil_decreation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.690–701",
+      "speaker": "Faust",
+      "original": "Ich grüße dich, du einzige Phiole!\nDie ich mit Andacht nun herunterhole,\nIn dir verehr' ich Menschenwitz und Kunst.\nDu Inbegriff der holden Schlummersäfte,\nDu Auszug aller tödlich feinen Kräfte,\nErweise deinem Meister deine Gunst!\nIch sehe dich, es wird der Schmerz gelindert,\nIch fasse dich, das Streben wird gemindert,\nDes Geistes Fluthstrom ebbet nach und nach.\nIns hohe Meer werd' ich hinausgewiesen,\nDie Spiegelfluth erglänzt zu meinen Füßen,\nZu neuen Ufern lockt ein neuer Tag.",
+      "provisionalTranslation": "私はお前に挨拶する、唯一の瓶よ！\n今敬虔な気持ちで取り降ろすお前に、\n私はお前の中に人間の知恵と技術を崇める。\nすべての心地よき眠りの薬液の精髄よ、\nすべての致死的に精妙な力の抽出物よ、\nお前の主人にお前の恵みを示せ！\n私はお前を見る、苦悩は和らげられる、\n私はお前をつかむ、努力は减じられる、\n精神の洪水の流れはだんだんと引いていく。\n高い海へと私は導かれていく、\n鏡のような水面が私の足元に輝き、\n新しい日が新しい岸辺へと誘う。"
+    },
+    {
+      "id": 2,
+      "verses": "v.702–719",
+      "speaker": "Faust",
+      "original": "Ein Feuerwagen schwebt, auf leichten Schwingen,\nAn mich heran! Ich fühle mich bereit\nAuf neuer Bahn den Aether zu durchdringen,\nZu neuen Sphären reiner Thätigkeit.\nDieß hohe Leben, diese Götterwonne!\nDu, erst noch Wurm, und die verdienest du?\nJa, kehre nur der holden Erdensonne\nEntschlossen deinen Rücken zu!\nVermesse dich die Pforten aufzureißen,\nVor denen jeder gern vorüber schleicht.\nHier ist es Zeit durch Thaten zu beweisen,\nDaß Mannes-Würde nicht der Götterhöhe weicht,\nVor jener dunkeln Höhle nicht zu beben,\nIn der sich Phantasie zu eigner Quaal verdammt,\nNach jenem Durchgang hinzustreben,\nUm dessen engen Mund die ganze Hölle flammt;\nZu diesem Schritt sich heiter zu entschließen\nUnd, wär' es mit Gefahr, ins Nichts dahin zu fließen.",
+      "provisionalTranslation": "炎の馬車が、軽い翼に乗って、\n私へと近づいてくる！私は準備ができていると感じる\n新しい軌道でエーテルを突き抜けるために、\n純粋な活動という新しい圏域へ。\nこの高い生、この神々の悦び！\nお前は、まだ虫けらに過ぎないのに、そしてそれに値するのか？\nそうだ、愛しい地上の太陽に\n決然と背を向けよ！\n大胆に扉を引き裂け、\n誰もが好んでその前を通り過ぎていく扉を。\n今こそ行為によって証明する時だ、\n人間の尊厳は神の高みに劣らないということを、\nあの暗い洞窟の前で震えないということを、\nそこで幻想が自らの責め苦に追いやられる洞窟の前で、\nあの通路へと向かうということを、\nその狭い入り口の周りに地獄全体が燃え盛る通路へと、\nこの歩みを晴れ晴れとして決意するということを、\nそして、危険を冒してでも、虚無へと流れ込むということを。"
+    },
+    {
+      "id": 3,
+      "verses": "v.720–736",
+      "speaker": "Faust",
+      "original": "Nun komm herab, krystallne reine Schaale!\nHervor aus deinem alten Futterale,\nAn die ich viele Jahre nicht gedacht.\nDu glänztest bey der Väter Freudenfeste,\nErheitertest die ernsten Gäste,\nWenn einer dich dem andern zugebracht.\nDer vielen Bilder künstlich reiche Pracht,\nDes Trinkers Pflicht, sie reimweis zu erklären,\nAuf Einen Zug die Höhlung auszuleeren,\nErinnert mich an manche Jugend-Nacht,\nIch werde jetzt dich keinem Nachbar reichen,\nIch werde meinen Witz an deiner Kunst nicht zeigen,\nHier ist ein Saft, der eilig trunken macht.\nMit brauner Flut erfüllt er deine Höhle.\nDen ich bereitet, den ich wähle,\nDer letzte Trunk sey nun, mit ganzer Seele,\nAls festlich hoher Gruß, dem Morgen zugebracht!",
+      "provisionalTranslation": "さあ降りてきておくれ、水晶の純粋な盃よ！\n古い入れ物の中から出ておいで、\nもう何年も私が思いを向けることのなかったお前に。\nお前は父祖たちの祝宴で輝き、\n厳めしき客人たちを明るくした、\n誰かがお前を隣の者へと手渡す時に。\n多くの図像の技巧的に豊かな華やかさ、\n飲み手の義務、それらを韻を踏んで説明することと、\n一息でその空洞を飲み干すことが、\n私に幾多の若さの夜を思い出させる。\n今、私はお前を隣人に手渡すことはない、\n私はお前の技術に私の機知を試すこともない、\nここに一つの液体がある、急いで人を酔わせる液体が。\n茶色い洪水でそれがお前の空洞を満たす。\n私が用意した、私が選んだ、\n最後の一杯を今、魂全体をもって、\n祝祭的な高い挨拶として、朝に捧げよう！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Du Inbegriff der holden Schlummersäfte,\nDu Auszug aller tödlich feinen Kräfte,",
+      "body": "「すべての心地よき眠りの薬液の精髄よ、すべての致死的に精妙な力の抽出物よ（Du Inbegriff der holden Schlummersäfte, / Du Auszug aller tödlich feinen Kräfte）」——毒薬瓶の内容物への詠嘆的定義。「Inbegriff（精髄・概念の体現）」と「Auszug（抽出物・エッセンス）」という二つの「濃縮」の語彙が、毒薬を人間の化学的・錬金術的知識の最高度の凝縮として提示する。「holden（心地よき・優しい）」という形容詞が「tödlich feinen（致死的に精妙な）」という限定と並置されることで、美しいものと致死的なものの合一が定式化される——バロック的ヴァニタス絵画における「美しい毒」（死せる花、砂時計、ドクロ）の文学的等価物として。「Meister（主人）」という語が薬剤師・錬金術師としてのファウストの自己規定を示す：ファウストは毒薬の「使用者」であるとともに「製造者（Meister）」である。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ins hohe Meer werd' ich hinausgewiesen,\nDie Spiegelfluth erglänzt zu meinen Füßen,\nZu neuen Ufern lockt ein neuer Tag.",
+      "body": "「高い海へと私は導かれていく、鏡のような水面が私の足元に輝き、新しい日が新しい岸辺へと誘う（Ins hohe Meer werd' ich hinausgewiesen, / Die Spiegelfluth erglänzt zu meinen Füßen, / Zu neuen Ufern lockt ein neuer Tag）」——死の幻視における海の比喩的転換。「hohe Meer（高い海）」「Spiegelfluth（鏡の水面）」「neuen Ufern（新しい岸辺）」という三つの水のイメージが死の空間を「高さ・輝き・新奇さ」という肯定的な属性で彩る。「neuer Tag（新しい日）」という死の婉曲表現が、文字通りの「Morgen（朝）」——後に響く復活祭の鐘が告げる朝——への伏線として機能する劇的アイロニーを形成する。ダンテ地獄篇第26歌のユリシーズが「alto mare aperto（大きな開かれた海）」に乗り出し「zu neuen Ufern（新しい岸辺）」を求めて禁断の航海に出るという構造との照応：どちらも「高い海（hohe Meer / alto mare）」と「新しい岸辺（neuen Ufern）」を語りながら、その先には死がある。",
+      "targetId": "dante_inferno_canto_26"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Du, erst noch Wurm, und die verdienest du?",
+      "body": "「お前は、まだ虫けらに過ぎないのに、そしてそれに値するのか（Du, erst noch Wurm, und die verdienest du）？」——地霊が「furchtsam weggekrümmter Wurm（恐れに縮み込んだ虫けら）」と告発した言葉が、ファウスト自身の自己批判として内面化される転換点。しかしここでは「Wurm」という自己矮小化の後に「Dieß hohe Leben, diese Götterwonne（この高い生、この神々の悦び）！」という崇高への渇望が続く：屈辱的な自己認識が決意のバネとして機能する逆転の修辞。「erst noch（まだ〜に過ぎない）」という時間的限定が重要：「今」は虫けらであっても、死という行為によって「神々の高みへ」向かうという垂直的な跳躍が企図される。地霊による「Wurm」という告発が、ここでは能動的な自己超克の動機として反転して使用される。",
+      "targetId": "goethe_faust_nacht_418",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Und, wär' es mit Gefahr, ins Nichts dahin zu fließen.",
+      "body": "「そして、危険を冒してでも、虚無へと流れ込む（Und, wär' es mit Gefahr, ins Nichts dahin zu fließen）」——段落全体の頂点となる最終行。「Nichts（虚無・無）」という語が詩劇全体において中心的な形而上学的概念として初めて死の文脈で提示される：後の「書斎（Studierzimmer）」でのメフィストの自己紹介「Ich bin ein Teil von jener Kraft, / Die stets das Böse will und stets das Gute schafft（私は常に悪を欲し常に善を作り出す力の一部）」および「alles, was entsteht, / Ist wert, daß es zugrunde geht（生じるものすべては滅びるに値する）」という虚無主義と照応する。コヘレト第1章v.2「omnia vanitas（すべては虚無）」の「vanitas」をファウストは積極的な「fließen（流れ込む）」という動詞で行為化しようとする：コヘレトが観察する「虚無」を、ファウストは主体的に「流れ込む（fließen）」という能動態で引き受けようとする。「wär' es mit Gefahr（危険を冒してでも）」という条件法が示す覚悟が、直後の復活祭の鐘によって試されることなく終わる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nun komm herab, krystallne reine Schaale!\nHervor aus deinem alten Futterale,\nAn die ich viele Jahre nicht gedacht.",
+      "body": "「さあ降りてきておくれ、水晶の純粋な盃よ！古い入れ物の中から出ておいで、もう何年も私が思いを向けることのなかったお前に（Nun komm herab, krystallne reine Schaale! / Hervor aus deinem alten Futterale, / An die ich viele Jahre nicht gedacht）」——場面の転換点。抽象的・修辞的な死の決意（v.702–719）から、具体的な物体（盃・毒薬）への回帰による行為化の開始。「krystallne reine（水晶の・純粋な）」という形容詞が毒薬の容器に「清明さ（Reinheit）」の属性を与える：毒を盛る盃が「純粋（rein）」と呼ばれることの逆説が、「tödlich feinen Kräfte（致死的に精妙な力）」という第1段落の語彙的矛盾を継承する。「Väter Freudenfeste（父祖たちの祝宴）」「manche Jugend-Nacht（幾多の若さの夜）」という回顧的記憶が、死を前にした走馬灯として提示される：この記憶の柔らかさが冷酷な死の決意と共存することで、ファウストの人間的次元が最後に確認される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Der letzte Trunk sey nun, mit ganzer Seele,\nAls festlich hoher Gruß, dem Morgen zugebracht!",
+      "body": "「最後の一杯を今、魂全体をもって、祝祭的な高い挨拶として、朝に捧げよう（Der letzte Trunk sey nun, mit ganzer Seele, / Als festlich hoher Gruß, dem Morgen zugebracht）！」——「夜（Nacht）」の場面全体の最終行。「dem Morgen（朝に）」という表現が劇的アイロニーの核心：ファウストは「朝（Morgen）」を「死への超越・新しい岸辺（neuen Ufern）」として語るが、実際にはv.737以降で復活祭の朝を告げる天使の合唱と鐘の音が彼の手を止める。「夜（Nacht）」の牢獄（Kerker）を終わらせようとした行為が、「朝（Morgen）」という外的介入によって停止される——「夜」と「朝」の対立が詩劇の構造的反転として機能する。コヘレト第1章v.5「Oritur sol et occidit, et ad locum suum revertitur（太陽は昇り、沈み、その場所へと戻る）」の循環的な朝の太陽が、ここでは「ins Nichts dahin zu fließen（虚無へと流れ込む）」というファウストの決意を食い止める「神の摂理の朝（Morgen）」として機能する：「omnia vanitas（すべては虚無）」と宣言したコヘレトの太陽が、ファウストを虚無から引き止める介入者として現れる逆説。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    }
+  ]
+}
