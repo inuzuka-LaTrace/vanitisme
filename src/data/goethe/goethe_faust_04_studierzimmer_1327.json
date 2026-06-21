@@ -1,0 +1,204 @@
+{
+  "id": "goethe_faust_studierzimmer_1327",
+  "title": "Faust – Erster Teil: Studierzimmer (v.1327–1378)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie erster Teil, Szene: Studierzimmer, v.1327–1378. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_erster_Teil",
+  "year": "1808",
+  "firstPublication": "1808（Faust. Eine Tragödie, Cotta Verlag, Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第一部「書斋Ⅱ（Studierzimmer II）」（v.1327–1378）。犬が変身したメフィストフェレスがファウストに自らの正体を明かす場面。「夜（Nacht）」の地霊との対決（v.482–517）に続く、詩劇全体で最も哲学的に凝縮した対話として位置づけられる。名前への問いと言語哲学的応答（v.1326–1330）。「蝿の神・破壊者・嘘つき」という伝統的悪魔名の列挙と「stets das Böse will und stets das Gute schafft」という逆説的自己規定（v.1331–1336）。「Ich bin der Geist, der stets verneint!（私は常に否定する精神だ）」というドイツ文学史上最も引用される一行（v.1338–1344）。「Ich bin ein Theil des Theils, der Anfangs alles war」という創造宇宙論と光・闇の弁証法的展開（v.1346–1358）。「Das Etwas, diese plumpe Welt」への辟易と「immer zirkulirt ein neues, frisches Blut」という生命力への絶望（v.1362–1378）。VANITISMEの主題軸「vanitas vanitatum」・「afflictio spiritus」・「力・暴力・服従の形而上学」と直接対話する場面。",
+  "keywords": [
+    "Geist der stets verneint",
+    "否定の精神",
+    "Fliegengott",
+    "Beelzebub",
+    "Finsternis und Licht",
+    "Ein Theil des Theils",
+    "stets das Böse will",
+    "immer zirkulirt ein neues Blut",
+    "Flamme",
+    "Nichts"
+  ],
+  "relatedTexts": [
+    "goethe_faust_nacht_354",
+    "goethe_faust_nacht_418",
+    "goethe_faust_nacht_690",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_genesis_1",
+    "george_widerchrist",
+    "weil_atheisme_purificateur",
+    "sologub_v_strane_bezvykhodnoy"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1326",
+      "speaker": "Faust",
+      "original": "Wie nennst du dich?",
+      "provisionalTranslation": "お前はなんと名乗るのか？"
+    },
+    {
+      "id": 2,
+      "verses": "v.1327–1330",
+      "speaker": "Mephistopheles",
+      "original": "Die Frage scheint mir klein,\nFür einen, der das Wort so sehr verachtet,\nDer, weit entfernt von allem Schein,\nNur in der Wesen Tiefe trachtet.",
+      "provisionalTranslation": "その質問は小さいと思われますね、\nかほど言葉を蔑む方には、\nあらゆる仮象から遠く離れて、\n事物の本質の深みだけを求める方には。"
+    },
+    {
+      "id": 3,
+      "verses": "v.1331–1335a",
+      "speaker": "Faust",
+      "original": "Bey euch, ihr Herrn, kann man das Wesen\nGewöhnlich aus dem Namen lesen,\nWo es sich allzu deutlich weis't,\nWenn man euch Fliegengott, Verderber, Lügner heißt.\nNun gut wer bist du denn?",
+      "provisionalTranslation": "あなた方、皆さんのところでは、その本質を\n通常は名前から読み取ることができる、\nそれがあまりにも明白に示される時、\n蝿の神、破壊者、嘘つきと呼ばれる場合に。\nさて、では一体お前は誰だ？"
+    },
+    {
+      "id": 4,
+      "verses": "v.1335b–1336",
+      "speaker": "Mephistopheles",
+      "original": "Ein Theil von jener Kraft,\nDie stets das Böse will und stets das Gute schafft.",
+      "provisionalTranslation": "ある力の一部、\n常に悪を欲し常に善を作り出す力の。"
+    },
+    {
+      "id": 5,
+      "verses": "v.1337",
+      "speaker": "Faust",
+      "original": "Was ist mit diesem Räthselwort gemeynt?",
+      "provisionalTranslation": "この謎めいた言葉はいかなる意味か？"
+    },
+    {
+      "id": 6,
+      "verses": "v.1338–1344",
+      "speaker": "Mephistopheles",
+      "original": "Ich bin der Geist der stets verneint!\nUnd das mit Recht; denn alles was entsteht\nIst werth daß es zu Grunde geht;\nDrum besser wär's daß nichts entstünde.\nSo ist denn alles was ihr Sünde,\nZerstörung, kurz das Böse nennt,\nMein eigentliches Element.",
+      "provisionalTranslation": "私は常に否定する精神だ！\nそしてそれは正当なことだ；なぜならば生じるものすべては\n滅びるに値するから；\nだから何も生じない方がより良かろう。\nそれゆえ、お前たちが罪と、\n破壊と、要するに悪と呼ぶものすべてが、\n私の本来の元素なのだ。"
+    },
+    {
+      "id": 7,
+      "verses": "v.1345",
+      "speaker": "Faust",
+      "original": "Du nennst dich einen Theil, und stehst doch ganz vor mir?",
+      "provisionalTranslation": "お前は自分を一部と呼ぶ、しかし完全にここに立っているではないか？"
+    },
+    {
+      "id": 8,
+      "verses": "v.1346–1358",
+      "speaker": "Mephistopheles",
+      "original": "Bescheidne Wahrheit sprech' ich dir.\nWenn sich der Mensch, die kleine Narrenwelt,\nGewöhnlich für ein Ganzes hält;\nIch bin ein Theil des Theils, der Anfangs alles war,\nEin Theil der Finsterniß, die sich das Licht gebar,\nDas stolze Licht, das nun der Mutter Nacht\nDen alten Rang, den Raum ihr streitig macht,\nUnd doch gelingt's ihm nicht, da es, so viel es strebt,\nVerhaftet an den Körpern klebt.\nVon Körpern strömt's, die Körper macht es schön,\nEin Körper hemmt's auf seinem Gange,\nSo, hoff' ich, dauert es nicht lange\nUnd mit den Körpern wird's zu Grunde gehn.",
+      "provisionalTranslation": "謙虚な真実をお前に語ろう。\n人間というもの、この小さな愚か者の世界は、\n通常自分を全体と思い込んでいる；\n私は始まりにすべてであったものの部分の部分、\n光を生んだ暗闇の一部、\nその誇り高き光は今、母なる夜から\n古い地位と場所を争い取ろうとしている、\nしかしそれはうまくいかない、いかに努力しても、\n物体に縛り付けられたままだから。\n物体から光は流れ出し、物体を美しくする、\nしかし物体がその行く手を阻む、\nそれゆえ、私は願う、長くはかかるまいと——\n光は物体とともに滅びていくだろうと。"
+    },
+    {
+      "id": 9,
+      "verses": "v.1359–1361",
+      "speaker": "Faust",
+      "original": "Nun kenn' ich deine würd'gen Pflichten!\nDu kannst im Großen nichts vernichten\nUnd fängst es nun im Kleinen an.",
+      "provisionalTranslation": "今、お前の立派な義務がわかった！\nお前は大きいことでは何も滅ぼせず\n今は小さいことで始めているわけだ。"
+    },
+    {
+      "id": 10,
+      "verses": "v.1362–1378",
+      "speaker": "Mephistopheles",
+      "original": "Und freylich ist nicht viel damit gethan.\nWas sich dem Nichts entgegenstellt,\nDas Etwas, diese plumpe Welt,\nSo viel als ich schon unternommen\nIch wußte nicht ihr beyzukommen,\nMit Wellen, Stürmen, Schütteln, Brand,\nGeruhig bleibt am Ende Meer und Land!\nUnd dem verdammten Zeug, der Thier- und Menschenbrut,\nDem ist nun gar nichts anzuhaben,\nWie viele hab' ich schon begraben!\nUnd immer zirkulirt ein neues, frisches Blut.\nSo geht es fort, man möchte rasend werden!\nDer Luft, dem Wasser, wie der Erden\nEntwinden tausend Keime sich,\nIm Trocknen, Feuchten, Warmen, Kalten!\nHätt' ich mir nicht die Flamme vorbehalten;\nIch hätte nichts apart's für mich.",
+      "provisionalTranslation": "そして確かにそれで大してなされることもない。\n虚無に立ち向かうもの、\nあの何かというもの、この粗野な世界は、\n私がこれまでどれほど企てても\nそれに近づくことができなかった、\n波と嵐と揺れと火をもってしても、\n結局のところ海と大地は静かなままだ！\nそしてあの呪われた代物、動物と人間の群れには、\nそもそもどうにもならない、\n私はすでに多くを葬ってきた！\nしかし常に新しい新鮮な血が循環する。\nそうやってそれは続く、人は気が狂いそうになる！\n空気にも、水にも、大地にも\n千の種子が自らを解き放っている、\n乾いた中にも、湿った中にも、温かい中にも、冷たい中にも！\nもし私が炎を自分のために留保していなかったなら、\n私には何も固有のものがなかった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Wie nennst du dich?",
+      "body": "「お前はなんと名乗るのか（Wie nennst du dich）？」——「Wer bist du?（お前は誰か）」ではなく「Wie nennst du dich?（お前はなんと名乗るか）」という問いの立て方に注目すべきである：存在（Sein）への問いではなく、自己命名行為（sich nennen）への問いとして出発する。「nennen（名乗る・命名する）」という動詞が再帰形「sich nennen（自らをXと呼ぶ）」として使われることで、名前が固定した本質ではなく自己言及的な行為として提示される。同場面の直前「書斎I（Studierzimmer I）」でファウストが「Im Anfang war das Wort（始めに言葉があった）」を翻訳する際「Wie soll ich es übersetzen（どのように訳すべきか）」と問うたように、ここでも「いかに（Wie）」という副詞が問いの焦点をなす：言語と存在の関係への哲学的問いの連続。",
+      "targetId": "goethe_faust_nacht_354"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Für einen, der das Wort so sehr verachtet,\nDer, weit entfernt von allem Schein,\nNur in der Wesen Tiefe trachtet.",
+      "body": "「かほど言葉（Wort）を蔑む方には、あらゆる仮象（Schein）から遠く離れて、事物の本質（Wesen）の深み（Tiefe）だけを求める方には（Für einen, der das Wort so sehr verachtet, / Der, weit entfernt von allem Schein, / Nur in der Wesen Tiefe trachtet）」——メフィストがファウスト自身の言語哲学と存在論的欲望を三つの形容詞節で正確に描写して返す。「das Wort verachten（言葉を蔑む）」は直前の翻訳場面でのファウストの行為への参照；「allem Schein（あらゆる仮象）から遠く離れて」はプラトン的本質—現象の二項対立へのファウストの傾斜；「Wesen Tiefe（本質の深み）」は「夜」の独白での「was die Welt / Im Innersten zusammenhält（世界を最奥の部分で繋ぎ止めているもの）」という欲望の反響。メフィストは名乗ることを拒みながら、問い手であるファウストの自己像を鏡のように返すことで、実質的に「お前が求めているものを私は知っている」と宣言している。",
+      "targetId": "goethe_faust_nacht_418",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Fliegengott, Verderber, Lügner",
+      "body": "「蝿の神、破壊者、嘘つき（Fliegengott, Verderber, Lügner）」——西洋の悪魔論における三つの伝統的称号の列挙。「Fliegengott（蝿の神）」はベルゼブブ（Baal-Zebub / Beelzebub）のドイツ語訳——ヘブライ語「בַּעַל זְבוּב（バアル・ズブブ）」は「蝿のバアル・蝿の主」の意。列王記下第1章v.2でエクロンの神として登場し、新約聖書では「悪魔の頭（Oberhaupt der Teufel）」として機能する（マタイ12:24）。「Verderber（破壊者）」は黙示録第9章v.11に登場する「底知れぬ所の天使の王」アポリュオン（Ἀπολλύων）の意訳。「Lügner（嘘つき）」はヨハネ福音書第8章v.44「嘘つきの父（der Vater der Lüge）」という悪魔の定式的称号。ファウストが「euch（お前たち）」と複数形で語りかける点が重要：単一の悪魔ではなく悪魔的なものの類型として問われ、メフィストはその類型化を次の段落で「Ein Theil（一つの力の部分）」という特殊化によって脱却しようとする。",
+"targetId": "hieronymus_apocalypsis_9",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Die stets das Böse will und stets das Gute schafft.",
+      "body": "「常に悪を欲し常に善を作り出す（Die stets das Böse will und stets das Gute schafft）」——ゲーテ『ファウスト』全体で最も引用される二行の一つ。「stets（常に）」という副詞の二重の反復が「悪への意志（das Böse will）」と「善の実現（das Gute schafft）」を同一主体の永続的な二重運動として定式化する：目的と結果の逆転という逆説的弁証法。ヨブ記第1章でサタンが「告発者」として神の法廷に機能しながら、結果的にヨブの信仰の深化を産み出すという構造との照応：悪を意図する者が善を産出する逆説の聖書的先行形として位置づけられる。ヴェイユ「Décréation」の「神は私たちを苦悩によってではなく、喜びによってわれわれの核へと近づける」という逆説とも照応する：破壊の力が浄化・高揚の媒介として機能する神学的逆転。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Was ist mit diesem Räthselwort gemeynt?",
+      "body": "「この謎めいた言葉はいかなる意味か（Was ist mit diesem Räthselwort gemeynt）？」——「Räthselwort（謎めいた言葉）」という複合語がメフィストの「Ein Theil von jener Kraft, / Die stets das Böse will und stets das Gute schafft」という発話を明示的に「謎（Räthsel）」として指示する。ファウストが「謎」と呼ぶことで、自分が「解読の達人」であることを誇示しながらも、問い直す必要があるという知的な不確実性を認める——「夜」の独白で「wir nichts wissen können（私たちは何も知ることができない）」と絶望した認識論的謙虚さの痕跡として読める。「gemeynt（意味される・意図される）」という受動態が語の「意味（Meynung）」と発話者の「意図（Meinen）」の二重性を示す：言葉がどういう意味かではなく「何を意図して言われているのか」への問い。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Ich bin der Geist der stets verneint!",
+      "body": "「私は常に否定する精神だ（Ich bin der Geist, der stets verneint）！」——ドイツ文学史上最も引用される一行にして、メフィストフェレスという人物の最も凝縮された自己規定。「stets（常に）」という副詞が否定の絶対的・永続的・例外なき性格を定式化する：一度限りの否定ではなく「原理としての否定（Prinzip der Verneinung）」。「verneinen（否定する）」は「nein（否・いいえ）」から派生し、存在論的・認識論的・道徳的な「否」のあらゆる次元を含む。「der Geist（その精神）」という定冠詞が「普遍的原理」としての否定の精神を示す：「eine der Kräfte（力の一つ）」ではなく「der Geist（その精神）」という唯一性の主張として機能する。ゲオルゲ「Widerchrist（反キリスト）」での否定の精神の詩的人格化との照応；ソログープの世紀末ニヒリズム（「v strane bezvykhodnoy（出口なき国で）」）との系譜的連結。",
+      "targetId": "george_widerchrist"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Drum besser wär's daß nichts entstünde.",
+      "body": "「だから何も生じない方がより良かろう（Drum besser wär's daß nichts entstünde）」——「Ich bin der Geist der stets verneint!」という原理から論理的に導かれる虚無主義的結論。「alles was entsteht / Ist werth daß es zu Grunde geht（生じるものすべては滅びるに値する）」という普遍的否定命題の帰結として、存在そのものが「滅びるに値する（zu Grunde gehen）」と宣言される。コヘレト第1章v.2「Vanitas vanitatum, et omnia vanitas（虚無の虚無、すべては虚無である）」との照応：コヘレトが「すべては虚無（vanitas）」と観察するのに対し、メフィストは「すべては滅びるに値する」と能動的な絶滅の価値判断として定式化する——観察（コヘレト）と意志（メフィスト）という差異を保ちながら、両者は「存在の無価値性」という命題において一致する。後の「goethe_faust_nacht_690」でのファウストの「ins Nichts dahin zu fließen（虚無へと流れ込む）」という死の決意が、このメフィストの「Nichts」論の文脈で再読される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Du nennst dich einen Theil, und stehst doch ganz vor mir?",
+      "body": "「お前は自分を一部と呼ぶ、しかし完全にここに立っているではないか（Du nennst dich einen Theil, und stehst doch ganz vor mir）？」——ファウストの認識論的鋭さを示す一行。「einen Theil（一部）」と「ganz（完全に）」という部分と全体の対立を一行で定式化する：もし「Theil（部分）」であるなら目の前に「ganz（全体として）」存在することができるはずがないという論理的矛盾への指摘。第1段落のファウストの問い「Wie nennst du dich?」から一歩進んで、メフィストの自己規定の内的矛盾を問うという弁証法的深化として機能する。メフィストは次の段落（v.1346–1358）でこれを「Bescheidne Wahrheit（謙虚な真実）」として引き受け、「Theil des Theils（部分の部分）」という精緻化によって回答する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Ich bin ein Theil des Theils, der Anfangs alles war,",
+      "body": "「私は始まりにすべてであったものの部分の部分（Ich bin ein Theil des Theils, der Anfangs alles war）」——「Du nennst dich einen Theil, und stehst doch ganz vor mir?」というファウストの逆説的問いへの回答として提示される存在論的自己規定。「Theil des Theils（部分の部分）」という入れ子状の縮小構造が、創造以前の状態（Anfangs = In principio）への遡行として機能する：メフィストは単なる「悪魔」ではなく「創造以前の混沌・闇がその後縮小を重ねてきた現在形」として自己を位置づける。ヒエロニムス訳創世記第1章v.1「In principio creavit Deus caelum et terram（始めに神は天と地を創造した）」のその「始め（principio）」以前——「terra autem erat inanis et vacua（地は混沌として空虚であった）」という tohu wa-vohu の状態への参照として、メフィストは「創造の前の始まり」から自らの系譜を引く。",
+      "targetId": "hieronymus_genesis_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Ein Theil der Finsterniß, die sich das Licht gebar,\nDas stolze Licht, das nun der Mutter Nacht\nDen alten Rang, den Raum ihr streitig macht,",
+      "body": "「光を生んだ暗闇の一部、その誇り高き光は今、母なる夜から古い地位と場所を争い取ろうとしている（Ein Theil der Finsterniß, die sich das Licht gebar, / Das stolze Licht, das nun der Mutter Nacht / Den alten Rang, den Raum ihr streitig macht）」——創世記の光の創造（「Fiat lux（光あれ）」）を「暗闇による光の自己産出」として反転させる詩的宇宙論。神の超越的創造ではなく暗闇の内在的生成として光の起源を提示する：「die sich das Licht gebar（光を自ら生んだ暗闇）」という再帰的構造が「産む」という母性的行為の主体を暗闇に帰属させる。「das stolze Licht（誇り高き光）」という擬人化が光を「傲慢（Hochmut）」の存在として批判的に提示する：母（Mutter Nacht）を追い出そうとする不孝な子の比喩。韻律上：この13行は長短不規則な行が混在し、光と闇の「streitig（争う）」状態が詩行の韻律的不均衡として体現される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Du kannst im Großen nichts vernichten\nUnd fängst es nun im Kleinen an.",
+      "body": "「お前は大きいことでは何も滅ぼせず、今は小さいことで始めているわけだ（Du kannst im Großen nichts vernichten / Und fängst es nun im Kleinen an）」——ファウストによるメフィストの能力への揶揄的な結論。「im Großen（大きく・宏大に）」対「im Kleinen（小さく・こまごまと）」という対比が、直後のメフィストの長大な自己弁護（v.1362–1378）を引き出す：ファウストの批判がメフィストに「宇宙的な破壊の失敗」を告白させる契機として機能する。ヴェイユ「La Violence」の核心命題「力は常に動き回り、常に失敗する」との照応：メフィストの「Großen（大きいこと）での失敗」が「力は自らが及ぼし損ねたものによって定義される」というヴェイユ的な力の限界として読める。「Nun kenn' ich deine würd'gen Pflichten!（今、お前の立派な義務がわかった）」という感嘆がファウストの主導権の一時的奪回を示す。",
+      "targetId": "weil_atheisme_purificateur"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Und immer zirkulirt ein neues, frisches Blut.",
+      "body": "「しかし常に新しい新鮮な血が循環する（Und immer zirkulirt ein neues, frisches Blut）」——破壊の試みを無効化する生命力の循環という逆説。「Wie viele hab' ich schon begraben!（私はすでに多くを葬ってきた！）」という蓄積的な破壊の後に「immer zirkulirt（常に循環する）」という永続的な生命の復元が対置される。コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り、世代は来る。しかし大地は永遠に立ち続ける）」との照応：コヘレトでは世代の「循環」が人間の無常を際立たせる背景として機能するが、メフィストにとってはその同じ「循環」が破壊計画を挫折させる根本的障害として体験される。「immer（常に）」という副詞が「Ich bin der Geist, der stets verneint」の「stets（常に）」と対照をなす：「常に否定する」メフィストに対して「常に循環する」生命力という対立構造が詩劇全体の根本的張力を形成する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Hätt' ich mir nicht die Flamme vorbehalten;\nIch hätte nichts apart's für mich.",
+      "body": "「もし私が炎を自分のために留保していなかったなら、私には何も固有のものがなかった（Hätt' ich mir nicht die Flamme vorbehalten; / Ich hätte nichts apart's für mich）」——場面全体の締め括り。波・嵐・揺れ・火という四大元素的な破壊の試みが「Geruhig bleibt am Ende Meer und Land!（結局のところ海と大地は静かなままだ）」という自然の粘りによって敗退した末に、メフィストに残る固有の領域（apart's = etwas Eigenes）は「炎（Flamme）」のみとなる。接続法II式（Hätt' ich mir nicht...）が「炎さえなければ完全な無力」という崖っぷちの状況を示す：破壊の精神にとって「地獄の炎」だけが機能する最後の手段。プロメテウス神話の反転として読める：プロメテウスが神々から「炎を盗んで」人間に与えたのに対し、メフィストは「炎を（人間から）取り上げて」自分のために留保する。前テキスト（goethe_faust_nacht_690）でファウストが「um dessen engen Mund die ganze Hölle flammt（その狭い入り口の周りに地獄全体が燃え盛る）」と語った「地獄の炎」が、ここでメフィスト自身の「唯一の固有領域」として確認される内部参照。",
+      "targetId": "goethe_faust_nacht_690",
+      "targetParagraphId": 2
+    }
+  ]
+}
