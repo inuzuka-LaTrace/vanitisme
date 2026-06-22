@@ -1,0 +1,202 @@
+{
+  "id": "goethe_faust_gretchens_stube_3374",
+  "title": "Faust – Erster Teil: Gretchens Stube (v.3374–3413)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie erster Teil, Szene: Gretchens Stube, v.3374–3413. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_erster_Teil",
+  "year": "1808",
+  "firstPublication": "1808（Faust. Eine Tragödie, Cotta Verlag, Tübingen）。ただし原型は『原ファウスト（Urfaust）』c.1774（刊行1887）に遡る。",
+  "difficulty": "中級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第一部「グレートヒェンの部屋（Gretchens Stube）」（v.3374–3413）。糸車の働く音を背景に独り座るグレートヒェンによる独白歌。詩劇全体における最も純粋な抒情詩的場面であり、ドイツ文学史上最も有名なLied（歌曲）の一つ。「Meine Ruh' ist hin（私の安らぎは去った）」という開始句は、ゲーテが1774年頃の『原ファウスト（Urfaust）』から書き始め民謡的形式で素描したが、シューベルト（Franz Schubert, 1797–1828）による楽曲化（D.118, 1814年頃）がこの歌を世界的に広めた。構造：「Meine Ruh' ist hin / Mein Herz ist schwer」という四行のリフレインが三度繰り返される（第1・4・8連）。その間に六つの中間連が、①彼の不在と世界の毒（v.3378–3385）、②外への志向・彼の肇体美の列挙・言葉と口づけへの上昇（v.3390–3401）、③胸の渇望と口づけの中での自己溈滅（v.3406–3413）という三段階で展開する。「Vergehen sollt'（消え去ってしまいたい）」という最終行が、欲望の頂点において自己消滅・死への融入という逆説的な完成を告げる。コヘレト的「afflictio spiritus（霊の苦悩）」の最も純粋な詩的変奏として位置づけられると同時に、ヴェイユ「Décréation（脱創造）」の「愛によって自己を無化する」という神秘主義的命題との深い照応を持つ。ダンテ地獄篇第5歌のフランチェスカ・ダ・リミニの「愛が愛する人への愛を余儀なくさせた（Amor, ch'a nullo amato amar perdona）」という宣告も多重に反響する。",
+  "keywords": [
+    "Meine Ruh ist hin",
+    "Gretchens Stube",
+    "Spinnrade",
+    "Lied",
+    "Refrain",
+    "Zauberfluß",
+    "Vergehen",
+    "afflictio spiritus",
+    "Liebestod",
+    "糸車"
+  ],
+  "relatedTexts": [
+    "goethe_faust_nacht_354",
+    "goethe_faust_studierzimmer_1327",
+    "hieronymus_ecclesiastes_1",
+    "weil_decreation",
+    "weil_accepter_le_vide",
+    "dante_inferno_canto_5",
+    "verlaine_chanson_dautomne"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.3374–3377",
+      "speaker": "Gretchen",
+      "original": "Meine Ruh' ist hin,\nMein Herz ist schwer;\nIch finde sie nimmer\nund nimmermehr.",
+      "provisionalTranslation": "私の安らぎは去ってしまった、\n私の心は重い；\n私はそれをもう二度と\n見つけられないだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.3378–3381",
+      "speaker": "Gretchen",
+      "original": "Wo ich ihn nicht hab'\nIst mir das Grab,\nDie ganze Welt\nIst mir vergällt.",
+      "provisionalTranslation": "彼がいないところでは\n私には墓も同然、\n世界全体が\n私には毒になっている。"
+    },
+    {
+      "id": 3,
+      "verses": "v.3382–3385",
+      "speaker": "Gretchen",
+      "original": "Mein armer Kopf\nIst mir verrückt,\nMeiner armer Sinn\nIst mir zerstückt.",
+      "provisionalTranslation": "哀れな私の頭は\nおかしくなってしまった、\n哀れな私の心は\n引き裂かれてしまった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.3386–3389",
+      "speaker": "Gretchen",
+      "original": "Meine Ruh' ist hin,\nMein Herz ist schwer,\nIch finde sie nimmer\nund nimmermehr.",
+      "provisionalTranslation": "私の安らぎは去ってしまった、\n私の心は重い、\n私はそれをもう二度と\n見つけられないだろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.3390–3393",
+      "speaker": "Gretchen",
+      "original": "Nach ihm nur schau' ich\nZum Fenster hinaus,\nNach ihm nur geh' ich\nAus dem Haus.",
+      "provisionalTranslation": "彼だけを求めて私は\n窓から外を見る、\n彼だけを求めて私は\n家を出ていく。"
+    },
+    {
+      "id": 6,
+      "verses": "v.3394–3397",
+      "speaker": "Gretchen",
+      "original": "Sein hoher Gang,\nSein' edle Gestalt,\nSeines Mundes Lächeln,\nSeiner Augen Gewalt,",
+      "provisionalTranslation": "彼の高貴な歩み、\n彼の気高い姿、\n彼の口の微笑み、\n彼の瞳の力、"
+    },
+    {
+      "id": 7,
+      "verses": "v.3398–3401",
+      "speaker": "Gretchen",
+      "original": "Und seiner Rede\nZauberfluß,\nSein Händedruck,\nUnd ach sein Kuß!",
+      "provisionalTranslation": "そして彼の言葉の\n魔法の流れ、\n彼の手の握り、\nそしてああ彼の口づけ！"
+    },
+    {
+      "id": 8,
+      "verses": "v.3402–3405",
+      "speaker": "Gretchen",
+      "original": "Meine Ruh' ist hin,\nMein Herz ist schwer,\nIch finde sie nimmer\nUnd nimmermehr.",
+      "provisionalTranslation": "私の安らぎは去ってしまった、\n私の心は重い、\n私はそれをもう二度と\n見つけられないだろう。"
+    },
+    {
+      "id": 9,
+      "verses": "v.3406–3409",
+      "speaker": "Gretchen",
+      "original": "Mein Busen drängt\nSich nach ihm hin,\nAch dürft' ich fassen\nUnd halten ihn!",
+      "provisionalTranslation": "私の胸は\n彼へと向かって押し寄せる、\nああ彼をつかまえて\n抱いていられたなら！"
+    },
+    {
+      "id": 10,
+      "verses": "v.3410–3413",
+      "speaker": "Gretchen",
+      "original": "Und küssen ihn\nSo wie ich wollt',\nAn seinen Küssen\nVergehen sollt'!",
+      "provisionalTranslation": "そして彼に口づけを\nしたいだけ、\n彼の口づけの中で\n消え去ってしまいたい！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Meine Ruh' ist hin,\nMein Herz ist schwer;\nIch finde sie nimmer\nund nimmermehr.",
+      "body": "「私の安らぎは去ってしまった、私の心は重い；私はそれをもう二度と見つけられないだろう」——ゲーテが民謡（Volkslied）の形式から創出したLied（歌謡）の定式的な四行連（Vierzeiler）。二拍のアンペスト（弱弱強）と二拍のヤンプス（弱強）が混在する不規則韻律が民謡的な素朴さを作り出す。「hin（去った・失われた）」という副詞が完了した喪失の不可逆性を示し、「nimmer und nimmermehr（もう二度と）」という畳み掛けが時間的な永続性として確定する。「sie（それを）」という代名詞の指示対象が「Ruh'（安らぎ）」であることで、欠如しているのは「彼（ihn）」ではなく「安らぎ（Ruh'）」として詩的に距離化される：直接の愛の告白ではなく内的状態の喪失として提示する婉曲法。シューベルトによる楽曲化（D.118, 1814年頃）では糸車の回転音がピアノ右手の十六分音符の連続運動として模倣される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Mein Herz ist schwer;",
+      "body": "「私の心は重い（Mein Herz ist schwer）」——コヘレト第1章v.17「agnovi quod in his quoque esset labor et afflictio spiritus（これらの中にもまた労苦と霊の苦悩があることを悟った）」の「afflictio spiritus（霊の苦悩）」の詩的変容として機能する。コヘレトでは「afflictio」が知識と探求の帰結として経験されるのに対し、グレートヒェンの「Herz ist schwer（心が重い）」は愛の不在という存在的経験として現れる——両者において「重さ（Schwere）」は霊・心の苦悩の物質的な比喩として一致する。ヴェイユ「Pesanteur et Grâce（重力と恩寵）」での「pesanteur（重力・重さ）」という概念——地上の力学的法則に縛られたすべての魂の「重さ」——が、グレートヒェンの「schwer（重い）」という一語において凝縮して現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 17
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ist mir das Grab,\nDie ganze Welt\nIst mir vergällt.",
+      "body": "「彼がいないところでは私には墓も同然、世界全体が私には毒になっている（Ist mir das Grab, / Die ganze Welt / Ist mir vergällt）」——「Wo ich ihn nicht hab'（彼がいないところでは）」という条件節が設定する、彼の不在と死の等価化。「Grab（墓）」という語が愛の不在を死として定義する：彼がいなければ自分は生きていても「墓の中にいる」という逆説。「vergällt（毒を入れられた・苦くされた）」という動詞——「Galle（胆汁・苦汁）」から派生——が「Die ganze Welt（世界全体）」という宇宙的な広がりに作用する：愛の不在が世界全体を毒する全体的苦痛として提示される。コヘレト第1章v.14「universa vanitas et afflictio spiritus（すべては虚無であり、霊の苦悩である）」という宇宙的な虚無の宣言との照応：コヘレトの「太陽の下のすべて」がグレートヒェンにとって「彼なしの世界全体」として等価化される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Mein armer Kopf\nIst mir verrückt,\nMeiner armer Sinn\nIst mir zerstückt.",
+      "body": "「哀れな私の頭はおかしくなってしまった、哀れな私の心は引き裂かれてしまった（Mein armer Kopf / Ist mir verrückt, / Meiner armer Sinn / Ist mir zerstückt）」——二組の動詞の語源的分析が意味を深める。「verrückt」：「ver-rückt（動かし去られた）」——「rücken（動かす）」の完了分詞形。現代ドイツ語では「気が狂った（crazy）」の意味を持つが、本来は「本来の場所から動かされた（displaced from its proper place）」という物理的な意味を持つ：「頭が本来の位置からずれてしまった」。「zerstückt」：「zer-stückt（バラバラに切り裂かれた）」——「zerstückeln（細切れにする）」の完了分詞形。「Sinn（心・感覚・精神）」が「バラバラに切り刻まれた」という物理的・外科的なイメージ。対句「armer Kopf / armer Sinn（哀れな頭 / 哀れな心）」が理性（Kopf）と感性（Sinn）の双方の崩壊として内的崩壊の二重性を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Meine Ruh' ist hin,\nMein Herz ist schwer,\nIch finde sie nimmer\nund nimmermehr.",
+      "body": "第二のリフレイン（第4連）。第一リフレイン（para 1）との唯一の相違点は「Mein Herz ist schwer;」の末尾記号：第1連はセミコロン（;）、第4連はコンマ（,）。この記号の変化が詩的にはほぼ無音だが、語り手の心理状態の微妙な変化——第1連の「重さ」の孤立した宣言から第4連の「流れ続ける重さ」への移行——を示唆する解釈もある。ゲーテが背景として想定した糸車の回転運動との対応：リフレインは糸車の回転が一周するたびに規則的に戻ってくる機械的反復として機能する——愛の苦悩が「糸車のような止まらない循環」として表現される。シューベルト楽曲（D.118）では、リフレインの各回で和声的な緊張度が高まり、単純な反復を心理的進行として音楽化している。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Nach ihm nur schau' ich\nZum Fenster hinaus,",
+      "body": "「彼だけを求めて私は窓から外を見る（Nach ihm nur schau' ich / Zum Fenster hinaus）」——「窓（Fenster）」という空間的モチーフが内部（Gretchens Stube）と外部（ファウストのいる世界）の境界として機能する。「nur（だけ・ただ〜のみ）」という排他的な副詞が二度繰り返される（「Nach ihm nur schau' ich / Zum Fenster hinaus, / Nach ihm nur geh' ich / Aus dem Haus」）：彼への志向が他の一切を排除した唯一の目的として定式化される。窓から外へのまなざしという主題は西洋抒情詩における「隔絶された女性の待望（alba / Wächterruf）」の伝統と接続する：女性が空間的に閉じ込められながら外部へのまなざしだけを持つという抒情詩的慣例。ローデンバック「窓」「部屋の生」のモチーフとの照応：閉じた内部空間からの外部への渇望という象徴主義的モチーフの先駆的形象。",
+      "targetId": "rodenbach_la_vie_des_chambres"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Seines Mundes Lächeln,\nSeiner Augen Gewalt,",
+      "body": "「彼の口の微笑み、彼の瞳の力（Seines Mundes Lächeln, / Seiner Augen Gewalt）」——第6連は「Sein（彼の）」という所有代名詞の連続的な列挙によって構成される：「Sein hoher Gang（歩み）」「Sein' edle Gestalt（姿）」「Seines Mundes Lächeln（口の微笑み）」「Seiner Augen Gewalt（瞳の力）」という四要素の身体的属性の上昇的列挙。「上から下へ」ではなく「歩み（Gang）→ 全体の姿（Gestalt）→ 口（Mund）→ 目（Augen）」という視点の動きが、ファウストへのグレートヒェンの視線の軌跡を追う。「Gewalt（力・暴力・支配力）」という語が「瞳（Augen）」に付される：ファウストの目の「力（Gewalt）」は「魅惑」であると同時に「支配・暴力」の含意を持つ——ヴェイユ「La Violence」での「力は人間を物体に変える」という命題が、ここではグレートヒェンが「ファウストの瞳の Gewalt（力/暴力）によって物体化される」過程として現れる。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Und seiner Rede\nZauberfluß,",
+      "body": "「そして彼の言葉の魔法の流れ（Und seiner Rede / Zauberfluß）」——「Zauberfluß（魔法の流れ）」はゲーテの造語。「Zauber（魔法）」＋「Fluß（流れ・川）」という複合語が、ファウストの言語能力を「止まらない魔法的な流れ（Fluß）」として定義する。この「魔法の流れ」はファウスト（「書斎I」で「Im Anfang war die Tat（始めに行為があった）」と言語を否定した者）とメフィスト（「der das Wort so sehr verachtet（言葉を蔑む者）」と描写した者）の文脈において逆説的である：言語を蔑むファウストの言葉がグレートヒェンに「Zauberfluß（魔法の流れ）」として体験される。第6連（v.3394–3397）から始まった身体的属性の列挙が「歩み→姿→微笑み→瞳→言葉の流れ→手の握り→口づけ」という感覚的上昇をなし、次行の「Und ach sein Kuß!」へと至る。",
+      "targetId": "goethe_faust_studierzimmer_1327",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Und ach sein Kuß!",
+      "body": "「そしてああ彼の口づけ！（Und ach sein Kuß）！」——連の最終行にして列挙の頂点。「ach（ああ）」という感嘆詞が初めて列挙の流れを中断させ、感情的な過剰として「Kuß（口づけ）」を際立たせる。「Und（そして）」という等位接続詞で始まりながら、その後に来るのが「ach（ああ）」という感嘆詞であるため、叙述は論理的な継続ではなく感情的な突破として機能する：一連の列挙が「口づけ」の一語に凝縮される瞬間。この一行の感嘆符（!）が詩全体で唯一ここだけに現れる（第9連v.3409の「Und halten ihn!」と第10連終末までを除く）という強調点として機能する。前節「goethe_faust_nacht_690」での「Der letzte Trunk sey nun, mit ganzer Seele, / Als festlich hoher Gruß, dem Morgen zugebracht!（魂全体をもって朝に捧げよう）」というファウストの「与える」側の感嘆と、ここでのグレートヒェンの「受け取る」側の感嘆が対称的な弧を描く。",
+      "targetId": "goethe_faust_nacht_690",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "Meine Ruh' ist hin,\nMein Herz ist schwer,\nIch finde sie nimmer\nUnd nimmermehr.",
+      "body": "第三のリフレイン（第8連）。第一・第二リフレインとの相違点：「und nimmermehr」が「Und nimmermehr」と大文字化される。この大文字化は単なる表記の差ではなく、「und」が行頭に位置することで「nimmermehr（もう二度と）」という否定がより重い宣言として提示されることを示す。詩全体の中間点（第8連 = 10連中の第8番）に位置するこのリフレインの後に残るのは最も感覚的・肉体的な2連（第9・10連）のみ：リフレインが繰り返されるたびに「永遠の喪失（nimmermehr）」の宣言が、直後に続く肉体的な渇望の描写によって逆説的に強化される。コヘレト第1章v.9「Quid est quod fuit? Ipsum quod futurum est（あったものとは何か？それはこれから来るものである）」という循環的同一性との照応：グレートヒェンのリフレインも「同じもの（安らぎの喪失）」が繰り返されることで、時間が循環として体験されていることを示す。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Mein Busen drängt\nSich nach ihm hin,",
+      "body": "「私の胸は彼へと向かって押し寄せる（Mein Busen drängt / Sich nach ihm hin）」——「Busen（胸・懐・乳房）」という身体的語彙が欲望の座として使用される：感情ではなく身体が意志の主体となる（「sich drängen（押し寄せる・衝き進む）」という再帰動詞）。「Busen（胸）」は詩的語彙として心・感情・身体的な親密さを多義的に指す：ゲーテ自身が詩集や他の詩においても「Busen」を魂と肉体の境界的な感情の座として多用する。「Ach dürft' ich fassen / Und halten ihn!（ああ彼をつかまえて / 抱いていられたなら！）」という接続法II式（dürft' ich = dürfte ich）が非現実の願望を示す：現実にはできないという距離が「Ach（ああ）」という嘆息によって強調される。第3連での「Mein armer Kopf / Ist mir verrückt（頭がおかしくなってしまった）」という認知の崩壊が、ここでは肉体的渇望の身体的衝動として再現される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "An seinen Küssen\nVergehen sollt'!",
+      "body": "「彼の口づけの中で消え去ってしまいたい（An seinen Küssen / Vergehen sollt'）！」——詩全体の頂点にして最終行。「vergehen（消え去る・消滅する・死ぬ）」という動詞が多義的に機能する：①感覚的な「恍惚のあまり意識を失う」、②比喩的な「愛に溶け込む・自我の消滅」、③字義的な「死ぬ・消えてなくなる」。この三義の重なりが「口づけの中での自己消滅」をLiebestod（愛の死）の詩的類型として提示する。ヴェイユ「Décréation（脱創造）」§1「脱創造：被造物から非被造物へ」における「愛によって自己を神に明け渡す（se donner à Dieu）」という神秘主義的自己消滅との構造的照応：グレートヒェンの「口づけの中での消滅（Vergehen）」が世俗的な愛の文脈において「脱創造」的な自己無化として現れる。「sollt'（sollt' = sollte）」という接続法II式が「消えたい」という欲望を「〜であるべき（sollen）」という当然性・必然性として定式化する点も注目される。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "Und küssen ihn\nSo wie ich wollt',",
+      "body": "「そして彼に口づけをしたいだけ（Und küssen ihn / So wie ich wollt'）」——第9連「Ach dürft' ich fassen / Und halten ihn!」から続く、接続法II式の連鎖。「So wie ich wollt'（私が欲するままに）」という意志の自由な表明が、「Vergehen sollt'（消え去るべきだ）」という当然性の宣言と結びつくことで、欲望と自己消滅が等値される：「欲するままに」の結果が「消え去ること」であるという逆説。ダンテ地獄篇第5歌のフランチェスカ・ダ・リミニ「Amor, ch'a nullo amato amar perdona（愛は愛される者に愛することを強いる）」という宣告との照応：どちらも「愛が必然性として主体に迫り、最終的に自己（またはその安らぎ）を消滅させる」という構造を持つ。ただしフランチェスカは地獄の外部の語り手として語るのに対し、グレートヒェンは苦悩の最中に歌う——語りの位置が異なることで、フランチェスカの回顧的絶望とグレートヒェンの現在進行形の渇望という差異が生まれる。",
+      "targetId": "dante_inferno_canto_5"
+    }
+  ]
+}
