@@ -9,7 +9,7 @@
   "category": "goethe",
   "originalLang": "de-DE",
   "modernRelevance": "★★★★★",
-  "context": "ゲーテ『ファウスト』第一部「牢獄Ⅱ（Kerker）」の小分割第一段（v.4405–4459）。メフィストが用意した鍵を持って鉄の扶の前に立つファウストの独白から安除の試み管上のマルガレーテとの対話までを描く。第一部全体の悲劇的終結の小分割第一步。グレートヒェン（マルガレーテ）はファウストとの子を溺死させた嫂として死刑判決を受け、狂気の状態にある。場面は十三の発話セグメントで展開する：①牢獄の扇の前でのファウストの独白（v.4405–4411）。②内部から聴こえるマルガレーテの歌——グリム「マハンデルの木（Von dem Machandelboom）」の変対（v.4412–4420）。③鍵を開けるファウストの観察（v.4421–4422）。④⑤⑥⑦マルガレーテとファウストの短遠形の猟急な応答幸交・狂乱の中の認識の崩壊（v.4423–4426）。⑧⑨腰下から縚く苦憂と若さの哆った討び（v.4427–4440）。⑩ファウストの一行（v.4441）。⑪殺した子への言及と「古い昔話（Mährchen）」の結末（v.4442–4450）。⑫ファウストの趪賐（v.4451–4452）。⑬地獄の幻視（v.4453–4459）。詩劇第一部全体の悲劇的民存にして、ファウストの「燃える般動（goethe_faust_nacht_418）」と「否定の精神の再登場（goethe_faust_kerker_4460以降）」への斧橋となる。",
+  "context": "ゲーテ『ファウスト』第一部「牢獄Ⅱ（Kerker）」の小分割第一段（v.4405–4459）。メフィストが用意した鍵を持って鉄の扶の前に立つファウストの独白から安除の試み管上のマルガレーテとの対話までを描く。第一部全体の悲劇的終結。グレートヒェン（マルガレーテ）はファウストとの子を溺死させた嫂として死刑判決を受け、狂気の状態にある。場面は十三の発話セグメントで展開する：①牢獄の扇の前でのファウストの独白（v.4405–4411）。②内部から聴こえるマルガレーテの歌──グリム「マハンデルの木（Von dem Machandelboom）」の変対（v.4412–4420）。③鍵を開けるファウストの観察（v.4421–4422）。④⑤⑥⑦マルガレーテとファウストの短遠形の猟急な応答幸交・狂乱の中の認識の崩壊（v.4423–4426）。⑧⑨腰下から縚く苦憂と若さの哆った討び（v.4427–4440）。⑩ファウストの一行（v.4441）。⑪殺した子への言及と「古い昔話（Mährchen）」の結末（v.4442–4450）。⑫ファウストの趪賐（v.4451–4452）。⑬地獄の幻視（v.4453–4459）。詩劇第一部全体の悲劇的民存にして、ファウストの「燃える般動（goethe_faust_nacht_418）」と「否定の精神の再登場（goethe_faust_kerker_4460以降）」への架橋となる。",
   "keywords": [
     "Kerker",
     "牢獄",
@@ -130,7 +130,7 @@
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Der Menschheit ganzer Jammer faßt mich an.",
-      "body": "「人類の苦悩の全体が私をとらえる（Der Menschheit ganzer Jammer faßt mich an）」——詩劇全体の中でファウストが「人類（Menschheit）」という語を用いる数少ない箇所の一つ。「ganzer Jammer（苦悩の全体）」という形容詞「ganz（全体の）」が、グレートヒェン個人の苦悩を人類普遍の苦悩として把握する瞬間として機能する：個別の悲劇が宇宙的な「afflictio spiritus（霊の苦悩）」の体現として経験される。コヘレト第1章v.14「vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus（私は太陽の下でなされるすべてを見た。そして見よ、すべては虚無であり、霊の苦悩である）」——コヘレトが「太陽の下でなされるすべて」を見て「afflictio spiritus」を宣言するように、ファウストはグレートヒェンの牢獄の前に立って「人類の苦悩の全体」に捉えられる。",
+      "body": "「人類の苦悩の全体が私をとらえる（Der Menschheit ganzer Jammer faßt mich an）」──詩劇全体の中でファウストが「人類（Menschheit）」という語を用いる数少ない箇所の一つ。「ganzer Jammer（苦悩の全体）」という形容詞「ganz（全体の）」が、グレートヒェン個人の苦悩を人類普遍の苦悩として把握する瞬間として機能する：個別の悲劇が宇宙的な「afflictio spiritus（霊の苦悩）」の体現として経験される。コヘレト第1章v.14「vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus（私は太陽の下でなされるすべてを見た。そして見よ、すべては虚無であり、霊の苦悩である）」──コヘレトが「太陽の下でなされるすべて」を見て「afflictio spiritus」を宣言するように、ファウストはグレートヒェンの牢獄の前に立って「人類の苦悩の全体」に捉えられる。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 14
     },
@@ -138,7 +138,7 @@
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Und ihr Verbrechen war ein guter Wahn!",
-      "body": "「そして彼女の罪は善き妄想だった（Und ihr Verbrechen war ein guter Wahn）！」——詩劇第一部全体で最も凝縮された道徳的逆説の一つ。「Verbrechen（罪・犯罪）」と「guter Wahn（善き妄想・善き錯覚）」の並置が、社会的・法的な罪の定義と内的な善意の動機の断絶を一行に圧縮する：グレートヒェンの「罪」（子殺し）は、彼女の「善き妄想」——愛への信頼・ファウストへの盲目的な信頼——の結果として生じた。「Wahn（妄想・幻想）」という語はファウストの詩劇全体において認識論的キーワードとして機能する：第一部冒頭の「wir nichts wissen können（私たちは何も知ることができない）」という絶望がここで「guter Wahn（善き妄想）」として具体化される。ヴェイユ「La Violence」での「力は罪なき者をも罪人の外形に変える」という命題の文学的体現。",
+      "body": "「そして彼女の罪は善き妄想だった（Und ihr Verbrechen war ein guter Wahn）！」──詩劇第一部全体で最も凝縮された道徳的逆説の一つ。「Verbrechen（罪・犯罪）」と「guter Wahn（善き妄想・善き錯覚）」の並置が、社会的・法的な罪の定義と内的な善意の動機の断絶を一行に圧縮する：グレートヒェンの「罪」（子殺し）は、彼女の「善き妄想」──愛への信頼・ファウストへの盲目的な信頼──の結果として生じた。「Wahn（妄想・幻想）」という語はファウストの詩劇全体において認識論的キーワードとして機能する：第一部冒頭の「wir nichts wissen können（私たちは何も知ることができない）」という絶望がここで「guter Wahn（善き妄想）」として具体化される。ヴェイユ「La Violence」での「力は罪なき者をも罪人の外形に変える」という命題の文学的体現。",
       "targetId": "weil_la_violence",
       "targetParagraphId": 1
     },
@@ -146,13 +146,13 @@
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "Meine Mutter, die Hur,\nDie mich umgebracht hat!\nMein Vater, der Schelm,\nDer mich gessen hat!",
-      "body": "「私の母は売女、私を殺してしまった！私の父はならず者、私を食ってしまった！（Meine Mutter, die Hur, / Die mich umgebracht hat! / Mein Vater, der Schelm, / Der mich gessen hat）！」——グリム童話「マハンデルの木（Von dem Machandelboom, KHM 47）」の殺された子供の歌の変奏。原話では継母に殺された少年が小鳥に変身し、「継母が私を殺した、父が私を食った、妹が骨を拾った」と歌いながら真実を世界に告げる。ここではグレートヒェンが自らを「殺された子供」として歌う逆転が起きる：彼女は「子を殺した者」であると同時に、社会によって「殺される子（犠牲者）」として自らを認識している。「Hur（売女・娼婦）」という語が「母」に付されること——グレートヒェン自身が婚外の子を産んだ「Hur」と呼ばれていること——の鏡像的な自己投影として機能する。"
+      "body": "「私の母は売女、私を殺してしまった！私の父はならず者、私を食ってしまった！（Meine Mutter, die Hur, / Die mich umgebracht hat! / Mein Vater, der Schelm, / Der mich gessen hat）！」──グリム童話「マハンデルの木（Von dem Machandelboom, KHM 47）」の殺された子供の歌の変奏。原話では継母に殺された少年が小鳥に変身し、「継母が私を殺した、父が私を食った、妹が骨を拾った」と歌いながら真実を世界に告げる。ここではグレートヒェンが自らを「殺された子供」として歌う逆転が起きる：彼女は「子を殺した者」であると同時に、社会によって「殺される子（犠牲者）」として自らを認識している。「Hur（売女・娼婦）」という語が「母」に付されること──グレートヒェン自身が婚外の子を産んだ「Hur」と呼ばれていること──の鏡像的な自己投影として機能する。"
     },
     {
       "paragraphId": 2,
       "type": "prosody",
       "anchor": "Da ward ich ein schönes Waldvögelein,\nFliege fort, fliege fort!",
-      "body": "「そして私は美しい森の小鳥になった、飛んで行け、飛んで行け！（Da ward ich ein schönes Waldvögelein, / Fliege fort, fliege fort）！」——童謡の詩形（Volkslied形式）が狂気の言語として機能する。「Fliege fort, fliege fort!（飛んで行け、飛んで行け）」という命令形の反復が、魂の逃避・自由への渇望として読める：鳥への変身（Verwandlung）が死後の魂の解放として神話的に形象化される。v.3374「Gretchens Stube」の「Meine Ruh' ist hin（私の安らぎは去った）」という糸車の歌との対応：あの歌では愛の不在が「安らぎの喪失」として歌われたが、牢獄では愛と子殺しの苦悩が幼児退行的な童謡として表現される——正気と狂気の境界で歌われる言語の崩壊が詩的に実演される。「schönes Waldvögelein（美しい森の小鳥）」という「美しさ（schön）」の形容が直後の「Schön war ich auch（私も美しかった）」という台詞（v.4434）への伏線として機能する。",
+      "body": "「そして私は美しい森の小鳥になった、飛んで行け、飛んで行け！（Da ward ich ein schönes Waldvögelein, / Fliege fort, fliege fort）！」──童謡の詩形（Volkslied形式）が狂気の言語として機能する。「Fliege fort, fliege fort!（飛んで行け、飛んで行け）」という命令形の反復が、魂の逃避・自由への渇望として読める：鳥への変身（Verwandlung）が死後の魂の解放として神話的に形象化される。v.3374「Gretchens Stube」の「Meine Ruh' ist hin（私の安らぎは去った）」という糸車の歌との対応：あの歌では愛の不在が「安らぎの喪失」として歌われたが、牢獄では愛と子殺しの苦悩が幼児退行的な童謡として表現される──正気と狂気の境界で歌われる言語の崩壊が詩的に実演される。「schönes Waldvögelein（美しい森の小鳥）」という「美しさ（schön）」の形容が直後の「Schön war ich auch（私も美しかった）」という台詞（v.4434）への伏線として機能する。",
       "targetId": "goethe_faust_gretchens_stube_3374",
       "targetParagraphId": 1
     },
@@ -160,25 +160,25 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Sie ahndet nicht, daß der Geliebte lauscht,\nDie Ketten klirren hört, das Stroh, das rauscht.",
-      "body": "「彼女は愛する人が聞き耳を立てているのをわかっていない、鎖の鳴る音を聞き、藁の立てる音を（Sie ahndet nicht, daß der Geliebte lauscht, / Die Ketten klirren hört, das Stroh, das rauscht）」——牢獄の音響的記述。「klirren（鳴る）」「rauscht（ざわめく）」という擬音的動詞が、鉄の鎖と藁の床という牢獄の物質的現実を音として提示する：視覚的な描写ではなく聴覚的な描写が「暗闇の中の牢獄」の臨場感を作り出す。「ahndet nicht（わかっていない・気づかない）」という動詞が語り手の視点（外部）と囚人（内部）の情報格差として機能する：観客/読者はファウストが外にいることを知っているが、マルガレーテは知らない。この「知らない（ahndet nicht）」という情報の非対称性が、直後のマルガレーテの「Bittrer Tod!（苦い死よ！）」という誤解を悲劇的アイロニーとして提示する。"
+      "body": "「彼女は愛する人が聞き耳を立てているのをわかっていない、鎖の鳴る音を聞き、藁の立てる音を（Sie ahndet nicht, daß der Geliebte lauscht, / Die Ketten klirren hört, das Stroh, das rauscht）」──牢獄の音響的記述。「klirren（鳴る）」「rauscht（ざわめく）」という擬音的動詞が、鉄の鎖と藁の床という牢獄の物質的現実を音として提示する：視覚的な描写ではなく聴覚的な描写が「暗闇の中の牢獄」の臨場感を作り出す。「ahndet nicht（わかっていない・気づかない）」という動詞が語り手の視点（外部）と囚人（内部）の情報格差として機能する：観客/読者はファウストが外にいることを知っているが、マルガレーテは知らない。この「知らない（ahndet nicht）」という情報の非対称性が、直後のマルガレーテの「Bittrer Tod!（苦い死よ！）」という誤解を悲劇的アイロニーとして提示する。"
     },
     {
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Weh! Weh! Sie kommen. Bittrer Tod!",
-      "body": "「ああ！ああ！彼らがやってくる。苦い死よ（Weh! Weh! Sie kommen. Bittrer Tod）！」——「Weh（ああ・苦しみ）」という感嘆詞の二重反復が苦悩の最初の爆発として機能する。「Sie kommen（彼らがやってくる）」——マルガレーテは鎖の音と扉の開く音を執行者の到来として解釈する：「愛する人（Geliebter = Faust）」の到来が「死刑執行人（Henker）」の到来として体験されるという悲劇的な認識の倒立。「Bittrer Tod（苦い死）」という呼格が、v.4429「Erbarme dich und laß mich leben!（憐れんでくれ、生かしておいてくれ）」と「Bittrer Tod!」という生への渇望と死への恐怖の間にマルガレーテを位置づける。コヘレト第4章v.2「laudavi magis mortuos quam viventes（私は生きている者よりも既に死んだ者の方を称えた）」の「死への渇望」との逆照応：コヘレトが「死の方が生より幸い」と述べる位置に、マルガレーテは「まだ生きたい」と叫ぶ。"
+      "body": "「ああ！ああ！彼らがやってくる。苦い死よ（Weh! Weh! Sie kommen. Bittrer Tod）！」──「Weh（ああ・苦しみ）」という感嘆詞の二重反復が苦悩の最初の爆発として機能する。「Sie kommen（彼らがやってくる）」──マルガレーテは鎖の音と扉の開く音を執行者の到来として解釈する：「愛する人（Geliebter = Faust）」の到来が「死刑執行人（Henker）」の到来として体験されるという悲劇的な認識の倒立。「Bittrer Tod（苦い死）」という呼格が、v.4429「Erbarme dich und laß mich leben!（憐れんでくれ、生かしておいてくれ）」と「Bittrer Tod!」という生への渇望と死への恐怖の間にマルガレーテを位置づける。コヘレト第4章v.2「laudavi magis mortuos quam viventes（私は生きている者よりも既に死んだ者の方を称えた）」の「死への渇望」との逆照応：コヘレトが「死の方が生より幸い」と述べる位置に、マルガレーテは「まだ生きたい」と叫ぶ。"
     },
     {
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Still! Still! ich komme, dich zu befreyen.",
-      "body": "「静かに！静かに！私はお前を自由にしに来た（Still! Still! ich komme, dich zu befreyen）」——舞台指示「Faust leise（ファウスト、小声で）」に続く台詞。「Still! Still!（静かに！静かに！）」という反復命令形が「Weh! Weh!（ああ！ああ！）」というマルガレーテの感嘆の反響として音韻的に対応する。「befreyen（自由にする・解放する）」という語が「Jammerknechtschaft aufzuschließen（惨めさの束縛を解き放つ）」（v.4451）とともに詩劇の「自由（Freiheit）」概念を提示する：ファウストの「解放」の試みが、マルガレーテにとって「執行者の到来」として誤解され続けることで、「解放」の言語が機能しないという悲劇的な意思疎通の失敗を定式化する。"
+      "body": "「静かに！静かに！私はお前を自由にしに来た（Still! Still! ich komme, dich zu befreyen）」──舞台指示「Faust leise（ファウスト、小声で）」に続く台詞。「Still! Still!（静かに！静かに！）」という反復命令形が「Weh! Weh!（ああ！ああ！）」というマルガレーテの感嘆の反響として音韻的に対応する。「befreyen（自由にする・解放する）」という語が「Jammerknechtschaft aufzuschließen（惨めさの束縛を解き放つ）」（v.4451）とともに詩劇の「自由（Freiheit）」概念を提示する：ファウストの「解放」の試みが、マルガレーテにとって「執行者の到来」として誤解され続けることで、「解放」の言語が機能しないという悲劇的な意思疎通の失敗を定式化する。"
     },
     {
       "paragraphId": 6,
       "type": "commentary",
       "anchor": "Bist du ein Mensch, so fühle meine Noth.",
-      "body": "「もし人間なら、私の苦しみを感じてくれ（Bist du ein Mensch, so fühle meine Noth）」——この台詞は「書斎II（Studierzimmer II）」でのファウストの地霊への問い「Ich bin's, bin Faust, bin deines gleichen!（私はファウストだ、お前と同等の者だ）」の反転として機能する：そこではファウストが「精神（Geist）」への同等性を主張したが、ここではマルガレーテがファウストに「人間（Mensch）」であることを問いただす。「fühle（感じてくれ）」という命令形が感情移入・共感（Empathie）の要求として提示される：マルガレーテの「Noth（苦しみ・窮状）」はヴェイユが「affliction（苦悩）」と呼ぶ根源的な受苦であり、それを「感じること（fühlen）」ができるかどうかが人間性の試金石として問われる。",
+      "body": "「もし人間なら、私の苦しみを感じてくれ（Bist du ein Mensch, so fühle meine Noth）」──この台詞は「書斎II（Studierzimmer II）」でのファウストの地霊への問い「Ich bin's, bin Faust, bin deines gleichen!（私はファウストだ、お前と同等の者だ）」の反転として機能する：そこではファウストが「精神（Geist）」への同等性を主張したが、ここではマルガレーテがファウストに「人間（Mensch）」であることを問いただす。「fühle（感じてくれ）」という命令形が感情移入・共感（Empathie）の要求として提示される：マルガレーテの「Noth（苦しみ・窮状）」はヴェイユが「affliction（苦悩）」と呼ぶ根源的な受苦であり、それを「感じること（fühlen）」ができるかどうかが人間性の試金石として問われる。",
       "targetId": "weil_la_violence",
       "targetParagraphId": 1
     },
@@ -186,13 +186,13 @@
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "Du wirst die Wächter aus dem Schlafe schreyen!",
-      "body": "「お前は番人たちを眠りから叫び起こすことになる（Du wirst die Wächter aus dem Schlafe schreyen）！」——ファウストの一行が実践的な緊急性（Dringlichkeit）の次元に立つ：感情的な反応ではなく、状況の管理という観点からの台詞。「Wächter（番人・見張り）」「Schlafe（眠り）」という語が夜の脱獄の時間的文脈を確立する。この台詞のみで行われるファウストの「合理的な判断」が、直前の「Weh! Weh!（v.4423）」「Still! Still!（v.4424）」という感情的応答とは異なる：ファウストは愛する女性の苦しみを前にして「感情」ではなく「管理」の言語を使う。この「管理する者」の言語が、v.4441「Werd' ich den Jammer überstehen!（この惨めさに私は耐えられるだろうか）」という一行に至るまでの情動の抑圧として機能する。"
+      "body": "「お前は番人たちを眠りから叫び起こすことになる（Du wirst die Wächter aus dem Schlafe schreyen）！」──ファウストの一行が実践的な緊急性（Dringlichkeit）の次元に立つ：感情的な反応ではなく、状況の管理という観点からの台詞。「Wächter（番人・見張り）」「Schlafe（眠り）」という語が夜の脱獄の時間的文脈を確立する。この台詞のみで行われるファウストの「合理的な判断」が、直前の「Weh! Weh!（v.4423）」「Still! Still!（v.4424）」という感情的応答とは異なる：ファウストは愛する女性の苦しみを前にして「感情」ではなく「管理」の言語を使う。この「管理する者」の言語が、v.4441「Werd' ich den Jammer überstehen!（この惨めさに私は耐えられるだろうか）」という一行に至るまでの情動の抑圧として機能する。"
     },
     {
       "paragraphId": 8,
       "type": "commentary",
       "anchor": "Wer hat dir Henker diese Macht\nUeber mich gegeben!\nDu holst mich schon um Mitternacht.\nErbarme dich und laß mich leben!\nIst's morgen früh nicht zeitig genung?",
-      "body": "「誰がお前に首切り役人よ、この権力を私に与えたのか（Wer hat dir Henker diese Macht / Ueber mich gegeben）！」——「Macht（力・権力）」という語がヴェイユ「La Violence」の核心概念と直接照応する：「力は人間の上に立つ者に与えられる何か（quelque chose）」ではなく「力が人間を物体にする（la force qui transforme l'être humain en chose）」というヴェイユの洞察が、ここではマルガレーテの「die Macht über mich gegeben（私に対する権力を与えられた）」という訴えとして体験される。「Erbarme dich（憐れんでくれ）」という動詞はラテン語「Miserere（ミゼレーレ）」の等価語：ダンテ地獄篇第1歌v.65での「Miserere di me（私を憐れんでくれ）」というダンテの叫びの反響として、マルガレーテの「Erbarme dich」が機能する——ただしダンテは「暗い森」で精神的迷子として叫ぶのに対し、マルガレーテは実際の処刑を前に叫ぶ。",
+      "body": "「誰がお前に首切り役人よ、この権力を私に与えたのか（Wer hat dir Henker diese Macht / Ueber mich gegeben）！」──「Macht（力・権力）」という語がヴェイユ「La Violence」の核心概念と直接照応する：「力は人間の上に立つ者に与えられる何か（quelque chose）」ではなく「力が人間を物体にする（la force qui transforme l'être humain en chose）」というヴェイユの洞察が、ここではマルガレーテの「die Macht über mich gegeben（私に対する権力を与えられた）」という訴えとして体験される。「Erbarme dich（憐れんでくれ）」という動詞はラテン語「Miserere（ミゼレーレ）」の等価語：ダンテ地獄篇第1歌v.65での「Miserere di me（私を憐れんでくれ）」というダンテの叫びの反響として、マルガレーテの「Erbarme dich」が機能する──ただしダンテは「暗い森」で精神的迷子として叫ぶのに対し、マルガレーテは実際の処刑を前に叫ぶ。",
       "targetId": "dante_inferno_canto_1",
       "targetParagraphId": 7
     },
@@ -200,13 +200,13 @@
       "paragraphId": 9,
       "type": "prosody",
       "anchor": "Bin ich doch noch so jung, so jung!\nUnd soll schon sterben!\nSchön war ich auch, und das war mein Verderben.",
-      "body": "「私はまだこんなに若い、こんなに若い！もう死ななければならないのか！私も美しかった、それが私の身の破滅だった（Bin ich doch noch so jung, so jung! / Und soll schon sterben! / Schön war ich auch, und das war mein Verderben）」——「so jung, so jung!（こんなに若い、こんなに若い！）」という反復が感情的な圧力の頂点として機能する。「Schön war ich auch（私も美しかった）」という過去形が重要：「美しさ（Schönheit）」がすでに「war（あった）」という過去になっている——美が過去のものとして語られることで、グレートヒェンの自己認識における崩壊の深さが示される。「Verderben（破滅・堕落）」という語が「美しさが破滅の原因だった」という因果関係として提示される：v.2のWaldvögelein（美しい森の小鳥）の「美しさ（schön）」が、ここでは「Verderben（破滅）」として回収される。"
+      "body": "「私はまだこんなに若い、こんなに若い！もう死ななければならないのか！私も美しかった、それが私の身の破滅だった（Bin ich doch noch so jung, so jung! / Und soll schon sterben! / Schön war ich auch, und das war mein Verderben）」──「so jung, so jung!（こんなに若い、こんなに若い！）」という反復が感情的な圧力の頂点として機能する。「Schön war ich auch（私も美しかった）」という過去形が重要：「美しさ（Schönheit）」がすでに「war（あった）」という過去になっている──美が過去のものとして語られることで、グレートヒェンの自己認識における崩壊の深さが示される。「Verderben（破滅・堕落）」という語が「美しさが破滅の原因だった」という因果関係として提示される：v.2のWaldvögelein（美しい森の小鳥）の「美しさ（schön）」が、ここでは「Verderben（破滅）」として回収される。"
     },
     {
       "paragraphId": 9,
       "type": "commentary",
       "anchor": "Zerrissen liegt der Kranz, die Blumen zerstreut.\nFasse mich nicht so gewaltsam an!",
-      "body": "「花冠は引き裂かれ、花々は散り乱れている。そんなに手荒く掴まないでくれ（Zerrissen liegt der Kranz, die Blumen zerstreut. / Fasse mich nicht so gewaltsam an）！」——「Kranz（花冠・輪冠）」の意象が詩劇全体において象徴的な意義を持つ：花冠は西洋的な文脈で処女性・純潔・婚礼の象徴であり、「zerrissen（引き裂かれた）」という過去分詞がグレートヒェンの処女性の喪失・誠実さの破壊を物質的形象として表現する。「gewaltsam（手荒に・暴力的に）」という形容詞がヴェイユ「La Violence」の「Gewalt（力/暴力）」と語根的・意味的に連動する：ファウストが「gewaltsam（暴力的に）」グレートヒェンをつかもうとすることで、「解放者」が「暴力者」と区別できなくなる。第6連の「Seiner Augen Gewalt（彼の瞳の力/暴力）」との語根的照応：「愛の力（Gewalt）」が牢獄で「暴力（gewaltsam）」として現れる。",
+      "body": "「花冠は引き裂かれ、花々は散り乱れている。そんなに手荒く掴まないでくれ（Zerrissen liegt der Kranz, die Blumen zerstreut. / Fasse mich nicht so gewaltsam an）！」──「Kranz（花冠・輪冠）」の意象が詩劇全体において象徴的な意義を持つ：花冠は西洋的な文脈で処女性・純潔・婚礼の象徴であり、「zerrissen（引き裂かれた）」という過去分詞がグレートヒェンの処女性の喪失・誠実さの破壊を物質的形象として表現する。「gewaltsam（手荒に・暴力的に）」という形容詞がヴェイユ「La Violence」の「Gewalt（力/暴力）」と語根的・意味的に連動する：ファウストが「gewaltsam（暴力的に）」グレートヒェンをつかもうとすることで、「解放者」が「暴力者」と区別できなくなる。第6連の「Seiner Augen Gewalt（彼の瞳の力/暴力）」との語根的照応：「愛の力（Gewalt）」が牢獄で「暴力（gewaltsam）」として現れる。",
       "targetId": "weil_la_violence",
       "targetParagraphId": 1
     },
@@ -214,7 +214,7 @@
       "paragraphId": 10,
       "type": "commentary",
       "anchor": "Werd' ich den Jammer überstehen!",
-      "body": "「この惨めさに私は耐えられるだろうか（Werd' ich den Jammer überstehen）！」——詩劇全体でファウストが「Jammer（惨めさ・苦悩）」という語を使う最も集約された瞬間。感嘆符（!）を伴う否定的疑問（Wird man den Jammer überstehen = 耐えられない）という修辞的問いが、ファウストの無力感・麻痺・感情的崩壊を一行で表現する：「書斎II」での「Ich bin der Geist, der stets verneint!（私は常に否定する精神だ）」というメフィストの宣言が「否定のエネルギー」を示したのに対し、ファウストの「Werd' ich den Jammer überstehen!」は「耐える（überstehen）」という継続する意志の問いかけとして機能する。その後、ファウストはv.4451で跪くという行為にのみ表現が移行する——言語の枯渇。",
+      "body": "「この惨めさに私は耐えられるだろうか（Werd' ich den Jammer überstehen）！」──詩劇全体でファウストが「Jammer（惨めさ・苦悩）」という語を使う最も集約された瞬間。感嘆符（!）を伴う否定的疑問（Wird man den Jammer überstehen = 耐えられない）という修辞的問いが、ファウストの無力感・麻痺・感情的崩壊を一行で表現する：「書斎II」での「Ich bin der Geist, der stets verneint!（私は常に否定する精神だ）」というメフィストの宣言が「否定のエネルギー」を示したのに対し、ファウストの「Werd' ich den Jammer überstehen!」は「耐える（überstehen）」という継続する意志の問いかけとして機能する。その後、ファウストはv.4451で跪くという行為にのみ表現が移行する──言語の枯渇。",
       "targetId": "goethe_faust_studierzimmer_1327",
       "targetParagraphId": 10
     },
@@ -222,7 +222,7 @@
       "paragraphId": 11,
       "type": "commentary",
       "anchor": "Laß mich nur erst das Kind noch tränken.\nIch herzt' es diese ganze Nacht;\nSie nahmen mir's um mich zu kränken\nUnd sagen nun, ich hätt' es umgebracht.",
-      "body": "「まず子供に乳を与えさせてくれ。私は一晩中それを抱いていた；彼らは私を苦しめるためにそれを奪い、そして私がそれを殺したと今は言っている（Laß mich nur erst das Kind noch tränken. / Ich herzt' es diese ganze Nacht; / Sie nahmen mir's um mich zu kränken / Und sagen nun, ich hätt' es umgebracht）」——詩劇の最も悲痛な場面の一つ。「das Kind noch tränken（まず子供に乳を与えさせてくれ）」という要求が、子殺しの「罪人」としてではなく「母親」としてのマルガレーテの本質を示す：狂気の中でも母性は残存している。「ich herzt' es diese ganze Nacht（私は一晩中それを抱いていた）」という過去形が喪失として提示される：子供はすでに奪われており、抱くという行為は記憶の中だけに存在する。「Um mich zu kränken（私を苦しめるために）」という目的節がマルガレーテの被害者意識・迫害感覚として機能する——客観的な事実と主観的な認識の乖離が狂気の構造として提示される。",
+      "body": "「まず子供に乳を与えさせてくれ。私は一晩中それを抱いていた；彼らは私を苦しめるためにそれを奪い、そして私がそれを殺したと今は言っている（Laß mich nur erst das Kind noch tränken. / Ich herzt' es diese ganze Nacht; / Sie nahmen mir's um mich zu kränken / Und sagen nun, ich hätt' es umgebracht）」──詩劇の最も悲痛な場面の一つ。「das Kind noch tränken（まず子供に乳を与えさせてくれ）」という要求が、子殺しの「罪人」としてではなく「母親」としてのマルガレーテの本質を示す：狂気の中でも母性は残存している。「ich herzt' es diese ganze Nacht（私は一晩中それを抱いていた）」という過去形が喪失として提示される：子供はすでに奪われており、抱くという行為は記憶の中だけに存在する。「Um mich zu kränken（私を苦しめるために）」という目的節がマルガレーテの被害者意識・迫害感覚として機能する──客観的な事実と主観的な認識の乖離が狂気の構造として提示される。",
       "targetId": "hieronymus_iob_1",
       "targetParagraphId": 19
     },
@@ -230,7 +230,7 @@
       "paragraphId": 11,
       "type": "intertextual",
       "anchor": "Ein altes Mährchen endigt so,\nWer heißt sie's deuten?",
-      "body": "「古い昔話はそのように終わる、誰が彼らにその解釈を命じたのか（Ein altes Mährchen endigt so, / Wer heißt sie's deuten）？」——「Mährchen（昔話・おとぎ話）」という語が第2段落（v.4412–4420）のグリム童話の変奏への内部照応として機能する：あの童謡が「古い話（Machandelboom）」の変奏であったように、マルガレーテ自身の物語も「古い昔話（altes Mährchen）」のパターン——無垢な娘が誘惑され、罪を負わされ、処刑される——として完結する。「Wer heißt sie's deuten?（誰が彼らにその解釈を命じたのか）？」という問いが社会的批判として機能する：「昔話の結末」として個人の悲劇を消費する「Leute（人々）」への告発。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という無記憶の命題と照応：マルガレーテの苦悩は「古い昔話」として繰り返されるが、個別の記憶としては残らない。",
+      "body": "「古い昔話はそのように終わる、誰が彼らにその解釈を命じたのか（Ein altes Mährchen endigt so, / Wer heißt sie's deuten）？」──「Mährchen（昔話・おとぎ話）」という語が第2段落（v.4412–4420）のグリム童話の変奏への内部照応として機能する：あの童謡が「古い話（Machandelboom）」の変奏であったように、マルガレーテ自身の物語も「古い昔話（altes Mährchen）」のパターン──無垢な娘が誘惑され、罪を負わされ、処刑される──として完結する。「Wer heißt sie's deuten?（誰が彼らにその解釈を命じたのか）？」という問いが社会的批判として機能する：「昔話の結末」として個人の悲劇を消費する「Leute（人々）」への告発。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」という無記憶の命題と照応：マルガレーテの苦悩は「古い昔話」として繰り返されるが、個別の記憶としては残らない。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 11
     },
@@ -238,7 +238,7 @@
       "paragraphId": 12,
       "type": "commentary",
       "anchor": "Ein Liebender liegt dir zu Füßen\nDie Jammerknechtschaft aufzuschließen.",
-      "body": "「愛する者がお前の足元に横たわっている、惨めさの束縛を解き放つために（Ein Liebender liegt dir zu Füßen / Die Jammerknechtschaft aufzuschließen）」——「Jammerknechtschaft（惨めさの束縛・悲惨な隷属状態）」という複合語がこの場面全体のキーコンセプトを凝縮する。「Knechtschaft（隷属・束縛）」という語は「Knecht（奴隷・下僕）」から派生し、グレートヒェンが「Jammer（惨めさ）」の「Knecht（奴隷）」であることを示す：「書斎II」でのメフィストの「Das Etwas, diese plumpe Welt（この何かという代物、この粗野な世界）」に対する破壊の挫折と照応——そこでは「Welt（世界）」が壊せない物として提示されたが、ここでは「Jammerknechtschaft（惨めさの束縛）」という言語的存在としての「鎖」がある。「aufzuschließen（解き放つ・開錠する）」という動詞が鍵を持って牢獄に入るファウストの行為と鏡像的に対応する：実際の「Schloß（鍵穴）」を開けることと、象徴的な「Knechtschaft（束縛）」を解くことが同一の動詞で表現される。",
+      "body": "「愛する者がお前の足元に横たわっている、惨めさの束縛を解き放つために（Ein Liebender liegt dir zu Füßen / Die Jammerknechtschaft aufzuschließen）」──「Jammerknechtschaft（惨めさの束縛・悲惨な隷属状態）」という複合語がこの場面全体のキーコンセプトを凝縮する。「Knechtschaft（隷属・束縛）」という語は「Knecht（奴隷・下僕）」から派生し、グレートヒェンが「Jammer（惨めさ）」の「Knecht（奴隷）」であることを示す：「書斎II」でのメフィストの「Das Etwas, diese plumpe Welt（この何かという代物、この粗野な世界）」に対する破壊の挫折と照応──そこでは「Welt（世界）」が壊せない物として提示されたが、ここでは「Jammerknechtschaft（惨めさの束縛）」という言語的存在としての「鎖」がある。「aufzuschließen（解き放つ・開錠する）」という動詞が鍵を持って牢獄に入るファウストの行為と鏡像的に対応する：実際の「Schloß（鍵穴）」を開けることと、象徴的な「Knechtschaft（束縛）」を解くことが同一の動詞で表現される。",
       "targetId": "goethe_faust_studierzimmer_1327",
       "targetParagraphId": 10
     },
@@ -246,7 +246,7 @@
       "paragraphId": 13,
       "type": "commentary",
       "anchor": "Sieh! unter diesen Stufen,\nUnter der Schwelle\nSiedet die Hölle!",
-      "body": "「見よ！この段の下に、敷居の下に地獄が煮えたぎっている（Sieh! unter diesen Stufen, / Unter der Schwelle / Siedet die Hölle）！」——「Schwelle（敷居・閾）」という語が詩劇全体の「閾の場所性（Liminalität）」を凝縮する。「牢獄の床」という物理的空間が「地獄との境界（Schwelle）」として体験される：マルガレーテの「見える（Sieh）」という命令形が、彼女のみが知覚する地獄の幻視として提示される——これが「狂気の幻覚」か「予言的洞察」かは詩劇は判定しない。「Siedet（煮えたぎる）」という動詞が地獄の「火（Flamme）」を「煮えたぎる液体」として表現する：「書斎II」でメフィストが「Hätt' ich mir nicht die Flamme vorbehalten（炎を留保していなかったなら）」と語った「炎（Flamme）」が、ここで「Hölle（地獄）」として具体化される。",
+      "body": "「見よ！この段の下に、敷居の下に地獄が煮えたぎっている（Sieh! unter diesen Stufen, / Unter der Schwelle / Siedet die Hölle）！」──「Schwelle（敷居・閾）」という語が詩劇全体の「閾の場所性（Liminalität）」を凝縮する。「牢獄の床」という物理的空間が「地獄との境界（Schwelle）」として体験される：マルガレーテの「見える（Sieh）」という命令形が、彼女のみが知覚する地獄の幻視として提示される──これが「狂気の幻覚」か「予言的洞察」かは詩劇は判定しない。「Siedet（煮えたぎる）」という動詞が地獄の「火（Flamme）」を「煮えたぎる液体」として表現する：「書斎II」でメフィストが「Hätt' ich mir nicht die Flamme vorbehalten（炎を留保していなかったなら）」と語った「炎（Flamme）」が、ここで「Hölle（地獄）」として具体化される。",
       "targetId": "goethe_faust_studierzimmer_1327",
       "targetParagraphId": 10
     },
@@ -254,7 +254,7 @@
       "paragraphId": 13,
       "type": "intertextual",
       "anchor": "Der Böse,\nMit furchtbarem Grimme,\nMacht ein Getöse!",
-      "body": "「悪しき者が、恐ろしい怒りをもって、騒音を立てている（Der Böse, / Mit furchtbarem Grimme, / Macht ein Getöse）！」——「Der Böse（悪しき者）」はメフィストフェレスへの参照であり、マルガレーテが「悪魔の現前」を感知していることを示す。「Grimme（怒り・憤怒）」という語がメフィストの「常に否定する精神（Ich bin der Geist, der stets verneint）」の感情的対応物として機能する。「Getöse（騒音・轟音）」は「書斎II」（v.1327–1378）でメフィストが「Wellen, Stürmen, Schütteln, Brand（波と嵐と揺れと火）」という破壊の試みを語った「大音響」の現れとして読める。ダンテ地獄篇第3歌での「lamenti, sospiri e pianti alti risonaro（嘆きと溜め息と高い泣き声が響いた）」という地獄の「騒音」との照応：マルガレーテの「Getöse」は実際に開始されつつある地獄的な終末の音として機能する。",
+      "body": "「悪しき者が、恐ろしい怒りをもって、騒音を立てている（Der Böse, / Mit furchtbarem Grimme, / Macht ein Getöse）！」──「Der Böse（悪しき者）」はメフィストフェレスへの参照であり、マルガレーテが「悪魔の現前」を感知していることを示す。「Grimme（怒り・憤怒）」という語がメフィストの「常に否定する精神（Ich bin der Geist, der stets verneint）」の感情的対応物として機能する。「Getöse（騒音・轟音）」は「書斎II」（v.1327–1378）でメフィストが「Wellen, Stürmen, Schütteln, Brand（波と嵐と揺れと火）」という破壊の試みを語った「大音響」の現れとして読める。ダンテ地獄篇第3歌での「lamenti, sospiri e pianti alti risonaro（嘆きと溜め息と高い泣き声が響いた）」という地獄の「騒音」との照応：マルガレーテの「Getöse」は実際に開始されつつある地獄的な終末の音として機能する。",
       "targetId": "goethe_faust_studierzimmer_1327",
       "targetParagraphId": 10
     }
