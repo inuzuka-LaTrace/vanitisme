@@ -9,7 +9,7 @@
   "category": "goethe",
   "originalLang": "de-DE",
   "modernRelevance": "★★★★★",
-  "context": "ゲーテ『ファウスト』第二部第一幕の端緒を飾る「快適な景色（Anmuthige Gegend）」（v.4613–4678）は、第一部最終場面のグレートヒェン破局という「決定的な罪と傷」の直後に接続され、時空の断絶と実存の連続性を同時に孕んだ壮大なる再生の神話を素描する。花咲く草原に横たわり、心身ともに疲弊し尽くして仮睡に就くファウストを包囲するように、精霊アリエルと小妖精（エルフ）たちの合唱は「夜の四つの見張り（Vier Pausen nächtiger Weile）」と称される霊的な治療儀礼を厳粛に執行する。彼らが駆使するのは、古典古代に由来する忘却の川（レテ）の露であり、これによってファウストの精神を苛む「自責の燃える苦い矢（Vorwurfs glühend bittre Pfeile）」――すなわちグレートヒェンを実質的に死に至らしめたという罪悪感の記憶――を徹底的に消去（脱創造）し、彼の内なる実存をかつて経験した恐怖から清め、新たな光へと送り返そうと試みる。ここで発せられる「聖なる者か、悪しき者か、精霊たちは不幸な男を憐れむ（Ob er heilig? ob er böse? / Jammert sie der Unglücksmann）」というアリエルの宣言は、自然の治癒力が地上の道徳的・倫理的法秩序（善悪の彼岸）を完全に超越して作動するという、第二部全体の根底を貫く自然哲学の顕現に他ならない。シェイクスピア『テンペスト』から召喚されたアリエルという象徴を媒介とし、本場面は「愧疚の記憶なき再生」が孕む倫理的・道徳的な断層（忘却のアイロニー）を詩劇全体の巨大な課題として前景化させている。",
+  "context": "ゲーテ『ファウスト』第二部第一幕「快適な景色（Anmuthige Gegend）」（v.4613–4678）。第一部最終場面「Heinrich! Heinrich!」という閉幕の直後に第二部が開始する。花咲かされた草原に横たわり、疲れ果てて眠りを求めるファウストを背景に、精霊アリエルと小妖精の合唱が治療の儀式を執り行う。ウェルギリウス『アエネーイス』第6巻のレテ川（忘却の川）の露でファウストの内心を洗い払い、「自責の燃える苦い矢（Vorwurfs glühend bittre Pfeile）」――グレートヒェンへの罪悪感の記憶――を消去し、新たな光へと返す。「Ob er heilig? ob er böse? / Jammert sie der Unglücksmann（彼が聖なる者であれ、邪なる者であれ、不幸な者は彼女たちを悲しませる）」という宣言が、自然の治癒力が道徳的判断を超えて作用することを宣言する。第二部の全体に通じて、この場面は「愧室の記憶なき再生（Wiedergeburt ohne Schuldbewußtheit）」と「忘却の道徳的問題性」の両課題を詩劇全体に対して提起する。シェイクスピア『テンペスト（The Tempest）』のアリエルが彼女の名の典拠である。",
   "keywords": [
     "Anmuthige Gegend",
     "Lethe",
@@ -36,49 +36,49 @@
       "verses": "v.4613–4620",
       "speaker": "Ariel",
       "original": "Wenn der Blüthen Frühlings-Regen\nUeber Alle schwebend sinkt,\nWenn der Felder grüner Segen\nAllen Erdgebornen blinkt,\nKleiner Elfen Geistergröße\nEilet wo sie helfen kann,\nOb er heilig? ob er böse?\nJammert sie der Unglücksmann.",
-      "provisionalTranslation": "春の開花を促す雨が\nすべての者の上へと揺らぎ、降り注ぐ時、\n野の緑の祝福が\n地に生まれたすべての者へ向けて眩く輝く時、\n小妖精たちの霊的な大いなる意志は\n救いを求める場へと馳せ参じる。\n彼が聖なる者であれ、悪しき者であれ、\n不幸な者は彼女たちを悲しませるのだ。"
+      "provisionalTranslation": "花々の春の雨が\nすべての者の上を漂いながら降り注ぐ時、\n野の緑の祝福が\nすべての地に生まれた者に輝く時、\n小妖精たちの巨いなる精神が\n救いをなしうるところへと馳せる、\n彼が聖なる者であれ、邪なる者であれ、\n不幸な者は彼女たちを悲しませる。"
     },
     {
       "id": 2,
       "verses": "v.4621–4633",
       "speaker": "Ariel",
       "original": "Die ihr dieß Haupt umschwebt im luft'gen Kreise,\nErzeigt euch hier nach edler Elfen Weise,\nBesänftiget des Herzens grimmen Strauß;\nEntfernt des Vorwurfs glühend bittre Pfeile,\nSein Innres reinigt von erlebtem Graus.\nVier sind die Pausen nächtiger Weile,\nNun ohne Säumen füllt sie freundlich aus.\nErst senkt sein Haupt auf's kühle Polster nieder,\nDann badet ihn im Thau aus Lethe's Fluth;\nGelenk sind bald die krampferstarrten Glieder,\nWenn er gestärkt dem Tag entgegen ruht.\nVollbringt der Elfen schönste Pflicht,\nGebt ihn zurück dem heiligen Licht.",
-      "provisionalTranslation": "この頭の周りを気流の輪の中に揺らめき巡る者たちよ、\n今こそ妖精の高貴なる流儀を示し、\nその心の凄惨な葛藤を静めるがよい。\n自責が放つ、あの燃え盛る苦い矢を抜き去り、\n彼が体験した凄まじき恐怖から、その内面を浄化せよ。\n夜が刻む静止の刻は四つある、\n猶予なく、慈しみをもってその空白を満たすのだ。\nまずは彼の頭を冷えた枕へと沈め、\n次いでレテの奔流より汲んだ忘却の露で彼を浸せ。\n痙攣のままに硬直した四肢も、やがてしなやかさを取り戻さん、\n活力をみなぎらせ、来るべき日を待ちながら憩う時に。\n精霊たちよ、汝らの最も美しき義務を果たし、\n彼をふたたび、あの聖なる光へと帰還させるのだ。"
+      "provisionalTranslation": "この頭の周りを空中の輪の中で漂う者たちよ、\nここで高貴な妖精の流儀に従い現れよ、\n心の激しい葛藤を宥めよ；\n自責の燃える苦い矢を取り除き、\n体験した恐怖から彼の内なる者を清めよ。\n夜には四つの交代時がある、\n今それらを遅らせずに友情をもって満たせ。\nまず彼の頭を冷たい枕の上に沈め、\nそれからレテの水の露で彼を浴びせよ；\n痙攣に固まった四肢はまもなく柔らかくなるだろう、\n彼が強くなって休みながら夜明けを待つ時に。\n妖精たちの最も美しい義務を果たせ、\n彼を聖なる光へと返せ。"
     },
     {
       "id": 3,
       "verses": "v.4634–4641",
       "speaker": "Chor",
       "original": "Wenn sich lau die Lüfte füllen\nUm den grünumschränkten Plan,\nSüße Düfte, Nebelhüllen\nSenkt die Dämmerung heran;\nLispelt leise süßen Frieden,\nWiegt das Herz in Kindesruh,\nUnd den Augen dieses Müden\nSchließt des Tages Pforte zu.",
-      "provisionalTranslation": "微温き大気が、緑に縁取られた野の周りに\n穏やかに満ち満ちてゆく時、\n甘美なる芳香と、霧の帳をまといながら\n薄暮が静かに降下してくる。\nそっと甘やかな平安を囁き、\nその心を幼子の如き安息へと揺りかご、\nこの疲れ果てた実存の眼差しに対して、\n去りゆく一日の門扉を閉ざすのだ。"
+      "provisionalTranslation": "ぬるい大気が満ちてくる時\n緑に囲まれた野の周りに、\n甘い薫り、霧のヴェールを\n黄昏が近づきながら沈める；\nそっと甘い平和を囁き、\n心を子供の安らぎへと揺り動かし、\nこの疲れた者の目に\n一日の扉を閉ざす。"
     },
     {
       "id": 4,
       "verses": "v.4642–4649",
       "speaker": "Chor",
-      "original": "Nacht ist schon hereingesunken,\nSchließt sich heilig Stern an Stern;\nGroße Lichter, kleine Funken,\nGlitzern nah und glänzen fern;\nGlitzern hier im See sich spiegelnd,\nGlänzen droben klarer Nacht;\nTiefsten Ruhens Glück besiegelnd\nHerrscht des Mondes volle Pracht.",
-      "provisionalTranslation": "夜はすでに深く降り立ち、\n星々は聖なる連鎖をなして相連なる。\n巨いなる光輝も、微小なる火花も、\n近くで明滅し、遥か彼方で燦然と輝く。\nここなる湖面に自らを鏡写しにして揺らめき、\n天空の澄み渡る夜闇の中で光を放つ。\n最も深き静謐の至福を決定的に封印しながら、\n満ちたる月の圧倒的な美が君臨している。"
+      "original": "Nacht is schon hereingesunken,\nSchließt sich heilig Stern an Stern;\nGroße Lichter, kleine Funken,\nGlitzern nah und glänzen fern;\nGlitzern hier im See sich spiegelnd,\nGlänzen droben klarer Nacht;\nTiefsten Ruhens Glück besiegelnd\nHerrscht des Mondes volle Pracht.",
+      "provisionalTranslation": "もう夜は降り込んでいる、\n星が星に聖なく繋がっていく；\n大きな光、小さな火花が、\n近くで輝き遠くで光る；\nここで湖に映りながら輝き、\n上では澄んだ夜に光る；\n最も深い安らぎの幸せを封印しながら\n月の満ちた輝きが君臨する。"
     },
     {
       "id": 5,
       "verses": "v.4650–4657",
       "speaker": "Chor",
       "original": "Schon verloschen sind die Stunden,\nHingeschwunden Schmerz und Glück;\nFühl' es vor! Du wirst gesunden;\nTraue neuem Tagesblick.\nThäler grünen, Hügel schwellen,\nBuschen sich zu Schatten-Ruh;\nUnd in schwanken Silberwellen\nWogt die Saat der Ernte zu.",
-      "provisionalTranslation": "すでに諸刻は掻き消え、\n苦痛も歓喜も等しく忘却の彼方へと潰え去った。\n予感せよ！お前は必ずや癒やされる。 \n新たなる日に穿たれる視線を信頼するがよい。\n渓谷は緑を湛え、丘陵は豊かに膨らみ、\n木々は影の安息をなして生い茂る。\nそして揺曳する銀の波濤の中で、\n実りの秋を待つ種実が、収穫の時へと波打ってゆく。"
+      "provisionalTranslation": "もう時間は消え去った、\n苦悩も喜びも消えていった；\nそれを感じよ！お前は癒えるだろう；\n新たな夜明けの光を信じよ。\n谷は緑となり、丘はふくらみ、\n影の安らぎへと茂る；\nそして揺れる銀の波の中で\n麦の穂は収穫へと波打つ。"
     },
     {
       "id": 6,
       "verses": "v.4658–4665",
       "speaker": "Chor",
       "original": "Wunsch um Wünsche zu erlangen\nSchaue nach dem Glanze dort!\nLeise bist du nur umfangen,\nSchlaf ist Schale, wirf sie fort!\nSäume nicht dich zu erdreisten\nWenn die Menge zaudernd schweift;\nAlles kann der Edle leisten,\nDer versteht und rasch ergreift.",
-      "provisionalTranslation": "宿願に次ぐ宿願を成就せしめんとするならば、\n彼方に立ち上るあの輝きを凝視せよ！\nお前を包み込んでいる境界は、いまや希薄なものにすぎない。\n眠りとは仮初の殻だ、破って投げ捨てるがよい！\n凡庸なる群衆が躊躇い、彷徨う時であっても、\n果敢に自己を賭することを遅れてはならない。\n高貴なる精神は、全てを成し遂げ得るのだ、\n洞察し、迅速に掌握する者ならば。"
+      "provisionalTranslation": "望みのうちの望みを得るために\nそこの輝きを見よ！\nお前はそっとただ包まれているだけ、\n眠りは殻だ、それを投げ捨てよ！\n群衆がためらいながら漂う時\n大胆に踏み出すことを躊躇うな；\n高貴な者はすべてをなし得る、\n理解してすばやくつかむ者が。"
     },
     {
       "id": 7,
       "verses": "v.4666–4678",
       "speaker": "Ariel",
       "original": "Horchet! horcht! dem Sturm der Horen,\nTönend wird für Geistes-Ohren\nSchon der neue Tag geboren.\nFelsenthore knarren rasselnd,\nPhöbus Räder rollen prasselnd;\nWelch Getöse bringt das Licht!\nEs trommetet, es posaunet,\nAuge blinzt und Ohr erstaunet,\nUnerhörtes hört sich nicht.\nSchlüpfet zu den Blumenkronen,\nTiefer tiefer, still zu wohnen,\nIn die Felsen, unter's Laub;\nTrifft es euch so seyd ihr taub.",
-      "provisionalTranslation": "聴け！聴くのだ！時の女神（ホーライ）たちの巻き起こす暴風を。\n精神の聴覚に向けて轟々と響き渡り、\n早くも新たなる一日が産声を上げる。\n岩壁の巨門は軋み、轟音を立てて開き、\n太陽神（フェーブス）の車輪が火花を散らして爆音とともに疾駆する。\n光がもたらす、この凄まじき喧騒を見よ！\nそれは太鼓を打ち鳴らし、喇叭を吹き鳴らすが如く、\n眼は眩み、耳は驚愕に震える。\nこの未曾有の超域の響きは、もはや物理的な聴覚には捉え得ない。\n花冠の中へと滑り込め、\nより深く、さらに深く、静謐に隠棲せよ、\n岩割れの中へ、茂れる葉の陰へと。\nその光線が直撃するならば、お前たちの感覚はたちまち無化されてしまうからだ。"
+      "provisionalTranslation": "聞け！聞け！ホーライたちの嵐を、\n精神の耳には響き渡ってもう新しい日が生まれる。\n岩の扉がきしんでがたがたと鳴り、\nフェーブスの車輪がごろごろと転がり進む；\n光はなんという喧騒をもたらすことか！\n太鼓が鳴り、ラッパが鳴り響き、\n目が眩み耳が驚き、\nあまりにも未曾有で聞こえない。\n花冠の中に滑り込め、\nより深く更に深く、静かに住まうために、\n岩の中へ、葉っぱの下へ；\nそれがお前たちに当たれば耳が聞こえなくなるから。"
     }
   ],
   "annotations": [
@@ -86,36 +86,36 @@
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Ob er heilig? ob er böse?\nJammert sie der Unglücksmann.",
-      "body": "「彼が聖なる者か悪しき者か？不幸な男が彼女たちの心を悲しませる（Ob er heilig? ob er böse? / Jammert sie der Unglücksmann）」――第二部全体の幕開けを決定づける存在論的・倫理的な根本宣言。小妖精（エルフ）たちは、ファウストが犯した前幕の道徳的罪科（グレートヒェンを死に追いやったこと）の評価、すなわち「聖（heilig）」か「悪（böse）」かという価値判断を完全に保留し、ただ彼が「不幸なる者（Unglücksmann）」であるという実存的審級のみに感応して治療を施す。この「超・道徳的無関心」は、第一部終幕における悪魔の有罪宣告（Sie ist gerichtet!）と神の救済宣言（Ist gerettet!）の拮抗をさらに高次の自然秩序（善悪の彼岸）へと脱構築するものである。コヘレトの言葉第5章9節「地はすべての事柄において従う」に見られる如く、自然の恩寵は善人にも悪人にも無差別に降り注ぐというゲーテの後期自然哲学が結晶化している。また、シェイクスピア『テンペスト』のアリエルが魔術師プロスペローの倫理的・政治的命令に臣従するのに対し、本作のアリエルは自然的・宇宙的衝動そのものとして自律的に作動する点に決定的な差異がある。",
+      "body": "「彼が聖なる者であれ、邪なる者であれ、不幸な者は彼女たちを悲しませる（Ob er heilig? ob er böse? / Jammert sie der Unglücksmann）」――第二部の冒頭を支配する根本的な宣言。小妖精たちはファウストの道徳的状態を評価することなく――「聖なる者（heilig）」か「悪しき者（böse）」か――ただ「不幸な者（Unglücksmann）」であるという事実のみに応じて癒しを与える。この「道徳的無関心」が第一部全体の道徳的判断の連鎖（メフィストの「gerichtet!」、神の「gerettet!」）を超えた自然の秩序として提示される。コヘレト第5章v.9「Terra in universis rebus oboedit（地はすべての事柄において従う）」のように、自然はすべての者に均等に与える：第二部の根本的な自然哲学がここで宣言される。シェイクスピア『テンペスト』のアリエルがプロスペローの命令に従うのとは異なり、ゲーテのアリエルは道徳的命令ではなく自然の衝動から動く。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 3
     },
     {
       "paragraphId": 1,
       "type": "prosody",
-      "anchor": "Wenn der Blüten Frühlings-Regen\nUeber Alle schwebend sinkt,\nWenn der Felder grüner Segen\nAllen Erdgebornen blinkt,",
-      "body": "「春の開花を促す雨がすべての者の上へと揺らぎ、降り注ぐ時、野の緑なる祝福が地に生まれたすべての者へ向けて眩く輝く時（Wenn der Blüten Frühlings-Regen / Ueber Alle schwebend sinkt, / Wenn der Felder grüner Segen / Allen Erdgebornen blinkt）」――エオルスの竪琴（Aeolsharfen）の霊的な倍音を伴奏とするアリエルの歌唱。韻律は4強弱格（トロカイウス）の変形であり、下降調のリズムが天から地への恩寵の「降下」を聴覚的に模写する。「Alle（すべての者）」「Allen Erdgebornen（地に生まれたすべての者）」という普遍的な包摂の反復は、ファウストという個別的な犯罪者を、自然というマクロコスモスの大いなる循環へと暴力的に融解させる。「春の雨（Frühlings-Regen）」という流動的・豊饒的なイメージは、第一部「牢獄」場面の「湿った壁（feuchte Mauer）」や「鎖（Ketten）」が象徴していた物理的・精神的閉塞空間（牢獄）に対する、美学的な解放・反転として機能している。"
+      "anchor": "Wenn der Blüthen Frühlings-Regen\nUeber Alle schwebend sinkt,\nWenn der Felder grüner Segen\nAllen Erdgebornen blinkt,",
+      "body": "「花々の春の雨がすべての者の上を漂いながら降り注ぐ時、野の緑の祝福が全ての地に生まれた者に輝く時（Wenn der Blüthen Frühlings-Regen / Ueber Alle schwebend sinkt, / Wenn der Felder grüner Segen / Allen Erdgebornen blinkt）」――エオルスの竪琴（Aeolsharfen）に伴奏されるアリエルの歌。韻律：4強弱格の変形トロカイウス（強弱強弱強弱強弱）。「Alle（すべての者）」「Allen Erdgebornen（全ての地に生まれた者）」という包括的な包摂が、ファウストだけでなく「全ての者」に降り注ぐ自然の恩寵として提示される。「Blüthen Frühlings-Regen（花々の春の雨）」という自然のイメージが、第一部「牢獄（Kerker）」の「feuchte Mauer（湿った壁）」「Ketten（鎖）」という閉塞の空間と対照的に、開放・流動・豊饒として機能する。"
     },
     {
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Entfernt des Vorwurfs glühend bittre Pfeile,\nSein Innres reinigt von erlebtem Graus.",
-      "body": "「自責が放つ、あの燃え盛る苦い矢を抜き去り、彼が体験した凄まじき恐怖から、その内面を浄化せよ（Entfernt des Vorwurfs glühend bittre Pfeile, / Sein Innres reinigt von erlebtem Graus）」――第二部開幕場面における「精神療法プログラム」の核心。「Vorwurfs Pfeile（自責・非難の矢）」という強烈な比喩は、ファウストの持っていた内省的な罪悪感を、外在的な物理的攻撃へと転換・物質化する。グレートヒェン破局への罪悪感が「燃え盛る（glühend）」「苦い（bitter）」矢として形象化され、それを「取り除く（entfernen）」ことで治療が成立する。「体験した恐怖（erlebtem Graus）」という完了分詞の形容は、第一部「牢獄」場面の悲惨のすべて（「惨めな死！」「母を殺してしまった」「お前が恐ろしい」）を、過ぎ去った過去の「体験」として括弧に入れ、無害化しようとする美学的企図の顕れである。シモーヌ・ヴェイユの『重力と恩寵』（Accepter le vide）における「空虚の受容、過去の自責の滅却こそが恩寵を受け入れる空間を穿つ」という脱創造（デクレアシオン）の命題と深く照応しており、自責の除去が次行の「忘却（レテ）」を作動させるための絶対的前提条件として位置づけられる。",
+      "body": "「非難の燃える苦い矢を取り除き、体験した恐怖から彼の内なる者を清めよ（Entfernt des Vorwurfs glühend bittre Pfeile, / Sein Innres reinigt von erlebtem Graus）」――第二部開幕場面の治療プログラムの核心。「Vorwurfs Pfeile（自責の矢）」という複合名詞が、ファウストの内的状態を外的な攻撃として比喩化する：「Vorwurf（自責・非難）」が「Pfeil（矢）」として「glühend（燃える）」「bitter（苦い）」と形容されることで、グレートヒェンへの罪悪感が物理的な傷として治療される対象として提示される。「erlebtem Graus（体験した恐怖）」という完了分詞が第一部「牢獄」場面の全内容――「Bittrer Tod!」「Meine Mutter hab' ich umgebracht」「Heinrich! Mir graut's vor dir」――を「erlebt（体験した）」恐怖として括弧に入れる。ヴェイユ「Accepter le vide」の「空虚の受容が恩寵の前提条件」という命題と照応：「Vorwurf（自責）」の除去が次の段落での「Lethe の水」による浄化の前提として機能する。",
       "targetId": "weil_accepter_le_vide"
     },
     {
       "paragraphId": 2,
       "type": "intertextual",
       "anchor": "Dann badet ihn im Thau aus Lethe's Fluth;\nGelenk sind bald die krampferstarrten Glieder,",
-      "body": "「次いでレテの奔流より汲んだ忘却の露で彼を浸せ。痙攣のままに硬直した四肢も、やがてしなやかさを取り戻さん（Dann badet ihn im Thau aus Lethe's Fluth; / Gelenk sind bald die krampferstarrten Glieder）」――「レテ（Lethe）」はギリシア神話における冥界（ハデス）の忘却の川であり、プラトン『国家』第10巻（エルの神話）やウェルギリウス『アエネーイス』第6巻において、転生を控えた魂が前世の記憶を完全に抹殺するために課される物質的媒介である。ウェルギリウス『アエネーイス』第6巻748-751行「神はすべての魂をレテの川へと召喚する、すなわち過去を忘却し、再び天の丸天井を見上げるために（lethaeum ad fluvium deus evocat omnes / scilicet inmemores supera ut convexa revisant）」との直接的なテクスト的・精神史的照応が見られる。アエネアスが冥界で目撃した魂の転生・再生の儀礼が、ここではファウストの地上的実存の再起動（Wiedergeburt）のための「忘却の治療」として換骨奪胎されている。「痙攣に硬直した四肢（krampferstarrten Glieder）」は、第一部終幕における絶対的な倫理的破局が残した身体的な外傷（トラウマ）の残余であり、それが忘却の露（Thau）によって物理的に弛緩させられるという、記憶と身体の物質的連動が描かれている。",
+      "body": "「それからレテの水の露で彼を浴びせよ；痙攣に固まった四肢はまもなく柔らかくなるだろう（Dann badet ihn im Thau aus Lethe's Fluth; / Gelenk sind bald die krampferstarrten Glieder）」――「Lethe（レテ）」：ギリシア神話における冥界の忘却の川。プラトン『国家』第10巻とウェルギリウス『アエネーイス』第6巻に登場し、転生する魂がこの川の水を飲むことで前世の記憶を失う。ウェルギリウス第6巻v.748-751「lethaeum ad fluvium deus evocat omnes / scilicet inmemores supera ut convexa revisant（神が大いなる行列でレテの川へと呼び出す、つまり忘却した者たちが再び上の天空を見るために）」との直接の照応：アエネアスがアンキーセスから見る魂たちがレテ川の水を飲む場面が、ここではファウストの癒しの儀礼として詩的に変奏される。「krampferstarrten Glieder（痙攣に固まった四肢）」が第一部の牢獄場面の身体的苦悩の物質的残余として提示される。",
       "targetId": "vergilius_aeneis_6_animae_1",
-      "targetParagraphId": 1
+      "targetParagraphId": 5
     },
     {
       "paragraphId": 3,
       "type": "prosody",
       "anchor": "Lispelt leise süßen Frieden,\nWiegt das Herz in Kindesruh,\nUnd den Augen dieses Müden\nSchließt des Tages Pforte zu.",
-      "body": "「そっと甘やかな平安を囁き、その心を幼子の如き安息へと揺りかご、この疲れ果てた実存の眼差しに対して、去りゆく一日の門扉を閉ざすのだ（Lispelt leise süßen Frieden, / Wiegt das Herz in Kindesruh, / Und den Augen dieses Müden / Schließt des Tages Pforte zu）」――精霊の合唱（第1連）の美しき結節点。「心を幼子の如き安息へと揺りかご（Wiegt das Herz in Kindesruh）」という揺籃のモチーフは、第一部「グレートヒェンの部屋（Gretchens Stube）」（v.3374）における糸車の執拗な回転リズム（「安らぎは去り／心は重く」）に対する、トポス的・構造的な鏡像反転として機能する。あちらでの永続的な自責と苦悩の旋回に対して、ここでは「幼児退行的な忘却の静謐（Kindesruh）」がファウストを覆う。「一日の扉を閉ざす（Schließt des Tages Pforte zu）」という詩的イメージは、直前の「牢獄」場面でファウストが鍵を抉り開けようとした「Kerker（牢獄）の重門」という非劇的な空間を、宇宙の夜の運行という大いなる閉鎖（守護）へと美学的に反転・再定義している。",
+      "body": "「そっと甘い平和を囁き、心を子供の安らぎへと揺り動かし、この疲れた者の目に一日の扉を閉ざす（Lispelt leise süßen Frieden, / Wiegt das Herz in Kindesruh, / Und den Augen dieses Müden / Schließt des Tages Pforte zu）」――合唱の第一連の終結。「Wiegt das Herz in Kindesruh（心を子供 of 安らぎへと揺り動かす）」という揺り籠のモチーフが、グレートヒェンの部屋の糸車（v.3374「Gretchens Stube」）の回転リズムの反転として機能する：あそこでは糸車が「苦悩（Ruh' ist hin）」を回し続けたが、ここでは揺籃（wiegen）が「子供の安らぎ（Kindesruh）」を誘う。「Schließt des Tages Pforte zu（一日の扉を閉ざす）」という詩的形象が、前節「牢獄」の「Kerker（牢獄）」の扉――鍵を持って開きに来たファウスト――と逆方向に「閉じる」扉として照応する。",
       "targetId": "goethe_faust_gretchens_stube_3374",
       "targetParagraphId": 1
     },
@@ -123,7 +123,7 @@
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Tiefsten Ruhens Glück besiegelnd\nHerrscht des Mondes volle Pracht.",
-      "body": "「最も深き静謐の至福を決定的に封印しながら、満ちたる月の圧倒的な美が君臨している（Tiefsten Ruhens Glück besiegelnd / Herrscht des Mondes volle Pracht）」――合唱第2連の頂点をなす天体イメージ。「封印する（besiegeln）」という司法・行政的な厳格さを伴う動詞が、主観的な感情状態である「深き静謐の至福（Tiefsten Ruhens Glück）」に適用されることで、この忘却と治癒が一時的な夢幻ではなく、宇宙の法秩序によって「確定された事実」であることが示される。「満ちたる月の美（volle Pracht）」は、第一部最初期「夜（Nacht）」場面（v.386）における、若きファウストの満月への絶望的な使徒的呼びかけ（「おお、満月の光よ、お前が私の苦悩を見届けるのもこれが最後であってくれ」）に対する、長大なる時空を越えたマクロコスモス側からの応答である。かつてゴシック風の狭隘な書斎で「知識の煤煙（Wissensqualm）」に塗れながらファウストが渇望した月の光が、今や彼の意識の消滅（仮睡）の最中に、完全なる癒しを「封印する」ものとして到来するという、劇構造の壮大なる円環がここに完成する。",
+      "body": "「最も深い安らぎの幸せを封印しながら月の満ちた輝きが君臨する（Tiefsten Ruhens Glück besiegelnd / Herrscht des Mondes volle Pracht）」――合唱の第二連の頂点。「besiegeln（封印する）」という法的・公式的な動詞が「深い安らぎの幸せ（Tiefsten Ruhens Glück）」に付されることで、癒しが単なる感情等態ではなく「封印された」確定事項として提示される。「volle Pracht（満ちた輝き）」という月のイメージが、第一部「夜（Nacht）」冒頭（v.386）での「O sähst du, voller Mondenschein（ああ、満月の光よ）」というファウストの月への使徒的呼びかけへの応答として機能する：あそこでファウストが「Wissensqualm（知識の煙）」から解放されることを夢想した月の光が、ここでは実際に「深い安らぎ」を「封印する」として到来する。",
       "targetId": "goethe_faust_nacht_354",
       "targetParagraphId": 3
     },
@@ -131,7 +131,7 @@
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Schon verloschen sind die Stunden,\nHingeschwunden Schmerz und Glück;",
-      "body": "「すでに諸刻は掻き消え、苦痛も歓喜も等しく忘却の彼方へと潰え去った（Schon verloschen sind die Stunden, / Hingeschwunden Schmerz und Glück）」――この場面、ひいては第二部全体の「忘却の詩学」が内包する神学的・認識論的核心。「Schmerz（苦痛・苦悩）」だけでなく、グレートヒェンと共に紡いだはずの「Glück（幸福・歓喜）」をも同等に「掻き消（verlöschen）」「潰え去（hingschwinden）」らせる点が極めて決定的なアイロニーを放つ。すなわち、レテの忘却は罪の記憶を消し去る代償として、愛の記憶そのものをも歴史の審判から抹消する。これはコヘレトの言葉第1章2節の「すべては虚無（omnia vanitas）」、および苦楽を均等に無化する時間の絶対的忘却作用の詩的変奏である。コヘレトが歴史や人間の営みを「等しく虚無に帰す」と喝破したのと同様に、ここでは劇的過去の一切（第一部すべて）が均等に水平化され、ファウストの実存は無垢なる白紙（タブラ・ラサ）へと暴力的に還元される。",
+      "body": "「もう時間は消え去った、苦悩も喜びも消えていった（Schon verloschen sind die Stunden, / Hingeschwunden Schmerz und Glück）」――合唱全体の神学的核心。「Schmerz（苦悩）」と「Glück（幸福・喜び）」の両方が「Hingeschwunden（消えていった）」という動詞で同等に処理される点が重要：レテの水の忘却は「苦悩（Schmerz）」だけでなく「喜び（Glück）」も消去する――すなわちグレートヒェンとの愛（Glück）とその破滅（Schmerz）の双方が等しく抹消される。コヘレト第1章v.2「omnia vanitas（すべては虚無である）」および第11章「Schmerz und Glück」の均等な無常という命題の詩的変奏として機能する：コヘレトが「すべては虚無」と観察するのと同様に、ここでは「苦悩も喜びも同等に消え去る」という均等な消去が告げられる。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 2
     },
@@ -139,13 +139,13 @@
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "Fühl' es vor! Du wirst gesunden;\nTraue neuem Tagesblick.",
-      "body": "「予感せよ！お前は必ずや癒やされる。新たなる日に穿たれる視線を信頼するがよい（Fühl' es vor! Du wirst gesunden; / Traue neuem Tagesblick）」――「癒やされる（gesunden）」という動詞の受動的位相。「眠りの中にあり、いまだ意識を回復していない第三者（ファウスト）」に対して合唱が執拗に語りかけるという構造は、主体的な意志による改悛や信仰ではなく、主体の意識の不在（仮睡・忘却）においてのみ恩寵が先行して成就するという、ゲーテ独自の「先取りの詩学（Poetik der Antizipation）」を実演している。「先取りして感じる（vorher fühlen）」を意味する「Fühl' es vor!」の命令形は、第二部全体を駆動する、現実の経験に先立つ美学的仮象（芸術による仮象の先取り）の開幕を告げるファンファーレである。"
+      "body": "「それを感じよ！お前は癒えるだろう；新たな夜明けの光を信じよ（Fühl' es vor! Du wirst gesunden; / Traue neuem Tagesblick）」――「gesunden（癒える）」という動詞が詩劇全体で持つ意義。「会話が進行する第三者（ここでは眠るファウスト）への合唱の語りかけ」という形式が、意識のある受容者ではなく無意識の状態にある者への詩的メッセージとして機能する：ファウストが意識的に「信じる（Traue）」のではなく、癒しが先に来て覚醒への準備が整う。「Fühl' es vor!（それを感じよ）」という「vorher fühlen（先取りして感じる）」という動詞が、第二部全体における「先取りの詩学（Poetik der Antizipation）」の最初の表現として位置づけられる。"
     },
     {
       "paragraphId": 6,
       "type": "commentary",
       "anchor": "Schlaf ist Schale, wirf sie fort!\nSäume nicht dich zu erdreisten\nWenn die Menge zaudernd schweift;",
-      "body": "「眠りとは仮初の殻だ、破って投げ捨てるがよい！凡庸なる群衆が躊躇い、彷徨う時であっても、果敢に自己を賭することを遅れてはならない（Schaf ist Schale, wirf sie fort! / Säume nicht dich zu erdreisten / Wenn die Menge zaudernd schweift）」――「眠りは殻（Schale）」という自然科学的・昆虫学的な変態の比喩。蛹が殻を破って完全変態を遂げるように、過去の実存を脱ぎ捨てて超克するというメビウスの帯の如き再生の隠喩である。ここに登場する「躊躇い、彷徨う（zaudernd schweift）」という表現は、第一部終幕「牢獄」場面におけるメフィストフェレスの過酷な叱責「無駄な躊躇！ぐずぐずしてばかりいる！（Unnützes Zagen! Zaudern und Plaudern!）」の不気味な反響である。あちらでは「Zaudern（躊躇）」がグレートヒェン救出の失敗と破局を決定づけたが、ここでは「群衆（Menge）」の持つ本質的な躊躇に対して、それに対峙すべき「高貴なる者（Edle）」の断固たる能動性が対置される。",
+      "body": "「眠りは殻だ、それを投げ捨てよ！群衆がためらいながら漂う時、大胆に踏み出すことを躊躇うな（Schlaf ist Schale, wirf sie fort! / Säume nicht dich zu erdreisten / Wenn die Menge zaudernd schweift）」――「Schlaf ist Schale（眠りは殻）」という比喩が変容・再生の自然的比喩として機能する：殻（蛹・卵の殻）を破って新たな生命が出現するという変態のメタファー。「zaudernd schweift（ためらいながら漂う）」という語が第一部牢獄場面での「Unnützes Zagen! Zaudern und Plaudern!（無駄な躊躇！ぐずぐず・べらべらしてばかりいる！）」というメフィストの叱責の反響として機能する：あそこでは「Zaudern（ためらい）」が脱獄の失敗を招いたが、ここでは「群衆（Menge）」の「Zaudern（ためらい）」に対し「Edle（高貴な者）」が対置される。",
       "targetId": "goethe_faust_kerker_4574",
       "targetParagraphId": 6
     },
@@ -153,19 +153,19 @@
       "paragraphId": 6,
       "type": "commentary",
       "anchor": "Alles kann der Edle leisten,\nDer versteht und rasch ergreift.",
-      "body": "「高貴なる精神は、全てを成し遂げ得るのだ、洞察し、迅速に掌握する者ならば。"（Alles kann der Edle leisten, / Der versteht und rasch ergreift）」――合唱の終結部を厳粛に緊縛する、ファウスト的行動主義（アクティヴィズム）のテーゼ。ここで冠される「高貴なる者（Edle）」という呼称は、道徳的・倫理的な「善性」を意味しない。それは「洞察し（versteht）」、そして「迅速に掌握する（rasch ergreift）」という認識論的・実践的な卓越性によって定義される存在である。この「rasch ergreifen（迅速に掌握する・掴み取る）」という動詞は、第一部「書斎I」の聖書翻訳においてファウストが到達した「初めに行為があった！（Im Anfang war die That!）」という根源的な動的実存（Tat）の再起動に他ならない。過去の罪悪感を忘却の水によって物理的に破棄したファウストが、第二部において再び強烈な「行為の主体」として世界の最前線へと駆り出されるための思想的舗装がここで完了する。"
+      "body": "「高貴な者はすべてをなし得る、理解してすばやくつかむ者が（Alles kann der Edle leisten, / Der versteht und rasch ergreift）」――合唱の最後の四行を締めくくるファウスト的格言。「Edle（高貴な者）」という称号が「書斎II」での地霊の「Ein Theil von jener Kraft, / Die stets das Böse will und stets das Gute schafft（悪を欲し善を作り出す力の部分）」というメフィストの自己規定と対比される：「Edle（高貴な者）」は道徳的な良さではなく「versteht und rasch ergreift（理解してすばやくつかむ）」という認識論的・行為論的な能力によって定義される。「rasch ergreift（すばやくつかむ）」という動詞が「書斎I」でのファウストの「Im Anfang war die That!（始めに行為があった）」という実践的認識論の回帰として機能する：第一部冒頭の「行為（Tat）」への転換が第二部開幕で「rasch ergreifen（すばやくつかむ）」として再起動される。"
     },
     {
       "paragraphId": 7,
       "type": "prosody",
       "anchor": "Horchet! horcht! dem Sturm der Horen,\nTönend wird für Geistes-Ohren\nSchon der neue Tag geboren.",
-      "body": "「聴け！聴くのだ！時の女神（ホーライ）たちの巻き起こす暴風を。精神の聴覚に向けて轟々と響き渡り、早くも新たなる一日が産声を上げる（Horchet! horcht! dem Sturm der Horen, / Tönend wird für Geistes-Ohren / Schon der neue Tag geboren）」――ギリシア神話における時間の秩序と季節の推移を司る女神たち「ホーライ（Horai）」の到来。時間の推移が「暴風・嵐（Sturm）」として聴覚化される過激な詩的形象は、第一部「書斎I」においてファウストが夢想した「純粋な活動の新たな圏域への上昇（Zu neuen Sphären reiner Thätigkeit）」という、近代の圧倒的な速度論・ダイナミズムの回帰を思わせる。極めて重要なのは、この太陽の到来に伴う轟音が物理的な聴覚ではなく「精神の耳（für Geistes-Ohren）」に対してのみ「響き渡る（Tönend）」という留保である。これは、自然のマクロな運行が感官を超絶した理念的出来事であることを示し、次行の絶対的パラドクス（前代未聞のものは聞こえない）への決定的な伏線となる。"
+      "body": "「精神の耳には響き渡ってもう新しい日が生まれる（Horchet! horcht! dem Sturm der Horen, / Tönend wird für Geistes-Ohren / Schon der neue Tag geboren）」――「Horen（ホーライ）」：ギリシア神話における時の女神たち（Ὧραι, Horai）――季節と時間の秩序を司る。「Sturm der Horen（ホーライたちの嵐）」という語が時間の到来を「嵐（Sturm）」として提示する：「書斎I」でのファウストの「Zu neuen Sphären reiner Thätigkeit（純粋な活動という新しい圏域へ）」という上昇への渇望が、ここでは「Horen の嵐」として自然的・宇宙的なプロセスとして到来する。「für Geistes-Ohren（精神の耳には）」という限定が重要：「嵐（Sturm）」は物理的な音ではなく「精神の耳」によって知覚される――これが後の「Unerhörtes hört sich nicht（前代未聞のものは聞こえない）」というパラドクスへの布石として機能する。"
     },
     {
       "paragraphId": 7,
       "type": "commentary",
-      "anchor": "Welch Getöse brings das Licht!\nEs trommetet, es posaunet,\nAuge blinzt und Ohr erstaunet,\nUnerhörtes hört sich nicht.\nSchlüpfet zu den Blumenkronen,\nTiefer tiefer, still zu wohnen,",
-      "body": "「光がもたらす、この凄まじき喧騒を見よ！それは太鼓を打ち鳴らし、喇叭を吹き鳴らすが如く、眼は眩み、耳は驚愕に震える。この未曾有の超域の響きは、もはや物理的な聴覚には捉え得ない。花の冠の中へと滑り込め、より深く、さらに深く（Welch Getöse bringt das Licht! / Es trommetet, es posaunet, / Auge blinzt und Ohr erstaunet, / Unerhörtes hört sich nicht. / Schlüpfet zu den Blumenkronen, / Tiefer tiefer, still zu wohnen）」――太陽の光の到来（日の出）を、「喧騒（Getöse）」「太鼓を鳴らす（trommetet）」「喇叭を吹く（posaunet）」という、軍事的あるいは黙示録的な祝典の烈しい聴覚的形象で描写する。光という視覚現象を聴覚へと翻訳（共感覚）させるゲーテの極限の言語遊戯である。「未曾有の響きは聞こえない／耳を傾けられないものは聞かれない（Unerhörtes hört sich nicht）」という言語の自同律を破綻させるパラドクスは、神的・自然的秩序の絶対的過剰（崇高）が、人間の有限な感官を一瞬にして無化・破壊してしまうことを意味する。ゆえに小妖精（エルフ）たちは「より深く、さらに深く（Tiefer tiefer）」と花冠の内奥へと退避せざるを得ない。この精霊たちの退避は、前幕（第一部「牢獄」）の破局的終結部において、メフィストフェレスが神的な朝の光を恐れて「馬たちが慄いている（Meine Pferde schaudern）」「朝が迫っている（Der Tag graut!）」と叫び、闇の彼方へと退散していった構図と美学的に完全なる同型（アナロジー）をなしている。",
+      "anchor": "Welch Getöse bringt das Licht!\nEs trommetet, es posaunet,\nAuge blinzt und Ohr erstaunet,\nUnerhörtes hört sich nicht.\nSchlüpfet zu den Blumenkronen,\nTiefer tiefer, still zu wohnen,",
+      "body": "「光はなんという喧騒をもたらすことか！太鼓が鳴り、ラッパが鳴り響き、目が眩み耳が驚き、あまりにも未曾有で聞こえない。花冠の中に滑り込め、より深く更に深く（Welch Getöse bringt das Licht! / Es trommetet, es posaunet, / Auge blinzt und Ohr erstaunet, / Unerhörtes hört sich nicht. / Schlüpfet zu den Blumenkronen, / Tiefer tiefer, still zu wohnen）」――太陽の光の到来を「Getöse（喧騒）」「trommetet（太鼓を鳴らす）」「posaunet（ラッパを吹く）」という軍事的・祝典的な聴覚的形象で描写する：物理的な光の到来が「軍楽隊の到来（Militärparade）」として表現される。「Unerhörtes hört sich nicht（あまりにも未曾有で聞こえない）」というパラドクスが太陽の光を「言語を超えた存在」として提示する：「unerhört」は「未曾有の・前代未聞の」と「聞こえない」の二義を持ち、太陽の音は「あまりにも未曾有で」それ自体を知覚させない。小妖精たちが「Tiefer tiefer（より深くより深く）」と花の中に潜り込むことは、圧倒的な光から小さな存在が保護を求めるという詩的倒転として機能する――前小分割でのメフィストの「schauderden Pferde（震える馬）」が神的な光を恐れたのと同型の退避。",
       "targetId": "goethe_faust_kerker_4574",
       "targetParagraphId": 14
     }
