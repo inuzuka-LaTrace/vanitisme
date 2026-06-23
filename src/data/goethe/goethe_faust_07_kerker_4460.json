@@ -1,0 +1,444 @@
+{
+  "id": "goethe_faust_kerker_4460",
+  "title": "Faust – Erster Teil: Kerker (v.4460–4573)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie erster Teil, Szene: Kerker, v.4460–4573. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_erster_Teil",
+  "year": "1808",
+  "firstPublication": "1808（Faust. Eine Tragödie, Cotta Verlag, Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第一部「牢獄（Kerker）」第二小分割（v.4460–4573）。前小分割（v.4405–4459）から続いて、ファウストの「Gretchen! Gretchen!」という呼びかけに始まる認識場面から、幸福だった時の記憦への退行（v.4465–4573）までを描く。五つの間に展開する：①ファウストの呼びかけによる鎖の解山とマルガレーテの牙の認識（v.4460–4480）。②冷たい唇のエピソード——肉体的前堆と提身の芦屋（v.4481–4501）。③罪の告白と「血に渡れた手」の幻視（v.4502–4519）。④墓の計画と逃亡拒否（v.4520–4550）。⑤溺死した子の幻視と死んだ母の幻影（v.4551–4573）。「Mitten durch's Heulen und Klappen der Hölle / Erkannt' ich den süßen, den liebenden Ton（地獄の叫び声と鳴り隣る中で / 私は甚めのない愈しみの声を識別した）」という認識の場面から、「Es waren glückliche Zeiten!（幸福な時代だった！）」という最終ひとまきの挨拶まで、狂気と清明さが交措する最も密度の高い場面。かかる高密度の対話により、この小分割の対話は発話身毎に分割する形式をとる。",
+  "keywords": [
+    "Gretchen Gretchen",
+    "認識の場面",
+    "liebenden Ton",
+    "kalte Lippen",
+    "Ich bin gerettet",
+    "ewiges Ruhebett",
+    "Heinrich",
+    "Blut dran",
+    "Rette rette",
+    "glückliche Zeiten"
+  ],
+  "relatedTexts": [
+    "goethe_faust_kerker_4405",
+    "goethe_faust_gretchens_stube_3374",
+    "goethe_faust_studierzimmer_1327",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_decreation",
+    "dante_inferno_canto_5"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.4460",
+      "speaker": "Faust",
+      "original": "Gretchen! Gretchen!",
+      "provisionalTranslation": "グレートヒェン！グレートヒェン！"
+    },
+    {
+      "id": 2,
+      "verses": "v.4461–4469",
+      "speaker": "Margarete",
+      "original": "Das war des Freundes Stimme!\nWo ist er? ich hab' ihn rufen hören.\nIch bin frey! mir soll niemand wehren.\nAn seinen Hals will ich fliegen,\nAn seinem Busen liegen!\nEr rief Gretchen! Er stand auf der Schwelle.\nMitten durch's Heulen und Klappen der Hölle,\nDurch den grimmigen, teuflischen Hohn,\nErkannt' ich den süßen, den liebenden Ton.",
+      "provisionalTranslation": "あれは友の声だった！\n彼はどこに？私は彼が呼ぶ声を聞いた。\n私は自由だ！誰も私を妨げられない。\n彼の首にしがみついていきたい、\n彼の胸に横たわりたい！\n彼はグレートヒェンと叫んだ！彼は敷居の上に立っていた。\n地獄の叫び声と扉のばたつく音をかき分けて、\n険しい悪魔的な嘲笑を通り抜けて、\n私はその甘い、愛に満ちた声を聞き分けた。"
+    },
+    {
+      "id": 3,
+      "verses": "v.4469b",
+      "speaker": "Faust",
+      "original": "Ich bin's!",
+      "provisionalTranslation": "私だ！"
+    },
+    {
+      "id": 4,
+      "verses": "v.4470–4478",
+      "speaker": "Margarete",
+      "original": "Du bist's! O sag' es noch einmal!\nEr ist's! Er ist's! Wohin ist alle Qual?\nWohin die Angst des Kerkers? der Ketten?\nDu bist's! Kommst mich zu retten.\nIch bin gerettet! –\nSchon ist die Straße wieder da,\nAuf der ich dich zum erstenmale sah.\nUnd der heitere Garten,\nWo ich und Marthe deiner warten.",
+      "provisionalTranslation": "あなたなの！もう一度言って！\nあの人だ！あの人だ！あの苦悩はどこへ行った？\n牢獄の恐怖はどこへ？鎖は？\nあなたなの！私を救いに来てくれた。\n私は救われた！–\nもうあの通りがそこに見える、\n初めてあなたに会ったあの通りが。\nそして晴れやかな庭園も、\n私とマルテがあなたを待っていた庭園も。"
+    },
+    {
+      "id": 5,
+      "verses": "v.4479",
+      "speaker": "Faust",
+      "original": "Komm mit! Komm mit!",
+      "provisionalTranslation": "一緒に来るんだ！一緒に来い！"
+    },
+    {
+      "id": 6,
+      "verses": "v.4479b–4480",
+      "speaker": "Margarete",
+      "original": "O weile\nWeil' ich doch so gern wo du weilest.",
+      "provisionalTranslation": "ああ待って\nお前がいるところならどこでも私はいたいのだから。"
+    },
+    {
+      "id": 7,
+      "verses": "v.4481–4483",
+      "speaker": "Faust",
+      "original": "Eile!\nWenn du nicht eilest,\nWerden wir's theuer büßen müssen.",
+      "provisionalTranslation": "急げ！\n急がなければ、\n私たちは高い代償を払わなければならなくなる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.4484–4498",
+      "speaker": "Margarete",
+      "original": "Wie? du kannst nicht mehr küssen?\nMein Freund, so kurz von mir entfernt,\nUnd hast's Küssen verlernt?\nWarum wird mir an deinem Halse so bang?\nWenn sonst von deinen Worten, deinen Blicken\nEin ganzer Himmel mich überdrang,\nUnd du mich küßtest als wolltest du mich ersticken.\nKüsse mich!\nSonst küss' ich dich!\nO weh! deine Lippen sind kalt,\nSind stumm.\nWo ist dein Lieben\nGeblieben?\nWer brachte mich drum?",
+      "provisionalTranslation": "何？もう口づけができないの？\n友よ、私から離れてたった少しなのに、\n口づけの仕方を忘れてしまったの？\nなぜあなたの首のところでこんなに不安になるの？\n前はあなたの言葉と眼差しから\n天丸ごとが私に押し寄せてきたのに、\nあなたが私を窒息させるほど口づけしてくれたのに。\n口づけして！\nそうでなければ私があなたに口づけする！\nああ！あなたの唇は冷たい、\n黙っている。\nあなたの愛はどこへ\n行ってしまったの？\n誰が私からそれを奪ったの？"
+    },
+    {
+      "id": 9,
+      "verses": "v.4499–4500",
+      "speaker": "Faust",
+      "original": "Komm! Folge mir! Liebchen fasse Muth!\nIch herze dich mit tausendfacher Glut,\nNur folge mir! Ich bitte dich nur dieß!",
+      "provisionalTranslation": "来い！私について来い！可愛い人、勇気を出して！\n私は千倍の熱で君を抱きしめる、\nただついて来い！これだけをお願いする！"
+    },
+    {
+      "id": 10,
+      "verses": "v.4501",
+      "speaker": "Margarete",
+      "original": "Und bist du's denn? Und bist du's auch gewiß?",
+      "provisionalTranslation": "本当にあなたなの？確かにあなたなの？"
+    },
+    {
+      "id": 11,
+      "verses": "v.4502",
+      "speaker": "Faust",
+      "original": "Ich bin's! Komm mit!",
+      "provisionalTranslation": "私だ！一緒に来い！"
+    },
+    {
+      "id": 12,
+      "verses": "v.4503–4505",
+      "speaker": "Margarete",
+      "original": "Du machst die Fesseln los,\nNimmst wieder mich in deinen Schoos.\nWie kommt es, daß du dich vor mir nicht scheust? –\nUnd weißt du denn, mein Freund, wen du befreyst?",
+      "provisionalTranslation": "あなたは鎖を解いてくれる、\n再び私をあなたの懐に受け入れてくれる。\nなぜあなたは私の前で怯まないの？–\nあなたは誰を救おうとしているか知っているの、友よ？"
+    },
+    {
+      "id": 13,
+      "verses": "v.4506",
+      "speaker": "Faust",
+      "original": "Komm! komm! schon weicht die tiefe Nacht.",
+      "provisionalTranslation": "来い！来い！もう深い夜は退いていく。"
+    },
+    {
+      "id": 14,
+      "verses": "v.4507–4517",
+      "speaker": "Margarete",
+      "original": "Meine Mutter hab' ich umgebracht,\nMein Kind hab' ich ertränkt.\nWar es nicht dir und mir geschenkt?\nDir auch – Du bist's! ich glaub' es kaum.\nGieb deine Hand! Es ist kein Traum!\nDeine liebe Hand! – Ach aber sie ist feucht!\nWische sie ab! Wie mich däucht\nIst Blut dran.\nAch Gott! was hast du gethan!\nStecke den Degen ein,\nIch bitte dich drum!",
+      "provisionalTranslation": "私の母を私は殺した、\n私の子を私は溺れさせた。\nそれはあなたと私に与えられたものではなかったか？\nあなたにも– あなたなのね！信じられないくらい。\n手を貸して！これは夢じゃない！\nあなたの愛しい手！– ああでも湿っている！\n拭いてちょうだい！私には\n血がついているように見える。\nああ神よ！あなたは何をしてしまったの！\n剣をしまってちょうだい、\nお願いだから！"
+    },
+    {
+      "id": 15,
+      "verses": "v.4518–4519",
+      "speaker": "Faust",
+      "original": "Laß das Vergang'ne vergangen seyn,\nDu bringst mich um.",
+      "provisionalTranslation": "過ぎ去ったことは過ぎ去ったままにしておこう、\nお前は私を殺している。"
+    },
+    {
+      "id": 16,
+      "verses": "v.4520–4535",
+      "speaker": "Margarete",
+      "original": "Nein, du mußt übrig bleiben!\nIch will dir die Gräber beschreiben,\nFür die mußt du sorgen\nGleich morgen;\nDer Mutter den besten Platz geben,\nMeinen Bruder sogleich darneben,\nMich ein wenig bey Seit',\nNur nicht gar zu weit!\nUnd das Kleine mir an die rechte Brust.\nNiemand wird sonst bey mir liegen! –\nMich an deine Seite zu schmiegen\nDas war ein süßes, ein holdes Glück!\nAber es will mir nicht mehr gelingen,\nMir ist's als müßt' ich mich zu dir zwingen,\nAls stießest du mich von dir zurück.\nUnd doch bist du's und blickst so gut, so fromm.",
+      "provisionalTranslation": "いいえ、あなたは生き残らなければならない！\n私はあなたにお墓の場所を教えてあげる、\nすぐ明日にでも\nあなたが面倒を見なければならないお墓を；\n母には一番良い場所を与えて、\n兄をすぐその隣に、\n私は少し脇に、\nそんなに遠くない場所に！\nそして小さな子を私の右の胸の傍に。\nそれ以外の人は誰も私の傍に横たわらせないで！–\nあなたの傍に身を寄せること、\nそれは甘い、愛しい幸せだった！\nでももうそれはうまくいかなくて、\n自分を無理にあなたに引き寄せなければならないように感じる、\nまるであなたが私を押しやっているかのように。\nそれでもあなたなのね、こんなに優しく、敬虔に見える。"
+    },
+    {
+      "id": 17,
+      "verses": "v.4536",
+      "speaker": "Faust",
+      "original": "Fühlst du daß ich es bin, so komm!",
+      "provisionalTranslation": "私だとわかるなら、来い！"
+    },
+    {
+      "id": 18,
+      "verses": "v.4537",
+      "speaker": "Margarete",
+      "original": "Dahinaus?",
+      "provisionalTranslation": "そちらへ？"
+    },
+    {
+      "id": 19,
+      "verses": "v.4538",
+      "speaker": "Faust",
+      "original": "In's Freye.",
+      "provisionalTranslation": "外へ。"
+    },
+    {
+      "id": 20,
+      "verses": "v.4538b–4542",
+      "speaker": "Margarete",
+      "original": "Ist das Grab drauß',\nLauert der Tod; so komm!\nVon hier in's ewige Ruhebett\nUnd weiter keinen Schritt –\nDu gehst nun fort? O Heinrich, könnt' ich mit!",
+      "provisionalTranslation": "墓がそこにあるの、\n死が待ち伏せしているの；では来い！\nここから永遠の安らぎの床へ\nそれ以上一歩も進まずに–\nあなたは行くの？ああハインリヒ、私もご一緒できたなら！"
+    },
+    {
+      "id": 21,
+      "verses": "v.4543",
+      "speaker": "Faust",
+      "original": "Du kannst! So wolle nur! die Thür steht offen.",
+      "provisionalTranslation": "できる！ただ意志を持てばいい！扉は開いている。"
+    },
+    {
+      "id": 22,
+      "verses": "v.4544–4549",
+      "speaker": "Margarete",
+      "original": "Ich darf nicht fort; für mich ist nichts zu hoffen.\nWas hilft es fliehn? sie lauern doch mir auf.\nEs ist so elend betteln zu müssen,\nUnd noch dazu mit bösem Gewissen!\nEs ist so elend in der Fremde schweifen\nUnd sie werden mich doch ergreifen!",
+      "provisionalTranslation": "私は去ってはいけない；私には何の望みもない。\n逃げて何の役に立つ？彼らはどうせ私を狙っている。\n乞食をしなければならないのはあまりにも惨め、\nしかも悪い良心を持ちながら！\n異郷をさまよい歩くのはあまりにも惨め\nそして彼らはどうせ私を捕まえるでしょう！"
+    },
+    {
+      "id": 23,
+      "verses": "v.4550",
+      "speaker": "Faust",
+      "original": "Ich bleibe bey dir.",
+      "provisionalTranslation": "私はお前の傍にいよう。"
+    },
+    {
+      "id": 24,
+      "verses": "v.4551–4562",
+      "speaker": "Margarete",
+      "original": "Geschwind! Geschwind!\nRette dein armes Kind.\nFort! immer den Weg\nAm Bach hinauf,\nUeber den Steg,\nIn den Wald hinein,\nLinks, wo die Planke steht,\nIm Teich.\nFaß es nur gleich!\nEs will sich heben,\nEs zappelt noch,\nRette! rette!",
+      "provisionalTranslation": "急いで！急いで！\nあなたの哀れな子を救って。\n行って！ずっとその道を\n小川をさかのぼって、\n橋を渡って、\n森の中へ、\n左側、柵のあるところ、\n池の中。\nすぐ掴んで！\n浮き上がろうとしている、\nまだばたついている、\n救って！救って！"
+    },
+    {
+      "id": 25,
+      "verses": "v.4563–4564",
+      "speaker": "Faust",
+      "original": "Besinne dich doch!\nNur einen Schritt, so bist du frey!",
+      "provisionalTranslation": "正気になってくれ！\nたった一歩、そうすれば自由になれる！"
+    },
+    {
+      "id": 26,
+      "verses": "v.4565–4573",
+      "speaker": "Margarete",
+      "original": "Wären wir nur den Berg vorbey!\nDa sitzt meine Mutter auf einem Stein,\nEs faßt mich kalt beym Schopfe!\nDa sizt meine Mutter auf einem Stein\nUnd wackelt mit dem Kopfe;\nSie winkt nicht, sie nickt nicht, der Kopf ist ihr schwer,\nSie schlief so lange, sie wacht nicht mehr.\nSie schlief damit wir uns freuten.\nEs waren glückliche Zeiten!",
+      "provisionalTranslation": "あの山を越えさえすれば！\n私の母が石の上に座っている、\n冷たいものが私の頭の毛をつかむ！\n私の母が石の上に座っている\nそして頭を振っている；\n彼女は手を振らない、うなずかない、頭が重い、\n彼女は長い間眠っていた、もう目を覚まさない。\n彼女は私たちが喜べるように眠った。\n幸福な時代だった！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Gretchen! Gretchen!",
+      "body": "「グレートヒェン！グレートヒェン！（Gretchen! Gretchen）！」——「ラウト（laut：大声で）」という舞台指示と共に叫ばれるファウストの呼びかけ。正式な名「Margarete」ではなく愛称の「Gretchen」が使われることで、この呼びかけが公的な告知ではなく愛情的・個人的な声として機能する。次の段落で「Die Ketten fallen ab（鎖が落ちる）」という舞台指示が、この叫び声の結果として生じる：ファウストの声が物理的に鎖を解く——言語行為が物質的な解放として作用する奇跡的な瞬間。前小分割（v.4405–4459）の最後でマルガレーテが感じた「Der Böse, / Mit furchtbarem Grimme, / Macht ein Getöse!（悪しき者が恐ろしい怒りで騒音を立てる）」という地獄的な騒音に対し、ここではファウストの声が「愛しみの音（liebenden Ton）」として対置される。",
+      "targetId": "goethe_faust_kerker_4405",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Erkannt' ich den süßen, den liebenden Ton.",
+      "body": "「私はその甘い、愛に満ちた声を聞き分けた（Erkannt' ich den süßen, den liebenden Ton）」——段落全体の韻律的頂点。「Erkannt' ich（私は聞き分けた）」という動詞「erkennen（認識する・聞き分ける）」が「書斎II」でのファウストの認識論的探求「was die Welt / Im Innersten zusammenhält（世界を最奥の部分で繋ぎ止めているもの）」と同語根として照応する：ファウストが世界の「最奥の認識」を求めたのに対し、マルガレーテは地獄の騒音の中で「愛の声の認識（erkennen）」を達成する——認識の対象が存在論的な謎から個人的な愛へと転換される。「Heulen und Klappen der Hölle（地獄の叫び声と扉のばたつき）」という聴覚的描写が、前小分割での「Siedet die Hölle（地獄が煮えたぎっている）」という視覚的・触覚的描写を聴覚次元に展開する。",
+      "targetId": "goethe_faust_studierzimmer_1327",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ich bin's!",
+      "body": "「私だ（Ich bin's）！」——場面全体を通じて繰り返される同一性の宣言の最初の発話。「書斎II」での「Ich bin der Geist, der stets verneint!（私は常に否定する精神だ）」というメフィストの同一性宣言と「Ich bin's, bin Faust, bin deines gleichen!（私こそがファウストだ、お前と同等の者だ）」というファウストの同一性宣言の反響として、この「Ich bin's!」は愛の文脈での同一性確認として機能する。この二語が「鎖を落とす（Die Ketten fallen ab）」という奇跡に続いて発される：同一性の言語が解放をもたらす。この「Ich bin's!」は場面の中でv.4470「Du bist's!」・v.4471「Er ist's!」・v.4473「Du bist's!」・v.4501「Und bist du's denn?」・v.4502「Ich bin's!」・v.4510「Du bist's!」と変奏されながら反復され続ける——同一性確認の強迫的反復が狂気の言語的症状として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ich bin gerettet! –\nSchon ist die Straße wieder da,\nAuf der ich dich zum erstenmale sah.",
+      "body": "「私は救われた！–もうあの通りがそこに見える、初めてあなたに会ったあの通りが（Ich bin gerettet! – / Schon ist die Straße wieder da, / Auf der ich dich zum erstenmale sah）」——「Ich bin gerettet!（私は救われた）」という宣言が詩劇神学的な深みを持つ：「救済（Rettung）」の宣言は「最終的な救済（Erlösung）」とは異なる——この「gerettet」は脱獄という即物的救済を指すが、マルガレーテはそれを精神的解放として体験する。「Schon ist die Straße wieder da（もうあの通りがそこに見える）」という記憶の回帰が、現在の牢獄と過去の幸福の混濁として提示される：過去が「wieder（再び）」として現在に侵入する。ヴェイユ「Décréation」における「記憶の中での自己の再構築」と逆方向の動き——ここでは自我が過去の幸福の記憶へと逃避する。",
+      "targetId": "weil_decreation"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Er ist's! Er ist's! Wohin ist alle Qual?\nWohin die Angst des Kerkers? der Ketten?",
+      "body": "「あの人だ！あの人だ！あの苦悩はどこへ行った？牢獄の恐怖はどこへ？鎖は？（Er ist's! Er ist's! Wohin ist alle Qual? / Wohin die Angst des Kerkers? der Ketten）？」——「Er ist's!」の二重反復から「Wohin ist...（どこへ行った）？」という修辞的疑問の連鎖への移行が、感情の急激な高揚を詩行の次元で実演する。「Wohin（どこへ）」という問いが「Qual（苦悩）」「Angst（恐怖）」「Ketten（鎖）」という牢獄の三要素をそれぞれ問うことで、解放が苦悩の消滅として体験される。前小分割の「Wo ist der Seele Ruf?（魂の叫びはどこへ行った）？」（地霊のファウストへの告発）との照応：そこでは精神的能力の「どこへ（Wo）」が批判的問いとして使われたが、ここでは苦悩の「どこへ（Wohin）」が解放の宣言として使われる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Komm mit! Komm mit!",
+      "body": "「一緒に来い！一緒に来い！（Komm mit! Komm mit）！」——命令形の二重反復が時間的切迫感を示す。舞台指示「fortstrebend（外へ向かって進みながら）」と組み合わされることで、ファウストが身体的に出口へと向かいながら言葉だけでマルガレーテを引こうとするという乖離が視覚的に提示される：ファウストの身体は既に外へ向かっているが、マルガレーテはまだ感情的な内部空間に留まっている。この「Komm mit!」の命令形が場面を通じて変奏されながら繰り返される（v.4499「Komm! Folge mir!」、v.4502「Komm mit!」、v.4506「Komm! komm!」）——ファウストの反復する「来い（Komm）」の命令形と、マルガレーテの記憶・幻覚・告白への退行の対立が場面全体の基本構造をなす。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "O weile\nWeil' ich doch so gern wo du weilest.",
+      "body": "「ああ待って——お前がいるところならどこでも私はいたいのだから（O weile / Weil' ich doch so gern wo du weilest）」——「weile（待て）」「Weil'（weil' = weile, 留まる）」「weilest（お前が留まる）」という同語根の三重反復（Paronomasie）が、「留まること（weilen）」という動詞の多義的な音響的遊戯として機能する。「Eile!（急げ！）」という次段落のファウストの一語と「Weile!（待て！）」の対立が、ゲーテの詩的語彙において深い意義を持つ：後の「Faust II」の「Verweile doch! du bist so schön!（留まれ！お前はこんなに美しい！）」というファウストの悪魔との賭けの言葉への先行形として機能する——ここではマルガレーテがファウストに「留まること」を求める。舞台指示「liebkosend（愛撫しながら）」が愛の身体的な表現として提示される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Werden wir's theuer büßen müssen.",
+      "body": "「私たちは高い代償を払わなければならなくなる（Werden wir's theuer büßen müssen）」——「büßen（贖う・代償を払う・罰せられる）」という語が道徳的・宗教的次元を帯びる：脱獄の失敗という即物的な危険が「Buße（贖罪）」という罪の代償の語彙で表現される。ファウストが「Das Verbrechen war ein guter Wahn!（罪は善き妄想だった）」（v.4408, 前節）と内的に断じたマルガレーテの「罪」が、ここでは「theuer büßen（高くつく）」という功利的・世俗的な表現として再登場する：「罪」と「贖罪」の神学的語彙が脱獄の緊急性という文脈に投入される逆説。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "prosody",
+      "anchor": "O weh! deine Lippen sind kalt,\nSind stumm.",
+      "body": "「ああ！あなたの唇は冷たい、黙っている（O weh! deine Lippen sind kalt, / Sind stumm）」——この二行が「Küsse mich! / Sonst küss' ich dich!（口づけして！そうでなければ私があなたに）」という強さから「O weh!（ああ！）」という転換を示す：身体的接触（口づけ）の試みが、ファウストの「冷たさ（kalt）」と「無言（stumm）」という否定的な身体的応答として返ってくる。前節v.3374「Gretchens Stube」の「Zauberfluß（魔法の流れ）」「Und ach sein Kuß!（そしてああ彼の口づけ）」という口づけへの上昇的渇望が、ここでは「deine Lippen sind kalt（唇は冷たい）」という完全な逆転として現れる：愛の身体的頂点が身体的拒絶として体験される。",
+      "targetId": "goethe_faust_gretchens_stube_3374",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Wo ist dein Lieben\nGeblieben?\nWer brachte mich drum?",
+      "body": "「あなたの愛はどこへ行ってしまったの？誰が私からそれを奪ったの（Wo ist dein Lieben / Geblieben? / Wer brachte mich drum）？」——「Lieben（愛）」と「Geblieben（残った）」という韻が「愛が留まらなかった」という事実を詩形として体現する。「Wer brachte mich drum?（誰が私からそれを奪ったの）？」という問いがマルガレーテの外部への帰責として機能する：狂気の中で自己の罪を「誰か（wer）」という外部の主体に帰属させる。コヘレト第1章v.8「Non saturatur oculus visu（目は見ることに飽くことなく）」という感覚の不充足性が、ここでは「愛の感覚の突然の消滅」として反転する：かつて過剰に与えられた愛（「du mich küßtest als wolltest du mich ersticken」）が今や「kalt（冷たく）、stumm（黙って）」として現れる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 8
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ich herze dich mit tausendfacher Glut,",
+      "body": "「私は千倍の熱でお前を抱きしめる（Ich herze dich mit tausendfacher Glut）」——「tausendfacher Glut（千倍の熱）」という誇張法（Hyperbel）が、前行での「kalt（冷たい）唇」の告発への直接的な反論として機能する：ファウストは自らの感情的な熱を言語によって主張するが、その言語的な「熱（Glut）」は身体的な「冷たさ（Kälte）」を覆せない。「herzen（抱きしめる・愛撫する）」という動詞が「herzte es diese ganze Nacht（一晩中それを抱いた）」（v.4444）のマルガレーテの言葉で後に反響する：ファウストがマルガレーテを「herzen（抱く）」と約束し、マルガレーテが殺した子供を「herzen（抱いた）」という両者の「抱擁」の連鎖が詩的に照応する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Und bist du's denn? Und bist du's auch gewiß?",
+      "body": "「本当にあなたなの？確かにあなたなの（Und bist du's denn? Und bist du's auch gewiß）？」——「denn（本当に・いったい）」と「auch gewiß（確かにも）」という疑いの副詞の二重化が、認識の確実性への疑念として機能する。場面冒頭の「Du bist's! O sag' es noch einmal!（あなたなの！もう一度言って）」という確信から、「Und bist du's denn? Und bist du's auch gewiß?」という疑念への揺り戻しが、マルガレーテの認識が確信と疑惑の間を振動する不安定な精神状態を示す。直前のファウストの「Komm! Folge mir!」という命令に対する応答として、「本当にあなたなの？」という問いが挿入されることで、命令への服従以前に確認を求めるマルガレーテの主体的な抵抗として機能する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Ich bin's! Komm mit!",
+      "body": "「私だ！一緒に来い（Ich bin's! Komm mit）！」——場面を通じた「Ich bin's!」という同一性宣言の四度目の反復（v.4469b「Ich bin's!」、v.4502「Ich bin's! Komm mit!」）。「書斎II」での「Ich bin's, bin Faust, bin deines gleichen!（私はファウストだ）」という三重反復と対照して、牢獄場面では「Ich bin's!」という二語の圧縮形が繰り返される——実存的宣言としての拡大された同一性の主張から、緊急脱出という実践的文脈での最小限の同一性の主張への縮小として読める。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Und weißt du denn, mein Freund, wen du befreyst?",
+      "body": "「あなたは誰を救おうとしているか知っているの、友よ（Und weißt du denn, mein Freund, wen du befreyst）？」——マルガレーテの問いが狂気の中での鋭い自己認識として機能する瞬間。「wen du befreyst（誰を救うのか）」という問いが、次の段落（v.4507–4517）の「Meine Mutter hab' ich umgebracht, / Mein Kind hab' ich ertränkt（母を殺し、子を溺れさせた）」という告白への直接の橋渡しとして機能する：彼女が「誰」であるかを問うことで、自分自身が「罪人」であるという自覚が芽生え始めている。「mein Freund（私の友）」という呼称がv.4485「Mein Freund, so kurz von mir entfernt（友よ、私から離れてわずかなのに）」の反響として、愛称から認識へと変化している。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Komm! komm! schon weicht die tiefe Nacht.",
+      "body": "「来い！来い！もう深い夜は退いていく（Komm! komm! schon weicht die tiefe Nacht）」——「schon（もう・すでに）」という副詞が夜明けの接近という時間的緊急性を示す。「tiefe Nacht（深い夜）」という語が前小分割（v.4405）の「Mich faßt ein längst entwohnter Schauer（長いこと忘れていた戦慄が私をとらえる）」での夜の牢獄の雰囲気を収束させる：夜が「weicht（退く）」ということは夜明けが来つつあるということを意味し、メフィストが手配した「夜の間の脱獄」が時間的に完了しなければならない。「Die Nacht weicht（夜が退く）」——光の訪れが脱獄の失敗の告知として機能する詩的アイロニー。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Meine Mutter hab' ich umgebracht,\nMein Kind hab' ich ertränkt.",
+      "body": "「私の母を私は殺した、私の子を私は溺れさせた（Meine Mutter hab' ich umgebracht, / Mein Kind hab' ich ertränkt）」——詩劇全体で最も衝撃的な告白の二行。「umgebracht（殺した）」と「ertränkt（溺れさせた）」という二つの過去分詞が、グレートヒェンが犯した二つの罪（意図せずして睡眠薬を過剰投与した母親の死、および溺死させた私生児）を平行した文体で提示する。「hab' ich（私は〜した）」という完了時制の反復が告白的な自己帰責として機能する：外部に帰責していた狂気の言語（前段落「Wer brachte mich drum?」）が、ここでは自己責任の明確な告白へと転換する。ヨブ記でヨブが「口をもって罪を犯さず（non peccavit Job labiis suis）」という評価を受けるのとは対照的に、マルガレーテは「私の口で」自らの罪を告白する——この告白が逆説的にマルガレーテの精神的明晰さの瞬間として機能する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 22
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Deine liebe Hand! – Ach aber sie ist feucht!\nWische sie ab! Wie mich däucht\nIst Blut dran.",
+      "body": "「あなたの愛しい手！– ああでも湿っている！拭いてちょうだい！私には血がついているように見える（Deine liebe Hand! – Ach aber sie ist feucht! / Wische sie ab! Wie mich däucht / Ist Blut dran）」——「deine liebe Hand（あなたの愛しい手）」という愛称表現から「sie ist feucht（湿っている）」「Ist Blut dran（血がついている）」という幻視への転換が一行の中で起きる。シェイクスピア「マクベス」第5幕第1場でレディ・マクベスが「Out, damned spot! out, I say!」と叫びながら手の血を洗おうとする場面との照応：どちらも罪への精神的かかわりが「手の血（Blut）」という幻覚的形象として体験される。ただし、マルガレーテが「自分の手」ではなく「ファウストの手」に血を見る点が決定的に異なる：彼女の視点ではファウストも（メフィストを通じて間接的に）彼女の子の死に責任があるという無意識の告発として機能する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Laß das Vergang'ne vergangen seyn,\nDu bringst mich um.",
+      "body": "「過ぎ去ったことは過ぎ去ったままにしておこう、お前は私を殺している（Laß das Vergang'ne vergangen seyn, / Du bringst mich um）」——「Vergang'ne vergangen（過ぎ去ったことを過ぎ去ったままに）」という語根反復（Figura etymologica）が「過去の封印」として機能する。「Du bringst mich um（お前は私を殺している）」——「umbringen（殺す・滅ぼす）」という動詞を使ってファウストがマルガレーテへの感情的崩壊を表現する：「Meine Mutter hab' ich umgebracht（私の母を殺した）」という告白の動詞「umbringen」が、そのままファウスト自身の「Du bringst mich um」という言葉として反響する。告白の動詞が告白者の相手に向けて返ってくるという詩的鏡像関係。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Ich will dir die Gräber beschreiben,\nFür die mußt du sorgen\nGleich morgen;",
+      "body": "「私はあなたにお墓の場所を教えてあげる、すぐ明日にでもあなたが面倒を見なければならないお墓を（Ich will dir die Gräber beschreiben, / Für die mußt du sorgen / Gleich morgen）」——「ich will（私は〜するつもりだ）」という意志の表明が場面全体の中で最も理性的・計画的な言葉として現れる：狂気の中に突然現れる明晰な現実認識の島。「beschreiben（記述する）」という動詞が「書く（schreiben）」という文字的行為を含意する：マルガレーテが「書く者（Schreiber）」として墓の場所を設計するというメタファー的含意。「Gleich morgen（すぐ明日）」という時間指定が死刑執行日（翌朝）への自覚を示す：「Ist's morgen früh nicht zeitig genung?（明日の朝ではまだ早くはないか）」という前節の言葉の反響として、「明日（morgen）」が逆説的に墓の世話の時として計画される。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "intertextual",
+      "anchor": "Mich an deine Seite zu schmiegen\nDas war ein süßes, ein holdes Glück!\nAber es will mir nicht mehr gelingen,",
+      "body": "「あなたの傍に身を寄せること、それは甘い、愛しい幸せだった！でももうそれはうまくいかない（Mich an deine Seite zu schmiegen / Das war ein süßes, ein holdes Glück! / Aber es will mir nicht mehr gelingen）」——「Das war（それはあった）」という過去形が現在との断絶を言語的に確定させる：「甘い幸せ（süßes Glück）」は「war（あった）」という動詞によって完全に過去のものとして封印される。「es will mir nicht mehr gelingen（もうそれはうまくいかない）」という非人称的な「es（それが）」の主語が意志の不在として機能する：自分の意志では「schmie​gen（身を寄せる）」ことができない——「mir ist's als müßt' ich mich zu dir zwingen（自分を無理にあなたに引き寄せなければならないように）」という感覚の身体的記述として継続される。コヘレト第1章v.11「Non est priorum memoria（先のことどもの記憶はない）」との照応：「甘い幸せ（süßes Glück）」の記憶は存在するが、その現実はもはや回復できないという過去と現在の断絶。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Fühlst du daß ich es bin, so komm!",
+      "body": "「私だとわかるなら、来い（Fühlst du daß ich es bin, so komm）！」——「Fühlst du（感じるか）」という条件節が「Weißt du（知っているか）」ではなく感覚的認識に訴える：ファウストは理性的な確信ではなく感情的・身体的な「感じる（fühlen）」という行為に訴えることで、マルガレーテへのアプローチを変換する。「書斎II」のファウストの「Wie spricht ein Geist zum andern Geist（精神が精神に語りかけるように）」という認識論的理想が、ここでは「Fühlst du（感じるか）」という感覚的な問いに縮小される——精神的認識から身体的感覚への降下。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Dahinaus?",
+      "body": "「そちらへ（Dahinaus）？」——一語の問い。「dahinaus（そちらの外の方へ）」という副詞が「Kerker（牢獄）」の内部から「外（hinaus）」への指示として機能する：マルガレーテにとって「外（hinaus）」は慣れ親しんだ空間ではなく未知の「そちら（dahin）」として現れる。舞台的には扉の方向への指示として機能し、「In's Freye（外へ）」というファウストの返答への橋渡しをなす。この単語の問いが、前後のファウストの「Fühlst du daß ich es bin, so komm!」と「In's Freye.」という短い断言に挟まれることで、三者が一つの分割詩行（vers partagé）的な断片として機能する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "In's Freye.",
+      "body": "「外へ（In's Freye）」——「frey（自由な・野外の）」という形容詞の名詞化「Freye（自由な場所・野外）」が、一語で「牢獄（Kerker）」の対極を定義する。前小分割（v.4424）での「ich komme, dich zu befreyen（お前を自由にしに来た）」という「befreyen（解放する）」という動詞が、ここでは「Freye（自由な場所）」という名詞として具体的な空間として提示される。ただし、次の段落でマルガレーテは「In's Freye」を「墓（Grab）が待つ場所・死（Tod）が待ち伏せする場所」として受け取る：ファウストにとっての「外（Freye）」が「生の空間」であるのに対し、マルガレーテにとってそれは「死の空間」として現れる——「自由」の意味論的な乖離が彼らの根本的な断絶として提示される。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "Von hier in's ewige Ruhebett\nUnd weiter keinen Schritt –\nDu gehst nun fort? O Heinrich, könnt' ich mit!",
+      "body": "「ここから永遠の安らぎの床へ、それ以上一歩も進まずに–あなたは行くの？ああハインリヒ、私もご一緒できたなら（Von hier in's ewige Ruhebett / Und weiter keinen Schritt – / Du gehst nun fort? O Heinrich, könnt' ich mit）！」——「ewiges Ruhebett（永遠の安らぎの床）」という語が「Kerker（牢獄）」の代替として墓を指示する：マルガレーテにとって真の「Freye（解放）」は「ewige Ruhe（永遠の安らぎ）」すなわち死であることを示す。「O Heinrich（ああハインリヒ）」——ファウストの本名「ハインリヒ（Heinrich）」が初めて（または稀に）使われる瞬間。「ハインリヒ・ファウスト」という実名の使用が、偽名・身分・知識人的位格を超えた個人的・愛情的な関係を示す：「Faust（こぶし）」という名前の背後にある人間的な「ハインリヒ（Heinrich）」への呼びかけ。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 21,
+      "type": "commentary",
+      "anchor": "Du kannst! So wolle nur! die Thür steht offen.",
+      "body": "「できる！ただ意志を持てばいい！扉は開いている（Du kannst! So wolle nur! die Thür steht offen）」——「du kannst（できる）」「so wolle nur（ただ意志を持てば）」「die Thür steht offen（扉は開いている）」という三段階の自由意志論が一行に圧縮される。「So wolle nur!（ただ意志を持てばいい）」という命令形の「wolle（意志を持て）」が哲学的な意志の問題を即物的な状況に投入する：スコラ哲学・啓蒙哲学の「意志の自由（liberum arbitrium）」という概念が「ただ意志を持てばいい」という単純な呼びかけとして提示される。ヴェイユ「Accepter le vide」での「意志の降伏（le consentement de la volonté）」——ヴェイユにとって救済は「意志を持つこと」ではなく「意志を手放すこと」から来る——との逆照応：ファウストは「意志（Wille）を持て」と言い、ヴェイユは「意志を手放せ」と言う。"
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Ich darf nicht fort; für mich ist nichts zu hoffen.",
+      "body": "「私は去ってはいけない；私には何の望みもない（Ich darf nicht fort; für mich ist nichts zu hoffen）」——「darf nicht（してはいけない・してはならない）」という禁止の様相動詞が、「kannst（できる）」「wolle（意志を持て）」というファウストの肯定の語彙と正確に対照をなす。「für mich ist nichts zu hoffen（私には何の望みもない）」というコヘレト的な希望の絶無が、マルガレーテが死を選ぶ根拠として提示される：生きて逃げることへの「Hoffnung（希望）」の欠如が死の選択を導く。この「nichts zu hoffen（何の望みもない）」が「Nimmermehr（もう二度と）」というグレートヒェンの部屋でのリフレインの回帰として機能する。",
+      "targetId": "goethe_faust_gretchens_stube_3374",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 22,
+      "type": "commentary",
+      "anchor": "Es ist so elend betteln zu müssen,\nUnd noch dazu mit bösem Gewissen!",
+      "body": "「乞食をしなければならないのはあまりにも惨め、しかも悪い良心を持ちながら（Es ist so elend betteln zu müssen, / Und noch dazu mit bösem Gewissen）！」——「bösem Gewissen（悪い良心）」という語が、社会的・外的な「恥辱（Schande）」と内的な「罪悪感（Schuld）」の二重苦として機能する：逃亡後に待つのは乞食という社会的惨状と「良心の呵責（böses Gewissen）」という内的苦悩の永続であり、どちらも死より劣ると判断される。ヴェイユ「Décréation」での「affliction（苦悩）は魂の中心にまで達する」という命題と照応：マルガレーテが「böses Gewissen（悪い良心）」を携えて生きることを「elend（惨め）」と判断するのは、苦悩が「魂の中心」にまで届いているからである。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 23,
+      "type": "commentary",
+      "anchor": "Ich bleibe bey dir.",
+      "body": "「私はお前の傍にいよう（Ich bleibe bey dir）」——詩劇全体でファウストが最も「留まること（bleiben）」に近づく一行。「bleibe（留まる）」という動詞が、場面を通じて「Komm mit!（来い）」「Eile!（急げ）」「Folge mir!（ついて来い）」と叫び続けてきたファウストの転換として機能する：外へと向かう運動が「bey dir（お前の傍に）」という内的な留まりへと転換される。「bey dir（お前の傍に）」——しかしこの後に続く舞台指示でマルガレーテは「Geschwind! Geschwind!（急いで！急いで！）」と始まる幻覚の言語に移行するため、ファウストの「Ich bleibe bey dir」という言葉は彼女に届かない。「留まること」の提案が届かないという詩劇的アイロニー。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "prosody",
+      "anchor": "Geschwind! Geschwind!\nRette dein armes Kind.\nFort! immer den Weg\nAm Bach hinauf,\nUeber den Steg,\nIn den Wald hinein,\nLinks, wo die Planke steht,\nIm Teich.",
+      "body": "「急いで！急いで！あなたの哀れな子を救って。行って！ずっとその道を小川をさかのぼって、橋を渡って、森の中へ、左側、柵のあるところ、池の中（Geschwind! Geschwind! / Rette dein armes Kind. / Fort! immer den Weg / Am Bach hinauf, / Ueber den Steg, / In den Wald hinein, / Links, wo die Planke steht, / Im Teich）」——前節までの長い散文的行とは打って変わった、極めて短い断片的な行の連続。「Am Bach hinauf（小川をさかのぼって）」「Ueber den Steg（橋を渡って）」「In den Wald hinein（森の中へ）」「Links（左に）」「Im Teich（池の中）」という具体的な地理的指示が、実際に子供を溺れさせた現場への道順として幻覚的に再現される：マルガレーテは現在の牢獄ではなく過去の溺死現場を見ている。短い行への分解が息を切らした緊急性・パニック状態の言語的模倣として機能する。"
+    },
+    {
+      "paragraphId": 24,
+      "type": "commentary",
+      "anchor": "Es will sich heben,\nEs zappelt noch,\nRette! rette!",
+      "body": "「浮き上がろうとしている、まだばたついている、救って！救って！（Es will sich heben, / Es zappelt noch, / Rette! rette）！」——「Es（それが）」という非人称代名詞が子供を指す：「Kind（子供）」という人称が「Es（それ）」という物体化された指示代名詞として語られることで、母親の精神的分裂——子供を愛しながらも「物（Es）」として語る——が言語的に表れる。「zappelt（ばたつく）」という動詞が溺れる乳幼児の身体的動きの生々しい描写として機能する：詩劇全体で最も身体的・直接的な死の描写の一つ。「Rette! rette!（救って！救って）！」という反復命令が、「Gretchen! Gretchen!」（para 1）というファウストの開幕の呼びかけの反響として構造的に照応する：場面の始まりと現在が「救助（Rettung）」という主題で結びつく。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "Nur einen Schritt, so bist du frey!",
+      "body": "「たった一歩、そうすれば自由になれる（Nur einen Schritt, so bist du frey）！」——「Nur einen Schritt（たった一歩）」という最小化の表現が「So wolle nur!（ただ意志を持てばいい）」（v.4543）と同じ「ただ〜するだけ（nur〜）」という構造を反復する：ファウストは一貫して救出の容易さを強調することで説得しようとするが、マルガレーテにはその「一歩（Schritt）」が不可能である。「frey（自由）」という語が「In's Freye（外へ）」（v.4538）の反響として機能する：ファウストにとって「外（Freye）」が「自由（frey）」であり続けるのに対し、マルガレーテにとってそれは地理的に死（池・母の亡霊）に直結する場所として幻覚されている。"
+    },
+    {
+      "paragraphId": 26,
+      "type": "prosody",
+      "anchor": "Da sitzt meine Mutter auf einem Stein,\nEs faßt mich kalt beym Schopfe!\nDa sizt meine Mutter auf einem Stein\nUnd wackelt mit dem Kopfe;",
+      "body": "「私の母が石の上に座っている、冷たいものが私の頭の毛をつかむ！私の母が石の上に座っている——そして頭を振っている（Da sitzt meine Mutter auf einem Stein, / Es faßt mich kalt beym Schopfe! / Da sizt meine Mutter auf einem Stein / Und wackelt mit dem Kopfe）」——「Da sitzt meine Mutter auf einem Stein（私の母が石の上に座っている）」という同一行の二度の反復が、幻視の強迫的な現実として機能する：初めて見て驚き（「Es faßt mich kalt beym Schopfe！（冷たいものが頭の毛をつかむ）」という恐怖）、再び確認する（「Da sizt meine Mutter auf einem Stein」の再反復）という二段階の幻視体験が詩行構造として実演される。第二連のグレートヒェンの部屋の「Meine Ruh' ist hin / Meine Ruh' ist hin」というリフレインの反復形式（para 1 / para 4 / para 8）と構造的に照応する：繰り返しが強迫的状態の形式として機能する。",
+      "targetId": "goethe_faust_gretchens_stube_3374",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 26,
+      "type": "intertextual",
+      "anchor": "Sie schlief so lange, sie wacht nicht mehr.\nSie schlief damit wir uns freuten.\nEs waren glückliche Zeiten!",
+      "body": "「彼女は長い間眠っていた、もう目を覚まさない。彼女は私たちが喜べるように眠った。幸福な時代だった（Sie schlief so lange, sie wacht nicht mehr. / Sie schlief damit wir uns freuten. / Es waren glückliche Zeiten）！」——「Es waren glückliche Zeiten（幸福な時代だった）」という過去形の感嘆が、この小分割全体の最終行として機能する。この小分割は「Gretchen! Gretchen!（v.4460）」というファウストの叫びから始まり、「Es waren glückliche Zeiten!」という過去への追憶で終わる：解放の試みが現在の脱出ではなく過去への退行として帰結する。コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」との照応：「幸福な時代（glückliche Zeiten）」も過ぎ去り（praeterit）、「母が眠った時代」も過ぎ去った——ファウストの「過ぎ去ったことは過ぎ去ったままに（Laß das Vergang'ne vergangen seyn）」というv.4518の言葉が、ここではマルガレーテ自身によって「幸福な時代（glückliche Zeiten）」として遡及的に確認される。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    }
+  ]
+}
