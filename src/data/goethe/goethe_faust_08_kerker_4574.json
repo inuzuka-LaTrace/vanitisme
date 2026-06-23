@@ -9,7 +9,7 @@
   "category": "goethe",
   "originalLang": "de-DE",
   "modernRelevance": "★★★★★",
-  "context": "ゲーテ『ファウスト』第一部「牢獄（Kerker）」最終小分割（v.4574–4612）。第一部全体の終結を構成する39行。ファウストの強制的脅取りの試みはマルガレーテに屠谁的と届き（v.4574–4578）、彼女はメフィストを认識して神の富に自らを娜ける（v.4601–4609）。第一部全体を駆け抜ける三層の対置が最終街を言語的に制御する：①メフィスト「Sie ist gerichtet!（彼女は裁かれた）」②上からの声「Ist gerettet!（救われた）」③メフィスト「Her zu mir!（我の元へ！）」④内部からの游び声「Heinrich! Heinrich!」。「gerichtet（裁かれた）」と「gerettet（救われた）」の抗対はドイツ文学史上最も論じられる結末の一つ。シラー、ヘーゲル、コールリッジ、W. H.アデンらをへて現代までの神学的・哲学的の裁判論議が続く。ゲーテはエッカーマンとの対話の中で「グレートヒェンは罪人としてではなく罪人たる者として救われる」と述べた。最終行「Heinrich! Heinrich!」は幻の如く消えていくマルガレーテの声が、突然打ち切られる第一部の隣幕となる。",
+  "context": "ゲーテ『ファウスト』第一部「牢獄（Kerker）」の最終部分（v.4574–4612）は、第一部全体を締めくくる悲劇的・救済史的な破局の頂点であり、言語的コミュニケーションの完全な崩壊から超越的な神判の現出までを描き出す。ファウストの命令的言語（「Komm mit!」など）がマルガレーテの狂気の前で完全に無力化（kein Sagen）した結果、彼は「担ぎ出す（hinweg zu tragen）」という身体的強制の行使へと移行するが、それに対して突きつけられる「暴力には耐えられない（ich leide keine Gewalt!）」という拒絶は、救出の試みそのものが本質的には「殺人的な（mörderisch）」加害性を帯びているという逆説を暴き出す。緊迫する夜明け（Der Tag graut!）の到来は、ファウストにとっては実践的な危機の猶予の終わりを意味するのに対し、マルガレーテにとっては自らの処刑の日を「結婚式の日（Hochzeittag）」へと倒錯的に同一化させる終末論的な時間の始まりであり、失われた処女性の象徴である引き裂かれた「花冠（Kranz）」の記憶が再び召喚されることで、彼女の精神的崩壊は美学的な極限へと回収される。\n後半部に展開する、裁判長が杖を折る死刑宣告の法慣習（das Stäbchen bricht）や処刑台（Blutstuhl）の具体的な幻視は、迫り来る物質的な死の恐怖を強烈に実演する。そこに突如として現れるメフィストフェレスの姿は、マルガレーテによって「聖なる場所（heiliger Ort）」への異分子の侵入として知覚され、彼女を現世的な逃亡から超越的な神の審判へと跳躍させる決定的な契機となる。ファウストが発する地上的・生物学的な生の命令「お前は生きなければならない（Du sollst leben!）」に対し、マルガレーテは「神の裁き（Gericht Gottes）」への全面的な自己委譲（übergeben）をもって応答する。この瞬間、彼女の言語は現世的な恐怖を超克し、シモーヌ・ヴェイユ的な「自己滅却（デクレアシオン）」すなわち、神の意志の前に自らの自我を完全に明け渡すという霊的純粋性へと昇華され、牢獄という幽閉の物理的現実は、恩寵が作動する霊的な閾（Liminalität）へと変容を遂げる。\n場面そして第一部全体の構造的根幹をなすのは、ドイツ文学史上最も熾烈な論争を呼び起こしてきた二つの声の決定的な拮抗である。メフィストフェレスが下す即物的な有罪宣告「彼女は裁かれた（Sie ist gerichtet!）」に対し、間髪を入れず響き渡る天上の声「救われた（Ist gerettet!）」の対置は、悪魔的な法秩序が神的な恩寵の次元によって一瞬にして無効化されるという詩劇全体のキリスト教的・認識論的な逆説を完成させる。ここでの神的宣言における主語の省略（Ist gerettet!）は、救済が個別の実存を超えた宇宙的な出来事として成就したことを示している。ゲーテがエッカーマンに「グレートヒェンは罪人としてではなく罪ある者として救われる」と語った通り、ファウストが悪魔の絶対的な命令（Her zu mir!）によって強制的に連れ去られる一方で、内部から反響しつつ消えゆくマルガレーテの最後の呼び声「ハインリヒ！ハインリヒ！（Heinrich! Heinrich!）」は、開幕の呼びかけと対をなす鏡像的な円環を閉じ、第一部全体の道徳的受苦を美学的な純粋性へと昇華させつつ、壮絶な余韻を伴った破局的結節を告げる。",
   "keywords": [
     "gerichtet und gerettet",
     "Gericht Gottes",
@@ -45,7 +45,7 @@
       "verses": "v.4576–4578",
       "speaker": "Margarete",
       "original": "Laß mich! Nein, ich leide keine Gewalt!\nFasse mich nicht so mörderisch an!\nSonst hab' ich dir ja alles zulieb gethan.",
-      "provisionalTranslation": "放してくれ！嫌だ、私は暴力には耐えられない！\nそんな殺人的な手で掴まないで！\n前はいつもあなたのために何でもしてあげたのに。"
+      "provisionalTranslation": "放してくれ！嫌だ、私は暴力には耐えられない！\nそんな人殺しみたいな手で掴まないで！\n前はいつもあなたのために何でもしてあげたのに。"
     },
     {
       "id": 3,
@@ -150,7 +150,7 @@
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Laß mich! Nein, ich leide keine Gewalt!\nFasse mich nicht so mörderisch an!",
-      "body": "「放してくれ！嫌だ、私は暴力には耐えられない！そんな殺人的な手で掴まないで（Laß mich! Nein, ich leide keine Gewalt! / Fasse mich nicht so mörderisch an）！」——「ich leide keine Gewalt!（私は暴力に耐えられない）」という拒否が、ヴェイユ「La Violence」の核心命題「力は人間を物体に変える（la force qui transforme l'être humain en chose）」を詩的に体現する：前小分割（v.4437）での「Fasse mich nicht so gewaltsam an!（そんなに手荒く掴まないでくれ）」の反響として、ここでは「Gewalt（暴力）」と「mörderisch（殺人的）」という語が加わることで、ファウストの「救助」が「暴力（Gewalt）」として定義される。「mörderisch（殺人的な）」という形容詞の使用が逆説的：ファウストが「救出（Rettung）」しようとする行為がマルガレーテには「mörderisch（殺人的）」に感じられる。",
+      "body": "「放してくれ！嫌だ、私は暴力には耐えられない！そんな人殺しみたいな手で掴まないで（Laß mich! Nein, ich leide keine Gewalt! / Fasse mich nicht so mörderisch an）！」——「ich leide keine Gewalt!（私は暴力に耐えられない）」という拒否が、ヴェイユ「La Violence」の核心命題「力は人間を物体に変える（la force qui transforme l'être humain en chose）」を詩的に体現する：前小分割（v.4437）での「Fasse mich nicht so gewaltsam an!（そんなに手荒く掴まないでくれ）」の反響として、ここでは「Gewalt（暴力）」と「mörderisch（殺人的）」という語が加わることで、ファウストの「救助」が「暴力（Gewalt）」として定義される。「mörderisch（人殺しのような、殺人的な）」という形容詞の使用が逆説的：ファウストが「救出（Rettung）」しようとする行為がマルガレーテには「mörderisch」に感じられる。",
       "targetId": "weil_la_violence",
       "targetParagraphId": 1
     },
