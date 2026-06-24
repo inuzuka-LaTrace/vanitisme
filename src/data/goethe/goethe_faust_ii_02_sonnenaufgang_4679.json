@@ -1,0 +1,134 @@
+{
+  "id": "goethe_faust_ii_sonnenaufgang_4679",
+  "title": "Faust – Zweiter Teil: Sonnenaufgangsmonolog (v.4679–4727)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie zweiter Teil, Erster Act, v.4679–4727. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+  "year": "1832",
+  "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第二部第一幕の掉尾に位置する「日の出の場」にて、レテの川水の忘却による精神的治癒を経て覚醒したファウストが、新天新地を前にして歌い上げる長演説（v.4679–4727）。『ファウスト』第二部全体の実存的・認識論的出発点を形成する記念碑的な転換点であり、形式には、地上から天上への「上昇」を象徴するダンテの『神曲』と同じテルツァ・リーマ（三行連句：ABA BCB CDC…）が採用される。このモノローグでは、前部（グレートヒェン破局）の罪悪感の忘却と、それによって再起動された実存のエネルギーが、壮大な宇宙的・自然の階梯と交錯する四つの論理的展開をもって素描される。まず、エーテルの薄明（Aetherische Dämm'rung）と大地の息吹によってファウストの肉体と精神が「最高の存在へと絶えず努め続ける（Zum höchsten Daseyn immerfort zu streben）」という純粋な衝動へと覚醒・再起動され（v.4679–4694）、次いでアルプスの山頂（Gipfelriesen）が永遠の光（太陽）を先取りして生命に満ち溢れ輝くミクロコスモスとして壮麗に語られる（v.4695–4703）。しかし、出現した太陽という真理の「炎の過剰（Flammen-Uebermaß）」を直視しようとした瞬間、ファウストは強烈な瞳の痛み（Augenschmerz）に貫かれ、顔を背けるという絶対的な認識論的限界に直面する（v.4704–4714）。この絶対的な光の暴力（脱創造的虚無）から退いたファウストは、太陽を背に、眼下の岩礁を狂暴に轟かせる瀑布の激流とその飛沫の中に架かる「彩りある弓（bunter Bogen）」の「移ろい続ける不変（Wechsel-Dauer）」へと知性の眼差しを注ぎ、間接的な光の階梯にこそ人間の生があることを観照する。最終行「彩りある反照の中に私たちは生命を持つ（Am farbigen Abglanz haben wir das Leben）」というゲーテ認識論の極致の格言は、プラトンの洞窟の比喩の肯定的転回・創造的超克であり、同時にゲーテ自身の『色彩論（Farbenlehre）』（1810）の思想の定式化として、真理を直接的にではなく「媒介（反照）」においてのみ受容し得るという人間の宿命と至福を宣言している。",
+  "keywords": [
+    "Sonnenaufgangsmonolog",
+    "Terza rima",
+    "Letheの回復",
+    "Am farbigen Abglanz",
+    "Wechsel-Dauer",
+    "Paradies",
+    "Flammen-Uebermaß",
+    "Ist's Lieb ist's Haß",
+    "瀑布と虹",
+    "Farbenlehre"
+  ],
+  "relatedTexts": [
+    "goethe_faust_ii_anmuthige_gegend_4613",
+    "goethe_faust_nacht_354",
+    "goethe_faust_nacht_418",
+    "hieronymus_ecclesiastes_1",
+    "dante_paradiso_canto_33",
+    "weil_accepter_le_vide"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.4679–4694",
+      "speaker": "Faust",
+      "original": "Des Lebens Pulse schlagen frisch lebendig,\nAetherische Dämm'rung milde zu begrüßen;\nDu Erde warst auch diese Nacht beständig,\nUnd athmest neu erquickt zu meinen Füßen,\nBeginnest schon mit Lust mich zu umgeben,\nDu regst und rührst ein kräftiges Beschließen,\nZum höchsten Daseyn immerfort zu streben. –\nIn Dämmerschein liegt schon die Welt erschlossen,\nDer Wald ertönt von tausendstimmigem Leben,\nThal aus, Thal ein ist Nebelstreif ergossen;\nDoch senkt sich Himmelsklarheit in die Tiefen,\nUnd Zweig und Aeste, frisch erquickt, entsprossen\nDem duft'gen Abgrund wo versenkt sie schliefen;\nAuch Farb' an Farbe klärt sich los vom Grunde,\nWo Blum' und Blatt von Zitterperle triefen,\nEin Paradies wird um mich her die Runde.",
+      "provisionalTranslation": "生命の脈拍が新たに生き生きと打ち始める、\nエーテルの薄明を穏やかに迎えるために；\n大地よ、お前もまたこの夜を変わらずに在り続け、\n私の足元で新たに爽快に息をしている、\nもう喜びをもって私を取り囲み始め、\nお前は私を動かし揺り動かして力強い決意へと、\n最高の存在へと絶えず努め続けることへの。–\n薄明の光の中でもう世界が開かれて横たわり、\n森は千の声の生命で響き渡り、\n谷を上り谷を下り霧の帯が注いでいる；\nしかし天の澄明さが深みへと降り、\n枝と小枝が新たに爽快に、芽吹いている\n香しい深淵から、沈んで眠っていたところから；\n色もまた色ごとに地面から明るく解き放たれ、\n花と葉が露の真珠を滴らせる場所に、\n楽園が私の周りに広がっていく。"
+    },
+    {
+      "id": 2,
+      "verses": "v.4695–4703",
+      "speaker": "Faust",
+      "original": "Hinaufgeschaut! - Der Berge Gipfelriesen\nVerkünden schon die feierlichste Stunde;\nSie dürfen früh des ewigen Lichts genießen\nDas später sich zu uns hernieder wendet.\nJetzt zu der Alpe grüngesenkten Wiesen\nWird neuer Glanz und Deutlichkeit gespendet,\nUnd stufenweis herab ist es gelungen; –\nSie tritt hervor! – und, leider schon geblendet,\nKehr' ich mich weg, vom Augenschmerz durchdrungen.",
+      "provisionalTranslation": "見上げよ！– 山々の峰の巨人たちが\nすでに最も厳かな時を告げる；\n彼らは後で私たちへと降りてくる\n永遠の光を早くから楽しむことができる。\n今アルプスの緑に傾く牧草地へ\n新しい輝きと鮮明さが与えられ、\n段階的に下へと成し遂げられていく；–\n彼女は前に出た！– そして、すでに目がくらんで、\n私は瞳の痛みに貫かれて、顔を背ける。"
+    },
+    {
+      "id": 3,
+      "verses": "v.4704–4714",
+      "speaker": "Faust",
+      "original": "So ist es also, wenn ein sehnend Hoffen\nDem höchsten Wunsch sich traulich zugerungen,\nErfüllungspforten findet flügeloffen;\nNun aber bricht aus jenen ewigen Gründen\nEin Flammen-Uebermaß, wir stehn betroffen;\nDes Lebens Fackel wollten wir entzünden,\nEin Feuermeer umschlingt uns, welch' ein Feuer!\nIst's Lieb? Ist's Haß? die glühend uns umwinden,\nWith Schmerz und Freuden wechselnd ungeheuer,\nSo daß wir wieder nach der Erde blicken,\nZu bergen uns in jugendlichstem Schleier.",
+      "provisionalTranslation": "それはこういうことだ、憧れる希望が\n最高の望みに打ち明けて戦い取って、\n成就の扉を翼のように開いて見つける時；\nしかし今あの永遠の根源から\n炎の過剰が迸り、私たちは驚き立ちすくむ；\n生命の松明を灯そうとしたのに、\n火の海が私たちを取り囲む、なんたる火よ！\nそれは愛か？それは憎しみか？燃えながら私たちに巻き付いて、\n苦悩と喜びとが交互に途方もなく、\nそのため私たちはまた大地へと目を向け、\n最も若々しいヴェールの中に身を隠す。"
+    },
+    {
+      "id": 4,
+      "verses": "v.4715–4727",
+      "speaker": "Faust",
+      "original": "So bleibe denn die Sonne mir im Rücken!\nDer Wassersturz, das Felsenriff durchbrausend,\nIhn schau' ich an mit wachsendem Entzücken.\nVon Sturz zu Sturzen wälzt er jetzt in tausend\nDann aber tausend Strömen sich ergießend,\nHoch in die Lüfte Schaum an Schäume sausend.\nAllein wie herrlich diesem Sturm ersprießend,\nWölbt sich des bunten Bogens Wechsel-Dauer,\nBald rein gezeichnet, bald in Luft zerfließend,\nUmher verbreitend duftig kühle Schauer.\nDer spiegelt ab das menschliche Bestreben.\nIhm sinne nach und du begreifst genauer:\nAm farbigen Abglanz haben wir das Leben.",
+      "provisionalTranslation": "それならば太陽を私の背中に留まらせよ！\n滝が岩礁を轟かせながら流れ下り、\n私は増す喜びをもってそれを見つめる。\n落ちては落ちてとそれは今や千に\nそしてまた千の流れに注ぎ出しながら転がり、\n高く大気の中へと泡が泡に轟いていく。\nただいかに素晴らしくこの嵐から育まれて、\n彩りある弓の移ろい続ける不変がアーチを作り、\n今は純粋に描かれ、今は空気の中に溶けていき、\n周囲に香しい冷たいそよ風を広げる。\nそれは人間の努力を鏡に映す。\nそれをじっくり考えれば、より正確にわかる：\n彩りある反照の中に私たちは生命を持つ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Des Lebens Pulse schlagen frisch lebendig,\nAetherische Dämm'rung milde zu begrüßen;\nDu Erde warst auch diese Nacht beständig,",
+      "body": "「生命の脈拍が新たに生き生きと打ち始める、エーテルの薄明を穏やかに迎えるために；大地よ、お前もまたこの夜を変わらずに在り続けた（Des Lebens Pulse schlagen frisch lebendig, / Aetherische Dämm'rung milde zu begrüßen; / Du Erde warst auch diese Nacht beständig）」──「快適な景色」前場面でのアリエルの「Gelenk sind bald die krampferstarrten Glieder（痙攣に固まった四肢はまもなく柔らかくなる）」という予告が、ここで「Des Lebens Pulse schlagen frisch lebendig（生命の脈拍が新たに生き生きと打つ）」として成就する：「krampferstarrt（痙攣に固まった）」から「frisch lebendig（新たに生き生きとした）」への実存的変容。また、「Du Erde warst auch diese Nacht beständig（大地よ、お前もまたこの夜を変わらずに在り続けた）」という大地への語り掛けは、第一部「夜（Nacht）」冒頭における「Habe nun, ach! Philosophie...durchaus studiert」という近代知性の閉塞と絶望、学問の無気力に対する、地上的・即物的実存への肯定による視座転換を意味する。コヘレト第1章v.4「Generatio praeterit et generatio advenit, terra autem in aeternum stat（世代は過ぎ去り世代は来る、しかし大地は永遠に立ち続ける）」が示す大地の厳然たる永続性が、ここでは忘却の彼方に目覚めたファウストの実存的再生を支える確固たる存在論的基盤として肯定的に反照されている。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Du regst und rührst ein kräftiges Beschließen,\nZum höchsten Daseyn immerfort zu streben. –",
+      "body": "「お前は私を動かし揺り動かして力強い決意へと、最高の存在へと絶えず努め続けることへの（Du regst und rührst ein kräftiges Beschließen, / Zum höchsten Daseyn immerfort zu streben. –）」──ファウスト的根源衝動（Streben）の第二部における最初の、そして決定的な宣言。「immerfort（絶えず・ひっきりなしに）」という副詞は、「書斎I」での「Im Anfang war die That!（始めに行為があった）」という「行為の形而上学」が依然として彼の魂の深奥で継続的に脈動していることを証明する：レテの露によって過去の惨劇の罪の意識を完全に消去（脱創造）されたファウストに、純粋なエネルギーとして残存する「最高の存在へと努め続ける（zum höchsten Daseyn immerfort zu streben）」という絶対的で盲目的な衝動。「Beschließen（決意）」が「kräftig（力強い）」という形容を伴って現れ、第一部「牢獄」場面の終局でファウストを襲った「Werd' ich den Jammer überstehen!（この惨めさに私は耐えられるだろうか）」という精神の麻痺状態は、ここに完全に超克を果たしている。",
+      "targetId": "goethe_faust_nacht_354",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ein Paradies wird um mich her die Runde.",
+      "body": "「楽園が私の周りに広がっていく（Ein Paradies wird um mich her die Runde.）」──第一部から第二部への絶対的な空間的・精神的移行を告げる象徴的一行。第一部を支配していた「feuchte Mauer（湿った壁）」「Kerker（牢獄）」という息詰まる閉塞空間は、目覚めとともに宇宙的な「Paradies（楽園）」へとダイナミックに反転する。語源的にペルシア語「pairidaēza（囲われた庭）」に由来し、創世記第2章のエデンの園への参照を色濃く孕むこの語は、レテの浄化を経たファウストの再生を「罪なき始源への回帰」として仮象させる。グレートヒェンと交わしたかつての密やかな庭（heiterer Garten）の痛切な記憶は消去され、その代償として無限の自然そのものが「Paradies」として現出するという忘却のアイロニー。ヒエロニムス訳創世記第2章v.8「Plantaverat autem Dominus Deus paradisum voluptatis（主なる神は快楽の園を植えた）」が放つ根源的な光輝との照応がここに認められる[cite: 8]。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Hinaufgeschaut! - Der Berge Gipfelriesen\nVerkünden schon die feierlichste Stunde;\nSie dürfen früh des ewigen Lichts genießen",
+      "body": "「見上げよ！– 山々の峰の巨人たちがすでに最も厳かな時を告げる；彼らは後で私たちへと降りてくる永遠の光を早くから楽しむことができる（Hinaufgeschaut! - Der Berge Gipfelriesen / Verkünden schon die feierlichste Stunde; / Sie dürfen früh des ewigen Lichts genießen）」──「Hinaufgeschaut!（見上げよ！）」という劇的な命令形が、第一連の水平的な大地の広がりから垂直的な高みへと視線を強引に牽引する。ここで導入されるテルツァ・リーマ（ABA BCB CDC…）は、ダンテ『神曲』の形式を直接に呼び込むことで、本モノローグが霊的な「上昇（ascesa）」の途上にあることを形式論的に刻印する。ダンテの『天国篇』における「光の階梯」が、ここでは高山（Gipfelriesen）から山麓の牧草地へと段階的に下降してくる現実の夜明けの光として物質化されている。山頂を「伝令（Verkünden）」の主体とする擬人化は、前場面アリエルの「精神の耳に告げられる（Tönend wird für Geistes-Ohren）」という宇宙的轟音の地上的・視覚的対応物である[cite: 8]。",
+      "targetId": "dante_paradiso_canto_33"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sie tritt hervor! – und, leider schon geblendet,\nKehr' ich mich weg, vom Augenschmerz durchdrungen.",
+      "body": "「彼女は前に出た！– そして、すでに目がくらんで、私は瞳の痛みに貫かれて、顔を背ける（Sie tritt hervor! – und, leider schon geblendet, / Kehr' ich mich weg, vom Augenschmerz durchdrungen.）」──太陽（女性形：sie）の出現。突如挿入される「leider（残念ながら）」という痛切な副詞は、人間の存在論的限界に対する冷徹な諦念として機能する。絶対的な真理、あるいは神的な光源を直接視認することは人間に許されていないという認識論的挫折。これはプラトン『国家』第7巻の「洞窟の比喩」における、洞窟から解放された者が直接太陽を見た瞬間に目を眩まされ、激痛とともに視線を転じる（顔的転回）という構造の極めて身体的な再演である。この過酷な視覚的拒絶が、第四連の「それならば太陽を私の背中に留まらせよ（So bleibe denn die Sonne mir im Rücken!）」という偉大なるコペルニクス的転回への必然的な伏線となる[cite: 8]。",
+      "targetId": "weil_accepter_le_vide"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Nun aber bricht aus jenen ewigen Gründen\nEin Flammen-Uebermaß, wir stehn betroffen;\nDes Lebens Fackel wollten wir entzünden,\nEin Feuermeer umschlingt uns, welch' ein Fire!\nIst's Lieb? Ist's Haß? die glühend uns umwinden,",
+      "body": "「しかし今あの永遠の根源から炎の過剰が迸り、私たちは驚き立ちすくむ；生命の松明を灯そうとしたのに、火の海が私たちを取り囲む、なんたる火よ！それは愛か？それは憎しみか？燃えながら私たちに巻き付いて（Nun aber bricht aus jenen ewigen Gründen / Ein Flammen-Uebermaß, wir stehn betroffen; / Des Lebens Fackel wollten wir entzünden, / Ein Feuermeer umschlingt uns, welch' ein Feuer! / Ist's Lieb? Ist's Haß? die glühend uns umwinden）」──「Flammen-Uebermaß（炎の過剰）」という壮絶な表現は、第一部「夜」でファウストが毒薬を手に「炎の馬車が軽い翼に乗って漂う（Ein Feuerwagen schwebt, auf leichten Schwingen）」（v.702）と幻視したあの破壊的な「火」の巨大な反響である。あそこでの炎への誘惑は虚無（Nacht）への超克を賭けた絶望の跳躍であったが、ここでの太陽の「火の海（Feuermeer）」は、人間の主体的制御を完全に拒絶する客観的真理の過剰として実存を圧倒（betroffen）する。「Ist's Lieb? Ist's Haß?（それは愛か？それは憎しみか？）」という、善悪の彼岸に位置する根源的な二面性の吐露は、第一部でメフィストが提示した「常に悪を欲し常に善を作り出す（stets das Böse will und stets das Gute schafft）」という宇宙的創造／破壊のパラドクスと深部で通底している[cite: 8]。",
+      "targetId": "goethe_faust_nacht_690",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "So daß wir wieder nach der Erde blicken,\nZu bergen uns in jugendlichstem Schleier.",
+      "body": "「そのため私たちはまた大地へと目を向け、最も若々しいヴェールの中に身を隠す（So daß wir wieder nach der Erde blicken, / Zu bergen uns in jugendlichstem Schleier.）」──「最も若々しいヴェール（jugendlichstem Schleier）」への退却。第一部において「ヴェール（Schleier）」や幻影（Wahn）は主体の認識を阻む瞞着として否定的に現れることが多かったが、ここでは真理の直射から人間の脆い生命を保護する「恩寵の覆い」として決定的な反転を遂げる。人間は絶対の光の前に直接晒されるべきではなく、仮象という防壁に守られて初めて生き長らえることができるというゲーテ的中庸。コヘレト第11章v.7-8「dulce lumen et delectabile est oculis videre solem（光は甘く、目で太陽を見ることは喜ばしい）」が説く知恵の遊歩者的受容に対し、絶えざる行為者であるファウストは太陽を直視できず、生の持続のために「Schleier」への隠遁を余儀なくされるという、認識論的断層がここに浮き彫りとなる[cite: 8]。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Wölbt sich des bunten Bogens Wechsel-Dauer,\nBald rein gezeichnet, bald in Luft zerfließend,\nUmher verbreitend duftig kühle Schauer.",
+      "body": "「彩りある弓の移ろい続ける不変がアーチを作り、今は純粋に描かれ、今は空気の中に溶けていき、周囲に香しい冷たいそよ風を広げる（Wölbt sich des bunten Bogens Wechsel-Dauer, / Bald rein gezeichnet, bald in Luft zerfließend, / Umher verbreitend duftig kühle Schauer.）」──「Wechsel-Dauer（移ろい続ける不変・変化する永続）」というゲーテ独自の結合名詞は、この最終連の、ひいては彼の自然哲学全体の詩的核心である。絶え間なく生滅を繰り返す水飛沫（Wechsel）と、その運動の背後に法則として厳然と架かり続ける虹のアーチ（Dauer）の止揚。「bald..., bald...（今は〜、今は〜）」という時間的交代の反復それ自体が、消滅することのない永遠の「持続」のパターンを形成するという逆説的交響。これはコヘレト第1章v.6「Girat per meridiem et flectitur ad aquilonem（風は南に向かい、北へと曲がる…循環して元の道に戻る）」が描写する、自然の無常でありながらも永劫回帰する壮大なる循環の形象と鮮烈に響き合っている[cite: 8]。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 6
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Der spiegelt ab das menschliche Bestreben.\nIhm sinne nach und du begreifst genauer:\nAm farbigen Abglanz haben wir das Leben.",
+      "body": "「それは人間の努力を鏡に映す。それをじっくり考えれば、より正確にわかる：彩りある反照の中に私たちは生命を持つ（Der spiegelt ab das menschliche Bestreben. / Ihm sinne nach und du begreifst genauer: / Am farbigen Abglanz haben wir das Leben.）」──『ファウスト』全編を通じて頂点をなす、文学史上最も高名な掉尾の一行。「Am farbigen Abglanz haben wir das Leben」は、ゲーテの現象学・認識論のすべてが凝縮された究極のテーゼである。「Abglanz（反照・屈折光）」は、プラトン的な洞窟の「影（Schatten）」という劣化コピーの概念を美しく換骨奪胎したものであり、ゲーテにおいてはこの色彩豊かな反照こそが生（Leben）の躍動する唯一の実在的・肯定的な舞台とされる。これは、光と闇の境界の相互作用として色彩を定義した彼の『色彩論（Farbenlehre）』（1810）の核心命題「色は光の行為であり受難である」の詩的結晶に他ならない。ダンテが『神曲』天国篇第33歌の終局「太陽と他の星々を動かす愛（l'amor che move il sole e l'altre stelle）」において神的絶対光への直接の融合を果たしたのとは真逆に、ファウストは純粋光を拒絶し、この間接的な「彩りある反照（farbiger Abglanz）」の現世のグラデーションの中にこそ、人間の果てしなき努力（Bestreben）と生の救済を見出すのである[cite: 8]。",
+      "targetId": "dante_paradiso_canto_33"
+    }
+  ]
+}
