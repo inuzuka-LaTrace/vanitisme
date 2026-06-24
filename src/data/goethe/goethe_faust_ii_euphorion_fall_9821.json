@@ -1,0 +1,299 @@
+{
+  "id": "goethe_faust_ii_euphorion_fall_9821",
+  "title": "Faust – Zweiter Teil: Euphorions Sturz (v.9821–9906)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie zweiter Teil, Dritter Act, v.9821–9906. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+  "year": "1832",
+  "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第二部第三幕（「ヘレナ」幕）の核心をなすオイフォリオンの昇天と墜落の場面（v.9821–9906）。第三幕は、ゲーテが「Helen Akt」と呼んだ古典的世界の召喚──ファウスト（北方ゲルマン的精神）とヘレナ（ギリシア的美の理想）の超時代的な合一──から生まれた子オイフォリオンの誕生・成長・死滅という三段構造の最終段階を形成する。オイフォリオンはファウストとヘレナの詩的・精神的所産として登場し、「より高みへ、より遠くへ（Immer höher muß ich steigen, / Immer weiter muß ich schaun）」という止むことのない上昇衝動に突き動かされ、ギリシア独立戦争（1821–1832）の戦場の砲声に魅せられて翼を広げ、大気の中に身を投げる。舞台指示によれば、落下するオイフォリオンの「肉体はたちまち消え、頭光は彗星のごとく天へ昇る」一方で、衣・マント・竪琴のみが地に残される。\n\nオイフォリオンのアレゴリーはバイロン卿ジョージ・ゴードン（Lord Byron, 1788–1824）であり、ゲーテ自身がエッカーマンとの対話（1827年7月5日）においてこの同一視を明示している。バイロンは現実のギリシア独立戦争に従軍し、ミソロンギで熱病のため客死した──オイフォリオンがイカロスの昇天と墜落の形象において死ぬように、バイロンもまた「自由への無限の飛翔」と「過剰な情熱の自壊」という詩的・英雄的な伝説の中で死んだ。この場面でオイフォリオンが歌う「戦争こそが合言葉だ（Krieg ist das Losungswort!）」「死は命令だ（Und der Tod / Ist Gebot）」という詩句は、バイロンがギリシア独立運動に捧げた詩群の精神と共鳴する。\n\n詩的かつ音楽的な構造として、この場面はオイフォリオンの激情と合唱（コール）の静止の交互対位法によって構成される。コールは牧歌的・田園的な平和への誘いを歌いながら、イカロスの昇天を予感するたびに「Seht hinauf wie hoch gestiegen!（見上げよ、いかに高く昇ったことか）」と讃美と不安の入り混じった声を上げる。「Heilige Poesie / Himmelan steige sie!（聖なる詩よ、天へ昇れ）」という第8段落（v.9863–9869）のコールの詩句は、オイフォリオンの飛翔を詩的言語の上昇として定義する──詩そのものが「最も美しい星（der schönste Stern）」として天に昇るが、それでも「声は届く（Immer, man hört sie noch）」という逆説が、詩の超越性と伝達性の二重性を語る。\n\nVANITISMEコーパス的文脈においては、このオイフォリオンの場面は「afflictio spiritus（霊の苦悩）」の詩劇的な極限を体現する。ヒエロニムス訳ヨブ記第1章でヨブが一切の財産と子供を失う試練と、ファウストとヘレナが子オイフォリオンを失う詩劇的喪失が、「母よ！（Mutter!）」という呼びかけにおいて深く照応する。また、ヴェイユ「la violence（力）」論の「力は人間を物体に変える」という命題が、オイフォリオンの飛翔と墜落の弧においてもっとも詩的な形で体現される。次の場面（v.9907–9944）ではヘレナ自身が冥界へと去り、第三幕「ヘレナ」幕全体が「美の理想の不可能な持続」という詩的悲劇として完結する。",
+  "keywords": [
+    "Euphorion",
+    "Immer höher muß ich steigen",
+    "Krieg ist das Losungswort",
+    "Heilige Poesie",
+    "Ikarus",
+    "Byron",
+    "Und der Tod ist Gebot",
+    "Flügelpaar",
+    "Stimme aus der Tiefe",
+    "ギリシア独立戦争"
+  ],
+  "relatedTexts": [
+    "goethe_faust_kerker_4574",
+    "goethe_faust_ii_anmuthige_gegend_4613",
+    "goethe_faust_ii_sonnenaufgang_4679",
+    "hieronymus_iob_1",
+    "weil_la_violence",
+    "weil_decreation",
+    "dante_inferno_canto_26",
+    "vergilius_aeneis_6_animae_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.9821–9826",
+      "speaker": "Euphorion",
+      "original": "Immer höher muß ich steigen,\nImmer weiter muß ich schaun.\nWeiß ich nun wo ich bin!\nMitten der Insel drinn,\nMitten in Pelops Land,\nErde- wie seeverwandt.",
+      "provisionalTranslation": "より高みへと私は登らなければならない、\nより遠くへと私は見渡さなければならない。\n今私はどこにいるかわかった！\n島の真ん中に、\nペロポスの地の真ん中に、\n大地と海に等しく縁のある。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9827–9834",
+      "speaker": "Chor",
+      "original": "Magst nicht in Berg und Wald\nFriedlich verweilen,\nSuchen wir alsobald\nReben in Zeilen,\nReben am Hügelrand;\nFeigen und Apfelgold.\nAch, in dem holden Land\nBleibe du hold!",
+      "provisionalTranslation": "山と森の中で\n平和に留まろうとは思わないの、\n私たちはさっそく探しましょう\n列をなす葡萄棚を、\n丘の縁の葡萄を；\nいちじくとりんごの黄金を。\nああ、この可憐な土地に\nあなたも可憐に留まって！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9835–9838",
+      "speaker": "Euphorion",
+      "original": "Träumt ihr den Friedenstag?\nTräume wer träumen mag.\nKrieg ist das Losungswort!\nSieg! und so klingt es fort.",
+      "provisionalTranslation": "お前たちは平和の日を夢見ているのか？\n夢見たい者が夢見るがよい。\n戦争こそが合言葉だ！\n勝利！そしてその響きは続く。"
+    },
+    {
+      "id": 4,
+      "verses": "v.9839–9842",
+      "speaker": "Chor",
+      "original": "Wer im Frieden\nWünschet sich Krieg zurück,\nDer ist geschieden\nVom Hoffnungsglück.",
+      "provisionalTranslation": "平和の中にありながら\n戦争が戻ってくるのを望む者は、\nその者は切り離されている\n希望の幸いから。"
+    },
+    {
+      "id": 5,
+      "verses": "v.9843–9850",
+      "speaker": "Euphorion",
+      "original": "Welche dieß Land gebar\nAus Gefahr in Gefahr,\nFrei, unbegränzten Muths,\nVerschwendrisch eignen Bluts,\nMit nicht zu dämpfendem\nHeiligem Sinn,\nAlle den Kämpfenden\nBring' es Gewinn!",
+      "provisionalTranslation": "この大地が生み出したすべての者を\n危険から危険へと、\n自由に、限りない勇気をもって、\n惜しみなく自らの血を注いで、\n抑えることのできない\n聖なる精神をもって、\nすべての戦う者たちに\nそれが勝利をもたらせ！"
+    },
+    {
+      "id": 6,
+      "verses": "v.9851–9854",
+      "speaker": "Chor",
+      "original": "Seht hinauf wie hoch gestiegen!\nUnd erscheint uns doch nicht klein.\nWie im Harnisch, wie zum Siegen,\nWie von Erz und Stahl der Schein.",
+      "provisionalTranslation": "見上げよ、いかに高く昇ったことか！\nそれでも私たちには小さくは見えない。\n甲冑をまとったように、勝利へと向かうように、\n青銅と鋼の輝きのように。"
+    },
+    {
+      "id": 7,
+      "verses": "v.9855–9862",
+      "speaker": "Euphorion",
+      "original": "Keine Welle, keine Mauern,\nJeder nur sich selbst bewußt;\nFeste Burg um auszudauern\nIst des Mannes eh'rne Brust.\n\nWollt ihr unerobert wohnen,\nLeicht bewaffnet rasch in's Feld;\nFrauen werden Amazonen\nUnd ein jedes Kind ein Held.",
+      "provisionalTranslation": "波もなく、城壁もなく、\nそれぞれがただ自分自身を意識して；\n耐え忍ぶための堅固な城は\n男の青銅の胸だ。\n\n征服されずに住みたいなら、\n軽武装で素早く野に出よ；\n女たちはアマゾーネスとなり\nすべての子は英雄となる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.9863–9869",
+      "speaker": "Chor",
+      "original": "Heilige Poesie\nHimmelan steige sie!\nGlänze, der schönste Stern,\nFern und so weiter fern,\nUnd sie erreicht uns doch\nImmer, man hört sie noch,\nVernimmt sie gern.",
+      "provisionalTranslation": "聖なる詩よ\n天へと昇れ！\n輝け、最も美しい星よ、\n遠く、さらに遠く、\nそれでも詩は私たちに届く、\nいつも、まだ聴こえる、\n喜んで聴かれる。"
+    },
+    {
+      "id": 9,
+      "verses": "v.9870–9876",
+      "speaker": "Euphorion",
+      "original": "Nein, nicht ein Kind bin ich erschienen,\nIn Waffen kommt der Jüngling an!\nGesellt zu Starken, Freien, Kühnen,\nHat er im Geiste schon gethan.\nNun fort!\nNun dort\nEröffnet sich zum Ruhm die Bahn.",
+      "provisionalTranslation": "いや、私は子供として現れたのではない、\n武装して青年がやってくる！\n強者・自由なる者・大胆なる者たちに加わって、\n彼は精神においてすでに成し遂げた。\nさあ前へ！\nさああそこへ、\n栄光へと道が開かれる。"
+    },
+    {
+      "id": 10,
+      "verses": "v.9877–9883",
+      "speaker": "Helena und Faust",
+      "original": "Kaum in's Leben eingerufen,\nHeitrem Tag gegeben kaum,\nSehnest du von Schwindelstufen\nDich zu schmerzenvollem Raum.\nSind denn wir\nGar nichts dir?\nIst der holde Bund ein Traum?",
+      "provisionalTranslation": "生命へとやっと召し出されたばかり、\n晴れやかな日にやっと与えられたばかり、\nお前は眩暈のする高みから\n苦しみ満ちた空間へと憧れる。\n私たちは\nお前には何でもないの？\nあの可憐な絆は夢なの？"
+    },
+    {
+      "id": 11,
+      "verses": "v.9884–9890",
+      "speaker": "Euphorion",
+      "original": "Und hört ihr donnern auf dem Meere?\nDort wiederdonnern Thal um Thal,\nIn Staub und Wellen, Heer dem Heere,\nIn Drang um Drang zu Schmerz und Qual.\nUnd der Tod\nIst Gebot,\nDas versteht sich nun einmal.",
+      "provisionalTranslation": "海の上で雷鳴が聞こえるか？\nそこでは谷ごとに雷鳴が響き返す、\n塵と波の中で、軍勢と軍勢が、\n押し合い圧し合って苦しみと責苦へ向かう。\nそして死は\n命令だ、\nそれは今や一度きり当然のことだ。"
+    },
+    {
+      "id": 12,
+      "verses": "v.9891–9892",
+      "speaker": "Helena, Faust und Chor",
+      "original": "Welch Entsetzen! welches Grauen!\nIst der Tod denn dir Gebot?",
+      "provisionalTranslation": "なんという恐怖！なんという戦慄！\n死がお前にとって本当に命令なの？"
+    },
+    {
+      "id": 13,
+      "verses": "v.9893–9894",
+      "speaker": "Euphorion",
+      "original": "Sollt' ich aus der Ferne schauen?\nNein! ich theile Sorg' und Noth.",
+      "provisionalTranslation": "私は遠くから見ているべきなのか？\nいや！私は心配と苦難を分かち合う。"
+    },
+    {
+      "id": 14,
+      "verses": "v.9895–9896",
+      "speaker": "Die Vorigen",
+      "original": "Uebermuth und Gefahr!\nTödtliches Loos.",
+      "provisionalTranslation": "傲慢と危険！\n致命的な運命。"
+    },
+    {
+      "id": 15,
+      "verses": "v.9897–9900",
+      "speaker": "Euphorion",
+      "original": "Doch! – und ein Flügelpaar\nFaltet sich los!\nDorthin! Ich muß! ich muß!\n\nGönn't mir den Flug!",
+      "provisionalTranslation": "それでも！──そして一対の翼が\n解き広がる！\nあそこへ！私はしなければならない！しなければならない！\n\n飛翔を許せ！"
+    },
+    {
+      "id": 16,
+      "verses": "v.9901–9902",
+      "speaker": "Chor",
+      "original": "Ikarus! Ikarus!\nJammer genug.",
+      "provisionalTranslation": "イカロス！イカロス！\n嘆きはもう十分。"
+    },
+    {
+      "id": 17,
+      "verses": "v.9903–9904",
+      "speaker": "Helena und Faust",
+      "original": "Der Freude folgt sogleich\nGrimmige Pein.",
+      "provisionalTranslation": "喜びのすぐ後に\n残酷な苦悩が続く。"
+    },
+    {
+      "id": 18,
+      "verses": "v.9905–9906",
+      "speaker": "Euphorions Stimme aus der Tiefe",
+      "original": "Laß mich im düstern Reich\nMutter mich nicht allein!",
+      "provisionalTranslation": "暗い王国の中で\n母よ、私を一人にしないで！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Immer höher muß ich steigen,\nImmer weiter muß ich schaun.",
+      "body": "「より高みへと私は登らなければならない、より遠くへと私は見渡さなければならない（Immer höher muß ich steigen, / Immer weiter muß ich schaun）」──場面の冒頭を支配する二重の義務形「muß（しなければならない）」が、オイフォリオンを突き動かす止むことのない上昇衝動を定式化する。「Immer（いつも・ますます）」という副詞の比較級的用法が「際限なき上昇」という存在論的強制として提示される：高みはゴールではなく、次の高みへの踏み台に過ぎない。この衝動はファウスト「日の出（Sonnenaufgang）」v.4686–4687「Du regst und rührst ein kräftiges Beschließen, / Zum höchsten Daseyn immerfort zu streben（お前は私を動かして力強い決意へと──最高の存在へと絶えず努め続けることへの）」というファウスト的衝動の子世代における継承として機能する：父の「immerfort（絶えず）」が子の「Immer höher（ますます高く）」として反復・強化される。「Mitten in Pelops Land（ペロポスの地の真ん中に）」はペロポネソス半島の地理的中枢──ペロプスがタンタロスの子として支配した地に由来する地名（Peloponnesos）──であり、舞台がギリシア本土の神話的核心部に設定されることでオイフォリオンの行動がギリシア独立戦争（1821–1832）の精神的・神話的背景と接続される。「Erde- wie seeverwandt（大地と海に等しく縁のある）」は三方を海に囲まれた半島の地理を示しながら、オイフォリオンの出自──ファウスト（大地・北方的重力）とヘレナ（海・南方的流動性）の合一──を地理的に体現する。",
+      "targetId": "goethe_faust_ii_sonnenaufgang_4679",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ach, in dem holden Land\nBleibe du hold!",
+      "body": "「ああ、この可憐な土地に、あなたも可憐に留まって（Ach, in dem holden Land / Bleibe du hold）！」──コールによる牧歌的誘いの歌。「Reben（葡萄）」「Feigen（いちじく）」「Apfelgold（りんごの黄金）」という三つの果実の列挙が、ウェルギリウス的アルカディア──地中海の豊饒の楽園──の視覚的・感覚的表象として機能する。「holden Land / hold」という回文的な音の対称が、詩的懇願の形式的完璧さとその必然的な徒労を同時に体現する：「holden（可憐な）」という語の反復（Land→Bleibe）がコールの言語を自足的な美の宇宙として封鎖し、次のオイフォリオンの「Krieg ist das Losungswort!（戦争こそが合言葉だ）」による暴力的な開口をいっそう際立たせる。「Friedlich verweilen（平和に留まる）」という動詞句が、この場面全体の中心的な対立──牧歌的な静止対英雄的な上昇──の片極を体現する。コールの言語は美しいが完全に無力であり、オイフォリオンを一瞬も引き留めることができない。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Krieg ist das Losungswort!\nSieg! und so klingt es fort.",
+      "body": "「戦争こそが合言葉だ！勝利！そしてその響きは続く（Krieg ist das Losungswort! / Sieg! und so klingt es fort）」──オイフォリオン＝バイロン解釈の最も鮮明な詩句。「Losungswort（合言葉・標語）」は軍の通行合言葉であり、戦場の語彙がここで初めて登場することでオイフォリオンの本質が確定される：詩人ではなく戦士として。バイロン卿（Lord Byron, 1788–1824）は1823年にギリシア独立運動支援のためにミソロンギへ赴き、1824年4月19日に熱病で客死した。「Träumt ihr den Friedenstag? / Träume wer träumen mag（平和の日を夢見ているのか？夢見たい者が夢見るがよい）」という前二行の「träumen（夢見る）」の反復（träumt→Träume）が、コールの牧歌的夢想への反語的転換として機能する：夢想は「mag（してよい）」という許可形式に格下げられ、オイフォリオンの行動原理から完全に除外される。「klingt es fort（響きが続く）」という継続的な響きの形象が、個人の死を超えて響き続ける戦いの呼び声──バイロンの詩的遺産の持続性──を先取りする。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wer im Frieden\nWünschet sich Krieg zurück,\nDer ist geschieden\nVom Hoffnungsglück.",
+      "body": "「平和の中にありながら戦争が戻ってくるのを望む者は、希望の幸いから切り離されている（Wer im Frieden / Wünschet sich Krieg zurück, / Der ist geschieden / Vom Hoffnungsglück）」──コールの道徳的反論。「geschieden（切り離された）」という過去分詞が法的・永続的な分離を示す：平和を求める「Hoffnungsglück（希望の幸い）」から戦争を欲する者は根本的に切り離されているという断定。四行詩の交互韻（Frieden/geschieden；zurück/Hoffnungsglück）が格言的閉幕の安定感を与えながら、オイフォリオンの衝動を止める力を完全に欠いている。コヘレト第1章v.2「vanitas vanitatum（虚無の虚無）」的な視点から読むと、平和も戦争も等しく「afflictio spiritus（霊の苦悩）」として循環するという命題が、ここでは平和と戦争の弁証法的反復として体現される：コールの「Hoffnungsglück」という希望もまた虚無の一形態に過ぎない。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Verschwendrisch eignen Bluts,\nMit nicht zu dämpfendem\nHeiligem Sinn,",
+      "body": "「惜しみなく自らの血を注いで、抑えることのできない聖なる精神をもって（Verschwendrisch eignen Bluts, / Mit nicht zu dämpfendem / Heiligem Sinn）」──「Verschwendrisch（惜しみなく・浪費するように）」という形容詞が「Blut（血）」に付されることで、自己犠牲を「浪費（Verschwendung）」として定義する：英雄的な自己犠牲の崇高さが同時に「浪費」という経済的否定性として描かれる逆説。「nicht zu dämpfendem / Heiligem Sinn（抑えることのできない聖なる精神）」という複合形容が、オイフォリオンの行動原理を「神聖な抑制不能性（heilige Undämpfbarkeit）」として定式化する。「Frei, unbegränzten Muths（自由に、限りない勇気をもって）」という形容が、ギリシア独立戦争の英雄たちを「限界なき（unbegränzt）」自由の戦士として讃美しながら、その「無限性（Unbegrenztheit）」がイカロス的墜落の前提となることを含意する。ヴェイユ「La Violence」の「力は人間を精神的存在から物体へと変える」という命題の逆面として読める：オイフォリオンは力（Gewalt）による支配ではなく、自らの血を惜しまず注ぐことで精神（Sinn）を物質において体現しようとする。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 6,
+      "type": "prosody",
+      "anchor": "Seht hinauf wie hoch gestiegen!\nUnd erscheint uns doch nicht klein.\nWie im Harnisch, wie zum Siegen,\nWie von Erz und Stahl der Schein.",
+      "body": "「見上げよ、いかに高く昇ったことか！それでも私たちには小さくは見えない。甲冑をまとったように、勝利へと向かうように、青銅と鋼の輝きのように（Seht hinauf wie hoch gestiegen! / Und erscheint uns doch nicht klein. / Wie im Harnisch, wie zum Siegen, / Wie von Erz und Stahl der Schein）」──詩劇のドラマトゥルギー上の「イカロス的高みの讃歌」として機能する四行。合唱は高みへ昇るオイフォリオンを制止しようとしながら、同時にその輝きを讃美するという矛盾した態度を体現する。「Harnisch（甲冑）」「Erz（青銅）」「Stahl（鋼）」という金属的・軍事的イメージの三重連鎖が、前節での「Verschwendrisch eignen Bluts（惜しみなく自らの血）」という肉体的な脆弱性との対比として、英雄的外観の詩的装甲として機能する。「der Schein（輝き・仮象）」という語が「Am farbigen Abglanz haben wir das Leben（彩りある反照の中に私たちは生命を持つ）」というファウスト「日の出」の最終格言と照応する：高みのオイフォリオンが放つ「Schein（輝き）」は眩しくはあるが、それもまた「仮象（Schein）」に過ぎないという認識論的命題の前段として機能する。交互韻（gestiegen/Siegen；klein/Schein）が讃美の安定したリズムを刻む。",
+      "targetId": "goethe_faust_ii_sonnenaufgang_4679",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Feste Burg um auszudauern\nIst des Mannes eh'rne Brust.",
+      "body": "「耐え忍ぶための堅固な城は男の青銅の胸だ（Feste Burg um auszudauern / Ist des Mannes eh'rne Brust）」──「Feste Burg（堅固な城）」はマルティン・ルターのコラール「Ein feste Burg ist unser Gott（神はわれらの堅き砦）」（1529）への典拠的参照：ルターにおいて「Burg（城）」は神の守護を指したが、オイフォリオンにおいては「男の青銅の胸（des Mannes eh'rne Brust）」が「Burg」として定義される──超越的な守護（神）から内在的な自己強化（胸）への転換として。「Keine Welle, keine Mauern（波もなく、城壁もなく）」という二重の否定が外的な保護の全否定として、唯一の要塞としての「eh'rne（青銅の）Brust（胸）」を命題化する。「Frauen werden Amazonen（女たちはアマゾーネスとなる）」という詩句は、ギリシア独立戦争における女性戦士たちへの歴史的言及を含む：1821年の蜂起ではラスカリナ・ブブリナをはじめとする実際の女性戦士たちが活躍した。「Jeder nur sich selbst bewußt（それぞれがただ自分自身を意識して）」というゲーテ的な個人の自己意識の命題が、集団的な戦争論の中に挿入されることで個人と共同体の緊張を形成する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Heilige Poesie\nHimmelan steige sie!\nGlänze, der schönste Stern,\nFern und so weiter fern,\nUnd sie erreicht uns doch\nImmer, man hört sie noch,\nVernimmt sie gern.",
+      "body": "「聖なる詩よ、天へと昇れ！輝け、最も美しい星よ、遠く、さらに遠く、それでも詩は私たちに届く、いつも、まだ聴こえる（Heilige Poesie / Himmelan steige sie! / Glänze, der schönste Stern, / Fern und so weiter fern, / Und sie erreicht uns doch / Immer, man hört sie noch）」──この七行がゲーテ詩学の自己定義として場面全体の詩的核心を形成する。「Heilige Poesie（聖なる詩）」という称号がオイフォリオンの飛翔を詩そのものの上昇として定義する：詩は「最も美しい星（der schönste Stern）」として天に昇りながら、なお「届く（erreicht）」「聴こえる（hört）」という逆説的な超越性と伝達性を保持する。「Fern und so weiter fern（遠く、さらに遠く）」という遠ざかりの漸進的な強調が、オイフォリオンの上昇軌跡を空間的に実演する。この「天に昇り届き続ける詩」という定式は、バイロンの詩の遺産──物理的な死によって沈黙することのない詩的影響力──への追悼として機能する。マラルメ「骰子一擲」の「Toute Pensée émet un Coup de Dés（いかなる思考も骰子の一擲を放つ）」という思考の上昇と分散の命題と照応する：詩は「Stern（星）」として散らばりながらも「man hört sie noch（まだ聴こえる）」という受容の永続性を持つ。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": 10
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Nein, nicht ein Kind bin ich erschienen,\nIn Waffen kommt der Jüngling an!\nGesellt zu Starken, Freien, Kühnen,\nHat er im Geiste schon gethan.",
+      "body": "「いや、私は子供として現れたのではない、武装して青年がやってくる！強者・自由なる者・大胆なる者たちに加わって、彼は精神においてすでに成し遂げた（Nein, nicht ein Kind bin ich erschienen, / In Waffen kommt der Jüngling an! / Gesellt zu Starken, Freien, Kühnen, / Hat er im Geiste schon gethan）」──オイフォリオンの自己変容宣言。「nicht ein Kind（子供ではない）」から「Jüngling（青年）」への変容が、第三幕の開幕以来の急速な成長の加速を確認する：子供期から戦士期への即時の変態を主張する。「In Waffen（武装して）」という武具の強調が前節「Feste Burg ist des Mannes eh'rne Brust（堅固な城は男の青銅の胸）」のエコーとして、武装を外的装甲ではなく実存的な在り方として提示する。「Hat er im Geiste schon gethan（彼は精神においてすでに成し遂げた）」という「im Geiste（精神において）」という前行為の完了宣言が、行為する前に精神においてすでに行為が完了しているという命題──「書斎I」での「Im Anfang war die That!（始めに行為があった）」というファウスト的実践哲学の子世代的継承として機能する。「Nun fort! / Nun dort / Eröffnet sich zum Ruhm die Bahn（さあ前へ！さああそこへ、栄光へと道が開かれる）」という三行の加速が詩劇上の「起動（Aufbruch）」を体現する。",
+      "targetId": "goethe_faust_studierzimmer_1327",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Kaum in's Leben eingerufen,\nHeitrem Tag gegeben kaum,\nSehnest du von Schwindelstufen\nDich zu schmerzenvollem Raum.\nSind denn wir\nGar nichts dir?\nIst der holde Bund ein Traum?",
+      "body": "「生命へとやっと召し出されたばかり、晴れやかな日にやっと与えられたばかり、お前は眩暈のする高みから苦しみ満ちた空間へと憧れる（Kaum in's Leben eingerufen, / Heitrem Tag gegeben kaum, / Sehnest du von Schwindelstufen / Dich zu schmerzenvollem Raum）」──「kaum...kaum（やっと...やっと）」という二重反復が、誕生と喪失の時間的圧縮を示す：オイフォリオンは生まれたばかりにして死への衝動に捉われている。「Schwindelstufen（眩暈のする高み）」という複合名詞が、物理的な高所の危険と同時にイカロス的な「高みへの陶酔（Höhenrausch）」として機能する。「Ist der holde Bund ein Traum?（あの可憐な絆は夢なの？）」──ファウストとヘレナの問いかけが詩劇第二部全体の「夢か現実か」という存在論的問いを凝縮する：ファウストとヘレナの超時代的な合一（「holde Bund（可憐な絆）」）がすでに「Traum（夢）」として疑われることで、次の場面（v.9907–9944）でヘレナが冥界へと去る展開が予告される。ヒエロニムス訳ヨブ記第1章v.21「Nudus egressus sum de utero matris meae（裸で母の胎から出た）」との照応：オイフォリオンが「生命へと召し出された（eingerufen）」直後に死の空間（schmerzenvoller Raum）へと向かうという逆説が、ヨブの裸での誕生と裸での帰還の構造と共鳴する。",
+      "targetId": "hieronymus_iob_1",
+      "targetParagraphId": 21
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Und der Tod\nIst Gebot,\nDas versteht sich nun einmal.",
+      "body": "「そして死は命令だ、それは今や一度きり当然のことだ（Und der Tod / Ist Gebot, / Das versteht sich nun einmal）」──詩劇全体で最も簡潔かつ最も挑発的な死の定義の一つ。「Gebot（命令・戒め）」という語は旧約聖書の「十戒（Zehn Gebote）」のGebotと同語根であり、死を神的な命令として定義する：「死は命令」という断言を「versteht sich（当然のことだ）」という日常語的な自明性で提示することで、死の恐怖を脱神話化する。「Heer dem Heere（軍勢と軍勢）」「Drang um Drang（押し合い圧し合い）」という畳み掛けの反復が戦場の混沌の音響的等価物として機能する。「Und hört ihr donnern auf dem Meere? / Dort wiederdonnern Thal um Thal（海の上で雷鳴が聞こえるか？そこでは谷ごとに雷鳴が響き返す）」──「donnern（雷鳴）」の二重反復（donnern / wiederdonnern）が戦場の聴覚的圧倒として機能し、ファウスト「日の出」でのファウストが体験した「Flammen-Uebermaß（炎の過剰）」の聴覚的等価物──視覚的眩惑の代わりに聴覚的轟音として提示される。",
+      "targetId": "goethe_faust_ii_sonnenaufgang_4679",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 12,
+      "type": "prosody",
+      "anchor": "Welch Entsetzen! welches Grauen!\nIst der Tod denn dir Gebot?",
+      "body": "「なんという恐怖！なんという戦慄！死がお前にとって本当に命令なの（Welch Entsetzen! welches Grauen! / Ist der Tod denn dir Gebot）？」──ヘレナ・ファウスト・コールの三者による初めての統合的な恐怖の表明。「Entsetzen（恐怖）」と「Grauen（戦慄）」という二語が恐怖の感情的二重性を体現する：「Entsetzen」は突然の驚きによる感情的圧倒、「Grauen」は漸進的な戦慄・生理的な鳥肌感を含む──牢獄終幕でマルガレーテが「Heinrich! Mir graut's vor dir（ハインリヒ！あなたが恐ろしい）」と叫んだ「graut's」と同語根。「denn（本当に・それでは）」という確認の助詞が「Gebot（命令）」という前節のオイフォリオンの主張を問い返す：「死が本当に命令なのか」という問いが、オイフォリオンの宣言の絶対性を疑問に付すことで、コールが初めて本質的な問いを発する瞬間を形成する。三者の声の合一が、次の段落でオイフォリオンが「Nein!（いや）」と即座に拒絶する反論の重さと対比される。",
+      "targetId": "goethe_faust_kerker_4574",
+      "targetParagraphId": 11
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Sollt' ich aus der Ferne schauen?\nNein! ich theile Sorg' und Noth.",
+      "body": "「私は遠くから見ているべきなのか？いや！私は心配と苦難を分かち合う（Sollt' ich aus der Ferne schauen? / Nein! ich theile Sorg' und Noth）」──「aus der Ferne schauen（遠くから見る）」という受動的傍観への拒絶が、詩人と行動の関係を根本的に定義する。「Sollt'（〜すべきか）」という義務疑問形が「muß（しなければならない）」という第一段落の衝動と呼応する：「しなければならない（muß）」という自然的義務から「すべきか（sollt'）」という社会的規範への移行が、オイフォリオンが「遠景（Ferne）」という観察者的位置を意識しながら意図的に拒絶することを示す。「ich theile Sorg' und Noth（心配と苦難を分かち合う）」という「theilen（分かち合う）」の表明が、詩人の使命としての苦悩への連帯を宣言する。ヴェイユ「la violence」での「affliction（苦悩）の連帯可能性」という問いへの詩的な肯定として読める：ヴェイユが「affliction（苦悩）は本質的に孤独である」と論じたのに対し、オイフォリオンは「Noth（苦難）」を「theile（分かち合う）」と宣言することで、詩的連帯の倫理と苦悩の孤独性の間の緊張を体現する。",
+      "targetId": "weil_la_violence"
+    },
+    {
+      "paragraphId": 14,
+      "type": "glossary",
+      "anchor": "Uebermuth und Gefahr!\nTödtliches Loos.",
+      "body": "「傲慢と危険！致命的な運命（Uebermuth und Gefahr! / Tödtliches Loos）」──「Die Vorigen（前の人物たち）」による二行の叫び。「Uebermuth（傲慢・高慢）」はギリシア語「ὕβρις（hybris）」の正確なドイツ語等価物：神的な秩序を侵犯する過剰な誇りとして、イカロスの父ダイダロスの警告を無視した飛翔とオイフォリオンの止むことのない上昇衝動を同一の神話的カテゴリーとして括る。ギリシア悲劇においてhybrisは必然的にnémesis（神罰）を招く：「Gefahr（危険）」はその序奏として機能する。「Tödtliches Loos（致命的な運命）」──「Loos（Lot, 運命・籤）」はヘブライ的な「神が定めた運命（gōrāl）」を含意し、コヘレト第9章「人は自分の時を知らない──魚が残酷な網にかかるように、鳥が罠に捕らえられるように」という宿命論的命題の詩的成就として機能する。わずか二行・六語への圧縮が「合唱の法廷」が下す死刑宣告の苛烈な簡潔さを体現する：修辞的な余裕を完全に排除した詩的断定。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Doch! – und ein Flügelpaar\nFaltet sich los!\nDorthin! Ich muß! ich muß!\n\nGönn't mir den Flug!",
+      "body": "「それでも！──そして一対の翼が解き広がる！あそこへ！私はしなければならない！しなければならない！飛翔を許せ（Doch! – und ein Flügelpaar / Faltet sich los! / Dorthin! Ich muß! ich muß! / Gönn't mir den Flug）！」──詩劇全体で最も劇的な瞬間の一つ。「Doch!（それでも）」という逆接の感嘆詞が「Uebermuth und Gefahr!（傲慢と危険）」という警告への完全な拒絶として、詩的・実存的な反抗宣言として機能する。「Flügelpaar（一対の翼）」という言葉は舞台上で視覚的に実現され、「Er wirft sich in die Lüfte（彼は大気の中に身を投げる）」という舞台指示がそれに続く。「Ich muß! ich muß!（私はしなければならない！しなければならない！）」という義務形の二重反復が、第一段落の「Immer höher muß ich steigen（より高みへと登らなければならない）」から場面全体を貫いてきた「muß」の累積的なエネルギーがここで一挙に爆発する形式として機能する。「Gönn't mir den Flug!（飛翔を許せ）」という命令形が「神への懇願」ではなく「親への要求」として提示されることで、オイフォリオンの自律性が確認される。ダンテ「地獄篇」第26歌のユリシーズが「l'alto mare aperto（大きな開かれた海）」へと乗り出す「folle volo（狂気の飛翔）」との照応：知的・精神的な限界を超えることへの抗い難い衝動が、オイフォリオンの飛翔と同型をなす。",
+      "targetId": "dante_inferno_canto_26"
+    },
+    {
+      "paragraphId": 16,
+      "type": "intertextual",
+      "anchor": "Ikarus! Ikarus!\nJammer genug.",
+      "body": "「イカロス！イカロス！嘆きはもう十分（Ikarus! Ikarus! / Jammer genug）」──詩劇全体で最も圧縮された神話的同一視。コールがオイフォリオンの飛翔と墜落を即座に「Ikarus（イカロス）！」という呼格によってギリシア神話の墜落神話に接続する：イカロスはダイダロスに与えられた蜜蝋の翼で太陽に近づき過ぎたために墜落した──オウィディウス『変身譜（Metamorphoses）』第8巻v.183–235が古典的典拠。「Jammer genug（嘆きはもう十分）」という四語が嘆きを量的に「十分（genug）」として打ち切る：この簡潔さが悲劇の急速な処理を体現し、コールの言語的節制がかえって喪失の深さを際立たせる。舞台指示「die Aureole steigt wie ein Komet zum Himmel auf（頭光が彗星のごとく天へ昇る）」が「Komet（彗星）」という宇宙的比喩によって、オイフォリオンの死後の昇天を詩的に永続化する：彗星は定期的に回帰し、前節「Heilige Poesie」で歌われた「man hört sie noch（まだ聴こえる）」という詩の超越性の宇宙的等価物として機能する。一方「Kleid, Mantel und Lyra bleiben liegen（衣・マント・竪琴のみが地に残される）」という舞台指示が詩人の道具である「Lyra（竪琴）」を遺物として残すことで、バイロン的詩人の精神が肉体を超えて持続することを示す。ファウスト「日の出」でのファウストが太陽を直視できず目を背けた「Augenschmerz（瞳の痛み）」と照応する：オイフォリオンは太陽に飛翔し、ファウストは太陽から目を背ける──同じ光への二つの対照的な応答。",
+      "targetId": "goethe_faust_ii_sonnenaufgang_4679",
+      "targetParagraphId": 2
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Der Freude folgt sogleich\nGrimmige Pein.",
+      "body": "「喜びのすぐ後に残酷な苦悩が続く（Der Freude folgt sogleich / Grimmige Pein）」──ヘレナとファウストによる悲劇の格言的凝縮。「sogleich（すぐに・即座に）」という副詞が「Freude（喜び）」から「Pein（苦悩）」への転換の時間的即時性を強調する：中間の猶予なく喜びが苦悩に直接接続されるという詩的因果。「Grimmige（残酷な・激烈な）」という形容詞が「Pein（苦悩）」を単なる悲しみではなく、ほとんど物理的な暴力を伴う苦痛として定義する。コヘレト第1章v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という第1章結語の命題と照応する：オイフォリオンの誕生という「喜び（Freude）」が即座に「grimmige Pein（残酷な苦悩）」として報いられるという等式が、知識と苦悩の比例関係の詩劇的変奏として機能する。前景の「快適な景色」でのアリエルの「Hingeschwunden Schmerz und Glück（苦悩も喜びも消えていった）」との逆照応：あそこでは「Glück（幸福）」と「Schmerz（苦悩）」が等しく消去されたが、ここでは「Freude（喜び）」がすぐさま「Pein（苦悩）」へと反転される──消去ではなく逆転。二行のみの圧縮が悲劇の事後の語りとしての格言的完結性を示す。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Laß mich im düstern Reich\nMutter mich nicht allein!",
+      "body": "「暗い王国の中で、母よ、私を一人にしないで（Laß mich im düstern Reich / Mutter mich nicht allein）！」──詩劇第二部で最も心を打つ最後の呼びかけの一つ。「Stimme aus der Tiefe（深みからの声）」という舞台指示が、前景「快適な景色」での「Ob er heilig? ob er böse?（彼が聖なる者であれ、邪なる者であれ）」というアリエルの宣言と逆方向に作動する：あそこでは「上（oben）」の精霊が地上のファウストを浄化しようとしたが、ここでは「深み（Tiefe）」から──冥界から──喪失の声が来る。「düstern Reich（暗い王国）」はギリシア神話の冥界（Hades）を指し、ウェルギリウス『アエネーイス』第6巻でアエネアスが下降した「regna Ditis（ディスの王国）」と同型の冥界的空間として提示される。オイフォリオンが冥界から「Mutter（母）」を呼ぶことで、ヘレナ自身が次の場面（v.9907–9944）で冥界へと去る伏線として機能する──子の呼びかけが母の去就を詩的に先取りする。「nicht allein（一人でない）」という否定が、コヘレト第4章v.10「Vae soli（一人の者は哀れ）」という孤独論を冥界において体現する。「Pause（間）」という舞台指示がこの呼びかけへの応答を意図的に留保することで、沈黙自体が「母（Mutter）」の次の応答──オイフォリオンを追って冥界へ去るというヘレナの選択──を予告する。ヴェイユ「Décréation」の「自己を神に明け渡すこと（se donner à Dieu）」という脱創造の命題の逆面として：オイフォリオンは自己を「düsteres Reich（暗い王国）」へと明け渡し、「Mutter」への呼びかけという最後の繋がりのみを残す。",
+      "targetId": "goethe_faust_ii_anmuthige_gegend_4613",
+      "targetParagraphId": 1
+    }
+  ]
+}
