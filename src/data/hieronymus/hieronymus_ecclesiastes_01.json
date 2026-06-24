@@ -179,6 +179,12 @@
       "targetId": "weil_les_astres",
       "targetParagraphId": null
     },
+{
+        "paragraphId": 5,
+        "type": "commentary",
+        "anchor": "Oritur sol et occidit, et ad locum suum revertitur; ibique renascens,",
+        "body": "「太陽は昇り、沈み、その場所へと戻る。そしてそこで再び生まれ（Oritur sol et occidit, et ad locum suum revertitur; ibique renascens）」——「orior（昇る）」「occido（沈む）」「revertitur（戻る）」「renascens（再び生まれ）」という四つの動詞が太陽の運動を出発・消滅・帰還・再生という四段階の循環として定式化する。「ad locum suum（その場所へ）」という「固有の場所への帰還」という構造が、v.6の風の循環、v.7の川と海の循環とともに自然界の「循環（circulus）」という根本的な秩序を構成する。「ibique renascens（そしてそこで再び生まれ）」という現在分詞が「再生（renasci）」の語を使うことで、太陽の日周運動を死と再生の循環として神話的次元に昇格させる。これはヘブライ語原典「シャーアフ（sha'af／שָׁאַף）〝喘ぐ・切望する〝」の訳として、ヒエロニムスが選んだ「renascens（再び生まれ）」という語がラテン語的な豊かさを付加している。コヘレト的な「虚無」の証左として、最大の天体でさえも「自らの場所に戻るだけ」という空虚な反復として提示される。"
+    },
     {
       "paragraphId": 6,
       "type": "prosody",
@@ -189,7 +195,7 @@
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "Omnia flumina intrant in mare, et mare non redundat",
-      "body": "「すべての川は海へと入る、しかし海はあふれない」──充足しない欲望の宇宙的形象。川が海へと流れ込んでも海は満たされないという逆説は、§8の「目は見ることに飽くことなく（Non saturatur oculus visu）」と照応する──自然の循環と人間の欲望・認識の不飽和性が同型として提示される。マラルメ「骰子一擲」§7「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」──川が海へと消える「場所（locus）」だけが残る虚無の構造と響き合う。ロデンバック「沈黙について」の静水のイメージにもコヘレトの水の循環が底流する。",
+      "body": "「すべての川は海へと入る、しかし海はあふれない」──充足しない欲望の宇宙的形象。川が海へと流れ込んでも海は満たされないという逆説は、§8の「目は見ることに飽くことなく（Non saturatur oculus visu）」と照応する──自然の循環と人間の欲望・認識の不飽和性が同型として提示される。マラルメ「骰子一擲」§7「RIEN / N'AURA EU LIEU / QUE LE LIEU（場所以外何も起きなかっただろう）」──川が海へと消える「場所（locus）」だけが残る虚無の構造と響き合う。ローデンバック「沈黙について」の静水のイメージにもコヘレトの水の循環が底流する。",
       "targetId": "mallarme_coup_de_des",
       "targetParagraphId": 7
     },
@@ -222,6 +228,14 @@
       "targetParagraphId": null
     },
     {
+        "paragraphId": 12,
+        "type": "commentary",
+        "anchor": "Ego Ecclesiastes fui rex Israel in Jerusalem;",
+        "body": "「私、コヘレトはエルサレムにてイスラエルの王であった（Ego Ecclesiastes fui rex Israel in Jerusalem）」——この短い一文が「王の回想録」という文学的枠組みの確立において決定的な機能を持つ。「fui（であった）」という完了過去形が、の「regis Jerusalem（エルサレムの王）」という称号に対し時間的距離を設定する：語り手はかつての王であり、今や王位から離れた見地点から回想する。一人称「Ego（私）」と過去形「fui（であった）」の組み合わせが、アウグスティヌス『告白』の一人称内省的告白文体の聖書的先行形として機能する。「Ego Ecclesiastes fui（私、コヘレトは〜であった）」という宣言が、v.16の「Locutus sum in corde meo（私は心の中で語った）」v.17の「Dedique cor meum（私は心を向けた）」という一人称内省の連鎖の起点となり、v.13でなされた「vidi cuncta quae fiunt sub sole（私は太陽の下でなされるすべてを見た）」という考察変容への内省的反復として機能する。",
+        "targetId": "hieronymus_ecclesiastes_1",
+        "targetParagraphId": 1
+    },
+    {
       "paragraphId": 13,
       "type": "commentary",
       "anchor": "Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
@@ -237,6 +251,26 @@
       "targetId": "weil_accepter_le_vide",
       "targetParagraphId": null
     },
+    {
+        "paragraphId": 15,
+        "type": "glossary",
+        "anchor": "Perversi difficile corriguntur, et stultorum infinitus est numerus.",
+        "body": "「曲がったものは正すことは難しく、愚か者の数は無限である（Perversi difficile corriguntur, et stultorum infinitus est numerus）」——ヘブライ語原典で次の文脈から浮き上がる格言的一節であり、知恵文学が共有するペシミズム的社会学を示す。「perversi（曲がった者）」：ヘブライ語「me'uwwat（曲げられたもの）」の訳。「difficile corriguntur（正すことが難しい）」——原典は「cyukhal litkkon（直すことができない）」とより絶対的な不可能性を示すが、ヒエロニムスは「difficile（難しい）」という相対的な表現を選ぶ。「stultorum infinitus est numerus（愚か者の数は無限である）」——v.14の「afflictio spiritus（霊の苦悩）」という結論に続く行として、「これほどまで改善困難な世界を認識すること」そのものが「霊の苦悩」の一因となることを示す。コヘレト第１章「Vanitas vanitatum」とコヘレト第４章「Vae soli!（一人の者は哀れ）」の孤独論の延長線として位置づけられる。パスカル『パンセ』「悪への傾き（inclinatio ad malum）」とも共鳴。",
+   "targetId": "hieronymus_ecclesiastes_4",
+    "targetParagraphId": 10
+    },
+    {
+        "paragraphId": 16,
+        "type": "commentary",
+        "anchor": "Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et praecessi omnes sapientia qui fuerunt ante me in Jerusalem; et mens mea contemplata est multa sapienter, et didici.",
+        "body": "「私は心の中でこう言った。『見よ、私は偉大になり、私の前にエルサレムにいた者すべてを知恵において超えた（Locutus sum in corde meo, dicens: Ecce magnus effectus sum, et praecessi omnes sapientia qui fuerunt ante me in Jerusalem）』」——「Locutus sum in corde meo（私は心の中で語った）」という内的独白の定式が、旧約聖書における知恵文学的省察の開始を告げる。「Ecce magnus effectus sum（見よ、私は偉大になった）」という自己称賛が逆説的に配置される：v.14の「afflictio spiritus（霊の苦悩）」という知恵探求の結論の直前に置かれた誇りの宣言は、その誇りが幻想であったことを後から読者に悟らせる構造。「praecessi omnes sapientia（すべての者を知恵において超えた）」という最上級の主張が、「in multa sapientia multa sit indignatio（多くの知恵には多くの憤りがある）」という逆転によって覚される：「最大の知恵」が「最大の憤り」として帰結する詩的因果。「mens mea contemplata est（私の心は観照した）」──「contemplata（観照した）」という動詞がプラトン的テオリア（theoria）の語彙として、知的活動の最高形式を示しながらも、その成果が「  afflictio spiritus（霊の苦悩）」であることを認識させる。"
+    },
+    {
+        "paragraphId": 17,
+        "type": "commentary",
+        "anchor": "Dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam; et agnovi quod in his quoque esset labor et afflictio spiritus:",
+        "body": "「そして私は心を向けた、賢明さと知識を、そして誤りと愚かさを知るために。しかしこれらの中にもまた労苦と霊の苦悩があることを私は悟った（Dedique cor meum ut scirem prudentiam atque doctrinam, erroresque et stultitiam; et agnovi quod in his quoque esset labor et afflictio spiritus）」——「prudentiam atque doctrinam, erroresque et stultitiam（賢明さと知識、そして誤りと愚かさ）」という対句が、知恵の探求が必然的に「その反対（誤り・愚かさ）」の認識を伴うことを示す：知恵を知るためには愚かさを知らなければならないという認識論的逆説。「in his quoque（これらの中にもまた）」という「quoque（もまた）」の挿入が、の「universa vanitas et afflictio spiritus（すべては虛無であり霊の苦悩である）」という包括的判断の後に、知恵探求もまた（quoque）同じ結論に到達することを示す：「知恵（prudentia）」と「愚かさ（stultitia）」は対立するように見えながら、共に「afflictio spiritus（霊の苦悩）」へと帰結する。「agnovi（悟った）」という認識の動詞が「Ego Ecclesiastes fui（私はコヘレトであった）」という過去形の一人称による省察の系列に属する：王としての地位・知恵・観照・悟りという全体が「fui（であった）」という完了形として括弧に入れられる。v.18「qui addit scientiam, addit et laborem（知識を加える者は労苦をも加える）」という格言への直接の橋渡しとして機能する。"
+    }
     {
       "paragraphId": 18,
       "type": "commentary",
