@@ -1,0 +1,133 @@
+{
+  "id": "goethe_faust_ii_helena_abschied_9907",
+  "title": "Faust – Zweiter Teil: Helenas Abschied (v.9907–9944)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie zweiter Teil, Dritter Act, v.9907–9944. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+  "year": "1832",
+  "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第二部第三幕（「ヘレナ」幕）の最終部（v.9907–9944）。前景でオイフォリオンが「暗い王国の中で、母よ、私を一人にしないで（Laß mich im düstern Reich / Mutter mich nicht allein）！」と叫んで冥界へ去った直後に続き、コール（合唱）による追悼歌（Trauergesang）とヘレナのファウストへの別れの言葉という二部構造をなす。\nコールの「追悼歌（Trauergesang）」（v.9907–9938）は、詩劇全体を通じてオイフォリオン＝バイロンのアレゴリーが最も明示的かつ詳細に展開される箇所である。「Neidend singen wir dein Loos（羨みながら私たちはお前の運命を歌う）」という逆説的な哀悼の態度が、バイロン卿（Lord Byron, 1788–1824）の人生と死への讃美的悲嘆として定式化される。追悼歌は三段構造をなす──才能の讃美（v.9915–9922：鋭い眼光・共感力・女性への愛・独自の歌声）、宿命的自壊の叙述（v.9923–9930：「自由に無力な網の中へ走り込み」「掟と法に激しく反逆した」「素晴らしきものを勝ち取ろうとしたが、それは叶わなかった」）、そして普遍的な問い（v.9931–9934：「誰に叶うのか──運命が仮装するこの暗澹たる問い、不幸の日に血を流しながら民すべてが黙り込む時に」）と大地の再生（v.9935–9938：「新しい歌で心を新たにせよ──大地は再びそれを生み出す、古来そうであったように」）。\nヘレナの別れの言葉（v.9939–9944）は、ブランクヴェルス（無韻の弱強五歩格）という第三幕全体を貫く古典的詩形で語られ、詩劇全体でも最も凝縮された詩的格言の一つを含む。「幸福と美とは永続的には結ばれ得ない（Daß Glück und Schönheit dauerhaft sich nicht vereint）」という命題は、ファウスト（北方的・歴史的力）とヘレナ（ギリシア的・超時間的美）の合一が構造的に不可能であることを確認する：ヘレナはファウストの腕の中で消え、「衣とヴェール（Kleid und Schleier）」のみが彼の手に残される。最後の「Persephoneia nimm den Knaben auf und mich（ペルセポネイアよ、少年と私を受け取れ）」という六行目の呼格が、ヘレナの冥界帰還をギリシア神話の秩序──ペルセポネがハデスの冥界を司る女王として死者を迎える──の中に位置づけ、第三幕「ヘレナ」幕全体をギリシア古典悲劇の枠組みで完結させる。\nVANITISMEコーパス的文脈において、この場面はヴェイユ「Décréation（脱創造）」の詩劇的成就として読める：ヘレナは自らの肉体的・世俗的な存在（Körperliche）を消去し、「衣とヴェール（Kleid und Schleier）」という詩的遺物のみをファウストに残す。またヒエロニムス訳ヨブ記第1章「財産・子供・すべてを失う試練」の構造が、ファウストがオイフォリオン（子）とヘレナ（愛する者）を相次いで失うという詩劇的損失の連鎖と照応する。",
+  "keywords": [
+    "Trauergesang",
+    "Neidend singen wir dein Loos",
+    "Jugendblüthe weggerafft",
+    "frei in's willenlose Netz",
+    "Wem gelingt es",
+    "Glück und Schönheit dauerhaft sich nicht vereint",
+    "Persephoneia",
+    "Kleid und Schleier",
+    "Byron追悼",
+    "ヘレナの消滅"
+  ],
+  "relatedTexts": [
+    "goethe_faust_ii_euphorion_fall_9821",
+    "goethe_faust_kerker_4574",
+    "goethe_faust_ii_anmuthige_gegend_4613",
+    "hieronymus_iob_1",
+    "hieronymus_ecclesiastes_1",
+    "weil_decreation",
+    "weil_la_violence",
+    "vergilius_aeneis_6_dido_inferos",
+    "dante_purgatorio_canto_30"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.9907–9914",
+      "speaker": "Chor",
+      "scene": "Trauergesang",
+      "original": "Nicht allein! – wo du auch weilest,\nDenn wir glauben dich zu kennen,\nAch! wenn du dem Tag enteilest\nWird kein Herz von dir sich trennen.\nWüßten wir doch kaum zu klagen,\nNeidend singen wir dein Loos:\nDir in klar' und trüben Tagen\nLied und Muth war schön und groß.",
+      "provisionalTranslation": "一人ではない！──お前がどこに留まっていようとも、\n私たちはお前を知っていると思っている、\nああ！お前が日の光から逃れていっても\nどの心もお前から離れることはないだろう。\n嘆くことさえ私たちにはほとんどわからない、\n羨みながら私たちはお前の運命を歌う：\nお前にとって晴れた日も曇った日も\n歌と勇気は美しく偉大だった。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9915–9922",
+      "speaker": "Chor",
+      "scene": "Trauergesang",
+      "original": "Ach! zum Erdenglück geboren,\nHoher Ahnen, großer Kraft,\nLeider! früh dir selbst verloren,\nJugendblüthe weggerafft.\nScharfer Blick die Welt zu schauen,\nMitsinn jedem Herzensdrang,\nLiebesgluth der besten Frauen\nUnd ein eigenster Gesang.",
+      "provisionalTranslation": "ああ！地上の幸せのために生まれ、\n高貴な先祖、大きな力を持って、\n残念ながら！若くして自分自身を失い、\n青春の花が奪い去られた。\n世界を見渡す鋭い眼光、\nあらゆる心の衝動への共感、\n最良の女性たちへの愛の燃える情熱\nそして全くもって独自の歌声。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9923–9930",
+      "speaker": "Chor",
+      "scene": "Trauergesang",
+      "original": "Doch du ranntest unaufhaltsam\nFrei in's willenlose Netz,\nSo entzweytest du gewaltsam\nDich mit Sitte, mit Gesetz;\nDoch zuletzt das höchste Sinnen\nGab dem reinen Muth Gewicht,\nWolltest Herrliches gewinnen,\nAber es gelang dir nicht.",
+      "provisionalTranslation": "しかしお前は止まることなく走った\n自由に無力な網の中へ、\nそのようにお前は激しく自らを引き裂いた\n習俗と掟との間で；\nしかし最後には最高の精神が\n純粋な勇気に重みを与えた、\n素晴らしきものを勝ち取ろうとした、\nしかしそれは叶わなかった。"
+    },
+    {
+      "id": 4,
+      "verses": "v.9931–9934",
+      "speaker": "Chor",
+      "scene": "Trauergesang",
+      "original": "Wem gelingt es? – Trübe Frage,\nDer das Schicksal sich vermummt,\nWenn am unglückseligsten Tage\nBlutend alles Volk verstummt.",
+      "provisionalTranslation": "誰に叶うのか？──暗澹たる問い、\n運命がそこで仮装する、\n最も不幸な日に\n血を流しながら民すべてが黙り込む時に。"
+    },
+    {
+      "id": 5,
+      "verses": "v.9935–9938",
+      "speaker": "Chor",
+      "scene": "Trauergesang",
+      "original": "Doch erfrischet neue Lieder,\nSteht nicht länger tief gebeugt;\nDenn der Boden zeugt sie wieder,\nWie von je er sie gezeugt.",
+      "provisionalTranslation": "しかし新しい歌で心を新たにせよ、\nもはや深く項垂れていてはならない；\n大地は再びそれを生み出すから、\n古来そうであったように。"
+    },
+    {
+      "id": 6,
+      "verses": "v.9939–9944",
+      "speaker": "Helena",
+      "original": "Ein altes Wort bewährt sich leider auch an mir:\nDaß Glück und Schönheit dauerhaft sich nicht vereint.\nZerrissen ist des Lebens wie der Liebe Band;\nBejammernd beide, sag' ich schmerzlich Lebewohl!\nUnd werfe mich noch einmal in die Arme dir.\nPersephoneia nimm den Knaben auf und mich.",
+      "provisionalTranslation": "ある古い言葉が残念ながら私においても実証される：\n幸福と美とは永続的には結ばれ得ない。\n生命の絆も愛の絆も引き裂かれてしまった；\n両方を悼みながら、私は痛みをもって別れを告げる！\nそしてもう一度お前の腕の中に身を投げよう。\nペルセポネイアよ、少年と私を受け取れ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Nicht allein! – wo du auch weilest,\nDenn wir glauben dich zu kennen,",
+      "body": "「一人ではない！──お前がどこに留まっていようとも、私たちはお前を知っていると思っている（Nicht allein! – wo du auch weilest, / Denn wir glauben dich zu kennen）」──追悼歌の冒頭「Nicht allein!（一人ではない）」が前景のオイフォリオンの最後の叫び「Mutter mich nicht allein!（母よ、私を一人にしないで）」（v.9906）への直接の応答として機能する：子が「nicht allein（一人でない）」状態を懇願したのに対し、コールが「Nicht allein!」という宣言によって応じる──詩的・聴覚的な呼応関係が両場面を括弧に入れる。「Neidend singen wir dein Loos（羨みながら私たちはお前の運命を歌う）」という逆説的な哀悼の態度が追悼歌全体の基調を定める：「neidend（羨んで）」という現在分詞は嫉妬・羨望を含意し、バイロンの悲劇的運命を「羨ましい」と宣言する逆転が詩的に強烈な衝撃を持つ──英雄的な死は悲嘆の対象であると同時に羨望の対象となる。「Dir in klar' und trüben Tagen / Lied und Muth war schön und groß（お前にとって晴れた日も曇った日も、歌と勇気は美しく偉大だった）」という対句が、バイロンを「晴れた日（klar）」も「曇った日（trüb）」も等しく詩と勇気で乗り越えた英雄として提示する。",
+      "targetId": "goethe_faust_ii_euphorion_fall_9821",
+      "targetParagraphId": 18
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Leider! früh dir selbst verloren,\nJugendblüthe weggerafft.\nScharfer Blick die Welt zu schauen,\nMitsinn jedem Herzensdrang,\nLiebesgluth der besten Frauen\nUnd ein eigenster Gesang.",
+      "body": "「残念ながら！若くして自分自身を失い、青春の花が奪い去られた。世界を見渡す鋭い眼光、あらゆる心の衝動への共感、最良の女性たちへの愛の燃える情熱、そして全くもって独自の歌声（Leider! früh dir selbst verloren, / Jugendblüthe weggerafft. / Scharfer Blick die Welt zu schauen, / Mitsinn jedem Herzensdrang, / Liebesgluth der besten Frauen / Und ein eigenster Gesang）」──バイロンの才能の四重の肖像が散文詩的なリズムで展開される。「Jugendblüthe weggerafft（青春の花が奪い去られた）」──バイロンは1824年4月19日、36歳でミソロンギに客死した：「früh（早く）」という副詞がこの早すぎる死を悲劇の本質として定義する。「Scharfer Blick die Welt zu schauen（世界を見渡す鋭い眼光）」はバイロンの詩的・批評的洞察力──チャイルド・ハロルドの遍歴における社会批判──への参照。「Liebesgluth der besten Frauen（最良の女性たちへの愛の燃える情熱）」はバイロンの多数の恋愛遍歴（テレサ・ガンバ伯爵夫人との最後の愛情など）への言及。「eigenster Gesang（全くもって独自の歌声）」──「eigenst」という最上級が、バイロンの詩的様式の絶対的な個別性を強調する：他の誰にも真似のできない声として。ゲーテがエッカーマンとの対話でバイロンを「自分の時代の最も偉大な才能（das größte Talent des Jahrhunderts）」と評した言葉が、この四重の肖像に凝縮されている。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Doch du ranntest unaufhaltsam\nFrei in's willenlose Netz,\nSo entzweytest du gewaltsam\nDich mit Sitte, mit Gesetz;",
+      "body": "「しかしお前は止まることなく走った、自由に無力な網の中へ、そのようにお前は激しく自らを引き裂いた、習俗と掟との間で（Doch du ranntest unaufhaltsam / Frei in's willenlose Netz, / So entzweytest du gewaltsam / Dich mit Sitte, mit Gesetz）」──「frei in's willenlose Netz（自由に無力な網の中へ）」という逆説的な表現がこの連全体の詩的核心を形成する：「frei（自由に）」と「willenlos（意志なき・無力な）」の矛盾が、バイロン的自由の本質的な逆説を定式化する──バイロンは完全な自由意志をもってそこへ走り込んだが、「網（Netz）」は「willenlos（意志なき）」すなわち逃れようのない必然として機能した。「entzweytest du gewaltsam / Dich mit Sitte, mit Gesetz（お前は激しく自らを引き裂いた──習俗と掟との間で）」──「gewaltsam（激しく・暴力的に）」という副詞がバイロンのスキャンダルと社会的追放──異母妹オーガスタとの噂・妻とのスキャンダル・英国追放（1816）──への参照として機能する。「Wolltest Herrliches gewinnen, / Aber es gelang dir nicht（素晴らしきものを勝ち取ろうとした、しかしそれは叶わなかった）」という最後の二行が英雄的失敗の格言的定式として機能する：ヴェイユ「la violence（力）」の「網（filet）は力の中に踏み込んだ者を必ず捕らえる」という命題が、オイフォリオン/バイロンの「frei in's willenlose Netz」という形象に照応する。",
+      "targetId": "weil_la_violence",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Wem gelingt es? – Trübe Frage,\nDer das Schicksal sich vermummt,\nWenn am unglückseligsten Tage\nBlutend alles Volk verstummt.",
+      "body": "「誰に叶うのか？──暗澹たる問い、運命がそこで仮装する、最も不幸な日に、血を流しながら民すべてが黙り込む時に（Wem gelingt es? – Trübe Frage, / Der das Schicksal sich vermummt, / Wenn am unglückseligsten Tage / Blutend alles Volk verstummt）」──四行のみで詩劇全体の問いを凝縮する哲学的極点。「Wem gelingt es?（誰に叶うのか？）」という問いは前節「Wolltest Herrliches gewinnen, / Aber es gelang dir nicht（素晴らしきものを勝ち取ろうとしたが叶わなかった）」の「gelang（叶った）」を引き継ぎ、個人の失敗から普遍的な問いへと跳躍する──バイロンだけでなく、あらゆる英雄的企図への問いとして。「Trübe Frage（暗澹たる問い）」という形容が問いそのものの答え不可能性を示す。「Das Schicksal sich vermummt（運命が仮装する）」──「vermummen（仮装する・変装する）」という動詞が運命の不透明性・不可知性を舞台的な比喩で表現する。「Blutend alles Volk verstummt（血を流しながら民すべてが黙り込む）」という最後の一行がギリシア独立戦争の集合的犠牲を凝縮する：1824年のバイロンの死に際してギリシア全土が喪に服した事実への歴史的参照として機能する。コヘレト第1章v.15「Perversi difficile corriguntur, et stultorum infinitus est numerus（曲がったものは正すことは難しく、愚か者の数は無限）」という改善不能への命題と照応する：「Wem gelingt es?」という問いの「trübe（暗澹とした）」性が、コヘレト的ペシミズムの詩劇的変容として機能する。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 15
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Doch erfrischet neue Lieder,\nSteht nicht länger tief gebeugt;\nDenn der Boden zeugt sie wieder,\nWie von je er sie gezeugt.",
+      "body": "「しかし新しい歌で心を新たにせよ、もはや深く項垂れていてはならない；大地は再びそれを生み出すから、古来そうであったように（Doch erfrischet neue Lieder, / Steht nicht länger tief gebeugt; / Denn der Boden zeugt sie wieder, / Wie von je er sie gezeugt）」──追悼歌の最終連であり、個人的な悼みから詩的再生の肯定への転換として機能する。「erfrischet neue Lieder（新しい歌で心を新たにせよ）」という命令形が、喪失の悲嘆から詩的生産への回帰を要求する：「frischen（新たにする）」という動詞が追悼歌から次の詩の創造への移行を命じる。「Denn der Boden zeugt sie wieder, / Wie von je er sie gezeugt（大地は再びそれを生み出すから、古来そうであったように）」──「Boden（大地）」が「Lieder（歌）」を生み出す主体として提示される：詩は個人の才能から生まれるのではなく、大地という根源から繰り返し生み出されるという大地的詩学の定式。コヘレト第1章v.4「Generatio praeterit, et generatio advenit; terra autem in aeternum stat（世代は過ぎ去り、世代は来る。しかし大地は永遠に立ち続ける）」の詩劇的等価物として：個々の詩人（Euphorion/バイロン）は消え去るが、詩を生み出す「Boden（大地）」は永続する──ゲーテ的な自然の詩的生産力の定式化として。「Völlige Pause. Die Musik hört auf（完全な沈黙。音楽が止まる）」という舞台指示がこの命題の後に続くことで、詩と音楽の停止が逆説的に「Boden（大地）」の無言の生産性を際立たせる。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ein altes Wort bewährt sich leider auch an mir:\nDaß Glück und Schönheit dauerhaft sich nicht vereint.\nZerrissen ist des Lebens wie der Liebe Band;\nBejammernd beide, sag' ich schmerzlich Lebewohl!\nUnd werfe mich noch einmal in die Arme dir.\nPersephoneia nimm den Knaben auf und mich.",
+      "body": "「ある古い言葉が残念ながら私においても実証される：幸福と美とは永続的には結ばれ得ない（Ein altes Wort bewährt sich leider auch an mir: / Daß Glück und Schönheit dauerhaft sich nicht vereint）」──詩劇第二部全体でも最も凝縮された格言的命題の一つ。「Ein altes Wort（ある古い言葉）」という引用の形式が、ヘレナ自身の消滅の経験を既知の格言の実証として提示する：美の女王ヘレナが自らの喪失において「古い言葉」を「leider（残念ながら）」検証するという構造が、美的理想と現実の根本的な乖離を体現する。この「古い言葉」はヘシオドス以来のギリシア的格言「美しきものは永続しない」を指す可能性があるが、むしろゲーテが詩劇の文脈に即して発明した「古さを装った新しい格言」として機能する。「Zerrissen ist des Lebens wie der Liebe Band（生命の絆も愛の絆も引き裂かれてしまった）」──「zerrissen（引き裂かれた）」という過去分詞が第一部「牢獄」での「Weh meinem Kranze! / Es ist eben geschehn（私の花冠よ、哀れ！それはちょうど起きたばかり）」という喪失の過去形と照応する：グレートヒェンの「引き裂かれた花冠（zerrissener Kranz）」が、ここではヘレナの「引き裂かれた絆（zerrissenes Band）」として変奏される。「Persephoneia nimm den Knaben auf und mich（ペルセポネイアよ、少年と私を受け取れ）」──六行目がギリシア神話の冥界女王ペルセポネへの呼格として機能する：ゲーテは「Persephoneia」というギリシア語形を使うことで、ラテン化した「Proserpina」ではなくギリシア的な直接性を持たせる。ヘレナは自らの死を「受け取られること（nimm...auf）」として提示する──能動的な死ではなく神的な受容への委譲として。「Sie umarmt Faust, das Körperliche verschwindet, Kleid und Schleier bleiben ihm in den Armen（彼女はファウストを抱擁し、肉体的なものは消え去り、衣とヴェールのみが彼の腕に残される）」という舞台指示が、ヴェイユ「Décréation（脱創造）」の詩劇的完成として機能する：ヘレナは肉体的存在（Körperliches）を脱ぎ捨て、「Kleid und Schleier（衣とヴェール）」という詩的遺物のみを残す。ウェルギリウス『アエネーイス』第6巻でアエネアスが冥界のディドに触れようとして「umbra（影）」しか掴めなかった場面との照応：ファウストの腕には「Kleid und Schleier（衣とヴェール）」のみが残り、ヘレナ本人は「umbra」として消える。",
+      "targetId": "vergilius_aeneis_6_dido_inferos",
+      "targetParagraphId": 2
+    }
+  ]
+}
