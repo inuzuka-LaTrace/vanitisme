@@ -81,29 +81,31 @@
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Ein Paradies wird um mich her die Runde.",
-      "body": "「楽園が私の周りに広がっていく（Ein Paradies wird um mich her die Runde.）」──第一部から第二部への絶対的な空間的・精神的移行を告げる象徴的一行。第一部を支配していた「feuchte Mauer（湿った壁）」「Kerker（牢獄）」という息詰まる閉塞空間は、目覚めとともに宇宙的な「Paradies（楽園）」へとダイナミックに反転する。語源的にペルシア語「pairidaēza（囲われた庭）」に由来し、創世記第2章のエデンの園への参照を色濃く孕むこの語は、レテの浄化を経たファウストの再生を「罪なき始源への回帰」として仮象させる。グレートヒェンと交わしたかつての密やかな庭（heiterer Garten）の痛切な記憶は消去され、その代償として無限の自然そのものが「Paradies」として現出するという忘却のアイロニー。ヒエロニムス訳創世記第2章v.8「Plantaverat autem Dominus Deus paradisum voluptatis（主なる神は快楽の園を植えた）」が放つ根源的な光輝との照応がここに認められる[cite: 8]。",
-      "targetId": "hieronymus_ecclesiastes_1",
-      "targetParagraphId": 1
+      "body": "「楽園が私の周りに広がっていく（Ein Paradies wird um mich her die Runde.）」──第一部から第二部への絶対的な空間的・精神的移行を告げる象徴的一行。第一部を支配していた書斎の「feuchte Mauer（湿った壁）」や「Kerker（牢獄）」といった息詰まる閉塞空間は、目覚めとともに宇宙的な「Paradies（楽園）」へとダイナミックに反転する。語源的にペルシア語「pairidaēza（囲われた庭）」に由来し、創世記第2章のエデンの園への参照を色濃く孕むこの語は、レテの浄化を経たファウストの再生が「罪なき始源の状態への回帰」であることを告げる。グレートヒェンと共有した「晴れやかな庭（heitere Garten）」（v.4477）の痛切な記憶は消去され、その代償として無限の自然そのものが「Paradies」として現出するという忘却のアイロニー。これはヒエロニムス訳創世記第2章v.8「Plantaverat autem Dominus Deus paradisum voluptatis（主なる神は快楽の園を植えた）」における主体的自然の歓喜との深い照応を示している。",
+      "targetId": "goethe_faust_kerker_4460",
+      "targetParagraphId": 4
     },
     {
       "paragraphId": 2,
       "type": "prosody",
       "anchor": "Hinaufgeschaut! - Der Berge Gipfelriesen\nVerkünden schon die feierlichste Stunde;\nSie dürfen früh des ewigen Lichts genießen",
-      "body": "「見上げよ！– 山々の峰の巨人たちがすでに最も厳かな時を告げる；彼らは後で私たちへと降りてくる永遠の光を早くから楽しむことができる（Hinaufgeschaut! - Der Berge Gipfelriesen / Verkünden schon die feierlichste Stunde; / Sie dürfen früh des ewigen Lichts genießen）」──「Hinaufgeschaut!（見上げよ！）」という劇的な命令形が、第一連の水平的な大地の広がりから垂直的な高みへと視線を強引に牽引する。ここで導入されるテルツァ・リーマ（ABA BCB CDC…）は、ダンテ『神曲』の形式を直接に呼び込むことで、本モノローグが霊的な「上昇（ascesa）」の途上にあることを形式論的に刻印する。ダンテの『天国篇』における「光の階梯」が、ここでは高山（Gipfelriesen）から山麓の牧草地へと段階的に下降してくる現実の夜明けの光として物質化されている。山頂を「伝令（Verkünden）」の主体とする擬人化は、前場面アリエルの「精神の耳に告げられる（Tönend wird für Geistes-Ohren）」という宇宙的轟音の地上的・視覚的対応物である[cite: 8]。",
-      "targetId": "dante_paradiso_canto_33"
+      "body": "「見上げよ！– 山々の峰の巨人たちがすでに最も厳かな時を告げる；彼らは後で私たちへと降りてくる永遠の光を早くから楽しむことができる（Hinaufgeschaut! - Der Berge Gipfelriesen / Verkünden schon die feierlichste Stunde; / Sie dürfen früh des ewigen Lichts genießen）」──「Hinaufgeschaut!（見上げよ！）」という劇的な命令形が、第一連の水平的な大地の広がりから垂直的な高みへと視線を強引に牽引 し、詩節における劇的な垂直の切断線を描く。第一段落を支配していた水平方向の大地への肉薄から、上方的・形而上学的な「垂直性（Gipfel）」への視線の移行である。ここで導入されるテルツァ・リーマ（ABA BCB CDC…）の韻律構造は、ダンテ『神曲』の形式を直接に呼び込むことで、本モノローグが霊的な階梯の「上昇（ascesa）」の途上にあることを音楽的・形式論的に刻印・保証する。ダンテの『天国篇』における「光の階梯」が、ここではアルプスの高山から山麓の牧草地へと段階的に下降してくる現実の夜明けの光として物質化されている。山嶺を「Gipfelriesen（峰の巨人）」として「伝令（Verkünden）」の主体とする擬人化は、前場面アリエルの「Tönend wird für Geistes-Ohren（精神の耳に響き渡る）」という宇宙的轟音の地上的・視覚的な対応物として機能している。",
+      "targetId": "dante_paradiso_canto_33",
+      "targetParagraphId": null
     },
     {
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "Sie tritt hervor! – und, leider schon geblendet,\nKehr' ich mich weg, vom Augenschmerz durchdrungen.",
-      "body": "「彼女は前に出た！– そして、すでに目がくらんで、私は瞳の痛みに貫かれて、顔を背ける（Sie tritt hervor! – und, leider schon geblendet, / Kehr' ich mich weg, vom Augenschmerz durchdrungen.）」──太陽（女性形：sie）の出現。突如挿入される「leider（残念ながら）」という痛切な副詞は、人間の存在論的限界に対する冷徹な諦念として機能する。絶対的な真理、あるいは神的な光源を直接視認することは人間に許されていないという認識論的挫折。これはプラトン『国家』第7巻の「洞窟の比喩」における、洞窟から解放された者が直接太陽を見た瞬間に目を眩まされ、激痛とともに視線を転じる（顔的転回）という構造の極めて身体的な再演である。この過酷な視覚的拒絶が、第四連の「それならば太陽を私の背中に留まらせよ（So bleibe denn die Sonne mir im Rücken!）」という偉大なるコペルニクス的転回への必然的な伏線となる[cite: 8]。",
-      "targetId": "weil_accepter_le_vide"
+      "body": "「彼女は前に出た！– そして、すでに目がくらんで、私は瞳の痛みに貫かれて、顔を背ける（Sie tritt hervor! – und, leider schon geblendet, / Kehr' ich mich weg, vom Augenschmerz durchdrungen.）」──真理の太陽が女性形三人称単数「sie（彼女）」として擬人化され、突如として出現する。。突如挿入される「leider（残念ながら）」という痛切な副詞は、人間実存の本質的・存在論的限界に対する冷徹な諦念として機能する。絶対的な真理、あるいは神的な光源を直接視認することは人間に許されていないというゲーテ認識論の限界設定。これはプラトン『国家』第7巻の「洞窟の比喩」における、洞窟から解放された囚人が外の世界で直接太陽を仰ぎ見た際に、そのあまりの眩しさに「眼の痛み」を覚えて直視を拒絶する構造との照応であり身体的な再演である。この過酷な視覚的拒絶と身体的盲目化（blenden）の悲劇が、第四連の「それならば太陽を私の背中に留まらせよ（So bleibe denn die Sonne mir im Rücken!）」というコペルニクス的転回への必然的な伏線となる。",
+      "targetId": "weil_accepter_le_vide",
+      "targetParagraphId": null
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Nun aber bricht aus jenen ewigen Gründen\nEin Flammen-Uebermaß, wir stehn betroffen;\nDes Lebens Fackel wollten wir entzünden,\nEin Feuermeer umschlingt uns, welch' ein Fire!\nIst's Lieb? Ist's Haß? die glühend uns umwinden,",
-      "body": "「しかし今あの永遠の根源から炎の過剰が迸り、私たちは驚き立ちすくむ；生命の松明を灯そうとしたのに、火の海が私たちを取り囲む、なんたる火よ！それは愛か？それは憎しみか？燃えながら私たちに巻き付いて（Nun aber bricht aus jenen ewigen Gründen / Ein Flammen-Uebermaß, wir stehn betroffen; / Des Lebens Fackel wollten wir entzünden, / Ein Feuermeer umschlingt uns, welch' ein Feuer! / Ist's Lieb? Ist's Haß? die glühend uns umwinden）」──「Flammen-Uebermaß（炎の過剰）」という壮絶な表現は、第一部「夜」でファウストが毒薬を手に「炎の馬車が軽い翼に乗って漂う（Ein Feuerwagen schwebt, auf leichten Schwingen）」（v.702）と幻視したあの破壊的な「火」の巨大な反響である。あそこでの炎への誘惑は虚無（Nacht）への超克を賭けた絶望の跳躍であったが、ここでの太陽の「火の海（Feuermeer）」は、人間の主体的制御を完全に拒絶する客観的真理の過剰として実存を圧倒（betroffen）する。「Ist's Lieb? Ist's Haß?（それは愛か？それは憎しみか？）」という、善悪の彼岸に位置する根源的な二面性の吐露は、第一部でメフィストが提示した「常に悪を欲し常に善を作り出す（stets das Böse will und stets das Gute schafft）」という宇宙的創造／破壊のパラドクスと深部で通底している[cite: 8]。",
+      "body": "「しかし今あの永遠の根源から炎の過剰が迸り、私たちは驚き立ちすくむ；生命の松明を灯そうとしたのに、火の海が私たちを取り囲む、なんたる火よ！それは愛か？それは憎しみか？燃えながら私たちに巻き付いて（Nun aber bricht aus jenen ewigen Gründen / Ein Flammen-Uebermaß, wir stehn betroffen; / Des Lebens Fackel wollten wir entzünden, / Ein Feuermeer umschlingt uns, welch' ein Feuer! / Ist's Lieb? Ist's Haß? die glühend uns umwinden）」──「Flammen-Uebermaß（炎の過剰）」という壮絶な表現は、第一部「夜」でファウストが毒薬を手に「炎の馬車が軽い翼に乗って漂う（Ein Feuerwagen schwebt, auf leichten Schwingen）」（v.702）と幻視した「火」の審判の破壊的な変奏である。かつての炎への誘惑は虚無（Nacht）への超克を賭けた絶望の跳躍であったが、ここでの太陽の「火の海（Feuermeer）」は、人間の主体的制御を完全に拒絶し超越する客観的真理の過剰として実存を圧倒（betroffen）する。「Ist's Lieb? Ist's Haß?（それは愛か？それは憎しみか？）」という問いは第一部でメフィストが自己規定した「常に悪を欲し常に善を作り出す（stets das Böse will und stets das Gute schafft）」という創造／破壊のパラドクスと通底しており、地上の道徳的概念（愛／憎）が善悪の彼岸で完全に溶解することを示している。",
       "targetId": "goethe_faust_nacht_690",
       "targetParagraphId": 2
     },
@@ -111,15 +113,15 @@
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "So daß wir wieder nach der Erde blicken,\nZu bergen uns in jugendlichstem Schleier.",
-      "body": "「そのため私たちはまた大地へと目を向け、最も若々しいヴェールの中に身を隠す（So daß wir wieder nach der Erde blicken, / Zu bergen uns in jugendlichstem Schleier.）」──「最も若々しいヴェール（jugendlichstem Schleier）」への退却。第一部において「ヴェール（Schleier）」や幻影（Wahn）は主体の認識を阻む瞞着として否定的に現れることが多かったが、ここでは真理の直射から人間の脆い生命を保護する「恩寵の覆い」として決定的な反転を遂げる。人間は絶対の光の前に直接晒されるべきではなく、仮象という防壁に守られて初めて生き長らえることができるというゲーテ的中庸。コヘレト第11章v.7-8「dulce lumen et delectabile est oculis videre solem（光は甘く、目で太陽を見ることは喜ばしい）」が説く知恵の遊歩者的受容に対し、絶えざる行為者であるファウストは太陽を直視できず、生の持続のために「Schleier」への隠遁を余儀なくされるという、認識論的断層がここに浮き彫りとなる[cite: 8]。",
-      "targetId": "hieronymus_ecclesiastes_1",
-      "targetParagraphId": 18
+      "body": "「そのため私たちはまた大地へと目を向け、最も若々しいヴェールの中に身を隠す（So daß wir wieder nach der Erde blicken, / Zu bergen uns in jugendlichstem Schleier.）」──「最も若々しいヴェール（jugendlichstem Schleier）」という防衛的メタファーへの退却。第一部において「ヴェール（Schleier）」や幻影（Wahn）は主体の認識を阻む瞞着や虚偽として否定的に現れ機能していたが、ここでは最上級「jugendlichst」を伴うことで、過酷な絶対的真理の直射から人間の脆い有限な生命を保護する「恩寵としての覆い」として決定的な反転を遂げる。人間は絶対の光の前に直接晒されるべきではなく、仮象という面紗（ヴェール）に守られて初めて生き長らえることができるというゲーテ的中庸。これはヒエロニムス訳コヘレトの言葉第11章v.7-8「dulce lumen et delectabile est oculis videre solem（光は甘く、目で太陽を見ることは喜ばしい）」が知恵の享受を説くのに対し、絶えざる行為者であるファウストは太陽を直視できず、生の持続のために「Schleier」への隠遁を余儀なくされるという対照性を示す。真理を静観する思索者（コヘレト）と、仮象の不断の変彩のなかで実践せざるをえない行為者（ファウスト）の認識論的切断がここに露呈する",
+      "targetId": "hieronymus_ecclesiastes_11",
+      "targetParagraphId": 7
     },
     {
       "paragraphId": 4,
       "type": "prosody",
       "anchor": "Wölbt sich des bunten Bogens Wechsel-Dauer,\nBald rein gezeichnet, bald in Luft zerfließend,\nUmher verbreitend duftig kühle Schauer.",
-      "body": "「彩りある弓の移ろい続ける不変がアーチを作り、今は純粋に描かれ、今は空気の中に溶けていき、周囲に香しい冷たいそよ風を広げる（Wölbt sich des bunten Bogens Wechsel-Dauer, / Bald rein gezeichnet, bald in Luft zerfließend, / Umher verbreitend duftig kühle Schauer.）」──「Wechsel-Dauer（移ろい続ける不変・変化する永続）」というゲーテ独自の結合名詞は、この最終連の、ひいては彼の自然哲学全体の詩的核心である。絶え間なく生滅を繰り返す水飛沫（Wechsel）と、その運動の背後に法則として厳然と架かり続ける虹のアーチ（Dauer）の止揚。「bald..., bald...（今は〜、今は〜）」という時間的交代の反復それ自体が、消滅することのない永遠の「持続」のパターンを形成するという逆説的交響。これはコヘレト第1章v.6「Girat per meridiem et flectitur ad aquilonem（風は南に向かい、北へと曲がる…循環して元の道に戻る）」が描写する、自然の無常でありながらも永劫回帰する壮大なる循環の形象と鮮烈に響き合っている[cite: 8]。",
+      "body": "「彩りある弓の移ろい続ける不変がアーチを作り、今は純粋に描かれ、今は空気の中に溶けていき、周囲に香しい冷たいそよ風を広げる（Wölbt sich des bunten Bogens Wechsel-Dauer, / Bald rein gezeichnet, bald in Luft zerfließend, / Umher verbreitend duftig kühle Schauer.）」──「Wechsel-Dauer（移ろい続ける不変・変化する永続）」というゲーテ独自の結合名詞は、この最終連の、ひいては彼の自然哲学全体の詩的・形而上学的核心である。絶え間なく生滅を繰り返す水飛沫（Wechsel）と、その運動の背後に法則として厳然と架かり続ける虹のアーチ（Dauer）──「Wechsel（流転・変化）」と「Dauer（持続・永続）」という二つの背反するカテゴリーの止揚は、虹という光学現象を「流動する永遠」のモデルとして定式化する。虹を構成する個々の水滴と光線は一瞬ごとに激しく交代し（Wechsel）、空気の中に消散する（zerfließend）が、その幾何学的法則のアーチ（Bogen）そのものは不動の持続（Dauer）を保つ。この「bald..., bald...（今は〜、今は〜）」という時間的交代の反復それ自体が、消滅することのない永遠の「持続」のパターンを形成するという逆説的交響。これはコヘレト第1章v.6「Girat per meridiem et flectitur ad aquilonem. Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.（南を旋回し、北へと曲がる。風はあらゆるところを照らしながら巡り続け、その巡回へと戻っていく。）」が描写する、風・霊（spiritus）の無常でありながらも永劫回帰する壮大な宇宙的循環の形象と深く共鳴している。",
       "targetId": "hieronymus_ecclesiastes_1",
       "targetParagraphId": 6
     },
@@ -127,7 +129,7 @@
       "paragraphId": 4,
       "type": "intertextual",
       "anchor": "Der spiegelt ab das menschliche Bestreben.\nIhm sinne nach und du begreifst genauer:\nAm farbigen Abglanz haben wir das Leben.",
-      "body": "「それは人間の努力を鏡に映す。それをじっくり考えれば、より正確にわかる：彩りある反照の中に私たちは生命を持つ（Der spiegelt ab das menschliche Bestreben. / Ihm sinne nach und du begreifst genauer: / Am farbigen Abglanz haben wir das Leben.）」──『ファウスト』全編を通じて頂点をなす、文学史上最も高名な掉尾の一行。「Am farbigen Abglanz haben wir das Leben」は、ゲーテの現象学・認識論のすべてが凝縮された究極のテーゼである。「Abglanz（反照・屈折光）」は、プラトン的な洞窟の「影（Schatten）」という劣化コピーの概念を美しく換骨奪胎したものであり、ゲーテにおいてはこの色彩豊かな反照こそが生（Leben）の躍動する唯一の実在的・肯定的な舞台とされる。これは、光と闇の境界の相互作用として色彩を定義した彼の『色彩論（Farbenlehre）』（1810）の核心命題「色は光の行為であり受難である」の詩的結晶に他ならない。ダンテが『神曲』天国篇第33歌の終局「太陽と他の星々を動かす愛（l'amor che move il sole e l'altre stelle）」において神的絶対光への直接の融合を果たしたのとは真逆に、ファウストは純粋光を拒絶し、この間接的な「彩りある反照（farbiger Abglanz）」の現世のグラデーションの中にこそ、人間の果てしなき努力（Bestreben）と生の救済を見出すのである[cite: 8]。",
+      "body": "「それは人間の努力を鏡に映す。それをじっくり考えれば、より正確にわかる：彩りある反照の中に私たちは生命を持つ（Der spiegelt ab das menschliche Bestreben. / Ihm sinne nach und du begreifst genauer: / Am farbigen Abglanz haben wir das Leben.）」「Am farbigen Abglanz haben wir das Leben（彩りある反照の中に私たちは生命を持つ）」は、ゲーテの認識論のすべてが凝縮された究極のテーゼ。「Abglanz（反照・屈折光）」という概念は、プラトンの洞窟の比喩における「影（Schatten）」の存在論的価値を全面的に肯定へと転換させたものである。プラトニズムにおいて現象（影）はイデア（真理）の劣悪な複製品にすぎないが、ゲーテの「farbigen Abglanz」においては、その間接的な色彩豊かな反照こそ「das Leben（生命）」が充実し躍動する唯一の実在的・肯定的な舞台とされる。これはゲーテ『色彩論（Farbenlehre）』（1810）の核心命題「色は光と闇の境界における行為であり受難である（Farben sind Taten und Leiden des Lichts）」における光と闇の境界の相互作用としての色彩の定義の詩的結晶である。「farbig（彩りある）」とは単なる装飾ではなく、純粋光（白光）が物質世界と交わることで初めて人間に認識可能となる感性的・認識論的条件に他ならない。ダンテが『神曲』の最終歌（天国篇第33歌）が「太陽と他の星々を動かす愛（l'amor che move il sole e l'altre stelle）」において絶対的な神の光との直接的な融合をもって幕を閉じるのとは対照的に、ファウストは太陽に背を向け、媒介された間接的な「彩りある反照（farbiger Abglanz）」のなかへと力強く踏み出す。多元的な現世のグラデーションの中にこそ、人間の果てしなき努力（Bestreben）と生の救済を見出すのである。",
       "targetId": "dante_paradiso_canto_33"
     }
   ]
