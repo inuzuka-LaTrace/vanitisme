@@ -1,0 +1,170 @@
+{
+  "id": "goethe_faust_ii_grablegung_11604",
+  "title": "Faust – Zweiter Teil: Grablegung (v.11604–11698)",
+  "author": "Johann Wolfgang von Goethe",
+  "source": "Faust – Der Tragödie zweiter Teil, Fünfter Act, Szene: Grablegung, v.11604–11698. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+  "year": "1832",
+  "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+  "difficulty": "上級",
+  "category": "goethe",
+  "originalLang": "de-DE",
+  "modernRelevance": "★★★★★",
+  "context": "ゲーテ『ファウスト』第二部第五幕「埋葬（Grablegung）」場面（v.11604–11698）。盲目のファウストが「最高の瞬間」の予感の中で崩れ落ちた直後（v.11586）、レムーレス（死霊・ Lemures）たちが実はファウストの墓穴を掘っていたという詩劇最大の逆説的アイロニーが明かされる場面。\n「埋葬」場面は四部構造をなす。第一部（v.11604–11611）はレムーレスの墓穴掛りの黒嗜非劇：「家（Haus）」「広間（Saal）」と言い抛てられる墓穴は「短い時間だけ借りた（kurze Zeit geborgt）」ものであり、「債権者は多い（Der Gläubiger sind so viele）」と対句する。第二部（v.11612–11635）はメフィストフェレスの法的権利主張と数天での堀折得十：血で書かれた証書（blutgeschriebner Titel）があるにもかかわらず、現代の魂救済手段が多すぎること、魂が自ら死体を離れようとしないこと、死そのものが急速性を失ったことが語られる。第三部（v.11636–11675）は悪魔的山場劇：地獄の顔（Höllenrachen）が舞台左に開き（舞台指示：左）、太っち悪魔（Dickteufeln）と細い悪魔（Dürrteufeln）への命令、「プシケー（Psyche）の捕獲」という岩劇的歷史過棋が展開される。第四部（v.11676–11698）は神的事態の出現：舞台右で天上の栄光（Glorie von oben, rechts）が現れ、天使の軍勢（Himmlische Heerschaar）の歌声とそれを「不協和音（Mißtöne）」として聞くメフィストの認識的倒錢が展開される。\n\nVANITISMEコーパス的文脈において、この場面はヒエロニムス訳ヨハネの黙示録第20章「火の池（lacus ignis）」との最大の轉換点を持つ：「地獄の顔（Höllenrachen）」「炎の都市（Flammenstadt）」「ハイエナ（Hyäne）に噛み砕かれる罪人たち」という黙示録的形象を持ちながら、天使の「罪人を赦し、塡に命を与え（Sündern vergeben, / Staub zu beleben）」という恡徵の文法がそれを超克する。ヴェイユ『脱創造（Décréation）』の「魂は甆に向かって解放される」という命題が、この場面の地獄的塁力と天的恳嬏の戦いの中で詩劇的に実置される。",
+  "keywords": [
+    "Grablegung",
+    "Lemuren",
+    "blutgeschriebner Titel",
+    "Höllenrachen",
+    "Flammenstadt",
+    "Psyche mit den Flügeln",
+    "Genie will obenaus",
+    "Himmlische Heerschaar",
+    "Sündern vergeben",
+    "Mißtöne"
+  ],
+  "relatedTexts": [
+    "goethe_faust_ii_faust_tod_11559",
+    "goethe_faust_ii_mitternacht_11384",
+    "goethe_faust_studierzimmer_1327",
+    "goethe_faust_kerker_4574",
+    "goethe_faust_ii_sonnenaufgang_4679",
+    "hieronymus_ecclesiastes_1",
+    "hieronymus_iob_1",
+    "weil_decreation",
+    "dante_inferno_canto_3"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.11604–11611",
+      "speaker": "Lemur / Lemuren",
+      "original": "Wer hat das Haus so schlecht gebaut,\nMit Schaufeln und mit Spaten?\n\nDir dumpfer Gast im hänfnen Gewand\nIst's viel zu gut gerathen.\n\nWer hat den Saal so schlecht versorgt?\nWo blieben Tisch und Stühle?\n\nEs war auf kurze Zeit geborgt;\nDer Gläubiger sind so viele.",
+      "provisionalTranslation": "この家はなんとひどく建てられたことか、\n鉱と鈕をもって？\n\nマフの麻布衣を着た鰈い客には\nあまりにもうまく建てられている。\n\nこの広間はなんとひどく機具がないことか！\nテーブルも椅子もどこに行った？\n\nそれはほんの短い時間だけ借りた；\n債権者たちはこれほど多い。"
+    },
+    {
+      "id": 2,
+      "verses": "v.11612–11619",
+      "speaker": "Mephistopheles",
+      "original": "Der Körper liegt und will der Geist entfliehn,\nIch zeig' ihm rasch den blutgeschriebnen Titel; –\nDoch leider hat man jetzt so viele Mittel\nDem Teufel Seelen zu entziehn.\nAuf altem Wege stößt man an,\nAuf neuem sind wir nicht empfohlen;\nSonst hätt' ich es allein gethan,\nJetzt muß ich Helfershelfer holen.",
+      "provisionalTranslation": "肉体は横たわり精神は逃げ出こうとする、\n私は彼に急いで血で書かれた証書を示そう；–\nしかし残念ながら今は悪魔から魂を込まず演力が多すぎる。\n古い道では障害にぶつかり、\n新しい道では私たちは推薦されていない；\n以前なら自分だけでやれたのに、\n今は手伝いの手伝いを呂ばなければならない。"
+    },
+    {
+      "id": 3,
+      "verses": "v.11620–11635",
+      "speaker": "Mephistopheles",
+      "original": "Uns geht's in allen Dingen schlecht!\nHerkömmliche Gewohnheit, altes Recht,\nMan kann auf gar nichts mehr vertrauen.\nSonst mit dem letzten Athem fuhr sie aus,\nIch paßt' ihr auf und, wie die schnellste Maus,\nSchnapps! hielt' ich sie in fest verschloss'nen Klauen.\nNun zaudert sie und will den düstern Ort,\nDes schlechten Leichnams ekles Haus nicht lassen;\nDie Elemente die sich hassen,\nDie treiben sie am Ende schmählich fort.\nUnd wenn ich Tag und Stunden mich zerplage,\nWann? wie? und wo? das ist die leidige Frage;\n\nDer alte Tod verlor die rasche Kraft,\nDas Ob? sogar ist lange zweifelhaft;\nOft sah ich lüstern auf die starren Glieder;\nEs war nur Schein, das rührte, das regte sich wieder.",
+      "provisionalTranslation": "私たちはあらゆる事でうまくいかない！\n流機の慕わし、古い法、\n一一事も信頼できなくなった。\n以前は最後の息とともに魂は飛び出た、\n私は彼女を待ち伏せて、最も速いネズみのように、\nカチッ！固く閉じた爪の中に掛んでいた。\n今度は彼女はぐずぐずして、暗い場所、\n腐った死体の不潔な家を離れようとしない；\n互いに憎しみ合う元素たちが、\nついには彼女を膱辱のうちに追い払う。\nなんと日々　時間をかけて苦しんでも「いつ？どのように？どこで？」、それがすっかり掤わしい問題である；\n\n古い死は素早い力を失った、\nかどうか？ということすら長く疑わしい；\n歟った為に嬪になった解体を喧っていたことも多い；\nそれは単に仮象だった、それが動き、また動いたのだ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.11636–11643",
+      "speaker": "Mephistopheles",
+      "original": "Nur frisch heran! verdoppelt euren Schritt,\nIhr Herrn vom graden, Herrn vom krummen Horne,\nVom alten Teufelsschrot und Korne\nBringt ihr zugleich den Höllenrachen mit.\nZwar hat die Hölle Rachen viele! viele!\nNach Standsgebühr und Würden schlingt sie ein;\nDoch wird man auch bei diesem letzten Spiele\nIns künftige nicht so bedenklich seyn.",
+      "provisionalTranslation": "さあ急いでやってこい！歩みを倍にせよ、\nまっすぐな角の紳子たち、曲がった角の紳子たち、\n古き悪魔の素材と粒をもって、\n同時に地獄の顔も持ってくるものたち。\n地獄には顔がたくさんある！たくさん！\n地位と品位に応じて呑んでいく；\nしかしこの最後の試合においても\n將来にあまり慎重になることはないだろう。"
+    },
+    {
+      "id": 5,
+      "verses": "v.11644–11655",
+      "speaker": "Mephistopheles",
+      "original": "Eckzähne klaffen; dem Gewölb des Schlundes\nEntquillt der Feuerstrom in Wuth,\nUnd in dem Siedequalm des Hintergrundes\nSeh' ich die Flammenstadt in ewiger Gluth.\nDie rothe Brandung schlägt hervor bis an die Zähne,\nVerdammte, Rettung hoffend, schwimmen an;\nDoch kolossal zerknirscht sie die Hyäne\nUnd sie erneuen ängstlich heiße Bahn.\nIn Winkeln bleibt noch vieles zu entdecken,\nSo viel Erschrecklichstes im engsten Raum!\nIhr thut sehr wohl die Sünder zu erschrecken,\nSie halten's doch für Lug und Trug und Traum.",
+      "provisionalTranslation": "鉄の歯が関く；喉命のアーチから\n火の流れが怒りとともに湧れ出し、\n後景の煎えた蠹気の中に\n置は炎の都市を永遠の輝きの中に見る。\n赤い波浪が歯のところまで打ち寄せ、\n救いを望んだ罪人たちが泳いでくる；\nしかしコロッサルなこばい永遠の孤犬が彼らを砠㔺射し、\n彼らは不安そうに罪の道を繰り返す。\n隅にはまだ発見すべきことがたくさんある、\n最も狭い空間にこれほど恐ろしいことが！\nお前たちは罪人を恐ろがらせるのはできている、\nそれでも彼らはそれを嫣と誐まかしと夢だと思っている。"
+    },
+    {
+      "id": 6,
+      "verses": "v.11656–11669",
+      "speaker": "Mephistopheles",
+      "original": "Nun wanstige Schuften mit den Feuerbacken!\nIhr glüht so recht vom Höllenschwefel feist;\nKlotzartige, kurze, nie bewegte Nacken!\nHier unten lauert ob's wie Phosphor gleißt:\nDas ist das Seelchen, Psyche mit den Flügeln,\nDie rupft ihr aus, so ist's ein garstiger Wurm;\nMit meinem Stempel will ich sie besiegeln,\nDann fort mit ihr im Feuer-Wirbel-Sturm.\n\nPaßt auf die niedern Regionen,\nIhr Schläuche, das ist eure Pflicht;\nOb's ihr beliebte da zu wohnen,\nSo accurat weiß man das nicht.\nIm Nabel ist sie gern zu Haus,\nNehmt es in Acht sie wischt euch dort heraus.",
+      "provisionalTranslation": "さあ火洎にブクブクの洗悪たども！\nお前たちは地獄の硫黄でしっかり㛿えがっている；\n丸太けで短くて永久に動かない首！\n為のところにリンのように光るものが潜んでいる：\nそれが小さな魂だ、翼を持つプシケー，\nその翼を引き抜け、そうすれば醅い虫になる；\n私の印章で彼女を封印してやろう、\nさあ火のツォルコンの山で彼女を騱り立て。\n\n下の地帯に気をつけろ、\nたるみどもよ、それがお前たちの務めだ；\n魂がそこに住むことを好むかどうか、\nそんなに正確にはわからない。\n魂は臍の辜にいたがる、\n気をつけろ、そこからスーッと逃げるから。"
+    },
+    {
+      "id": 7,
+      "verses": "v.11670–11675",
+      "speaker": "Mephistopheles",
+      "original": "Ihr Firlefanze, flügelmännische Riesen!\nGreift in die Luft, versucht euch ohne Rast;\nDie Arme strack, die Klauen scharf gewiesen,\nDaß ihr die Flatternde, die Flüchtige faßt.\nEs ist ihr sicher schlecht im alten Haus,\nUnd das Genie es will gleich obenaus.",
+      "provisionalTranslation": "ふざけたやつども、翼りの巨人つど！\n空中に手を伸ばせ、怒濡なく試みろ；\n腾をまっすぐ尾し、爐を尖らせて、\n漂うもの、逆耑するものを捉えろ。\n魂にとって古い家はきっとつらいだろう、\nそして精神（Genie）はすぐに上へ出たがる。"
+    },
+    {
+      "id": 8,
+      "verses": "v.11676–11684",
+      "speaker": "Himmlische Heerschaar",
+      "original": "Folget Gesandte,\nHimmelsverwandte,\n\nGemächlichen Flugs:\nSündern vergeben,\nStaub zu beleben;\nAllen Naturen\nFreundliche Spuren\nWirket im Schweben\nDes weilenden Zugs.",
+      "provisionalTranslation": "従え、使者たちよ、\n天に縁のある者たちよ、\n\nゆるやかな飛翔で：\n罪人を赦し、\n塡に命を与え；\nすべての自然に\n親しい痕跡を、\n漂うことで工せ\n問のある行列の中で。"
+    },
+    {
+      "id": 9,
+      "verses": "v.11685–11698",
+      "speaker": "Mephistopheles",
+      "original": "Mißtöne hör' ich, garstiges Geklimper,\nVon oben kommt's mit unwillkommnem Tag;\nEs ist das bübisch-mädchenhafte Gestümper,\nWie frömmelnder Geschmack sich's lieben mag.\nIhr wißt wie wir, in tiefverruchten Stunden,\nVernichtung sannen menschlichem Geschlecht:\nDas Schändlichste was wir erfunden\nIst ihrer Andacht eben recht.\n\nSie kommen gleißnerisch, die Laffen!\nSo haben sie uns manchen weggeschnappt,\nBekriegen uns mit unsern eignen Waffen;\nEs sind auch Teufel, doch verkappt.\nHier zu verlieren wär' euch ew'ge Schande;\nAn's Grab heran und haltet fest am Rande!",
+      "provisionalTranslation": "不協和音が聞こえる、醒いがガチャガチャ、\n上から望まない明るさとともにやってくる；\n少年のような少女のような下機な演奏だ、\n㈝弾な趣味が好きそうなやつがこのむこうにする。\n深く堕落した搭に、私たちは知っている、\n人類の滅感を目課したことを：\n私たちが考え下した最も恥しむべきことが\n彼らの信心のちょうど良いんだ。\n\n彼らはいんちき山つどとしてやってくる！\nそうやって彼らは何人も家に背負っていった、\n私たち自身の武器で私たちに山もかけてくる；\n彼らも悪魔だ、ただ仆装しているだけ。\nここで失ったら永遠の恥轱となる；\n墓に進み、縁をしっかり握れ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Es war auf kurze Zeit geborgt;\nDer Gläubiger sind so viele.",
+      "body": "「この家はなんとひどく建てられたことか、鋤と鍬をもって（Wer hat das Haus so schlecht gebaut, / Mit Schaufeln und mit Spaten）？」──レムーレスによる墓穴掘りの黒喜劇的開幕。「Lemur（レムール）」はローマ神話における浮遊する死者の霊（Lemures）であり、不安定で意地の悪い冥界的存在として知られる。ゲーテが前の場面（v.11499–11510）で盲目のファウストに「道具を手にとれ、鋤と鍬を動かせ（Ergreift das Werkzeug, Schaufel rührt und Spaten）」と命じさせた音の正体が、ここで判明する：土地造成の労働者だと信じたファウストが聞いていたのはレムーレスによる墓穴掘りであったという詩劇最大のアイロニー。「墓（Grab）」を「家（Haus）」と「広間（Saal）」と呼ぶ語の倒錯的な比喩がシェイクスピア『ハムレット』第5幕第1場の掘墓人場面──「この建物は最後の審判の日まで続く」という職人のやり取り──の直接的な典拠として機能する。「Es war auf kurze Zeit geborgt; / Der Gläubiger sind so viele（それはほんの短い時間だけ借りていた；債権者たちはこれほど多い）」──「借りた（geborgt）」という動詞が人間の生命全体を借りものとして定義する：コヘレト第1章v.4「Generatio praeterit, et generatio advenit（世代は過ぎ去り、世代は来る）」の詩劇的変奏として、「借金（Borgen）」という経済的比喩が生命の有限性を語る。",
+      "targetId": "hieronymus_ecclesiastes_1",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Ich zeig' ihm rasch den blutgeschriebnen Titel; –\nDoch leider hat man jetzt so viele Mittel\nDem Teufel Seelen zu entziehn.",
+      "body": "「私は彼に急いで血で書かれた証書を示す（Ich zeig' ihm rasch den blutgeschriebnen Titel）──しかし残念なことに今は悪魔から魂を遠ざける手段があまりにも多い（Doch leider hat man jetzt so viele Mittel / Dem Teufel Seelen zu entziehn）」──メフィストフェレスの法的権利主張と現代的困難の告白。「blutgeschriebnen Titel（血で書かれた証書）」は第一部「書斎I」（v.1726）でファウストが血で署名した契約書への参照：「Blut ist ein ganz besondrer Saft（血は全く特別な液体だ）」という台詞とともに交わされた血の契約が、ここで「Titel（証書・権利証）」として法的文書として提示される。「Auf altem Wege stößt man an（古い道では障害にぶつかる）、/ Auf neuem sind wir nicht empfohlen（新しい道では私たちは推薦されていない）」──悪魔の法的権利が「古い道（altem Weg）」と「新しい道（neuem Weg）」のいずれでも機能しなくなったという皮肉な自己告白が、キリスト教的救済神学の歴史的発展──免罪符・終油の秘跡・贖宥などの「現代的」魂救済手段──への含意として機能する。「Jetzt muß ich Helfershelfer holen（今は手伝いの手伝いが必要だ）」──自力での魂奪取に失敗したメフィストフェレスが他の悪魔を召喚しなければならないという本質的な弱さを露呈する。",
+      "targetId": "goethe_faust_studierzimmer_1327"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Schnapps! hielt' ich sie in fest verschloss'nen Klauen.\nNun zaudert sie und will den düstern Ort,",
+      "body": "「カチッ！私は彼女を固くしっかりと閉じた爪の中に掴んでいた（Schnapps! hielt' ich sie in fest verschloss'nen Klauen）──今では彼女はぐずぐずして、暗い場所、腐った死体の不潔な家を離れようとしない（Nun zaudert sie und will den düstern Ort, / Des schlechten Leichnams ekles Haus nicht lassen）」──「Schnapps!（カチッ）」という擬音語が詩劇の音響的頂点として機能する：かつての素早い魂の捕獲という過去の成功体験が、現在の「Zaudern（ぐずぐず）」──同じ語が前場面「Mitternacht」でメフィスト自身がファウストに向けて「Unnützes Zagen! Zaudern und Plaudern!（無駄な躊躇！ぐずぐずとべらべら）」と叫んだ──への逆転として提示される。「Die Elemente die sich hassen, / Die treiben sie am Ende schmählich fort（互いに憎み合う元素たちが、ついには彼女を恥辱のうちに追い払う）」──肉体の死が「互いに憎み合う元素（Elemente）」の分離として自然哲学的に定義される：霊と肉体の分離を「化学的反発」として描くゲーテの自然科学者的感性。「Der alte Tod verlor die rasche Kraft（古い死は素早い力を失った）」──死の擬人化的な弱体化が、前場面「真夜中」でのファウストの「憂愁（Sorge）」への「私は認めないぞ（Ich werde sie nicht anerkennen）」という拒絶の逆側から機能する：死もまた絶対的な支配力を失っている。ヴェイユ「Décréation（脱創造）」の「魂が神に向かって解放されるプロセス」が、ここでは自然の元素的プロセスとして（神学的言語なしに）詩劇化される。",
+      "targetId": "weil_decreation"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Nur frisch heran! verdoppelt euren Schritt,\nIhr Herrn vom graden, Herrn vom krummen Horne,",
+      "body": "「さあ急いでやってこい！歩みを倍にせよ、まっすぐな角の紳士たち、曲がった角の紳士たち、昔ながらの悪魔の素材と穀物を持ち、同時に地獄の顎もともに持ってこい（Nur frisch heran! verdoppelt euren Schritt, / Ihr Herrn vom graden, Herrn vom krummen Horne, / Vom alten Teufelsschrot und Korne / Bringt ihr zugleich den Höllenrachen mit）」──「Herrn vom graden, Herrn vom krummen Horne（まっすぐな角の紳士たち、曲がった角の紳士たち）」という呼格が、中世キリスト教図像学における悪魔の分類──まっすぐな角（Dickteufel、丸い太い悪魔）と曲がった角（Dürrteufel、長細い悪魔）──への参照として機能し、詩劇後半のコミックな悪魔劇の登場人物たちを事前に召喚する。「Zwar hat die Hölle Rachen viele! viele!（確かに地獄は顎がたくさんある！たくさん！）」という「viele! viele!（たくさん！たくさん）」の反復が、地獄の貪欲な多数性を舞台的なグロテスク喜劇として提示する。「bei diesem letzten Spiele（この最後の試合において）」という「Spiel（試合・ゲーム）」という語が詩劇全体の賭け──第一部「天上の序曲（Prolog im Himmel）」でのメフィストフェレスと神の賭け──への最終的な参照として機能する。中世演劇の「地獄の顎（Höllenrachen）」は実際の舞台装置として使用されていた：口を開閉できる巨大な顎の形をした舞台機構。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Seh' ich die Flammenstadt in ewiger Gluth.\nDie rothe Brandung schlägt hervor bis an die Zähne,",
+      "body": "「私は煮えたぎる蒸気の奥に炎の都市を永遠の輝きの中に見る（Seh' ich die Flammenstadt in ewiger Gluth）──赤い波が歯のところまで押し寄せ、救われることを希望する罪人たちが泳いでくる（Die rothe Brandung schlägt hervor bis an die Zähne, / Verdammte, Rettung hoffend, schwimmen an）」──「Flammenstadt（炎の都市）」という語がダンテ『神曲』地獄篇第8–9歌の「ディーテの都（città di Dite）」への直接的な照応として機能する：ダンテの「ディーテ」は赤熱した城壁を持つ地獄の下層部の都市であり、ゲーテの「Flammenstadt」はその詩劇的変奏。「Doch kolossal zerknirscht sie die Hyäne（しかし埒外な大きさで鬣狗が彼らを粉砕する）」──「Hyäne（ハイエナ）」は中世動物寓意文学（Physiologus）において地獄の獣として分類される動物：死肉を食らう清掃者として地獄の永遠の刑罰執行者として機能する。「Sie halten's doch für Lug und Trug und Traum（彼らはそれをやはり嘘と欺きと夢だと思っている）」──罪人たちが自分たちの地獄の刑罰を「夢（Traum）」として否定する逆説：「真夜中（Mitternacht）」場面での「Traumgespinnst verwickelt uns die Nacht（夢の糸くずが夜になって私たちを絡め取る）」というファウストの言葉が地獄的現実において反転される。ヒエロニムス訳ヨハネの黙示録第20章の「火の池（lacus ignis）」との直接的照応。",
+      "targetId": "dante_inferno_canto_3"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Das ist das Seelchen, Psyche mit den Flügeln,\nDie rupft ihr aus, so ist's ein garstiger Wurm;",
+      "body": "「それがその小さな魂、翼を持つプシュケーだ──その翼を引き抜け、そうすれば醜い虫になる（Das ist das Seelchen, Psyche mit den Flügeln, / Die rupft ihr aus, so ist's ein garstiger Wurm）」──詩劇最大の神学的・哲学的命題の凝縮。「Psyche（プシュケー）」はギリシア語で「魂」を意味し、ギリシア神話ではエロスと結ばれた美少女の名でもある：「翼を持つ蝶（Schmetterling）」として図像化された古代ギリシアの魂概念が、ここでメフィストフェレスの捕獲対象として提示される。「Die rupft ihr aus（その翼を引き抜け）」というメフィストの命令が、魂を「翼ある存在（geflügeltes Wesen）」から「醜い虫（garstiger Wurm）」に還元しようとする行為として、前の場面での「Am farbigen Abglanz haben wir das Leben（彩りある反照の中に私たちは生命を持つ）」というファウストの認識論的高揚からの徹底的な零落を示す。「Im Nabel ist sie gern zu Haus（臍の中に彼女は好んで住む）」という古代的な魂の解剖学的位置付けが、中世・ルネサンスの魂論──心臓・脳・臍への魂の配置諸説──への参照として機能する。ヴェイユ「Décréation（脱創造）」における「魂は神に向かって剥ぎ取られなければならない」という命題の逆位相として：メフィストは魂の翼を「剥ぎ取って（rupft aus）」虫に還元しようとするが、これは脱創造の悪魔的偽造である。",
+      "targetId": "weil_decreation",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Es ist ihr sicher schlecht im alten Haus,\nUnd das Genie es will gleich obenaus.",
+      "body": "「彼女にとって古い家はきっと具合が悪い──そして精霊（Genie）はすぐに上へ出たがる（Es ist ihr sicher schlecht im alten Haus, / Und das Genie es will gleich obenaus）」──場面全体の詩劇的頂点の一行。「Genie（精霊・天才）」という語がラテン語「genius」に由来し、個人に宿る守護精霊あるいは固有の創造的力を指す：ここではファウストの魂が「Genie（精霊）」として、すぐに「obenaus（上へ）」向かおうとすることが述べられる。「das Genie es will gleich obenaus」という上昇の衝動が、「日の出（Sonnenaufgang）」でのファウストの「Zum höchsten Daseyn immerfort zu streben（最高の存在へと絶えず努め続ける）」という根源的衝動の魂的実現として機能する：第二部開幕での「上昇（Streben）」が、死の瞬間に「Genie」の「上昇（obenaus）」として実現される。「Flügelmännische Riesen（翼のある巨人）」という「Dürrteufeln（痩せ悪魔）」への呼格が、前の段落での「Psyche mit den Flügeln（翼を持つプシュケー）」と語彙的に呼応する：魂の翼に対して痩せた翼の悪魔を対置する舞台的コントラスト。次の場面（v.11699以降）でこの「Genie」が実際に「天使たちによって掴み取られる（weggeschnappt）」ことで、メフィストフェレスの目論みが完全に失敗する伏線として機能する。",
+      "targetId": "goethe_faust_ii_sonnenaufgang_4679",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Sündern vergeben,\nStaub zu beleben;",
+      "body": "「従え、使者たちよ、天に縁のある者たちよ、ゆるやかな飛翔で：罪人を赦し、塵に命を与え；すべての自然に親しき痕跡を、漂いながら働け（Folget Gesandte, / Himmelsverwandte, / Gemächlichen Flugs: / Sündern vergeben, / Staub zu beleben）」──「埋葬（Grablegung）」場面全体の神学的転換点として機能する九行。「Glorie von oben, rechts（上からの栄光、右側）」という舞台指示が、その直前の「Der gräuliche Höllenrachen thut sich links auf（おぞましい地獄の顎が左に開く）」との空間的対照を定義する：舞台左の地獄の顎（Hölle）対舞台右の天上の栄光（Glorie）という中世神学的劇空間の二極構造。「Sündern vergeben（罪人を赦し）」──「vergeben（赦す）」という動詞が、ファウストの魂の救済の神学的根拠として機能する：罪人（Sünder）としてのファウストへの赦し（Vergebung）という恩寵の文法。「Staub zu beleben（塵に命を与え）」──ヒエロニムス訳創世記第2章v.7「formavit igitur Dominus Deus hominem de limo terrae（主なる神は地の塵から人間を形作った）」への直接の参照として：「Staub（塵）」は人間の出自としての「地の塵」であり、それに「命を与える（beleben）」ことが天使の使命として宣言される。「Des weilenden Zugs（留まる行列の）」──「weilend（留まりながら）」という現在分詞が天使の行列の「急がない（gemächlich）」優雅さを示す：悪魔的な性急（frisch heran! verdoppelt euren Schritt）への対比として。",
+      "targetId": "goethe_faust_kerker_4574",
+      "targetParagraphId": 13
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Sie kommen gleißnerisch, die Laffen!\nSo haben sie uns manchen weggeschnappt,",
+      "body": "「不協和音が聞こえる、醜い音のガチャガチャが、上から望ましくない明るさとともにやってくる（Mißtöne hör' ich, garstiges Geklimper, / Von oben kommt's mit unwillkommnem Tag）」──天上の音楽に対するメフィストフェレスの主観的聴覚体験の倒錯が詩劇全体の最後の哲学的アイロニーとして機能する。天使の歌声を観客・読者が美しく経験するのとは逆に、メフィストには「Mißtöne（不協和音）」「garstiges Geklimper（醜い音のガチャガチャ）」「bübisch-mädchenhafte Gestümper（少年のような少女のような下手くそな演奏）」として体験される：美と醜の主観的逆転が悪魔的認識論の根本的欠陥として提示される。「Ihr wißt wie wir, in tiefverruchten Stunden, / Vernichtung sannen menschlichem Geschlecht（私たちが深く堕落した時に人類の滅亡を企てたことをお前たちは知っている）」──天使たちに向けて「お前たちも人類を滅ぼそうとした」と言い張るメフィストの無理な同一化主張。「Es sind auch Teufel, doch verkappt（彼らも悪魔だ、ただ仮装しているだけ）」──天使を「仮装した悪魔（verkappt = verkleidet）」として再解釈するメフィストの認識的歪曲が彼の本質的な限界を示す：善を善として認識できない悪魔的盲目性。この「認識不能性」が前場面「Mitternacht」での憂愁（Sorge）が「Die Menschen sind im ganzen Leben blind（人間とは生涯を通じて盲目）」と宣言したことを悪魔自身において実現させる。「An's Grab heran und haltet fest am Rande!（墓に近づいて、縁をしっかり掴め）」という最後の命令が、次の場面での天使による魂の奪取とメフィストフェレスの完全な失敗への緊張感を最大化する。",
+      "targetId": "goethe_faust_ii_mitternacht_11384",
+      "targetParagraphId": 11
+    }
+  ]
+}
