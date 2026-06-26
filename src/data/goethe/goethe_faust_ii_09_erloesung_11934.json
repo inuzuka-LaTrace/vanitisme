@@ -1,0 +1,142 @@
+{
+    "id": "goethe_faust_ii_erloesung_11934",
+    "title": "Faust - Zweiter Teil: Erl\u00f6sung und Mater Gloriosa (v.11934-12031)",
+    "author": "Johann Wolfgang von Goethe",
+    "source": "Faust - Der Trag\u00f6die zweiter Teil, F\u00fcnfter Act, Bergschluchten, v.11934-12031. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+    "year": "1832",
+    "firstPublication": "1832\uff08Faust. Der Trag\u00f6die zweiter Teil in f\u00fcnf Acten, Cotta Verlag\uff09",
+    "difficulty": "\u4e0a\u7d1a",
+    "category": "goethe",
+    "originalLang": "de-DE",
+    "modernRelevance": "\u2605\u2605\u2605\u2605\u2605",
+    "context": "ゲーテ『ファウスト』第二部第五幕「山の渓谷（Bergschluchten）」中間部（v.11934–12031）。前景（v.11844–11933）でPater Seraphicusが「幸いなる少年たち」を高みへと送り出した後、詩劇全体の神学的核心が段階的に展開される場面であり、ファウストの魂の救済論・天上の浄化構造・マリア論という三層が重なって提示される。\n場面は二部構造をなす。第一部（v.11934–11988）は天使たちの多声的なコラール構造として、ファウストの魂の救済の論理（Engel: v.11934–11941）・薔薇の奇跡の起源（Die jüngeren Engel: v.11942–11953）・地上的残滓の問題（Die vollendeteren Engel: v.11954–11965）・少年たちとの合流決定（Die jüngern Engel: v.11966–11980）・蛹としての魂の受取（Die seligen Knaben: v.11981–11988）が展開される。第二部（v.11989–12031）では「マリアの博士（Doctor Marianus）」が最高の独房から天の女王（Himmelskönigin）を幻視し、マリアへの直接の祈願と懺悔女たちの描写が続く。\n「Wer immer strebend sich bemüht / Den können wir erlösen（絶えず努力しながら励む者を私たちは贖うことができる）」（v.11936–11937）というEngel合唱の宣言が詩劇全体の「賭け（Wette）」の神学的解決を定式化する：第一部「書斎I」での賭け──「もし瞬間に留まれと言ったならば」──を「strebend（努力し続けること）」による充足の否定として解決する。ゲーテがエッカーマンに語ったこの解釈が詩劇終幕においてEngel自身の宣言として確認される。\n「Zwienatur（二重本性）」（v.11962）というEngel合唱の語が、第一部「夜（Nacht）」での「Zwei Seelen wohnen, ach! in meiner Brust（ああ、二つの魂が私の胸に宿っている）」というファウストの実存的定義への最終的応答として機能する：「二つの魂」の葛藤として体験された人間的実存が、死後の「統合された二重本性（Geeinte Zwienatur）」として確認され、「永遠の愛（ewige Liebe）のみが分離できる」浄化プロセスへと向かう。\n「Puppenstand（蛹の状態）」（v.11982）という「幸いなる少年たち」の言葉が詩劇終盤で最も力強い生物学的比喩として機能する：地上的経験を持たない無垢な少年たちが、豊富な地上的経験を持つファウストの魂を「蛹（Puppe）」として受け取り育む「逆の教育」の構造が、詩劇全体の「不満足な絶えなる努力（Streben）」という実存モデルを変態（Metamorphose）の生物学的論理で完結させる。\nVANITISMEコーパス的文脈において、Doctor Marianusの「Jungfrau, rein im schönsten Sinn, / Mutter, Ehren würdig, / Uns erwählte Königin, / Göttern ebenbürtig（処女・母・女王・神々と同等）」という四重のマリア称号が典礼文「Ave Maria（アヴェ・マリア）」との対話として機能し、「懺悔女たち（Büßerinnen）」の描写の「Schmeichelhafter Odem（媚びる息吹）」という結語が埋葬場面でのメフィストフェレスの「Schmeichelgluth（媚びる輝き）」と語彙的に連環させることで、詩劇の悪魔的誘惑と聖なる誘惑が同一の「媚び（Schmeichel-）」という語根の下に統合される。",
+    "keywords": [
+        "Gerettet ist das edle Glied",
+        "Wer immer strebend sich bemüht",
+        "Liebend-heiliger Büßerinnen",
+        "Erdenrest",
+        "Geeinte Zwienatur",
+        "Puppenstand",
+        "Englisches Unterpfand",
+        "Himmelskönigin",
+        "Jungfrau Mutter Königin",
+        "Schmeichelhafter Odem"
+    ],
+    "relatedTexts": [
+        "goethe_faust_studierzimmer_1327",
+        "goethe_faust_kerker_4574",
+        "goethe_faust_ii_mephisto_niederlage_11699",
+        "goethe_faust_ii_bergschluchten_11844",
+        "goethe_faust_nacht_354",
+        "weil_decreation",
+        "weil_accepter_le_vide",
+        "hieronymus_apocalypsis_12",
+        "liturgy_ave_maria",
+        "dante_paradiso_canto_33"
+    ],
+    "paragraphs": [
+        {
+            "id": 1, "verses": "v.11934-11941", "speaker": "Engel",
+            "original": "Gerettet ist das edle Glied\nDer Geisterwelt vom Bösen:\nWer immer strebend sich bemüht\nDen können wir erlösen;\nUnd hat an ihm die Liebe gar\nVon oben Theil genommen,\nBegegnet ihm die selige Schaar\nMit herzlichem Willkommen.",
+            "provisionalTranslation": "靈的世界の気高い部分が\n悪から救われた：\n絶えず努力しながら尽力する者を\n私たちは賾うことができる；\nそして彼において感がさらに\n上から参与したならば、\n福の群れは彼に\n心からの歓迎で迈える。"
+        },
+        {
+            "id": 2, "verses": "v.11942-11953", "speaker": "Die jüngeren Engel",
+            "original": "Jene Rosen, aus den Händen\nLiebend-heiliger Büßerinnen,\nHalfen uns den Sieg gewinnen,\nUnd das hohe Werk vollenden,\nDiesen Seelenschatz erbeuten.\nBöse wichen als wir streuten,\nTeufel flohen als wir trafen.\nStatt gewohnter Höllenstrafen\nFühlten Liebesqual die Geister;\nSelbst der alte Satans-Meister\nWar von spitzer Pein durchdrungen.\nJauchzet auf! es ist gelungen.",
+            "provisionalTranslation": "愛に満ちた聖な懺悔女たちの手からの\nあの薔薇が、\n私たちが勝利を得るのを助け、\n高い業を成し遂げ、\nこの魂の宝を譳り取るのを助けた。\n私たちが散らすと悪は里ひ、\n私たちが当たると悪魔は逃げた。\n慣れ至った地獄の罰の代わりに\n霊たちは愛の苦悩を感じ；\n古い悪魔の主人さえも\n刺すような苦悩に貫かれた。\n歓呼せよ！成し遂げられた。"
+        },
+        {
+            "id": 3, "verses": "v.11954-11965", "speaker": "Die vollendeteren Engel",
+            "original": "Uns bleibt ein Erdenrest\nZu tragen peinlich,\nUnd wär' er von Asbest\nEr ist nicht reinlich.\nWenn starke Geisteskraft\nDie Elemente\nAn sich herangerafft,\nKein Engel trennte\nGeeinte Zwienatur\nDer innigen Beiden,\nDie ewige Liebe nur\nVermag's zu scheiden.",
+            "provisionalTranslation": "私たちには地上の残渣が残る、\n運ぶに苦痛な、\nこれが石綿でできていても\n清らかではない。\n強い靈的力が\n元素たちを\n引き寄せたとき、\n天使にも分離できない、\n絊密に結ばれた両者の\n統合された二重本性を。\n永遠の愛のみが\nそれを分離することができる。"
+        },
+        {
+            "id": 4, "verses": "v.11966-11980", "speaker": "Die jüngern Engel",
+            "original": "Nebelnd um Felsenhöh'\nSpür' ich so eben,\nRegend sich in der Näh',\nEin Geister-Leben.\nDie Wölkchen werden klar,\nIch seh' bewegte Schaar\nSeliger Knaben,\nLos von der Erde Druck,\nIm Kreis gesellt,\nDie sich erlaben\nAm neuen Lenz und Schmuck\nDer obern Welt.\nSey er zum Anbeginn,\nSteigendem Vollgewinn,\nDiesen gesellt!",
+            "provisionalTranslation": "岩の高みの周りに霧になって――\n私はちょうど感じ取る、\n近くで動いている、\n靈たちの生命を。\n小雲が溅んでき、\n私は動いている群れを見る、\n福なる少年たちの、\n地上の重力から解放され、\n圈の中で集い、\n上の世界の\n新しい春と装いに\n喜んでいる。\n彼を始まりとして、\n高まりゆく充実のために、\n彼らに委ねよ！"
+        },
+        {
+            "id": 5, "verses": "v.11981-11988", "speaker": "Die seligen Knaben",
+            "original":　"Freudig empfangen wir\nDiesen im Puppenstand;\nAlso erlangen wir\nEnglisches Unterpfand.\nLöset die Flocken los\nDie ihn umgeben,\nSchon ist er schön und groß\nVon heiligem Leben.",
+            "provisionalTranslation": "喜んで私たちは\nこの者を蕉の状態で受け取る；\nそのようにして私たちは\n天使的な抵当を得る。\n彼を取り巻く繊維を解き放て、\nもう彼は美しく偉大となった、\n聖なる生命によって。"
+        },
+        {
+            "id": 6, "verses": "v.11989-11996", "speaker": "Doctor Marianus",
+            "original": "Hier ist die Aussicht frei,\nDer Geist erhoben.\nDort ziehen Frau'n vorbei,\nSchwebend nach oben;\nDie Herrliche mitteninn\nIm Sternenkranze,\nDie Himmelskönigin,\nIch seh's am Glanze.",
+            "provisionalTranslation": "ここは見晴らしが自由で\n、精神は昂揚されている。\nあそこに女性たちが通り過ぎていく\n、上へと潂いながら；\n輝かしい方が中心に、\n星の冠の中に、\n天の女王を、\nその輝きで私は見る。"
+        },
+        {
+            "id": 7, "verses": "v.11997-12012", "speaker": "Doctor Marianus",
+            "original": "Höchste Herrscherin der Welt!\nLasse mich, im blauen,\nAusgespannten Himmelszelt\nDein Geheimniß schauen.\nBillige was des Mannes Brust\nErnst und zart beweget\nUnd mit heiliger Liebeslust\nDir entgegen träget.\nUnbezwinglich unser Muth\nWenn du hehr gebietest,\nPlötzlich mildert sich die Gluth\nWie du uns befriedest.\nJungfrau, rein im schönsten Sinn,\nMutter, Ehren würdig,\nUns erwählte Königin,\nGöttern ebenbürtig.",
+            "provisionalTranslation": "世界の最高の女王よ！\n青く広がる\n天空の幕の中で、\nあなたの秘密を視ることを許してください。\n認めてください、男の胸を\n真摯かつ繊細に動かすもの、\nそして聖なる愛の歓びで\nあなたに向かって運ぶものを。\nあなたが高貴に命じる時、\n私たちの勇気は征戴不可能となり、\nあなたが私たちを和解させる時、\n炎は突然和らぐ。\n処女、最も美しい意味で純粋な、\n母、崇拝に値する、私たちに選ばれた女王、\n神々と同等。"
+        },
+        {
+            "id": 8, "verses": "v.12013-12031", "speaker": "Doctor Marianus",
+            "original": "Um sie verschlingen\nSich leichte Wölkchen,\nSind Büßerinnen,\nEin zartes Völkchen,\nUm Ihre Knie\nDen Aether schlürfend,\nGnade bedürfend.\nDir, der Unberührbaren,\nIst es nicht benommen\nDaß die leicht Verführbaren\nTraulich zu dir kommen.\n\nIn die Schwachheit hingerafft\nSind sie schwer zu retten;\nWer zerreißt aus eigner Kraft\nDer Gelüste Ketten?\nWie entgleitet schnell der Fuß\nSchiefem glattem Boden?\nWen bethört nicht Blick und Gruß?\nSchmeichelhafter Odem?",
+            "provisionalTranslation": "彼女の周りに\n軽い雲が絡み合っている──\n懺悔女たちだ、\n繊細な小さな人々が、\n彼女の膝の周りで\n大気を啜りながら、\n恩寵を求めながら。\n触れることのできない方よ、\n簡単に誘惑される者たちが\n親しみをもってお前のもとへ来ることが\nお前から奪われていないわけではない。\n\n軟弱さの中に攄い込まれ、\n彼女たちを救うのは難しい；\n誰が自らの力で\n欲望の鎖を引き裂くか？\n足がいかにすばやく滑ることか、\n拘い地面で\n誰が眼差しと挨拶に惑わされないか？\n媚びる息吹きに？"
+        }
+    ],
+    "annotations": [
+        {
+            "paragraphId": 1,
+            "type": "glossary",
+            "anchor": "Wer immer strebend sich bemüht\nDen können wir erlösen;",
+            "body": "「霊的世界の気高い部分が悪から救われた──絶えず努力しながら励む者を私たちは贖うことができる（Gerettet ist das edle Glied / Der Geisterwelt vom Bösen: / Wer immer strebend sich bemüht / Den können wir erlösen）」──詩劇全体の神学的・哲学的核心をなす四行。「Gerettet ist（救われた）」という過去形で始まる宣言が第一部「牢獄（Kerker）」での「Ist gerettet!（救われた！）」という天上の声の最終的な確認として機能する：あそこでグレートヒェンに宣言された救済が、ここではファウストの魂に宣言される。「Wer immer strebend sich bemüht / Den können wir erlösen（絶えず努力しながら励む者を私たちは贖うことができる）」──ゲーテがエッカーマンとの対話でファウスト救済の鍵として明示したこの二行が、第一部の「賭け」の解決を定義する：「瞬間に留まれ」と言ったならば負けるという賭けの条件をファウストが「满足することなく絶えず努力し続けた（immer strebend）」ことによって果たさなかったという解釈。「Und hat an ihm die Liebe gar / Von oben Theil genommen（そして愛が彼において上から参与した）」──「von oben（上から）」という方向性が「外部から到来する恩寵（Gnade von oben）」として機能し、ヴェイユ「Accepter le vide（真空を受容する）」での「恩寵は上から来る──しかしそれを受け取るには真空（Vide）が必要だ」という命題と照応する。ファウストの「Streben（努力）」が「真空」を作り、「Liebe von oben（上からの愛）」がそこに入れる論理として。",
+            "targetId": "goethe_faust_studierzimmer_1327",
+            "targetParagraphId": 5
+        },
+        {
+            "paragraphId": 2,
+            "type": "commentary",
+            "anchor": "Selbst der alte Satans-Meister\nWar von spitzer Pein durchdrungen.\nJauchzet auf! es ist gelungen.",
+            "body": "「あの愛に満ちた聖なる懺悔女たちの手からの薔薇が、私たちが勝利を得るのを助け、高い業を成し遂げ、この魂の宝を勝ち取るのを助けた（Jene Rosen, aus den Händen / Liebend-heiliger Büßerinnen, / Halfen uns den Sieg gewinnen, / Diesen Seelenschatz erbeuten）」──「懺悔女たち（Büßerinnen）」という語が前の「埋葬（Grablegung）」場面で天使が散らした薔薇の「起源」を明かす：天使の武器として機能した薔薇は地上の罪ある女性たちの「愛に満ちた懺悔（Liebend-heilig）」の行為から生まれた。「Selbst der alte Satans-Meister / War von spitzer Pein durchdrungen（古い悪魔の主人さえも刺すような苦悩に貫かれた）」──「spitzer Pein（刺すような苦悩）」という表現が前の場面でのメフィストフェレスの「Mir brennt der Kopf, das Herz, die Leber brennt（頭が燃える、心が燃える、肝臓が燃える）」という天使への誘惑による身体的苦悩への直接の参照として機能する：悪魔の主人が「刺すような（spitz）」愛の苦悩によって貫かれたというアイロニーが、前場面の「Hiobsartig, Beul' an Beule（ヨブのように、疣疥だらけ）」という自己告白へと接続される。「Jauchzet auf! es ist gelungen（歓呼せよ！成し遂げられた）」──ゲーテはドイツ語の聖書的定式「Es ist vollbracht（成し遂げられた／ヨハネ19:30）」の変奏として「es ist gelungen（成し遂げられた）」を使う：ファウストの魂の救済がキリストの受難の完成と詩的に並列される。",
+            "targetId": "goethe_faust_ii_mephisto_niederlage_11699",
+            "targetParagraphId": 10
+        },
+        {
+            "paragraphId": 3,
+            "type": "commentary",
+            "anchor": "Geeinte Zwienatur\nDer innigen Beiden,\nDie ewige Liebe nur\nVermag's zu scheiden.",
+            "body": "「私たちには地上の残滓が残る、運ぶには苦痛であり、たとえ石綿でできていても、清らかではない（Uns bleibt ein Erdenrest / Zu tragen peinlich, / Und wär' er von Asbest / Er ist nicht reinlich）」──「完成した天使たち（Die vollendeteren Engel）」のみが発言できる神学的認識として、人間の魂が死後も「地上の残滓（Erdenrest）」を帯びるという命題を提示する。「Erdenrest（地上の残滓）」という語がヴェイユ「Décréation（脱創造）」の「被創造物から非被創造物へ」という移行に要する精製過程を詩劇的に体現する：魂は死によって即座に純粋化されるのではなく、地上的な「Erdenrest（残滓）」を携えて上昇し、それを浄化していく。「Geeinte Zwienatur / Der innigen Beiden, / Die ewige Liebe nur / Vermag's zu scheiden（緊密に結ばれた両者の統合された二重本性を、永遠の愛のみが分離できる）」──「Zwienatur（二重本性）」という語がファウスト第一部「夜（Nacht）」での「Zwei Seelen wohnen, ach! in meiner Brust（ああ、二つの魂が私の胸に宿っている）」（v.1112）への最終的応答として機能する：詩劇冒頭で「二つの魂」として体験されたファウストの実存的分裂が、ここでは「統合された二重本性（Geeinte Zwienatur）」として確認され、「永遠の愛（ewige Liebe）のみが分離できる」という浄化の論理として定式化される。",
+            "targetId": "weil_decreation",
+            "targetParagraphId": 1
+        },
+        {
+            "paragraphId": 4,
+            "type": "commentary",
+            "anchor": "Sey er zum Anbeginn,\nSteigendem Vollgewinn,\nDiesen gesellt!",
+            "body": "「霧になって岩の高みの周りに──私はちょうど感じとる、近くで動いている──霊たちの生命を（Nebelnd um Felsenhöh' / Spür' ich so eben, / Regend sich in der Näh', / Ein Geister-Leben）」──「若い天使たち（Die jüngern Engel）」が前の場面（v.11844–11933）で「熾天使的父（Pater Seraphicus）」が高みへと送り出した「幸いなる少年たち（Selige Knaben）」を再発見する。「Nebelnd（霧になって）」という現在分詞が魂たちの物質的形態を「霧（Nebel）」として定義する：前の場面でのPater Seraphicusの「Welch ein Morgenwölkchen schwebet（なんと朝の小雲が漂っている）」という認識が、ここでは「Nebelnd（霧になって）」という分詞によって確認される。「Los von der Erde Druck, / Im Kreis gesellt, / Die sich erlaben / Am neuen Lenz und Schmuck / Der obern Welt（地上の重力から解放され、円環の中で集い、上の世界の新しい春と装いに喜んでいる）」──前の場面で「Hände verschlinget / Freudig zum Ringverein（手を絡み合わせ、喜んで環の合一へ）」と歌っていた少年たちの姿が、ここで天使の目から確認される。「Sey er zum Anbeginn, / Steigendem Vollgewinn, / Diesen gesellt!（彼を、始まりとして、増大する完全な利益のために、彼らに委ねよ）」──ファウストの魂が少年たちに委ねられるという決定が宣告される：未経験の少年たちとファウストの豊富な経験という「逆の教育」として機能する──ファウストが少年たちを教育するのではなく、少年たちの純粋さがファウストの魂を浄化する。",
+            "targetId": "goethe_faust_ii_bergschluchten_11844",
+            "targetParagraphId": 10
+        },
+        {
+            "paragraphId": 5,
+            "type": "glossary",
+            "anchor": "Freudig empfangen wir\nDiesen im Puppenstand;\nAlso erlangen wir\nEnglisches Unterpfand.",
+            "body": "「喜んで私たちはこの者を蛹の状態で受け取る──そのようにして私たちは天使的な抵当を得る（Freudig empfangen wir / Diesen im Puppenstand; / Also erlangen wir / Englisches Unterpfand）」──「幸いなる少年たち（Selige Knaben）」による受取の宣言が詩劇全体で最も印象的な生物学的比喩を展開する。「Puppenstand（蛹の状態）」──「Puppe（人形・蛹）」という語がドイツ語で「蝶の蛹（Chrysalis/Puppe）」を意味し、ファウストの魂が死後も変態途上にあることを定義する：蛹は幼虫でも成虫（蝶）でもない中間的変態状態であり、ファウストの魂は「地上的存在（Raupe/幼虫）」から「天使的存在（Schmetterling/蝶）」への途上にある。「Englisches Unterpfand（天使的な抵当・担保）」──「Unterpfand（担保・抵当）」という法的・経済的語彙が、第一部での「血の契約（blutgeschriebner Titel）」というメフィストの法的主張と対称的に使われる：悪魔の血の担保に対して、天使の「英語的（englisch＝天使的）な担保」が対置される。「Löset die Flocken los / Die ihn umgeben, / Schon ist er schön und groß / Von heiligem Leben（彼を取り巻く繊維を解き放て、すでに彼は聖なる生命によって美しく偉大だ）」──「Flocken（繊維・綿毛）」という語が「繭（Kokon）」の繊維を暗示し、蛹の殻（地上的残滓）が解き放たれることで魂の変態（Verwandlung）が完了する過程として。ヴェイユ「Décréation（脱創造）」の「被創造物から非被創造物へ」の転換が、ここでは蝶の変態という生物学的比喩によって詩劇的に体現される。",
+            "targetId": "weil_decreation"
+        },
+        {
+            "paragraphId": 6,
+            "type": "intertextual",
+            "anchor": "Die Herrliche mitteninn\nIm Sternenkranze,\nDie Himmelskönigin,\nIch seh's am Glanze.",
+            "body": "「ここは見晴らしが自由で、精神は昂揚している。あそこに女性たちが通り過ぎていく、上へと漂いながら──輝かしい方が中心に、星の冠の中に、天の女王を、私はその輝きで見る（Hier ist die Aussicht frei, / Der Geist erhoben. / Dort ziehen Frau'n vorbei, / Schwebend nach oben; / Die Herrliche mitteninn / Im Sternenkranze, / Die Himmelskönigin, / Ich seh's am Glanze）」──「マリアの博士（Doctor Marianus）」が「最も高く、最も清らかな独房（höchsten, reinlichsten Zelle）」から天上の女性たちの行列と聖母マリアを幻視する場面。「Doctor Marianus」の称号はフランシスコ会の「無原罪の宿りの博士」に由来し、ゲーテが創造した架空の人物として詩劇終幕のマリア神学の証人として機能する。「Die Herrliche mitteninn / Im Sternenkranze（輝かしい方が中心に、星の冠の中に）」──ヒエロニムス訳ヨハネの黙示録第12章v.1「mulier amicta sole et luna sub pedibus eius, et in capite eius corona stellarum duodecim（太陽をまとい、月を足の下に持ち、頭に十二の星の冠を持つ女）」への直接の参照として：「Sternenkranz（星の冠）」が黙示録第12章の「女」のイメージをマリア図像学的に確定する。「Ich seh's am Glanze（私はその輝きで見る）」──「am Glanze（輝きによって）」という前置詞的表現が直接視ではなく「輝きという媒体（Medium）を通じた間接的視認」として機能する：ファウスト「日の出」での「Am farbigen Abglanz haben wir das Leben（彩りある反照の中に私たちは生命を持つ）」という認識論と照応する──神的な光は直視できず、媒体（Abglanz/Glanz）によってのみ知覚できる。",
+            "targetId": "hieronymus_apocalypsis_12"
+        },
+        {
+            "paragraphId": 7,
+            "type": "commentary",
+            "anchor": "Jungfrau, rein im schönsten Sinn,\nMutter, Ehren würdig,\nUns erwählte Königin,\nGöttern ebenbürtig.",
+            "body": "「世界の最高の女王よ！青く広がる天空の幕の中で、お前の秘密を見させてください（Höchste Herrscherin der Welt! / Lasse mich, im blauen, / Ausgespannten Himmelszelt / Dein Geheimniß schauen）」──マリアへの直接の呼びかけとして詩劇最終部分の神学的頂点を形成する。「Dein Geheimniß schauen（お前の秘密を見る）」──「Geheimniß（秘密・神秘）」という語がキリスト教神学における「Mysterium（神秘）」の訳語として機能し、マリアの「Unbefleckte Empfängnis（無原罪の宿り）」という神学的神秘への参照として読める。「Jungfrau, rein im schönsten Sinn, / Mutter, Ehren würdig, / Uns erwählte Königin, / Göttern ebenbürtig（処女、最も美しい意味で純粋な、母、崇敬に値する、私たちに選ばれた女王、神々と同等）」──四つのマリア的称号の定式：①処女（Jungfrau）②母（Mutter）③女王（Königin）④神々と同等（Göttern ebenbürtig）。四番目の称号「Göttern ebenbürtig（神々と同等）」がキリスト教的でありながら同時にギリシア的・汎神論的な色彩を持つ：マリアを「神々（Göttern）」と同等に位置づけるゲーテの異教的・人文主義的なマリア観。典礼文「Ave Maria（アヴェ・マリア）」の「gratia plena（恩寵に満ちた）」という称号への照応として：典礼的マリア賛歌の詩劇的変換として機能する。「Unbezwinglich unser Muth / Wenn du hehr gebietest, / Plötzlich mildert sich die Gluth / Wie du uns befriedest（お前が高貴に命ずる時、私たちの勇気は征服不可能となり、お前が私たちを和解させる時、炎は突然和らぐ）」──マリアを倫理的・感情的な変容の触媒として定義する：彼女の命令（Gebot）が勇気を不滅にし、彼女の和解（Befriedung）が情熱の炎を和らげる。",
+            "targetId": "liturgy_ave_maria"
+        },
+        {
+            "paragraphId": 8,
+            "type": "commentary",
+            "anchor": "Wen bethört nicht Blick und Gruß?\nSchmeichelhafter Odem?",
+            "body": "「彼女の周りに軽い雲が絡み合っている──懺悔女たちだ、繊細な小さな人々が、彼女の膝の周りで大気を啜りながら、恩寵を必要としながら（Um sie verschlingen / Sich leichte Wölkchen, / Sind Büßerinnen, / Ein zartes Völkchen, / Um Ihre Knie / Den Aether schlürfend, / Gnade bedürfend）」──「懺悔女たち（Büßerinnen）」の登場が場面全体の詩学的構造を完結させる：第2段落での「Jene Rosen, aus den Händen / Liebend-heiliger Büßerinnen（あの薔薇、愛に満ちた聖なる懺悔女たちの手から）」への回帰として、薔薇の起源（懺悔女たちの愛）がマリアの周囲に「雲（Wölkchen）」として浮遊する存在として視覚化される。「Dir, der Unberührbaren, / Ist es nicht benommen / Daß die leicht Verführbaren / Traulich zu dir kommen（お前、触れることのできない者よ、簡単に誘惑される者たちが親しみをもってお前のもとに来ることはお前にとって奪われていない）」──「Unberührbare（触れることのできない者）」対「leicht Verführbare（簡単に誘惑される者）」という絶対的な対立が恩寵の「逆説的構造」として提示される：最も純粋な者（Unberührbare）こそが最も罪深い者（leicht Verführbare）を受け入れる。「Wer zerreißt aus eigner Kraft / Der Gelüste Ketten?（誰が自らの力で欲望の鎖を引き裂けるか？）」──「Ketten（鎖）」という語が埋葬場面でメフィストフェレスが人類を苦しめた「netzumstrickter Qualen（網に絡まった苦しみ）」の語彙的連続として、人間の自力による罪からの解放の不可能性を定式化する。「Wen bethört nicht Blick und Gruß? / Schmeichelhafter Odem（誰が眼差しと挨拶に惑わされないか？媚びる息吹に）？」──最後の「Schmeichelhafter Odem（媚びる息吹）」という語が埋葬場面でのメフィストフェレスの「Die Teufel wittern fremde Schmeichelgluth（悪魔たちは異質な媚びる輝きを嗅ぎつける）」と同一語根「Schmeichel-」によって連環する：人間を罪へと誘う誘惑と、天使でさえ誘惑した天上の美の「媚びる輝き」が同一の語彙的コードで結びつけられる。",
+            "targetId": "weil_la_violence",
+            "targetParagraphId": 1
+        }
+    ]
+}
