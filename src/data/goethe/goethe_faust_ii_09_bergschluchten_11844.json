@@ -1,26 +1,14 @@
-import json
-
-# ── Paragraph originals ──
-
-
-
-
-
-
-
-
-
 {
     "id": "goethe_faust_ii_bergschluchten_11844",
     "title": "Faust - Zweiter Teil: Bergschluchten (v.11844-11933)",
     "author": "Johann Wolfgang von Goethe",
-    "source": "Faust - Der Trag\u00f6die zweiter Teil, F\u00fcnfter Act, Szene: Bergschluchten, Wald, Fels, Ein\u00f6de, v.11844-11933. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+    "source": "Faust - Der Trag\u00f6die zweiter Teil, Fünfter Act, Szene: Bergschluchten, Wald, Fels, Ein\u00f6de, v.11844-11933. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
     "year": "1832",
-    "firstPublication": "1832\uff08Faust. Der Trag\u00f6die zweiter Teil in f\u00fcnf Acten, Cotta Verlag\uff09",
-    "difficulty": "\u4e0a\u7d1a",
+    "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+    "difficulty": "上級",
     "category": "goethe",
     "originalLang": "de-DE",
-    "modernRelevance": "\u2605\u2605\u2605\u2605\u2605",
+    "modernRelevance": "★★★★★",    
     "context": "ゲーテ『ファウスト』第二部第五幕「山の渓谷・森・岩・荒野（Bergschluchten, Wald, Fels, Einöde）」（v.11844–11933）。埋葬（Grablegung）場面でファウストの不滅なる部分（Unsterbliches）が天使たちによって持ち去られた後、詩劇の舞台が初めて「地上」の次元を超えた高次の精神的自然空間へと移行する。「山の渓谷」の垂直的な地形──深淵・中間・高峰──が、三人の「聖なる隠修士（Heilige Anachoreten）」のそれぞれ異なる霊的水準に対応する空間として機能する。\n三人の父（Patres）が体現するキリスト教神秘主義の三類型：「法悦の父（Pater ecstaticus）」は上昇・下降を繰り返しながら神的愛の法悦的苦痛を歌う──スペイン神秘主義、特に十字架の聖ヨハネ「愛の生ける炎（Llama de Amor Viva）」とイエスの聖テレサの「心の射貫き（transverberación）」との直接的な対話として機能する。「深みの父（Pater profundus）」は深い渓谷の大地から自然神学的な「愛の類比（analogia amoris）」を展開し──「全能の愛がすべてを形作り、すべてを育む（die allmächtige Liebe / Die alles bildet, alles hegt）」──個人的な祈願「神よ！私の思いを静め、私の必要とする心を照らせ（O Gott! beschwichtige die Gedanken, / Erleuchte mein bedürftig Herz）」へと転化させる。「熾天使的父（Pater Seraphicus）」──名称はフランチェスコ会の別名「熾天使会（Ordo Seraphicus）」に由来──は中間的な位置で「真夜中に生まれた少年たち（Mitternachts Geborne Knaben）」を受け取り、自分の感覚器官「目（Augen）」に取り込むという神秘主義的な自己放棄行為を通じて彼らに地上世界を体験させ、さらに高みへと送り出す。\n「幸いなる少年たち（Selige Knaben）」は誕生と同時に（あるいは誕生前に）死んだ魂たちであり、地上的経験を持たない純粋な霊として「真夜中に生まれた（Mitternachts Geborne）」と定義される。この「真夜中」というモチーフが詩劇第五幕の「真夜中（Mitternacht）」場面──ファウストの死の時刻──と連環し、死に瀕した実存と誕生即死の無垢な魂が「真夜中」という時刻において交差する詩劇的構造を形成する。\nVANITISMEコーパス的文脈において、「深みの父」の「霊が混乱し冷たく鈍い感覚の柵の中で苦しむ（Wo sich der Geist, verworren, kalt, / Verquält in stumpfer Sinne Schranken）」という告白がヒエロニムス訳コヘレト「afflictio spiritus（霊の苦悩）」の最高詩劇的定式として機能しながら、それが「O Gott! beschwichtige die Gedanken, / Erleuchte mein bedürftig Herz」という祈りへと転化される点に、ファウスト詩劇全体のコヘレト的問い（afflictio spiritus）から神秘主義的応答（ewige Liebe）への転換の論理が凝縮されている。「幸いなる少年たち」の最終合唱「Den ihr verehret / Werdet ihr schaun（あなた方が崇めるお方を見るだろう）」という「至福直観（visio beatifica）」の宣言が、ダンテ『天国篇』第33歌の神との直接的合一への詩劇的到達点を予告する。",
     "keywords": [
         "Bergschluchten",
@@ -49,40 +37,40 @@ import json
     "paragraphs": [
         {"id": 1, "verses": "v.11844-11853", "speaker": "Chor und Echo",
          "original": "Waldung, sie schwankt heran,\nFelsen, sie lasten dran,\nWurzeln sie klammern an,\nStamm dicht an Stamm hinan;\nWoge nach Woge spritzt,\nHöhle die tiefste schützt;\nLöwen sie schleichen stumm-\nFreundlich um uns herum,\nEhren geweihten Ort\nHeiligen Liebeshort.",
-         "provisionalTranslation": "\u68ee\u306f\u63fa\u308c\u306a\u304c\u3089\u3084\u3063\u3066\u304f\u308b\u3001\n\u5ca9\u304c\u91cd\u304f\u306e\u3057\u304b\u304b\u308b\u3001\n\u6839\u304c\u7210\u3067\u3064\u304b\u307e\u308a\u3001\n\u5e39\u306f\u5e39\u306b\u5bc6\u63a5\u3057\u3066\uff1b\n\u6ce2\u304c\u6ce2\u306b\u5c71\u3073\u304f\u3001\n\u6d1e\u7a9f\u306e\u6700\u3082\u6df1\u3044\u3068\u3053\u308d\u304c\u5b88\u308b\uff1b\n\u7345\u5b50\u305f\u3061\u304c\u7269\u9759\u304b\u306b\u53cb\u597d\u7684\u306b\n\u79c1\u305f\u3061\u306e\u5468\u308a\u3092\u3057\u306e\u3073\u6b69\u304d\u3001\n\u795e\u8056\u306a\u5834\u3092\u6562\u3046\u3001\n\u8056\u306a\u308b\u611b\u306e\u5b9d\u5eab\u3092\u3002"},
+         "provisionalTranslation": "森は揺れながらやってくる、\n岩が重くのしかかる、\n根が爐でつかまり、\n帹は帹に密接して；\n波が波に山びく、\n洞窟の最も深いところが守る；\n獅子たちが物静かに友好的に\n私たちの周りをしのび歩き、\n神聖な場を敢う、\n聖なる愛の宝庫を。"},
         {"id": 2, "verses": "v.11854-11865", "speaker": "Pater ecstaticus",
          "original": "Ewiger Wonnebrand,\nGlühendes Liebeband,\nSiedender Schmerz der Brust,\nSchäumende Gottes Lust.\nPfeile durchdringet mich,\nLanzen bezwinget mich,\nKeulen zerschmettert mich,\nBlitze durchwettert mich;\nDaß ja das Nichtige,\nAlles verflüchtige,\nGlänze der Dauerstern\nEwiger Liebe Kern.",
-         "provisionalTranslation": "\u6c38\u9060\u306e\u6b53\u559c\u306e\u708e\u3001\n\u71c3\u3048\u308b\u611b\u306e\u5e2f\u3001\n\u80f8\u306e\u716e\u3048\u305f\u304e\u308b\u82e6\u60a9\u3001\n\u6ce1\u7acb\u3064\u795e\u306e\u6db5\u7269\u3002\n\u77e2\u304c\u79c1\u3092\u8cab\u3044\u3066\u3001\n\u69cd\u304c\u79c1\u3092\u5f81\u6234\u3057\u3001\n\u68d2\u304c\u79c1\u3092\u7815\u304d\u3001\n\u7a32\u59fb\u304c\u79c1\u3092\u6fc0\u3057\u304f\u8cab\u304f\uff1b\n\u865a\u7121\u306a\u308b\u3082\u306e\u304c\u3001\n\u3059\u3079\u3066\u84b8\u767a\u3057\u53bb\u308b\u3088\u3046\u306b\u3001\n\u6c38\u7d9a\u3059\u308b\u661f\u304c\u8f1d\u3051\u3001\n\u6c38\u9060\u306e\u611b\u306e\u6838\u3002"},
+         "provisionalTranslation": "永遠の歓喜の炎、\n燃える愛の帯、\n胸の煮えたぎる苦悩、\n泡立つ神の涵物。\n矢が私を貫いて、\n槍が私を征戴し、\n棒が私を砕き、\n稲姻が私を激しく貫く；\n虚無なるものが、\nすべて蒸発し去るように、\n永続する星が輝け、\n永遠の愛の核。"},
         {"id": 3, "verses": "v.11866-11873", "speaker": "Pater profundus",
          "original": "Wie Felsenabgrund mir zu Füßen\nAuf tiefem Abgrund lastend ruht,\nWie tausend Bäche strahlend fließen\nZum grausen Sturz des Schaums der Fluth,\nWie strack, mit eignem kräftigen Triebe,\nDer Stamm sich in die Lüfte trägt:\nSo ist es die allmächtige Liebe\nDie alles bildet, alles hegt.",
-         "provisionalTranslation": "\u5ca9\u306e\u6df1\u6df1\u6df3\u304c\u79c1\u306e\u8db3\u5143\u3067\n\u6df1\u3044\u6df3\u306e\u4e0a\u306b\u91cd\u304f\u6a2a\u305f\u308f\u308b\u3088\u3046\u306b\u3001\n\u5343\u306e\u5ddd\u304c\u8f1d\u304d\u306a\u304c\u3089\u6d41\u308c\u3001\n\u6ce1\u306e\u6d41\u308c\u306e\u6050\u308d\u3057\u3044\u5d29\u843d\u3078\u3068\u5411\u304b\u3046\u3088\u3046\u306b\u3001\n\u771f\u3063\u76f4\u3050\u306b\u3001\u81ea\u3089\u306e\u529b\u5f37\u3044\u884c\u52d5\u3092\u3082\u3063\u3066\u3001\n\u5e39\u304c\u81ea\u8eab\u3092\u5927\u6c17\u306e\u4e2d\u306b\u62c5\u3044\u4e0a\u3052\u308b\u3088\u3046\u306b\uff1a\n\u305d\u308c\u304c\u3001\u3059\u3079\u3066\u3092\u5f62\u4f5c\u308a\u3001\u3059\u3079\u3066\u3092\u80b2\u3080\u5168\u80fd\u306e\u611b\u306a\u306e\u3060\u3002"
+         "provisionalTranslation": "岩の深深淳が私の足元で\n深い淳の上に重く横たわるように、\n千の川が輝きながら流れ、\n泡の流れの恐ろしい崩落へと向かうように、\n真っ直ぐに、自らの力強い行動をもって、\n帹が自身を大気の中に担い上げるように：\nそれが、すべてを形作り、すべてを育む全能の愛なのだ。"
         },
         {
           "id": 4, "verses": "v.11874-11889", "speaker": "Pater profundus",
          "original": "Ist um mich her ein wildes Brausen\nAls wogte Wald und Felsengrund!\nUnd doch stürzt, liebevoll im Sausen,\nDie Wasserfülle sich zum Schlund,\nBerufen gleich das Thal zu wässern;\nDer Blitz, der flammend niederschlug\nDie Atmosphäre zu verbessern,\nDie Gift und Dunst im Busen trug,\nSind Liebesboten, sie verkünden\n\nWas ewig schaffend uns umwallt.\nMein Innres mög' es auch entzünden\nWo sich der Geist, verworren, kalt,\nVerquält in stumpfer Sinne Schranken,\nScharfangeschloss'nem Kettenschmerz.\nO Gott! beschwichtige die Gedanken,\nErleuchte mein bedürftig Herz.",
-         "provisionalTranslation": "\u5468\u308a\u306b\u6fc0\u3057\u3044\u8bd1\u9cf4\u304c\u3042\u308b\u3001\n\u68ee\u3068\u5ca9\u5c71\u306e\u5927\u5730\u304c\u6ce2\u6253\u3064\u3088\u3046\u306b\uff01\n\u305d\u308c\u3067\u3082\u7b11\u8c00\u3059\u308b\u97f3\u306e\u4e2d\u3001\u611b\u3092\u3082\u3063\u3066\u3001\n\u6ee2\u308c\u308b\u6c34\u304c\u6df1\u6df3\u3078\u3068\u5d29\u308c\u3001\n\u8c37\u3092\u6f64\u3059\u305f\u3081\u306b\u547c\u3073\u51fa\u3055\u308c\u308b\uff1b\n\u708e\u3092\u5439\u304d\u306a\u304c\u3089\u843d\u3061\u305f\u7a32\u59fb\u304c\n\u6bd2\u3068\u956e\u3092\u80f8\u306b\u6301\u3063\u3066\u3044\u305f\n\u5927\u6c17\u3092\u6539\u5584\u3059\u308b\u305f\u3081\u306b\u3001\n\u611b\u306e\u4f7f\u8005\u305f\u3061\u3060\u3001\u5c38\u3089\u306f\u544a\u3052\u308b\n\u6c38\u9060\u306b\u5275\u9020\u3057\u306a\u304c\u3089\u79c1\u305f\u3061\u3092\u5de7\u308a\u307e\u304f\u3082\u306e\u3092\u3002\n\u79c1\u306e\u5185\u306a\u308b\u3082\u306e\u3082\u305d\u308c\u304c\u71c3\u3084\u3059\u3053\u3068\u304c\u3067\u304d\u308b\u3088\u3046\u306b\n\u305d\u3053\u3067\u9727\u304c\u6df7\u4e71\u3057\u3001\u51b7\u305f\u304f\u3001\n\u9c48\u3044\u611f\u899a\u306e\u624a\u306e\u4e2d\u3067\u82e6\u3057\u3080\u3053\u3068\u3092\u3002\n\u795e\u3088\uff01\u79c1\u306e\u601d\u3044\u3092\u9748\u3081\u3001\n\u79c1\u306e\u5fc5\u8981\u3068\u3059\u308b\u5fc3\u3092\u7167\u3089\u3057\u305f\u307e\u3048\u3002"},
+         "provisionalTranslation": "周りに激しい译鳴がある、\n森と岩山の大地が波打つように！\nそれでも笑谀する音の中、愛をもって、\n滢れる水が深淳へと崩れ、\n谷を潤すために呼び出される；\n炎を吹きながら落ちた稲姻が\n毒と镮を胸に持っていた\n大気を改善するために、\n愛の使者たちだ、尸らは告げる\n永遠に創造しながら私たちを巧りまくものを。\n私の内なるものもそれが燃やすことができるように\nそこで霧が混乱し、冷たく、\n鱈い感覚の扊の中で苦しむことを。\n神よ！私の思いを靈め、\n私の必要とする心を照らしたまえ。"},
         {"id": 5, "verses": "v.11890-11893", "speaker": "Pater Seraphicus",
          "original": "Welch ein Morgenwölkchen schwebet\nDurch der Tannen schwankend Haar!\nAhn' ich was im Innern lebet?\nEs ist junge Geisterschaar.",
-         "provisionalTranslation": "\u306a\u3093\u3068\u671d\u306e\u5c0f\u96f2\u304c\u6f42\u3063\u3066\u3044\u308b\u3001\n\u6a05\u306e\u63fa\u308c\u308b\u68a2\u3092\u629c\u3051\u3066\uff01\n\u5185\u306b\u751f\u304d\u3066\u3044\u308b\u3082\u306e\u3092\u79c1\u306f\u611f\u3058\u53d6\u308c\u308b\u304b\uff1f\n\u305d\u308c\u306f\u82e5\u3044\u9748\u305f\u3061\u306e\u7fa4\u308c\u3060\u3002"},
+         "provisionalTranslation": "なんと朝の小雲が潂っている、\n樅の揺れる梢を抜けて！\n内に生きているものを私は感じ取れるか？\nそれは若い靈たちの群れだ。"},
         {"id": 6, "verses": "v.11894-11897", "speaker": "Chor seliger Knaben",
          "original": "Sag' uns, Vater, wo wir wallen,\nSag' uns, Guter, wer wir sind?\nGlücklich sind wir, allen allen\nIst das Daseyn so gelind.",
-         "provisionalTranslation": "\u4f1a\u3063\u3066\u304f\u3060\u3055\u3044\u3001\u7236\u3088\u3001\u79c1\u305f\u3061\u306f\u3069\u3053\u3092\u3055\u307e\u3088\u3063\u3066\u3044\u308b\u306e\u304b\u3001\n\u4f1a\u3063\u3066\u304f\u3060\u3055\u3044\u3001\u5584\u304d\u65b9\u3088\u3001\u79c1\u305f\u3061\u306f\u8ab0\u306a\u306e\u304b\uff1f\n\u79c1\u305f\u3061\u306f\u5e78\u305b\u3060\u3001\u307f\u3093\u306a\u307f\u3093\u306a\u306b\n\u5b58\u5728\u3059\u308b\u3053\u3068\u304c\u3053\u3093\u306a\u306b\u3082\u7a4f\u3084\u304b\u3060\u3002"},
+         "provisionalTranslation": "会ってください、父よ、私たちはどこをさまよっているのか、\n会ってください、善き方よ、私たちは誰なのか？\n私たちは幸せだ、みんなみんなに\n存在することがこんなにも穏やかだ。"},
         {"id": 7, "verses": "v.11898-11913", "speaker": "Pater Seraphicus",
          "original": "Knaben! Mitternachts Geborne,\nHalb erschlossen Geist und Sinn,\nFür die Eltern gleich Verlorne,\nFür die Engel zum Gewinn.\nDaß ein Liebender zugegen\nFühlt ihr wohl, so naht euch nur;\nDoch von schroffen Erdewegen\nGlückliche! habt ihr keine Spur.\nSteigt herab in meiner Augen\nWelt- und erdgemäß Organ,\nKönnt sie als die euern brauchen,\nSchaut euch diese Gegend an.\nDas sind Bäume, das sind Felsen,\nWasserstrom, der abestürzt\nUnd mit ungeheurem Wälzen\nSich den steilen Weg verkürzt.",
-         "provisionalTranslation": "\u5c11\u5e74\u305f\u3061\uff01\u771f\u591c\u4e2d\u306b\u751f\u307e\u308c\u305f\u8005\u305f\u3061\u3001\n\u9727\u3068\u5fc3\u304c\u534a\u3070\u958b\u3044\u305f\u3001\n\u89aa\u306b\u3068\u3063\u3066\u306f\u3059\u3050\u306b\u5931\u308f\u308c\u305f\u8005\u305f\u3061\u3001\n\u5929\u4f7f\u306b\u3068\u3063\u3066\u306f\u5229\u76ca\u306b\u306a\u308b\u8005\u305f\u3061\u3002\n\u611b\u3059\u308b\u8005\u304c\u5c45\u3066\u3044\u308b\u3053\u3068\u3092\n\u304a\u524d\u305f\u3061\u306f\u611f\u3058\u308b\u3060\u308d\u3046\u3001\u3060\u304b\u3089\u8fd1\u3065\u3044\u3066\u304a\u3044\u3067\uff1b\n\u3057\u304b\u3057\u5e38\u308a\u306e\u5c71\u9053\u304b\u3089\u306f\n\u5e78\u3044\u306a\u308b\u306e\u305f\u3061\u3088\uff01\u304a\u524d\u305f\u3061\u306b\u306f\u75d5\u8de1\u304c\u306a\u3044\u3002\n\u79c1\u306e\u76ee\u3068\u3044\u3046\n\u4e16\u754c\u304a\u3088\u3073\u5730\u4e0a\u306b\u5408\u3063\u305f\u5668\u5b98\u306b\u964d\u308a\u3066\u304d\u306a\u3055\u3044\u3001\n\u305d\u308c\u3092\u304a\u524d\u305f\u3061\u306e\u3082\u306e\u3068\u3057\u3066\u4f7f\u3044\u306a\u3055\u3044\u3001\n\u3053\u306e\u666f\u89b3\u3092\u898b\u6e21\u3057\u306a\u3055\u3044\u3002\n\u3053\u308c\u306f\u6728\u3067\u3042\u308a\u3001\u3053\u308c\u306f\u5ca9\u3067\u3001\n\u6025\u5782\u3059\u308b\u6c34\u306e\u6d41\u308c\u3001\n\u7a4f\u3084\u304b\u306a\u6c17\u5bfe\u3044\u3067\n\u80a5\u5c71\u306e\u9053\u3092\u77ed\u304f\u3059\u308b\u3002"
+         "provisionalTranslation": "少年たち！真夜中に生まれた者たち、\n霧と心が半ば開いた、\n親にとってはすぐに失われた者たち、\n天使にとっては利益になる者たち。\n愛する者が居ていることを\nお前たちは感じるだろう、だから近づいておいで；\nしかし常りの山道からは\n幸いなるのたちよ！お前たちには痕跡がない\n。私の目という世界および地上に合った器官に降りてきなさい、\nそれをお前たちのものとして使いなさい、\nこの景観を見渡しなさい。\nこれは木であり、これは岩で、\n急垂する水の流れ、\n穏やかな気対いで肥山の道を短くする。"
         },
         {
           "id": 8, "verses": "v.11914-11917", "speaker": "Selige Knaben",
          "scene": "von innen",
          "original": "Das ist mächtig anzuschauen;\nDoch zu düster ist der Ort,\nSchüttelt uns mit Schreck und Grauen.\nEdler, Guter, laß uns fort!",
-         "provisionalTranslation": "\u305d\u308c\u306f\u898b\u308b\u306b\u529b\u5f37\u3044\uff1b\n\u3057\u304b\u3057\u5834\u6240\u304c\u3042\u307e\u308a\u306b\u3082\u6697\u304f\u3001\n\u79c1\u305f\u3061\u3092\u6050\u6016\u3068\u6226\u6afb\u3067\u63fa\u3055\u3076\u308b\u3002\n\u9ad8\u8cb4\u306a\u3001\u5584\u304d\u65b9\u3088\u3001\u884c\u304b\u305b\u3066\u304f\u3060\u3055\u3044\uff01"},
+         "provisionalTranslation": "それは見るに力強い；\nしかし場所があまりにも暗く、\n私たちを恐怖と戦櫻で揺さぶる。\n高貴な、善き方よ、行かせてください！"},
         {"id": 9, "verses": "v.11918-11925", "speaker": "Pater Seraphicus",
          "original": "Steigt hinan zu höhrem Kreise,\nWachset immer unvermerkt,\nWie, nach ewig reiner Weise,\nGottes Gegenwart verstärkt.\nDenn das ist der Geister Nahrung\nDie im freisten Aether waltet:\nEwigen Liebens Offenbarung\nDie zur Seligkeit entfaltet.",
-         "provisionalTranslation": "\u3088\u308a\u9ad8\u3044\u5708\u5706\u3078\u3068\u6607\u308c\u3001\n\u7d76\u3048\u305a\u6c17\u3065\u304b\u306a\u3044\u3046\u3061\u306b\u6210\u9577\u305b\u3088\u3001\n\u6c38\u9060\u306b\u7d14\u7c8b\u306a\u5728\u308a\u65b9\u306b\u5f93\u3044\u3001\n\u795e\u306e\u73fe\u524d\u304c\u5f37\u307e\u308b\u3088\u3046\u306b\u3002\n\u306a\u305c\u306a\u3089\u305d\u308c\u304c\u9748\u305f\u3061\u306e\u7ce7\u3067\u3042\u308a\n\u6700\u3082\u81ea\u7531\u306a\u5927\u6c17\u306e\u4e2d\u3067\u50cd\u304f\uff1a\n\u6c38\u9060\u306a\u611f\u306e\u554f\u793a\u3001\n\u305d\u308c\u304c\u81f3\u798f\u3078\u3068\u958b\u82b1\u3059\u308b\u306e\u3060\u304b\u3089\u3002"},
+         "provisionalTranslation": "より高い圈圆へと昇れ、\n絶えず気づかないうちに成長せよ、\n永遠に純粋な在り方に従い、\n神の現前が強まるように。\nなぜならそれが靈たちの糧であり\n最も自由な大気の中で働く：\n永遠な感の問示、\nそれが至福へと開花するのだから。"},
         {
           "id": 10, "verses": "v.11926-11933", "speaker": "Chor seliger Knaben",
          "original": "Hände verschlinget\nFreudig zum Ringverein,\nRegt euch und singet\nHeilige Gefühle drein;\nGöttlich belehret\nDürft ihr vertraun,\nDen ihr verehret\nWerdet ihr schaun.",
-         "provisionalTranslation": "\u624b\u3092\u7d61\u307f\u5408\u308f\u305b\u3001\n\u559c\u3093\u3067\u74b0\u306e\u5408\u4e00\u3078\u3001\n\u52d5\u3044\u3066\u6b4c\u3048\u3001\n\u8056\u306a\u308b\u611f\u60c5\u3092\u305d\u306e\u4e2d\u306b\uff1b\n\u795e\u306b\u6559\u3048\u3089\u308c\u305f\u8005\u306f\u4fe1\u983c\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3001\n\u3042\u306a\u305f\u65b9\u304c\u5d07\u3081\u308b\u304a\u65b9\u3092\u3001\n\u3042\u306a\u305f\u65b9\u306f\u898b\u308b\u3060\u308d\u3046\u3002"}
+         "provisionalTranslation": "手を絡み合わせ、\n喜んで環の合一へ、\n動いて歌え、\n聖なる感情をその中に；\n神に教えられた者は信頼することができる、\nあなた方が崇めるお方を、\nあなた方は見るだろう。"}
     ],
     "annotations": [
         {
