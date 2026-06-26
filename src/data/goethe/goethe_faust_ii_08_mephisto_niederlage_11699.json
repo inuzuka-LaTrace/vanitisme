@@ -1,0 +1,171 @@
+{
+    "id": "goethe_faust_ii_mephisto_niederlage_11699",
+    "title": "Faust - Zweiter Teil: Mephistos Niederlage (v.11699-11843)",
+    "author": "Johann Wolfgang von Goethe",
+    "source": "Faust - Der Tragödie zweiter Teil, F\u00fcnfter Act, Grablegung, v.11699-11843. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+    "year": "1832",
+    "firstPublication": "1832\uff08Faust. Der Trag\u00f6die zweiter Teil in f\u00fcnf Acten, Cotta Verlag\uff09",
+    "difficulty": "\u4e0a\u7d1a",
+    "category": "goethe",
+    "originalLang": "de-DE",
+    "modernRelevance": "\u2605\u2605\u2605\u2605\u2605",
+    "context": "ゲーテ『ファウスト』第二部第五幕「埋葬（Grablegung）」後半部（v.11699–11843）。前景（v.11604–11698）でメフィストフェレスが悪魔たちに地獄の顎（Höllenrachen）を開かせ、ファウストの魂を捕えようとした直後に続く場面であり、ゲーテの詩劇全体を通じて最も喜劇的かつ神学的に豊かな「メフィストフェレスの敗北と天使への誘惑」が展開される。本場面の根本的な逆説：詩劇全体において常に人間を「誘惑（Verführung）」する側であったメフィストフェレスが、ここでは天使たちの美によって逆に「誘惑される」。誘惑のドラマが完全に反転する。場面は四部構造をなす。第一部（v.11699–11744）：天使の合唱（Chor der Engel）が薔薇の花びらを散らし、「プストリッヒたち（Püstriche）」と呼ばれる悪魔たちの抵抗が次々と崩壊する。かえって悪魔の吹息（Hauch）が薔薇を炎として強化するという「悪の自家撞着的無力」の実演。第二部（v.11745–11777）：メフィストフェレスの内的独白として天使への肉体的魅惑が段階的に高まる──「頭が燃える、心が燃える、肝臓が燃える（Mir brennt der Kopf, das Herz, die Leber brennt）」「ひそかに猫のごとく欲しがって（heimlich-kätzchenhaft begierlich）」「お前たちはルシファーの血族ではないのか（Seyd ihr nicht auch von Lucifers Geschlecht）？」という自己欺瞞と欲望の連鎖。第三部（v.11778–11815）：天使に「もう少し世俗的に体を動かしてくれ（Ein bißchen weltlicher bewegt die holden Glieder）」「後ろ姿を見ると──奴らはあまりにも食欲をそそる（Von hinten anzusehen! – / Die Racker sind doch gar zu appetitlich）！」と叫ぶ喜劇的頂点の後、「ヨブのように腫瘍だらけ（Hiobsartig, Beul' an Beule）」という我に返っての自嘲。第四部（v.11816–11843）：舞台指示「Faustens Unsterbliches entführend（ファウストの不滅なるものを持ち去りながら）」を伴う天使の最終歌と、それに続くメフィストフェレスの大逆転の自己批判独白。\n「Hiobsartig（ヨブのように）」という一語がVANITISMEコーパスにおける最重要照応を担う：ヒエロニムス訳ヨブ記第2章でサタンがヨブを腫瘍で試練に陥れた構造が、ここでは完全に逆転し、メフィストフェレス自身が天使への愛によって「腫瘍だらけ（Beul' an Beule）」の状態に陥る。加害者が自らの武器によって苦しめられるという詩劇的成就。「Die Thorheit nicht gering / Die seiner sich am Schluß bemächtigt（愚かさも馬鹿にならない、それが最後に彼を支配したのだから）」という結語がコヘレト的「afflictio spiritus（霊の苦悩）」の悪魔版として機能し、「stultorum infinitus est numerus（愚か者の数は無限である）」という命題が詩劇の究極の悪魔的自己告白として成就する。",
+    "keywords": [
+        "Rosen der Engel",
+        "Püstriche",
+        "Schmeichelgluth",
+        "Mir brennt der Kopf das Herz die Leber",
+        "heimlich-kätzchenhaft begierlich",
+        "Von hinten anzusehen",
+        "Hiobsartig Beul an Beule",
+        "Faustens Unsterbliches entführend",
+        "Die Thorheit nicht gering",
+        "pfiffig weggepascht"
+    ],
+    "relatedTexts": [
+        "goethe_faust_ii_grablegung_11604",
+        "goethe_faust_ii_faust_tod_11559",
+        "goethe_faust_kerker_4574",
+        "goethe_faust_studierzimmer_1327",
+        "hieronymus_iob_1",
+        "hieronymus_ecclesiastes_1",
+        "weil_accepter_le_vide",
+        "weil_decreation",
+        "dante_paradiso_canto_33"
+    ],
+    "paragraphs": [
+        {"id":1,"verses":"v.11699-11709","speaker":"Chor der Engel",
+         "original":"Rosen, ihr blendenden,\nBalsam versendenden!\nFlatternde, schwebende,\nHeimlich belebende,\n\nZweigleinbeflügelte,\nKnospenentsiegelte,\nEilet zu blühn.\n\nFrühling entsprieße!\nPurpur und Grün;\nTragt Paradiese\nDem Ruhenden hin.","provisionalTranslation":"薔薇よ、まばゆいそなたたちよ、\n香油を送り届けるものよ！\n翻り、漂いながら、\nひそかに命を与えながら、\n\n小枝の翼をもつものよ、\n蕾の封を解かれたものよ、\n急ぎ咲き誇れ。\n\n春よ、芽吹け！\n深紅と緑；\n楽園を\n憩う者のもとへ運べ。"
+        },
+        {
+          "id":2,"verses":"v.11710-11725","speaker":"Mephistopheles",
+         "original":"Was duckt und zuckt ihr? ist das Höllenbrauch?\nSo haltet Stand und laßt sie streuen.\nAn seinen Platz ein jeder Gauch!\nSie denken wohl mit solchen Blümeleyen\nDie heißen Teufel einzuschneien;\nDas schmilzt und schrumpft vor eurem Hauch.\nNun pustet, Püstriche! – Genug genug!\nVor eurem Broden bleicht der ganze Flug. –\nNicht so gewaltsam! schließet Maul und Nasen!\nFürwahr, ihr habt zu stark geblasen.\nDaß ihr doch nie die rechten Maße kennt!\nDas schrumpft nicht nur, es bräunt sich dort, es brennt!\nSchon schwebt's heran mit giftig klaren Flammen,\nStemmt euch dagegen, drängt euch fest zusammen! –\nDie Kraft erlischt! dahin ist aller Muth!\nDie Teufel wittern fremde Schmeichelgluth.""","provisionalTranslation":"何を竦んでひくつくのだ？それが地獄流儀か？\nしっかり立ちはだかって、散らせておけ。\n各自の持ち場に、間抜け者どもよ！\n奴らはそんな花々で\n熱い悪魔たちに雪を降らせるつもりなのだ；\nそれはお前たちの息で溶けて縮む。\nさあ吹け、ぷくぷく野郎ども！──もう十分だ！\nお前たちの吹気で群れ全体が白くなる。──\nそんなに乱暴にするな！口と鼻を閉じろ！\nまったく、お前たちは吹きすぎた。\nお前たちは決して適度というものを知らないな！\n縮むだけでなく、そこで焦げて、燃えている！\n毒々しく澄んだ炎を纏ってこちらへ漂ってくる、\n立ちはだかれ、しっかり固まれ！──\n力が消えてきた！勇気はすべて消えた！\n悪魔たちは異質な媚びる火の匂いを嗅ぎつける。"},
+        {"id":3,"verses":"v.11726-11734","speaker":"Engel",
+         "original":"Blüthen die seligen,\nFlammen die fröhlichen,\nLiebe verbreiten sie,\nWonne bereiten sie,\nHerz wie es mag.\nWorte die wahren,\nAether im Klaren\nEwigen Schaaren\nUeberall Tag!","provisionalTranslation":"祝福された花々よ、\n喜びに満ちた炎よ、\n愛を広め、\n喜びを作り出し、\n心のままに。\n真実の言葉、\n澄んだ大気の中に、\n永遠の軍勢に\nいたるところ昼の光！"},
+        {
+          "id":4,"verses":"v.11735-11744","speaker":"Mephistopheles",
+         "original":"O Fluch! o Schande solchen Tröpfen!\nSatane stehen auf den Köpfen,\nDie Plumpen schlagen Rad auf Rad\nUnd stürzen ärschlings in die Hölle.\nGesegn' euch das verdiente heiße Bad!\nIch aber bleib' auf meiner Stelle. –\nIrrlichter fort! du! leuchte noch so stark,\nDu bleibst gehascht ein ekler Gallert-Quark.\nWas flatterst du? Willst du dich packen! –\nEs klemmt wie Pech und Schwefel mir im Nacken.","provisionalTranslation":"なんと呪わしい！なんと恥ずかしい、そんな馬鹿者どもが！\nサタンたちが頭立ちになって、\n鈍重な奴らが車輪のように回転して\n地獄へとお尻から落ちていく。\nふさわしい熱いお風呂をご馳走してやれ！\nだが私は自分の持ち場に留まる。──\n鬼火よ、あっちへ行け！お前、そんなに強く光っても、\nお前は捕まれれば醜いゼラチン状の滓にすぎない。\n何をひらひらしているのか？さっさと失せろ！──\nコールタールと硫黄のようにうなじに挟まる。"
+        },
+        {
+          "id":5,"verses":"v.11745-11752","speaker":"Engel. Chor",
+         "original":"Was euch nicht angehört\nMüsset ihr meiden,\nWas euch das Innre stört\nDürft ihr nicht leiden.\nDringt es gewaltig ein,\nMüssen wir tüchtig seyn;\nLiebe nur Liebende\nFühret herein!","provisionalTranslation":"お前たちに属さないものは\n避けなければならない、\nお前たちの内なるものを乱すものは\n苦しんではならない。\nそれが力強く侵入してくるなら、\n私たちはしっかりしなければならない；\n愛する者だけを、愛が\n引き入れる！"
+        },
+        {
+          "id":6,"verses":"v.11753-11777","speaker":"Mephistopheles",
+         "original":p"Mir brennt der Kopf, das Herz, die Leber brennt,\nEin überteuflisch Element!\nWeit spitziger als Höllenfeuer!\nDrum jammert ihr so ungeheuer,\nUnglückliche Verliebte! die verschmäht,\nVerdrehten Halses nach der Liebsten späht.\n\nAuch mir! Was zieht den Kopf auf jene Seite?\nBin ich mit ihr doch im geschwornen Streite!\nDer Anblick war mir sonst so feindlich scharf.\nHat mich ein Fremdes durch und durchgedrungen?\nIch mag sie gerne sehn die allerliebsten Jungen;\nWas hält mich ab, daß ich nicht fluchen darf? –\nUnd wenn ich mich bethören lasse,\nWer heißt denn künftighin der Thor? –\nDie Wetterbuben, die ich hasse,\nSie kommen mir doch gar zu lieblich vor! –\n\nIhr schönen Kinder laßt mich wissen:\nSeyd ihr nicht auch von Lucifers Geschlecht?\nIhr seyd so hübsch, fürwahr ich möcht' euch küssen,\nMir ist's als kommt ihr eben recht.\nEs ist mir so behaglich, so natürlich,\nAls hätt' ich euch schon tausendmal gesehn;\nSo heimlich-kätzchenhaft begierlich;\nMit jedem Blick auf's neue schöner schön.\nO nähert euch, o gönnt mir Einen Blick!",
+          "provisionalTranslation":"頭が燃える、心が燃える、肝臓が燃える、\n超悪魔的な元素だ！\n地獄の炎よりもはるかに刺すように激しい！\nだからお前たちはそれほど恐ろしく嘆くのだな、\n不幸な恋人たちよ！振られて、\n首をねじって恋人の方を眺めながら。\n\n私も！何が頭をあの方向へ引っ張るのか？\n私はあれと誓いを立てた戦いにあるのに！\nそのありさまを見ることは以前は敵意をもって鋭かった。\n何か異質なものが私を通り抜けたのか？\n最も愛らしい若者たちを私は喜んで見たい；\n私が呪えないのを何が妨げているのか？──\nそして私がたぶらかされてしまったなら、\nこれからは誰が馬鹿者と言われるのか？──\n私が憎む悪ガキたちが、\nそれでもあまりに可愛らしく私に見えてくる！──\n\nきれいな子供たちよ、教えてくれ：\nお前たちもルシファーの血族ではないのか？\nお前たちはとても可愛い、まったく私はお前たちにキスしたい、\n私には今ちょうどお前たちが来てくれたように感じる。\nこんなにも心地よく、こんなにも自然で、\nまるでお前たちを千回も見たことがあるかのようだ；\nひそかに猫のごとく欲しがって；\n見るたびにますます美しくなっていく。\nああ近づいてくれ、ひとめ見る機会をくれ！"},
+        {"id":7,"verses":"v.11778-11779","speaker":"Engel",
+         "original":"Wir kommen schon, warum weichst du zurück?\nWir nähern uns und wenn du kannst so bleib.","provisionalTranslation":"もう来ているのに、なぜ引き下がるのか？\n私たちは近づく、できるなら留まっているがよい。"
+        },
+        {
+          "id":8,"verses":"v.11780-11800","speaker":"Mephistopheles",
+         "original":"Ihr scheltet uns verdammte Geister,\nUnd seyd die wahren Hexenmeister;\nDenn ihr verführet Mann und Weib. –\nWelch ein verfluchtes Abenteuer!\nIst dieß das Liebeselement?\nDer ganze Körper steht in Feuer,\nIch fühle kaum daß es im Nacken brennt. –\nIhr schwanket hin und her, so senkt euch nieder,\nEin bißchen weltlicher bewegt die holden Glieder;\nFürwahr der Ernst steht euch recht schön!\nDoch möcht' ich euch nur einmal lächeln sehn;\nDas wäre mir ein ewiges Entzücken.\nIch meine so, wie wenn Verliebte blicken,\nEin kleiner Zug am Mund so ist's gethan.\nDich langer Bursche, dich mag ich am liebsten leiden,\nDie Pfaffenmiene will dich gar nicht kleiden,\nSo sieh' mich doch ein wenig lüstern an!\nAuch könntet ihr anständig-nackter gehen,\nDas lange Faltenhemd ist übersittlich –\nSie wenden sich – Von hinten anzusehen! –\nDie Racker sind doch gar zu appetitlich! –",
+          "provisionalTranslation":"お前たちは私たちを呪われた霊と叱るが、\n本当の魔法使いはお前たちの方だ；\nなぜならお前たちは男も女も誘惑するから。──\nなんと呪わしい冒険だ！\nこれが愛の元素というものか？\n体中が火で立っている、\nうなじが燃えているのさえほとんど感じない。──\nお前たちは揺れながらあっちこっちへ、さあ降りてこい、\nもう少し世俗的に可愛い体を動かしてくれ；\nまったく、厳粛さがお前たちによく似合う！\nだけど一度だけ微笑むところを見たいものだ；\nそれは私に永遠の恍惚をもたらすだろう。\n私が言いたいのは、恋人たちが見つめる時のように、\n口の端のちょっとした動きでいいのだ。\nお前、長い若者よ、お前が一番気に入っている、\n司祭顔はお前にまったく似合わない、\nもう少し色っぽく私を見てくれよ！\nもう少し品よく裸でもいいのに、\n長い折り目のある服は上品すぎる──\n振り向いた──後ろ姿を見ると！──\n悪ガキたちはあまりにも食欲をそそる！──"},
+        {"id":9,"verses":"v.11801-11808","speaker":"Chor der Engel",
+         "original":"Wendet zur Klarheit\nEuch, liebende Flammen!\nDie sich verdammen\nHeile die Wahrheit;\nDaß sie vom Bösen\nFroh sich erlösen,\nUm in dem Allverein\nSelig zu seyn.",
+          "provisionalTranslation":"明晰さへと向かえ、\n愛する炎たちよ！\nみずから呪われるものを\n真理が癒せ；\n悪から\n喜んで解放されるように、\n万有の合一の中で\n祝福されるために。"},
+        {"id":10,"verses":"v.11809-11816","speaker":"Mephistopheles",
+         "original":"Wie wird mir! – Hiobsartig, Beul' an Beule\nDer ganze Kerl, dem's vor sich selber graut,\nUnd triumphirt zugleich wenn er sich ganz durchschaut,\nWenn er auf sich und seinen Stamm vertraut:\nGerettet sind die edlen Teufelstheile,\nDer Liebespuk er wirft sich auf die Haut;\nSchon ausgebrannt sind die verruchten Flammen,\nUnd, wie es sich gehört, fluch ich euch allzusammen!",
+          "provisionalTranslation":"どうなっているのだ！──ヨブのように、腫瘍だらけ、\n奴自身が恐ろしくなる、あの野郎全体が、\nしかし同時に自分を完全に見通す時に勝ち誇り、\n自分と自分の一族を信頼する時に：\n気高い悪魔の部分は救われた、\n愛の妖怪が皮膚に飛びついた；\nもうあの呪われた炎は燃え尽きた、\nそしてしかるべく、お前たちすべてを呪ってやる！"
+        },
+        {
+          "id":11,"verses":"v.11817-11824","speaker":"Chor der Engel",
+         "original":"Heilige Gluthen!\nWen sie umschweben\nFühlt sich im Leben\nSelig mit Guten.\nAlle vereinigt\nHebt euch und preis't,\nLuft ist gereinigt,\nAthme der Geist!",
+          "provisionalTranslation":"聖なる炎よ！\nそれに包まれる者は\n人生において\n善きものとともに祝福される。\n皆、一緒に\n高く上がって讃えよ、\n空気は浄化された、\n霊よ、呼吸せよ！"
+        },
+        {
+          "id":12,"verses":"v.11825-11843","speaker":"Mephistopheles",
+         "original":"Doch wie? – wo sind sie hingezogen?\nUnmündiges Volk du hast mich überrascht,\nSind mit der Beute himmelwärts entflogen;\nDrum haben sie an dieser Gruft genascht!\nMir ist ein großer einziger Schatz entwendet,\nDie hohe Seele die sich mir verpfändet\nDie haben sie mir pfiffig weggepascht.\nBei wem soll ich mich nun beklagen?\nWer schafft mir mein erworbnes Recht?\nDu bist getäuscht in deinen alten Tagen,\nDu hast's verdient, es geht dir grimmig schlecht.\nIch habe schimpflich mißgehandelt,\nEin großer Aufwand, schmählich! ist verthan,\nGemein Gelüst, absurde Liebschaft wandelt\nDen ausgepichten Teufel an.\nUnd hat mit diesem kindisch-tollen Ding\nDer Klugerfahrne sich beschäftigt,\nSo ist fürwahr die Thorheit nicht gering\nDie seiner sich am Schluß bemächtigt.",
+          "provisionalTranslation":"でも、待てよ──どこへ行ってしまったのか？\n子供のような連中め、お前たちは私を驚かせた、\n獲物とともに天上へと飛び去ってしまった；\nだから奴らはこの墓穴を嗅ぎつけたのか！\n私からは大いなる唯一の宝が盗まれた、\nあの高貴な魂が私に誓ってくれていたのに、\n奴らはそれを巧妙に掠め取ってしまった。\n私は今誰に文句を言えばいいのか？\n誰が私の得た権利を取り戻してくれるのか？\n老いた日々にお前は騙された、\nお前は当然の報いを受けた、ひどく悪い目に遭っている。\n私は恥ずかしくも事を誤った、\n大きな出費が、恥ずかしいことに！無駄になった、\n下卑た欲望、馬鹿げた恋愛が\n歴戦の老悪魔に取り憑いた。\nそしてこの子供じみた愚かな代物で\n賢い経験者が関わってしまったとなれば、\nまったく、愚かさも馬鹿にならない、\nその愚かさが終わりに彼を支配してしまったのだから。"}
+    ],
+    "annotations": [
+        {
+            "paragraphId": 1,
+            "type": "commentary",
+            "anchor": "Rosen, ihr blendenden,\nBalsam versendenden!",
+            "body": "「薔薇よ、まばゆいそなたたちよ、香油を送り届けるものよ──ひそかに命を与えながら（Rosen, ihr blendenden, / Balsam versendenden! / Heimlich belebende）」──天使の合唱による最初の「武器」としての薔薇の登場。「blendend（まばゆい）」という形容詞が「まぶしく目を眩ませる」と「輝く・魅惑する」の二義を持つ：天上の美しさが悪魔を文字通り「眩惑（blenden）」するという、この場面全体の主題的核心を開幕一行目で予告する。「Balsam versendenden（香油を送り届ける）」──「Balsam（香油）」は古来傷を癒す薬香油（ヒエロニムス訳ヤコブ書5:14「inungentes eum oleo」）として機能し、花びらの散布が同時に「医療的恵み（Heilsgnade）」の散布として機能することを示す。「Tragt Paradiese / Dem Ruhenden hin（楽園を、憩う者のもとへ運べ）」──「横たわる者（Ruhender）」すなわち死せるファウストのもとに「Paradiese（楽園）」を運ぶという命令が、前の場面でファウスト自身が幻視の中で「Ein Paradies wird um mich her die Runde（楽園が私の周りに広がっていく）」と叫んだ言葉の詩劇的成就として機能する：盲目のファウストが幻視の中でのみ見た楽園が、今、天使たちによって彼のもとへと「運ばれて」くる。",
+            "targetId": "goethe_faust_ii_faust_tod_11559",
+            "targetParagraphId": 1
+        },
+        {
+            "paragraphId": 2,
+            "type": "commentary",
+            "anchor": "Nun pustet, Püstriche! – Genug genug!\nVor eurem Broden bleicht der ganze Flug. –\nNicht so gewaltsam! schließet Maul und Nasen!",
+            "body": "「さあ吹け、ぷくぷく野郎ども！──もう十分だ！／そんなに乱暴にするな！口と鼻を閉じろ！（Nun pustet, Püstriche! – Genug genug! / Vor eurem Broden bleicht der ganze Flug. – / Nicht so gewaltsam! schließet Maul und Nasen）」──メフィストフェレスによる悪魔軍の指揮失敗の喜劇的描写。「Püstriche（ぷくぷく野郎たち）」はゲーテの造語で「膨らんだ・吹く存在」を指す：薔薇の花びらを吹き消そうとする悪魔たちが吹きすぎてかえって炎を強めるという構造が、悪の自家撞着的な無力を実演する。「Die Teufel wittern fremde Schmeichelgluth（悪魔たちは異質な媚びる火の匂いを嗅ぎつける）」──「Schmeichelgluth（媚びる・諂う輝き）」という複合名詞が場面全体の鍵概念として機能する：天上の炎は悪魔の炎（地獄火）とは異なる「Schmeichel（媚び・誘惑）」の輝きを持ち、悪魔たちはそれに「Witterung（鼻で嗅ぐ）」──動物的本能的な感知──によって引き寄せられる。指揮官メフィストフェレスの命令が「genug genug（もう十分）」「Nicht so gewaltsam（そんなに乱暴にするな）」「Daß ihr doch nie die rechten Maße kennt（お前たちは決して適度を知らない）」と次々と後退する様が段階的な権威崩壊として詩劇的に実演される。",
+            "targetId": "goethe_faust_ii_grablegung_11604",
+            "targetParagraphId": 4
+        },
+        {
+            "paragraphId": 3,
+            "type": "prosody",
+            "anchor": "Liebe verbreiten sie,\nWonne bereiten sie,\nHerz wie es mag.",
+            "body": "「愛を広め、喜びを作り出し、心のままに（Liebe verbreiten sie, / Wonne bereiten sie, / Herz wie es mag）」──天使たちの第二の歌が前の段落の地獄的炎（Höllenrachen・Feuerstrom）と対称的な「喜びの炎（Flammen die fröhlichen）」を宣言する。「Blüthen die seligen, / Flammen die fröhlichen（祝福された花々、喜びに満ちた炎）」──地獄では火が「罰」として機能したが、ここでは火が「歓喜（Fröhlichkeit）」として提示される：同じ「炎（Flamme）」という語が天上では根本的に異なる性質を持つ。「Herz wie es mag（心のままに）」という表現が愛の非強制性を示す：天上の愛は強制（Gewalt）によってではなく、心が自ら向かうことで体験される。「Ueberall Tag!（いたるところ昼の光！）」──神的光の普遍的遍在という宣言がヒエロニムス訳創世記第1章v.3「Fiat lux（光あれ）」の詩劇的反響として機能する。"
+        },
+        {
+            "paragraphId": 4,
+            "type": "commentary",
+            "anchor": "Satane stehen auf den Köpfen,\nDie Plumpen schlagen Rad auf Rad\nUnd stürzen ärschlings in die Hölle.",
+            "body": "「サタンたちが頭立ちになって、鈍重な奴らが車輪のように回転してお尻から地獄へと落ちていく（Satane stehen auf den Köpfen, / Die Plumpen schlagen Rad auf Rad / Und stürzen ärschlings in die Hölle）」──ゲーテの詩劇全体の中で最も意図的に卑俗な三行。「ärschlings（お尻から）」という語はゲーテが用いた口語的俗語表現であり、地獄の権威ある君主たちが文字通り「逆さまになって尻から」落ちるという視覚的コミカリティーが演出される。「Irrlichter fort! du! leuchte noch so stark, / Du bleibst gehascht ein ekler Gallert-Quark（鬼火よ、あっちへ行け！どんなに強く光っても、捕まえれば醜いゼラチン状の滓）」──「Irrlichter（鬼火・ウィル・オー・ウィスプ）」は天上でも地獄でもない中間的存在として、「Gallert-Quark（ゼラチン状の滓）」という醜悪な実体へと還元される。「Es klemmt wie Pech und Schwefel mir im Nacken（コールタールと硫黄のようにうなじに挟まる）」──伝統的に悪魔の武器であった「Pech（コールタール）」と「Schwefel（硫黄）」がここではメフィストフェレス自身を苦しめる：加害者が自らの武器によって苦しめられるという逆転が、この場面全体を貫く論理として予告される。ダンテ「地獄篇」第3歌での地獄の入口の混沌とした叫びとの照応。",
+            "targetId": "dante_inferno_canto_3"
+        },
+        {
+            "paragraphId": 5,
+            "type": "glossary",
+            "anchor": "Liebe nur Liebende\nFühret herein!",
+            "body": "「愛する者だけを、愛が引き入れる（Liebe nur Liebende / Führet herein）！」──天使合唱の最終格言として場面全体の神学的核心を定式化する二行。「Liebe nur Liebende Führet herein（愛は愛する者のみを引き入れる）」という命題が、愛を経験する能力の条件として「すでに愛していること」を提示する循環的論理：神的愛は愛に開かれた者のみが受け取れる。しかしこの格言が発せられた直後にメフィストフェレスが天使に誘惑されるという逆説が成立する：たとえ「愛する者でない」悪魔ですら天上の美の前で完全に無関心ではいられない、という普遍的な愛の力が示される。ヒエロニムス訳ヨハネ第1書簡4:8「Deus caritas est（神は愛である）」という命題の詩劇的変奏として：愛が神であるなら、愛に触れることはそれが悪魔にとってであれ神的経験への接近を意味する。ダンテ『天国篇』第33歌最終行「l'amor che move il sole e l'altre stelle（太陽と他の星々を動かす愛）」という愛の宇宙論的原動力との照応。",
+            "targetId": "dante_paradiso_canto_33"
+        },
+        {
+            "paragraphId": 6,
+            "type": "commentary",
+            "anchor": "Mir brennt der Kopf, das Herz, die Leber brennt,\nEin überteuflisch Element!\nWeit spitziger als Höllenfeuer!",
+            "body": "「頭が燃える、心が燃える、肝臓が燃える──超悪魔的な元素だ（Mir brennt der Kopf, das Herz, die Leber brennt, / Ein überteuflisch Element）！」──メフィストフェレスの誘惑体験の医学的・詩的頂点。「頭（Kopf）」「心（Herz）」「肝臓（Leber）」という三つの臓器が順番に燃えるという描写が、古代ギリシア医学・ガレノス医学における情念の解剖学的配置──肝臓は情熱と欲望の座とされた（ゲーテの『色彩論』でも肝臓が感情の中心として言及される）──を詩劇的に活用する。「Ein überteuflisch Element（超悪魔的な元素）！」という表現が概念的核心を提示する：悪魔の本質（超自然的・infernalな存在）を超える「超悪魔的（überteuflisch）」な力として天上の愛が定義される。「heimlich-kätzchenhaft begierlich（ひそかに猫のごとく欲しがって）」──ゲーテの詩劇全体で最も特異な複合形容詞の一つ：「ひそかに（heimlich）」という自己欺瞞を含む副詞と「猫のごとく（kätzchenhaft）」という動物的な本能的欲望と「欲しがる（begierlich）」という能動的欲求が三重に結合される。「Seyd ihr nicht auch von Lucifers Geschlecht?（お前たちもルシファーの血族ではないのか）？」──自己欺瞞の頂点として、天使をルシファーの子孫に見立てることで自分の欲望を正当化しようとする。",
+            "targetId": "hieronymus_iob_1"
+        },
+        {
+            "paragraphId": 7,
+            "type": "prosody",
+            "anchor": "Wir kommen schon, warum weichst du zurück?\nWir nähern uns und wenn du kannst so bleib.",
+            "body": "「もう来ているのに、なぜ引き下がるのか？私たちは近づく、できるなら留まっているがよい（Wir kommen schon, warum weichst du zurück? / Wir nähern uns und wenn du kannst so bleib）」──埋葬場面全体の構造的転換点をなす二行。「Wir kommen schon（もう来ている）」──天使がこちらから近づくという空間的反転が「meiner Stelle（自分の持ち場）」に留まろうとするメフィストフェレスへの挑戦として機能する。「wenn du kannst so bleib（できるなら留まっているがよい）」という条件法が彼の「留まる能力」そのものを疑問に付す：天使の近接を前に「留まること（bleiben）」が不可能になる。舞台指示「Die Engel nehmen, umherziehend, den ganzen Raum ein（天使たちが回りながら空間全体を占有する）」がこの二行の詩的予告を物理的・演劇的に実現する：神的愛は「全空間（der ganze Raum）」を占有する──悪魔に隠れる余地を残さない。この二行の簡潔さが前後の長大なメフィスト独白と対比をなし、天使の言語の経済性（少ない言葉で最大の効果）対悪魔の言語の過剰さ（多い言葉で混乱）という詩学的対照を形成する。"
+        },
+        {
+            "paragraphId": 8,
+            "type": "commentary",
+            "anchor": "Von hinten anzusehen! –\nDie Racker sind doch gar zu appetitlich! –",
+            "body": "「振り向いた──後ろ姿を見ると！──悪ガキたちはあまりにも食欲をそそる！（Sie wenden sich – Von hinten anzusehen! – / Die Racker sind doch gar zu appetitlich）！──」──詩劇全体で最も意図的に不謹慎な笑いを誘う瞬間であり、同時に詩劇の最大の逆説的構造の頂点。「Von hinten anzusehen!（後ろ姿を見ると）」という卑俗な性的視線が、第4段落での「stürzen ärschlings in die Hölle（お尻から地獄へ落ちる）」という悪魔たちの墜落と語彙的・視覚的に呼応する：「ärschlings（お尻から）」と「von hinten（後ろから）」の連鎖が場面全体の「逆転」というライトモチーフを体現する。「Die Pfaffenmiene will dich gar nicht kleiden（司祭顔はお前にまったく似合わない）」──天使に向かって「もっと色っぽく見てくれ（sieh' mich doch ein wenig lüstern an）」と迫るメフィストフェレスが、皮肉にも「聖なる（heilig）」面持ちの天使に「聖職者的な表情は似合わない」と批評する──悪魔が天使に「世俗化（weltlicher）」を求めるという究極の逆転。この精神的圧倒がファウストの魂を奪われる状況を作り出す：メフィストフェレスが天使に夢中になっている間に、次の合唱が魂を持ち去る準備をするのである。コヘレト第9章「人は自分の時を知らない──罠に掛かる魚のように」という格言的宿命論が、「最も賢い悪魔」に適用される。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 9
+        },
+        {
+            "paragraphId": 9,
+            "type": "commentary",
+            "anchor": "Die sich verdammen\nHeile die Wahrheit;",
+            "body": "「みずから呪われるものを真理が癒せ──万有の合一の中で祝福されるために（Die sich verdammen / Heile die Wahrheit; / Um in dem Allverein / Selig zu seyn）」──天使の浄化の歌が「みずから呪われるもの（Die sich verdammen）」へと向けられる両義的な命題。この「Die sich verdammen」という表現は、直前まで「天使のお尻を覗いていた」メフィストフェレス自身へも暗示的に適用されうる──天使たちの歌は一般的な罪人への呼びかけであると同時に、その場にいる唯一の「みずから呪われた者」たるメフィストへの神学的招待として機能する逆説。「Allverein（万有の合一）」──ゲーテが使う汎神論的用語で、個別的存在が普遍的全体へと統合される状態を指す：ゲーテのスピノザ的自然神学の詩劇的表現。「Heile die Wahrheit（真理が癒せ）」という命令形が、ヴェイユ「Accepter le vide」での「恩寵は空虚がある場所にのみ入れる」という命題と照応する：「真理（Wahrheit）」が「癒す（heilen）」ためには「呪われ状態（verdammt sein）」という空虚が前提条件となる。",
+            "targetId": "weil_accepter_le_vide"
+        },
+        {
+            "paragraphId": 10,
+            "type": "commentary",
+            "anchor": "Wie wird mir! – Hiobsartig, Beul' an Beule\nDer ganze Kerl, dem's vor sich selber graut,",
+            "body": "「ヨブのように、腫瘍だらけ──奴自身が恐ろしくなる、あの野郎全体が（Wie wird mir! – Hiobsartig, Beul' an Beule / Der ganze Kerl, dem's vor sich selber graut）」──この場面全体を通じて最も神学的に重要な二行。「Hiobsartig（ヨブのように）」という一語がヒエロニムス訳ヨブ記との直接的な照応を作る：ヨブ記第2章v.7「percussit Iob ulcere pessimo a planta pedis usque ad verticem eius（サタンはヨブを足の裏から頭頂まで悪性の腫瘍で打った）」において、サタン自身がヨブを「腫瘍（ulcere / Beule）」で苦しめた。ここではその構造が完全に逆転する：かつてヨブを試練に陥れた「サタン的存在」としてのメフィストフェレスが、天使への愛という試練によって自らが「Beul' an Beule（腫瘍だらけ）」の状態に陥る。「Gerettet sind die edlen Teufelstheile（気高い悪魔の部分は救われた）」という自嘲的な宣言が、ゲーテ詩劇全体の「gerettet（救われた）」という語の最後の反響として機能する：第一部「牢獄」での「Ist gerettet!（救われた！）」という天上の声がグレートヒェンの救済を宣告したが、ここでは「edlen Teufelstheile（気高い悪魔の部分）」という自己言及的な皮肉をもって「悪魔的な意味での救済（愛の呪縛からの解放）」が宣告される。「Der Liebespuk er wirft sich auf die Haut（愛の妖怪が皮膚に飛びつく）」──愛の体験を皮膚上の外部的・寄生的存在として描写することが、ヴェイユ的な「affliction（苦悩）が外部から来る」という命題を逆説的に悪魔の視点から体現する。",
+            "targetId": "hieronymus_iob_1",
+            "targetParagraphId": 2
+        },
+        {
+            "paragraphId": 11,
+            "type": "intertextual",
+            "anchor": "Luft ist gereinigt,\nAthme der Geist!",
+            "body": "「空気は浄化された、霊よ、呼吸せよ（Luft ist gereinigt, / Athme der Geist）！」──舞台指示「Faustens Unsterbliches entführend（ファウストの不滅なるものを持ち去りながら）」を伴うこの八行が、詩劇第一部「牢獄」での「Ist gerettet!（救われた！）」という天上の声の最終的・詩劇的実現として機能する。「Luft ist gereinigt（空気は浄化された）」──「Luft（空気）」と「Geist（霊・精神）」のゲルマン語的・ラテン語的連関が創世記第2章v.7「insufflavit in faciem eius spiraculum vitae（神は彼の顔に命の息吹を吹き込んだ）」への参照として機能する：神が最初にアダムに吹き込んだ「息吹（spiraculum）」が、ここでは「浄化された空気（gereinigte Luft）」として「霊（Geist）が呼吸する」環境として再来する。「Faustens Unsterbliches（ファウストの不滅なるもの）」という舞台指示の語が「Seele（魂）」ではなく「Unsterbliches（不滅なるもの）」と表現されることが神学的に重要：ゲーテはキリスト教的「魂の不死」ではなく、人格を超えた普遍的な「不滅性（Unsterblichkeit）」の概念によって救済を定式化する。「Alle vereinigt / Hebt euch und preis't（皆、一緒に高く上がって讃えよ）」──前の場面での「Allverein（万有の合一）」への個別魂の合流として機能する。",
+            "targetId": "goethe_faust_kerker_4574",
+            "targetParagraphId": 13
+        },
+        {
+            "paragraphId": 12,
+            "type": "commentary",
+            "anchor": "Gemein Gelüst, absurde Liebschaft wandelt\nDen ausgepichten Teufel an.\nUnd hat mit diesem kindisch-tollen Ding\nDer Klugerfahrne sich beschäftigt,\nSo ist fürwahr die Thorheit nicht gering\nDie seiner sich am Schluß bemächtigt.",
+            "body": "「気高い魂が私に誓ってくれていたのに、奴らはそれを巧妙に掠め取ってしまった（Die hohe Seele die sich mir verpfändet / Die haben sie mir pfiffig weggepascht）」──詩劇全体の賭けを締めくくる最大の喜劇的・悲劇的自己批判独白。「pfiffig weggepascht（巧妙に掠め取る）」はゲーテの方言的造語で、「pfiffig（賢く・狡猾に）」と「wegnaschen/wegpatschen（こっそり奪う）」の複合：天使たちに「子供のような（kindisches）」能力しかないと侮っていたメフィストフェレスが、その「子供のような連中（Unmündiges Volk）」に出し抜かれる。「Gemein Gelüst, absurde Liebschaft wandelt / Den ausgepichten Teufel an（下卑た欲望、馬鹿げた恋愛が、歴戦の老悪魔に取り憑く）」──「ausgepichten Teufel（コールタールで防水加工された悪魔）」という複合表現が「あらゆる誘惑に対して耐性を持つ」はずの百戦錬磨の悪魔を比喩する：それが「Gemein Gelüst（下卑た欲望）」と「absurde Liebschaft（馬鹿げた恋愛）」によって侵食される。「Die Thorheit nicht gering / Die seiner sich am Schluß bemächtigt（最後に彼を支配した愚かさも馬鹿にならない）」という自嘲的結語が、コヘレト第1章v.15「Perversi difficile corriguntur, et stultorum infinitus est numerus（愚か者の数は無限である）」という命題の悪魔的自己適用として機能する：詩劇全体を通じて人間を「愚か者（Tor）」と見なし続けたメフィストフェレスが、自らが「Thorheit（愚かさ）」に支配されたことを認める。",
+            "targetId": "hieronymus_ecclesiastes_1",
+            "targetParagraphId": 15
+        }
+    ]
+}
