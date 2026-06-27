@@ -114,21 +114,24 @@
             "type": "glossary",
             "anchor": "Freudig empfangen wir\nDiesen im Puppenstand;\nAlso erlangen wir\nEnglisches Unterpfand.",
             "body": "「喜んで私たちはこの者を蛹の状態で受け取る──そのようにして私たちは天使的な抵当を得る（Freudig empfangen wir / Diesen im Puppenstand; / Also erlangen wir / Englisches Unterpfand）」──「幸いなる少年たち（Selige Knaben）」による受取の宣言が詩劇全体で最も印象的な生物学的比喩を展開する。「Puppenstand（蛹の状態）」──「Puppe（人形・蛹）」という語がドイツ語で「蝶の蛹（Chrysalis/Puppe）」を意味し、ファウストの魂が死後も変態途上にあることを定義する：蛹は幼虫でも成虫（蝶）でもない中間的変態状態であり、ファウストの魂は「地上的存在（Raupe/幼虫）」から「天使的存在（Schmetterling/蝶）」への途上にある。「Englisches Unterpfand（天使的な抵当・担保）」──「Unterpfand（担保・抵当）」という法的・経済的語彙が、第一部での「血の契約（blutgeschriebner Titel）」というメフィストの法的主張と対称的に使われる：悪魔の血の担保に対して、天使の「英語的（englisch＝天使的）な担保」が対置される。「Löset die Flocken los / Die ihn umgeben, / Schon ist er schön und groß / Von heiligem Leben（彼を取り巻く繊維を解き放て、すでに彼は聖なる生命によって美しく偉大だ）」──「Flocken（繊維・綿毛）」という語が「繭（Kokon）」の繊維を暗示し、蛹の殻（地上的残滓）が解き放たれることで魂の変態（Verwandlung）が完了する過程として。ヴェイユ「Décréation（脱創造）」の「被創造物から非被創造物へ」の転換が、ここでは蝶の変態という生物学的比喩によって詩劇的に体現される。",
-            "targetId": "weil_decreation"
+            "targetId": "weil_decreation",
+            "targetParagraphId": null
         },
         {
             "paragraphId": 6,
             "type": "intertextual",
             "anchor": "Die Herrliche mitteninn\nIm Sternenkranze,\nDie Himmelskönigin,\nIch seh's am Glanze.",
             "body": "「ここは見晴らしが自由で、精神は昂揚している。あそこに女性たちが通り過ぎていく、上へと漂いながら──輝かしい方が中心に、星の冠の中に、天の女王を、私はその輝きで見る（Hier ist die Aussicht frei, / Der Geist erhoben. / Dort ziehen Frau'n vorbei, / Schwebend nach oben; / Die Herrliche mitteninn / Im Sternenkranze, / Die Himmelskönigin, / Ich seh's am Glanze）」──「マリアの博士（Doctor Marianus）」が「最も高く、最も清らかな独房（höchsten, reinlichsten Zelle）」から天上の女性たちの行列と聖母マリアを幻視する場面。「Doctor Marianus」の称号はフランシスコ会の「無原罪の宿りの博士」に由来し、ゲーテが創造した架空の人物として詩劇終幕のマリア神学の証人として機能する。「Die Herrliche mitteninn / Im Sternenkranze（輝かしい方が中心に、星の冠の中に）」──ヒエロニムス訳ヨハネの黙示録第12章v.1「mulier amicta sole et luna sub pedibus eius, et in capite eius corona stellarum duodecim（太陽をまとい、月を足の下に持ち、頭に十二の星の冠を持つ女）」への直接の参照として：「Sternenkranz（星の冠）」が黙示録第12章の「女」のイメージをマリア図像学的に確定する。「Ich seh's am Glanze（私はその輝きで見る）」──「am Glanze（輝きによって）」という前置詞的表現が直接視ではなく「輝きという媒体（Medium）を通じた間接的視認」として機能する：ファウスト「日の出」での「Am farbigen Abglanz haben wir das Leben（彩りある反照の中に私たちは生命を持つ）」という認識論と照応する──神的な光は直視できず、媒体（Abglanz/Glanz）によってのみ知覚できる。",
-            "targetId": "hieronymus_apocalypsis_12"
+            "targetId": "hieronymus_apocalypsis_12",
+            "targetParagraphId": 1
         },
         {
             "paragraphId": 7,
             "type": "commentary",
             "anchor": "Jungfrau, rein im schönsten Sinn,\nMutter, Ehren würdig,\nUns erwählte Königin,\nGöttern ebenbürtig.",
             "body": "「世界の最高の女王よ！青く広がる天空の幕の中で、あなたの神秘を見ることを許してください（Höchste Herrscherin der Welt! / Lasse mich, im blauen, / Ausgespannten Himmelszelt / Dein Geheimniß schauen）」──マリアへの直接の呼びかけとして詩劇最終部分の神学的頂点を形成する。「Dein Geheimniß schauen（あなたの神秘を見る）」──「Geheimniß（秘密・神秘）」という語がキリスト教神学における「Mysterium（神秘）」の訳語として機能し、マリアの「Unbefleckte Empfängnis（無原罪の宿り）」という神学的神秘への参照として読める。「Jungfrau, rein im schönsten Sinn, / Mutter, Ehren würdig, / Uns erwählte Königin, / Göttern ebenbürtig（処女よ、最も美しい意味で純粋な、母よ、崇敬に値する、私たちに選ばれた女王よ、神々と等しき者よ）」──四つのマリア的称号の定式：①処女（Jungfrau）②母（Mutter）③女王（Königin）④神々と等しき者（Göttern ebenbürtig）。四番目の称号「Göttern ebenbürtig（神々と等しい）」がキリスト教的でありながら同時にギリシア的・汎神論的な色彩を持つ：マリアを「神々（Göttern）」と同等に位置づけるゲーテの異教的・人文主義的なマリア観。典礼文「Ave Maria（アヴェ・マリア）」の「gratia plena（恩寵に満ちた）」という称号への照応として：典礼的マリア賛歌の詩劇的変換として機能する。「Unbezwinglich unser Muth / Wenn du hehr gebietest, / Plötzlich mildert sich die Gluth / Wie du uns befriedest（あなたが高貴に命ずる時、私たちの勇気は征服不可能となり、お前が私たちを和解させる時、炎は突然和らぐ）」──マリアを倫理的・感情的な変容の触媒として定義する：彼女の命令（Gebot）が勇気を不滅にし、彼女の和解（Befriedung）が情熱の炎を和らげる。",
-            "targetId": "liturgy_ave_maria"
+            "targetId": "liturgy_ave_maria",
+            "targetParagraphId": 1
         },
         {
             "paragraphId": 8,
