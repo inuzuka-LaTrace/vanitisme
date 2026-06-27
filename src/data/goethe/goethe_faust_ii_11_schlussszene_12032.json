@@ -1,28 +1,14 @@
-import json
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
     "id": "goethe_faust_ii_schlussszene_12032",
     "title": "Faust - Zweiter Teil: Schlußszene (v.12032-12111)",
     "author": "Johann Wolfgang von Goethe",
-    "source": "Faust - Der Trag\u00f6die zweiter Teil, F\u00fcnfter Act, Bergschluchten, v.12032-12111. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
+    "source": "Faust - Der Tragödie zweiter Teil, Fünfter Act, Bergschluchten, v.12032-12111. Wikisource: https://de.wikisource.org/wiki/Faust_-_Der_Trag%C3%B6die_zweiter_Teil",
     "year": "1832",
-    "firstPublication": "1832\uff08Faust. Der Trag\u00f6die zweiter Teil in f\u00fcnf Acten, Cotta Verlag, Stuttgart und T\u00fcbingen\uff09",
-    "difficulty": "\u4e0a\u7d1a",
+    "firstPublication": "1832（Faust. Der Tragödie zweiter Teil in fünf Acten, Cotta Verlag, Stuttgart und Tübingen）",
+    "difficulty": "上級",
     "category": "goethe",
     "originalLang": "de-DE",
-    "modernRelevance": "\u2605\u2605\u2605\u2605\u2605",
+    "modernRelevance": "★★★★★",
     "context": "ゲーテ『ファウスト』第二部第五幕「山の渓谷（Bergschluchten）」終幕部（v.12032–12111）。詩劇全800年の物語──第一部書斎での魂の賭けから始まり、グレートヒェンの破局・ヘレナの消滅・ファウストの盲目の死・埋葬場面での魂の救済──がここに完結する。\n場面は六人の発言者によって構成される。三人の聖書的・聖人伝的「大罪人（Magna peccatrix, Mulier Samaritana, Maria Aegyptiaca）」がそれぞれの改悛の根拠（「Bei...」という連祷形式）をもってマリアに嘆願し、三人合唱（Zu drey）がグレートヒェンへの赦しを求める。次いでグレートヒェンが「Una Poenitentium（一人の懺悔女、別名グレートヒェン）」として登場し、「早くに愛された方が帰ってくる（Der früh Geliebte...Er kommt zurück）」とファウストの魂の帰還を宣告する。「幸いなる少年たち（Selige Knaben）」がファウストの急速な霊的成長を観察し、グレートヒェンが再び「Die eine Büßerin（同じ懺悔女）」として「まだ彼は新しい日に眩まされている（Noch blendet ihn der neue Tag）」と述べて彼の教師となることを申し出る。「光栄の聖母（Mater gloriosa）」が「来い！より高い圏域へと自らを高めよ（Komm! hebe dich zu höhern Sphären）」と命じ、「マリアの博士（Doctor Marianus）」が最後の「女神よ（Göttin）」を付加した四重称号のマリア讃歌を捧げる。詩劇全体を締め括る「神秘の合唱（Chorus mysticus）」の八行（v.12104–12111）と「Finis（終わり）」でテキストが閉じる。\n「Chorus mysticus」の八行は西洋文学史上最も広く引用・解釈された詩節の一つであり、ゲーテの哲学的集大成として機能する。「Alles Vergängliche / Ist nur ein Gleichniß（すべての過ぎ去るものは単なる比喩に過ぎない）」という冒頭命題はヒエロニムス訳コヘレト第1章v.2「vanitas vanitatum, omnia vanitas（虚無の虚無、すべては虚無）」を直接的な対話相手として想定でき、「虚無（vanitas）」を「比喩（Gleichniß）」へと転換する：コヘレトが「すべては虚無」と断じたものを、ゲーテは「永遠を指示する比喩・記号」として救済する。この転換がVANITISME（「虚無（vanitas）」の詩学・実践）全体の哲学的立場を最も明確に定義する瞬間でもある。\n「Das Ewig-Weibliche / Zieht uns hinan（永遠に女性的なるもの、私たちを上へと引き上げる）」という結語は、グレートヒェン・ヘレナ・懺悔女たちという詩劇の女性的形象を統合するとともに、ダンテ『天国篇』最終行「l'amor che move il sole e l'altre stelle（太陽と他の星々を動かす愛）」と詩史的に対応する：愛の宇宙論的原動力がダンテでは「神的愛（amor divino）」として、ゲーテでは「永遠に女性的なるもの（Ewig-Weibliches）」という女性的・創造的原理として定式化される。",
     "keywords": [
         "Chor der Büßerinnen",
@@ -49,118 +35,55 @@ import json
         "dante_paradiso_canto_33"
     ],
     "paragraphs": [
-        {"id": 1, "verses": "v.12032-12036", "speaker": "Chor der B\u00fc\u00dferinnen",
-         "original": "Du schwebst zu Höhen
-Der ewigen Reiche,
-Vernimm das Flehen
-Du Ohnegleiche!
-Du Gnadenreiche!",
-         "provisionalTranslation": "\u304a\u524d\u306f\u6c38\u9060\u306e\u738b\u56fd\u306e\n\u9ad8\u307f\u3078\u3068\u6f42\u3063\u3066\u3044\u308b\u3001\n\u6098\u9858\u3092\u805e\u3044\u3066\u304f\u3060\u3055\u3044\n\u985e\u306a\u304d\u65b9\u3088\uff01\n\u6073\u5b0f\u306b\u6e80\u3061\u305f\u65b9\u3088\uff01"},
-        {"id": 2, "verses": "v.12037-12044", "speaker": "Magna peccatrix",
-         "original": "Bei der Liebe, die den Füßen
-Deines gottverklärten Sohnes
-Thränen ließ zum Balsam fließen,
-Trotz des Pharisäer-Hohnes;
-Beim Gefäße das so reichlich
-Tropfte Wohlgeruch hernieder;
-Bei den Locken die so weichlich
-Trockneten die heiligen Glieder –""",
-         "provisionalTranslation": "\u795e\u306b\u3088\u3063\u3066\u5909\u5bb9\u3055\u308c\u305f\u305d\u306e\u5b50\u306e\u8db3\u306b\u3001\n\u611b\u304c\u6d99\u3092\u9999\u6cb9\u3068\u3057\u3066\u6d41\u3055\u305b\u305f\u3001\n\u30d1\u30ea\u30b5\u30a4\u4eba\u306e\u50f2\u8f71\u306b\u3082\u304b\u304b\u308f\u3089\u305a\uff1b\n\u3053\u3093\u306b\u3082\u8c4a\u304b\u306b\n\u8fba\u308a\u4e00\u9762\u306b\u9999\u308a\u3092\u6ef4\u3089\u305b\u305f\u58fa\u306e\u3082\u3068\u3067\uff1b\n\u8056\u306a\u308b\u659c\u4f53\u3092\n\u67e5\u306a\u3084\u304b\u306b\u62ed\u3044\u305f\u9aea\u306e\u3082\u3068\u3067\u2015\u2015"},
+        {"id": 1, "verses": "v.12032-12036", "speaker": "Chor der Büßerinnen",
+         "original": "Du schwebst zu Höhen\nDer ewigen Reiche,\nVernimm das Flehen\nDu Ohnegleiche!\nDu Gnadenreiche!",
+         "provisionalTranslation": "お前は永遠の王国の\n高みへと潂っている、\n悘願を聞いてください\n類なき方よ！\n恳嬏に満ちた方よ！"
+        },
+        {
+            "id": 2, "verses": "v.12037-12044", "speaker": "Magna peccatrix",
+         "original": "Bei der Liebe, die den Füßen\nDeines gottverklärten Sohnes\nThränen ließ zum Balsam fließen,\nTrotz des Pharisäer-Hohnes;\nBeim Gefäße das so reichlich\nTropfte Wohlgeruch hernieder;\nBei den Locken die so weichlich\nTrockneten die heiligen Glieder –",
+         "provisionalTranslation": "愛が\n神によって変容されたその子の足に、\n涙を香油として流させた、\nパリサイ人の僲轱にもかかわらず；\nこんなにも豊かに\n辺り一面に香りを滴らせた壺のもとで；\n聖なる斜体を\n查なやかに拭いた髪のもとで──"},
         {"id": 3, "verses": "v.12045-12052", "speaker": "Mulier Samaritana",
-         "original": p3 = """Bei dem Bronn, zu dem schon weiland
-Abram ließ die Heerde führen;
-Bei dem Eimer, der dem Heiland
-Kühl die Lippe durft berühren;
-Bei der reinen reichen Quelle,
-Die nun dorther sich ergießet,
-Ueberflüssig, ewig helle,
-Rings durch alle Welten fließet –""",
-         "provisionalTranslation": "\u304b\u3064\u3066\u30a2\u30d6\u30e9\u30cf\u30e0\u304c\n\u7fa4\u308c\u3092\u5c0e\u3044\u3066\u6765\u305f\u305d\u306e\u6cc9\u306e\u3082\u3068\u3067\uff1b\n\u6551\u3044\u4e3b\u306e\u5507\u306b\n\u6dbc\u3057\u304f\u89e6\u308c\u308b\u3053\u3068\u306e\u3067\u304d\u305f\u6876\u306e\u3082\u3068\u3067\uff1b\n\u305d\u3053\u304b\u3089\u4eca\u3084\u6e90\u3073\u307e\u304f\u3001\n\u6e05\u3089\u304b\u3067\u8c4a\u304b\u306a\u6e0f\u6c602\u306e\u3082\u3068\u3067\u3001\n\u3042\u3075\u308c\u3001\u6c38\u9060\u306b\u8f1d\u304f\u3001\n\u3059\u3079\u3066\u306e\u4e16\u754c\u3092\u901a\u3063\u3066\u6d41\u308c\u308b\u2015\u2015"},
+         "original": "Bei dem Bronn, zu dem schon weiland\nAbram ließ die Heerde führen;\nBei dem Eimer, der dem Heiland\nKühl die Lippe durft berühren;\nBei der reinen reichen Quelle,\nDie nun dorther sich ergießet,\nUeberflüssig, ewig helle,\nRings durch alle Welten fließet –",
+         "provisionalTranslation": "かつてアブラハムが\n群れを導いて来たその泉のもとで；\n救い主の唇に\n涼しく触れることのできた桶のもとで；\nそこから今や源びまく、\n清らかで豊かな渏池のもとで、\nあふれ、永遠に輝く、\nすべての世界を通って流れる──"},
         {"id": 4, "verses": "v.12053-12060", "speaker": "Maria Aegyptiaca",
-         "original": p4 = """Bei dem hochgeweihten Orte,
-Wo den Herrn man niederließ;
-Bei dem Arm, der von der Pforte
-Warnend mich zurücke stieß;
-Bei der vierzigjährigen Buße,
-Der ich treu in Wüsten blieb;
-Bei dem seligen Scheidegruße,
-Den im Sand ich niederschrieb –""",
-         "provisionalTranslation": "\u305d\u306e\u8056\u306a\u308b\u5834\u6240\u306e\u3082\u3068\u3067\u3001\n\u4e3b\u304c\u305d\u3053\u306b\u6a2a\u305f\u3048\u3089\u308c\u305f\u5834\u6240\uff1b\n\u6247\u304b\u3089\u8b66\u544a\u3068\u3057\u3066\n\u79c1\u3092\u506f\u3067\u6307\u3057\u8fd4\u3057\u305f\u8155\u306e\u3082\u3068\u3067\uff1b\n\u56db\u5341\u5e74\u306e\u8d54\u7f6a\u306e\u3082\u3068\u3067\u3001\n\u5c65\u5e03\u306b\u5fe0\u5b9f\u3067\u3042\u308a\u7d9a\u3051\u305f\uff1b\n\u798f\u306a\u308b\u5225\u308c\u306e\u8a00\u8449\u306e\u3082\u3068\u3067\u3001\n\u784f\u306e\u4e2d\u306b\u79c1\u304c\u66f8\u304d\u8a18\u3057\u305f\u2015\u2015"},
+         "original": "Bei dem hochgeweihten Orte,\nWo den Herrn man niederließ;\nBei dem Arm, der von der Pforte\nWarnend mich zurücke stieß;\nBei der vierzigjährigen Buße,\nDer ich treu in Wüsten blieb;\nBei dem seligen Scheidegruße,\nDen im Sand ich niederschrieb –",
+         "provisionalTranslation": "その聖なる場所のもとで、\n主がそこに横たえられた場所；\n扇から警告として\n私を偯で指し返した腕のもとで；\n四十年の赔罪のもとで、\n履布に忠実であり続けた；\n福なる別れの言葉のもとで、\n硏の中に私が書き記した──"},
         {"id": 5, "verses": "v.12061-12068", "speaker": "Zu drey",
-         "original":"Die du großen Sünderinnen
-Deine Nähe nicht verweigerst,
-Und ein büßendes Gewinnen
-In die Ewigkeiten steigerst,
-Gönn' auch dieser guten Seele,
-Die sich einmal nur vergessen,
-Die nicht ahnte daß sie fehle,
-Dein Verzeihen angemessen!",
-         "provisionalTranslation": "\u5049\u5927\u306a\u7f6a\u4eba\u306e\u5973\u305f\u3061\u306b\n\u304a\u524d\u306f\u305d\u306e\u8fd1\u3055\u3092\u62d2\u307e\u305a\u3001\n\u61fa\u6094\u306b\u3088\u308b\u5229\u76ca\u3092\n\u6c38\u9060\u306e\u4e16\u754c\u3078\u3068\u9ad8\u3081\u308b\u8005\u3088\u3001\n\u3053\u306e\u5584\u304d\u9b42\u306b\u3082\n\u2015\u2015\u4e00\u5ea6\u3060\u3051\u81ea\u5206\u3092\u5fd8\u308c\u305f\u3001\n\u81ea\u5206\u304c\u904e\u3061\u3092\u72af\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u77e5\u3089\u306a\u304b\u3063\u305f\u8005\u306b\n\u3053\u3068\u306b\u3088\u308b\u306f\u304a\u524d\u306e\u8d66\u3057\u3092\uff01"},
+         "original":"Die du großen Sünderinnen\nDeine Nähe nicht verweigerst,\nUnd ein büßendes Gewinnen\nIn die Ewigkeiten steigerst,\nGönn' auch dieser guten Seele,\nDie sich einmal nur vergessen,\nDie nicht ahnte daß sie fehle,\nDein Verzeihen angemessen!",
+         "provisionalTranslation": "偉大な罪人の女たちに\nお前はその近さを拒まず、\n懺悔による利益を\n永遠の世界へと高める者よ、\nこの善き魂にも──\n一度だけ自分を忘れた、\n自分が過ちを犯していることを知らなかった者に\nことによるはお前の赦しを！"},
         {"id": 6, "verses": "v.12069-12075",
          "speaker": "Una Poenitentium (sonst Gretchen genannt)",
-         "original":"Neige, neige
-Du Ohnegleiche,
-Du Strahlenreiche,
-Dein Antlitz gnädig meinem Glück!
-Der früh Geliebte,
-Nicht mehr Getrübte,
-Er kommt zurück.",
-         "provisionalTranslation": "\u304a\u5291\u304e\u304f\u3060\u3055\u3044\u3001\u304a\u5291\u304e\u304f\u3060\u3055\u3044\n\u985e\u306a\u304d\u65b9\u3088\u3001\n\u8f1d\u304d\u306b\u6e80\u3061\u305f\u65b9\u3088\u3001\n\u3042\u306a\u305f\u306e\u304a\u9854\u3092\u79c1\u306e\u5e78\u305b\u306b\u6073\u5b0f\u6df1\u304f\u5411\u3051\u3066\uff01\n\u65e9\u304f\u306b\u611b\u3055\u308c\u305f\u65b9\u304c\u3001\n\u3082\u306f\u3084\u6687\u308a\u306e\u306a\u3044\u65b9\u304c\u3001\n\u5e30\u3063\u3066\u304f\u308b\u3002"},
+         "original":"Neige, neige\nDu Ohnegleiche,\nDu Strahlenreiche,\nDein Antlitz gnädig meinem Glück!\nDer früh Geliebte,\nNicht mehr Getrübte,\nEr kommt zurück.",
+         "provisionalTranslation": "お劑ぎください、お劑ぎください\n類なき方よ、\n輝きに満ちた方よ、\nあなたのお顔を私の幸せに恳嬏深く向けて！\n早くに愛された方が、\nもはや暇りのない方が、\n帰ってくる。"},
         {"id": 7, "verses": "v.12076-12083",
          "speaker": "Selige Knaben",
-         "original": p7 = """Er überwächs't uns schon
-An mächtigen Gliedern,
-Wird treuer Pflege Lohn
-Reichlich erwiedern.
-Wir wurden früh entfernt
-Von Lebechören;
-Doch dieser hat gelernt,
-Er wird uns lehren.""",
-         "provisionalTranslation": "\u5f7c\u306f\u3082\u3046\u79c1\u305f\u3061\u3092\n\u529b\u5f37\u3044\u4f53\u683c\u3067\u8ffd\u3044\u8d8a\u3057\u3066\u3044\u308b\u3001\n\u9812\u5b9f\u306a\u4e16\u8a71\u3078\u306e\u5831\u3044\u3092\n\u8c4a\u304b\u306b\u8fd4\u3057\u3066\u304f\u308c\u308b\u306f\u305a\u3060\u3002\n\u79c1\u305f\u3061\u306f\u65e9\u304f\u306b\n\u751f\u547d\u306e\u5408\u5531\u304b\u3089\u9060\u3056\u3051\u3089\u308c\u305f\uff1b\n\u3057\u304b\u3057\u3053\u306e\u65b9\u306f\u5b66\u3093\u3060\u3001\n\u5f7c\u306f\u79c1\u305f\u3061\u3092\u6559\u3048\u3066\u304f\u308c\u308b\u3060\u308d\u3046\u3002"},
+         "original": "Er überwächs't uns schonAn mächtigen Gliedern,\nWird treuer Pflege Lohn\nReichlich erwiedern.\nWir wurden früh entfernt\nVon Lebechören;\nDoch dieser hat gelernt,\nEr wird uns lehren.",
+         "provisionalTranslation": "彼はもう私たちを\n力強い体格で追い越している、\n頒実な世話への報いを\n豊かに返してくれるはずだ。\n私たちは早くに\n生命の合唱から遠ざけられた；\nしかしこの方は学んだ、\n彼は私たちを教えてくれるだろう。"},
         {"id": 8, "verses": "v.12084-12093",
-         "speaker": "Die eine B\u00fc\u00dferin (sonst Gretchen genannt)",
-         "original": p8 = """Vom edlen Geisterchor umgeben,
-Wird sich der Neue kaum gewahr,
-Er ahnet kaum das frische Leben
-So gleicht er schon der heiligen Schaar.
-Sieh wie er jedem Erdenbande
-Der alten Hülle sich entrafft,
-Und aus ätherischem Gewande
-Hervortritt erste Jugendkraft!
-Vergönne mir ihn zu belehren,
-Noch blendet ihn der neue Tag.""",
-         "provisionalTranslation": "\u6c17\u9ad8\u3044\u9748\u305f\u3061\u306e\u5408\u5531\u306b\u56f2\u307e\u308c\u3066\u3001\n\u65b0\u3057\u304d\u8005\u306f\u307b\u3068\u3093\u3069\u6c17\u3065\u304b\u306a\u3044\u3001\n\u65b0\u9bae\u306a\u751f\u547d\u3092\u307b\u3068\u3093\u3069\u611f\u3058\u53d6\u308c\u306a\u3044\u3001\n\u305d\u308c\u307b\u3069\u3059\u3067\u306b\u5f7c\u306f\u8056\u306a\u308b\u7fa4\u308c\u306b\u4f3c\u3066\u3044\u308b\u3002\n\u5f7c\u304c\u3044\u304b\u306b\u3059\u3079\u3066\u306e\u5730\u4e0a\u7684\u306a\u7d46\u5c4b\u304b\u3089\u3001\n\u53e4\u3044\u6bbc\u3092\u81ea\u3089\u5254\u3041\u3067\u3044\u308b\u304b\u3092\u898b\u3088\u3001\n\u305d\u3057\u3066\u30a8\u30fc\u30c6\u30eb\u306e\u8863\u304b\u3089\n\u6700\u521d\u306e\u82e5\u3055\u306e\u529b\u304c\u8e0f\u307f\u51fa\u3066\u304f\u308b\uff01\n\u5f7c\u3092\u6559\u3048\u308b\u3053\u3068\u3092\u8a31\u3057\u3066\u304f\u3060\u3055\u3044\u3001\n\u307e\u3060\u5f7c\u306f\u65b0\u3057\u3044\u65e5\u306b\u77ed\u307e\u3055\u308c\u3066\u3044\u308b\u3002"},
-        {"id": 9, "verses": "v.12094-12095",
+         "speaker": "Die eine Büßerin (sonst Gretchen genannt)",
+         "original": "Vom edlen Geisterchor umgeben,\nWird sich der Neue kaum gewahr,\nEr ahnet kaum das frische Leben\nSo gleicht er schon der heiligen Schaar.\nSieh wie er jedem Erdenbande\nDer alten Hülle sich entrafft,\nUnd aus ätherischem Gewande\nHervortritt erste Jugendkraft!\nVergönne mir ihn zu belehren,\nNoch blendet ihn der neue Tag.",
+         "provisionalTranslation": "気高い霊たちの合唱に囲まれて、\n新しき者はほとんど気づかない、\n新鮮な生命をほとんど感じ取れない、\nそれほどすでに彼は聖なる群れに似ている。\n彼がいかにすべての地上的な絆屋から、\n古い殼を自ら剔ぁでいるかを見よ、\nそしてエーテルの衣からn最初の若さの力が踏み出てくる！\n彼を教えることを許してください、\nまだ彼は新しい日に短まされている。"},
+        {
+            "id": 9, "verses": "v.12094-12095",
          "speaker": "Mater gloriosa",
-         "original":"Komm! hebe dich zu höhern Sphären,
-Wenn er dich ahnet folgt er nach.",
-         "provisionalTranslation": "\u6765\u3044\uff01\u3088\u308a\u9ad8\u3044\u5708\u5706\u3078\u3068\u81ea\u3089\u3092\u9ad8\u3081\u3088\u3001\n\u5f7c\u304c\u304a\u524d\u3092\u611f\u77e5\u3059\u308b\u6642\u3001\u5f7c\u306f\u5f8c\u306b\u7d9a\u304f\u3002"},
-        {"id": 10, "verses": "v.12096-12103",
+         "original":"Komm! hebe dich zu höhern Sphären,\nWenn er dich ahnet folgt er nach.",
+         "provisionalTranslation": "来い！より高い圏域へと自らを高めよ、\n彼がお前を感知する時、彼は後に続く。"},
+        {
+            "id": 10, "verses": "v.12096-12103",
          "speaker": "Doctor Marianus",
-         "original":"Blicket auf zum Retterblick
-Alle reuig Zarten,
-Euch zu seligem Geschick
-Dankend umzuarten.
-Werde jeder bess're Sinn
-Dir zum Dienst erbötig;
-Jungfrau, Mutter, Königin,
-Göttin bleibe gnädig!",
-         "provisionalTranslation": "\u6551\u6e08\u306e\u773a\u5dee\u3057\u3078\u3068\u898b\u4e0a\u3052\u3088\u3001\n\u6094\u3044\u308b\u3059\u3079\u3066\u306e\u7e4a\u7d30\u306a\u8005\u305f\u3061\u3088\u3001\n\u5e78\u3044\u306a\u308b\u904b\u547d\u3078\u3068\n\u611f\u8b1d\u3057\u306a\u304c\u3089\u5909\u5bb9\u3059\u308b\u305f\u3081\u306b\u3002\n\u3088\u308a\u826f\u304d\u5fc3\u5c82\u304c\u305d\u308c\u305e\u308c\n\u304a\u524d\u306e\u5974\u6a5f\u3068\u3057\u3066\u5098\u3076\u3088\u3046\u306b\uff1b\n\u7d20\u5973\u3001\u6bcd\u3001\u5973\u738b\u3001\n\u5973\u795e\u3088\u3001\u6073\u5b0f\u6df1\u304f\u3042\u308a\u7d9a\u3051\u3066\u304f\u3060\u3055\u3044\uff01"},
-        {"id": 11, "verses": "v.12104-12111",
+         "original":"Blicket auf zum Retterblick\nAlle reuig Zarten,\nEuch zu seligem Geschick\nDankend umzuarten.\nWerde jeder bess're Sinn\nDir zum Dienst erbötig;\nJungfrau, Mutter, Königin,\nGöttin bleibe gnädig!",
+         "provisionalTranslation": "救済の眼差しへと見上げよ、\n悔いるすべての繊細な者たちよ、\n幸いなる運命へと\n感謝しながら変容するために。\nより良き心岂がそれぞれ\nお前の奴機として傘ぶように；\n素女、母、女王、\n女神よ、恩寵深くあり続けてください！"},
+        {
+            "id": 11, "verses": "v.12104-12111",
          "speaker": "Chorus mysticus",
-         "original": "Alles Vergängliche
-Ist nur ein Gleichniß;
-Das Unzulängliche
-Hier wird's Ereigniß;
-Das Unbeschreibliche
-Hier ist es gethan;
-Das Ewig-Weibliche
-Zieht uns hinan.",
-         "provisionalTranslation": "\u3059\u3079\u3066\u306e\u904e\u3072\u53bb\u308b\u3082\u306e\u306f\n\u5358\u306a\u308b\u6bd4\u55a9\u306b\u3059\u304e\u306a\u3044\uff1b\n\u4e0d\u5341\u5206\u306a\u3082\u306e\u304c\n\u3053\u3053\u3067\u306f\u51fa\u6765\u4e8b\u3068\u306a\u308b\uff1b\n\u8a00\u8a9e\u3067\u8868\u305b\u306a\u3044\u3082\u306e\u304c\n\u3053\u3053\u3067\u305d\u308c\u306f\u9042\u3052\u3089\u308c\u305f\uff1b\n\u6c38\u9060\u306b\u5973\u6027\u7684\u306a\u308b\u3082\u306e\u304c\n\u79c1\u305f\u3061\u3092\u4e0a\u3078\u3068\u5f15\u304d\u4e0a\u3052\u308b\u3002"},
-        {"id": 12, "verses": "Finis",
+         "original": "Alles Vergängliche\nIst nur ein Gleichniß;\nDas Unzulängliche\nHier wird's Ereigniß;\nDas Unbeschreibliche\nHier ist es gethan;\nDas Ewig-Weibliche\nZieht uns hinan.",
+         "provisionalTranslation": "すべての過ひ去るものは\n単なる比喩にすぎない；\n不十分なものが\nここでは出来事となる；\n言語で表せないものが\nここでそれは遂げられた；\n永遠に女性的なるものが\n私たちを上へと引き上げる。"},
+        {
+            "id": 12, "verses": "Finis",
          "speaker": "",
          "original": "Finis.",
-         "provisionalTranslation": "\u5b8c"}
+         "provisionalTranslation": "完"}
     ],
     "annotations": [
         {
